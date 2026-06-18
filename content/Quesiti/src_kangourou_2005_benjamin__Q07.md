@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2005_benjamin__Q07
+parent: src_kangourou_2005_benjamin
+competition: Kangourou 2005 - Benjamin (marzo)
+family: kangourou
+year: '2005'
+level: kangourou
+country: Italia
+quesito: '7'
+summary: Numero di cioccolatini ripartiti con resto 8
+answer: A
+topics:
+  - topic_aritmetica
+methods:
+  - method_congruenze
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2005
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2005 - Benjamin (marzo) — Quesito 7
+
+*Numero di cioccolatini ripartiti con resto 8*
+
+> Alla festa del mio compleanno eravamo in meno di 10. Ci siamo ripartiti i cioccolatini: ciascuno di noi ne ha avuti 12 e ne sono avanzati 8.
+> Quanti erano i cioccolatini?
+> A) 116
+> B) 108
+> C) 188
+> D) 98
+> E) Non è possibile stabilirlo senza ulteriori informazioni.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** A
+**Fonte:** apri PDF p.2

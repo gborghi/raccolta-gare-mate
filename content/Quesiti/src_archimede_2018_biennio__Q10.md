@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2018_biennio__Q10
+parent: src_archimede_2018_biennio
+competition: Giochi di Archimede 2018 - Biennio (T1)
+family: archimede
+year: '2018'
+level: biennio
+country: Italia
+quesito: '10'
+summary: Minuti d'uso del cellulare durante la ricarica
+answer: B
+topics:
+  - topic_algebra
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2018
+  - livello/biennio
+  - topic/algebra
+---
+
+# Giochi di Archimede 2018 - Biennio (T1) — Quesito 10
+
+*Minuti d'uso del cellulare durante la ricarica*
+
+> Un cellulare con la batteria del tutto scarica deve rimanere in carica 2 ore per
+> ricaricarsi completamente, se nel frattempo non è in uso. Se invece è utilizzato
+> durante la ricarica, la metà dell’energia introdotta viene subito consumata e solo
+> la parte restante si accumula nella batteria. Sapendo che, per ricaricare la batteria
+> da zero, sono servite 2 ore e mezza, stabilire per quanti minuti il cellulare è stato
+> utlizzato durante la ricarica (si suppone, che si usi o meno il telefono, che l’energia
+> immagazzinata in un intervallo di tempo sia proporzionale alla sua durata).
+> (A) 75
+> (B) 60
+> (C) 54
+> (D) 70
+> (E) 72
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** B
+**Fonte:** apri PDF p.2

@@ -1,0 +1,57 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q14
+parent: src_kangourou_2008_ecolier_marzo
+competition: Kangourou 2008 - Ecolier (gara 28 marzo)
+family: kangourou
+year: '2008'
+level: kangourou
+country: Italia
+quesito: '14'
+summary: Massimo mattoncini 1x2x4 in scatola 4x4x4
+answer: C
+topics:
+  - topic_geometria_solida
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2008
+  - livello/kangourou
+  - topic/geometria_solida
+---
+
+# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 14
+
+*Massimo mattoncini 1x2x4 in scatola 4x4x4*
+
+![[src_kangourou_2008_ecolier_marzo__prob14.png]]
+
+> Hai un certo numero di mattoncini di
+> dimensioni 1 cm x 2 cm x 4 cm. Vuoi inserirne
+> il maggior numero possibile in una scatola cubica le cui dimensioni sono 4 cm x 4 cm x 4 cm,
+> in modo che la scatola possa essere chiusa da
+> un coperchio. Quanti mattoncini puoi inserire
+> nella scatola al massimo?
+> A) 6 
+> B) 7
+> C) 8
+> D) 9 
+> E) 10
+> 6
+> 3
+> 2
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_08.qxp  9-03-2008  14:56  Pagina 7
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** C
+**Fonte:** apri PDF p.3

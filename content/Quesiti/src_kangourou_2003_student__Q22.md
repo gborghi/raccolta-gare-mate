@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2003_student__Q22
+parent: src_kangourou_2003_student
+competition: Kangourou 2003 Student (20 marzo)
+family: kangourou
+year: '2003'
+level: kangourou
+country: Italia
+quesito: '22'
+summary: Minimo x intero su circonferenza
+answer: D
+topics:
+  - topic_geometria_analitica
+  - topic_aritmetica
+methods:
+  - method_coordinate
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2003
+  - livello/kangourou
+  - topic/geometria_analitica
+  - topic/aritmetica
+---
+
+# Kangourou 2003 Student (20 marzo) — Quesito 22
+
+*Minimo x intero su circonferenza*
+
+> Un punto  P(x, r) appartiene alla circonferenza di centro (2,2) e raggio r.
+> Sapendo che r > 2 e sia x sia r sono interi positivi, qual è il più piccolo valore
+> possibile per x?
+> A) 1
+> B) 2
+> C) 4
+> D) 6
+> E) 8
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Risposta:** D
+**Fonte:** apri PDF p.4

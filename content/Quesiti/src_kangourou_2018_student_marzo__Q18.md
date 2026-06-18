@@ -1,0 +1,37 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2018_student_marzo__Q18
+parent: src_kangourou_2018_student_marzo
+competition: Kangourou 2018 Gara di Marzo Student
+family: kangourou
+year: '2018'
+level: kangourou
+country: Italia
+quesito: '18'
+summary: Punteggio finale dati 3 pronostici azzeccati su 5
+answer: D
+topics:
+  - topic_logica
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2018
+  - livello/kangourou
+  - topic/logica
+---
+
+# Kangourou 2018 Gara di Marzo Student — Quesito 18
+
+*Punteggio finale dati 3 pronostici azzeccati su 5*
+
+> Prima della partita tra Real Madrid e Manchester United vennero fatti i seguenti 
+> cinque pronostici:
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** apri PDF p.4

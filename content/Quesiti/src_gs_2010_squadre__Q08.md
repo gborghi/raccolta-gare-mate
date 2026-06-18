@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_gs_2010_squadre__Q08
+parent: src_gs_2010_squadre
+competition: Coppa Fermat 2010 - Gara a squadre
+family: archimede
+year: '2010'
+level: squadre
+country: Italia
+quesito: '8'
+summary: Somma resti uguale al resto su 2310 piatti
+answer: '2309'
+topics:
+  - topic_aritmetica
+methods:
+  - method_congruenze
+skills:
+  - skill_astrazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2010
+  - livello/squadre
+  - topic/aritmetica
+---
+
+# Coppa Fermat 2010 - Gara a squadre — Quesito 8
+
+*Somma resti uguale al resto su 2310 piatti*
+
+> **La minestra di ceci** (punti 30)
+> 
+> Slim è molto scaramantico nel preparare la minestra di ceci. Compra i ceci e poi li divide in due piatti, in modo che ce ne siano esattamente lo stesso numero. Dà quelli che avanzano (e solo quelli) al suo pappagallo Fuzz. Poi divide tutti i ceci che ha tenuto equamente in sei piatti, e come prima quelli che avanzano li mangia Fuzz. A questo punto ripete la stessa operazione con trenta piatti, poi con 210 piatti e quindi con 2310 piatti. Considerando che oggi vuole comprarne in modo che il pappagallo possa mangiarne il maggior numero possibile, ma non spendendo più del necessario, quanti ceci deve comprare?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 2309
+**Fonte:** apri PDF p.2

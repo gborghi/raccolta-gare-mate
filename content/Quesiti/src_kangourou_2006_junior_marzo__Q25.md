@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2006_junior_marzo__Q25
+parent: src_kangourou_2006_junior_marzo
+competition: Kangourou 2006 Junior (marzo)
+family: kangourou
+year: '2006'
+level: kangourou
+country: Italia
+quesito: '25'
+summary: Colorazioni del cubo con 6 colori
+answer: B
+topics:
+  - topic_combinatoria
+methods:
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2006
+  - livello/kangourou
+  - topic/combinatoria
+---
+
+# Kangourou 2006 Junior (marzo) — Quesito 25
+
+*Colorazioni del cubo con 6 colori*
+
+> Hai sei diversi colori a disposizione per colorare le sei facce di un
+> cubo: puoi usare un solo colore per faccia e devi usare tutti i colori.
+> Quante diverse colorazioni del cubo sono possibili?  (Due colorazioni
+> si intendono diverse se e solo se non sono ottenibili l'una dall'altra
+> ruotando il cubo.)
+> A) 24
+> B) 30
+> C) 36
+> D) 42
+> E) 48
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** apri PDF p.5

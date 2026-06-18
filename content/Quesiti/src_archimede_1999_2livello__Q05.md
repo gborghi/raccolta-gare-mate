@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_1999_2livello__Q05
+parent: src_archimede_1999_2livello
+competition: Archimede Gara 2º livello 1999
+family: archimede
+year: '1999'
+level: 2 livello
+country: Italia
+quesito: '5'
+summary: Identificare il parente nella relazione familiare di Alberto
+answer: A
+topics:
+  - topic_logica
+skills:
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/1999
+  - livello/2-livello
+  - topic/logica
+---
+
+# Archimede Gara 2º livello 1999 — Quesito 5
+
+*Identificare il parente nella relazione familiare di Alberto*
+
+> Una delle seguenti persone è "zio del fratello della figlia della nuora del padre di Alberto". Si tratta di:
+> 
+> (A) Alberto stesso
+> (B) suo padre
+> (C) suo nonno
+> (D) suo figlio
+> (E) suo suocero.
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** A
+**Fonte:** apri PDF p.2

@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q10
+parent: src_kangourou_2015_marzo_ecolier
+competition: Kangourou 2015 gara 19 marzo Ecolier
+family: kangourou
+year: '2015'
+level: kangourou
+country: Italia
+quesito: '10'
+summary: quante banane date
+answer: B
+topics:
+  - topic_aritmetica
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2015
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2015 gara 19 marzo Ecolier — Quesito 10
+
+*quante banane date*
+
+> Carlo aveva 7 mele e 2 banane. Ha dato 2 mele a Gianni che, in cambio, gli ha dato 
+> alcune banane. Ora il numero delle mele e il numero delle banane che Carlo ha sono 
+> uguali. Quante sono le banane che Gianni ha dato a Carlo?
+> A) 2	
+> 	
+> B) 3	
+> 	
+> C) 4	
+> 	
+> D) 5	
+> 	
+> E) 7
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** apri PDF p.3

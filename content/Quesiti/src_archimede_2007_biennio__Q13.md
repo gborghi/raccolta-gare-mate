@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2007_biennio__Q13
+parent: src_archimede_2007_biennio
+competition: Giochi di Archimede 2007 - Gara Biennio
+family: archimede
+year: '2007'
+level: biennio
+country: Italia
+quesito: '13'
+summary: Giorni alla prossima Festa del Pianeta su Uru
+answer: C
+topics:
+  - topic_aritmetica
+methods:
+  - method_congruenze
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2007
+  - livello/biennio
+  - topic/aritmetica
+---
+
+# Giochi di Archimede 2007 - Gara Biennio — Quesito 13
+
+*Giorni alla prossima Festa del Pianeta su Uru*
+
+> Sul pianeta Uru le settimane durano 8 giorni, i mesi (tutti indistintamente) durano
+> 34 giorni e in un anno ci sono 14 mesi. Quando il primo giorno dell’anno cade di
+> domenica (ultimo giorno della settimana) si celebra la Festa del Pianeta. Sapendo
+> che oggi su Uru è la Festa del Pianeta, tra quanti giorni sarà la prossima?
+> (A) 238,
+> (B) 476,
+> (C) 952,
+> (D) 1428,
+> (E) 1904.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** apri PDF p.2

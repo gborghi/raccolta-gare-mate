@@ -1,0 +1,36 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2017_ecolier_finale__QE6
+parent: src_kangourou_2017_ecolier_finale
+competition: Kangourou 2017 Écolier (finale Cervia)
+family: kangourou
+year: '2017'
+level: kangourou
+country: Italia
+quesito: E6
+summary: Minuti perche la lancetta dei minuti superi quella delle ore
+answer: '49'
+topics:
+  - topic_aritmetica
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2017
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2017 Écolier (finale Cervia) — Quesito E6
+
+*Minuti perche la lancetta dei minuti superi quella delle ore*
+
+> Le lancette dell'orologio della chiesa si muovono in modo continuo, dunque non a scatti. Le sto guardando: segnano le 9 e cotta. Quanti minuti interi saranno passati quando, per la prima volta, la lancetta dei minuti supererà quella delle ore?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 49
+**Fonte:** apri PDF p.1

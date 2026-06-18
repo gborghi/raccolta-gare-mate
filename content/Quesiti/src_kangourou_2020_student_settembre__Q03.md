@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2020_student_settembre__Q03
+parent: src_kangourou_2020_student_settembre
+competition: Kangourou 2020 Student - finale settembre
+family: kangourou
+year: '2020'
+level: kangourou
+country: Italia
+quesito: '3'
+summary: 'Coppie intere (x,y) con x^2+7y=xy'
+answer: '6'
+topics:
+  - topic_aritmetica
+  - topic_algebra
+methods:
+  - method_fattorizzazione
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2020
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/algebra
+---
+
+# Kangourou 2020 Student - finale settembre — Quesito 3
+
+*Coppie intere (x,y) con x^2+7y=xy*
+
+> Quante sono le coppie ordinate $(x, y)$ di numeri interi (non necessariamente positivi) tali che $x^2 + 7y = xy$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 6
+**Fonte:** apri PDF p.1

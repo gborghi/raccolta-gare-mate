@@ -1,0 +1,101 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2024_benjamin__Q14
+parent: src_kangourou_2024_benjamin
+competition: Kangourou Categoria Benjamin 2024
+family: kangourou
+year: '2024'
+level: kangourou
+country: Italia
+quesito: '14'
+summary: Nome della scatola X dai cioccolatini rimasti
+answer: E
+topics:
+  - topic_logica
+  - topic_combinatoria
+methods:
+  - method_casework
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2024
+  - livello/kangourou
+  - topic/logica
+  - topic/combinatoria
+---
+
+# Kangourou Categoria Benjamin 2024 — Quesito 14
+
+*Nome della scatola X dai cioccolatini rimasti*
+
+![[src_kangourou_2024_benjamin__prob14.png]]
+
+> Giulio aveva cinque scatole di cioccolatini, denominate in figura con le lettere 
+> A, B, C, D ed E. Il numero che si vede sopra ogni cioccolatino, rappresentato da un 
+> cerchio, denota il suo gusto.
+> Giulio ha mangiato quasi tutti i cioccolatini, lasciandone uno per scatola come mo­
+> stra la seconda figura.
+> Qual è il nome della scatola indicata con X?
+> A) A 	
+> 	
+> B) B 	
+> 	
+> C) C 	
+> 	
+> D) D 	
+> 	
+> E) E
+> 1
+> 6
+> 2
+> 3
+> 1
+> 2
+> 3
+> 4
+> 5
+> A
+> 2
+> 3
+> 4
+> 5
+> 6
+> B
+> 3
+> 4
+> 5
+> 6
+> 7
+> C
+> 4
+> 5
+> 6
+> 7
+> 8
+> D
+> 5
+> 6
+> 7
+> 8
+> 9
+> E
+> 5
+> X
+> 4
+> 3
+> 2
+> 1
+> 
+> Kangourou 2024
+> pagina 13
+> BENJAMIN
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** apri PDF p.3

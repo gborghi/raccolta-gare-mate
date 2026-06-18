@@ -1,0 +1,40 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q05
+parent: src_kangourou_2017_squadre_junior_f
+competition: Kangourou Coppa Squadre Junior 2017 Finale
+family: kangourou
+year: '2017'
+level: squadre
+country: Italia
+quesito: '5'
+summary: Quanti tappi blu data probabilita 9/11
+answer: '225'
+topics:
+  - topic_probabilita
+  - topic_algebra
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2017
+  - livello/squadre
+  - topic/probabilita
+  - topic/algebra
+---
+
+# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 5
+
+*Quanti tappi blu data probabilita 9/11*
+
+> Tappi blu 
+> In una scatola, oltre a dei tappi blu, ce ne sono 20 rossi e 30 bianchi. Si sa che la probabilità di 
+> pescare alla cieca un tappo blu è 9/11. Quanti sono i tappi blu nella scatola?
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 225
+**Fonte:** apri PDF p.1

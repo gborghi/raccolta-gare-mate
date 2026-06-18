@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2014_squadre_f__Q14
+parent: src_kangourou_2014_squadre_f
+competition: Kangourou Coppa Squadre 2014 Finale
+family: kangourou
+year: '2014'
+level: squadre
+country: Italia
+quesito: '14'
+summary: Quanti numeri palindromi di 7 cifre
+answer: '9000'
+topics:
+  - topic_combinatoria
+methods:
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2014
+  - livello/squadre
+  - topic/combinatoria
+---
+
+# Kangourou Coppa Squadre 2014 Finale — Quesito 14
+
+*Quanti numeri palindromi di 7 cifre*
+
+> !umeri palindromi   
+> Un numero intero si dice palindromo se le sue cifre, lette da sinistra a destra o da destra a sinistra, 
+> forniscono lo stesso risultato (ad esempio, 575 è palindromo, 576 non lo è). Quanti sono i numeri 
+> palindromi di 7 cifre?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 9000
+**Fonte:** apri PDF p.2

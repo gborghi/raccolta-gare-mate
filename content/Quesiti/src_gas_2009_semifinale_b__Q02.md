@@ -1,0 +1,40 @@
+---
+tipo: quesito
+quesito_id: quesito_src_gas_2009_semifinale_b__Q02
+parent: src_gas_2009_semifinale_b
+competition: Gara a Squadre 2009 - Semifinale B
+family: archimede
+year: '2009'
+level: squadre
+country: Italia
+quesito: '2'
+summary: Area cortile triangolare in quadrato di lato 80
+answer: '1600'
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2009
+  - livello/squadre
+  - topic/geometria_piana
+---
+
+# Gara a Squadre 2009 - Semifinale B — Quesito 2
+
+*Area cortile triangolare in quadrato di lato 80*
+
+> Il cortile di El-Romb
+> Il vertice dei capi dei popoli liberi della Terra di Un Mezzo avviene a casa di El-Romb mezzelfo, a Riemandell. Il giardino
+> della casa è un ampio quadrato ABCD di lato 80 metri. Due raffinate fontane sorgono su M e N i punti medi di AB e CD.
+> El-Romb parla dal punto V, esattamente al centro di MBCN, ad un uditorio che sta tutto all’interno del cortile formato dal
+> triangolo AVN. Quanto misura in metri quadrati la superficie del cortile?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 1600
+**Fonte:** apri PDF p.1

@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2012_junior__Q28
+parent: src_kangourou_2012_junior
+competition: Kangourou 2012 Junior (gara marzo)
+family: kangourou
+year: '2012'
+level: kangourou
+country: Italia
+quesito: '28'
+summary: Somma dei prodotti delle cifre di tutti i numeri di 3 cifre
+answer: C
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_doppio_conteggio
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2012
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/combinatoria
+---
+
+# Kangourou 2012 Junior (gara marzo) — Quesito 28
+
+*Somma dei prodotti delle cifre di tutti i numeri di 3 cifre*
+
+> Per ogni numero intero positivo di tre cifre (in notazione decimale), Nicola
+> ha calcolato il prodotto delle tre cifre; ha quindi sommato tutti prodotti così
+> ottenuti. Che risultato ha ottenuto?
+> A) 45
+> B) 452
+> C) 453
+> D) 245
+> E) 345
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
+**Fonte:** apri PDF p.5

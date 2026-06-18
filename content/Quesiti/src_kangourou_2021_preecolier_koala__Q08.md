@@ -1,0 +1,38 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q08
+parent: src_kangourou_2021_preecolier_koala
+competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
+family: kangourou
+year: '2021'
+level: kangourou
+country: Italia
+quesito: '8'
+summary: Costellazione Kangourou con stelle somma 20
+answer: B
+topics:
+  - topic_aritmetica
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2021
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 8
+
+*Costellazione Kangourou con stelle somma 20*
+
+![[src_kangourou_2021_preecolier_koala__prob8.png]]
+
+> In queste costellazioni ogni stella è denotata da un numero invece che da un nome. I numeri che denotano le stelle nella costellazione Kangourou sono tutti maggiori di 3 e la loro somma è 20. Qual è la costellazione Kangourou? (vedi figura)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** apri PDF p.2

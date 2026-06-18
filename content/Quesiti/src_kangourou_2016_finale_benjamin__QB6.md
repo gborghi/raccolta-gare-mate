@@ -1,0 +1,38 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2016_finale_benjamin__QB6
+parent: src_kangourou_2016_finale_benjamin
+competition: Kangourou 2016 finale nazionale Benjamin
+family: kangourou
+year: '2016'
+level: kangourou
+country: Italia
+quesito: B6
+summary: gelato 2 kang con 2 euro
+answer: 'si, 40'
+topics:
+  - topic_aritmetica
+  - topic_logica
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2016
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/logica
+---
+
+# Kangourou 2016 finale nazionale Benjamin — Quesito B6
+
+*gelato 2 kang con 2 euro*
+
+> La moneta di Kanglandia è il kang. A Kangcity il cambio euro–kang funziona così: si ottiene $1$ kang pagando $1{,}20$ euro, si ottiene $1$ euro pagando $1$ kang e proporzionalmente se si cambiano monete di valore inferiore. In entrambe le valute la moneta di valore minimo è quella da un centesimo; si può cambiare qualunque quantità di denaro e il risultato del cambio, se non è esprimibile con un numero intero di centesimi, viene arrotondato al centesimo per eccesso. Sono a Kangcity e ho solo euro. Esiste un modo (lecito) di acquistare un gelato che costa $2$ kang spendendo solo $2$ euro? In caso affermativo, qual è il minimo numero di cambi che mi consente di farlo?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** si, 40
+**Fonte:** apri PDF p.2

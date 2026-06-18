@@ -1,0 +1,62 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2022_biennio__Q14
+parent: src_archimede_2022_biennio
+competition: Giochi di Archimede 2022 - Gara Biennio
+family: archimede
+year: '2022'
+level: biennio
+country: Italia
+quesito: '14'
+summary: Quali misure di altezze sono impossibili per un triangolo
+answer: E
+topics:
+  - topic_geometria_piana
+methods:
+  - method_disuguaglianze
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2022
+  - livello/biennio
+  - topic/geometria_piana
+---
+
+# Giochi di Archimede 2022 - Gara Biennio — Quesito 14
+
+*Quali misure di altezze sono impossibili per un triangolo*
+
+> Un maestro ha assegnato il compito di disegnare sul quaderno un triangolo ABC a
+> piacere, tracciare le tre altezze AA′, BB′, CC′ e misurarne le rispettive lunghezze.
+> Cinque alunni hanno trovato le misure riportate nelle risposte sottostanti. Chi di
+> loro ha sicuramente sbagliato qualcosa?
+> (A)
+> AA′ = 4 cm
+> BB′ = 6 cm
+> CC′ = 8 cm
+> (B)
+> AA′ = 3 cm
+> BB′ = 4 cm
+> CC′ = 6 cm
+> (C)
+> AA′ = 3 cm
+> BB′ = 4 cm
+> CC′ = 8 cm
+> (D)
+> AA′ = 4 cm
+> BB′ = 6 cm
+> CC′ = 9 cm
+> (E)
+> AA′ = 3 cm
+> BB′ = 6 cm
+> CC′ = 8 cm
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** E
+**Fonte:** apri PDF p.2

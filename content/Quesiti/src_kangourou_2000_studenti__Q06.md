@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2000_studenti__Q06
+parent: src_kangourou_2000_studenti
+competition: Kangourou 2000 - 3 maggio (individuale)
+family: kangourou
+year: '2000'
+level: kangourou
+country: Italia
+quesito: '6'
+summary: Lunghezze diverse tagliando striscia in 3 e 4
+answer: B
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2000
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/combinatoria
+---
+
+# Kangourou 2000 - 3 maggio (individuale) — Quesito 6
+
+*Lunghezze diverse tagliando striscia in 3 e 4*
+
+> Su una striscia di carta lunga 1 m disegniamo delle righe verticali che dividono la striscia in  4 parti
+> uguali e inoltre tracciamo anche le righe, sempre verticali, che dividono la stessa striscia in 3  parti
+> uguali. Fatto questo, tagliamo la striscia secondo le linee che abbiamo tracciato. Quante lunghezze
+> differenti avranno i pezzi così ottenuti ?
+> A) 2  
+> B) 3
+>   C) 4  
+> D) 5 
+>   E) 6
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** apri PDF p.1

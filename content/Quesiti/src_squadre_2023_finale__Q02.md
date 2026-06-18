@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_squadre_2023_finale__Q02
+parent: src_squadre_2023_finale
+competition: Gara a Squadre 2023 - Finale Nazionale
+family: archimede
+year: '2023'
+level: squadre
+country: Italia
+quesito: '2'
+summary: Frazione area esagono accessibile al centro della moneta
+answer: '0041'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_coordinate
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2023
+  - livello/squadre
+  - topic/geometria_piana
+---
+
+# Gara a Squadre 2023 - Finale Nazionale — Quesito 2
+
+*Frazione area esagono accessibile al centro della moneta*
+
+> Anche i cattivi lasciano la mancia
+> Krull è talmente cattivo che, per saltare la fila al caffé, congela tutti con il suo raggio congelante e poi prende la
+> tazza di caffè in mano alla barista esterrefatta dalla scena. Quindi Krull se ne va via fischiettando, ma non prima
+> di aver messo nel barattolo delle mance una moneta di forma circolare di raggio
+> √
+> 3cm. Il barattolo è un prisma
+> retto con base un esagono regolare E di lato 10cm. Supponendo che la moneta sia caduta piatta sul fondo del
+> barattolo, qual è la frazione di area di E su cui il centro della moneta può essere atterrato? Rispondere con la
+> somma di numeratore e denominatore della frazione ridotta ai minimi termini.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Area:** [[Geometria]]
+**Risposta:** 0041
+**Fonte:** apri PDF p.16

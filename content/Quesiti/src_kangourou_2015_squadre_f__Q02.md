@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2015_squadre_f__Q02
+parent: src_kangourou_2015_squadre_f
+competition: Kangourou Coppa Squadre 2015 Finale
+family: kangourou
+year: '2015'
+level: squadre
+country: Italia
+quesito: '2'
+summary: Multipli di 9 con cinque cifre dispari (>=4 diverse)
+answer: '240'
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_congruenze
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2015
+  - livello/squadre
+  - topic/aritmetica
+  - topic/combinatoria
+---
+
+# Kangourou Coppa Squadre 2015 Finale — Quesito 2
+
+*Multipli di 9 con cinque cifre dispari (>=4 diverse)*
+
+> Cinque cifre dispari            
+>        Quanti sono i multipli (interi positivi) di 9 la cui scrittura consiste di cinque cifre dispari di cui 
+> almeno quattro tutte diverse tra loro?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 240
+**Fonte:** apri PDF p.1

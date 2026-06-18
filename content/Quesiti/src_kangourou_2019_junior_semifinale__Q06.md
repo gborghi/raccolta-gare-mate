@@ -1,0 +1,78 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q06
+parent: src_kangourou_2019_junior_semifinale
+competition: Kangourou 2019 Semifinale Junior
+family: kangourou
+year: '2019'
+level: kangourou
+country: Italia
+quesito: '6'
+summary: Dove la pallina ricolpisce il bordo sinistro griglia 4x2019
+answer: C
+topics:
+  - topic_geometria_piana
+  - topic_combinatoria
+methods:
+  - method_congruenze
+skills:
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2019
+  - livello/kangourou
+  - topic/geometria_piana
+  - topic/combinatoria
+---
+
+# Kangourou 2019 Semifinale Junior — Quesito 6
+
+*Dove la pallina ricolpisce il bordo sinistro griglia 4x2019*
+
+![[src_kangourou_2019_junior_semifinale__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.55]
+  \draw[thin] (0,0) grid (10,4);
+  \foreach \y in {0,1,2,3,4} {
+    \draw[dashed,thin] (10,\y) -- (13,\y);
+  }
+  \foreach \x in {11,12} {
+    \draw[dashed,thin] (\x,0) -- (\x,4);
+  }
+  \node[left] at (0,4) {$A$};
+  \node[left] at (0,3) {$B$};
+  \node[left] at (0,2) {$C$};
+  \node[left] at (0,1) {$D$};
+  \node[left] at (0,0) {$E$};
+  \draw[->,thick,dashed] (0,0) -- (4,4) -- (8,0) -- (9,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> (Punti 4) In figura A, B, C, D ed E denotano 
+> (partendo dall’alto) i 5 punti di contatto tra il bor­
+> do verticale sinistro di una griglia rettangolare 
+> 4×2019 e i segmenti orizzontali che delimitano le 
+> celle quadrate di tale griglia. Una pallina (punti­
+> forme!) viene lanciata dal punto E verso l’interno 
+> della griglia con un angolo di 45 gradi (rispetto 
+> ai lati della griglia) e rimbalza regolarmente ogni volta che colpisce i bordi della griglia: la figura ti 
+> suggerisce la traiettoria iniziale della pallina. Quando la pallina ritorna per la prima volta a colpire 
+> il bordo sinistro della griglia, in quale punto lo colpisce?
+> A) A	 	
+> B) B	
+> 	
+> C) C	 	
+> D) D	 	
+> E) E
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** C
+**Fonte:** apri PDF p.1

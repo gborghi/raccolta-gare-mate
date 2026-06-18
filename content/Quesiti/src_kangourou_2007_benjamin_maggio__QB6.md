@@ -1,0 +1,39 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2007_benjamin_maggio__QB6
+parent: src_kangourou_2007_benjamin_maggio
+competition: Kangourou 2007 Benjamin finale (maggio)
+family: kangourou
+year: '2007'
+level: kangourou
+country: Italia
+quesito: B6
+summary: Quante caramelle (combinazioni 3 = doppio di 2)
+answer: '8'
+topics:
+  - topic_combinatoria
+methods:
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2007
+  - livello/kangourou
+  - topic/combinatoria
+---
+
+# Kangourou 2007 Benjamin finale (maggio) — Quesito B6
+
+*Quante caramelle (combinazioni 3 = doppio di 2)*
+
+> Ho in tasca delle caramelle tutte diverse tra loro e il numero dei modi in cui posso sceglierne tre è il doppio del numero dei modi in cui posso sceglierne due. Quante caramelle ho in tasca?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 8
+**Fonte:** apri PDF p.1

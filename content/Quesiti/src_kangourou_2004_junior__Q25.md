@@ -1,0 +1,59 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2004_junior__Q25
+parent: src_kangourou_2004_junior
+competition: Kangourou 2004 Junior (18 marzo)
+family: kangourou
+year: '2004'
+level: kangourou
+country: Italia
+quesito: '25'
+summary: Lunghezza AB data area regione ombreggiata
+answer: D
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2004
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2004 Junior (18 marzo) — Quesito 25
+
+*Lunghezza AB data area regione ombreggiata*
+
+![[src_kangourou_2004_junior__prob25.png]]
+
+> Quelli in figura sono cerchi. L'area della regione
+> ombreggiata vale 2π. Quanto è lungo il segmento AB?
+> A) 1            B) 2            C) 3           D) 4
+> E) non è possibile rispondere perché dipende dai 
+> raggi dei cerchi
+> K
+> L
+> M
+> N
+> P
+> Q
+> A
+> B
+> Junior.qxd  22/02/2004  22.41  Pagina  26
+> 
+> Pag. 
+> Pag. 27
+> 27
+> Kang 2004
+> Kang 2004
+> Junior
+> Junior
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** apri PDF p.5

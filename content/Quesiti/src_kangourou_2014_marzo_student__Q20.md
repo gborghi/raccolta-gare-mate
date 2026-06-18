@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2014_marzo_student__Q20
+parent: src_kangourou_2014_marzo_student
+competition: Kangourou 2014 gara 20 marzo Student
+family: kangourou
+year: '2014'
+level: kangourou
+country: Italia
+quesito: '20'
+summary: valore a
+answer: C
+topics:
+  - topic_funzionali
+  - topic_algebra
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2014
+  - livello/kangourou
+  - topic/funzionali
+  - topic/algebra
+---
+
+# Kangourou 2014 gara 20 marzo Student — Quesito 20
+
+*valore a*
+
+> a e b sono due numeri reali. La funzione f definita da  f (x) = ax + b  soddisfa le 
+> uguaglianze f ( f ( f (1))) = 29  e  f ( f ( f (0))) = 2. Quanto vale  a ?
+> A) 1	
+> 	
+> B) 2	
+> 	
+> C) 3	
+> 	
+> D) 4	
+> 	
+> E) 5
+> I quesiti dal n. 21 al n. 30 valgono 5 punti ciascuno
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** C
+**Fonte:** apri PDF p.4

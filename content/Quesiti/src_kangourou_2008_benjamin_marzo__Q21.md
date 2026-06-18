@@ -1,0 +1,43 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q21
+parent: src_kangourou_2008_benjamin_marzo
+competition: Kangourou 2008 - Benjamin (gara 28 marzo)
+family: kangourou
+year: '2008'
+level: kangourou
+country: Italia
+quesito: '21'
+summary: '3 su 16:9'
+answer: C
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2008
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 21
+
+*3 su 16:9*
+
+> Il vecchio schermo televisivo aveva i lati che stavano fra loro nel rapporto 4:3, mentre i nuovi schermi hanno i lati che stanno nel rapporto 16:9.
+> Vogliamo vedere un DVD che riempie esattamente tutto lo schermo del vecchio televisore su un nuovo schermo 16:9. Se l’altezza del filmato coincide
+> esattamente con l’altezza dello schermo, allora la percentuale d’area non utilizzata del nuovo schermo è
+> A) 15 %
+> B) 20 %
+> C) 25 %
+> D) 30 %   
+> E) dipendente dalle misure dello schermo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** C
+**Fonte:** apri PDF p.4

@@ -1,0 +1,40 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2017_squadre_a__Q01
+parent: src_kangourou_2017_squadre_a
+competition: Kangourou Coppa Squadre 2017 Semifinale A
+family: kangourou
+year: '2017'
+level: squadre
+country: Italia
+quesito: '1'
+summary: 5^6 come somma di N addendi uguali a 5
+answer: '3125'
+topics:
+  - topic_aritmetica
+  - topic_algebra
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2017
+  - livello/squadre
+  - topic/aritmetica
+  - topic/algebra
+---
+
+# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 1
+
+*5^6 come somma di N addendi uguali a 5*
+
+> Addendi 
+> Il numero 56 può essere ottenuto sia come prodotto di 6 fattori ognuno uguale a 5 sia come somma 
+> di N addendi ognuno uguale a 5. Quanto vale N?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 3125
+**Fonte:** apri PDF p.1

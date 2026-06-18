@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_1997_biennio__Q17
+parent: src_archimede_1997_biennio
+competition: Giochi di Archimede 1997 - Biennio
+family: archimede
+year: '1997'
+level: 'biennio, triennio'
+country: Italia
+quesito: '17'
+summary: Valore f(1) data una relazione funzionale
+answer: D
+topics:
+  - topic_funzionali
+methods:
+  - method_backward
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/1997
+  - livello/biennio
+  - livello/triennio
+  - topic/funzionali
+---
+
+# Giochi di Archimede 1997 - Biennio — Quesito 17
+
+*Valore f(1) data una relazione funzionale*
+
+> Data una funzione tale che f(x + 1) = 2f(x) + 1
+> 2
+> e tale che f(2) = 2, quanto vale
+> f(1)?
+> (A) 0
+> (B) 1/2
+> (C) 1
+> (D) 3/2
+> (E) 2.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** apri PDF p.2
+**Anche in triennio:** apri PDF p.1

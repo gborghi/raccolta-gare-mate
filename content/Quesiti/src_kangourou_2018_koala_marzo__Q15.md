@@ -1,0 +1,38 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2018_koala_marzo__Q15
+parent: src_kangourou_2018_koala_marzo
+competition: Kangourou 2018 Gioco Koala (Marzo)
+family: kangourou
+year: '2018'
+level: kangourou
+country: Italia
+quesito: '15'
+summary: Quante volte compare la mano destra nella figura
+answer: C
+topics:
+  - topic_logica
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2018
+  - livello/kangourou
+  - topic/logica
+---
+
+# Kangourou 2018 Gioco Koala (Marzo) — Quesito 15
+
+*Quante volte compare la mano destra nella figura*
+
+![[src_kangourou_2018_koala_marzo__prob15.png]]
+
+> Se le immagini che vedi in figura rappresentano le tue mani, quante volte compare in figura la tua mano destra? (vedi figura)
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
+**Fonte:** apri PDF p.4

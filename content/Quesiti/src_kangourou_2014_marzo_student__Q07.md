@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2014_marzo_student__Q07
+parent: src_kangourou_2014_marzo_student
+competition: Kangourou 2014 gara 20 marzo Student
+family: kangourou
+year: '2014'
+level: kangourou
+country: Italia
+quesito: '7'
+summary: Quante cifre ha (2^22)^5*(5^55)^2
+answer: E
+topics:
+  - topic_aritmetica
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2014
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2014 gara 20 marzo Student — Quesito 7
+
+*Quante cifre ha (2^22)^5*(5^55)^2*
+
+> Quante cifre ha il risultato del prodotto  (2 22 )5 ∙ (5 55 )2 ?
+> A) 22	
+> 	
+> B) 55	
+> 	
+> C) 77	
+> 	
+> D) 110	 	
+> E) 111
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** apri PDF p.2

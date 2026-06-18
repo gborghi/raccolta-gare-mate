@@ -1,0 +1,43 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2004_biennio__Q02
+parent: src_archimede_2004_biennio
+competition: Giochi di Archimede 2004 - Gara Biennio
+family: archimede
+year: '2004'
+level: biennio
+country: Italia
+quesito: '2'
+summary: classificazione enunciati
+topics:
+  - topic_logica
+methods:
+  - method_casework
+skills:
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2004
+  - livello/biennio
+  - topic/logica
+---
+
+# Giochi di Archimede 2004 - Gara Biennio — Quesito 2
+
+*classificazione enunciati*
+
+> Luigi ha 4 anni più di Silvio che, a sua volta, ha 3 anni più di Carlo. Se complessivamente hanno 34 anni, quanti anni ha il più grande?
+> 
+> (A) 12
+> (B) 15
+> (C) 17
+> (D) 18
+> (E) 20
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF p.2

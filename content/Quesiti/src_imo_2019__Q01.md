@@ -1,0 +1,35 @@
+---
+tipo: quesito
+quesito_id: quesito_src_imo_2019__Q01
+parent: src_imo_2019
+competition: IMO 2019 papers
+family: imo
+year: '2019'
+level: IMO
+country: Italia
+quesito: '1'
+summary: Z->Z con f(2a)+2f(b)=f(f(a+b))
+topics:
+  - topic_funzionali
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/imo
+  - anno/2019
+  - livello/IMO
+  - topic/funzionali
+---
+
+# IMO 2019 papers — Quesito 1
+
+*Z->Z con f(2a)+2f(b)=f(f(a+b))*
+
+> Sia $\mathbb{Z}$ l'insieme degli interi. Determinare tutte le funzioni $f : \mathbb{Z} \to \mathbb{Z}$ tali che, per tutti gli interi $a$ e $b$,
+> $$f(2a) + 2f(b) = f(f(a+b)).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** apri PDF p.1

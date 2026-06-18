@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2001_junior__Q24
+parent: src_kangourou_2001_junior
+competition: Kangourou 2001 - Junior (15 marzo)
+family: kangourou
+year: '2001'
+level: kangourou
+country: Italia
+quesito: '24'
+summary: Cifra delle unita della somma di potenze
+answer: B
+topics:
+  - topic_aritmetica
+methods:
+  - method_congruenze
+skills:
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2001
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2001 - Junior (15 marzo) — Quesito 24
+
+*Cifra delle unita della somma di potenze*
+
+> Sia a = 1997 1998 + 1998 1999 + 1999 2000 + 2000 2001. La cifra delle unità di a è
+> (A) 0
+> (B) 2
+> (C) 3
+> (D) 4
+> (E) 5.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** apri PDF p.6

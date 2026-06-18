@@ -1,0 +1,56 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2013_junior__Q06
+parent: src_kangourou_2013_junior
+competition: Kangourou 2013 marzo Junior
+family: kangourou
+year: '2013'
+level: kangourou
+country: Italia
+quesito: '6'
+summary: Potenza di due ottenuta da 4^15+8^10
+topics:
+  - topic_aritmetica
+  - topic_algebra
+methods:
+  - method_fattorizzazione
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2013
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/algebra
+---
+
+# Kangourou 2013 marzo Junior — Quesito 6
+
+*Potenza di due ottenuta da 4^15+8^10*
+
+> Quanto vale la somma  415 + 810 ?
+> A) 210	
+> 	
+> B) 215	
+> 	
+> C) 220	
+> 	
+> D) 230	
+>         E) 231 
+>  1{{{ 
+>  4
+>  1{{{ 
+>  2
+>  1{{{ 
+>  3
+> 
+> Kangourou 2013
+> pagina 22
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF p.1

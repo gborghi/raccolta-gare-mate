@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_imo_1990__Q01
+parent: src_imo_1990
+competition: 'IMO 1990 (31st IMO, Beijing)'
+family: imo
+year: '1990'
+level: IMO
+country: Italia
+quesito: '1'
+summary: Find EG/EF in terms of t for tangent-line circle config
+topics:
+  - topic_geometria_piana
+methods:
+  - method_simmetria
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/imo
+  - anno/1990
+  - livello/IMO
+  - topic/geometria_piana
+---
+
+# IMO 1990 (31st IMO, Beijing) — Quesito 1
+
+*Find EG/EF in terms of t for tangent-line circle config*
+
+> Chords AB and CD of a circle intersect at a point E inside the circle. Let M
+> be an interior point of the segment EB. The tangent line at E to the circle
+> through D, E, and M intersects the lines BC and AC at F and G, respectively.
+> If
+> AM
+> AB = t,
+> find
+> EG
+> EF
+> in terms of t.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF p.1

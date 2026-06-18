@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_garaprime_2017__Q11
+parent: src_garaprime_2017
+competition: Gara Nazionale Classi Prime 2017
+family: archimede
+year: '2017'
+level: ''
+country: Italia
+quesito: '11'
+summary: Chi ha dati sufficienti a determinare il triangolo acutangolo
+answer: A
+topics:
+  - topic_geometria_piana
+  - topic_logica
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2017
+  - topic/geometria_piana
+  - topic/logica
+---
+
+# Gara Nazionale Classi Prime 2017 — Quesito 11
+
+*Chi ha dati sufficienti a determinare il triangolo acutangolo*
+
+> Di un triangolo acutangolo ABC sono note le misure delle altezze hA e hB,
+> condotte rispettivamente dai vertici A e B. Inoltre Claudia conosce la misura
+> del lato AC, Luca quella del lato AB e Raffaella quella dell’angolo interno bA,
+> ma nessuno dei tre comunica l’informazione in suo possesso agli altri due. Chi
+> dei tre ha dati sufficienti per determinare in modo univoco il triangolo?
+> A tutti
+> B solo Luca e Claudia
+> C solo Raffaella e Claudia
+> D solo Luca
+> e Raffaella
+> E solo Claudia
+> F solo Luca
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** A
+**Fonte:** apri PDF p.1

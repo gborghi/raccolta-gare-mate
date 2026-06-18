@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_garasquadre_2006_semifinale__Q02
+parent: src_garasquadre_2006_semifinale
+competition: VII Gara Nazionale a Squadre 2006 - Semifinale A
+family: archimede
+year: '2006'
+level: squadre
+country: Italia
+quesito: '2'
+summary: 'Coppie (a,b) interi positivi con a<=222 e a/2<b<2a/3'
+answer: '4033'
+topics:
+  - topic_combinatoria
+methods:
+  - method_conteggio
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2006
+  - livello/squadre
+  - topic/combinatoria
+---
+
+# VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 2
+
+*Coppie (a,b) interi positivi con a<=222 e a/2<b<2a/3*
+
+> La prima prova del torneo
+> Finalmente è giunto il gran giorno del torneo TreAngoli, che mette a confronto i migliori studenti di
+> matemagia. Ecco la prima prova: trovare quante sono le coppie (a,b) di interi positivi tali che a ≤222
+> e a
+> 2 < b < 2
+> 3a.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 4033
+**Fonte:** apri PDF p.1

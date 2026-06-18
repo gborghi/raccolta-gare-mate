@@ -1,0 +1,52 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q17
+parent: src_kangourou_2016_cadet_marzo
+competition: Kangourou 2016 Cadet (gara marzo)
+family: kangourou
+year: '2016'
+level: kangourou
+country: Italia
+quesito: '17'
+summary: lunghezza della striscia
+answer: B
+topics:
+  - topic_geometria_piana
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2016
+  - livello/kangourou
+  - topic/geometria_piana
+  - topic/geometria_piana
+---
+
+# Kangourou 2016 Cadet (gara marzo) — Quesito 17
+
+*lunghezza della striscia*
+
+![[src_kangourou_2016_cadet_marzo__prob17.png]]
+
+> Una striscia di carta larga 3 cm è chiara su una 
+> faccia e scura sull’altra. Maria piega la striscia 
+> come mostrato in figura (i trapezi, scuri, sono identici). Quanti centimetri è lunga la striscia di carta? 
+> A) 36	
+> 	
+> B) 48	
+> 	
+> C) 54	
+> 	
+> D) 57	
+> 	
+> E) 81
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** B
+**Fonte:** apri PDF p.3

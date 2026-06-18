@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2002_junior__Q16
+parent: src_kangourou_2002_junior
+competition: Kangourou 2002 - Junior (21 marzo)
+family: kangourou
+year: '2002'
+level: kangourou
+country: Italia
+quesito: '16'
+summary: Ragazze originarie nel gruppo
+answer: D
+topics:
+  - topic_algebra
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2002
+  - livello/kangourou
+  - topic/algebra
+---
+
+# Kangourou 2002 - Junior (21 marzo) — Quesito 16
+
+*Ragazze originarie nel gruppo*
+
+> Da un gruppo formato da ragazzi e ragazze se ne vanno 15 ragazze: a questo punto 
+> per ogni ragazza che rimane vi sono esattamente 2 ragazzi. Dopo un po’ abbandonano 
+> il gruppo 45 ragazzi: ora per ogni ragazzo che rimane sono presenti 5 ragazze.. Quante 
+> ragazze c’erano originariamente nel gruppo? 
+>  
+> A. 20  
+> B. 25  
+> C. 35  
+> D. 40  
+> E. 75
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** apri PDF p.4

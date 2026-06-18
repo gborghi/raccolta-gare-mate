@@ -1,0 +1,60 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_squadre_2009_finale__Q15
+parent: src_kangourou_squadre_2009_finale
+competition: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia)
+family: kangourou
+year: '2009'
+level: squadre
+country: Italia
+quesito: '15'
+summary: Valore frazione somma dispari 1001..1999 / 1..999
+answer: '0003'
+topics:
+  - topic_aritmetica
+methods:
+  - method_telescoping
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2009
+  - livello/squadre
+  - topic/aritmetica
+---
+
+# Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 15
+
+*Valore frazione somma dispari 1001..1999 / 1..999*
+
+> Una frazione da semplificare 
+>  
+> Qual è il valore della frazione   1001+1003+1005+...+1997 +1999
+> 1+ 3+ 5+...+ 997 + 999
+>  ? 
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> A 
+> 
+>  
+> Kangourou della Matematica 2009 
+> Coppa a squadre Kangourou - finale 
+> Mirabilandia,  10 maggio 2009
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0003
+**Fonte:** apri PDF p.12

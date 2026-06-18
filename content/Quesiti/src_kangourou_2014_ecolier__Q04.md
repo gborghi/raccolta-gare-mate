@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2014_ecolier__Q04
+parent: src_kangourou_2014_ecolier
+competition: Kangourou 2014 marzo Ecolier
+family: kangourou
+year: '2014'
+level: kangourou
+country: Italia
+quesito: '4'
+summary: Grammi di foglie mangiate dal koala sveglio
+topics:
+  - topic_aritmetica
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2014
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2014 marzo Ecolier — Quesito 4
+
+*Grammi di foglie mangiate dal koala sveglio*
+
+![[src_kangourou_2014_ecolier__prob4.png]]
+
+> A ciascuno dei punti qui a fianco corrisponde il risultato della sot­
+> trazione indicata vicino ad esso. Partendo dal punto a cui corrisponde 
+> il risultato 0, Maria vuole collegarlo con il punto a cui corrisponde 
+> il risultato 1, quindi vuole collegare quest’ultimo al punto cui corri­
+> sponde il risultato 2 e così via fino al risultato 5. Quale dei seguenti 
+> schemi indica i collegamenti che vuole fare Maria?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF p.1

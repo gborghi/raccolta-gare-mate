@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q09
+parent: src_kangourou_2015_marzo_ecolier
+competition: Kangourou 2015 gara 19 marzo Ecolier
+family: kangourou
+year: '2015'
+level: kangourou
+country: Italia
+quesito: '9'
+summary: quanti
+answer: D
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2015
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2015 gara 19 marzo Ecolier — Quesito 9
+
+*quanti*
+
+![[src_kangourou_2015_marzo_ecolier__prob9.png]]
+
+> Bruno vuole scomporre la regione determinata dal contorno 
+> scuro nella figura 1 in triangoli tutti uguali a quello che appare 
+> nella figura 2. Quanti triangoli otterrà?    
+> A) 8               B) 12                 C) 14                  D) 15                  E) 16
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** apri PDF p.3

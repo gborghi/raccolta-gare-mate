@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2007_student_marzo__Q07
+parent: src_kangourou_2007_student_marzo
+competition: Kangourou 2007 Student (marzo)
+family: kangourou
+year: '2007'
+level: kangourou
+country: Italia
+quesito: '7'
+summary: Frazione del cilindro (volume comune cono/cilindro)
+answer: E
+topics:
+  - topic_geometria_solida
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2007
+  - livello/kangourou
+  - topic/geometria_solida
+---
+
+# Kangourou 2007 Student (marzo) — Quesito 7
+
+*Frazione del cilindro (volume comune cono/cilindro)*
+
+> Un cono e un cilindro circolari, entrambi di altezza h e con le basi di raggio
+> r, sono in posizione tale che il volume della parte del cono contenuta nel cilindro è esattamente metà del volume del cono. Che frazione del volume del cilindro fornisce il volume della parte del cilindro contenuta nel cono?
+> A) 1/2
+> B) 1/3
+> C) 1/4
+> D) 1/5
+> E) 1/6
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** E
+**Fonte:** apri PDF p.2

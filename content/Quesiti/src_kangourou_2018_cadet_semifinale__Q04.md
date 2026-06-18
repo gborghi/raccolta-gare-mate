@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q04
+parent: src_kangourou_2018_cadet_semifinale
+competition: Kangourou 2018 Cadet - Semifinale individuale
+family: kangourou
+year: '2018'
+level: kangourou
+country: Italia
+quesito: '4'
+summary: Frazione rimasta bianca nella figura di triangoli
+answer: E
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2018
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2018 Cadet - Semifinale individuale — Quesito 4
+
+*Frazione rimasta bianca nella figura di triangoli*
+
+![[src_kangourou_2018_cadet_semifinale__prob4.png]]
+
+> (Punti 4) Il segmento che compare in figura è suddiviso in 6 segmenti di ugua­
+> le lunghezza. Tutti i triangoli che compaiono in figura sono equilateri. Quale 
+> frazione dell’intera figura (parte bianca interna compresa) è rimasta bianca? 
+> A) 1/3	
+> B) 2/9		
+> C) 5/21	
+> D) 6/25	
+> E) 7/27
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** E
+**Fonte:** apri PDF p.1

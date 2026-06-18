@@ -1,0 +1,52 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q28
+parent: src_kangourou_2020_cadet_marzo
+competition: Kangourou 2020 Gara marzo Cadet
+family: kangourou
+year: '2020'
+level: kangourou
+country: Italia
+quesito: '28'
+summary: Minimi metri dell allenatore (tre bambini percorrono 50m)
+answer: D
+topics:
+  - topic_geometria_piana
+methods:
+  - method_casework
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2020
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2020 Gara marzo Cadet — Quesito 28
+
+*Minimi metri dell allenatore (tre bambini percorrono 50m)*
+
+> Quattro bambini stanno ai quattro angoli di una piscina di dimensioni 10 m × 25 m. 
+> Il loro allenatore sta su un lato della piscina. Quando li chiama, tre di essi escono e 
+> corrono verso di lui percorrendo la via più breve possibile lungo i lati della piscina: 
+> in tutto essi percorrono 50 m. Quanti metri al minimo deve percorrere l’allenatore per 
+> raggiungere il quarto bambino (sempre muovendosi lungo i lati della piscina)?
+> A) 10	
+> 	
+> B) 12	
+> 	
+> C) 15	
+> 	
+> D) 20	
+> 	
+> E) 25
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** apri PDF p.5

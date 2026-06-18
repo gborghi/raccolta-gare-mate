@@ -1,0 +1,39 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2019__Q04
+parent: src_cesenatico_2019
+competition: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni
+family: archimede
+year: '2019'
+level: nazionale
+country: Italia
+quesito: '4'
+summary: Se floor(lambda^n+1)..floor(lambda^4n) quadrati allora floor(lambda) quadrato
+topics:
+  - topic_aritmetica
+methods:
+  - method_estremalita
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2019
+  - livello/nazionale
+  - topic/aritmetica
+---
+
+# Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 4
+
+*Se floor(lambda^n+1)..floor(lambda^4n) quadrati allora floor(lambda) quadrato*
+
+> Denotiamo con bxc il più grande intero di x.
+> Siano λ ≥1 un numero reale, e n un intero positivo, tali che bλn+1c, bλn+2c, . . . , bλ4nc sono tutti quadrati
+> perfetti. Dimostrare che bλc è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF p.1

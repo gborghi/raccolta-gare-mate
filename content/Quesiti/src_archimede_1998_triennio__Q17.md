@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_1998_triennio__Q17
+parent: src_archimede_1998_triennio
+competition: Giochi di Archimede 1998 - Triennio
+family: archimede
+year: '1998'
+level: triennio
+country: Italia
+quesito: '17'
+summary: Quale triangolo del baricentro ha area massima
+answer: D
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/1998
+  - livello/triennio
+  - topic/geometria_piana
+---
+
+# Giochi di Archimede 1998 - Triennio — Quesito 17
+
+*Quale triangolo del baricentro ha area massima*
+
+> Sia G il baricentro del triangolo ABC. Sapendo che AB < AC < BC, quale fra
+> i triangoli GAB, GAC, GBC ha area massima?
+> (A) GAB
+> (B) GAC
+> (C) GBC
+> (D) hanno tutti la stessa area
+> (E) dipende dalle lunghezze dei lati di ABC.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** apri PDF p.2

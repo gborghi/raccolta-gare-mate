@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2016_squadre_a__Q13
+parent: src_kangourou_2016_squadre_a
+competition: Kangourou Coppa Squadre 2016 Semifinale A
+family: kangourou
+year: '2016'
+level: squadre
+country: Italia
+quesito: '13'
+summary: Massimo del piu grande di 20 interi distinti media 101
+answer: '1830'
+topics:
+  - topic_aritmetica
+methods:
+  - method_estremalita
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2016
+  - livello/squadre
+  - topic/aritmetica
+---
+
+# Kangourou Coppa Squadre 2016 Semifinale A — Quesito 13
+
+*Massimo del piu grande di 20 interi distinti media 101*
+
+> La media  
+> La media aritmetica di 20 numeri interi positivi tutti diversi fra loro è 101. Quanto può valere al 
+> massimo il più grande di questi 20 numeri?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 1830
+**Fonte:** apri PDF p.2

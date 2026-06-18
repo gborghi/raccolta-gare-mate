@@ -1,0 +1,43 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2011_pubblico__Q06
+parent: src_cesenatico_2011_pubblico
+competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
+family: archimede
+year: '2011'
+level: gara del pubblico
+country: Italia
+quesito: '6'
+summary: Resto k della somma 1!+...+2011! diviso 4800
+answer: '1113'
+topics:
+  - topic_aritmetica
+methods:
+  - method_congruenze
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2011
+  - livello/gara-del-pubblico
+  - topic/aritmetica
+---
+
+# Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 6
+
+*Resto k della somma 1!+...+2011! diviso 4800*
+
+> Il sesterzio d’ottone
+> [30]
+> Il bardo Assuranceturing ha composto una nuova ballata per celebrare la partenza per la Britannia. Siccome ama strafare, al posto della
+> classica strofa “44 Galli in fila per 6 col resto di 2” ha deciso di cantare “1!+2!+3!+4!+···+2011! Britanni in fila per 4800 col resto di
+> k”. Ovviamente viene legato e imbavagliato prima di poter finire, e Borelix si domanda: chissà quanto sarebbe stato il valore di k?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 1113
+**Fonte:** apri PDF p.1

@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2015_classiprime__Q02
+parent: src_archimede_2015_classiprime
+competition: Gara Nazionale Classi Prime 2015
+family: archimede
+year: '2015'
+level: ''
+country: Italia
+quesito: '2'
+summary: Interpretazione di frazione a piani come divisioni annidate
+answer: A
+topics:
+  - topic_algebra
+skills:
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2015
+  - topic/algebra
+---
+
+# Gara Nazionale Classi Prime 2015 — Quesito 2
+
+*Interpretazione di frazione a piani come divisioni annidate*
+
+> Il valore di x è il seguente:
+> x =
+> A
+> B
+> C
+> D
+> .
+> Allora:
+> A x = A : (B : C : D)
+> B x = A : (B : (C : D))
+> C x = A : B : C : D
+> D x = A : B : (C : D)
+> E x = A : (B : C) : D
+> F nessuna delle altre
+> risposte è esatta
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** A
+**Fonte:** apri PDF p.1

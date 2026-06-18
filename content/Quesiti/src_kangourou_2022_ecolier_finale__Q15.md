@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q15
+parent: src_kangourou_2022_ecolier_finale
+competition: Kangourou 2022 Ecolier finale individuale
+family: kangourou
+year: '2022'
+level: kangourou
+country: Italia
+quesito: '15'
+summary: Modi di sedersi in fila con posti liberi tra loro
+answer: '0024'
+topics:
+  - topic_combinatoria
+methods:
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2022
+  - livello/kangourou
+  - topic/combinatoria
+---
+
+# Kangourou 2022 Ecolier finale individuale — Quesito 15
+
+*Modi di sedersi in fila con posti liberi tra loro*
+
+> Nell'addizione che vedi a destra 4 cifre non sono visibili:
+> $$\begin{array}{r} \square\,6\,3 \\ +\,\square\,\square\,\square \\ \hline 5\,7\,2 \end{array}$$
+> Quanto vale la loro somma?
+> 
+> A) 8
+> B) 9
+> C) 11
+> D) 13
+> E) 14
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0024
+**Fonte:** apri PDF p.2

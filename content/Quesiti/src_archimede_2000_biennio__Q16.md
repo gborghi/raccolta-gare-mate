@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2000_biennio__Q16
+parent: src_archimede_2000_biennio
+competition: Giochi di Archimede 2000 - Biennio
+family: archimede
+year: '2000'
+level: biennio
+country: Italia
+quesito: '16'
+summary: Acqua versata in parallelepipedo dato livello raggiunto
+answer: A
+topics:
+  - topic_geometria_solida
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2000
+  - livello/biennio
+  - topic/geometria_solida
+---
+
+# Giochi di Archimede 2000 - Biennio — Quesito 16
+
+*Acqua versata in parallelepipedo dato livello raggiunto*
+
+> Versando 40 cm3 di acqua in un recipiente a forma di parallelepipedo rettangolo
+> avente un lato della base lungo 4 cm il livello del liquido raggiunge 5 cm. Versandone una quantità incognita in un altro recipiente parallelepipedo rettangolo
+> che ha quel lato della base lungo 6 cm e l’altro inalterato, il liquido raggiunge un
+> livello di 15 cm. Quanti cm3 di acqua sono stati versati la seconda volta?
+> (A) 180
+> (B) 80
+> (C) 40
+> (D) 20
+> (E) 80
+> 9 .
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
+**Risposta:** A
+**Fonte:** apri PDF p.2

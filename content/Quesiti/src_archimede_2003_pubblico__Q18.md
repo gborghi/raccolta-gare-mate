@@ -1,0 +1,34 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2003_pubblico__Q18
+parent: src_archimede_2003_pubblico
+competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
+family: archimede
+year: '2003'
+level: gara del pubblico
+country: Italia
+quesito: '18'
+summary: problema 18
+topics:
+  - topic_logica
+skills:
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2003
+  - livello/gara-del-pubblico
+  - topic/logica
+---
+
+# Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 18
+
+*problema 18*
+
+> Nel parco della città si trova un'interessante scultura astratta, che è stata ottenuta nel seguente modo. Dato un cubo di lato $L = 20$, si immagini di tagliarlo con un piano in modo da ottenere un esagono regolare e di costruire su quest'ultimo un prisma esagonale retto infinito. La scultura è l'intersezione del cubo con il prisma infinito. Qual è il suo volume?
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF p.4

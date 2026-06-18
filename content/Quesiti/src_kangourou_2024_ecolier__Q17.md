@@ -1,0 +1,57 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2024_ecolier__Q17
+parent: src_kangourou_2024_ecolier
+competition: Kangourou Categoria Ecolier 2024
+family: kangourou
+year: '2024'
+level: kangourou
+country: Italia
+quesito: '17'
+summary: Quale torre vede Ada dopo aver rimosso dischi
+answer: B
+topics:
+  - topic_logica
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2024
+  - livello/kangourou
+  - topic/logica
+---
+
+# Kangourou Categoria Ecolier 2024 — Quesito 17
+
+*Quale torre vede Ada dopo aver rimosso dischi*
+
+![[src_kangourou_2024_ecolier__prob17.png]]
+
+> Come suggerisce la figura, Ada ha costruito una torre con 8 dischi dello 
+> stesso formato.
+> 	
+> Poi ha rimosso il secondo disco dal fondo di questa torre.
+> 	
+> Poi ha rimosso il terzo disco dal fondo della torre così ottenuta.
+> 	
+> Poi ha rimosso il quarto disco dal fondo della nuova torre.
+> 	
+> Infine ha rimosso il quinto disco dal fondo dell’ultima torre ottenuta.
+> Quale delle seguenti è la torre che Ada vede alla fine?
+> A) 	
+> 	
+>  B) 	
+> 	
+> C) 	
+> 	
+> D) 	
+> 	
+> E)
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** apri PDF p.5

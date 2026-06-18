@@ -1,0 +1,34 @@
+---
+tipo: quesito
+quesito_id: quesito_src_imo_1976_all__Q01
+parent: src_imo_1976_all
+competition: IMO 1976 (Eighteenth International Olympiad)
+family: imo
+year: '1976'
+level: IMO
+country: Italia
+quesito: '1'
+summary: find other diagonal lengths
+topics:
+  - topic_geometria_piana
+methods:
+  - method_trigonometria
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/imo
+  - anno/1976
+  - livello/IMO
+  - topic/geometria_piana
+---
+
+# IMO 1976 (Eighteenth International Olympiad) — Quesito 1
+
+*find other diagonal lengths*
+
+> In a plane convex quadrilateral of area $32$, the sum of the lengths of two opposite sides and one diagonal is $16$. Determine all possible lengths of the other diagonal.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF p.1

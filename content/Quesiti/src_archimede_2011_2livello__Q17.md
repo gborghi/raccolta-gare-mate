@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2011_2livello__Q17
+parent: src_archimede_2011_2livello
+competition: Archimede Gara 2° livello 2011 (biennio/triennio)
+family: archimede
+year: '2011'
+level: 2 livello
+country: Italia
+quesito: '17'
+summary: Numero minimo di posti in carrozza con 2n stazioni
+answer: n^2
+topics:
+  - topic_combinatoria
+methods:
+  - method_conteggio
+skills:
+  - skill_astrazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2011
+  - livello/2-livello
+  - topic/combinatoria
+---
+
+# Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 17
+
+*Numero minimo di posti in carrozza con 2n stazioni*
+
+> ESERCIZIO DIMOSTRATIVO
+> Sia n un intero positivo. Un treno ferma in 2n stazioni, incluse quella iniziale e finale, numerate in
+> ordine dalla prima alla 2n-esima. Si sa che in una certa carrozza, per ogni coppia di interi i, j tali
+> che 1 ≤i < j ≤2n, è stato prenotato esattamente un posto per il tragitto tra la stazione i-esima
+> e quella j-esima. Ovviamente prenotazioni diverse non possono sovrapporsi. Determinare, in
+> funzione di n, il numero minimo di posti che devono essere disponibili in quella carrozza affinch´e
+> la situazione descritta sia possibile.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** n^2
+**Fonte:** apri PDF p.6

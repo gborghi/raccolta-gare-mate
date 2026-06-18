@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q13
+parent: src_kangourou_2019_ecolier_semifinale
+competition: Kangourou 2019 Semifinale Ecolier
+family: kangourou
+year: '2019'
+level: kangourou
+country: Italia
+quesito: '13'
+summary: Massima somma delle prime due carte con somma totale 35
+answer: '14'
+topics:
+  - topic_aritmetica
+methods:
+  - method_estremalita
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2019
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2019 Semifinale Ecolier — Quesito 13
+
+*Massima somma delle prime due carte con somma totale 35*
+
+> (Punti 6) Da un sacchetto contenente molti mazzi di carte mescolati fra loro, Ada ha estratto 
+> cinque carte (nessuna delle quali è un jolly o una figura) e le ha ordinate in modo che il punteggio 
+> di ciascuna carta non superi quello della carta successiva. Sommando tutti i punteggi ottiene 35. 
+> Quanto può valere, al massimo, la somma dei punteggi delle prime due carte?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 14
+**Fonte:** apri PDF p.2

@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2000_studenti__Q07
+parent: src_kangourou_2000_studenti
+competition: Kangourou 2000 - 3 maggio (individuale)
+family: kangourou
+year: '2000'
+level: kangourou
+country: Italia
+quesito: '7'
+summary: Minore di 7 dispari consecutivi con somma 119
+answer: A
+topics:
+  - topic_algebra
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2000
+  - livello/kangourou
+  - topic/algebra
+---
+
+# Kangourou 2000 - 3 maggio (individuale) — Quesito 7
+
+*Minore di 7 dispari consecutivi con somma 119*
+
+> La somma di 7 numeri dispari consecutivi è 119. Il minore di questi numeri è
+> A) 11 
+>   B) 13 
+>   C) 15
+>    D) 17
+>    E) 19
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** A
+**Fonte:** apri PDF p.1

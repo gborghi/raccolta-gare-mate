@@ -1,0 +1,58 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2002_benjamin__Q26
+parent: src_kangourou_2002_benjamin
+competition: Kangourou 2002 - Benjamin (21 marzo)
+family: kangourou
+year: '2002'
+level: kangourou
+country: Italia
+quesito: '26'
+summary: Massima somma cifre della somma cifre
+answer: B
+topics:
+  - topic_aritmetica
+methods:
+  - method_estremalita
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2002
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2002 - Benjamin (21 marzo) — Quesito 26
+
+*Massima somma cifre della somma cifre*
+
+> Qual è il massimo valore della “somma delle cifre della somma delle cifre” di un 
+> numero di 3 cifre? 
+>  
+> A. 9 
+> B. 10  
+> C. 11  
+> D. 12  
+> E. 18 
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> a 
+> b 
+> 
+> Benjamin 2002. Pagina N. 
+> 6
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** apri PDF p.5

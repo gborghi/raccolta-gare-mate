@@ -1,0 +1,43 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2021_junior_marzo__Q29
+parent: src_kangourou_2021_junior_marzo
+competition: Kangourou 2021 Junior - gara marzo (biennio)
+family: kangourou
+year: '2021'
+level: kangourou
+country: Italia
+quesito: '29'
+summary: Modi di colorare di nero la tabella 4x4 coi vincoli
+answer: D
+topics:
+  - topic_combinatoria
+  - topic_logica
+methods:
+  - method_conteggio
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2021
+  - livello/kangourou
+  - topic/combinatoria
+  - topic/logica
+---
+
+# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 29
+
+*Modi di colorare di nero la tabella 4x4 coi vincoli*
+
+![[src_kangourou_2021_junior_marzo__prob29.png]]
+
+> 29. Nella tabella 4 × 4 alcune celle devono essere verniciate di nero. I numeri a destra di ogni riga e sotto ogni colonna precisano quante devono essere le celle nere nella rispettiva riga o colonna. In quan- ti diversi modi possono essere collocate le celle nere rispettando le prescrizioni? A) 2 B) 3 C) 4 D) 5 E) In più di 5 modi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** apri PDF p.6

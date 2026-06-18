@@ -1,0 +1,51 @@
+---
+tipo: quesito
+quesito_id: quesito_src_garaprime_2020__Q10
+parent: src_garaprime_2020
+competition: Gara Nazionale Classi Prime 2020
+family: archimede
+year: '2020'
+level: ''
+country: Italia
+quesito: '10'
+summary: Percentuale di seggi del Partito della Pagnotta
+answer: A
+topics:
+  - topic_algebra
+  - topic_probabilita
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2020
+  - topic/algebra
+  - topic/probabilita
+---
+
+# Gara Nazionale Classi Prime 2020 — Quesito 10
+
+*Percentuale di seggi del Partito della Pagnotta*
+
+> Nell’isola Kenoncè è stato deciso il dimezzamento del numero di parlamentari.
+> Le nuove elezioni tuttavia portano ad un parlamento che pur essendo la metà
+> del precedente non è composto da persone nuove ma è un sottoinsieme del parlamento precedente. Tuttavia le proporzioni tra i due unici partiti politici dell’isola
+> cambiano: solo 1
+> 8 dei parlamentari del Partito della Lasagna viene riconfermato nel suo incarico, mentre il Partito della Pagnotta vede riconfermati ben
+> 3
+> 4 dei suoi parlamentari. Qual è, nel nuovo parlamento, la percentuale di seggi
+> del Partito della Pagnotta?
+> A 90%
+> B 75%
+> C 60%
+> D 50%
+> E 72%
+> F non determinabile dai
+> soli dati forniti
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_probabilita|Probabilita e statistica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** A
+**Fonte:** apri PDF p.1

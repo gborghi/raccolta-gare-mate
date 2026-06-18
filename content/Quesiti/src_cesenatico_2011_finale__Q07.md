@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2011_finale__Q07
+parent: src_cesenatico_2011_finale
+competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
+family: archimede
+year: '2011'
+level: nazionale
+country: Italia
+quesito: '7'
+summary: Eta n<300 con cifre non divisori e proprieta
+answer: '0203'
+topics:
+  - topic_aritmetica
+methods:
+  - method_congruenze
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2011
+  - livello/nazionale
+  - topic/aritmetica
+---
+
+# Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 7
+
+*Eta n<300 con cifre non divisori e proprieta*
+
+> Il compleanno del vecchio Math-usa-lemmix
+> Il giorno del compleanno dell’anziano Math-usa-lemmix, l’uomo più invidiato del villaggio (per via della
+> moglie), il piccolo Eallaix compie 7 anni. Quando il bambino chiede l’età al vecchio, lui gli risponde: “La
+> mia età è un intero positivo n, minore di 300, le cui cifre o sono zeri o comunque non dividono n e tale che,
+> se gli sottrai la tua età, diventa un numero che come divisori primi ha solo il 7 e la prima cifra di n”. Qual è
+> l’età del vecchio Math-usa-lemmix?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0203
+**Fonte:** apri PDF p.2

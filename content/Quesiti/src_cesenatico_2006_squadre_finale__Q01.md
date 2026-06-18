@@ -1,0 +1,52 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q01
+parent: src_cesenatico_2006_squadre_finale
+competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
+family: archimede
+year: '2006'
+level: squadre
+country: Italia
+quesito: '1'
+summary: numero nella colonna grigia
+answer: 0793
+topics:
+  - topic_aritmetica
+  - topic_logica
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2006
+  - livello/squadre
+  - topic/aritmetica
+  - topic/logica
+---
+
+# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 1
+
+*numero nella colonna grigia*
+
+![[src_cesenatico_2006_squadre_finale__prob1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!55] (1,0) rectangle (2,3);
+  \draw (0,0) grid (3,3);
+  \node at (0.2,2.8) {1};
+  \node at (2.2,2.8) {2};
+  \node at (0.2,0.8) {3};
+\end{tikzpicture}
+\end{document}
+```
+
+> Quanti modi diversi hanno i nostri eroi per colorare il prisma?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0793
+**Fonte:** apri PDF p.1

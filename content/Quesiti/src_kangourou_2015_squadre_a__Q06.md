@@ -1,0 +1,40 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2015_squadre_a__Q06
+parent: src_kangourou_2015_squadre_a
+competition: Kangourou Coppa Squadre 2015 Semifinale A
+family: kangourou
+year: '2015'
+level: squadre
+country: Italia
+quesito: '6'
+summary: Lato max tavoletta quadrata in anello di raggio 8
+answer: '11'
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2015
+  - livello/squadre
+  - topic/geometria_piana
+---
+
+# Kangourou Coppa Squadre 2015 Semifinale A — Quesito 6
+
+*Lato max tavoletta quadrata in anello di raggio 8*
+
+> I quadrati di Giuseppe 
+>         Utilizzando il suo gioco-traforo, Giuseppe può fabbricare tavolette di legno quadrate di 
+> qualunque taglia (ragionevole), purché il lato misuri un numero intero di centimetri. Una di queste 
+> tavolette va inserita all'interno di un anello metallico circolare di raggio 8 cm. Quanti centimetri 
+> misura il lato della più grande tavoletta che Giuseppe può fabbricare allo scopo?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 11
+**Fonte:** apri PDF p.1

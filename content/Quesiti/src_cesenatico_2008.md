@@ -1,0 +1,26 @@
+---
+tipo: gara
+src_id: src_cesenatico_2008
+competition: XXIV Olimpiade Italiana Cesenatico 2008
+family: archimede
+year: '2008'
+level: nazionale
+country: Italia
+n_quesiti: '6'
+tags:
+  - kg/gara
+  - paese/italia
+  - comp/archimede
+  - anno/2008
+---
+
+# XXIV Olimpiade Italiana Cesenatico 2008
+
+Sorgente: `Archimede/individuale/nazionale/2008/ces2008-sol_new.pdf` · apri PDF
+
+- [[src_cesenatico_2008__Q01|Quesito 1]] — Dodecagono regolare, intersezione diagonali e circonferenza S
+- [[src_cesenatico_2008__Q02|Quesito 2]] — numero colorazioni
+- [[src_cesenatico_2008__Q03|Quesito 3]] — Funzioni Z->R crescenti con differenze nell'immagine
+- [[src_cesenatico_2008__Q04|Quesito 4]] — Terne (a,b,c) interi positivi con a^2+2^(b+1)=3^c
+- [[src_cesenatico_2008__Q05|Quesito 5]] — tre quadrati uguali e retta rC
+- [[src_cesenatico_2008__Q06|Quesito 6]] — strategia

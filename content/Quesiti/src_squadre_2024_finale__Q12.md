@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_squadre_2024_finale__Q12
+parent: src_squadre_2024_finale
+competition: Gara a Squadre 2024 - Finale Nazionale
+family: archimede
+year: '2024'
+level: squadre
+country: Italia
+quesito: '12'
+summary: Numero minimo salatini con divisioni k/(k+1) senza resti
+answer: 0079
+topics:
+  - topic_aritmetica
+methods:
+  - method_ricorsione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2024
+  - livello/squadre
+  - topic/aritmetica
+---
+
+# Gara a Squadre 2024 - Finale Nazionale — Quesito 12
+
+*Numero minimo salatini con divisioni k/(k+1) senza resti*
+
+> Evviva la cena!
+> C’è un tavolo pieno di deliziosi salatini. Il cameriere deve distribuire i salatini ai 6 ospiti: prima a S-Higgs che è
+> il più affamato, poi a Fredmath, a sua madre, a suo padre, a Vennma e infine a Daφne. Prepara le porzioni con
+> un elaborato cerimoniale: dà un salatino a Scoobe-Zout e la metà dei salatini restanti al primo ospite; poi dà due
+> salatini a Scoobe-Zout e 2
+> 3 dei rimanenti al secondo ospite e continua così dando k salatini a Scoobe-Zout e
+> k
+> k+1 dei
+> rimanenti al k-esimo ospite. S-Higgs sta per addentare il suo primo salatino, ma il cameriere lo ferma e gli dice:
+> “Sono riuscito a fare tutte le suddivisioni senza resti, senza dividere i salatini e tutti ne hanno ricevuto almeno uno.
+> Indovina un po’ quanti salatini ho distribuito?” Qual era il numero minimo di salatini inizialmente sul tavolo?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0079
+**Fonte:** apri PDF p.7

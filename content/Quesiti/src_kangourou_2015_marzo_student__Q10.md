@@ -1,0 +1,50 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2015_marzo_student__Q10
+parent: src_kangourou_2015_marzo_student
+competition: Kangourou 2015 gara 19 marzo Student
+family: kangourou
+year: '2015'
+level: kangourou
+country: Italia
+quesito: '10'
+summary: Valori ammissibili angoli acuti quadrilatero convesso
+answer: B
+topics:
+  - topic_geometria_piana
+methods:
+  - method_casework
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2015
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2015 gara 19 marzo Student — Quesito 10
+
+*Valori ammissibili angoli acuti quadrilatero convesso*
+
+> La lista di tutti i valori ammissibili per il numero di angoli acuti di un quadrilatero 
+> convesso è una delle seguenti: quale?
+> A) 0, 1, 2.	
+> 	
+> B) 0, 1, 2, 3.	
+> 	
+> C) 0, 1, 2, 3, 4.	
+> 	
+> D) 0, 1, 3.	
+> 	
+> E) 1, 2, 3.
+> I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+**Risposta:** B
+**Fonte:** apri PDF p.3

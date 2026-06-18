@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q12
+parent: src_kangourou_2021_preecolier_koala
+competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
+family: kangourou
+year: '2021'
+level: kangourou
+country: Italia
+quesito: '12'
+summary: Parola nascosta dal codice 3B 1D 4D 2B
+answer: E
+topics:
+  - topic_logica
+skills:
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2021
+  - livello/kangourou
+  - topic/logica
+---
+
+# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 12
+
+*Parola nascosta dal codice 3B 1D 4D 2B*
+
+![[src_kangourou_2021_preecolier_koala__prob12.png]]
+
+> Utilizzando la tabella in figura Tom può codificare alcune parole. Ad esempio, la parola PIZZA ha il codice «2A 4A 1C 1C 2B». Quale parola nasconde il codice «3B 1D 4D 2B»?
+> 
+> (A) MARE
+> (B) MESI
+> (C) MALE
+> (D) MIRA
+> (E) MELA
+> 
+> (vedi figura)
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** apri PDF p.3

@@ -1,0 +1,39 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2004_benjamin__Q09
+parent: src_kangourou_2004_benjamin
+competition: Kangourou 2004 Benjamin (18 marzo)
+family: kangourou
+year: '2004'
+level: kangourou
+country: Italia
+quesito: '9'
+summary: Distanza prima-nona fermata autobus
+answer: D
+topics:
+  - topic_algebra
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2004
+  - livello/kangourou
+  - topic/algebra
+---
+
+# Kangourou 2004 Benjamin (18 marzo) — Quesito 9
+
+*Distanza prima-nona fermata autobus*
+
+> Nove fermate di autobus consecutive sono situate lungo una strada in modo che la distanza tra due fermate adiacenti sia sempre la
+> stessa. La distanza fra la prima e la terza fermata è 600 metri.
+> Quanti metri dista la prima fermata dalla nona?
+> A)  1200      B)  1500     C)  1800      D)  2400    E)  2700
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** apri PDF p.2

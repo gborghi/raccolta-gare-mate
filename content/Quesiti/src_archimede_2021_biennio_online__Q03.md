@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2021_biennio_online__Q03
+parent: src_archimede_2021_biennio_online
+competition: Giochi di Archimede 2021 - Gara Biennio (online)
+family: archimede
+year: '2021'
+level: biennio
+country: Italia
+quesito: '3'
+summary: Massimo valore di 7-4x dato (2x-3)(5-3x)=0
+answer: A
+topics:
+  - topic_algebra
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2021
+  - livello/biennio
+  - topic/algebra
+---
+
+# Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 3
+
+*Massimo valore di 7-4x dato (2x-3)(5-3x)=0*
+
+> Sapendo che (2x −3)(5 −3x) = 0, quale può essere, al massimo, il valore di 7 −4x?
+> (A) 1
+> (B) 7/5
+> (C) 5/3
+> (D) 1/3
+> (E) 3/5
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** A
+**Fonte:** apri PDF p.1

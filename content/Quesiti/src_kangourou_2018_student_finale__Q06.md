@@ -1,0 +1,43 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2018_student_finale__Q06
+parent: src_kangourou_2018_student_finale
+competition: Kangourou 2018 Finale Nazionale Student
+family: kangourou
+year: '2018'
+level: kangourou
+country: Italia
+quesito: '6'
+summary: Caratterizzare i poligoni equilateri convessi rombosi
+answer: lati a coppie paralleli
+topics:
+  - topic_geometria_piana
+  - topic_combinatoria
+methods:
+  - method_invarianti
+skills:
+  - skill_astrazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2018
+  - livello/kangourou
+  - topic/geometria_piana
+  - topic/combinatoria
+---
+
+# Kangourou 2018 Finale Nazionale Student — Quesito 6
+
+*Caratterizzare i poligoni equilateri convessi rombosi*
+
+![[src_kangourou_2018_student_finale__prob6.png]]
+
+> Chiama **romboso** ogni poligono equilatero convesso se è possibile tassellarlo con un numero finito di rombi aventi lo stesso lato del poligono. Caratterizza nel modo più esplicito possibile tutti i poligoni equilateri convessi rombosi.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** lati a coppie paralleli
+**Fonte:** apri PDF p.4

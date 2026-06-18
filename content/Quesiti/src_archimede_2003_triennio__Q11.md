@@ -1,0 +1,71 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2003_triennio__Q11
+parent: src_archimede_2003_triennio
+competition: Giochi di Archimede 2003 - Triennio
+family: archimede
+year: '2003'
+level: triennio
+country: Italia
+quesito: '11'
+summary: Intero D con f(D) somma delle cifre; dimostrazione f(f(D))
+topics:
+  - topic_aritmetica
+methods:
+  - method_conteggio
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2003
+  - livello/triennio
+  - topic/aritmetica
+---
+
+# Giochi di Archimede 2003 - Triennio — Quesito 11
+
+*Intero D con f(D) somma delle cifre; dimostrazione f(f(D))*
+
+> In un ampio laghetto le foglie di ninfea sono disposte a reticolo,
+> come nella figura a fianco. I rospi sono soliti muoversi con balzi da
+> una foglia ad una adiacente in orizzontale o verticale. Un rospo si
+> trova in A ed avvista un insetto in B. Per catturarlo, compie una
+> traiettoria di 6 balzi (senza mai passare due volte sulla stessa foglia)
+> che termina in B. Quante traiettorie diverse può aver compiuto?
+> (A) 24
+> (B) 26
+> (C) 28
+> (D) 32
+> (E) nessuna delle precedenti.
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> A
+> B
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF p.11

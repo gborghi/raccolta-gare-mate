@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2014_junior__Q17
+parent: src_kangourou_2014_junior
+competition: Kangourou 2014 marzo Junior
+family: kangourou
+year: '2014'
+level: kangourou
+country: Italia
+quesito: '17'
+summary: 'Coppie (x,y) con x divide y+1 e y divide x+1'
+answer: E
+topics:
+  - topic_aritmetica
+methods:
+  - method_casework
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2014
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2014 marzo Junior — Quesito 17
+
+*Coppie (x,y) con x divide y+1 e y divide x+1*
+
+> Quante coppie (ordinate) (x, y) di numeri interi positivi sono tali che x divide 
+> y + 1 e y divide  x + 1?
+> A) 1	
+> 	
+> B) 2	
+> 	
+> C) 3	
+> 	
+> D) 4	
+> 	
+> E) 5
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** apri PDF p.4

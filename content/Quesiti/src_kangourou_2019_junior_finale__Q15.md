@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2019_junior_finale__Q15
+parent: src_kangourou_2019_junior_finale
+competition: Kangourou 2019 Finale nazionale Junior
+family: kangourou
+year: '2019'
+level: kangourou
+country: Italia
+quesito: '15'
+summary: Modi di programmare gli inviti a tre feste
+answer: '2880'
+topics:
+  - topic_combinatoria
+methods:
+  - method_conteggio
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2019
+  - livello/kangourou
+  - topic/combinatoria
+---
+
+# Kangourou 2019 Finale nazionale Junior — Quesito 15
+
+*Modi di programmare gli inviti a tre feste*
+
+> Un rettangolo $3 \times 2$ può essere piastrellato con piastrelle a forma di "L" nei due diversi modi mostrati. In quanti diversi modi può essere piastrellata, con piastrelle dello stesso tipo, la figura indicata?
+> 
+> (A) 1
+> (B) 2
+> (C) 3
+> (D) 4
+> (E) 48
+> 
+> (vedi figura)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 2880
+**Fonte:** apri PDF p.2

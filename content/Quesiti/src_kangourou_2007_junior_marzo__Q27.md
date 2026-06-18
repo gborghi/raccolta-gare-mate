@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2007_junior_marzo__Q27
+parent: src_kangourou_2007_junior_marzo
+competition: Kangourou 2007 Junior (marzo)
+family: kangourou
+year: '2007'
+level: kangourou
+country: Italia
+quesito: '27'
+summary: Quante collane rubate (diamanti tra 200 e 300)
+answer: B
+topics:
+  - topic_aritmetica
+methods:
+  - method_fattorizzazione
+skills:
+  - skill_astrazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2007
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2007 Junior (marzo) — Quesito 27
+
+*Quante collane rubate (diamanti tra 200 e 300)*
+
+> Da una cassaforte sono state rubate alcune collane di diamanti, tutte con
+> lo stesso numero di diamanti (almeno 2 per collana). Tutti i diamanti che le
+> componevano vengono ritrovati: il loro numero complessivo è compreso fra
+> 200 e 300. L’investigatore che indaga sul furto, semplicemente contando i diamanti ritrovati, è in grado di risalire con certezza al numero delle collane
+> rubate. Quante collane sono state rubate dalla cassaforte? 
+> A) 16 
+> B) 17
+> C) 19 
+> D) 25 
+> E) un numero diverso dai precedenti
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** apri PDF p.6

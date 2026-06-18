@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2008_cadet_maggio__QC4
+parent: src_kangourou_2008_cadet_maggio
+competition: Kangourou 2008 - Cadet finale nazionale (Mirabilandia)
+family: kangourou
+year: '2008'
+level: kangourou
+country: Italia
+quesito: C4
+summary: Trovare un insieme IMPERFETTO infinito
+answer: '{2^(2k+1)}'
+topics:
+  - topic_aritmetica
+  - topic_insiemi_funzioni
+skills:
+  - skill_astrazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2008
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/insiemi_funzioni
+---
+
+# Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C4
+
+*Trovare un insieme IMPERFETTO infinito*
+
+> Chiama IMPERFETTO un insieme $A$ di numeri interi positivi tale che:
+> - sia composto da infiniti numeri;
+> - comunque tu scelga un sottoinsieme finito $B$ di tale insieme, la somma dei numeri di $B$ non sia mai il quadrato di un numero intero.
+> 
+> Trova almeno un insieme IMPERFETTO.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** {2^(2k+1)}
+**Fonte:** apri PDF p.1

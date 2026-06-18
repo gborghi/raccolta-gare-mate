@@ -1,0 +1,36 @@
+---
+tipo: quesito
+quesito_id: quesito_src_gs_2011_squadre__Q11
+parent: src_gs_2011_squadre
+competition: Coppa Fermat 2011 - Gara a squadre
+family: archimede
+year: '2011'
+level: squadre
+country: Italia
+quesito: '11'
+summary: Probabilita di aprire almeno 13 scatole
+answer: '6666'
+topics:
+  - topic_probabilita
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2011
+  - livello/squadre
+  - topic/probabilita
+---
+
+# Coppa Fermat 2011 - Gara a squadre — Quesito 11
+
+*Probabilita di aprire almeno 13 scatole*
+
+> Emilio Largo ha catturato James Bond e, con gusto sadico, lo sfida ad una strana roulette. Ci sono trentasei scatole numerate da $1$ a $36$ e trentasei palline numerate da $1$ a $36$; Largo introduce a caso in ciascuna scatola una pallina. Bond dovrà aprire una scatola, guardare il numero della pallina, aprire la scatola con quel numero, e continuare. Smette quando trova una pallina con il numero di una scatola già aperta. Se apre meno di tredici scatole, verrà gettato nella vasca degli squali. James calcola rapidamente la probabilità che ha di scampare, fa un ghigno beffardo e apre la scatola numero $5$. Qual è la probabilità che ha calcolato? Rispondere scrivendo le prime quattro cifre dopo la virgola del risultato.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 6666
+**Fonte:** apri PDF p.3

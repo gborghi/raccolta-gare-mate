@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q17
+parent: src_kangourou_2016_marzo_benjamin
+competition: Kangourou 2016 gara 17 marzo Benjamin
+family: kangourou
+year: '2016'
+level: kangourou
+country: Italia
+quesito: '17'
+summary: quanti giorni
+answer: A
+topics:
+  - topic_aritmetica
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2016
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2016 gara 17 marzo Benjamin — Quesito 17
+
+*quanti giorni*
+
+> Ofelia ha acquistato cibo per gatti per nutrire i suoi quattro gatti per 12 giorni. 
+> Tornando a casa ha trovato due gatti randagi e li ha portati a casa. Se dà ogni giorno 
+> a ogni gatto la stessa razione di cibo decisa quando ha fatto l’acquisto, quanti giorni 
+> durerà la scorta?
+> A) 8	
+> 	
+> B) 7	
+> 	
+> C) 6	
+> 	
+> D) 5	
+> 	
+> E) 4
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** A
+**Fonte:** apri PDF p.3

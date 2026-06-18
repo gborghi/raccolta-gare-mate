@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2003_cadet__Q08
+parent: src_kangourou_2003_cadet
+competition: Kangourou 2003 Cadet (20 marzo)
+family: kangourou
+year: '2003'
+level: kangourou
+country: Italia
+quesito: '8'
+summary: Numero impossibile di intersezioni di 4 segmenti
+answer: E
+topics:
+  - topic_geometria_piana
+  - topic_combinatoria
+methods:
+  - method_casework
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2003
+  - livello/kangourou
+  - topic/geometria_piana
+  - topic/combinatoria
+---
+
+# Kangourou 2003 Cadet (20 marzo) — Quesito 8
+
+*Numero impossibile di intersezioni di 4 segmenti*
+
+> Quattro segmenti non possono avere esattamente
+> A) 2
+> B) 3
+> C) 5
+> D) 6    
+> E) 7
+> punti di intersezione  (cioè punti in cui si intersechino almeno due di essi).
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** E
+**Fonte:** apri PDF p.2

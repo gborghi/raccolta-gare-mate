@@ -1,0 +1,40 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q06
+parent: src_kangourou_squadre_2009_semifinale
+competition: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
+family: kangourou
+year: '2009'
+level: squadre
+country: Italia
+quesito: '6'
+summary: Notti vissute dalla mamma prima di Martina (bisestili)
+answer: '9132'
+topics:
+  - topic_aritmetica
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2009
+  - livello/squadre
+  - topic/aritmetica
+---
+
+# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 6
+
+*Notti vissute dalla mamma prima di Martina (bisestili)*
+
+> Trova la frazione 
+> Il numeratore e il denominatore di una frazione sono entrambi numeri interi maggiori di zero e la 
+> loro somma non supera 103; il valore della frazione è il più alto possibile compatibilmente con il 
+> fatto di essere strettamente minore di 1/3. 
+> Scrivete nell’ordine prima il numeratore e poi il denominatore della frazione.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 9132
+**Fonte:** apri PDF p.2

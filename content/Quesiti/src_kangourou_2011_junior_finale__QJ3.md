@@ -1,0 +1,38 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2011_junior_finale__QJ3
+parent: src_kangourou_2011_junior_finale
+competition: Kangourou 2011 Finale Junior (Mirabilandia)
+family: kangourou
+year: '2011'
+level: kangourou
+country: Italia
+quesito: J3
+summary: Chi salta circuito con fossato senza cadere e perche
+answer: Bruna
+topics:
+  - topic_aritmetica
+  - topic_logica
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2011
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/logica
+---
+
+# Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J3
+
+*Chi salta circuito con fossato senza cadere e perche*
+
+> Ada, Bruna, Carla, Dora ed Enrica saltano ciascuna sul proprio jumper la cui base è praticamente un punto. Ognuna di loro compie salti sempre della stessa lunghezza; le lunghezze sono rispettivamente $70, 80, 85, 90$ e $95$ cm. Seguono tutte, partendo da uno stesso punto e muovendosi nello stesso verso, uno stesso circuito circolare lungo $400$ metri, che è attraversato da un fossato largo $73$ cm. Accade che solo una di loro riesce a fare $6$ giri completi del circuito senza cadere nel fossato: chi e perché? (Le lunghezze dei salti e la larghezza del fossato si intendono misurate su archi del circuito, non su corde.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** Bruna
+**Fonte:** apri PDF p.1

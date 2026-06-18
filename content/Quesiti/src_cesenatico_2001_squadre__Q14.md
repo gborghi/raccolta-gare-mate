@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2001_squadre__Q14
+parent: src_cesenatico_2001_squadre
+competition: Gara Nazionale a Squadre Cesenatico 2001
+family: archimede
+year: '2001'
+level: squadre
+country: Italia
+quesito: '14'
+summary: Anni bisestili (somma cifre 7) tra anno 0 e 5000
+answer: '0110'
+topics:
+  - topic_combinatoria
+methods:
+  - method_casework
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2001
+  - livello/squadre
+  - topic/combinatoria
+---
+
+# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 14
+
+*Anni bisestili (somma cifre 7) tra anno 0 e 5000*
+
+> **Calendari** (30 punti)
+> 
+> Nel calendario imese gli anni bisestili sono quelli corrispondenti a numeri la cui somma delle cifre è 7 (ad esempio l'anno 1060 è bisestile). Quanti anni bisestili ci sono stati tra l'anno zero e l'anno 5000?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0110
+**Fonte:** apri PDF p.3

@@ -1,0 +1,43 @@
+---
+tipo: quesito
+quesito_id: quesito_src_garaprime_2020__Q05
+parent: src_garaprime_2020
+competition: Gara Nazionale Classi Prime 2020
+family: archimede
+year: '2020'
+level: ''
+country: Italia
+quesito: '5'
+summary: Quante volte coincidono lancette secondi e minuti
+answer: A
+topics:
+  - topic_aritmetica
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2020
+  - topic/aritmetica
+---
+
+# Gara Nazionale Classi Prime 2020 — Quesito 5
+
+*Quante volte coincidono lancette secondi e minuti*
+
+> Nell’intervallo di tempo di 12 ore che va dalle 10:00:05 alle 22:00:05
+> quante volte capita che in un orologio la lancetta dei secondi e quella dei minuti
+> puntino nella stessa direzione?
+> A 708
+> B 720
+> C 719
+> D 660
+> E 600
+> F 590
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** A
+**Fonte:** apri PDF p.1

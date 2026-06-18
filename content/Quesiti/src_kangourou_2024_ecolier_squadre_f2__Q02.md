@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q02
+parent: src_kangourou_2024_ecolier_squadre_f2
+competition: Kangourou Squadre 2024 Ecolier Finale 2
+family: kangourou
+year: '2024'
+level: squadre
+country: Italia
+quesito: '2'
+summary: Più grande numero settimino di 4 cifre
+answer: '9877'
+topics:
+  - topic_aritmetica
+  - topic_logica
+methods:
+  - method_estremalita
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2024
+  - livello/squadre
+  - topic/aritmetica
+  - topic/logica
+---
+
+# Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 2
+
+*Più grande numero settimino di 4 cifre*
+
+> Il settimino  
+> Diciamo che un numero intero di 4 cifre è settimino se ha la seguente proprietà:  
+> “il prodotto di due delle sue cifre è uguale alla somma di 7 con il prodotto delle altre due.” 
+> Ad esempio, il numero 2701 è settimino: infatti 7 × 1 = 7 + 2 × 0. Qual è il più grande dei numeri 
+> settimini? 
+> Risposta: 9877.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 9877
+**Fonte:** apri PDF p.1

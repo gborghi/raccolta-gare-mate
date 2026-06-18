@@ -1,0 +1,26 @@
+---
+tipo: gara
+src_id: src_kangourou_2011_student_finale
+competition: Kangourou 2011 Finale Student (Mirabilandia)
+family: kangourou
+year: '2011'
+level: kangourou
+country: Italia
+n_quesiti: '6'
+tags:
+  - kg/gara
+  - paese/italia
+  - comp/kangourou
+  - anno/2011
+---
+
+# Kangourou 2011 Finale Student (Mirabilandia)
+
+Sorgente: `Kangaroo/kangourou_individuali/2011/SMaggio-11.pdf` · apri PDF
+
+- [[src_kangourou_2011_student_finale__QS1|Quesito S1]] — Max numero di cifre distinte divisibile per ognuna delle sue cifre
+- [[src_kangourou_2011_student_finale__QS2|Quesito S2]] — Chi salta circuito con fossato senza cadere e perche
+- [[src_kangourou_2011_student_finale__QS3|Quesito S3]] — numero di C sempre uguale
+- [[src_kangourou_2011_student_finale__QS4|Quesito S4]] — Quanti valori distinti somma perimetri di 4 triangoli area 1/4
+- [[src_kangourou_2011_student_finale__QS5|Quesito S5]] — Per quali m la formica esce dalla scatola piastrellata
+- [[src_kangourou_2011_student_finale__QS6|Quesito S6]] — Minimo elementi del sottoinsieme A con rapporti non oltre 2

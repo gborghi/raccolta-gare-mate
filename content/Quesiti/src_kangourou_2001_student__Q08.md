@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2001_student__Q08
+parent: src_kangourou_2001_student
+competition: Kangourou 2001 - Student (15 marzo)
+family: kangourou
+year: '2001'
+level: kangourou
+country: Italia
+quesito: '8'
+summary: Quaterne x<y<z<t con xyzt-1=2001
+answer: B
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_conteggio
+  - method_fattorizzazione
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2001
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/combinatoria
+---
+
+# Kangourou 2001 - Student (15 marzo) — Quesito 8
+
+*Quaterne x<y<z<t con xyzt-1=2001*
+
+> Il numero delle diverse quaterne di interi positivi (x, y, z, t)  tali che  x < y < z < t
+> e  xyzt - 1 = 2001, è uguale a
+> (A) 10
+> (B) 7
+> (C) 6
+> (D) 4
+> (E) 1.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** apri PDF p.2

@@ -1,0 +1,50 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q21
+parent: src_kangourou_2020_cadet_marzo
+competition: Kangourou 2020 Gara marzo Cadet
+family: kangourou
+year: '2020'
+level: kangourou
+country: Italia
+quesito: '21'
+summary: Colore del cubo al sesto posto (vincoli di colore)
+answer: D
+topics:
+  - topic_logica
+  - topic_combinatoria
+methods:
+  - method_casework
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2020
+  - livello/kangourou
+  - topic/logica
+  - topic/combinatoria
+---
+
+# Kangourou 2020 Gara marzo Cadet — Quesito 21
+
+*Colore del cubo al sesto posto (vincoli di colore)*
+
+> Dodici cubi colorati sono allineati. Ci sono 3 cubi blu, 2 cubi gialli, 3 cubi rossi e 
+> 4 cubi verdi, ma non in quest’ordine. C’è un cubo giallo a un’estremità della fila e un 
+> cubo rosso all’altra estremità. I cubi rossi sono tutti contigui; anche quelli verdi sono 
+> tutti contigui. Il decimo cubo da sinistra è blu. Qual è il colore del cubo che sta nel 
+> sesto posto da sinistra?
+> A) Certamente blu.	
+> B) Certamente giallo.	
+>          C) Certamente rosso.	
+> D) Certamente verde.	
+> E) Blu o rosso.
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** apri PDF p.4

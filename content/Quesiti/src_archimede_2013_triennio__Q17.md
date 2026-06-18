@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2013_triennio__Q17
+parent: src_archimede_2013_triennio
+competition: Giochi di Archimede 2013 - Triennio
+family: archimede
+year: '2013'
+level: triennio
+country: Italia
+quesito: '17'
+summary: 'Ordinamento crescente di 3^33, 4^30, 5^25'
+answer: B
+topics:
+  - topic_disuguaglianze
+methods:
+  - method_disuguaglianze
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2013
+  - livello/triennio
+  - topic/disuguaglianze
+---
+
+# Giochi di Archimede 2013 - Triennio — Quesito 17
+
+*Ordinamento crescente di 3^33, 4^30, 5^25*
+
+> Come si ordinano in ordine crescente di grandezza i tre numeri 333, 430, 525 ?
+> (A) 333 < 430 < 525
+> (B) 333 < 525 < 430
+> (C) 430 < 333 < 525
+> (D) 430 < 525 < 333
+> (E) 525 < 430 < 333
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** B
+**Fonte:** apri PDF p.2

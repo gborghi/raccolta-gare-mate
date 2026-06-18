@@ -1,0 +1,50 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2017_junior_marzo__Q15
+parent: src_kangourou_2017_junior_marzo
+competition: Kangourou 2017 Junior - Gara 16 marzo
+family: kangourou
+year: '2017'
+level: kangourou
+country: Italia
+quesito: '15'
+summary: Rapporto area esagono e triangolo equilatero
+answer: D
+topics:
+  - topic_geometria_piana
+methods:
+  - method_simmetria
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2017
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2017 Junior - Gara 16 marzo — Quesito 15
+
+*Rapporto area esagono e triangolo equilatero*
+
+![[src_kangourou_2017_junior_marzo__prob15.png]]
+
+> Osserva la figura. Dal punto medio di ogni lato di un 
+> triangolo equilatero sono tracciate le due perpendicolari 
+> ai lati opposti, individuando in questo modo un esagono 
+> regolare. Qual è il rapporto tra l’area dell’esagono e l’a­
+> rea del triangolo equilatero?
+> A) 1 / 3	 	
+> B) 2 / 5	 	
+> C) 4 / 9	 	
+> D) 1 / 2	 	
+> E) 2 / 3
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** apri PDF p.3

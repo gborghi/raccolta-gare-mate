@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q17
+parent: src_kangourou_2007_benjamin_marzo
+competition: Kangourou 2007 Benjamin (marzo)
+family: kangourou
+year: '2007'
+level: kangourou
+country: Italia
+quesito: '17'
+summary: Euro al secondo classificato (premi raddoppiano)
+answer: C
+topics:
+  - topic_algebra
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2007
+  - livello/kangourou
+  - topic/algebra
+---
+
+# Kangourou 2007 Benjamin (marzo) — Quesito 17
+
+*Euro al secondo classificato (premi raddoppiano)*
+
+> 1005 euro sono ripartiti tra i concorrenti che si sono piazzati ai primi
+> quattro posti di una corsa. Il premio raddoppia ad ogni piazzamento, così ad
+> esempio il terzo classificato vince il doppio di quanto vince il quarto. Quanti
+> euro riceve chi si è piazzato in seconda posizione? 
+> A) 138  
+> B) 140  
+> C) 268  
+> D) 300 
+> E) 301,50
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** C
+**Fonte:** apri PDF p.4

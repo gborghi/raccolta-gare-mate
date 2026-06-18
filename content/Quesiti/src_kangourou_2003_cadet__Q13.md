@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2003_cadet__Q13
+parent: src_kangourou_2003_cadet
+competition: Kangourou 2003 Cadet (20 marzo)
+family: kangourou
+year: '2003'
+level: kangourou
+country: Italia
+quesito: '13'
+summary: Punteggio sul terzo bersaglio
+answer: C
+topics:
+  - topic_algebra
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2003
+  - livello/kangourou
+  - topic/algebra
+---
+
+# Kangourou 2003 Cadet (20 marzo) — Quesito 13
+
+*Punteggio sul terzo bersaglio*
+
+![[src_kangourou_2003_cadet__prob13.png]]
+
+> Eros tira tre frecce in ciascuno dei tre bersagli. Totalizza 29 punti sul
+> primo e 43 sul secondo. Quanti punti totalizza sul terzo?
+> A) 31
+> B) 33
+> C) 36        
+> D) 38
+> E) 39
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** C
+**Fonte:** apri PDF p.3

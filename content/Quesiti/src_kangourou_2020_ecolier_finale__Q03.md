@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q03
+parent: src_kangourou_2020_ecolier_finale
+competition: Kangourou 2020 Finale nazionale Ecolier
+family: kangourou
+year: '2020'
+level: kangourou
+country: Italia
+quesito: '3'
+summary: Schemi diversi per salire 8 gradini (1 o 2)
+answer: '0034'
+topics:
+  - topic_combinatoria
+methods:
+  - method_ricorsione
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2020
+  - livello/kangourou
+  - topic/combinatoria
+---
+
+# Kangourou 2020 Finale nazionale Ecolier — Quesito 3
+
+*Schemi diversi per salire 8 gradini (1 o 2)*
+
+> In ogni cella della griglia che vedi qui a fianco è indicata un'operazione. Antonio ombreggia tutte le celle contenenti un'operazione il cui risultato è $20$. Quale delle seguenti forme ottiene?
+> 
+> Le operazioni nella griglia sono: $16 + 4$, $2 \times 10$, $40 : 2$, $16 - 4$, $28 - 8$, $7 \times 3$.
+> 
+> (A) (forma A)
+> (B) (forma B)
+> (C) (forma C)
+> (D) (forma D)
+> (E) (forma E)
+> 
+> (vedi figura)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0034
+**Fonte:** apri PDF p.1

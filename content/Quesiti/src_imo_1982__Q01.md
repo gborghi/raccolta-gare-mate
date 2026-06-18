@@ -1,0 +1,43 @@
+---
+tipo: quesito
+quesito_id: quesito_src_imo_1982__Q01
+parent: src_imo_1982
+competition: IMO 1982 (23rd International Mathematical Olympiad)
+family: imo
+year: '1982'
+level: IMO
+country: Italia
+quesito: '1'
+summary: Determine f(1982) for a subadditive integer function
+topics:
+  - topic_funzionali
+  - topic_aritmetica
+methods:
+  - method_disuguaglianze
+skills:
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/imo
+  - anno/1982
+  - livello/IMO
+  - topic/funzionali
+  - topic/aritmetica
+---
+
+# IMO 1982 (23rd International Mathematical Olympiad) — Quesito 1
+
+*Determine f(1982) for a subadditive integer function*
+
+> La funzione $f(n)$ è definita per tutti gli interi positivi $n$ e prende valori interi non negativi. Inoltre, per tutti gli $m, n$:
+> $$f(m + n) - f(m) - f(n) = 0 \text{ oppure } 1$$
+> $f(2) = 0$, $f(3) > 0$, e $f(9999) = 3333$.
+> 
+> Determinare $f(1982)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF p.1

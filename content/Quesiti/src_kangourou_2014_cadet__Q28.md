@@ -1,0 +1,52 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2014_cadet__Q28
+parent: src_kangourou_2014_cadet
+competition: Kangourou 2014 marzo Cadet
+family: kangourou
+year: '2014'
+level: kangourou
+country: Italia
+quesito: '28'
+summary: Minimo valore di M con divisibilità per 2 e 13
+answer: C
+topics:
+  - topic_aritmetica
+methods:
+  - method_congruenze
+  - method_estremalita
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2014
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2014 marzo Cadet — Quesito 28
+
+*Minimo valore di M con divisibilità per 2 e 13*
+
+> Sulla lavagna sono stati scritti alcuni numeri interi positivi tutti diversi tra loro. 
+> Esattamente due di essi sono divisibili per 2 ed esattamente 13 di essi sono divisibili 
+> per 13. Sia M il più grande di questi numeri: qual è il più piccolo valore che può as­
+> sumere M?
+> A) 143	 	
+> B) 260	 	
+> C) 273	 	
+> D) 299	 	
+> E) 325
+> 
+> Kangourou 2014
+> pagina 20
+> CADET
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** apri PDF p.5

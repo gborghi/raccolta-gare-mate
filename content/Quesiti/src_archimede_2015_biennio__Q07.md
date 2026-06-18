@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2015_biennio__Q07
+parent: src_archimede_2015_biennio
+competition: Giochi di Archimede 2015 - Biennio
+family: archimede
+year: '2015'
+level: biennio
+country: Italia
+quesito: '7'
+summary: Area triangolo DEF da punti medi in triangolo ABC
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2015
+  - livello/biennio
+  - topic/geometria_piana
+---
+
+# Giochi di Archimede 2015 - Biennio — Quesito 7
+
+*Area triangolo DEF da punti medi in triangolo ABC*
+
+> L’area di un triangolo ABC è di 832 cm2. Indichiamo con D il punto medio del
+> lato AB, con E il punto medio di BC e con F il punto medio del segmento AE.
+> Di quanti cm2 è l’area del triangolo DEF?
+> (A) 78
+> (B) 156
+> (C) 104
+> (D) 124
+> (E) i dati non bastano a determinarlo
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF p.1

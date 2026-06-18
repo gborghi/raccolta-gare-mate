@@ -1,0 +1,40 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2006_student_marzo__Q02
+parent: src_kangourou_2006_student_marzo
+competition: Kangourou 2006 Student (marzo)
+family: kangourou
+year: '2006'
+level: kangourou
+country: Italia
+quesito: '2'
+summary: Max quadratini aggiungibili senza variare perimetro
+answer: E
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2006
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2006 Student (marzo) — Quesito 2
+
+*Max quadratini aggiungibili senza variare perimetro*
+
+![[src_kangourou_2006_student_marzo__prob2.png]]
+
+> Osserva la figura: ai quadratini colorati in grigio puoi
+> aggiungerne altri, senza che il perimetro della regione colorata in grigio aumenti. Quanti puoi aggiungerne, al massimo?
+> A) 0         B) 7          C) 18          D) 12          E) 16
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** E
+**Fonte:** apri PDF p.1

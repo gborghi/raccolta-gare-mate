@@ -1,0 +1,56 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2011_junior__Q07
+parent: src_kangourou_2011_junior
+competition: Kangourou 2011 Junior (gara marzo)
+family: kangourou
+year: '2011'
+level: kangourou
+country: Italia
+quesito: '7'
+summary: Posizione di 2011 nella lista decrescente somma cifre 4
+answer: D
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2011
+  - livello/kangourou
+  - topic/combinatoria
+  - topic/aritmetica
+---
+
+# Kangourou 2011 Junior (gara marzo) — Quesito 7
+
+*Posizione di 2011 nella lista decrescente somma cifre 4*
+
+> Supponiamo di scrivere in ordine decrescente tutti i numeri interi positivi
+> di 4 cifre significative (cioè tali che la cifra delle migliaia non sia 0), la somma
+> delle cui cifre è 4. Che posizione occupa in questa lista il numero 2011?  
+> A) La sesta
+> B) La settima
+> C) L’ottava      D) La nona     E) La decima
+> A
+> B
+> Testi_11Mat.qxp  19-05-2011  21:25  Pagina 22
+> 
+> Pag. 
+> Pag. 23
+> 23
+> Kang 201
+> Kang 2011
+> Junior
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** apri PDF p.1

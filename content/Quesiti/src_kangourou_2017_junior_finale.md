@@ -1,0 +1,26 @@
+---
+tipo: gara
+src_id: src_kangourou_2017_junior_finale
+competition: Kangourou 2017 Junior - Finale nazionale Cervia
+family: kangourou
+year: '2017'
+level: kangourou
+country: Italia
+n_quesiti: '6'
+tags:
+  - kg/gara
+  - paese/italia
+  - comp/kangourou
+  - anno/2017
+---
+
+# Kangourou 2017 Junior - Finale nazionale Cervia
+
+Sorgente: `Kangaroo/kangourou_individuali/2017/J-settembre17.pdf` · apri PDF
+
+- [[src_kangourou_2017_junior_finale__QJ1|Quesito J1]] — Conviene scegliere somma 9 o 10 ai dadi
+- [[src_kangourou_2017_junior_finale__QJ2|Quesito J2]] — Terne di dispari consecutivi tutti primi
+- [[src_kangourou_2017_junior_finale__QJ3|Quesito J3]] — Tempo di volo con vento andata e ritorno
+- [[src_kangourou_2017_junior_finale__QJ4|Quesito J4]] — Sequenze consecutive con somma cifre divisibile per 7
+- [[src_kangourou_2017_junior_finale__QJ5|Quesito J5]] — Coppia diametrale e cerchio minimo di un insieme
+- [[src_kangourou_2017_junior_finale__QJ6|Quesito J6]] — Cubi inscrivibili in un dodecaedro regolare

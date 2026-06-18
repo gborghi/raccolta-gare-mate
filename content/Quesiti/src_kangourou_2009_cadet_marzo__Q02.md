@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q02
+parent: src_kangourou_2009_cadet_marzo
+competition: Kangourou 2009 - Cadet (gara 19 marzo)
+family: kangourou
+year: '2009'
+level: kangourou
+country: Italia
+quesito: '2'
+summary: Con quanti compagni ha ballato la quarta ragazza
+answer: E
+topics:
+  - topic_combinatoria
+  - topic_logica
+methods:
+  - method_doppio_conteggio
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2009
+  - livello/kangourou
+  - topic/combinatoria
+  - topic/logica
+---
+
+# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 2
+
+*Con quanti compagni ha ballato la quarta ragazza*
+
+> Ad una festa da ballo hanno partecipato 4 ragazze e 4 ragazzi. Alla
+> fine i quattro ragazzi dichiarano di aver ballato con 3, 1, 2, 2 diverse
+> compagne mentre tre delle ragazze dichiarano di aver ballato ciascuna con 2 diversi compagni. Con quanti compagni diversi ha ballato la
+> quarta ragazza? 
+> A) 1
+> B) 3
+> C) 0
+> D) 4
+> E) 2
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** apri PDF p.1

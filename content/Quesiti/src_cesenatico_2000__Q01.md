@@ -1,0 +1,39 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2000__Q01
+parent: src_cesenatico_2000
+competition: Gara Nazionale Cesenatico 2000
+family: archimede
+year: '2000'
+level: nazionale
+country: Italia
+quesito: '1'
+summary: Numeri speciali con cifre 0-9 e divisibilita
+topics:
+  - topic_aritmetica
+methods:
+  - method_congruenze
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2000
+  - livello/nazionale
+  - topic/aritmetica
+---
+
+# Gara Nazionale Cesenatico 2000 — Quesito 1
+
+*Numeri speciali con cifre 0-9 e divisibilita*
+
+> Diciamo che tre numeri dispari $a < b < c$ sono consecutivi se $c - b = b - a = 2$. Chiamiamo "speciali" quei numeri interi che hanno tutte le cifre uguali e che si possono scrivere come somma dei quadrati di tre numeri dispari consecutivi.
+> (a) Determinare tutti i numeri speciali di 4 cifre.
+> (b) Esistono numeri speciali di 2000 cifre?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF p.1

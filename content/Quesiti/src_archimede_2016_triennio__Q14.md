@@ -1,0 +1,60 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2016_triennio__Q14
+parent: src_archimede_2016_triennio
+competition: Giochi di Archimede 2016 - Triennio
+family: archimede
+year: '2016'
+level: triennio
+country: Italia
+quesito: '14'
+summary: Ampiezza angolo APC con angolo esterno
+answer: C
+topics:
+  - topic_geometria_piana
+methods:
+  - method_trigonometria
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2016
+  - livello/triennio
+  - topic/geometria_piana
+---
+
+# Giochi di Archimede 2016 - Triennio — Quesito 14
+
+*Ampiezza angolo APC con angolo esterno*
+
+![[src_archimede_2016_triennio__prob14.png]]
+
+> Data un circonferenza γ avente centro O e diametro AB
+> lungo 12 cm, sia C un punto di γ tale che A“
+> OC = 60°, e
+> sia P un punto sul prolungamento del diametro AB, dalla
+> parte di B, tale che OD = DP (dove D è il punto d’intersezione tra PC e γ compreso tra C e P). Qual è l’ampiezza
+> dell’angolo A“
+> PC?
+> (A) 15°
+> (B) 45°
+> 2
+> (C) 20°
+> (D) 18°
+> (E) 24°
+> O
+> A
+> B
+> 60°
+> C
+> D
+> P
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** C
+**Fonte:** apri PDF p.2

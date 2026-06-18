@@ -1,0 +1,37 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB4
+parent: src_kangourou_2024_benjamin_finale
+competition: Kangourou Finale Benjamin 2024
+family: kangourou
+year: '2024'
+level: kangourou
+country: Italia
+quesito: B4
+summary: Sono di piu le frazioni riducibili o le irriducibili (1..6)
+topics:
+  - topic_aritmetica
+methods:
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2024
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou Finale Benjamin 2024 — Quesito B4
+
+*Sono di piu le frazioni riducibili o le irriducibili (1..6)*
+
+> Considera tutte le possibili frazioni di valore non superiore a $1$, nelle quali sia il numeratore sia il denominatore sono numeri interi tra $1$ e $6$ inclusi. Sono di più le frazioni riducibili o quelle irriducibili?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF p.2

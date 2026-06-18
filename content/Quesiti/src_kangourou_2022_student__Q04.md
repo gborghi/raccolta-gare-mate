@@ -1,0 +1,39 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2022_student__Q04
+parent: src_kangourou_2022_student
+competition: Kangourou 2022 Student — Gara 17 marzo
+family: kangourou
+year: '2022'
+level: kangourou
+country: Italia
+quesito: '4'
+summary: 'Prodotto cifre di numero 10 cifre =15, somma cifre'
+answer: D
+topics:
+  - topic_aritmetica
+methods:
+  - method_fattorizzazione
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2022
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2022 Student — Gara 17 marzo — Quesito 4
+
+*Prodotto cifre di numero 10 cifre =15, somma cifre*
+
+> 4. Il prodotto delle cifre di un numero intero di 10 cifre è 15. Qual è la somma delle 10 cifre del numero? A) 8 B) 12 C) 15 D) 16 E) 20 pagina 26 Kangourou 2022
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** apri PDF p.1

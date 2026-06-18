@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2013__Q06
+parent: src_cesenatico_2013
+competition: Olimpiade Italiana (Cesenatico) 2013 - soluzioni
+family: archimede
+year: '2013'
+level: nazionale
+country: Italia
+quesito: '6'
+summary: per quali n la strategia funziona
+answer: n potenza di due
+topics:
+  - topic_combinatoria
+  - topic_logica
+methods:
+  - method_invarianti
+skills:
+  - skill_astrazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2013
+  - livello/nazionale
+  - topic/combinatoria
+  - topic/logica
+---
+
+# Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 6
+
+*per quali n la strategia funziona*
+
+> Due maghi si esibiscono nel seguente numero. All’inizio il primo mago rinchiude il secondo mago in una cabina
+> dove non possa n´e vedere n´e sentire nulla. Per iniziare il gioco, il primo mago invita Daniele, un membro del
+> pubblico, a porre su ogni casella di una scacchiera n × n, a propria discrezione, una pedina bianca o nera.
+> Dopodich´e chiede a Daniele di indicargli una casella C a sua scelta. A questo punto, il primo mago sceglie una
+> casella D (non necessariamente diversa da C) e sostituisce la pedina che si trova su D con una dell’altro colore
+> (bianca con nera o nera con bianca).
+> Viene quindi aperta la cabina in cui era rinchiuso il secondo mago. Osservando la scacchiera, il secondo mago
+> riesce a indovinare qual è la casella C. Per quali n i due maghi possono attuare una strategia tale che il loro
+> numero riesca sempre?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** n potenza di due
+**Fonte:** apri PDF p.3

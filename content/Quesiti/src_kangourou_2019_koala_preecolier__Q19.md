@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q19
+parent: src_kangourou_2019_koala_preecolier
+competition: Kangourou 2019 Koala n.6 Pre-Ecolier
+family: kangourou
+year: '2019'
+level: kangourou
+country: Italia
+quesito: '19'
+summary: 'Quanti dromedari (10 animali, 14 gobbe)'
+topics:
+  - topic_algebra
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2019
+  - livello/kangourou
+  - topic/algebra
+---
+
+# Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 19
+
+*Quanti dromedari (10 animali, 14 gobbe)*
+
+![[src_kangourou_2019_koala_preecolier__prob19.png]]
+
+> Nello zoo ci sono alcuni cammelli con due gobbe e alcuni dromedari con una gobba, 10 animali in tutto. Complessivamente ci sono 14 gobbe. Quanti sono i dromedari?
+> 
+> (A) 2
+> (B) 3
+> (C) 4
+> (D) 6
+> (E) 7
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** apri PDF p.8

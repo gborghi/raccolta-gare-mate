@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2002_benjamin__Q12
+parent: src_kangourou_2002_benjamin
+competition: Kangourou 2002 - Benjamin (21 marzo)
+family: kangourou
+year: '2002'
+level: kangourou
+country: Italia
+quesito: '12'
+summary: Perimetro del quadrato IV
+answer: C
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2002
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2002 - Benjamin (21 marzo) — Quesito 12
+
+*Perimetro del quadrato IV*
+
+![[src_kangourou_2002_benjamin__prob12.png]]
+
+> Le figure I, II, III e IV sono dei quadrati. Il perimetro 
+> del quadrato I misura 16 metri mentre il perimetro del 
+> quadrato II misura 24 metri. Quanto misura il 
+> perimetro del quadrato IV? 
+>  
+> A. 56 m. B. 60 m. 
+> C. 64 m. 
+> D. 72 m. 
+> E. 80 m.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]]
+**Risposta:** C
+**Fonte:** apri PDF p.3

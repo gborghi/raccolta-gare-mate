@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2004__Q05
+parent: src_cesenatico_2004
+competition: XX Olimpiade Italiana Cesenatico 2004 - individuale
+family: archimede
+year: '2004'
+level: nazionale
+country: Italia
+quesito: '5'
+summary: Enunciato su successioni reali decomposte in due con somme parziali
+answer: vero
+topics:
+  - topic_funzionali
+methods:
+  - method_casework
+skills:
+  - skill_astrazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2004
+  - livello/nazionale
+  - topic/funzionali
+---
+
+# XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 5
+
+*Enunciato su successioni reali decomposte in due con somme parziali*
+
+> Determinare se il seguente enunciato è vero o falso:
+> “Per ogni successione x1, x2, x3, ... di numeri reali maggiori o uguali a zero esistono due successioni
+> a1, a2, a3, ... e b1, b2, b3, ... di numeri reali maggiori o uguali a zero tali che
+> • xn = an + bn per ogni n;
+> • a1 + ... + an ≤n per infiniti valori di n;
+> • b1 + ... + bn ≤n per infiniti valori di n, eventualmente diversi dai precedenti.”
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** vero
+**Fonte:** apri PDF p.3

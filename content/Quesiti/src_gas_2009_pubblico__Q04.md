@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_gas_2009_pubblico__Q04
+parent: src_gas_2009_pubblico
+competition: Gara a Squadre 2009 - Gara del Pubblico
+family: archimede
+year: '2009'
+level: squadre
+country: Italia
+quesito: '4'
+summary: Interi 1-55 non esprimibili come somma con segni di quadrati
+answer: '0041'
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_casework
+  - method_conteggio
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2009
+  - livello/squadre
+  - topic/aritmetica
+  - topic/combinatoria
+---
+
+# Gara a Squadre 2009 - Gara del Pubblico — Quesito 4
+
+*Interi 1-55 non esprimibili come somma con segni di quadrati*
+
+> Compleanni gobbit
+> [20]
+> I gobbit hanno un ciclo vitale differente da quello degli umani, infatti raggiungono la maturità più
+> tardi e restano giovani molto più a lungo. Oggi è il compleanno di Polino, ma Morry non ricorda
+> più l’età del suo giovane amico. Polino allora pone questo indovinello: “La mia età è pari al
+> numero di interi tra 1 e 55 che non si possono scrivere come ±12 ±22 ±32 ±42 ±52 per nessuna
+> scelta dei segni”. Quanti anni ha Polino?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0041
+**Fonte:** apri PDF p.1

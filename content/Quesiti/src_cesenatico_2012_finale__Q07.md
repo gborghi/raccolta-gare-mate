@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2012_finale__Q07
+parent: src_cesenatico_2012_finale
+competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
+family: archimede
+year: '2012'
+level: nazionale
+country: Italia
+quesito: '7'
+summary: n con aura 8128 (fattori a min differenza)
+answer: '4425'
+topics:
+  - topic_aritmetica
+  - topic_algebra
+methods:
+  - method_fattorizzazione
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2012
+  - livello/nazionale
+  - topic/aritmetica
+  - topic/algebra
+---
+
+# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 7
+
+*n con aura 8128 (fattori a min differenza)*
+
+> Doppio della somma delle risposte alle domande 5 e 3.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 4425
+**Fonte:** apri PDF p.21

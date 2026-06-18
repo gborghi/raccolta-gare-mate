@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2004__Q04
+parent: src_cesenatico_2004
+competition: XX Olimpiade Italiana Cesenatico 2004 - individuale
+family: archimede
+year: '2004'
+level: nazionale
+country: Italia
+quesito: '4'
+summary: chi ha strategia vincente
+answer: 'Antonio se almeno uno tra m,n dispari; Bernardo se entrambi pari'
+topics:
+  - topic_logica
+methods:
+  - method_invarianti
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2004
+  - livello/nazionale
+  - topic/logica
+---
+
+# XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 4
+
+*chi ha strategia vincente*
+
+> Antonio e Bernardo giocano al seguente gioco: sono date due pile di gettoni, una con m gettoni e
+> l’altra con n gettoni. Ogni giocatore sceglie a turno una delle seguenti mosse:
+> • prendere un gettone da una delle pile;
+> • prendere un gettone da ciascuna delle pile;
+> • spostare un gettone da una pila ad un’altra.
+> Perde chi non può più muovere. Comincia Antonio. Determinare, in funzione di m ed n, se uno dei
+> due giocatori ha una strategia vincente, e in caso affermativo specificare di quale giocatore si tratta.
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** Antonio se almeno uno tra m,n dispari; Bernardo se entrambi pari
+**Fonte:** apri PDF p.3

@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2001_junior__Q17
+parent: src_kangourou_2001_junior
+competition: Kangourou 2001 - Junior (15 marzo)
+family: kangourou
+year: '2001'
+level: kangourou
+country: Italia
+quesito: '17'
+summary: Numero di figli con prodotto eta 1664
+answer: B
+topics:
+  - topic_aritmetica
+methods:
+  - method_fattorizzazione
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2001
+  - livello/kangourou
+  - topic/aritmetica
+---
+
+# Kangourou 2001 - Junior (15 marzo) — Quesito 17
+
+*Numero di figli con prodotto eta 1664*
+
+> Il prodotto delle età dei miei figli (in anni) è 1664. Il più giovane ha la metà degli
+> anni del più anziano e non vi sono gemelli. Quanti figli ho?
+> (A) 2
+> (B) 3
+> (C) 4
+> (D) 5
+> (E) 6.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** apri PDF p.4

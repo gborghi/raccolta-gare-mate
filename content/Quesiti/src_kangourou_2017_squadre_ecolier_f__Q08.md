@@ -1,0 +1,50 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q08
+parent: src_kangourou_2017_squadre_ecolier_f
+competition: Kangourou Coppa Squadre Ecolier 2017 Finale
+family: kangourou
+year: '2017'
+level: squadre
+country: Italia
+quesito: '8'
+summary: Monete nel salvadanaio per completare le figure quadrate
+answer: '119'
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_ricorsione
+skills:
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2017
+  - livello/squadre
+  - topic/aritmetica
+  - topic/combinatoria
+---
+
+# Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 8
+
+*Monete nel salvadanaio per completare le figure quadrate*
+
+![[src_kangourou_2017_squadre_ecolier_f__prob8.png]]
+
+> Le monete 
+> Dopo aver rotto il salvadanaio, Renato dispone le monete da 1 euro seguendo lo  schema illustrato 
+> dal disegno, cioè in modo da disegnare un 
+> quadrato con  una moneta al centro. Se ha 
+> ancora esattamente tante monete da poter 
+> completare le successive tre figure, quante 
+> monete da 1 euro c’erano nel salvadanaio di 
+> Renato?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 119
+**Fonte:** apri PDF p.2

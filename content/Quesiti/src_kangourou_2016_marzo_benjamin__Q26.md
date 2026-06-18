@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q26
+parent: src_kangourou_2016_marzo_benjamin
+competition: Kangourou 2016 gara 17 marzo Benjamin
+family: kangourou
+year: '2016'
+level: kangourou
+country: Italia
+quesito: '26'
+summary: la sesta
+answer: D
+topics:
+  - topic_geometria_solida
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2016
+  - livello/kangourou
+  - topic/geometria_solida
+---
+
+# Kangourou 2016 gara 17 marzo Benjamin — Quesito 26
+
+*la sesta*
+
+![[src_kangourou_2016_marzo_benjamin__prob26.png]]
+
+> Un cubo è stato composto accostando 8 cubetti di ugual lato, alcuni 
+> bianchi e altri neri. Cinque delle facce del cubo sono mostrate in figura.
+> Quale delle seguenti è la sesta?
+>  
+>         A)	 	
+>     B)	
+> 	
+> C) 	
+>          D)		
+>      E)
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** apri PDF p.5

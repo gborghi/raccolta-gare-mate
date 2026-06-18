@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2004_cadet_finale__QC6
+parent: src_kangourou_2004_cadet_finale
+competition: Kangourou 2004 Cadet finale nazionale
+family: kangourou
+year: '2004'
+level: kangourou
+country: Italia
+quesito: C6
+summary: Max tessere a croce sulla scacchiera 8x8
+answer: '8'
+topics:
+  - topic_combinatoria
+  - topic_geometria_piana
+methods:
+  - method_colorazione
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2004
+  - livello/kangourou
+  - topic/combinatoria
+  - topic/geometria_piana
+---
+
+# Kangourou 2004 Cadet finale nazionale — Quesito C6
+
+*Max tessere a croce sulla scacchiera 8x8*
+
+![[src_kangourou_2004_cadet_finale__probC6.png]]
+
+> Sistemiamo in una scacchiera quadrata $8 \times 8$ delle tessere a forma di croce simmetrica come quella in figura, formate dall'accostamento di 5 quadrati di dimensione identica alle celle della scacchiera, in modo che:
+> - ciascuna di esse vada a coprire esattamente (sovrapponendovisi) 5 delle 64 caselle della scacchiera;
+> - le tessere non si sovrappongano, ma possano toccarsi e toccare il bordo della scacchiera.
+> 
+> Quante tessere può ospitare al massimo la scacchiera? (vedi figura)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** 8
+**Fonte:** apri PDF p.1

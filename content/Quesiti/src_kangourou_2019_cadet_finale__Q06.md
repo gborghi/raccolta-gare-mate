@@ -1,0 +1,40 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2019_cadet_finale__Q06
+parent: src_kangourou_2019_cadet_finale
+competition: Kangourou 2019 Finale Nazionale Cadet
+family: kangourou
+year: '2019'
+level: kangourou
+country: Italia
+quesito: '6'
+summary: Lunghezza dello spigolo VD della piramide a base rettangolare
+answer: '60'
+topics:
+  - topic_geometria_solida
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2019
+  - livello/kangourou
+  - topic/geometria_solida
+---
+
+# Kangourou 2019 Finale Nazionale Cadet — Quesito 6
+
+*Lunghezza dello spigolo VD della piramide a base rettangolare*
+
+![[src_kangourou_2019_cadet_finale__prob6.png]]
+
+> Di una piramide a base rettangolare sono note le lunghezze di tre dei quattro spigoli obliqui che ne congiungono il vertice $V$ con i vertici $A$, $B$, $C$, $D$ della base:
+> $$VA = 90 \text{ m}, \quad VB = 70 \text{ m}, \quad VC = 20 \text{ m}.$$
+> È possibile determinare la lunghezza dello spigolo $VD$? In caso affermativo determina tale lunghezza, in caso negativo individua le misure di due piramidi che rispettino i dati del problema in cui la lunghezza dello spigolo $VD$ sia diversa.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 60
+**Fonte:** apri PDF p.1

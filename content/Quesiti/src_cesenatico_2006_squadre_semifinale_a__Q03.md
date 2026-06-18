@@ -1,0 +1,39 @@
+---
+tipo: quesito
+quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q03
+parent: src_cesenatico_2006_squadre_semifinale_a
+competition: Gara a Squadre Cesenatico 2006 - Semifinale A
+family: archimede
+year: '2006'
+level: squadre
+country: Italia
+quesito: '3'
+summary: Lunghezza BC dati due lati e mediana da A
+answer: '2088'
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2006
+  - livello/squadre
+  - topic/geometria_piana
+---
+
+# Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 3
+
+*Lunghezza BC dati due lati e mediana da A*
+
+> La costruzione del malandrino
+> L’unico modo per rendere visibile ciò che è stato scritto sulla costruzione del malandrino consiste nel
+> risolvere un problema geomantico: in un triangolo ABC le lunghezze dei lati uscenti da A sono 1358 e
+> 2006, e la mediana uscente da A ha lunghezza 1358. Qual è la lunghezza di BC?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 2088
+**Fonte:** apri PDF p.1

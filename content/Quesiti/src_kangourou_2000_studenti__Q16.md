@@ -1,0 +1,43 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2000_studenti__Q16
+parent: src_kangourou_2000_studenti
+competition: Kangourou 2000 - 3 maggio (individuale)
+family: kangourou
+year: '2000'
+level: kangourou
+country: Italia
+quesito: '16'
+summary: Tempo per lavare 3 elefanti insieme
+answer: D
+topics:
+  - topic_algebra
+skills:
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2000
+  - livello/kangourou
+  - topic/algebra
+---
+
+# Kangourou 2000 - 3 maggio (individuale) — Quesito 16
+
+*Tempo per lavare 3 elefanti insieme*
+
+> L’addestratore degli elefanti del Circo Kang impiega 40 minuti per lavare un elefante. Il suo
+> giovane figlio impiega 2 ore per fare lo stesso lavoro. Quanto tempo impiegheranno l’addestratore
+> ed il proprio figlio per lavare tre elefanti, se essi lavorano insieme ?
+> A) 
+> 30 min.  B) 45 min.  
+> C) 60 min.  
+> D) 90 min.  
+> E) 100 min.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** apri PDF p.2

@@ -1,0 +1,112 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2023_student__Q24
+parent: src_kangourou_2023_student
+competition: Kangourou Categoria Student 2023
+family: kangourou
+year: '2023'
+level: kangourou
+country: Italia
+quesito: '24'
+summary: Su quale triangolo il tetraedro riposa la faccia colorata
+answer: E
+topics:
+  - topic_geometria_solida
+  - topic_combinatoria
+methods:
+  - method_invarianti
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2023
+  - livello/kangourou
+  - topic/geometria_solida
+  - topic/combinatoria
+---
+
+# Kangourou Categoria Student 2023 — Quesito 24
+
+*Su quale triangolo il tetraedro riposa la faccia colorata*
+
+![[src_kangourou_2023_student__prob24.png]]
+
+> Un tetraedro regolare 
+> ha una faccia colorata e tre 
+> bianche. La figura piana a 
+> destra è unione di triangoli 
+> congruenti con le facce del 
+> tetraedro. 
+> Il tetraedro viene collocato 
+> sulla figura in modo che la 
+> sua faccia colorata si sovrapponga al triangolo con la scritta START; poi viene ruotato 
+> lungo uno dei suoi spigoli in modo da sovrapporre una faccia al triangolo adiacente. 
+> Iterando le rotazioni (senza mai tornare indietro), su quale triangolo il tetraedro poserà 
+> di nuovo per la prima volta la faccia colorata?  
+> A) A	
+> 	
+> B) B	
+> 	
+> C) C	
+> 	
+> D) D	
+> 	
+> E) E
+>       
+>                    
+>                     10 
+>  11 
+>       12 
+>    13
+> 24            9  
+>  2 
+>        3    
+>    14
+> 23 
+>        8  
+>  1 
+>         4            15
+> 22 
+>        7  
+>   6 
+>         5            16 
+> 21 
+>       20 
+>  19 
+>        18 
+>    17
+> ...
+> 627
+> 626  
+> 625  
+>   
+>    626 
+>   627  
+>   625 
+>  625         626 
+>     627 
+>    625 
+>    626
+>  
+>    627
+>  625
+>  626 
+>  627
+> A
+> B
+> C
+> D
+> E
+> START
+> 
+> Kangourou 2023
+> pagina 30
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** E
+**Fonte:** apri PDF p.4

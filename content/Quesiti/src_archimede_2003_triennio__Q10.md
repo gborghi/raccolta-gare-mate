@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2003_triennio__Q10
+parent: src_archimede_2003_triennio
+competition: Giochi di Archimede 2003 - Triennio
+family: archimede
+year: '2003'
+level: triennio
+country: Italia
+quesito: '10'
+summary: rapporto
+topics:
+  - topic_geometria_piana
+methods:
+  - method_conteggio
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2003
+  - livello/triennio
+  - topic/geometria_piana
+---
+
+# Giochi di Archimede 2003 - Triennio — Quesito 10
+
+*rapporto*
+
+> Un ragno vuole ispezionare la superficie esterna di una piramide a base quadrata,
+> le cui facce laterali sono triangoli equilateri. Partendo dal centro di una faccia
+> laterale, vuole toccare i centri di tutte le altre facce laterali, seguendo il cammino
+> più breve possibile. Sapendo che uno spigolo della piramide misura 2, trovare la
+> lunghezza totale del percorso.
+> (A) 4
+> (B) 2
+> √
+> 3
+> (C) 3
+> (D) 3
+> 2
+> √
+> 2
+> (E) nessuna delle precedenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF p.11

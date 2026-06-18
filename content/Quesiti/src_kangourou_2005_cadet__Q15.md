@@ -1,0 +1,38 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2005_cadet__Q15
+parent: src_kangourou_2005_cadet
+competition: Kangourou 2005 - Cadet (marzo)
+family: kangourou
+year: '2005'
+level: kangourou
+country: Italia
+quesito: '15'
+summary: Quale non e sviluppo piano di un cubo
+answer: D
+topics:
+  - topic_geometria_solida
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2005
+  - livello/kangourou
+  - topic/geometria_solida
+---
+
+# Kangourou 2005 - Cadet (marzo) — Quesito 15
+
+*Quale non e sviluppo piano di un cubo*
+
+![[src_kangourou_2005_cadet__prob15.png]]
+
+> Quale dei seguenti non è lo sviluppo piano di un cubo?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** apri PDF p.3

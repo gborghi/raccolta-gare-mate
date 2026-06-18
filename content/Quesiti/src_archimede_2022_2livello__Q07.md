@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2022_2livello__Q07
+parent: src_archimede_2022_2livello
+competition: Archimede Gara di Febbraio 2022 - 2° livello
+family: archimede
+year: '2022'
+level: 2 livello
+country: Italia
+quesito: '7'
+summary: 'Giustapposizione di x e y uguale a 7xy, somma x+y'
+answer: B
+topics:
+  - topic_aritmetica
+methods:
+  - method_fattorizzazione
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2022
+  - livello/2-livello
+  - topic/aritmetica
+---
+
+# Archimede Gara di Febbraio 2022 - 2° livello — Quesito 7
+
+*Giustapposizione di x e y uguale a 7xy, somma x+y*
+
+> Alla lavagna è scritta la moltiplicazione x × y, dove x e y sono numeri interi positivi di tre cifre.
+> Nicolò, un po’ sbadato, non ha notato il simbolo di moltiplicazione e ricopia sul suo quaderno
+> il numero di sei cifre ottenuto giustapponendo x e y. L’insegnante, passando fra i banchi, fa
+> notare a Nicolò che il numero da lui scritto è uguale a 7 volte il prodotto xy. Quanto vale la
+> somma x + y?
+> (A) 125
+> (B) 286
+> (C) 312
+> (D) 487
+> (E) 513
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** apri PDF p.1

@@ -1,0 +1,50 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2011_student__Q23
+parent: src_kangourou_2011_student
+competition: Kangourou 2011 Student (gara marzo)
+family: kangourou
+year: '2011'
+level: kangourou
+country: Italia
+quesito: '23'
+summary: Valore di f2011(2011) nella successione di funzioni
+answer: A
+topics:
+  - topic_funzionali
+  - topic_insiemi_funzioni
+methods:
+  - method_ricorsione
+skills:
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2011
+  - livello/kangourou
+  - topic/funzionali
+  - topic/insiemi_funzioni
+---
+
+# Kangourou 2011 Student (gara marzo) — Quesito 23
+
+*Valore di f2011(2011) nella successione di funzioni*
+
+> La successione di funzioni numeriche f1(x), f2(x), ... soddisfa le seguenti
+> due condizioni: 
+> (1) f1(x) = x
+> (2) fn +1(x) = (1 −fn (x))-1 per ogni intero positivo n. 
+> Qual è il valore di f2011(2011) ?  
+> A) 2011
+> B) −
+> C) 
+> D) 1
+> E) −2011
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** A
+**Fonte:** apri PDF p.5

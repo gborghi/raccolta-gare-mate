@@ -1,0 +1,53 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2012_biennio__Q08
+parent: src_archimede_2012_biennio
+competition: Giochi di Archimede 2012 - Biennio
+family: archimede
+year: '2012'
+level: 'biennio, triennio'
+country: Italia
+quesito: '8'
+summary: Modi di colorare mattonelle esagonali con tre colori
+answer: D
+topics:
+  - topic_combinatoria
+  - topic_logica
+methods:
+  - method_colorazione
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2012
+  - livello/biennio
+  - livello/triennio
+  - topic/combinatoria
+  - topic/logica
+---
+
+# Giochi di Archimede 2012 - Biennio — Quesito 8
+
+*Modi di colorare mattonelle esagonali con tre colori*
+
+![[src_archimede_2012_biennio__prob8.png]]
+
+> Un pavimento è piastrellato come in figura. In quanti modi è
+> possibile colorare le mattonelle esagonali di blu, rosso e nero
+> in modo che due mattonelle esagonali con un lato in comune
+> non abbiano mai lo stesso colore?
+> (A) nessuno
+> (B) 2
+> (C) 3
+> (D) 6
+> (E) infiniti
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** apri PDF p.1
+**Anche in triennio:** apri PDF p.3

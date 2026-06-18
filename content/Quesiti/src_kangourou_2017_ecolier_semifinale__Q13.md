@@ -1,0 +1,54 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q13
+parent: src_kangourou_2017_ecolier_semifinale
+competition: Kangourou 2017 Ecolier - Semifinale individuale
+family: kangourou
+year: '2017'
+level: kangourou
+country: Italia
+quesito: '13'
+summary: Costo minimo strisce per ricoprire figure
+answer: 0018
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_casework
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2017
+  - livello/kangourou
+  - topic/combinatoria
+  - topic/aritmetica
+---
+
+# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 13
+
+*Costo minimo strisce per ricoprire figure*
+
+![[src_kangourou_2017_ecolier_semifinale__prob13.png]]
+
+> (Punti 6) In cartoleria si possono acquistare strisce corte di cartoncino come 
+> quelle che vedi nella prima figura: alcune sono costituite da tre quadratini allineati, 
+> altre da cinque; i quadratini sono tutti identici fra loro. Ogni striscia, 
+> indipendentemente dalla sua lunghezza, costa un euro. Usando strisce come queste, Giuliana vuole 
+> ricoprire le cinque strisce che vedi nella 
+> seconda figura, costituite da 10, 12, 16, 
+> 18 e 20 quadratini allineati identici ai 
+> precedenti. Le strisce corte che usa 
+> devono sovrapporsi perfettamente a 
+> quelle da ricoprire, dunque non devono 
+> debordare da esse, e non devono 
+> sovrapporsi tra loro. Quanti euro dovrà spendere Giuliana per realizzare il suo piano?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0018
+**Fonte:** apri PDF p.2

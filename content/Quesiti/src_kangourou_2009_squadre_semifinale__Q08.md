@@ -1,0 +1,40 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q08
+parent: src_kangourou_2009_squadre_semifinale
+competition: Kangourou 2009 squadre semifinale
+family: kangourou
+year: '2009'
+level: squadre
+country: Italia
+quesito: '8'
+summary: Segmento corto su lato suddiviso triangolo 40-50-60
+answer: '15'
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2009
+  - livello/squadre
+  - topic/geometria_piana
+---
+
+# Kangourou 2009 squadre semifinale — Quesito 8
+
+*Segmento corto su lato suddiviso triangolo 40-50-60*
+
+> Il triangolo suddiviso 
+> I lati di un triangolo sono lunghi 40, 50 e 60 centimetri. Tracciando un segmento con un estremo nel 
+> vertice relativo all’angolo più piccolo e l’altro estremo sul lato opposto, il triangolo viene suddiviso 
+> in due triangoli che hanno lo stesso perimetro. Quanti centimetri è lungo il più corto dei due 
+> segmenti in cui viene suddiviso quel lato?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 15
+**Fonte:** apri PDF p.2

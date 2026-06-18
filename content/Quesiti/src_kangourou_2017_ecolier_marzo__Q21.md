@@ -1,0 +1,51 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q21
+parent: src_kangourou_2017_ecolier_marzo
+competition: Kangourou 2017 Écolier (gara marzo)
+family: kangourou
+year: '2017'
+level: kangourou
+country: Italia
+quesito: '21'
+summary: Pizzette del ragazzo che ne ha mangiato di piu
+answer: C
+topics:
+  - topic_aritmetica
+  - topic_logica
+skills:
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2017
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/logica
+---
+
+# Kangourou 2017 Écolier (gara marzo) — Quesito 21
+
+*Pizzette del ragazzo che ne ha mangiato di piu*
+
+> Quattro fratelli hanno mangiato in tutto 11 pizzette. Ognuno di essi ne ha mangiato 
+> almeno una e nessuno di loro ha mangiato lo stesso numero di pizzette. Tre di loro 
+> hanno mangiato in tutto 9 pizzette e uno di loro ha mangiato esattamente 3 pizzette. 
+> Quante pizzette sono state mangiate dal ragazzo che ne ha mangiato il maggior nu­
+> mero?
+> A) 3	
+> 	
+> B) 4	
+> 	
+> C) 5	
+> 	
+> D) 6	
+> 	
+> E) 7
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
+**Fonte:** apri PDF p.5

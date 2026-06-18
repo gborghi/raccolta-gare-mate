@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2003_biennio__Q16
+parent: src_archimede_2003_biennio
+competition: Giochi di Archimede 2003 - Biennio
+family: archimede
+year: '2003'
+level: biennio
+country: Italia
+quesito: '16'
+summary: Quando vale p+(qr)=(p+q)(p+r)
+topics:
+  - topic_algebra
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2003
+  - livello/biennio
+  - topic/algebra
+---
+
+# Giochi di Archimede 2003 - Biennio — Quesito 16
+
+*Quando vale p+(qr)=(p+q)(p+r)*
+
+> Se p, q, r sono tre numeri reali, p × (q + r) = (p × q) + (p × r) è sempre vero. In
+> quali casi si ha anche p + (q × r) = (p + q) × (p + r)?
+> (A) Se e solo se p = q = r = 1
+> 3 oppure p = 0
+> (B) se e solo se p = q = r
+> (C) mai
+> (D) se e solo se p + q + r = 1 oppure p = 0
+> (E) se e solo se p = q = r = 0.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** apri PDF p.2

@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q03
+parent: src_kangourou_2007_benjamin_marzo
+competition: Kangourou 2007 Benjamin (marzo)
+family: kangourou
+year: '2007'
+level: kangourou
+country: Italia
+quesito: '3'
+summary: Quale sezione X per ordinare le automobiline
+answer: A
+topics:
+  - topic_logica
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2007
+  - livello/kangourou
+  - topic/logica
+---
+
+# Kangourou 2007 Benjamin (marzo) — Quesito 3
+
+*Quale sezione X per ordinare le automobiline*
+
+![[src_kangourou_2007_benjamin_marzo__prob3.png]]
+
+> Matteo sta costruendo un percorso per
+> le automobiline accostando tre sezioni. Per
+> avere alla fine le automobiline ordinate
+> come in arrivo, quale degli elementi seguenti deve sostituire alla sezione centrale X?
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** A
+**Fonte:** apri PDF p.1

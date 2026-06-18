@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2011_cadet__Q24
+parent: src_kangourou_2011_cadet
+competition: Kangourou 2011 Cadet (gara marzo)
+family: kangourou
+year: '2011'
+level: kangourou
+country: Italia
+quesito: '24'
+summary: Quanti tiri ha fatto Michele
+answer: D
+topics:
+  - topic_aritmetica
+  - topic_algebra
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2011
+  - livello/kangourou
+  - topic/aritmetica
+  - topic/algebra
+---
+
+# Kangourou 2011 Cadet (gara marzo) — Quesito 24
+
+*Quanti tiri ha fatto Michele*
+
+> Michele ha giocato al tiro a segno. Il 25% dei suoi tiri non è andato a segno;
+> con i tiri che sono andati a segno, ha colpito solo il 5, l’8 e il 10, centrando l’8 e il
+> 10 lo stesso numero di volte. Se ha fatto 99 punti in totale, quanti tiri ha fatto
+> Michele?
+> A) 10
+> B) 12
+> C) 16
+> D) 20
+> E) 24
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** apri PDF p.5

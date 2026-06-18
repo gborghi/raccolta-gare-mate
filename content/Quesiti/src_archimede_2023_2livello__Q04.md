@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_archimede_2023_2livello__Q04
+parent: src_archimede_2023_2livello
+competition: Archimede Gara di Febbraio 2023 - 2° livello
+family: archimede
+year: '2023'
+level: 2 livello
+country: Italia
+quesito: '4'
+summary: 'Griglia 4x4 con 1,2,3, somme righe/colonne divisibili 3'
+answer: D
+topics:
+  - topic_combinatoria
+methods:
+  - method_congruenze
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/archimede
+  - anno/2023
+  - livello/2-livello
+  - topic/combinatoria
+---
+
+# Archimede Gara di Febbraio 2023 - 2° livello — Quesito 4
+
+*Griglia 4x4 con 1,2,3, somme righe/colonne divisibili 3*
+
+> Marina riempie le caselle di una griglia 4 × 4 scrivendo dentro ciascuna il numero 1, il numero
+> 2 o il numero 3. Quanti sono i modi di riempire la griglia tali che la somma di ogni riga e la
+> somma di ogni colonna siano divisibili per 3?
+> (A) 38 −1
+> (B) 38
+> (C) 2 · 38
+> (D) 39
+> (E) Nessuna delle precedenti
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** apri PDF p.3

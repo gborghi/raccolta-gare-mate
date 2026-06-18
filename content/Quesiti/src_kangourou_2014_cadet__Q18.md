@@ -1,0 +1,50 @@
+---
+tipo: quesito
+quesito_id: quesito_src_kangourou_2014_cadet__Q18
+parent: src_kangourou_2014_cadet
+competition: Kangourou 2014 marzo Cadet
+family: kangourou
+year: '2014'
+level: kangourou
+country: Italia
+quesito: '18'
+summary: Lunghezze delle tre parti dalle bisettrici nel rettangolo
+answer: E
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/kangourou
+  - anno/2014
+  - livello/kangourou
+  - topic/geometria_piana
+---
+
+# Kangourou 2014 marzo Cadet — Quesito 18
+
+*Lunghezze delle tre parti dalle bisettrici nel rettangolo*
+
+> Un rettangolo ha lati di lunghezza 6 cm e 11 cm. Tracciamo le bisettrici degli 
+> angoli che hanno il vertice nei due estremi di uno dei due lati maggiori: esse dividono 
+> il lato opposto in tre parti. Quali sono le lunghezze in centimetri di queste tre parti?
+> A) 1, 9, 1	
+> 	
+> B) 2, 7, 2	
+> 	
+> C) 3, 5, 3	
+> D) 4, 3, 4	
+> 	
+> E) 5, 1, 5
+> 
+> Kangourou 2014
+> pagina 18
+> CADET
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** E
+**Fonte:** apri PDF p.3
