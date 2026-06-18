@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: forme nel rettangolo centrale
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 22

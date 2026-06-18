@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Relazione tra a e b dati i percentuali
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Student - Gara 16 marzo — Quesito 4

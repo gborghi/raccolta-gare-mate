@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Minimo lucchetti da aprire per 50 monete
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (marzo) — Quesito 12

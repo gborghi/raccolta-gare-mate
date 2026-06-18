@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Frazione ombreggiata dell'esagono regolare
 answer: 0209
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 1

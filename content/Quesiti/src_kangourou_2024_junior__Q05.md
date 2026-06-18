@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Lunghezza del piu breve percorso ripassando i segmenti
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Junior 2024 — Quesito 5

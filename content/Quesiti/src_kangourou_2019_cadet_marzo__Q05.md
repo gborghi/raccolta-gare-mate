@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Quale figura mostra i tre cerchietti inanellati uguali
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara di Marzo Cadet — Quesito 5

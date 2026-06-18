@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Raggio con quadrilatero CAPB area uguale a quadrato inscritto
 answer: 0894
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Semifinale 1 — Quesito 7

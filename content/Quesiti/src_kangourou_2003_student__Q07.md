@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Valore piu probabile della differenza di due dadi
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student (20 marzo) — Quesito 7

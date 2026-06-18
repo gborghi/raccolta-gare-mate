@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Primi che restano primi cancellando cifre
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 15

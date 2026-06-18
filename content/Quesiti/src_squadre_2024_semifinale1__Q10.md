@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Sottoinsiemi di 1-12 con prodotto cifra unita zero
 answer: '3040'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Semifinale 1 — Quesito 10

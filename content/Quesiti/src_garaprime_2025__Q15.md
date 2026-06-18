@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Valore di 3a+1/a dato 9a^2+1/a^2=19
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2025
   - topic/algebra
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 15

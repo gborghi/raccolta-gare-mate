@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: 2022-mo intero senza cifra 1
 answer: '3797'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 1 — Quesito 5

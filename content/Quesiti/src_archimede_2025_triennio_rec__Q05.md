@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Area EFG in parallelogramma con segmenti e rapporti
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 5

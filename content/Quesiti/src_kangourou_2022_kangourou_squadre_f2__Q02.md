@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Lato verticale rettangolo con 8 dischi
 answer: '0020'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 2

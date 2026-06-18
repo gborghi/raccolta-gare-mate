@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quante potenze di 2025 sono quadrati perfetti
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 6

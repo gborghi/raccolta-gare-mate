@@ -7,6 +7,7 @@ family: imo
 year: '1990'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Find EG/EF in terms of t for tangent-line circle config
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1990
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1990 (31st IMO, Beijing) — Quesito 1

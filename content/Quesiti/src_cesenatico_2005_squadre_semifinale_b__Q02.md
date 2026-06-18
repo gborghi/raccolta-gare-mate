@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Modi per andare dal centro al bordo scacchiera in n mosse
 answer: '4092'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 2

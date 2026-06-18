@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Numero somma di tre e di quattro consecutivi
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Semifinale individuale — Quesito 9

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Persone max nel rifugio (area poligono esagonale)
 answer: '1034'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 14

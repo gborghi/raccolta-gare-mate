@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Lato obliquo di trapezio rettangolo da somme di quadrati
 answer: '5100'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 2

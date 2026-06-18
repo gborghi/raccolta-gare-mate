@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Negazione di 'ognuno ha risolto più di 20 problemi'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Junior — Quesito 7

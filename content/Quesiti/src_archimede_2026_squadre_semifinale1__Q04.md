@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Destinazioni da cui tornare a scuola con regole passaggi
 answer: '0037'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 4

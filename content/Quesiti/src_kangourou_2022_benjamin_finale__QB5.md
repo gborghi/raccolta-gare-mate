@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B5
 summary: Quanti triangoli equilateri congiungendo vertici di un cubo
 answer: '8'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin finale individuale — Quesito B5

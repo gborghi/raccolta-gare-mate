@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Massimo volume parallelepipedo con vincolo lineare sui lati
 answer: '6859'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/disuguaglianze
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Finale Nazionale — Quesito 18

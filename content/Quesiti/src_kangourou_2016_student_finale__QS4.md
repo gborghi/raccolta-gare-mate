@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S4
 summary: Somma degli inversi dei prodotti su tutti i sottoinsiemi
 answer: '2016'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (finale Cervia) — Quesito S4

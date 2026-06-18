@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Somma numeri sulle facce dato somma vertici 70
 answer: '14'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre finale — Quesito 5

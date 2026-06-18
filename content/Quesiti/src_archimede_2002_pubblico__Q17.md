@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: '70 punti, geometria'
 answer: '0130'
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/gara-del-pubblico
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 17

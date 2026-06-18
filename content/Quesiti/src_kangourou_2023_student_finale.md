@@ -6,12 +6,14 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2023
+  - gara/individuale
 ---
 
 # Kangourou Finale Student 2023

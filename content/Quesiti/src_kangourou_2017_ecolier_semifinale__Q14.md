@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Minimo numero di persone con 4 figli e 2 padri
 answer: '0005'
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Ecolier - Semifinale individuale — Quesito 14

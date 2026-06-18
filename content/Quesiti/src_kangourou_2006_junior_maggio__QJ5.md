@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Numeri con cifre consecutive e numero dispari di divisori
 answer: due
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior finale (maggio) — Quesito J5

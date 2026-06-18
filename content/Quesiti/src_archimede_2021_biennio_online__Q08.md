@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Succo di pera rimasto dopo miscele e prelievi
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 8

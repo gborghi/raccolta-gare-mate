@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S5
 summary: Per quali m la formica esce dalla scatola piastrellata
 answer: m=1+k(k+1)/2
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Student (Mirabilandia) — Quesito S5

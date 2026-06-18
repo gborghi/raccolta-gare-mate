@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Minimo colori per i vertici del cubo
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 8

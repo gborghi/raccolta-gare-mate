@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Misura dell'angolo ACD in ottagono regolare
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Gara 16 marzo — Quesito 17

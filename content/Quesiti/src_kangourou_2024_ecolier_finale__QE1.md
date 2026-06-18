@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: Quale risultato ottiene Marco (sempre 1089)
 answer: '1089'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Finale Ecolier 2024 — Quesito E1

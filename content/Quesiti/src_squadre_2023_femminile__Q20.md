@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Area superficie cubo raggiungibile da filo legato a bastoncino
 answer: '0102'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2023 - VI Finale — Quesito 20

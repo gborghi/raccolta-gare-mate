@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Massimo numero con resto uguale al quoziente per 45
 answer: '2024'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 12

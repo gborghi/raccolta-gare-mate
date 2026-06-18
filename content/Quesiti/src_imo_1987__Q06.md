@@ -7,6 +7,7 @@ family: imo
 year: '1987'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Prime-generating quadratic extends primality to larger range
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1987
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1987 (28th IMO, Havana) — Quesito 6

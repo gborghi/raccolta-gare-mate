@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Differenze tra centri di entry e segmenti tangenti
 topics:
@@ -17,6 +18,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 14

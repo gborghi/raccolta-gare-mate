@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Data in cui i malati erano 100000 con crescita esponenziale
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 6

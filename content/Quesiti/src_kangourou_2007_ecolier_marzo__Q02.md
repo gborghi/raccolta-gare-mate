@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Lettere comuni a KANGOUROU e PROBLEMA
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Ecolier (marzo) — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Passo minimo n con lato poligono sotto soglia
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 15

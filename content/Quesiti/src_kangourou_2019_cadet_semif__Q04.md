@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quanti giorni minimo per cui la seconda proposta conviene
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Cadet — Quesito 4

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Area della regione ombreggiata con cerchi grandi e piccoli
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior gara individuale — Quesito 11

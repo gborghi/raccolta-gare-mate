@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: 2014! divisibile per 2^a*19^b
 answer: '2116'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Finale — Quesito 11

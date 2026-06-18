@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Modi di scrivere 2006 seguendo le frecce
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Benjamin (marzo) — Quesito 8

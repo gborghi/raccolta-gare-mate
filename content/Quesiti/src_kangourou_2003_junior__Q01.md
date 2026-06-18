@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Gradi dell'angolo della fetta (15%)
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2003 Junior (20 marzo) — Quesito 1

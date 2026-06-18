@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Area del cortile ottagonale di triangoli equi/isosceli
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (semifinale individuale) — Quesito 6

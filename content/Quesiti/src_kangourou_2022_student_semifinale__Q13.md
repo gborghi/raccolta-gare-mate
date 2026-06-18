@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: 'Coppie (x,y) con x²+y e x+y² entrambi quadrati'
 answer: '0'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Semifinale individuale — Quesito 13

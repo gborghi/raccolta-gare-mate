@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Percentuale ombreggiata del pentagono regolare
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 3

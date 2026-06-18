@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Quante coppie (m,n) con |sqrt17-m|+sqrt(17+n)=20'
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Student — Quesito 14

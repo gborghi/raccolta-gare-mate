@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Lato dei due quadrati finali dal foglio 192x84
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2012 Ecolier (gara marzo) — Quesito 23

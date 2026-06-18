@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Massimo prodotto ab con a^2+b^2+1007ab=2018
 answer: '0002'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2018 Finale Nazionale Junior — Quesito 2

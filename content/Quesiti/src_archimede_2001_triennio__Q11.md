@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Quale affermazione vera su polinomio a coefficienti 0/1
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 11

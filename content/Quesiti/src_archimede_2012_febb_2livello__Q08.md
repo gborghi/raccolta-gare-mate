@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Spese crescono 0,5% annuo, anno in cui raddoppiano'
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 8

@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Minimo attraversamenti fiume con barchetta e vincoli
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 18

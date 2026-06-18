@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Somma dei numeri confinanti con 8 nella tabella 3x3
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 21

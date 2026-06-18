@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Unico numero visibile sovrapponendo i due fogli
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Écolier (gara marzo) — Quesito 3

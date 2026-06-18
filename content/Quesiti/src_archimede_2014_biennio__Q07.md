@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Massimo biglie nel distributore con 5 monete
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 7

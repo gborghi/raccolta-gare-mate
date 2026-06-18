@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Figura in cui si e usata di piu la matita grigia
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2020 Pre - gara marzo — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Numero divisori dell'mcm dei naturali da 1 a 30
 answer: '7680'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 2

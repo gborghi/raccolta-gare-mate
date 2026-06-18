@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Somma pesi dei divisori di 2310
 answer: 0028
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Finale Nazionale — Quesito 21

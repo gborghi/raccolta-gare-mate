@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Minima somma di 100 interi con prodotto 100
 answer: '0110'
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - finale — Quesito 8

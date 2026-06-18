@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Cifra centrale ordinando per lunghezza dei segmenti
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 11

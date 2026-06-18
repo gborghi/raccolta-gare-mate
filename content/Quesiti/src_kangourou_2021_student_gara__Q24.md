@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Di chi e figlio il cangurino s
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 24

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Volume coppa da sviluppo quadrato con esagoni
 answer: '2405'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 10

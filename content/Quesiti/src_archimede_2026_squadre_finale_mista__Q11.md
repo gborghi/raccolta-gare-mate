@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Area carta nera visibile dopo pieghe del quadrato
 answer: '4444'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 11

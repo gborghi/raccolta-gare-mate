@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Minimo linee per pareggiare i vagoni nelle stazioni
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Ecolier — Quesito 22

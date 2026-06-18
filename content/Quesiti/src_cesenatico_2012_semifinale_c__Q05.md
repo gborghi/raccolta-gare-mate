@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: somma cifre di grande potenza
 answer: 0936
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 5

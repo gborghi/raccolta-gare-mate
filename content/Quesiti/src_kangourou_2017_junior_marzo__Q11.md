@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Durata della vacanza da mezze giornate di pioggia
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Gara 16 marzo — Quesito 11

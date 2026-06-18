@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Segno della differenza A-B tra i due prodotti
 answer: nulla
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale Nazionale Cadet — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Punteggi diversi a podio con 10,8,5 punti in 16 gare'
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 11

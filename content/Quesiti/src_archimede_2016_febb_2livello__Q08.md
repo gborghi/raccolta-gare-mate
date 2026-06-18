@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Lunghezza HN con piede altezza, medio di BC e medio di AM'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 8

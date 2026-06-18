@@ -7,6 +7,7 @@ family: imo
 year: '1963'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Determinare l'ordine di arrivo dei cinque studenti
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1963 (V International Olympiad) — Quesito 6

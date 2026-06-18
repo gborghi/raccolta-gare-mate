@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Modi di comprare tre capi tutti di tipo diverso
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 1

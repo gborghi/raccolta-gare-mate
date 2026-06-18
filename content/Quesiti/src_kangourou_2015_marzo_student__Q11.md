@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Valore radice di espressione con 2015
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Student — Quesito 11

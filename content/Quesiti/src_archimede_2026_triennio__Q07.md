@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: 'Area cerchio da corde perpendicolari, teorema delle corde'
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 7

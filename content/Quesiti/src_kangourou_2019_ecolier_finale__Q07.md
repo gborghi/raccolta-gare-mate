@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Numeri pari con ultime sei cifre uguali in intervallo
 answer: '1235'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale Nazionale Ecolier — Quesito 7

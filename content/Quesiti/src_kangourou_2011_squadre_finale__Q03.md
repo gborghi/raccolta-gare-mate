@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Numero PAPA nella somma cifrata A+AP+APP=PQA
 answer: '5454'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre finale — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Eta di Alda (mesi anni doppio Carlo)
 answer: '0036'
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2020 Finale nazionale Ecolier — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Cammino minimo sulla superficie di un ottaedro
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 14

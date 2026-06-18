@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: 'Coppie (a,b) positive con a^2+b^2-2a-4b=2026'
 answer: '761'
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 16

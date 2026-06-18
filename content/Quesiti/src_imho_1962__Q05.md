@@ -7,6 +7,7 @@ family: imo
 year: '1962'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Costruire D sul cerchio per quadrilatero circoscrittibile
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1962
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1962 (IV International Olympiad) — Quesito 5

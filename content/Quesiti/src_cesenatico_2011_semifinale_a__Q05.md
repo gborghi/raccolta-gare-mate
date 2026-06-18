@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Minimi francobolli da 165 e 210 per 5160
 answer: '2302'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 5

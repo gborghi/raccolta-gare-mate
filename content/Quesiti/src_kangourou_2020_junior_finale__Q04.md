@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Numero della casa abbattuta (media 995,8)'
 answer: '1394'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2020 Finale — Quesito 4

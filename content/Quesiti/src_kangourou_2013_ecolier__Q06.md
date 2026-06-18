@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quale numero di amici non divide 36
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Ecolier — Quesito 6

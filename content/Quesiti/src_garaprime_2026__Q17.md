@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Somma cifre di 10^2026 - 2026
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 17

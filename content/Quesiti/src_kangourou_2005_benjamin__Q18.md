@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Numero di divisori di 100
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (marzo) — Quesito 18

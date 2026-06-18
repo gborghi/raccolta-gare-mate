@@ -7,6 +7,7 @@ family: imo
 year: '2016'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Minimo k fattori da cancellare senza soluzioni reali
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/algebra
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2016 papers — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Disegno visto sovrapponendo i due quadrati trasparenti
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gioco Koala (Marzo) — Quesito 10

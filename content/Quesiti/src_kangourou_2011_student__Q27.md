@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Quanti punteggi complessivi distinti con 3 frecce
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 27

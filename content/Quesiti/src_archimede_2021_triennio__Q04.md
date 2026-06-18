@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quale prodotto di potenze e un quadrato perfetto
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 4

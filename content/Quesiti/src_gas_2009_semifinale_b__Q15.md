@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Massima distanza tra due punti date somme quadrati ai vertici
 answer: '9000'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_analitica
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 15

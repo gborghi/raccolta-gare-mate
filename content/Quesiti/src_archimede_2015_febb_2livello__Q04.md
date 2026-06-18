@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Formica sul tastierino, quante affermazioni su n sono vere'
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 4

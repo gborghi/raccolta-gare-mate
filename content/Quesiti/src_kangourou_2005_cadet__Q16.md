@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Altezza acqua nel secchio dopo 20 l/m2 di pioggia
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (marzo) — Quesito 16

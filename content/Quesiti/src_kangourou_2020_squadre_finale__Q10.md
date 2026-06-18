@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Eta di Sofia con (x-55)(x+55) cubo di primo
 answer: '0066'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 10

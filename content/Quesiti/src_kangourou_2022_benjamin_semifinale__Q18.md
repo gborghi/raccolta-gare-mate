@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Minimo numero di operazioni per raggiungere 2022 da 1
 answer: 0009
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin semifinale individuale — Quesito 18

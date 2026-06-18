@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Lunghezza corda BD nel cerchio con corde a 60 gradi
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Junior — Quesito 30

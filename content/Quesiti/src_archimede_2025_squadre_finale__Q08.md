@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Massimo numero 5 cifre distinte non nulle autodivisibile
 answer: '8136'
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 8

@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Altezza della torre impilando i cinque cubi
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Cadet (gara marzo) — Quesito 21

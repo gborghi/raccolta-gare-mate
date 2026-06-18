@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Cloni totali primi 100 mesi (ricorrenza a blocchi)
 answer: '4525'
@@ -24,6 +25,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 4

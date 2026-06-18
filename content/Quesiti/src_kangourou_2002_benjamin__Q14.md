@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Aumento dell'altezza del soffitto
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Benjamin (21 marzo) — Quesito 14

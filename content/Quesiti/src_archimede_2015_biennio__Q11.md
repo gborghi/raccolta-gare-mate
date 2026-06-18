@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Percentuale massima di olio di palma dall'ordine ingredienti
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Biennio — Quesito 11

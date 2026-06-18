@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Max numero 4 cifre divisibile per 6 con cifre crescenti
 answer: '4578'
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Benjamin - semifinale — Quesito 14

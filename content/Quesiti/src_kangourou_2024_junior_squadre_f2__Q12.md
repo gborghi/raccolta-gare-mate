@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: 'Percentuale area S rispetto area T triangolo 3,4,5'
 answer: '0014'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 2 — Quesito 12

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Numero studenti scuola da diplomati, trasferiti e iscritti'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 6

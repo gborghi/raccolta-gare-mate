@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Posizione fermata che minimizza percorso totale studenti
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Junior — Quesito 11

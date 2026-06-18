@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Colorazioni dado con almeno tre colori e facce opposte diverse
 answer: D
@@ -24,6 +25,7 @@ tags:
   - anno/2016
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 5

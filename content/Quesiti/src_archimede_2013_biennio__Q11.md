@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Percorso piu corto per i vertici di un cubo
 answer: B
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 11

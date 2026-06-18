@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B3
 summary: Inclusioni tra insiemi di quadrilateri
 answer: 'C in D,B; D in A'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2004 Benjamin finale nazionale — Quesito B3

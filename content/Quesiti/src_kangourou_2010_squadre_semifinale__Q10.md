@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Numero pagine libro con 3005 cifre
 answer: '1028'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 10

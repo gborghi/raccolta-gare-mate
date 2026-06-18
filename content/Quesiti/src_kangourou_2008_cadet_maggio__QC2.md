@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C2
 summary: Sottoinsieme con somma/differenza divisibile per 10
 answer: si
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C2

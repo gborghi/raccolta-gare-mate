@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Somma dei cubi delle radici di un polinomio di quinto grado
 answer: 0491
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 10

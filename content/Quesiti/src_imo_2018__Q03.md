@@ -7,6 +7,7 @@ family: imo
 year: '2018'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Triangolo anti-Pascal con 2018 righe
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2018 papers — Quesito 3

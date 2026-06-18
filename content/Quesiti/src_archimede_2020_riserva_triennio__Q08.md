@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Minuti per riempire vasca con secondo rubinetto a meta
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2020
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 8

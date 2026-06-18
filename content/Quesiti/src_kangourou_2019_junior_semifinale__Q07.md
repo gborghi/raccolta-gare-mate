@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Cifra delle centinaia di 2019xN dati i divisori di 3N e 5N
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Junior — Quesito 7

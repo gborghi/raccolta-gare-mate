@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Somma dei numeri al posto dei punti interrogativi (cartoncino)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024 — Quesito 15

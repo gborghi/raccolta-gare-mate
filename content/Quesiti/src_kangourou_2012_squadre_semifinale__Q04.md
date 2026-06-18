@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Numero scritto la prima volta dato differenza 14789
 answer: '532'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A — Quesito 4

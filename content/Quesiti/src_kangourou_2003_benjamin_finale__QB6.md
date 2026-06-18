@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B6
 summary: Insieme di 200 interi senza un numero e il doppio
 answer: costruzione
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B6

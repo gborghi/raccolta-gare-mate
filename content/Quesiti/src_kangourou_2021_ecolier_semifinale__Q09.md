@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Affermazione sicuramente falsa (euro di Lisa)
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - semifinale — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Minimo calze da estrarre per 7 paia accoppiate
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 25

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'mcm(a,b)=n(a+b) e mcm(a,b,c)=n(a+b+c)'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 17

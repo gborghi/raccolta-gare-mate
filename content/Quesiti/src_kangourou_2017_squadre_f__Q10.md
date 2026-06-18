@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Biglie nella scatola portata via (blu triplo rosse)
 answer: '100'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2017 Finale — Quesito 10

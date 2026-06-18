@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Somma interi non ottenibili come somma di 5 e 7
 answer: '114'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 11

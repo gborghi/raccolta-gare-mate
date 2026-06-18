@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Quante disposizioni cavalieri/furfanti su griglia 5x5
 answer: '6'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2025 Cadet finale — Quesito C5

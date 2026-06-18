@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: n puo essere solo 0 o 2
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/2-livello
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2017 - 2 livello — Quesito 17

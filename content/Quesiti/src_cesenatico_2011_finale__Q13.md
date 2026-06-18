@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: 'multiplo di 3,4,5 in basi diverse'
 answer: '7980'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: Due triangoli con due lati e un'altezza uguali sono congruenti?
 answer: 'no'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student finale — Quesito S1

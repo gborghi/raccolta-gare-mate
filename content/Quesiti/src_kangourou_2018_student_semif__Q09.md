@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Massime sequenze di 7 lettere AB con distanza Hamming >=3
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Student — Quesito 9

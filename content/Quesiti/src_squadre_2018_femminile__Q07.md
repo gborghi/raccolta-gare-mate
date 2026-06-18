@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Somma cifre del numero dopo 2018 inserimenti di 15
 answer: '6058'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 7

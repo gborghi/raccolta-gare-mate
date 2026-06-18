@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: risultato
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2011 Cadet (gara marzo) — Quesito 2

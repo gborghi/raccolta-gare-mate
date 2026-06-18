@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Intero come somma di 2015 potenze 2014-esime in due modi
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2014
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Minimo i>0 per cui a_i multiplo di 19 nella ricorrenza
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 5

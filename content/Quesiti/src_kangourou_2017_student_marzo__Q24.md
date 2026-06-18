@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Rapporto volumi tetraedro sezionato
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2017 Student - Gara 16 marzo — Quesito 24

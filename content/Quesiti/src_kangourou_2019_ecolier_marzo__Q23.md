@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Chi ha mangiato il biscotto (uno solo mente)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara di Marzo Ecolier — Quesito 23

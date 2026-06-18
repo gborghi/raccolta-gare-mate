@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Quanti N di 4 cifre con un numero di 3 cifre divisore di N
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Junior (biennio) — Quesito 30

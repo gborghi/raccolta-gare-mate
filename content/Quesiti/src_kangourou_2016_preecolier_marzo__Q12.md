@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: 'In quante stanze la luce era spenta, 18 finestre illuminate'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 12

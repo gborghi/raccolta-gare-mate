@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Valore |a-b| con ab uguale somma dei 24 restanti
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 29

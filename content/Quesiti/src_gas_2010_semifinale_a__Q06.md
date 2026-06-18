@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Massimo a con a^2+100a+1 quadrato perfetto
 answer: '1200'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale A — Quesito 6

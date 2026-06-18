@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Perimetro quadrilatero con diagonali perpendicolari
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2020
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 12

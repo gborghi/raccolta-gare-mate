@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Area quadrato ABCD da quadrato e rombo bianchi
 answer: C
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 18

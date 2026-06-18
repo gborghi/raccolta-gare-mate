@@ -7,6 +7,7 @@ family: imo
 year: '1992'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Smallest n of colored edges forcing monochromatic triangle
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1992
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1992 (33rd IMO, Moscow) — Quesito 3

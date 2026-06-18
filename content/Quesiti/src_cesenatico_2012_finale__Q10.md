@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Minimo cavalieri tra abitanti (affermazioni)
 answer: '8112'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 10

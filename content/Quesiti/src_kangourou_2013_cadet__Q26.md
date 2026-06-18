@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Numero n di rette intersecate da c
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 26

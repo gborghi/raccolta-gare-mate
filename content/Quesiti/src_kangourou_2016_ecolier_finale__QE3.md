@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E3
 summary: Ultime cifre possibili se somma e prodotto coincidono
 answer: '0, 2 e 4'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (finale Cervia) — Quesito E3

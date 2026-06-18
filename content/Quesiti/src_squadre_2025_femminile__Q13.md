@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: p(14) con equazione funzionale e p(10)=100
 answer: '200'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 13

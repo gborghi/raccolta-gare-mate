@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quale delle cinque sagome mostra la faccia bianca
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 1

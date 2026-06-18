@@ -7,6 +7,7 @@ family: imo
 year: '1973'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Finite non-coplanar set with parallel-pairs property exists?
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/1973
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1973 (Fifteenth International Olympiad) — Quesito 2

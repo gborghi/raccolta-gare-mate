@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Quale somma non puo avere con 13 monete da 5 o 10
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Ecolier (gara marzo) — Quesito 11

@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Quale numero è divisore di mcm degli interi 1..100
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1999 — Quesito 8

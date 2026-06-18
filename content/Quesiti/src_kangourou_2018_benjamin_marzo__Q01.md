@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Immagine vista da sopra dei tre oggetti
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 1

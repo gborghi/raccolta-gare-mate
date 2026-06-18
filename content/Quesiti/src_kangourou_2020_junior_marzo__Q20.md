@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Probabilita che numero di 9 cifre sia divisibile per 18
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Junior - gara marzo (biennio) — Quesito 20

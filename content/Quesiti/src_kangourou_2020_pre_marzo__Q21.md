@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Quante mele gialle nel cestino
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Pre - gara marzo — Quesito 21

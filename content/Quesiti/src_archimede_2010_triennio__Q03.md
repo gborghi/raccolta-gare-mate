@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Numero cifre del quadrato di un numero di 10 cifre
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Somma minima griglia 3x3 con sei somme primi diversi
 answer: '29'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Finale — Quesito 7

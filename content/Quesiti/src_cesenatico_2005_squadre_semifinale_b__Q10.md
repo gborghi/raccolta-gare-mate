@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: 'Coppie (a,b) con a^4+4b^4+12ab-9 primo'
 answer: '0004'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 10

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Chi mente tra Ida Mara Olga
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2011 Cadet (gara marzo) — Quesito 23

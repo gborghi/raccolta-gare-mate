@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Coppie interi maggiori di 1 con x^2+y=xy+1
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 19

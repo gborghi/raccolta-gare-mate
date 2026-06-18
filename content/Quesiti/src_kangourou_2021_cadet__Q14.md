@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Lunghezza della sovrapposizione tra assi
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - gara marzo — Quesito 14

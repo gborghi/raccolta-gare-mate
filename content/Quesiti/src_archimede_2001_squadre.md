@@ -6,12 +6,14 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '25'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2001
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)

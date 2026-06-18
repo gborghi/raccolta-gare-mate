@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Lato max tavoletta quadrata in anello di raggio 8
 answer: '11'
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Semifinale A — Quesito 6

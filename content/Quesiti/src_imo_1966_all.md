@@ -6,12 +6,14 @@ family: imo
 year: '1966'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1966
+  - gara/individuale
 ---
 
 # IMO 1966 (Eighth International Olympiad)

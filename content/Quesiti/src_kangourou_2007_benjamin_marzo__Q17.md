@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Euro al secondo classificato (premi raddoppiano)
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin (marzo) — Quesito 17

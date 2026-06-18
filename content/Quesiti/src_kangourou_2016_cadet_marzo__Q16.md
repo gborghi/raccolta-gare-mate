@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: somma eta possibile
 answer: D
@@ -28,6 +29,7 @@ tags:
   - topic/aritmetica
   - topic/algebra
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2016 Cadet (gara marzo) — Quesito 16

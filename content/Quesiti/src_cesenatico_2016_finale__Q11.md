@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: multipli di 3 con cifre 1..b-1 in base b
 answer: '0033'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 11

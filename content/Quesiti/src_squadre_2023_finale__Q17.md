@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Somma complessita binaria c(n) da 1 a 2048
 answer: '8420'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Finale Nazionale — Quesito 17

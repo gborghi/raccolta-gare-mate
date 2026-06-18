@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Area della regione C nel cerchio
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 25

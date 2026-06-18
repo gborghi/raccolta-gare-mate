@@ -6,12 +6,14 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2005
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Finale Nazionale

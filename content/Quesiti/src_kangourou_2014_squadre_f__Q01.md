@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Piu grande primo <30 somma di due primi
 answer: '19'
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Finale — Quesito 1

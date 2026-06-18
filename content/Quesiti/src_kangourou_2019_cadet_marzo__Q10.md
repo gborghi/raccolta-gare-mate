@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Quali sono le tre cifre nascoste data somma 10126
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara di Marzo Cadet — Quesito 10

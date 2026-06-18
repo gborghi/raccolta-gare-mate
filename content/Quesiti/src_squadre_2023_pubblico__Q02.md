@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: 'Distanza retta s dal centro di Gamma2, raggi 8 e 52'
 answer: '0036'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Gara del pubblico — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Quale uguaglianza tra b (prodotto divisori di 1024) e a
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Cadet — Quesito 5

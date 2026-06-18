@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Tempo per l'ultimo km con km via via piu veloci
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 15

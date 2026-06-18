@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Area tra tre circonferenze tangenti due a due
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 14

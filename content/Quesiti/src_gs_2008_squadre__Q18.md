@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Percorso piu breve sulla superficie del cilindro
 answer: '6000'
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 18

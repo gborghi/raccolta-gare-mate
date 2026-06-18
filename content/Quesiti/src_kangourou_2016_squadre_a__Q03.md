@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Valore di x se numero centrale (9x) di 9 consecutivi
 answer: '499'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Semifinale A — Quesito 3

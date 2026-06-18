@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numeri <40 con somma quadrati cifre quadrato perfetto
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Cadet — Semifinale individuale — Quesito 6

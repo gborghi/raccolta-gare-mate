@@ -6,12 +6,14 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2012
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni

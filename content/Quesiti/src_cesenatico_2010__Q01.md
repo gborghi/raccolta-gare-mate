@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: medie promossi/bocciati prima e dopo +5
 answer: '(a) 12,24,36; (b) nessun N'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 1

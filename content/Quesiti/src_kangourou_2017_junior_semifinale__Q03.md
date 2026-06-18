@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quali due disuguaglianze su x sono vere
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Semifinale individuale — Quesito 3

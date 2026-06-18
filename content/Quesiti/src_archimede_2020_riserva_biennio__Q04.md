@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quanti multipli di 79 tra 15000 e 36000
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/2020
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 4

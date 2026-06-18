@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Quanti tornei all'italiana possono finire tutti a pari punteggio
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2015
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2015 — Quesito 17

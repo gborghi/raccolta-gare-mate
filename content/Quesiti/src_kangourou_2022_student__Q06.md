@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: numero centrale
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Gara 17 marzo — Quesito 6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 19 con le stesse cifre
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara di Marzo Benjamin — Quesito 11

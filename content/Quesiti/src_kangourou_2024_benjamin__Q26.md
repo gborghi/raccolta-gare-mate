@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Numero nell'etichetta col punto interrogativo (somma facce cubo)
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Categoria Benjamin 2024 — Quesito 26

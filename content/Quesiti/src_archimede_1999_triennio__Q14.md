@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Che ore sono data la lancetta sul minuto 23
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 14

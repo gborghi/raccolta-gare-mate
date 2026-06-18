@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Percentuale di andamenti punteggio con max 4 consecutivi
 answer: 0081
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 16

@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J4
 summary: In quanti modi colorare 20 tessere con la regola di somma
 answer: '6'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J4

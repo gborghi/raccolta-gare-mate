@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Maggiore dei due incogniti nella tabella 2x2
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo) — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J6
 summary: Permutazione di 1..9 con divisibilita progressive
 answer: 381654729 unica
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2004 Junior finale nazionale — Quesito J6

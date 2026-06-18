@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Risultato somma alternata dispari da 99 a 11
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (gara marzo) — Quesito 11

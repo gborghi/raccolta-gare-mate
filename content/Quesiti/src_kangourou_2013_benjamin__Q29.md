@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Massima somma facce visibili del solido 2x2x1 di cubi
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 29

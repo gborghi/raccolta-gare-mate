@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Probabilita di tornare al vertice dopo 3 km sul triangolo
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio — Quesito 16

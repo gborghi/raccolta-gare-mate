@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Quanti sottoinsiemi di 7 in progressione aritmetica
 answer: '784'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Junior 2017 Finale — Quesito 7

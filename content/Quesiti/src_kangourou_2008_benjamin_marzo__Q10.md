@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Triangolo isoscele con angolo non acuto
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 10

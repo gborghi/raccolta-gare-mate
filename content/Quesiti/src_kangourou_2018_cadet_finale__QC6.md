@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C6
 summary: Area B in funzione di A nel pentagono regolare
 answer: doppio di A
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C6

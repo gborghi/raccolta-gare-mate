@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: m+n da radice cubica di 45+29radice2
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 11

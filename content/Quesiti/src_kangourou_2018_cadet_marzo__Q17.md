@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Minimo giorni per due giornate di sole consecutive
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Cadet - Gara 15 marzo — Quesito 17

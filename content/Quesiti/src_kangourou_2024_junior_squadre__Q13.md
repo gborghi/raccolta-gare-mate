@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Minima somma quadrati di due interi somma 29
 answer: '0421'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/disuguaglianze
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 1 — Quesito 13

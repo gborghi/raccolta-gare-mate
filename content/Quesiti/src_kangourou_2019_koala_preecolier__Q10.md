@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Quanti pezzi di carta dopo piega e taglio
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 10

@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: valori di n
 answer: 1 e 2
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Cadet — Quesito C4

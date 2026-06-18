@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Massimo quadrati certamente occupati da 8 monete su 11
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (gara marzo) — Quesito 16

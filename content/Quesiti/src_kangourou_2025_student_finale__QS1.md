@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: Intervalli razionali inscatolati con intersezione vuota
 answer: Falso
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/insiemi_funzioni
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Student finale — Quesito S1

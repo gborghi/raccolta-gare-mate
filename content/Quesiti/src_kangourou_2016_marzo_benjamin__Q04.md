@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Segnale stradale con piu assi di simmetria
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2016 gara 17 marzo Benjamin — Quesito 4

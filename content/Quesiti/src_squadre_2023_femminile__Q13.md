@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Probabilita prodotto di due primi <40 piu uno quadrato
 answer: '0071'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2023 - VI Finale — Quesito 13

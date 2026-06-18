@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: 2013-esimo salto (ricorrenza lineare)
 answer: '8136'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/gara-del-pubblico
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 2

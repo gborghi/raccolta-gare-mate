@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Probabilita segnaposto in 2 al sesto lancio
 answer: '0713'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Coppa Galileo 2013 - Gara a squadre — Quesito 14

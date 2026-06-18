@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quante cifre ha 4^5 x 5^13
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Semifinale individuale — Quesito 3

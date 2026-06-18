@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Perimetro rettangolo dopo piegature del telo
 answer: '350'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2018 Semifinale A — Quesito 12

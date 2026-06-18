@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Quale deve essere positivo dato l'arco di parabola
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2020 Student - gara marzo (triennio) — Quesito 21

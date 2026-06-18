@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Composizioni di 14 con ultimo termine dispari
 answer: '5461'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 19

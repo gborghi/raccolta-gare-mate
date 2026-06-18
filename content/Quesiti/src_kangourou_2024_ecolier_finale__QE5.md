@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E5
 summary: Quali numeri puo aver scritto Bruno (somma massima)
 answer: '86,85,84,76,75,74'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Finale Ecolier 2024 — Quesito E5

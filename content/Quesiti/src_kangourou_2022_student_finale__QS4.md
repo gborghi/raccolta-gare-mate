@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S4
 summary: Area punti del pentagono a distanza >1 da un vertice
 answer: √3/2 - π/3
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Finale (risposta aperta) — Quesito S4

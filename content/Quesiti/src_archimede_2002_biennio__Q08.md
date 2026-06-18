@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Dopo quante domeniche le tre amiche corrono insieme
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 8

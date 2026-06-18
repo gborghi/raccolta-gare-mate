@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Tangente angolo da uguaglianza potenze rispetto a due cerchi
 answer: 0009
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Gara del Pubblico — Quesito 18

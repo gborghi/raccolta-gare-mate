@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quanti oggetti costruibili con aste e viti
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2001
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 3

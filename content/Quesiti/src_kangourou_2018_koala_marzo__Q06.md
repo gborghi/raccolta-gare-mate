@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quale coccinella e volata via (20 puntini residui)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gioco Koala (Marzo) — Quesito 6

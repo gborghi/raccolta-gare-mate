@@ -6,12 +6,14 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2019
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2019 Semifinale A

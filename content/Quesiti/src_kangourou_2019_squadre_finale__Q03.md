@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Codice del lucchetto dalle indicazioni
 answer: '6471'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Finale — Quesito 3

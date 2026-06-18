@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Numeri di 10 cifre distinte divisibili per 11111
 answer: '3456'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 17

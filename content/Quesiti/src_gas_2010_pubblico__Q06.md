@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Minuti settimanali in cui ago bussola indica il nord
 answer: '2520'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Gara del Pubblico — Quesito 6

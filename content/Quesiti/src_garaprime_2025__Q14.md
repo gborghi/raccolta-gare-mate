@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Studenti che amano la matematica (insiemi)
 answer: D
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2025
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 14

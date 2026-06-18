@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Valore dell espressione con potenze di 7 (differenze di quadrati)
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Junior — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Angolo in A di triangolo isoscele con AD+BD=BC
 answer: '100'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 14

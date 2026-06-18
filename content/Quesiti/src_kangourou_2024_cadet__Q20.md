@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Quale carta resta sul tavolo dalle affermazioni di Ada..Dina
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Cadet 2024 — Quesito 20

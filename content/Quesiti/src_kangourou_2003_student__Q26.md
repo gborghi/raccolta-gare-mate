@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Termine a_2003 della successione periodica
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student (20 marzo) — Quesito 26

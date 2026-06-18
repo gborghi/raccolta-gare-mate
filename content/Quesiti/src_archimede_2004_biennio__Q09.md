@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Funzione/posizione di vertici e numero N di lati
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Biennio — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Probabilita pari e dispari con due dadi truccati
 answer: '48'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Kangourou 2009 squadre semifinale — Quesito 10

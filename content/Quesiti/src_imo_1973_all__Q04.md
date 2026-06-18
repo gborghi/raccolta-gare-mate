@@ -7,6 +7,7 @@ family: imo
 year: '1973'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Shortest mine-sweeping path in equilateral triangle
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1973
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1973 (Fifteenth International Olympiad) — Quesito 4

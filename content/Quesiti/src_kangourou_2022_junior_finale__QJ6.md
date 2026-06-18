@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J6
 summary: Il numero finale di 10 cifre ha almeno due cifre uguali
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior finale individuale — Quesito J6

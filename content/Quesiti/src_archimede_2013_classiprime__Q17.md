@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Valore radice 21-esima del prodotto dei divisori di 576
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 17

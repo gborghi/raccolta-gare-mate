@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Numero sacchetti con prob estrarre un solo 12 uguale a nessuno
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 24

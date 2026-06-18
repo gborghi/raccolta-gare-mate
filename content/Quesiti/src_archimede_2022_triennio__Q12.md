@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: 'Coppie ordinate (m,n) con m<=n e mcm uguale a 1515'
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 12

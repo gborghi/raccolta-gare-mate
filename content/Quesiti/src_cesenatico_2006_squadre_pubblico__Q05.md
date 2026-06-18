@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Lunghezza AB in configurazione ciclica con perpendicolare
 answer: '0015'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 5

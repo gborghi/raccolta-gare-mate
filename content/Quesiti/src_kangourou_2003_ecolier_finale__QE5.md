@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E5
 summary: Inserire 1..9 con somme 20 attorno ai vertici
 answer: due soluzioni
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Ecolier finale nazionale — Quesito E5

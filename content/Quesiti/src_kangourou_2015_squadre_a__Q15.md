@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: 'Resto della divisione di N^11 per 2015, N=2 mod 2015'
 answer: '33'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Semifinale A — Quesito 15

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Cifre del quoziente di 111.222...555 diviso 111
 answer: '13'
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier semifinale individuale — Quesito 15

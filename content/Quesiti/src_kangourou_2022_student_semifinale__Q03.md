@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Numero a 4 cifre con ultima cifra spostata in testa, somma'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Semifinale individuale — Quesito 3

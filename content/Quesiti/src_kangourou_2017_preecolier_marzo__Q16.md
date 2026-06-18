@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Minimo fogli per fare tre corone
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 16

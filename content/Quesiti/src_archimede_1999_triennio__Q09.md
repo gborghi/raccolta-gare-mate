@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quale disuguaglianza e sempre verificata se x>y
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 9

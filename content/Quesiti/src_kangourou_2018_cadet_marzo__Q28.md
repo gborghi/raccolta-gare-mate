@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Area del triangolo LMN dentro l'equilatero
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2018 Cadet - Gara 15 marzo — Quesito 28

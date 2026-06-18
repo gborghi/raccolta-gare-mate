@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: In quanti modi rendere simmetrica la figura a L
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Cadet (gara marzo) — Quesito 10

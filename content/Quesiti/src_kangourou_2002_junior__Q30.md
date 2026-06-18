@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Interi di 4 cifre con condizione sulle cifre
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Junior (21 marzo) — Quesito 30

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Quanti pezzi di carta dopo i due tagli a meta
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gioco Koala (Marzo) — Quesito 21

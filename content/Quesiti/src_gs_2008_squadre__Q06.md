@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Colori magliette scimmie allo zoo (I)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 6

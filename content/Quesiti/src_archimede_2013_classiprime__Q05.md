@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Affermazioni vere su quando un quadrilatero e un rombo
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 5

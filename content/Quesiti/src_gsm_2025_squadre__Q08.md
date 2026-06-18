@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Probabilita che l'ultimo spettatore sieda al posto giusto
 answer: '4375'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 8

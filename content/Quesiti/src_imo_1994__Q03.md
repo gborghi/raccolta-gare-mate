@@ -7,6 +7,7 @@ family: imo
 year: '1994'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Count numbers with three binary 1s; surjectivity of f
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1994 (35th IMO, Hong Kong) — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E5
 summary: Trasformazioni di gettoni (invariante di parita)
 answer: si/si/no
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Ecolier finale (maggio) — Quesito E5

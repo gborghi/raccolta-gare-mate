@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Cerchi tangenti a esattamente tre di dieci rette
 answer: 0480
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 5

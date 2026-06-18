@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C6
 summary: Numero finalisti somma di cifre elevate a se stesse
 answer: '3435'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (finale nazionale) — Quesito C6

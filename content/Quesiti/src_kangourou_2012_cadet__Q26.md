@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Somma dei numeri di tre cifre con la strana proprieta
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Cadet (gara marzo) — Quesito 26

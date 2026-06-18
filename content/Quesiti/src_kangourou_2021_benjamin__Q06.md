@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Lettera da estrarre dal vaso 4 per scrivere GENIO
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Benjamin - gara marzo — Quesito 6

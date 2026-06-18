@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Rapporto aree quadrilatero e triangolo dai punti medi
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Semifinale individuale — Quesito 8

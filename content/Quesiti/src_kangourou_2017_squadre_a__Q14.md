@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Possibili accoppiate primo-secondo nel menu
 answer: '56'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2017 Semifinale A — Quesito 14

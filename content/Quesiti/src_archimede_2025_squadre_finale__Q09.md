@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Probabilità monete tutte uguali con mosse inverti-monet
 answer: 0009
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 9

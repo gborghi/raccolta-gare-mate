@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Area parte ombreggiata a stella nel quadrato
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 16

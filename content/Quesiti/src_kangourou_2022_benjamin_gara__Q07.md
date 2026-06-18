@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Frazione di giro per portare in alto la cabina bianca
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin gara individuale — Quesito 7

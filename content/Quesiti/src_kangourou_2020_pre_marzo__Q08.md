@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Colori dei nastri della treccia per numeri 1,2,3'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Pre - gara marzo — Quesito 8

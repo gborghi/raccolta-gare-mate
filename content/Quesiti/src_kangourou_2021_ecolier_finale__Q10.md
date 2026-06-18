@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Massimo di cinque consecutivi con somma 2020
 answer: '0406'
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - finale — Quesito 10

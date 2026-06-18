@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Quale cifra ha aggiunto Biagio (aumento di 2024)
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Benjamin 2024 — Quesito 30

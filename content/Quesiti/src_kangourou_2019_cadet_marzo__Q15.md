@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quanti abbracci scambia Enza (grafo di conoscenze)
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara di Marzo Cadet — Quesito 15

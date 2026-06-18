@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Probabilita che la tombola finisca all'89-esimo numero
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 15

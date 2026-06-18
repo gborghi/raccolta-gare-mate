@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C3
 summary: Relazione area e perimetro del rettangolo con quadrato
 answer: sono uguali
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (finale nazionale) — Quesito C3

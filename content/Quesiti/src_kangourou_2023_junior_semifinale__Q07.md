@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Numero massimo di parti tagliando tre sfere con due piani
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Junior 2023 — Quesito 7

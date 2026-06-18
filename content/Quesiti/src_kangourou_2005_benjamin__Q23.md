@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Numero strette di mano tra 12 studenti adiacenti
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (marzo) — Quesito 23

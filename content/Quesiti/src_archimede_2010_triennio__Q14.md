@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Numero cifre di 111222...888999 diviso 111
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 14

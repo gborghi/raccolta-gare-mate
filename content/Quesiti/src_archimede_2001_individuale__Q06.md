@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: configurazioni per accenderle tutte
 answer: >-
@@ -28,6 +29,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 6

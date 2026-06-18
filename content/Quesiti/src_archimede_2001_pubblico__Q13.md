@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Anni bisestili con somma cifre 6 tra 0 e 7000
 answer: 0084
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 13

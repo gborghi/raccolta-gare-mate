@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Quante cartoline ha Enrica date buste
 answer: '0103'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 10

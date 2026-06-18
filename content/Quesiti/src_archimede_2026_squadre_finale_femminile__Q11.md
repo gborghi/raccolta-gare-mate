@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: 'Somma cifre migliaia,centinaia,decine meno unità 1000-2026'
 answer: '5467'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 11

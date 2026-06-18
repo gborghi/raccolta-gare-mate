@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Quanti euro ha Francesco (resti e vincoli)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 8

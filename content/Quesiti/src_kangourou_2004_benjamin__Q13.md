@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Cifra del quadrato nell'addizione criptata
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Benjamin (18 marzo) — Quesito 13

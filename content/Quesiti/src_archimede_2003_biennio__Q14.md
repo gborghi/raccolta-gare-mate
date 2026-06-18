@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quante affermazioni vere nel rettangolo autoreferenziale
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 14

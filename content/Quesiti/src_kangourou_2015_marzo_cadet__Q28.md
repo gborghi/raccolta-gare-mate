@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: max tentativi
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Cadet — Quesito 28

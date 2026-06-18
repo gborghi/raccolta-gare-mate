@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Tra quanti giorni si allenano di nuovo insieme
 answer: '0104'
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - finale — Quesito 2

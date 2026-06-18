@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Valore somma di frazioni 1/(k^2-4) tipo telescopica
 answer: '0126'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Gara del pubblico — Quesito 3

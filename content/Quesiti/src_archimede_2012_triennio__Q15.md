@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Probabilita somma 11 con dado a 4 e dado a 8 facce
 answer: B
@@ -28,6 +29,7 @@ tags:
   - topic/probabilita
   - topic/combinatoria
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 15

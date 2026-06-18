@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Area circonferenze inscritte fra vialetti
 answer: '7735'
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 16

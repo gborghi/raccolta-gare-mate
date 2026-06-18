@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Strada minima con ponte corto attraverso fiume
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Semifinale individuale — Quesito 2

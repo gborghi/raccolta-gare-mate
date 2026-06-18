@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: 'Differenza vinte-perse a scacchi (40 partite, 25 punti)'
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Junior — Quesito 18

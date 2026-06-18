@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Area regione formata da 4 archi raggio 2
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 14

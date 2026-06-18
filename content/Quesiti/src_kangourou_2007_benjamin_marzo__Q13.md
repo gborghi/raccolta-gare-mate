@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Dove si ferma il robot nella griglia
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin (marzo) — Quesito 13

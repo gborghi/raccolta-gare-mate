@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quante celle restano dopo cancellazioni (33x21)
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo) — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: 'Numeri 12 cifre 1,2,3 con adiacenti diff 1'
 answer: 0128
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 1 — Quesito 9

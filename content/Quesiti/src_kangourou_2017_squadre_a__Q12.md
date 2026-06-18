@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Distanza A-F tra due quadrati con aree 23 e 777
 answer: '20'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/geometria_analitica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2017 Semifinale A — Quesito 12

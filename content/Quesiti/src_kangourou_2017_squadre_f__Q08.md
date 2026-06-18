@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Minimo euro nella giacca con vincoli sulle tasche
 answer: '23'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2017 Finale — Quesito 8

@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Numero cifre in base 5 di 253^253
 answer: 0870
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Lunghezza A100A101 nella spirale di triangoli rettangoli
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 7

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Somma seste potenze delle radici dell'equazione
 answer: '6662'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2020 Finale — Quesito 12

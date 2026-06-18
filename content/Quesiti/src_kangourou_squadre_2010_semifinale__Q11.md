@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Somma interi non esprimibili come somma di 5 e 7
 answer: '0114'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 11

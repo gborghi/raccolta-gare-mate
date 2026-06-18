@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Massima somma numeri nella griglia di 2018 quadretti
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Junior — Quesito 26

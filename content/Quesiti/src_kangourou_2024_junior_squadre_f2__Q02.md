@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Somma max e min lunghezza rete ripartizione
 answer: '0504'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 2 — Quesito 2

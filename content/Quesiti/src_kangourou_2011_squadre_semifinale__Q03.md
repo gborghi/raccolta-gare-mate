@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Misura angolo X con tre quadrati nel rettangolo
 answer: '41'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 3

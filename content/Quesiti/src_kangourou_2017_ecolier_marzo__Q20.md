@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Modi di vedere due neonati senza iniziare dal leone
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2017 Écolier (gara marzo) — Quesito 20

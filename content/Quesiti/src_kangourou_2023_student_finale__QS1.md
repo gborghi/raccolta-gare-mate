@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: 'equo o vantaggioso, per chi'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou Finale Student 2023 — Quesito S1

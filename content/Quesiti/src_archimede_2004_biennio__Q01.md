@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Gioco con cavalli/scimmia e calcoli sui giri di pista
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Biennio — Quesito 1

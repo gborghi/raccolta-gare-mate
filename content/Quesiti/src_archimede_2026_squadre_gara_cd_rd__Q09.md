@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Minimo x^2 triangolo equilatero contenente quadrato ruotando
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Abito con tra 5 e 7 bottoni
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Pre-Ecolier — Quesito 3

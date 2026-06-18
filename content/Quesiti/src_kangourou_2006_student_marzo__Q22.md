@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Per quanti n la potenza n^300 ha <=100 cifre
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2006 Student (marzo) — Quesito 22

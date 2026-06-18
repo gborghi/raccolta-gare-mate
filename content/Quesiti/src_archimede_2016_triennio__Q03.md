@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Massimo MCD di due numeri con prodotto 600000
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Triennio — Quesito 3

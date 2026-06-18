@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Perle su triangolo equilatero (lato 90)
 answer: '3286'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 10

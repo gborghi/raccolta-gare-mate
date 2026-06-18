@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: minimo metri
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Triennio — Quesito 19

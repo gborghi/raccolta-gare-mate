@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Distanza fra centri in sette cerchi disposti
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 14

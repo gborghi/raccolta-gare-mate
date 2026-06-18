@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '23'
 summary: Volume minimo solido da quadrati incatenati
 answer: '9000'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Coppa Galileo 2013 - Gara a squadre — Quesito 23

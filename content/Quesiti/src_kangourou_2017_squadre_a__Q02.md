@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Con quante monete Luisa e uscita di casa (tre spese)
 answer: '191'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2017 Semifinale A — Quesito 2

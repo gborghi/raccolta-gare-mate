@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Triangoli rettangoli con area uguale a 5 volte perimetro
 answer: '0006'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 10

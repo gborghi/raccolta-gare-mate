@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Orario finale della somma parallela di 200 foglietti
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 7

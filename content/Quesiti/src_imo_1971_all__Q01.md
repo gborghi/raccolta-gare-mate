@@ -7,6 +7,7 @@ family: imo
 year: '1971'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Symmetric product inequality true only for n=3,5'
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1971 (Thirteenth International Olympiad) — Quesito 1

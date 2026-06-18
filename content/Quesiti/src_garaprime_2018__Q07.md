@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Numero di alunni dato aumento dell'8% pro capite
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 7

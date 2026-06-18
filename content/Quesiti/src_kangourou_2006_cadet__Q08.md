@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Superficie totale del solido a due cubi
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 8

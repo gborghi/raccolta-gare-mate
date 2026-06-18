@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: prodotto e somma con stessa cifra unita; cifre possibili
 answer: '0,2,4'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 finale nazionale Benjamin — Quesito B1

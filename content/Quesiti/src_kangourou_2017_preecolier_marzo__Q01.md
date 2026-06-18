@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Chi ha preso il pesce seguendo i fili
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 1

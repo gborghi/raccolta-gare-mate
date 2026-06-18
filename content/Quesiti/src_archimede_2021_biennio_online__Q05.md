@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Perimetro triangolo date le tre altezze e lato AB
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 5

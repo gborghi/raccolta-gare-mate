@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Perimetro del rettangolo originario suddiviso in quattro
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2012 Benjamin (gara marzo) — Quesito 24

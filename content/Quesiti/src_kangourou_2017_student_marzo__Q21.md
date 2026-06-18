@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Interi tali che togliendo l'ultima cifra dia 1/14
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Student - Gara 16 marzo — Quesito 21

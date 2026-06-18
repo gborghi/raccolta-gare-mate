@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: 'Lunghezza del prossimo salto per media 3,82'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Cadet - Gara 15 marzo — Quesito 27

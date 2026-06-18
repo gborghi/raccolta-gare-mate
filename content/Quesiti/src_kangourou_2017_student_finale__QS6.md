@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: 'Funzione che manda ogni intervallo su tutto [0,1]'
 answer: Si
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/insiemi_funzioni
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2017 Student - Finale nazionale Cervia — Quesito S6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Minimo numero di aree per calcolare area del parallelogramma X
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 16

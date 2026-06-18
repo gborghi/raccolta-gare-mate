@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Massimo gettoni e modi nella griglia 8x2 non adiacenti
 answer: '480'
@@ -24,6 +25,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Junior 2017 Finale — Quesito 13

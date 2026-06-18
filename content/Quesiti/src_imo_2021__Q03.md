@@ -7,6 +7,7 @@ family: imo
 year: '2021'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'BC, EF, O1O2 concorrenti (punto interno D)'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2021 papers — Quesito 3

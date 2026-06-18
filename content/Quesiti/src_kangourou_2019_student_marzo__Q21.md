@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Relazione tra somma a e prodotto b dei divisori di 1024
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Student (triennio) — Quesito 21

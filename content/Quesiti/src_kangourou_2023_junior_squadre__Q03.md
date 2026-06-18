@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Somma numeri MEDI di tre cifre
 answer: '7992'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Junior Finale 1 — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Anni a 4 cifre con migliaia >= somma altre cifre
 answer: '0714'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 12

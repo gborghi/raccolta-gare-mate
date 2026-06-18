@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: massima potenza che divide 2002!
 answer: '4003'
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 10

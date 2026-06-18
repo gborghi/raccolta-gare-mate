@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Caramelle nel sesto sacchetto con vincoli
 answer: '0016'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 2 — Quesito 4

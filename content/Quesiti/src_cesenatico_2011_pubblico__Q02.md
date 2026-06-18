@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: pezzi di bronzo mancanti
 answer: '0006'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/gara-del-pubblico
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 2

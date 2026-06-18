@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Somma dei prodotti delle cifre dei numeri 2 cifre
 answer: '2025'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier finale individuale — Quesito 10

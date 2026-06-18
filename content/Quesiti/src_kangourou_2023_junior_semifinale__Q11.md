@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Conteggio inserimenti lettere in 5 settori con A,B non adiacenti'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Junior 2023 — Quesito 11

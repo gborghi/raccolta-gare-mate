@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Quale solido platonico ha un cammino euleriano
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 25

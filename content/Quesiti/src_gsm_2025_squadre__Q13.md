@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Valore di 1/a_2025 per una successione definita
 answer: '4049'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 13

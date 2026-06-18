@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Minimo viaggi per riempire vasca perdendo meta
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Ecolier (marzo) — Quesito 4

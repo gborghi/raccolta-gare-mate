@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Larghezza minima di una striscia che contiene tre punti
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/geometria_analitica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 10

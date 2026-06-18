@@ -7,6 +7,7 @@ family: imo
 year: '1972'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Solve cyclic system of product inequalities, positive reals'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1972
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1972 (Fourteenth International Olympiad) — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '22'
 summary: combinazioni della cassaforte
 answer: 0284
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 22

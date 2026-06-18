@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: 'Riempire celle e scommi su una scacchiera, conteggio'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 12

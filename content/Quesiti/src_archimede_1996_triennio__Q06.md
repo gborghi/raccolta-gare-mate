@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quadrato del quadrato del quadrato di 8
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 6

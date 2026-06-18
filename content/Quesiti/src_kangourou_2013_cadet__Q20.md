@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Area del quadrilatero KLMN su griglia
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 20

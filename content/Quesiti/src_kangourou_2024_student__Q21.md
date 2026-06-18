@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Minimo risultato con operazioni su carte a due facce
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 21

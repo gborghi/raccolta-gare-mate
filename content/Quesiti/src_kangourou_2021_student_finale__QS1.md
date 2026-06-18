@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: Rapporto dei volumi di due sfere viste della stessa grandezza
 answer: '1000000'
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student finale individuale — Quesito S1

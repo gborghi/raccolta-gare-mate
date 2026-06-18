@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Perimetro esagono intersezione di due triangoli
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior (marzo) — Quesito 16

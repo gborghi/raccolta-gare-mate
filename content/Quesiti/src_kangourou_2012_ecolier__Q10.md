@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Quante figure ottenibili accostando due tessere a L
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 Ecolier (gara marzo) — Quesito 10

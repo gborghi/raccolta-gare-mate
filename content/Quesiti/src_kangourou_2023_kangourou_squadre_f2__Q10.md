@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Massimo intersezioni lati 3 rossi 5 blu
 answer: 0090
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 10

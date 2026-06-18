@@ -7,6 +7,7 @@ family: imo
 year: '1962'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Reali x con sqrt(3-x)-sqrt(x+1) > 1/2
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1962 (IV International Olympiad) — Quesito 2

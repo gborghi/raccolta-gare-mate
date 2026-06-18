@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Terzo triangolo con vincoli su area/isoscele/retto
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior - gara marzo (biennio) — Quesito 9

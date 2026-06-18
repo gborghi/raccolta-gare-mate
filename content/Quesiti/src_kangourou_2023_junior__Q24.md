@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: pendenza retta che biseca area
 answer: D
@@ -24,6 +25,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Junior — Gara 16 marzo — Quesito 24

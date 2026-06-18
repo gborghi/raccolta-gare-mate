@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'prodotto pari/dispari, prob 4x, trova n'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior — Semifinale individuale — Quesito 9

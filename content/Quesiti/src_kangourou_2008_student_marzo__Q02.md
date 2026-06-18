@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Valore di x^2008/y^2008 con x+y=0
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo) — Quesito 2

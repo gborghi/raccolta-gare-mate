@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Soluzioni di f(f(f(x)))=0 dal grafico
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student (20 marzo) — Quesito 21

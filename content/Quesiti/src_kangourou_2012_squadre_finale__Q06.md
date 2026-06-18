@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: 'Numero cubetti del cubo (1/8 rossi, 1/4 bianchi)'
 answer: '512'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 6

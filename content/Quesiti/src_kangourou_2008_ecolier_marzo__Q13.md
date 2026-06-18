@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Numeri di 4 cifre con cifra doppio della destra
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 13

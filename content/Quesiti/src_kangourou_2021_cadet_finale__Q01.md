@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Correggere 25x2=211 con +1/-1 sulle cifre
 answer: 34x3=102
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - finale — Quesito 1

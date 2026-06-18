@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Numero da sottrarre a -17 per ottenere -33
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (gara marzo) — Quesito 3

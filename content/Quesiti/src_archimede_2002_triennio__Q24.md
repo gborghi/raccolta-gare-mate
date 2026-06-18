@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Esistono tetraedri con base equilatera e volume razionale
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2002
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio — Quesito 24

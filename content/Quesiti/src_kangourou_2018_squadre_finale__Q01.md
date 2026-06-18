@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Cifre decine e unita di 9^2017+9^2018
 answer: 0090
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 1

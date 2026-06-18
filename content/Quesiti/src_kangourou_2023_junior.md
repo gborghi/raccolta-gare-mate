@@ -6,12 +6,14 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '30'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2023
+  - gara/individuale
 ---
 
 # Kangourou 2023 Junior — Gara 16 marzo

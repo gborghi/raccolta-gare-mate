@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Conteggio celle del cubo da colorare (4 caselle ai vertici)
 answer: '4'
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2002 — Quesito 14

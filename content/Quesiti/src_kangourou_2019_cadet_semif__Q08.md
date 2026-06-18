@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Somma del piu piccolo e piu grande di 1009 consecutivi
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Cadet — Quesito 8

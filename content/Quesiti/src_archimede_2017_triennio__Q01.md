@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Coppie (m,n) con m^n = 2^24'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 1

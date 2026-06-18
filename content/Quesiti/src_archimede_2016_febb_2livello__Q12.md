@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Probabilita che la partita non finisca prima del 21esimo gol
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 12

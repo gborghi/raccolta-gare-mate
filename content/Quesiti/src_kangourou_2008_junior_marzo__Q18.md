@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Massime cifre cancellabili da 2008...2008 somma 2008
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Junior (gara 28 marzo) — Quesito 18

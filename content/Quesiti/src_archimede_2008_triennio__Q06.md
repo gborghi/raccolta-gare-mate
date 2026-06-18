@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Valori di b con radici intere di x2+bx-16
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 6

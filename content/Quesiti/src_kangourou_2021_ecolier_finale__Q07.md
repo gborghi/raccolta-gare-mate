@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quanti paletti (due numerazioni rossa e verde)
 answer: '0111'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - finale — Quesito 7

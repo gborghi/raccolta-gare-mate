@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Colorazioni distinte di un cubo (rotazioni)
 answer: 0008
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale Nazionale Ecolier — Quesito 2

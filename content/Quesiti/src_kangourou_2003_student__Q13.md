@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Valore espressione radici nidificate 1+2003*2005
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student (20 marzo) — Quesito 13

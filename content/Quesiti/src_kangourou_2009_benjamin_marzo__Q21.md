@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Somma di tutti i numeri sui vertici del solido
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 21

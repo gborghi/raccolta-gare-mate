@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Probabilita di tornare al punto dopo 2011 salti
 answer: '0000'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Concime supplementare per prato da 25 a 30 metri (frazione)
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2022 Cadet semifinale individuale — Quesito 4

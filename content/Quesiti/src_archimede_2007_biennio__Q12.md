@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Percorsi su lati e diagonali di un quadrato
 answer: D
@@ -24,6 +25,7 @@ tags:
   - anno/2007
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 12

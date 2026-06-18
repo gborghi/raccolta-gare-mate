@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Coppie (x,y) con x+y e xy+1 potenze di 2'
 answer: '37'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2019 - 2° livello — Quesito 14

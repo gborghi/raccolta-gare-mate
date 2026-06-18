@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quale numero non e fattore di 200013-2013
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Junior — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Numero impossibile di intersezioni di 4 segmenti
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2003 Cadet (20 marzo) — Quesito 8

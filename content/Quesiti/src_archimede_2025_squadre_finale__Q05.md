@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Area minima esagono su reticolo con vincoli su lati
 answer: 0078
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_analitica
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 5

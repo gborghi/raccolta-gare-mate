@@ -7,6 +7,7 @@ family: imo
 year: '1968'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Find naturals where digit product equals x^2-10x-22
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1968
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1968 (Tenth International Olympiad) — Quesito 2

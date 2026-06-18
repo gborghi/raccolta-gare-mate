@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: raggio minimo cono
 answer: '0041'
@@ -23,6 +24,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/geometria_solida
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 10

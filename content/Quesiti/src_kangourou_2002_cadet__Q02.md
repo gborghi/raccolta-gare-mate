@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Giri della ruota piccola
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Cadet (21 marzo) — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: dimostrare angAPM=angPBA
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2014
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 2

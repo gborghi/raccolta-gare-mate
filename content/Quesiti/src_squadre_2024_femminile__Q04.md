@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Massimo intero che divide p(2024) con p(1)=7 p(2)=15
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 4

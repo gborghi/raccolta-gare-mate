@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: determinare il volume
 answer: 2750/3 m^3
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/nazionale
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 2

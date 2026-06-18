@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Massimo lunedi in 45 giorni consecutivi
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 1

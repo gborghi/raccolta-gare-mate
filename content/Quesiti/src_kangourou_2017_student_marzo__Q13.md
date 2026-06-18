@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Percentuale altezza tra cilindri stesso volume
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Student - Gara 16 marzo — Quesito 13

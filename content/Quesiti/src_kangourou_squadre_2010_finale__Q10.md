@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Minimo lettere alfabeto per identificare 1 milione
 answer: '0102'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 10

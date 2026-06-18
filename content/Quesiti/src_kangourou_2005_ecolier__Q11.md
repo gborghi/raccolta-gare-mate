@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Minimo segmenti per suddividere rettangolo in quadrati
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Ecolier (marzo) — Quesito 11

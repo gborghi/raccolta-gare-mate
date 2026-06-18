@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Numero di tre cifre divisibile per 4 con massima somma cifre
 answer: 0988
@@ -24,6 +25,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Benjamin 2024 — Quesito 10

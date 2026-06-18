@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Minimo fattore per rendere 18*k potenza sesta
 answer: D
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2025
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 18

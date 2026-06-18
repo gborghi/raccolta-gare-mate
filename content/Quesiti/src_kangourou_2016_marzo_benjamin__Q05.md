@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: area del quadrato piu piccolo
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2016 gara 17 marzo Benjamin — Quesito 5

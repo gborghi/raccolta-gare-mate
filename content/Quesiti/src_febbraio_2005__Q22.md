@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: 'Coppie (x,d) di interi positivi e relazione x+d(x+d)=2005'
 topics:
@@ -19,6 +20,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 22

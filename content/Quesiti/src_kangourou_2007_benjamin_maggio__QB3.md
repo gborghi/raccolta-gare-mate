@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B3
 summary: Numero allievi maschi (91 strette di mano)
 answer: '7'
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin finale (maggio) — Quesito B3

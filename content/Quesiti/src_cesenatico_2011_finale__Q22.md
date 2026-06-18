@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '22'
 summary: Numero spie tra operai (affermazioni cicliche)
 answer: '4723'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 22

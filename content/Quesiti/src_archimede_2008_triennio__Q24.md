@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Percentuale volume cono nell'intersezione con cilindro
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 24

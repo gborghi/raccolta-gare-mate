@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Colorazioni di 10 quadrati con vincolo lati comuni diversi
 answer: A
@@ -23,6 +24,7 @@ tags:
   - comp/archimede
   - anno/2014
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2014 — Quesito 15

@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Coppie (x,k) con 3^k-1=x^n'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1999 — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Modi di indossare 7 anelli su 8 dita con ordine
 answer: '7280'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Finale Nazionale — Quesito 19

@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Massimo numero di intersezioni tra 3 cerchi e 3 rette
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 7

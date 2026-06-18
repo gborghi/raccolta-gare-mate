@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S2
 summary: lati rossi=verdi
 answer: dimostrazione
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Finale (risposta aperta) — Quesito S2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Massimo bigliettini distinti (5 quadrati 4 colori rotazione)
 answer: '0544'
@@ -24,6 +25,7 @@ tags:
   - anno/2020
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 13

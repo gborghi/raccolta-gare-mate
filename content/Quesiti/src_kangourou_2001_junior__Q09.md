@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Cifre del minimo numero con 0 e 1 divisibile 225
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Junior (15 marzo) — Quesito 9

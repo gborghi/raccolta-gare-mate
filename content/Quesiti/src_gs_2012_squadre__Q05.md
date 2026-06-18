@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Perimetro poligono di archi di circonferenza
 answer: '0160'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre — Quesito 5

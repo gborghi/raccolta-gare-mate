@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Importo borse di studio ai ragazzi dati i vincoli
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 7

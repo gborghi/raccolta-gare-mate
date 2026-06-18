@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Massimo di a+5b con ab=12 naturali
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 4

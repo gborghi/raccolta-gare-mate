@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Distanza del vertice di un tetraedro dopo rotazione
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 24

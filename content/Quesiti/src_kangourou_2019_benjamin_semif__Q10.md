@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Cifra al 2019-esimo posto della sequenza 20189102...
 answer: '63'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Benjamin — Quesito 10

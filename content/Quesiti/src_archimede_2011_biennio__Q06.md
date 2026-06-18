@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Diagonale minore parallelogramma con lati e angolo dati
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 6

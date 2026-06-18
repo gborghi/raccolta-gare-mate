@@ -7,6 +7,7 @@ family: imo
 year: '1978'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Member whose number is sum/double of same-country members
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1978
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1978 (Twentieth International Olympiad) — Quesito 6

@@ -6,12 +6,14 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2012
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A

@@ -7,6 +7,7 @@ family: imo
 year: '1990'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: winning strategies by n0
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1990 (31st IMO, Beijing) — Quesito 5

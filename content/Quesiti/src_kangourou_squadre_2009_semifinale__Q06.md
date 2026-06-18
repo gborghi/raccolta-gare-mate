@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Notti vissute dalla mamma prima di Martina (bisestili)
 answer: '9132'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 6

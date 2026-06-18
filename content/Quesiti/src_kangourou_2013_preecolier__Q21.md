@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Piastrelle utilizzabili per ricomporre il muro (annullato)
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Pre-Ecolier — Quesito 21

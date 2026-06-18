@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Il piu grande e il piu piccolo tra A,B,C da implicazioni'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (semifinale individuale) — Quesito 4

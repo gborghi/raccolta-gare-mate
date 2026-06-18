@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Partite vinte da Edoardo nel gioco di carte
 answer: '3'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - semifinale — Quesito 12

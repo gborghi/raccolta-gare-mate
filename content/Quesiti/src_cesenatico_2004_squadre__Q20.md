@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Minimo numero collegamenti tra citta su isole diverse
 answer: '0222'
@@ -24,6 +25,7 @@ tags:
   - anno/2004
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 20

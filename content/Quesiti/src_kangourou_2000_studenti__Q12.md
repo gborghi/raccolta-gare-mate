@@ -7,6 +7,7 @@ family: kangourou
 year: '2000'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Maggiore tra A..E con uguaglianze spostate
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2000 - 3 maggio (individuale) — Quesito 12

@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Cubetti attraversati dalla diagonale di parallelepipedo 150x84x105
 answer: '0300'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 4

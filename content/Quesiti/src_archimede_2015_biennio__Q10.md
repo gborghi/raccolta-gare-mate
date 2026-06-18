@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Somma dei cinque piu piccoli divisori di 40! oltre 40
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Biennio — Quesito 10

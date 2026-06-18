@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Trovare a sapendo a=c/2, b=-c/3, a+b=0'
 answer: D
@@ -19,6 +20,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 1

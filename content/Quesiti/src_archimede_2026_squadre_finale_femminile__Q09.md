@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: p(-11) per polinomio cubico interi con p(2+√3) dato
 answer: '1210'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 9

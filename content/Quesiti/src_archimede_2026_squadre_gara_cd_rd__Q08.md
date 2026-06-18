@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Massima somma distanze tra 5 punti su segmento lungo 3
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 8

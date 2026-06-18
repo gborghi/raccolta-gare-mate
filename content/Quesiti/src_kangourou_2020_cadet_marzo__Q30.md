@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Cifra delle unita del numero di 4 cifre (indizi tipo mastermind)
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Cadet — Quesito 30

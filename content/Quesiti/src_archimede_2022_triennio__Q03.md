@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Numeri di 4 cifre con 3 cifre uguali e una diversa
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 3

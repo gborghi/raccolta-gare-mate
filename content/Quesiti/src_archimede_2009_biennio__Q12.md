@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Modi di disegnare tre triangoli da P senza staccare penna
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 12

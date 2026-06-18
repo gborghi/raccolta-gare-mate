@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: M+m minimo possibile 100 numeri in linea
 answer: '2066'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 15

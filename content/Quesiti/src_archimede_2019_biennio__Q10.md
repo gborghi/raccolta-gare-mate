@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Massimo numero di angoli retti in un ottagono convesso
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Biennio (T1) — Quesito 10

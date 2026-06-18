@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Ora di risveglio dato intervallo di insonnia
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 9

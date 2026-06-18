@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Equazione diofantea iterata su i e j
 answer: 0008
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre — Quesito 12

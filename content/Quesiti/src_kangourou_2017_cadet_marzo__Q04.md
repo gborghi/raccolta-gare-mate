@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Differenza dei perimetri di due rettangoli concentrici
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (gara marzo) — Quesito 4

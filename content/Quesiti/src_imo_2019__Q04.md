@@ -7,6 +7,7 @@ family: imo
 year: '2019'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Coppie (k,n) con k!=(2^n-1)(2^n-2)...'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2019 papers — Quesito 4

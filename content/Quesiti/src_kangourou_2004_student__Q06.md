@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numero di celebrita in un gruppo di 100 persone
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2004 - Student (marzo) — Quesito 6

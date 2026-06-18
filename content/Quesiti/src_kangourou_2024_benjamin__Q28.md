@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Quanti pezzi di corda ottiene Maya (12 e 16 tagli)
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Benjamin 2024 — Quesito 28

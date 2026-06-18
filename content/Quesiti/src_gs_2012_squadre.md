@@ -6,12 +6,14 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '24'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2012
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre

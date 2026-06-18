@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S2
 summary: Quanti dispari consecutivi sommano a 1600
 answer: '40'
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student finale nazionale — Quesito S2

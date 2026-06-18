@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quanti triangoli nella figura
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Quanti numeri palindromi di 7 cifre
 answer: '9000'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Finale — Quesito 14

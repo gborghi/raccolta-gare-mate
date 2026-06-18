@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Posizione del pianeta (15,30) nella numerazione a coppie'
 answer: '1065'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/gara-del-pubblico
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 2

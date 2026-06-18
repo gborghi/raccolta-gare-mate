@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Colpevole tra cinque sospettati con dichiarazioni
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 18

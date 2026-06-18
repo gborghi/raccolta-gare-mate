@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Quante foto se ognuno compare in 2-3 di esse
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara di Marzo Benjamin — Quesito 26

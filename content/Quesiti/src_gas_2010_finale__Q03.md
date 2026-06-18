@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Modi disporre 28 bottiglie su 7 mensole con somme non multiple di 3
 answer: '0360'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 3

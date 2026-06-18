@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Affermazione vera su capitano con un solo veritiero
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 13

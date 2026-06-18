@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Percorsi su cornice di tabellone 10x8 in 16 mosse
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 11

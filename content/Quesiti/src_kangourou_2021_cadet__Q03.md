@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Risultato dell'espressione (2+0+2+1)/...
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - gara marzo — Quesito 3

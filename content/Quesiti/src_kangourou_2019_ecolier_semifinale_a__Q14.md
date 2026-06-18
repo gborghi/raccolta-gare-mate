@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Massima differenza tra numeri consecutivi scelti
 answer: '1919'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 14

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Quanti pari tra i primi 2020 elementi della successione
 answer: A
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Student - gara marzo (triennio) — Quesito 18

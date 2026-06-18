@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Coefficiente del termine x^2006 di un prodotto di polinomi
 answer: '0064'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Finale — Quesito 4

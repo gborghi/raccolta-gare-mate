@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Massimo fogli veritieri tra 10000 in cerchio bugiardi/sinceri
 answer: '9998'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 11

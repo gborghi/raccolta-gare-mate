@@ -7,6 +7,7 @@ family: imo
 year: '1983'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Choose 1983 integers with no three-term arithmetic progression
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1983 (24th International Mathematical Olympiad) — Quesito 5

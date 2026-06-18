@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: 128*(p1+...+p35) sottoinsiemi somma pari
 answer: '2144'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 6

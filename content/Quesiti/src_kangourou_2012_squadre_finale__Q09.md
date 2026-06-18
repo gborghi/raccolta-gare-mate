@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Pagine restanti dato somma numeri pagine oggi 5106
 answer: '397'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: 'Sesto divisore di N con 6 divisori, prodotto di cinque 648'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (gara marzo) — Quesito 30

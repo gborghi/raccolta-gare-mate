@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Posizione di PUNTO tra gli anagrammi in ordine alfabetico
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 14

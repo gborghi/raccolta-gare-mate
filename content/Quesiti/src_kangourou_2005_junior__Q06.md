@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numero x per progressioni aritmetiche in tabella
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (marzo) — Quesito 6

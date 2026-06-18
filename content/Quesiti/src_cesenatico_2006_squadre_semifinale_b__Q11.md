@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Volte che lancetta secondi sorpassa minuti in 24 ore
 answer: '1416'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 11

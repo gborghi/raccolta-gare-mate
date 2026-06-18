@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Numero di cifre del risultato 10^2018*(10^2018-1)/9
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Junior — Quesito 20

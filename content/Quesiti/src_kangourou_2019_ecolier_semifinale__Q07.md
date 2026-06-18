@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quale foglio incollato per primo nella sovrapposizione
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Ecolier — Quesito 7

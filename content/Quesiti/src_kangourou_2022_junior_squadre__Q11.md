@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Angolo centrale progressione aritmetica pentagono
 answer: 0108
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 1 — Quesito 11

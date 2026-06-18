@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Minimo mele per cesti uguali dopo baratti
 answer: '0023'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Semifinale individuale — Quesito 14

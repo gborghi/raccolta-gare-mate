@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Colorazioni 5x5 rosso/blu con vincolo sui lati condivisi
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 9

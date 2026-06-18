@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: penne da estrarre
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Junior — Gara 16 marzo — Quesito 28

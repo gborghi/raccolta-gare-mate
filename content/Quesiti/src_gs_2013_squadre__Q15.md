@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Ultime tre cifre di r_2013 (ricorrenza mod 1000)
 answer: '0043'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Coppa Galileo 2013 - Gara a squadre — Quesito 15

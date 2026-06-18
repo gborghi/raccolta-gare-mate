@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Somma quadrati delle radici di x^3-89x^2+72x-11
 answer: '7777'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 8

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Con quale lato si forma lo spigolo nello sviluppo dell ottaedro
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Junior (biennio) — Quesito 21

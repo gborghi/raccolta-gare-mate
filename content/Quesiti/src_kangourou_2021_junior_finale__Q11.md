@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Somma delle taglie dei numeri di 3 cifre distinte
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior - finale — Quesito 11

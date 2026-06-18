@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: 'Isole (n,n) raggiungibili con passi k crescenti'
 answer: '0016'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 10

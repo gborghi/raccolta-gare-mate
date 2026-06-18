@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Minuti di Bruno tra tre velocità
 answer: '0040'
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 10

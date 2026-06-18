@@ -7,6 +7,7 @@ family: imo
 year: '1986'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Find locus of X as congruent triangle moves around n-gon
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1986
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1986 (27th IMO, Warsaw) — Quesito 4

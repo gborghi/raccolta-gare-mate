@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Anni multipli auto-referenziale fino al 2726
 answer: '0032'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Gara del Pubblico — Quesito 1

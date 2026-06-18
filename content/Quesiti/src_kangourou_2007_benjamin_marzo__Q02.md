@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Numero divisibile per la somma delle sue cifre
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin (marzo) — Quesito 2

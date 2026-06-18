@@ -7,6 +7,7 @@ family: imo
 year: '2017'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Cacciatore e coniglio invisibile nel piano
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/logica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2017 papers — Quesito 3

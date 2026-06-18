@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: numero furfanti
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 2

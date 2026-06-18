@@ -6,12 +6,14 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '30'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2019
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Junior (biennio)

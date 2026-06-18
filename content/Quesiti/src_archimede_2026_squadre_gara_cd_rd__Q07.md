@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Somma n in 1400-1500 con n+2 div 6 e n-5 div 7
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 7

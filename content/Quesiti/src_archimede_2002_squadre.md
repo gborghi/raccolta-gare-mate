@@ -6,12 +6,14 @@ family: archimede
 year: '2002'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '25'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2002
+  - gara/squadre
 ---
 
 # Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)

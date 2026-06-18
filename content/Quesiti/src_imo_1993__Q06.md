@@ -7,6 +7,7 @@ family: imo
 year: '1993'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: return-to-all-on step counts
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1993
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1993 (34th IMO) — Quesito 6

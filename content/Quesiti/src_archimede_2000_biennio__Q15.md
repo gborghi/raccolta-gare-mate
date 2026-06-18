@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Minimo numero di irrigatori per coprire giardino quadrato
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 15

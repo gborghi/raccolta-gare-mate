@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Fiammiferi minimi per 11 quadrati
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Ecolier (15 marzo) — Quesito 16

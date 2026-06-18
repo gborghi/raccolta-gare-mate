@@ -6,12 +6,14 @@ family: imo
 year: '1960'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '7'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1960
+  - gara/individuale
 ---
 
 # IMO 1960 (II International Olympiad)

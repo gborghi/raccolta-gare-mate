@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Di quanti cm si muove Q se P scende 24 (carrucole)
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Student (triennio) — Quesito 15

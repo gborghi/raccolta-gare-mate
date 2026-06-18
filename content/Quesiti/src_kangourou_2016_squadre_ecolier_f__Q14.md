@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Minimo tende da 5 posti per 31 ragazzi senza posti liberi
 answer: '2'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 14

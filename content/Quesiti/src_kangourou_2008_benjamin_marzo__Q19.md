@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Quale costruzione di cubetti non e realizzabile
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 19

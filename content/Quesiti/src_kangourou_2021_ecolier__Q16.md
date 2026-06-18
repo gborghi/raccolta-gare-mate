@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Aspetto delle tre tazze dopo la decima mossa
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - gara marzo — Quesito 16

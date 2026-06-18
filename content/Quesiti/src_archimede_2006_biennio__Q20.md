@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Volume intersezione tra cubo e sfera centrata in vertice
 answer: A
@@ -20,6 +21,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 20

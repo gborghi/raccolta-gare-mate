@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: 'Coefficienti a,b,c di gradi 11,12,13 in prodotto di polinomi'
 answer: '0124'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 21

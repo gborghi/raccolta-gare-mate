@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quanti interi <40 con somma dei quadrati delle cifre quadrato perfetto
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Student 2023 — Quesito 1

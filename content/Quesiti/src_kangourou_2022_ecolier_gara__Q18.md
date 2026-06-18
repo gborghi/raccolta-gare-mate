@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Punteggio impossibile nel torneo a tre squadre
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier gara individuale — Quesito 18

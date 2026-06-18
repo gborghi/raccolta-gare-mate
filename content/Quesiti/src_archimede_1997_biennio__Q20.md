@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Probabilita che un ragazzo resti senza giocattoli
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 20

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Minimo numero di scale per raggiungere l'incendio
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024 — Quesito 3

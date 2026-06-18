@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Numero totale studenti dato +20% e -20%
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Student (triennio) — Quesito 12

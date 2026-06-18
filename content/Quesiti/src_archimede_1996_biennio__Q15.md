@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Probabilita che una squadra vinca tutte le partite
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 15

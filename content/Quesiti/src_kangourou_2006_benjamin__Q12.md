@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Differenza somma primi 1000 pari e dispari
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Benjamin (marzo) — Quesito 12

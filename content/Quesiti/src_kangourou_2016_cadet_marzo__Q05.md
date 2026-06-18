@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: quanti sacchetti
 answer: D
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Cadet (gara marzo) — Quesito 5

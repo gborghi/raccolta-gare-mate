@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: 'Quanti coefficienti binomiali C(37,k) divisibili per 5'
 answer: '0020'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 18

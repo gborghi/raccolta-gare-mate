@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Percentuale minima del gruppo che ha fatto tutti i viaggi
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quanti ragazzi (coni a due gusti distinti)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2004 Cadet (18 marzo) — Quesito 13

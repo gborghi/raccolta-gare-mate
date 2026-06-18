@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numeri tre cifre con ogni permutazione divisibile per 4
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2012
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 6

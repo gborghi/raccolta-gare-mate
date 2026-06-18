@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Frazioni m/n ridotte con m*n=18!
 answer: '0064'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: 'Anni con somma cifre doppia del successivo, somma estremi'
 answer: '4568'
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 7

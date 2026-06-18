@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Lunghezza segmento con teorema della bisettrice
 answer: '0051'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 21

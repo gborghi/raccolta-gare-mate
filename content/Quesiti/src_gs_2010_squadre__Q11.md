@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Prezzo totale festa con abbandoni progressivi
 answer: '1520'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 11

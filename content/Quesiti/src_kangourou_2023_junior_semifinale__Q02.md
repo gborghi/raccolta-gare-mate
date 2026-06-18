@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Frazione colorata di una finestra con semicerchi e quarti di cerchio
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Junior 2023 — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Massimo cubetti visti simultaneamente in cubo 11x11x11
 answer: '331'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 6

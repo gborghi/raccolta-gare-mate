@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Percentuale ombreggiata di un quadrato
 answer: C
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 6

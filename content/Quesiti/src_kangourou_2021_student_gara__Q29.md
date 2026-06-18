@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: 'Minimo valore di M(k) massimo di |4x^2-4x+k| su [-1,1]'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 29

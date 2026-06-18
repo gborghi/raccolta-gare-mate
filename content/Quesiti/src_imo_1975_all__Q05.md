@@ -7,6 +7,7 @@ family: imo
 year: '1975'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 1975 points on unit circle with rational pairwise distances
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1975 (Seventeenth International Olympiad) — Quesito 5

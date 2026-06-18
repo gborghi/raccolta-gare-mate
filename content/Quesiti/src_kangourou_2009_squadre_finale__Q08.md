@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Segmento x per trasformare rettangolo in quadrato
 answer: '27'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou 2009 squadre finale — Quesito 8

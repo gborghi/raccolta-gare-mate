@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: 'Quante terne ordinate (a,b,c) interi con a*b*c=45000'
 answer: '3600'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Junior — Quesito 18

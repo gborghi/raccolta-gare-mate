@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Monete nel salvadanaio per completare le figure quadrate
 answer: '119'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 8

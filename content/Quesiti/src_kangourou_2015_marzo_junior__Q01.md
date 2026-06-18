@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: quale risultato
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Junior — Quesito 1

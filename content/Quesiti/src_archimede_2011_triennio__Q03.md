@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Somma numeri vertici piramide ottagonale con facce div per 3
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 3

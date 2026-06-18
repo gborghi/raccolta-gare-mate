@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: 'Due triangoli simili intersecanti in esagono, rapporto prodotti lati'
 answer: '0103'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 5

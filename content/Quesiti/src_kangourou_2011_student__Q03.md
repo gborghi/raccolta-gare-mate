@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Calcolo di xy con 2^x=15 e 15^y=32
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 3

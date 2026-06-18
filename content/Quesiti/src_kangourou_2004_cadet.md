@@ -6,12 +6,14 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '30'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2004
+  - gara/individuale
 ---
 
 # Kangourou 2004 Cadet (18 marzo)

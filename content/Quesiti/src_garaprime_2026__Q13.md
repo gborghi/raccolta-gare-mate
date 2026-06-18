@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Minimo S(n+1) dato S(n)=2026
 answer: B
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 13

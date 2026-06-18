@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '24'
 summary: Probabilita palla in S al minuto 14 (ricorrenza)
 answer: '5461'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Coppa Galileo 2013 - Gara a squadre — Quesito 24

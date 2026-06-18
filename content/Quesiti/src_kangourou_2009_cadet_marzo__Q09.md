@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Litri nel recipiente con dimensioni dimezzate
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 9

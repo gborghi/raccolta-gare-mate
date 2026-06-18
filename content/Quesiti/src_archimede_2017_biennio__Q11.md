@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Area triangolo AEH con punti di trisezione/quadrisezione
 answer: C
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 11

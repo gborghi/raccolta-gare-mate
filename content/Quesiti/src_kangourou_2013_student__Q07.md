@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quante affermazioni vere su x con 2<x<3
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 7

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Numero lettere nella sequenza di Clara
 answer: '0060'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 11

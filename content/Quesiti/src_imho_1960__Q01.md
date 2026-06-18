@@ -7,6 +7,7 @@ family: imo
 year: '1960'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Numeri di tre cifre divisibili per 11 con N/11 somma quadrati cifre
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1960
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1960 (II International Olympiad) — Quesito 1

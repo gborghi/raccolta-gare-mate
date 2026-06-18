@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Massimo euro di Marta con 20 banconote
 answer: '0405'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Finale nazionale Ecolier — Quesito 7

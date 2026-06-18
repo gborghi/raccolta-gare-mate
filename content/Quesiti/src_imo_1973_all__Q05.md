@@ -7,6 +7,7 @@ family: imo
 year: '1973'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Group of affine maps has common fixed point
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1973
   - livello/IMO
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # IMO 1973 (Fifteenth International Olympiad) — Quesito 5

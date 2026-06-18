@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Risultati diversi sommando due numeri
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Benjamin (20 marzo) — Quesito 12

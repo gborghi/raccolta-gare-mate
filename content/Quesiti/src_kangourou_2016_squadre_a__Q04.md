@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'N con 6 divisori, prodotto di 5 = 5000'
 answer: '25'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Semifinale A — Quesito 4

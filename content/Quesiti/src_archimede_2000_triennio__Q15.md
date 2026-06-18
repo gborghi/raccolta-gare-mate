@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Valore di f(x+1)-f(x) per funzione esponenziale 4^x
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 15

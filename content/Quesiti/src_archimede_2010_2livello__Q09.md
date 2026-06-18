@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Area al sicuro dentro base triangolare equilatera lato 8
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/2-livello
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 9

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Numeri di 6 cifre con 1 e 2 multipli di 3
 answer: C
@@ -25,6 +26,7 @@ tags:
   - anno/2025
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 7

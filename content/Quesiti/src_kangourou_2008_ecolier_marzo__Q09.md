@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Fra quanti anni unita = 4 volte migliaia
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 9

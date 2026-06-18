@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Distanza di A dal centro del disco rotante
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Junior (biennio) — Quesito 22

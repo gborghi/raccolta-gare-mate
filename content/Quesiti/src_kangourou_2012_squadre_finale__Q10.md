@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Valore prodotto (2012-0)*...*(0-2012)
 answer: '0'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 10

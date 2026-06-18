@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Angolo BAC dato angolo ottuso tra altezza e bisettrice
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 16

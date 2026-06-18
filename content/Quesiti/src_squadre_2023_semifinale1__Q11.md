@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Rapporto aree triangoli BMF e BSQ in configurazione tangente
 answer: '3457'
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 1 — Quesito 11

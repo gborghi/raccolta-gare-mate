@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Area ombra tronco di cono con sole a 30°
 answer: 0492
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 17

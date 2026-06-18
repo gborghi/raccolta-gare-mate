@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Minimo valore di a/b+c/d con interi distinti 1-10
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Junior (biennio) — Quesito 12

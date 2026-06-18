@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Stagioni di nascita da sistema lineare con soluzioni infinite/nessuna
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 4

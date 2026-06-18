@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Tempo sui 200 m di uno sprinter a velocita costante
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 9

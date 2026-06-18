@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: A quale numero Alice ha aggiunto lo 0 in coda
 answer: '0015'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier finale individuale — Quesito 8

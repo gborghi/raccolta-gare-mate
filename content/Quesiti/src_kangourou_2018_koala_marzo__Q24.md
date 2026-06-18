@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Giocattolo piu economico e piu costoso dai prezzi
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gioco Koala (Marzo) — Quesito 24

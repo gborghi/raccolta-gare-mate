@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Quale quadrato appare più volte nella striscia
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Pre-Ecolier — Quesito 11

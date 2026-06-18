@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Eta della signora (equazione)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior (marzo) — Quesito 11

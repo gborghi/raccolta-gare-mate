@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Ora limite per lasciare casa e arrivare in orario al coro
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Écolier (gara marzo) — Quesito 19

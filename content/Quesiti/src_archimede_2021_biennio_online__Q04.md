@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quanti numeri secondi tra 20 e 60
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 4

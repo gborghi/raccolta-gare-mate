@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Perimetro di un sotto-parallelogramma da perimetri dati
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 6

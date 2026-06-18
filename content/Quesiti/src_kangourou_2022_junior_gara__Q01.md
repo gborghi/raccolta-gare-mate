@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Area dei tetti visibili da verniciare sull'edificio
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior gara individuale — Quesito 1

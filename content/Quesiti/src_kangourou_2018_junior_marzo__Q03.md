@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Altezza del tavolo dati due dislivelli tra gatti
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Junior — Quesito 3

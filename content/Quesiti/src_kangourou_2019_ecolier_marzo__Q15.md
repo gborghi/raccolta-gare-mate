@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Quanti kang per mela, pera e banana insieme'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara di Marzo Ecolier — Quesito 15

@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Per quanti interi x il prodotto di due trinomi è primo
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 11

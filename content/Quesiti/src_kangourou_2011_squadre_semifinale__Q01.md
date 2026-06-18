@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Ora a S.Francisco all'arrivo del volo da Londra
 answer: '1735'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 1

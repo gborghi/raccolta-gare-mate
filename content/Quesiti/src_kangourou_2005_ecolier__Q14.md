@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Numero panchina a meta strada tra 24 e 66
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Ecolier (marzo) — Quesito 14

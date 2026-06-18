@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Numero ABC = B x CB con B e CB primi
 answer: 0679
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 4

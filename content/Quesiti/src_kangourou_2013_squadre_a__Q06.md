@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Numero minimo mosse per togliere tutte le pedine
 answer: '41'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Semifinale A — Quesito 6

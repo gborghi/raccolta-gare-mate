@@ -7,6 +7,7 @@ family: imo
 year: '1961'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Luogo del baricentro G dei medi al variare di A'',B'',C'''
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_solida
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # IMO 1961 (III International Olympiad) — Quesito 6

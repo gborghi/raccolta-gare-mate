@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quale valore N non e possibile per i cioccolatini
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Cadet - Semifinale individuale — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Probabilita di contagio incontrando sei coppie
 answer: '5512'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 19

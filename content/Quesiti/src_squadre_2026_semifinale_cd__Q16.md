@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Interi tra -400 e 400 differenza di somme di quadrati
 answer: 0801
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 16

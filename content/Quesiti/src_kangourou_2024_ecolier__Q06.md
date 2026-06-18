@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numero dell'ultimo giocatore che lancia la palla (cerchio)
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024 — Quesito 6

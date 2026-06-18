@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Numero soluzioni intere di |x|+2|y|=4022
 answer: '8044'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 16

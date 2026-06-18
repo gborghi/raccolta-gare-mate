@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Numero percorsi minimi tra centri facce del cubo
 answer: '0240'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 18

@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Massima differenza dopo 2013 operazioni cambio sulla terna
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 27

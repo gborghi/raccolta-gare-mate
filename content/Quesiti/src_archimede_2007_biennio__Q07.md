@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Aumento area aumentando base 20% e altezza 50%
 answer: E
@@ -19,6 +20,7 @@ tags:
   - anno/2007
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 7

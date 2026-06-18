@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Numeri dispari da 1 a 2011 senza i multipli di 3
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 9

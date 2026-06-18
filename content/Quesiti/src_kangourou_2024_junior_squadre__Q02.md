@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Somma coefficienti polinomio dato funzionale
 answer: '2030'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 1 — Quesito 2

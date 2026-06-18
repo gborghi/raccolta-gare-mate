@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quarto numero della sequenza geometrica da 6 a 192
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Junior — Quesito 12

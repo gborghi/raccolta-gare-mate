@@ -7,6 +7,7 @@ family: imo
 year: '1974'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Bound n(P)-deg(P)<=2 for P(k)^2=1 integer roots
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1974
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1974 (Sixteenth International Olympiad) — Quesito 6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Somma due numeri 3 cifre, concat 7 volte prodotto'
 answer: 0286
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 1 — Quesito 4

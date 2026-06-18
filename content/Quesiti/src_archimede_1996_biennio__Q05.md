@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Ora di accensione del forno per cuocere il pesce
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 5

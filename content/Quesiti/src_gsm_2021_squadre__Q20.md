@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Modi di disporre dieci persone su due file per la foto
 answer: '0056'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 20

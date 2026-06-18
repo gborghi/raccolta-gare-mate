@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Triangolo con AC=AM mediana, lunghezza AC'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2021 - 2° livello — Quesito 2

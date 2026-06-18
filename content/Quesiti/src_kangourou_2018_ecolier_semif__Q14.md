@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Punti vertici di 4 quadrati in rettangolo 100x60
 answer: '5841'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Ecolier — Quesito 14

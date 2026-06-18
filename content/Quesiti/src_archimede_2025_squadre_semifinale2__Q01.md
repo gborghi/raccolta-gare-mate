@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Conta interi a 3 cifre con scambio cifre differenza 9
 answer: '0162'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 1

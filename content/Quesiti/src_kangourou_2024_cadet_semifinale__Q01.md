@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Massimo punti comuni a 2024 circonferenze
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Cadet 2024 — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Quanti n con [n/20]=[n/17]'
 answer: '0056'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Junior — Quesito 6

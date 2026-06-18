@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J6
 summary: Massimo rapporto area parallelogramma su esagono regolare
 answer: 2/3
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (finale Cervia) — Quesito J6

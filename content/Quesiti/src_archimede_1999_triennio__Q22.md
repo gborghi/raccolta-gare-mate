@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Quale numero non e esprimibile come a/b + b/a
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 22

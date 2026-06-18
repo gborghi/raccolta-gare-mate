@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Quanti appartengono ai Verdi (Verdi/Rossi/Gialli)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 27

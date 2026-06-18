@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Volume del cubottaedro da cubo di lato 6
 answer: '180'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre finale — Quesito 6

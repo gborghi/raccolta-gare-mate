@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Numero iniziale dopo 2000 iterazioni raddoppia e meno 1
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 21

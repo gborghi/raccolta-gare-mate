@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Massimo combinazioni lucchetto 4 cifre con due uguali
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 24

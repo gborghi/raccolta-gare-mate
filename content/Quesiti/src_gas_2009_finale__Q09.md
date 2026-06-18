@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Tentativi massimi rune su prisma esagonale a meno di rotazioni
 answer: '3360'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Finale Nazionale — Quesito 9

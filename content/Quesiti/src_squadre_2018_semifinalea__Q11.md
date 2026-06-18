@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: 'Successione ricorsiva in base 3, guadagno totale fino a edizione 2018'
 answer: '4105'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 11

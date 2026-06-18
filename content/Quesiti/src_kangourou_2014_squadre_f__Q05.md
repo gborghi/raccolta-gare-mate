@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Massimo n biglie per trovare la piu pesante in 2 pesate
 answer: '9'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Finale — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J2
 summary: Busta A o B con al massimo un errore
 answer: la busta B
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (finale Cervia) — Quesito J2

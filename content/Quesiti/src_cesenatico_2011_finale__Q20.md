@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Probabilita tornare all'ufficio 73 (permutazione)
 answer: '1100'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 20

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S2
 summary: Determinare lo spigolo VD della piramide a base rettangolare
 answer: 60 m
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Student — Quesito S2

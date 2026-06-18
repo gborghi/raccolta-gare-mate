@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Colorazioni 18 scudi con 13 coppie adiacenti uguali
 answer: '2156'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 12

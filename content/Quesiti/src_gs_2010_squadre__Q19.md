@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Altezza totale della ziqqurat per ricorsione
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 19

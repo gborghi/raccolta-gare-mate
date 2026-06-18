@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Altezza della torre con 28 mattoncini secondo lo schema
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara di Marzo Benjamin — Quesito 18

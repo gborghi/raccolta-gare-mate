@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'gioco con gettoni, strategia vincente'
 topics:
@@ -19,6 +20,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/logica
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 10

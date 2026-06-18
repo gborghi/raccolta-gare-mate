@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Orologio digitale, minimo intero che non divide'
 answer: '84'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2018 - 2° livello — Quesito 14

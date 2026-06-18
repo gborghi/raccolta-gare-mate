@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Prodotto BD x AC in quadrilatero convesso
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Kangourou 2004 - Student (marzo) — Quesito 30

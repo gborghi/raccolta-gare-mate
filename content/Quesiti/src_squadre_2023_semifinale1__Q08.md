@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Probabilita MCD=1 di tre estrazioni con reimmissione da 1-9
 answer: '1366'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 1 — Quesito 8

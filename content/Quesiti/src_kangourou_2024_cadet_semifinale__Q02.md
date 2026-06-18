@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Area del triangolo ANC nel triangolo equilatero
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Cadet 2024 — Quesito 2

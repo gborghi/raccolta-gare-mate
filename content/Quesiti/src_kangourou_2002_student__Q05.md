@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Spigoli di un prisma con 2002 vertici
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 5

@@ -7,6 +7,7 @@ family: imo
 year: '1985'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Two-colored set with coprime conditions all same color
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1985 (26th International Mathematical Olympiad) — Quesito 2

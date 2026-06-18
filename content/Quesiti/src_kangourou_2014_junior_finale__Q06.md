@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Minimo n di quadrati grigi 8x8 per copertura adiacente
 answer: '20'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale Junior — Quesito 6

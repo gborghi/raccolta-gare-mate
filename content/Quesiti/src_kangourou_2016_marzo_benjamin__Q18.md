@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: cifra N
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 gara 17 marzo Benjamin — Quesito 18

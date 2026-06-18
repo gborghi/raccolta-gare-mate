@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Perimetro del triangolo grande dai perimetri dei piccoli
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 15

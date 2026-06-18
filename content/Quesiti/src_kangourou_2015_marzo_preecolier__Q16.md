@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: numero nel punto interrogativo
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 16

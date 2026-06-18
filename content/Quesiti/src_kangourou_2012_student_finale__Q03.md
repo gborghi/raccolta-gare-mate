@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Colorazioni di 20 tessere con regola di somma
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 finale nazionale Student — Quesito 3

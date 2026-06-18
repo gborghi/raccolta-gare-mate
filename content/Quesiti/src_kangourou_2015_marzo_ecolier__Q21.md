@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: quali spezzoni sotto il taglio
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Ecolier — Quesito 21

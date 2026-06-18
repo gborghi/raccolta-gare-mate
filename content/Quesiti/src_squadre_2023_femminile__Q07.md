@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Area BFGD in triangolo equilatero con perpendicolari iterate
 answer: 0180
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2023 - VI Finale — Quesito 7

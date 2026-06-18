@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '22'
 summary: Calcolo somma coefficienti a_(3k+1) di ((x^4+x^2+1)/3)^2007
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 22

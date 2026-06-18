@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Quanti numeri autodescrittivi di 4 cifre
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Cadet (marzo) — Quesito 24

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Massimo numeri dispari nella piramide di somme
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (gara marzo) — Quesito 29

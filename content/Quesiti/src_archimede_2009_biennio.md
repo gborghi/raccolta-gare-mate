@@ -6,12 +6,14 @@ family: archimede
 year: '2009'
 level: biennio
 country: Italia
+modalita: individuale
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2009
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio

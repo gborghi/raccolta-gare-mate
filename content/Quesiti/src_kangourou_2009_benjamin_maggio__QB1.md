@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Quanti modi di sistemare 4 monete su scacchiera 4x4
 answer: '2'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin finale nazionale (Mirabilandia) — Quesito B1

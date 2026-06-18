@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: dimostrare razionalità/insiemi
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 15

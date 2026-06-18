@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: quanti fazzoletti
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Junior — Quesito 2

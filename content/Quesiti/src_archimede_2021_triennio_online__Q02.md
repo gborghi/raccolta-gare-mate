@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Triangoli con due vertici dello stesso colore su circonferenza
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 2

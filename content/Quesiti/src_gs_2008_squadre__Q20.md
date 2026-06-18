@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Numero massimo di megaliti su lunghezza data
 answer: '4808'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 20

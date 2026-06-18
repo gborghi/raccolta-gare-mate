@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Cartolerie (multipli 18) non di lusso (non multipli 24) in 2007
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 2

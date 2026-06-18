@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Massimo grani bianchi sfilati prima del quinto grigio
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 10

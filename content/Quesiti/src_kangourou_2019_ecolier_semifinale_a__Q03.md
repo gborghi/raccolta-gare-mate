@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Massimo numero di pesate esatte con pesi dati
 answer: '0055'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 3

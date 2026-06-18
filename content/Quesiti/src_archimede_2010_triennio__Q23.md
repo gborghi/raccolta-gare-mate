@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: 'Raggio circonferenza per P, Q, B con triangoli equilateri'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 23

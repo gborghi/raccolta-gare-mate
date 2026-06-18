@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Punto in cui forare quattro quadrati sovrapposti
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 4

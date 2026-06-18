@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Numero di cinture di stelle circoscritte fino a raggio 2001
 answer: '0023'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 1

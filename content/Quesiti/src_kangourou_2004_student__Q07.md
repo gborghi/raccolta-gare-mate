@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Area quadrilatero da due triangoli equilateri
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2004 - Student (marzo) — Quesito 7

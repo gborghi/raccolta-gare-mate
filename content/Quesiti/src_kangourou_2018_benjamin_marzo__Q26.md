@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Quanti volumi contiene ogni scatola
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 26

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: per quali n la strategia funziona
 answer: n potenza di due
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Ricostruire l'addizione dalle cifre riordinate
 answer: '0067'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 11

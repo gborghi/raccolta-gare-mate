@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: per quali n ritorna al punto di partenza
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 16

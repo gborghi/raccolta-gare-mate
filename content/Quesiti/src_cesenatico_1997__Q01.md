@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Area minima striscia piegata 3cm
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1997
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1997 — Quesito 1

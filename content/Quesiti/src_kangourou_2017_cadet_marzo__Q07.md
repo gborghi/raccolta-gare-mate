@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Somma di due interi positivi con prodotto 2017
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (gara marzo) — Quesito 7

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Numero cubi lato 3 cm data somma volumi
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 22

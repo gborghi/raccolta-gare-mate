@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '23'
 summary: Probabilita vincita iterando prodotto delle cifre da 1 a 10000
 answer: '0500'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 23

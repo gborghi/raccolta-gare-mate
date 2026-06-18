@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Numero che resta dopo cancellazioni a somme doppie
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 22

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Antenati Matemaya (rami con 7 maschi e 7 femmine)
 answer: '1716'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 2

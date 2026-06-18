@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Totale partecipanti da n,m radici di equazione quadratica'
 answer: '6770'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Gara del Pubblico — Quesito 4

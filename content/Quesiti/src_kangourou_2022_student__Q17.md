@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: terzo valore in ordine di grandezza
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Gara 17 marzo — Quesito 17

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Dimostrare che la soluzione di x^5+x=10 e irrazionale
 answer: irrazionale (dim.)
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Finale Nazionale Junior — Quesito 5

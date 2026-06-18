@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Colorazioni di sette stati con tre colori
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 7

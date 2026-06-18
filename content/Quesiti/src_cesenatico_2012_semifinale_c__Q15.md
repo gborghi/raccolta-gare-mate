@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Minuti guadagnati dalla Terra che rallenta
 answer: '5551'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 15

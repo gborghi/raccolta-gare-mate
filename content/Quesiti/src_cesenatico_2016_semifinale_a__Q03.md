@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Lunghezza EX (tangente alla circonferenza inscritta)
 answer: '2121'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 3

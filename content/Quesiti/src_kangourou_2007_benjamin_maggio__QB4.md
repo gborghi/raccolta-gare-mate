@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B4
 summary: Tipo di molecola rimasta (reazioni con invariante)
 answer: Anti-X
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin finale (maggio) — Quesito B4

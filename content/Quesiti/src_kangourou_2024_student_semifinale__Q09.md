@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Massimo numero di telecamere ridondanti su strada 1000m
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student semifinale — Quesito 9

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Colorazioni distinte cubo con 2+4 facce (10 colori)
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 15

@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: numero di affermazioni vere
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2004
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Triennio — Quesito 2

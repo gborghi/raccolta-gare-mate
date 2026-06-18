@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Somma di 100 e degli interi z con z^2+12 divisibile z+4
 answer: '52'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Junior 2017 Finale — Quesito 3

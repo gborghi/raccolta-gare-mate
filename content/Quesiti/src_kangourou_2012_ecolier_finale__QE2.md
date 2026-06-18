@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E2
 summary: A che ora e stata scattata la foto con quattro orologi
 answer: '5:05'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E2

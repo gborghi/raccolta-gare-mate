@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Ultime tre cifre del piu piccolo numero di 12 cifre
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin gara individuale — Quesito 5

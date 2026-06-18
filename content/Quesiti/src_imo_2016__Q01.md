@@ -7,6 +7,7 @@ family: imo
 year: '2016'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'BD, FX, ME concorrenti (parallelogramma AMXE)'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2016
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2016 papers — Quesito 1

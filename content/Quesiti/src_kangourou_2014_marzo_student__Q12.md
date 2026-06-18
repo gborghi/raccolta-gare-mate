@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quale tra 2^k+1 e divisibile per 5
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 gara 20 marzo Student — Quesito 12

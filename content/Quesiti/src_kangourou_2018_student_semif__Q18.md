@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Minimo n per cui due interi hanno somma/diff div per 100
 answer: '52'
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Student — Quesito 18

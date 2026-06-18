@@ -6,12 +6,14 @@ family: imo
 year: '1992'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1992
+  - gara/individuale
 ---
 
 # IMO 1992 (33rd IMO, Moscow)

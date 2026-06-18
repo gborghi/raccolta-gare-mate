@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Probabilità 1000p con almeno un colpo su 3 tentativi
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 1

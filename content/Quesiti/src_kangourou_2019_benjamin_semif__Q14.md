@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Piu piccolo intero non pari, non quadrato, non primo, non mult3'
 answer: '35'
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Benjamin — Quesito 14

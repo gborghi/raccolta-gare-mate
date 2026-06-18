@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Massimo numero di interi consecutivi con somma cubi = 2024
 answer: '0011'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Cadet 2024 — Quesito 18

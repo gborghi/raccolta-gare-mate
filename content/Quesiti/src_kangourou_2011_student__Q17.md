@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Quale affermazione sulla parabola puo essere falsa
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 17

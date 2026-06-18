@@ -7,6 +7,7 @@ family: imo
 year: '2015'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Insiemi bilanciati e centre-free di n punti
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2015 papers — Quesito 1

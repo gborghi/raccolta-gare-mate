@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Mentitori reali nel gruppo di 4
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Benjamin (20 marzo) — Quesito 29

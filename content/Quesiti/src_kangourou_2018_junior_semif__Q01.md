@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Quante coppie (a,b) reali non nulli con a+b=ab=a/b'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Junior — Quesito 1

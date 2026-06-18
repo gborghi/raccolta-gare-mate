@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quale numero avanza nell uguaglianza con 7 numeri
 answer: '4'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Ecolier — Quesito 13

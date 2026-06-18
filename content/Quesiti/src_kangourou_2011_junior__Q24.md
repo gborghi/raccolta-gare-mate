@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Massimo valore della somma delle medie di interi adiacenti
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Junior (gara marzo) — Quesito 24

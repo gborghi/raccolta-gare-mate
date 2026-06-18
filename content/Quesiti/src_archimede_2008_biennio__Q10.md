@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Lunghezza ND dato area triangolo nel quadrato
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 10

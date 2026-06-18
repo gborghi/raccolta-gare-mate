@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Divisori di n sapendo che 30n ne ha 45
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2019
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 17

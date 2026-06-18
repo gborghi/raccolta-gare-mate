@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Probabilità ritorno al vertice dopo 3 km su triangolo
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio — Quesito 16

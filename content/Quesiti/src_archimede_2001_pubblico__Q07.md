@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: cifre decimali dopo 1000 mosse
 answer: '1999'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/gara-del-pubblico
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 7

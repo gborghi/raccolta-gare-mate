@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: 'Distribuzione tempi su tre sportelli, minimo'
 answer: '74'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2009 - Gara a squadre — Quesito 3

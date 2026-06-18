@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Forma del dominio definito da somma di valori assoluti
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 2

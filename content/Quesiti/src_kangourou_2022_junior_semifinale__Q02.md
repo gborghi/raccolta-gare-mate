@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Concime supplementare prato 30 vs 25 metri di lato
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior — Semifinale individuale — Quesito 2

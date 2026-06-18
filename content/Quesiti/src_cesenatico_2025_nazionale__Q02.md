@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Valori interi di a con unica soluzione intera della disequazione
 answer: '24,25,26'
@@ -27,6 +28,7 @@ tags:
   - livello/nazionale
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 2

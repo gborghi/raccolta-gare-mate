@@ -7,6 +7,7 @@ family: imo
 year: '1963'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Radici reali di sqrt(x^2-p)+2 sqrt(x^2-1)=x
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1963
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1963 (V International Olympiad) — Quesito 1

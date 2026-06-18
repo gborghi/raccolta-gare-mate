@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Massimo numero coppie di concorrenti somma >41
 answer: '0420'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 10

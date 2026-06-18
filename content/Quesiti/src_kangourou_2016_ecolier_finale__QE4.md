@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E4
 summary: posso restare senza denaro
 answer: 'No, resto con 1 centesimo'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (finale Cervia) — Quesito E4

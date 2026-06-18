@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quanti congressisti su 100 portano la cravatta
 answer: E
@@ -19,6 +20,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 4

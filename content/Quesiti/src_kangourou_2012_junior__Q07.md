@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Area del quadrilatero dato dalle mediane
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2012 Junior (gara marzo) — Quesito 7

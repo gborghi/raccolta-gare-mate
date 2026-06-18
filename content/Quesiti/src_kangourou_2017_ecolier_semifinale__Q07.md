@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Eta del penultimo figlio con eta in progressione
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Ecolier - Semifinale individuale — Quesito 7

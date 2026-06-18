@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Minimo numero di punti medi distinti per 2019 punti
 answer: '4035'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Junior — Quesito 8

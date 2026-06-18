@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B6
 summary: Quante caramelle (combinazioni 3 = doppio di 2)
 answer: '8'
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin finale (maggio) — Quesito B6

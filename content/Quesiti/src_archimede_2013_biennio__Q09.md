@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Divisori di n^2 se n ha 6 divisori
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 9

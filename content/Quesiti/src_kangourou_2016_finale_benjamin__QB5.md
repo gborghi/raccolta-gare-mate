@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B5
 summary: 'Parco circolare rete 2016m, pianta ogni 8m, stesso tipo ogni 64m'
 answer: '4'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 finale nazionale Benjamin — Quesito B5

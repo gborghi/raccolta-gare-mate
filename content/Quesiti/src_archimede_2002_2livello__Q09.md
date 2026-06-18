@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Area di un quadrato sezionato in figura (raggio/lato)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2002 — Quesito 9

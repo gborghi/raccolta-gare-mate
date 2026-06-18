@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Contributo per coprire spese gita
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (marzo) — Quesito 12

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Somma minima di sei numeri coprimi sulle facce di un cubo
 answer: '0022'
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Cadet 2024 — Quesito 11

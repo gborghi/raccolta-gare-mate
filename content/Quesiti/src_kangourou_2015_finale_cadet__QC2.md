@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C2
 summary: condizioni per incrocio treni
 answer: max 13 carrozze
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Cadet — Quesito C2

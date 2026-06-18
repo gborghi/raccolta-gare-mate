@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: 'Piramide tagliata in volumi uguali, rapporto BP/PV'
 answer: '0022'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 8

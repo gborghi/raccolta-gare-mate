@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Raggio minimo per dividere solido di rotazione
 answer: 0708
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 3

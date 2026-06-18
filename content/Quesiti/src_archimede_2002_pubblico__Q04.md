@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: minimo dell'espressione razionale
 answer: '0501'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 4

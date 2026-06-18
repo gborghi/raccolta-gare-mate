@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Quanti valori di O*T*T*O (crittoaritmo)
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 17

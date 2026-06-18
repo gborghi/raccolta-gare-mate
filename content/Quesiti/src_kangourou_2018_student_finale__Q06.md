@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Caratterizzare i poligoni equilateri convessi rombosi
 answer: lati a coppie paralleli
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Finale Nazionale Student — Quesito 6

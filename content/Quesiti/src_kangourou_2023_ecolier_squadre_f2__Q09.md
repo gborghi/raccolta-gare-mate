@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Cifre scritte fino a primo blocco 999
 answer: '2590'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 9

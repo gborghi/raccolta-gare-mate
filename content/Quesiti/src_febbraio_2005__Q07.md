@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Numero massimo di soluzioni di equazione con valore assoluto
 topics:
@@ -19,6 +20,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/algebra
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 7

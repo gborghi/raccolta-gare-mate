@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Quanti numeri riducono a zero moltiplicando le cifre
 answer: '0024'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 12

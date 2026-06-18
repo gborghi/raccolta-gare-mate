@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Condizione su x per disuguaglianza radice di x < 3x
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 15

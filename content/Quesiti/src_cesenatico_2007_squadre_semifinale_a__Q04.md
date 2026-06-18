@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Massimo di 252cos t -275sin t +298
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2007
   - livello/squadre
   - topic/trigonometria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 4

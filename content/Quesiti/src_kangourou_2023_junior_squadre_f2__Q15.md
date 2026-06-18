@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Quanti amici ha il sindaco
 answer: '1011'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Junior Finale 2 — Quesito 15

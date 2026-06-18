@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E2
 summary: Stima peso minimo e massimo attuale
 answer: '86 kg, 92 kg'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Ecolier (finale nazionale) — Quesito E2

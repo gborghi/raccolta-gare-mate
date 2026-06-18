@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Ordine tra a, b e 1 data disuguaglianza cubica'
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 17

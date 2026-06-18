@@ -6,12 +6,14 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2003
+  - gara/individuale
 ---
 
 # Kangourou 2003 Junior finale nazionale

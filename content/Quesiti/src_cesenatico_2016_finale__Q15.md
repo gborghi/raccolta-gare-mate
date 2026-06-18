@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: formazione pentagono ed esagono senza resti
 answer: '0331'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 15

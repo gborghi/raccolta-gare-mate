@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Somma aree di 4027 triangoli (telescopica)
 answer: '6974'
@@ -23,6 +24,7 @@ tags:
   - livello/nazionale
   - topic/geometria_piana
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 7

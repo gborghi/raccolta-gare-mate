@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: f(2013) per f periodica di periodo 5
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 20

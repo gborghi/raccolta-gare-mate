@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Minimo numero di blocchi bianchi per comporre il cubo
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024 — Quesito 24

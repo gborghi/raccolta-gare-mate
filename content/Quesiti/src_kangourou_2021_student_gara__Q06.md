@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Rapporto volumi dei due cilindri da rettangolo arrotolato
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 6

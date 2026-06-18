@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Immagine laterale del monumento di cilindri
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2018 Cadet - Semifinale individuale — Quesito 9

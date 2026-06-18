@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Alberi piantati a marzo 2017
 answer: '0011'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 5

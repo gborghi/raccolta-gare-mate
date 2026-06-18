@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Affermazione che il bugiardo alternante non puo fare
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (marzo) — Quesito 13

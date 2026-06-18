@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: 'Massima cardinalita insieme chiuso per (m+n)/MCD(m,n)'
 answer: '0001'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/insiemi_funzioni
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Gara del Pubblico — Quesito 5

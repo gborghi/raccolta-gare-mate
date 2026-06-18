@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quanti punti ci sono nell'immagine
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Ecolier — Quesito 16

@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Minimo numero di persone in tre commissioni
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 18

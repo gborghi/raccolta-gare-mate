@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Biscotti totali con ri-impasto dei ritagli
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Ecolier (21 marzo) — Quesito 17

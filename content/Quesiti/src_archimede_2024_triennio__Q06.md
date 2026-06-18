@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Somma divisori di 18000 la cui scrittura termina per 50
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 6

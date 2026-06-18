@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Minimo intero che moltiplicato per 2017,316 da un intero'
 answer: '250'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (semifinale individuale) — Quesito 15

@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Giorni lavorativi del guardiano fino a domenica riposo
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (marzo) — Quesito 14

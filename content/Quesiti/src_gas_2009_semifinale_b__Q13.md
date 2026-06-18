@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Angolo ABC in quadrilatero con cerchio e archi
 answer: 0138
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 13

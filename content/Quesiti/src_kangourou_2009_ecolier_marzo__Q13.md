@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Numero di due cifre con piu stuzzicadenti
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 13

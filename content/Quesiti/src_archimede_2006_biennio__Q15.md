@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Patrimonio dopo crescita del 50% per quattro ore
 answer: C
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 15

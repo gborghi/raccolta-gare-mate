@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: 'Naturali a,b,c con b=a/c e cifre contenute, a massimo'
 answer: 0819
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 14

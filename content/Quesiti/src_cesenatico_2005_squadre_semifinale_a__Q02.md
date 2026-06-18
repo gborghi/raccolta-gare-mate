@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Area massima di due semicerchi da stoffa 100x50
 answer: '4263'
@@ -24,6 +25,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 2

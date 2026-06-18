@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'b-a primo, cifra unita di a+b =3, ab quadrato'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 2

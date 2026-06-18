@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Frazione area triangolo PQT nel rettangolo
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2003 Junior (20 marzo) — Quesito 11

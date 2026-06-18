@@ -7,6 +7,7 @@ family: imo
 year: '1979'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: prove formula for count of n-jump paths
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1979
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1979 (Twenty-first International Olympiad) — Quesito 6

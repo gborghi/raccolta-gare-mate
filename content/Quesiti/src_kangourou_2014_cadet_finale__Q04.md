@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Area del triangolo rettangolo dalla bisettrice (4 e 5)
 answer: 54 cm^2
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale Cadet — Quesito 4

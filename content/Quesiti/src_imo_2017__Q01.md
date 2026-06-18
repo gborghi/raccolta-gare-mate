@@ -7,6 +7,7 @@ family: imo
 year: '2017'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Valori a0 con successione radice/+3 periodica
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 2017 papers — Quesito 1

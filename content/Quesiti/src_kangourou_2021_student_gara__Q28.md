@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Distanza tra raggio XY e specchio OQ con riflessioni
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 28

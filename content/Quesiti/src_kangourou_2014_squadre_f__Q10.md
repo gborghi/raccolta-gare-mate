@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Massimo di ab-bc+ca con prodotto abc=16
 answer: '263'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Finale — Quesito 10

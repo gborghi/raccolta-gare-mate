@@ -7,6 +7,7 @@ family: imo
 year: '2024'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Reali alpha con somma floor(k·alpha) multipla di n
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 2024 papers — Quesito 1

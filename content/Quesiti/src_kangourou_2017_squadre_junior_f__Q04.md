@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: parallelogrammi sulla tastiera
 answer: '176'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Junior 2017 Finale — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Volume tetraedro da volumi di sotto-tetraedri
 answer: '4050'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 21

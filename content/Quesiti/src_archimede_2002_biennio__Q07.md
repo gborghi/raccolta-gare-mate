@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Forma logica equivalente su insegnanti e auto di lusso
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 7

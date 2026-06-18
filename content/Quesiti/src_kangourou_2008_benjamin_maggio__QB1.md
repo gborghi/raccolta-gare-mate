@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Area triangolo equilatero inscritto vs meta cerchio
 answer: minore
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2008 Benjamin finale (maggio) — Quesito B1

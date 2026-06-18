@@ -7,6 +7,7 @@ family: imo
 year: '1970'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: At most 70% of triangles from 100 points are acute
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1970 (Twelfth International Olympiad) — Quesito 6

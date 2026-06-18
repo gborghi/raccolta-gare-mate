@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quanti triangoli equilateri nella figura
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 12

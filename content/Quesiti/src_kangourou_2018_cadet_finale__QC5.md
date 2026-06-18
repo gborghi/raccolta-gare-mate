@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Quante carte buttate data la probabilita dei 4 assi
 answer: '38'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C5

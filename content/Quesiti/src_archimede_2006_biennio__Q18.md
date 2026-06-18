@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: 'Numeri con cifre 3,4,6,7 divisibili per 44'
 answer: C
@@ -22,6 +23,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 18

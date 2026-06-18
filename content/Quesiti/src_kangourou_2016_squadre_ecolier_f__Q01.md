@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Numero uguale al triplo del proprio doppio
 answer: '0'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 1

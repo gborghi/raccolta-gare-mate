@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Modi di dividere 9 persone in gruppi con vincoli
 answer: '0024'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Finale Nazionale — Quesito 2

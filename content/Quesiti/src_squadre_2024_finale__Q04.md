@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: p(2024) con p(2R)=2p(R)+2R^2-1 e somma coefficienti 2
 answer: '6577'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Finale Nazionale — Quesito 4

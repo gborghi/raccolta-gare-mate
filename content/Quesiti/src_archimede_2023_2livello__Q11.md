@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Coppie (m,n) la cui frazione inizia con 3,14'
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/geometria_analitica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2023 - 2° livello — Quesito 11

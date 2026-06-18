@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Angolo D in quadrilatero con relazioni tra lati
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 3

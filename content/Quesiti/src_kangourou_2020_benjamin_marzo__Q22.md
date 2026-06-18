@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Distanza dal lato inferiore del quadrato intermedio
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Benjamin — Quesito 22

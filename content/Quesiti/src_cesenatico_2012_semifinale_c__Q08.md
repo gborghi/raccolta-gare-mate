@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Acqua nella piscina tetraedro inscritto
 answer: 0448
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 8

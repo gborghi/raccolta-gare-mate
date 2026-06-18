@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Minimo intero somma di 9 e di 10 interi consecutivi
 answer: '0135'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 2

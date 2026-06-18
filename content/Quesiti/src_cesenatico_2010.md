@@ -6,12 +6,14 @@ family: archimede
 year: '2010'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2010
+  - gara/individuale
 ---
 
 # XXVI Olimpiade Italiana Cesenatico 2010

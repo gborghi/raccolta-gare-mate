@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Minimo ABC con media permutazioni divisibile 60
 answer: '0127'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 2 — Quesito 1

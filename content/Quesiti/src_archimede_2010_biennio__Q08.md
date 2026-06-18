@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Distanza AB da due incontri di camminatori
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 8

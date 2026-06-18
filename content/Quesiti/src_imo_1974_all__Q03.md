@@ -7,6 +7,7 @@ family: imo
 year: '1974'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Prove binomial-sum with 2^3k not divisible by 5
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1974
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1974 (Sixteenth International Olympiad) — Quesito 3

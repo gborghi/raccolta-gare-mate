@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: 'triangolo coordinato, punti interi'
 answer: '0064'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/geometria_analitica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 12

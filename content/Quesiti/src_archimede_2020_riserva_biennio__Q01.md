@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Grammi di bianco per stesso colore (proporzione)
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/2020
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 1

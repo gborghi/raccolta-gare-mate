@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: cruciverba di numeri primi e prodotti
 answer: '7100'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 6

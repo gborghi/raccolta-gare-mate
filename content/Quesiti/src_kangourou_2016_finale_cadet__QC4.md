@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: diametro intero della moneta B
 answer: 4 o 12
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2016 finale nazionale Cadet — Quesito C4

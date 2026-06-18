@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E3
 summary: Minimo numero 4 cifre divisibile per ogni sua cifra
 answer: '1236'
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Ecolier (finale nazionale) — Quesito E3

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Sequenze complete di 50 (+1) e 50 (-1) le cui somme parziali toccano 0..49
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 8

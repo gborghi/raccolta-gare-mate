@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Somma delle due cifre non visibili date somma 826
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara di Marzo Benjamin — Quesito 13

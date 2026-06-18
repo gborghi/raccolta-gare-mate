@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E6
 summary: Numero di percorsi da P a Q (verso il basso)
 answer: '20'
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2003 Ecolier finale nazionale — Quesito E6

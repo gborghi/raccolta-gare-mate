@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Massimo pezzi ritagliabili dal foglio
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Pre-Ecolier — Quesito 19

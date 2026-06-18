@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Cosa si dice sulle lunghezze dei due treni
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2012 Junior (gara marzo) — Quesito 24

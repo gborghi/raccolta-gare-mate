@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Quante cifre ha il numero (123456789) alla sesta
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 20

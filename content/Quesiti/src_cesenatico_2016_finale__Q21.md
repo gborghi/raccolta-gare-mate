@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: n iniziale del solitario (operazione su frazioni)
 answer: '0020'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 21

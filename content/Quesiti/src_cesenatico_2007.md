@@ -6,12 +6,14 @@ family: archimede
 year: '2007'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2007
+  - gara/individuale
 ---
 
 # XXIII Olimpiade Italiana Cesenatico 2007

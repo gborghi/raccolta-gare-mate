@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Rapporto a/b con due rettangoli di uguale area
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (gara marzo) — Quesito 8

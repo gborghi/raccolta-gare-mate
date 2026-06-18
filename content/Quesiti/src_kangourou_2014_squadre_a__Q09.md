@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Dopo quanti km scambiare gomme per consumo uguale
 answer: '1800'
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Semifinale A — Quesito 9

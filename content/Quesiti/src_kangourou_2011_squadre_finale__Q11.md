@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Piu piccolo intero non scrivibile come a*b+c cifre distinte
 answer: '70'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre finale — Quesito 11

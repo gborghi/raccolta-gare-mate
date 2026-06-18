@@ -7,6 +7,7 @@ family: imo
 year: '1997'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Bound f(2^n), partitions of n into powers of 2'
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1997 (38th IMO, Mar del Plata) — Quesito 6

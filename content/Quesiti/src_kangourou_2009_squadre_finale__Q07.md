@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Minimo collegamenti tra 13 citta con tre mezzi
 answer: '18'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou 2009 squadre finale — Quesito 7

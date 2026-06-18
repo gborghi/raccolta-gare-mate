@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Interi non negativi come unione di traslati disgiunti di A0
 answer: dimostrazione
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Finale (risposta aperta) — Quesito S6

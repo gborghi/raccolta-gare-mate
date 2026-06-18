@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: '32, arrivo 6:11: ore di viaggio'
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 23

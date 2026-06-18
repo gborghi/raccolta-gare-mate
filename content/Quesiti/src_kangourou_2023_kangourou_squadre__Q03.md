@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: 'Minimo iscritti al campo estivo, quota agevolata'
 answer: '0051'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 3

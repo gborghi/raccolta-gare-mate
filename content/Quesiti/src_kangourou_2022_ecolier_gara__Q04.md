@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quale pedina spostare per 2 pedine per riga e colonna
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier gara individuale — Quesito 4

@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Valore di x^2+y^2+z^2 con vincoli
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo) — Quesito 24

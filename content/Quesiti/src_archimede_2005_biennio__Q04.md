@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Distribuzione di 120 ciliege proporzionale all'eta
 answer: E
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 4

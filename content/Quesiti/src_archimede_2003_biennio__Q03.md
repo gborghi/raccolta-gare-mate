@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Lato del quadrato dato il raggio della circonferenza, lunghezza 1'
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Quante volte l'alpinista e tornato indietro
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/insiemi_funzioni
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Junior (18 marzo) — Quesito 21

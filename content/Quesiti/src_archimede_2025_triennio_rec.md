@@ -6,12 +6,14 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2025
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio (prova di riserva)

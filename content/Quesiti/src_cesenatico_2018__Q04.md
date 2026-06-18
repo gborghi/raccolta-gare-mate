@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: doppio di primo o potenza di primo
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Massimo b con forma quadratica a/x^2+b/xy+c/y^2 non negativa
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 8

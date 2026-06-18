@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Interi 1000-3000 con cifra 7 esattamente una volta
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 9

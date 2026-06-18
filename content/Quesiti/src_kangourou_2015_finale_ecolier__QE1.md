@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: quante somme
 answer: '11'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Ecolier — Quesito E1

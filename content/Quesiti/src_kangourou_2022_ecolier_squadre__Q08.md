@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Puntini totali quando interni sono 36
 answer: '0066'
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 8

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: Max numero di cifre distinte divisibile per ognuna delle sue cifre
 answer: '7'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Student (Mirabilandia) — Quesito S1

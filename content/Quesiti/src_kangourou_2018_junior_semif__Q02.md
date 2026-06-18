@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Lunghezza circonferenza C inscritta nell occhio
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Junior — Quesito 2

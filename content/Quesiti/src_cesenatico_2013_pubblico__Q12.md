@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: 'Giorni dalla fondazione (incontri periodici, 451 aperture)'
 answer: '5250'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 12

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Minimo cioccolatini divisibili in classi da 21 e 25
 answer: '240'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (semifinale individuale) — Quesito 12

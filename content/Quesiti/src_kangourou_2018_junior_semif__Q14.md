@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Quante coppie (a,b) interi in [-2018,2018] con 2a+b+6=0'
 answer: '2019'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Junior — Quesito 14

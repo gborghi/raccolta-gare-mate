@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: fra quanti anni
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 2

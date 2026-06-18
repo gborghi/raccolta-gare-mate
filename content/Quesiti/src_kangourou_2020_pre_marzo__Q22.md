@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Numeri possibili nel cerchio con somme uguali
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2020 Pre - gara marzo — Quesito 22

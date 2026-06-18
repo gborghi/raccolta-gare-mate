@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Biglie nella terza scatola
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Benjamin (21 marzo) — Quesito 10

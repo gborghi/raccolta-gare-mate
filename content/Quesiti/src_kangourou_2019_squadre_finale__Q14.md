@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Per quanti n sia n-2019 sia n+6000 quadrati
 answer: '0007'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Finale — Quesito 14

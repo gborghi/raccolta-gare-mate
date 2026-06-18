@@ -7,6 +7,7 @@ family: imo
 year: '1990'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Determine all n>1 with n^2 dividing 2^n+1
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1990
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1990 (31st IMO, Beijing) — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Numero sul petalo nascosto con somme uguali
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2020 Pre - gara marzo — Quesito 12

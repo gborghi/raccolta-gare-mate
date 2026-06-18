@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: tentativi massimi noti i vincoli
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Student 2023 — Quesito 2

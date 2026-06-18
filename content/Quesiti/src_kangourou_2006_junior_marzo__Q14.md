@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Cifra rappresentata da A (KAN+KAG+KNG=2006)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior (marzo) — Quesito 14

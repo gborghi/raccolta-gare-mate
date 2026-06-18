@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Ultime 3 cifre di p(21) dato p(k)=2^k per k da 1 a 20
 answer: '042'
@@ -24,6 +25,7 @@ tags:
   - anno/2007
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 13

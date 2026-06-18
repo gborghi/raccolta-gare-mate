@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B4
 summary: Minimo numero di triangoli per ritagliare il canguro
 answer: '6'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B4

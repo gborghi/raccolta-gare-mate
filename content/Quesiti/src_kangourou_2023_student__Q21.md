@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Espressione della funzione f da sistema funzionale
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 21

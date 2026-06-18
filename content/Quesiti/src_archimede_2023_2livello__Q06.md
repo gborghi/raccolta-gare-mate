@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Divisori propri di 10^2024+1 della forma 10^n+1
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2023 - 2° livello — Quesito 6

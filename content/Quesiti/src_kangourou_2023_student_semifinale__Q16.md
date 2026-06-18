@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Intero piu vicino a p, rapporto perimetri quadrato smussato'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Student 2023 — Quesito 16

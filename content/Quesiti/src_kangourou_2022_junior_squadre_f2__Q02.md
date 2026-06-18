@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Quanti divisori pari di 20^22
 answer: '1012'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 2 — Quesito 2

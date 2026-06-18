@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Animali vivi tra topi e gatti dopo che i gatti mangiano
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Ecolier — Quesito 1

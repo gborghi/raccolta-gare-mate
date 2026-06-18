@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: n con partita di 594 mosse
 answer: 0891
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 2

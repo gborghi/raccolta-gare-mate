@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Area regione entro 3 dal perimetro di quadrilatero circoscritto
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 12

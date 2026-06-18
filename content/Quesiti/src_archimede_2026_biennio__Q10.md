@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Area quadrilatero CDEF con lati perpendicolari
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 10

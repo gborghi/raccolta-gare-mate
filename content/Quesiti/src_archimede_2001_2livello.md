@@ -6,12 +6,14 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 n_quesiti: '17'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2001
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001

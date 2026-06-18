@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Somma cifre di 10^2025+10^803+3^4+2^5
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 4

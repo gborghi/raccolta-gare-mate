@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Per quanti a il sistema simmetrico ha soluzioni intere
 answer: '19'
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 14

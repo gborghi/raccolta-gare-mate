@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Segno zodiacale con un asse di simmetria
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - gara marzo — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Affermazioni vere/false, quanti valori puo assumere n'
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 5

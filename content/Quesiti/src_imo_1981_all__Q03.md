@@ -7,6 +7,7 @@ family: imo
 year: '1981'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1981
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1981 (Twenty-second International Olympiad) — Quesito 3

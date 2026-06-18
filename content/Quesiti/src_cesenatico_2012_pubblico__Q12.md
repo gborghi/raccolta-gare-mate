@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Anni per strada >=113 scudi (57 diviso per coppie)
 answer: '0113'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 12

@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Tre atleti fianco a fianco per la prima volta
 answer: '2600'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 7

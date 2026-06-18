@@ -7,6 +7,7 @@ family: imo
 year: '2024'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Coppie (a,b) con gcd(a^n+b,b^n+a) costante'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2024 papers — Quesito 2

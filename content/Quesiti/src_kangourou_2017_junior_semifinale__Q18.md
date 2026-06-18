@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Probabilita derangement di 5 cappelli
 answer: '1130'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Semifinale individuale — Quesito 18

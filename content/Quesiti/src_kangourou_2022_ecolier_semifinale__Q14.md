@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Massimo prodotto di due numeri di due cifre con 1,2,3,4'
 answer: '1312'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier semifinale individuale — Quesito 14

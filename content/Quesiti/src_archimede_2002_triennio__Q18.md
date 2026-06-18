@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Quale terna non e progressione geometrica
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio — Quesito 18

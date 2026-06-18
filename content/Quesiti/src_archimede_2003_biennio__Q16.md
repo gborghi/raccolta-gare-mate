@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quando vale p+(qr)=(p+q)(p+r)
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 16

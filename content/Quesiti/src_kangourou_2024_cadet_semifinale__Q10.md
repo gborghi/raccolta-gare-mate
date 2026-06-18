@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Numero di facce di un 2024-antiprisma
 answer: '4050'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Cadet 2024 — Quesito 10

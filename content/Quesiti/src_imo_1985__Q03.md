@@ -7,6 +7,7 @@ family: imo
 year: '1985'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Odd-coefficient count inequality for sums of binomial polynomials
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1985 (26th International Mathematical Olympiad) — Quesito 3

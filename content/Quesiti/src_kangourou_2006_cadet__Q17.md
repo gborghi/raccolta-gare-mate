@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Quale numero aumenta del 500% al quadrato
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 17

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Segmenti interni in rettangolo quadrettato 40x30
 answer: '2330'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 7

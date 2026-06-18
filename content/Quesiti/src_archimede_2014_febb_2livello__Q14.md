@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Cavallo su scacchiera 3x3, percorsi in 12 mosse all''angolo opposto'
 answer: '992'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 14

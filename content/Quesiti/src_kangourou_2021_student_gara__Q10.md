@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Quale retta puo rappresentare il grafico con la parabola
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 10

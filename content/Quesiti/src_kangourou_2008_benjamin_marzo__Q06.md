@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Completare tavola di moltiplicazione parziale
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Coppie ordinate (x,y) di interi positivi e relazione x+y(x+y)=2005'
 topics:
@@ -19,6 +20,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 15

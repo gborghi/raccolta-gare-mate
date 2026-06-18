@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Altezza acqua nella tanica II immersa
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2004 Cadet (18 marzo) — Quesito 30

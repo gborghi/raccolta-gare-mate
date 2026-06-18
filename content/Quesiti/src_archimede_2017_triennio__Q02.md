@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: tra quanti anni doppio
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 2

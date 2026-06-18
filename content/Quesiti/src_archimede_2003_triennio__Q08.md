@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'relazione di parabola, valore'
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 8

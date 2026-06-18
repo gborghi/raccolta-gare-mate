@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Minimo incontri per il più forte fra 2022
 answer: '2021'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 3

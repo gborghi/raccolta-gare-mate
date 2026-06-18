@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Quanti gatti viola tra dichiarazioni veri e bugiardi
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 19

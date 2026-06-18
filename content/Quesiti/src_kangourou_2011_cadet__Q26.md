@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Misura dell'angolo BDC nel quadrilatero
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2011 Cadet (gara marzo) — Quesito 26

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Chi ha scritto il vero sulla pergamena (30 monete)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Cadet 2024 — Quesito 28

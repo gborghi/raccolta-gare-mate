@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Indicare la piu piccola tra cinque frazioni n+1/n
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 1

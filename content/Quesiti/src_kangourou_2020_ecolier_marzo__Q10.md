@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Quale immagine vede Luca guardando la piramide dall alto
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Ecolier — Quesito 10

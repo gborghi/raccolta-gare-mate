@@ -7,6 +7,7 @@ family: imo
 year: '1979'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: top and bottom edges all same color
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1979
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1979 (Twenty-first International Olympiad) — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: 'Ordine bacchette A,T,R per massima somma di denaro'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (gara marzo) — Quesito 19

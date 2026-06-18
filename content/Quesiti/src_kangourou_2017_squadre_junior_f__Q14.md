@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: 'Interi 1-1000 senza divisori 3, 5, 7'
 answer: '457'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Junior 2017 Finale — Quesito 14

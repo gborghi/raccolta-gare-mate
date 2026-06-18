@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Coppie di palindromi di 4 cifre con differenza palindroma
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 9

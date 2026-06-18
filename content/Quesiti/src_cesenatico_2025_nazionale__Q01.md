@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Minimo n con n=225 s(n) e n=225 s(n)^2
 answer: 2025 e 72900
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 1

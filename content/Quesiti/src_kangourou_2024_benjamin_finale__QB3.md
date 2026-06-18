@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B3
 summary: Colorazioni di 8 oggetti con adiacenti di colore diverso
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Finale Benjamin 2024 — Quesito B3

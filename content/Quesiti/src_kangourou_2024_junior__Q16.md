@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Prodotto degli 8 dischetti esterni dai prodotti dei quadrati
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Junior 2024 — Quesito 16

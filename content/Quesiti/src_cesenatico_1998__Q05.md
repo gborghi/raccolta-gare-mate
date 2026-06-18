@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: non esiste n con P(n)=12
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/nazionale
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1998 — Quesito 5

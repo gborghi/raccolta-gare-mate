@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: Minimo numero di colori per gli spicchi del cerchio
 answer: '5'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (finale nazionale) — Quesito C4

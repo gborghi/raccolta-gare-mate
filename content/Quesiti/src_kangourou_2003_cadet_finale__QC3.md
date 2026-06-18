@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C3
 summary: Lunghezza iniziale del rettangolo magico
 answer: '64'
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C3

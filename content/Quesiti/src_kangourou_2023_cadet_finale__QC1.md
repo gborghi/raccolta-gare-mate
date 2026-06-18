@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C1
 summary: posizione ultimo ragazzo
 answer: 6 (sesta)
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Cadet — Finale (risposta aperta) — Quesito C1

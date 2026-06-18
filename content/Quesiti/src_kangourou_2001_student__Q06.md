@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Valore dell'espressione con 9 e 10
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 6

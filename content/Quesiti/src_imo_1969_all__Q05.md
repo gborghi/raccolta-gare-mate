@@ -7,6 +7,7 @@ family: imo
 year: '1969'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: At least (n-3 choose 2) convex quadrilaterals from n points
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1969 (Eleventh International Olympiad) — Quesito 5

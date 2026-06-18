@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Probabilità che la lancetta delle ore sia orizzontale
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 9

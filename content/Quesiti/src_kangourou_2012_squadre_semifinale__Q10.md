@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Numeri 200-999 con cifra unita*decine=centinaia
 answer: '22'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A — Quesito 10

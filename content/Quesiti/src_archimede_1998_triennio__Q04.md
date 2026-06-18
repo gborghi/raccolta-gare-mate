@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Confronto fra due numeri con esponenti irrazionali
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 4

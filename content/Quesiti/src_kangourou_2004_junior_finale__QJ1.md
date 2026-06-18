@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J1
 summary: Esistono basi in cui 15x15=321
 answer: base 6
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Junior finale nazionale — Quesito J1

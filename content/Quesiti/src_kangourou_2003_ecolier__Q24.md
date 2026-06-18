@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Cifre del prodotto di A (2003 uni) per 2003
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Ecolier (20 marzo) — Quesito 24

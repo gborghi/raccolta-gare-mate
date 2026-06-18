@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Grado del polinomio prodotto/somma
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 6

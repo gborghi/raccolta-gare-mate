@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Area regione ombreggiata di triangolini equilateri
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (marzo) — Quesito 24

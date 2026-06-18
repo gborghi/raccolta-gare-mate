@@ -7,6 +7,7 @@ family: imo
 year: ''
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: IMO 1962 problema 7
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO compilation 1959-2013 — Quesito 7

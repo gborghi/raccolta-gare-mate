@@ -7,6 +7,7 @@ family: imo
 year: '1994'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Sum-closed subset average is at least (n+1)/2
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1994
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1994 (35th IMO, Hong Kong) — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Lato stanza dato il conteggio dei lati piastrelle
 answer: '1350'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Semifinale A — Quesito 4

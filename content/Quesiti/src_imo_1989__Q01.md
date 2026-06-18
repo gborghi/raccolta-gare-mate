@@ -7,6 +7,7 @@ family: imo
 year: '1989'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Partition 1..1989 into 117 equal-sum 17-element subsets
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1989
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1989 (30th IMO, Braunschweig) — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Modi di disporre 8 torri non in presa stesso colore
 answer: '1152'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 4

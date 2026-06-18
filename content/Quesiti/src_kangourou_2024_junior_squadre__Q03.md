@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Quanti percorsi chiusi senza ripetere segmenti
 answer: '1458'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 1 — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quale strada e la piu corta
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2006 Ecolier (marzo) — Quesito 6

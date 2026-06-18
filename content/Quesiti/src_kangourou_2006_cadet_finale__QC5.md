@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Risultato della somma ORE+ORE+ORE=VIVE
 answer: '2625'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (finale nazionale) — Quesito C5

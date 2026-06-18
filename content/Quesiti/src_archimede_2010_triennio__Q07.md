@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Colorazioni di otto stati con tre colori impossibili
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 7

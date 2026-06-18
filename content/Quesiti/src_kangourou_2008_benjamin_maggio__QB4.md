@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B4
 summary: Piu piccolo palindromo divisibile per 27
 answer: '999'
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 Benjamin finale (maggio) — Quesito B4

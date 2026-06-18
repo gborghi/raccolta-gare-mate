@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Ultimo numero triangolo di somme di quadrati
 answer: '4574'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Gara del Pubblico — Quesito 19

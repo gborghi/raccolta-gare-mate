@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Massimo sottoinsieme distanziato di 1..2026
 answer: '646'
@@ -27,6 +28,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 5

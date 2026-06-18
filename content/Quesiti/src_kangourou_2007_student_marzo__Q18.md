@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Punti a coordinate intere sulla sfera r=3
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Student (marzo) — Quesito 18

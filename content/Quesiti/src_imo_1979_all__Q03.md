@@ -7,6 +7,7 @@ family: imo
 year: '1979'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Fixed point equidistant from two points moving on circles
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1979
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1979 (Twenty-first International Olympiad) — Quesito 3

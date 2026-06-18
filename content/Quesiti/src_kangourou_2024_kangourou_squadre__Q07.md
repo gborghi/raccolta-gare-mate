@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Prodotto età attuali Gianni e Lisa
 answer: 0195
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 7

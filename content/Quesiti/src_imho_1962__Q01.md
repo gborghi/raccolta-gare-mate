@@ -7,6 +7,7 @@ family: imo
 year: '1962'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Minimo n che termina con 6 e diventa quadruplo spostando il 6
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1962
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1962 (IV International Olympiad) — Quesito 1

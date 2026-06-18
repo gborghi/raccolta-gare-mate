@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Area EFGH con triangoli equilateri sui lati del quadrato
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 17

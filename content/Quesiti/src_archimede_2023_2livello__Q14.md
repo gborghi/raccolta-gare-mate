@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: '2023 persone in fila, affermazioni su furfanti, quanti'
 answer: '1348'
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2023 - 2° livello — Quesito 14

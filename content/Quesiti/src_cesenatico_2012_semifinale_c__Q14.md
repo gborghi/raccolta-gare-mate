@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: punteggi consecutivi (ABCD)
 answer: '0222'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 14

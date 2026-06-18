@@ -7,6 +7,7 @@ family: imo
 year: '2024'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Turbo la lumaca, minimo n attacchi garantiti'
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # IMO 2024 papers — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: 'Conteggio interi esprimibili come [2x]+[4x]+[8x]+[12x]'
 answer: '6154'
@@ -24,6 +25,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 15

@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Somma petali con resto 2 nella divisione per 6
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2006 Ecolier (marzo) — Quesito 9

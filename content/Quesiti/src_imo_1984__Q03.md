@@ -7,6 +7,7 @@ family: imo
 year: '1984'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: point with same color on its circle
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1984
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1984 (25th International Mathematical Olympiad) — Quesito 3

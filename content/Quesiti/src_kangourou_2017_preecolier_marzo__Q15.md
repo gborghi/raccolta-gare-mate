@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Che ora segnava due ore e mezza fa
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 15

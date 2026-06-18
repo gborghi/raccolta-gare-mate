@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: 'Minimo grado polinomio coeff 2,0,6 con p(-1)=2026'
 answer: '674'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 7

@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quante rotazioni per leggere correttamente KANGAROO
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Benjamin — Quesito 1

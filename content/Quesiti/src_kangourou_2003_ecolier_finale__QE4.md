@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E4
 summary: 'Pesi ottenibili con bilancia e pesi 1,2,5,10'
 answer: interi 1..18
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Ecolier finale nazionale — Quesito E4

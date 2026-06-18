@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Carte levate dato probabilità quattro assi
 answer: 0038
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Junior Finale 1 — Quesito 4

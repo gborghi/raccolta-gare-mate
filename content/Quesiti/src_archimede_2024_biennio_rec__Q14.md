@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Primi il cui quadrato divide il prodotto da 31 a 51
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Lunghezza QX con tangente e teorema secante-tangente
 answer: '0120'
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 3

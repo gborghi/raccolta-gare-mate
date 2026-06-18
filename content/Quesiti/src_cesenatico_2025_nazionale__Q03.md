@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Infinite coppie consecutive con stessa parita di p(n)
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 3

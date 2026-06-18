@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: 'Quanti numeri di 2 cifre tra 10 e 25 con cifre 2,0,1,8'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gioco Koala (Marzo) — Quesito 19

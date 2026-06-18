@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Quanti n con n-2012 e n+2012 entrambi a 4 cifre
 answer: '4976'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A — Quesito 1

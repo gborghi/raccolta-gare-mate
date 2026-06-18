@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Resto di 4*7^23+3^11 diviso 101
 answer: '0000'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 14

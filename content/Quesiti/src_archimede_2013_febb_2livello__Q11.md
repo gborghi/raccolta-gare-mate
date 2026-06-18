@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Probabilita di arrivare a 5 pari a biliardino
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 11

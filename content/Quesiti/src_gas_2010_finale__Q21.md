@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Numero punti su incroci di griglia in due mappe quadrate
 answer: '2505'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 21

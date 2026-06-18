@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Coppie non ordinate di palline di colore diverso
 answer: B
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 17

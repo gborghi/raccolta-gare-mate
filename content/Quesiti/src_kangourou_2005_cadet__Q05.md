@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Minimi spostamenti canguri 2 per riga e colonna
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (marzo) — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Valore di 20x19+20+19
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Junior (biennio) — Quesito 1

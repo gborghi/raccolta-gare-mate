@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quanti spigoli ha piramide con 23 facce triangolari
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Student (triennio) — Quesito 4

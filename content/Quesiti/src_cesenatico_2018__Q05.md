@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Minimo numero di sottosequenze di 6 cifre per x irrazionale
 answer: '7'
@@ -24,6 +25,7 @@ tags:
   - anno/2018
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 5

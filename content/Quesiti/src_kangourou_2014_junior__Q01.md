@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Data piu antica possibile del terzo giovedi di marzo
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Junior — Quesito 1

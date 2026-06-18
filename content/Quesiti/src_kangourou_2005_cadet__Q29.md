@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Risultato del prodotto di sei numeri (divisibilita)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (marzo) — Quesito 29

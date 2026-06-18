@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Livello acqua dopo immersione cubo nella vasca
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2002
   - livello/biennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 13

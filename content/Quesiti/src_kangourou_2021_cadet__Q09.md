@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Combinazione corretta ruotando le ghiere di 180
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - gara marzo — Quesito 9

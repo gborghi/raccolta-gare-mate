@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Radice 99-esima del prodotto divisori di 2^8*3^10
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2007
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Lunghezza percorso formica su superficie cubo
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (marzo) — Quesito 5

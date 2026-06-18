@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quanti percorsi minimi tra le caselle marcate
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2007 Junior (marzo) — Quesito 6

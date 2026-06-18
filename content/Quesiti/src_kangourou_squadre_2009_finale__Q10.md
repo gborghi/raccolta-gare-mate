@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Somma numeri di 4 cifre con divisibilita multiple
 answer: '9080'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 10

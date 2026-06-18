@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: 'Tre orologi a velocita diverse, ora comune'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Coppa Fermat 2009 - Gara a squadre — Quesito 6

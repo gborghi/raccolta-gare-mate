@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quale lettera non coperta piegando il foglio
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Ecolier (gara marzo) — Quesito 12

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: somma 7 anni fa
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2023 Junior — Gara 16 marzo — Quesito 7

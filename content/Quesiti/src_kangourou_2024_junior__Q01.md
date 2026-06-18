@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Valore di una frazione numerica
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Categoria Junior 2024 — Quesito 1

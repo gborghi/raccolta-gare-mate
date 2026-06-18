@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C3
 summary: Il numero 29^28+4 e primo
 answer: 'no'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C3

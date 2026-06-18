@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Quale figura Mauro ha tagliato nei tre pezzi
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 18

@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Area triangolo da tre triangoli interni paralleli
 answer: (a+b+c)^2
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2003 Junior finale nazionale — Quesito J5

@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Cifre decimali del prodotto archi dopo 2001 mosse bisettrici
 answer: '4001'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 8

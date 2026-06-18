@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Triangoli con 17 vertici totali
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Ecolier (15 marzo) — Quesito 15

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Minimo n con area AnBnC < 10 in triangolo rettangolo
 answer: '5'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student semifinale — Quesito 15

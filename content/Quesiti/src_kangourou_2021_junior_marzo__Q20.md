@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Valore di a nella sequenza con somme alternate
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior - gara marzo (biennio) — Quesito 20

@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Somma cifre del massimo n con disuguaglianza frazionaria
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/disuguaglianze
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 13

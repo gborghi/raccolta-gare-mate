@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Lunghezza spezzata ABC...P
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2007 Cadet (marzo) — Quesito 7

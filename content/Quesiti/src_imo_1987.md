@@ -6,12 +6,14 @@ family: imo
 year: '1987'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1987
+  - gara/individuale
 ---
 
 # IMO 1987 (28th IMO, Havana)

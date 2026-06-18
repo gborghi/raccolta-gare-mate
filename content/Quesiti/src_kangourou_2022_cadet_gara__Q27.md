@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Somma delle aree dei due quadrati (regione grigia 43)
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Cadet gara individuale — Quesito 27

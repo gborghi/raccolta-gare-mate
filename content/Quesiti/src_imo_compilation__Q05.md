@@ -7,6 +7,7 @@ family: imo
 year: ''
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: IMO 1997 problema 5
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO compilation 1959-2013 — Quesito 5

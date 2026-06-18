@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Fette di pizza mangiate tra 2/3 e 3/4
 answer: '0005'
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior Semifinale individuale — Quesito 10

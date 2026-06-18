@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Numero coppie belle con ab=cd implica a+b=c+d
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 12

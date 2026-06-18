@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Valori ammissibili angoli acuti quadrilatero convesso
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Student — Quesito 10

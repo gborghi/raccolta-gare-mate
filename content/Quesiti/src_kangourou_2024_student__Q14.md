@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Probabilita di uscire da T in quartiere a senso unico
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 14

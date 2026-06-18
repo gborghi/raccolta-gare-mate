@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Quale combinazione gelato-decorazione NON e possibile
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Benjamin — Quesito 25

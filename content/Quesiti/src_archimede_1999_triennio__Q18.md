@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Quale affermazione su poligoni e corretta
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 18

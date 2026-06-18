@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Soluzione di equazione in (x^3-76) data x=5
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student semifinale individuale — Quesito 6

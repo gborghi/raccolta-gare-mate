@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S5
 summary: Numero coppie di punti a distanza massima fra n punti
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Finale Student 2023 — Quesito S5

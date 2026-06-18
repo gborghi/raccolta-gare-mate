@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quante cinquine consecutive con media pari e prodotto mult 11 e 13
 answer: E
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 3

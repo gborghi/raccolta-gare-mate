@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Parola che certamente non compare aggiungendo due lettere a VOLANO
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 2

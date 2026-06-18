@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Resto somma alpha_i^4 mod 2243 (radici)
 answer: 0908
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: 'Altezza parallelepipedo di 42 cubi, perimetro base 18'
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Cadet (20 marzo) — Quesito 12

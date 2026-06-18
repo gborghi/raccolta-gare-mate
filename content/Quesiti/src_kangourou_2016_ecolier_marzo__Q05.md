@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Figura geometrica della parte nascosta del rettangolo
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (gara marzo) — Quesito 5

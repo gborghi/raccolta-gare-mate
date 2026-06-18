@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Lanci minimi di un dado per somma ≥48 con prob >50%
 answer: '14'
@@ -19,6 +20,7 @@ tags:
   - anno/2001
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001 — Quesito 14

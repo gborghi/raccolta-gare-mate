@@ -7,6 +7,7 @@ family: imo
 year: '1965'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Prove diagonally-dominant 3x3 system has only zero solution
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1965
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1965 (Seventh International Olympiad) — Quesito 2

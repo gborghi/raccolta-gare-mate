@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Ultime quattro cifre dopo aver scritto 1788 cifre
 answer: '1632'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 3

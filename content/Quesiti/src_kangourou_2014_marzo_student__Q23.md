@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: quanti oro
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2014 gara 20 marzo Student — Quesito 23

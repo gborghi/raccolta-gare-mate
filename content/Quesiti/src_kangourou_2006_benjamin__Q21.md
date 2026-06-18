@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Perimetro di ogni triangolo da parallelogramma e rombo
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Benjamin (marzo) — Quesito 21

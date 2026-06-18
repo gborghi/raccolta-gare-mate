@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: numero di modi
 answer: '9030'
@@ -22,6 +23,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Finale — Quesito 9

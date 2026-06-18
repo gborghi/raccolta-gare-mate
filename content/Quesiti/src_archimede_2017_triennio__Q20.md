@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Area rettangolo ABCD da angolo doppio e area CPT
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 20

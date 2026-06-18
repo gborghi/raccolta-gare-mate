@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: BG^2 con triangoli equilateri su quadrato
 answer: '0373'
@@ -24,6 +25,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 4

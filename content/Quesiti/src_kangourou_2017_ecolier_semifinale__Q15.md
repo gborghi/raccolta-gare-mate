@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Triangoli con vertici in punti dati non allineati
 answer: '0070'
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2017 Ecolier - Semifinale individuale — Quesito 15

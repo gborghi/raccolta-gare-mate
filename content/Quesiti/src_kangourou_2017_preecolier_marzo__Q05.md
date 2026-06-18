@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Quale disegno della farfalla con gli adesivi
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 5

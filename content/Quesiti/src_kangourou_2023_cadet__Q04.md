@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: quale ritaglio non va
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2023 Cadet — Gara 16 marzo — Quesito 4

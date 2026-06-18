@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Segno prodotto in successione geometrica a3<a2<a4
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2004 - Student (marzo) — Quesito 19

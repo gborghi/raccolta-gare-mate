@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Massimo archi grafo connesso senza triangoli 99 punti
 answer: '2450'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 13

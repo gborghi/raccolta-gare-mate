@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Coppie di sottoinsiemi disgiunti non vuoti
 answer: 0090
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/insiemi_funzioni
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 1 — Quesito 10

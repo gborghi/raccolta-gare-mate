@@ -7,6 +7,7 @@ family: imo
 year: '2021'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Disuguaglianza somme radici |xi-xj|<=|xi+xj|
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 2021 papers — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Costo medio di m+n penne acquistate incrociate
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2004 - Student (marzo) — Quesito 1

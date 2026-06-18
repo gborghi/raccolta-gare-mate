@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Quanti rimbalzi raggio a 5° per rientrare nella tana
 answer: '35'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 12

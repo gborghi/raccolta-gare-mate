@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: 'Coppie (n,d) con condizione su divisori primi, n<100'
 answer: '0616'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 15

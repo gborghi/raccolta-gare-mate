@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Altezza massima parallelepipedo su piano inclinato 30 gradi
 answer: '1224'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 14

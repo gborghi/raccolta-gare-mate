@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Passeggiate di 6 metri che tornano alla tana (senza inversione)
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 15

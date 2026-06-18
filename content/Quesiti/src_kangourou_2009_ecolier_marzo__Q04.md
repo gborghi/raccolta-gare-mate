@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Minimo pulsanti per trasformare 930 in 806
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 4

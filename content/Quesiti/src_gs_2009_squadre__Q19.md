@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: 'Templi di Magrathea, lunghezze con similitudini (II)'
 answer: '8.7'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Coppa Fermat 2009 - Gara a squadre — Quesito 19

@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: Piu piccolo numero pari con tutte le dieci cifre
 answer: '1023456798'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (finale Cervia) — Quesito E1

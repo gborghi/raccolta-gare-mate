@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: 'Valori n con 8n^3+11n^2+16n-20 cubo perfetto, somma'
 answer: '0010'
@@ -19,6 +20,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Gara del pubblico — Quesito 6

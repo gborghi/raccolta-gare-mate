@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Numeri gradevoli di 4 cifre con prodotto cifre che divide n^2
 answer: '1111,1212,2424,3636,1515'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XXV Olimpiade Italiana Cesenatico 2009 — Quesito 3

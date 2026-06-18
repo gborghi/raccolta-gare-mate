@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Membri della famiglia Kangourou
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Benjamin (21 marzo) — Quesito 4

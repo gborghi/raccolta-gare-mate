@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Numero al posto 2016 tra permutazioni di 1..7
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (gara marzo) — Quesito 25

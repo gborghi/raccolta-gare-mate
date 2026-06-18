@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Probabilita di indovinare numero con cifre sfalsate
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 16

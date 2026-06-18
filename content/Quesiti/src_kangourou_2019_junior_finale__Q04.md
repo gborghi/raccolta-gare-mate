@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Probabilita che Giulio totalizzi per primo due vittorie
 answer: '2027'
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Junior — Quesito 4

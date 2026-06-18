@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Minimo colori per griglia 3x3 righe colonne diagonali
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (gara marzo) — Quesito 18

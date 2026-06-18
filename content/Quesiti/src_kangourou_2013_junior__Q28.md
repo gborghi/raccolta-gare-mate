@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: 'Quanti insiemi S con unione data uguale a {1..9}'
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/insiemi_funzioni
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Junior — Quesito 28

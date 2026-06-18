@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Quanto e alto il mucchio di sabbia (asta bandiera)
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 21

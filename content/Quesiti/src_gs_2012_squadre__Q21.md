@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Percorsi di otto archi nel grafo
 answer: '0324'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre — Quesito 21

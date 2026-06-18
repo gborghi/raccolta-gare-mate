@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E5
 summary: Primo anno futuro in cui 9 maggio cade di lunedi
 answer: '2016'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E5

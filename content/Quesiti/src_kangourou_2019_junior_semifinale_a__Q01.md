@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Riduzione ai minimi termini di una frazione di somme
 answer: '2629'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 1

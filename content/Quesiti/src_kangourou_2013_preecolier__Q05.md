@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Mattoni da aggiungere per muro a 6 file
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Pre-Ecolier — Quesito 5

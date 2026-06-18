@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Frazione massima <1/3 con somma num+den <=103
 answer: '2576'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Quanti numeri concatenati multipli di 11
 answer: '0016'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 8

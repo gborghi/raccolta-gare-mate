@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Prodotto dei tre numeri pensati da Adele, Beatrice, Cecilia'
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Benjamin 2024 — Quesito 1

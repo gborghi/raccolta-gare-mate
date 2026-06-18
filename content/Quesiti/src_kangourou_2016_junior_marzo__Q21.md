@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Lunghezza rampicante avvolta 5 volte attorno al paletto
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (gara marzo) — Quesito 21

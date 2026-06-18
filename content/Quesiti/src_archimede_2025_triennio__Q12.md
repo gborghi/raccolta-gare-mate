@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Minimo p(-2) di polinomio quartico con vincoli e p(a)>=a^3
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 12

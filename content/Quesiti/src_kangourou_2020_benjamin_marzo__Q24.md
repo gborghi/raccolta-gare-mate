@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Quale collezione equilibra la terza bilancia
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Benjamin — Quesito 24

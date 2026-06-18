@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Coppie (m,n) intere che risolvono n^2+2024n+2024m=2024'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 3

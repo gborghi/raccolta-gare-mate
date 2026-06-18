@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Tra quanti giorni il cangurino avra 8 settimane
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (gara marzo) — Quesito 1

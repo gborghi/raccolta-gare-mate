@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Esercizio soppresso
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Junior (21 marzo) — Quesito 18

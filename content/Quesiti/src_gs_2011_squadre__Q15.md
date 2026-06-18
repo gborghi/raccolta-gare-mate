@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Numero con ugual resto per 37 e condizione mod 7
 answer: '2779'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 15

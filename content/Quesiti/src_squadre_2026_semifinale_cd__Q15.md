@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: GC+FC con triangoli equilateri e circonferenza
 answer: '0141'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 15

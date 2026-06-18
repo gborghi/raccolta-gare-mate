@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Modi di sedere 6 persone con due coppie adiacenti
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Triennio (T1) — Quesito 13

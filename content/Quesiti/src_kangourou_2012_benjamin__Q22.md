@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Numero da inserire nel cerchio superiore
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 Benjamin (gara marzo) — Quesito 22

@@ -7,6 +7,7 @@ family: imo
 year: '1963'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Luogo di vertici di angoli retti con un lato per A
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_solida
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # IMO 1963 (V International Olympiad) — Quesito 2

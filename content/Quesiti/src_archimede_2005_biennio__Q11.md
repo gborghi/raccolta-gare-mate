@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Terne di cifre con somma 10 per un lucchetto
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 11

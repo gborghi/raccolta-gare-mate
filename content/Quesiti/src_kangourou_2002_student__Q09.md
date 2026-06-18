@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Lunghezza parallelo a 60 gradi latitudine
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/trigonometria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 9

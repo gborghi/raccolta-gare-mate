@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Minimo denominatore con periodo decimale 4 cifre distinte
 answer: '0101'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 18

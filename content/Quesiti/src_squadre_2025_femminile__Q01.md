@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Valore k per cui polinomio divisibile per 57x-1
 answer: '228'
@@ -19,6 +20,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 1

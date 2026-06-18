@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Probabilità MCD con 42 maggiore di 10
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 13

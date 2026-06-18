@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quanti termini < 2021 con media dei primi n uguale a n
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior - finale — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Minima velocita intera per non far affondare la barca
 answer: '9'
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (semifinale individuale) — Quesito 16

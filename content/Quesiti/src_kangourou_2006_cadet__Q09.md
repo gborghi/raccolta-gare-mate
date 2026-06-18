@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Massimo perimetro triangolo con due lati 7 e terzo intero
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 9

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: 'Operazione e MCD, piu grande divisore di 2009'
 answer: '287'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Coppa Fermat 2009 - Gara a squadre — Quesito 20

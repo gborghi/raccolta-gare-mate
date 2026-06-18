@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Area di figura a luna fra archi di circonferenza
 answer: '0370'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Gara del Pubblico — Quesito 8

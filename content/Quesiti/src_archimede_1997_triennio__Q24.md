@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Minimo del prodotto (1+1/a)(1+1/b) con a+b=1
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 24

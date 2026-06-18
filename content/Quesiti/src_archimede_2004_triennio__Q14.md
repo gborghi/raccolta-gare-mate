@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: passo/volume per il numero di vertici
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2004
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Triennio — Quesito 14

@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Numero in cima al triangolo di somme (riga base 1-10)
 answer: '2816'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Finale — Quesito 2

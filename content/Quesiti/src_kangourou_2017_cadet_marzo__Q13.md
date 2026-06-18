@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Area ombreggiata in quadrato 8 cm con segmenti
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (gara marzo) — Quesito 13

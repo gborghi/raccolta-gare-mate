@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: 'Configurazione di 625,626,627 in una spirale numerica'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 23

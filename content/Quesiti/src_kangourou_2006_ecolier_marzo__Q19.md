@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Facce verniciate di struttura di 10 cubi
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2006 Ecolier (marzo) — Quesito 19

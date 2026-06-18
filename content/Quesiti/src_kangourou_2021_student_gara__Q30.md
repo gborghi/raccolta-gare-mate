@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Probabilita che A vinca con vantaggio di 3 punti
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 30

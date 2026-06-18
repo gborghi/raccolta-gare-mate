@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quanti quadrati scomposti in due forme non sovrapponibili
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024 — Quesito 2

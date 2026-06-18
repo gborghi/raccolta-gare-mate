@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Divisibilita della somma di due interi dato il prodotto
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 21

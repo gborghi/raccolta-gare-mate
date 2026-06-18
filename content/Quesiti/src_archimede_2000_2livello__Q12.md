@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quanti televisori distinguibili annidati nello schermo
 answer: '11'
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 12

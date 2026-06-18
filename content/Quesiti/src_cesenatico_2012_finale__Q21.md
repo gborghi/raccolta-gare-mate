@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Distanza minima su superficie piramidi (6)
 answer: '4275'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 21

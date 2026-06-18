@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Anno della predizione su cifra unita eta e m^m
 answer: '2008'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Minimo elementi insieme per 2019 modi di scegliere due sottoinsiemi disgiunti
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Student — Quesito 17

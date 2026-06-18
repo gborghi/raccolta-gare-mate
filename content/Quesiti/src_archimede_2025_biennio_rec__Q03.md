@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Angolo D in quadrilatero con punto E e lati uguali
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: 'Dado che muta, numero con massima probabilita al terzo lancio'
 answer: '3011'
@@ -22,6 +23,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 9

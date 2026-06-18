@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Litri di vernice per linea tra 16 coni a 10 m
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 1

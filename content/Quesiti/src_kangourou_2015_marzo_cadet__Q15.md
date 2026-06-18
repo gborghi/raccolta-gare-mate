@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: foglie possibili
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Cadet — Quesito 15

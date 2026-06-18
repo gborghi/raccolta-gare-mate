@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Metri percorsi da Ernesto avanti e indietro
 answer: '1640'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Semifinale A — Quesito 11

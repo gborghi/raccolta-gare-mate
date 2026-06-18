@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: 'Minore di 5 consecutivi, uno per 10, somma 10000'
 answer: '0711'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 15

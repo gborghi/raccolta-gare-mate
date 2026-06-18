@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S4
 summary: Strategia scelta mazzi di carte rosse/verdi
 answer: a)terzo b)secondo
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Student finale — Quesito S4

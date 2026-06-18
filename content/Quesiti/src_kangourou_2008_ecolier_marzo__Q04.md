@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quanti quadrati nella sesta figura
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 4

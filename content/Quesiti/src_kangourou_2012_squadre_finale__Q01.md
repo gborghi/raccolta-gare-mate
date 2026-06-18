@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Di quanto la somma dei pari supera quella dei dispari
 answer: '1006'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 1

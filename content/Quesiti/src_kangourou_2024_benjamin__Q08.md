@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Minimo numero di pesi per equilibrare 445 g
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Benjamin 2024 — Quesito 8

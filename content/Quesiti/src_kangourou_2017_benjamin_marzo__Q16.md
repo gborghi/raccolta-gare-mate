@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Numero sull'ultima chiave (criptaritmo lettera-cifra)
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (gara marzo) — Quesito 16

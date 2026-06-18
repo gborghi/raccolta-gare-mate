@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Griglia a spirale, forzieri raggiungibili, numero finito'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2021 - 2° livello — Quesito 17

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Sequenze 10 numeri 1-23 con divisibilita successiva
 answer: '3386'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 16

@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Quante soluzioni intere positive di x quadro meno y quadro = 60
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 20

@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Cubetti minimo e massimo da viste
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Cadet (15 marzo) — Quesito 25

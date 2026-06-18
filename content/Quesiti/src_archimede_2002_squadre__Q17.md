@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: '70 punti, geometria'
 answer: '0030'
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 17

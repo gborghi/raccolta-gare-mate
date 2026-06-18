@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: 'Quante terne (v,n,p) con v=n+p in un campionato'
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 7

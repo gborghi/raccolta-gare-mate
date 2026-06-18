@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Piu piccolo intero di cinque cifre divisibile per 3 e 13
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/1998
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 18

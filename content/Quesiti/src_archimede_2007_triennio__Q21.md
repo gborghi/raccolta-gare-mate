@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Sesta cifra decimale di 13^7/10^5 piu radice 3 su 10^5
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 21

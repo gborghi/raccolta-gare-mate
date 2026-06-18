@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Paradosso di Simpson con 7.5% e 10%
 answer: 0029
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 2 — Quesito 14

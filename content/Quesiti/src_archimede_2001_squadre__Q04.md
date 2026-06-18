@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: perimetro massimo intero
 answer: '1540'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 4

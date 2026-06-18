@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: Mossa vincente nel TRIS
 answer: terza riga prima colonna
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Ecolier finale nazionale — Quesito E1

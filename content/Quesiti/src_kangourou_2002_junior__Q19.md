@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Massimo numero ottenibile dal robot
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Junior (21 marzo) — Quesito 19

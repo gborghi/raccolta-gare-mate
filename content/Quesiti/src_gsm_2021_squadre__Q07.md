@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Modi di allacciare un laccio attraverso sei asole
 answer: '1536'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 7

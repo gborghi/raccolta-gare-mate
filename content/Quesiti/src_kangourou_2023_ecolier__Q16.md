@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: ordine dei dipinti
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 16

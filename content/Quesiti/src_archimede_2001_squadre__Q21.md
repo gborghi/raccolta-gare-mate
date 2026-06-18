@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: 'conto quintuplicato in 20 anni, ultime 4 cifre dopo 40020'
 answer: '3125'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 21

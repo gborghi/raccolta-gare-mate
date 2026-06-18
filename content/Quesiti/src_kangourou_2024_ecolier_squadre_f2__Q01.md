@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Età di Adamo con cifre anno invertite
 answer: '0075'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 1

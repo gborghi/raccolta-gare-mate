@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Risultato di 2004-4*200
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Cadet (18 marzo) — Quesito 1

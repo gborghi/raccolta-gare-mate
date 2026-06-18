@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Numeri di 4 cifre con 3 cifre uguali (non 0) e uno 0
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 4

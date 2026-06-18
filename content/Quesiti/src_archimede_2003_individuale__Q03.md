@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'triangolo isoscele inscritto, dimostrazione'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2003
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 3

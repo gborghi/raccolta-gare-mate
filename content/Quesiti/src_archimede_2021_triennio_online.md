@@ -6,12 +6,14 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '12'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2021
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (online)

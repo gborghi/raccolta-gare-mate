@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J6
 summary: Circocentro di AEF giace sulla semiretta AB (triangolo acutangolo ortocentro)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Junior — Quesito J6

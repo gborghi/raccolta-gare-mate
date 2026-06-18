@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Prime cifre della differenza tra somme di D e P
 answer: '7498'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 4

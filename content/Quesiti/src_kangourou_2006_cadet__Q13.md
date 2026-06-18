@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Secondi per vedere sfilare il secondo treno
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 13

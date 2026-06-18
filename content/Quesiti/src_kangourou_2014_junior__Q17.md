@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Coppie (x,y) con x divide y+1 e y divide x+1'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Junior — Quesito 17

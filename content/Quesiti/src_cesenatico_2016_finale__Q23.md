@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '23'
 summary: 'Area minima rombo iterato (assi, area intera)'
 answer: '4420'
@@ -24,6 +25,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 23

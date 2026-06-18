@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Minuti di anticipo dell'aereo
 answer: '0055'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 5

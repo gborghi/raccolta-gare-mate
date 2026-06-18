@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Valore di n con 13 multipli fra 200 e 300
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 20

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Quanti anni del drago (somma cifre divisibile per 7)
 answer: '1005'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 1

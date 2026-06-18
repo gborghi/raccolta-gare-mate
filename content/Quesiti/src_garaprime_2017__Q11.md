@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Chi ha dati sufficienti a determinare il triangolo acutangolo
 answer: A
@@ -22,6 +23,7 @@ tags:
   - anno/2017
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 11

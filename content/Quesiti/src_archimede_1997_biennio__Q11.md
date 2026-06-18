@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Percentuale di lamiera sprecata tagliando cerchio e quadrato
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 11

@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Differenza lato lungo del foglio piegato
 answer: '2320'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 10

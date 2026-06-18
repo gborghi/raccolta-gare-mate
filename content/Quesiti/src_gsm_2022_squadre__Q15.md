@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Tragitto minimo di una formica su un parallelepipedo
 answer: '0304'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2022 — Quesito 15

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Colorazioni di 20 scudi con 15 coppie uguali
 answer: '3552'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 14

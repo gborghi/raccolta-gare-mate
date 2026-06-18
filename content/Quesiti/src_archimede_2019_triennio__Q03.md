@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Numero mattonelle compatibile con salti di 3,4,5,6'
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Triennio (T1) — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Deduzione logica su punizione e brutto voto
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 21

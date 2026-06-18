@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Modi di colorare cubo 3 facce blu 3 rosse
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Benjamin (marzo) — Quesito 17

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '22'
 summary: Numero passi di discesa scale dimezzando e per divisore
 answer: '0130'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Finale Nazionale — Quesito 22

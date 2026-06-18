@@ -6,12 +6,14 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2022
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio

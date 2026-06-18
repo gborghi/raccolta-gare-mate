@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Area triangolo AGM con costruzione su circonferenze
 answer: '8601'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 20

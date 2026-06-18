@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Minimo operazioni per raggiungere 2022 da 1
 answer: '9'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Cadet semifinale individuale — Quesito 16

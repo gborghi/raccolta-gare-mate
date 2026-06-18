@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Volume del tetraedro ABPQ in un cubo di lato 12
 answer: '72'
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 11

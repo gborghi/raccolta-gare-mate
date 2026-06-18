@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Prodotto numeri della ninna nanna (sistema)
 answer: '4206'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 11

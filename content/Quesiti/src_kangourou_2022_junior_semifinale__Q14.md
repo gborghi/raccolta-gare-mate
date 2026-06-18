@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Coppie interi m<n con 1/m+1/n=1/3
 answer: '3'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior — Semifinale individuale — Quesito 14

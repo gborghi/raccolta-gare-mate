@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quali dati servono per scegliere il percorso più breve
 answer: C
@@ -19,6 +20,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 6

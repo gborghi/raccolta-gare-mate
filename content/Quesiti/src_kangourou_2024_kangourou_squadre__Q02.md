@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Biglie totali iniziali nei due contenitori
 answer: '9956'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 2

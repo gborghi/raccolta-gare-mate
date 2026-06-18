@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: 'Sequenze 1,1,2,2,3,3,4,4 con vincolo coppie uguali'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quanti diversi decori di esagoni con triangolini colorati
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Benjamin — Quesito 9

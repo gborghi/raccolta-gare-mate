@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Lato quadrato in circonferenza con quadrato lato 1200
 answer: '0240'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 2 — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Giorno di nascita in anno con 53 sabati e domeniche
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Cifra delle unita del minimo n con 7n di 2021 cifre
 answer: '9'
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Junior - finale settembre — Quesito 2

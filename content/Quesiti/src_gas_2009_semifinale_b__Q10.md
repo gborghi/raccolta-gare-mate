@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Minimo soldati totali con 5a^4=6b^3
 answer: 0900
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 10

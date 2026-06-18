@@ -7,6 +7,7 @@ family: imo
 year: '1982'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Cubic Diophantine equation has at least three integer solutions
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1982
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1982 (23rd International Mathematical Olympiad) — Quesito 4

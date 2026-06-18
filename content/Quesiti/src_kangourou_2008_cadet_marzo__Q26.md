@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: 'Confronto insiemi A,B (prodotto cifre)'
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 26

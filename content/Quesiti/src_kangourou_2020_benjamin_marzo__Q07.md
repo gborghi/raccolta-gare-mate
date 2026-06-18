@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quanti dei 10 pezzi Maria ha tagliato (22 pezzi totali)
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Benjamin — Quesito 7

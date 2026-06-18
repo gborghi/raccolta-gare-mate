@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Valore somma 5+10+15+...+300
 answer: '9150'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 8

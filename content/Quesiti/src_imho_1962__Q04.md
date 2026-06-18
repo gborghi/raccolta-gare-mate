@@ -7,6 +7,7 @@ family: imo
 year: '1962'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Risolvere cos^2 x + cos^2 2x + cos^2 3x = 1
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1962
   - livello/IMO
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # IMO 1962 (IV International Olympiad) — Quesito 4

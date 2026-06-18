@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: 'Quaterne a,b,c,d con abcd=40! e ab=n!'
 answer: '7424'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 2

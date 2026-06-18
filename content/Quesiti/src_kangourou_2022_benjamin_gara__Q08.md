@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Numero di spezzoni mai ottenibile dividendo per tre
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin gara individuale — Quesito 8

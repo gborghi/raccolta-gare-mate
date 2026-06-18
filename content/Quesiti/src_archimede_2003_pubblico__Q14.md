@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: problema 14
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2003
   - livello/gara-del-pubblico
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 14

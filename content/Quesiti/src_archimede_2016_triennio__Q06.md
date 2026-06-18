@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: x-y tra gare con n e n^2 partecipanti
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Triennio — Quesito 6

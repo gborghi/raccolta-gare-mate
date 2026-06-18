@@ -7,6 +7,7 @@ family: kangourou
 year: '2000'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Angoli di 30 gradi nelle diagonali dell'esagono
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2000 - 3 maggio (individuale) — Quesito 29

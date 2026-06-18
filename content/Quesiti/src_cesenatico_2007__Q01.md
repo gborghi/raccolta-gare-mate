@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: punti con somma distanze da rette/vertici minima
 answer: (a) interno/bordo esagono; (b) il centro
@@ -24,6 +25,7 @@ tags:
   - anno/2007
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 1

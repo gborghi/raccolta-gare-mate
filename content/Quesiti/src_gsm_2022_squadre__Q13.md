@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Differenza volumi di due piramidi in un cilindro
 answer: '4286'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2022 — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Quale calcolo con 8 non funziona scambiando il numero
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Junior (gara marzo) — Quesito 11

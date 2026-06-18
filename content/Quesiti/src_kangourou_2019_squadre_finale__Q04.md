@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Percorsi da A a B sugli spigoli del cubo
 answer: '0016'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Finale — Quesito 4

@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Area regione coperta dai 5 cerchi sovrapposti
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 12

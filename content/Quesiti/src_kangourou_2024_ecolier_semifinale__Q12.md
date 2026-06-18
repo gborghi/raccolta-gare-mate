@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Ultime quattro cifre del primo numero vivace > 598764
 answer: '2345'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Ecolier 2024 — Quesito 12

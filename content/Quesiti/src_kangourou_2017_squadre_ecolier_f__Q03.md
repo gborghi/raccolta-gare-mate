@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Ora segnata dall'orologio antiorario di Anna
 answer: '1117'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 3

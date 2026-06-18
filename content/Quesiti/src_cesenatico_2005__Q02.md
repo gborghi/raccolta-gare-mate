@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: uno divisibile per somma cifre
 answer: dimostrato
@@ -22,6 +23,7 @@ tags:
   - anno/2005
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XXI Olimpiade Italiana Cesenatico 2005 — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Prezzo formaggio stagionato con guadagno 15%
 answer: '1725'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 14

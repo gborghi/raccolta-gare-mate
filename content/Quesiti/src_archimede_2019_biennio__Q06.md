@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Monete di due uomini da due condizioni di scambio
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Biennio (T1) — Quesito 6

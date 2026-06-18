@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Quanti salti per andare da 0 a 16 a schema
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier gara individuale — Quesito 5

@@ -7,6 +7,7 @@ family: imo
 year: '1971'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Minimal closed polygonal path on tetrahedron edges
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/1971
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1971 (Thirteenth International Olympiad) — Quesito 4

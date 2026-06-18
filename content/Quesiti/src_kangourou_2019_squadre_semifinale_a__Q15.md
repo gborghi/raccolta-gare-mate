@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Cifra di AGRO in KANGAROO divisibile per 15
 answer: '8635'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Semifinale A — Quesito 15

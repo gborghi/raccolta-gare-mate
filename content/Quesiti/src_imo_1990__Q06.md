@@ -7,6 +7,7 @@ family: imo
 year: '1990'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Construct equiangular 1990-gon with square-number side lengths
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1990 (31st IMO, Beijing) — Quesito 6

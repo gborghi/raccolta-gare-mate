@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Volume acqua nella clessidra a due cubi
 answer: '6912'
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Semifinale A — Quesito 4

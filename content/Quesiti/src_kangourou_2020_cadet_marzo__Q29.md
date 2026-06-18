@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Distanza della corsa (distacchi tra Alberto Bianca Carlo)
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Cadet — Quesito 29

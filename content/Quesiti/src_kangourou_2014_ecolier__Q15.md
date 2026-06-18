@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quanti cavoli ha mangiato il coniglio in una settimana
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Ecolier — Quesito 15

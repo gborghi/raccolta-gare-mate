@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Fila di dadi con somma facce esposte uguale a 2012
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2012 finale nazionale Student — Quesito 2

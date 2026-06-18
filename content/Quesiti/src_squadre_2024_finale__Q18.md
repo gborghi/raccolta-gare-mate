@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: 'Perimetro pentagono ciclico lati interi, BAE=120'
 answer: '0417'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Finale Nazionale — Quesito 18

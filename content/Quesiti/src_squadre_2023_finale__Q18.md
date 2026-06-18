@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Differenza somme poltrone blu e arancioni con triangolo di Tartaglia
 answer: '0001'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Finale Nazionale — Quesito 18

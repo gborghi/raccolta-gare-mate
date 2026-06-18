@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C1
 summary: Aumento superficie del solido scavato
 answer: '16'
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2004 Cadet finale nazionale — Quesito C1

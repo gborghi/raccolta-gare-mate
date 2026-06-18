@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Somma a+b nell'uguaglianza con cifre incognite
 answer: '0011'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Cadet - Semifinale individuale — Quesito 17

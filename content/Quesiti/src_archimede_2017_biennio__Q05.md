@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Proprieta di n multiplo di 1000 non 10000
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 5

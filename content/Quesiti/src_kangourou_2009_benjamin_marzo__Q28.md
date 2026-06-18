@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Somma numeri prima riga (tabella somma/differenza)
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 28

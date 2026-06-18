@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Divisori di 2^48-1 compresi tra 60 e 70
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 17

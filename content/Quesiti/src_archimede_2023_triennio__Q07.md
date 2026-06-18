@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Minimo numero di paggi tra 301 abitanti in cerchio
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Triennio — Quesito 7

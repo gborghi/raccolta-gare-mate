@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Naturali tra 1 e 4092 non ottenuti cancellando 3 cifre da quadrati
 answer: '2319'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Finale Nazionale — Quesito 11

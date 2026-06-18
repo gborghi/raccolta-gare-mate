@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: numero di parti
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2004
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Triennio — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E2
 summary: Dado non regolare con condizioni somma facce opposte
 answer: ha ragione Anna
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Ecolier — Quesito E2

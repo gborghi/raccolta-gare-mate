@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: 'Quale frazione ha il valore piu alto con x,y maggiori di 1'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2011 Junior (gara marzo) — Quesito 20

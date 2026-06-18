@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: quante sequenze fanno vincere Barbara
 answer: '8320'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 6

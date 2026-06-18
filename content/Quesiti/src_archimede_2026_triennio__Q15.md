@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Triangolo isoscele con BC=BP, rapporto BC/AB e parallelogramma'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 15

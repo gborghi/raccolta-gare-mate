@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Relazione tra A e B con A-A/10 = B/10
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior - gara marzo (biennio) — Quesito 11

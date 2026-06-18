@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Parallelepipedo componibile con sei mattoni
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2021 Benjamin - gara marzo — Quesito 1

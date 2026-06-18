@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Metri quadri per figlio dividendo un campo quadrato
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 13

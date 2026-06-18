@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Quanti n in -2023..2023 con 1+4n multiplo di 5
 answer: 0809
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Junior Finale 1 — Quesito 1

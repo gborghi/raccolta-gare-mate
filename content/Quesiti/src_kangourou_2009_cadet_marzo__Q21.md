@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Quanti spigoli per tornare a P (destra/sinistra)
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 21

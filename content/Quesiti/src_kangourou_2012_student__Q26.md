@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Numero di zeri tra 50 reali con 522 prodotti negativi
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 26

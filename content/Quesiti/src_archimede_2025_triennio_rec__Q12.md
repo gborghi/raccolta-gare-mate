@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Ordini d'arrivo gara cuochi con vincoli (variante)
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 12

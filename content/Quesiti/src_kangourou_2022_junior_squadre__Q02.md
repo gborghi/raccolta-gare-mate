@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Ora in cui balena veloce inverte la rotta
 answer: '1039'
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 1 — Quesito 2

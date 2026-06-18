@@ -122,6 +122,7 @@ async function main() {
         family: data.family ?? "",
         year: data.year ?? "",
         country: data.country ?? "",
+        modalita: data.modalita ?? "",
       })
     }
   }

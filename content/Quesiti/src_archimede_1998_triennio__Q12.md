@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Massima variazione del volume di un parallelepipedo
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 12

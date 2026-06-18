@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Primo termine della ricorrenza a=7a+1 divisibile per 30
 answer: '0012'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 7

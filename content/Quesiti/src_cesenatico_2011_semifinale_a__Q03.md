@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Allineare 8 soldati con somme vicine multiple di 3
 answer: '1152'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 3

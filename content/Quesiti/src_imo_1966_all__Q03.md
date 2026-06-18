@@ -7,6 +7,7 @@ family: imo
 year: '1966'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: center minimizes sum of vertex distances
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_solida
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1966 (Eighth International Olympiad) — Quesito 3

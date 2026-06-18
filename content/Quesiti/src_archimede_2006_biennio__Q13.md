@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Numero totale di soci da percentuali di voti
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 13

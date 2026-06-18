@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: A quale numero sommare 1 per minimizzare il prodotto
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2011 Cadet (gara marzo) — Quesito 17

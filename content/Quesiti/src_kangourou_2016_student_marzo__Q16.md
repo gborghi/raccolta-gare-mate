@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quanti Bugiardi tra 7 in cerchio che si dichiarano tra bugiardi
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (gara marzo) — Quesito 16

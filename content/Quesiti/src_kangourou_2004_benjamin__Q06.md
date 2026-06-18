@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Indovinare il numero (verita tra amici)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Benjamin (18 marzo) — Quesito 6

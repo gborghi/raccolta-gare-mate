@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Quante tessere di misure diverse per coprire la griglia
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Ecolier — Quesito 8

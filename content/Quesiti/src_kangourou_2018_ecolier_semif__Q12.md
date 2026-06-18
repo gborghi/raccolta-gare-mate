@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quante condotte aprire per riempire piscina in 6 ore
 answer: '3'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Ecolier — Quesito 12

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Coppie cella bianca/nera non su stessa riga/colonna
 answer: '4320'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2018 Semifinale A — Quesito 5

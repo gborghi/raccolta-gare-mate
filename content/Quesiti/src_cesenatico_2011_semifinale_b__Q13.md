@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: quarto numero (decrescente)
 answer: '9072'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 13

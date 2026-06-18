@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Modi di dare 10 Euro con monete da 2,1,0.5'
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2019
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 5

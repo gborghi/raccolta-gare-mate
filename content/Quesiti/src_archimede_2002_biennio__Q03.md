@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Minimo fogli calendario per il terzo millennio
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 3

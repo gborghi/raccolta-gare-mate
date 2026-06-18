@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Misure della scatola piu piccola per la costruzione
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (gara marzo) — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Distanza punti medi su sviluppo del cono
 answer: A
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/geometria_solida
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 14

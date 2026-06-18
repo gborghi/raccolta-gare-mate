@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Anno di nascita di Archimede da catena di uguaglianze
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2001
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 5

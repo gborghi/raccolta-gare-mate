@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: numero impossibile
 answer: C
@@ -28,6 +29,7 @@ tags:
   - topic/aritmetica
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2016 Cadet (gara marzo) — Quesito 9

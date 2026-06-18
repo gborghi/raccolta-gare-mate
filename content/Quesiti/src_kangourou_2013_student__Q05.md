@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Quanti anni prima del 2013 con quattro cifre consecutive
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 5

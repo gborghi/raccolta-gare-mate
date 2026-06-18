@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Area della regione ombreggiata tra due circonferenze
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2011 Junior (gara marzo) — Quesito 25

@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: reincontro in un vertice
 answer: D
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 13

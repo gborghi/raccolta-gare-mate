@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: Quante pagine ha il libro delle vacanze (4 tipologie)
 answer: '64'
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Écolier (finale Cervia) — Quesito E1

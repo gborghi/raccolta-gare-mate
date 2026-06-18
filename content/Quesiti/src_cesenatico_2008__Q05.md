@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: tre quadrati uguali e retta rC
 answer: dimostrato
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 5

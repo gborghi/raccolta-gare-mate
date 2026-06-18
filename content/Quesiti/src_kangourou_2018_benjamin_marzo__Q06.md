@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Lato del quadrato piu grande tra tre quadrati
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 6

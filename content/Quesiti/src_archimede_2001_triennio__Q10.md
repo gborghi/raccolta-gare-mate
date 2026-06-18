@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Colpevole e complice dalle deposizioni del furto
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2001
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 10

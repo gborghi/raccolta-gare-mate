@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Centesimi costo di ogni uovo di Pasqua
 answer: 0980
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 5

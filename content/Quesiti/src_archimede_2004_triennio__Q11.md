@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Coppie di interi positivi (x,y) con equazione, soluzioni'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2004
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Triennio — Quesito 11

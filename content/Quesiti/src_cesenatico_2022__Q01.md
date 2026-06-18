@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Per quali n esiste multiplo di 2022 con n cifre 7 e resto 0
 answer: multipli di 3
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 1

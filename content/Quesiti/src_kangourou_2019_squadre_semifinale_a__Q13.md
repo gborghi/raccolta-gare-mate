@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Volume ottaedro dai centri facce parallelepipedo
 answer: '0450'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Semifinale A — Quesito 13

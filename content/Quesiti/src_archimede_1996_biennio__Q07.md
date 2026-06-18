@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quale frase logica e compatibile con i fatti dati
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 7

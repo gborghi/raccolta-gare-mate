@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quali affermazioni su 3^10 cubo dispari quadrato
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2002
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 12

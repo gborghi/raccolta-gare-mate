@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Somma interi n con d(n)*s(n)=96
 answer: '0076'
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2020 Finale — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Quale numero escludere per tre coppie equisomma
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo) — Quesito 11

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Disegno con 3 triangoli neri e meno di 4 quadrati
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Pre - gara marzo — Quesito 7

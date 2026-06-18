@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Minimo numero di frazioni unitarie per 28/33
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Junior (gara marzo) — Quesito 29

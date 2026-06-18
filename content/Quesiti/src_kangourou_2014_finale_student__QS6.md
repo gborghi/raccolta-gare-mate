@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Disporre successione con infiniti 1 e non-1 in matrice infinita
 answer: si possibile
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale nazionale Student — Quesito S6

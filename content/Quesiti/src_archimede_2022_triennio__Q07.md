@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: 'Coppie (a,b) con a divisore di b e a+2b=1010'
 answer: D
@@ -24,6 +25,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 7

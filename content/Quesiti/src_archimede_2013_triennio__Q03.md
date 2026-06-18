@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quale espressione e sicuramente funzione dispari
 answer: E
@@ -19,6 +20,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 3

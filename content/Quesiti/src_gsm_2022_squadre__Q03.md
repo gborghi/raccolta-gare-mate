@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Rapporto aree di due semicirconferenze in un quadrato
 answer: '0225'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2022 — Quesito 3

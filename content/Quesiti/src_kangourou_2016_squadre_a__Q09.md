@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Km percorsi dal treno che rallenta ogni mezz'ora
 answer: '1950'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Semifinale A — Quesito 9

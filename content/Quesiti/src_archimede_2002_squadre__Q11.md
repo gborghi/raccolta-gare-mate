@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: dividere n sassolini in mucchi
 answer: '0027'
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 11

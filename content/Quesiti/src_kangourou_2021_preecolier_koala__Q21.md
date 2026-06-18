@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Durata dell'esibizione di ballo a coppie
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 21

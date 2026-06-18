@@ -7,6 +7,7 @@ family: imo
 year: '1972'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Bounded functional equation implies |g(y)|<=1
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/1972
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1972 (Fourteenth International Olympiad) — Quesito 5

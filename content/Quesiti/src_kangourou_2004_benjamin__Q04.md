@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 360000 secondi a quante ore
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Benjamin (18 marzo) — Quesito 4

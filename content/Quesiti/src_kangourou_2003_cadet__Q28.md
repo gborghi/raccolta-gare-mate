@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Quanti n con 2003 diviso n resto 23
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Cadet (20 marzo) — Quesito 28

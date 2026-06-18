@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Variazione spesa stipendi con cambi percentuali
 answer: A
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 5

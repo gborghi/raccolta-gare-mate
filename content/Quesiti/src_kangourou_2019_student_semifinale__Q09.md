@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quanti allineamenti di lunghezza 16 di due lettere (vincoli)
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Student — Quesito 9

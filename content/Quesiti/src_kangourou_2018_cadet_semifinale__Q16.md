@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Angolo esterno tra tangenti a due circonferenze
 answer: '0120'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2018 Cadet - Semifinale individuale — Quesito 16

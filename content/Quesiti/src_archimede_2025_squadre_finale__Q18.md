@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: '|x+y| con x^2+3xy+5y^2=3149 e |x|,|y|<=40'
 answer: '0007'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 18

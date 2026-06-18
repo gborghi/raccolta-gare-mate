@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: soluzioni intere positive
 answer: '8 coppie; con x primo: (3,3^667),(23,23^87),(29,29^69)'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 3

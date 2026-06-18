@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Rapporto tra le velocità delle due parti del viaggio
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 25

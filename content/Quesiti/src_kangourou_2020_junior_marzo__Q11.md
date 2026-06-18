@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Giorno conveniente per iniziare visita di 18 giorni
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Junior - gara marzo (biennio) — Quesito 11

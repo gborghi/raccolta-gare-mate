@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: terna pitagorica e superficie
 answer: '0054'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/geometria_analitica
+  - gara/squadre
 ---
 
 # Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 6

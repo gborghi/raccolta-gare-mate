@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: 9000-esimo intero che non e ne quadrato ne cubo
 answer: '9111'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 6

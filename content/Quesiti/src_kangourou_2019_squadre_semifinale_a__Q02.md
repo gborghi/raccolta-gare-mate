@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Litri minimi al minuto per non affondare la barca
 answer: '0027'
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Semifinale A — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Lato del triangolo piu grande con 2020 cm di filo
 answer: '0036'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 7

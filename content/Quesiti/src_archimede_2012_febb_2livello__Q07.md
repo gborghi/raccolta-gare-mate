@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Area triangolo isoscele ABC con D medio e BCD isoscele
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 7

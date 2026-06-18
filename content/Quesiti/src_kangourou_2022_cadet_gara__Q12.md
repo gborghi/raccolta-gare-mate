@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Minimo punti sulla superficie di quattro dadi standard
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2022 Cadet gara individuale — Quesito 12

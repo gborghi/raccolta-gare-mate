@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Valore atteso anni dalla riga della tessera rossa nel triangolo
 answer: 0008
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale A — Quesito 8

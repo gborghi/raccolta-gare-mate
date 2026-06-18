@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: In quanti modi ripartire 1..18 in coppie con somma quadrato
 answer: '0001'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Benjamin 2024 — Quesito 16

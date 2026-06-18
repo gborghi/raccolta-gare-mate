@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Luogo dei punti con distanza da B doppia di quella da A
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/2-livello
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001 — Quesito 7

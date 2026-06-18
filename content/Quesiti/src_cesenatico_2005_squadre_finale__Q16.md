@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Minuti dopo Polinomia partono Von Kernel (problema cinematico)
 answer: 0168
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 16

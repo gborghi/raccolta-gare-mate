@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Sequenza periodica vincite di Jake e Sline
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 7

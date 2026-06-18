@@ -6,12 +6,14 @@ family: archimede
 year: '2012'
 level: biennio
 country: Italia
+modalita: individuale
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2012
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio

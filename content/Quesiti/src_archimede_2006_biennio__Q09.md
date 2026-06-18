@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Lunghezza DC con DE parallelo ad AB e rapporto aree
 answer: E
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 9

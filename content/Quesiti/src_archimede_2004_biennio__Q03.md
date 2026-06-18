@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Tipo di figura formata da quattro triangoli rettangoli
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2004
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Biennio — Quesito 3

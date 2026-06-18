@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Numeri di 2 cifre con numero meno somma cifre uguale 45
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 4

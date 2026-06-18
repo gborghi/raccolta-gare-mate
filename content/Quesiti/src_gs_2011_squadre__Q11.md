@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Probabilita di aprire almeno 13 scatole
 answer: '6666'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 11

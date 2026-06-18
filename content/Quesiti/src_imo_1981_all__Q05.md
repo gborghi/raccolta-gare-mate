@@ -7,6 +7,7 @@ family: imo
 year: '1981'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'incenter, circumcenter, O collinear'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1981
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1981 (Twenty-second International Olympiad) — Quesito 5

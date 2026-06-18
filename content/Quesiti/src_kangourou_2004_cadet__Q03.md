@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Numero di partenza nella sequenza di operazioni
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2004 Cadet (18 marzo) — Quesito 3

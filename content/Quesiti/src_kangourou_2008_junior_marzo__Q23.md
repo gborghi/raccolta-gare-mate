@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Valore di k da k! fattorizzato
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Junior (gara 28 marzo) — Quesito 23

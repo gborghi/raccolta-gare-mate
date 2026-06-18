@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Cifre mancanti in 3 numeri consecutivi di 4 cifre
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024 — Quesito 5

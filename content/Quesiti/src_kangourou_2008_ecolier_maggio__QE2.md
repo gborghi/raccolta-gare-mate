@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E2
 summary: Eliminare due caselle per uguaglianza vera
 answer: uguaglianza
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E2

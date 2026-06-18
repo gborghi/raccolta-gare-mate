@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: dividere i due triangoli in 4 triangoli congruenti
 answer: dimostrato
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 4

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Massimo gruppi con uguale somma da 2 a 10
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 24

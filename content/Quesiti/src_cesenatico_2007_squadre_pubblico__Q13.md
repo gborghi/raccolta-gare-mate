@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: 'Somma valori N con N=sum i/a_i, a_i crescenti positivi'
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 13

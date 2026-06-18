@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J4
 summary: Rapporto aree A'B'C' / ABC (simmetrie)
 answer: '3'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2004 Junior finale nazionale — Quesito J4

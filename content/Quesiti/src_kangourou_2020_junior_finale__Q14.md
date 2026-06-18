@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: 'Quante terne {a,b,c} con b media di a e c'
 answer: '2500'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2020 Finale — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Griglia 4x4 con 1,2,3, somme righe/colonne divisibili 3'
 answer: D
@@ -24,6 +25,7 @@ tags:
   - anno/2023
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2023 - 2° livello — Quesito 4

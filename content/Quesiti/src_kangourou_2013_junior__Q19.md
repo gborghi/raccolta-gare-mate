@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Quanti cammini da A a B lungo le frecce
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Junior — Quesito 19

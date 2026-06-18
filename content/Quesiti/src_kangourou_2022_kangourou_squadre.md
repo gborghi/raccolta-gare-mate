@@ -6,12 +6,14 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2022
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 1

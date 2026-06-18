@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: min somma |coeff|
 answer: '33'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Semifinale individuale — Quesito 17

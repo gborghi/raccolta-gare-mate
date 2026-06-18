@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Cifra in posizione 2017 della sequenza degli interi
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 15

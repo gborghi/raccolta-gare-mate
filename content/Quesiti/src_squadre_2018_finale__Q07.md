@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Interi X senza zero per cui Y=X^2 vale letto al contrario
 answer: '0055'
@@ -24,6 +25,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale — Quesito 7

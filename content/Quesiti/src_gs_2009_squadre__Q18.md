@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Sinceri e bugiardi schierati in file
 answer: '1771'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Fermat 2009 - Gara a squadre — Quesito 18

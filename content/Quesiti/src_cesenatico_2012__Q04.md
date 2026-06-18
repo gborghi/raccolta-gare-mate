@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'coppie {a,b} con xa*xb quadrato perfetto'
 answer: '{1,2}'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 4

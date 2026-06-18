@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Dividere un rettangolo in tre rettangoli simili
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 11

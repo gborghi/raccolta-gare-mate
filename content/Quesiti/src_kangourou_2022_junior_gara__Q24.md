@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Ripartizione possibile dei simboli sul cubo 2x2x2
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior gara individuale — Quesito 24

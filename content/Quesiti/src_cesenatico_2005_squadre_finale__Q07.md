@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Massimo numero cripte unitarie tangenti a cerchio raggio 2005
 answer: '6302'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 7

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quale tra cinque numeri e il piu grande
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Cadet (gara marzo) — Quesito 1

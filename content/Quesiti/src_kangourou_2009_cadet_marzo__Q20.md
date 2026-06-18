@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Quadratini per il decimo disegno della sequenza
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 20

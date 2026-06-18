@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Misura angolo ACB (triangolo isoscele con D)
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo) — Quesito 6

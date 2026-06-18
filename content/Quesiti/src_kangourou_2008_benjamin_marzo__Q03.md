@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Ordine di tre trasformazioni di un numero
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 3

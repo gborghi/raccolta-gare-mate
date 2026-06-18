@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Massimo mattoncini 1x2x4 in scatola 4x4x4
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 14

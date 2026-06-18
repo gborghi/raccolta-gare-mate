@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Massimo travasi per ripristinare 10 recipienti
 answer: '9'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior - finale — Quesito 3

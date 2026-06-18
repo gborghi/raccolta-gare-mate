@@ -7,6 +7,7 @@ family: imo
 year: '1989'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: n consecutive integers none a prime power
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1989
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1989 (30th IMO, Braunschweig) — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Calcolare CD dati OB e due angoli in figura
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 13

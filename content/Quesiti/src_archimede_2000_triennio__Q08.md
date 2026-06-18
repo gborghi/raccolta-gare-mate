@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Lunghezza tela tessuta e disfatta nel 1999
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 8

@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Percentuale di seggi del Partito della Pagnotta
 answer: A
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - topic/algebra
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 10

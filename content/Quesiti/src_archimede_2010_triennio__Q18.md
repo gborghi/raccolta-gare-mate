@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Quadrati perfetti di almeno tre cifre fino a 2010*2011
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 18

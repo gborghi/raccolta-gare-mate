@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Diametro x cerchio inscritto in triangolo isoscele
 answer: '0120'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Massimo numero 3 cifre uguale a 34 volte somma cifre
 answer: 0408
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 6

@@ -7,6 +7,7 @@ family: imo
 year: '2015'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: X giace sulla retta AO (cerchi tangenti)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2015
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2015 papers — Quesito 4

@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Resto dividendo per 5 il prodotto dei numeri di 5 cifre
 answer: '0001'
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student semifinale individuale — Quesito 13

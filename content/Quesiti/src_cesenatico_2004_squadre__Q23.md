@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '23'
 summary: Dopo quale mossa Chiara avra piu Franqi (processo iterato)
 answer: '0066'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 23

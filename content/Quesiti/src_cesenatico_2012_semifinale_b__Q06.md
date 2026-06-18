@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: valore di (11*8)+13
 answer: 0229
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 6

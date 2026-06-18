@@ -7,6 +7,7 @@ family: imo
 year: '1989'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Bisector-defined triangle area at least four times ABC
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1989 (30th IMO, Braunschweig) — Quesito 2

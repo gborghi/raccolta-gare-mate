@@ -7,6 +7,7 @@ family: imo
 year: '1969'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Three circles tangent to AB share a second common tangent
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1969
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1969 (Eleventh International Olympiad) — Quesito 4

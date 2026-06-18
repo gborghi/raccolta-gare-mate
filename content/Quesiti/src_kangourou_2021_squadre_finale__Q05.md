@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Somma dei pesi dei numeri di 5 cifre con 1..5
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 5

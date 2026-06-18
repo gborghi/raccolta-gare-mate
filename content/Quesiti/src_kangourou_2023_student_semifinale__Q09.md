@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Rapporto circonferenza/raggio nella distanza taxicab
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Student 2023 — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Minimo numero di tavolette quadrate da tavola 6x7
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Benjamin (gara marzo) — Quesito 26

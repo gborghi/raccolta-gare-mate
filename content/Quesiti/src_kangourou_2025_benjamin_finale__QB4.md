@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B4
 summary: Numero totale di lampioni su sentiero circolare
 answer: '100'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Benjamin finale — Quesito B4

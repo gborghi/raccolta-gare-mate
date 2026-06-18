@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: 'Modi crescita in 5 passi (catena multipli, 12!)'
 answer: '7250'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 16

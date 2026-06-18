@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Immagine vista di fronte dell'edificio di cubetti
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 20

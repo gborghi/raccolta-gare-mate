@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Quanti euro ha speso Carlo (media amici 82)
 answer: '154'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A — Quesito 11

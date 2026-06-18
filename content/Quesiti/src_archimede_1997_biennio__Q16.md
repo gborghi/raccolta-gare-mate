@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quale disegno non puo essere il retro del cartone
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 16

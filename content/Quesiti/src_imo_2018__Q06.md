@@ -7,6 +7,7 @@ family: imo
 year: '2018'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Angolo BXA+DXC=180 in quadrilatero con AB·CD=BC·DA
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2018 papers — Quesito 6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Numero dell ultima cella su cui atterra Sonia (+3 ogni salto)
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Ecolier — Quesito 5

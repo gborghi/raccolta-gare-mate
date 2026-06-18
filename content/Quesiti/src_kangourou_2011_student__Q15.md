@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Angolo tra tergicristallo e bordo, area pulita'
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 15

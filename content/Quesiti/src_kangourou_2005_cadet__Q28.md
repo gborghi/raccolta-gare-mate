@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Coordinate particella dopo due ore di percorso
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (marzo) — Quesito 28

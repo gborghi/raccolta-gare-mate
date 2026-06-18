@@ -7,6 +7,7 @@ family: imo
 year: '1984'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Find positive integers with divisibility conditions modulo 7 powers
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1984
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1984 (25th International Mathematical Olympiad) — Quesito 2

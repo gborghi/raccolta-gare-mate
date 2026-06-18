@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Numeri k con k^2+1 divisore di a
 answer: '0063'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 5

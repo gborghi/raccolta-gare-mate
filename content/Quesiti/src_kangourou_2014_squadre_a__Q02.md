@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Numero nella quarta cella griglia 100x100 progressioni
 answer: '892'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Semifinale A — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Cubetti non toccati dal trapano in cubo 4x4x4
 answer: '0044'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 6

@@ -7,6 +7,7 @@ family: imo
 year: '2021'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Uguaglianza somme tangenti AD+DT+TX+XA=...
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2021
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2021 papers — Quesito 4

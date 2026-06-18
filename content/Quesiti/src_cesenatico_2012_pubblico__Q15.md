@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Area stellina a 5 punte su sfera (archi)
 answer: '3141'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/geometria_solida
   - topic/trigonometria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 15

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Metri percorsi dal canguro in 2024 salti (salita/discesa)
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Cadet 2024 — Quesito 16

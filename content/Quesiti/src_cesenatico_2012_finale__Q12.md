@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: 'Le dieci domande autoreferenziali (risposte 2,4,9,10)'
 answer: '3261'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 12

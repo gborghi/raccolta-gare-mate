@@ -7,6 +7,7 @@ family: imo
 year: '1987'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: n points with irrational distances and rational triangle areas
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1987 (28th IMO, Havana) — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Probabilita due percorsi minimi disgiunti su griglia 2024
 answer: '8095'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Finale Nazionale — Quesito 14

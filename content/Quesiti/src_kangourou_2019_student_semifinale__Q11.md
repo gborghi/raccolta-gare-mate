@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Massima somma spigoli parallelepipedo con volume ottaedro 150
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Student — Quesito 11

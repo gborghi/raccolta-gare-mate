@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Lunghezza minore segmento su orologio rettangolare
 answer: 0865
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 12

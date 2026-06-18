@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: quante con orecchio destro sul cuscino
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2016 gara 17 marzo Benjamin — Quesito 9

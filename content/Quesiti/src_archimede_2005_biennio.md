@@ -6,12 +6,14 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2005
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio

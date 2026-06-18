@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Somma numeri 4 cifre con vincoli su somme e parita cifre
 answer: '7920'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 5

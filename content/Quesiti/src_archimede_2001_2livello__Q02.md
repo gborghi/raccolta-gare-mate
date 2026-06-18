@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Minimo n di giri per misurare il circuito con errore <30 m
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001 — Quesito 2

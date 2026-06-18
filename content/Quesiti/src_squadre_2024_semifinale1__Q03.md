@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: 'Coppie (x,y) con |y|<=4000 e relazione con potenze di 2'
 answer: '0012'
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Semifinale 1 — Quesito 3

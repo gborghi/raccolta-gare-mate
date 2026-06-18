@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Area massima di un quadrilatero di lati 1,4,7,8'
 answer: '18'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2018 Finale Nazionale Student — Quesito 1

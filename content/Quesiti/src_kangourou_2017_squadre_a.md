@@ -6,12 +6,14 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2017
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2017 Semifinale A

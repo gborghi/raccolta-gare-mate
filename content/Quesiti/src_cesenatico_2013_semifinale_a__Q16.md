@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: quadrato piu vicino pari/dispari
 answer: 0990
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 16

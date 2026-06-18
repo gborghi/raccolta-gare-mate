@@ -7,6 +7,7 @@ family: imo
 year: '1968'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Prove functional equation implies f periodic; give example
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1968
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1968 (Tenth International Olympiad) — Quesito 5

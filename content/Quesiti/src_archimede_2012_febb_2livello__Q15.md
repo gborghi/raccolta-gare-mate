@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Ciclostilato di n multiplo di 9 e di 11
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 15

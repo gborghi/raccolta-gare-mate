@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Somma S1+...+S10 di somme dei primi multipli
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 8

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Massimo n di persone senza antipatia reciproca tra le 2023
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Student 2023 — Quesito 18

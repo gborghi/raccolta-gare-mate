@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Perimetro del triangolo originale (trapezio)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2007 Junior (marzo) — Quesito 17

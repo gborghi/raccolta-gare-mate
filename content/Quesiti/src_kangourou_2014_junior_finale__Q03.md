@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Luogo dei punti entro distanza 3 (metrica modificata)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale Junior — Quesito 3

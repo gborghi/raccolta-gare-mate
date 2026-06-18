@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Quanti naturali 2-3 cifre maggiori della somma cifre
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 21

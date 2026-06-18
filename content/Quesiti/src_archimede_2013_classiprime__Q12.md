@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Numeri buoni di 6 cifre con cifre 1-4 e proprieta di minimo
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 12

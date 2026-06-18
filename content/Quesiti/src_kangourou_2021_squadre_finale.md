@@ -6,12 +6,14 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2021
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Quale frutto prende Bianca
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024 — Quesito 8

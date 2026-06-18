@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Esistenza di due scalette con MCD termini =1 e >1
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 2

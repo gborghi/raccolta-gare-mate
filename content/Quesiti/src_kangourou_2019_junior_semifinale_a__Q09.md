@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Prodotto delle soluzioni di f(n)=n
 answer: '0003'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 9

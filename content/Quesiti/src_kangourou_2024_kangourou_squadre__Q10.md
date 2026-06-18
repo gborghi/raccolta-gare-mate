@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Area regione ombreggiata tre cerchi concentrici
 answer: '1417'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 10

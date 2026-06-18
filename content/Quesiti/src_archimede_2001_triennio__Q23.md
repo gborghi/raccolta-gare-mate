@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: 'Ordinamento di p, q, r con radici quadrate'
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/triennio
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 23

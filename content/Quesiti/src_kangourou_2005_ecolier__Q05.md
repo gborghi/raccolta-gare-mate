@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Tigri che abbandonano la scena (file da 5)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Ecolier (marzo) — Quesito 5

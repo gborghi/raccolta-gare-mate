@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Scatola con massima probabilita di pallina blu
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2017 Student - Gara 16 marzo — Quesito 9

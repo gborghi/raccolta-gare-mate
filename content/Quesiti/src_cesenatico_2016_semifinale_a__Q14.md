@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: 'Area BCGF (parallela e intersezioni, FP/PG/GF)'
 answer: '8918'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 14

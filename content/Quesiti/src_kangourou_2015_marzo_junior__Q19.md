@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Interi 3 cifre con cifre adiacenti che differiscono di 3
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Junior — Quesito 19

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Massimo N per sconto k% limitato a 4 ingressi
 answer: '0020'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2020 Finale — Quesito 1

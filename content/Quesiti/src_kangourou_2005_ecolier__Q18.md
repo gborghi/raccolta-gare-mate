@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Rettangoli diversi con 14 fiammiferi
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Ecolier (marzo) — Quesito 18

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Quanti etti di vernice per il solido di quattro scatole
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Benjamin — Quesito 18

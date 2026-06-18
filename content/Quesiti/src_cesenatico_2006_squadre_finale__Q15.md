@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Costante di quadrato magico parzialmente riempito
 answer: 0096
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 15

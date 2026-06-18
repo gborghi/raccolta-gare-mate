@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 2015a cifra decimale di 3/7
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Biennio — Quesito 8

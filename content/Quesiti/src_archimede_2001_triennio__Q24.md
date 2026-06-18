@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Rapporto velocita primo e terzo ciclista dato sorpasso
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2001
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 24

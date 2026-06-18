@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Ordinare 3, radice 10, radice 2 piu radice 3'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 8

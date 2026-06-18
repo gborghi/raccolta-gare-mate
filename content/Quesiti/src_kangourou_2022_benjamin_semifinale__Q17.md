@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Modi di sedersi in auto con vincoli
 answer: '0016'
@@ -24,6 +25,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin semifinale individuale — Quesito 17

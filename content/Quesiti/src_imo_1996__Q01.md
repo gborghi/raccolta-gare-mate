@@ -7,6 +7,7 @@ family: imo
 year: '1996'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Knight-like moves of distance sqrt(r) across board corners
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1996 (37th IMO, Mumbai) — Quesito 1

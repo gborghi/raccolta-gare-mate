@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Secondi di separazione tra Anna e il cane su pista
 answer: '0500'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 13

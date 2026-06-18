@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Allineamenti possibili 1-14 con condizione max/min
 answer: '8192'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2018 Semifinale A — Quesito 3

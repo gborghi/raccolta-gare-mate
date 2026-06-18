@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: quante blu togliere
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Cadet (gara marzo) — Quesito 12

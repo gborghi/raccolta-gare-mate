@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: angoli e somme lati
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quale numero differisce meno da ((n+3)/2)^2
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: 'Frecce con angoli dati chiuse per riflessione, numero minimo'
 answer: '0012'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 10

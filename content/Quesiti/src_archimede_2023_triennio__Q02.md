@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quali affermazioni su potenze di 3 sono vere
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Triennio — Quesito 2

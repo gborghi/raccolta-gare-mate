@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Area del quadrato LMNO da archi simmetrici del quadrato
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 5

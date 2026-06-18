@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Persone a bordo prima dei naufraghi
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Cadet (21 marzo) — Quesito 12

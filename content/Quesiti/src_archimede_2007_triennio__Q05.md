@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Semplificare 54^(1/3)+4^(1/6)
 answer: E
@@ -19,6 +20,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 5

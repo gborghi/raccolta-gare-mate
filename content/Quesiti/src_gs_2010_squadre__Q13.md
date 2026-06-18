@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Numero di stelle diverse con p vertici primi
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 13

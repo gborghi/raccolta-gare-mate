@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Coppie n>m con condizioni su minimo/massimo primo
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 3

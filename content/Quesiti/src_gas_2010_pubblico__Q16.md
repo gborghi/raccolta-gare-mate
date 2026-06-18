@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Area regione di pentagono circoscrittibile con altitudine data
 answer: '6156'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Gara del Pubblico — Quesito 16

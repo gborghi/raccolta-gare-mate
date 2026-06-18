@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Minimo piante da aggiungere per distanze uguali
 answer: '0022'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Ecolier - Semifinale individuale — Quesito 12

@@ -7,6 +7,7 @@ family: imo
 year: '1979'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Prove numerator p of alternating harmonic sum divisible by 1979
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1979
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1979 (Twenty-first International Olympiad) — Quesito 1

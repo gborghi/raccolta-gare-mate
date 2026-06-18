@@ -6,12 +6,14 @@ family: imo
 year: '1996'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1996
+  - gara/individuale
 ---
 
 # IMO 1996 (37th IMO, Mumbai)

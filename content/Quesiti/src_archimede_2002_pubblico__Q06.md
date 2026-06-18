@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: terna pitagorica e superficie
 answer: 0090
@@ -23,6 +24,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/geometria_solida
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 6

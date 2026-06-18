@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Zeri di 2000! in base 5 e 2013! in base 10, calcolare x-y'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 5

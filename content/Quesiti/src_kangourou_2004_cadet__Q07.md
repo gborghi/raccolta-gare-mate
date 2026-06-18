@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quale figura ottenuta sezionando il cubo
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2004 Cadet (18 marzo) — Quesito 7

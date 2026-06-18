@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: quale disegno
 answer: C
@@ -26,6 +27,7 @@ tags:
   - topic/geometria_piana
   - topic/logica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2016 Cadet (gara marzo) — Quesito 6

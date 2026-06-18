@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Polinomio f(x^2-1) dato f(x^2+1)
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student (20 marzo) — Quesito 30

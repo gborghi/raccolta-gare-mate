@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Posizione di 3142 tra le 24 permutazioni ordinate
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - semifinale — Quesito 5

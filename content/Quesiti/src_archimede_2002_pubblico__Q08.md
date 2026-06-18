@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'due rane sui vialetti, numero di salti'
 answer: '0004'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 8

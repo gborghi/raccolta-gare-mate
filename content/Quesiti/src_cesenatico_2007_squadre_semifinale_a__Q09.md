@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Somma valori a per cui x^2-ax+4a ha radici intere positive
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 9

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Massimo n con 1+2+...+n divisibile per n+5
 answer: '15'
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 10

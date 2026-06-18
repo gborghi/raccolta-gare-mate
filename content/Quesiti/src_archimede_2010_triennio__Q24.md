@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Volume cono tagliato a un quarto dell'altezza
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 24

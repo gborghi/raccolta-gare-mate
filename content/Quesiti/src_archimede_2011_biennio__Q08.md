@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Posizione primo numero quattro cifre nella successione
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 8

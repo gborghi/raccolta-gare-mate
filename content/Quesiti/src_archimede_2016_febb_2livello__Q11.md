@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Interi m in 1..60 con p(m) multiplo di 6 dati i multipli di 3 e 4
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 11

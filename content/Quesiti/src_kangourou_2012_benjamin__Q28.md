@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Somma delle aree dei due rettangoli grigi dopo le piegature
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2012 Benjamin (gara marzo) — Quesito 28

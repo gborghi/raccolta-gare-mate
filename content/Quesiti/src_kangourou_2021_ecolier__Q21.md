@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: 'Numero di dolci divisibili per 2,3,4 con resto 6 su 7'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - gara marzo — Quesito 21

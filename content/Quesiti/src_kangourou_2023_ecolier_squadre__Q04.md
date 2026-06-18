@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Massimo dei tre numeri date somme a coppie
 answer: 0059
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 4

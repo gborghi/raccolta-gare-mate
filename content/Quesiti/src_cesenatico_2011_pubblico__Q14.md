@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Lunghezza sfoglia avvolta sul mattarello
 answer: '0330'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/gara-del-pubblico
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 14

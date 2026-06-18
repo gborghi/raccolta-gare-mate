@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Misura angolo CDE nel triangolo isoscele
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2003 Cadet (20 marzo) — Quesito 30

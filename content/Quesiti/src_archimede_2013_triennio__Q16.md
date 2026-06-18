@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Differenza zeri di 2000! in base 10 e base 5
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 16

@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Valore di a2-a1 in progressione aritmetica
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Triennio — Quesito 1

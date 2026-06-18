@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Radice digitale iterata di 2023^2024
 answer: '0004'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Semifinale 1 — Quesito 6

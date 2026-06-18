@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Massimo punteggio sottogriglie 10x10
 answer: '3410'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 2 — Quesito 5

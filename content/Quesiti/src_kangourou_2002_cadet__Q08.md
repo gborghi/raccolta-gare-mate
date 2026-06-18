@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Massimo punti visibili sul dado
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Cadet (21 marzo) — Quesito 8

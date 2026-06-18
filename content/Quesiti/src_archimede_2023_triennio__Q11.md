@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Probabilita che la partita finisca 4 a 2
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Triennio — Quesito 11

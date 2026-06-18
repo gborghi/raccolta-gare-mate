@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Trovare F dato un intero positivo e fattori della cifra
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 11

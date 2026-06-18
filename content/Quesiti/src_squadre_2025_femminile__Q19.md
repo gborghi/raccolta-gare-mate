@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Modi di distribuire fino a 20 palline con vincoli di ordine
 answer: '241'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 19

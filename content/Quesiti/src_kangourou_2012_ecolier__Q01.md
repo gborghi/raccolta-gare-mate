@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quale figura ha l'area bianca maggiore della grigia
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2012 Ecolier (gara marzo) — Quesito 1

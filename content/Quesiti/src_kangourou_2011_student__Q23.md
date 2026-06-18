@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Valore di f2011(2011) nella successione di funzioni
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 23

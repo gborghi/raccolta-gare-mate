@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Euro di Cristina divisi in parti
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Benjamin (15 marzo) — Quesito 20

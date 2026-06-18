@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Area triangolo ABG da diagonali in esagono regolare
 answer: B
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 14

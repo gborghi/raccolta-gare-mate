@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B2
 summary: Massimo cassette che Eugenio tiene con 4 furgoni
 answer: '1'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Finale nazionale Cervia — Quesito B2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quali pezzi completano il puzzle
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 12

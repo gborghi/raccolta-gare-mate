@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Colori di palloncini comprati da quattro bambine
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 21

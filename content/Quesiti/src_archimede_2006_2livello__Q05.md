@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 2005 o 2006
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 5

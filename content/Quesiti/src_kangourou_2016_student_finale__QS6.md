@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Affermazioni su piastrellamenti del piano (convesse)
 answer: '1a falsa, 1b vera, 2 falsa'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (finale Cervia) — Quesito S6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Differenza superfici dato differenza volumi cubi
 answer: '0042'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 1

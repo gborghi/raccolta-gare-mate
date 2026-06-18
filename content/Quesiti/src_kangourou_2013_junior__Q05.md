@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Area minima del triangolo da 6 punti su griglia
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Junior — Quesito 5

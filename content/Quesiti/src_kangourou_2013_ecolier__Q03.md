@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Chi e Barbara dati gli oggetti posseduti
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Ecolier — Quesito 3

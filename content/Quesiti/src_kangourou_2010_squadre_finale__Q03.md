@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Anni 2011-2410 con prime due cifre multiple delle ultime
 answer: '17'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre finale — Quesito 3

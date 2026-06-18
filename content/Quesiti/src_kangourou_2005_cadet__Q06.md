@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Angolo A con relazioni tra angoli del triangolo
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (marzo) — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Caselle reticolo toccate da circonferenza raggio 2025
 answer: '6220'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/geometria_analitica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 17

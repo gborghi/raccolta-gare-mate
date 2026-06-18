@@ -7,6 +7,7 @@ family: imo
 year: '1991'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Interior point gives an angle at most 30 degrees
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1991
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1991 (32nd IMO) — Quesito 5

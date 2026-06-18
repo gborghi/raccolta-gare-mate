@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: 'Anni divisibili ordinatamente per k,k-1,... piu lunga del 2007'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2007
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 17

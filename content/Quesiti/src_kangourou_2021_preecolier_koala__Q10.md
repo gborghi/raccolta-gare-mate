@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Punto d'arrivo del gatto dopo 20 metri sul muro
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 10

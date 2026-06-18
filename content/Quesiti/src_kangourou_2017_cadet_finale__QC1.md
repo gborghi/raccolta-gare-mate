@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C1
 summary: Soglia bagaglio dati due sovrapprezzi (11 e 33 euro)
 answer: '24'
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (finale Cervia) — Quesito C1

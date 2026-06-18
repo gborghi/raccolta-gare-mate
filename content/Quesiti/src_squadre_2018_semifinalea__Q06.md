@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Numero minimo ragazza che balla con condizione su mcm
 answer: '0012'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 6

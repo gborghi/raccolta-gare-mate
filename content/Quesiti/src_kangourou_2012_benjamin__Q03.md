@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Costo di una barra di cioccolato dato il totale
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2012 Benjamin (gara marzo) — Quesito 3

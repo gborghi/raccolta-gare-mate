@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Quante posizioni distinte del triangolo equilatero ruotante
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Cadet (gara marzo) — Quesito 28

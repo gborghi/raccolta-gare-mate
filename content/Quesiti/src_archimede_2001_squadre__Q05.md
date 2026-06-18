@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: misura DC
 answer: '0020'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 5

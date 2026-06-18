@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Successioni di colori di calzini senza due uguali vicini
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 9

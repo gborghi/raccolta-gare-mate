@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Anni multipli di 12 ma non di 60
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Triennio — Quesito 15

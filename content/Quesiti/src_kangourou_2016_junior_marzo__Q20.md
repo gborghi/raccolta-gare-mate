@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Somma frazioni colore diverso/uguale per 2016 canguri
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (gara marzo) — Quesito 20

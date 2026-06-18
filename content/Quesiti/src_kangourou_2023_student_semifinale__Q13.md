@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Minimo k con (x^2+y^2+z^2)^2 <= k(x^4+y^4+z^4)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Student 2023 — Quesito 13

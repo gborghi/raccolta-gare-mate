@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Iscritti che sanno giocare a dama e scacchi (insiemi)
 answer: C
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - topic/insiemi_funzioni
   - topic/algebra
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 16

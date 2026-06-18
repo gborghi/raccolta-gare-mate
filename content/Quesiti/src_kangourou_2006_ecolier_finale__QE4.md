@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E4
 summary: Affermazione che sincero e bugiardo possono dire
 answer: Io dico la verita
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Ecolier (finale nazionale) — Quesito E4

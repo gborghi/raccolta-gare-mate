@@ -7,6 +7,7 @@ family: imo
 year: '2018'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Interi n con successione ciclica ai·ai+1+1=ai+2
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2018 papers — Quesito 2

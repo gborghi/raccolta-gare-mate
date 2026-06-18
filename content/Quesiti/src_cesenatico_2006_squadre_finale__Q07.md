@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Valore di f^(2006)(11) iterando quadrato somma cifre
 answer: 0169
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 7

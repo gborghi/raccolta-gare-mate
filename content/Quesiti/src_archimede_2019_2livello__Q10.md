@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Colorazione interi con 6 colori, condizioni'
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2019 - 2° livello — Quesito 10

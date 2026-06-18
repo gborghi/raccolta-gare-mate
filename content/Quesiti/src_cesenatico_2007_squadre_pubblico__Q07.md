@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Probabilita di discendenza infinita (ramificazione)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 7

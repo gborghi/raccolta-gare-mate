@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Quante partite hanno giocato A e C
 answer: '0007'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 7

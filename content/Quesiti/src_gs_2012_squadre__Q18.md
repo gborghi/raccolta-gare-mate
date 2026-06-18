@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Numero circonferenze inscritte sotto soglia
 answer: '0007'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre — Quesito 18

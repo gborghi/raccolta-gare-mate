@@ -6,12 +6,14 @@ family: archimede
 year: '2014'
 level: biennio
 country: Italia
+modalita: individuale
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2014
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1)

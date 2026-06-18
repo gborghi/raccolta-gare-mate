@@ -7,6 +7,7 @@ family: imo
 year: '1960'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Provare tan(alfa)=4nh/((n^2-1)a) nel triangolo rettangolo
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # IMO 1960 (II International Olympiad) — Quesito 3

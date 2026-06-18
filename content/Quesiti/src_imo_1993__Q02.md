@@ -7,6 +7,7 @@ family: imo
 year: '1993'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Compute ratio and prove tangents perpendicular for interior D
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1993
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1993 (34th IMO) — Quesito 2

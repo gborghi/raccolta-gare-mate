@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Stima di x = 99 meno 70 radice di 2
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 13

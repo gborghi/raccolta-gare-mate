@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Minimo quadratini per asse di simmetria
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin (marzo) — Quesito 23

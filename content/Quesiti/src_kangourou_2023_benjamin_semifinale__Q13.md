@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: pere non usate
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Benjamin — Semifinale individuale — Quesito 13

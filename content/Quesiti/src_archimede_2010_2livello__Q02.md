@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Area comune ai triangoli ABC e DEF (simmetrici di O)
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 2

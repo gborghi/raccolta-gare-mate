@@ -7,6 +7,7 @@ family: imo
 year: '1996'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Show AP, BD, CE concurrent with incenter angle condition'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1996
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1996 (37th IMO, Mumbai) — Quesito 2

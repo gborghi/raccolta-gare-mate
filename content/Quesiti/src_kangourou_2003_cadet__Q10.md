@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Alberi senza nastro dopo conteggi andata/ritorno
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Cadet (20 marzo) — Quesito 10

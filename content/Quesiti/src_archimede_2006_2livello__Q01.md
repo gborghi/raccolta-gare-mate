@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Cifre del più piccolo quadrato perfetto 'moderno' (concatenando 2006)
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Numeri n in 1-100 con Q(n) multiplo di n (somma coprimi)
 answer: 0099
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Finale Nazionale — Quesito 20

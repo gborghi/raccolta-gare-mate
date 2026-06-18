@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quanto pesa Dita (bilance)
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Benjamin — Quesito 7

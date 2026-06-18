@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Grado di un polinomio composto da potenze
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 6

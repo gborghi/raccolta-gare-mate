@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Numero 4 cifre automorfico (ultime 4 cifre del quadrato)
 answer: '9376'
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Junior — Quesito 3

@@ -7,6 +7,7 @@ family: imo
 year: '1992'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Bound point-set size by product of projection sizes
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1992 (33rd IMO, Moscow) — Quesito 5

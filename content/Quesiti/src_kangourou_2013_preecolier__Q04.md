@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Immagine con più canguri neri che bianchi
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Pre-Ecolier — Quesito 4

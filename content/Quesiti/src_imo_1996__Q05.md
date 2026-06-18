@@ -7,6 +7,7 @@ family: imo
 year: '1996'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: circumradii sum at least half perimeter
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1996 (37th IMO, Mumbai) — Quesito 5

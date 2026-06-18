@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Forma originaria del foglio piegato due volte
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Benjamin - gara marzo — Quesito 8

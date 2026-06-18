@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Minimo canestri per Cantu per vincere (96-83)
 answer: '5'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 6

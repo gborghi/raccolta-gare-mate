@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Secondi per riempire vasca con due rubinetti insieme
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2020
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 10

@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Somma k con successione che raggiunge 2024
 answer: '2277'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Semifinale 1 — Quesito 16

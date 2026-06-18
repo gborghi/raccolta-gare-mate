@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Percorsi da A a B senza ripassare
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Cadet (15 marzo) — Quesito 10

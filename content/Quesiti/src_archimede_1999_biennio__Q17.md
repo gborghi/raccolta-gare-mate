@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Coppie di piani perpendicolari fra le facce di un cubo
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 17

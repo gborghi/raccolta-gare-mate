@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Giorni in un anno (feste di non-compleanno)
 answer: '0771'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 15

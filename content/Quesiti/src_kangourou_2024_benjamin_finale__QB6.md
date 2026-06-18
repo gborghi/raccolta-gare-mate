@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B6
 summary: Perche il risultato di Marco e sempre 1089
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Finale Benjamin 2024 — Quesito B6

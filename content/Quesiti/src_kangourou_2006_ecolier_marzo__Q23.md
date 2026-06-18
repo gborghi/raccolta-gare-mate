@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: 'Modi di completare griglia 3x3 con 1,2,3'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2006 Ecolier (marzo) — Quesito 23

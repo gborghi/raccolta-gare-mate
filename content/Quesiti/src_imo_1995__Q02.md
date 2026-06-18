@@ -7,6 +7,7 @@ family: imo
 year: '1995'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Prove sum of 1/(a^3(b+c)) at least 3/2 for abc=1
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1995
   - livello/IMO
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1995 (36th IMO, Toronto) — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Minimo gettoni da spostare per fare un quadrato
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2006 Ecolier (marzo) — Quesito 4

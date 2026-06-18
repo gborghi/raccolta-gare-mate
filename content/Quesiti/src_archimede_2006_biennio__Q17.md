@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Lato del quadrato inscritto in triangolo equilatero
 answer: B
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 17

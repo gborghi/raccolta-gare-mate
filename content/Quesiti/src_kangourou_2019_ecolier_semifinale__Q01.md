@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Minimo quadretti da annerire in quadrato 7x7 perche ogni 4x4 ne contenga uno
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Ecolier — Quesito 1

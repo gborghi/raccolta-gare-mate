@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Minimo intervallo orario con stesse cifre >9
 answer: '0014'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 7

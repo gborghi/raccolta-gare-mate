@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Media pesata cocktail letale
 answer: '32.5'
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 5

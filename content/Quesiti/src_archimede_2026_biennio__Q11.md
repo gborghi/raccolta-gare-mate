@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Probabilità segmento tra vertici cubo passa per centro
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/probabilita
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 11

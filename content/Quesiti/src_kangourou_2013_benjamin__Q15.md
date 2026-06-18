@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Numero di facce del cubo con cubetti rimossi ai vertici
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 15

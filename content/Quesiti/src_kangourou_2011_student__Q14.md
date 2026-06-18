@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Numero di grafici di funzioni con radici uguali
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/insiemi_funzioni
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 14

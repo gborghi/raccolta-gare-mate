@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Secondi in cui Anna e separata dal cane (pista 500m)
 answer: '500'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2009 squadre finale — Quesito 13

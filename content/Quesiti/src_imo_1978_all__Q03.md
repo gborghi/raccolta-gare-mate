@@ -7,6 +7,7 @@ family: imo
 year: '1978'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: find f(240)
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1978 (Twentieth International Olympiad) — Quesito 3

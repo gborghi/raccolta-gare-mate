@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: blocco massimo di neri con blocchi bianchi distinti
 answer: 0038
@@ -24,6 +25,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student semifinale individuale — Quesito 11

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Affermazione vera per due equazioni con soluzione comune
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 22

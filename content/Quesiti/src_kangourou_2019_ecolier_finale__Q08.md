@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Quante figurine quadrate (653 figure 2019 lati)
 answer: '0060'
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale Nazionale Ecolier — Quesito 8

@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Lunghezza filettatura elica sulla vite cilindrica
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Triennio — Quesito 15

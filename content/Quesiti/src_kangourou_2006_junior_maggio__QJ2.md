@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J2
 summary: Somma minima dei valori assoluti su circonferenza numerata
 answer: 2n-2
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior finale (maggio) — Quesito J2

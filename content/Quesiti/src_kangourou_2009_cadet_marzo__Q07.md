@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quanti bambini con 9 adulti in ascensore
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 7

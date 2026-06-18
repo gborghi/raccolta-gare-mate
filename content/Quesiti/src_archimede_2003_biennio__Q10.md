@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Numero minimo per ottenere un valore con cifre, base 10'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 10

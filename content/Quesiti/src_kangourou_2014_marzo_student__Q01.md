@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Cubetti eliminati da un cubo 5x5x5 con colonne
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2014 gara 20 marzo Student — Quesito 1

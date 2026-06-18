@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Anni con due fattori primi ab e ba tra oggi e 3000
 answer: '0004'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 8

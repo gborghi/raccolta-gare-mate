@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Area triangolo PQT in rettangolo con punti medi
 answer: '1750'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Finale — Quesito 5

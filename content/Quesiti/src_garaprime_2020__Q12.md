@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Area del trapezio ABCD in un ottagono regolare
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2020
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 12

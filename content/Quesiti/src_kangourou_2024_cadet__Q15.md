@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quanti cubi servono per estendere la struttura
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou Categoria Cadet 2024 — Quesito 15

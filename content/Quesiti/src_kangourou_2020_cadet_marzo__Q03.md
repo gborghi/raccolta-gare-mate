@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quale frazione del quadrato grande e ombreggiata
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Cadet — Quesito 3

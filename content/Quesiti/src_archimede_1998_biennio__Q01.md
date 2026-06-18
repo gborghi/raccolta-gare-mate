@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Valore di 0,3 al cubo'
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 1

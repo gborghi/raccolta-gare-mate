@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Massimo passeggeri con file di occupazione distinta
 answer: '189'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: 'Somma algebrica numeri con cifre 0,1,2'
 answer: '1011'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Junior Finale 2 — Quesito 7

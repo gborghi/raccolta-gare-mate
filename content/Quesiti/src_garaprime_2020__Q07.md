@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Termine 2020 di successione ricorsiva periodica
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2020
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 7

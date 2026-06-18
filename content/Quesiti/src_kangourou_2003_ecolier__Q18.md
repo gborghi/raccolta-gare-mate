@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Rapporto prezzi cagnolino/orsacchiotto
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2003 Ecolier (20 marzo) — Quesito 18

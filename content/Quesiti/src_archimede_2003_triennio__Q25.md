@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Volume piramide da altezze ortogonali sullo spigolo VA
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 25

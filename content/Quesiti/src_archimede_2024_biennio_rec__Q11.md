@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Foglietti minimi per coppia con somma 22
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 11

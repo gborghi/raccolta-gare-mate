@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Velocita media nel percorso casa-scuola-casa
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 5

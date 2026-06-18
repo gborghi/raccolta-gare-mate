@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Numeri di 10 cifre diverse con coppie a somma 9
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 8

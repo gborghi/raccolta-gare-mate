@@ -7,6 +7,7 @@ family: imo
 year: '1988'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: (a2+b2)/(ab+1) integer is a perfect square (Vieta jumping)
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1988
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1988 (29th IMO, Canberra) — Quesito 6

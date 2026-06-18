@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: MCD di a^n+(a+1)^n+(a+2)^n e' potenza di 3
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 3

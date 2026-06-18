@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Somma prodotti a dieci fattori (potenza)
 answer: '1024'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre — Quesito 15

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Valore di a_100 di una successione max/min ricorrente
 answer: '1616'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 16

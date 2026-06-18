@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: quanti usano la strada indicata
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Cadet — Gara 16 marzo — Quesito 26

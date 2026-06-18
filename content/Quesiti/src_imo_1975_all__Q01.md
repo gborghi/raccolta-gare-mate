@@ -7,6 +7,7 @@ family: imo
 year: '1975'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: sorted matching minimizes sum of squared diffs
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1975
   - livello/IMO
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1975 (Seventeenth International Olympiad) — Quesito 1

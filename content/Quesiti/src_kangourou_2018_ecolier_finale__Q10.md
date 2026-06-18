@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Perimetro giardino quadrato con cinque aiuole
 answer: '0040'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 10

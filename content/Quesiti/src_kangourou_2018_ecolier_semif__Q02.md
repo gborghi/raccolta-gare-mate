@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Eta di Roberta oggi data condizione su somma futura
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Ecolier — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Tentativi massimi lucchetto 5 cifre con tre uguali
 answer: '7200'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 8

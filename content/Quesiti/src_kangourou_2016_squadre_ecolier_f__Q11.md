@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Numeri di 7 cifre con esattamente sei 9
 answer: '62'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 11

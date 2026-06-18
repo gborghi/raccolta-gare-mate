@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Compagni di classe da prezzi di caramelle
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio — Quesito 16

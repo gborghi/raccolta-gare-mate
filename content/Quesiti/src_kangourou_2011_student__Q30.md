@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Quanti cubetti intersecati dal piano per il centro del cubo
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 30

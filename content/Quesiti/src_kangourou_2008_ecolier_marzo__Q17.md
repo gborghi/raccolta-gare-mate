@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Peso del canguro nell autunno 2004
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 17

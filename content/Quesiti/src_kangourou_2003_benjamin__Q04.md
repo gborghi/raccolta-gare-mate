@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Somma di due minimi multipli
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Benjamin (20 marzo) — Quesito 4

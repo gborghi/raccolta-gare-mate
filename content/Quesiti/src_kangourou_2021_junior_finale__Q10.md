@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Quanti primi tra interi 3 cifre con cifre 1,3,5'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior - finale — Quesito 10

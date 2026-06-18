@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Coppie intere (a,b) con a^3+b^3+3ab=1'
 answer: '(-1,-1) e (c+1,-c)'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/nazionale
   - topic/algebra
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 4

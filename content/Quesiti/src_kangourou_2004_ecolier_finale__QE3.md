@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E3
 summary: Quante tessere del domino 0-0..8-8
 answer: '45'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2004 Ecolier finale nazionale — Quesito E3

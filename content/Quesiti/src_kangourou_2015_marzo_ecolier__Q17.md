@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: quale numero eliminare
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Ecolier — Quesito 17

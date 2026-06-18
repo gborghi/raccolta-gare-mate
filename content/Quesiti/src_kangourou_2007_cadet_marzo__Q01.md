@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Valore espressione 4x4+4+4+4+4+4x4
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Cadet (marzo) — Quesito 1

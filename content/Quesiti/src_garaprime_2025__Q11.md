@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Interi n che soddisfano la catena di disuguaglianze
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 11

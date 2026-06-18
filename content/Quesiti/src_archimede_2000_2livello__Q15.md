@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Minimo intero positivo con esattamente 15 divisori
 answer: '144'
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 15

@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quante affermazioni su potenze di 2 sono vere
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 6

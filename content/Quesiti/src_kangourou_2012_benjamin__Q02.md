@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Colori diversi per lettere uguali in KAENGURUWETTBEWERB
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 Benjamin (gara marzo) — Quesito 2

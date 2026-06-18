@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Soluzioni intere di equazione con radici quadrate
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 3

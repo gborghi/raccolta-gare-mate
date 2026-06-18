@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quale e una parte della collana mostrata
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 2

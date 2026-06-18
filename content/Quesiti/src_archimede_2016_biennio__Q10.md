@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Giorni liberi comuni di Giulietta e Romeo
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 10

@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Rendere uguali 5 numeri aggiungendo 1 a coppie adiacenti
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Ecolier - finale — Quesito 6

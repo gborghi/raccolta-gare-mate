@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Somma M+m dei numeri imparziali (CDU+UDC dispari)
 answer: '1785'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Semifinale A — Quesito 7

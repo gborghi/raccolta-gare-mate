@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Ipotenusa dai volumi di rotazione attorno ai cateti
 answer: B
@@ -22,6 +23,7 @@ tags:
   - anno/2026
   - topic/geometria_solida
   - topic/algebra
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 16

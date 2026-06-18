@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quale numero nel triangolo X della coroncina di gettoni
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Ecolier — Quesito 15

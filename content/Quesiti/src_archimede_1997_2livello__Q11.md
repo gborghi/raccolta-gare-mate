@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Area della figura tratteggiata con sei cerchi piccoli
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 11

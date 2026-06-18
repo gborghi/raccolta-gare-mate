@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Spettatori con resto 1 mod 2..6 e divisibile 7
 answer: '1141'
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 6

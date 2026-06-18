@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Modo corretto di accostare i pezzi del puzzle
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Pre - gara marzo — Quesito 3

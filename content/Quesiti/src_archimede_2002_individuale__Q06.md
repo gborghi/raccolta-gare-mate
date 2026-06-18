@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: colorare caselle con condizioni sugli adiacenti
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2002
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 6

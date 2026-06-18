@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Minimo dolcetti decorati sia con uvetta sia con noci
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2012 Ecolier (gara marzo) — Quesito 12

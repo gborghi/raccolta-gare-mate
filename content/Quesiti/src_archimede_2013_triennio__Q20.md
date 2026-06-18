@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Numero minimo di tessere a Z per coprire griglia 5x5
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 20

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: 'Modi rivestire griglia 6x10 con trimini, fattori primi'
 answer: '0103'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 19

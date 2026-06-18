@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Massimo bugiardi tra quattro amici con dichiarazioni
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 15

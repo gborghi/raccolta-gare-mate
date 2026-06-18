@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '23'
 summary: Colori magliette scimmie (III) conteggio
 answer: '440'
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 23

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Minimo n con somme adiacenti quadrati perfetti
 answer: '0015'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 11

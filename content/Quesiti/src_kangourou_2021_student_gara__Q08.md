@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Numeri di tre cifre con 1,3,5 divisibili per 3'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 8

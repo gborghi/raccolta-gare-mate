@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Studenti con n primo e n^3+3 primo
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 15

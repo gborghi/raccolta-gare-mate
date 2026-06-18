@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: quadrilatero ciclico sse BA=BE
 answer: dimostrato
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 3

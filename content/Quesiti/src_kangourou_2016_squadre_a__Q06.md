@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Diagonale EF del rombo nel rettangolo 48x36
 answer: '45'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Semifinale A — Quesito 6

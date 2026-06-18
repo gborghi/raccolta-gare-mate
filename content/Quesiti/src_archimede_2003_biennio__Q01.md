@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: >-
   Segno (cavaliere/furfante/normale) di un abitante che afferma di essere
@@ -25,6 +26,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Lati di poligono regolare contenente triangolo con angolo 54
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Triennio (T1) — Quesito 7

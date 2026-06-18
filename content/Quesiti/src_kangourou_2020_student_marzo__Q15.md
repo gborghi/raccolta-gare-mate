@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Cifre del quadrato di un numero di 100 cifre
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Student - gara marzo (triennio) — Quesito 15

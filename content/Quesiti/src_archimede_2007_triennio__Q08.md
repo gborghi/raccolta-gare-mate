@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Semplificare (2^101+2^93)/(2^86+2^78)
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 8

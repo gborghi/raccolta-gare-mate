@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: viaggi rimanenti
 answer: 0088
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 9

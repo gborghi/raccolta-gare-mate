@@ -6,12 +6,14 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2024
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio (riserva)

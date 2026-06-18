@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: per quali n vera
 answer: (a) vera per n>=4; (b) falsa per n piccolo
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/nazionale
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # XXII Olimpiade Italiana Cesenatico 2006 — Quesito 5

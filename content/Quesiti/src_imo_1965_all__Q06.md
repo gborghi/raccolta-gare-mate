@@ -7,6 +7,7 @@ family: imo
 year: '1965'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Prove number of diameters of n-point set is at most n
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1965 (Seventh International Olympiad) — Quesito 6

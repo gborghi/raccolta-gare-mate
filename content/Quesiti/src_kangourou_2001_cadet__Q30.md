@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Sassolini da prendere per vincere
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Cadet (15 marzo) — Quesito 30

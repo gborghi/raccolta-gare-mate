@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Qual e il pezzo bianco del blocco
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2012 Ecolier (gara marzo) — Quesito 16

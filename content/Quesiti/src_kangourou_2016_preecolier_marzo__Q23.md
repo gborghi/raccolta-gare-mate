@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Simbolo sulla faccia opposta a quella con il simbolo dato
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 23

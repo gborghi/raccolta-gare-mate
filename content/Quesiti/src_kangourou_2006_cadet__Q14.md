@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Numero di alieni blu su STAR 1
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 14

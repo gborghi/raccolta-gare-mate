@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Probabilita di fuga colpito esattamente una volta su 4 tiri
 answer: '0257'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 16

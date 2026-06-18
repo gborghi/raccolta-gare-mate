@@ -7,6 +7,7 @@ family: imo
 year: '1973'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Minimize a^2+b^2 for quartic with a real root
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1973 (Fifteenth International Olympiad) — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Deduzione logica su extraterrestri verdi/rossi Marte/Venere
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Student — Quesito 7

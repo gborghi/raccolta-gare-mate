@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Sequenza di macchine per ottenere il risultato
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Ecolier (marzo) — Quesito 12

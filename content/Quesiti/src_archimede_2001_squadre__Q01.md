@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: 'cerchi e quadrati inscritti, raggio oltre 2001'
 answer: '0023'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 1

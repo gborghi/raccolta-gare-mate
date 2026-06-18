@@ -6,12 +6,14 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 n_quesiti: '17'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2022
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello

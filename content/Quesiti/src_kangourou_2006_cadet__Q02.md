@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Evento piu probabile nel lancio di un dado
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 2

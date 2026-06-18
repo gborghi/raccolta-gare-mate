@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Configurazioni gettoni con colonne non crescenti
 answer: '1715'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 9

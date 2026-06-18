@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: 'Probabilita Stregauss mandi dalla Lepre (5 dadi, p+q)'
 answer: '1143'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 13

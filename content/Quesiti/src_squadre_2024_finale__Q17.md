@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Lunghezza XY x100 con bisettrice e circonferenze circoscritte
 answer: 0802
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Finale Nazionale — Quesito 17

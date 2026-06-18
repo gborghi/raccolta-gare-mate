@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: 2016 somma di potenze di 2 consecutive
 answer: '45'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Finale — Quesito 11

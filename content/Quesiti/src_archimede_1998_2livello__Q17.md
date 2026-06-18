@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Determinare insieme X con f(M)=M e convergenza della successione
 answer: 'X={1..9,19}'
@@ -23,6 +24,7 @@ tags:
   - livello/2-livello
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 17

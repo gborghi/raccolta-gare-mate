@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: unico modo
 answer: '{n+1,...,2n} (unico)'
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B6
 summary: Spartizione equa degli 8 euro col problema dei punti
 answer: 7 e 1
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Finale nazionale Cervia — Quesito B6

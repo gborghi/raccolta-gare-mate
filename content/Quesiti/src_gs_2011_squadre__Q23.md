@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '23'
 summary: Numero triangoli ottusangoli con vertice al centro
 answer: '1408'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 23

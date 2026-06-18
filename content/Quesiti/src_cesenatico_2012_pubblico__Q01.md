@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Distanza percorsa nella piazza (triangolo isoscele)
 answer: '7120'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 1

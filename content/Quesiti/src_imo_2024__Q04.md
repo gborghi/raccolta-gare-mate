@@ -7,6 +7,7 @@ family: imo
 year: '2024'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Angolo KIL+YPX=180 (incerchio e tangenti)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2024 papers — Quesito 4

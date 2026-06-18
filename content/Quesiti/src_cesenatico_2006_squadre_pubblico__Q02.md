@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Piu grande x con cbrt(x+1184)-cbrt(x-1184)=4
 answer: '2912'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 2

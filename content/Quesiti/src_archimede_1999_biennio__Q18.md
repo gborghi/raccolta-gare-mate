@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Minimo numero di lampioni per tre strade parallele
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 18

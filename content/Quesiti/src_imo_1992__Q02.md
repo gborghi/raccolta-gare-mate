@@ -7,6 +7,7 @@ family: imo
 year: '1992'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Find all f with f(x^2+f(y))=y+f(x)^2
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1992
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1992 (33rd IMO, Moscow) — Quesito 2

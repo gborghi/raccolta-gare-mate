@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: 'Abbinamenti palline-cassetti con MCD(a,b)=1'
 answer: '3600'
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 13

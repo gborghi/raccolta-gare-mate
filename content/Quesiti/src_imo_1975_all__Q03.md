@@ -7,6 +7,7 @@ family: imo
 year: '1975'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: prove angle QRP=90 and QR=RP
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1975
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1975 (Seventeenth International Olympiad) — Quesito 3

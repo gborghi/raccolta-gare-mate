@@ -7,6 +7,7 @@ family: imo
 year: '2019'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: DI e PQ si incontrano su retta per A perp AI
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2019 papers — Quesito 6

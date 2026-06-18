@@ -6,12 +6,14 @@ family: archimede
 year: '2008'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2008
+  - gara/individuale
 ---
 
 # XXIV Olimpiade Italiana Cesenatico 2008

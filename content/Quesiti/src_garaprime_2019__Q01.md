@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Cifre binarie del prodotto delle prime 10 potenze di 8
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2019
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 1

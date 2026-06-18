@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Somma di tre cifre con 5 tratti orizzontali e 10 verticali
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Cadet 2024 — Quesito 21

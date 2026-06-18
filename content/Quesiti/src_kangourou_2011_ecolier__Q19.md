@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Come appare la costruzione di dadi vista da dietro
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2011 Ecolier (gara marzo) — Quesito 19

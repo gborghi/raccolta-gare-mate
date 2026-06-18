@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Centesimi in più di Claudia rispetto a Elena
 answer: 0930
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 14

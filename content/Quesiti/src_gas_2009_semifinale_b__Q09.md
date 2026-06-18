@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Spigoli minimi cancellati per cammino euleriano su icosaedro
 answer: '0005'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 9

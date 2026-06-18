@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Minimo numero di gettoni dopo tre scambi (macchina cambia-gettoni)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 24

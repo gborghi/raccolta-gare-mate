@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Cavalletta su griglia, valori possibili di n'
 answer: '3'
@@ -24,6 +25,7 @@ tags:
   - anno/2021
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2021 - 2° livello — Quesito 14

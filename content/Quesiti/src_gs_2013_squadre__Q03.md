@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Rapporto codici di tipo dato su totale
 answer: '2491'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Coppa Galileo 2013 - Gara a squadre — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Massimo combinazioni lucchetto con due cifre uguali
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 14

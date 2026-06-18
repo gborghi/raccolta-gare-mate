@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Probabilita di cubetto con due facce dipinte
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/probabilita
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 5

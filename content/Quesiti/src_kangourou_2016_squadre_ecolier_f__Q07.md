@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Distanza B-C tra quattro citta su strada
 answer: '50'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 7

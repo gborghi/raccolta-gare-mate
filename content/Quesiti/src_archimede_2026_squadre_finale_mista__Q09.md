@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Polinomi cubici monici radici e coefficienti cifra singola
 answer: '0122'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 9

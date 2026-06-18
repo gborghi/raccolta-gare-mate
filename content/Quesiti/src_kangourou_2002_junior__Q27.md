@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Area comune tra triangolo e quadrato
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Junior (21 marzo) — Quesito 27

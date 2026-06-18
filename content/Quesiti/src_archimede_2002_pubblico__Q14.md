@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: numero di biglie di ciascun colore
 answer: '0016'
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 14

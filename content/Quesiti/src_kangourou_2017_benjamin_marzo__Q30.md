@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Modi di colorare mappa di 4 regioni con 4 colori
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (gara marzo) — Quesito 30

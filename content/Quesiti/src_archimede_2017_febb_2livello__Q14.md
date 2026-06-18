@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Lunghezza EF con triangoli congruenti e angoli dati
 answer: '6'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2017 - 2 livello — Quesito 14

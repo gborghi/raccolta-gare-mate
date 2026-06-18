@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Ordinamenti di {21..81} con somme di 4 consecutivi divisibili per 3'
 answer: '144'
@@ -24,6 +25,7 @@ tags:
   - anno/2010
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 17

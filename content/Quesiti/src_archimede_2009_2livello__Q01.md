@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quanti interi n con √n a meno di 1 da √101
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 1

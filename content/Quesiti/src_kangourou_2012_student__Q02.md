@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Ore con livello dell'acqua sopra 30 cm dal grafico
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 2

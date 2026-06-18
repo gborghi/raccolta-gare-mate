@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: rapporto delle aree
 answer: 36/350 (cioe 36 al numeratore della frazione ridotta)
@@ -18,6 +19,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 23

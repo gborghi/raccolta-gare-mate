@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Costo dell'auto dato prestito e quote possedute
 answer: '0032'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 19

@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Numero di divisori di 2013 al quadrato
 answer: '27'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Finale — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Max interi <=100 distinti con prodotto non div per 54
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 gara 20 marzo Student — Quesito 25

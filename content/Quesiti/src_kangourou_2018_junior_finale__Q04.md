@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Massimo N con sacchi (algoritmo euclideo Fibonacci)
 answer: '0610'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2018 Finale Nazionale Junior — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: 'Primi p,q con pq=83333, calcolare p+2q'
 answer: '1165'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 15

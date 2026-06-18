@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quadrati in griglia 7x7 contenenti casella centrale
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 16

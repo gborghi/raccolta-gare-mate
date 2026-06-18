@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Colorazioni vertici pentagono senza asse di simmetria
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 8

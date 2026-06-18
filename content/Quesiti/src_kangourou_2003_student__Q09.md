@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Modi di ricoprire scacchiera con domino
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student (20 marzo) — Quesito 9

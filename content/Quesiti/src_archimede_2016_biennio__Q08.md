@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Massimo MCD di due numeri con prodotto 14000
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 8

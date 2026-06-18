@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Crittaritmetica con dieci lettere distinte
 answer: '7635'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre — Quesito 7

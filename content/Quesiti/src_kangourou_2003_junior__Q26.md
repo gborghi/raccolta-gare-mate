@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Max interi consecutivi con somma cifre non div 5
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Junior (20 marzo) — Quesito 26

@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Quale forma unendo i punti delle risposte 0-5
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Ecolier — Quesito 5

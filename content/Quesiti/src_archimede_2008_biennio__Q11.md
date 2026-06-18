@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Terne interi positivi soluzioni equazione quadratica
 answer: D
@@ -27,6 +28,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 11

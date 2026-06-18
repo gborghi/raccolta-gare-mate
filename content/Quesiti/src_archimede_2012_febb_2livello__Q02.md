@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Torneo calcio balilla, tempo che Marco gioca in difesa'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 2

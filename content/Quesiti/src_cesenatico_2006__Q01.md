@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: valore della carta di Rosa
 answer: '34'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/nazionale
   - topic/logica
+  - gara/individuale
 ---
 
 # XXII Olimpiade Italiana Cesenatico 2006 — Quesito 1

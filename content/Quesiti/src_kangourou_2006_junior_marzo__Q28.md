@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Modi di maturare 5-4 sempre in vantaggio
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior (marzo) — Quesito 28

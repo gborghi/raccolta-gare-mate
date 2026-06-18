@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J3
 summary: Numeri ab il cui quadrato finisce in ab (automorfi)
 answer: 'due: 25 e 76'
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Junior finale (maggio) — Quesito J3

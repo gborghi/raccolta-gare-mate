@@ -7,6 +7,7 @@ family: imo
 year: '1971'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Nonnegative-integer matrix with zero-sum condition has sum>=n^2/2
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1971
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1971 (Thirteenth International Olympiad) — Quesito 6

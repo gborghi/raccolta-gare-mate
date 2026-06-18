@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Numeri 2 cifre con prodotto cifre di una cifra
 answer: '0032'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 11

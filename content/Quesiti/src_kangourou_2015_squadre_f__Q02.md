@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Multipli di 9 con cinque cifre dispari (>=4 diverse)
 answer: '240'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Finale — Quesito 2

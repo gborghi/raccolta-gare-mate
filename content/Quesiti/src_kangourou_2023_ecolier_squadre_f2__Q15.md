@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Chilometri da A a B dato cartelli stradali
 answer: 0188
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 15

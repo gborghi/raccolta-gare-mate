@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Conteggio numeri quattro cifre con 5 cifra massima
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 9

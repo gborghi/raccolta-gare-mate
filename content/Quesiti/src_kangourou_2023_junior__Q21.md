@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: termine al posto 2023
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2023 Junior — Gara 16 marzo — Quesito 21

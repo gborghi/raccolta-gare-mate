@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: numero scelte
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Triennio — Quesito 20

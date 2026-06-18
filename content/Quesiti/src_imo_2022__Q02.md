@@ -7,6 +7,7 @@ family: imo
 year: '2022'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: R+->R+ con unica y soddisfacente
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2022
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 2022 papers — Quesito 2

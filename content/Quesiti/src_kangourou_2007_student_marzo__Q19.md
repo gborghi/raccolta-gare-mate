@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Grafico della funzione f a tratti
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2007 Student (marzo) — Quesito 19

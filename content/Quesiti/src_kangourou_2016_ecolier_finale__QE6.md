@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E6
 summary: Busta A o B piu conveniente rispondendo a caso
 answer: la busta A
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (finale Cervia) — Quesito E6

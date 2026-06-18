@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Radici di 2x^3-7x^2-2x+12 con 4a=3(b+c), calcolare a+bc'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 4

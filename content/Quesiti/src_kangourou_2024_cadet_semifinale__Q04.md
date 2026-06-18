@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Somma dei due numeri di Sofia da 5x+y=106
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Cadet 2024 — Quesito 4

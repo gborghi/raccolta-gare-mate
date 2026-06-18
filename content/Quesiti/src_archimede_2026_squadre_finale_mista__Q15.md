@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Minimo costo calcolatrice per due espressioni bilineari
 answer: 0109
@@ -21,6 +22,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 15

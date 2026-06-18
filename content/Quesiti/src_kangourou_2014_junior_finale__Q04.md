@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Strategie vincenti nel gioco delle due pile
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale Junior — Quesito 4

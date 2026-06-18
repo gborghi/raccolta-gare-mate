@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Somma max 3 cifre mult 4 e min 4 cifre mult 3
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Cadet — Gara 16 marzo — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Numero di cifre della somma di numeri triangolari fino a 1918
 answer: '0010'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 1

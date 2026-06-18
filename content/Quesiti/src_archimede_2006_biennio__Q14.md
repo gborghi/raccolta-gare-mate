@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Gettoni su scacchiera somma riga piu colonna
 answer: B
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: 'Differenza primo, prodotto quadrato perfetto, massimo primo p'
 answer: '19'
@@ -24,6 +25,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 13

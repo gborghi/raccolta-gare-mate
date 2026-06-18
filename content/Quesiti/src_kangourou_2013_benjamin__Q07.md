@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Ora della quarta pillola a quarti d'ora
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 7

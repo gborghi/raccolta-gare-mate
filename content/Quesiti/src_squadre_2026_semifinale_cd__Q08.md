@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Somma pesata di quadrati nei quadrati Q1..Q10
 answer: '1210'
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 8

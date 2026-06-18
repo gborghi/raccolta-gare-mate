@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Quale chiave non si taglia in tre pezzi uguali di 5 quadretti
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Ecolier — Quesito 23

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Griglia 11x11 ciliegi/peschi, condizioni di fioritura'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 16

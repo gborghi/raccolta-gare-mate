@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E4
 summary: Cifra finale del prodotto dei dispari tra 1 e 2012
 answer: '5'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E4

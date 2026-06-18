@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Quaterne interi positivi con x+y=ab e a+b=xy
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2018
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2018 - 2° livello — Quesito 10

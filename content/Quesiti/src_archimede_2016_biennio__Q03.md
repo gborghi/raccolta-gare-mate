@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: numero furfanti
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 3

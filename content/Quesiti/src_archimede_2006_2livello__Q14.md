@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Angolo fra spigoli non complanari di piramide a base quadrata
 answer: '120'
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/geometria_solida
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 14

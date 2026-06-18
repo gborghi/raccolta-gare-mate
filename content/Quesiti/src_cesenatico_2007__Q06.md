@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Massime costanti c_n e d_n in disuguaglianze con prodotto 1
 answer: '(a) c_n=1; (b) d_2=2/3, d_n=1 per n>=3'
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/nazionale
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 6

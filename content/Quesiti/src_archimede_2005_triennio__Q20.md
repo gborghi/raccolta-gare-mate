@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Cifra finale di a_2005 in una successione ricorsiva
 answer: A
@@ -22,6 +23,7 @@ tags:
   - anno/2005
   - livello/triennio
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 20

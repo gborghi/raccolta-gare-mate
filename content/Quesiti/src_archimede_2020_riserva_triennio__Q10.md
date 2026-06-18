@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Area triangolo EFG da bisettrici in triangolo CDE
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2020
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 10

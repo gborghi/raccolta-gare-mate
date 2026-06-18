@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Massimo colori per palline con stesso colore dei multipli
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Biennio — Quesito 16

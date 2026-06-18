@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Conteggio interi con k cifre dispari e quoziente n/5 simile
 answer: 3^(k-1)
@@ -24,6 +25,7 @@ tags:
   - anno/2006
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 16

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Massimo numero di cubi dalle tre viste
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin gara individuale — Quesito 29

@@ -7,6 +7,7 @@ family: imo
 year: '1964'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Provare volume ABCD un terzo di A1B1C1D0 nel tetraedro
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1964
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1964 (VI International Olympiad) — Quesito 6

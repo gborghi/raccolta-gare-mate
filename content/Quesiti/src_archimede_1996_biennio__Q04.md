@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Peso del secchio vuoto da sistema lineare sulla sabbia
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 4

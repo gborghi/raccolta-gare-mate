@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Punti di tangenza e griglia su piramide quadrata
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2000
   - livello/nazionale
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 2000 — Quesito 2

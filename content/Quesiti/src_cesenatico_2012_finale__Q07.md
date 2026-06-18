@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: n con aura 8128 (fattori a min differenza)
 answer: '4425'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 7

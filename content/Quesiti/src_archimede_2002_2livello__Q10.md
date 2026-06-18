@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Indovinello su latte e gara a squadre di matematica
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2002 — Quesito 10

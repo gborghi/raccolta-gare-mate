@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Modi di sedere 3 coppie di fratelli accanto
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 15

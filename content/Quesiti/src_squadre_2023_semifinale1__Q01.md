@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: 'Colorazioni lati pentagono con 3 colori, lati consecutivi diversi'
 answer: '0030'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 1 — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B3
 summary: Riempire griglia 6x6 con/senza numero in posizione speciale
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2020 Finale nazionale Benjamin — Quesito B3

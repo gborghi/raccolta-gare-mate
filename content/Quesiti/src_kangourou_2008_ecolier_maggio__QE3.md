@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E3
 summary: Massimo colori in 10 sacchetti distinti
 answer: '9'
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E3

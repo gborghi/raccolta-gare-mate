@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Infiniti primi che dividono 2^(n^3+1)-3^(n^2+1)+5^(n+1)
 answer: dimostrato
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 6

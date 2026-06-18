@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Minimo lato l affinche tre pizze stiano sul tavolo
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 3

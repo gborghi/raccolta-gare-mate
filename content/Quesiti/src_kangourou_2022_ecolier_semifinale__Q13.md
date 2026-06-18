@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Chilometri percorribili con la benzina nel serbatoio
 answer: '250'
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier semifinale individuale — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Tentativi massimi combinazione 7 cifre 1-4 senza singole
 answer: '3196'
@@ -24,6 +25,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 7

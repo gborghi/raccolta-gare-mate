@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B3
 summary: Lunghezza del rettangolo magico
 answer: '27'
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B3

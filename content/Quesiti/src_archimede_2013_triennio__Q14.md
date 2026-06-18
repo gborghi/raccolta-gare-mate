@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quale numero divide p(169)-p(1) per polinomio intero
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 14

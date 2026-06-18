@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C6
 summary: Somma prime sei cifre decimali di 2^2007/7
 answer: '27'
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Cadet finale (maggio) — Quesito C6

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Velocita aliena (sorpassi e incroci su pista)
 answer: '1250'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S5
 summary: Sequenza piu lunga di quadrati con differenze prime
 answer: lunghezza 7
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2004 Student finale nazionale — Quesito S5

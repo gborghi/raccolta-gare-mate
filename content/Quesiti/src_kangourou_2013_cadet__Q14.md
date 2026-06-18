@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quale sviluppo piano non forma un cubo
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 14

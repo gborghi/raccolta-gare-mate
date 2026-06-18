@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Numero piu probabile di chi conosceva la risposta
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2022 Cadet semifinale individuale — Quesito 7

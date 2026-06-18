@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Configurazioni di scambi di posto (poker)
 answer: '122'
@@ -24,6 +25,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 21

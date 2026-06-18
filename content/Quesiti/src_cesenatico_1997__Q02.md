@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: f dispari e periodica da condizioni simmetria
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1997
   - livello/nazionale
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1997 — Quesito 2

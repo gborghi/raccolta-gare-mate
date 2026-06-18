@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Modi di apparecchiare tavola rotonda con piatti bianchi e neri
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 20

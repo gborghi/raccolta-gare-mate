@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Conteggio triangoli in una costruzione su un rettangolo
 answer: '0016'
@@ -28,6 +29,7 @@ tags:
   - topic/geometria_piana
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 4

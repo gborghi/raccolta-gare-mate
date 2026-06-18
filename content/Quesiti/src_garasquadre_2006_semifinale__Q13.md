@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: angolo DAE
 answer: '0070'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 13

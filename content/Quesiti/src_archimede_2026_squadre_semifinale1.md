@@ -6,12 +6,14 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2026
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Semifinale 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Minimo n di operazioni per riottenere 7/8
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 23

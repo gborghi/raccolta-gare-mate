@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Massimo x con cubica radice(x+1184)-radice(x-1184)=4
 answer: '2912'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 2

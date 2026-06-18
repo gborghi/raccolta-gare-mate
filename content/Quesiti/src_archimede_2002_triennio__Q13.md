@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Area figura grigia con arco tangente in triangolo equilatero
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2002
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio — Quesito 13

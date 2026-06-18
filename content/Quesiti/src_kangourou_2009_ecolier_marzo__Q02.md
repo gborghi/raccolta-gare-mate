@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quanti cubetti ha portato via Anna
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 2

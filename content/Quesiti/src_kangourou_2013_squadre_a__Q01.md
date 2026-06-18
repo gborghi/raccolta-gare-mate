@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Numero operai prima dell'aumento ore di lavoro
 answer: '195'
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Semifinale A — Quesito 1

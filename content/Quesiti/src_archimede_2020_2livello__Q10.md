@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Gioco con pile di monete, chi perde'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2020 - 2° livello — Quesito 10

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Altezza scatola dato nastro regalo
 answer: '0105'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 4

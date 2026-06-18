@@ -7,6 +7,7 @@ family: imo
 year: '1978'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Locus of opposite vertex Q of perpendicular rays in sphere
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1978
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1978 (Twentieth International Olympiad) — Quesito 2

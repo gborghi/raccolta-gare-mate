@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Terne (a,b,c) interi positivi con a^2+2^(b+1)=3^c'
 answer: '(1,2,2) e (7,4,4)'
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 4

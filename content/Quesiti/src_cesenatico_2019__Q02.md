@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: se p+q^2 quadrato allora p^2+q^n non lo e'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Ultime 4 cifre di n nella differenza da 1/18
 answer: '3318'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 1 — Quesito 12

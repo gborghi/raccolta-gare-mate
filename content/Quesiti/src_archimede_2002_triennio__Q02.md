@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Percentuale di aumento per recuperare prezzo originario
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2002
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio — Quesito 2

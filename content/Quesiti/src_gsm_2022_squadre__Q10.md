@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Valore di r^5+5rs+s^5 dati r+s e r^4+s^4
 answer: '0006'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2022 — Quesito 10

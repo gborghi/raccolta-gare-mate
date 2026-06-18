@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Perche area di quadrato a vertici interi non puo essere 27
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student semifinale — Quesito 4

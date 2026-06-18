@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Rapporto aree triangolo interno PQR e ABC equilatero
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 19

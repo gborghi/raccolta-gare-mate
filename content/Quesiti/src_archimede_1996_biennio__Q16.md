@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Rapporto fra aree di triangoli equilateri inscritti
 answer: D
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 16

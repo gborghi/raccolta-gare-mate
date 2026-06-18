@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Area di ogni piastrella nel mosaico 360
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2011 Junior (gara marzo) — Quesito 6

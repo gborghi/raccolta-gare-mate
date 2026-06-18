@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: Multiplo di 11 piu vicino a 1000
 answer: '1001'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Ecolier (finale nazionale) — Quesito E1

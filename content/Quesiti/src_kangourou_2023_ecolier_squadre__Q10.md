@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Quanti interi 0..10 con quattro cifre 4
 answer: '0011'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 10

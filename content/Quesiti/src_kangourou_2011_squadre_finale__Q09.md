@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Minuti in piu di Felice rispetto a Marco
 answer: '30'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre finale — Quesito 9

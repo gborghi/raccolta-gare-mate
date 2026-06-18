@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Numero totale sorpassi tra i tre pattinatori
 answer: '19'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Finale — Quesito 8

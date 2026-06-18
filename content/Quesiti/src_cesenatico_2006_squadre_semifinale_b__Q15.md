@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Rapporto 320 B/A tra esagono e stella di David
 answer: 0480
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 15

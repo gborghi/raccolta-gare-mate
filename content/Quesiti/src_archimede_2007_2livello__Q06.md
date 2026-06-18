@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Minimo numeri pari scegliendo 50 numeri con somma 3000
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2007
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 6

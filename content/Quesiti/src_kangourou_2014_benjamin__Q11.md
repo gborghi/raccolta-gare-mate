@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Quanti bambini mangiano gelato oggi
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Benjamin — Quesito 11

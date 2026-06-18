@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Modi di comporre carovana di 18 animali senza adiacenti uguali
 answer: '6765'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 3

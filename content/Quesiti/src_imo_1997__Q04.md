@@ -7,6 +7,7 @@ family: imo
 year: '1997'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'none for n=1997, exist for infinitely many n'
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1997 (38th IMO, Mar del Plata) — Quesito 4

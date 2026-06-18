@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Probabilita che due tetraedri colorati siano indistinguibili
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 1

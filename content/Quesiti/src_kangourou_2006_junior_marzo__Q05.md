@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Minimo minuti perche numeri diventino multipli di 5
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior (marzo) — Quesito 5

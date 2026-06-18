@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S2
 summary: Esistono insiemi IMPERFETTI
 answer: si
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S2

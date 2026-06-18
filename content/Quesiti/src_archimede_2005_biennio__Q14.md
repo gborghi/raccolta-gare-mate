@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Numeri n con prodotto piu somma cifre uguale a n
 answer: B
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 14

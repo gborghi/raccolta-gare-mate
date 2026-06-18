@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Valore di 4x-1 con (x-7)^8=(x+4)^8
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 9

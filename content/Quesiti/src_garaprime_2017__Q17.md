@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Somma di 1965 e delle permutazioni delle sue cifre
 answer: A
@@ -25,6 +26,7 @@ tags:
   - anno/2017
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 17

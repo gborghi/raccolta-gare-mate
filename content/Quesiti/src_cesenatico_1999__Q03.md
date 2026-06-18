@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: AB passa per intersezione sse r1+r2=r (cerchi tangenti)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1999
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1999 — Quesito 3

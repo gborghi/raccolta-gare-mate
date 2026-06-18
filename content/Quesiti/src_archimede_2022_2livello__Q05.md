@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Tre divisori di 30 con MCD consecutivi primi
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 5

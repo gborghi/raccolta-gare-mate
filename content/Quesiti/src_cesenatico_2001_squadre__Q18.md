@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Dimensione del campo di Innaig dato il lavoro condiviso
 answer: '1250'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 18

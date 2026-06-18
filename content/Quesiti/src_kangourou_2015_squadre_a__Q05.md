@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Modi di comporre due squadre da 6 coppie di gemelli
 answer: '32'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Semifinale A — Quesito 5

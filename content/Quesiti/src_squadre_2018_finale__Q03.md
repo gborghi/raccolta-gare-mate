@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Somma N con sequenza tale che N^a0=somma di N^ai
 answer: '3034'
@@ -22,6 +23,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B3
 summary: Due tra 10 interi con somma o differenza divisibile per 10
 answer: si
@@ -24,6 +25,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 Benjamin finale (maggio) — Quesito B3

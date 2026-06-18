@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: morso vincente da 27cm
 answer: A
@@ -23,6 +24,7 @@ tags:
   - comp/archimede
   - anno/2016
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2016 — Quesito 5

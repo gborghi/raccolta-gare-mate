@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Ora di risveglio con differenza di fuso orario
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 14

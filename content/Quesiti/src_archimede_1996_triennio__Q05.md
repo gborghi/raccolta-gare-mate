@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Lunghezza complessiva delle sbarre di un oblo
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E4
 summary: Pesi delle etichette ancora da preparare
 answer: '810,540'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E4

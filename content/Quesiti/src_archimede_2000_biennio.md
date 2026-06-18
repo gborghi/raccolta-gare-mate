@@ -6,12 +6,14 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2000
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio

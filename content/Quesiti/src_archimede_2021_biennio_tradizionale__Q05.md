@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Quale prodotto di potenze e quadrato di un intero
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 5

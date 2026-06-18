@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Area della croce bianca nella bandiera
 answer: '2157'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 4

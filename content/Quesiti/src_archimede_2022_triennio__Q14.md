@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Numero di k con polinomio avente radice intera positiva
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 14

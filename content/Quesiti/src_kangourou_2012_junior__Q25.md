@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: In quanti modi tornare a casa in 13 salti
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 Junior (gara marzo) — Quesito 25

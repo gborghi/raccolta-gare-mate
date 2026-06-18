@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E6
 summary: quante volte gracchia l'ultima in un'ora
 answer: '6'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Ecolier — Quesito E6

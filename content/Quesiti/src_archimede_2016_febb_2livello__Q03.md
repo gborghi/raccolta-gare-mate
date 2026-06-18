@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Sistema con parti intere e frazionarie, calcolare x+y+z'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Somma N di tre cifre con ultime tre cifre di N^3 = 888
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2007
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 10

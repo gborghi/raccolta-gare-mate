@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quanti triangoli si vedono nella figura
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Ecolier — Quesito 9

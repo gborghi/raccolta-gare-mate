@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Somma lunghezze 4 segmenti paralleli ad AC
 answer: '0016'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Semifinale A — Quesito 11

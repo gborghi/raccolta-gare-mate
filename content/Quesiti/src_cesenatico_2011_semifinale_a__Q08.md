@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Mattonelle triangolari per ricoprire piramide
 answer: '1352'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 8

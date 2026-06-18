@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Per quanti minuti ore e minuti sono quadrati perfetti
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 11

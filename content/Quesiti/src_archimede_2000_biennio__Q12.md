@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Differenza lato tra due depositi cubici dato volume
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/biennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 12

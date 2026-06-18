@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Coppie (m,n) con m^n = 2^12'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 3

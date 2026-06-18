@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Tutte le soluzioni intere di a³+b³=91
 answer: '(6,-5),(-5,6),(3,4),(4,3)'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001 — Quesito 17

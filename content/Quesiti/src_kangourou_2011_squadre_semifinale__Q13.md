@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Partite totali con 20% squadre senza vittorie
 answer: '20'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Somma delle aree di tutti i triangoli su vertici dell'esagono
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 10

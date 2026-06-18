@@ -7,6 +7,7 @@ family: imo
 year: '1989'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: More permutations of 1..2n with property P than without
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1989
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1989 (30th IMO, Braunschweig) — Quesito 6

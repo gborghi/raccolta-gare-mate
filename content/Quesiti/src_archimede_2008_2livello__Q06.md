@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quanti paggi sull'isola dato affermazioni in due giorni
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 6

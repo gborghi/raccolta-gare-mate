@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Lato del quadrato piu grande (rettangolo in 6 quadrati)
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior (marzo) — Quesito 13

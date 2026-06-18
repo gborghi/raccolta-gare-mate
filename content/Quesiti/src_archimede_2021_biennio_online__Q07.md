@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Cavalieri e furfanti nelle file dell'ufficio postale
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 7

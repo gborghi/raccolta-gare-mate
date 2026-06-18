@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Modi di colorare due celle per collegare A a B
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2020 Pre - gara marzo — Quesito 19

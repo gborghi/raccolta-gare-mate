@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Modi di comporre 1 euro con monete da 1,2,5 centesimi'
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 16

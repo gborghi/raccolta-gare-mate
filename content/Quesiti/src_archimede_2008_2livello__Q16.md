@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Q punto medio di AP è ortocentro di ADE
 answer: dimostrazione
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 16

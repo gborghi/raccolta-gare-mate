@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Valore di A+B+C+D+E somma di 5 numeri a tre cifre
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Student - gara marzo (triennio) — Quesito 5

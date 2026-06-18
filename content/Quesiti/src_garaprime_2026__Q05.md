@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Modi di suddividere un rettangolo in 4 triangoli di area 1
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2026
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 5

@@ -7,6 +7,7 @@ family: imo
 year: '1984'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Tangent circle on AB diameter iff BC parallel AD
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1984
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1984 (25th International Mathematical Olympiad) — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Numero cifre concatenando i naturali da 1 a 2010
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 13

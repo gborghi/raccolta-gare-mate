@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: Verita affermazioni su numero in posizione speciale griglia 6x6
 answer: aF bV cV
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2020 Finale nazionale Cadet — Quesito C4

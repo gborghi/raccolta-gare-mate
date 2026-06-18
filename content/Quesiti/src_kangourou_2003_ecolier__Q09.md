@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Cubetti blu interni al mattone
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2003 Ecolier (20 marzo) — Quesito 9

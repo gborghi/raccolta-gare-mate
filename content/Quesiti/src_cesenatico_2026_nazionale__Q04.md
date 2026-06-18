@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Dimostrare che angolo AFD e retto
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2026
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 4

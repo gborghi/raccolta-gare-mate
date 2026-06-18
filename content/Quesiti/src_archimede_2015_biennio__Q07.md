@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Area triangolo DEF da punti medi in triangolo ABC
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2015
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Biennio — Quesito 7

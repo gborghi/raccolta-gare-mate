@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Somma successione tipo Fibonacci con primo 34 ultimo 0
 answer: C
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 11

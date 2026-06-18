@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Quarte potenze con 1 o 6 come cifra unita
 answer: 0800
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Finale — Quesito 10

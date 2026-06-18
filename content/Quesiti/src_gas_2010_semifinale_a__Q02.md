@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Conteggio bugiardi in cerchio con affermazioni sui vicini
 answer: '0670'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale A — Quesito 2

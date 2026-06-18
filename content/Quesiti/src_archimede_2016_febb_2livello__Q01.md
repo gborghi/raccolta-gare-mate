@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Minimo numero di transazioni perche tutti paghino uguale
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/2-livello
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 1

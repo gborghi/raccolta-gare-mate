@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Proprieta di un insieme di interi con regola di chiusura
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/insiemi_funzioni
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 13

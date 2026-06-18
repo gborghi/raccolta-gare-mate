@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Numero in griglia 3x3 con somme 2x2 uguali
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Gara 16 marzo — Quesito 21

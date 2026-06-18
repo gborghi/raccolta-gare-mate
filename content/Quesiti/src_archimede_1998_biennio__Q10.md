@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Relazione fra volumi e superfici di tre sfere
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 10

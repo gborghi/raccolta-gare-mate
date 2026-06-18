@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Affermazione vera su lunghezza sequenza con somme di segno
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 12

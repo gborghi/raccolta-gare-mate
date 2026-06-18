@@ -6,12 +6,14 @@ family: imo
 year: '1986'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1986
+  - gara/individuale
 ---
 
 # IMO 1986 (27th IMO, Warsaw)

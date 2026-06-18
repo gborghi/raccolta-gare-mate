@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Piu piccolo intero con somma cifre 100
 answer: '199999999999'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Benjamin finale — Quesito B1

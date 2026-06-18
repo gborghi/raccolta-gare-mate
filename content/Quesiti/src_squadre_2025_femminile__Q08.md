@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Triangoli rettangoli da 20 rette in 4 direzioni
 answer: '500'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 8

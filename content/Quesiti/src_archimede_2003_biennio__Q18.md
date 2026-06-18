@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Triangoli non degeneri con vertici in sei punti dati
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 18

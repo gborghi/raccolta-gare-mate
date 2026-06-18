@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Rapporto fra superficie bianca e nera di un pavimento
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 13

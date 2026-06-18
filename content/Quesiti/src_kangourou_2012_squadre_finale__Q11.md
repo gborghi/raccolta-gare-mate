@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: 'Lunghezza del treno (Giacomo 45m, Luca 30m)'
 answer: '180'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 11

@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Ricavo dato prodotto 71685 con cifre scambiate
 answer: '531'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A — Quesito 13

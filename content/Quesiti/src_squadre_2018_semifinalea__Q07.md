@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Coppie di polinomi grado 4 con un coefficiente dispari nel prodotto
 answer: '8975'
@@ -22,6 +23,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 7

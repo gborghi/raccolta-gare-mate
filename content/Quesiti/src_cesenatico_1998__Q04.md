@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: BC^2=CD·CE in trapezio con diagonali perpendicolari
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1998
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1998 — Quesito 4

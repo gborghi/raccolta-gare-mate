@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Numeri da 1 a 1000 multipli di 5, 6 e 9'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Primo tra 11^2 e 12^2 somma di due quadrati
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2021
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 1

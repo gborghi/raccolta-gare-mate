@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Numero partecipanti cavalieri e furfanti attorno a tavolo
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Biennio — Quesito 12

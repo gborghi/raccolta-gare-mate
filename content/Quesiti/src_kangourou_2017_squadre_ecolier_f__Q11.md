@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Quale numero corrisponde a quante volte e scritto
 answer: '3'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 11

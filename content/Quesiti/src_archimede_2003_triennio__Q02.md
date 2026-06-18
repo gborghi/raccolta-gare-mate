@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'lettere automobilistiche da 2 a 4 lettere, conteggio'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 2

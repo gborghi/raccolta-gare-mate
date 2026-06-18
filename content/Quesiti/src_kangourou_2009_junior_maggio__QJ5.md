@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Massimi vertici rossi con distanze diverse (21-agono)
 answer: '5'
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J5

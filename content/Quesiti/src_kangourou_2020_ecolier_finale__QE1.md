@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: Quante mosse complete con 1000 spilli (gioco a tre per spillo)
 answer: '6'
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Finale nazionale Ecolier — Quesito E1

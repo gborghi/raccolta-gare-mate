@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Percorso piu lungo nei 9 vialetti del parco
 answer: '700'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 4

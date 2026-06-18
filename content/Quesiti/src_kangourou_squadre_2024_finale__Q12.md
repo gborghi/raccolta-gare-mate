@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Somma dei numeri nella 25a riga di schema triangolare
 answer: '7825'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 12

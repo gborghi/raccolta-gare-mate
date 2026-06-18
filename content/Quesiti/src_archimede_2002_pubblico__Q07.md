@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: probabilita di una giacca blu
 answer: '0060'
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/gara-del-pubblico
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 7

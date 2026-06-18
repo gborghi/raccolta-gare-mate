@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Esiste persona con almeno 85% della ricchezza
 answer: dimostrazione
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/disuguaglianze
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S6

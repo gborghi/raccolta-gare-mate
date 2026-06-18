@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: una sola affermazione vera su euro di Lisa
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student semifinale individuale — Quesito 1

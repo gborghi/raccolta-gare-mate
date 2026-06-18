@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Probabilita che almeno 2 punti fissi in rotazione del cubo
 answer: '0024'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Gara del Pubblico — Quesito 2

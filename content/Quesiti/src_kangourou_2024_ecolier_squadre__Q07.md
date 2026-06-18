@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Minima somma cinque interi con vincolo terne
 answer: '0035'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/disuguaglianze
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 7

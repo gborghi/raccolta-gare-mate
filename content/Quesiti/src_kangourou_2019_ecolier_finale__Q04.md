@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Sequenze vincenti testa o croce sei lanci
 answer: '0012'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale Nazionale Ecolier — Quesito 4

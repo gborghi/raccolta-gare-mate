@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Ottavo divisore in ordine decrescente di 646400
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2020
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: 'Cifre A,B con [3(2022+A)]^2 dato'
 answer: '0042'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 6

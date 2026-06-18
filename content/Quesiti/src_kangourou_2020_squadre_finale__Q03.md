@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Tra quanti numeri deve indovinare Dario la somma
 answer: '0101'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 3

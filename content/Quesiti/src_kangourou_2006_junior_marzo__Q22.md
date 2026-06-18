@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Proprieta del prodotto p (tre numeri somma 20)
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior (marzo) — Quesito 22

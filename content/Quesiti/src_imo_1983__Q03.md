@@ -7,6 +7,7 @@ family: imo
 year: '1983'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Largest integer not representable as nonnegative combination (Frobenius)
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1983
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1983 (24th International Mathematical Olympiad) — Quesito 3

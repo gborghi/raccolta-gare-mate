@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: In quanti modi annerire due quadretti per un solo asse
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Cadet 2024 — Quesito 22

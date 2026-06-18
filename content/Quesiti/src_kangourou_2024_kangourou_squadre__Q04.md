@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Minimo e massimo k per triangolo lati 60,k,2k'
 answer: '2159'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 4

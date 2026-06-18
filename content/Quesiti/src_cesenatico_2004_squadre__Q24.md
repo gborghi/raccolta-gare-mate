@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '24'
 summary: Minimo prodotto di fattoriali da eliminare per rendere K quadrato
 answer: '0010'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 24

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Di quale figura parla Marina (grigia rotonda o triangolare)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Ecolier (gara marzo) — Quesito 5

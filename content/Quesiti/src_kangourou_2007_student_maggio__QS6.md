@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Trovare il sacchetto falso con tre pesate
 answer: strategia 3 pesate
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Student finale (maggio) — Quesito S6

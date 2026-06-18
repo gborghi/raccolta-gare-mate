@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Allineamenti diversi sopprimendo lettere ANCONA
 answer: '0057'
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Junior Finale 1 — Quesito 9

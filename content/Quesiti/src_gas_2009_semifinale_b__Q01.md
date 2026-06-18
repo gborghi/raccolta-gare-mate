@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: 'Coincidenza cicli veglia-sonno, settimane e affitto'
 answer: '0630'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 1

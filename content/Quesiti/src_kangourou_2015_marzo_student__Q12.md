@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Parti del piano divise da asse x e due parabole
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Student — Quesito 12

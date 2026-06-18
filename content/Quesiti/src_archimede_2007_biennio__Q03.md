@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quanti supplementi venduti da incasso totale
 answer: C
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 3

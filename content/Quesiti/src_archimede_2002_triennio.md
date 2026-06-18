@@ -6,12 +6,14 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '25'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2002
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio

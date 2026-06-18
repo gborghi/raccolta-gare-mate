@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B2
 summary: Su quale dito cade il conteggio 999
 answer: medio
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Benjamin finale — Quesito B2

@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '24'
 summary: Probabilita che Hardy vinca la nona partita (lancio moneta)
 answer: '9842'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 24

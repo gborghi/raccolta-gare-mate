@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C2
 summary: minimo gettoni
 answer: '5'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2023 Cadet — Finale (risposta aperta) — Quesito C2

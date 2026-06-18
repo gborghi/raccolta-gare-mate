@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Massimo punti sulla torre di dadi
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Benjamin (15 marzo) — Quesito 25

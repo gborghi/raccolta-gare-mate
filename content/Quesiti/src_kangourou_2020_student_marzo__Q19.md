@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Area del rettangolo con circonferenza tangente
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2020 Student - gara marzo (triennio) — Quesito 19

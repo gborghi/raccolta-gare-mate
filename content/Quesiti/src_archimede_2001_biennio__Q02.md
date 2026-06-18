@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Minimo calzini da prendere per una coppia stesso colore
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2001
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 2

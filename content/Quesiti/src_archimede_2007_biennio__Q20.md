@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Rapporto volumi del cubo tagliato da un piano APD
 answer: B
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 20

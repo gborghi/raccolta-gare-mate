@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Voto al quinto compito per ottenere la media del 7
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 4

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C1
 summary: Minimo numero di problemi per cinque categorie con vincoli di punteggio
 answer: '10'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C1

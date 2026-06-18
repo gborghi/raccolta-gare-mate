@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Area triangolo con bisettrice e condizione AD=BD+DC
 answer: '0336'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 16

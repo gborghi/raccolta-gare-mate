@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Numero dadi unitari con tutti e tre i colori (assemblaggio)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 7

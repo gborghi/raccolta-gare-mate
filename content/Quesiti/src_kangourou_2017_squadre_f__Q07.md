@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: 'Superficie minima incollando cubi 1, 8 e 27'
 answer: '72'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2017 Finale — Quesito 7

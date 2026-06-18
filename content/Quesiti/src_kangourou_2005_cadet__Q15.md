@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quale non e sviluppo piano di un cubo
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (marzo) — Quesito 15

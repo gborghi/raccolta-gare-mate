@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Massimo numero di facce arancioni con probabilita stesso colore 50%
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 5

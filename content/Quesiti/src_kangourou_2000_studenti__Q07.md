@@ -7,6 +7,7 @@ family: kangourou
 year: '2000'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Minore di 7 dispari consecutivi con somma 119
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2000 - 3 maggio (individuale) — Quesito 7

@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Probabilita di estrarre la pallina 8 dopo le operazioni
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2017 - 2 livello — Quesito 11

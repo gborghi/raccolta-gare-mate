@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Somma lunghezze dei due spigoli mancanti di una piramide
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 11

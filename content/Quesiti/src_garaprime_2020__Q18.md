@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Somma dei reciproci dei divisori di 6300
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2020
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 18

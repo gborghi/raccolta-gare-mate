@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: In quanti modi si dispongono Laura Maria Nadia Oreste
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 Ecolier (gara marzo) — Quesito 20

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Fiorini persi per ogni rosa (icosaedro+raso)
 answer: '8094'
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 17

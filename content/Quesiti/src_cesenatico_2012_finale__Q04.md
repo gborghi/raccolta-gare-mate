@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Passi totali nell'inseguimento sull'equatore
 answer: 0961
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 4

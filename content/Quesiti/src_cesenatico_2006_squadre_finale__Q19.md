@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Probabilita disposizione 4 persone su 2 file (vedono bene)
 answer: 0029
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 19

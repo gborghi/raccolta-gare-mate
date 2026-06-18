@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: 'Numero libri di Elisabetta (romanzo,poesia,scienza)'
 answer: '6'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/insiemi_funzioni
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 15

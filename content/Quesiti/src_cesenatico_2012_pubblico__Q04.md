@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Quanti n con mcm(1..n)=mcm(1..n-1)
 answer: '8719'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 4

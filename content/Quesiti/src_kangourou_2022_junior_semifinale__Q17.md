@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Polinomi a coeff interi con radice 1+√2, min somma |coeff|'
 answer: '4'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior — Semifinale individuale — Quesito 17

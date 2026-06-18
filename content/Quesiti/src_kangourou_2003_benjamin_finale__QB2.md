@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B2
 summary: Tempo per il giro dell'aiuola
 answer: 5 minuti
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B2

@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Cifra delle unita di 150X con esattamente un manoscritto falso
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 2

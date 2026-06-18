@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: 'Crittoaritmo KAN+GA=ROO, valore RN-KG'
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 28

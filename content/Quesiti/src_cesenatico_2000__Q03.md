@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Sequenza geocaching Alberto e Barbara
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2000
   - livello/nazionale
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 2000 — Quesito 3

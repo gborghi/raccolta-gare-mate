@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Numero di cifre di 2001 in base due
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2001
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 16

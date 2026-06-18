@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Max oro nelle due statue (pesi e vincoli)
 answer: '0507'
@@ -23,6 +24,7 @@ tags:
   - livello/nazionale
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 6

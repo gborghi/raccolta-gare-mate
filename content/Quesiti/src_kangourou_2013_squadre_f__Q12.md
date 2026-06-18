@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Intero piu vicino a 1000(x-y) tra due somme
 answer: '5238'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Finale — Quesito 12

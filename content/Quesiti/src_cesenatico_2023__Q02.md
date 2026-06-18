@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: stabilita e minimo k
 answer: k=2n+1
@@ -24,6 +25,7 @@ tags:
   - anno/2023
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 2

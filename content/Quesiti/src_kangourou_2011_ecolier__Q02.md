@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Da quale numero era partita Elisa
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2011 Ecolier (gara marzo) — Quesito 2

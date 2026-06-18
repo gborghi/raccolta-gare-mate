@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Massimo MCD d_n permutando cifre di n
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1997 — Quesito 5

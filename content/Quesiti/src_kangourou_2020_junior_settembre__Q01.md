@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Tragitto minimo tra due punti toccando l'asse y
 answer: '2020'
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Junior - finale settembre — Quesito 1

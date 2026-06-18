@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Area triangolo HCD da segmenti in un quadrato
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio — Quesito 23

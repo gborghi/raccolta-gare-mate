@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Rapporto velocita monorotaie da tempi vicinanza
 answer: '3'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Coppa Fermat 2009 - Gara a squadre — Quesito 17

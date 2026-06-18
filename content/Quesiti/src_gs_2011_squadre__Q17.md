@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Implicazioni tra risposte positive (logica)
 answer: '0015'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 17

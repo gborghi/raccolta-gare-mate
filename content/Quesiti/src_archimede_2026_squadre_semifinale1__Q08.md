@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Somma n con K_n=729 in successione ricorsiva geometrica
 answer: '0016'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 8

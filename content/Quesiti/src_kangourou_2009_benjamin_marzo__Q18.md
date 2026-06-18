@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Chi ha vinto la gara (somma piazzamenti)
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 18

@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: 'Probabilita evitare caselle (k,k+2) su griglia 2024'
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 7

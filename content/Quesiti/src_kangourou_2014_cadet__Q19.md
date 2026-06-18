@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Quante monete c'erano nel forziere
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 19

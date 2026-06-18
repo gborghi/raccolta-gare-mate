@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Valore q(4) del polinomio con radici i quadrati delle radici di p
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 9

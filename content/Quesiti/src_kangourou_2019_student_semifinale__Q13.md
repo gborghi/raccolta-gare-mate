@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Minimo celle da annerire griglia 6x2019 (dominio connesso)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Student — Quesito 13

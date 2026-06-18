@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Area triangolo A'B'C' in triangolo rettangolo dato
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 16

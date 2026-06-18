@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Resto per 5 del prodotto di quattro numeri
 answer: '0001'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 15

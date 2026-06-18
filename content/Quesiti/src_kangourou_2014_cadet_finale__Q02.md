@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quanti primi p con 4p+1 quadrato perfetto
 answer: 1 (p=2)
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale Cadet — Quesito 2

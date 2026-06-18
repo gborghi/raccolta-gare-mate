@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Quanti numeri 10..99 con somma cifre pari
 answer: '0045'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 8

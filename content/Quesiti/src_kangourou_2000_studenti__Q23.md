@@ -7,6 +7,7 @@ family: kangourou
 year: '2000'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Minimo numero di giudici per media 5.625
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2000 - 3 maggio (individuale) — Quesito 23

@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Ultime quattro cifre di a2011 in successione moltiplicativa
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 24

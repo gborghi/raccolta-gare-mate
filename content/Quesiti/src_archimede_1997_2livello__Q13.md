@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Probabilità che il gioco con gettoni non si interrompa
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 13

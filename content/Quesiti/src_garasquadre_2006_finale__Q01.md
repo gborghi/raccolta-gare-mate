@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: numero nella colonna grigia
 answer: 0793
@@ -19,6 +20,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Finale — Quesito 1

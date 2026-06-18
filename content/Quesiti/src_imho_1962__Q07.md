@@ -7,6 +7,7 @@ family: imo
 year: '1962'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Tetraedro con cinque sfere tangenti agli spigoli e regolarita
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1962
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1962 (IV International Olympiad) — Quesito 7

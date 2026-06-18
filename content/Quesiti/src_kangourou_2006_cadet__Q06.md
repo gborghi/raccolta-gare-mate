@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Centilitri rimasti nella bottiglietta dopo aver versato
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Cadet (marzo) — Quesito 6

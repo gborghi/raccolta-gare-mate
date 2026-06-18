@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Vertici incontrati dalle diagonali di rettangolo 350x210
 answer: '0143'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 7

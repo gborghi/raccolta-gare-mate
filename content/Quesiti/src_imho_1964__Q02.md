@@ -7,6 +7,7 @@ family: imo
 year: '1964'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Provare a^2(b+c-a)+...<=3abc per lati di triangolo
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1964 (VI International Olympiad) — Quesito 2

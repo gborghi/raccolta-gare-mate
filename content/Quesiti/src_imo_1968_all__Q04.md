@@ -7,6 +7,7 @@ family: imo
 year: '1968'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Every tetrahedron has a vertex whose edges form a triangle
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1968
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1968 (Tenth International Olympiad) — Quesito 4

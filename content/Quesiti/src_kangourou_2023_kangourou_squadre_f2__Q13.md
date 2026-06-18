@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Modi di leggere BANANA nella tabella
 answer: 0084
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 13

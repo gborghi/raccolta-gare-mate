@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Ordine di arrivo nella gara di corsa
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Junior (gara marzo) — Quesito 12

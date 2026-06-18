@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Spettro del polinomio (x-2)(x+2)(x^2+x+1)(x^2-x+1)
 answer: '2530'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Finale Nazionale — Quesito 16

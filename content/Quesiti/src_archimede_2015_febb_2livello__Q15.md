@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: vittorie con mosse -3 o meta
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 15

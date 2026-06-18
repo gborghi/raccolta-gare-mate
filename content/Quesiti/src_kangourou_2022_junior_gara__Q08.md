@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Diagramma dei tempi dopo aver dimezzato due materie
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior gara individuale — Quesito 8

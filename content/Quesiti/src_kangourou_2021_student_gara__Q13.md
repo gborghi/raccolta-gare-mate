@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quanti numeri di 3 cifre invertiti aumentano di 99
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 13

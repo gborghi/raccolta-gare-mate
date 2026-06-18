@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: quale ora dà l'angolo acuto minore
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2023 Benjamin — Semifinale individuale — Quesito 8

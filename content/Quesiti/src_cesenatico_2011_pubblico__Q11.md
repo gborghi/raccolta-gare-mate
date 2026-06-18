@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Numero spie tra operai (affermazioni cicliche)
 answer: '5049'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/gara-del-pubblico
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 11

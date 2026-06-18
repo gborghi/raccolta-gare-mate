@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Interi n per cui somma di potenze semintere è intera
 answer: '6'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 14

@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Quanti punteggi diversi con due frecce
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 17

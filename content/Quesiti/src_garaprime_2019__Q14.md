@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Coppie (a,b) divisori di 60060 con MCD=6'
 answer: A
@@ -25,6 +26,7 @@ tags:
   - anno/2019
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 14

@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Terne di punti allineati tra 27 punti del cubo
 answer: '49'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Finale — Quesito 13

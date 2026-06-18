@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'a|b e a+1|b+1, dimostrazione'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 15

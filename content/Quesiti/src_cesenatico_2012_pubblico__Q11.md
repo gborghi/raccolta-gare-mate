@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Chi mente tra 5 saggi e proprieta acqua
 answer: '5110'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 11

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Distanza luce per dato rapporto superfici illuminata/ombra cubo
 answer: '8041'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Gara del Pubblico — Quesito 6

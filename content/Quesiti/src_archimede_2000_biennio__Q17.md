@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Probabilita tre vertici esagono formino triangolo equilatero
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 17

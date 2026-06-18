@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: circonferenza per EFG tangente ad AC
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2022
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 2

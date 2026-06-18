@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Perche un quadrato a coordinate intere non puo avere area 27
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Junior 2024 — Quesito 8

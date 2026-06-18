@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Numero la cui decima parte eguaglia dieci volte il suo quadrato
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 4

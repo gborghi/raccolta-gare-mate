@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Coppie ordinate intere con prodotto 15
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 4

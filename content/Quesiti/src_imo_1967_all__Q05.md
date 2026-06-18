@@ -7,6 +7,7 @@ family: imo
 year: '1967'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Find all n with c_n=0 given infinitely many zero power sums
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1967 (Ninth International Olympiad) — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 140 Pollici in Spanne
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2019
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 9

@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Modi di comprare 3 case non adiacenti tra 10 in fila
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2017 - 2 livello — Quesito 6

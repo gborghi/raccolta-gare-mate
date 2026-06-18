@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Quante pere se ci sono 25 mele sugli alberi
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (gara marzo) — Quesito 19

@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J1
 summary: 'Comprare gelato da 2 kang con 2 euro, minimo cambi'
 answer: 'si, 40'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (finale Cervia) — Quesito J1

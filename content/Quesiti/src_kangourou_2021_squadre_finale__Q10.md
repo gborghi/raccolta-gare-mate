@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Quanti interi da 1 a 2021 senza la cifra 6
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 10

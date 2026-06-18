@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Zeri finali del prodotto nello schema triangolare
 answer: A
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 16

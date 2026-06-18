@@ -7,6 +7,7 @@ family: imo
 year: '2014'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Colorare radice-n rette senza regione blu
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # IMO 2014 (shortlist/papers) — Quesito 6

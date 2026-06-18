@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Numero al 126-mo posto della sequenza di sole cifre pari
 answer: '2002'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Semifinale A — Quesito 14

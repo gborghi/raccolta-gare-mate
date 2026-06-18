@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Cartoline totali da condizioni di divisibilita
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 19

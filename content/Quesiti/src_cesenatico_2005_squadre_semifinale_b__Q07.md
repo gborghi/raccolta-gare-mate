@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Misura dell'angolo CAD nel quadrilatero con angoli dati
 answer: '0030'
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 7

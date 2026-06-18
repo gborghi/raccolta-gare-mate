@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Massimo divisore di n^5-5n^3+4n per n>=3
 answer: D
@@ -27,6 +28,7 @@ tags:
   - topic/aritmetica
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 12

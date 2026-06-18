@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Area del rombo da rettangolo piegato
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2004 Junior (18 marzo) — Quesito 22

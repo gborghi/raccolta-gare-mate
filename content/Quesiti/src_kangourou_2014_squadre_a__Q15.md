@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Somma di quattro interi consecutivi con prodotto 358800
 answer: '98'
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Semifinale A — Quesito 15

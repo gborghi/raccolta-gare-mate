@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Somma secondi termini comuni progressioni
 answer: '9994'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Junior Finale 2 — Quesito 14

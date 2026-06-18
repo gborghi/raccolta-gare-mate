@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Prossima data futura con tre 5
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 14

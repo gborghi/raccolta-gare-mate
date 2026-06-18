@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Massima distanza tra capanne in una corona circolare
 answer: D
@@ -27,6 +28,7 @@ tags:
   - livello/biennio
   - topic/geometria_piana
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 5

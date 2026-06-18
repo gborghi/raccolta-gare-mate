@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Massimo valore di 3-2x dato (5-4x)(5x-4)=0
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 2

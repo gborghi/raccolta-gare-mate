@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Prime quattro cifre della sequenza multipli di 17 o 23
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (semifinale individuale) — Quesito 17

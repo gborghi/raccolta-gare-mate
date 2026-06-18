@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Sequenze binarie di lunghezza 8 contenenti 01
 answer: D
@@ -24,6 +25,7 @@ tags:
   - anno/2018
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2018 - 2° livello — Quesito 2

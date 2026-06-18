@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: In quanti modi ripartire 1..8 in coppie con differenza costante
 answer: '0003'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Ecolier 2024 — Quesito 14

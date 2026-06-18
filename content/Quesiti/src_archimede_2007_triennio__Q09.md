@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Giorni alla prossima Festa del Pianeta su Uru
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 9

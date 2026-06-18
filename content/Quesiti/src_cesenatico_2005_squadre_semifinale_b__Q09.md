@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Modi di distribuire 27 caramelle a tre con esattamente due tipi
 answer: '7104'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 9

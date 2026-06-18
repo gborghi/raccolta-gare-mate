@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E2
 summary: Nome del giocatore di basket tra tre sportivi
 answer: Alberto
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (finale Cervia) — Quesito E2

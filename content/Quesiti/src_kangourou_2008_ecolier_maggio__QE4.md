@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E4
 summary: Somma cifre minima di n^2 con n>2008
 answer: '1'
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E4

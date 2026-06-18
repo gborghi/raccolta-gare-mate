@@ -7,6 +7,7 @@ family: imo
 year: '1966'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Prove telescoping cosecant sum equals cot x minus cot 2^n x
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1966
   - livello/IMO
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # IMO 1966 (Eighth International Olympiad) — Quesito 4

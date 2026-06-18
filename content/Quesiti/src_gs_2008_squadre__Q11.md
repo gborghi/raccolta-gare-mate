@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Area della lettera W con teorema di Pick
 answer: '104'
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 11

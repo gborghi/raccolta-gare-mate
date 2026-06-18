@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Numeri 5 cifre con resto 3 mod 4 e invertiti resto 3 mod 5
 answer: '5000'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 5

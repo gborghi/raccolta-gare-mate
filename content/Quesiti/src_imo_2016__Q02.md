@@ -7,6 +7,7 @@ family: imo
 year: '2016'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Tabella n×n riempita con I,M,O bilanciate'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2016 papers — Quesito 2

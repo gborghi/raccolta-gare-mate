@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Numero nella cella ? della griglia con frecce
 answer: '9'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2009 squadre semifinale — Quesito 13

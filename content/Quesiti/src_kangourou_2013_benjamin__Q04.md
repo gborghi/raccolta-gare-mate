@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Numero minimo di svolte a destra per andare da A a B
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 4

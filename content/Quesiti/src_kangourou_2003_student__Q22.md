@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Minimo x intero su circonferenza
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student (20 marzo) — Quesito 22

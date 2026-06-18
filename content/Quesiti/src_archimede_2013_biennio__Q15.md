@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Coefficiente di x^199 in (x^2+x+1)^100
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 15

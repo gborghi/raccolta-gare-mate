@@ -7,6 +7,7 @@ family: imo
 year: '1986'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Rotation sequence returning to P0 forces equilateral triangle
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1986
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1986 (27th IMO, Warsaw) — Quesito 2

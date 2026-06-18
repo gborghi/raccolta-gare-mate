@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Ampiezze diverse di un angolo del triangolo (rettangoli)
 answer: '0014'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 10

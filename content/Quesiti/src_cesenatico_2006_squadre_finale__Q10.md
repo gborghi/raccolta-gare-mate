@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Perimetro unione di 6 cerchi su esagono (coeff. di pi)
 answer: '0400'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 10

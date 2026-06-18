@@ -7,6 +7,7 @@ family: imo
 year: '2023'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Successioni con P(an)=an+1...an+k polinomio monico
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2023 papers — Quesito 3

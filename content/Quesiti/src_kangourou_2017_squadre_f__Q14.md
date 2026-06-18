@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Rapporto aree T e P con stesso perimetro
 answer: '907'
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2017 Finale — Quesito 14

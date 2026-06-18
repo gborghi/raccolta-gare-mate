@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Differenza caselle nere e bianche nel So-poko di lato 203
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 2

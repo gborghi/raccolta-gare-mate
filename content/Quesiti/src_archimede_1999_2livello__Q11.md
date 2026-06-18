@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Disposizione oraria con massima probabilità di evitare l'ultima ora
 answer: D
@@ -19,6 +20,7 @@ tags:
   - anno/1999
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1999 — Quesito 11

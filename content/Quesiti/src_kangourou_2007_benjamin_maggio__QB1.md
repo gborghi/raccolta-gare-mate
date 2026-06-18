@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Area del triangolo ADE (parallelogramma)
 answer: '1,5 cm^2'
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin finale (maggio) — Quesito B1

@@ -7,6 +7,7 @@ family: imo
 year: ''
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: IMO 1997 problema 1
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # IMO compilation 1959-2013 — Quesito 1

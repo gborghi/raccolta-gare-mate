@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Numero di cifre di 1000^1000
 answer: B
@@ -19,6 +20,7 @@ tags:
   - anno/2016
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 1

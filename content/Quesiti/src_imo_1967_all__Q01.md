@@ -7,6 +7,7 @@ family: imo
 year: '1967'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Four unit circles cover parallelogram iff a-condition holds
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1967
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1967 (Ninth International Olympiad) — Quesito 1

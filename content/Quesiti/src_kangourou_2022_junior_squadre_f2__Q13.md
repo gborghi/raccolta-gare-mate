@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: 'Modi di tracciare segmenti, ogni punto grado 2'
 answer: '0465'
@@ -24,6 +25,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 2 — Quesito 13

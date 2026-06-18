@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Massimo tempo corsa andata-ritorno con velocita diverse
 answer: '1800'
@@ -22,6 +23,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 6

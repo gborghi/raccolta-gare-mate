@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Numero massimo soluzioni di un sistema quadratico
 answer: D
@@ -19,6 +20,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 15

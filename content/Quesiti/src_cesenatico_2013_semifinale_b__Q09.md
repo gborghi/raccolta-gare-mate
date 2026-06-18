@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Min ostriche iniziali (resti per n=2..71)
 answer: '4095'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 9

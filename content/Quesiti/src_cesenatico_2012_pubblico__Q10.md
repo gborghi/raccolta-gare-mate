@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Somma interi 3 cifre con cifra 3 o 6 (fusion)
 answer: '8848'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 10

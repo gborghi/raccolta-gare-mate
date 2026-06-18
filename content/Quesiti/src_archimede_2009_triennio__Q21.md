@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Numeri n con n e (n-6)^2+1 entrambi primi
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 21

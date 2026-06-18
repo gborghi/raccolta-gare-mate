@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J4
 summary: numero di C sempre uguale
 answer: '7'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J4

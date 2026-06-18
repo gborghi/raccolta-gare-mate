@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Successione con media variazioni, valore termine 1000'
 answer: '2008'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 4

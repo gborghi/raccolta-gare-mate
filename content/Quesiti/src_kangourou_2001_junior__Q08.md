@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Perimetro del poligono con angoli retti
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Junior (15 marzo) — Quesito 8

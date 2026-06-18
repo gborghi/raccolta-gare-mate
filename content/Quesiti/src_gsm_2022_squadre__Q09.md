@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Somma dei massimi divisori dispari da 94 a 188
 answer: '8883'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2022 — Quesito 9

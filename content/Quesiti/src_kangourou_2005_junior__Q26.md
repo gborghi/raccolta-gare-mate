@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Distanza E da D con uguaglianza aree trapezi
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (marzo) — Quesito 26

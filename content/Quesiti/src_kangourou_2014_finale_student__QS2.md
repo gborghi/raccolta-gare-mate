@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S2
 summary: Luogo dei punti entro distanza 3 con metrica modificata
 answer: quadrato+segmento
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale nazionale Student — Quesito S2

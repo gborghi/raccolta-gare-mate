@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Convertire 1111111111 da base 9 a base 10
 answer: '8050'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 14

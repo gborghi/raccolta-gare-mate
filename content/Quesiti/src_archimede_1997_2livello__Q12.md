@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Massimo intero con stesso numero di cifre in base 10 e 16
 answer: B
@@ -19,6 +20,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 12

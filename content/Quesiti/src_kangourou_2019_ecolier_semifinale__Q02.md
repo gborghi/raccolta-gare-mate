@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Minimo auto bianche da spostare per far uscire l auto nera
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Ecolier — Quesito 2

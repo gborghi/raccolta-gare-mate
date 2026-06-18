@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quale colorazione di piastrelle non puo derivare dal tappeto
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 13

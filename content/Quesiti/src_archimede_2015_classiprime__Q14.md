@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quota turisti stranieri data crescita percentuale totale
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2015
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2015 — Quesito 14

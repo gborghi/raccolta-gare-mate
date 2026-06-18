@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Giri completi per leggere MATE 2018 volte
 answer: '1345'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 3

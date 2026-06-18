@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Differenza BC-AB (bisettrice lunga 2)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 30

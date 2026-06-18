@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numeri di 3 cifre con 0 e 7
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2007 Ecolier (marzo) — Quesito 6

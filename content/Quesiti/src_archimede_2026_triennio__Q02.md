@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Disposizioni di cavalieri/furfanti a tavola rotonda, a meno di rotazione'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 2

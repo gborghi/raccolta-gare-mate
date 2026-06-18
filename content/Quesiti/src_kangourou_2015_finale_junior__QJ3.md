@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J3
 summary: valori di n
 answer: 1 e 2
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Junior — Quesito J3

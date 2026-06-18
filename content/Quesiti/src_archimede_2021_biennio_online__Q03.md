@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Massimo valore di 7-4x dato (2x-3)(5-3x)=0
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 3

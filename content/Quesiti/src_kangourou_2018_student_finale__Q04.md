@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Dimostrare che un numero di 20 cifre con 11 uno non e quadrato
 answer: non quadrato (dim.)
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Finale Nazionale Student — Quesito 4

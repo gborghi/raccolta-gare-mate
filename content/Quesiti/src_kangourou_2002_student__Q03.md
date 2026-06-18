@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Interi di 3 cifre con due almeno uguali
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 3

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Distanza scritta sul cartello spezzato (Atown-Betown-Cetown)
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Gara marzo Cadet — Quesito 11

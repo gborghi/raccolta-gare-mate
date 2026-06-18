@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Estensione di un giardino attorno a una villa quadrata
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 10

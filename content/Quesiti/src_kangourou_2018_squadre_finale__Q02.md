@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Angolo ADC in quadrilatero con angoli noti
 answer: '0100'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Scoiattolo svuota 15 piattini in quattro visite
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale Ecolier — Quesito 5

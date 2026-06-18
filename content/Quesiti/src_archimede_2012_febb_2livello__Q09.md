@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'Coppie m,n con mn=25! frazione ridotta minore di 1'
 answer: C
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 9

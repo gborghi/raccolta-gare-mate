@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Valore di radice quarta di a piu radice quarta di b
 answer: '0007'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 15

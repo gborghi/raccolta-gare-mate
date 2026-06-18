@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: 'Triangoli equilateri iterati, misura PC con AB=3556'
 answer: '2352'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale — Quesito 19

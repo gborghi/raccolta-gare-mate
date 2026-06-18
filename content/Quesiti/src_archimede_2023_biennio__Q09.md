@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quale espressione e sicuramente positiva date disuguaglianze
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Valore di (cd-ab)(c+d) con somma e somma inversi nulle
 answer: '0001'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Cadet 2024 — Quesito 15

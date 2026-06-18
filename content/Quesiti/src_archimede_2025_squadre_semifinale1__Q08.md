@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Area triangolo ABC con circonferenza e rapporti dati
 answer: '0540'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 8

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: 'Quanti interi di 3 cifre contengono almeno una cifra 1,2,3'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 18

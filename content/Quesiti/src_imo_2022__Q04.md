@@ -7,6 +7,7 @@ family: imo
 year: '2022'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'P,S,Q,R conciclici nel pentagono convesso'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2022
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2022 papers — Quesito 4

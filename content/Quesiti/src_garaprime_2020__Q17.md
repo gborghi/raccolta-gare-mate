@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Differenza aree max-min quadrato in un ottagono
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2020
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 17

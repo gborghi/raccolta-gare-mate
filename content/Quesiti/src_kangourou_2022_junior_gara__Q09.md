@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quanti candidati possono gia escludere l'elezione
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior gara individuale — Quesito 9

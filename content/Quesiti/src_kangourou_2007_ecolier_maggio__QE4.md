@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E4
 summary: Numero allievi (65 strette di mano)
 answer: '18'
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Ecolier finale (maggio) — Quesito E4

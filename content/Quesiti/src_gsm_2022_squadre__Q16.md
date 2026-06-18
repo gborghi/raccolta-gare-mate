@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Massimo di 1/(32a^5)+a^5 data 1/(4a^2)+a^2
 answer: 0179
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2022 — Quesito 16

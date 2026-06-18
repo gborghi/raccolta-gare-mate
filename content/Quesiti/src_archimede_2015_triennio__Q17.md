@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Area triangolo con bisettrice e mediana perpendicolari
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Triennio — Quesito 17

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J4
 summary: Dopo quanti anni torna la luna piena stesso giorno (ciclo 28 gg)
 answer: '248'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Junior — Quesito J4

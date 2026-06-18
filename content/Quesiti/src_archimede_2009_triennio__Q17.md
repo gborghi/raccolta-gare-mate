@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Superficie di ricerca attorno a palazzo pentagonale
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 17

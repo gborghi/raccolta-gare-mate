@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Ora incontro ciclista e podista (60 km)
 answer: '1340'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 12

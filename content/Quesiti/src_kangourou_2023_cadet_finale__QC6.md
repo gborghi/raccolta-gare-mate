@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C6
 summary: lunghezza traiettoria di P
 answer: (π/2)(1+√5)
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2023 Cadet — Finale (risposta aperta) — Quesito C6

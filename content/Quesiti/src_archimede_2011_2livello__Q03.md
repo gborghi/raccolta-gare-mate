@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Affermazione sempre vera su quoziente di divisione di polinomi
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 3

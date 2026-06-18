@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Rapporto tra area nera e area grigia (quadrato con 4 cerchi)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou Categoria Junior 2024 — Quesito 6

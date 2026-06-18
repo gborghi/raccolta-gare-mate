@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Valore di N in (N-1)+...+(N-2021)=1+..+2021
 answer: '2022'
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Benjamin - semifinale — Quesito 18

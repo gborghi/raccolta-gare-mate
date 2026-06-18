@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Somma prime 2022 cifre di 57/111
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 2

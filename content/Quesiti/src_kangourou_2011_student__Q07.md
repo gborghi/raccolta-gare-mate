@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Forma del taglio obliquo di un cilindro srotolato
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 7

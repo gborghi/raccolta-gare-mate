@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Fra quanti anni Billy avra 10 (eta)
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2007 Cadet (marzo) — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Coordinate di un vertice del cubo dati tre vertici
 answer: '(0,4,7)'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (finale Cervia) — Quesito J5

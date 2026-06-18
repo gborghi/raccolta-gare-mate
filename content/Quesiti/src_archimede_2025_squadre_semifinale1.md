@@ -6,12 +6,14 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2025
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 1

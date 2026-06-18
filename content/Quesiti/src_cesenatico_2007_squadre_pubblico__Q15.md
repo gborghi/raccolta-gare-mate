@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Valore di 10000 volte prodotto di seni multipli di pi/5
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/squadre
   - topic/trigonometria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 15

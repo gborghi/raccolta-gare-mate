@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: 'Numeratore probabilita Wolfram esterno, poligono 10000'
 answer: '0253'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Semifinale 2 — Quesito 5

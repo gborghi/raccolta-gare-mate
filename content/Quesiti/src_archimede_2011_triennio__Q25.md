@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Percorsi di tre mosse del re su scacchiera 3x3
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 25

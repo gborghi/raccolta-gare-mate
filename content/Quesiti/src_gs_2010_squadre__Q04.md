@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Spartizione cifra fra tre musicisti per eta
 answer: '9600'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 4

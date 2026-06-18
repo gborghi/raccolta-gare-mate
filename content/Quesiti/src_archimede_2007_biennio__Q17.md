@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Resto della divisione di un polinomio in 2007 per 669
 answer: B
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 17

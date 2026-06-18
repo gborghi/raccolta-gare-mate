@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Membri famiglia piu piccola di gorilla
 answer: '0011'
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 8

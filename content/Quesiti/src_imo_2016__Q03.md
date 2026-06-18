@@ -7,6 +7,7 @@ family: imo
 year: '2016'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 2S divisibile per n in poligono ciclico intero
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2016 papers — Quesito 3

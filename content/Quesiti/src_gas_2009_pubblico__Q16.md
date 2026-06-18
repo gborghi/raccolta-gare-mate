@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Numero di n con espressione radicale annidata intera
 answer: '1743'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Gara del Pubblico — Quesito 16

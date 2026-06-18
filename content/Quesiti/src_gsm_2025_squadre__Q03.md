@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Altezze parallelepipedo con volume quadrato perfetto
 answer: '0064'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 3

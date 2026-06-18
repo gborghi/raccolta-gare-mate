@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Massimo donne ai lati corti dei tavoli (vincoli)
 answer: '0013'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 7

@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Raggio di cerchi grigi inscritti in un cerchio grande
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 14

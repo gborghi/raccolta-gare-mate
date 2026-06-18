@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Minimo di 4a^3/b + b + 1/a con a,b>0'
 answer: '0004'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/disuguaglianze
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 4

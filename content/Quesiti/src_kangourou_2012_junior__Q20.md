@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Ultima cifra diversa da 0 del numero 2^59 3^4 5^53
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Junior (gara marzo) — Quesito 20

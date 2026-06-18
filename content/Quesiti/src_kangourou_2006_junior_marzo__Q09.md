@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Numero spigoli possibile di un prisma
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior (marzo) — Quesito 9

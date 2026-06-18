@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Mattoncini rimasti dopo aver formato un cubo
 answer: '64'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Semifinale A — Quesito 9

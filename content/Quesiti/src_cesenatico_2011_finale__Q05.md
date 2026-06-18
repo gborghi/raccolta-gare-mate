@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Diagonale rettangolo con ABPD ciclici
 answer: 0900
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 5

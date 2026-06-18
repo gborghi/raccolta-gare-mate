@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Coordinate vertice cubo con prima coord 0
 answer: '0047'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_analitica
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 2 — Quesito 13

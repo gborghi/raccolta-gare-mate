@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Prodotto xy dato (x+y)^2=100x+y=2025
 answer: E
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2025
   - topic/algebra
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 12

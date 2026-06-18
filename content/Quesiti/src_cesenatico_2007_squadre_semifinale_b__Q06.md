@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Massimo zone triangolari da triangolazione poligono+oasi (1492)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 6

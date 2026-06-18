@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Probabilita di testa al lancio successivo di moneta
 answer: E
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 3

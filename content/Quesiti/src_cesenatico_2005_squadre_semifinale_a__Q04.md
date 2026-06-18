@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Coppie ordinate (c,d) che piastrellano stanza 546x330'
 answer: '0074'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 4

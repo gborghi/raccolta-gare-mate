@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: Somma minima dei valori assoluti su circonferenza numerata
 answer: 2n-2
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2006 Student finale (maggio) — Quesito S1

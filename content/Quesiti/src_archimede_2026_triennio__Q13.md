@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: 'Allenamento di corsa/cammino, valore x per finire a casa'
 answer: '50'
@@ -24,6 +25,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 13

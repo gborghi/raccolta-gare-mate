@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Minimo numero di divisori di a per b per c
 answer: D
@@ -24,6 +25,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 28

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Massimo numero di koala con ogni animale vicino a un canguro
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 16

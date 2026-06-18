@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Almeno quante persone con la stessa eta
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 23

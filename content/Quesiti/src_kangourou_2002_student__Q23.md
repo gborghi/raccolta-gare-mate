@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Persone nei due gruppi (annullato)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 23

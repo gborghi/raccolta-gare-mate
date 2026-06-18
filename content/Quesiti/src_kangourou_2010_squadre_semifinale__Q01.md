@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Maggiore dei due numeri di 3 cifre con somma e prodotto max
 answer: '941'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'T,R,K allineati'
 answer: dimostrato
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XXV Olimpiade Italiana Cesenatico 2009 — Quesito 5

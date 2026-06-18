@@ -7,6 +7,7 @@ family: imo
 year: '1983'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Prove angle O1AO2 equals angle M1AM2 for two circles
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1983
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1983 (24th International Mathematical Olympiad) — Quesito 2

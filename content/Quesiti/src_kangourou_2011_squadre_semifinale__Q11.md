@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Massimo somme intere distinte di 10 numeri (uno non intero)
 answer: '45'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 11

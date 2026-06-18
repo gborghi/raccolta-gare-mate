@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Ultime 4 cifre somma prodotti sottoinsiemi di 1..2007
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 9

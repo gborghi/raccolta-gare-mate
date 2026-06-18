@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: problema 18
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2003
   - livello/gara-del-pubblico
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 18

@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Minimo k con a_2016 multiplo di 3^4031 7^4027 nella ricorrenza
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 6

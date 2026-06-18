@@ -6,12 +6,14 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2011
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale A

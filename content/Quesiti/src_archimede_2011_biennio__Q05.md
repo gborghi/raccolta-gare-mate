@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Somma numeri vertici piramide quadrata con facce div per 3
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 5

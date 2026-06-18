@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Angolo ACB da due triangoli isosceli sul lato AB
 answer: '98'
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Finale — Quesito 9

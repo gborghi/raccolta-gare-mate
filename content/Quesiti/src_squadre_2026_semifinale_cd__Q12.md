@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Somma di n con Kn=4096 successione geometrica
 answer: '0034'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 12

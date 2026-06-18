@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Stima del numero di coriandoli col metodo cattura-ricattura
 answer: '1750'
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - finale — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Numero in posizione 2026 togliendo i quadrati perfetti
 answer: C
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 8

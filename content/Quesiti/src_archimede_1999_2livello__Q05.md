@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Identificare il parente nella relazione familiare di Alberto
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1999 — Quesito 5

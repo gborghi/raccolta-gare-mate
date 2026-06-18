@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Area regione ombreggiata cerchio inscritto in quadrato
 answer: '27'
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Finale — Quesito 3

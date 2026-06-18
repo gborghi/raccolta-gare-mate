@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Classifica gara di nuoto con una sola affermazione vera
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 18

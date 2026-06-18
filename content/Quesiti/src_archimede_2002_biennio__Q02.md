@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quadrato del rapporto somma cifre invertite su somma
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 2

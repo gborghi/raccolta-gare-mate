@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Superficie pergamena da prisma esagonale (209 foglietti)
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 13

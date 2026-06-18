@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: 'Date g1g2m1m2 prodotto di due primi specchiati, somma valori'
 answer: '4311'
@@ -22,6 +23,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale — Quesito 18

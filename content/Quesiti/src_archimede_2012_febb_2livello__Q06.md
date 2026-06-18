@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Gara cavalli con mentitori e veritieri, chi e terzo'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 6

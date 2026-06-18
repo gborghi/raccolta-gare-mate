@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Numeri 3 cifre distinte crescenti o decrescenti
 answer: '0204'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 12

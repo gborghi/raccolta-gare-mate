@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Somma dell'addizione di numeri a quattro cifre
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - gara marzo — Quesito 11

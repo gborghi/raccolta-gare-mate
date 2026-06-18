@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Punteggio sul terzo bersaglio
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2003 Cadet (20 marzo) — Quesito 13

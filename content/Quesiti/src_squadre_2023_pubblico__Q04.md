@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Somma f(2023) per polinomi con f(x^2)=f(2x-1)+f(x)^2
 answer: '2022'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Gara del pubblico — Quesito 4

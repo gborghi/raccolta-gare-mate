@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Cubetti di ciascun cubo costruito da Paola e Giovanna
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (semifinale individuale) — Quesito 16

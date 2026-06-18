@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Triangolo rettangolo, altezza, valori del rapporto AH/CH'
 answer: (sqrt5-1)/2 oppure (sqrt5+1)/2
@@ -24,6 +25,7 @@ tags:
   - anno/2005
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XXI Olimpiade Italiana Cesenatico 2005 — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Area tra due circonferenze tangenti internamente diviso pi
 answer: '3276'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 7

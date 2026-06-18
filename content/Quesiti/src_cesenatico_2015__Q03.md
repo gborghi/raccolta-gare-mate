@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: ciclicita iff parallelismo
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2015
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 3

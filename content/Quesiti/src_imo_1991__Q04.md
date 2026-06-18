@@ -7,6 +7,7 @@ family: imo
 year: '1991'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Label graph edges so each vertex has gcd 1
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1991
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1991 (32nd IMO) — Quesito 4

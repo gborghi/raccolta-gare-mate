@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Griglie 5x5 invarianti per rotazioni di 90 gradi
 answer: '128'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 4

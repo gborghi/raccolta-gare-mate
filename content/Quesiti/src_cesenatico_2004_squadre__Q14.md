@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Ultime 4 cifre somma interi divisibili per 30 con 30 divisori
 answer: '6340'
@@ -24,6 +25,7 @@ tags:
   - anno/2004
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 14

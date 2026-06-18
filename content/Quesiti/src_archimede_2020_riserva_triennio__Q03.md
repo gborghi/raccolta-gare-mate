@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Triangoli non congruenti con lati tra 2,3,4,5'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 3

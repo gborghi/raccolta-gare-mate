@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: 'Coppie iniziali con strategia vincente nel gioco (x,y)'
 answer: '9724'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Finale Nazionale — Quesito 20

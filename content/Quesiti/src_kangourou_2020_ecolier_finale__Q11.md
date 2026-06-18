@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Somma dei due numeri scambiati nel quadrato magico
 answer: '0021'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Finale nazionale Ecolier — Quesito 11

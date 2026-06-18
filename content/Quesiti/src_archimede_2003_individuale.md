@@ -6,12 +6,14 @@ family: archimede
 year: '2003'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2003
+  - gara/individuale
 ---
 
 # Archimede 2003 - Gara Nazionale Individuale (Cesenatico)

@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Volume scatola da cartoncino 6x6
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2004 Benjamin (18 marzo) — Quesito 10

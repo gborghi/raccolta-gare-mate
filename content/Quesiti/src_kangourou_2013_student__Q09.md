@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quale vista del cubo con piramide non può comparire
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 9

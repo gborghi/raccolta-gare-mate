@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E2
 summary: Assegnazione colori con 4 numeri rossi somma verde+blu
 answer: esempio assegnazione
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Ecolier finale — Quesito E2

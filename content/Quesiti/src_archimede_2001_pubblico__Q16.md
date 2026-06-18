@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: rapporto tra le aree
 answer: '0007'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/gara-del-pubblico
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 16

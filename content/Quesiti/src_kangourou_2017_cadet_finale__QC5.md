@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Sequenze consecutive con somma cifre divisibile per 7
 answer: 'Si, al massimo due'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (finale Cervia) — Quesito C5

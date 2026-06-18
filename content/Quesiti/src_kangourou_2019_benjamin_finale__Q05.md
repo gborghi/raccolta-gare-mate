@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Perche Elvira vuole iniziare nel gioco dei 66 gettoni
 answer: strategia vincente
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale Nazionale Benjamin — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: valore di a2
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Gara 17 marzo — Quesito 28

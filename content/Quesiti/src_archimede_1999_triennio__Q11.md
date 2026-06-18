@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Numero in posizione 1999 fra i non multipli di 2 e 3
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 11

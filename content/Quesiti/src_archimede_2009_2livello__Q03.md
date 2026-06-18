@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Anni tra 999 e 9999 con due o più zeri consecutivi
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 3

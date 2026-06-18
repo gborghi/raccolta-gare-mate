@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: soluzioni finite
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/nazionale
   - topic/algebra
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 3

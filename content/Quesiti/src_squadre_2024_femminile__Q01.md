@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: 'Area unione tre rettangoli, AB=20 BC=40'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Quanti multipli di 3 sommando 4 a partire da 7 fino a 200
 answer: '16'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Modi di sedere 5 persone con due coppie adiacenti
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Biennio (T1) — Quesito 7

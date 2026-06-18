@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Massimo n per poligono con angoli in progressione di 30
 answer: A
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 4

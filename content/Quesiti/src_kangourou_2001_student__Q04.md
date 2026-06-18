@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Interi non primi <1000 con somma cifre 2
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'equazione di una circonferenza, valore'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 9

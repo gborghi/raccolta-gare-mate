@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Equipaggio della nave guasta distribuibile fra quattro navi
 answer: 0409
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 3

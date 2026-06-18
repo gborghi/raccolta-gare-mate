@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Anni minori di 2016 multipli di 1,2,3,4'
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 15

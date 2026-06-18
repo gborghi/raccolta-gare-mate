@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Riordinare piantine a curve di livello delle montagne
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (marzo) — Quesito 28

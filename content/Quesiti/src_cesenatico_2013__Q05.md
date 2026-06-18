@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: parallelismo e concorrenza di tre rette
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 5

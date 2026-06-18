@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B3
 summary: Misura angolo NYC tra CM e BN nel quadrato
 answer: 90 gradi
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Benjamin (finale nazionale) — Quesito B3

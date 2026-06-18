@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Modi di colorare facce e vertici di un dado
 answer: C
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 18

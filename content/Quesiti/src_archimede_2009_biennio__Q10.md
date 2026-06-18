@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Quadrati perfetti che dividono 1600
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 10

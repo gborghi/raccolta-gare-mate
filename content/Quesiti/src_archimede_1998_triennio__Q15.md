@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quale affermazione e sicuramente falsa dato xy<x
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 15

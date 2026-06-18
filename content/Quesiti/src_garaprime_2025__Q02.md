@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Massimo monete nel forziere fermandosi su totale pari
 answer: C
@@ -25,6 +26,7 @@ tags:
   - anno/2025
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 2

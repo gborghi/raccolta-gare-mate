@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Cavalieri e furfanti nelle file dell'ufficio postale
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 6

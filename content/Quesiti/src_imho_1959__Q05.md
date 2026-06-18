@@ -7,6 +7,7 @@ family: imo
 year: '1959'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: coincidenza di punti e luogo dei medi
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1959
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1959 (I International Olympiad) — Quesito 5

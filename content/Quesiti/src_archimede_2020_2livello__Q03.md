@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Quattro età primi con somma 240, la più giovane'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2020 - 2° livello — Quesito 3

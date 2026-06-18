@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Passeggeri con poltrona vuota ogni due
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Benjamin (15 marzo) — Quesito 5

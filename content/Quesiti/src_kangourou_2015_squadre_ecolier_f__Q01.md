@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Costo del quotidiano (con inserto totale 1.70)
 answer: '120'
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 1

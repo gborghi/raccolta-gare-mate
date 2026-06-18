@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'stella regolare, valore del lato'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 5

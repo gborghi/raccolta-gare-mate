@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Punti squadre dopo quattro giornate con vincoli
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 11

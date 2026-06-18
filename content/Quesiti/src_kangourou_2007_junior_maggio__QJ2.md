@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J2
 summary: Percorso piu breve sulla superficie del cono
 answer: 3*sqrt5 cm
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2007 Junior finale (maggio) — Quesito J2

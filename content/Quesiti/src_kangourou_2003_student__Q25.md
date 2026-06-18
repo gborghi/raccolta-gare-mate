@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Frazione area triangolo APM nel rettangolo
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student (20 marzo) — Quesito 25

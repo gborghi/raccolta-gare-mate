@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Biglie gialle minime per superare il 20%
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Ultime 3 cifre di a_2016+3a_2015 (ricorrenza)
 answer: '0120'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/funzionali
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 7

@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Esiste solo numero finito di numeri equilibrati
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1999
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1999 — Quesito 2

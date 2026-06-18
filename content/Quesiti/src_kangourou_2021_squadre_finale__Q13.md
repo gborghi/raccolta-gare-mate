@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: F in centesimi (raccolta regalo)
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2021
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 13

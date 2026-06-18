@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Cifra in posizione 2017 sequenza dei pari
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 17

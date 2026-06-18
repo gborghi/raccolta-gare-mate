@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quale pallina pesa 30 g
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 15

@@ -7,6 +7,7 @@ family: imo
 year: '1964'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: tre con stesso argomento (Ramsey)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # IMO 1964 (VI International Olympiad) — Quesito 4

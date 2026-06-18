@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Chi siede all'estremita destra della panchina
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (marzo) — Quesito 29

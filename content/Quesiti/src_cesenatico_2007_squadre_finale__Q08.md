@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Combinazioni compatibili dello zodiaco amici/nemici
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 8

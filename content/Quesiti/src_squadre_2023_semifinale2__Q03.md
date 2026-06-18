@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Area massima triangolo lato minore 38 e maggiore 181
 answer: '3420'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 2 — Quesito 3

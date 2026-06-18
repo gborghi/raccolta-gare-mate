@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Area dorata sulla superficie del cubo decorato
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2011 Junior (gara marzo) — Quesito 21

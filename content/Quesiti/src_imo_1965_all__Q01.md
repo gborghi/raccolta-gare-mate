@@ -7,6 +7,7 @@ family: imo
 year: '1965'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Solve trig inequality with abs value on [0,2pi]'
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/trigonometria
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1965 (Seventh International Olympiad) — Quesito 1

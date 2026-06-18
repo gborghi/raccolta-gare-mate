@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Minimo calzini per due dello stesso colore
 answer: B
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 2

@@ -7,6 +7,7 @@ family: imo
 year: '1991'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Equally-spaced totatives imply n prime or power of 2
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1991
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1991 (32nd IMO) — Quesito 2

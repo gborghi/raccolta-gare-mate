@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Probabilita di comporre 2017 con quattro tetraedri
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2017 Student - Gara 16 marzo — Quesito 15

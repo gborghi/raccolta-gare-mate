@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Quale affermazione e vera se a^2bc=1 con interi
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 5

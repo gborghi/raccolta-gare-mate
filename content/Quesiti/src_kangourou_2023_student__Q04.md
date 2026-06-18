@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Colorazioni bandiera a 3 strisce con 4 colori, adiacenti diverse'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Distanza dall'arrivo di un podista a velocita costante
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 7

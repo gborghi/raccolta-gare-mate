@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Terne (p,q,n) primi con p^2+q^2 = pqn+1'
 answer: '(2,3,2) e (3,2,2)'
@@ -24,6 +25,7 @@ tags:
   - anno/2010
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 15

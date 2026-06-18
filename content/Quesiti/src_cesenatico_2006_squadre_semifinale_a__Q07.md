@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Numero di zeri finali del prodotto dei divisori di 1500000
 answer: '0210'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 7

@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Cammino minimo della formica e punto piu lontano
 answer: sqrt8
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C5

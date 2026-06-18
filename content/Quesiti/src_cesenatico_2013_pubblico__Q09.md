@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: 'Probabilita Stregauss dalla Lepre (6 dadi, numeratore)'
 answer: '6337'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/gara-del-pubblico
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 9

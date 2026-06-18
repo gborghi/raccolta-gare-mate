@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Max p per uova mangiate tra 12 ore (successione)
 answer: '1304'
@@ -26,6 +27,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/funzionali
   - topic/trigonometria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 5

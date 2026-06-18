@@ -7,6 +7,7 @@ family: imo
 year: '1961'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Risolvere cos^n x - sin^n x = 1
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1961
   - livello/IMO
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # IMO 1961 (III International Olympiad) — Quesito 3

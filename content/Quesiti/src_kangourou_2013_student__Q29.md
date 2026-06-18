@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: 'Valore a100 con a_{m+n}=a_m+a_n+mn'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 29

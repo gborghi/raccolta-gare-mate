@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Numero piu piccolo tra le espressioni
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 18

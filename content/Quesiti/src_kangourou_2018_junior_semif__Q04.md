@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Probabilita che il numero di Alice superi quello di Barbara
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Junior — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Massimo numero di mucchi di pietre con unione e divisione
 answer: '0735'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 9

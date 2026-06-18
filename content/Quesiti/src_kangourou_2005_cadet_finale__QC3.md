@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C3
 summary: Area rettangolo ombreggiato in triangolo rettangolo
 answer: 5 cm2
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (finale nazionale) — Quesito C3

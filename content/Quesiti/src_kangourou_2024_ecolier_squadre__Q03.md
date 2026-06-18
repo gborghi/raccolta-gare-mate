@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Grammi giallo per 220 grammi di verde
 answer: '0066'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 3

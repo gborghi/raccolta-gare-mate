@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quadrato perfetto successivo a n
 answer: E
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/algebra
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 12

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Area esagono ombreggiato in triangolo
 answer: '0120'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 2 — Quesito 3

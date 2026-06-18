@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: 'Minimo biscotti con divisibilita per 3,5,7 con resti dati'
 answer: '0072'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 3

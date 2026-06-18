@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Vincoli su x reale con x^3<64<x^2
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 9

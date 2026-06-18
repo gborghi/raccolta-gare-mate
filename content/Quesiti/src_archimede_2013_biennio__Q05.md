@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Diminuzione percentuale androidi dopo aumento popolazione
 answer: B
@@ -20,6 +21,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 5

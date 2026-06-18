@@ -7,6 +7,7 @@ family: kangourou
 year: '2000'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quadratini in figura a 10 scalini
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2000 - 3 maggio (individuale) — Quesito 13

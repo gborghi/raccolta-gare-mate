@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'Volume del parallelepipedo date aree A,B,C delle facce'
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Student — Quesito 9

@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: in quanti modi
 answer: '0114'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/gara-del-pubblico
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 6

@@ -7,6 +7,7 @@ family: imo
 year: '2014'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Esiste unico n con an<media prefissi<=an+1
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2014 (shortlist/papers) — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Numero di spigoli di un prisma con 2013 facce
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Valori di k con soluzione intera di x^10+kx^2+4=0
 answer: B
@@ -28,6 +29,7 @@ tags:
   - topic/algebra
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 16

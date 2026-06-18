@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Somma valori assoluti soluzioni intere equazione diofantea
 answer: '0164'
@@ -27,6 +28,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale B — Quesito 14

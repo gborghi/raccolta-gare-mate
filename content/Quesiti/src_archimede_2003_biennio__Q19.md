@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Distanza finale di Giovanni dopo 186 passi a schema
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 19

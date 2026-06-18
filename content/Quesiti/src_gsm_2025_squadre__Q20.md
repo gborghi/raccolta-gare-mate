@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Probabilita che il dado coperto valga 6
 answer: '1682'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 20

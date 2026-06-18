@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Numero equidistante da 2/3 e 4/5 sulla retta
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Junior — Quesito 4

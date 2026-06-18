@@ -6,12 +6,14 @@ family: imo
 year: '1984'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1984
+  - gara/individuale
 ---
 
 # IMO 1984 (25th International Mathematical Olympiad)

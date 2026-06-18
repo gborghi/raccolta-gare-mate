@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Primo di quattro numeri con somma 54
 answer: '3'
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B1

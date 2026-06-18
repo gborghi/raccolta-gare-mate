@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Minima differenza tra due numeri di 3 cifre
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Benjamin (15 marzo) — Quesito 30

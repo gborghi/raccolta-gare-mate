@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Numero mancini con 490 strette di mano in piu tra destri
 answer: '15'
@@ -19,6 +20,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 9

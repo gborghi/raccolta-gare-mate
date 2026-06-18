@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Minimo numero di mosse per comporre il puzzle di 1000 pezzi
 answer: '999'
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2002 — Quesito 11

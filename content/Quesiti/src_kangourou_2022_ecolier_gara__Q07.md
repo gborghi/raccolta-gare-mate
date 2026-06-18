@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quale e la cartolina di Michele
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier gara individuale — Quesito 7

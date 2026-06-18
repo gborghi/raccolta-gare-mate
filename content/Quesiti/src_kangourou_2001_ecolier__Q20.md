@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Numeri di 3 cifre con somma 4
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Ecolier (15 marzo) — Quesito 20

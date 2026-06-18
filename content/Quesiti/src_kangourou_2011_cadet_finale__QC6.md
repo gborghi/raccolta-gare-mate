@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C6
 summary: Quanti valori distinti della somma perimetri di 4 triangoli area 1/4
 answer: '5'
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C6

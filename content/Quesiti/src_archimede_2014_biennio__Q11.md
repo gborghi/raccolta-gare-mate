@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Divisori primi del numero abcabc con abc primo
 answer: D
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 11

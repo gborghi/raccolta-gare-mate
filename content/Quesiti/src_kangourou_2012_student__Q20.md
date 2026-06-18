@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Somma ascisse intersezioni rette parallele con parabola
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 20

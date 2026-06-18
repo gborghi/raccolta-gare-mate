@@ -6,12 +6,14 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '25'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2006
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio

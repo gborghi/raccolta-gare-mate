@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Affermazione vera su tre numeri con somme coppie non negative
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/disuguaglianze
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 6

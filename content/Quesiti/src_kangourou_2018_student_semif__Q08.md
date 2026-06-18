@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Probabilita che compaia la cifra 1 tra 1 e 10^7
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Student — Quesito 8

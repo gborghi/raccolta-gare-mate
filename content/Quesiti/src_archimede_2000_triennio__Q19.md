@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Volume piramide retta a base quadrata spigoli unitari
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 19

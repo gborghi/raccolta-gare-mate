@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Rettangoli senza quadrato nero nella griglia 6x5
 answer: '99'
@@ -24,6 +25,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 6

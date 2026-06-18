@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Area di un triangolo simile dentro un rettangolo
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 8

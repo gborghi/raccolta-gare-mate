@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Dipingere 20 quadrati 8x8 con copertura adiacente
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale Cadet — Quesito 5

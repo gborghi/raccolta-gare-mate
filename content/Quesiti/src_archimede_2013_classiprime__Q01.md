@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Cifra delle unita del mcm di 2^255 e 2^256
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 1

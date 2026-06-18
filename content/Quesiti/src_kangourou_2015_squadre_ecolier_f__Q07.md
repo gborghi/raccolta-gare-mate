@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Lunghezza strada salita e discesa raddoppiando velocita
 answer: '35'
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 7

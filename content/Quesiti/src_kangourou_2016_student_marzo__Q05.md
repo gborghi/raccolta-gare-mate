@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Logo riflesso scambiando coordinate x e y
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (gara marzo) — Quesito 5

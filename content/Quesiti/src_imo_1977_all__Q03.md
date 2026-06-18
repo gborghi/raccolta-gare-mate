@@ -7,6 +7,7 @@ family: imo
 year: '1977'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Non-unique factorization into indecomposables in V_n
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1977
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1977 (Nineteenth International Olympiad) — Quesito 3

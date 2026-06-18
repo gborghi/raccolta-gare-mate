@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Soluzioni reali di |x-2|-4=1/|x-3|
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: 'triangolo coordinato, punti interi'
 answer: '0046'
@@ -26,6 +27,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/geometria_analitica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 12

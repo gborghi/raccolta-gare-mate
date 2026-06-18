@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Inserimenti SUDOKU griglia 2x3 con vincolo U
 answer: '0144'
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Distribuzione palline per massima probabilita di vincere
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Student - Gara 16 marzo — Quesito 26

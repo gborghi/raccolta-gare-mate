@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Percentuale di quadrati perfetti tra 1 e 10000
 answer: '0001'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: 'Quanti numeri scrive Marco (sequenza +29, tutte cifre 9)'
 answer: '3449'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 3

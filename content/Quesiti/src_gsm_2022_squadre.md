@@ -6,12 +6,14 @@ family: archimede
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '21'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2022
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2022

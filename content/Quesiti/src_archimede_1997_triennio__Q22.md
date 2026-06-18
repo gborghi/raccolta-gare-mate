@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Probabilita che il 13 sia estratto in una sola citta
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 22

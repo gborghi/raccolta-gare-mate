@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Probabilita pari/dispari con dadi truccati proporzionali
 answer: '0050'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 10

@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Lettera non presente nella parola KOALA
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 1

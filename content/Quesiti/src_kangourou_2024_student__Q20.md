@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Dopo quante ore una candela e tripla dell'altra
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 20

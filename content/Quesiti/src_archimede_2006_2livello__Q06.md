@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numero triangoli nel poligono F10 della tassellazione
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2006
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 6

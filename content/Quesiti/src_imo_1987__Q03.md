@@ -7,6 +7,7 @@ family: imo
 year: '1987'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Bounded integer combination of unit-norm reals is small
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1987
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1987 (28th IMO, Havana) — Quesito 3

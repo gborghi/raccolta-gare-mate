@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Accostamenti distinti di due dadi incollati
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Semifinale individuale — Quesito 6

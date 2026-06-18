@@ -6,12 +6,14 @@ family: archimede
 year: '2004'
 level: biennio
 country: Italia
+modalita: individuale
 n_quesiti: '14'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2004
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Biennio

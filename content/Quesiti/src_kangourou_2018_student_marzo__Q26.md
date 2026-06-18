@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Chi e il piu alto se uno solo dei fratelli mente
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Student — Quesito 26

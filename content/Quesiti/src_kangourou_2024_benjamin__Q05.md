@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Aspetto delle scatole viste dall'altra parte del muretto
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Benjamin 2024 — Quesito 5

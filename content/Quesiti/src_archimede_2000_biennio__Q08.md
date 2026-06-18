@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Area regione delimitata da quattro semicirconferenze
 answer: A
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 8

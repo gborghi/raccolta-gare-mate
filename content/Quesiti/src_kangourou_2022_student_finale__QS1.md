@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: Tessere 2×1 al massimo su regione di 36 quadratini
 answer: '15'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Finale (risposta aperta) — Quesito S1

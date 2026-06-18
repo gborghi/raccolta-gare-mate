@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Frazione di superficie cubo ombreggiata da archi
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Coordinate Candace per area massima triangolo con ellissi
 answer: '216'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/geometria_analitica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 21

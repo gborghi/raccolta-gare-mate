@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: 'Folletto dimezza x^2-y^2, numero massimo di scherzetti'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 12

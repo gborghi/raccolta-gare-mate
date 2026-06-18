@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B2
 summary: Si puo dedurre il significato di KAB dalla risposta
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Finale Benjamin 2024 — Quesito B2

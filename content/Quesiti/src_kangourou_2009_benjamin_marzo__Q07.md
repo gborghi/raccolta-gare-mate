@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Lunghezza del ponte che deborda dalle rive
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 7

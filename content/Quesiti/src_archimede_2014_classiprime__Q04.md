@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Minimo banane per pirata divisibili tra pirati e sirene (mcm)
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2014
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2014 — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Circonferenza e due punti A,B; locus dei punti C'
 answer: dimostrato (proprieta del baricentro)
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XXII Olimpiade Italiana Cesenatico 2006 — Quesito 3

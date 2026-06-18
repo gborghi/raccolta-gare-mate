@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Valori possibili di x+y con x+y+xy=90
 answer: 'uno, 18'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (finale nazionale) — Quesito C5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Affermazione vera per x con x^3<64<x^2
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 12

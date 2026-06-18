@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Dimostrare GH parallela a BC (bisettrice e asse)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2025
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 5

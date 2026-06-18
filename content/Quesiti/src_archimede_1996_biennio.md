@@ -6,12 +6,14 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/1996
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio

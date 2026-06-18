@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: 'Cifra delle decine di una potenza, polinomio in n'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 7

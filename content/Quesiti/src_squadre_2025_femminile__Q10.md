@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Minimo n con a_n<1 in progressione geometrica
 answer: '2026'
@@ -19,6 +20,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 10

@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Somma num e den del prodotto telescopico
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 28

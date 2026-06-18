@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Codice di 4 cifre quadrato con resto 1 da 2 a 9
 answer: '5041'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 15

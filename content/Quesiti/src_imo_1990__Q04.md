@@ -7,6 +7,7 @@ family: imo
 year: '1990'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Construct function on positive rationals with f(xf(y))=f(x)/y
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1990
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1990 (31st IMO, Beijing) — Quesito 4

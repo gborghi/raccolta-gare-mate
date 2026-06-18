@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Caselle inaccessibili nel gioco da tavolo
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 30

@@ -6,12 +6,14 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 n_quesiti: '12'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2020
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01)

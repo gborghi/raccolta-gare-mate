@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Valore di a^4+1/a^4 dato (a-1/a)^2=3
 answer: '0110'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 1 — Quesito 9

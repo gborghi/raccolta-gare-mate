@@ -7,6 +7,7 @@ family: imo
 year: '1985'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: four-element product is fourth power
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1985
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1985 (26th International Mathematical Olympiad) — Quesito 4

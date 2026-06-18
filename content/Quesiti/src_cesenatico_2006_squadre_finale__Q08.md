@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Piu piccolo multiplo di 73 con quadrato >=63 divisori
 answer: '1752'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 8

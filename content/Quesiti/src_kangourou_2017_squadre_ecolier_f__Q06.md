@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Tra quanti anni Daniela compira 16
 answer: '7'
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 6

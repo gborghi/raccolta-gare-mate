@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Quanti interi sono 20 volte la somma delle cifre
 answer: '1'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 7

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Minime diagonali per irrigidire reticolo 4x4
 answer: '0007'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Finale — Quesito 12

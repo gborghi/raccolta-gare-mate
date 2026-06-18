@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Numero di rettangoli interi distinti con area 12600
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2017
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 15

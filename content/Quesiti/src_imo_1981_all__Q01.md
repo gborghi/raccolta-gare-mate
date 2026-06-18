@@ -7,6 +7,7 @@ family: imo
 year: '1981'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Minimize BC/PD+CA/PE+AB/PF for interior point P
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1981 (Twenty-second International Olympiad) — Quesito 1

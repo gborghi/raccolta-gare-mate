@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Chi mente tra quattro giocatori di poker
 answer: B
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 20

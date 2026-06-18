@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: somma max e min che dicono il vero
 answer: '2526'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 13

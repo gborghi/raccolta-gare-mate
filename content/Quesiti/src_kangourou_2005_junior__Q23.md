@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Quale non e sviluppo di un ottaedro (annullato)
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (marzo) — Quesito 23

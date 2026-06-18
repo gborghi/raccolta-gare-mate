@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Coppia di primi con somma 126 e prodotto
 answer: '1469'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Galileo 2013 - Gara a squadre — Quesito 16

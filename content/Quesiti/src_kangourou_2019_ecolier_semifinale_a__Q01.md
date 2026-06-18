@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Prodotto cifre di numero <45 con somma cifre 12
 answer: '0027'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 1

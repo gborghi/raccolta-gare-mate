@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 40 punti
 answer: 0038
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/gara-del-pubblico
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 2

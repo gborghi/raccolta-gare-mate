@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: 'Quanti polinomi x^3+bx^2+cx+4 con p(2)=0 e b,c in [-2018,2018]'
 answer: '2019'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Student — Quesito 12

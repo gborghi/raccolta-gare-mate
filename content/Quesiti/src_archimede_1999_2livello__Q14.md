@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Naturali con 3 cifre in base 10 e 7 in base 2
 answer: '28'
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1999 — Quesito 14

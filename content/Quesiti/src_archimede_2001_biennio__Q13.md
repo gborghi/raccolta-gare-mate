@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quanti pentagoni si vedono nella figura
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Carte di fiori aggiunte con stessa probabilita stesso seme
 answer: '0005'
@@ -19,6 +20,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Deduzioni logiche da proprieta dei voti (quantificatori)
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2016
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2016 — Quesito 12

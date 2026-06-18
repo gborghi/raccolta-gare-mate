@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '23'
 summary: minimo a
 answer: '0000'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 23

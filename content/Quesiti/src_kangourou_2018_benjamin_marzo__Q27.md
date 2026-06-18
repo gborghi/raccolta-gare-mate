@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Massima somma in tabella 5x5 con vincolo 2x2
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 27

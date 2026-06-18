@@ -7,6 +7,7 @@ family: imo
 year: '1983'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Two-coloring of equilateral triangle edges yields right triangle
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1983 (24th International Mathematical Olympiad) — Quesito 4

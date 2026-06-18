@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Disposizioni numeri 1-9 su scacchiera triangolare con vincoli
 answer: '2880'
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 1 — Quesito 4

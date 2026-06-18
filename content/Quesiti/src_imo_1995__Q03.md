@@ -7,6 +7,7 @@ family: imo
 year: '1995'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Determine n with point areas equal to ri+rj+rk
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1995 (36th IMO, Toronto) — Quesito 3

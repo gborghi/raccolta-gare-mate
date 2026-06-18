@@ -7,6 +7,7 @@ family: imo
 year: '1988'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: when can elements be labeled 0/1 evenly
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1988
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1988 (29th IMO, Canberra) — Quesito 2

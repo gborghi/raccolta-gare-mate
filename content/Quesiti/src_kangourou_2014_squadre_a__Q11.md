@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Somma coordinate dei possibili quarti vertici parallelogramma
 answer: '0'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_analitica
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Semifinale A — Quesito 11

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Giorno della conversazione tra due matematici bugiardi
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 2

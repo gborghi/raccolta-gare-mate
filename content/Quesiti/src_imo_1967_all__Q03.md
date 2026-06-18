@@ -7,6 +7,7 @@ family: imo
 year: '1967'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Prove product of differences divisible by product of c_i
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1967
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1967 (Ninth International Olympiad) — Quesito 3

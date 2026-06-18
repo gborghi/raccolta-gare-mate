@@ -7,6 +7,7 @@ family: imo
 year: '1959'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Provare che (21n+4)/(14n+3) e irriducibile
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1959
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1959 (I International Olympiad) — Quesito 1

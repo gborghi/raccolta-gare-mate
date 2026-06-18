@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Denominatore del prodotto telescopico (1-2/n)
 answer: '4950'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2009 squadre semifinale — Quesito 12

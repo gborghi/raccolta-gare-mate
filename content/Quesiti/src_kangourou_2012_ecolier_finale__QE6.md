@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E6
 summary: Si puo ottenere somma 100 sulle facce visibili dei dadi
 answer: 'no'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E6

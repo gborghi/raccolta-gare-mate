@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Rapporto b/a da piegatura del quadrato
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 22

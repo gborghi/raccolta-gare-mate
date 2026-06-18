@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: quanti bambini
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2022 Koala — Gioco Koala — Quesito 23

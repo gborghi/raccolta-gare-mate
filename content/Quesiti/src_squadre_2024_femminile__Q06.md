@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Somma n*a_n^2024 con a_n opposto somma divisori propri
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 6

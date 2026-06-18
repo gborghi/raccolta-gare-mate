@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: massimo a 4 cifre
 answer: '9768'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 19

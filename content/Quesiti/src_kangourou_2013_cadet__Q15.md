@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Percentuale di dispari impossibile tra interi consecutivi
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 15

@@ -6,12 +6,14 @@ family: kangourou
 year: '2000'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '30'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2000
+  - gara/individuale
 ---
 
 # Kangourou 2000 - 3 maggio (individuale)

@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: parallelismi e parallelogramma
 answer: dimostrazione
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 17

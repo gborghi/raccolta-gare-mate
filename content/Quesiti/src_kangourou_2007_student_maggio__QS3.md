@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S3
 summary: Area minima del triangolo (altezze vincolate)
 answer: '10'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2007 Student finale (maggio) — Quesito S3

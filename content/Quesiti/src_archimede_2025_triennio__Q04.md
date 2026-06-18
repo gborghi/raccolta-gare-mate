@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Interi m di tre cifre con f(m)=f(m-1)+25, somma e prodotto cifre'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 4

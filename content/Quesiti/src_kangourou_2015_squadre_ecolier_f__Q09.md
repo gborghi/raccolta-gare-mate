@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Torte con 13 gusti su 15 senza limone e pistacchio insieme
 answer: '27'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 9

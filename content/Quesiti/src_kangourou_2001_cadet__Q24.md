@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Prima cifra del minimo numero con somma 2001
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Cadet (15 marzo) — Quesito 24

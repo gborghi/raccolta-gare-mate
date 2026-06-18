@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Confronto perimetri delle due basi di cilindretti fasciati
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (gara marzo) — Quesito 16

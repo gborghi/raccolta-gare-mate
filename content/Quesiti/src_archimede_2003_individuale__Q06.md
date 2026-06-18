@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'persone a tavola rotonda, posti contrassegnati'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2003
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 6

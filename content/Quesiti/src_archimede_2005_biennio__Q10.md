@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Coppie di interi con prodotto uguale alla somma
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 10

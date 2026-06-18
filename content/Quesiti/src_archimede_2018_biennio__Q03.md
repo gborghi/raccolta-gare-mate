@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Cubetti con due facce dipinte in un cubo 10x10x10
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/biennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 3

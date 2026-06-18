@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Massimo MCD di tre dispari distinti minori di 100
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 15

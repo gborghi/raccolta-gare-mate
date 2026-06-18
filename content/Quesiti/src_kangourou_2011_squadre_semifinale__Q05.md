@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Numero civico della cugina (lato sinistro dispari)
 answer: '21'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 5

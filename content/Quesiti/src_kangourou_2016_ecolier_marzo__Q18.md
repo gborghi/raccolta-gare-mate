@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: 'Somma possibile eta quattro fratelli, tre gemelli'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2016 Écolier (gara marzo) — Quesito 18

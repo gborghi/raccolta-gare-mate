@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'Successione ricorsiva, minimo n con a_n divisibile per 2022'
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 9

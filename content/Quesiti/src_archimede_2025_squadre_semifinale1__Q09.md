@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Probabilità solitario figurine bloccato su griglia 2x3
 answer: '0064'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 9

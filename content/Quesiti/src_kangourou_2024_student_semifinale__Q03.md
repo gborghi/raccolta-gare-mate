@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Probabilita diamante nella scatola 9 dopo aperture
 answer: C o E
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student semifinale — Quesito 3

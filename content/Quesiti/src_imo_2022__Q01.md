@@ -7,6 +7,7 @@ family: imo
 year: '2022'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Coppie (n,k) monete con n a sinistra dello stesso tipo'
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # IMO 2022 papers — Quesito 1

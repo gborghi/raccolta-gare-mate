@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Angolo al vertice con quattro punti su lati del triangolo
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Probabilita che ABC+AB+A sia divisibile per 3
 answer: '1327'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 11

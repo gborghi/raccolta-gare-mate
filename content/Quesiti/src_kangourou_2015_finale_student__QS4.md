@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S4
 summary: numero totale di gracchiate in un'ora
 answer: '931'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Student — Quesito S4

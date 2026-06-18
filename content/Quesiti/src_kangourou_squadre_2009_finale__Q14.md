@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Valore n% per cui Peter e' certo dell'elezione
 answer: 0081
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/disuguaglianze
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 14

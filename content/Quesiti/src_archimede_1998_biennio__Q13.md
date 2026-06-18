@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Minimo numero che pratica tutti e tre gli sport
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 13

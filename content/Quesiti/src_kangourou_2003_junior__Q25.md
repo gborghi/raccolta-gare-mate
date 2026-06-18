@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: 'Coppie (x,y) reali che soddisfano l''equazione'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2003 Junior (20 marzo) — Quesito 25

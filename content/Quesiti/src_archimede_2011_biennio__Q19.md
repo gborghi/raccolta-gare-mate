@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Ultimo termine successione di differenze periodica
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/biennio
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 19

@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Area di una figura tratteggiata fra circonferenze
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 12

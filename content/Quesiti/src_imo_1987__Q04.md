@@ -7,6 +7,7 @@ family: imo
 year: '1987'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: No function on naturals with f(f(n))=n+1987
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1987
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1987 (28th IMO, Havana) — Quesito 4

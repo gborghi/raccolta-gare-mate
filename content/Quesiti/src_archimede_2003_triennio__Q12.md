@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Numero di numeri interi divisibili tra 1 e 12 (insiemi)
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 12

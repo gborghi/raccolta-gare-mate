@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B2
 summary: Somma dei primi 40 numeri della sequenza ripetuta
 answer: '240'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Benjamin (finale nazionale) — Quesito B2

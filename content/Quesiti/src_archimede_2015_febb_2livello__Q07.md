@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quaterne con a^2-c^2=b^2-d^2=ab+bc+cd+da=1024
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 7

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Cifra d nel prodotto di sei interi consecutivi a 12 cifre
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 30

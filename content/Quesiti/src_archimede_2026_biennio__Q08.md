@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Numeri dispari < 1000 con sole cifre 1,3,4,5,7'
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 8

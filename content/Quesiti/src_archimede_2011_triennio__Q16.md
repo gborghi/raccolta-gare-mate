@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Rapporto aree ABC e DHE in triangolo isoscele
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 16

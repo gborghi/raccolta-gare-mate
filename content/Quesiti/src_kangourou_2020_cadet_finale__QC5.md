@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Piu poligoni convessi che contengono p o che non lo contengono
 answer: piu p
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2020 Finale nazionale Cadet — Quesito C5

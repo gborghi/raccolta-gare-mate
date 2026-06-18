@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Valore di somma radici meno somma reciproci, eq. simmetrica'
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 8

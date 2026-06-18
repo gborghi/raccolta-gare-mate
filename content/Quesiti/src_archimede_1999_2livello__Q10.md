@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Area di trapezio isoscele con diagonale e angolo dati
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1999 — Quesito 10

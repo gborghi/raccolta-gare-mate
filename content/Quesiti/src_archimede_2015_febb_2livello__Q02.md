@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Somma di 100 termini con media di consecutivi pari all'indice
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 2

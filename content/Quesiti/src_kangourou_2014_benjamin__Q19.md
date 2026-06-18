@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Minimo cioccolatini da aggiungere (resto 2 mod 3 e 5)
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Benjamin — Quesito 19

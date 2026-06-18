@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: P su circoscritta; perimetro
 answer: perimetro tra 2 e 3
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 6

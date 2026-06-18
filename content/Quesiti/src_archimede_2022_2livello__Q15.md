@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Numeri petalosi, fiore massimo, non divisibili per 13'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 15

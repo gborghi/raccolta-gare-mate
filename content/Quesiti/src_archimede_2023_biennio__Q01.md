@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Probabilita stesso numero con dado a 6 e dado a 20 facce
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 1

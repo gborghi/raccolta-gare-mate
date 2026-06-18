@@ -7,6 +7,7 @@ family: imo
 year: '2020'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Tre rette concorrenti in quadrilatero con rapporti angoli
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2020 papers — Quesito 1

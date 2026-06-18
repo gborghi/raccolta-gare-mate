@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quale e la casa di Eva nella mappa
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 15

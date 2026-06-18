@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: punti sulla superficie
 answer: B
@@ -30,6 +31,7 @@ tags:
   - topic/geometria_solida
   - topic/geometria_solida
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Cadet (gara marzo) — Quesito 19

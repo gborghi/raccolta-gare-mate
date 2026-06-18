@@ -7,6 +7,7 @@ family: imo
 year: '1971'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Infinite pairwise-coprime subset of numbers 2^k-3
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1971
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1971 (Thirteenth International Olympiad) — Quesito 3

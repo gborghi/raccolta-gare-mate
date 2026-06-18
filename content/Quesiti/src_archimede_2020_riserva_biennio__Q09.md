@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Massimo numero di cavalieri ai tavoli con vincolo sui vicini
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 9

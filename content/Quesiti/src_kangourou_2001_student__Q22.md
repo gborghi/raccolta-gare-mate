@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Colore piu usato nella griglia 43x43
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 22

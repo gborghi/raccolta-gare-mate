@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Ordinare LAPIS con prima e ultima lettera vocali
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 12

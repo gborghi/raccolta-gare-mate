@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: Coppie intere con |x^2-3y^2+2xy|=1
 answer: '(1,0),(-1,0)'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Student finale nazionale — Quesito S1

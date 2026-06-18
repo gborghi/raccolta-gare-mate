@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Numeri di cifre con f(7n)+...; innatazione equivalente
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 8

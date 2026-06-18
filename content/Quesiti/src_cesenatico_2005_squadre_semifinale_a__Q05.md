@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Massimo intero non esprimibile come 23k+17h (Frobenius)
 answer: '0351'
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 5

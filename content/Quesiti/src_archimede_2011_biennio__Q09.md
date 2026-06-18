@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Area quadrilatero GEHF in parallelogramma
 answer: D
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 9

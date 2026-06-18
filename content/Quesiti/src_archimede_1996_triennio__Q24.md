@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Quanti numeri con cinque cifre 1 e una cifra 2
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 24

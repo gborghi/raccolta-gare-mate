@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Minimo piani per delimitare una regione limitata nello spazio
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (gara marzo) — Quesito 6

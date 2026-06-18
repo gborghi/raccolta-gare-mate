@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Probabilita crescita >=2013cm con 37 funghi (numeratore)
 answer: '2499'
@@ -24,6 +25,7 @@ tags:
   - anno/2013
   - livello/gara-del-pubblico
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 6

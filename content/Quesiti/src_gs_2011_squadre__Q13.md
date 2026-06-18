@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Valore espressione con cubo della somma
 answer: '2027'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 13

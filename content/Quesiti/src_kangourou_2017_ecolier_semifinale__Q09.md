@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Partite di Tris gia concluse su griglia avvolta
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2017 Ecolier - Semifinale individuale — Quesito 9

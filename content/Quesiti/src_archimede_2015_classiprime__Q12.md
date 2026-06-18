@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quanti primi distinti dividono 1122221100
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2015
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2015 — Quesito 12

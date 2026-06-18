@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: quanti ne raccolse la Morte
 answer: '8370'
@@ -23,6 +24,7 @@ tags:
   - livello/nazionale
   - topic/logica
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 1

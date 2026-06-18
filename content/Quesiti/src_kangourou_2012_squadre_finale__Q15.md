@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Area superficie totale dell'ottavo parallelepipedo
 answer: '22'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 15

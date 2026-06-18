@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Codice numero massimo con ogni sottosequenza prima
 answer: '373'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 13

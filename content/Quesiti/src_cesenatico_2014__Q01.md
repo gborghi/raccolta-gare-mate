@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Numeri di 3 cifre con n0 (senza zeri) divisore proprio di n
 answer: '93'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 1

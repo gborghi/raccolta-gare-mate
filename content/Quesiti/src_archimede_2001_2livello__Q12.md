@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: 'Minimo n>200 somma di 5, 6 e 7 interi consecutivi'
 answer: '315'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001 — Quesito 12

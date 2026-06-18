@@ -7,6 +7,7 @@ family: imo
 year: '1988'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Find values of BC2+CA2+AB2 and locus of BC midpoint
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1988
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1988 (29th IMO, Canberra) — Quesito 1

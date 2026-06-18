@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Numero di amici da 15 strette di mano
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 10

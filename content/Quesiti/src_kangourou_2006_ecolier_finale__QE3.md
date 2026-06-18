@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E3
 summary: Scritta PUZZLES vista riflessa dall'interno
 answer: immagine speculare
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Ecolier (finale nazionale) — Quesito E3

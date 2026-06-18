@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Probabilita di cubetto con una faccia dipinta
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/probabilita
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 12

@@ -6,12 +6,14 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2023
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 2

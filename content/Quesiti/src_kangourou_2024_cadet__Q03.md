@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Quanti numeri di 4 cifre con i tre gettoni 1,5,11'
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Cadet 2024 — Quesito 3

@@ -7,6 +7,7 @@ family: imo
 year: '1982'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Find ratio r making B, M, N collinear in hexagon'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1982
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1982 (23rd International Mathematical Olympiad) — Quesito 5

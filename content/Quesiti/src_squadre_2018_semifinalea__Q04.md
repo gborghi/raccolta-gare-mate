@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Sequenza autodescrittiva dopo 2018 iterazioni, terzo termine'
 answer: '0001'
@@ -24,6 +25,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 4

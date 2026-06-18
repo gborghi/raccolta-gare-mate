@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Incontri pareggiati nel torneo
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 14

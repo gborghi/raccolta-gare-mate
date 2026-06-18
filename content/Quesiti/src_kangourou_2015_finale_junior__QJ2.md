@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J2
 summary: misura angolo ABC
 answer: 45 gradi
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Junior — Quesito J2

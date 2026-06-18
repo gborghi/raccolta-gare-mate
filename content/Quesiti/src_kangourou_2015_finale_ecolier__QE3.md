@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E3
 summary: condizioni incrocio treni
 answer: max 9 carrozze
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Ecolier — Quesito E3

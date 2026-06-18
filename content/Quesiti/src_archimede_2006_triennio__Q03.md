@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Valori di a con x^2+2ax+1=0 a radici coincidenti
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio — Quesito 3

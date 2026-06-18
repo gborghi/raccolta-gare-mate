@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Calcolo di 11.111-1.1111
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2012 Junior (gara marzo) — Quesito 2

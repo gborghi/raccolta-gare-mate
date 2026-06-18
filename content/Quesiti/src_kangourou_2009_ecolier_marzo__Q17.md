@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Quante cifre diverse nella somma 1+11+...
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 17

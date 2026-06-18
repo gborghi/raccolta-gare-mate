@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Interi compresi tra 1 e 2005 con numero pari di divisori
 topics:
@@ -19,6 +20,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 11

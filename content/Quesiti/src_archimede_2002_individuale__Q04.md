@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: per quali n le radici sono intere
 answer: n=2 e n=-2
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 4

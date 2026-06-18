@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Partite in torneo a doppia eliminazione con 20 partecipanti
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 21

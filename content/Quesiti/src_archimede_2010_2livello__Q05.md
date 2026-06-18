@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Per quanti interi n il valore 3n/(n+5) è intero multiplo di 4
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Gioco tessere su griglia 1x2018, strategia vincente'
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/2-livello
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2018 - 2° livello — Quesito 16

@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Relazioni fra i conteggi dei palindromi di 5 6 7 cifre
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 23

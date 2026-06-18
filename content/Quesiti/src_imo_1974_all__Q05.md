@@ -7,6 +7,7 @@ family: imo
 year: '1974'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Determine all values of cyclic four-fraction sum S
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1974
   - livello/IMO
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1974 (Sixteenth International Olympiad) — Quesito 5

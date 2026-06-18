@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: Chi salta un circuito con fossato senza cadere e perche
 answer: Bruna
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C4

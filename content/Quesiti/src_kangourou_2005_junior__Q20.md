@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: 'Valore a_2005 in successione a_n=a_{n-1}-a_{n-2}'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (marzo) — Quesito 20

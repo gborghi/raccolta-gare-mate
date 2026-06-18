@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: terzo vertice in ordine
 answer: B
@@ -26,6 +27,7 @@ tags:
   - topic/geometria_piana
   - topic/algebra
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2016 Cadet (gara marzo) — Quesito 27

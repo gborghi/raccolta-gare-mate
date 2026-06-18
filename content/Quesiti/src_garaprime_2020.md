@@ -6,12 +6,14 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 n_quesiti: '18'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2020
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020

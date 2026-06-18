@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Facce e spigoli di un antiprisma a basi quadrate
 answer: '1016'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou 2009 squadre semifinale — Quesito 14

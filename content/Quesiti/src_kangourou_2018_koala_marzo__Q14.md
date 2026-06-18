@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Percorso del cane con 3 svolte destra e 2 sinistra
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gioco Koala (Marzo) — Quesito 14

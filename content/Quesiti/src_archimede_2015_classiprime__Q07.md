@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Area del piu piccolo triangolo equilatero che contiene esagono
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2015
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2015 — Quesito 7

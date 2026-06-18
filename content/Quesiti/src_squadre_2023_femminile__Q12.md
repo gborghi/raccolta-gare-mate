@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Valore f(5) con f(x)=ax^3+bx^2+5x-6 e f(a)=f(b)=f(c)=1
 answer: '6049'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2023 - VI Finale — Quesito 12

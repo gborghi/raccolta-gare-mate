@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: 'Sottrazione criptaritmica, somma cifre lettere'
 answer: 0029
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 11

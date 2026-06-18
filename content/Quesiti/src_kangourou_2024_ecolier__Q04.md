@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quale aspetto poteva avere la costruzione prima dell'incidente
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024 — Quesito 4

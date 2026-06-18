@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Numeri pari da 2 a 2010 non multipli di tre
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 9

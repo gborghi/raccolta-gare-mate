@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Probabilita somma dadi rossi uguale dado azzurro
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Triennio — Quesito 12

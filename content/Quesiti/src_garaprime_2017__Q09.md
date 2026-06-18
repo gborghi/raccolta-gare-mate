@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Somma minima delle aree accoppiando dieci segmenti
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2017
   - topic/combinatoria
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 9

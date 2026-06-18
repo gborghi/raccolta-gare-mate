@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Probabilita due carte stesso colore dopo scambi
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 4

@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B6
 summary: Chi ha vinto piu mani alla morra cinese
 answer: Marco 7
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin finale nazionale (Mirabilandia) — Quesito B6

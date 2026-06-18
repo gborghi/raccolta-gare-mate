@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Triangolo isoscele, bisettrice e cerchio per punto medio'
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2019 - 2° livello — Quesito 1

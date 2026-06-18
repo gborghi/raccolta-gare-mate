@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: 'Numeri sei cifre da tre coppie consecutive, non div 2/5/11'
 answer: '0032'
@@ -31,6 +32,7 @@ tags:
   - topic/combinatoria
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 9

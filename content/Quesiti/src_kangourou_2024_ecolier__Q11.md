@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Quale vaso si riempira per primo (tubi di scarico)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024 — Quesito 11

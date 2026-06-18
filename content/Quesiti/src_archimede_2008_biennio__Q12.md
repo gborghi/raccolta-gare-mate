@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: 'Somma numeri decimali periodici 0,60 e 0,70'
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 12

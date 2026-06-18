@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quale prodotto fornisce il risultato maggiore
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 9

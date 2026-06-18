@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Massimo numero di angoli retti in un decagono convesso
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Triennio (T1) — Quesito 8

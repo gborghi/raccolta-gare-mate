@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Lunghezza spigolo CD di tetraedro dati gli spigoli
 answer: D
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 19

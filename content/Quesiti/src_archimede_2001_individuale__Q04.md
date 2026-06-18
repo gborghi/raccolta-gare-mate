@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: somma a cinque cifre e zeri finali del mcm
 answer: somma=13999860; mcm termina con 3 zeri
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 4

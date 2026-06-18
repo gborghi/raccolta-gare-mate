@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Affermazioni su porte nelle pareti di una stanza
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/biennio
   - topic/logica
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 6

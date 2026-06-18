@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Come incernierare le due sezioni della porta
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2007 Junior (marzo) — Quesito 13

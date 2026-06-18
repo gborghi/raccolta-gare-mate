@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Funzione crescente moltiplicativa f(n)=n
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/nazionale
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1998 — Quesito 6

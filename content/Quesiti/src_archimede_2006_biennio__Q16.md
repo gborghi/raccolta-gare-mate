@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Studenti in entrambe le gare di chimica e fisica
 answer: E
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 16

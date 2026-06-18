@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Probabilità esattamente due agenti dicono verità con dado
 answer: '8677'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 4

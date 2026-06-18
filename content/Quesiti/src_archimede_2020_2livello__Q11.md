@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Bisettrice, cerchio tangente, trovare AB'
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2020 - 2° livello — Quesito 11

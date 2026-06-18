@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: Somma lunghezze dei 7 segmenti paralleli
 answer: '35'
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C4

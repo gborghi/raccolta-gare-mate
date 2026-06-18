@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Velocita nave da calo stimato di 1 minuto ogni 7 miglia
 answer: '3570'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale A — Quesito 9

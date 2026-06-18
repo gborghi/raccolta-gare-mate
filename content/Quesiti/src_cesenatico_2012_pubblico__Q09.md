@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: 'Min c con d=(a^n-b^n)/(2^c), a,b,c,d dispari, n=2^2012'
 answer: '2015'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 9

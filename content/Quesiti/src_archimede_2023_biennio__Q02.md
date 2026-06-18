@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Numeri di 3 cifre multipli di 4 con cifre 1,2,5,8'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 2

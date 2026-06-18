@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Numero segmenti unitari che dividono triangolo in area 1/4
 answer: '0002'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 13

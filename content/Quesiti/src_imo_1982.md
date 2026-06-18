@@ -6,12 +6,14 @@ family: imo
 year: '1982'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1982
+  - gara/individuale
 ---
 
 # IMO 1982 (23rd International Mathematical Olympiad)

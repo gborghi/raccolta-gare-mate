@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Area del rombo ombreggiato nel rettangolo 90cm2
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin gara individuale — Quesito 14

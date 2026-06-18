@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Max somma aree triangoli rettangoli interi non congrui
 answer: '3930'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 2

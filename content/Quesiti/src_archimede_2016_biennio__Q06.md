@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: punti da reti segnate/subite
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 6

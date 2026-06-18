@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Colorazione griglia con vincoli righe/colonne, coppie (m,n)'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 15

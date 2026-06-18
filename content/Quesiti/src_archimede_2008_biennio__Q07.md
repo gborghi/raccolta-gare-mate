@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Frazione percorsa dalla mamma all'incontro con Pietro
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 7

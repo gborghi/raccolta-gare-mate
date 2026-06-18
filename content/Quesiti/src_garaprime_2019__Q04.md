@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Massima distanza tra anagrammi di MAMMMMME
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2019
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 4

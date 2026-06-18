@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Area di ABC dato quadrato sull''ipotenusa e aree di ABE, ACD'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 8

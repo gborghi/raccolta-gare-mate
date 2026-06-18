@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Rimbalzi palla in stanza che raddoppia
 answer: '0022'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 3

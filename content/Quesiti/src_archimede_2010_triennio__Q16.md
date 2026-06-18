@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Terne interi 0-100 con identita tra quadrati
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 16

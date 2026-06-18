@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Spettatori certamente italiani maschi e vegetariani
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2011 Junior (gara marzo) — Quesito 5

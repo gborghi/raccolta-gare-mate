@@ -7,6 +7,7 @@ family: imo
 year: '1966'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Prove triangle isosceles from given tangent relation
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # IMO 1966 (Eighth International Olympiad) — Quesito 2

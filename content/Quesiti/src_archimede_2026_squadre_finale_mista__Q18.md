@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Somma potenze 16-esime delle radici del polinomio
 answer: '0012'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 18

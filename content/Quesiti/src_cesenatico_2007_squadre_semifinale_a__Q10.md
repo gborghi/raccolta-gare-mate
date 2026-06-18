@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Area frammento piu grande del kunai spezzato (AC=26)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 10

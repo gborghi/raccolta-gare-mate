@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Somma coefficienti grado pari di (3-2x-3x^2)^21
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 2

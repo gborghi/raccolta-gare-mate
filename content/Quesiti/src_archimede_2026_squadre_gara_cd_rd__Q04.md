@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Valore minimo di (x+y)^2 con xy=5
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/disuguaglianze
+  - gara/squadre
 ---
 
 # Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 4

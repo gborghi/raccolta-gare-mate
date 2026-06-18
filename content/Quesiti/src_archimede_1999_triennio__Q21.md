@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Raggio di un cerchio tangente a due lati e passante per A
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 21

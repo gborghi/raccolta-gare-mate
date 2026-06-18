@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Triangolo, bisettrice e circonferenze, triangolo isoscele e similitudini'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 16

@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Unico numero 4 cifre quadrato e cubo perfetto
 answer: '4096'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 12

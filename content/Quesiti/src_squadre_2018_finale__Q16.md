@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: 'Codici di 2018 cifre 0,1,2 con somma al piu 8, resto mod 2018'
 answer: '0001'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale — Quesito 16

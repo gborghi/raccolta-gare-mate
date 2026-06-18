@@ -7,6 +7,7 @@ family: imo
 year: '2017'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Equazione funzionale f(f(x)f(y))+f(x+y)=f(xy)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2017
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 2017 papers — Quesito 2

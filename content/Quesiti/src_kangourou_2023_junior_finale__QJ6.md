@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J6
 summary: coppie a distanza massima ≤ n
 answer: 'al più n, può essere n'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J6

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: 'Pentagono con quadrato e triangolo isoscele, trovare AE'
 answer: '0013'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 5

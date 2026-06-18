@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Numero alberi sul perimetro del parco quadrato
 answer: '56'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Semifinale A — Quesito 10

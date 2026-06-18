@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Minimo valore tra quelli assegnati ai punti a media
 answer: '2018'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Semifinale Junior — Quesito 15

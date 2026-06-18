@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: In quanti modi costruire il bruco con i sette pezzi
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Benjamin 2024 — Quesito 29

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Percorso minimo del ladro per toccare parete e diamante
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 8

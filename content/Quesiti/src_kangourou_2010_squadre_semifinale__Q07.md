@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Somma interi pari n con -53<2010/(53-n)<53-n
 answer: '302'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/disuguaglianze
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 7

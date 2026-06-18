@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: posizione dei passeggeri
 answer: 0196
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 18

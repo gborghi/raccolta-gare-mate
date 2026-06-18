@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: Numero di sottoinsiemi con numero dispari di elementi
 answer: 2^(n-1)
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S1

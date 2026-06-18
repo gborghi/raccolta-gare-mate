@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: 'conto quadruplicato in 20 anni, ultime 4 cifre dopo 20000'
 answer: '0076'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 18

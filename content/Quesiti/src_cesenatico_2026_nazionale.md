@@ -6,12 +6,14 @@ family: archimede
 year: '2026'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2026
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico

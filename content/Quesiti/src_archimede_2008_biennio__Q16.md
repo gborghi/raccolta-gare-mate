@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Area delimitata da corde e arco in cerchio diviso in tre
 answer: A
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 16

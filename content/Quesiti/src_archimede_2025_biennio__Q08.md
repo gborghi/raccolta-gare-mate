@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Differenza max-min cima piramide somme (4 numeri)
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio — Quesito 8

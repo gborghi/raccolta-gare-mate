@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: costante mistica
 answer: 0096
@@ -19,6 +20,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Finale — Quesito 15

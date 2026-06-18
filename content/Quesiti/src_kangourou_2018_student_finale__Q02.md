@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quante carte scartate data probabilita 1/1001 dei 4 assi
 answer: '38'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Finale Nazionale Student — Quesito 2

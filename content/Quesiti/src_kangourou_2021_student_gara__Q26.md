@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Triangoli distinti da 15 punti su circonferenza a meno di simmetrie
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 26

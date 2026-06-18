@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Numero di cifre di 8^5 * 5^17 * 7^3
 answer: '19'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 3

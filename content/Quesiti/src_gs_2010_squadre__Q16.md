@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Estrazioni perche probabilita superi 1/2
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 16

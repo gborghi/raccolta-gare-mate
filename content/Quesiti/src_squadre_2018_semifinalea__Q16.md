@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: 'Rettangolo e triangolo, area quadrilatero CYXD'
 answer: 0248
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 16

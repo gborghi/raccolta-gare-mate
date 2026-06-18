@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J2
 summary: B+I+N+O nella moltiplicazione UN x 6 = BIO
 answer: '16'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (finale nazionale) — Quesito J2

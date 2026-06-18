@@ -7,6 +7,7 @@ family: imo
 year: '1997'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Permutation making weighted sum small under coefficient bounds
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1997
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1997 (38th IMO, Mar del Plata) — Quesito 3

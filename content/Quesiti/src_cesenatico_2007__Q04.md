@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: massimo euro garantiti
 answer: 32 euro
@@ -22,6 +23,7 @@ tags:
   - anno/2007
   - livello/nazionale
   - topic/logica
+  - gara/individuale
 ---
 
 # XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 4

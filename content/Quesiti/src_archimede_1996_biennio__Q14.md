@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Numero di cifre del prodotto di due numeri ripetitivi
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 14

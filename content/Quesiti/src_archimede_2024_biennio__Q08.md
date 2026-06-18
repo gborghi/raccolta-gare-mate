@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Differenza max-min al vertice di piramide di somme
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio — Quesito 8

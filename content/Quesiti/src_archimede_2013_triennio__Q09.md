@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'Massimo quaderni di colori diversi, potenze di 2'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 9

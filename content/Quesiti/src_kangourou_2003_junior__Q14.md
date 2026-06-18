@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Differenza max-min multipli di 8 da 888
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Junior (20 marzo) — Quesito 14

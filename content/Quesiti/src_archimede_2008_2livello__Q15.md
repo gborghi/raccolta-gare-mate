@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Coppie reali (x,y) con 4/(x+y) = 1/x + 1/y'
 answer: 'y=x con (0,0) escluso'
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 15

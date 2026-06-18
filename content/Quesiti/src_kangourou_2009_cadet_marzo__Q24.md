@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Rapporto superfici otto parallelepipedi su cubo
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 24

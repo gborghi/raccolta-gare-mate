@@ -7,6 +7,7 @@ family: imo
 year: '1970'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Inradius/exradius product relation for split triangle
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1970
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1970 (Twelfth International Olympiad) — Quesito 1

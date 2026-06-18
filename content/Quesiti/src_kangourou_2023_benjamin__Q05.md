@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'una +4 una -2 dal vero, quanti'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 5

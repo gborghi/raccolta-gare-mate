@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: trova n
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Semifinale individuale — Quesito 7

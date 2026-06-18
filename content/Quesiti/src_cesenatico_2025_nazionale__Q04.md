@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Massimo numero di potenze di 2 come somma di coppie in S
 answer: '2024'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Valore di 1-6x da equazione lineare
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 2

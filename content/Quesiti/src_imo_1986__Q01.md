@@ -7,6 +7,7 @@ family: imo
 year: '1986'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Find pair in {2,5,13,d} with ab-1 not perfect square'
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1986
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1986 (27th IMO, Warsaw) — Quesito 1

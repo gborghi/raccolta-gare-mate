@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quale barile contiene birra dato il vincolo doppio sul vino
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 2

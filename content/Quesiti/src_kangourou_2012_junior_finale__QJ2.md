@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J2
 summary: Quante sfere per tre punti non allineati e raggio minimo
 answer: infinite
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J2

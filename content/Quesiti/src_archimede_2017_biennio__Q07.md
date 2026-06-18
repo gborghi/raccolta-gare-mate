@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Area regione con sei semicirconferenze raggio 1
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 7

@@ -6,12 +6,14 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 n_quesiti: '24'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2016
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale

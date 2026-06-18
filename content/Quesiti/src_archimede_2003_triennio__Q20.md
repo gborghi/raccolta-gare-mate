@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Somma reciproci delle radici di un polinomio di grado 4
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 20

@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Valore di x+(2/x) data x^2-4x+2=0
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (gara marzo) — Quesito 9

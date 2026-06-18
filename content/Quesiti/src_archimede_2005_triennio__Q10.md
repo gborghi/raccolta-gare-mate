@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Valori di a con 2a^4-4ab+b^2+2=0
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 10

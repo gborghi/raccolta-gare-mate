@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Percentuale ombreggiata di circonferenze concentriche
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - gara marzo — Quesito 2

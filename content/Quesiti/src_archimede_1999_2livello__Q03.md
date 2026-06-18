@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Area della regione definita da cerchio e striscia
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/2-livello
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1999 — Quesito 3

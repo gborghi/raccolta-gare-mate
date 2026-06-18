@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Minima somma dei 4 interi ai vertici del quadrato (divisibilita)
 answer: '35'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale Nazionale Cadet — Quesito 5

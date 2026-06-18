@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B2
 summary: Eliminare due caselle per rendere vera l'uguaglianza
 answer: 129x5+3=648
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 Benjamin finale (maggio) — Quesito B2

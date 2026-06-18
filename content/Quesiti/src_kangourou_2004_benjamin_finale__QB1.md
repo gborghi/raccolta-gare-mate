@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Concludere famiglia dei pirati Martedi/Mercoledi
 answer: Martedi sincero
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Benjamin finale nazionale — Quesito B1

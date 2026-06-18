@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Coppie casella bianca-nera non in riga/colonna
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (marzo) — Quesito 29

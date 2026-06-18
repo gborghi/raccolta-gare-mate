@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J4
 summary: Minimo valore di N(P) per un pentagono
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Finale Junior 2024 — Quesito J4

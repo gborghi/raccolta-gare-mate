@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Scambi di lettere adiacenti da VELO a LOVE
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (gara marzo) — Quesito 8

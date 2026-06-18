@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Porta di uscita attraversando stanze triangolari
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2006 Ecolier (marzo) — Quesito 7

@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quale espressione e sicuramente positiva date disuguaglianze
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2023
   - livello/triennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Triennio — Quesito 6

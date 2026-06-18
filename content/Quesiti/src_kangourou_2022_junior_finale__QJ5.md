@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Lati rossi e verdi dell'ottagono hanno somma uguale
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2022 Junior finale individuale — Quesito J5

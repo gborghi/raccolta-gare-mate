@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: quante soluzioni reali
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2004
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Biennio — Quesito 14

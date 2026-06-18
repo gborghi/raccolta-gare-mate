@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Valore di f(0)+f(1)+f(2)+f(3) con f(x+y)=f(x)f(y)
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Student — Quesito 20

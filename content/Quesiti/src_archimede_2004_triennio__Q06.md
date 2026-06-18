@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: valore della somma 1/4+1/16+...
 answer: Ö/65
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Triennio — Quesito 6

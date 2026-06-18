@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Probabilita prodotto di tre numeri termini con piu zeri
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student semifinale — Quesito 6

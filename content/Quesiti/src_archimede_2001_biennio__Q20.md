@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Cifra delle unita del prodotto di numeri di 8 cifre
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 20

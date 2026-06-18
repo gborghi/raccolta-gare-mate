@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Differenza massima tra due angoli di triangolo scaleno intero
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2024
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 1

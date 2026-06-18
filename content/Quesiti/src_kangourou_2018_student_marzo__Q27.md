@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Probabilita che la somma dei tre massimi sia 18
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Student — Quesito 27

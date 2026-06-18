@@ -7,6 +7,7 @@ family: imo
 year: '1984'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Bound diagonal-sum to perimeter ratio of convex polygon
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1984 (25th International Mathematical Olympiad) — Quesito 5

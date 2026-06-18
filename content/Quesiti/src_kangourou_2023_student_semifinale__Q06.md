@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Segno di m e n affinche una espressione sia intera
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Student 2023 — Quesito 6

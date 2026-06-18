@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Numeri di 5 cifre senza zeri multipli di 12
 answer: '4374'
@@ -24,6 +25,7 @@ tags:
   - anno/2006
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 15

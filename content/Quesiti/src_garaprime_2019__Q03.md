@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quale parola ha il maggior numero di anagrammi
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2019
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 3

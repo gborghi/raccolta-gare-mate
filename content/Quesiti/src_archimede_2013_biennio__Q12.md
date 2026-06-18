@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Area cerchio non coperta da triangolo equilatero
 answer: C
@@ -20,6 +21,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 12

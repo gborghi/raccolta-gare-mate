@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Mossa vincente nel gioco Dividi e Sostituisci
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2020
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Prodotto cifre di n con 3n=ABCDE1
 answer: '2240'
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 14

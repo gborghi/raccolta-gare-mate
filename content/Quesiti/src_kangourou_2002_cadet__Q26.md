@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Angolo col punto di domanda dopo pieghe
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Cadet (21 marzo) — Quesito 26

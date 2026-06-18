@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Casella del numero 2018 in griglia senza multipli di 11
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Triennio (T1) — Quesito 15

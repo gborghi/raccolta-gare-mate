@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quante affermazioni vere su numeri dispari consecutivi
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio — Quesito 16

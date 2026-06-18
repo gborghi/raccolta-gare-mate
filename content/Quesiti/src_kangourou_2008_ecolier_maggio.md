@@ -6,12 +6,14 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2008
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier finale nazionale (Mirabilandia)

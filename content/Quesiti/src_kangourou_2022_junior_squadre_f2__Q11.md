@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Massimo parallelepipedi da 4 punti non complanari
 answer: 0029
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 2 — Quesito 11

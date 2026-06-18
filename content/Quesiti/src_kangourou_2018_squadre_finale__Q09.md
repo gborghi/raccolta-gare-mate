@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Percentuale area trapezio occupata dal triangolo AHD
 answer: '0021'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 9

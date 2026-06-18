@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: 'Triangolo isoscele rettangolo, due cerchi tangenti, valore 2000 CE/CB'
 answer: '0343'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 13

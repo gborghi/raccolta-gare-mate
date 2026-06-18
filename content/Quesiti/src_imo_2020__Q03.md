@@ -7,6 +7,7 @@ family: imo
 year: '2020'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 4n sassi colorati in due mucchi bilanciati
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2020 papers — Quesito 3

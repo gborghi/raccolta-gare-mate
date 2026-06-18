@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Valore della somma di frazioni cicliche
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 29

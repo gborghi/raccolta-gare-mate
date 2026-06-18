@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Valore n con errore di scala mappa e prezzo +6%
 answer: '51'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 2

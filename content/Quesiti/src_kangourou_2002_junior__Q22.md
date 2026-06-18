@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Minimo autocarri per 50 scatole
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Junior (21 marzo) — Quesito 22

@@ -6,12 +6,14 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '25'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/1998
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio

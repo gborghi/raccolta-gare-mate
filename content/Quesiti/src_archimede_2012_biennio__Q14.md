@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Aumento prezzo benzina da aumento petrolio del 10%
 answer: D
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Rapporto perimetro figura ad archi su perimetro quadrato
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Area del rettangolo che inscrive la figura a cuore
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Triennio (T1) — Quesito 18

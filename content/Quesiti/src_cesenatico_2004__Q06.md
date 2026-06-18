@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: dimostrare xyz = x+y+z+2
 answer: identita dimostrata
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 6

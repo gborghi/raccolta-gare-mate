@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: '30'
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio — Quesito 7

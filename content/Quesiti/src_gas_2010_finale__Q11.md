@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Valore atteso tessere multiple di 7 prima della rossa
 answer: '0006'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 11

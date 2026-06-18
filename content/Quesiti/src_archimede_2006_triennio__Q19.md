@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: 'Sinceri e bugiardi tra Andrea, Barbara e Ciro'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio — Quesito 19

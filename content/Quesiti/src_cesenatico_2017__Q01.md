@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: due circonferenze stesso raggio
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2017
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 1

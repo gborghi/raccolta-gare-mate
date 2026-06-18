@@ -7,6 +7,7 @@ family: imo
 year: '1961'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Provare a^2+b^2+c^2 >= 4 sqrt3 T (disuguaglianza di Weitzenbock)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1961 (III International Olympiad) — Quesito 2

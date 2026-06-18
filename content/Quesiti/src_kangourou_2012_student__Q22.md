@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Confronto volumi ellissoidi di rotazione attorno agli assi
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 22

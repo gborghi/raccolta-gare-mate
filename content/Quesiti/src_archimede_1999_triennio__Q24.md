@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Minimo numero di cifre di n con 3 e 5 divisibile per 11
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 24

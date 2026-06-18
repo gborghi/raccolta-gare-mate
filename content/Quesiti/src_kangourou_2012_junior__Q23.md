@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Area del pentagono ABNMD’ dopo la piega
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2012 Junior (gara marzo) — Quesito 23

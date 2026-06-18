@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Stato finale del gioco delle caramelle con invariante
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 13

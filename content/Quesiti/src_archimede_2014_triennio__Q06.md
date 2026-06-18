@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quale tra cinque espressioni e un numero intero
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 6

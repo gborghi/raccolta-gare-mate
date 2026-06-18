@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C2
 summary: Min a con somma a+...+9a a cifre uguali
 answer: '12345679'
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Cadet finale nazionale — Quesito C2

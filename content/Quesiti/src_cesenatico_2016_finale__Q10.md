@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Cifre 1 nella numerazione binaria di 1..2016
 answer: 0998
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 10

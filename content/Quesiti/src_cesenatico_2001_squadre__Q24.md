@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '24'
 summary: Coppie ordinate di divisori di 385 con m divisore di n
 answer: '0027'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 24

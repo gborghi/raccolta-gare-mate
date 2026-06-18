@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Numero di passi per raggiungere 30 metri di distanza
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 9

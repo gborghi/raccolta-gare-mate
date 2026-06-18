@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Coppie (a,b) con polinomio intero p(5,1)=a, p(17,19)=b'
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 10

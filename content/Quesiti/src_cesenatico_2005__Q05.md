@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: per quali h torna a 1
 answer: tutti gli interi positivi dispari
@@ -22,6 +23,7 @@ tags:
   - anno/2005
   - livello/nazionale
   - topic/funzionali
+  - gara/individuale
 ---
 
 # XXI Olimpiade Italiana Cesenatico 2005 — Quesito 5

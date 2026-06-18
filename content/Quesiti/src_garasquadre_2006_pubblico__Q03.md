@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: modi dei mutui rapporti
 answer: '0052'
@@ -19,6 +20,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 3

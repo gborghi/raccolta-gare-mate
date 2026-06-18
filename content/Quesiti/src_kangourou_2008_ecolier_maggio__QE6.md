@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E6
 summary: Tagliare e ricomporre la torta (due tagli)
 answer: costruzione
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E6

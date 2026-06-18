@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Distanza tra punti medi di BC e AD nel trapezio circoscritto
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2017 - 2 livello — Quesito 7

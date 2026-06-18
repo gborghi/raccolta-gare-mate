@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Somma fattori primi di 12345
 answer: 0831
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Finale — Quesito 8

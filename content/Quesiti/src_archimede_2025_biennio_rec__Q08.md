@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Valore di espressione con potenze di 3 e 28
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 8

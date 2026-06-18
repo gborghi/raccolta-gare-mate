@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Probabilita che MCD con 42 sia maggiore di 10
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - topic/probabilita
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 13

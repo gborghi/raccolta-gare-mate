@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Prezzo ottimale spade per massimizzare i guadagni
 answer: '6500'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale B — Quesito 13

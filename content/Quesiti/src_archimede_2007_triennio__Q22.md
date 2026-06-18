@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Implicazione logica vera secondo Francesco
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 22

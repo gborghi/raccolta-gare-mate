@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B5
 summary: Minimo estrazioni per svuotare urna (variazioni +/-1)
 answer: '9'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (finale nazionale) — Quesito B5

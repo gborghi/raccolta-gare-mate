@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J1
 summary: Traiettoria del punto medio della sbarra che scivola
 answer: un quarto di circonferenza
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior finale (maggio) — Quesito J1

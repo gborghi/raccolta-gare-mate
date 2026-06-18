@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C3
 summary: 'Coppie (a,b) con a+b=283*353 e b divide a'
 answer: tre coppie
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Cadet finale — Quesito C3

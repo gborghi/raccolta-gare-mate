@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: 'Max vittorie Gonioku (mini-torneo, min e max)'
 answer: '0611'
@@ -24,6 +25,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Area triangolo da trapezio con similitudini
 answer: 0192
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Coppa Galileo 2013 - Gara a squadre — Quesito 4

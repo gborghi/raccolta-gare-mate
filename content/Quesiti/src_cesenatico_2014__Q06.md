@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: minimo numero di caselle speciali
 answer: 4n
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 6

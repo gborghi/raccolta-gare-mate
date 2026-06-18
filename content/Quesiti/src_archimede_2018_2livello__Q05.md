@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Numeri m con 3m=ABC e 4m=CAB
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2018 - 2° livello — Quesito 5

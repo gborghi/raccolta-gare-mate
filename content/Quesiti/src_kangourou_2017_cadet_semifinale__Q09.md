@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Minimo mosse della Donna per tornare alla casella iniziale
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (semifinale individuale) — Quesito 9

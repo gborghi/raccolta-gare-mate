@@ -7,6 +7,7 @@ family: imo
 year: '1968'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Evaluate infinite sum of floor((n+2^k)/2^(k+1))
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1968
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1968 (Tenth International Olympiad) — Quesito 6

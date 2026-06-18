@@ -7,6 +7,7 @@ family: imo
 year: '2019'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Monete Bank of Bath, valore medio L(C)'
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # IMO 2019 papers — Quesito 5

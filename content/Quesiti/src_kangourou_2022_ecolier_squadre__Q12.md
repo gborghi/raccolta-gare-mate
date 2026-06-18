@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Allineamenti di 1..9 con vincoli d'ordine
 answer: '0071'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 12

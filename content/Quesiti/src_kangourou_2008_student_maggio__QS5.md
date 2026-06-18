@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S5
 summary: Esiste retta che interseca tutti i poligoni
 answer: dimostrazione
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S5

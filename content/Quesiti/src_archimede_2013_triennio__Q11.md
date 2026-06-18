@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Coppie reali con x^2k+y^2k=(xy)^k
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 11

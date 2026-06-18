@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Quale non puo essere area di triangolo con lati 6 e 8
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2011 Cadet (gara marzo) — Quesito 8

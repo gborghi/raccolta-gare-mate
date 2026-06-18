@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Minimo numero di lettere per parola che contiene tre parole
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Benjamin 2024 — Quesito 3

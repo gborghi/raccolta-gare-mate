@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Probabilita che la spezzata passi per l'origine
 answer: '2367'
@@ -31,6 +32,7 @@ tags:
   - topic/geometria_analitica
   - topic/probabilita
   - topic/geometria_analitica
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 9

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Permutazioni di 1..10 con somma pari uguale a dispari
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 11

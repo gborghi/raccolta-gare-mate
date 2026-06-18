@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Modi di completare la griglia di carte
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2004 Junior (18 marzo) — Quesito 12

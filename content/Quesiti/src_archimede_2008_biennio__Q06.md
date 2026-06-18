@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Perimetro triangolo HBC simile in triangolo rettangolo
 answer: C
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 6

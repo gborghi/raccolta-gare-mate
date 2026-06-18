@@ -7,6 +7,7 @@ family: imo
 year: '2020'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Retta separante con distanza >=c·n^(-1/3)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2020 papers — Quesito 6

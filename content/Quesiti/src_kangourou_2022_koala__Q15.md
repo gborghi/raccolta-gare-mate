@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: stella dopo quadrato prima di triangolo
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Koala — Gioco Koala — Quesito 15

@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Raggio della terza di 7 circonferenze (prog. geometrica)
 answer: (R/r)^(1/3) r
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2007 Junior finale (maggio) — Quesito J5

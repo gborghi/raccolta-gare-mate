@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Misura angolo AVC della piramide pentagonale
 answer: '108'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Finale — Quesito 15

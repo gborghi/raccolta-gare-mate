@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Interi n con n-52 e n+53 quadrati perfetti
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 9

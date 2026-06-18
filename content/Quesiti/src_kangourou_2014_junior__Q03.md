@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quale disuguaglianza tra le lunghezze dei fili e corretta
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Junior — Quesito 3

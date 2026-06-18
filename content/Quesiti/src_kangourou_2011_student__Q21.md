@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Somma degli n<100 con n^2-81 multiplo di 100
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 21

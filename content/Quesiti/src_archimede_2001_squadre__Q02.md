@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: 'Posizione del pianeta (24,25) nella numerazione a coppie'
 answer: '1250'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 2

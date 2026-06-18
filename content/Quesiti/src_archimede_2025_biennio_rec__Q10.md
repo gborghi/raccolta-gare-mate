@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Lunghezza UV tra archi nella diagonale del quadrato
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 10

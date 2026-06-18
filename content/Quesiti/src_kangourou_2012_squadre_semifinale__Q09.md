@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Triangoli rettangoli con vertici del cubo
 answer: '48'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A — Quesito 9

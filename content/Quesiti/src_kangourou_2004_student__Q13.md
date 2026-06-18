@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Percentuale marziani con tentacoli sopra la media
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2004 - Student (marzo) — Quesito 13

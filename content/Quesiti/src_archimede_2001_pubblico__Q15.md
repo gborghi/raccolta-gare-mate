@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: probabilita di max 5 punti consecutivi
 answer: 0028
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 15

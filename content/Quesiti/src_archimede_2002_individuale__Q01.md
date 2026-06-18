@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: determinarle
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2002
   - livello/nazionale
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 1

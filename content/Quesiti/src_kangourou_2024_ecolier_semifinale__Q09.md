@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Chi ha mentito tra i quattro nipotini
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Ecolier 2024 — Quesito 9

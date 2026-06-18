@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Probabilita tre lanci dado formino triangolo rettangolo
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 22

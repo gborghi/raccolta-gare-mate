@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Scarto massimo tra le due bilance con 2021 oggetti
 answer: '0000'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student semifinale individuale — Quesito 14

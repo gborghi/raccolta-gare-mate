@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Piu piccolo numero con somma 83 e prodotto 1024
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 15

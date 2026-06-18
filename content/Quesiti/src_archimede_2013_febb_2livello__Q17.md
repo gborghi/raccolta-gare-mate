@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: parallela per P bisecata e PQ biseca la base minore
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2013
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 17

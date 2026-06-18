@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Area sezione quadrilatero di piramide esagonale
 answer: '210'
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 17

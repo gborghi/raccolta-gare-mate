@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: N=2014x2014 somma di n consecutivi
 answer: '4'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Finale — Quesito 9

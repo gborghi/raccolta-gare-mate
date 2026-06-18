@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 1/x=1/AB+1/AC
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 1

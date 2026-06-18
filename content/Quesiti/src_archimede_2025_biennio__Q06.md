@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Scegliere due libri di generi differenti
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio — Quesito 6

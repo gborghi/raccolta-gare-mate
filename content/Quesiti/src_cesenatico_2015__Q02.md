@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: da un certo punto un solo genere
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2015
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 2

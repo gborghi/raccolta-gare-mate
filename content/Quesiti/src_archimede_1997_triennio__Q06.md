@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Minuti per formare una catena aperta di 10 anelli
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Ragazze che hanno mentito a un tavolo rotondo
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 17

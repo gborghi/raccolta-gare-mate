@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: ultime 4 cifre
 answer: '4512'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/gara-del-pubblico
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 17

@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Battiti del cuore in un'ora
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Ecolier (21 marzo) — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Volume generato da rotazione di superficie a semicirconferenze
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/2-livello
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 4

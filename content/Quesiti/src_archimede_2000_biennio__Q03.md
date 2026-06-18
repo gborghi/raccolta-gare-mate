@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Media aritmetica dei numeri da 1 a 2000
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 3

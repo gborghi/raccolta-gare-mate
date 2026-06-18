@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: 'Triangoli equiarea iterati 1000a/b, ultimo bastoncino'
 answer: '6854'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 16

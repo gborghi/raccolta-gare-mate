@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Probabilita di rendere divisibile per 11 un quadrato
 answer: A
@@ -29,6 +30,7 @@ tags:
   - topic/aritmetica
   - topic/probabilita
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 17

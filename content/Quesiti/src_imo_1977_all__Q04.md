@@ -7,6 +7,7 @@ family: imo
 year: '1977'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: f(theta)>=0 implies a^2+b^2<=2 and A^2+B^2<=1
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/trigonometria
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1977 (Nineteenth International Olympiad) — Quesito 4

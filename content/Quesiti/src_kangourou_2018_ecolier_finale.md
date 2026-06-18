@@ -6,12 +6,14 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2018
+  - gara/squadre
 ---
 
 # Kangourou Coppa Ecolier squadre 2018 Finale

@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Numero di primi nella fattorizzazione di p(19,18)'
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 15

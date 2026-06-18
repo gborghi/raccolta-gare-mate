@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Numero che completa l'albero delle addizioni
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 1

@@ -7,6 +7,7 @@ family: imo
 year: '1997'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Chessboard triangle black-white area difference function f(m,n)'
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1997 (38th IMO, Mar del Plata) — Quesito 1

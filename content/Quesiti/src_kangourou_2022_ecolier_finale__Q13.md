@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quanti numeri 4 cifre somma 4 e prodotto 0
 answer: 0019
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier finale individuale — Quesito 13

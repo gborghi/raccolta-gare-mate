@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quali carte rovesciare (logica condizionale)
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2006 Student (marzo) — Quesito 6

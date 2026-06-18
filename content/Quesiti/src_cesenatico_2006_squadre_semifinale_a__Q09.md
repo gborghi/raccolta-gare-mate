@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Volte che lancetta secondi sorpassa minuti in una settimana
 answer: '9912'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 9

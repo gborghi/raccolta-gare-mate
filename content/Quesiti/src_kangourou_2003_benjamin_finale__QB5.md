@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B5
 summary: Prime e ultime tre cifre con somma 2003
 answer: 599 / 999
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Esistono tre punti col cerchio vuoto all'interno
 answer: si
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J5

@@ -7,6 +7,7 @@ family: imo
 year: '1975'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Find homogeneous two-variable polynomials with cyclic condition
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1975
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1975 (Seventeenth International Olympiad) — Quesito 6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S5
 summary: n interi distinti ciascuno divide somma altri n-1
 answer: vera
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Student finale — Quesito S5

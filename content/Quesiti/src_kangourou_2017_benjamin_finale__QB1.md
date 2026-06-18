@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Anni fa la somma eta figli uguale a quella del padre
 answer: 11 anni fa
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2017 Benjamin (finale Cervia) — Quesito B1

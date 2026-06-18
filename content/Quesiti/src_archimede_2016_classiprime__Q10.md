@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Area triangolo APQ data area quadrilatero BCQP
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2016
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2016 — Quesito 10

@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Volume di mattoncino da tre possibili altezze di pila
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/biennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 8

@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Area del quadrato col rettangolo nero 8x4
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 14

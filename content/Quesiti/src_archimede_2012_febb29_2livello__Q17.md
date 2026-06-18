@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Bisettrice, circocentro di APR e similitudine STC con APC'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 17

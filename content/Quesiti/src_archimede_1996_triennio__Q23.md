@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Quale insieme di frazioni e finito
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 23

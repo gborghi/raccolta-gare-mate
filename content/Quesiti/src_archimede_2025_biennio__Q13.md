@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Punteggio possibile di Barbara nella gara a punti
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio — Quesito 13

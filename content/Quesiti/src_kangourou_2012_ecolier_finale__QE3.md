@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E3
 summary: Quante biglie marroni tra le 20 di Elena
 answer: '4'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E3

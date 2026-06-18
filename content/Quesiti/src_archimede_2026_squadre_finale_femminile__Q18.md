@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Massimo b con radici di g quadrati radici di f
 answer: '3236'
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 18

@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Spigoli del cubo con vertici tagliati
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 7

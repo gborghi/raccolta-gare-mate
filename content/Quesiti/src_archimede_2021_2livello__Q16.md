@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Successione con parte frazionaria, interruzione e razionalità'
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2021 - 2° livello — Quesito 16

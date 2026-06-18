@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Minimo numero di colori per le sette linee metropolitane
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Benjamin 2024 — Quesito 23

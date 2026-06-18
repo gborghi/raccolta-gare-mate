@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Per quali interi a/b + c/d = (a+c)/(b+d)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio — Quesito 11

@@ -7,6 +7,7 @@ family: imo
 year: '2017'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Rimuovere giocatori lasciando 2N con condizioni altezza
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2017
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2017 papers — Quesito 5

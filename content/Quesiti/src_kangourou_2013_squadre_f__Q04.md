@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: senza quadrati ne cubi
 answer: '2067'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Finale — Quesito 4

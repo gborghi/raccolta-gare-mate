@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Stima di un prodotto di frazioni pari su dispari
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/triennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 25

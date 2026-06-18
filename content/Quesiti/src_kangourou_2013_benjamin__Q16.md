@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Reti segnate dalla squadra di casa
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 16

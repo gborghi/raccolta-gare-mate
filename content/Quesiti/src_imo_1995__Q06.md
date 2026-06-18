@@ -7,6 +7,7 @@ family: imo
 year: '1995'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Count p-element subsets of 1..2p with p-divisible sum
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1995 (36th IMO, Toronto) — Quesito 6

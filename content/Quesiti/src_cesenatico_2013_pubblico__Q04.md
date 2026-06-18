@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Somma terne eta <=30 non coprime a due a due
 answer: 0960
@@ -24,6 +25,7 @@ tags:
   - anno/2013
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 4

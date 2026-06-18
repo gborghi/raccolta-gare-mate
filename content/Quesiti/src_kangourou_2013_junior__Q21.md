@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Resto della divisione per 5 di (somma fattoriali)^2
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Junior — Quesito 21

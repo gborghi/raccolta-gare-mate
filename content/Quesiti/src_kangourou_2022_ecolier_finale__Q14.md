@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quattordicesimo termine della sequenza somma
 answer: '6144'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier finale individuale — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Probabilita aura 7 cifre con 4 zeri sia maggiore
 answer: '3333'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 16

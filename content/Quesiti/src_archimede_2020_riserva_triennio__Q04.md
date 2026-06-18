@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Numeri pari di tre cifre distinte contenenti 0 e 7
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 4

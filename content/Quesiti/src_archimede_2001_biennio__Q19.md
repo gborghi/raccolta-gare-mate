@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Area quadrilatero EFGH da triangoli isosceli esterni
 topics:
@@ -21,6 +22,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 19

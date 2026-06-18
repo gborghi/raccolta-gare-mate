@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Probabilita sedia vuota tra ragazzo e ragazza
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Triennio (T1) — Quesito 14

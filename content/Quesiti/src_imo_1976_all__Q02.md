@@ -7,6 +7,7 @@ family: imo
 year: '1976'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Iterated polynomial P_n(x)=x has real distinct roots
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1976
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1976 (Eighteenth International Olympiad) — Quesito 2

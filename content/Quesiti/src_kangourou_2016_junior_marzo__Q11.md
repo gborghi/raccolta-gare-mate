@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Maggiore tra a,b,c,d dato sistema di uguaglianze'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (gara marzo) — Quesito 11

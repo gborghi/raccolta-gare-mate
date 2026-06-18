@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Prodotto possibile di cinque numeri scelti tra 1,2,4'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2004 - Student (marzo) — Quesito 8

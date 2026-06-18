@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Numeri di 17 cifre (1 e 2) compatibili con max/min di colonna
 answer: '16'
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 12

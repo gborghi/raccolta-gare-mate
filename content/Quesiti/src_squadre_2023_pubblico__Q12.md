@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: f(11) con f ottenuta da (x-1)^9 modificando i termini
 answer: '4191'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Gara del pubblico — Quesito 12

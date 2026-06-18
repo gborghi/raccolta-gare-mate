@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: resto 1 per 7 e resto 2 per 10
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 1

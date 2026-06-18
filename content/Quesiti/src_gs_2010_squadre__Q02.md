@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Successione ricorsiva di chiamata dei numeri
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 2

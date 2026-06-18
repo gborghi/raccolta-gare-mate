@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Ultima cifra di 1!+2!+...+2002!
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 2

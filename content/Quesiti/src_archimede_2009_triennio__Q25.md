@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Area superficie cubo esterna a sfera per punti medi
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 25

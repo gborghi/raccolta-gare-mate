@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Carte minime per 50% di pescare almeno un cuori
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 4

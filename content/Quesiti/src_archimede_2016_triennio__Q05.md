@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Tre coppie con maglie di colore diverso
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Triennio — Quesito 5

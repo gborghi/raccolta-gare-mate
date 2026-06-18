@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: 10000 volte prodotto radici reali di 16x^4-16x^3-4x+1
 answer: '2500'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 20

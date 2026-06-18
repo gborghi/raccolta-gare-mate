@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Prime 4 cifre somma codici Fibonacci (controllo)
 answer: '1791'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/funzionali
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 8

@@ -7,6 +7,7 @@ family: imo
 year: '2014'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Massimo k con quadrato k×k libero da torri pacifiche
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2014 (shortlist/papers) — Quesito 2

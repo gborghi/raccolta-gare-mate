@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Massimo numero 4 cifre per 17 quadrato perfetto
 answer: '9792'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 10

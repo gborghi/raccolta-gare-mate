@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Ordinamento corretto di radici 2rad2, rad10, rad5+rad3'
 answer: A
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 4

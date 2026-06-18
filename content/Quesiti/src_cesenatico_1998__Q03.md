@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Probabilita che si giochi a poker stasera
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1998
   - livello/nazionale
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1998 — Quesito 3

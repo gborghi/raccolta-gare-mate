@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quale spigolo aumentare per massimo incremento di volume
 answer: A
@@ -19,6 +20,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 1

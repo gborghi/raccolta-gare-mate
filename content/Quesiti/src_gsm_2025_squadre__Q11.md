@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Numeri di otto cifre che generano rettangoli
 answer: '0052'
@@ -28,6 +29,7 @@ tags:
   - topic/aritmetica
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 11

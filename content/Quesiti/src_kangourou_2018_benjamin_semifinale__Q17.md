@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Quanti numeri come somma A (4 cifre) e B (2 cifre)
 answer: '0007'
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2018 Benjamin - Semifinale individuale — Quesito 17

@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Fra quanti martedi ragazzi=ragazze
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 9

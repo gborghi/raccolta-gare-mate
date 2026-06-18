@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Massima velocita inseguitore con rotta alternata a due direzioni
 answer: 0588
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale B — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quanti n con rappresentazione base 2 uguale a base 3 di 2n
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 9

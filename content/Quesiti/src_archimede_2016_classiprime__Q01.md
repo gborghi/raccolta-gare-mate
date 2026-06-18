@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Massimo numero di divisori del quadrato di n con 6 divisori
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2016
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2016 — Quesito 1

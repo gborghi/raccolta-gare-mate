@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Probabilita somma 7 con due dadi non standard
 answer: 0718
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 14

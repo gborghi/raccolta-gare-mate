@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Proprieta comune dei tre rettangoli su un triangolo
 answer: B
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 3

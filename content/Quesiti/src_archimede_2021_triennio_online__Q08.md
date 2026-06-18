@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Area triangolo PQR da aree di sotto-triangoli con ceviane
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 8

@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Tempo perché il raggio del nastro raddoppi di nuovo
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 3

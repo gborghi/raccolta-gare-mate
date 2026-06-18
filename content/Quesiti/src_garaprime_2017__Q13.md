@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Grado del polinomio da uguaglianza di gradi
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2017
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 13

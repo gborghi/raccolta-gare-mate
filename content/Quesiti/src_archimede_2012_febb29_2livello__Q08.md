@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Minimo a+b con 21ab^2 e 15ab cubi perfetti
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 8

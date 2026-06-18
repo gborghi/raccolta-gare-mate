@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Terne (a,b,c) con a!=2^b+2^c'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 17

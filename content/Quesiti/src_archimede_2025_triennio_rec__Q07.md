@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Valore di H·(√47+√39) con somma di radicali razionalizzati
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 7

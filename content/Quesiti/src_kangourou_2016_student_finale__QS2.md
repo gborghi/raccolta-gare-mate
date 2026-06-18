@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S2
 summary: 'Giorni festivi in piu aggiungendo i ponti, anno 3000 giorni'
 answer: '2'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (finale Cervia) — Quesito S2

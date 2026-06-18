@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Minuti d'uso cellulare durante ricarica (40% consumato)
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Triennio (T1) — Quesito 5

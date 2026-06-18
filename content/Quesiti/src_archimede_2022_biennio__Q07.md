@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Perimetro parallelogramma da perimetri di sotto-parallelogrammi
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 7

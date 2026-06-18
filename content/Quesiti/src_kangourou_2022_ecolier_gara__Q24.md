@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Numero nella cella nera della griglia colorata
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier gara individuale — Quesito 24

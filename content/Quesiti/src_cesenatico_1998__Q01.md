@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Somma di floor(sqrt n) da 1 a 1000000
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1998
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1998 — Quesito 1

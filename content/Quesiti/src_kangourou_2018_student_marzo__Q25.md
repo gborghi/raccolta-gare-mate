@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Quante soluzioni reali positive di ||x^3-2|-3|=2
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Student — Quesito 25

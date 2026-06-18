@@ -7,6 +7,7 @@ family: imo
 year: '1975'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Infinitely many a_m of form x a_p + y a_q
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1975
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1975 (Seventeenth International Olympiad) — Quesito 2

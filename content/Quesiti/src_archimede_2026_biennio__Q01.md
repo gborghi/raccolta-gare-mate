@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Valore frazione con potenze di 10
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 1

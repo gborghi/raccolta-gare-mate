@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quante soluzioni ha 2^(2x)=4^(x+1)
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Student — Quesito 3

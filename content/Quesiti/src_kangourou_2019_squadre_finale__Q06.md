@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Salti dalla casa dopo 2019 salti del canguro
 answer: 0039
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Finale — Quesito 6

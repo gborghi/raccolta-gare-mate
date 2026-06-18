@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Posizione finale dopo 1997 passi su foglio a quadretti
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 8

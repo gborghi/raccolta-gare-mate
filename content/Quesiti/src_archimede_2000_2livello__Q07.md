@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Chi è il colpevole dalle dichiarazioni degli imputati
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 7

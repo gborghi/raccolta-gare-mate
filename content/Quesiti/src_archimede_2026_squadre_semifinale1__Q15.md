@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: 'Numero radici reali di p_20 con ricorrenza p_{n+1}=1-p_n^2'
 answer: '3070'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 15

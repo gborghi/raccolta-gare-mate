@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 20052004 e 20042005 sono somma di due quadrati perfetti positivi?
 answer: '(a) si, (b) no'
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 3

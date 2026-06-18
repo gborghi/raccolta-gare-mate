@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quanti tra ragazzi e ragazze al pareggio
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 13

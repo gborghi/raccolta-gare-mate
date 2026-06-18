@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Probabilita che Silvia vinca dopo 5 a 4-1
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 11

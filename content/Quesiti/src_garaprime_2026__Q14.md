@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Problemi scritti da Marco quando Anna ha finito
 answer: C
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/algebra
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 14

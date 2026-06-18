@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Soluzioni di f^2013(n)=1 con f dimezzamento
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 25

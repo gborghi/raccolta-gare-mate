@@ -7,6 +7,7 @@ family: imo
 year: '1982'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Prove three lines through midpoints and reflected touch-points concurrent
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1982
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1982 (23rd International Mathematical Olympiad) — Quesito 2

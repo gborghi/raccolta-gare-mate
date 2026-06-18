@@ -7,6 +7,7 @@ family: imo
 year: '1986'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Pentagon integer-relabeling operation terminates in finite steps
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1986
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1986 (27th IMO, Warsaw) — Quesito 3

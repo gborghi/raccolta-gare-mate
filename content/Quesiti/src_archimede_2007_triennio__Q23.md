@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Percentuale area intersezione di due triangoli equilateri
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 23

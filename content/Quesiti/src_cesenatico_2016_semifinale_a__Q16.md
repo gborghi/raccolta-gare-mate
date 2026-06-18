@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Valore di -1^3-2^3+3^3+4^3-...+16^3 (segni alternati)
 answer: '4456'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 16

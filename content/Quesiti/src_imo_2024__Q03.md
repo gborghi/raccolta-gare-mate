@@ -7,6 +7,7 @@ family: imo
 year: '2024'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Successione conta-occorrenze eventualmente periodica
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2024 papers — Quesito 3

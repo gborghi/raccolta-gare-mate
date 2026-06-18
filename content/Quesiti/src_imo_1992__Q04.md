@@ -7,6 +7,7 @@ family: imo
 year: '1992'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Find locus of P with incircle tangent and midpoint condition
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1992
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1992 (33rd IMO, Moscow) — Quesito 4

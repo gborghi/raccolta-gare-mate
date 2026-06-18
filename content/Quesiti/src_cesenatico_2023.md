@@ -6,12 +6,14 @@ family: archimede
 year: '2023'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2023
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni

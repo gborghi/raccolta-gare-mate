@@ -7,6 +7,7 @@ family: imo
 year: '1972'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Ten two-digit numbers have two disjoint equal-sum subsets
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1972
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1972 (Fourteenth International Olympiad) — Quesito 1

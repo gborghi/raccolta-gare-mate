@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E5
 summary: Numeri di 3 cifre con cifre che differiscono di almeno 4
 answer: '18'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Ecolier (finale nazionale) — Quesito E5

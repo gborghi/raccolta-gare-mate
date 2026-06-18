@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Da |3a-b+1|=|b|, quale relazione vale necessariamente'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 1

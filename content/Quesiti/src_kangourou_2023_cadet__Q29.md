@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: 'Sei interi consecutivi su 3 monete, lanci 6,7,8/23/17'
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2023 Cadet — Gara 16 marzo — Quesito 29

@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Soldi iniziali del giocatore lavorando all'indietro
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 18

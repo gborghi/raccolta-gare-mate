@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Minimo numero di interi consecutivi con somma data
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Junior (gara marzo) — Quesito 1

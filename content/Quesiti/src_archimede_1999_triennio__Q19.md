@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: In quanti modi disporre 3 ragazzi e 3 ragazze
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 19

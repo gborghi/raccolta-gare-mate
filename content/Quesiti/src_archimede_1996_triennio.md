@@ -6,12 +6,14 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '25'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/1996
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio

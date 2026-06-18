@@ -7,6 +7,7 @@ family: imo
 year: '1969'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Conditions on a for tetrahedron with k edges length a
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1969
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1969 (Eleventh International Olympiad) — Quesito 3

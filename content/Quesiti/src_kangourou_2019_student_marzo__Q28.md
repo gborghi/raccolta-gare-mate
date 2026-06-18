@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Valore di a_2019 nella successione (quadrato somma cifre +1)
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Student (triennio) — Quesito 28

@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Colore opposto a quello bianco
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Benjamin (21 marzo) — Quesito 19

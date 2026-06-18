@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S5
 summary: Asse di un segmento con metrica del max (distanza Chebyshev)
 answer: descrizione luogo
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Finale (risposta aperta) — Quesito S5

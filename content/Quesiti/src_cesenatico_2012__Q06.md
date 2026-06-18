@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: colorazione interi forza differenza a o b
 answer: coppie con max potenza di 2 diversa
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 6

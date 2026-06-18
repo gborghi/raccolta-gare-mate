@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Distanza tra punti con archi in un quadrato
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 17

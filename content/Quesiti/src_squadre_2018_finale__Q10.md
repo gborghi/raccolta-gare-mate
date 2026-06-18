@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: 'Bugiardi e sinceri in fila con risposte a pattern, massimo bugiardi'
 answer: '1009'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale — Quesito 10

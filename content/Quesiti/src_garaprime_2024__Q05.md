@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Misura di HK in rettangolo diviso in tre congruenti
 answer: C
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 5

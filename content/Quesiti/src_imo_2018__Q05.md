@@ -7,6 +7,7 @@ family: imo
 year: '2018'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Successione interi con somma ciclica intera diventa costante
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2018 papers — Quesito 5

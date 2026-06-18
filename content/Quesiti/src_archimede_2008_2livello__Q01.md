@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Combinazioni di cassaforte a 5 cifre con vincoli di parità
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 1

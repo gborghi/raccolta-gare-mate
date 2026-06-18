@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: 'Minimo numero di caramelle (20 per sacchetto, 12 avanzate)'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Benjamin 2024 — Quesito 27

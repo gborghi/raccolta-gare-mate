@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Minimo giri perche Giorgio reincontri Thea in A
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier gara individuale — Quesito 21

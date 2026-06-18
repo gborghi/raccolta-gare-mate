@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: esiste xi >= 2017
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/nazionale
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Valore di una frazione complessa con potenze di 5
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2020
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 6

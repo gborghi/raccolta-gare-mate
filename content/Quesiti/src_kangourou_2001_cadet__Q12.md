@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Noccioline di Nicola e Michele
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Cadet (15 marzo) — Quesito 12

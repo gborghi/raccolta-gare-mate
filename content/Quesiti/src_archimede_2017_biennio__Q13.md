@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Sostituzione di bibita per ottenere 50% succo
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 13

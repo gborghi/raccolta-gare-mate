@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Conteggio righe dispari nel triangolo di Tartaglia (1600-1728)
 answer: '2189'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale A — Quesito 12

@@ -7,6 +7,7 @@ family: imo
 year: '1993'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: which n leave one piece
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1993
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1993 (34th IMO) — Quesito 3

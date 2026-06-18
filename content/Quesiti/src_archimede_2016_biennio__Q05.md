@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Acquisto di due capi di tipo diverso
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2016
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 5

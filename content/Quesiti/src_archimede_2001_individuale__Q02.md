@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: quante squadre partecipano
 answer: '12'
@@ -23,6 +24,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 2

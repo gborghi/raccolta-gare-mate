@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Valori m,n,p per villaggio di capanne con ponti'
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1999 — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Scacchiera infinita e numeri interi positivi scritti in spirale
 answer: dimostrato
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # XXII Olimpiade Italiana Cesenatico 2006 — Quesito 4

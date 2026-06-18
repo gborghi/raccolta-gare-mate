@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Negazione di una affermazione con quantificatori annidati
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 8

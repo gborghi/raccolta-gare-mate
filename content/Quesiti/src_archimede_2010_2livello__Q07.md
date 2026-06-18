@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Seconda cifra del prodotto (10^16+1)...(10+1)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 7

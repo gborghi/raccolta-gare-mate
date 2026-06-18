@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Dimostrare c1+..+cn>=n se prodotto ci=1 (AM-GM)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior - finale — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: divisibilita dei numeri di cifre
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2003
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 1

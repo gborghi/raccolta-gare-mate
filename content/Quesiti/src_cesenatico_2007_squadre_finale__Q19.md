@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Area quadrilatero ciclico con riflessione E (raggio 15)
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 19

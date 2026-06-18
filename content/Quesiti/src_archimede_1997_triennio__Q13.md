@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Conviene tirare o fermarsi nel gioco del dado
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 13

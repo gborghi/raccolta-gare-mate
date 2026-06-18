@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Misura di un angolo dati altri angoli e allineamento
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 3

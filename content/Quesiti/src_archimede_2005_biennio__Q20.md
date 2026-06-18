@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Catena di disuguaglianze tra potenze 2 e 3
 answer: E
@@ -19,6 +20,7 @@ tags:
   - anno/2005
   - livello/biennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 20

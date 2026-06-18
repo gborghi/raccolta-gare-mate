@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Membri dell'associazione con A doppio di B e 64%
 answer: '0075'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 8

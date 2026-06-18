@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Terne a>b>c>1 con 1/a+1/b+1/c>1
 answer: C
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2014 gara 20 marzo Student — Quesito 14

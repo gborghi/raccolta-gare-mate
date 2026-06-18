@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Ultime due cifre dell'ultimo termine di sequenza q=p+p^2
 answer: 0092
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/funzionali
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 5

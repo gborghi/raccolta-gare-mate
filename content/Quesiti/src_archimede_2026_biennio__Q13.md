@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: 'Ordinamento di k, k^2, k^3 per -1<k<0'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 13

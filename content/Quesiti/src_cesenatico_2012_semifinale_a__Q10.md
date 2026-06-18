@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Probabilita lanci dado diversi da -2 e +4 giorni
 answer: 0914
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 10

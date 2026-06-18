@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Dimensioni rettangolo tagliato in 15 quadrati uguali
 answer: '3521'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A — Quesito 6

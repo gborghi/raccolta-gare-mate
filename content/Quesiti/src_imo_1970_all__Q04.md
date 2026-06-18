@@ -7,6 +7,7 @@ family: imo
 year: '1970'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Find n where six consecutive integers split into equal products
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1970
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1970 (Twelfth International Olympiad) — Quesito 4

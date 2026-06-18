@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Volume del solido entro 1.8mm dal perimetro di triangolo equilatero
 answer: '1205'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Gara del Pubblico — Quesito 20

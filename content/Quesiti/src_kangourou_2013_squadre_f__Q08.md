@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Quanti minuti ha camminato Emma (ora solare)
 answer: '54'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/logica
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Finale — Quesito 8

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Cavalieri e furfanti, quanti cavalieri dato totale di Si'
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 2

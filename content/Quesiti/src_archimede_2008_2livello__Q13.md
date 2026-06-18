@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Più grande primo di due cifre con varie condizioni di primalità
 answer: '71'
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 13

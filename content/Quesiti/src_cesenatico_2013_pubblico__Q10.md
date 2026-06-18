@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Modi di sedersi a tavola (Ghiro vicino)
 answer: '0272'
@@ -24,6 +25,7 @@ tags:
   - anno/2013
   - livello/gara-del-pubblico
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 10

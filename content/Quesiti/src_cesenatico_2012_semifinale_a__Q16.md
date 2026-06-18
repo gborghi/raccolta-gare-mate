@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Configurazioni distinte di 8 dischetti ad anello
 answer: '0022'
@@ -24,6 +25,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 16

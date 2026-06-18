@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: 'Punti interi su segmento da (0,0) a (4200,3000)'
 answer: 0599
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/geometria_analitica
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Semifinale A — Quesito 14

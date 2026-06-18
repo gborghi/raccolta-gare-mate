@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Dopo quanti giri il ciclista veloce raggiunge l'altro
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 10

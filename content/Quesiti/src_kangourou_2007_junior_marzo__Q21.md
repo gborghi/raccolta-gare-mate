@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: 'Valore a^3+b^3 dove a,b radici di x^2-3x+1'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2007 Junior (marzo) — Quesito 21

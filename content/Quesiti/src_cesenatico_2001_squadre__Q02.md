@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: 'Posizione del pianeta (24,25) nell''ordinamento dei pianeti'
 answer: '1250'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 2

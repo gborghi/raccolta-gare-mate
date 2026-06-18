@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Cifra delle unita del prodotto (5^5+1)(5^10+1)(5^15+1)
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 10

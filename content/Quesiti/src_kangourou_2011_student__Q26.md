@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Lunghezza del lato FA dell'esagono tangente
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 26

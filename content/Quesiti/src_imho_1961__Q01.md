@@ -7,6 +7,7 @@ family: imo
 year: '1961'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Sistema x+y+z=a, x^2+y^2+z^2=b^2, xy=z^2 con condizioni'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1961
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1961 (III International Olympiad) — Quesito 1

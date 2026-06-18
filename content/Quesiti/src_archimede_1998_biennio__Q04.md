@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quante caramelle riceve ogni vincitore
 answer: D
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 4

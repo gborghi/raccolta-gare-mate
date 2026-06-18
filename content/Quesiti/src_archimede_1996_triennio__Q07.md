@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Somma dei reciproci delle radici di una quadratica
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 7

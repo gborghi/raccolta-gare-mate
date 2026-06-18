@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Probabilita non viste tutte le facce dado a 4 al sesto lancio
 answer: '0044'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2023 - VI Finale — Quesito 16

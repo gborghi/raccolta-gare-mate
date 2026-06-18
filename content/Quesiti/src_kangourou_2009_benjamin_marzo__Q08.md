@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Lunghezza linea in grassetto (quadrati di 3 misure)
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 8

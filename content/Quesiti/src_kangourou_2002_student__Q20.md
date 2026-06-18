@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Secondo termine della successione fino 1000
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 20

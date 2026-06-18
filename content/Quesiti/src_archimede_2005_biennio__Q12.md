@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Triangolo con assi e bisettrice concorrenti
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 12

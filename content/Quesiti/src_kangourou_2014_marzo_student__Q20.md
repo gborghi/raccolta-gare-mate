@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: valore a
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2014 gara 20 marzo Student — Quesito 20

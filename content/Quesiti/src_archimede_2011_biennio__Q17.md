@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Raggio minimo cerchio con tre vertici stesso colore
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 17

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Minimo numero di chiavi e disposizione fra quattro amici
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Finale Benjamin 2024 — Quesito B1

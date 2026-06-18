@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Angolo B in triangolo con AC=CD e AD=DB
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 3

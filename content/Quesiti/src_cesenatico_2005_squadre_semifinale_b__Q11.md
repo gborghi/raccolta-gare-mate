@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Resto di 3^210 diviso 2^13
 answer: '4097'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 11

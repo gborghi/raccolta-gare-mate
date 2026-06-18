@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Numero di terne reali del sistema simmetrico x+y+z, ecc.'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 8

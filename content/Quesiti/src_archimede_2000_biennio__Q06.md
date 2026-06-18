@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numero di assi di simmetria della figura
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quanti numeri secondi tra 40 e 70
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 3

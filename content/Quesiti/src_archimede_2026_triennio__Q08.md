@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Polinomio che concatena cifre 4, valore p(10)'
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 8

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Numero dipendenti che massimizza giornate lavorative
 answer: 364 o 365
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student finale — Quesito S6

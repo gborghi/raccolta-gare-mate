@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Settima cifra in base 8 da rappresentazione binaria data
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 3

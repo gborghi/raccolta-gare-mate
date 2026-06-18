@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Numero membri associazione con A 64% dei voti
 answer: '75'
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 8

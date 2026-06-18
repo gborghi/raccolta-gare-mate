@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Massimo numero formato con cifre date (somma e prodotto)
 answer: 0941
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 1

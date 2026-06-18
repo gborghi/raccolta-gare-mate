@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Somma valori x per cui max(4-2x,3x-1)=8'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 3

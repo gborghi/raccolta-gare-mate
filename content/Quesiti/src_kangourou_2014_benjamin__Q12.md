@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Strada e direzione di Simona per raggiungere Elena
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Benjamin — Quesito 12

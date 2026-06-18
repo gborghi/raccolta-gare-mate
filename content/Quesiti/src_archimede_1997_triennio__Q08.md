@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Rapporto fra volumi dato il rapporto fra superfici di cubi
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 8

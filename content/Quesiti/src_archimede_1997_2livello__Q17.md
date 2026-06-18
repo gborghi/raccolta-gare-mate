@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Coppie (m,n) naturali con mn = p(m+n), p primo'
 answer: '(2p,2p), (p²+p,p+1), (p+1,p²+p)'
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 17

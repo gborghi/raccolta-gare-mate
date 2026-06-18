@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Quale fra alcuni numeri e il piu piccolo
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 7

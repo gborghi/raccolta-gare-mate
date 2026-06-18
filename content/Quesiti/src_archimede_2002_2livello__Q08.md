@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Valore del polinomio r(2002) con r(2000)=2000, r(2001)=2001'
 answer: B
@@ -19,6 +20,7 @@ tags:
   - anno/2002
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2002 — Quesito 8

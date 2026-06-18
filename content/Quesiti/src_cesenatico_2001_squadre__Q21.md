@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Ultime 4 cifre del conto quintuplicato ogni 20 anni
 answer: '3125'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara Nazionale a Squadre Cesenatico 2001 — Quesito 21

@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Spigoli di un poliedro da conteggio delle facce
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 18

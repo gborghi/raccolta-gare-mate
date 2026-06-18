@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Ora di ritorno con fuso orario tra due citta
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 3

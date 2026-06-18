@@ -7,6 +7,7 @@ family: imo
 year: '1982'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Determine f(1982) for a subadditive integer function
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1982 (23rd International Mathematical Olympiad) — Quesito 1

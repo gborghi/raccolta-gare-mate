@@ -7,6 +7,7 @@ family: imo
 year: '1976'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'System with +-1,0 coefficients has bounded nonzero integer solution'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1976
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1976 (Eighteenth International Olympiad) — Quesito 5

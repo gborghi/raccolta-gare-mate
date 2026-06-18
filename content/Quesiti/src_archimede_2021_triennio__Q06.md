@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Interi n con n^6+3n^5 multiplo di 49, somma di due'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 6

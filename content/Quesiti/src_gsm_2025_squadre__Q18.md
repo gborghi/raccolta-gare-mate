@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Probabilita che compaia 2026 in una successione di operazioni
 answer: '1351'
@@ -27,6 +28,7 @@ tags:
   - topic/probabilita
   - topic/aritmetica
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 18

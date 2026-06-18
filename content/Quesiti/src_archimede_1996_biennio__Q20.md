@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Angolo ECD in un pentagono regolare con triangolo equilatero
 answer: D
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 20

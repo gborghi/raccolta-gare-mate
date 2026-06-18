@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Somma dei quadrati delle radici di x^3-46x^2+55x-7
 answer: '2006'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 15

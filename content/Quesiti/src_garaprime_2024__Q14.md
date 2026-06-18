@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quanti numeri tra 2 e 900 hanno esattamente 3 divisori
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 14

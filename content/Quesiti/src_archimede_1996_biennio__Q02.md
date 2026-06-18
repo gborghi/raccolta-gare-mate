@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Percentuale di matematici dato un rapporto su abitanti
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 2

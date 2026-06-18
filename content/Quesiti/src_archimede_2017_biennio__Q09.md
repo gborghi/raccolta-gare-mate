@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Triangolo con angoli BAD=ACD e CAD=ABD
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 9

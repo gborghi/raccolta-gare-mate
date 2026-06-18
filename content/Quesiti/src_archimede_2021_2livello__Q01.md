@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Numeri di 6 cifre palindromi divisibili per 33
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2021 - 2° livello — Quesito 1

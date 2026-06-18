@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Lunghezza AB diagonale del parallelepipedo
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo) — Quesito 12

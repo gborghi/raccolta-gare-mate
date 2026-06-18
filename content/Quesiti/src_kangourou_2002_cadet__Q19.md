@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Minimo monete sulla griglia 2x9
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Cadet (21 marzo) — Quesito 19

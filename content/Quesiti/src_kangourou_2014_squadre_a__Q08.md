@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Quante cifre 0 nel quoziente R(25)/R(5)
 answer: '16'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Semifinale A — Quesito 8

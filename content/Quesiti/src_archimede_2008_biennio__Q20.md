@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Modi di scegliere terna spalatori con numeri distinti
 answer: D
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 20

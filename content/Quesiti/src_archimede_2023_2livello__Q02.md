@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Biglie colorate, condizioni ''tranne'', totale biglie'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2023 - 2° livello — Quesito 2

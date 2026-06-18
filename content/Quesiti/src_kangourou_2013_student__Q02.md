@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Raggio del cerchio inscritto nell’ottagono regolare
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Area ricoperta da esattamente due adesivi quadrati
 answer: '408'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 4

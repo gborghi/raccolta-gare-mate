@@ -7,6 +7,7 @@ family: imo
 year: '1978'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Midpoint of tangency chord PQ is incircle center
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1978
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1978 (Twentieth International Olympiad) — Quesito 4

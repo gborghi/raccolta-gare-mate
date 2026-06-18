@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Soldatini tra 2000 e 2500 con resto 1 per 2..7
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 6

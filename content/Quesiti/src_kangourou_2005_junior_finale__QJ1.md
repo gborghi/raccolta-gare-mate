@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J1
 summary: Minimo lacci comprati da Silvia
 answer: '5'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (finale nazionale) — Quesito J1

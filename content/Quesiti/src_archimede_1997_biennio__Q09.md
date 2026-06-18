@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Colla per costruire un cubo 5x5x5 da cubetti unitari
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 9

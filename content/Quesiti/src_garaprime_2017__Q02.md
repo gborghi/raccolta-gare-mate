@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Resto di un repunit binario di 2017 cifre diviso 16
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2017
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 2

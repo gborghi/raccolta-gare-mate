@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Membri dei due cori con parte in comune
 answer: '2745'
@@ -22,6 +23,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 2

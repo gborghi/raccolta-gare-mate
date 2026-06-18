@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Quante casseforti per il bottino 44100
 answer: '0020'
@@ -21,6 +22,7 @@ tags:
   - anno/2020
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 14

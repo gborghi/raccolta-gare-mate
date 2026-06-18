@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Probabilita somme parziali di lanci non divisibili per 7
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2001
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 8

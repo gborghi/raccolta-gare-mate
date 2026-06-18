@@ -6,12 +6,14 @@ family: imo
 year: '1977'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1977
+  - gara/individuale
 ---
 
 # IMO 1977 (Nineteenth International Olympiad)

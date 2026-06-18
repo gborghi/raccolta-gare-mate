@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J6
 summary: 'Numero di sottoinsiemi porosi di {1..10}'
 answer: '504'
@@ -24,6 +25,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2007 Junior finale (maggio) — Quesito J6

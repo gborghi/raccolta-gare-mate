@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: 'Sottoinsiemi non vuoti di {1..9} con somma multipla di 3'
 answer: '0175'
@@ -22,6 +23,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 12

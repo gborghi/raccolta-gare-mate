@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Coefficienti non nulli del prodotto di binomi (1+x^3^k)
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/algebra
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 10

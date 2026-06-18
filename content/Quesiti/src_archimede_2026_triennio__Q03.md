@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Eta marziano/venusiana, anni trascorsi multiplo di 3'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 3

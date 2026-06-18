@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Diametro cilindro misurato con calibro a becchi corti
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 16

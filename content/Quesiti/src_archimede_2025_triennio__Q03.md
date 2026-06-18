@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Massima distanza tra due punti in piazza quadrata, distanze dai lati'
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Area di triangolo interno con lati paralleli a distanza 2
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 16

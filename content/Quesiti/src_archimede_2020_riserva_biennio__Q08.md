@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Regioni illimitate prolungando i 18 lati di un poligono
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 8

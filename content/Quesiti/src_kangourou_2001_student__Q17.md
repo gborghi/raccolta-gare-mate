@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Area figura con due triangoli e cerchio
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 17

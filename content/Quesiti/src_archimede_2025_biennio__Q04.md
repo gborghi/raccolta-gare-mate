@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Capacità recipiente da differenza tra 75% e 20%
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Perimetro rettangolo dato incremento d'area di +1 cm sui lati
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2013
   - topic/algebra
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 9

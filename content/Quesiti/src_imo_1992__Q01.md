@@ -7,6 +7,7 @@ family: imo
 year: '1992'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Find a,b,c with (a-1)(b-1)(c-1) dividing abc-1'
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1992
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1992 (33rd IMO, Moscow) — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quante cifre ha il numero 2^3*5^4*10^5
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 1

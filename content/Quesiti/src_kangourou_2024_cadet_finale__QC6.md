@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C6
 summary: Minimo numero di rette per coprire i vertici dei quadretti
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou Finale Cadet 2024 — Quesito C6

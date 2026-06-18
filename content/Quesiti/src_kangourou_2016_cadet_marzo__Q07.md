@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: quanti usano auto
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Cadet (gara marzo) — Quesito 7

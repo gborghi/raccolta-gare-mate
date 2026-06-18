@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S2
 summary: In quanti modi 270 come somma interi consecutivi
 answer: '7'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Student finale — Quesito S2

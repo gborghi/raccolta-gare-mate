@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Valore di k tale che a_k=2008 (successione)
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo) — Quesito 25

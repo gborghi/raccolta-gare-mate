@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Area regione (quadrati con 2 vertici comuni)
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2007 Student (marzo) — Quesito 12

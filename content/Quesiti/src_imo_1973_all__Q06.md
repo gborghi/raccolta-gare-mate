@@ -7,6 +7,7 @@ family: imo
 year: '1973'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Construct b_k bounding a_k with ratio and sum conditions
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1973
   - livello/IMO
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1973 (Fifteenth International Olympiad) — Quesito 6

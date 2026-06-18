@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B6
 summary: 'Numeri LIETI <1000 (quadrato divisibile per 7,8,9,10)'
 answer: 420 e 840
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 Benjamin finale (maggio) — Quesito B6

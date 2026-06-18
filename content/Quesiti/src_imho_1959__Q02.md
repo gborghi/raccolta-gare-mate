@@ -7,6 +7,7 @@ family: imo
 year: '1959'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Valori reali di x per una equazione con radici annidate
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1959
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1959 (I International Olympiad) — Quesito 2

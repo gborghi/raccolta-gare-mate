@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Mosse minime per girare 11 monete a gruppi di 3
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2020
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 2

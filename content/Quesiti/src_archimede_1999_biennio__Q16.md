@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Probabilita che il prodotto di due numeri sia multiplo di 5
 answer: B
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 16

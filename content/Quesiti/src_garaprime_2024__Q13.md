@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quale numero non puo essere prodotto dei divisori
 answer: D
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 13

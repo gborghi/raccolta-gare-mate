@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Lato del rombo data busta con lati 12 e 16
 answer: '20'
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Semifinale A — Quesito 1

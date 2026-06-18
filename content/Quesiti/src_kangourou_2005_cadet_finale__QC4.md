@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: Prossima eclissi di due pianeti in rotazione
 answer: 3 giorni meno 2 ore
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (finale nazionale) — Quesito C4

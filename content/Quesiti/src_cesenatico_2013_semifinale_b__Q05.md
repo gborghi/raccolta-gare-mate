@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Percorsi Torre 6 mosse svoltando a sinistra
 answer: 0784
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 5

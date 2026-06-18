@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B4
 summary: minimo gettoni
 answer: '5'
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2023 Benjamin — Finale (risposta aperta) — Quesito B4

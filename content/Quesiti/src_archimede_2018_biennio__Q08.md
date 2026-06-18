@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Probabilita sedia vuota tra due ragazze
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 8

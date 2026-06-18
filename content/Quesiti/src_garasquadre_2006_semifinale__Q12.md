@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: >-
   Minimo intero 4 cifre distinte non nulle con cifre maggiori della media
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 12

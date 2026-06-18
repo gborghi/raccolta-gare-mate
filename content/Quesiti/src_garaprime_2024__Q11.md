@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Area di figura ottenuta togliendo rettangoli da un quadrato
 answer: A
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 11

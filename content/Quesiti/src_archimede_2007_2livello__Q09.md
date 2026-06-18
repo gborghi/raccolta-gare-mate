@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Probabilità che Barbara non abbia picche dato Alberto
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 9

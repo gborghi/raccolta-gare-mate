@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: numero cavalieri
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 4

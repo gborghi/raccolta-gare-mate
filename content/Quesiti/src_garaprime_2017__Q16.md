@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: cubo dei lati uguale quadrato diagonali
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2017
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 16

@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Modi di equilibrare 16 g con pesi da 1, 3, 9'
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 17

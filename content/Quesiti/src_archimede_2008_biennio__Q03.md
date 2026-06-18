@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Massimo birilli buttati con vincoli proporzionali
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 3

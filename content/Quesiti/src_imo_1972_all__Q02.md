@@ -7,6 +7,7 @@ family: imo
 year: '1972'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Dissect cyclic quadrilateral into n cyclic quadrilaterals
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1972
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1972 (Fourteenth International Olympiad) — Quesito 2

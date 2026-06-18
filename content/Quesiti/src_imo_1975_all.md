@@ -6,12 +6,14 @@ family: imo
 year: '1975'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1975
+  - gara/individuale
 ---
 
 # IMO 1975 (Seventeenth International Olympiad)

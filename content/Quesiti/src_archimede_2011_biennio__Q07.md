@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Minimo numero primi con 60 e 68 abbinamenti pasti
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 7

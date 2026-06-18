@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Ultime 4 cifre numeratore frazione minima con ab=43!
 answer: '1331'
@@ -24,6 +25,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale A — Quesito 7

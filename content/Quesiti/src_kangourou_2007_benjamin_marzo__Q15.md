@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Dimensione griglia se 9 quadratini colorati
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin (marzo) — Quesito 15

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Ordinare radice di 8, radice cubica di 26 e 2,9'
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E6
 summary: Minuti di Giulio e minuti insieme ai due fratelli
 answer: 15; 12
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E6

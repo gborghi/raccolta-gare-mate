@@ -7,6 +7,7 @@ family: imo
 year: '1960'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Luoghi di medi e di punti su segmenti del cubo
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_solida
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # IMO 1960 (II International Olympiad) — Quesito 5

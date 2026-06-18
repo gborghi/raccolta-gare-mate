@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Natura del triangolo ACV in una piramide a base quadrata
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/biennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 3

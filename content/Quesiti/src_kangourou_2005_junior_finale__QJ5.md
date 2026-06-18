@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Prodotto dei fattoriali non quadrato ma lo e diviso 50!
 answer: dimostrazione
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (finale nazionale) — Quesito J5

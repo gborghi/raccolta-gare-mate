@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Quale puo essere il numero totale di palline
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 24

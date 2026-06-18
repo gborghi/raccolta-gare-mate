@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quesito a risposta multipla febbraio 2005 n.2
 topics:
@@ -17,6 +18,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/algebra
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 2

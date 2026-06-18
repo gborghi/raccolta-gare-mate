@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Massimo zeri finali di n se prodotto divisori ha 15 zeri
 answer: '2'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 5

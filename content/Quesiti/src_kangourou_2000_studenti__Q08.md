@@ -7,6 +7,7 @@ family: kangourou
 year: '2000'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Lunghezza fettuccia attorno alla scatola
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2000 - 3 maggio (individuale) — Quesito 8

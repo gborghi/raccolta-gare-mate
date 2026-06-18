@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Triangoli isosceli interi con lato maggiore 2018
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 11

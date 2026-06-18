@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Rapporto C/R da disposizioni di pedine su scacchiere
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 19

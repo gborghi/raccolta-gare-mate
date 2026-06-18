@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S3
 summary: Angolo ottuso con incentro e circocentro simmetrici
 answer: 108 gradi
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Student (finale nazionale) — Quesito S3

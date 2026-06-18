@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Cifra al millesimo posto decimale di 3/7
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio — Quesito 5

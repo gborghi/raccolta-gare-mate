@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Minimo da spendere con monete 3,5,7 per merendina da 24'
 answer: '25'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 1

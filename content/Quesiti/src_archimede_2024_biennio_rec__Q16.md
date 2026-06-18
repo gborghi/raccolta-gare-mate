@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Lunghezza PC' da distanze di punto interno ai lati
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 16

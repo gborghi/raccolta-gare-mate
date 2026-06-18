@@ -6,12 +6,14 @@ family: archimede
 year: '2017'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2017
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni

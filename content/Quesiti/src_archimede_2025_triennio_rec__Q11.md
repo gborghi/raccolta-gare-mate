@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Misura PC' da distanze di P dai lati
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 11

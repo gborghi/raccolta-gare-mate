@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Numero nella casella centrale-destra di tabella 3x3
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 9

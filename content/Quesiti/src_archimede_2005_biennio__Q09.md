@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Divisibilita di (n+2)(n+3)(2n+5)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 9

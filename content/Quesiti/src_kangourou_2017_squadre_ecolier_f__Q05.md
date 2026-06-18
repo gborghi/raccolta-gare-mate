@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Valore D nella tavola di moltiplicazione
 answer: '3634'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 5

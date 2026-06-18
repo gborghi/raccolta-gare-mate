@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Somma numeri di 4 cifre con condizioni di divisibilita
 answer: '9080'
@@ -24,6 +25,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2009 squadre finale — Quesito 10

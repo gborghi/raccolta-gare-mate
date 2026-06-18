@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Numero corde rotte data spesa con prezzi a potenze di due
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 14

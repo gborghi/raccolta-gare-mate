@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Divisori dispari di 8100 multipli di 5
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2019
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 10

@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Esistenza a,b distinti con 2023a+s(a)=... e a+2023s(a)=...'
 answer: si in entrambi i casi
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 3

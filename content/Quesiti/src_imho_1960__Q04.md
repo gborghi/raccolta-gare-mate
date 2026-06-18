@@ -7,6 +7,7 @@ family: imo
 year: '1960'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Costruire triangolo dati ha, hb e mediana ma'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1960
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1960 (II International Olympiad) — Quesito 4

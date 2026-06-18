@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Relazione tra numero quadrati e cubi perfetti fino a 2013^6
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 28

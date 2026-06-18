@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Retta y=x+1 in assi con orientamento invertito
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 4

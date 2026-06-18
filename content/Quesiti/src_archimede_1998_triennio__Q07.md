@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Area intersezione di due cerchi passanti per i centri
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/1998
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 7

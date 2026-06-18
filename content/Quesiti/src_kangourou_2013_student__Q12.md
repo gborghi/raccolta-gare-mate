@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quanti interi n con n/3 e 3n entrambi a tre cifre
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 12

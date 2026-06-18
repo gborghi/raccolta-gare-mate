@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Raggio di una circonferenza tangente in un triangolo
 answer: 0285
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 19

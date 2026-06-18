@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Multipli di 3 con sole cifre 1,4,7 tra 1000 e 100000'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 3

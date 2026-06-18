@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Quanti giocatori sicuramente piu deboli del perdente della finale
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin gara individuale — Quesito 21

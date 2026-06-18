@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Luogo dei punti medi tra due circonferenze esterne
 answer: corona circolare
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Student (finale nazionale) — Quesito S6

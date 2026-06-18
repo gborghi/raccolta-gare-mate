@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Area grigia in quadrato diviso in 9 quadratini
 answer: A
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 12

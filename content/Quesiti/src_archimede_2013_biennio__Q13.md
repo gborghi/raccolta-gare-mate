@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Probabilita due palline dello stesso colore
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '24'
 summary: Area triangolo sferico da ottavo di sfera
 answer: '0125'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 24

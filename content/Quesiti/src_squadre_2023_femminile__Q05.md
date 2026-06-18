@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Valore f_2023(2023) con f0=1/(1-x) iterata
 answer: '4045'
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2023 - VI Finale — Quesito 5

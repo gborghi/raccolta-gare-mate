@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Somma righe dispari dopo cambio segno caselle bianche
 answer: B
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 16

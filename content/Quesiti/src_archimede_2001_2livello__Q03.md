@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Area della regione grigia nel triangolo rettangolo isoscele
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001 — Quesito 3

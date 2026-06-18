@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Massima somma punteggi test vero/falso con risposte concordi note
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 7

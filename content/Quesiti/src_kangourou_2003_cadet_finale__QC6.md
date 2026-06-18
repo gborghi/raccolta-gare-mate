@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C6
 summary: Interi di 7 cifre divisibili per 2003
 answer: '4493'
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C6

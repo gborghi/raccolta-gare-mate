@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Modi di scegliere quantita di problemi per materia con vincoli
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 1

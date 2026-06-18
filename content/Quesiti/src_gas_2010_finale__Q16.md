@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Triangoli non congruenti con vertici in poligono di 144 lati
 answer: '1728'
@@ -24,6 +25,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 16

@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S5
 summary: somma a_i/b_i >= n
 answer: VERA
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student finale individuale — Quesito S5

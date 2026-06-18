@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Dopo quanti minuti prima candela doppia della seconda
 answer: '400'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Semifinale A — Quesito 7

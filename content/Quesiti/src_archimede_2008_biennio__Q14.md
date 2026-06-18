@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Palline con zero data condizione di somma
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/logica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 14

@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Modi di colorare segmenti con un colore per triangolo
 answer: '96'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Finale — Quesito 9

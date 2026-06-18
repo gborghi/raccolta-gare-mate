@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: cruciverba di numeri primi e prodotti
 answer: '2100'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 5

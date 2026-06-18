@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Valore di un'espressione con decimali
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 5

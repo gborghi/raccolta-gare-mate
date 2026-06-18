@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Scalino pericolante che blocca il canguro saltatore
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 18

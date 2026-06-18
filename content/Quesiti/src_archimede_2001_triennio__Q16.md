@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Angolo BAC dato CEB e bisettrici in figura
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2001
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 16

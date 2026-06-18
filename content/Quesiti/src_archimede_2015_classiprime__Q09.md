@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Colorazioni distinte di un cubo bianco/nero a meno di rotazioni
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2015
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2015 — Quesito 9

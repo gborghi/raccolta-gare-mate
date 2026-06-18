@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Massima potenza di (x-1) che divide un polinomio di 5 grado
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 25

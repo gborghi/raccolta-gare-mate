@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Area poligono ombreggiato in parallelogramma
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 16

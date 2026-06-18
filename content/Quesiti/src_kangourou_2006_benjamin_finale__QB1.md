@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Numero MALE dato MELA minimo a cifre distinte
 answer: '1320'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2006 - Benjamin (finale nazionale) — Quesito B1

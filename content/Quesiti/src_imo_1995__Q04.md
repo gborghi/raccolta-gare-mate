@@ -7,6 +7,7 @@ family: imo
 year: '1995'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Maximum x0 for cyclic positive-real recurrence sequence
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1995
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1995 (36th IMO, Toronto) — Quesito 4

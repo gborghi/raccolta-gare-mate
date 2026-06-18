@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Progressioni aritmetiche di quattro interi in 1..100
 answer: '1617'
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 14

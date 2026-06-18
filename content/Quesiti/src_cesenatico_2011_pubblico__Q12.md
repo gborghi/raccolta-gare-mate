@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Tempo minimo rotta a due tratti ortogonali
 answer: '9391'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/gara-del-pubblico
   - topic/geometria_analitica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 12

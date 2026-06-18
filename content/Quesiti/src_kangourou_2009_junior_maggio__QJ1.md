@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J1
 summary: Minimo pezzi dell'asta da riporre nel quadrato 1x1
 answer: '8'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J1

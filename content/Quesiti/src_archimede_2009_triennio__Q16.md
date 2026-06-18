@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Somma numeri quattro cifre distinte tra 1,2,3,6'
 answer: A
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 16

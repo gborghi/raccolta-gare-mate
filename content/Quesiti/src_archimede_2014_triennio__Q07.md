@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Rapporto area rossa vicina al baricentro su triangolo
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 7

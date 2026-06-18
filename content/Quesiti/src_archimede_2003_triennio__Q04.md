@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Probabilità che inserendo da 1 a 15 tessere agenti non collidano
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 4

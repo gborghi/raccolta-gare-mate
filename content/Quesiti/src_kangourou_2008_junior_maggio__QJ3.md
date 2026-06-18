@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J3
 summary: Trovare un insieme IMPERFETTO infinito
 answer: '{2^(2k+1)}'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J3

@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Minimo n di 4 cifre con S=radici annidate intere uguale a S
 answer: '2167'
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: 'Due sfere uguali scambiabili in tetraedro regolare, raggio massimo'
 answer: '6727'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale — Quesito 13

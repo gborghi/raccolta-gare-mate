@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Capacità del secchio (mezzo poi tre quarti)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 7

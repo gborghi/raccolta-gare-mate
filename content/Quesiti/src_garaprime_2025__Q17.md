@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Base B minima con somma cifre invariata per 1257
 answer: C
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2025
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 17

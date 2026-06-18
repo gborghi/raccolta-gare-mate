@@ -6,12 +6,14 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 n_quesiti: '18'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2019
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019

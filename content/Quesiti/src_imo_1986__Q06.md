@@ -7,6 +7,7 @@ family: imo
 year: '1986'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Two-color integer points balancing counts on axis-parallel lines
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # IMO 1986 (27th IMO, Warsaw) — Quesito 6

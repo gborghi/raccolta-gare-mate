@@ -7,6 +7,7 @@ family: imo
 year: '2018'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: DE parallela a FG (assi BD e CE)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2018
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2018 papers — Quesito 1

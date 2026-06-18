@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Numeri base 2016 con cifre 0/1 multipli di 100
 answer: '0014'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 2

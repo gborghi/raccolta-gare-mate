@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Massimo intero positivo n con n^200 < 5^300
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 7

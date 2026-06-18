@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Rapporto aree tra esagono P3 e P1 inscritti
 answer: C
@@ -19,6 +20,7 @@ tags:
   - anno/2001
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001 — Quesito 4

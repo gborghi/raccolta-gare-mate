@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: tre rette concorrenti iff CE=CM
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 4

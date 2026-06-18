@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Angolo ADC in triangolo isoscele con bisettrice
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 9

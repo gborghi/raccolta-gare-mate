@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: 'Paradosso di Simpson, minimo rapporto under 50 a MathVillain'
 answer: 0009
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 1 — Quesito 12

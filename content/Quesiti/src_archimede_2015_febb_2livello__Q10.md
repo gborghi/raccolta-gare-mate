@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Gradini speciali verdi dopo i salti dei canguri
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 10

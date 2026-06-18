@@ -7,6 +7,7 @@ family: imo
 year: '1992'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'n^2 as sum of k positive squares, bounds'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1992
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1992 (33rd IMO, Moscow) — Quesito 6

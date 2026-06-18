@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Numero possibile di partite del torneo a batterie
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Semifinale individuale — Quesito 7

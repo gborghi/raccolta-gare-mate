@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Valore medio del quadrato distanza tra due punti sul bordo
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 19

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: Tutte le ore possibili se orologio scambia 0 e 8 mostrando 20.08
 answer: '20.00, 20.08'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E1

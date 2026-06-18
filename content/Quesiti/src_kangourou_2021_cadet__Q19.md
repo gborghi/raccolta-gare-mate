@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Affermazione vera dividendo mele e pere
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - gara marzo — Quesito 19

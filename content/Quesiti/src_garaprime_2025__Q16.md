@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Massimo mcm di interi positivi con somma 10
 answer: C
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2025
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 16

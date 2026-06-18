@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '24'
 summary: Prodotto pentagoni*triangoli (solido facce miste)
 answer: 0960
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 24

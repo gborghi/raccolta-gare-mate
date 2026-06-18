@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Euro per verniciare il solido di 4 cubi (EXPO)
 answer: '250'
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 15

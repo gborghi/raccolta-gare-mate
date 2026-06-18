@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: 'Coppie (a,b) con sqrt(a-1)+sqrt(b-1)=sqrt(ab-1)'
 answer: '4026'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 13

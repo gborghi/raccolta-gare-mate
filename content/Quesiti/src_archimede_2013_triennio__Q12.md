@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Perimetro triangolo da teorema della bisettrice
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 12

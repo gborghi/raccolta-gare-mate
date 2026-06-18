@@ -6,12 +6,14 @@ family: archimede
 year: '2019'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2019
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni

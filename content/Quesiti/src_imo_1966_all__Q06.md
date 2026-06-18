@@ -7,6 +7,7 @@ family: imo
 year: '1966'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: One sub-triangle has area at most quarter of ABC
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1966
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1966 (Eighth International Olympiad) — Quesito 6

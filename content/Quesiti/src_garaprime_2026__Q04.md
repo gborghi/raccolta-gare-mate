@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Area dell'esagono dall'intersezione di due quadrati
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 4

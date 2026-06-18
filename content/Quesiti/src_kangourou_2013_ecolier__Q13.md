@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Chi è la più vecchia da date di nascita
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Ecolier — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Perimetro rombo da diagonali in rapporto 3/4
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio — Quesito 9

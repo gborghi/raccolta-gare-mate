@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Stato raggiungibile con incantesimi su palline (invarianti)
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 22

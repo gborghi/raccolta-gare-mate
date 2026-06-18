@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E5
 summary: Spazi bianchi sull'ultima riga (numeri 1..150)
 answer: '73'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Ecolier finale nazionale — Quesito E5

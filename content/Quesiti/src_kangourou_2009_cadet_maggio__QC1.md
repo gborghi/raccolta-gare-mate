@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C1
 summary: Basta l'area di un triangolo per area del parallelogramma
 answer: si
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C1

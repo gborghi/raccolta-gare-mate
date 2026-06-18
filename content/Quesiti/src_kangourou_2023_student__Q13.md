@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Punto comune a tutti i grafici di famiglia di cubiche
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Ultimo numero della 120-esima riga saltando multipli di 5
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 10

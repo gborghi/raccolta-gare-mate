@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Cubi distinti 2x2 con 4 cubetti bianchi e 4 neri
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 30

@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Massimo numero di somme dispari di terne adiacenti
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 14

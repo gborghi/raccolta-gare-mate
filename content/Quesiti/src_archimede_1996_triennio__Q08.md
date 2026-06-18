@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Quale volume non ottenibile con recipienti da 15 e 21
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 8

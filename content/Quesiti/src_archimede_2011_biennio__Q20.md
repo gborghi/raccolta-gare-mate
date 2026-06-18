@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Caselle raggiungibili dal re in cinque mosse senza ripetizioni
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 20

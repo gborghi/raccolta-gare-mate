@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Quale sacchetto piu probabile data pallina bianca
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 19

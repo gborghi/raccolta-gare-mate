@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C2
 summary: Minimo palle per 15 dello stesso colore
 answer: '75'
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C2

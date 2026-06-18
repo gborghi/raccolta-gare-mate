@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Probabilita pesce completamente giallo
 answer: '4000'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 12

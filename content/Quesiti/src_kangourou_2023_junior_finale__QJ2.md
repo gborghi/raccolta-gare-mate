@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J2
 summary: gioco equo o no
 answer: Giulio favorito
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J2

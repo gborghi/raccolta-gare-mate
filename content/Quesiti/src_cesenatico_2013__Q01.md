@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: velocita intere salita/piano/discesa
 answer: '(10,12,15),(9,12,18),(8,12,24),(7,12,42)'
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/algebra
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 1

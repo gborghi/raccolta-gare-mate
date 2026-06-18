@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Affermazione vera da equazione con due radici in (0,1)'
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 17

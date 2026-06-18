@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Lunghezza fila di musicisti supera 42 m?
 answer: 'No, max 37m'
@@ -27,6 +28,7 @@ tags:
   - livello/nazionale
   - topic/funzionali
   - topic/logica
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 6

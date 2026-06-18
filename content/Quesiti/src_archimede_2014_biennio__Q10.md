@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Numero di incontri in torneo di biliardino a coppie
 answer: D
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 10

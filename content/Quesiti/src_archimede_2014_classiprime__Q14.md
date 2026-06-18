@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Per quale numero NON e divisibile x^5-5x^3+4x in 2014
 answer: A
@@ -23,6 +24,7 @@ tags:
   - comp/archimede
   - anno/2014
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2014 — Quesito 14

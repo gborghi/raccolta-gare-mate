@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Ordinamento crescente di 3^33, 4^30, 5^25'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 17

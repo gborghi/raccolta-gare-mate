@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Probabilita somma di tre dadi minore o uguale a 5
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1998
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 13

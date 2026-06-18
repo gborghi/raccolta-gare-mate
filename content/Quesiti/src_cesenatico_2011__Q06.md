@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: '4 colori bastano, 3 no'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 6

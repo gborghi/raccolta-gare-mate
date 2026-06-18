@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Cifre finali dopo 12 iterazioni quadrato piu 5
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 15

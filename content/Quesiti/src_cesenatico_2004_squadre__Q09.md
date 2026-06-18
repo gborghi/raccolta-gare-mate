@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Piu piccolo numero di 3 cifre distinte pari alla media delle permutazioni
 answer: '0370'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 9

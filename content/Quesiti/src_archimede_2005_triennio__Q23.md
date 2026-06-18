@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Parole di 4 lettere senza M dopo una B
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 23

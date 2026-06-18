@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Massimo numero di studenti con parole binarie distinte di 5 test
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 7

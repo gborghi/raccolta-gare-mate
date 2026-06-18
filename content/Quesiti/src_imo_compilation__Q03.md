@@ -7,6 +7,7 @@ family: imo
 year: ''
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: IMO 1997 problema 3
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO compilation 1959-2013 — Quesito 3

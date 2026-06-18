@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Area del triangolo MNC nel rettangolo di area 288
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2025
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 3

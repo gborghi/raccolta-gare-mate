@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Perimetro triangolo coi punti medi nell’esagono
 answer: '54'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Finale — Quesito 9

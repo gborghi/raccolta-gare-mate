@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Numero cifre di 112233445566778899 diviso 11
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 15

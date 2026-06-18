@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Probabilita Terra salva (scudo circolare)
 answer: '5026'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/probabilita
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'Polinomio con p(5n-1)=5^(5n)-1, calcolare p(3)'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 9

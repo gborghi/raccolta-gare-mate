@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Valore medio di n a fine gioco dei cavalli su scacchiera 3x3
 answer: '0010'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Finale Nazionale — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Numeri sui vertici di esagono con somme uguali per lato
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 1

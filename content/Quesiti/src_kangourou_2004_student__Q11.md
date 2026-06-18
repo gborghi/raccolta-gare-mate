@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Quadrati con vertice in (-1,-1) e asse di simmetria'
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2004 - Student (marzo) — Quesito 11

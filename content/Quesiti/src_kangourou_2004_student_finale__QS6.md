@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Somma distanze di P dai sei spigoli del tetraedro
 answer: 3sqrt2/2 baricentro
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2004 Student finale nazionale — Quesito S6

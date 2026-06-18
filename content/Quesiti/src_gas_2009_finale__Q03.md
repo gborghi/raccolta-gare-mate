@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Massimo numero di elfi tra prigionieri sinceri/bugiardi
 answer: '6004'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Finale Nazionale — Quesito 3

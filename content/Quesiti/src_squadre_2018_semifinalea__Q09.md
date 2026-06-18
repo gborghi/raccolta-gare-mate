@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: 'Intero con 12 divisori e relazione sui divisori, numero bicchieri'
 answer: '1989'
@@ -22,6 +23,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 9

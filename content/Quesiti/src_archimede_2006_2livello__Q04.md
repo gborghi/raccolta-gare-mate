@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'quanti cavalieri tra Alberto, Bruno, Carlo'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 4

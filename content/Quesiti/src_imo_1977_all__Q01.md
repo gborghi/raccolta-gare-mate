@@ -7,6 +7,7 @@ family: imo
 year: '1977'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Midpoints from equilateral triangles form regular dodecagon
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1977
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1977 (Nineteenth International Olympiad) — Quesito 1

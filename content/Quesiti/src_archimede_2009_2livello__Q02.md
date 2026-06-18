@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Volume del solido di rotazione del rombo attorno a un lato
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 2

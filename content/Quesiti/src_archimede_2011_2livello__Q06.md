@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Lunghezza arco delle barrette della cancellata
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 6

@@ -6,12 +6,14 @@ family: imo
 year: '2017'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/2017
+  - gara/individuale
 ---
 
 # IMO 2017 papers

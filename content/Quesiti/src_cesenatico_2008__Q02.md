@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: numero colorazioni
 answer: 2^(n+1)-2
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 2

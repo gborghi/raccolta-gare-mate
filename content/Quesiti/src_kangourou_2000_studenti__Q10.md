@@ -7,6 +7,7 @@ family: kangourou
 year: '2000'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Togliere 4 cifre per minimo numero di 3 cifre
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2000 - 3 maggio (individuale) — Quesito 10

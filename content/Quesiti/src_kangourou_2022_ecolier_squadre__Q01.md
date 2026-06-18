@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Quanti numeri di 4 cifre ABAB con A≠B
 answer: 0081
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 1

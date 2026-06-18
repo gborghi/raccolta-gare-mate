@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: chi ha strategia vincente
 answer: 'Antonio se almeno uno tra m,n dispari; Bernardo se entrambi pari'
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/nazionale
   - topic/logica
+  - gara/individuale
 ---
 
 # XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 4

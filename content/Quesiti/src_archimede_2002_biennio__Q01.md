@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Km per ruota con rotazione di ruota di scorta
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 1

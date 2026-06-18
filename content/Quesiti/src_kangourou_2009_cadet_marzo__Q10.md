@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Misura angolo QPR (triangoli isosceli)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 10

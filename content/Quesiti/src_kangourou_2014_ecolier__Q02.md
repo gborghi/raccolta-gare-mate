@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Dove inserire il 3 per ottenere il numero piu piccolo
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Ecolier — Quesito 2

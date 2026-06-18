@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: 'Lunghezza minima sequenza con differenza 11, esponente di 2'
 answer: '3072'
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Semifinale 2 — Quesito 14

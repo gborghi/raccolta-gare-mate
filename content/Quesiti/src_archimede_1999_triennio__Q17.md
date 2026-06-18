@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Eventualita piu probabile pescando 8 calze
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 17

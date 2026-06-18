@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Area triangolo AEG con due quadrati adiacenti
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Triangoli non degeneri da 10 punti
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 21

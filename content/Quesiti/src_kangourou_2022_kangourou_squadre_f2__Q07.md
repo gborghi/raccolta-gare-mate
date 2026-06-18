@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Volume parallelepipedo dato OE e angolo 60°
 answer: '4608'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 7

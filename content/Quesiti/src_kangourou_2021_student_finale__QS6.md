@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Esiste multiplo di 2021 in binario con 2021 zeri e 2021 uni
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student finale individuale — Quesito S6

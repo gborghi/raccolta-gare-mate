@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Numero abitanti isola da somma risposte furfanti
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/triennio
   - topic/logica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 18

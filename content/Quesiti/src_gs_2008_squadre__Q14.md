@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Massimo n di 4 cifre con quadrato di forma data
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 14

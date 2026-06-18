@@ -7,6 +7,7 @@ family: imo
 year: '2021'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: A contiene almeno m/2 elementi (sottoinsiemi somma m^k)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2021 papers — Quesito 6

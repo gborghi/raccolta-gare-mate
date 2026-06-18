@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Percorsi hamiltoniani formica sugli spigoli del cubo
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 24

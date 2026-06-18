@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: volume totale dai 4 volumi
 answer: '2015'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/nazionale
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 1

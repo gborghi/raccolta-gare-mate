@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Modi di formare un metro con barrette 9 e 12 cm
 answer: '0'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Finale — Quesito 15

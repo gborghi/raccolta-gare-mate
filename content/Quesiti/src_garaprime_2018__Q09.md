@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Area della parte piu piccola tagliando rettangolo
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 9

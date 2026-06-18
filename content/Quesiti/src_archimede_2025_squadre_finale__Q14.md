@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: 'Distanza BC da AE, AD, DM (mediana, bisettrice, altezza)'
 answer: '4800'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 14

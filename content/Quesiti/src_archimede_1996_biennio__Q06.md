@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Confronto fra aree di tre figure in quadrati uguali
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 6

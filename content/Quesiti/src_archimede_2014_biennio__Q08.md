@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Probabilita che tre persone dicano la stessa parola
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 8

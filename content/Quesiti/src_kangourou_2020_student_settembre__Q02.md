@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Numeri in posizione speciale in griglia 2020x2020
 answer: a)F b)V c)V
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2020 Student - finale settembre — Quesito 2

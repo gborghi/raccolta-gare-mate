@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Modi di distribuire 16 gettoni in 6 sacchetti
 answer: '0126'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 14

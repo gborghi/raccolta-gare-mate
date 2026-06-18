@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Coppie (a,b) con MCD 2 e mcm 60'
 answer: B
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 8

@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quanti cavalieri tra quattro abitanti con affermazioni date
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 3

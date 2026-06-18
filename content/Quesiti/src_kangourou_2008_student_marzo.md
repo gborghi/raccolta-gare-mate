@@ -6,12 +6,14 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '30'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2008
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo)

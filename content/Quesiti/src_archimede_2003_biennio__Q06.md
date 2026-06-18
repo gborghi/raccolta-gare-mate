@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Area di una regione delimitata in una griglia quadrettata
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 6

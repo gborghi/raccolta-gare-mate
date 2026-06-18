@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Area dominio definito da disuguaglianza con parte intera
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 21

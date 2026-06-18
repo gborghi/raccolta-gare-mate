@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'Primi p, q con p^q+1 primo'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 9

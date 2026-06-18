@@ -6,12 +6,14 @@ family: archimede
 year: '1998'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/1998
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1998

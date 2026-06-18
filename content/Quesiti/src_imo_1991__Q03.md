@@ -7,6 +7,7 @@ family: imo
 year: '1991'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Smallest n forcing five pairwise coprime numbers in subset
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1991 (32nd IMO) — Quesito 3

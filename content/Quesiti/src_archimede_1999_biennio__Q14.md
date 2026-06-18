@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Somma del primo e ultimo nome in ordine alfabetico
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 14

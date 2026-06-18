@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Tra quanti giorni rivedra Franco (mcm 13 e 7)
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 1

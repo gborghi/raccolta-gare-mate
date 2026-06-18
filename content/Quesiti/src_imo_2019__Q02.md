@@ -7,6 +7,7 @@ family: imo
 year: '2019'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'P,Q,P1,Q1 conciclici nel triangolo'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2019 papers — Quesito 2

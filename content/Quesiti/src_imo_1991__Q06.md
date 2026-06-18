@@ -7,6 +7,7 @@ family: imo
 year: '1991'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Construct bounded sequence with separation condition for a>1
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1991 (32nd IMO) — Quesito 6

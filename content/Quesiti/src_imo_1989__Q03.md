@@ -7,6 +7,7 @@ family: imo
 year: '1989'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Equidistant-points configuration bound k<1/2+sqrt(2n)
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1989 (30th IMO, Braunschweig) — Quesito 3

@@ -7,6 +7,7 @@ family: imo
 year: '1976'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Box dimensions where volume-2 cubes fill exactly 40%
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_solida
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1976 (Eighteenth International Olympiad) — Quesito 3

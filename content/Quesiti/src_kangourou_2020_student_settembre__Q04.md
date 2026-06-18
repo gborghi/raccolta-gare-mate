@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Confronto tra 129^29 e 4095^17
 answer: il secondo
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2020 Student - finale settembre — Quesito 4

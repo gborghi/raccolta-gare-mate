@@ -7,6 +7,7 @@ family: imo
 year: '1964'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quando 2^n-1 e 2^n+1 sono divisibili per 7
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1964
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1964 (VI International Olympiad) — Quesito 1

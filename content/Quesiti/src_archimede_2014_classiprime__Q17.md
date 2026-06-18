@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Massimo lato n con sottotabelle quadrate 2 bianche 2 nere ai vertici
 answer: A
@@ -23,6 +24,7 @@ tags:
   - comp/archimede
   - anno/2014
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2014 — Quesito 17

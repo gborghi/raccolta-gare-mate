@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C3
 summary: Minima lunghezza filo su cilindro che incontra ogni generatrice
 answer: 2pi*sqrt rect diag
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C3

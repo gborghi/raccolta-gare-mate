@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Stima mcm da prodotto 2160 e MCD dispari
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Triennio (T1) — Quesito 6

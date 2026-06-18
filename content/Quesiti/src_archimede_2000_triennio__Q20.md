@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Coppie ordinate di interi con mcm uguale a 2000
 answer: C
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 20

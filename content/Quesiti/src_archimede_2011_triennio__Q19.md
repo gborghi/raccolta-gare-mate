@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Terne primi minori di 100 con p^2+q^2=r
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2011
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 19

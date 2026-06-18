@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '24'
 summary: Probabilita segnaposto in A dopo 10 lanci (cubo)
 answer: '4921'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre — Quesito 24

@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: XS=PS e AX=DQ
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 4

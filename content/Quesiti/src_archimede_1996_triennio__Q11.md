@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Cifra delle unita di una somma di quadrati
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 11

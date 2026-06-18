@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Numero di pezzi tagliando un nastro con piegature
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 9

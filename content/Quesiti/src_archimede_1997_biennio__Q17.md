@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Valore f(1) data una relazione funzionale
 answer: D
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 17

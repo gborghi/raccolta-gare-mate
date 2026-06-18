@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Modi di disporre 8 quaderni colorati a blocchi
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Triennio — Quesito 5

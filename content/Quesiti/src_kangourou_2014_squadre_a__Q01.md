@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Percentuale di sconto totale sul prezzo iniziale
 answer: '44'
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Semifinale A — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Codici di cinque cifre con prodotto delle cifre 108
 answer: '0300'
@@ -28,6 +29,7 @@ tags:
   - topic/combinatoria
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 18

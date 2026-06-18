@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: La più giovane tra cinque ragazze da date di nascita
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 12

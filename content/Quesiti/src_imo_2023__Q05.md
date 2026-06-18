@@ -7,6 +7,7 @@ family: imo
 year: '2023'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Triangolo giapponese, max k cerchi rossi su ninja path'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2023 papers — Quesito 5

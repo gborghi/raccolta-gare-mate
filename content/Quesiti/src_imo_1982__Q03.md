@@ -7,6 +7,7 @@ family: imo
 year: '1982'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Decreasing sequence sums of squared ratios bounded near 4
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1982 (23rd International Mathematical Olympiad) — Quesito 3

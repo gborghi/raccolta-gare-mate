@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Quante cifre il minimo n per 20 con somma cifre per 1999
 answer: D
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 20

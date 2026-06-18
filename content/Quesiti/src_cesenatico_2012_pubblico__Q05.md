@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Max puntate scontro Gonioku-Vieta
 answer: '0041'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 5

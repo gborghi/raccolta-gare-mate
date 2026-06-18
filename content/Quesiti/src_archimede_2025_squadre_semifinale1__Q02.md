@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Somma quadrati pari meno quadruplo somma quadrati
 answer: '3600'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 2

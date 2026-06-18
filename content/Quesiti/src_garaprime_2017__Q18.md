@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Media dei non partecipanti da media pesata
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2017
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 18

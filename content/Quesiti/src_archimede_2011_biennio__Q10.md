@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Numeri palindromi cinque cifre con somma cifre pari
 answer: A
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 10

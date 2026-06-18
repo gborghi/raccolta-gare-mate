@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: dimostrare AT=SB
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2001
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 5

@@ -7,6 +7,7 @@ family: imo
 year: '1997'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Find all integer pairs with a^(b^2)=b^a
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1997 (38th IMO, Mar del Plata) — Quesito 5

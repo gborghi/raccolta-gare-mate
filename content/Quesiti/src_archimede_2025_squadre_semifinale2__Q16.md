@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Volume di un antiprisma quadrato lato 10 altezza 30
 answer: '3414'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 16

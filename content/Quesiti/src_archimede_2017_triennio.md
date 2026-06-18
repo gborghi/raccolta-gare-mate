@@ -6,12 +6,14 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2017
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio

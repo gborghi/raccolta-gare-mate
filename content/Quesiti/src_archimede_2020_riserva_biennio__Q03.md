@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Modi di pagare 141 euro con banconote da 5 e monete da 1
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 3

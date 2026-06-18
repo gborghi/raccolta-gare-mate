@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Numero di banane radioattive da probabilita data
 answer: B
@@ -19,6 +20,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 18

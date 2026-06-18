@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Turni minimi perché ogni ragazzo balli con ogni ragazza
 answer: '6'
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale Ecolier — Quesito 3

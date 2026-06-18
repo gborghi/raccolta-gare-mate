@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: 'Punti raggiungibili in quadrato con passi (1,1) o (-1,0)'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 1

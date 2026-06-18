@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Probabilita tornare all'ufficio 73 (permutazione)
 answer: '2100'
@@ -26,6 +27,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 13

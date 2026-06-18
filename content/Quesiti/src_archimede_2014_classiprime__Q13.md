@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Numero divisori positivi di n=1122^2-121
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2014
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2014 — Quesito 13

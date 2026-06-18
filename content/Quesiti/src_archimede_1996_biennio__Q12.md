@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Lato di un rombo date area e rapporto fra diagonali
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 12

@@ -7,6 +7,7 @@ family: imo
 year: '1978'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Minimize m+n with equal last three digits of 1978^m,1978^n'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1978
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1978 (Twentieth International Olympiad) — Quesito 1

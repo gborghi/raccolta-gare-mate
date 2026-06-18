@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J2
 summary: Minima somma di 4 interi ai vertici con vincoli di divisibilita
 answer: '35'
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Junior — Quesito J2

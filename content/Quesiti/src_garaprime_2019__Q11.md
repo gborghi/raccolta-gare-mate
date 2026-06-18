@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Massimo numero di ragazze con voto 100 date le medie
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - topic/probabilita
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 11

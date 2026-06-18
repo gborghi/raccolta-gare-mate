@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Strategia roulette di Martino, giocate minime e capitale finale'
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/2-livello
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 15

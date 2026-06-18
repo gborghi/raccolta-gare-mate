@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: per quali n vince Charles
 answer: 'primi tranne 2,7,13 piu 8,14,26,49,91,169'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 6

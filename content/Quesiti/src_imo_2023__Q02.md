@@ -7,6 +7,7 @@ family: imo
 year: '2023'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Tangente a omega in P incontra BS sul bisettore
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2023 papers — Quesito 2

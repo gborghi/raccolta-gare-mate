@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quanti interi hanno media 6 e somma 18
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2001
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 1

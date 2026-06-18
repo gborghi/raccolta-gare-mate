@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Risultato somma con frazioni in due parentesi
 answer: '1340'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre finale — Quesito 8

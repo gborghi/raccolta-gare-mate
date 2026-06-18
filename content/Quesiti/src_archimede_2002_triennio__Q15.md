@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Velocita seconda meta per media complessiva 30 km/h
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2002
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio — Quesito 15

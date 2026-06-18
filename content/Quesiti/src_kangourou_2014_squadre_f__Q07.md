@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Area triangolo ABC dato triangolo DFI per similitudine
 answer: '180'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Finale — Quesito 7

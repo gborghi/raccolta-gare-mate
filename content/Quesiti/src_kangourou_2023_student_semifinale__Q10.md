@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Trovare n dopo operazioni casuali con risultato 78
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Student 2023 — Quesito 10

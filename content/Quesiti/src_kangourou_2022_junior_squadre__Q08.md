@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Volume ottaedro con vertici centri facce cubo
 answer: '1440'
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 1 — Quesito 8

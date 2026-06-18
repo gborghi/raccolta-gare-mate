@@ -6,12 +6,14 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '21'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2018
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale

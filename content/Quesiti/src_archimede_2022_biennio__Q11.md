@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Numeri di 3 cifre con almeno una cifra uguale a 4
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 11

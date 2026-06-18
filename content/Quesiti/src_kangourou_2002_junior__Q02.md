@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Nome dal albero genealogico
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Junior (21 marzo) — Quesito 2

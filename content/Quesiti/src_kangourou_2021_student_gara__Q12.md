@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Insieme dei numeri a+b con a in A e b in B
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 12

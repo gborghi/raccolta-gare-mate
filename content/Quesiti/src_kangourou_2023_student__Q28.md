@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: 'Numero nell''esagono col punto interrogativo, somma costante'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 28

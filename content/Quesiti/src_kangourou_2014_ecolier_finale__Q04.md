@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Punteggi possibili in mini-torneo a tre squadre
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2014 finale Ecolier — Quesito 4

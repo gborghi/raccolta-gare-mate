@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Probabilita di indovinare 10 risposte con vincoli
 answer: B
@@ -28,6 +29,7 @@ tags:
   - topic/probabilita
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 12

@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Minimo traversate per due uomini e ragazzi
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 26

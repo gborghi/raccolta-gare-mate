@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Dado non regolare con condizioni di somma facce opposte
 answer: ha ragione Anna
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Benjamin — Quesito B1

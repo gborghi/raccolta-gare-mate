@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: Quali fogli restano nella stessa posizione
 answer: '2000'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C4

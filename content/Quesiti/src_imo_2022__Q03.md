@@ -7,6 +7,7 @@ family: imo
 year: '2022'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Unico modo di disporre primi con prodotto x^2+x+k
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2022 papers — Quesito 3

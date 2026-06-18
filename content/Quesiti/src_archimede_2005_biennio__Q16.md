@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quante cifre per scrivere i numeri da 1 a 2005
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 16

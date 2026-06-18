@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Volume tetraedro da spigolo AB e proiezione S
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1997
   - livello/nazionale
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1997 — Quesito 4

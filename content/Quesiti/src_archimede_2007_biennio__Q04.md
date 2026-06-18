@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Segmenti tra due file di 14 punti su rette parallele
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 4

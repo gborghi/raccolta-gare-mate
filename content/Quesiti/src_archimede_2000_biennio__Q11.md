@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Distanza tra podista e ciclista dopo tre ore di spola
 answer: B
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 11

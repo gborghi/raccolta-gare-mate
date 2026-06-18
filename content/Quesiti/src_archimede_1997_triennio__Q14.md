@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Eta media di una classe data la composizione
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 14

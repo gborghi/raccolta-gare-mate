@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'CE*ED massimo iff B,O,E,D conciclici'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 4

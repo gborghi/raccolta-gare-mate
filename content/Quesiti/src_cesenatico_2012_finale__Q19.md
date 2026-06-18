@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Max area ombra parallelepipedo (45 gradi)
 answer: '8925'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 19

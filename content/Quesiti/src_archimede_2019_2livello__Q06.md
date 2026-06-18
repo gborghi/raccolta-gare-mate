@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Calcolatrice +1 e x3, numeri ottenibili senza esplodere'
 answer: A
@@ -26,6 +27,7 @@ tags:
   - livello/2-livello
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2019 - 2° livello — Quesito 6

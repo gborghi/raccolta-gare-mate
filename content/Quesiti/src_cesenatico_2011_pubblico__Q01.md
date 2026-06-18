@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Probabilita somma 9 dadi <= 31
 answer: '5000'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/gara-del-pubblico
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 1

@@ -7,6 +7,7 @@ family: imo
 year: '1986'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Find all functions with f(xf(y))f(y)=f(x+y) and f(2)=0
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1986
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1986 (27th IMO, Warsaw) — Quesito 5

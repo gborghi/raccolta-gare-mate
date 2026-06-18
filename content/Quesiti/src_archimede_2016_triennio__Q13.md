@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Confronto di radici n/(n-1) minimo
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/triennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Triennio — Quesito 13

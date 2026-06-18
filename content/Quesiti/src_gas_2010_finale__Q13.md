@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Somma vinta in successione di puntate a(n+1)=2a(n)+2n-1
 answer: '3531'
@@ -24,6 +25,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 13

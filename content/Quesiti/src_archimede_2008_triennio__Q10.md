@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Quindicesimo termine di sequenza somma dei precedenti
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/triennio
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 10

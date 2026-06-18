@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Area del triangolo AEH suddiviso da punti sui lati
 answer: B
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 9

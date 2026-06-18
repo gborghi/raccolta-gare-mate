@@ -7,6 +7,7 @@ family: imo
 year: '2016'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Rane su segmenti senza collisioni se n dispari
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # IMO 2016 papers — Quesito 6

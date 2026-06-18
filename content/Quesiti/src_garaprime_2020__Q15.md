@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Area della lunula del quadrato e cerchio circoscritto
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2020
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 15

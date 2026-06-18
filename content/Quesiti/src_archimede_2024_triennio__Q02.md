@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Cavalieri e furfanti, voti di vantaggio minimo del vincitore'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 2

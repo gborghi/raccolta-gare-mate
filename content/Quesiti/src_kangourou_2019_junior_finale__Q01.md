@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Punti interi nel cerchio raggio 10 centrato origine
 answer: '0317'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Junior — Quesito 1

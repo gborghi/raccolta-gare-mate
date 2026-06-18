@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Minimo elementi del sottoinsieme A con rapporti non oltre 2
 answer: '8'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Finale Student (Mirabilandia) — Quesito S6

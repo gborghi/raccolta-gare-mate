@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: 'Valore di x per triangolo di area massima lati 4,5,x'
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 7

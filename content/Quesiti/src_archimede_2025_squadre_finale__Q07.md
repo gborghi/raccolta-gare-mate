@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: 'Polinomio con p(p(x))=p(x)+x^4+x^2+1, calcolare p(2025)'
 answer: '0626'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 7

@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Resto di p(x) diviso per x^2-1 dati i resti per x-1 e x+1
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2014
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2014 — Quesito 18

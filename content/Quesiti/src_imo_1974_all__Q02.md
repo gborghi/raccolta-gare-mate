@@ -7,6 +7,7 @@ family: imo
 year: '1974'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Point D with CD geometric mean iff sinA sinB<=sin^2(C/2)
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # IMO 1974 (Sixteenth International Olympiad) — Quesito 2

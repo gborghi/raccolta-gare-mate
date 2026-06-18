@@ -16,6 +16,7 @@ interface Q {
   family: string
   year: number | string
   country: string
+  modalita: string
 }
 
 interface Facet {
@@ -27,6 +28,7 @@ interface Facet {
 
 const FACETS: Facet[] = [
   { key: "family", label: "Gara" },
+  { key: "modalita", label: "Modalità" },
   { key: "year", label: "Anno" },
   { key: "level", label: "Livello" },
   { key: "topics", label: "Argomento", multi: true, strip: "topic_" },

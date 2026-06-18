@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: problema 2
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2003
   - livello/gara-del-pubblico
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 2

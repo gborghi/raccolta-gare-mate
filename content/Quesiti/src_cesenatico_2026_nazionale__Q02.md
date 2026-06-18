@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Distanza VK vertice cono-sfera maggiore di 5 cm
 topics:
@@ -27,6 +28,7 @@ tags:
   - topic/geometria_solida
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 2

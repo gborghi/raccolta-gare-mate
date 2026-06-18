@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Allineamento di M,N,P nel triangolo con incerchio'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2020 Student - finale settembre — Quesito 5

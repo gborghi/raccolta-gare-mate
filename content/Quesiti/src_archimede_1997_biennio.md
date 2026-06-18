@@ -6,12 +6,14 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/1997
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio

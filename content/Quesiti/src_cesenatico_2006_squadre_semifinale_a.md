@@ -6,12 +6,14 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2006
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Semifinale A

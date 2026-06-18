@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Biglie nel sacchetto con un solo mentitore
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 10

@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Triangolo isoscele, due altezze, area'
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Minimo abitanti isola fanti/cavalieri con frase a tavola rotonda
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 13

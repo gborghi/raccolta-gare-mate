@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Minimo di |x|+2|y| con x^2+4y^2=1
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 6

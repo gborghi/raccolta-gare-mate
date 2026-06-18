@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Numero 4 cifre che sposta prima cifra in coda
 answer: '9090'
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 4

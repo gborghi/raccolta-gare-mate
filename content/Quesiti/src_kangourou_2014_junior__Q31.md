@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '31'
 summary: Quanti bugiardi nella fila di 2014 persone
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Junior — Quesito 31

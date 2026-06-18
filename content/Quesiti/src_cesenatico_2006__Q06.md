@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Gioco di Alberto e Barbara con gettoni e strategia vincente
 answer: dimostrata strategia vincente
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/nazionale
   - topic/logica
+  - gara/individuale
 ---
 
 # XXII Olimpiade Italiana Cesenatico 2006 — Quesito 6

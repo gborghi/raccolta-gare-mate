@@ -7,6 +7,7 @@ family: imo
 year: '2014'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: BD tangente al circumcircle di TSH
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2014
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2014 (shortlist/papers) — Quesito 3

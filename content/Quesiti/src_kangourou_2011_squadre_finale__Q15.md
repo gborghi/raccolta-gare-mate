@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Angoli acuti del rombo da quattro triangoli rettangoli
 answer: '60'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre finale — Quesito 15

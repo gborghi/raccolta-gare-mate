@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Indice termine errato nella sequenza di Fibonacci modificata
 answer: '0004'
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 12

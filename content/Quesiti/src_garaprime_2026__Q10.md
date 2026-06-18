@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Naturali tra 10 e 2026 con somma cifre 3
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2026
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 10

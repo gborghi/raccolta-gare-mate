@@ -7,6 +7,7 @@ family: imo
 year: '1963'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: provare equilatero
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1963
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1963 (V International Olympiad) — Quesito 3

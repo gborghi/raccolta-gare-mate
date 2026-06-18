@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Spigoli e vertici del dodecaedro regolare
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 16

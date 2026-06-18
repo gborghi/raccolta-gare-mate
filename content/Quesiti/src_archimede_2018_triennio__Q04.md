@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Numero somma di quadrati di due multipli di 3
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Triennio (T1) — Quesito 4

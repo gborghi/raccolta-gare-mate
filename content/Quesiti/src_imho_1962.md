@@ -6,12 +6,14 @@ family: imo
 year: '1962'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '7'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1962
+  - gara/individuale
 ---
 
 # IMO 1962 (IV International Olympiad)

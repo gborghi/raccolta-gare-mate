@@ -7,6 +7,7 @@ family: imo
 year: '1981'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: largest divides lcm of others
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1981
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1981 (Twenty-second International Olympiad) — Quesito 4

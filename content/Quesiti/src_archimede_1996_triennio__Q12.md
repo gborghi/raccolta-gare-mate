@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Area di un dominio definito da disequazioni di cerchi
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 12

@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Misura angolo ABC con bisettrice e condizione angoli
 answer: '36'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Semifinale A — Quesito 4

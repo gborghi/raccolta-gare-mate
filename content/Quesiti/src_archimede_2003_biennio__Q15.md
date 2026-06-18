@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quanti n con 8n+50 multiplo di 2n+1
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 15

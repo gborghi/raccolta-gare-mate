@@ -7,6 +7,7 @@ family: imo
 year: '1962'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Provare d=sqrt(r(r-2rho)) (formula di Eulero)
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1962
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1962 (IV International Olympiad) — Quesito 6

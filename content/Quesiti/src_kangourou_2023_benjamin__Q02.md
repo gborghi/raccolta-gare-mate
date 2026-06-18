@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: ordine di avvolgimento
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 2

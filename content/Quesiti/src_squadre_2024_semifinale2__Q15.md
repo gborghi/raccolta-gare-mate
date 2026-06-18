@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Possibili numeri di membri Organizzazione a tavola
 answer: '5751'
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Semifinale 2 — Quesito 15

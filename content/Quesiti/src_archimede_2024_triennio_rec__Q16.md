@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Probabilita che due divisori di 18000 siano primi tra loro
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/probabilita
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 16

@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Modi di disporre 1..6 con vincolo differenza non 3
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2006 Student (marzo) — Quesito 26

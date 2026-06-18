@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Probabilita Gonioku affronti i tre rivali
 answer: '2285'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 9

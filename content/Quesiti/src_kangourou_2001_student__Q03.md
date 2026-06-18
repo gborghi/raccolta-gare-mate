@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Valore di log10 2 dato log2 10
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 3

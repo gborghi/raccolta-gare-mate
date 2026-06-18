@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Minimo n per suddividere carte 1..n in quattro mazzetti equisomma
 answer: '0032'
@@ -29,6 +30,7 @@ tags:
   - topic/combinatoria
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 16

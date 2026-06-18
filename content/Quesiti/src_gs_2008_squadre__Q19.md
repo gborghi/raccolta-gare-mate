@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Numero di tre cifre con potenza 14-esima a 30 cifre
 answer: '119'
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 19

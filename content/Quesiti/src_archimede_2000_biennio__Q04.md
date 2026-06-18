@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Valore di 6a data relazione lineare in a e b
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Numero di parallelepipedi distinti con 630 cubetti
 answer: '0020'
@@ -29,6 +30,7 @@ tags:
   - topic/combinatoria
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 7

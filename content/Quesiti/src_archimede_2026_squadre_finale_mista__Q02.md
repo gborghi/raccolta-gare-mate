@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Minimo k intero con t che soddisfa disequazione
 answer: '0000'
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/disuguaglianze
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 2

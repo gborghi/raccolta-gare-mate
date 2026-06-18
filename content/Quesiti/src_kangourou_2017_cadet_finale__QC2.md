@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C2
 summary: Conviene scegliere 9 o 10 nel gioco dei dadi
 answer: '9'
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (finale Cervia) — Quesito C2

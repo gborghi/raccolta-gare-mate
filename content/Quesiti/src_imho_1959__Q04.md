@@ -7,6 +7,7 @@ family: imo
 year: '1959'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Costruire triangolo rettangolo con mediana media geometrica
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1959
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1959 (I International Olympiad) — Quesito 4

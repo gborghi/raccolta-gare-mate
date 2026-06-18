@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Valore atteso righe sopra la tessera rossa nel triangolo
 answer: '0004'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale B — Quesito 11

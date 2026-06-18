@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Studenti che hanno sbadigliato dopo 57 secondi
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/funzionali
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 21

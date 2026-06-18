@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Faccia opposta alla 4 del cubo numerato
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Benjamin — Quesito 20

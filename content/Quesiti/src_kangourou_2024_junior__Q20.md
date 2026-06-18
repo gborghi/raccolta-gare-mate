@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Distanza dei vertici A e B del solido dallo sviluppo piano
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou Categoria Junior 2024 — Quesito 20

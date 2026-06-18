@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Numero esprimibile come somma di quadrati di due multipli di 3
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 2

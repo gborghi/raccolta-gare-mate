@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Numero di dadi per equiprobabilita tra due eventi
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 10

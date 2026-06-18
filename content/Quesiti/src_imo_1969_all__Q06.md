@@ -7,6 +7,7 @@ family: imo
 year: '1969'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Prove quadratic-form inequality with equality conditions
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1969
   - livello/IMO
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1969 (Eleventh International Olympiad) — Quesito 6

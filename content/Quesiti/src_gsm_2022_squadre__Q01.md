@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Frazione 2022!/(2022!-2021!-2020!) ridotta
 answer: '4041'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2022 — Quesito 1

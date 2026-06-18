@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Limitatezza somme dei cubi di successione convergente a 0
 answer: FALSA
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2020 Student - finale settembre — Quesito 6

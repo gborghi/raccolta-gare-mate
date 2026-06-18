@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Distanza minima su superficie 12 piramidi
 answer: '9472'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 6

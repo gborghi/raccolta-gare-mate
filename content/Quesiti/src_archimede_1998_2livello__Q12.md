@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quale unica affermazione su età e forza è falsa
 answer: E
@@ -19,6 +20,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 12

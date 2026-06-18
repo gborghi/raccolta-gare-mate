@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Somma 12 aree di intersezioni triangoli (p+q)
 answer: '6719'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/gara-del-pubblico
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 1

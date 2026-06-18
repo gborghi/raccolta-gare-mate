@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '28'
 summary: Somma primi 100 termini di successione ricorsiva
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2012 marzo Student — Quesito 28

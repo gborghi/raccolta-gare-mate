@@ -6,12 +6,14 @@ family: kangourou
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2023
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2023 Junior Finale 1

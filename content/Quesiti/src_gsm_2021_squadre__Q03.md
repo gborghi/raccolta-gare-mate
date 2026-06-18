@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Probabilita di arrivare in vetta con biforcazioni
 answer: '0051'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/probabilita
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 3

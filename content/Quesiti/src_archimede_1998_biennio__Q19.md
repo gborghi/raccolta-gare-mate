@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Cifra dopo il 9 nello sviluppo decimale di x
 answer: A
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 19

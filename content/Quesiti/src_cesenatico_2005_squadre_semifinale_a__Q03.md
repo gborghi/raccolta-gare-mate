@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Somma aree di quattro triangoli in dodecagono regolare
 answer: '0314'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 3

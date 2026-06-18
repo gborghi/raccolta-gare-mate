@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Probabilita che i primi tre estratti siano crescenti
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 8

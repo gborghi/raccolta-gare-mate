@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Quanti reali x soddisfano 0<=x<=1, 1/x<=1'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/biennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Biennio (T1) — Quesito 1

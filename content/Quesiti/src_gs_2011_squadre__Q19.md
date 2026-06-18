@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Conteggio colorazioni della tabella a quattro colori
 answer: '6312'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 19

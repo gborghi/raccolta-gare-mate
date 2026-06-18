@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Numeri ''corretti'' autodescrittivi, conteggio cifre massime'
 answer: '162'
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2019 - 2° livello — Quesito 17

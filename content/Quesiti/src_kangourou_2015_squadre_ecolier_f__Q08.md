@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Massima differenza scambiando due cifre di 4129
 answer: '7695'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 8

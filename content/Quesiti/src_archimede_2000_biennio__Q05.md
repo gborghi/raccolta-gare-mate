@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Aumento percentuale area rettangolo con base e altezza
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 5

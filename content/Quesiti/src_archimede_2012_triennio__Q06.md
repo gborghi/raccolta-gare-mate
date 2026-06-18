@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Area quadrato inscritto con similitudine in triangolo
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: massimo volume di tali parti del cubo
 topics:
@@ -17,6 +18,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 8

@@ -7,6 +7,7 @@ family: imo
 year: '2017'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: KT tangente a Gamma (punti su cerchio)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2017
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 2017 papers — Quesito 4

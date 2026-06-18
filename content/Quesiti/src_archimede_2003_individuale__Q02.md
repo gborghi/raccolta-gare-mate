@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: minimo tempo
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 2

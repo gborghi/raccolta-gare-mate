@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Da quanti esagoni e formata la quinta figura
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Ecolier (gara marzo) — Quesito 24

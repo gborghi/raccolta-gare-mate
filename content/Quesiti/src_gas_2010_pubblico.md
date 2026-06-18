@@ -6,12 +6,14 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2010
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Gara del Pubblico

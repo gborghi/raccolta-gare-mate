@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: massimo termine noto
 answer: '0600'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 9

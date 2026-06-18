@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Distanza da O per corde una doppia dell'altra
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 25

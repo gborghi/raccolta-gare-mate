@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Massimo sottoinsiemi con intersezione consecutiva
 answer: '5776'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/insiemi_funzioni
+  - gara/squadre
 ---
 
 # Kangourou 2009 squadre finale — Quesito 5

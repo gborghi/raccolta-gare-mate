@@ -7,6 +7,7 @@ family: imo
 year: '1960'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Valori di x per cui vale la disuguaglianza con radice
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1960 (II International Olympiad) — Quesito 2

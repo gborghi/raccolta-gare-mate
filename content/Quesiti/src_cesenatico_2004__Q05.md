@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Enunciato su successioni reali decomposte in due con somme parziali
 answer: vero
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/nazionale
   - topic/funzionali
+  - gara/individuale
 ---
 
 # XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 5

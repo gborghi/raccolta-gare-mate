@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Volume della parte piu piccola tagliando un cubo
 answer: C
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 19

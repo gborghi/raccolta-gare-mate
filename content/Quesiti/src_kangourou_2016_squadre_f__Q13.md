@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Modi di colorare i vertici del quadrato con 3 colori
 answer: '18'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Finale — Quesito 13

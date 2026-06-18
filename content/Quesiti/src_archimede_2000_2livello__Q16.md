@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Coppie (m,n) interi positivi con 1/m+1/n-1/mn=2/5'
 answer: '(3,10),(4,5),(10,3),(5,4)'
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 16

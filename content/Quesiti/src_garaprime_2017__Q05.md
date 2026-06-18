@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Ordine di arrivo di tre auto con velocita medie
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2017
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 5

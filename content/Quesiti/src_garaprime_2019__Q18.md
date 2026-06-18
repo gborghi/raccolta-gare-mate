@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Minimo triangolo che contiene 2019 punti dati i triangoli
 answer: A
@@ -25,6 +26,7 @@ tags:
   - anno/2019
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 18

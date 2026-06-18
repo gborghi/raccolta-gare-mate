@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Intero piu vicino a una espressione con radici
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 17

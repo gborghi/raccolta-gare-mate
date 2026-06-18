@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Termine di grado 6 nel prodotto di due polinomi
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 8

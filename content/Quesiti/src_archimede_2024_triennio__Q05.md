@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Interi k con q(k)=0 per composizione 2024 volte di p(x)
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 5

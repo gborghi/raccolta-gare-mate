@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S1
 summary: Possono Bruno e Carlo avere giorno di riposo comune (programmi sportivi)
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Student — Quesito S1

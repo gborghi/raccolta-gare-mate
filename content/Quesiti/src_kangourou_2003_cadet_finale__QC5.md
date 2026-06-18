@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Tempo tra sovrapposizioni delle lancette
 answer: 1h5'27"3/11
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C5

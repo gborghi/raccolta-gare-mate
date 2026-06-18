@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Probabilita che un palindromo di 4 cifre sia divisibile per 7
 answer: E
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/probabilita
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Semifinale Student — Quesito 2

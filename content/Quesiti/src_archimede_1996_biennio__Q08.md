@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Rapporto AD/AB da similitudine di rettangoli
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 8

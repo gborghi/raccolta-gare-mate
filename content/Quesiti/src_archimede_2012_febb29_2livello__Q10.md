@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Conteggio parole chiave con vincoli su caratteri E N V
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 10

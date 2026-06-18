@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Triangoli rettangoli con vertici tra vertici e centro di ottagono
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2016
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2016 — Quesito 9

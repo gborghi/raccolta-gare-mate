@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Peso escluso per equilibrio con cinque dei sei pesi
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - topic/logica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 20

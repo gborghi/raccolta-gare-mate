@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Valore di x^3+1/x^3 dato x+1/x=5
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 12

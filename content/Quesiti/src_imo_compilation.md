@@ -6,12 +6,14 @@ family: imo
 year: ''
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '7'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/
+  - gara/individuale
 ---
 
 # IMO compilation 1959-2013

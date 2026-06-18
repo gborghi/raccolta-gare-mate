@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '17'
 summary: Rapporto tra raggio inferiore e superiore di solido vetrario
 answer: '1552'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2021 — Quesito 17

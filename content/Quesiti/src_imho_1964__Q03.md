@@ -7,6 +7,7 @@ family: imo
 year: '1964'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Somma aree dei quattro cerchi inscritti in funzione di a,b,c'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1964
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1964 (VI International Olympiad) — Quesito 3

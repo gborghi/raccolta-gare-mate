@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Spigoli rossi del cubo perché ogni faccia ne abbia uno
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2023 Cadet — Gara 16 marzo — Quesito 13

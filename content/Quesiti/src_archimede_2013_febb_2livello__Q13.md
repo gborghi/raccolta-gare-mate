@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: 'Battaglia navale, colpi minimi per colpire portaerei 5x1'
 answer: '20'
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quale affermazione vera sul cocktail di succhi
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2012 Benjamin (gara marzo) — Quesito 16

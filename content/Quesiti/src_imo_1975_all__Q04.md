@@ -7,6 +7,7 @@ family: imo
 year: '1975'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Iterated digit sum of 4444^4444
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1975
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1975 (Seventeenth International Olympiad) — Quesito 4

@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Membri fra tre anni (+50% ogni anno)
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2007 Junior (marzo) — Quesito 5

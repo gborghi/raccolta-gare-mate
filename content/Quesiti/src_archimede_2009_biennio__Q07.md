@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Latterie l'anno scorso da rapporti tabaccherie-latterie
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 7

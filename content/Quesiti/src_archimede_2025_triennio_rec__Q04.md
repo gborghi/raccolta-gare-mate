@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Valore di espressione con potenze di 3 e 9
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 4

@@ -6,12 +6,14 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '12'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2024
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2024 - Finale Nazionale

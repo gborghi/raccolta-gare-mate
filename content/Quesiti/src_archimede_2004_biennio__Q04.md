@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: valori del parametro a
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/2004
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Biennio — Quesito 4

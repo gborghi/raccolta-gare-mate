@@ -7,6 +7,7 @@ family: imo
 year: '2020'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Minimo k funivie con due stazioni collegate da entrambe
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # IMO 2020 papers — Quesito 4

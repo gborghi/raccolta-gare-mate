@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: Somma seconda colonna griglia 2x2
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2004 Ecolier (18 marzo) — Quesito 22

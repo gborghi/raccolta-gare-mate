@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Somma di conteggi di primi/non-primi su 100 righe
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 5

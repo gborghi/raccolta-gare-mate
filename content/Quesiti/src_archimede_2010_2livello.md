@@ -6,12 +6,14 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 n_quesiti: '17'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2010
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio)

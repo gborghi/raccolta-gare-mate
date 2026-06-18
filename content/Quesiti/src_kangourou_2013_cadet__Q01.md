@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Area regione ombreggiata in triangolo equilatero suddiviso
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 1

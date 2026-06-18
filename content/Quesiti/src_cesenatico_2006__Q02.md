@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Determinare valori di (a,b,c) con c=ab e ab=a^2 e relazioni'
 answer: '(20,2,40),(4,3,12),(12,1,12)'
@@ -19,6 +20,7 @@ tags:
   - anno/2006
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XXII Olimpiade Italiana Cesenatico 2006 — Quesito 2

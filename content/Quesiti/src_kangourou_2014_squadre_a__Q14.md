@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Valore di 3a+4b+5c da due relazioni lineari
 answer: '1200'
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Semifinale A — Quesito 14

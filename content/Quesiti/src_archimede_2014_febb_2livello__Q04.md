@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Gioco con ultime due cifre di 51n+50, numeri ottenibili'
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2014
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 4

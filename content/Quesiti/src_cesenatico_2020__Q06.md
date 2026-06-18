@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: numero configurazioni compatibili
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 6

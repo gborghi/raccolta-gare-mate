@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: 'Coppie (m,n) con numero di iniezioni quadrato perfetto'
 answer: '0440'
@@ -30,6 +31,7 @@ tags:
   - topic/insiemi_funzioni
   - topic/insiemi_funzioni
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre GSM (locale Genova) 2022 — Quesito 21

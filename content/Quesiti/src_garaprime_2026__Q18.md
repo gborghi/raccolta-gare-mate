@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: 'Numeri di 4 cifre con cifre 2,0,6'
 answer: D
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 18

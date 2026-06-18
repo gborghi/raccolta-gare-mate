@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Cifra delle unita di 2023^(2022^2021)
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 1

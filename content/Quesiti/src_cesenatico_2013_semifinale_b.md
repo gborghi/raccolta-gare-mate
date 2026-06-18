@@ -6,12 +6,14 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 n_quesiti: '16'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2013
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Semifinale B

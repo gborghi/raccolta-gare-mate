@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Disequazione con soluzione l'esagono disegnato
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/2-livello
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1997 — Quesito 10

@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Carlini per un Baiocco da catene di cambio
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 2

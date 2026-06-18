@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Sottoinsiemi pari = dispari (999 e 1000 elementi)
 answer: dimostrazione
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C5

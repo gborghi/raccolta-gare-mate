@@ -7,6 +7,7 @@ family: imo
 year: ''
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: IMO 1997 problema 6
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO compilation 1959-2013 — Quesito 6

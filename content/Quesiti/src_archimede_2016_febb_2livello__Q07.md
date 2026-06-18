@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Massimo numero di angoli minori di 150 in poligono convesso 2016
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 7

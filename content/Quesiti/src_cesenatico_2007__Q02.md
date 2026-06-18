@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: p(2007)-q(2007) multiplo di 2 e di k
 answer: '(a) dimostrato; (b) si, k=2006'
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Numeri speciali con cifre 0-9 e divisibilita
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2000
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 2000 — Quesito 1

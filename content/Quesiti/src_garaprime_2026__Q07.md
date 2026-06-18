@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Valore di x^(x^2x+1) dato x^x=2
 answer: C
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/algebra
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 7

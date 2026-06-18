@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Cifra mancante in frase con divisione 71*/17 resto 14
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2015
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2015 — Quesito 4

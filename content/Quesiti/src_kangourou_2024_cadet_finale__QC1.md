@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C1
 summary: Si puo dedurre il significato di KAB dalla risposta
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou Finale Cadet 2024 — Quesito C1

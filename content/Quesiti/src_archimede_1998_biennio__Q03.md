@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Quale espressione e il quadrato del triplo del consecutivo
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 3

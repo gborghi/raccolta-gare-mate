@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: in quanti modi
 answer: 0184
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 7

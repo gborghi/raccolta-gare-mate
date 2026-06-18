@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quanti numeri di Fibonacci hanno esattamente 2016 cifre
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 9

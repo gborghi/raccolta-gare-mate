@@ -7,6 +7,7 @@ family: imo
 year: '1977'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Find pairs (a,b) with q^2+r=1977 for a^2+b^2 over a+b'
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1977
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1977 (Nineteenth International Olympiad) — Quesito 5

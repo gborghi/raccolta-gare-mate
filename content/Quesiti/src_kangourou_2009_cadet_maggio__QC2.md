@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C2
 summary: Da quale pizza scegliere la fetta piu grande
 answer: raggio 10
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C2

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Somma cifre di (10^2013+1)^3
 answer: B
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 11

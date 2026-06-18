@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Giorni alla prossima Festa del Pianeta su Uru
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 13

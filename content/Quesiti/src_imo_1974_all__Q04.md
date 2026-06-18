@@ -7,6 +7,7 @@ family: imo
 year: '1974'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Max rectangles partitioning chessboard with balanced colors
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1974
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1974 (Sixteenth International Olympiad) — Quesito 4

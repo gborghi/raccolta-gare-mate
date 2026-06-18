@@ -7,6 +7,7 @@ family: imo
 year: '1984'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Odd integers with ad=bc and power-of-two sums imply a=1
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1984
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1984 (25th International Mathematical Olympiad) — Quesito 6

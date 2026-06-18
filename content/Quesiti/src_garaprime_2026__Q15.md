@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Anatre con testa e piume rosse (insiemi)
 answer: D
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 15

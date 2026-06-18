@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Percorsi della pulce dall''origine a (0,2016)'
 answer: A
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 16

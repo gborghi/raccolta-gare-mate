@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quanti bugiardi nella fila di 25 (sinceri/bugiardi)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 15

@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Parole infinite su A,B evitando certe terne di lettere'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 10

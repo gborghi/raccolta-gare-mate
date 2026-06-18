@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: luogo dei punti P con angAPB+angCPD=180
 answer: diagonali e archi della circoscritta
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 5

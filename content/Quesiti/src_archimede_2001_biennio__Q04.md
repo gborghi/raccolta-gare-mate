@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Persone che non parlano ne inglese ne spagnolo
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 4

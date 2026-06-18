@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Soluzioni di f(f(f(x)))=0 dal grafico
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 16

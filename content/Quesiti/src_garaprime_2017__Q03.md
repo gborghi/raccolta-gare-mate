@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Area di triangolo equilatero da quattro triangolini interni
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2017
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2017 — Quesito 3

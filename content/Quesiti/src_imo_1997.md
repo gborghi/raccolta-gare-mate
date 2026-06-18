@@ -6,12 +6,14 @@ family: imo
 year: '1997'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1997
+  - gara/individuale
 ---
 
 # IMO 1997 (38th IMO, Mar del Plata)

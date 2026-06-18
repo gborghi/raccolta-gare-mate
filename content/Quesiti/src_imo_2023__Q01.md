@@ -7,6 +7,7 @@ family: imo
 year: '2023'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Composti n con di divide di+1+di+2
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2023 papers — Quesito 1

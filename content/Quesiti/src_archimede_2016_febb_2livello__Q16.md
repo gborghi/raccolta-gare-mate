@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: esiste un quadrato perfetto
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2016 - 2 livello — Quesito 16

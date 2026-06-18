@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Valori di alpha per soluzione unica del sistema
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 6

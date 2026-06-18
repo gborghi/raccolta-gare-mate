@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Se floor(lambda^n+1)..floor(lambda^4n) quadrati allora floor(lambda) quadrato
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 4

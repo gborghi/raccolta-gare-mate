@@ -7,6 +7,7 @@ family: imo
 year: '1996'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Least square value with 15a+16b and 16a-15b both squares
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1996
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1996 (37th IMO, Mumbai) — Quesito 4

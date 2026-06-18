@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Valori del rapporto a/b da identita cubica
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 14

@@ -6,12 +6,14 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2013
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Finale

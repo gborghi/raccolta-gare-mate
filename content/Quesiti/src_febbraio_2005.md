@@ -6,12 +6,14 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 n_quesiti: '23'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2005
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005

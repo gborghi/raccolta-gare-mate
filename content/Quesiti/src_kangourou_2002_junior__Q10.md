@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Conclusione sul vicino Franco
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Junior (21 marzo) — Quesito 10

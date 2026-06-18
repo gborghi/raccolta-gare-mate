@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Lato quadrato equiscomposto da triangolo equilatero
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 20

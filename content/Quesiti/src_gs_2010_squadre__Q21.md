@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Conteggio suriezioni soldati su tre lettere
 answer: '540'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 21

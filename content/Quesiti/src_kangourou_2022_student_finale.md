@@ -6,12 +6,14 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2022
+  - gara/individuale
 ---
 
 # Kangourou 2022 Student — Finale (risposta aperta)

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Differenza tra il piu grande e piu piccolo numero dolce
 answer: '889'
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 2

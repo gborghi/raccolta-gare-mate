@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J6
 summary: Esistono palindromi ABBA di 4 cifre quadrati perfetti
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Finale Junior 2024 — Quesito J6

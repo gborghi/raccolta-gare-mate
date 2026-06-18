@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Volume piramide noto volume parte rimossa dal piano
 answer: '1704'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 16

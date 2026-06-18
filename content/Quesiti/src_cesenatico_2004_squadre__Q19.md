@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: Differenza tra modi pari e dispari di illuminare 6 finestre
 answer: '0064'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 19

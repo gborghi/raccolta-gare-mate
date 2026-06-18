@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Coppie di sottoinsiemi di {1..5} con intersezione di un elemento'
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/combinatoria
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 8

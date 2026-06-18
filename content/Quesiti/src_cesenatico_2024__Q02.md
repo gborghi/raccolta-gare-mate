@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: insieme dei punti mediani
 answer: due segmenti e quattro archi
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 2

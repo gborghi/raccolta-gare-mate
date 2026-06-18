@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Minimo cubi per costruire scatola aperta 10x10x10
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2001
   - livello/biennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 8

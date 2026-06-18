@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: altezza della bottiglia
 answer: 1+sqrt(85)
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/nazionale
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 1

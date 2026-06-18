@@ -6,12 +6,14 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 n_quesiti: '18'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2026
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026

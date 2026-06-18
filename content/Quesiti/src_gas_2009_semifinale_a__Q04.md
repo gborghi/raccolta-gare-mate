@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Prodotto (alpha-1)(beta-1) radici di un polinomio quadratico
 answer: 0190
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale A — Quesito 4

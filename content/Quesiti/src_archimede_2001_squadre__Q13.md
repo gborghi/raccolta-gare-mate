@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: numero minimo per fare 2001
 answer: '0024'
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 13

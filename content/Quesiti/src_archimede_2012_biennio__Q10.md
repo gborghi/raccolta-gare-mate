@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Distanza XY da intersezioni diagonali esagono regolare
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 10

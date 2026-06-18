@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Ogni poliedro ha due facce con stesso numero di spigoli
 answer: si
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J5

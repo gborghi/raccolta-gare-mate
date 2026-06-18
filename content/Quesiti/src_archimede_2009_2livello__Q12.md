@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Massimo numero di fattori interi di x^16 + x
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 12

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E2
 summary: 'Quadretti racchiusi nel quadrato, 35 colorati'
 answer: impossibile
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2017 Écolier (finale Cervia) — Quesito E2

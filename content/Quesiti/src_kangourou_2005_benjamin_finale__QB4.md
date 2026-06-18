@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B4
 summary: Minimo lacci comprati da Silvia
 answer: '5'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (finale nazionale) — Quesito B4

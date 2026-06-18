@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Angolo ADM in parallelogramma con punti conciclici
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 11

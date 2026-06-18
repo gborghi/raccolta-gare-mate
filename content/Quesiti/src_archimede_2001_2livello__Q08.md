@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Probabilità che Lorenzo sia sano dato il test positivo
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001 — Quesito 8

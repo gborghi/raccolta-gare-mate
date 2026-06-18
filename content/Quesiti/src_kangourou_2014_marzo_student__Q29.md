@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: 'Z->Z con x f(x)=(x-3)f(x+1): prodotto f(4)...f(2014)'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2014 gara 20 marzo Student — Quesito 29

@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: Si puo ottenere somma 2012 sulle facce esposte dei dadi
 answer: 'no'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Cadet (Mirabilandia) — Quesito C4

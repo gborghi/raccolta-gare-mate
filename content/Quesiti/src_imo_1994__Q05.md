@@ -7,6 +7,7 @@ family: imo
 year: '1994'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Find all f on (-1,inf) with functional and monotonicity conditions'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1994
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1994 (35th IMO, Hong Kong) — Quesito 5

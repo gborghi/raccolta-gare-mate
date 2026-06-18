@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Probabilità che ad+bcd+d^2 sia dispari con 4 lanci
 answer: '0005'
@@ -21,6 +22,7 @@ tags:
   - anno/2026
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 1

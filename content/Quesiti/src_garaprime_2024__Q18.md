@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Massimo dei tre numeri data la somma combinata 396
 answer: A
@@ -25,6 +26,7 @@ tags:
   - anno/2024
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 18

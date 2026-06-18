@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numero di ragazze a una festa di danze incrociate
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2015
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Biennio — Quesito 6

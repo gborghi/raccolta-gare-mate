@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: quante soluzioni intere positive
 answer: '2005'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Biennio — Quesito 11

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: determinare il tipo di ognuno
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/logica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 3

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Spigoli minimi cancellati per cammino euleriano su dodecaedro
 answer: 0009
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Semifinale A — Quesito 8

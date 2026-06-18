@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Insiemi di interi consecutivi con somma 100
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2004 - Student (marzo) — Quesito 29

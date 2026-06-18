@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: quanti mazzetti girati
 answer: '112'
@@ -24,6 +25,7 @@ tags:
   - anno/2017
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 3

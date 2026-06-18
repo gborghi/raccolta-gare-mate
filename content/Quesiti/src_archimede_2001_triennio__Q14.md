@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quale somma di numeri dispari e sicuramente errata
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2001
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 14

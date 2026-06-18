@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Valore della radice cubica di 3^(3^3)
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 4

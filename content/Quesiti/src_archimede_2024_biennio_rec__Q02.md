@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Minima perdita di buoni per pagare le scarpe
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 2

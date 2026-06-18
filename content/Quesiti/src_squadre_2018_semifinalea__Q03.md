@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: 'Numero di somme b+c di 100 interi, Nmax-2Nmin'
 answer: '4652'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Semifinale A — Quesito 3

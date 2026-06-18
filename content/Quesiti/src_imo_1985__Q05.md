@@ -7,6 +7,7 @@ family: imo
 year: '1985'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Prove angle OMB is right in two-circle configuration
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1985
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1985 (26th International Mathematical Olympiad) — Quesito 5

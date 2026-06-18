@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Max segmenti attraversati da una retta (10 punti)
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2003 Cadet (20 marzo) — Quesito 29

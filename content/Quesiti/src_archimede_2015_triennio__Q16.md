@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: seconda volta che si incontrano
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2015 - Triennio — Quesito 16

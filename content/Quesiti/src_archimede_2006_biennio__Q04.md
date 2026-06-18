@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Prezzo originale dopo sconto del 15%
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 4

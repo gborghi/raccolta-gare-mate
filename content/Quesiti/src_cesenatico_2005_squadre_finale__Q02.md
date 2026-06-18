@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: 'Massimo numero collaboratori, ognuno 3 campi su 8'
 answer: 0008
@@ -24,6 +25,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 2

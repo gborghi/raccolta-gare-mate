@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Massimo valore ottenibile su calcolatrice con 4 tasti
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2014
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2014 — Quesito 5

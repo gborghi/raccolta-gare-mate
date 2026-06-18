@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Ordinata d del punto D sul cerchio
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Student (gara 28 marzo) — Quesito 8

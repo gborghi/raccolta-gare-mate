@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Parallelogramma, bisettrice su punto medio, lunghezza AM'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2023 - 2° livello — Quesito 10

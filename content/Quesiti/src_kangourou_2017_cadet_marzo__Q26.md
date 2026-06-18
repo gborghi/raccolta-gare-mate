@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Cubetti non usati nel cubo con 9 tunnel
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2017 Cadet (gara marzo) — Quesito 26

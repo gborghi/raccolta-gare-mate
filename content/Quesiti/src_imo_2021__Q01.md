@@ -7,6 +7,7 @@ family: imo
 year: '2021'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Un mucchio contiene due carte con somma quadrato
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2021 papers — Quesito 1

@@ -7,6 +7,7 @@ family: imo
 year: '1970'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Tetrahedron perimeter-squared inequality with equality case
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_solida
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1970 (Twelfth International Olympiad) — Quesito 5

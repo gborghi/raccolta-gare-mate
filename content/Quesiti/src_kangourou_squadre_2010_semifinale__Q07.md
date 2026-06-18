@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Somma interi pari n in catena di disuguaglianze
 answer: '0302'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/disuguaglianze
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 7

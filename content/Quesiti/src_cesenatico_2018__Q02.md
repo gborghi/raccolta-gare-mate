@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: GS perpendicolare a BC
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2018
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 2

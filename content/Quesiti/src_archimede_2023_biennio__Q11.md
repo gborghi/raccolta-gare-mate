@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Coppie intere (x,y) con x^2 y^3 = 7xy'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 11

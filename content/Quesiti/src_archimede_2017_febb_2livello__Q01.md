@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Somma delle facce nascoste dei 27 dadi incollati a cubo
 answer: E
@@ -23,6 +24,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2017 - 2 livello — Quesito 1

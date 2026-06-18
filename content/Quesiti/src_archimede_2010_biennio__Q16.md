@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Numeri quattro cifre con unita somma di decine e centinaia
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 16

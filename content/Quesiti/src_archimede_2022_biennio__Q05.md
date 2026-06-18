@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Distanza dal punto di partenza dopo 100 passi avanti
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 5

@@ -7,6 +7,7 @@ family: imo
 year: '1993'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Prove x^n+5x^(n-1)+3 is irreducible over integers
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1993
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1993 (34th IMO) — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: OM perpendicolare a BK
 answer: dimostrato (rotazione 90 gradi)
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XXV Olimpiade Italiana Cesenatico 2009 — Quesito 2

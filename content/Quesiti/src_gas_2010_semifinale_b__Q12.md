@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: 'Minimi numeri di 5 cifre con cifre 0-9, uno doppio dell''altro'
 answer: '3485'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale B — Quesito 12

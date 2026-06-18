@@ -7,6 +7,7 @@ family: imo
 year: '1988'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Count n<=1988 with recursively-defined f(n)=n
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1988 (29th IMO, Canberra) — Quesito 3

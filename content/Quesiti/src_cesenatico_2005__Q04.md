@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: n interi a due a due con fattore comune ma a tre a tre coprimi
 answer: per ogni n>=3; con limite <5000 il massimo n e 4
@@ -24,6 +25,7 @@ tags:
   - anno/2005
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XXI Olimpiade Italiana Cesenatico 2005 — Quesito 4

@@ -7,6 +7,7 @@ family: imo
 year: '1983'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Find all positive functions with f(xf(y))=yf(x) tending to 0
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1983
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1983 (24th International Mathematical Olympiad) — Quesito 1

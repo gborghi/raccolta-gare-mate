@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Minimo di (a*b)*(c*d) con x*y=x+y-xy
 answer: '9868'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/disuguaglianze
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 21

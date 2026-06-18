@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Potenze di 4 che in base 3 usano solo 0 e al piu due 1
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 6

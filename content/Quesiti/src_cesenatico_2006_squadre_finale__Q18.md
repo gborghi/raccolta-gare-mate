@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: 'Interi pari in [4000,7000] con tutte cifre diverse'
 answer: 0728
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 18

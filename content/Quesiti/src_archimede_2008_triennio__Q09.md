@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Raggio circonferenza da quadrilatero con diagonali perpendicolari
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 9

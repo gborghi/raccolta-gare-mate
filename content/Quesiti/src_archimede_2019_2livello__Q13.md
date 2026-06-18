@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: 'Cavalieri e furfanti al tavolo, 3 si sbagliano'
 answer: '27'
@@ -24,6 +25,7 @@ tags:
   - anno/2019
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2019 - 2° livello — Quesito 13

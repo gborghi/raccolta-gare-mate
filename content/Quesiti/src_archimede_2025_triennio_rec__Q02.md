@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: X+Y per somma di due decimali periodici come frazione
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 2

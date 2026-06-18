@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: esiste blocco di 2000 bilanciato
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 3

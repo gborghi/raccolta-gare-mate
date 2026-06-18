@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '21'
 summary: Rapporto perimetri di sezioni di icosaedro e dodecaedro
 answer: '0673'
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 21

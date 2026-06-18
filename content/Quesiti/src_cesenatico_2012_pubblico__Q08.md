@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Probabilita parita nello scontro finale (colpi)
 answer: 0840
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 8

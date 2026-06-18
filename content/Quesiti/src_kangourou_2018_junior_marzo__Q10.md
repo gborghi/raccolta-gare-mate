@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Somma di due dadi con probabilita piu alta tra 7,8,9,10'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Junior — Quesito 10

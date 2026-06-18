@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Probabilita due su tre nate stesso giorno settimana
 answer: '3877'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre finale — Quesito 14

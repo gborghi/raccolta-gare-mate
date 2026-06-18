@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: minimo k
 answer: minimo k in funzione di n
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # XXV Olimpiade Italiana Cesenatico 2009 — Quesito 6

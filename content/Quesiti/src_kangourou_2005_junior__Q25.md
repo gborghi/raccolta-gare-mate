@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Quanti interi n soddisfano due disuguaglianze
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/disuguaglianze
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Junior (marzo) — Quesito 25

@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Probabilità che Nicola vinca almeno 4 monete in 5 partite
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 5

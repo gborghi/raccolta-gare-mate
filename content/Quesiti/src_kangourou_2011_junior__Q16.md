@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: In quanti modi annerire celle con vincoli righe e colonne
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Junior (gara marzo) — Quesito 16

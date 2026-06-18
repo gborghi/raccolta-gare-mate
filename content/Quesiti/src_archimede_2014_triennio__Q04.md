@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Sesterzi non distribuiti, somma di potenze di 2'
 answer: E
@@ -19,6 +20,7 @@ tags:
   - anno/2014
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 4

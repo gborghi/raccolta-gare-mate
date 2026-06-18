@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Lunghezza contorno del cerchio piegato
 answer: '0053'
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Finale — Quesito 9

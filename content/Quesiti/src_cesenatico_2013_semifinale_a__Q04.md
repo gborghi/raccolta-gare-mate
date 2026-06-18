@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Max lati poligono regolare in striscia larga 200
 answer: 0628
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 4

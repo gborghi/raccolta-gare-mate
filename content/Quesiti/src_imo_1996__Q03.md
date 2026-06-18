@@ -7,6 +7,7 @@ family: imo
 year: '1996'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Find all f with f(m+f(n))=f(f(m))+f(n)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1996
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1996 (37th IMO, Mumbai) — Quesito 3

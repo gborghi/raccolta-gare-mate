@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Soluzione di una somma di frazioni lineari in x
 answer: B
@@ -19,6 +20,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 19

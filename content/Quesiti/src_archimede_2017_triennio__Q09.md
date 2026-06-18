@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: affermazione falsa
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 9

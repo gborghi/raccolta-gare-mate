@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Vertice con rapporto y/x minimo nel rettangolo
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 16

@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Case di partenza per percorso euleriano sulle strade
 answer: C
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 15

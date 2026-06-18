@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Numero mattonelle compatibile con salti di 2,3,4,5'
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Biennio (T1) — Quesito 11

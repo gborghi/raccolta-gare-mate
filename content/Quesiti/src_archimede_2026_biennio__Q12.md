@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quanti cavalieri nella classe (cavalieri e furfanti)
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 12

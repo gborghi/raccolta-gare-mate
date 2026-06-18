@@ -7,6 +7,7 @@ family: imo
 year: '2015'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: 'Triple (a,b,c) con ab-c,bc-a,ca-b potenze di 2'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2015 papers — Quesito 2

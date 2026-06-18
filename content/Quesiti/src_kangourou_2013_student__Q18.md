@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: 'Coppie (x,y) interi con x^2 y^3=6^12'
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 18

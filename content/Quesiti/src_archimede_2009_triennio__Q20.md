@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Cifra delle unita di 66^66 diviso 2
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 20

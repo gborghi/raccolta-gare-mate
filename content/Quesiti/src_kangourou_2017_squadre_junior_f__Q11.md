@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Minimo numero che per 123 termina con 2017
 answer: '179'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre Junior 2017 Finale — Quesito 11

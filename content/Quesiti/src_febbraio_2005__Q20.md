@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Triangoli e angoli con due rette in un quadrato di lato dato
 topics:
@@ -17,6 +18,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 20

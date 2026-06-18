@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: massimo prodotto con somma 10
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2016
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2016 — Quesito 8

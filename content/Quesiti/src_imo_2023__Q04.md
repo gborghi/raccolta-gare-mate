@@ -7,6 +7,7 @@ family: imo
 year: '2023'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Dimostrare a2023>=3034 (radici di somme e reciproci)
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 2023 papers — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Quadrati magici 3x3 con cifre 0-4 e somma 4
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 25

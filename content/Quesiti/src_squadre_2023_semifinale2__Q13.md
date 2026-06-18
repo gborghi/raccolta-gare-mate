@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Valori n vincenti gioco di Nim su 2022 fiammiferi
 answer: '0674'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2023 - Semifinale 2 — Quesito 13

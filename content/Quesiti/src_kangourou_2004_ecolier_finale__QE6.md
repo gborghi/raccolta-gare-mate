@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E6
 summary: Quanti nipoti e ovetti (divisioni esatte)
 answer: 5 nipoti 25 ovetti
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2004 Ecolier finale nazionale — Quesito E6

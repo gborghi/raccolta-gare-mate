@@ -7,6 +7,7 @@ family: imo
 year: '1984'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Bound xy+yz+zx-2xyz for nonnegative reals summing to 1
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1984
   - livello/IMO
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1984 (25th International Mathematical Olympiad) — Quesito 1

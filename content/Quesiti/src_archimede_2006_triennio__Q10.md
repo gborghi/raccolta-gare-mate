@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Ordinare radici 2*2^(1/6), radice 5, 11^(1/3)'
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/triennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio — Quesito 10

@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Somma dei reciproci delle radici di equazione reciproca
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 10

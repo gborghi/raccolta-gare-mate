@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Insiemi labirintici in tabella 2n x 2n, perimetro e limiti'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2023 - 2° livello — Quesito 17

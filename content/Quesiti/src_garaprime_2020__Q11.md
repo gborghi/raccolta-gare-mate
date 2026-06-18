@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Perimetro del rettangolo tagliato in nove quadrati
 answer: A
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 11

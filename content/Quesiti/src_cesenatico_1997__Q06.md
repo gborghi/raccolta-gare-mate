@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Spesa minima commesso viaggiatore ferro/aereo
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1997 — Quesito 6

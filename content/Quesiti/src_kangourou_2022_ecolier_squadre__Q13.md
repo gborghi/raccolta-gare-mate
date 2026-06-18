@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Euro di Antonio dopo trasferimenti a Cristina
 answer: '0674'
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Perimetro ennagono in triangolo equilatero lato 15
 answer: '39'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Semifinale A — Quesito 14

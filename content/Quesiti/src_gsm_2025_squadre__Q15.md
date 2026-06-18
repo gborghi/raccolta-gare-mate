@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Naturali sotto 10000 con somma cifre multipla di 6
 answer: '0004'
@@ -30,6 +31,7 @@ tags:
   - topic/combinatoria
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 15

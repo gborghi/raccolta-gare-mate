@@ -7,6 +7,7 @@ family: imo
 year: '1978'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: sum a_k/k^2 >= sum 1/k
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1978
   - livello/IMO
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1978 (Twentieth International Olympiad) — Quesito 5

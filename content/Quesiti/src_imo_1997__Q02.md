@@ -7,6 +7,7 @@ family: imo
 year: '1997'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Prove AU=TB+TC with perpendicular-bisector construction
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1997
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1997 (38th IMO, Mar del Plata) — Quesito 2

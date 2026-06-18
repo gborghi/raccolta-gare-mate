@@ -7,6 +7,7 @@ family: imo
 year: '1977'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: f(n+1)>f(f(n)) implies f(n)=n for all n
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1977
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1977 (Nineteenth International Olympiad) — Quesito 6

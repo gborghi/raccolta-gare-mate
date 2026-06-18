@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J4
 summary: Minimo rette per tutti gli angoli 10..90 gradi
 answer: '5'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J4

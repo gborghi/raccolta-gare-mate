@@ -7,6 +7,7 @@ family: imo
 year: '1976'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Prove closed form for floor of recurrence sequence u_n
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1976
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1976 (Eighteenth International Olympiad) — Quesito 6

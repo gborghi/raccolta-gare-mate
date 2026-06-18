@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Massimo k con k^2 che divide n!/(n-6)! per ogni n>6
 answer: '12'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 13

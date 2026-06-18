@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Massimo n con 24^n divisore di 60^100
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2020
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Probabilita che Danilo ottenga la maglia 8
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 25

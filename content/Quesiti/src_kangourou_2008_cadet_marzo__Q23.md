@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Cosa risponde il settimo giorno
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 23

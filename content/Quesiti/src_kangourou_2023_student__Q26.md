@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '26'
 summary: Lunghezza del lato del quadrato da segmenti sugli assi
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 26

@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quale affermazione puo essere vera (sport)
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Ecolier (marzo) — Quesito 14

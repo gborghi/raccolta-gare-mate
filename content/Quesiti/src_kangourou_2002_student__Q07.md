@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Sfruttamento medio annuo dell'albergo
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 7

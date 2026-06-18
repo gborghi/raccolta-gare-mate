@@ -7,6 +7,7 @@ family: kangourou
 year: '2004'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Numeri nel rettangolo e cerchio ma non triangolo
 answer: B
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/insiemi_funzioni
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2004 Ecolier (18 marzo) — Quesito 4

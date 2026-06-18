@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Minimo numero di monete in 12 tasche con conteggi distinti
 answer: C
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 10

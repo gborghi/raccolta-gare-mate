@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: 'Quanti numeri di tre cifre con le tre carte 9,9,8'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2011 Ecolier (gara marzo) — Quesito 20

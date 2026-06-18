@@ -7,6 +7,7 @@ family: imo
 year: '2016'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Minimo b con insieme fragrante di P(n)=n^2+n+1
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2016 papers — Quesito 4

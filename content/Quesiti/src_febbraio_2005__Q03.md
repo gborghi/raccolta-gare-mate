@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Tre interi a,b,c misure dei lati di un triangolo non degenere'
 topics:
@@ -17,6 +18,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 3

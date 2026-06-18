@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: 'Massimo opposto somma prodotti di sequenza 0,1,-1'
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 3

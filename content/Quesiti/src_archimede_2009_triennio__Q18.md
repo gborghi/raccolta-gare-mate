@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Seconda cifra del prodotto (10^4+1)(10^2+1)(10+1)
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 18

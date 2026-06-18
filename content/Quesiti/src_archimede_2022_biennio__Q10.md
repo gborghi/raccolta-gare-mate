@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Terne distinte a|b|c|12 catena di divisori
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 10

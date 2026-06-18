@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Minimo di x+y con vincoli e equazione con radici
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 12

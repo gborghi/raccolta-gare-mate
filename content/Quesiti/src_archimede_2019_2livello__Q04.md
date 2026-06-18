@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Sequenza somma 4 consecutivi costante, somma totale'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/2-livello
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2019 - 2° livello — Quesito 4

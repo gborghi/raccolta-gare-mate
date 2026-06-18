@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Somma differenze cifre per numeri da 10 a 99
 answer: C
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 11

@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Numero lati poligono con media angoli interni 175
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 9

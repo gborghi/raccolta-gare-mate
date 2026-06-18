@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Piu piccolo di 27 consecutivi con media 2008
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 12

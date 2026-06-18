@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Colorazioni griglia 3x3 con numero dispari di verdi per riga/colonna
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 1

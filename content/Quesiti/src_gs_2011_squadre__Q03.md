@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Rapporto fra aree di triangoli con similitudini
 answer: '2025'
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 3

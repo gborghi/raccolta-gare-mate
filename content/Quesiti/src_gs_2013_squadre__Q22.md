@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '22'
 summary: Distanza nave dalla riva con similitudini
 answer: '2500'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Coppa Galileo 2013 - Gara a squadre — Quesito 22

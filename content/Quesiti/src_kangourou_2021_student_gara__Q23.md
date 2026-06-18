@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Valore somma f(2)/f(1)+...+f(2021)/f(2020) con f moltiplicativa
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2021
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2021 Student gara individuale — Quesito 23

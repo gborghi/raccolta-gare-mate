@@ -7,6 +7,7 @@ family: imo
 year: '2021'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Scoiattoli e noci, esiste k con a<k<b'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2021 papers — Quesito 5

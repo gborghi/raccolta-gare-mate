@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'dado, tre regagli'
 topics:
@@ -19,6 +20,7 @@ tags:
   - comp/archimede
   - anno/2005
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Coppa/Gara di febbraio 2005 — Quesito 4

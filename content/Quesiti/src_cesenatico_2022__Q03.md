@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: chi prende la fetta piu grande
 answer: il 100-esimo
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/nazionale
   - topic/algebra
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 3

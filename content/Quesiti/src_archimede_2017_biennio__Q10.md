@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Primi che restano primi cancellando cifre
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 10

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Parita su vertici di poligono, affermazione sicuramente vera'
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 3

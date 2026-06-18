@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Probabilita che un estratto sia minore dell'altro
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/1996
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Triennio — Quesito 10

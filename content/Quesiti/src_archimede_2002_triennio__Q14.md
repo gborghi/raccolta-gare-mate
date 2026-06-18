@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Probabilita due femmine in parto gemellare
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2002
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio — Quesito 14

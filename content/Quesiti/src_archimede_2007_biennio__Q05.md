@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Segni di a,b con a+b<0 e ab>0'
 answer: B
@@ -19,6 +20,7 @@ tags:
   - anno/2007
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 5

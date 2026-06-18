@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Valore massimo di a(b+c)-b(a+c) con interi 1..10
 answer: B
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 3

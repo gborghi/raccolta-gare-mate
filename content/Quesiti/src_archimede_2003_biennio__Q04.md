@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Differenza tra numero massimo e minimo di tessere su griglia
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2003
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Biennio — Quesito 4

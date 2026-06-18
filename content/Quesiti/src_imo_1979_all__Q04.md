@@ -7,6 +7,7 @@ family: imo
 year: '1979'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Find points R maximizing ratio (QP+PA)/QR in plane
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1979
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1979 (Twenty-first International Olympiad) — Quesito 4

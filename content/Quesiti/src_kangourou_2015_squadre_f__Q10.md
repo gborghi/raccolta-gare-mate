@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Modi di comporre tre squadre da 6 coppie di gemelli
 answer: '960'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2015 Finale — Quesito 10

@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Probabilità che tre amici totalizzino stesso punteggio in sei gare
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 7

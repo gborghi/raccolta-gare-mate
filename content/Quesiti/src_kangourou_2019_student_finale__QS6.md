@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Critica della dimostrazione su pavimentazione con ettagoni
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Student — Quesito S6

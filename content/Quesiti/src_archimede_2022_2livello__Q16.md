@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Triangolo, bisettrice, proiezioni, isoscele ADH'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 16

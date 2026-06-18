@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Interi m con due espressioni razionali entrambe intere
 answer: m=1
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 17

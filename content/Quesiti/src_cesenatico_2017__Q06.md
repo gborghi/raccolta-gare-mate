@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Infiniti m con num. fattori primi dispari di m(m+3) multiplo di 3
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 6

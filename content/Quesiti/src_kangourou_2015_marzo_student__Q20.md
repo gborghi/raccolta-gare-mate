@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: faccia indicata
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Student — Quesito 20

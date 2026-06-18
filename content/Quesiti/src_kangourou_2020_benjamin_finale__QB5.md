@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B5
 summary: Distanza di P da A per tragitto minimo C-M (riflessione)
 answer: 8 mm
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2020 Finale nazionale Benjamin — Quesito B5

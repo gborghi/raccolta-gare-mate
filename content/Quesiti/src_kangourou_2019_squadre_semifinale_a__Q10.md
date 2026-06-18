@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Quadrati perfetti <9200 con cifra unita 6
 answer: 0019
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Semifinale A — Quesito 10

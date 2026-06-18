@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Rapporto volumi da masse e densita
 answer: '1250'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre — Quesito 3

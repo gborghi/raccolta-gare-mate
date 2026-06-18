@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Quanti paggi fra vecchio ragazzo e ragazza
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 17

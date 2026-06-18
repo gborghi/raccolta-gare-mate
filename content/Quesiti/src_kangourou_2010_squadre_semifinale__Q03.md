@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Coppie di caselle non adiacenti su scacchiera 8x8
 answer: '1904'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre semifinale turno A — Quesito 3

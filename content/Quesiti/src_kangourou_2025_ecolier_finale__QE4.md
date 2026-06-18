@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E4
 summary: Su quale dito cade il conteggio 2025
 answer: pollice
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Ecolier finale — Quesito E4

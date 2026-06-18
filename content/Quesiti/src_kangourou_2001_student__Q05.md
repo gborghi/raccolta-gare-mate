@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Probabilita numero pari e maggiore di 399
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 5

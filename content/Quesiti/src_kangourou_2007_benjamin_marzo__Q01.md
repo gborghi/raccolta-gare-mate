@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Valore di (2+0+0+7)x2x0x0x7
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Benjamin (marzo) — Quesito 1

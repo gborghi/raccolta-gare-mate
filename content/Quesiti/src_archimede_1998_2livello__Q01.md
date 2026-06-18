@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Rapporto uomini/donne note le età medie a una festa
 answer: D
@@ -19,6 +20,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 1

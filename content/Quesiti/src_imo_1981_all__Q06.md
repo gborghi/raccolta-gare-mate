@@ -7,6 +7,7 @@ family: imo
 year: '1981'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Compute Ackermann-type function f(4,1981)'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1981
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1981 (Twenty-second International Olympiad) — Quesito 6

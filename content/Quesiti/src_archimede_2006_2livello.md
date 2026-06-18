@@ -6,12 +6,14 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 n_quesiti: '17'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2006
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio)

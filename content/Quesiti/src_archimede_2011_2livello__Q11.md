@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Coppie (x,y) con x^2-y^2 multiplo di 2011 e 2011 divisori'
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2011
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 11

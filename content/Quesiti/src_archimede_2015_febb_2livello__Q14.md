@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: 'Pulce su 2015-agono, primo salto su vertice gia visitato'
 answer: '48'
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 14

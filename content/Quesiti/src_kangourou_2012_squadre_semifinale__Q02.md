@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Quadrato del cateto AC nel triangolo rettangolo
 answer: '936'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A — Quesito 2

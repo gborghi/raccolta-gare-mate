@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Valore di (a+b)/(b+c) con b/a=2 e c/b=3
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 9

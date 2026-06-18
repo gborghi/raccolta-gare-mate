@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Scelte di n perche pulce torni al 12 dopo 12 salti
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 4

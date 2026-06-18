@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Massimo punti in cerchio a distanza almeno 1
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 6

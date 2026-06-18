@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Probabilita di riestrarre la stessa carta con reinserimento
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 15

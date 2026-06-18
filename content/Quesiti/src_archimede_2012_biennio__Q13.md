@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Distanza dopo 17 salti con rotazioni di cavalletta
 answer: E
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 13

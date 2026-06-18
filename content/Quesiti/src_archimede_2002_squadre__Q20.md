@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: '65 punti, geometria solida'
 answer: '4000'
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 20

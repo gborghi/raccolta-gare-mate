@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Cifra iniziale di 5^n sapendo che 2^n inizia con 7
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2017 - 2 livello — Quesito 12

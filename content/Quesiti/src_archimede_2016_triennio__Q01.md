@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Minuti in campo per giocatore, 16 su 11'
 answer: C
@@ -19,6 +20,7 @@ tags:
   - anno/2016
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Triennio — Quesito 1

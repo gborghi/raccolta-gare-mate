@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B6
 summary: Numero minimo di pulsanti per sapere a che piano si trova
 answer: '6'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B6

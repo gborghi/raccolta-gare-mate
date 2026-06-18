@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Ipotenusa triangolo rettangolo da cateto e raggio inscritto
 answer: D
@@ -24,6 +25,7 @@ tags:
   - anno/2011
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Biennio — Quesito 18

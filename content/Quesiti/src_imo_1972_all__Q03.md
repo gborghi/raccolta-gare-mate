@@ -7,6 +7,7 @@ family: imo
 year: '1972'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Prove (2m)!(2n)!/(m!n!(m+n)!) is an integer
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1972
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1972 (Fourteenth International Olympiad) — Quesito 3

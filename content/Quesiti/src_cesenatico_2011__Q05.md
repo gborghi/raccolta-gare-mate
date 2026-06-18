@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Soluzioni intere di n^3 = p^2 - p - 1 con p primo
 answer: '(2,1) e (37,11)'
@@ -24,6 +25,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Somma primi 2013 termini di successione di prodotti
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 27

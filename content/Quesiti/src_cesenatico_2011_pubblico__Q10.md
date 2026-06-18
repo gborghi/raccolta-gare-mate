@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Somma cifre base 2 di p(128) per prodotto
 answer: '0511'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/algebra
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 10

@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Liste di risposte che garantiscono 4 corrette
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2006 Student (marzo) — Quesito 24

@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Velocita media seconda meta tragitto data media totale
 answer: '150'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Semifinale A — Quesito 11

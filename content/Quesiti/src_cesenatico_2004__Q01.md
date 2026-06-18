@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: trovare quella del 25 dicembre
 answer: '-3 gradi'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/nazionale
   - topic/funzionali
+  - gara/individuale
 ---
 
 # XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 1

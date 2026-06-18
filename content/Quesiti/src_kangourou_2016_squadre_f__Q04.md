@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Velocita restanti due terzi per media 21 (impossibile)
 answer: '9999'
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Finale — Quesito 4

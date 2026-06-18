@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Probabilita che due compagni finiscano nella stessa aula
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 6

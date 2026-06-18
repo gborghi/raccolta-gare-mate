@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Volume del cubo con tre fori quadrati passanti
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2016
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2016 — Quesito 15

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: 'Probabilità pareggio gioco con dadi, num+den'
 answer: '0061'
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2022 Junior Finale 2 — Quesito 1

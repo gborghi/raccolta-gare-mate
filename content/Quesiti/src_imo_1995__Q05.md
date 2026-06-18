@@ -7,6 +7,7 @@ family: imo
 year: '1995'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Hexagon inequality AG+GB+GH+DH+HE>=CF
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1995 (36th IMO, Toronto) — Quesito 5

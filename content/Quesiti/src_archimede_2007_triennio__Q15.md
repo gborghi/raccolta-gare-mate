@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Fogli delle presenze distinti per 10 studenti
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 15

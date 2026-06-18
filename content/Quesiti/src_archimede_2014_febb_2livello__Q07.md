@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Area di una pedina astronave su griglia unitaria
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/geometria_piana
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 7

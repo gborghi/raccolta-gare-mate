@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: 'Cammini su griglia da (8,6) a (0,0) con 7 cambi direzione'
 answer: '0700'
@@ -22,6 +23,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale — Quesito 9

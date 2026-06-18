@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Minimo di 4a^3/b + b + 1/a con a,b reali positivi'
 answer: '0004'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/disuguaglianze
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 4

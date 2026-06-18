@@ -7,6 +7,7 @@ family: imo
 year: '1995'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Prove AM, DN, XY concurrent in two-diameter-circles config'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1995
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1995 (36th IMO, Toronto) — Quesito 1

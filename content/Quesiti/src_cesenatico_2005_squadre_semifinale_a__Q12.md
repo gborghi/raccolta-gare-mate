@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Piu grande ultraprimo di 3 cifre
 answer: 0991
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 12

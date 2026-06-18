@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Sequenze di salti della pulce per finire a 80 cm dopo 5 salti
 answer: '6'
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 16

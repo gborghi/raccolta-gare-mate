@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J3
 summary: Tempo di volo con vento andata e ritorno
 answer: tempo maggiore
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J3

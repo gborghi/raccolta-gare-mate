@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: 'Numeri con proprietà speculare, conteggio fino a 3 cifre'
 answer: '12'
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2021 - 2° livello — Quesito 13

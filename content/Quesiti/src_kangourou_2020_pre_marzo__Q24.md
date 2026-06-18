@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Biglie iniziali di Giovanni dopo due scambi
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2020 Pre - gara marzo — Quesito 24

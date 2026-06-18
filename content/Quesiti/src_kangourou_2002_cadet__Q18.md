@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Chi ha mentito tra i quattro figli
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Cadet (21 marzo) — Quesito 18

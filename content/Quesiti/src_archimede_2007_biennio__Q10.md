@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Semplificare radice 10 per radice di 15 piu radice 54
 answer: C
@@ -19,6 +20,7 @@ tags:
   - anno/2007
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 10

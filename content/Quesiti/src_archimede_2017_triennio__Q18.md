@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: 'Polinomio coefficienti +-1, p(2)=11 trovare p(3)'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 18

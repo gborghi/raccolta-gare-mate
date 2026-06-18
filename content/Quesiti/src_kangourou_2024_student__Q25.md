@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Somma coefficienti di p con p(x+1)=x^2-x+2p(6)
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 25

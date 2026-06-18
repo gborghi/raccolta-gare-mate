@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: 'Somma numeri sulle facce del cubo, vertici=1001'
 answer: '31'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2013 Semifinale A — Quesito 7

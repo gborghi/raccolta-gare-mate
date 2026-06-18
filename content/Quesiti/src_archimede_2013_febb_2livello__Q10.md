@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Area massima di quadrilatero di lati 1,7,5,5'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 10

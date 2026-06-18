@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Area triangolo rettangolo da proiezioni dei cateti
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio — Quesito 5

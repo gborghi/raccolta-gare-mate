@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Area trapezio dato aree triangoli formati dalle diagonali
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 18

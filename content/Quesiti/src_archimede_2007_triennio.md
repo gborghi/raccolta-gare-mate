@@ -6,12 +6,14 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '25'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2007
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio

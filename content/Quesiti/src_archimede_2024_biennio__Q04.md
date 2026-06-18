@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Capacita del recipiente da differenza tra 75% e 20%
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2024
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Biennio — Quesito 4

@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: '72, 71 e 72^71 sono egiziani?'
 answer: '72 si, 71 no, 72^71 si'
@@ -24,6 +25,7 @@ tags:
   - anno/2024
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 3

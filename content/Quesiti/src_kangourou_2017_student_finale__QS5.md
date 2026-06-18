@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S5
 summary: Filo minimo per percorrere i lati di un reticolo 9x7
 answer: '155'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2017 Student - Finale nazionale Cervia — Quesito S5

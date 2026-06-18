@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Coppie (a,b) con a+1 divide b-1 e b divide a^2+a+2'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2014
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 17

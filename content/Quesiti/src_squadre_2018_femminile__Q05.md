@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Somma quadrati diagonali facce di un romboedro
 answer: '7776'
@@ -19,6 +20,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 5

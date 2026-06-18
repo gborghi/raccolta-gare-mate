@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Valore di x+y dato che la somma dei numeri vale 396
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 4

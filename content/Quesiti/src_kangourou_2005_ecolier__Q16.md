@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Affermazione falsa su gatti e cani con paure
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Ecolier (marzo) — Quesito 16

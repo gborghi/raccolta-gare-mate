@@ -7,6 +7,7 @@ family: imo
 year: '1963'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Sistema ciclico di 5 equazioni con parametro y
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1963 (V International Olympiad) — Quesito 4

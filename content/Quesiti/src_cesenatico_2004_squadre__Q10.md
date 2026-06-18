@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Valore di x2-y2+z2 dati due vincoli lineari
 answer: '0001'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 10

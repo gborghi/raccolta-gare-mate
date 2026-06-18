@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: 'Giustapposizione di x e y uguale a 7xy, somma x+y'
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 7

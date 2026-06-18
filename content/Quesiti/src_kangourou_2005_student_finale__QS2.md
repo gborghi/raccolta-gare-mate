@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S2
 summary: Somma coefficienti dello sviluppo di (2x-y+z)^8
 answer: '256'
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Student (finale nazionale) — Quesito S2

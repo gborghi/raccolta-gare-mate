@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Luogo dei punti di tangenza di coppie di circonferenze tra due rette
 answer: unione del segmento PQ e arco circonferenza di diametro PQ
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 2

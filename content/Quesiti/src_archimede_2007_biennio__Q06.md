@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Semplificare 10^100+100^10
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Biennio — Quesito 6

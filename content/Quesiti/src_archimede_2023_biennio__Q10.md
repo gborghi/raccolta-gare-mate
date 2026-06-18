@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Minimo numero di paggi tra 11 abitanti in cerchio
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 10

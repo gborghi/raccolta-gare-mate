@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Coppie reali con somma=prodotto=rapporto
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Junior (gara 28 marzo) — Quesito 20

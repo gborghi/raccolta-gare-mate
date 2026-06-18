@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: n e x_n coprimi per ogni n
 answer: dimostrato
@@ -22,6 +23,7 @@ tags:
   - anno/2007
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 5

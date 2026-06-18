@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Prossimo numero con tre cifre uguali sul contachilometri
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 2

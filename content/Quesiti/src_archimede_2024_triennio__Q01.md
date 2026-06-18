@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Somma 1..2024 con un numero saltato, multiplo di 5'
 answer: B
@@ -19,6 +20,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 1

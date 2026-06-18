@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Numero di cuciture di un pallone esagoni e pentagoni
 answer: A
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 17

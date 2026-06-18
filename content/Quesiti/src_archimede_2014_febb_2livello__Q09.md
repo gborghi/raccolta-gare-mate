@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Probabilita di nessuno scontro tra cinque amici in seggiovia
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/probabilita
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2014 - 2 livello — Quesito 9

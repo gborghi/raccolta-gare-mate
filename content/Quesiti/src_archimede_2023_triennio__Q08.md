@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Punto su sponda di biliardo per imbucare con rimbalzi
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2023
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Triennio — Quesito 8

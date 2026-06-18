@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Numero x con uguaglianze ax+b=bx+c=cx+a
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 10

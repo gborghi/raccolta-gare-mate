@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Ordinare i lati dalle altezze di un triangolo
 answer: A
@@ -19,6 +20,7 @@ tags:
   - anno/2019
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Biennio (T1) — Quesito 2

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: 'Ogni termine della sequenza 1007,10017,... divisibile per 53'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Cadet finale individuale — Quesito C4

@@ -7,6 +7,7 @@ family: imo
 year: '2020'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Disuguaglianza (a+2b+3c+4d)a^a b^b c^c d^d<1
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 2020 papers — Quesito 2

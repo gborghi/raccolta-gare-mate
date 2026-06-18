@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: 'Numeri sommati su forma con due cifre, somma in base'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2004
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Biennio — Quesito 13

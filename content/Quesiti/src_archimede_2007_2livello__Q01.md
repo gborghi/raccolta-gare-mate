@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Posizioni di Q per triangolo APQ simile all'isoscele ABC
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 1

@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Percentuale di quadrati perfetti da 1 a 10000
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Cadet (marzo) — Quesito 16

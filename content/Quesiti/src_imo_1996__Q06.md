@@ -7,6 +7,7 @@ family: imo
 year: '1996'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Lattice-path tuple has two indices with equal values
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1996
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1996 (37th IMO, Mumbai) — Quesito 6

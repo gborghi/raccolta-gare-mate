@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Radici multiple massime di g(x)=f(x^3-3x)
 answer: '0002'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre 2018 - Finale Nazionale — Quesito 12

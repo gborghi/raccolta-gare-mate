@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '16'
 summary: Massima area quadrilatero in semicerchio con angoli dati
 answer: '0537'
@@ -24,6 +25,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale B — Quesito 16

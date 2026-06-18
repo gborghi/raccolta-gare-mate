@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Strategia vincente gioco dei cerini
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1999
   - livello/nazionale
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1999 — Quesito 4

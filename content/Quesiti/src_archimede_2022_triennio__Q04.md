@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Frazione della classe con voto sotto 6 date le medie
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Triennio — Quesito 4

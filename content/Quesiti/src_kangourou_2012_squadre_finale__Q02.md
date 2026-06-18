@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Aumento percentuale area triangolo con lati +20%
 answer: '44'
@@ -21,6 +22,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Prodotto abcd da catena di frazioni continue
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 10

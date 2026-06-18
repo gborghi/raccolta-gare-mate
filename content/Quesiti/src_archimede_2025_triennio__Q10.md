@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Divisori formaggiosi di n^2 con n=3^14·7^40
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 10

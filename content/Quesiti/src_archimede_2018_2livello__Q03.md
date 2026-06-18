@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: 'Triangoli isosceli simili costruiti sui lati, trovare AB'
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2018 - 2° livello — Quesito 3

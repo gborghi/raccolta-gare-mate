@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Gnomi che rispondono si dopo 1024 notti automa cellulare
 answer: '1013'
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2023 - VI Finale — Quesito 9

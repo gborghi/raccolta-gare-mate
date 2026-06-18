@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Minimo a+b con 21ab² e 15ab quadrati perfetti
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 15

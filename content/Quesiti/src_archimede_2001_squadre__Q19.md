@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '19'
 summary: costo dell'auto
 answer: '0032'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 19

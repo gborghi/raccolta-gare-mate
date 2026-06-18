@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Probabilita di accendere la luce con otto interruttori
 answer: '0135'
@@ -27,6 +28,7 @@ tags:
   - topic/probabilita
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 1

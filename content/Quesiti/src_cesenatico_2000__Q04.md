@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Salda re dispari di scacchiere/lunghezze
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2000
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 2000 — Quesito 4

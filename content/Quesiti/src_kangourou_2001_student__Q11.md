@@ -7,6 +7,7 @@ family: kangourou
 year: '2001'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Circonferenze tangenti a C1, C2 e r'
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2001 - Student (15 marzo) — Quesito 11

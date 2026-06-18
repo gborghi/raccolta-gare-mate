@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: 'Due circonferenze intersecanti, prodotto AX·YD'
 answer: '0012'
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 13

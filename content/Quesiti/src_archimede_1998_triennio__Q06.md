@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quale affermazione e sicuramente vera fra tre relazioni
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 6

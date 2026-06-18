@@ -7,6 +7,7 @@ family: kangourou
 year: '2006'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Somma dei 96 numeri sulla circonferenza
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2006 Junior (marzo) — Quesito 27

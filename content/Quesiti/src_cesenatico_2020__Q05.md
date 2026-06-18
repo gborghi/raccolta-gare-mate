@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: max e min di f(2020)
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/insiemi_funzioni
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 5

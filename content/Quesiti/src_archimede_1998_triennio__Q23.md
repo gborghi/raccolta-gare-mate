@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Quale espressione e la meta di 4 alla 1998
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 23

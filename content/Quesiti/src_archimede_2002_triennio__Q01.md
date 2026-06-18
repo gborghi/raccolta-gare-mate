@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Quanti numeri AB con 12xAB = 21xBA
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2002
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Triennio — Quesito 1

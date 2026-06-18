@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Numero massimo di cavalieri sull'isola di furfanti e cavalieri
 answer: C
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/logica
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 2

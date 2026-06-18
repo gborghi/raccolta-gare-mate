@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'pedine al centro, esistenza configurazioni'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2003
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 5

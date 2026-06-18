@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Area regione ombreggiata in quadrato con 4 cerchi
 answer: 0089
@@ -24,6 +25,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 7

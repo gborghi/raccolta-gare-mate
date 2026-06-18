@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Probabilita di almeno una risposta giusta su 11 domande
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 1

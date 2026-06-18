@@ -7,6 +7,7 @@ family: imo
 year: '1993'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Minimum-altitude function triangle inequality for four points
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1993 (34th IMO) — Quesito 4

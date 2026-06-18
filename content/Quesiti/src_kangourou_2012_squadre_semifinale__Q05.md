@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Prime quattro cifre della somma numeri con cifre 1-4
 answer: '7110'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre semifinale turno A — Quesito 5

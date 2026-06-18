@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Negazione dell'affermazione su f(x) pari per x pari
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/logica
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 14

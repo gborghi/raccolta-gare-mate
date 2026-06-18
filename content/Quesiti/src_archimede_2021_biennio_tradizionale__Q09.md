@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Area del triangolo ottenuto prolungando i lati di DEF
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 9

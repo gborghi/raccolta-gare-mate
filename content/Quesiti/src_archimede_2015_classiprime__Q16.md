@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: lista di interi con somma m e prodotto 720
 answer: A
@@ -23,6 +24,7 @@ tags:
   - comp/archimede
   - anno/2015
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2015 — Quesito 16

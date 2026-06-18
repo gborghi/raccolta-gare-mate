@@ -7,6 +7,7 @@ family: imo
 year: '1987'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Sum of k times permutations with k fixed points equals n!
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1987
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1987 (28th IMO, Havana) — Quesito 1

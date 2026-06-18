@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quanti pesci ha pescato Andrea (riduzioni del 38%)
 answer: '10'
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1999 — Quesito 16

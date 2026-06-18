@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C3
 summary: Eliminare due caselle per rendere vera l'uguaglianza
 answer: '2044'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C3

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Diminuzione giorni festivi con riforma del calendario
 answer: D
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 3

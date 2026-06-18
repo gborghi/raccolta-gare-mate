@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J6
 summary: Spostamento monete su 1000-agono (8x125 e 125x8)
 answer: 'si,no'
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J6

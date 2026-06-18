@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Natura radici di x^2+bx+c=0 con c<0
 answer: C
@@ -19,6 +20,7 @@ tags:
   - anno/2014
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 2

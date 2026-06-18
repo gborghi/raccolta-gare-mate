@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E3
 summary: Piu piccolo intero con somma cifre 30
 answer: '3999'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2025 Ecolier finale — Quesito E3

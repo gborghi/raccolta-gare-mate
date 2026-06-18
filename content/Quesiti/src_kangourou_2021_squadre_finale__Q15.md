@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Piu piccolo numero anticipato di 4 cifre
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 15

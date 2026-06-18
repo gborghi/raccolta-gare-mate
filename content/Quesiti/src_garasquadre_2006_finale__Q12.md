@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Cubi con spigoli paralleli agli assi e vertici interi 0-10
 answer: '3025'
@@ -23,6 +24,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Finale — Quesito 12

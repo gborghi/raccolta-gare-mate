@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Differenza tra palindromi (6 cifre e 5 cifre)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Cadet (marzo) — Quesito 8

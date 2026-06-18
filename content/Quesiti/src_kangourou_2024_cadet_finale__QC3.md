@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C3
 summary: Due triangoli con due lati e un'altezza uguali sono congruenti
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou Finale Cadet 2024 — Quesito C3

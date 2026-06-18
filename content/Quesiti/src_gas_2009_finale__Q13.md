@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Differenza angoli in secondi tra due triangoli isosceli
 answer: '0000'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/trigonometria
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Finale Nazionale — Quesito 13

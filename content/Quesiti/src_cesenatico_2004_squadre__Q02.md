@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Minimo lato di triangolo equilatero per contenere tre monete circolari
 answer: 0190
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 2

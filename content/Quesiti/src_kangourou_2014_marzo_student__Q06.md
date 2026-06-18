@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quale polinomio non ammette b+1 come fattore
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2014 gara 20 marzo Student — Quesito 6

@@ -6,12 +6,14 @@ family: archimede
 year: '2009'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '24'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2009
+  - gara/squadre
 ---
 
 # Gara a Squadre 2009 - Finale Nazionale

@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Tempo da A a B nuotando con stessa energia del controcorrente
 answer: 2 minuti
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin finale individuale — Quesito B1

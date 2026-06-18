@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J1
 summary: Strategia vincente nel gioco dei 66 gettoni (chi prende l ultimo perde)
 answer: '35'
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale nazionale Junior — Quesito J1

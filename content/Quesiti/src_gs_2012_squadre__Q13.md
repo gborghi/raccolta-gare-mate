@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Conteggio diretto somma
 answer: 0029
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Galileo 2012 - Gara a squadre — Quesito 13

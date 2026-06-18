@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Quanti numeri con cifre consecutive sono primi
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 6

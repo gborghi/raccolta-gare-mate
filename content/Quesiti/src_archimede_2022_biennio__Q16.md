@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Area di triangolo DEG da punti medi successivi
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2022 - Gara Biennio — Quesito 16

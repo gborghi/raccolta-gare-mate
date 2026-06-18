@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Area del triangolo dei simmetrici rispetto all'area di ABC
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 10

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Probabilita prodotto negativo lanciando dado due volte
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Gara 16 marzo — Quesito 24

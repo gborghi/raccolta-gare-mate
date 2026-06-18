@@ -7,6 +7,7 @@ family: imo
 year: '2017'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Polinomio omogeneo =1 su punti primitivi
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 2017 papers — Quesito 6

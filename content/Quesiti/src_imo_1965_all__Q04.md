@@ -7,6 +7,7 @@ family: imo
 year: '1965'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Find four reals where each plus product of other three is 2
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1965
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1965 (Seventh International Olympiad) — Quesito 4

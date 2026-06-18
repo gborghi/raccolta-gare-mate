@@ -6,12 +6,14 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '24'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2024
+  - gara/individuale
 ---
 
 # Kangourou Categoria Ecolier 2024

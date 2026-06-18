@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Radice quarta di una somma di potenze di 2
 answer: '1056'
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 13

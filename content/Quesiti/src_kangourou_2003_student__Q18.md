@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Somma 100^2-99^2+...+2^2-1^2
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student (20 marzo) — Quesito 18

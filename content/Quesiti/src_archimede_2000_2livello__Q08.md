@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Numero biglietti lotteria con 999 cifre 9
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 8

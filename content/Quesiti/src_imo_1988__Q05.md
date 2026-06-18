@@ -7,6 +7,7 @@ family: imo
 year: '1988'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: prove area S>=2T
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1988 (29th IMO, Canberra) — Quesito 5

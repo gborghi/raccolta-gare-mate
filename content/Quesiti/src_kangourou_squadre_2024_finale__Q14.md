@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Somma massima dei punteggi di 24 lanci di dado vincolati
 answer: 0090
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 14

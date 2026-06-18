@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Valore di a4-a1 in progressione aritmetica
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 5

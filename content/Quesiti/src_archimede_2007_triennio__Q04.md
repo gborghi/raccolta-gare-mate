@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Segni di a,b con a+b>0 e ab<0'
 answer: D
@@ -19,6 +20,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 4

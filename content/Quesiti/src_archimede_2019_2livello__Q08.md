@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: 'Gioco a tre con punteggi, chi è secondo nel turno'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2019 - 2° livello — Quesito 8

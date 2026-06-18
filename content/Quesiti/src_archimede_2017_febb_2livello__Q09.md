@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'Coppie reali (x,y) con x+y^2=y^3 e y+x^2=x^3'
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2017
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2017 - 2 livello — Quesito 9

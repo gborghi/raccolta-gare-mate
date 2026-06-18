@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Valori di m+5n con m-n=7 tra 0 e 2011
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2011 - Triennio — Quesito 4

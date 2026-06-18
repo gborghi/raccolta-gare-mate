@@ -7,6 +7,7 @@ family: imo
 year: '1969'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Common zeros of weighted cosine sum differ by multiple of pi
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1969
   - livello/IMO
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # IMO 1969 (Eleventh International Olympiad) — Quesito 2

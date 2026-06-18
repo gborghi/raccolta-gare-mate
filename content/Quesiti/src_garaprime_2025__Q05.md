@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Quadretti non tagliati dalle diagonali di griglia 20x25
 answer: E
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 5

@@ -7,6 +7,7 @@ family: imo
 year: '1962'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Luogo dei medi di XY in moto sul cubo
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/geometria_solida
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # IMO 1962 (IV International Olympiad) — Quesito 3

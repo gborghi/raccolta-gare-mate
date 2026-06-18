@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Semplificazione di una espressione con radicali
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 15

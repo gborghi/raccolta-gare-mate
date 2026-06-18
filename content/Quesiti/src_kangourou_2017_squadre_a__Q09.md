@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Quanti numeri crescenti di tre cifre
 answer: '84'
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2017 Semifinale A — Quesito 9

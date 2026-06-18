@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Interi da 1 a 1000 multipli di 5, 6 e 9'
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio — Quesito 1

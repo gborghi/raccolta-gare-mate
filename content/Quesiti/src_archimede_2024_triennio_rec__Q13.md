@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Interi da 1 a 100 che non dividono il prodotto da 50 a 80
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 13

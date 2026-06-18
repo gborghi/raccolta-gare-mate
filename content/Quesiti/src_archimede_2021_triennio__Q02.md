@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Massimo valore di 5-3/x con prodotto di fattori nullo
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 2

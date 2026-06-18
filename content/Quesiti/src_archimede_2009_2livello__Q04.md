@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Quanti sinceri tra Luca, Maria, Nicola, Paola'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 4

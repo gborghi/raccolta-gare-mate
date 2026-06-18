@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Suddividere trapezio in m+n trapezi di area uguale, minimo m+n'
 answer: 15 (tagli lunghi sqrt2..sqrt15)
@@ -21,6 +22,7 @@ tags:
   - anno/2011
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 1

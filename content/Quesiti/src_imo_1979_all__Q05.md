@@ -7,6 +7,7 @@ family: imo
 year: '1979'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Find a with nonneg x_k satisfying three power-sum relations
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1979
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1979 (Twenty-first International Olympiad) — Quesito 5

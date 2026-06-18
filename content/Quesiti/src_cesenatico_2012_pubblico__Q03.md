@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Determinare n=XABY con XY=AB e relazione
 answer: '6231'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 3

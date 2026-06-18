@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Numero di cifre di 100^200 + 738
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio — Quesito 2

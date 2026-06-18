@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Chi e il piu alto di tutti
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 7

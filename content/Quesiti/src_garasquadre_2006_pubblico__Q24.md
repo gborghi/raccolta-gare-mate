@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '24'
 summary: probabilita Hardy vinca la nona partita
 answer: '9842'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 24

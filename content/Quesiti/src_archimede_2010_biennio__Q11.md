@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Perimetro triangolo con angoli 30 e 105 e lato 2
 answer: C
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 11

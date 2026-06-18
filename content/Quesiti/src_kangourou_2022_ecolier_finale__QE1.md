@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: Minimo mosse per uniformare i 9 gettoni bicolori
 answer: '2'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2022 Ecolier finale individuale — Quesito E1

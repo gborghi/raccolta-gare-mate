@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Valore di f(2031)-f(2013) per funzione lineare
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/insiemi_funzioni
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Student — Quesito 6

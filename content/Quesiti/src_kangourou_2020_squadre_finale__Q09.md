@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Altezza delle lastre rettangolari della vetrata
 answer: '0075'
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 9

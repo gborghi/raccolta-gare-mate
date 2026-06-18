@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Prodotto delle 8 ascisse rette per origine e parabola
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/kangourou
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Gara marzo Student (triennio) — Quesito 25

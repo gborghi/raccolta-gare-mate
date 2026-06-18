@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Tratto in salita strada minima attorno a cono, apotema 600'
 answer: 0480
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Semifinale 1 — Quesito 4

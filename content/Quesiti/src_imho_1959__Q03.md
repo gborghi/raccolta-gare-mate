@@ -7,6 +7,7 @@ family: imo
 year: '1959'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Da equazione in cos x formare equazione in cos 2x
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/trigonometria
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1959 (I International Olympiad) — Quesito 3

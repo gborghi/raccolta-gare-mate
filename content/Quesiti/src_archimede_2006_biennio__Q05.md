@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Cifra delle unita di 3 elevato al quadrato 2006 volte
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 5

@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Numero concorrenti nella corsa campestre
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 24

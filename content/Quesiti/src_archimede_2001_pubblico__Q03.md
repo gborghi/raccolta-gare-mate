@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: perimetro massimo intero
 answer: '0630'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 3

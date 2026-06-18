@@ -6,12 +6,14 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2006
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Finale

@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B1
 summary: Tre numeri di Matteo piu grandi (prodotto=somma cifre)
 answer: '9299, 9190, 9181'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Benjamin (finale nazionale) — Quesito B1

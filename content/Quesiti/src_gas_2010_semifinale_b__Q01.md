@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Risposta n auto-referenziale a ((n-1)(n-3)+6)/2
 answer: '0003'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/algebra
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Semifinale B — Quesito 1

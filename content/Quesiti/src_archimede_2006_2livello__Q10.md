@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Valore di radice cubica di 2+√5 più radice cubica di 2-√5
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 10

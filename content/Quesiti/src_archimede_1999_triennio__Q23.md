@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Cosa dedurre dalle affermazioni di Andrea sui furfanti
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 23

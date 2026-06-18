@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Numero caselle scacchiera da numerazione a serpentina
 answer: D
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 17

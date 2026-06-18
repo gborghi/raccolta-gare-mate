@@ -7,6 +7,7 @@ family: imo
 year: '1993'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1993
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1993 (34th IMO) — Quesito 5

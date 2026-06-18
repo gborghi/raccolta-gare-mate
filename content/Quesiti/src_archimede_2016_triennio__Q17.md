@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Parte di perimetro piu vicina ad A che a C
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Triennio — Quesito 17

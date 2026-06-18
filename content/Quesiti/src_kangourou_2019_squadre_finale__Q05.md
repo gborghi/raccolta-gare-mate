@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Quanti fattori 55 per ottenere 5^55
 answer: '0625'
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Finale — Quesito 5

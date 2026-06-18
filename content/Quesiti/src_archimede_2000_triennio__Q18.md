@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Calcolare c(a+b) date radici di cubica e prodotto ab
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 18

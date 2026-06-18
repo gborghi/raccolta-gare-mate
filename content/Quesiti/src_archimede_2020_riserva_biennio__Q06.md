@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numeri pari di tre cifre distinte contenenti 4 e 5
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2020
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 6

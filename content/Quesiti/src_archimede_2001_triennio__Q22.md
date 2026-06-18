@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '22'
 summary: 'Minimo mele divisibili tra 3, 4 e a meta dopo -2'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2001
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Triennio — Quesito 22

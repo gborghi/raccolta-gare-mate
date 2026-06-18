@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Ordine di arrivo da affermazioni con un bugiardo
 answer: '3123'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Coppa Fermat 2010 - Gara a squadre — Quesito 3

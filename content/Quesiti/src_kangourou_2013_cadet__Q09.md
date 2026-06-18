@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Giri di Lisa quando Marco la raggiunge (fontana)
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Cadet — Quesito 9

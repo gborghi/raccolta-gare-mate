@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: 'Altra radice di x^2-bx+c=0 (b dispari, b|c)'
 answer: 0997
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 4

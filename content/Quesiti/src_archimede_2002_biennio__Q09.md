@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Eta del giocatore espulso data variazione media
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2002
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 9

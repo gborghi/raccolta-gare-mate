@@ -7,6 +7,7 @@ family: imo
 year: '1994'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: OQ perpendicular EF iff QE=QF
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1994
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1994 (35th IMO, Hong Kong) — Quesito 2

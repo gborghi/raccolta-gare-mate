@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Massimo valore di 4-3/x con prodotto di fattori nullo
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 3

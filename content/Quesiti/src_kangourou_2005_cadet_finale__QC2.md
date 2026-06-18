@@ -7,6 +7,7 @@ family: kangourou
 year: '2005'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C2
 summary: Croce greca su scacchiera 7x7 somma totale negativa
 answer: Si
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2005 - Cadet (finale nazionale) — Quesito C2

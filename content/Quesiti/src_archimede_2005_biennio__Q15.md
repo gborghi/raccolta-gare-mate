@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Minima distanza tra centri di due cerchi tangenti
 answer: B
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 15

@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: 'Numeri possibili fra 9 km su contachilometri (cifre 1,2)'
 answer: '16'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/combinatoria
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre finale — Quesito 7

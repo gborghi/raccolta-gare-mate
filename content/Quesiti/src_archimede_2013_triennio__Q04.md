@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Prodotto telescopico di logaritmi a base crescente
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 4

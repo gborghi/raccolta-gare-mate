@@ -7,6 +7,7 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Tempo dell'aereo che raddoppia velocita
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/kangourou
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Student (21 marzo) — Quesito 27

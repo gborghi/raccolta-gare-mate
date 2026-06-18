@@ -6,12 +6,14 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '30'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2021
+  - gara/individuale
 ---
 
 # Kangourou 2021 Cadet - gara marzo

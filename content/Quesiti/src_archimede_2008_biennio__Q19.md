@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Deduzione logica dalla negazione di affermazione universale
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 19

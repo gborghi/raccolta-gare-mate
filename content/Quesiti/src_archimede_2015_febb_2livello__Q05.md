@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Polinomi monici con MCD e mcm dati, scelte di p(x)'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 5

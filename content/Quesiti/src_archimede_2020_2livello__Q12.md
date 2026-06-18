@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Massima potenza di 5 che divide combinazione coefficienti
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2020
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2020 - 2° livello — Quesito 12

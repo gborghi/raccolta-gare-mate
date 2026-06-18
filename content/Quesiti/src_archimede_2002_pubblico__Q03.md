@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: successione di interi
 answer: 0039
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/aritmetica
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 3

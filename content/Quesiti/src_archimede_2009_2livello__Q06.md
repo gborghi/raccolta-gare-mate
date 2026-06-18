@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Cosa si deduce su N data variazione di probabilità
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 6

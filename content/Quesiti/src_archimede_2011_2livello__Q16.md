@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Circonferenza per A'',B'',X,Y nel triangolo acutangolo'
 answer: dimostrazione
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 16

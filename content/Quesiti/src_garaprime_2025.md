@@ -6,12 +6,14 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 n_quesiti: '18'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2025
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025

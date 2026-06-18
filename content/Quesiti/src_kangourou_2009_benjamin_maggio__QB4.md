@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: B4
 summary: A quanti euro ammonta la somma iniziale
 answer: '33'
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin finale nazionale (Mirabilandia) — Quesito B4

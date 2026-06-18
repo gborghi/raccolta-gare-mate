@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Numero totale omaggi da fusioni iterate di 95 scuole
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 12

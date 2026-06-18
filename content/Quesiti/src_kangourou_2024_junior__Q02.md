@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Chi vince la gara di salto (rapporto altezza saltata/propria)
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_analitica
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Categoria Junior 2024 — Quesito 2

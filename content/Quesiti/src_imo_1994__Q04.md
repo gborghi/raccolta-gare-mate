@@ -7,6 +7,7 @@ family: imo
 year: '1994'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Find all (m,n) with (n^3+1)/(mn-1) integer'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1994
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1994 (35th IMO, Hong Kong) — Quesito 4

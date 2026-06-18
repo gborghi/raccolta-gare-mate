@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Galli colpiti in media (cerchi tangenti in ottagono)
 answer: '0101'
@@ -23,6 +24,7 @@ tags:
   - livello/nazionale
   - topic/probabilita
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 2

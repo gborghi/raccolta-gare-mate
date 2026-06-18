@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Due circonferenze, arco EF bisecato dalla retta CD'
 answer: dimostrato (D incentro di CEF)
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XXI Olimpiade Italiana Cesenatico 2005 — Quesito 6

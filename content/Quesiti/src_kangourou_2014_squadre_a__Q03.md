@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Numero rettangoli n piu vicino a 1000 con rette
 answer: '1050'
@@ -23,6 +24,7 @@ tags:
   - anno/2014
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2014 Semifinale A — Quesito 3

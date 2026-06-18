@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: gara del pubblico
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Minimo di (a*b)*(c*d) con x*y=x+y-xy
 answer: '9868'
@@ -25,6 +26,7 @@ tags:
   - livello/gara-del-pubblico
   - topic/disuguaglianze
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 14

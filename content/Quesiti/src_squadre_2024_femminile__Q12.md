@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Numero deltaedri convessi a facce triangoli equilateri lato 1
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 12

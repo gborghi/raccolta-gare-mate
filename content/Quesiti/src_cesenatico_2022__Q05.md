@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: sottoinsiemi identificabili
 answer: S identificabile iff 0 non in S e 101 in S
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Minimo numero di calzini per 4 paia uguali
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2020
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2020 — Quesito 8

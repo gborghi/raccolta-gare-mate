@@ -7,6 +7,7 @@ family: imo
 year: '1985'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Unique starting value keeping recurrence sequence in (0,1)'
 topics:
@@ -21,6 +22,7 @@ tags:
   - anno/1985
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1985 (26th International Mathematical Olympiad) — Quesito 6

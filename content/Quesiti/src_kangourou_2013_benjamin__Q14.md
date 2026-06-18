@@ -7,6 +7,7 @@ family: kangourou
 year: '2013'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Pesci pescati se triplo darebbe 12 in più
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2013 marzo Benjamin — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Modi di colorare mattonelle esagonali con tre colori
 answer: D
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 8

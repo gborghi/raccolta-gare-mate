@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: 2006-esimo termine
 answer: '2060'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 1

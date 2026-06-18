@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Polinomio con p(x+1)-p(x-1)=p(x)
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Triennio — Quesito 18

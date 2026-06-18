@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '15'
 summary: Pirati in missione con am>m da ricorrenza razionale
 answer: '2820'
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre 2024 - Finale Nazionale — Quesito 15

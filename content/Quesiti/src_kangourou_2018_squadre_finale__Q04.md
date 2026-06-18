@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Percentuale di aumento del prezzo scontato
 answer: '0075'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2018 Finale — Quesito 4

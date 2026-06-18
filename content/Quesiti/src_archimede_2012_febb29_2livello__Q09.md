@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Area trapezio isoscele con diagonali e angolo di 150 gradi
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 9

@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J1
 summary: Conviene scegliere somma 9 o 10 ai dadi
 answer: '9'
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J1

@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: Coppie di affermazioni uguali false (logica)
 answer: '0010'
@@ -23,6 +24,7 @@ tags:
   - anno/2013
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Coppa Galileo 2013 - Gara a squadre — Quesito 1

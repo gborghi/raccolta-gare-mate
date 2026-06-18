@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Rapporto fra 2a e 3c dati a tripla e c doppio di b
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 12

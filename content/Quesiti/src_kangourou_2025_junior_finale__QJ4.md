@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J4
 summary: piu lungo del diametro?
 answer: Si
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2025 Junior finale — Quesito J4

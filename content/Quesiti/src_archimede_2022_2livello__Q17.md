@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Colorazione primo quadrante con semirette, monocromatico'
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/2-livello
   - topic/geometria_analitica
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 17

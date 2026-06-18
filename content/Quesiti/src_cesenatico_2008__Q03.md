@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Funzioni Z->R crescenti con differenze nell'immagine
 answer: f(n)=(n-n0)a con a reale positivo
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/nazionale
   - topic/funzionali
+  - gara/individuale
 ---
 
 # XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 3

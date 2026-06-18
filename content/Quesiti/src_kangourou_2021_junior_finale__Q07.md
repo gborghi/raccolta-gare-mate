@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Data in cui Penelope ha tela lunga 100 m
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2021 Junior - finale — Quesito 7

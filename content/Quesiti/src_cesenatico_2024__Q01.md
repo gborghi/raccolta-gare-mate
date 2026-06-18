@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: esiste n con xn+2=xn
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/nazionale
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 1

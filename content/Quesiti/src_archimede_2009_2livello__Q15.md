@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Minimo c e infinite terne con 2c^2 = a^2 + b^2
 answer: 'c=5 (terne (7,1,5))'
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 15

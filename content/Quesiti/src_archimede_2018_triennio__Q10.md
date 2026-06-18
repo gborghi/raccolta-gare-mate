@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Bomboniere di 3 confetti tra 12 gusti con ripetizione
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Triennio (T1) — Quesito 10

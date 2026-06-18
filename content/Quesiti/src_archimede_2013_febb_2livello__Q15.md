@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Terne (a,b,c) con MCD 1 e divisibilita reciproche dei lati'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2013
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello — Quesito 15

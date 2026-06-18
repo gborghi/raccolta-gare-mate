@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Perimetro di una tassellazione con esagono, quadrati, triangoli'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou 2011 Student (gara marzo) — Quesito 6

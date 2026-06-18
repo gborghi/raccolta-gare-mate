@@ -7,6 +7,7 @@ family: imo
 year: '2024'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Funzioni aquaesuliane, minimo c valori f(r)+f(-r)'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 2024 papers — Quesito 6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J1
 summary: Sono di piu le frazioni riducibili o irriducibili (1..12)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou Finale Junior 2024 — Quesito J1

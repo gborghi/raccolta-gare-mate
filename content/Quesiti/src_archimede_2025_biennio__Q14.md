@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Isole con un solo ponte (divisibilità)
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Biennio — Quesito 14

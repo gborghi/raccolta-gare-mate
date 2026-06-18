@@ -7,6 +7,7 @@ family: imo
 year: '2018'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Massimo K pietre rosse di Amy (gioco)
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # IMO 2018 papers — Quesito 4

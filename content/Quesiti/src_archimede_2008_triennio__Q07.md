@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Distanza minima tra due cerchi su foglio quadrettato
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Triennio — Quesito 7

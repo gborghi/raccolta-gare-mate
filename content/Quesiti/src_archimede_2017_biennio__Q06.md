@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: ultimo rimasto
 answer: A
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 6

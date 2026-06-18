@@ -7,6 +7,7 @@ family: imo
 year: '1968'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Unique triangle with consecutive integer sides and angle double
 topics:
@@ -23,6 +24,7 @@ tags:
   - livello/IMO
   - topic/geometria_piana
   - topic/trigonometria
+  - gara/individuale
 ---
 
 # IMO 1968 (Tenth International Olympiad) — Quesito 1

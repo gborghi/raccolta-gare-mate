@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: rapporto q/r
 answer: '9990'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/probabilita
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 12

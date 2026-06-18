@@ -7,6 +7,7 @@ family: imo
 year: '1961'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Costruire triangolo dati b, c e angolo AMB con condizione'
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1961
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1961 (III International Olympiad) — Quesito 5

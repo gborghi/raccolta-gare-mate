@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: valori di e
 answer: e=27.5
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/nazionale
   - topic/algebra
+  - gara/individuale
 ---
 
 # XXV Olimpiade Italiana Cesenatico 2009 — Quesito 1

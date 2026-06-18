@@ -7,6 +7,7 @@ family: kangourou
 year: '2017'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J5
 summary: Coppia diametrale e cerchio minimo di un insieme
 answer: No; Si
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J5

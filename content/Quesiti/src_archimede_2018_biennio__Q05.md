@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Valore dell'angolo x in figura con angoli dati
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 5

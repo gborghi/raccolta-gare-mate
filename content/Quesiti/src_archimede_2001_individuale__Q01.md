@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: trovare i due lati mancanti
 answer: 'f=8, e=1'
@@ -21,6 +22,7 @@ tags:
   - anno/2001
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 1

@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: strategia
 answer: (a) Francesca; (b) valore configurazione dispari
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/nazionale
   - topic/logica
+  - gara/individuale
 ---
 
 # XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 6

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Disuguaglianza fra somme di quadrati con sequenze non crescenti
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou Finale Student 2023 — Quesito S6

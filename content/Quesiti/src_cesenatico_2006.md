@@ -6,12 +6,14 @@ family: archimede
 year: '2006'
 level: nazionale
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2006
+  - gara/individuale
 ---
 
 # XXII Olimpiade Italiana Cesenatico 2006

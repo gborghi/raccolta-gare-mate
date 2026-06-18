@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: complanari o su sfera?
 answer: e' vero
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Student — Quesito S6

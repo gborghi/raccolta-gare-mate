@@ -7,6 +7,7 @@ family: imo
 year: '2022'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'Triple (a,b,p) con a^p=b!+p, p primo'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2022
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 2022 papers — Quesito 5

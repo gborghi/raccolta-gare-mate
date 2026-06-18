@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Area del foglio con quattro triangoli rettangoli
 answer: 0028
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/squadre
   - topic/geometria_piana
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2019 Semifinale A — Quesito 8

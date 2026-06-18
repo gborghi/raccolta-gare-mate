@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: 'Area ombreggiata con rettangolo, cerchio e semicirconferenze'
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 19

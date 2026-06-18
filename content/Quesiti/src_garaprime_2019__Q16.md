@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Somma degli spigoli del parallelepipedo con 60 cubetti
 answer: A
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - topic/geometria_solida
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 16

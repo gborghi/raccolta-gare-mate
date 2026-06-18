@@ -7,6 +7,7 @@ family: imo
 year: '1970'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Base-a vs base-b digit ratio inequality iff a>b
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1970
   - livello/IMO
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IMO 1970 (Twelfth International Olympiad) — Quesito 2

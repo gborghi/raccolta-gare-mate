@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Probabilita MCD=1 di due divisori di 12!
 answer: '9834'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/probabilita
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 14

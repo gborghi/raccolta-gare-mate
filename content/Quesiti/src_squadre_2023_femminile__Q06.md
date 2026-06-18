@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '6'
 summary: Minimo k0 pari con k_100 divisibile per 533
 answer: 0486
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/squadre
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2023 - VI Finale — Quesito 6

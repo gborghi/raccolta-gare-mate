@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: minimo guardie per perimetro e area
 answer: 506 e 1012
@@ -24,6 +25,7 @@ tags:
   - anno/2024
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 5

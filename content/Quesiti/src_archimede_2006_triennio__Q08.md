@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Numero di divisori positivi di 6 fattoriale
 answer: E
@@ -22,6 +23,7 @@ tags:
   - anno/2006
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio — Quesito 8

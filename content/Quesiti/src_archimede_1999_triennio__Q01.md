@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Perimetro di un frutteto rettangolare con 35 alberi
 answer: C
@@ -23,6 +24,7 @@ tags:
   - livello/triennio
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 1

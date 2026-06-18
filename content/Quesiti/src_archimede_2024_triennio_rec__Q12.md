@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Ordini d'arrivo compatibili con previsioni parziali
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 12

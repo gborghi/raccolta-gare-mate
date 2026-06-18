@@ -7,6 +7,7 @@ family: imo
 year: '2014'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Suddividere monete di valore 1/n in <=100 gruppi
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/IMO
   - topic/combinatoria
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 2014 (shortlist/papers) — Quesito 5

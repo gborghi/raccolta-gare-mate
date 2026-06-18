@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Angolo OMN doppio di ACB e rapporto tra aree
 answer: dimostrazione
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 16

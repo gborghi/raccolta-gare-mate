@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E1
 summary: Minimo tempo perche ricompaiano le 4 cifre
 answer: 4 ore e 20 minuti
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2007 Ecolier finale (maggio) — Quesito E1

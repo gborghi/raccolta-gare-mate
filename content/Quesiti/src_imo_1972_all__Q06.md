@@ -7,6 +7,7 @@ family: imo
 year: '1972'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Regular tetrahedron with vertex on each of four parallel planes
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1972
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1972 (Fourteenth International Olympiad) — Quesito 6

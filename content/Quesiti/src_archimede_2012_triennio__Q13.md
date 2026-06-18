@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Espressione minore o uguale a 1/6+x^2 per ogni x
 answer: E
@@ -27,6 +28,7 @@ tags:
   - topic/disuguaglianze
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 13

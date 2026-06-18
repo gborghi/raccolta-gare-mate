@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: 'Quanti tra 2,3,5,7,11 dividono 371^4-41^4'
 answer: D
@@ -22,6 +23,7 @@ tags:
   - anno/2007
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2007 - Gara Triennio — Quesito 17

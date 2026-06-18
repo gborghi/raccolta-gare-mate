@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Quante delle quattro ragazze mentono
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/kangourou
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2011 Junior (gara marzo) — Quesito 15

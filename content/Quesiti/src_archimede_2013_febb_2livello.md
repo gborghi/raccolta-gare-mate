@@ -6,12 +6,14 @@ family: archimede
 year: '2013'
 level: 2 livello
 country: Italia
+modalita: individuale
 n_quesiti: '17'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2013
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2013 - 2 livello

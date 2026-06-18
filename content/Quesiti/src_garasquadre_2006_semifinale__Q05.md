@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '5'
 summary: Frazioni m/n ridotte con 0<m/n<1 e m*n=20!
 answer: 0128
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 5

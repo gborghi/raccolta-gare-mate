@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'AD,BE,CF concorrono'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2019
   - livello/nazionale
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 1

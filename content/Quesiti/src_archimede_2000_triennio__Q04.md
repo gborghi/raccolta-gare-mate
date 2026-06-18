@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Tra quanti anni l'eta padre eguaglia somma eta figli
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 4

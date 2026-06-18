@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J1
 summary: Quante cifre nella somma 9+99+...+999..9 (2008)
 answer: '2009'
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J1

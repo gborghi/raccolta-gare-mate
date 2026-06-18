@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Probabilita 4 pezzi tornino agli angoli dopo 2016 salti
 answer: '0010'
@@ -26,6 +27,7 @@ tags:
   - livello/nazionale
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 12

@@ -7,6 +7,7 @@ family: kangourou
 year: '2020'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '2'
 summary: Numero al posto 2020 della sequenza dispari ripetuti
 answer: 0089
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/funzionali
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2020 Finale — Quesito 2

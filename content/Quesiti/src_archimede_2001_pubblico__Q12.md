@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: numero minimo per fare 1000
 answer: 0019
@@ -23,6 +24,7 @@ tags:
   - anno/2001
   - livello/gara-del-pubblico
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 12

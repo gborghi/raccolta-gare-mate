@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Semplificare la radice di 12 elevato 12
 answer: C
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - topic/algebra
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 2

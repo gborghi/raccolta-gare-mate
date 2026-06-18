@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Angolo BCD dato angolo iscritto e diametro
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 10

@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Probabilita che Chiara vinca dopo 6 a 4-2
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Biennio — Quesito 12

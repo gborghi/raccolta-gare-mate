@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Modi di disporre frutti senza pera tra due mele
 answer: B
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 11

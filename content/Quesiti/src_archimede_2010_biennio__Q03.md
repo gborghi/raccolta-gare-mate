@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Distanza in linea retta cuccia-bar con angoli dati
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Biennio — Quesito 3

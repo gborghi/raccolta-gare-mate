@@ -7,6 +7,7 @@ family: imo
 year: '1965'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Volume ratio of tetrahedron cut by plane parallel to skew edges
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1965
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1965 (Seventh International Olympiad) — Quesito 3

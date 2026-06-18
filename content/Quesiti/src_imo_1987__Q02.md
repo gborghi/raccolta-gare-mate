@@ -7,6 +7,7 @@ family: imo
 year: '1987'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Quadrilateral AKNM and triangle ABC have equal areas
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1987
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1987 (28th IMO, Havana) — Quesito 2

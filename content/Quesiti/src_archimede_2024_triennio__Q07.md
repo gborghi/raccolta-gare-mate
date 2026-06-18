@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: 'Tre punti nello spazio, esistenza P con rette perpendicolari'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2024
   - livello/triennio
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2024 - Gara Triennio — Quesito 7

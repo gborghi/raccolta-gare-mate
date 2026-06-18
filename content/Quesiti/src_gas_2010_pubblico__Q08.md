@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Valore atteso tessere con numero primo prima della rossa
 answer: '0012'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Gara del Pubblico — Quesito 8

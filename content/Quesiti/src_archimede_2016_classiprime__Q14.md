@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quarto monomio in successione tipo Fibonacci di monomi
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2016
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2016 — Quesito 14

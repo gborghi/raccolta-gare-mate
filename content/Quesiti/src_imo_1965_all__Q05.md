@@ -7,6 +7,7 @@ family: imo
 year: '1965'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Locus of orthocenter H of pedal triangle OPQ
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1965
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1965 (Seventh International Olympiad) — Quesito 5

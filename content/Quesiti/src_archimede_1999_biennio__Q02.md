@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Valore di un prodotto in notazione scientifica
 answer: A
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Quali polinomi NON sono scomponibili sui coefficienti interi
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2014
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2014 — Quesito 12

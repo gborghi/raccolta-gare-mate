@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Chi è più probabile abbia il 7 di denari
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/2-livello
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 4

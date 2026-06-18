@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Operai per dirigente da vincoli sugli stipendi
 answer: C
@@ -20,6 +21,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 6

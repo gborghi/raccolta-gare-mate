@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Stima soluzione di equazione polinomiale (t-1)(t+1)^2012=1
 answer: B
@@ -29,6 +30,7 @@ tags:
   - topic/disuguaglianze
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 20

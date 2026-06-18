@@ -7,6 +7,7 @@ family: archimede
 year: '1996'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Quale persona indovina data fra settimana giorno mese
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/1996
   - livello/biennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1996 - Biennio — Quesito 13

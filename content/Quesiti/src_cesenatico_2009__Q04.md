@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: posizione finale determina intermedie
 answer: dimostrato
@@ -21,6 +22,7 @@ tags:
   - anno/2009
   - livello/nazionale
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # XXV Olimpiade Italiana Cesenatico 2009 — Quesito 4

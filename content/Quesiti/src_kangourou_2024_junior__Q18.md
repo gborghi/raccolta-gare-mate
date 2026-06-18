@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Valore di n (cubetti con una faccia = senza facce dipinte)
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Kangourou Categoria Junior 2024 — Quesito 18

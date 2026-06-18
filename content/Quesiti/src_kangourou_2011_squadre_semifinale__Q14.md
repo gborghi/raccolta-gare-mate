@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Numeri rimasti dopo cancellazioni iterate (1997 cancellato)
 answer: '673'
@@ -25,6 +26,7 @@ tags:
   - livello/squadre
   - topic/aritmetica
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre semifinale turno A — Quesito 14

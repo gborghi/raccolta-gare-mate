@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: massimo di somma e prodotto dei quadrati delle differenze
 answer: 18 e 108
@@ -24,6 +25,7 @@ tags:
   - anno/2023
   - livello/nazionale
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 5

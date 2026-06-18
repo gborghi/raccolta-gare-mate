@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Modi di sedersi a tavola (vincoli capotavola)
 answer: 0800
@@ -24,6 +25,7 @@ tags:
   - anno/2013
   - livello/nazionale
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 14

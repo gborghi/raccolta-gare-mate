@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Cifra delle unita della somma dei primi 25 primi
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/1999
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Triennio — Quesito 15

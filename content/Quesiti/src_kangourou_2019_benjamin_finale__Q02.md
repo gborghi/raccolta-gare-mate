@@ -7,6 +7,7 @@ family: kangourou
 year: '2019'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Ottenere 2021 dalla calcolatrice con sole operazioni con 2019
 answer: 'si (+,+,:,+)'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # Kangourou 2019 Finale Nazionale Benjamin — Quesito 2

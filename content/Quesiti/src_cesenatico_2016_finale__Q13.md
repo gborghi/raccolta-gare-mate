@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Somma num+den di q(-4/3)/q(-2) (polinomio da radici)
 answer: 0082
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/nazionale
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 13

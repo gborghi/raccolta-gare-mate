@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Lunghezza CG dato triangolo equilatero costruito sul lato
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/1997
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Triennio — Quesito 21

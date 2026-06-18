@@ -7,6 +7,7 @@ family: imo
 year: '2022'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Minimo numero di cammini uphill in quadrato nordico
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 2022 papers — Quesito 6

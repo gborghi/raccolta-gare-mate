@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Somma telescopica con prodotti di dispari
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/2-livello
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2018 - 2° livello — Quesito 12

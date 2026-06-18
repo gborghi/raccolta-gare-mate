@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C5
 summary: Quanti ponti (diagonale di griglia rettangolare)
 answer: 32 (e 30)
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/aritmetica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2007 Cadet finale (maggio) — Quesito C5

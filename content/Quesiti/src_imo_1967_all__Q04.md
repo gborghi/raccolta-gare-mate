@@ -7,6 +7,7 @@ family: imo
 year: '1967'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Max-area triangle similar to A1B1C1 circumscribing A0B0C0
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1967
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1967 (Ninth International Olympiad) — Quesito 4

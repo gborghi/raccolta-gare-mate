@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Estrazioni per certezza di 6 calzini stesso colore
 answer: '0067'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre — Quesito 12

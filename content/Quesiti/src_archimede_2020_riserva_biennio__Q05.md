@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Ampiezza angolo tra altezza e bisettrice da un vertice
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2020
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 5

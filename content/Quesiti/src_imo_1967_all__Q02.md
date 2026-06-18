@@ -7,6 +7,7 @@ family: imo
 year: '1967'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Tetrahedron with one edge over 1 has volume at most 1/8
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/geometria_solida
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # IMO 1967 (Ninth International Olympiad) — Quesito 2

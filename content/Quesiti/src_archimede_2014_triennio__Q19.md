@@ -7,6 +7,7 @@ family: archimede
 year: '2014'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '19'
 summary: Probabilita di non bagnarsi per tre giorni di fila
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2014
   - livello/triennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 19

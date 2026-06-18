@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Area del cerchio circoscritto a un rettangolo
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/1998
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Biennio — Quesito 2

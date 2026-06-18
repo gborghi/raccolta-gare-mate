@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: '1'
 answer: A
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 5

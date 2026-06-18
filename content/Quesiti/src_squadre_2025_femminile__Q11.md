@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Palline verdi con prob stesso colore uguale a diverso
 answer: '4321'
@@ -19,6 +20,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 11

@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '14'
 summary: Diametro sfera con due cerchi ortogonali tangenti in due punti
 answer: '0600'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/geometria_solida
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 14

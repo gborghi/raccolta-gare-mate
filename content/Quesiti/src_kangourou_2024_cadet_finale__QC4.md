@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C4
 summary: Minima distanza antenna dall'abitazione piu lontana
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2024
   - livello/kangourou
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Kangourou Finale Cadet 2024 — Quesito C4

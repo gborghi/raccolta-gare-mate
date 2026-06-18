@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Funzione con due simmetrie, somma di valori'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/triennio
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 11

@@ -7,6 +7,7 @@ family: imo
 year: '1971'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Point set where every point has m points at unit distance
 topics:
@@ -18,6 +19,7 @@ tags:
   - anno/1971
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1971 (Thirteenth International Olympiad) — Quesito 5

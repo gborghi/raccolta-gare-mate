@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Valore di S con a_k=k+S e somma S
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou Categoria Student 2023 — Quesito 14

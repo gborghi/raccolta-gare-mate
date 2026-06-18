@@ -6,12 +6,14 @@ family: archimede
 year: '2020'
 level: 2 livello
 country: Italia
+modalita: individuale
 n_quesiti: '17'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2020
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2020 - 2° livello

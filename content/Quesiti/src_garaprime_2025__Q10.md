@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Massimo numeri della tombola con vincoli somma e prodotto
 answer: B
@@ -25,6 +26,7 @@ tags:
   - anno/2025
   - topic/combinatoria
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 10

@@ -6,12 +6,14 @@ family: imo
 year: '1983'
 level: IMO
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/imo
   - anno/1983
+  - gara/individuale
 ---
 
 # IMO 1983 (24th International Mathematical Olympiad)

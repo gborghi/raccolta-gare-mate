@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Numero di divisori positivi di 5*4*3*2
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 3

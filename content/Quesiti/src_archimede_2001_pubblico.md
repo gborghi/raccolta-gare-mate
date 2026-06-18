@@ -6,12 +6,14 @@ family: archimede
 year: '2001'
 level: gara del pubblico
 country: Italia
+modalita: individuale
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2001
+  - gara/individuale
 ---
 
 # Archimede 2001 - Gara del Pubblico (Cesenatico)

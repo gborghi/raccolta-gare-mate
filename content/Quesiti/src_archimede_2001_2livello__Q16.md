@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Dimostrare che il triangolo HMK è equilatero (angolo 60°)
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2001
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2001 — Quesito 16

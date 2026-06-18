@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Quante terne reali con a²+b²+c²=1 e a³+b³+c³=1
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2000 — Quesito 9

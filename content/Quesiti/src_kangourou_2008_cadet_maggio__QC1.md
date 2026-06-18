@@ -7,6 +7,7 @@ family: kangourou
 year: '2008'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: C1
 summary: Affluenza finale alle urne (incremento percentuale)
 answer: 84%
@@ -21,6 +22,7 @@ tags:
   - anno/2008
   - livello/kangourou
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C1

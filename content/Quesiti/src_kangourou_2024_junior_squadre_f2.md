@@ -6,12 +6,14 @@ family: kangourou
 year: '2024'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '15'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2024
+  - gara/squadre
 ---
 
 # Kangourou Squadre 2024 Junior Finale 2

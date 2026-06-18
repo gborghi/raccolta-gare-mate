@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: 'Conteggio parole con lettere A,B,C e vincoli'
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 10

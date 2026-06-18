@@ -6,12 +6,14 @@ family: archimede
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 n_quesiti: '24'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2011
+  - gara/squadre
 ---
 
 # Coppa Fermat 2011 - Gara a squadre

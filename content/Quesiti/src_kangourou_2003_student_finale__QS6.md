@@ -7,6 +7,7 @@ family: kangourou
 year: '2003'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Lucchetti e chiavi per accesso a gruppi di 4/3
 answer: 35 lucchetti 20 chiavi
@@ -23,6 +24,7 @@ tags:
   - anno/2003
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2003 Student finale nazionale — Quesito S6

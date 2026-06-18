@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '22'
 summary: 'Colorazioni di 8 gemme in cerchio con 4 tipi, adiacenti diverse'
 answer: '6564'
@@ -23,6 +24,7 @@ tags:
   - anno/2004
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 22

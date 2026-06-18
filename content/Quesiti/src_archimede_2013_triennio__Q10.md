@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Area cerchio inscritto in triangolo 2-3-4
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio — Quesito 10

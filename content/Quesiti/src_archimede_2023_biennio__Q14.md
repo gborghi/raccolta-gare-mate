@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Quadratini attraversati dalla diagonale di rettangolo 83x120
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/aritmetica
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 14

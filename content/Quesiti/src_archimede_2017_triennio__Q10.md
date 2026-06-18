@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: dopo quanti minuti
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2017
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2017 - Triennio — Quesito 10

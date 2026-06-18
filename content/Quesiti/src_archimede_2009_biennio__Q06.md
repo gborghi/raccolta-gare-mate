@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Valore x in griglia con somme uguali
 answer: A
@@ -23,6 +24,7 @@ tags:
   - livello/biennio
   - topic/algebra
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Biennio — Quesito 6

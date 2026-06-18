@@ -7,6 +7,7 @@ family: imo
 year: '1959'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Costruire trapezio isoscele circoscrittibile tra due piani
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1959
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1959 (I International Olympiad) — Quesito 6

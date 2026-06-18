@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Dimensione regione cancellata 14 minuti fa dal virus
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/triennio
   - topic/funzionali
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 24

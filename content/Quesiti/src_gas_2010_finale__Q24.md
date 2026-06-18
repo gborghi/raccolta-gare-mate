@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '24'
 summary: Rapporto altezza/raggio di quattro coni tangenti
 answer: '4142'
@@ -26,6 +27,7 @@ tags:
   - livello/squadre
   - topic/geometria_solida
   - topic/trigonometria
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Finale Nazionale — Quesito 24

@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Triangoli con vertici sul cubo non su nessuna faccia
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 9

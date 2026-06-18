@@ -7,6 +7,7 @@ family: kangourou
 year: '2000'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '30'
 summary: Tipi di vermetto con 3 gialle e 2 verdi
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2000
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2000 - 3 maggio (individuale) — Quesito 30

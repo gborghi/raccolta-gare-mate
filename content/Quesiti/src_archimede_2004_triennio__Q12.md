@@ -7,6 +7,7 @@ family: archimede
 year: '2004'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: contenenti numeri da 1 a 2005
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2004
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2004 - Gara Triennio — Quesito 12

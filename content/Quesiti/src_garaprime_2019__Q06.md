@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Valore di n^2 - (n+4)(n-4) con n grande
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2019
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2019 — Quesito 6

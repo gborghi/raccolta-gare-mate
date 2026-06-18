@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Modi di ripassare segmenti del 9-agono con un lato per triangolo
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2015
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2015 - 2 livello — Quesito 11

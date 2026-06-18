@@ -7,6 +7,7 @@ family: imo
 year: '1988'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Inequality solution set is intervals of total length 1988
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1988
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1988 (29th IMO, Canberra) — Quesito 4

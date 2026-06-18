@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Numero di frasi false in iscrizione autoreferenziale
 answer: '1337'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 11

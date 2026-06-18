@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: J3
 summary: Diametro moneta B che rotola due giri attorno ad A
 answer: 4 o 12 mm
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_piana
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Junior (finale Cervia) — Quesito J3

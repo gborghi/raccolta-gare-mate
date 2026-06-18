@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: 'Debito di sonno settimanale, minimo ore dormite da Davide'
 answer: '58'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/2-livello
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 16

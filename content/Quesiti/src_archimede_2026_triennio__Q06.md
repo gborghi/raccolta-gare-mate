@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: massimo divisore = k volte minimo divisore >1
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 6

@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Angolo A con B undici volte C nel triangolo
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2023
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Triennio — Quesito 3

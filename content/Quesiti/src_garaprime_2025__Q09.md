@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Numeri di tre cifre con la cifra 3 ma non la 4
 answer: B
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # X Gara Nazionale Classi Prime 2025 — Quesito 9

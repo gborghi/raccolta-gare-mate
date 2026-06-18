@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: quante stringhe non vincenti
 answer: 1 (la stringa 1111100000)
@@ -21,6 +22,7 @@ tags:
   - anno/2010
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: 'Parcheggio per minimizzare cammino, insieme punti'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 1

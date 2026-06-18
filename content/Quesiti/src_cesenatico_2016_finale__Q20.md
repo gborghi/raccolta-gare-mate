@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '20'
 summary: Min n con probabilita 1/2016 (cammino aleatorio grafo)
 answer: '0013'
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/probabilita
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 20

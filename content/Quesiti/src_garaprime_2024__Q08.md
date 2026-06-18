@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Somma cifre unita delle potenze di 2024
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 8

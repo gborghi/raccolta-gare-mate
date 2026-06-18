@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '18'
 summary: Probabilita Phineas primo lanciatore al quarto round
 answer: '1996'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 18

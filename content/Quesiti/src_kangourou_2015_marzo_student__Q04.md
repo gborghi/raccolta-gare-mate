@@ -7,6 +7,7 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Quale grafico a torta corrisponde al grafico a colonne
 answer: A
@@ -21,6 +22,7 @@ tags:
   - anno/2015
   - livello/kangourou
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Kangourou 2015 gara 19 marzo Student — Quesito 4

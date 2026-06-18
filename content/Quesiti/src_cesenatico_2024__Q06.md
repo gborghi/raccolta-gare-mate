@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Minimo Mn per 1/a1+a1/a2+...+a(n-1)/an con interi crescenti
 answer: 'M1=1/2, M2=7/6, Mn=n-1 per n>=3'
@@ -24,6 +25,7 @@ tags:
   - anno/2024
   - livello/nazionale
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 6

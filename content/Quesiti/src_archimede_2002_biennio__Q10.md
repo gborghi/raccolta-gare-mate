@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Numero strette di mano escludendo connazionali
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2002
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2002 - Biennio — Quesito 10

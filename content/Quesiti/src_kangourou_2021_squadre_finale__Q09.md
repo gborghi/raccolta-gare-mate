@@ -7,6 +7,7 @@ family: kangourou
 year: '2021'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '9'
 summary: Quanti vertici (angoli in progressione aritmetica)
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/squadre
   - topic/geometria_piana
   - topic/algebra
+  - gara/squadre
 ---
 
 # Kangourou Coppa squadre 2021 Finale — Quesito 9

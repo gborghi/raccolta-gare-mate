@@ -6,12 +6,14 @@ family: archimede
 year: '2013'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '20'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2013
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Triennio

@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Affermazione necessariamente vera su percentuali studenti
 answer: C
@@ -26,6 +27,7 @@ tags:
   - livello/triennio
   - topic/logica
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 20

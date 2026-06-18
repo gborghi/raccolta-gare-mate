@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '1'
 summary: piastrellature 2 rett bianchi e 2 neri
 answer: '0114'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 1

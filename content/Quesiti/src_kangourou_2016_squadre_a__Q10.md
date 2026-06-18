@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: Quanti braccialetti diversi con 7 anellini colorati
 answer: '360'
@@ -23,6 +24,7 @@ tags:
   - anno/2016
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou Coppa Squadre 2016 Semifinale A — Quesito 10

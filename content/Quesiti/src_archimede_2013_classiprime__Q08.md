@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Tempo per dipingere muro lavorando insieme (lavoro/velocita)
 answer: A
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 8

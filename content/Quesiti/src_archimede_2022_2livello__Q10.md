@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Potenze di 2 da 1 a 2^100 che iniziano per 1
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 10

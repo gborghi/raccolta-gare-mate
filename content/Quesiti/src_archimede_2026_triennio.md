@@ -6,12 +6,14 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 n_quesiti: '17'
 tags:
   - kg/gara
   - paese/italia
   - comp/archimede
   - anno/2026
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio

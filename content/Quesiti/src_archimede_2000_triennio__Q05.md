@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Angolo in B dato angolo tra bisettrici in P
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Triennio — Quesito 5

@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: a e' potenza di 54
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2023
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 1

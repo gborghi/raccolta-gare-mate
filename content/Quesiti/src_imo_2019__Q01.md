@@ -7,6 +7,7 @@ family: imo
 year: '2019'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: Z->Z con f(2a)+2f(b)=f(f(a+b))
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/2019
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 2019 papers — Quesito 1

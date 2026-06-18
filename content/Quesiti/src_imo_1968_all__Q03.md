@@ -7,6 +7,7 @@ family: imo
 year: '1968'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Number of solutions of cyclic quadratic system via discriminant
 topics:
@@ -23,6 +24,7 @@ tags:
   - anno/1968
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1968 (Tenth International Olympiad) — Quesito 3

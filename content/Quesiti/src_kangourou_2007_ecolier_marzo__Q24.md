@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Anni di Fabio oggi (eta amici)
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2007 Ecolier (marzo) — Quesito 24

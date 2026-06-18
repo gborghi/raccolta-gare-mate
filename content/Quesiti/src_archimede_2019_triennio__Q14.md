@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Insiemi di 2 o 3 hashtag con vincolo condizionale
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/triennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Triennio (T1) — Quesito 14

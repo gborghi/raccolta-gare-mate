@@ -7,6 +7,7 @@ family: kangourou
 year: '2025'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: S6
 summary: Numero scelte di 10 elementi con distanze crescenti
 answer: (n-36)!/((n-46)!10!)
@@ -24,6 +25,7 @@ tags:
   - anno/2025
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2025 Student finale — Quesito S6

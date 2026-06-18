@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '16'
 summary: Quanti anni compie Barbara dato il numero di tagli
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/geometria_piana
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 16

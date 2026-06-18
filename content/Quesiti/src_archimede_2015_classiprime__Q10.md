@@ -7,6 +7,7 @@ family: archimede
 year: '2015'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Valore di prodotto di interi vicini (differenza di prodotti)
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2015
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2015 — Quesito 10

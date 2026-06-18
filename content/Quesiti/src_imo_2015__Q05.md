@@ -7,6 +7,7 @@ family: imo
 year: '2015'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Equazione funzionale f(x+f(x+y))+f(xy)=...
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2015
   - livello/IMO
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 2015 papers — Quesito 5

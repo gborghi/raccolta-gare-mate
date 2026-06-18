@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Eta di Sara dalla somma delle cifre delle eta
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/1998
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1998 - Triennio — Quesito 20

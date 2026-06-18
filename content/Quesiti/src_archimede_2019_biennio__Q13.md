@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Probabilita somma 8 con dado normale e dado speciale
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Biennio (T1) — Quesito 13

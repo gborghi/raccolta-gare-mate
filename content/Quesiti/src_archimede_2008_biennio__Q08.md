@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '8'
 summary: Diametro biscotti rotondi in sfoglia quadrata
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2008 - Biennio — Quesito 8

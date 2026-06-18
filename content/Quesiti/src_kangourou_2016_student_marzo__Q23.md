@@ -7,6 +7,7 @@ family: kangourou
 year: '2016'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '23'
 summary: Quante parabole ad asse verticale per 3 punti anneriti
 answer: D
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/geometria_analitica
+  - gara/individuale
 ---
 
 # Kangourou 2016 Student (gara marzo) — Quesito 23

@@ -7,6 +7,7 @@ family: kangourou
 year: '2023'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Valore in cui si annulla f dalla catena di disuguaglianze
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou Semifinale individuale Student 2023 — Quesito 15

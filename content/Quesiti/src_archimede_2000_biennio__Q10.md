@@ -7,6 +7,7 @@ family: archimede
 year: '2000'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '10'
 summary: Somma lunghezze dei tratti di due esagoni concentrici
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2000
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2000 - Biennio — Quesito 10

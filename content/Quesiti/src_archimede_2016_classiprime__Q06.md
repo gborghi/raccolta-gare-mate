@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Casi per PIN 16_6_ divisibile per 15
 answer: A
@@ -23,6 +24,7 @@ tags:
   - comp/archimede
   - anno/2016
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2016 — Quesito 6

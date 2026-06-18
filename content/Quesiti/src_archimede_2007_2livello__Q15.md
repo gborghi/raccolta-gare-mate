@@ -7,6 +7,7 @@ family: archimede
 year: '2007'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Salti di Lorenza sul poligono 2007 lati per superare vertice 1
 answer: '405'
@@ -23,6 +24,7 @@ tags:
   - anno/2007
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 15

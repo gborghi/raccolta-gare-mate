@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Perimetro di un rettangolo con base 3/2 dell'altezza
 answer: A
@@ -19,6 +20,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 6

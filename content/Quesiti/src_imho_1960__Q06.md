@@ -7,6 +7,7 @@ family: imo
 year: '1960'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: 'Cono con sfera inscritta e cilindro circoscritto, k minimo'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1960
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1960 (II International Olympiad) — Quesito 6

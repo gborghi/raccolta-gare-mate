@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Affermazione non deducibile su polinomio a valori interi
 answer: C
@@ -19,6 +20,7 @@ tags:
   - anno/1998
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 1998 — Quesito 6

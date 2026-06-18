@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '27'
 summary: Numero totale di pallini in un set di domino
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 27

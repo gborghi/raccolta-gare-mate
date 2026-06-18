@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Valori n con radici intere distinte di 3x^2+2nx+3
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/triennio
   - topic/algebra
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2010 - Triennio — Quesito 12

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Divisori di 999^9 che sono quadrati o cubi perfetti
 answer: A
@@ -23,6 +24,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 13

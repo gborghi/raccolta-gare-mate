@@ -7,6 +7,7 @@ family: imo
 year: '1971'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Two of nine translated polyhedra share interior point
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1971
   - livello/IMO
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # IMO 1971 (Thirteenth International Olympiad) — Quesito 2

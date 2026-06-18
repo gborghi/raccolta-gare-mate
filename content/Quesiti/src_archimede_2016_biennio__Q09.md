@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Minuti in campo per ciascun giocatore
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Biennio — Quesito 9

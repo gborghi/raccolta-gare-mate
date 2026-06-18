@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '10'
 summary: 'Distanza con radici di polinomio, a^8+b^8'
 answer: '3791'
@@ -21,6 +22,7 @@ tags:
   - anno/2018
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 10

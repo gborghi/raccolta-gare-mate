@@ -6,12 +6,14 @@ family: kangourou
 year: '2002'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '30'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2002
+  - gara/individuale
 ---
 
 # Kangourou 2002 - Cadet (21 marzo)

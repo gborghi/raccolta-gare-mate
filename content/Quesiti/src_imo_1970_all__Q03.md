@@ -7,6 +7,7 @@ family: imo
 year: '1970'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Prove bounds 0<=b_n<2 for telescoping sequence sum
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/IMO
   - topic/disuguaglianze
   - topic/funzionali
+  - gara/individuale
 ---
 
 # IMO 1970 (Twelfth International Olympiad) — Quesito 3

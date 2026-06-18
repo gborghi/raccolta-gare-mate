@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Monomi da aggiungere a x^8+x^4 per ottenere quadrato di binomio
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2013
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2013 — Quesito 11

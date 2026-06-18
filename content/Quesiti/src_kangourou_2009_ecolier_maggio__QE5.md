@@ -7,6 +7,7 @@ family: kangourou
 year: '2009'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: E5
 summary: Prodotto dei tre numeri dell'esagono (griglia)
 answer: '40'
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E5

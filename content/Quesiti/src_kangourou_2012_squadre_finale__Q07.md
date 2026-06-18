@@ -7,6 +7,7 @@ family: kangourou
 year: '2012'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '7'
 summary: Partite totali torneo 16 tennisti tutti contro tutti
 answer: '120'
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2012 squadre finale — Quesito 7

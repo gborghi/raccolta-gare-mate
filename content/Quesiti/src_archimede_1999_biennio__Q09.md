@@ -7,6 +7,7 @@ family: archimede
 year: '1999'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Probabilita che il secondo estratto sia 28 dato 27
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/1999
   - livello/biennio
   - topic/probabilita
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1999 - Biennio — Quesito 9

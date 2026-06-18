@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Rapporto superfici di due sfere con rapporto volumi 2
 answer: A
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/geometria_solida
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Triennio — Quesito 4

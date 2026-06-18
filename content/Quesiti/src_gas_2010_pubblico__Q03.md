@@ -7,6 +7,7 @@ family: archimede
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '3'
 summary: Differenza abitanti da affermazioni di sinceri/bugiardi/variabili
 answer: '8994'
@@ -23,6 +24,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/logica
+  - gara/squadre
 ---
 
 # Gara a Squadre 2010 - Gara del Pubblico — Quesito 3

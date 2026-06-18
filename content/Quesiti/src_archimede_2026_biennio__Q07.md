@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Modi di dividere 16 caramelle con vincolo amici uguali
 answer: D
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Biennio — Quesito 7

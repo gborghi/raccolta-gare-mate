@@ -7,6 +7,7 @@ family: archimede
 year: '2017'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Rapporto P(2)/P(1/2) per polinomio con radici prime e reciproci
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2017
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2017 - 2 livello — Quesito 5

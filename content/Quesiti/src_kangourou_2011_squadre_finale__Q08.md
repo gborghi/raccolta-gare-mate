@@ -7,6 +7,7 @@ family: kangourou
 year: '2011'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '8'
 summary: Numeri 7 cifre contenenti blocco 2011
 answer: '3700'
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2011 squadre finale — Quesito 8

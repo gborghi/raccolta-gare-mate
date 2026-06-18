@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: 'dividere espressione in tre parti, k multiplo di 3'
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2002
   - livello/nazionale
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 5

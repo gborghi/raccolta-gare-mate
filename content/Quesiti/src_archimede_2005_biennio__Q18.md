@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '18'
 summary: Impiegati bilingui inglese e tedesco
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2005
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2005 - Gara Biennio — Quesito 18

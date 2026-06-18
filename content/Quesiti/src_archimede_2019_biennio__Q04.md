@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Coppie di libri di due generi diversi tra 9,7,4'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2019
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Biennio (T1) — Quesito 4

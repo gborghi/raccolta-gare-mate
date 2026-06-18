@@ -7,6 +7,7 @@ family: archimede
 year: '1997'
 level: 'biennio, triennio'
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: In quale intervallo si trova x volte radice di y
 answer: A
@@ -24,6 +25,7 @@ tags:
   - livello/biennio
   - livello/triennio
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Giochi di Archimede 1997 - Biennio — Quesito 14

@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Gioco della tavoletta di cioccolato, mossa vincente'
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/logica
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 15

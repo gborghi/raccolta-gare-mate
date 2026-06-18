@@ -7,6 +7,7 @@ family: imo
 year: '1961'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: almeno un rapporto <=2 e uno >=2
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1961
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO 1961 (III International Olympiad) — Quesito 4

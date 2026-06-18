@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '14'
 summary: Prodotto BJ·CK nel triangolo rettangolo con proiezioni
 answer: '45'
@@ -23,6 +24,7 @@ tags:
   - anno/2008
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 14

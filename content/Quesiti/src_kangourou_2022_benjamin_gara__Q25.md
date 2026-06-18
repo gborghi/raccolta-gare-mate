@@ -7,6 +7,7 @@ family: kangourou
 year: '2022'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '25'
 summary: Quanti numeri scrivibili nel riquadro ombreggiato
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2022 Benjamin gara individuale — Quesito 25

@@ -7,6 +7,7 @@ family: archimede
 year: '2008'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '13'
 summary: Probabilita compleanni distinti
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/2008
   - livello/squadre
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Coppa Fermat 2008 - Gara a squadre — Quesito 13

@@ -7,6 +7,7 @@ family: archimede
 year: '2003'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Triangoli non degeneri con vertici in nove punti
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2003 - Triennio — Quesito 17

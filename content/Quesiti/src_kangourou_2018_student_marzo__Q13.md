@@ -7,6 +7,7 @@ family: kangourou
 year: '2018'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Forma del vaso dato il grafico livello-tempo
 answer: D
@@ -23,6 +24,7 @@ tags:
   - livello/kangourou
   - topic/geometria_solida
   - topic/insiemi_funzioni
+  - gara/individuale
 ---
 
 # Kangourou 2018 Gara di Marzo Student — Quesito 13

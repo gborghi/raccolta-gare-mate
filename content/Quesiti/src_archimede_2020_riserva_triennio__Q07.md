@@ -7,6 +7,7 @@ family: archimede
 year: '2020'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Probabilita di finire in acqua camminando a caso 2 metri
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/triennio
   - topic/probabilita
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 7

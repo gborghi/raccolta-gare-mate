@@ -7,6 +7,7 @@ family: archimede
 year: '2021'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: 'Equazione con parte frazionaria, secondo valore di floor'
 answer: E
@@ -23,6 +24,7 @@ tags:
   - anno/2021
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2021 - 2° livello — Quesito 9

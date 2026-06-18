@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: Lunghezza CQ dato un quadrato e aree di poligoni
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2026
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2026 - Triennio — Quesito 4

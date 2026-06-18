@@ -7,6 +7,7 @@ family: archimede
 year: '2024'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '7'
 summary: Area del triangolo BCQ nel giardino di Santina
 answer: B
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2024
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IX Gara Nazionale Classi Prime 2024 — Quesito 7

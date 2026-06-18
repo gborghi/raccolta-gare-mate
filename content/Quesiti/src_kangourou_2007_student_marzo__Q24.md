@@ -7,6 +7,7 @@ family: kangourou
 year: '2007'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '24'
 summary: Quanti a tali che x^2+ax+2007 ha radici intere
 answer: C
@@ -24,6 +25,7 @@ tags:
   - anno/2007
   - livello/kangourou
   - topic/algebra
+  - gara/individuale
 ---
 
 # Kangourou 2007 Student (marzo) — Quesito 24

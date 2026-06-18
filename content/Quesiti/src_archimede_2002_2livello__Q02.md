@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Sottoinsieme di numeri naturali con somma divisibile per 6
 answer: C
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/2-livello
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2002 — Quesito 2

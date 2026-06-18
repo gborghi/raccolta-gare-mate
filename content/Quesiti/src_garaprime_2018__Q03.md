@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Grado di (p(x))^2 - p(x^2)
 answer: A
@@ -22,6 +23,7 @@ tags:
   - comp/archimede
   - anno/2018
   - topic/algebra
+  - gara/individuale
 ---
 
 # Gara Nazionale Classi Prime 2018 — Quesito 3

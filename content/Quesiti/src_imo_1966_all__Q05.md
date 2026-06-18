@@ -7,6 +7,7 @@ family: imo
 year: '1966'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '5'
 summary: Solve linear system with absolute-value coefficients
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1966
   - livello/IMO
   - topic/algebra
+  - gara/individuale
 ---
 
 # IMO 1966 (Eighth International Olympiad) — Quesito 5

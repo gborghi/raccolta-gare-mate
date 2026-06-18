@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: 'Massimo mucche al pascolo per sempre, erba che cresce'
 answer: '74'
@@ -21,6 +22,7 @@ tags:
   - anno/2025
   - livello/squadre
   - topic/algebra
+  - gara/squadre
 ---
 
 # Gara a Squadre Femminile 2025 - VIII Finale — Quesito 12

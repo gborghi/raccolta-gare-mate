@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Valore di x+y da somma di due quadrati nulla
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2019
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2019 - Biennio (T1) — Quesito 12

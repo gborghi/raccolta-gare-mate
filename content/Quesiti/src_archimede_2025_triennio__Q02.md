@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Coordinate della formica dopo 2025 giorni di passi a spirale
 answer: A
@@ -23,6 +24,7 @@ tags:
   - anno/2025
   - livello/triennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2025 - Triennio — Quesito 2

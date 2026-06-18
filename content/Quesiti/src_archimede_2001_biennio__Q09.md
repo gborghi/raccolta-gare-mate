@@ -7,6 +7,7 @@ family: archimede
 year: '2001'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Soluzione equazione con somma di frazioni lineari
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/biennio
   - topic/algebra
   - topic/funzionali
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2001 - Biennio — Quesito 9

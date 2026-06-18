@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: Rapporto aree di quadrati annidati sui punti medi
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2006
   - livello/biennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Biennio — Quesito 11

@@ -7,6 +7,7 @@ family: archimede
 year: '2016'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '9'
 summary: Area regione formata da 4 archi raggio 1
 answer: B
@@ -21,6 +22,7 @@ tags:
   - anno/2016
   - livello/triennio
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2016 - Triennio — Quesito 9

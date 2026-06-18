@@ -7,6 +7,7 @@ family: imo
 year: '1967'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: find number of days and total medals
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/IMO
   - topic/aritmetica
   - topic/logica
+  - gara/individuale
 ---
 
 # IMO 1967 (Ninth International Olympiad) — Quesito 6

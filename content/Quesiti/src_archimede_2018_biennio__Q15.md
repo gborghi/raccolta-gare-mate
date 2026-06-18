@@ -7,6 +7,7 @@ family: archimede
 year: '2018'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: Modi di disporre 99 monete non adiacenti in tabella 2x100
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2018
   - livello/biennio
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2018 - Biennio (T1) — Quesito 15

@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Disuguaglianza certa tra frazioni mediante a/b<=c/d<=1
 answer: C
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/disuguaglianze
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2012 - Biennio — Quesito 12

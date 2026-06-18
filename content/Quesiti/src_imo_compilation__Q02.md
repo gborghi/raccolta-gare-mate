@@ -7,6 +7,7 @@ family: imo
 year: ''
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: IMO 1997 problema 2
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/
   - livello/IMO
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # IMO compilation 1959-2013 — Quesito 2

@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Perimetro di un parallelogramma dato (Diego/Viola)
 answer: '6'
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2002 — Quesito 13

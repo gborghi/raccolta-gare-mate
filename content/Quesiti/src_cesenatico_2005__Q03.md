@@ -7,6 +7,7 @@ family: archimede
 year: '2005'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Tabella 4x4 di cifre 1 e 2 con somme dei 3x3 multiple di 4
 answer: 'massimo 30, minimo 19'
@@ -23,6 +24,7 @@ tags:
   - anno/2005
   - livello/nazionale
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # XXI Olimpiade Italiana Cesenatico 2005 — Quesito 3

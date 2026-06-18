@@ -7,6 +7,7 @@ family: archimede
 year: '2012'
 level: nazionale
 country: Italia
+modalita: squadre
 quesito: '12'
 summary: Probabilita Sole e Luna perdano con uno illeso
 answer: 0585
@@ -23,6 +24,7 @@ tags:
   - anno/2012
   - livello/nazionale
   - topic/probabilita
+  - gara/squadre
 ---
 
 # Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 12

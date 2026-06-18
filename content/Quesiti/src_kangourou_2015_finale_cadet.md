@@ -6,12 +6,14 @@ family: kangourou
 year: '2015'
 level: kangourou
 country: Italia
+modalita: individuale
 n_quesiti: '6'
 tags:
   - kg/gara
   - paese/italia
   - comp/kangourou
   - anno/2015
+  - gara/individuale
 ---
 
 # Kangourou 2015 finale nazionale Cadet

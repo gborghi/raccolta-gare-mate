@@ -7,6 +7,7 @@ family: archimede
 year: '1998'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: due facce con stesso numero di lati
 topics:
@@ -24,6 +25,7 @@ tags:
   - livello/nazionale
   - topic/combinatoria
   - topic/geometria_solida
+  - gara/individuale
 ---
 
 # Gara Nazionale Cesenatico 1998 — Quesito 2

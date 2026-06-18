@@ -7,6 +7,7 @@ family: archimede
 year: '2019'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '15'
 summary: 'Lampadine in fila, mosse con rapporto primo'
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/2-livello
   - topic/combinatoria
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2019 - 2° livello — Quesito 15

@@ -7,6 +7,7 @@ family: imo
 year: '1990'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Smallest k making every coloring of 2n-1 points good
 topics:
@@ -20,6 +21,7 @@ tags:
   - anno/1990
   - livello/IMO
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # IMO 1990 (31st IMO, Beijing) — Quesito 2

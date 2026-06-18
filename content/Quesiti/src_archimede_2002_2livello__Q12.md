@@ -7,6 +7,7 @@ family: archimede
 year: '2002'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '12'
 summary: Perimetro del rettangolo diviso in cinque quadrati
 answer: '11'
@@ -21,6 +22,7 @@ tags:
   - anno/2002
   - livello/2-livello
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Archimede Gara 2º livello 2002 — Quesito 12

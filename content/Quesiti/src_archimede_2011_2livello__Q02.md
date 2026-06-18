@@ -7,6 +7,7 @@ family: archimede
 year: '2011'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '2'
 summary: Massimo tartarughe tra volpi/serpenti/tartarughe
 answer: B
@@ -23,6 +24,7 @@ tags:
   - anno/2011
   - livello/2-livello
   - topic/logica
+  - gara/individuale
 ---
 
 # Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 2

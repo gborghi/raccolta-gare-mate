@@ -7,6 +7,7 @@ family: archimede
 year: '2025'
 level: nazionale
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Fermare una formica con rotazioni di alpha e beta
 topics:
@@ -25,6 +26,7 @@ tags:
   - livello/nazionale
   - topic/geometria_piana
   - topic/logica
+  - gara/individuale
 ---
 
 # Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 6

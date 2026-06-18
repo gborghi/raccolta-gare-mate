@@ -7,6 +7,7 @@ family: archimede
 year: '2026'
 level: ''
 country: Italia
+modalita: individuale
 quesito: '3'
 summary: Lati del poligono con angolo interno 11 volte l'esterno
 answer: D
@@ -20,6 +21,7 @@ tags:
   - comp/archimede
   - anno/2026
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # XI Gara Nazionale Classi Prime 2026 — Quesito 3

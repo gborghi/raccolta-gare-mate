@@ -7,6 +7,7 @@ family: kangourou
 year: '2024'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '17'
 summary: Quale espressione tra p e q (p<q) e la maggiore
 answer: A
@@ -25,6 +26,7 @@ tags:
   - livello/kangourou
   - topic/algebra
   - topic/disuguaglianze
+  - gara/individuale
 ---
 
 # Kangourou 2024 Student (gara individuale) — Quesito 17

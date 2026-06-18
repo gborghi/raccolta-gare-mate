@@ -7,6 +7,7 @@ family: archimede
 year: '2009'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '11'
 summary: 'Quanti paggi tra furfanti, cavalieri e paggi'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2009
   - livello/triennio
   - topic/logica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2009 - Triennio — Quesito 11

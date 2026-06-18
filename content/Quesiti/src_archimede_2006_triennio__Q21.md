@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: triennio
 country: Italia
+modalita: individuale
 quesito: '21'
 summary: Cifra delle unita di 17 elevato 17
 answer: D
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/triennio
   - topic/aritmetica
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2006 - Gara Triennio — Quesito 21

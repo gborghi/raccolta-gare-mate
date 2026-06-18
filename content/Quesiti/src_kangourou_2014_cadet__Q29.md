@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '29'
 summary: Massimo foglie visitabili dalla rana (salti non adiacenti)
 answer: A
@@ -24,6 +25,7 @@ tags:
   - anno/2014
   - livello/kangourou
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Cadet — Quesito 29

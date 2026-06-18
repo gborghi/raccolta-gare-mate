@@ -7,6 +7,7 @@ family: archimede
 year: '2023'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '13'
 summary: Triangoli isosceli con vertici di poligono regolare 25-gono
 answer: E
@@ -25,6 +26,7 @@ tags:
   - livello/biennio
   - topic/combinatoria
   - topic/geometria_piana
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2023 - Gara Biennio — Quesito 13

@@ -7,6 +7,7 @@ family: kangourou
 year: '2014'
 level: kangourou
 country: Italia
+modalita: individuale
 quesito: '20'
 summary: Quanti rombi neri nel livello 6 dello schema
 topics:
@@ -22,6 +23,7 @@ tags:
   - livello/kangourou
   - topic/funzionali
   - topic/combinatoria
+  - gara/individuale
 ---
 
 # Kangourou 2014 marzo Ecolier — Quesito 20

@@ -7,6 +7,7 @@ family: kangourou
 year: '2010'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '4'
 summary: Cammini a zig-zag di 8 caselle bianche scacchiera
 answer: '296'
@@ -24,6 +25,7 @@ tags:
   - anno/2010
   - livello/squadre
   - topic/combinatoria
+  - gara/squadre
 ---
 
 # Kangourou 2010 squadre finale — Quesito 4

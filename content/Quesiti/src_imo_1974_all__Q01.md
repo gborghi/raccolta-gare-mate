@@ -7,6 +7,7 @@ family: imo
 year: '1974'
 level: IMO
 country: Italia
+modalita: individuale
 quesito: '1'
 summary: who received q on first round
 topics:
@@ -22,6 +23,7 @@ tags:
   - anno/1974
   - livello/IMO
   - topic/logica
+  - gara/individuale
 ---
 
 # IMO 1974 (Sixteenth International Olympiad) — Quesito 1

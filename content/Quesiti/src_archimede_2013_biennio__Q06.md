@@ -7,6 +7,7 @@ family: archimede
 year: '2013'
 level: biennio
 country: Italia
+modalita: individuale
 quesito: '6'
 summary: Numero di matematici a un convegno con vincoli
 answer: E
@@ -21,6 +22,7 @@ tags:
   - anno/2013
   - livello/biennio
   - topic/algebra
+  - gara/individuale
 ---
 
 # Giochi di Archimede 2013 - Biennio — Quesito 6

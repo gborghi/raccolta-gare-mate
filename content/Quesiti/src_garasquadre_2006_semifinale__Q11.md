@@ -7,6 +7,7 @@ family: archimede
 year: '2006'
 level: squadre
 country: Italia
+modalita: squadre
 quesito: '11'
 summary: Piu piccolo N di 4 cifre con somma ultime cifre di N^2 e N = 10000
 answer: '9375'
@@ -21,6 +22,7 @@ tags:
   - anno/2006
   - livello/squadre
   - topic/aritmetica
+  - gara/squadre
 ---
 
 # VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 11

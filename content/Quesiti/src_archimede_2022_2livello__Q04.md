@@ -7,6 +7,7 @@ family: archimede
 year: '2022'
 level: 2 livello
 country: Italia
+modalita: individuale
 quesito: '4'
 summary: 'Polinomio con p(a)+p(b)+p(c)=p(674), valore p(2022)'
 answer: C
@@ -23,6 +24,7 @@ tags:
   - anno/2022
   - livello/2-livello
   - topic/algebra
+  - gara/individuale
 ---
 
 # Archimede Gara di Febbraio 2022 - 2° livello — Quesito 4
