@@ -11,4 +11,4 @@ Archivio di **9327** quesiti da gare di matematica (Giochi di Archimede, Kangour
 - **Metodi risolutivi**: vedi la cartella *Methods*
 - **Abilità**: vedi la cartella *Skills*
 
-Usa la ricerca (in alto) o il grafo per navigare. Ogni elenco di quesiti è una tabella ordinabile e filtrabile.
+Usa la **[ricerca per più tag](cerca)** per filtrare i quesiti combinando gara, anno, livello, argomento, metodo e abilità. Oppure usa la ricerca testuale (in alto) o il grafo per navigare. Ogni elenco di quesiti è una tabella ordinabile e filtrabile.

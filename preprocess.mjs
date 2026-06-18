@@ -119,6 +119,9 @@ async function main() {
         methods: data.methods ?? [],
         skills: data.skills ?? [],
         level: data.level ?? "",
+        family: data.family ?? "",
+        year: data.year ?? "",
+        country: data.country ?? "",
       })
     }
   }
@@ -139,9 +142,20 @@ Archivio di **${quesiti.length}** quesiti da gare di matematica (Giochi di Archi
 - **Metodi risolutivi**: vedi la cartella *Methods*
 - **Abilità**: vedi la cartella *Skills*
 
-Usa la ricerca (in alto) o il grafo per navigare. Ogni elenco di quesiti è una tabella ordinabile e filtrabile.
+Usa la **[ricerca per più tag](cerca)** per filtrare i quesiti combinando gara, anno, livello, argomento, metodo e abilità. Oppure usa la ricerca testuale (in alto) o il grafo per navigare. Ogni elenco di quesiti è una tabella ordinabile e filtrabile.
 `
   await fs.writeFile(path.join(CONTENT, "index.md"), home)
+
+  // Faceted multi-tag search page (rendered client-side into #cerca)
+  const cerca = `---
+title: Ricerca per più tag
+---
+
+Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti. Usa l'interruttore **TUTTI / QUALSIASI** per richiedere tutti i tag (intersezione) o almeno uno (unione).
+
+<div id="cerca"></div>
+`
+  await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
   console.log(`copied ${written} notes, indexed ${quesiti.length} quesiti`)
 }
