@@ -9,18 +9,17 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '1'
-summary: 'Fill n×n grid with counters in every row, column, diagonal'
-qa_score: '2'
+summary: Max counters on chessboard avoiding five in any line
+qa_score: '5'
 topics:
   - topic_combinatoria
 methods:
   - method_estremalita
   - method_casework
-  - method_costruzione
+  - method_conteggio
 skills:
-  - skill_ragionamento_geometrico
   - skill_conteggio_sistematico
-  - skill_modellizzazione
+  - skill_casework_accurato
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -29,19 +28,16 @@ tags:
   - livello/BMO-Round-1
   - topic/combinatoria
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2012-13 — Round 1 — Quesito 1
 
-*Fill n×n grid with counters in every row, column, diagonal*
+*Max counters on chessboard avoiding five in any line*
 
-> Some counters are placed on an $n \times n$ board. The board is divided into $n^2$ unit squares. Determine, with proof, the minimum number of counters that need to be placed so that there is at least one counter in each row, at least one in each column, and at least one on each of the two long diagonals.
+> Isaac places some counters onto the squares of an $8$ by $8$ chessboard so that there is at most one counter in each of the $64$ squares. Determine, with justification, the maximum number that he can place without having five or more counters in the same row, or in the same column, or on either of the two long diagonals.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_costruzione|method_costruzione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

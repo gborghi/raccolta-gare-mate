@@ -9,14 +9,14 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: 'Prove binomial sum identity: sum of products of binomial coefficients'
-qa_score: '2'
+summary: Prove a binomial coefficient summation identity
+qa_score: '5'
 topics:
   - topic_combinatoria
-  - topic_aritmetica
+  - topic_algebra
 methods:
   - method_induzione
-  - method_doppio_conteggio
+  - method_telescoping
 skills:
   - skill_manipolazione_algebrica
   - skill_riconoscimento_pattern
@@ -27,23 +27,20 @@ tags:
   - anno/1984
   - livello/BMO-Round-1
   - topic/combinatoria
-  - topic/aritmetica
+  - topic/algebra
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1984-85 — Round 1 — Quesito 3
 
-*Prove binomial sum identity: sum of products of binomial coefficients*
+*Prove a binomial coefficient summation identity*
 
 > $n$ and $m$ are non-negative integers. Prove that
-> $$\binom{m}{0}\binom{n}{1} + \binom{m}{1}\binom{n}{2} + \cdots + \binom{m}{n-1}\binom{n}{n} = \binom{m+n}{m+1}$$
-> where $\binom{n}{r}$ is the binomial coefficient $\frac{n!}{r!(n-r)!}$.
+> $$\binom{n}{m} + 2\binom{n-1}{m} + 3\binom{n-2}{m} + \cdots + (n+1-m)\binom{m}{m} = \binom{n+2}{m+2}$$
+> where $\binom{r}{s}$ is the binomial coefficient $r(r-1)(r-2)\cdots(r-s+1)/s!$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

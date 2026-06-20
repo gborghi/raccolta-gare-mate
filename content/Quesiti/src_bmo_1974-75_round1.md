@@ -20,11 +20,11 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_1974-75_round1__Q01|Quesito 1]] — Sum of floor expressions equals 600; find and prove k
-- [[src_bmo_1974-75_round1__Q02|Quesito 2]] — Primes partition into sets A and B; divisibility of product difference
-- [[src_bmo_1974-75_round1__Q03|Quesito 3]] — Pigeonhole: disc of radius 3 with 7 points; some two within distance 1
-- [[src_bmo_1974-75_round1__Q04|Quesito 4]] — Three parallel lines through triangle vertices; ratio k given by intersection
-- [[src_bmo_1974-75_round1__Q05|Quesito 5]] — Find all positive integers n for which lim of g(n)/f(n) = 1/2
-- [[src_bmo_1974-75_round1__Q06|Quesito 6]] — Prove inequality for integer u > 1 with x > y > 1
-- [[src_bmo_1974-75_round1__Q07|Quesito 7]] — Prove unique real sequence x_1,...,x_n satisfying a sum of squares identity
-- [[src_bmo_1974-75_round1__Q08|Quesito 8]] — Wine glass cone half-full; water level bisects furthest generator from P
+- [[src_bmo_1974-75_round1__Q01|Quesito 1]] — Solve floor-of-square-roots sum equal to 400
+- [[src_bmo_1974-75_round1__Q02|Quesito 2]] — Divisor of difference of prime-set products is 1 or at least p_n
+- [[src_bmo_1974-75_round1__Q03|Quesito 3]] — Pigeonhole: 7 mutually distant points in unit disc force one at centre
+- [[src_bmo_1974-75_round1__Q04|Quesito 4]] — Collinear points dividing parallel cevians in ratio k:1; find k
+- [[src_bmo_1974-75_round1__Q05|Quesito 5]] — Find a so the limit of g(a)/f(a) equals 1/2
+- [[src_bmo_1974-75_round1__Q06|Quesito 6]] — Prove an inequality between two rational functions of x and y
+- [[src_bmo_1974-75_round1__Q07|Quesito 7]] — Prove uniqueness of reals satisfying a sum-of-squares identity
+- [[src_bmo_1974-75_round1__Q08|Quesito 8]] — Fraction of conical wine glass occupied by water when tilted

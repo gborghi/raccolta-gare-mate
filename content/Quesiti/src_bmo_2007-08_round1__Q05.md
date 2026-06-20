@@ -9,20 +9,16 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '5'
-summary: >-
-  Interior point of triangle; parallel lines; minimise sum of parallelogram and
-  trapezium areas
+summary: Interior point of triangle; prove a sine-ratio equality
 qa_score: '2'
 topics:
   - topic_geometria_piana
-  - topic_disuguaglianze
+  - topic_trigonometria
 methods:
-  - method_disuguaglianze
-  - method_simmetria
+  - method_trigonometria
 skills:
-  - skill_manipolazione_algebrica
   - skill_ragionamento_geometrico
-  - skill_stima
+  - skill_manipolazione_algebrica
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -30,23 +26,26 @@ tags:
   - anno/2007
   - livello/BMO-Round-1
   - topic/geometria_piana
-  - topic/disuguaglianze
+  - topic/trigonometria
   - gara/individuale
   - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2007-08 — Round 1 — Quesito 5
 
-*Interior point of triangle; parallel lines; minimise sum of parallelogram and trapezium areas*
+*Interior point of triangle; prove a sine-ratio equality*
 
-> Let $P$ be an interior point of triangle $ABC$. The line through $P$ parallel to $BC$ meets $CA$ at $M$ and $AB$ at $N$. The line through $P$ parallel to $CA$ meets $BC$ at $L$ and $AB$ at $K$. The line through $P$ parallel to $AB$ meets $BC$ at $J$ and $CA$ at $I$.
-> 
-> Let $\dfrac{BL}{BC} = \lambda$. Find the position of $P$ in triangle $ABC$ such that $[JKLB] + [MNAB] + [INCA]$ is minimised, where $[XYZ\ldots]$ denotes the area of the polygon $XYZ\ldots$.
+> Let $P$ be an internal point of triangle $ABC$ and let $\alpha$, $\beta$, $\gamma$ be defined by
+> $$\alpha = \angle BPC - \angle BAC,$$
+> $$\beta = \angle CPA - \angle CBA,$$
+> $$\gamma = \angle APB - \angle ACB.$$
+> Prove that
+> $$PA \cdot \frac{\sin \angle BAC}{\sin \alpha} = PB \cdot \frac{\sin \angle CBA}{\sin \beta} = PC \cdot \frac{\sin \angle ACB}{\sin \gamma}.$$
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Fonte:** apri PDF
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

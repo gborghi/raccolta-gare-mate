@@ -20,9 +20,9 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_1985-86_round1__Q01|Quesito 1]] — Two-part: reduce large fraction to lowest terms; find circle radius given tangency
-- [[src_bmo_1985-86_round1__Q02|Quesito 2]] — Prove positive-integer equation implies m is a perfect square
-- [[src_bmo_1985-86_round1__Q03|Quesito 3]] — Find largest K so that an inequality holds for all obtuse-triangle side lengths
-- [[src_bmo_1985-86_round1__Q04|Quesito 4]] — Find all permutations of 1..n with a given property of partial sums
-- [[src_bmo_1985-86_round1__Q05|Quesito 5]] — Find cross-sectional area of a cube by planes parallel to a space diagonal
-- [[src_bmo_1985-86_round1__Q06|Quesito 6]] — Prove area of cube section equals area of cross-section of tetrahedron ABEF
+- [[src_bmo_1985-86_round1__Q01|Quesito 1]] — Reduce a large fraction N/D to lowest terms
+- [[src_bmo_1985-86_round1__Q02|Quesito 2]] — Radius of a circle from two externally tangent circles between parallel tangents
+- [[src_bmo_1985-86_round1__Q03|Quesito 3]] — Prove a radical equation in positive integers forces m to be a square
+- [[src_bmo_1985-86_round1__Q04|Quesito 4]] — Largest K in an inequality for the sides of any obtuse triangle
+- [[src_bmo_1985-86_round1__Q05|Quesito 5]] — Count permutations of 1..n with bounded jump constraints
+- [[src_bmo_1985-86_round1__Q06|Quesito 6]] — Cube section area equals tetrahedron section area under parallel planes

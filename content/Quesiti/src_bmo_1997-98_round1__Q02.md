@@ -9,17 +9,16 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: Floor-sqrt recurrence sequence; find first term divisible by 87
-qa_score: '2'
+summary: Mod-100 Fibonacci-like sequence; sum of squares mod 8
+qa_score: '5'
 topics:
   - topic_aritmetica
 methods:
   - method_congruenze
   - method_ricorsione
 skills:
-  - skill_riconoscimento_pattern
-  - skill_conteggio_sistematico
   - skill_manipolazione_algebrica
+  - skill_riconoscimento_pattern
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -28,21 +27,18 @@ tags:
   - livello/BMO-Round-1
   - topic/aritmetica
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1997-98 — Round 1 — Quesito 2
 
-*Floor-sqrt recurrence sequence; find first term divisible by 87*
+*Mod-100 Fibonacci-like sequence; sum of squares mod 8*
 
-> Let $a_1, a_2, a_3, \ldots$ be a sequence of positive integers defined by $a_1 = 19$, $a_2 = 19$, and for $n \ge 1$,
-> $$a_{n+1} = a_n + \lfloor \sqrt{a_n} \rfloor.$$
-> What is the smallest value of $n$ for which $a_n$ is divisible by $87$?
+> Let $a_1 = 19$, $a_2 = 98$. For $n \ge 1$, define $a_{n+2}$ to be the remainder of $a_n + a_{n+1}$ when it is divided by $100$. What is the remainder when
+> $$a_1^2 + a_2^2 + \cdots + a_{1998}^2$$
+> is divided by $8$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

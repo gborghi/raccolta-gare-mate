@@ -10,7 +10,7 @@ country: Regno Unito
 modalita: individuale
 quesito: '4'
 summary: Digit sums of numbers of the form 3n^2+n+1
-qa_score: '2'
+qa_score: '5'
 topics:
   - topic_aritmetica
   - topic_algebra
@@ -30,7 +30,6 @@ tags:
   - topic/aritmetica
   - topic/algebra
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1998-99 — Round 2 — Quesito 4
@@ -39,12 +38,10 @@ tags:
 
 > Consider all numbers of the form $3n^2 + n + 1$, where $n$ is a positive integer.
 > (i) How small can the sum of the digits (in base 10) of such a number be?
-> (ii) Can such a number have a sum of digits (in base 10) equal to 1999?
+> (ii) Can such a number have the sum of its digits (in base 10) equal to 1999?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

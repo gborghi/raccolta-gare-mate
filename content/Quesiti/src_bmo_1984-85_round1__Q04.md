@@ -9,8 +9,8 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '4'
-summary: 'Sequence defined by recurrence; find all a >= 2 with a_{n+1} > a_n^2 / 3'
-qa_score: '2'
+summary: 'Recurrence sequence: prove f_k f_{k+1} equals some term'
+qa_score: '5'
 topics:
   - topic_algebra
   - topic_aritmetica
@@ -29,21 +29,18 @@ tags:
   - topic/algebra
   - topic/aritmetica
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1984-85 — Round 1 — Quesito 4
 
-*Sequence defined by recurrence; find all a >= 2 with a_{n+1} > a_n^2 / 3*
+*Recurrence sequence: prove f_k f_{k+1} equals some term*
 
-> The sequence $f_n$ is defined by $f_1 = 1$, $f_2 = 1$, $f_n = f_{n-1} + f_{n-2} + a$, where $a$ is a positive integer, and for all $n \geq 1$,
-> $$f_{n+1} + f_{n-1} = f_n^2 + 3.$$
-> Find all sequences such that for all $n \geq 2$, $f_{n+1} \geq \frac{f_n^2}{3}$.
+> The sequence $f_n$ is defined by $f_0 = 1$, $f_1 = c$, where $c$ is a positive integer, and for all $n > 1$,
+> $$f_n = 2f_{n-1} - f_{n-2} + 2.$$
+> Prove that for each $k \ge 0$ there exists $h$ such that $f_k f_{k+1} = f_h$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

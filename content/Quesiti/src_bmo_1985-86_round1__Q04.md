@@ -9,43 +9,37 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '4'
-summary: Find all permutations of 1..n with a given property of partial sums
-qa_score: '2'
+summary: Largest K in an inequality for the sides of any obtuse triangle
+qa_score: '3'
 topics:
-  - topic_combinatoria
-  - topic_algebra
+  - topic_disuguaglianze
+  - topic_geometria_piana
 methods:
-  - method_casework
-  - method_conteggio
+  - method_estremalita
 skills:
-  - skill_conteggio_sistematico
-  - skill_lettura_attenta
-  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+  - skill_stima
 tags:
   - kg/quesito
   - paese/regno-unito
   - comp/bmo
   - anno/1985
   - livello/BMO-Round-1
-  - topic/combinatoria
-  - topic/algebra
+  - topic/disuguaglianze
+  - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1985-86 — Round 1 — Quesito 4
 
-*Find all permutations of 1..n with a given property of partial sums*
+*Largest K in an inequality for the sides of any obtuse triangle*
 
-> Find, with proof, all sequences $a_1, a_2, \ldots, a_n$ such that, in a permutation of the numbers $1, 2, \ldots, n$, the condition
-> $$A_r \mid A_{r+1} \quad \text{for } 1 \le r \le n-1$$
-> holds, where $A_r = a_1 + a_2 + \cdots + a_r$.
-> (In a permutation $a_1, a_2, \ldots, a_n$ of the numbers $1, 2, \ldots, n$.)
+> Find, with proof, the largest real number $K$ (independent of $a$, $b$, $c$) such that the inequality
+> $$a^2 + b^2 + c^2 > K(a+b+c)^2$$
+> holds for the lengths $a$, $b$, $c$ of the sides of any obtuse-angled triangle.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

@@ -9,18 +9,17 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '5'
-summary: 'Alternating integer sequences from {1,...,n}; prove A(1)=1, A(2)=2 and find n'
-qa_score: '2'
+summary: 'Count alternating increasing sequences from {1,...,n}; find A(20)'
+qa_score: '3'
 topics:
   - topic_combinatoria
 methods:
   - method_ricorsione
-  - method_induzione
   - method_conteggio
+  - method_induzione
 skills:
   - skill_conteggio_sistematico
   - skill_riconoscimento_pattern
-  - skill_manipolazione_algebrica
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -29,19 +28,16 @@ tags:
   - livello/BMO-Round-1
   - topic/combinatoria
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1993-94 — Round 1 — Quesito 5
 
-*Alternating integer sequences from {1,...,n}; prove A(1)=1, A(2)=2 and find n*
+*Count alternating increasing sequences from {1,...,n}; find A(20)*
 
-> An infinite sequence of integers $a_1, a_2, a_3, \ldots$ is said to be alternating if each term is of opposite sign to the previous one. Let $A(n)$ denote the number of alternating sequences which only involve integers from the set $\{1, 2, \ldots, n\}$. Show that $A(1) = 1$ and $A(2) = 2$. Find the value of $n$ for which your answer is correct.
+> An $increasing$ sequence of integers is said to be \textbf{alternating} if it $starts$ with an $odd$ term, the second term is even, the third term is odd, the fourth is even, and so on. The empty sequence (with no term at all!) is considered to be alternating. Let $A(n)$ denote the number of alternating sequences which only involve integers from the set $\{1, 2, \ldots, n\}$. Show that $A(1) = 2$ and $A(2) = 3$. Find the value of $A(20)$, and prove that your value is correct.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

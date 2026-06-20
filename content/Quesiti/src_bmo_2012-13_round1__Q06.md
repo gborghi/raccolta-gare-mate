@@ -9,16 +9,12 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '6'
-summary: 'Circle through B,C tangent at B; midpoint and bisector concurrence'
-qa_score: '2'
+summary: Two tangent circles in triangle; D is midpoint of AE
+qa_score: '5'
 topics:
   - topic_geometria_piana
-methods:
-  - method_simmetria
 skills:
   - skill_ragionamento_geometrico
-  - skill_lettura_attenta
-  - skill_manipolazione_algebrica
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -27,19 +23,15 @@ tags:
   - livello/BMO-Round-1
   - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2012-13 — Round 1 — Quesito 6
 
-*Circle through B,C tangent at B; midpoint and bisector concurrence*
+*Two tangent circles in triangle; D is midpoint of AE*
 
-> Let $ABC$ be a triangle. Let $S$ be the circle through $B$ and $C$ that is tangent to $AB$ at $B$. Let $E$ be the midpoint of $AC$. Let $D$ be the point where $BE$ meets $S$ again. Let $P$ be the point where $AD$ meets the circumcircle of $ABC$ again. Prove that $CP$ bisects angle $ACB$.
+> Let $ABC$ be a triangle. Let $S$ be the circle through $B$ tangent to $CA$ at $A$ and let $T$ be the circle through $C$ tangent to $AB$ at $A$. The circles $S$ and $T$ intersect at $A$ and $D$. Let $E$ be the point where the line $AD$ meets the circle $ABC$. Prove that $D$ is the midpoint of $AE$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

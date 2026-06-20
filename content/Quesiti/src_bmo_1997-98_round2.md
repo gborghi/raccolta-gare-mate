@@ -20,7 +20,7 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_1997-98_round2__Q01|Quesito 1]] — Railway ticket office; pigeonhole argument on passenger numbers
-- [[src_bmo_1997-98_round2__Q02|Quesito 2]] — Triangle ABC with isosceles sub-triangle and equilateral point; prove circumcircles touch
-- [[src_bmo_1997-98_round2__Q03|Quesito 3]] — Positive integers with reciprocal equation; prove hcf times sum is perfect square
-- [[src_bmo_1997-98_round2__Q04|Quesito 4]] — Simultaneous symmetric equations in positive reals; find and prove uniqueness of solution
+- [[src_bmo_1997-98_round2__Q01|Quesito 1]] — Pigeonhole on ticket sales to many destinations
+- [[src_bmo_1997-98_round2__Q02|Quesito 2]] — Two circumcircles of a configuration touch
+- [[src_bmo_1997-98_round2__Q03|Quesito 3]] — Reciprocal equation: hxyz and h(y-x) are perfect squares
+- [[src_bmo_1997-98_round2__Q04|Quesito 4]] — Symmetric system: find unique positive solution

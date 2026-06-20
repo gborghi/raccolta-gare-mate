@@ -20,8 +20,8 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_1997-98_round1__Q01|Quesito 1]] — 5×5 Latin square; show sum of entries below main diagonal is 20
-- [[src_bmo_1997-98_round1__Q02|Quesito 2]] — Floor-sqrt recurrence sequence; find first term divisible by 87
-- [[src_bmo_1997-98_round1__Q03|Quesito 3]] — Parallelogram ABCD; PC meets diagonal; show M is midpoint of DA
-- [[src_bmo_1997-98_round1__Q04|Quesito 4]] — Show unique sequence of positive integers satisfying given recurrence and divisibility
-- [[src_bmo_1997-98_round1__Q05|Quesito 5]] — Point D on arc BC; prove midpoint and angle sum conditions
+- [[src_bmo_1997-98_round1__Q01|Quesito 1]] — 5x5 grid filled like Latin square; analyze score below diagonal
+- [[src_bmo_1997-98_round1__Q02|Quesito 2]] — Mod-100 Fibonacci-like sequence; sum of squares mod 8
+- [[src_bmo_1997-98_round1__Q03|Quesito 3]] — Isosceles triangle, parallelogram; prove M is midpoint of DA
+- [[src_bmo_1997-98_round1__Q04|Quesito 4]] — Show unique positive-integer sequence satisfies given recurrence
+- [[src_bmo_1997-98_round1__Q05|Quesito 5]] — Triangle with midpoint and trisection point; find angle BAC

@@ -9,17 +9,17 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: Polynomials of degree 5 with distinct integer roots from a set
-qa_score: '2'
+summary: Count degree-5 polynomials divisible by x^2-x+1
+qa_score: '5'
 topics:
   - topic_algebra
   - topic_combinatoria
 methods:
-  - method_conteggio
   - method_casework
+  - method_conteggio
 skills:
+  - skill_manipolazione_algebrica
   - skill_conteggio_sistematico
-  - skill_riconoscimento_pattern
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -29,19 +29,16 @@ tags:
   - topic/algebra
   - topic/combinatoria
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1996-97 — Round 2 — Quesito 3
 
-*Polynomials of degree 5 with distinct integer roots from a set*
+*Count degree-5 polynomials divisible by x^2-x+1*
 
-> Find the number of polynomials of degree $5$ with distinct coefficients from the set $\{1, 2, 3, 4, 5, 6, 7, 8\}$.
+> Find the number of polynomials of degree $5$ with $\textbf{distinct}$ coefficients from the set $\{1, 2, 3, 4, 5, 6, 7, 8\}$ that are divisible by $x^2 - x + 1$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

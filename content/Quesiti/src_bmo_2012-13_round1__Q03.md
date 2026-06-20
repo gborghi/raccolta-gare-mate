@@ -9,41 +9,36 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: Find all integers satisfying two simultaneous equations
-qa_score: '2'
+summary: Find reals satisfying three simultaneous quadratic equations
+qa_score: '5'
+answer: 'x=1,\ y=2,\ z=3'
 topics:
-  - topic_aritmetica
   - topic_algebra
+  - topic_disuguaglianze
 methods:
-  - method_casework
-  - method_congruenze
   - method_fattorizzazione
 skills:
   - skill_manipolazione_algebrica
-  - skill_conteggio_sistematico
 tags:
   - kg/quesito
   - paese/regno-unito
   - comp/bmo
   - anno/2012
   - livello/BMO-Round-1
-  - topic/aritmetica
   - topic/algebra
+  - topic/disuguaglianze
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2012-13 — Round 1 — Quesito 3
 
-*Find all integers satisfying two simultaneous equations*
+*Find reals satisfying three simultaneous quadratic equations*
 
-> Find all integer solutions $x$, $y$, $z$ to the simultaneous equations
-> $$x^2 + y^2 = 0 \quad \text{and} \quad z^2 - 2x - 7 = 0.$$
+> Find all real numbers $x$, $y$ and $z$ which satisfy the simultaneous equations $x^2 - 4y + 7 = 0$, $y^2 - 6z + 14 = 0$ and $z^2 - 2x - 7 = 0$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** x=1,\ y=2,\ z=3
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

@@ -9,8 +9,8 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '6'
-summary: Ratio of boys to girls from probability of pupil agreeing with teacher
-qa_score: '2'
+summary: Ratio of boys to girls from probability of agreeing with teacher
+qa_score: '3'
 topics:
   - topic_probabilita
   - topic_algebra
@@ -29,14 +29,13 @@ tags:
   - topic/probabilita
   - topic/algebra
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1972-73 — Round 1 — Quesito 6
 
-*Ratio of boys to girls from probability of pupil agreeing with teacher*
+*Ratio of boys to girls from probability of agreeing with teacher*
 
-> In answering general knowledge questions (answered yes or no) the teacher's probability of being correct is $\frac{3}{4}$ irrespective of the pupil's probability of being correct; the pupil's probability of being correct is $p$ or $r$ according as the pupil is a boy or a girl.
+> In answering general knowledge questions (framed so that each question is answered yes or no) the teacher's probability of being correct is $a$ and a pupil's probability of being correct is $b$ or $c$ according as the pupil is a boy or a girl.
 > 
 > The probability of a randomly chosen pupil agreeing with the teacher's answer is $\frac{1}{2}$.
 > 
@@ -47,5 +46,3 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

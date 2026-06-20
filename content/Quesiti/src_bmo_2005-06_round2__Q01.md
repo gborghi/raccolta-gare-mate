@@ -9,15 +9,16 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '1'
-summary: 'Find minimum value of x^4+y^4 for real x,y satisfying given condition'
-qa_score: '2'
+summary: Minimize x^2+y^2 under a polynomial constraint
+qa_score: '5'
+answer: '4'
 topics:
   - topic_algebra
   - topic_disuguaglianze
 methods:
   - method_disuguaglianze
+  - method_trigonometria
   - method_estremalita
-  - method_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_stima
@@ -30,21 +31,18 @@ tags:
   - topic/algebra
   - topic/disuguaglianze
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2005-06 — Round 2 — Quesito 1
 
-*Find minimum value of x^4+y^4 for real x,y satisfying given condition*
+*Minimize x^2+y^2 under a polynomial constraint*
 
-> Find the minimum possible value of $x^4 + y^4$ given that $x$ and $y$ are real numbers satisfying
-> $$p(p^2 - 1) = q(q^2 - 1)$$
-> for some non-negative integers $p$ and $q$ with $p \neq q$, and $x \neq 0$.
+> Find the minimum possible value of $x^2 + y^2$ given that $x$ and $y$ are real numbers satisfying
+> $$xy(x^2 - y^2) = x^2 + y^2 \text{ and } x \neq 0.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
+**Risposta:** 4
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

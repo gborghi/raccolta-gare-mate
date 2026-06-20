@@ -9,7 +9,7 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: Multiple of 17 in base 2 with exactly three 1s has at least six 0s
+summary: 'Multiple of 3 in base 2 with three 1s: digit counts in base 4'
 qa_score: '2'
 topics:
   - topic_aritmetica
@@ -33,9 +33,9 @@ tags:
 
 # British Mathematical Olympiad 1981-82 — Round 1 — Quesito 2
 
-*Multiple of 17 in base 2 with exactly three 1s has at least six 0s*
+*Multiple of 3 in base 2 with three 1s: digit counts in base 4*
 
-> A multiple of 17 when written in the scale of 2 contains exactly three digits 1. Prove that it contains at least six digits 0, and that if it contains exactly seven digits 0, then 11 is even.
+> A multiple of $3$ when written in the scale of $2$ contains exactly three digits $1$. Prove that it contains at least six digits when written in the scale of $4$, and that if it contains exactly seven digits in this scale, then it is even.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]

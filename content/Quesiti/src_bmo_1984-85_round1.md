@@ -20,9 +20,9 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_1984-85_round1__Q01|Quesito 1]] — Two circles tangent to line at same point; prove angle bisector and area ratio
-- [[src_bmo_1984-85_round1__Q02|Quesito 2]] — Prove not all of a(1-b), b(1-c), c(1-a) exceed 1/4
-- [[src_bmo_1984-85_round1__Q03|Quesito 3]] — Prove binomial sum identity: sum of products of binomial coefficients
-- [[src_bmo_1984-85_round1__Q04|Quesito 4]] — Sequence defined by recurrence; find all a >= 2 with a_{n+1} > a_n^2 / 3
-- [[src_bmo_1984-85_round1__Q05|Quesito 5]] — Cylinder rolling inside hollow cylinder; find locus of centre of circular end
-- [[src_bmo_1984-85_round1__Q06|Quesito 6]] — Show x^2 + y^2 + z^2 = a has infinitely many positive integer solutions for a > 1
+- [[src_bmo_1984-85_round1__Q01|Quesito 1]] — Two circles tangent to a line, prove bisection and area ratio
+- [[src_bmo_1984-85_round1__Q02|Quesito 2]] — For a,b,c in (0,1), not all of a(1-b),b(1-c),c(1-a) exceed 1/4
+- [[src_bmo_1984-85_round1__Q03|Quesito 3]] — Prove a binomial coefficient summation identity
+- [[src_bmo_1984-85_round1__Q04|Quesito 4]] — Recurrence sequence: prove f_k f_{k+1} equals some term
+- [[src_bmo_1984-85_round1__Q05|Quesito 5]] — Locus of centre of a cylinder rim resting on a fixed hoop
+- [[src_bmo_1984-85_round1__Q06|Quesito 6]] — Equation x^2+y^2=z^5+z has infinitely many coprime positive solutions

@@ -9,15 +9,15 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: Triangle ABC midpoint D; prove angle and similarity results in three parts
-qa_score: '2'
+summary: Identify triangle ACX given angle and midpoint/trisection conditions
+qa_score: '3'
 topics:
   - topic_geometria_piana
+  - topic_trigonometria
 methods:
-  - method_simmetria
+  - method_trigonometria
 skills:
   - skill_ragionamento_geometrico
-  - skill_manipolazione_algebrica
   - skill_lettura_attenta
 tags:
   - kg/quesito
@@ -26,26 +26,20 @@ tags:
   - anno/1994
   - livello/BMO-Round-1
   - topic/geometria_piana
+  - topic/trigonometria
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1993-94 — Round 1 — Quesito 2
 
-*Triangle ABC midpoint D; prove angle and similarity results in three parts*
+*Identify triangle ACX given angle and midpoint/trisection conditions*
 
-> In triangle $ABC$, $D$ is the midpoint of $BC$.
-> 
-> (i) Suppose that $\angle BAC = 90^\circ$. Prove that $DA = DC$ (and hence that triangle $ABC$ has a circumscribed circle with centre $D$, and that $\angle DAX = \angle ABC$ where $AX$ is perpendicular to $BC$).
-> 
-> (ii) Suppose that $\angle DAB = \angle ABC$. Prove that triangle $ABD$ is similar to triangle $ACB$ (and hence that $AB^2 = BD \cdot BC$).
-> 
-> (iii) Suppose that $\angle BAC = 90^\circ$ and that $AX$ bisects angle $\angle BAC$. Prove that triangle $AXC$ has area equal to one third the area of triangle $ABC$. What can you say (and prove) about triangle $AXB$?
+> In triangle $ABC$ the point $X$ lies on $BC$.
+> (i) Suppose that $\angle BAC = 90^\circ$, that $X$ is the midpoint of $BC$, and that $\angle BAX$ is one third of $\angle BAC$. What can you say (and prove!) about triangle $ACX$?
+> (ii) Suppose that $\angle BAC = 60^\circ$, that $X$ lies one third of the way from $B$ to $C$, and that $AX$ bisects $\angle BAC$. What can you say (and prove!) about triangle $ACX$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

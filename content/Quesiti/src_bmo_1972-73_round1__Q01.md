@@ -9,10 +9,8 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '1'
-summary: >-
-  Variable circle touches two fixed circles; PQ through a fixed point; conic
-  generalisation
-qa_score: '2'
+summary: Variable circle touching two fixed circles; PQ through fixed point
+qa_score: '3'
 topics:
   - topic_geometria_piana
 methods:
@@ -28,12 +26,11 @@ tags:
   - livello/BMO-Round-1
   - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1972-73 — Round 1 — Quesito 1
 
-*Variable circle touches two fixed circles; PQ through a fixed point; conic generalisation*
+*Variable circle touching two fixed circles; PQ through fixed point*
 
 > (i) Two fixed circles are touched by a variable circle at $P$ and $Q$.
 > 
@@ -46,5 +43,3 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

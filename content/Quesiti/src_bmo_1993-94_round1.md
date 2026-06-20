@@ -20,8 +20,8 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_1993-94_round1__Q01|Quesito 1]] — f(n)=digit-sum+digit-product; find f(625) and all n with f(n)=n/f(n)
-- [[src_bmo_1993-94_round1__Q02|Quesito 2]] — Triangle ABC midpoint D; prove angle and similarity results in three parts
-- [[src_bmo_1993-94_round1__Q03|Quesito 3]] — Sequence a_{n+1}=a_n+f(a_n) with k fixed; find all a_1 when k=2000
-- [[src_bmo_1993-94_round1__Q04|Quesito 4]] — Circle with tangents from P and point S on arc; prove angle equality
-- [[src_bmo_1993-94_round1__Q05|Quesito 5]] — Alternating integer sequences from {1,...,n}; prove A(1)=1, A(2)=2 and find n
+- [[src_bmo_1993-94_round1__Q01|Quesito 1]] — Three-digit number ratio n/f(n) where f sums digits, pair products, full product
+- [[src_bmo_1993-94_round1__Q02|Quesito 2]] — Identify triangle ACX given angle and midpoint/trisection conditions
+- [[src_bmo_1993-94_round1__Q03|Quesito 3]] — Integer recurrence u_{n+1}u_{n-1}=k u_n; find all k given u_2000=2000
+- [[src_bmo_1993-94_round1__Q04|Quesito 4]] — Tangent circle and circumcircle configuration; prove angle PAR equals angle ABC
+- [[src_bmo_1993-94_round1__Q05|Quesito 5]] — Count alternating increasing sequences from {1,...,n}; find A(20)

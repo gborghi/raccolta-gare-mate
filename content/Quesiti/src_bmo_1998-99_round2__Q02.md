@@ -9,13 +9,13 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: Prove three lines through hexagon midpoints are concurrent
-qa_score: '2'
+summary: Prove a product relation in a hexagon with parallel sides
+qa_score: '5'
 topics:
   - topic_geometria_piana
 methods:
-  - method_coordinate
   - method_trigonometria
+  - method_simmetria
 skills:
   - skill_ragionamento_geometrico
   - skill_manipolazione_algebrica
@@ -27,19 +27,17 @@ tags:
   - livello/BMO-Round-2
   - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1998-99 — Round 2 — Quesito 2
 
-*Prove three lines through hexagon midpoints are concurrent*
+*Prove a product relation in a hexagon with parallel sides*
 
-> Let $ABCDEF$ be a hexagon (which is not necessarily regular), with opposite sides $AB, CD, EF$ at the midpoints $P, Q, R$ respectively. Let $X, Y, Z$ be the points of contact of $\triangle PQR$ at its sides. Prove that $PY, QZ, RX$ are concurrent.
+> Let $ABCDEF$ be a hexagon (which may not be regular), which has $AB$ parallel to $ED$, $BC$ parallel to $FE$ and $CD$ parallel to $AF$. Prove that
+> $$AD \cdot BC \cdot CE = CA \cdot EF \cdot FD.$$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

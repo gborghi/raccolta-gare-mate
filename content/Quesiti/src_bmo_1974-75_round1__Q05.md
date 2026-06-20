@@ -9,45 +9,40 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '5'
-summary: Find all positive integers n for which lim of g(n)/f(n) = 1/2
-qa_score: '2'
+summary: Find a so the limit of g(a)/f(a) equals 1/2
+qa_score: '4'
 topics:
-  - topic_algebra
   - topic_trigonometria
+  - topic_algebra
 methods:
-  - method_telescoping
-  - method_casework
+  - method_trigonometria
 skills:
   - skill_manipolazione_algebrica
   - skill_riconoscimento_pattern
-  - skill_lettura_attenta
 tags:
   - kg/quesito
   - paese/regno-unito
   - comp/bmo
   - anno/1974
   - livello/BMO-Round-1
-  - topic/algebra
   - topic/trigonometria
+  - topic/algebra
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1974-75 — Round 1 — Quesito 5
 
-*Find all positive integers n for which lim of g(n)/f(n) = 1/2*
+*Find a so the limit of g(a)/f(a) equals 1/2*
 
-> For any positive integer $n$ you are given that
-> $$1 + \left[\frac{2n}{1}\right]\cos\theta + \left[\frac{2n}{2}\right]\cos 2\theta + \cdots + \left[\frac{2n}{n}\right]\cos n\theta = (2\cos\theta)^{2n}$$
-> where there are $2n+1$ terms on the left hand side. Both these expressions are defined to be $f(n)$. The function $g(n)$ is defined by
-> $$g(n) = 1 + \binom{2n}{2}\cos 2\theta + \binom{2n}{4}\cos 4\theta + \cdots + \binom{2n}{2n}\cos 2n\theta.$$
-> Given that there is no rational $k$ for which $a = k\pi$ find the values of $n$ for which
-> $$\lim_{n \to \infty} \frac{g(n)}{f(n)} = \frac{1}{2}.$$
+> For any positive integer $m$ you are given that
+> $$1 + \binom{2m}{1}\cos\theta + \binom{2m}{2}\cos 2\theta + \ldots + \cos 2m\theta = \left(2\cos\tfrac{1}{2}\theta\right)^{2m}\cos m\theta$$
+> where there are $2m+1$ terms on the left hand side. The function $f(\theta)$ is defined by either of these expressions. The function $g(\theta)$ is defined by
+> $$g(\theta) = 1 + \binom{2m}{1}\cos 2\theta + \binom{2m}{2}\cos 4\theta + \ldots + \cos 2m\theta.$$
+> Given that there is no rational $k$ for which $a = k\pi$ find the values of $a$ for which
+> $$\lim_{m \to \infty} \frac{g(a)}{f(a)} = \frac{1}{2}.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_telescoping|Telescoping]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

@@ -10,7 +10,7 @@ country: Regno Unito
 modalita: individuale
 quesito: '2'
 summary: 'Find integer with 2004 zeros and 2004 ones in binary, divisible by 2004'
-qa_score: '2'
+qa_score: '5'
 topics:
   - topic_aritmetica
   - topic_combinatoria
@@ -29,7 +29,6 @@ tags:
   - topic/aritmetica
   - topic/combinatoria
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2003-04 — Round 2 — Quesito 2
@@ -37,7 +36,7 @@ tags:
 *Find integer with 2004 zeros and 2004 ones in binary, divisible by 2004*
 
 > Show that there is an integer $n$ with the following properties:
-> (i) the binary representation of $n$ has precisely $2004$ $0$s and $2004$ $1$s;
+> (i) the binary expansion of $n$ has precisely $2004$ $0$s and $2004$ $1$s;
 > (ii) $2004$ divides $n$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -45,5 +44,3 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

@@ -9,12 +9,13 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '1'
-summary: Railway ticket office; pigeonhole argument on passenger numbers
-qa_score: '2'
+summary: Pigeonhole on ticket sales to many destinations
+qa_score: '5'
 topics:
   - topic_combinatoria
 methods:
   - method_cassetti
+  - method_conteggio
 skills:
   - skill_conteggio_sistematico
   - skill_lettura_attenta
@@ -26,21 +27,18 @@ tags:
   - livello/BMO-Round-2
   - topic/combinatoria
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1997-98 — Round 2 — Quesito 1
 
-*Railway ticket office; pigeonhole argument on passenger numbers*
+*Pigeonhole on ticket sales to many destinations*
 
-> A booking office at a railway station sells tickets to 200 destinations. Show that
-> (i) there are (at least) 6 destinations at which the passenger numbers are the same;
-> (ii) the condition (i) becomes false if '6' is replaced by '7'.
+> A booking office at a railway station sells tickets to 200 destinations. One day, tickets were issued to 3800 passengers. Show that
+> (i) there are (at least) 6 destinations at which the passenger arrival numbers are the same;
+> (ii) the statement becomes false if '6' is replaced by '7'.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

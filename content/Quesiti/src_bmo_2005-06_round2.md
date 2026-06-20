@@ -20,7 +20,7 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_2005-06_round2__Q01|Quesito 1]] — Find minimum value of x^4+y^4 for real x,y satisfying given condition
-- [[src_bmo_2005-06_round2__Q02|Quesito 2]] — Positive integers with no prime factor >5, x-y is prime >5
-- [[src_bmo_2005-06_round2__Q03|Quesito 3]] — Triangle ABC, perpendicular from N to BC at Y, prove angle sum
-- [[src_bmo_2005-06_round2__Q04|Quesito 4]] — Exam 6 questions, 2006 children, any 3 children answer >=5 correctly, find min N
+- [[src_bmo_2005-06_round2__Q01|Quesito 1]] — Minimize x^2+y^2 under a polynomial constraint
+- [[src_bmo_2005-06_round2__Q02|Quesito 2]] — Integers with prime factors at most 5 with x^2-y^2=2^k
+- [[src_bmo_2005-06_round2__Q03|Quesito 3]] — Triangle, points on sides, line meets perpendicular bisector; angle relation
+- [[src_bmo_2005-06_round2__Q04|Quesito 4]] — Exam with 2006 children; minimize total right answers

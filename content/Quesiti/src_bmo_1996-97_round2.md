@@ -20,7 +20,7 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_1996-97_round2__Q01|Quesito 1]] — 9-digit integers M, N; digit replacement divisible by 7; find d or prove
-- [[src_bmo_1996-97_round2__Q02|Quesito 2]] — Acute triangle with equal altitude and median, equal angles; prove equilateral
-- [[src_bmo_1996-97_round2__Q03|Quesito 3]] — Polynomials of degree 5 with distinct integer roots from a set
-- [[src_bmo_1996-97_round2__Q04|Quesito 4]] — Set S of reciprocals; find maximal arithmetic progressions in S of length 5
+- [[src_bmo_1996-97_round2__Q01|Quesito 1]] — Divisibility by 7 preserved under digit swaps between two integers
+- [[src_bmo_1996-97_round2__Q02|Quesito 2]] — Triangle with equal median and altitude is equilateral
+- [[src_bmo_1996-97_round2__Q03|Quesito 3]] — Count degree-5 polynomials divisible by x^2-x+1
+- [[src_bmo_1996-97_round2__Q04|Quesito 4]] — Maximal arithmetic progressions of unit-fraction reciprocals

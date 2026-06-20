@@ -129,6 +129,13 @@ async function main() {
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(quesiti))
 
+  // copy attachments so ![[img]] embeds render on the published site too
+  try {
+    await fs.cp(path.join(VAULT, "_attachments"), path.join(CONTENT, "_attachments"), { recursive: true })
+  } catch (e) {
+    console.log("attachments copy skipped:", e.message)
+  }
+
   // Homepage
   const home = `---
 title: Raccolta Gare di Matematica

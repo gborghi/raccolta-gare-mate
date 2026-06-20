@@ -20,7 +20,7 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_1998-99_round2__Q01|Quesito 1]] — Partition {1,...,n} into two or three parts with equal sums
-- [[src_bmo_1998-99_round2__Q02|Quesito 2]] — Prove three lines through hexagon midpoints are concurrent
-- [[src_bmo_1998-99_round2__Q03|Quesito 3]] — Prove inequality for non-negative reals summing to 1
+- [[src_bmo_1998-99_round2__Q01|Quesito 1]] — Partition first n naturals into 2 or 3 equal-sum subsets
+- [[src_bmo_1998-99_round2__Q02|Quesito 2]] — Prove a product relation in a hexagon with parallel sides
+- [[src_bmo_1998-99_round2__Q03|Quesito 3]] — Prove symmetric inequality for non-negative reals summing to 1
 - [[src_bmo_1998-99_round2__Q04|Quesito 4]] — Digit sums of numbers of the form 3n^2+n+1

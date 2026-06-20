@@ -9,7 +9,7 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: 'Rhian and Jack game starting from 10^6: determine when game ends'
+summary: Game replacing n by |a-b| starting at 10^6
 qa_score: '2'
 topics:
   - topic_combinatoria
@@ -17,11 +17,9 @@ topics:
 methods:
   - method_invarianti
   - method_backward
-  - method_ricorsione
 skills:
   - skill_riconoscimento_pattern
-  - skill_modellizzazione
-  - skill_ragionamento_geometrico
+  - skill_astrazione
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -36,15 +34,15 @@ tags:
 
 # British Mathematical Olympiad 2024-25 — Round 1 — Quesito 3
 
-*Rhian and Jack game starting from 10^6: determine when game ends*
+*Game replacing n by |a-b| starting at 10^6*
 
-> Rhian and Jack are playing a game in which initially the number $10^6$ is written on a blackboard. If the number on the blackboard consists of two different positive integers $a, b$ such that $a = ab$ and replacing $a$ with $|a - b|$. Rhian starts, then the players make moves alternately. A player loses if they are unable to move.
+> Rhian and Jack are playing a game in which initially the number $10^6$ is written on a blackboard. If the number $n$ on the blackboard can be written as $a + b$ for two different positive integers $a$ and $b$, a move consists of choosing such $a$ and $b$ and replacing $n$ with $|a - b|$. Rhian starts, then the players make moves alternately. A player who is unable to move loses.
 > 
-> Determine, with proof, after how many moves the game ends.
+> Determine, with proof, who wins the game.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF
 

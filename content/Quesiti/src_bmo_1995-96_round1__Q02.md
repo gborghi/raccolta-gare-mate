@@ -9,8 +9,8 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: Compute f(1996) given a recursive sum condition with f(1)=1996
-qa_score: '2'
+summary: Compute f(1996) given f(1)=1996 and a recursive sum condition
+qa_score: '4'
 topics:
   - topic_algebra
   - topic_aritmetica
@@ -29,14 +29,13 @@ tags:
   - topic/algebra
   - topic/aritmetica
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1995-96 — Round 1 — Quesito 2
 
-*Compute f(1996) given a recursive sum condition with f(1)=1996*
+*Compute f(1996) given f(1)=1996 and a recursive sum condition*
 
-> A function $f$ is defined on the set of all positive integers and satisfies
+> A function $f$ is defined over the set of all positive integers and satisfies
 > $$f(1) = 1996$$
 > and
 > $$f(1) + f(2) + \cdots + f(n) = n^2\, f(n) \quad \text{for all } n > 1.$$
@@ -47,5 +46,3 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

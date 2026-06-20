@@ -9,17 +9,15 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: 'Prove inequality n(n+1)^{1/n} < a < b for m >= 2'
+summary: Prove an identity for the harmonic-type sum s_n
 qa_score: '2'
 topics:
   - topic_algebra
-  - topic_disuguaglianze
 methods:
   - method_induzione
-  - method_disuguaglianze
+  - method_telescoping
 skills:
   - skill_manipolazione_algebrica
-  - skill_ragionamento_geometrico
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -27,22 +25,21 @@ tags:
   - anno/1981
   - livello/BMO-Round-1
   - topic/algebra
-  - topic/disuguaglianze
   - gara/individuale
   - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1981-82 — Round 1 — Quesito 3
 
-*Prove inequality n(n+1)^{1/n} < a < b for m >= 2*
+*Prove an identity for the harmonic-type sum s_n*
 
-> If $\frac{1}{n(n+1)} < a < \frac{1}{n}$ and $m \geq 2$, prove that
-> $$n(m+1)^{1/n} < a < b_n$$
-> and $m \geq 2$.
+> If $s_n = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \cdots + \frac{1}{n}$ for $n > 2$, prove that
+> $$n(s_n)^x = n + (n-1)s_1 + (n-2)s_2 + \cdots + 2s_{n-2} + s_{n-1},$$
+> where $x$ and $b$ are given in terms of $n$ by $a = s_n - 1$, $b(s_n - 1) = -1$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF
 

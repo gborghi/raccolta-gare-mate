@@ -9,44 +9,38 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '4'
-summary: >-
-  Sequences of positive integers with recurrence; characterise integer values at
-  position k
-qa_score: '2'
+summary: Count possible values of a_2017 for sequence with given recurrence
+qa_score: '5'
 topics:
-  - topic_aritmetica
   - topic_algebra
+  - topic_aritmetica
 methods:
-  - method_induzione
-  - method_congruenze
   - method_ricorsione
+  - method_induzione
 skills:
-  - skill_riconoscimento_pattern
   - skill_manipolazione_algebrica
+  - skill_riconoscimento_pattern
 tags:
   - kg/quesito
   - paese/regno-unito
   - comp/bmo
   - anno/2017
   - livello/BMO-Round-1
-  - topic/aritmetica
   - topic/algebra
+  - topic/aritmetica
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2017-18 — Round 1 — Quesito 4
 
-*Sequences of positive integers with recurrence; characterise integer values at position k*
+*Count possible values of a_2017 for sequence with given recurrence*
 
-> Consider sequences $a_1, a_2, a_3, \ldots$ of positive integers such that $a_1 = a_2 = 1$ and
-> $$a_{n+2} = a_{n+1} + a_n$$
-> for each positive integer $n$. Find all positive integers $k$ such that $a_k$ is a perfect square.
+> Consider sequences $a_1, a_2, a_3, \ldots$ of positive real numbers with $a_1 = 1$ and such that
+> $$a_{n+1} + a_n = (a_{n+1} - a_n)^2$$
+> for each positive integer $n$. How many possible values can $a_{2017}$ take?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

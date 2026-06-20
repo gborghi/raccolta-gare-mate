@@ -9,44 +9,38 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: 'Sequence a_{n+1}=a_n+f(a_n) with k fixed; find all a_1 when k=2000'
-qa_score: '2'
+summary: 'Integer recurrence u_{n+1}u_{n-1}=k u_n; find all k given u_2000=2000'
+qa_score: '3'
 topics:
-  - topic_aritmetica
   - topic_algebra
+  - topic_aritmetica
 methods:
-  - method_casework
-  - method_induzione
+  - method_ricorsione
+  - method_fattorizzazione
 skills:
-  - skill_riconoscimento_pattern
   - skill_manipolazione_algebrica
-  - skill_conteggio_sistematico
+  - skill_riconoscimento_pattern
 tags:
   - kg/quesito
   - paese/regno-unito
   - comp/bmo
   - anno/1994
   - livello/BMO-Round-1
-  - topic/aritmetica
   - topic/algebra
+  - topic/aritmetica
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1993-94 — Round 1 — Quesito 3
 
-*Sequence a_{n+1}=a_n+f(a_n) with k fixed; find all a_1 when k=2000*
+*Integer recurrence u_{n+1}u_{n-1}=k u_n; find all k given u_2000=2000*
 
-> The sequence of positive integers $a_1, a_2, a_3, \ldots$ satisfies
-> $$a_{n+1} = a_n + f(a_n)$$
-> for each $n \ge 1$, where $k$ is a fixed positive integer and $f(a_n)$ denotes the largest power of some prime that divides $a_n$.
-> 
-> Find all possible values of $a_1$ when $k = 2000$.
+> The sequence of integers $u_0, u_1, u_2, u_3, \ldots$ satisfies $u_0 = 1$ and
+> $$u_{n+1}u_{n-1} = ku_n \quad \text{for each} \quad n \ge 1,$$
+> where $k$ is some fixed positive integer. If $u_{2000} = 2000$, determine all possible values of $k$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

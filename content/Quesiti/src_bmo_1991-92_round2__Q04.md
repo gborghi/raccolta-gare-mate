@@ -9,16 +9,17 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '4'
-summary: 'Dwarf friendship network: prove F_a, F_b, F_c all even or all odd'
-qa_score: '2'
+summary: 'Dwarf visiting graph: parity of destroyed friendships all even or all odd'
+qa_score: '5'
 topics:
   - topic_combinatoria
 methods:
   - method_invarianti
   - method_grafi
+  - method_casework
 skills:
-  - skill_ragionamento_geometrico
-  - skill_riconoscimento_pattern
+  - skill_modellizzazione
+  - skill_astrazione
   - skill_lettura_attenta
 tags:
   - kg/quesito
@@ -28,21 +29,30 @@ tags:
   - livello/BMO-Round-2
   - topic/combinatoria
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1991-92 — Round 2 — Quesito 4
 
-*Dwarf friendship network: prove F_a, F_b, F_c all even or all odd*
+*Dwarf visiting graph: parity of destroyed friendships all even or all odd*
 
-> In the Land Under the Mountain, dwarves form a community with a friendship relation. Two dwarves may visit each other only if they are acquainted, and must remain on the doorstep; dwarves may share each other's threshold and a cup of tea. For every pair $A$, $B$ of dwarves, $A$ is linked by a chain of acquaintances to $B$.
+> Dwarfish social life in the Land Under the Mountain is based on 'visiting' which has its own dwarfish rules. Two dwarves may visit each other only if they are acquainted, but there are three levels of friendship.
 > 
-> For each dwarf $n$, let $F_n$ denote the number of friendships of dwarf $n$. Prove that $F_a$, $F_b$, $F_c$ are either all even or all odd.
+> Doorstep friends may visit each other and talk for as long as they like, but must remain on the doorstep, never crossing the threshold.
+> 
+> Tea friends may cross each others' threshold, and even share a cup of tea, but must never stay for supper.
+> 
+> Supper friends may visit each other and stay as long as they like, sharing ale, supper and a fireside chat.
+> 
+> Each dwarf has exactly one friend of each kind, and the community is structured so that every pair $A, B$ of dwarves is linked by a chain of acquaintances of various kinds so that $A$ knows someone, who knows someone, who knows someone, ..., who knows $B$.
+> 
+> (i) Prove that the number of dwarves must be an even number exceeding 2, and that, corresponding to each even $n > 2$, there may be such a community of $n$ dwarves.
+> 
+> (ii) The evil dwarves want to isolate one group of dwarves from the rest of the community. To do this they must destroy some set of friendships. Suppose that they were to succeed in this by destroying
+> $$F_d \text{ doorstep friendships}, \quad F_t \text{ tea friendships}, \quad F_s \text{ supper friendships},$$
+> and that all of these friendships must be destroyed to isolate that group. Prove that $F_d, F_t, F_s$ would have to be either all even or all odd.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

@@ -9,9 +9,7 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '4'
-summary: >-
-  Acute triangle: midpoint M of BC, P on AM with AB=CP, angle equality, prove
-  angle CPB=BCP
+summary: 'Acute triangle, P on median AM with AB=CP, prove angle CPB=90'
 qa_score: '2'
 topics:
   - topic_geometria_piana
@@ -21,7 +19,6 @@ methods:
 skills:
   - skill_ragionamento_geometrico
   - skill_manipolazione_algebrica
-  - skill_lettura_attenta
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -35,15 +32,15 @@ tags:
 
 # British Mathematical Olympiad 2024-25 — Round 1 — Quesito 4
 
-*Acute triangle: midpoint M of BC, P on AM with AB=CP, angle equality, prove angle CPB=BCP*
+*Acute triangle, P on median AM with AB=CP, prove angle CPB=90*
 
-> In the acute-angled triangle $ABC$ we have $AB < BC < AC$. The midpoint of $BC$ is $M$. There is a point $P$ on the line segment $AM$ such that $AB = CP$, and $\angle PAB = \angle BCP$.
+> In the acute-angled triangle $ABC$ we have $AB < AC < BC$. The midpoint of $BC$ is $M$. There is a point $P$ on the line segment $AM$ such that $AB = CP$, and $\angle PAB = \angle BCP$.
 > 
-> Prove that $\angle CPB = \angle BCP$.
+> Prove that $\angle CPB = 90^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
 

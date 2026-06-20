@@ -20,9 +20,9 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_2024-25_round1__Q01|Quesito 1]] — Find happy n in [3,12]: circle of n integers, neighbours divide each other
-- [[src_bmo_2024-25_round1__Q02|Quesito 2]] — Card trick with n cards: find n for which initial+final sum is always 0
-- [[src_bmo_2024-25_round1__Q03|Quesito 3]] — Rhian and Jack game starting from 10^6: determine when game ends
-- [[src_bmo_2024-25_round1__Q04|Quesito 4]] — Acute triangle: midpoint M of BC, P on AM with AB=CP, angle equality, prove angle CPB=BCP
-- [[src_bmo_2024-25_round1__Q05|Quesito 5]] — Prime p, smallest n>1 with p∤n: prove divisibility of (n+1)^k-1 and (n+1)^k-n by p
-- [[src_bmo_2024-25_round1__Q06|Quesito 6]] — 64 sugar cubes 4×4×4, three flavours: find 12 same-flavour cubes with equal pairwise distances
+- [[src_bmo_2024-25_round1__Q01|Quesito 1]] — Find which n in 3..12 admit a happy circle arrangement
+- [[src_bmo_2024-25_round1__Q02|Quesito 2]] — Cards in a circle, neighbour sums divisible by 3
+- [[src_bmo_2024-25_round1__Q03|Quesito 3]] — Game replacing n by |a-b| starting at 10^6
+- [[src_bmo_2024-25_round1__Q04|Quesito 4]] — Acute triangle, P on median AM with AB=CP, prove angle CPB=90
+- [[src_bmo_2024-25_round1__Q05|Quesito 5]] — Smallest n not dividing p; prove divisibility by p
+- [[src_bmo_2024-25_round1__Q06|Quesito 6]] — 4x4x4 cube of 3-flavour sugar cubes; find 12 same-flavour in 9 equal-distance pairs

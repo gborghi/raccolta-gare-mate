@@ -9,18 +9,16 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: Six friends each visit cinema on exactly 71 of 100 days; bound all-six days
-qa_score: '2'
+summary: Max and min number of days at least five of six friends swim
+qa_score: '5'
 topics:
   - topic_combinatoria
 methods:
-  - method_cassetti
-  - method_inclusione_esclusione
+  - method_doppio_conteggio
   - method_estremalita
 skills:
   - skill_conteggio_sistematico
-  - skill_modellizzazione
-  - skill_lettura_attenta
+  - skill_stima
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -29,19 +27,16 @@ tags:
   - livello/BMO-Round-1
   - topic/combinatoria
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2017-18 — Round 1 — Quesito 2
 
-*Six friends each visit cinema on exactly 71 of 100 days; bound all-six days*
+*Max and min number of days at least five of six friends swim*
 
-> In a 100-day period, each of six friends visits the cinema on exactly $71$ of the $100$ days. What are the greatest and smallest possible values of $n$, where $n$ is the number of days on which all six friends visit the cinema?
+> In a $100$-day period, each of six friends goes swimming on exactly $75$ days. There are $n$ days on which at least five of the friends swim. What are the largest and smallest possible values of $n$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

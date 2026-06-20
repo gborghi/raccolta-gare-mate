@@ -9,8 +9,8 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '1'
-summary: 'If n-1 and n+1 are both prime, prove n^5(n^2+16) divisible by 720'
-qa_score: '2'
+summary: Twin primes around n force divisibility by 720
+qa_score: '5'
 topics:
   - topic_aritmetica
 methods:
@@ -19,8 +19,7 @@ methods:
   - method_casework
 skills:
   - skill_manipolazione_algebrica
-  - skill_casework_accurato
-  - skill_lettura_attenta
+  - skill_riconoscimento_pattern
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -29,19 +28,16 @@ tags:
   - livello/BMO-Round-1
   - topic/aritmetica
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2005-06 — Round 1 — Quesito 1
 
-*If n-1 and n+1 are both prime, prove n^5(n^2+16) divisible by 720*
+*Twin primes around n force divisibility by 720*
 
-> Let $n$ be an integer greater than 1. Prove that if $n - 1$ and $n + 1$ are both prime, then $n^5(n^2 + 16)$ is divisible by 720. Is the converse true?
+> Let $n$ be an integer greater than $6$. Prove that if $n-1$ and $n+1$ are both prime, then $n^2(n^2+16)$ is divisible by $720$. Is the converse true?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

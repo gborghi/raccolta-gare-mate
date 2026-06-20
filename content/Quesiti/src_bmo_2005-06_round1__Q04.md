@@ -9,20 +9,17 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '4'
-summary: >-
-  Mouse on grid visits every cell once and returns: find all valid grid
-  dimensions
-qa_score: '2'
+summary: Longest non-repeating cell route in triangulated equilateral triangle
+qa_score: '5'
 topics:
   - topic_combinatoria
+  - topic_geometria_piana
 methods:
   - method_colorazione
-  - method_invarianti
-  - method_casework
+  - method_estremalita
 skills:
+  - skill_conteggio_sistematico
   - skill_ragionamento_geometrico
-  - skill_riconoscimento_pattern
-  - skill_modellizzazione
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -30,20 +27,20 @@ tags:
   - anno/2005
   - livello/BMO-Round-1
   - topic/combinatoria
+  - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2005-06 — Round 1 — Quesito 4
 
-*Mouse on grid visits every cell once and returns: find all valid grid dimensions*
+*Longest non-repeating cell route in triangulated equilateral triangle*
 
-> A continuous maze is drawn on a sheet of paper. The maze consists of a rectangle divided into unit squares by lines parallel to its sides. A mouse starts at one corner of the maze and always moves from one cell to an adjacent cell (sharing an edge). Find all pairs $(A, B)$ such that the mouse can visit every cell exactly once and return to the starting cell, where the rectangle has $A$ rows and $B$ columns of unit squares.
+> The equilateral triangle $ABC$ has sides of integer length $N$. The triangle is completely divided (by drawing lines parallel to the sides of the triangle) into equilateral triangular cells of side length $1$.
+> 
+> A continuous route is chosen, starting inside the cell with vertex $A$ and always crossing from one cell to another through an edge shared by the two cells. No cell is visited more than once. Find, with proof, the greatest number of cells which can be visited.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

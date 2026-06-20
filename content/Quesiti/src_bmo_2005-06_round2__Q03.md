@@ -9,16 +9,14 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: 'Triangle ABC, perpendicular from N to BC at Y, prove angle sum'
-qa_score: '2'
+summary: 'Triangle, points on sides, line meets perpendicular bisector; angle relation'
+qa_score: '5'
 topics:
   - topic_geometria_piana
 methods:
-  - method_trigonometria
-  - method_coordinate
+  - method_simmetria
 skills:
   - skill_ragionamento_geometrico
-  - skill_manipolazione_algebrica
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -27,20 +25,17 @@ tags:
   - livello/BMO-Round-2
   - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2005-06 — Round 2 — Quesito 3
 
-*Triangle ABC, perpendicular from N to BC at Y, prove angle sum*
+*Triangle, points on sides, line meets perpendicular bisector; angle relation*
 
-> Let $ABC$ be a triangle with $BC = a$, $CA = b$, $AB = c$. The point $N$ lies on the side $AB$ such that $AN = 1$. The perpendicular from $N$ to $BC$ meets $BC$ at the point $Y$. Show that
-> $$\angle BYC + \angle BAC = 180^\circ.$$
+> Let $ABC$ be a triangle with $AC > AB$. The point $X$ lies on the side $BA$ extended through $A$, and the point $Y$ lies on the side $CA$ in such a way that $BX = CA$ and $CY = BA$. The line $XY$ meets the perpendicular bisector of side $BC$ at $P$. Show that
+> $$\angle BPC + \angle BAC = 180^\circ.$$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

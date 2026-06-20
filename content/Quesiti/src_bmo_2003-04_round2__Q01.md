@@ -10,7 +10,7 @@ country: Regno Unito
 modalita: individuale
 quesito: '1'
 summary: Circle tangent to side of equilateral triangle; prove length equality
-qa_score: '2'
+qa_score: '5'
 topics:
   - topic_geometria_piana
 methods:
@@ -26,7 +26,6 @@ tags:
   - livello/BMO-Round-2
   - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2003-04 — Round 2 — Quesito 1
@@ -44,5 +43,3 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

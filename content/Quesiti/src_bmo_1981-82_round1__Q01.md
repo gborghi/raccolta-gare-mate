@@ -9,7 +9,7 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '1'
-summary: Quadrilateral with equal diagonal sums implies square with O at centre
+summary: Quadrilateral with given area relation is a square with O at centre
 qa_score: '2'
 topics:
   - topic_geometria_piana
@@ -31,11 +31,11 @@ tags:
 
 # British Mathematical Olympiad 1981-82 — Round 1 — Quesito 1
 
-*Quadrilateral with equal diagonal sums implies square with O at centre*
+*Quadrilateral with given area relation is a square with O at centre*
 
-> PQRS is a quadrilateral of area $A$. O is a point inside it. Prove that if
+> $PQRS$ is a quadrilateral of area $A$. $O$ is a point inside it. Prove that if
 > $$2A = OP^2 + OQ^2 + OR^2 + OS^2$$
-> then PQRS is a square and O is its centre.
+> then $PQRS$ is a square and $O$ is its centre.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]

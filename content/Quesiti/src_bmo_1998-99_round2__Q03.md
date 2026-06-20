@@ -9,13 +9,14 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: Prove inequality for non-negative reals summing to 1
-qa_score: '2'
+summary: Prove symmetric inequality for non-negative reals summing to 1
+qa_score: '5'
 topics:
   - topic_disuguaglianze
   - topic_algebra
 methods:
   - method_disuguaglianze
+  - method_simmetria
 skills:
   - skill_manipolazione_algebrica
   - skill_stima
@@ -28,20 +29,17 @@ tags:
   - topic/disuguaglianze
   - topic/algebra
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1998-99 — Round 2 — Quesito 3
 
-*Prove inequality for non-negative reals summing to 1*
+*Prove symmetric inequality for non-negative reals summing to 1*
 
 > Non-negative real numbers $p$, $q$ and $r$ satisfy $p + q + r = 1$. Prove that
-> $$7pq + r \le \frac{3}{4} + r.$$
+> $$7(pq + qr + rp) \le 2 + 9pqr.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

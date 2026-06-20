@@ -9,8 +9,10 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '4'
-summary: Circle with tangents from P and point S on arc; prove angle equality
-qa_score: '2'
+summary: >-
+  Tangent circle and circumcircle configuration; prove angle PAR equals angle
+  ABC
+qa_score: '3'
 topics:
   - topic_geometria_piana
 methods:
@@ -26,19 +28,16 @@ tags:
   - livello/BMO-Round-1
   - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1993-94 — Round 1 — Quesito 4
 
-*Circle with tangents from P and point S on arc; prove angle equality*
+*Tangent circle and circumcircle configuration; prove angle PAR equals angle ABC*
 
-> The points $Q$, $R$ lie on a circle $c$, and $P$ is a point such that $PQ$ and $PR$ are tangents to $c$. The circle $c$ cuts $AB$ at the points $C$ and $D$ (where $C$ is between $A$ and $B$). The circle also passes through a point $S$ on the arc $AB$ not containing $C$ and $D$. Prove that $\angle PAB = \angle ABC$.
+> The points $Q, R$ lie on the circle $\gamma$, and $P$ is a point such that $PQ, PR$ are tangents to $\gamma$. $A$ is a point on the extension of $PQ$, and $\gamma'$ is the circumcircle of triangle $PAR$. The circle $\gamma'$ cuts $\gamma$ again at $B$, and $AR$ cuts $\gamma$ at the point $C$. Prove that $\angle PAR = \angle ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

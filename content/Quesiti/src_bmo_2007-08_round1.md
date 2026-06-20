@@ -7,7 +7,7 @@ year: '2007'
 level: BMO Round 1
 country: Regno Unito
 modalita: individuale
-n_quesiti: '6'
+n_quesiti: '5'
 tags:
   - kg/gara
   - paese/regno-unito
@@ -20,9 +20,8 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_2007-08_round1__Q01|Quesito 1]] — Evaluate a fraction expression involving 2007 and 2008
-- [[src_bmo_2007-08_round1__Q02|Quesito 2]] — Find all positive integer triples satisfying two simultaneous equations
-- [[src_bmo_2007-08_round1__Q03|Quesito 3]] — Circumcircle point; feet of perpendiculars; prove angle bisector property
-- [[src_bmo_2007-08_round1__Q04|Quesito 4]] — Set of 256 integers from 1 to 2007; show two elements sum to multiple of 2007
-- [[src_bmo_2007-08_round1__Q05|Quesito 5]] — Interior point of triangle; parallel lines; minimise sum of parallelogram and trapezium areas
-- [[src_bmo_2007-08_round1__Q06|Quesito 6]] — Recurrence on positive integers; prove integer values and count solutions to f(n)=2n
+- [[src_bmo_2007-08_round1__Q01|Quesito 1]] — Evaluate a fraction of fourth and second powers
+- [[src_bmo_2007-08_round1__Q02|Quesito 2]] — Find positive integer solutions of two simultaneous equations
+- [[src_bmo_2007-08_round1__Q03|Quesito 3]] — Diameter and perpendiculars in a circle; prove LS = LT
+- [[src_bmo_2007-08_round1__Q04|Quesito 4]] — Show a given integer expression is a perfect square
+- [[src_bmo_2007-08_round1__Q05|Quesito 5]] — Interior point of triangle; prove a sine-ratio equality

@@ -9,15 +9,15 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: Adrian chooses secret integer ≤2008; deduce circle radius in ≤60 questions
-qa_score: '2'
+summary: Deduce integer-radius circle in at most sixty inside-point queries
+qa_score: '5'
 topics:
   - topic_combinatoria
   - topic_logica
+  - topic_geometria_analitica
 methods:
   - method_casework
   - method_backward
-  - method_induzione
 skills:
   - skill_ragionamento_geometrico
   - skill_conteggio_sistematico
@@ -30,22 +30,18 @@ tags:
   - livello/BMO-Round-2
   - topic/combinatoria
   - topic/logica
+  - topic/geometria_analitica
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2007-08 — Round 2 — Quesito 3
 
-*Adrian chooses secret integer ≤2008; deduce circle radius in ≤60 questions*
+*Deduce integer-radius circle in at most sixty inside-point queries*
 
-> Adrian has chosen a secret positive integer at most 2008. The origin has somewhere inside the circle. You are allowed to ask him questions of the form 'Is the point $(x, y)$ inside your circle?' At each question he will answer truthfully 'yes' or 'no'. Show that it is always possible to deduce the radius of the circle after at most sixty questions.
-> 
-> *(Note: Any point which lies exactly on the circle may be considered to lie inside the circle.)*
+> Adrian has drawn a circle in the $xy$-plane whose radius is a positive integer. The origin lies somewhere inside the circle. You are allowed to ask him questions of the form "Is the point $(x, y)$ inside your circle?" After each question he will answer truthfully "yes" or "no". Show that it is always possible to deduce the radius of the circle after at most sixty questions. [Note: Any point which lies exactly on the circle may be considered to lie inside the circle.]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]], [[method_induzione|Induzione]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

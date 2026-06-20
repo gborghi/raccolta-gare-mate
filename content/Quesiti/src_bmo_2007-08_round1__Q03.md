@@ -9,15 +9,12 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: Circumcircle point; feet of perpendiculars; prove angle bisector property
+summary: Diameter and perpendiculars in a circle; prove LS = LT
 qa_score: '2'
 topics:
   - topic_geometria_piana
-methods:
-  - method_trigonometria
 skills:
   - skill_ragionamento_geometrico
-  - skill_manipolazione_algebrica
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -31,13 +28,12 @@ tags:
 
 # British Mathematical Olympiad 2007-08 — Round 1 — Quesito 3
 
-*Circumcircle point; feet of perpendiculars; prove angle bisector property*
+*Diameter and perpendiculars in a circle; prove LS = LT*
 
-> Let $ABC$ be a triangle, with an obtuse angle at $A$. Let $Q$ be a point (other than $A$, $B$, $C$) on the circumcircle of the triangle, on the arc $BC$ not containing $A$, and let $D$ be the foot of the perpendicular from $Q$ to line $CA$, and let $E$ be the foot of the perpendicular from $Q$ to line $AB$. Prove that $CA$ and $CB$ are the bisectors of angle $DCE$.
+> Let $ABC$ be a triangle, with an obtuse angle at $A$. Let $Q$ be a point (other than $A$, $B$ or $C$) on the circle through $A$, $B$ and $C$, on the same side of chord $BC$ as $A$, and let $P$ be the other end of the diameter through $Q$. The perpendiculars from $Q$ to $CA$ and $AB$ meet the line $PA$ at $S$ and $T$ respectively. The foot of the perpendicular from $P$ to the line $BC$ is $L$. Show that $LS = LT$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
 

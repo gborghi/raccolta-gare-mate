@@ -9,15 +9,14 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: 'Two touching circles: B, X, P collinear'
-qa_score: '2'
+summary: 'Two touching circles, common tangent, diameter; prove collinearity'
+qa_score: '5'
 topics:
   - topic_geometria_piana
 methods:
   - method_simmetria
 skills:
   - skill_ragionamento_geometrico
-  - skill_lettura_attenta
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -26,19 +25,16 @@ tags:
   - livello/BMO-Round-1
   - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2012-13 — Round 1 — Quesito 2
 
-*Two touching circles: B, X, P collinear*
+*Two touching circles, common tangent, diameter; prove collinearity*
 
-> Two circles $S$ and $T$ touch at $X$. They have a common tangent which meets $S$ at $A$ and $T$ at $B$. The points $A$ and $B$ are different. Let $AP$ be a diameter of $S$. Prove that $B$, $X$ and $P$ are collinear.
+> Two circles $S$ and $T$ touch at $X$. They have a common tangent which meets $S$ at $A$ and $T$ at $B$. The points $A$ and $B$ are different. Let $AP$ be a diameter of $S$. Prove that $B$, $X$ and $P$ lie on a straight line.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

@@ -20,7 +20,7 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_2007-08_round2__Q01|Quesito 1]] — Find minimum value of expression in three real variables
-- [[src_bmo_2007-08_round2__Q02|Quesito 2]] — Triangle ABC with incentre and circumcentre; find ratio of sides
-- [[src_bmo_2007-08_round2__Q03|Quesito 3]] — Adrian chooses secret integer ≤2008; deduce circle radius in ≤60 questions
-- [[src_bmo_2007-08_round2__Q04|Quesito 4]] — Prove infinitely many pairs of distinct positive integers with divisibility condition
+- [[src_bmo_2007-08_round2__Q01|Quesito 1]] — Minimum sum of squares under cubic symmetric constraint
+- [[src_bmo_2007-08_round2__Q02|Quesito 2]] — Find side ratio of triangle from incentre-circumcentre angles
+- [[src_bmo_2007-08_round2__Q03|Quesito 3]] — Deduce integer-radius circle in at most sixty inside-point queries
+- [[src_bmo_2007-08_round2__Q04|Quesito 4]] — Infinitely many distinct integer pairs with a divisibility relation

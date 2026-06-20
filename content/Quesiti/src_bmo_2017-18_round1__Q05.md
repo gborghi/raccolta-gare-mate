@@ -9,19 +9,18 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '5'
-summary: >-
-  Matthew places 300 numbered cards in rows; find smallest number of cards in a
-  row
-qa_score: '2'
+summary: Smallest k of coloured squares so no uncoloured 100-comb fits in 200x200 grid
+qa_score: '5'
 topics:
   - topic_combinatoria
 methods:
-  - method_casework
   - method_estremalita
+  - method_colorazione
+  - method_casework
 skills:
   - skill_conteggio_sistematico
-  - skill_modellizzazione
-  - skill_lettura_attenta
+  - skill_casework_accurato
+  - skill_astrazione
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -30,19 +29,16 @@ tags:
   - livello/BMO-Round-1
   - topic/combinatoria
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2017-18 — Round 1 — Quesito 5
 
-*Matthew places 300 numbered cards in rows; find smallest number of cards in a row*
+*Smallest k of coloured squares so no uncoloured 100-comb fits in 200x200 grid*
 
-> Matthew has a deck of $300$ cards numbered $1$ to $300$. He takes cards one at a time from the top of the deck and places them in a row, with each new card placed at the right end of the row. At some point, the card at the right end of the row is removed and placed at the right end of another row. When Matthew has finished, each row contains an integer. What is the smallest possible number of cards remaining in any row?
+> If we take a $2 \times 100$ (or $100 \times 2$) grid of unit squares, and remove alternate squares from a long side, the remaining $150$ squares form a $100$-comb. Henry takes a $200 \times 200$ grid of unit squares, and chooses $k$ of these squares and colours them so that James is unable to choose $150$ uncoloured squares which form a $100$-comb. What is the smallest possible value of $k$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

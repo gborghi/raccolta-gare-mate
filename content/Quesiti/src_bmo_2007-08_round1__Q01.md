@@ -9,7 +9,7 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '1'
-summary: Evaluate a fraction expression involving 2007 and 2008
+summary: Evaluate a fraction of fourth and second powers
 qa_score: '2'
 topics:
   - topic_aritmetica
@@ -18,7 +18,6 @@ methods:
   - method_fattorizzazione
 skills:
   - skill_manipolazione_algebrica
-  - skill_lettura_attenta
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -33,14 +32,14 @@ tags:
 
 # British Mathematical Olympiad 2007-08 — Round 1 — Quesito 1
 
-*Evaluate a fraction expression involving 2007 and 2008*
+*Evaluate a fraction of fourth and second powers*
 
 > Find the value of
-> $$\frac{2007^2 + 2007^2}{1^2 + 2007 + 2008^2}.$$
+> $$\frac{1^4 + 2007^4 + 2008^4}{1^2 + 2007^2 + 2008^2}.$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** apri PDF
 

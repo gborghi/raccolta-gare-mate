@@ -9,19 +9,16 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '5'
-summary: >-
-  Prime p, smallest n>1 with p∤n: prove divisibility of (n+1)^k-1 and (n+1)^k-n
-  by p
+summary: Smallest n not dividing p; prove divisibility by p
 qa_score: '2'
 topics:
   - topic_aritmetica
 methods:
   - method_congruenze
-  - method_induzione
+  - method_fattorizzazione
 skills:
   - skill_manipolazione_algebrica
   - skill_lettura_attenta
-  - skill_ragionamento_geometrico
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -35,15 +32,13 @@ tags:
 
 # British Mathematical Olympiad 2024-25 — Round 1 — Quesito 5
 
-*Prime p, smallest n>1 with p∤n: prove divisibility of (n+1)^k-1 and (n+1)^k-n by p*
+*Smallest n not dividing p; prove divisibility by p*
 
-> Let $p$ be a prime number, and let $n$ be the smallest positive integer, strictly greater than $1$, for which $p$ is not divisible by $n$. Let $k = 1$.
-> 
-> Prove that $(n + 1)^k - 1$ and $(n + 1)^k - n$ are divisible by $p$.
+> Let $p$ be a prime number, and let $n$ be the smallest positive integer, strictly greater than $1$, which is not a divisor of $p - 1$. Prove that $(n+1)^k - 1$ and $(n+1)^k - n$ are divisible by $p$ for some positive integer $k$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF
 

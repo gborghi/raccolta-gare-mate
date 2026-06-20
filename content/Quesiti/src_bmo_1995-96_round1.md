@@ -20,8 +20,8 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_1995-96_round1__Q01|Quesito 1]] — Pairs of four-digit perfect squares differing by one digit each
-- [[src_bmo_1995-96_round1__Q02|Quesito 2]] — Compute f(1996) given a recursive sum condition with f(1)=1996
-- [[src_bmo_1995-96_round1__Q03|Quesito 3]] — Incircle triangle; circle through vertices meets lines CA CB; prove perpendicularity
-- [[src_bmo_1995-96_round1__Q04|Quesito 4]] — Find all positive integers n where g(n) ≤ g(n+1) for g(x)=1/(x(x+1))
-- [[src_bmo_1995-96_round1__Q05|Quesito 5]] — Prove 4(a³+b³)≥(a+b)³ and 9(a³+b³+c³)≥(a+b+c)³
+- [[src_bmo_1995-96_round1__Q01|Quesito 1]] — Find all four-digit perfect-square pairs differing by one in two digits
+- [[src_bmo_1995-96_round1__Q02|Quesito 2]] — Compute f(1996) given f(1)=1996 and a recursive sum condition
+- [[src_bmo_1995-96_round1__Q03|Quesito 3]] — Prove CO perpendicular to PQ using circle through A, O, B
+- [[src_bmo_1995-96_round1__Q04|Quesito 4]] — Determine all n with q(n) > q(n+1) where q(n)=floor(n/floor(sqrt n))
+- [[src_bmo_1995-96_round1__Q05|Quesito 5]] — Prove 4(a^3+b^3) >= (a+b)^3 and 9(a^3+b^3+c^3) >= (a+b+c)^3

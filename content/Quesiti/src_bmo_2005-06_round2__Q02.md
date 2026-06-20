@@ -9,17 +9,16 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: 'Positive integers with no prime factor >5, x-y is prime >5'
-qa_score: '2'
+summary: Integers with prime factors at most 5 with x^2-y^2=2^k
+qa_score: '5'
 topics:
   - topic_aritmetica
 methods:
   - method_fattorizzazione
   - method_casework
 skills:
+  - skill_casework_accurato
   - skill_manipolazione_algebrica
-  - skill_lettura_attenta
-  - skill_conteggio_sistematico
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -28,19 +27,18 @@ tags:
   - livello/BMO-Round-2
   - topic/aritmetica
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2005-06 — Round 2 — Quesito 2
 
-*Positive integers with no prime factor >5, x-y is prime >5*
+*Integers with prime factors at most 5 with x^2-y^2=2^k*
 
-> Let $x$ and $y$ be positive integers with no prime factors larger than $5$. Find all such $x$ and $y$ for which $x - y$ is a prime number greater than $5$.
+> Let $x$ and $y$ be positive integers with no prime factors larger than 5. Find all such $x$ and $y$ which satisfy
+> $$x^2 - y^2 = 2^k$$
+> for some non-negative integer $k$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

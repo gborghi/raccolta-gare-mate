@@ -9,8 +9,8 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: 'Positive reals a,b,c,d: prove inequality for six pairwise-sum fractions'
-qa_score: '2'
+summary: 'Positive reals a,b,c,d: prove double inequality for six pairwise-sum fractions'
+qa_score: '5'
 topics:
   - topic_disuguaglianze
 methods:
@@ -26,20 +26,17 @@ tags:
   - livello/BMO-Round-2
   - topic/disuguaglianze
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1991-92 — Round 2 — Quesito 2
 
-*Positive reals a,b,c,d: prove inequality for six pairwise-sum fractions*
+*Positive reals a,b,c,d: prove double inequality for six pairwise-sum fractions*
 
 > Let $a, b, c, d$ be positive real numbers. Prove that
-> $$\frac{1}{a+b} + \frac{1}{a+c} + \frac{1}{a+d} + \frac{1}{b+c} + \frac{1}{b+d} + \frac{1}{c+d} \ge \frac{11}{a+b+c+d}.$$
+> $$\frac{12}{a+b+c+d} \le \frac{1}{a+b} + \frac{1}{a+c} + \frac{1}{a+d} + \frac{1}{b+c} + \frac{1}{b+d} + \frac{1}{c+d} \le \frac{3}{4}\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d}\right).$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

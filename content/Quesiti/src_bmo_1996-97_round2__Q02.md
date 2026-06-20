@@ -9,16 +9,14 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: 'Acute triangle with equal altitude and median, equal angles; prove equilateral'
-qa_score: '2'
+summary: Triangle with equal median and altitude is equilateral
+qa_score: '5'
 topics:
   - topic_geometria_piana
 methods:
   - method_trigonometria
-  - method_simmetria
 skills:
   - skill_ragionamento_geometrico
-  - skill_manipolazione_algebrica
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -27,19 +25,16 @@ tags:
   - livello/BMO-Round-2
   - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1996-97 — Round 2 — Quesito 2
 
-*Acute triangle with equal altitude and median, equal angles; prove equilateral*
+*Triangle with equal median and altitude is equilateral*
 
-> In the acute-angled triangle $ABC$, $CF$ is an altitude, with $F$ on $AB$, and $BM$ is a median, with $M$ on $CA$. Given that $BM = CF$ and $\angle MBC = \angle FCA$. Prove that the triangle $ABC$ is equilateral.
+> In the acute-angled triangle $ABC$, $CF$ is an altitude, with $F$ on $AB$, and $BM$ is a median, with $M$ on $CA$. Given that $BM = CF$ and $\angle MBC = \angle FCA$, prove that the triangle $ABC$ is equilateral.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

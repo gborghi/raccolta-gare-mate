@@ -9,8 +9,9 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '5'
-summary: 'Triangle with given side constraints: find maximum possible area'
-qa_score: '2'
+summary: 'Triangle with sides at most 2, 3, 4; maximum area'
+qa_score: '5'
+answer: '3'
 topics:
   - topic_geometria_piana
   - topic_disuguaglianze
@@ -20,7 +21,6 @@ methods:
 skills:
   - skill_ragionamento_geometrico
   - skill_stima
-  - skill_modellizzazione
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -30,19 +30,17 @@ tags:
   - topic/geometria_piana
   - topic/disuguaglianze
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2012-13 — Round 1 — Quesito 5
 
-*Triangle with given side constraints: find maximum possible area*
+*Triangle with sides at most 2, 3, 4; maximum area*
 
-> A triangle has sides of length at most $12$, at most $10$ and at most $5$. Determine, with proof, the maximum possible area of the triangle.
+> A triangle has sides of length at most $2$, $3$ and $4$ respectively. Determine, with proof, the maximum possible area of the triangle.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
+**Risposta:** 3
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

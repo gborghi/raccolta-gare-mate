@@ -9,18 +9,14 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: >-
-  Incircle triangle; circle through vertices meets lines CA CB; prove
-  perpendicularity
-qa_score: '2'
+summary: 'Prove CO perpendicular to PQ using circle through A, O, B'
+qa_score: '4'
 topics:
   - topic_geometria_piana
 methods:
   - method_trigonometria
-  - method_coordinate
 skills:
   - skill_ragionamento_geometrico
-  - skill_manipolazione_algebrica
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -29,23 +25,18 @@ tags:
   - livello/BMO-Round-1
   - topic/geometria_piana
   - gara/individuale
-  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 1995-96 — Round 1 — Quesito 3
 
-*Incircle triangle; circle through vertices meets lines CA CB; prove perpendicularity*
+*Prove CO perpendicular to PQ using circle through A, O, B*
 
-> Let $ABC$ be a triangle and let $O$ be the incentre. The lines $CA$ and $CB$ produced meet the circle $S$ again at $P$ and $Q$ respectively. The lines $CA$ and $CB$ are perpendicular.
+> Let $ABC$ be an acute-angled triangle, and let $O$ be its circumcentre. The circle through $A$, $O$ and $B$ is called $S$. The lines $CA$ and $CB$ meet the circle $S$ again at $P$ and $Q$ respectively. Prove that the lines $CO$ and $PQ$ are perpendicular.
 > 
-> [Given any triangle $XYZ$, its incentre is the centre of the circle which passes through the three vertices $X$, $Y$ and $Z$.]
-> 
-> Prove that $CA$ and $CB$ are perpendicular to each other.
+> (Given any triangle $XYZ$, its circumcentre is the centre of the circle which passes through the three vertices $X$, $Y$ and $Z$.)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF
-
-> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

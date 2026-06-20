@@ -9,7 +9,7 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: Find all positive integer triples satisfying two simultaneous equations
+summary: Find positive integer solutions of two simultaneous equations
 qa_score: '2'
 topics:
   - topic_algebra
@@ -34,11 +34,11 @@ tags:
 
 # British Mathematical Olympiad 2007-08 — Round 1 — Quesito 2
 
-*Find all positive integer triples satisfying two simultaneous equations*
+*Find positive integer solutions of two simultaneous equations*
 
-> Find all positive integer solutions $x$, $y$, $z$ to the simultaneous equations
-> $$x + y = z - 1,$$
-> $$xy = z^2 - 7z + 11.$$
+> Find all solutions in positive integers $x$, $y$, $z$ to the simultaneous equations
+> $$x + y - z = 12,$$
+> $$x^2 + y^2 - z^2 = 12.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]

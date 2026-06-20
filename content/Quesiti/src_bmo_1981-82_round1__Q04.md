@@ -9,17 +9,16 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '4'
-summary: 'Recurrence u_{n+1} = 1/(u_1+...+u_n), u_1=3, describe behaviour'
+summary: 'Recurrence sequence: describe behaviour as n tends to infinity'
 qa_score: '2'
 topics:
   - topic_algebra
 methods:
   - method_ricorsione
-  - method_telescoping
 skills:
   - skill_manipolazione_algebrica
   - skill_riconoscimento_pattern
-  - skill_ragionamento_geometrico
+  - skill_astrazione
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -33,15 +32,15 @@ tags:
 
 # British Mathematical Olympiad 1981-82 — Round 1 — Quesito 4
 
-*Recurrence u_{n+1} = 1/(u_1+...+u_n), u_1=3, describe behaviour*
+*Recurrence sequence: describe behaviour as n tends to infinity*
 
 > A sequence of real numbers $u_1, u_2, u_3, \ldots$ is given by $u_1$ and the recurrence relation
-> $$u_{n+1} = \frac{1}{u_1 + u_2 + \cdots + u_n}$$
-> By considering the curve $x^2 + y = \frac{1}{64}$ or otherwise, describe with proof the behaviour of $u_n$ as $n$ tends to infinity.
+> $$\frac{1}{u_{n+1}} - u_n = \frac{13}{6n}, \quad n \ge 2.$$
+> By considering the curve $x^2 + y = \frac{13}{6n}$, or otherwise, describe with proof the behaviour of $u_n$ as $n$ tends to infinity.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF
 
