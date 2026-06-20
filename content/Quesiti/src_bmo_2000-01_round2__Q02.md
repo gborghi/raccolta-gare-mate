@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_bmo_2000-01_round2__Q02
+parent: src_bmo_2000-01_round2
+competition: British Mathematical Olympiad 2000-01 — Round 2
+family: bmo
+year: '2001'
+level: BMO Round 2
+country: Regno Unito
+modalita: individuale
+quesito: '2'
+summary: Find all integer pairs satisfying a Diophantine equation
+qa_score: '4'
+topics:
+  - topic_algebra
+  - topic_aritmetica
+methods:
+  - method_fattorizzazione
+  - method_casework
+skills:
+  - skill_manipolazione_algebrica
+  - skill_riconoscimento_pattern
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/regno-unito
+  - comp/bmo
+  - anno/2001
+  - livello/BMO-Round-2
+  - topic/algebra
+  - topic/aritmetica
+  - gara/individuale
+---
+
+# British Mathematical Olympiad 2000-01 — Round 2 — Quesito 2
+
+*Find all integer pairs satisfying a Diophantine equation*
+
+> Find all pairs of integers $(x, y)$ satisfying
+> $$1 + x^2 y = x^2 + 2xy + y.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF

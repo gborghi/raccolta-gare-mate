@@ -20,7 +20,7 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_2024-25_round2__Q01|Quesito 1]] — $1/n$ come somma di reciproci di numeri triangolari distinti
-- [[src_bmo_2024-25_round2__Q02|Quesito 2]] — Incentro e asse di $BC$: $D$ giace sulla circonferenza $AQP$
-- [[src_bmo_2024-25_round2__Q03|Quesito 3]] — Scacchiera $n\times n$: massimo numero di scambi righe/colonne per ripristinarla
-- [[src_bmo_2024-25_round2__Q04|Quesito 4]] — Quante successioni con $u_1=1$ e $u_{n+1}=(u_n^2+u_n+1)^{2025}/u_{n-1}$
+- [[src_bmo_2024-25_round2__Q01|Quesito 1]] — Express 1/n as finite sum of distinct triangular reciprocals
+- [[src_bmo_2024-25_round2__Q02|Quesito 2]] — Prove D lies on circle AQP in acute triangle configuration
+- [[src_bmo_2024-25_round2__Q03|Quesito 3]] — Largest swaps Elijah needs to restore chessboard colouring
+- [[src_bmo_2024-25_round2__Q04|Quesito 4]] — Count positive integer sequences with given recurrence and u1=1

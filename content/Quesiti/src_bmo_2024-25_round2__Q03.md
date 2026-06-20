@@ -9,16 +9,19 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: >-
-  Scacchiera $n\times n$: massimo numero di scambi righe/colonne per
-  ripristinarla
+summary: Largest swaps Elijah needs to restore chessboard colouring
+qa_score: '4'
 topics:
   - topic_combinatoria
 methods:
-  - method_estremalita
+  - method_casework
   - method_invarianti
+  - method_estremalita
 skills:
   - skill_conteggio_sistematico
+  - skill_ragionamento_geometrico
+  - skill_casework_accurato
+  - skill_stima
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -31,12 +34,14 @@ tags:
 
 # British Mathematical Olympiad 2024-25 — Round 2 — Quesito 3
 
-*Scacchiera $n\times n$: massimo numero di scambi righe/colonne per ripristinarla*
+*Largest swaps Elijah needs to restore chessboard colouring*
 
-> Una scacchiera $n\times n$ è formata da $n^2$ celle quadrate unitarie, colorate di bianco o nero così che celle adiacenti per lato abbiano colori diversi. Isaac altera la colorazione scambiando ripetutamente due intere colonne oppure due intere righe; Elijah vuole ripristinare la colorazione originale usando gli stessi tipi di scambio. In funzione di $n$, qual è il massimo numero di scambi di cui Elijah potrebbe aver bisogno?
+> An $n \times n$ chessboard consists of $n^2$ cells which are unit squares. Each cell is coloured black or white so that cells with a common edge are different colours. Isaac muddles up the colouring by repeatedly swapping either two complete columns or two complete rows. Elijah wants to restore the original colouring by repeatedly swapping either two complete columns or two complete rows.
+> 
+> In terms of $n$, what is the largest number of swaps that Elijah might need?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF p.2
+**Fonte:** apri PDF

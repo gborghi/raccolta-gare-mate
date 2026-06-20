@@ -9,14 +9,18 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '1'
-summary: $1/n$ come somma di reciproci di numeri triangolari distinti
+summary: Express 1/n as finite sum of distinct triangular reciprocals
+qa_score: '4'
 topics:
   - topic_aritmetica
+  - topic_algebra
 methods:
-  - method_telescoping
   - method_induzione
+  - method_fattorizzazione
 skills:
   - skill_manipolazione_algebrica
+  - skill_riconoscimento_pattern
+  - skill_ragionamento_geometrico
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -24,17 +28,20 @@ tags:
   - anno/2025
   - livello/BMO-Round-2
   - topic/aritmetica
+  - topic/algebra
   - gara/individuale
 ---
 
 # British Mathematical Olympiad 2024-25 — Round 2 — Quesito 1
 
-*$1/n$ come somma di reciproci di numeri triangolari distinti*
+*Express 1/n as finite sum of distinct triangular reciprocals*
 
-> Dimostrare che, se $n$ è un intero positivo, allora $\frac1n$ può essere scritto come somma finita di reciproci di numeri triangolari distinti. (Un numero triangolare è della forma $\frac{k(k+1)}2$ per qualche intero positivo $k$.)
+> Prove that if $n$ is a positive integer, then $\frac{1}{n}$ can be written as a finite sum of reciprocals of different triangular numbers.
+> 
+> [A *triangular number* is one of the form $\frac{k(k+1)}{2}$ for some positive integer $k$.]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.2
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** apri PDF

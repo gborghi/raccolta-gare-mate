@@ -9,14 +9,19 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: 'Griglia $11\times11$ tagliata in 11 pezzi a L: numero di ricomposizioni'
+summary: 'Reassemble 11×11 grid cut into L-shaped pieces, single square in row 3 col 3'
+qa_score: '5'
 topics:
   - topic_combinatoria
 methods:
   - method_casework
   - method_conteggio
+  - method_invarianti
 skills:
+  - skill_ragionamento_geometrico
   - skill_conteggio_sistematico
+  - skill_casework_accurato
+  - skill_astrazione
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -29,12 +34,16 @@ tags:
 
 # British Mathematical Olympiad 2025-26 — Round 1 — Quesito 3
 
-*Griglia $11\times11$ tagliata in 11 pezzi a L: numero di ricomposizioni*
+*Reassemble 11×11 grid cut into L-shaped pieces, single square in row 3 col 3*
 
-> Una griglia quadrata $11\times11$ viene tagliata in $11$ pezzi così: a ogni passo si rimuove la riga in alto e la colonna a sinistra della griglia rimanente come un unico pezzo. I pezzi ottenuti sono a forma di L di dimensioni $21,19,\dots,3$, più un singolo quadratino. I pezzi vengono riorganizzati per riassemblare una griglia $11\times11$, con rotazioni permesse (ma senza ribaltarli) in modo che il singolo quadratino occupi la cella nella terza riga e terza colonna (dall'alto a sinistra). In quanti modi si può fare?
+> An $11 \times 11$ grid is dissected into 11 pieces as follows. At each step, remove the top row and the leftmost column of the remaining grid as a single piece. Thus, the pieces obtained are L-shaped with sizes $19, 17, \ldots, 3$, together with a single square.
+> 
+> The pieces are rearranged to reassemble an $11 \times 11$ grid, with rotations allowed (but the pieces may not be turned over) so that the single square occupies the cell in the third row and third column (counting from the top left).
+> 
+> How many ways can this be done?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF p.2
+**Fonte:** apri PDF

@@ -20,9 +20,9 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_bmo_2025-26_round1__Q01|Quesito 1]] — Per quali $p^n$ si può scrivere come somma di una 'rampa' $a\mid b\mid c$
-- [[src_bmo_2025-26_round1__Q02|Quesito 2]] — Sistema simmetrico $x^2+2yz=4,\;y^2+2zx=4,\;z^2+2xy=1$
-- [[src_bmo_2025-26_round1__Q03|Quesito 3]] — Griglia $11\times11$ tagliata in 11 pezzi a L: numero di ricomposizioni
-- [[src_bmo_2025-26_round1__Q04|Quesito 4]] — Due circonferenze tangenti in $B$ e $C$: dimostrare $MA\cdot MD=MB\cdot MC$
-- [[src_bmo_2025-26_round1__Q05|Quesito 5]] — Successione $t_1=1$ con regole di parità/terzi: contiene ogni intero positivo?
-- [[src_bmo_2025-26_round1__Q06|Quesito 6]] — 1000 ninfee in cerchio, rane che nuotano o saltano: quando resta una sola rana
+- [[src_bmo_2025-26_round1__Q01|Quesito 1]] — Ramp sequence: prove p^n expressible as sum of a ramp
+- [[src_bmo_2025-26_round1__Q02|Quesito 2]] — Find all real triples satisfying two symmetric equations
+- [[src_bmo_2025-26_round1__Q03|Quesito 3]] — Reassemble 11×11 grid cut into L-shaped pieces, single square in row 3 col 3
+- [[src_bmo_2025-26_round1__Q04|Quesito 4]] — Acute triangle with midpoint circle tangencies: prove MA·MD = MB·MC
+- [[src_bmo_2025-26_round1__Q05|Quesito 5]] — Integer sequence with parity rules: does it contain every positive integer?
+- [[src_bmo_2025-26_round1__Q06|Quesito 6]] — Frogs on 1000 lily pads in circle: find n for which one frog remains

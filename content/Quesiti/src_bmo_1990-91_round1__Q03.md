@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_bmo_1990-91_round1__Q03
+parent: src_bmo_1990-91_round1
+competition: British Mathematical Olympiad 1990-91 — Round 1
+family: bmo
+year: '1990'
+level: BMO Round 1
+country: Regno Unito
+modalita: individuale
+quesito: '3'
+summary: 'Cyclic quadrilateral ABCD: AC perpendicular BD iff EA²+EB²+EC²+ED²=4r²'
+qa_score: '5'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_coordinate
+  - method_trigonometria
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/regno-unito
+  - comp/bmo
+  - anno/1990
+  - livello/BMO-Round-1
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+# British Mathematical Olympiad 1990-91 — Round 1 — Quesito 3
+
+*Cyclic quadrilateral ABCD: AC perpendicular BD iff EA²+EB²+EC²+ED²=4r²*
+
+> $ABCD$ is a quadrilateral inscribed in a circle of radius $r$. The diagonals $AC$, $BD$ meet at $E$.
+> 
+> Prove that if $AC$ is perpendicular to $BD$ then
+> $$EA^2 + EB^2 + EC^2 + ED^2 = 4r^2. \quad (*)$$
+> 
+> Is it true that if $(*)$ holds then $AC$ is perpendicular to $BD$? Give a reason for your answer.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF

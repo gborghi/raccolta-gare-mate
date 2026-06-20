@@ -1,0 +1,51 @@
+---
+tipo: quesito
+quesito_id: quesito_src_bmo_1995-96_round1__Q02
+parent: src_bmo_1995-96_round1
+competition: British Mathematical Olympiad 1995-96 — Round 1
+family: bmo
+year: '1996'
+level: BMO Round 1
+country: Regno Unito
+modalita: individuale
+quesito: '2'
+summary: Compute f(1996) given a recursive sum condition with f(1)=1996
+qa_score: '2'
+topics:
+  - topic_algebra
+  - topic_aritmetica
+methods:
+  - method_ricorsione
+  - method_telescoping
+skills:
+  - skill_manipolazione_algebrica
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/regno-unito
+  - comp/bmo
+  - anno/1996
+  - livello/BMO-Round-1
+  - topic/algebra
+  - topic/aritmetica
+  - gara/individuale
+  - qa/da-verificare
+---
+
+# British Mathematical Olympiad 1995-96 — Round 1 — Quesito 2
+
+*Compute f(1996) given a recursive sum condition with f(1)=1996*
+
+> A function $f$ is defined on the set of all positive integers and satisfies
+> $$f(1) = 1996$$
+> and
+> $$f(1) + f(2) + \cdots + f(n) = n^2\, f(n) \quad \text{for all } n > 1.$$
+> Calculate the exact value of $f(1996)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF
+
+> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_bmo_2011-12_round2__Q02
+parent: src_bmo_2011-12_round2
+competition: British Mathematical Olympiad 2011-12 — Round 2
+family: bmo
+year: '2012'
+level: BMO Round 2
+country: Regno Unito
+modalita: individuale
+quesito: '2'
+summary: 'Recursive function on positive integers: prove f(n)=n infinitely often'
+qa_score: '5'
+topics:
+  - topic_aritmetica
+  - topic_algebra
+methods:
+  - method_induzione
+  - method_ricorsione
+skills:
+  - skill_manipolazione_algebrica
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/regno-unito
+  - comp/bmo
+  - anno/2012
+  - livello/BMO-Round-2
+  - topic/aritmetica
+  - topic/algebra
+  - gara/individuale
+---
+
+# British Mathematical Olympiad 2011-12 — Round 2 — Quesito 2
+
+*Recursive function on positive integers: prove f(n)=n infinitely often*
+
+> A function $f$ is defined on the positive integers by $f(1) = 1$ and, for $n > 1$,
+> $$f(n) = f\!\left(\left\lfloor \frac{n}{2} \right\rfloor\right) + f\!\left(\left\lceil \frac{n}{2} \right\rceil\right),$$
+> where $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$. Prove that $f(n) = n$ for infinitely many $n \ge 1$.
+> 
+> [Here are examples of the use of $\lfloor x \rfloor$: $\lfloor 3.729 \rfloor = 3$; $\lfloor 1729 \rfloor = 1729$]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** apri PDF

@@ -9,15 +9,19 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '3'
-summary: 'Gioco $n=ab\to|a-b|$ partendo da $10^6$: chi ha strategia vincente'
+summary: 'Rhian and Jack game starting from 10^6: determine when game ends'
+qa_score: '2'
 topics:
   - topic_combinatoria
   - topic_aritmetica
 methods:
   - method_invarianti
-  - method_fattorizzazione
+  - method_backward
+  - method_ricorsione
 skills:
   - skill_riconoscimento_pattern
+  - skill_modellizzazione
+  - skill_ragionamento_geometrico
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -27,16 +31,21 @@ tags:
   - topic/combinatoria
   - topic/aritmetica
   - gara/individuale
+  - qa/da-verificare
 ---
 
 # British Mathematical Olympiad 2024-25 — Round 1 — Quesito 3
 
-*Gioco $n=ab\to|a-b|$ partendo da $10^6$: chi ha strategia vincente*
+*Rhian and Jack game starting from 10^6: determine when game ends*
 
-> Rhian e Jack giocano: inizialmente sulla lavagna è scritto $10^6$. Se il numero attuale è $n$, una mossa consiste nello scegliere due interi positivi distinti $a,b$ con $n=ab$ e sostituire $n$ con $|a-b|$. Inizia Rhian, poi i giocatori si alternano; perde chi non può muovere. Determinare, con dimostrazione, quale giocatore ha una strategia vincente.
+> Rhian and Jack are playing a game in which initially the number $10^6$ is written on a blackboard. If the number on the blackboard consists of two different positive integers $a, b$ such that $a = ab$ and replacing $a$ with $|a - b|$. Rhian starts, then the players make moves alternately. A player loses if they are unable to move.
+> 
+> Determine, with proof, after how many moves the game ends.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.2
+**Fonte:** apri PDF
+
+> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.

@@ -9,7 +9,8 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '1'
-summary: Per quali $p^n$ si può scrivere come somma di una 'rampa' $a\mid b\mid c$
+summary: 'Ramp sequence: prove p^n expressible as sum of a ramp'
+qa_score: '5'
 topics:
   - topic_aritmetica
 methods:
@@ -17,6 +18,8 @@ methods:
   - method_casework
 skills:
   - skill_manipolazione_algebrica
+  - skill_ragionamento_geometrico
+  - skill_lettura_attenta
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -29,12 +32,12 @@ tags:
 
 # British Mathematical Olympiad 2025-26 — Round 1 — Quesito 1
 
-*Per quali $p^n$ si può scrivere come somma di una 'rampa' $a\mid b\mid c$*
+*Ramp sequence: prove p^n expressible as sum of a ramp*
 
-> Una *rampa* è una terna di interi positivi distinti $a,b,c$ tali che $a$ divide $b$ e $b$ divide $c$. Per ogni numero primo $p$ e ogni intero positivo $n$, determinare con dimostrazione se $p^n$ può essere espresso come somma di una rampa.
+> A ramp is a sequence of three different positive integers $a, b, c$ such that $a$ is a factor of $b$ and $b$ is a factor of $c$. For every prime number $p$ and every positive integer $n$, determine with proof whether $p^n$ can be expressed as the sum of a ramp.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.2
+**Fonte:** apri PDF

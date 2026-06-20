@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_bmo_1992-93_round1__Q02
+parent: src_bmo_1992-93_round1
+competition: British Mathematical Olympiad 1992-93 — Round 1
+family: bmo
+year: '1993'
+level: BMO Round 1
+country: Regno Unito
+modalita: individuale
+quesito: '2'
+summary: >-
+  Square toast ABCD cut in half; find shortest straight cut dividing triangle
+  ABC into equal areas.
+qa_score: '5'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_estremalita
+  - method_casework
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+  - skill_stima
+tags:
+  - kg/quesito
+  - paese/regno-unito
+  - comp/bmo
+  - anno/1993
+  - livello/BMO-Round-1
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+# British Mathematical Olympiad 1992-93 — Round 1 — Quesito 2
+
+*Square toast ABCD cut in half; find shortest straight cut dividing triangle ABC into equal areas.*
+
+> A square piece of toast $ABCD$ of side length $1$ and centre $O$ is cut in half to form two equal pieces $ABC$ and $CDA$. If the triangle $ABC$ has to be cut into two parts of equal area, one would usually cut along the line of symmetry $BO$. However, there are other ways of doing this. Find, with justification, the length and location of the shortest straight cut which divides the triangle $ABC$ into two parts of equal area.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF

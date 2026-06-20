@@ -9,14 +9,20 @@ level: BMO Round 2
 country: Regno Unito
 modalita: individuale
 quesito: '4'
-summary: 'Successione a somme scorrevoli: finiti termini positivi o finiti negativi'
+summary: >-
+  Infinite sequence from partial sums: finitely many positive or finitely many
+  negative terms?
+qa_score: '4'
 topics:
-  - topic_combinatoria
   - topic_algebra
 methods:
+  - method_induzione
   - method_invarianti
-  - method_estremalita
+  - method_telescoping
 skills:
+  - skill_manipolazione_algebrica
+  - skill_ragionamento_geometrico
+  - skill_riconoscimento_pattern
   - skill_astrazione
 tags:
   - kg/quesito
@@ -24,21 +30,22 @@ tags:
   - comp/bmo
   - anno/2026
   - livello/BMO-Round-2
-  - topic/combinatoria
   - topic/algebra
   - gara/individuale
 ---
 
 # British Mathematical Olympiad 2025-26 — Round 2 — Quesito 4
 
-*Successione a somme scorrevoli: finiti termini positivi o finiti negativi*
+*Infinite sequence from partial sums: finitely many positive or finitely many negative terms?*
 
-> Sia $N$ un intero positivo e sia $(k_n)_{n\ge1}$ una successione di interi positivi tutti $\le N$. Annabel sceglie interi $x_1,x_2,\dots,x_N$ e poi estende a una successione infinita $(x_n)_{n\ge1}$ ponendo
-> $$x_n=\sum_{i=n-k_n}^{n-1} x_i \qquad \text{per ogni } n>N.$$
-> Dimostrare che nella successione infinita $(x_n)$ vi sono o un numero finito di termini strettamente positivi o un numero finito di termini strettamente negativi.
+> Let $N$ be a positive integer and let $(k_n)_{n \geq 1}$ be a sequence of positive integers with all terms at most $N$. Annabel starts this by choosing integers $x_1, x_2, \ldots, x_N$. She then extends this to an infinite sequence $(x_n)_{n \geq 1}$ of integers by defining
+> $$x_n = \sum_{i=n-k_{n-1}}^{n-1} x_i$$
+> for each $n > N$.
+> 
+> Show that there are either finitely many strictly positive terms or finitely many strictly negative terms in the infinite sequence $(x_n)$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-**Fonte:** apri PDF p.2
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** apri PDF

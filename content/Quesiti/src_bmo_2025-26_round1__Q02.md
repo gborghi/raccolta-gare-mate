@@ -9,13 +9,17 @@ level: BMO Round 1
 country: Regno Unito
 modalita: individuale
 quesito: '2'
-summary: 'Sistema simmetrico $x^2+2yz=4,\;y^2+2zx=4,\;z^2+2xy=1$'
+summary: Find all real triples satisfying two symmetric equations
+qa_score: '5'
 topics:
   - topic_algebra
 methods:
   - method_simmetria
+  - method_casework
 skills:
   - skill_manipolazione_algebrica
+  - skill_riconoscimento_pattern
+  - skill_casework_accurato
 tags:
   - kg/quesito
   - paese/regno-unito
@@ -28,13 +32,13 @@ tags:
 
 # British Mathematical Olympiad 2025-26 — Round 1 — Quesito 2
 
-*Sistema simmetrico $x^2+2yz=4,\;y^2+2zx=4,\;z^2+2xy=1$*
+*Find all real triples satisfying two symmetric equations*
 
-> Trovare tutte le terne $(x,y,z)$ di numeri reali che soddisfano le equazioni
-> $$x^2+2yz=4,\qquad y^2+2zx=4,\qquad z^2+2xy=1.$$
+> Find all triples $(x, y, z)$ of real numbers satisfying the equations
+> $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 4.$$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.2
+**Fonte:** apri PDF
