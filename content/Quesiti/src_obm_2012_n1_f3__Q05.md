@@ -1,0 +1,59 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2012_n1_f3__Q05
+parent: src_obm_2012_n1_f3
+competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3
+family: obm
+year: '2012'
+level: OBM Nível 1
+country: Brasile
+modalita: individuale
+nivel: '1'
+fase: '3'
+quesito: '5'
+summary: >-
+  Amoebas fuse in pairs (red+red->1 blue, red+blue->2 red, blue+blue->2 red);
+  from 19 blue and 95 red, find the maximum size of the next generation and the
+  number of blue amoebas when the total is 100.
+qa_score: '2'
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_invarianti
+  - method_casework
+skills:
+  - skill_conteggio_sistematico
+  - skill_astrazione
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2012
+  - livello/OBM-Nível-1
+  - nivel/1
+  - fase/3
+  - topic/combinatoria
+  - topic/aritmetica
+  - gara/individuale
+  - qa/da-verificare
+---
+
+# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 5
+
+*Amoebas fuse in pairs (red+red->1 blue, red+blue->2 red, blue+blue->2 red); from 19 blue and 95 red, find the maximum size of the next generation and the number of blue amoebas when the total is 100.*
+
+> When two red amoebas join together, they transform into a single blue amoeba; when one red amoeba joins with one blue amoeba, the two transform into two red amoebas; and when two blue amoebas join together, they transform into two red amoebas. Fernando observes a test tube that initially contains $19$ blue amoebas and $95$ red amoebas.
+> 
+> a) He observes that all the amoebas join together in pairs, giving rise to the amoebas of the following generation. At most, how many amoebas can this generation have?
+> 
+> b) Starting from the initial situation, if at some instant there are $100$ amoebas, how many will be blue?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

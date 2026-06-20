@@ -2,6 +2,6 @@
 title: Ricerca per più tag
 ---
 
-Seleziona uno o più tag per filtrare i 11708 quesiti. Usa l'interruttore **TUTTI / QUALSIASI** per richiedere tutti i tag (intersezione) o almeno uno (unione).
+Seleziona uno o più tag per filtrare i 13980 quesiti. Usa l'interruttore **TUTTI / QUALSIASI** per richiedere tutti i tag (intersezione) o almeno uno (unione).
 
 <div id="cerca"></div>

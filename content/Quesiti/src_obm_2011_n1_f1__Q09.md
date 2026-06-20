@@ -1,0 +1,56 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2011_n1_f1__Q09
+parent: src_obm_2011_n1_f1
+competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
+family: obm
+year: '2011'
+level: OBM Nível 1
+country: Brasile
+modalita: individuale
+nivel: '1'
+fase: '1'
+quesito: '9'
+summary: Number of girls in a class given height-ranking pattern
+qa_score: '2'
+answer: C
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_casework
+  - method_ricorsione
+skills:
+  - skill_lettura_attenta
+  - skill_modellizzazione
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2011
+  - livello/OBM-Nível-1
+  - nivel/1
+  - fase/1
+  - topic/combinatoria
+  - topic/aritmetica
+  - gara/individuale
+  - qa/da-verificare
+---
+
+# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 9
+
+*Number of girls in a class given height-ranking pattern*
+
+> A class of 36 students all have different heights. The shortest among the boys is taller than 5 girls, the second shortest boy is taller than 6 girls, the third shortest boy is taller than 7 girls, and so on, until the tallest boy, who is taller than all the girls. How many girls are there in this class?
+> 
+> (A) 12 \quad (B) 14 \quad (C) 16 \quad (D) 18 \quad (E) 20
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** apri PDF
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

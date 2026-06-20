@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2012_n1_f1__Q01
+parent: src_obm_2012_n1_f1
+competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
+family: obm
+year: '2012'
+level: OBM Nível 1
+country: Brasile
+modalita: individuale
+nivel: '1'
+fase: '1'
+quesito: '1'
+summary: Fewest coins (10 centavos) to pay 23 reais using 10-real notes
+qa_score: '3'
+answer: E
+topics:
+  - topic_aritmetica
+methods:
+  - method_estremalita
+skills:
+  - skill_lettura_attenta
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2012
+  - livello/OBM-Nível-1
+  - nivel/1
+  - fase/1
+  - topic/aritmetica
+  - gara/individuale
+---
+
+# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 1
+
+*Fewest coins (10 centavos) to pay 23 reais using 10-real notes*
+
+> Laurinha had in her wallet only 10-real notes and 10-centavo coins. She paid 23 reais with the smallest possible number of coins. How many coins did she use?
+> 
+> (A) 3 \quad (B) 6 \quad (C) 10 \quad (D) 23 \quad (E) 30
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** apri PDF

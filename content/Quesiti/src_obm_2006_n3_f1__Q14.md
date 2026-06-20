@@ -1,0 +1,55 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2006_n3_f1__Q14
+parent: src_obm_2006_n3_f1
+competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
+family: obm
+year: '2006'
+level: OBM Nível 3
+country: Brasile
+modalita: individuale
+nivel: '3'
+fase: '1'
+quesito: '14'
+summary: >-
+  Five grades entered one by one with running average always an integer; grades
+  71,76,80,82,91; find which was entered last.
+qa_score: '2'
+topics:
+  - topic_aritmetica
+  - topic_logica
+methods:
+  - method_congruenze
+  - method_casework
+skills:
+  - skill_casework_accurato
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2006
+  - livello/OBM-Nível-3
+  - nivel/3
+  - fase/1
+  - topic/aritmetica
+  - topic/logica
+  - gara/individuale
+  - qa/da-verificare
+---
+
+# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 14
+
+*Five grades entered one by one with running average always an integer; grades 71,76,80,82,91; find which was entered last.*
+
+> Professor Piraldo applied a test to his five students and, after correcting them, entered the grades into an electronic spreadsheet that automatically computes the average as the grades are entered each time. He noticed that, as he entered the grades, the average computed by the spreadsheet was always an integer. The grades, in the order they were entered, were 71, 76, 80, 82 and 91, but not necessarily in this order. What was the last grade Piraldo entered?
+> 
+> (A) 71 \quad (B) 76 \quad (C) 80 \quad (D) 82 \quad (E) 91
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

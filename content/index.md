@@ -2,7 +2,7 @@
 title: Raccolta Gare di Matematica
 ---
 
-Archivio di **11708** quesiti da gare di matematica (Giochi di Archimede, Kangourou e altre), con testo, risposta e classificazione per argomento, metodo e abilità.
+Archivio di **13980** quesiti da gare di matematica (Giochi di Archimede, Kangourou e altre), con testo, risposta e classificazione per argomento, metodo e abilità.
 
 ## Esplora
 

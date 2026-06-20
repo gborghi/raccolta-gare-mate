@@ -1,0 +1,56 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2002_n3_f1__Q13
+parent: src_obm_2002_n3_f1
+competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
+family: obm
+year: '2002'
+level: OBM Nível 3
+country: Brasile
+modalita: individuale
+nivel: '3'
+fase: '1'
+quesito: '13'
+summary: Spotting the flaw in a fallacious proof that 4 > 4 starting from a > 4
+qa_score: '2'
+answer: C
+topics:
+  - topic_algebra
+  - topic_logica
+skills:
+  - skill_lettura_attenta
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2002
+  - livello/OBM-Nível-3
+  - nivel/3
+  - fase/1
+  - topic/algebra
+  - topic/logica
+  - gara/individuale
+  - qa/da-verificare
+---
+
+# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 13
+
+*Spotting the flaw in a fallacious proof that 4 > 4 starting from a > 4*
+
+> We are going to prove that 4 is greater than 4. Let $a$ and $b$ be two numbers such that $a>4$ and $a=b$.
+> 1) We subtract 4 from the two terms of this equation: $a=b$, so $a-4=b-4$.
+> 2) We put $-1$ in evidence in the second member of the equation: $a-4=-1(-b+4)$, so $a-4=-1(4-b)$.
+> 3) We raise both terms of the equation to the square: $(a-4)^2=[-1\cdot(4-b)]^2$, so $(a-4)^2=(-1)^2(4-b)^2$, hence $(a-4)^2=1\cdot(4-b)^2$, that is $(a-4)^2=(4-b)^2$.
+> 4) We extract the square root of the two members of the equation: $\sqrt{(a-4)^2}=\sqrt{(4-b)^2}$, so $a-4=4-b$.
+> 5) Since $a=b$, we substitute $b$ for $a$: $a-4=4-a$.
+> 6) We solve the equation: $a-4=4-a$, so $2a=8$, hence $a=4$. Having chosen $a$ such that $a>4$, we arrive at the unbelievable conclusion that $4>4$. Where is the error in the reasoning above?
+> (A) In step 2. (B) In step 3. (C) In step 4. (D) In step 5. (E) In step 6.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
+**Fonte:** apri PDF
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

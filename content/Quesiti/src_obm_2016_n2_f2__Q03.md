@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2016_n2_f2__Q03
+parent: src_obm_2016_n2_f2
+competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2
+family: obm
+year: '2016'
+level: OBM Nível 2
+country: Brasile
+modalita: individuale
+nivel: '2'
+fase: '2'
+quesito: '3'
+summary: Max pairwise sums of 5 distinct integers divisible by 3
+qa_score: '3'
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_casework
+  - method_congruenze
+skills:
+  - skill_conteggio_sistematico
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2016
+  - livello/OBM-Nível-2
+  - nivel/2
+  - fase/2
+  - topic/combinatoria
+  - topic/aritmetica
+  - gara/individuale
+---
+
+# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 3
+
+*Max pairwise sums of 5 distinct integers divisible by 3*
+
+> The sum of the elements of each $2$-element subset of a set $S$ of $5$ distinct integers is calculated. What is the maximum number of these sums that can be divisible by $3$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF

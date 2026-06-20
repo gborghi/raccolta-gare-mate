@@ -1,0 +1,51 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2007_n3_f1__Q01
+parent: src_obm_2007_n3_f1
+competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
+family: obm
+year: '2007'
+level: OBM Nível 3
+country: Brasile
+modalita: individuale
+nivel: '3'
+fase: '1'
+quesito: '1'
+summary: Two overlapping squares; find x+y in degrees
+qa_score: '5'
+answer: D
+topics:
+  - topic_geometria_piana
+methods:
+  - method_simmetria
+skills:
+  - skill_ragionamento_geometrico
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2007
+  - livello/OBM-Nível-3
+  - nivel/3
+  - fase/1
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 1
+
+*Two overlapping squares; find x+y in degrees*
+
+> The figure shows two overlapping squares. What is the value of $x+y$, in degrees?
+> 
+> (A) $270$ \quad (B) $300$ \quad (C) $330$ \quad (D) $360$ \quad (E) $390$
+
+![[src_obm_2007_n3_f1__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** apri PDF

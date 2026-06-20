@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2006_n1_f2__Q05
+parent: src_obm_2006_n1_f2
+competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2
+family: obm
+year: '2006'
+level: OBM Nível 1
+country: Brasile
+modalita: individuale
+nivel: '1'
+fase: '2'
+quesito: '5'
+summary: Water height in cubic tank after placing 25 wooden blocks
+qa_score: '4'
+topics:
+  - topic_geometria_solida
+  - topic_aritmetica
+skills:
+  - skill_modellizzazione
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2006
+  - livello/OBM-Nível-1
+  - nivel/1
+  - fase/2
+  - topic/geometria_solida
+  - topic/aritmetica
+  - gara/individuale
+---
+
+# Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 5
+
+*Water height in cubic tank after placing 25 wooden blocks*
+
+> A cubic reservoir has internal side length $2\,\text{m}$ and contains water up to half its height. Into the reservoir are placed $25$ rectangular wooden blocks, each with dimensions $20 \times 50 \times 160\,\text{cm}$. Knowing that $80\%$ of the volume of each block remains submerged in the water, calculate, in centimetres, the height reached by the water in the reservoir.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF

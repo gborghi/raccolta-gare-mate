@@ -1,0 +1,55 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2015_n2_f2__Q07
+parent: src_obm_2015_n2_f2
+competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2
+family: obm
+year: '2015'
+level: OBM Nível 2
+country: Brasile
+modalita: individuale
+nivel: '2'
+fase: '2'
+quesito: '7'
+summary: Count colorings of a 2x5 chessboard-like grid after pressing buttons
+qa_score: '4'
+topics:
+  - topic_combinatoria
+methods:
+  - method_invarianti
+  - method_casework
+skills:
+  - skill_conteggio_sistematico
+  - skill_ragionamento_geometrico
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2015
+  - livello/OBM-Nível-2
+  - nivel/2
+  - fase/2
+  - topic/combinatoria
+  - gara/individuale
+---
+
+# Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 7
+
+*Count colorings of a 2x5 chessboard-like grid after pressing buttons*
+
+> Maria has a $2 \times 5$ table divided into $1 \times 1$ squares, painted alternately black and white like a chessboard. Associated with each row and each column is a button that swaps the color of every square in that row or column from black to white or from white to black.
+> 
+> (a) Considering the table with the initial coloring shown in the figure above, draw the $2 \times 5$ table with the colors of each square after Maria presses buttons $L2$, $C1$, and $C4$.
+> 
+> (b) Considering again the table with the initial coloring shown in the figure, draw the $2 \times 5$ table with the colors of each square after Maria presses buttons $L1$, $C2$, $C3$, and $C5$.
+> 
+> (c) Maria swapped her $2 \times 5$ table for a $2 \times 2015$ table, as indicated in the figure below. Associated with each row and each column is a button that swaps the color of every square in that row or column, for a total of $2 + 2015 = 2017$ buttons. How many colorings of the $2 \times 2015$ table can be obtained by pressing some of these buttons?
+
+![[src_obm_2015_n2_f2__Q07.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

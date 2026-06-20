@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_1998_n3_f2__Q02
+parent: src_obm_1998_n3_f2
+competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2
+family: obm
+year: '1998'
+level: OBM Nível 3
+country: Brasile
+modalita: individuale
+nivel: '3'
+fase: '2'
+quesito: '2'
+summary: Two children take turns eating balls; strategy for second player to win
+qa_score: '3'
+topics:
+  - topic_combinatoria
+methods:
+  - method_invarianti
+  - method_backward
+  - method_induzione
+skills:
+  - skill_riconoscimento_pattern
+  - skill_lettura_attenta
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/1998
+  - livello/OBM-Nível-3
+  - nivel/3
+  - fase/2
+  - topic/combinatoria
+  - gara/individuale
+---
+
+# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 2
+
+*Two children take turns eating balls; strategy for second player to win*
+
+> There are 20 balls on a table and two children take turns eating them. On each turn, a child must eat at least one ball and at most all the balls currently on the table. In this game, the child who is able to leave exactly one ball on the table wins. Which of the two children — the first or the second to play — can always win? What must they do to win?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

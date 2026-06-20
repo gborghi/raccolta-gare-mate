@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_obm_2007_n1_f1__Q08
+parent: src_obm_2007_n1_f1
+competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
+family: obm
+year: '2007'
+level: OBM Nível 1
+country: Brasile
+modalita: individuale
+nivel: '1'
+fase: '1'
+quesito: '8'
+summary: 'Olympiad: 15% none, 25% partial, 156 solved all; find total participants'
+qa_score: '2'
+answer: B
+topics:
+  - topic_aritmetica
+skills:
+  - skill_manipolazione_algebrica
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/brasile
+  - comp/obm
+  - anno/2007
+  - livello/OBM-Nível-1
+  - nivel/1
+  - fase/1
+  - topic/aritmetica
+  - gara/individuale
+  - qa/da-verificare
+---
+
+# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 8
+
+*Olympiad: 15% none, 25% partial, 156 solved all; find total participants*
+
+> In an olympiad test, $15\%$ of the students solved no problem, $25\%$ solved at least one problem but made some mistake, and the rest, $156$ students, solved all the problems correctly. The number of students who participated in the olympiad was:
+> 
+> (A) 200 \quad (B) 260 \quad (C) 93 \quad (D) 223 \quad (E) 300
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** apri PDF
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
