@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_rmo_2015_r1__Q04
+parent: src_rmo_2015_r1
+competition: Regional Mathematical Olympiad 2015
+family: rmo
+year: '2015'
+level: RMO
+country: India
+modalita: individuale
+quesito: '4'
+summary: >-
+  Count ways to choose 3 non-adjacent non-diametrically-opposite objects from 28
+  in a circle
+regioni:
+  - Region 1
+qa_score: '4'
+topics:
+  - topic_combinatoria
+methods:
+  - method_conteggio
+  - method_inclusione_esclusione
+  - method_casework
+skills:
+  - skill_conteggio_sistematico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/india
+  - comp/rmo
+  - anno/2015
+  - livello/RMO
+  - topic/combinatoria
+  - regione/r1
+  - gara/individuale
+---
+
+# Regional Mathematical Olympiad 2015 — Region 1 — Quesito 4
+
+*Count ways to choose 3 non-adjacent non-diametrically-opposite objects from 28 in a circle*
+
+> Suppose 28 objects are placed along a circle at equal distances. In how many ways can 3 objects be chosen from among them so that no two of the three chosen objects are adjacent nor diametrically opposite?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

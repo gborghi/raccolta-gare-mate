@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_inmo_2006__Q01
+parent: src_inmo_2006
+competition: Indian National Mathematical Olympiad 2006
+family: inmo
+year: '2006'
+level: INMO
+country: India
+modalita: individuale
+quesito: '1'
+summary: 'Triangle with AP sides: IO perp BI, I circumcenter of DKE'
+qa_score: '5'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_trigonometria
+  - method_coordinate
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/india
+  - comp/inmo
+  - anno/2006
+  - livello/INMO
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+# Indian National Mathematical Olympiad 2006 — Quesito 1
+
+*Triangle with AP sides: IO perp BI, I circumcenter of DKE*
+
+> In a non-equilateral triangle $ABC$, the sides $a, b, c$ form an arithmetic progression. Let $I$ and $O$ denote the incentre and circumcentre of the triangle respectively.
+> 
+> (i) Prove that $IO$ is perpendicular to $BI$.
+> 
+> (ii) Suppose $BI$ extended meets $AC$ in $K$, and $D$, $E$ are the midpoints of $BC$, $BA$ respectively. Prove that $I$ is the circumcentre of triangle $DKE$.
+
+![[src_inmo_2006__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF

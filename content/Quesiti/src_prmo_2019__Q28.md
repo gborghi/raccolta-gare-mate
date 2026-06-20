@@ -1,0 +1,41 @@
+---
+tipo: quesito
+quesito_id: quesito_src_prmo_2019__Q28
+parent: src_prmo_2019
+competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
+family: prmo
+year: '2019'
+level: PRMO
+country: India
+modalita: individuale
+quesito: '28'
+summary: Largest integer not exceeding r1+r2+r3 for incircle corner triangles
+qa_score: '4'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_simmetria
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/india
+  - comp/prmo
+  - anno/2019
+  - livello/PRMO
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 28
+
+*Largest integer not exceeding r1+r2+r3 for incircle corner triangles*
+
+> Let $ABC$ be a triangle with sides 51, 52, 53. Let $\Omega$ denote the incircle of $\triangle ABC$. Draw tangents to $\Omega$ which are parallel to the sides of $ABC$. Let $r_1, r_2, r_3$ be the inradii of the three corner triangles so formed. Find the largest integer that does not exceed $r_1 + r_2 + r_3$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF

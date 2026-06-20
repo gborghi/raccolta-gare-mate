@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_rmo_2012_r2__Q04
+parent: src_rmo_2012_r2
+competition: Regional Mathematical Olympiad 2012
+family: rmo
+year: '2012'
+level: RMO
+country: India
+modalita: individuale
+quesito: '4'
+summary: 'Count pairs {A,B} with A,B subsets of {1,...,12} satisfying conditions'
+regioni:
+  - Region 2
+qa_score: '4'
+topics:
+  - topic_combinatoria
+methods:
+  - method_conteggio
+  - method_casework
+skills:
+  - skill_conteggio_sistematico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/india
+  - comp/rmo
+  - anno/2012
+  - livello/RMO
+  - topic/combinatoria
+  - regione/r2
+  - gara/individuale
+---
+
+# Regional Mathematical Olympiad 2012 — Region 2 — Quesito 4
+
+*Count pairs {A,B} with A,B subsets of {1,...,12} satisfying conditions*
+
+> Let $X = \{1, 2, 3, \ldots, 12\}$. Find the number of pairs $\{A, B\}$ such that $A \subseteq X$, $B \subseteq X$, $A \neq B$ and $A \cap B = \{2, 3, 5, 7, 8\}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

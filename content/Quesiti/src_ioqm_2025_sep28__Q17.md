@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_ioqm_2025_sep28__Q17
+parent: src_ioqm_2025_sep28
+competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
+family: ioqm
+year: '2025'
+level: IOQM
+country: India
+modalita: individuale
+quesito: '17'
+summary: Minimum cards to draw guaranteeing product divisible by 6
+regioni:
+  - Sep 28
+qa_score: '5'
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_casework
+  - method_estremalita
+skills:
+  - skill_casework_accurato
+  - skill_lettura_attenta
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/india
+  - comp/ioqm
+  - anno/2025
+  - livello/IOQM
+  - topic/combinatoria
+  - topic/aritmetica
+  - regione/sep28
+  - gara/individuale
+---
+
+# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 17
+
+*Minimum cards to draw guaranteeing product divisible by 6*
+
+> There are 100 cards in a box which are numbered from 1 to 100. While being blindfolded, Mainak is going to draw one or more cards from the box. After that, he will remove his blindfold and multiply together the numbers on these cards. Mainak wants the product of the numbers on the cards drawn to be a multiple of 6. How many cards does he need to draw to make sure that this will happen?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF

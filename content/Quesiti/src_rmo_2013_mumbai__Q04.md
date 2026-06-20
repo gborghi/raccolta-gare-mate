@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_rmo_2013_mumbai__Q04
+parent: src_rmo_2013_mumbai
+competition: Regional Mathematical Olympiad 2013
+family: rmo
+year: '2013'
+level: RMO
+country: India
+modalita: individuale
+quesito: '4'
+summary: 'Triangle with D,E on BC,AC; P on ED; find ratio BS/SD'
+regioni:
+  - Mumbai
+qa_score: '4'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_coordinate
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/india
+  - comp/rmo
+  - anno/2013
+  - livello/RMO
+  - topic/geometria_piana
+  - regione/mumbai
+  - gara/individuale
+---
+
+# Regional Mathematical Olympiad 2013 — Mumbai — Quesito 4
+
+*Triangle with D,E on BC,AC; P on ED; find ratio BS/SD*
+
+> In a triangle $ABC$, points $D$ and $E$ are on segments $BC$ and $AC$ such that $BD = 3DC$ and $AE = 4EC$. Point $P$ is on line $ED$ such that $D$ is the midpoint of segment $EP$. Lines $AP$ and $BC$ intersect at point $S$. Find the ratio $BS/SD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF

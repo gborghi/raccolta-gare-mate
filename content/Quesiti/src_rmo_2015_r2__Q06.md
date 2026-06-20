@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_rmo_2015_r2__Q06
+parent: src_rmo_2015_r2
+competition: Regional Mathematical Olympiad 2015
+family: rmo
+year: '2015'
+level: RMO
+country: India
+modalita: individuale
+quesito: '6'
+summary: 'Find real a with 4<a<5 such that a(a-3{a}) is integer'
+regioni:
+  - Region 2
+qa_score: '5'
+topics:
+  - topic_algebra
+  - topic_aritmetica
+methods:
+  - method_casework
+  - method_fattorizzazione
+skills:
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/india
+  - comp/rmo
+  - anno/2015
+  - livello/RMO
+  - topic/algebra
+  - topic/aritmetica
+  - regione/r2
+  - gara/individuale
+---
+
+# Regional Mathematical Olympiad 2015 — Region 2 — Quesito 6
+
+*Find real a with 4<a<5 such that a(a-3{a}) is integer*
+
+> Find all real numbers $a$ such that $4 < a < 5$ and $a(a - 3\{a\})$ is an integer. (Here $\{a\}$ denotes the fractional part of $a$. For example $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF

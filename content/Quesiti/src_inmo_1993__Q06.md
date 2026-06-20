@@ -1,0 +1,38 @@
+---
+tipo: quesito
+quesito_id: quesito_src_inmo_1993__Q06
+parent: src_inmo_1993
+competition: Indian National Mathematical Olympiad 1993
+family: inmo
+year: '1993'
+level: INMO
+country: India
+modalita: individuale
+quesito: '6'
+summary: Two circles tangent to sides of right triangle; product of radii equals area
+qa_score: '4'
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/india
+  - comp/inmo
+  - anno/1993
+  - livello/INMO
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+# Indian National Mathematical Olympiad 1993 — Quesito 6
+
+*Two circles tangent to sides of right triangle; product of radii equals area*
+
+> Let $\mathscr{S}$ be a semicircle of a right triangle $ABC$ with $\angle A = 90^\circ$. Circle $\mathscr{S}_1$ is tangent to the lines $AB$ and $AC$ and internally to $\mathscr{S}$. Circle $\mathscr{S}_2$ is tangent to $AB$ and $AC$ and externally to $\mathscr{S}$. If $r_1, r_2$ are the radii of $S_1$ and $S_2$, prove that $r_1 \cdot r_2$ equals four times the area of $\triangle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF

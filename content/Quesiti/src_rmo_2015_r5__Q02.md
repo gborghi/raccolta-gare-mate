@@ -1,0 +1,48 @@
+---
+tipo: quesito
+quesito_id: quesito_src_rmo_2015_r5__Q02
+parent: src_rmo_2015_r5
+competition: Regional Mathematical Olympiad 2015
+family: rmo
+year: '2015'
+level: RMO
+country: India
+modalita: individuale
+quesito: '2'
+summary: Count 3-digit base-10 numbers with at least one 5 and at most one 2
+regioni:
+  - Region 5
+qa_score: '3'
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_casework
+  - method_inclusione_esclusione
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/india
+  - comp/rmo
+  - anno/2015
+  - livello/RMO
+  - topic/combinatoria
+  - topic/aritmetica
+  - regione/r5
+  - gara/individuale
+---
+
+# Regional Mathematical Olympiad 2015 — Region 5 — Quesito 2
+
+*Count 3-digit base-10 numbers with at least one 5 and at most one 2*
+
+> Determine the number of 3-digit numbers in base 10 having at least one 5 and at most one 2.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF
