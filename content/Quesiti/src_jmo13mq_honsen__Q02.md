@@ -1,0 +1,54 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jmo13mq_honsen__Q02
+parent: src_jmo13mq_honsen
+competition: Japan Mathematical Olympiad 2003 — Honsen (Final)
+family: jmo
+year: '2003'
+level: JMO Honsen
+country: Giappone
+modalita: individuale
+quesito: '2'
+summary: Find all pairs of positive integers with digit and divisibility conditions
+qa_score: '5'
+topics:
+  - topic_aritmetica
+methods:
+  - method_congruenze
+  - method_fattorizzazione
+  - method_casework
+skills:
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jmo
+  - anno/2003
+  - livello/JMO-Honsen
+  - topic/aritmetica
+  - gara/individuale
+---
+
+# Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 2
+
+*Find all pairs of positive integers with digit and divisibility conditions*
+
+> Let $a, b$ be positive integers each expressible in base 10 with $2n$ digits, where the leading digit is not zero. Moreover, the following three conditions all hold:
+> 
+> (1) The upper $n$ digits of $a$ and the lower $n$ digits of $b$ are equal, and the lower $n$ digits of $a$ and the upper $n$ digits of $b$ are equal.
+> 
+> (2) $a < b$.
+> 
+> (3) $b$ is a multiple of $a$.
+> 
+> Find all such pairs $(a, b)$.
+> 
+> For example, when $a = 1234$ and $b = 3412$, conditions (1) and (2) hold but (3) does not.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF

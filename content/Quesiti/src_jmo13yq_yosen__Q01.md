@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jmo13yq_yosen__Q01
+parent: src_jmo13yq_yosen
+competition: Japan Mathematical Olympiad 2003 — Yosen (Preliminary)
+family: jmo
+year: '2003'
+level: JMO Yosen
+country: Giappone
+modalita: individuale
+quesito: '1'
+summary: Pay 777 yen with fewest coins; change is allowed
+qa_score: '3'
+answer: '6'
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_casework
+  - method_estremalita
+skills:
+  - skill_casework_accurato
+  - skill_conteggio_sistematico
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jmo
+  - anno/2003
+  - livello/JMO-Yosen
+  - topic/aritmetica
+  - topic/combinatoria
+  - gara/individuale
+---
+
+# Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 1
+
+*Pay 777 yen with fewest coins; change is allowed*
+
+> Using 1-yen, 5-yen, 10-yen, 50-yen, 100-yen, and 500-yen coins, pay exactly $777$ yen so that the total number of coins paid is as small as possible. Find this minimum total number of coins. You may use any number of coins of each denomination; you need not use every denomination. You may also receive change (i.e., you may overpay and receive the difference back).
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 6
+**Fonte:** apri PDF

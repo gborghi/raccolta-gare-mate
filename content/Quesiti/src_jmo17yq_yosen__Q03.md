@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jmo17yq_yosen__Q03
+parent: src_jmo17yq_yosen
+competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
+family: jmo
+year: '2007'
+level: JMO Yosen
+country: Giappone
+modalita: individuale
+quesito: '3'
+summary: Minimum product AP times BP for a point P at distance 3 from segment AB
+qa_score: '4'
+answer: '$\dfrac{85}{4}$'
+topics:
+  - topic_geometria_analitica
+  - topic_algebra
+methods:
+  - method_estremalita
+  - method_coordinate
+skills:
+  - skill_manipolazione_algebrica
+  - skill_stima
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jmo
+  - anno/2007
+  - livello/JMO-Yosen
+  - topic/geometria_analitica
+  - topic/algebra
+  - gara/individuale
+---
+
+# Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 3
+
+*Minimum product AP times BP for a point P at distance 3 from segment AB*
+
+> A segment $AB$ of length $7$ lies on a plane. Let $P$ be a point on the plane such that the distance from $P$ to line $AB$ is $3$. Find the minimum value of $AP \times BP$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Risposta:** $\dfrac{85}{4}$
+**Fonte:** apri PDF

@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jjmo10yq_yosen__Q01
+parent: src_jjmo10yq_yosen
+competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
+family: jjmo
+year: '2012'
+level: JJMO Yosen
+country: Giappone
+modalita: individuale
+quesito: '1'
+summary: Two people climb stairs at different rates; find possible stair counts
+qa_score: '3'
+answer: '19, 20, 21, 22'
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_casework
+  - method_casi_conteggio
+skills:
+  - skill_casework_accurato
+  - skill_conteggio_sistematico
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jjmo
+  - anno/2012
+  - livello/JJMO-Yosen
+  - topic/aritmetica
+  - topic/combinatoria
+  - gara/individuale
+---
+
+# Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 1
+
+*Two people climb stairs at different rates; find possible stair counts*
+
+> Person $A$ climbs $2$ steps at a time and person $B$ climbs $3$ steps at a time. However, both of them can also climb $1$ step at a time. The last step before the top must be climbed by both $A$ and $B$ in one step. When they climbed the staircase, the total number of steps taken by $A$ and $B$ together was $16$. Find all possible values for the number of stairs in the staircase.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 19, 20, 21, 22
+**Fonte:** apri PDF

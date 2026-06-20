@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jjmo18yq_yosen__Q05
+parent: src_jjmo18yq_yosen
+competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
+family: jjmo
+year: '2020'
+level: JJMO Yosen
+country: Giappone
+modalita: individuale
+quesito: '5'
+summary: Length PQ connecting midpoints of diagonals in isosceles trapezoid ABCD
+qa_score: '3'
+answer: '\dfrac{7}{2}'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_coordinate
+  - method_trigonometria
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jjmo
+  - anno/2020
+  - livello/JJMO-Yosen
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+# Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 5
+
+*Length PQ connecting midpoints of diagonals in isosceles trapezoid ABCD*
+
+> In isosceles trapezoid $ABCD$, $AB = CD = 7$, $DA = 6$, $\angle B = 72^\circ$, $\angle C = 48^\circ$. Let $P$ and $Q$ be the midpoints of diagonals $AC$ and $BD$, respectively. Find the length $PQ$. Here $XY$ denotes the length of segment $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Risposta:** $\dfrac{7}{2}$
+**Fonte:** apri PDF

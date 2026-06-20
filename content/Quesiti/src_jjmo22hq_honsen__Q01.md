@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jjmo22hq_honsen__Q01
+parent: src_jjmo22hq_honsen
+competition: Japan Junior Mathematical Olympiad 2024 — Honsen (Final)
+family: jjmo
+year: '2024'
+level: JJMO Honsen
+country: Giappone
+modalita: individuale
+quesito: '1'
+summary: Inequality for positive reals satisfying a ratio condition
+qa_score: '3'
+topics:
+  - topic_disuguaglianze
+  - topic_algebra
+methods:
+  - method_manipolazione_algebrica
+  - method_disuguaglianze
+skills:
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jjmo
+  - anno/2024
+  - livello/JJMO-Honsen
+  - topic/disuguaglianze
+  - topic/algebra
+  - gara/individuale
+---
+
+# Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 1
+
+*Inequality for positive reals satisfying a ratio condition*
+
+> Let $a, b, c, d$ be positive reals satisfying $\dfrac{ab}{cd} = \dfrac{a+b}{c+d}$. Prove that
+> $$( a+b)(c+d) \ge (a+c)(b+d).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_manipolazione_algebrica|method_manipolazione_algebrica]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** apri PDF

@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_selection_camp_2016__Q01
+parent: src_selection_camp_2016
+competition: Japan IMO Selection Camp 2016 — Selection Camp
+family: jcamp
+year: '2016'
+level: CAMP Selection Camp
+country: Giappone
+modalita: individuale
+quesito: '1'
+summary: 'Angle bisector, circumcircle tangent, circumcircle intersection angle equality'
+qa_score: '5'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_trigonometria
+  - method_simmetria
+skills:
+  - skill_ragionamento_geometrico
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jcamp
+  - anno/2016
+  - livello/CAMP-Selection-Camp
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+# Japan IMO Selection Camp 2016 — Selection Camp — Quesito 1
+
+*Angle bisector, circumcircle tangent, circumcircle intersection angle equality*
+
+> Let $ABC$ be an acute triangle, and let $M$ be the midpoint of side $BC$. Let $\ell$ be the angle bisector of $\angle BAC$, and let $D$ be the intersection of $\ell$ with the tangent to the circumcircle of triangle $ABC$ at $C$. Let $H$ be a point on $\ell$ such that $\angle ABH = 90^\circ$. Let $P$ be the second intersection point (other than $C$) of the circumcircle of triangle $CDH$ and the circumcircle of triangle $ABC$. Prove that $\angle CPM = \angle ACB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF

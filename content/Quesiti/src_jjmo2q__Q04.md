@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jjmo2q__Q04
+parent: src_jjmo2q
+competition: Japan Junior Mathematical Olympiad 2004
+family: jjmo
+year: '2004'
+level: JJMO
+country: Giappone
+modalita: individuale
+quesito: '4'
+summary: 'System of equations in positive integers, find n'
+qa_score: '4'
+topics:
+  - topic_algebra
+  - topic_aritmetica
+methods:
+  - method_casework
+  - method_fattorizzazione
+skills:
+  - skill_manipolazione_algebrica
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jjmo
+  - anno/2004
+  - livello/JJMO
+  - topic/algebra
+  - topic/aritmetica
+  - gara/individuale
+---
+
+# Japan Junior Mathematical Olympiad 2004 — Quesito 4
+
+*System of equations in positive integers, find n*
+
+> $m, n$ are positive integers satisfying the following conditions:
+> $$\begin{cases} 3m - 1 = n \\ (n - 7)m = 16 \end{cases}$$
+> Find $n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF

@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jjmo10yq_yosen__Q02
+parent: src_jjmo10yq_yosen
+competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
+family: jjmo
+year: '2012'
+level: JJMO Yosen
+country: Giappone
+modalita: individuale
+quesito: '2'
+summary: Count palindromes at most 2012 with reversed-order equal original
+qa_score: '3'
+answer: '119'
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_casework
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+  - skill_casework_accurato
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jjmo
+  - anno/2012
+  - livello/JJMO-Yosen
+  - topic/aritmetica
+  - topic/combinatoria
+  - gara/individuale
+---
+
+# Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 2
+
+*Count palindromes at most 2012 with reversed-order equal original*
+
+> A positive integer is called a palindrome if its digits read in reverse order give the same number (with no leading zeros). For example, $1234$ is not a palindrome since reading in reverse gives $4321$, which is not equal to $1234$. How many palindromes are there that are at most $2012$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 119
+**Fonte:** apri PDF

@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jmo15yq_yosen__Q07
+parent: src_jmo15yq_yosen
+competition: Japan Mathematical Olympiad 2005 — Yosen (Preliminary)
+family: jmo
+year: '2005'
+level: JMO Yosen
+country: Giappone
+modalita: individuale
+quesito: '7'
+summary: 'Count positive integers n<50 expressible as a^2-b^2 with a,b>=1 integers'
+qa_score: '3'
+answer: '33'
+topics:
+  - topic_aritmetica
+methods:
+  - method_fattorizzazione
+  - method_casework
+skills:
+  - skill_manipolazione_algebrica
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jmo
+  - anno/2005
+  - livello/JMO-Yosen
+  - topic/aritmetica
+  - gara/individuale
+---
+
+# Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 7
+
+*Count positive integers n<50 expressible as a^2-b^2 with a,b>=1 integers*
+
+> How many positive integers $n$ less than $50$ satisfy the following condition: there exist integers $a \ge 1$ and $b \ge 1$ such that $a^2 - b^2 = n$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 33
+**Fonte:** apri PDF

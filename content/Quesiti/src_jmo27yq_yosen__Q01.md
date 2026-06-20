@@ -1,0 +1,46 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jmo27yq_yosen__Q01
+parent: src_jmo27yq_yosen
+competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
+family: jmo
+year: '2017'
+level: JMO Yosen
+country: Giappone
+modalita: individuale
+quesito: '1'
+summary: Area of quadrilateral with three 30-degree angles
+qa_score: '4'
+answer: '$\dfrac{3\sqrt{3}}{2}$'
+topics:
+  - topic_geometria_piana
+  - topic_trigonometria
+methods:
+  - method_trigonometria
+  - method_coordinate
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jmo
+  - anno/2017
+  - livello/JMO-Yosen
+  - topic/geometria_piana
+  - topic/trigonometria
+  - gara/individuale
+---
+
+# Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 1
+
+*Area of quadrilateral with three 30-degree angles*
+
+> Quadrilateral $ABCD$ satisfies $\angle A=\angle B=\angle C=30^\circ$, $AB=4$, and $BC=2\sqrt{3}$. Find the area of quadrilateral $ABCD$. (If the answer contains a radical $\sqrt{XY}$, give the value $XY$ under the radical.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** $\dfrac{3\sqrt{3}}{2}$
+**Fonte:** apri PDF

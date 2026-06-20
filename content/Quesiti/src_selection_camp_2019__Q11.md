@@ -1,0 +1,53 @@
+---
+tipo: quesito
+quesito_id: quesito_src_selection_camp_2019__Q11
+parent: src_selection_camp_2019
+competition: Japan IMO Selection Camp 2019 — Selection Camp
+family: jcamp
+year: '2019'
+level: CAMP Selection Camp
+country: Giappone
+modalita: individuale
+quesito: '11'
+summary: L/R relabel-and-move game on n+2 cells; find second-player wins
+qa_score: '4'
+topics:
+  - topic_combinatoria
+  - topic_logica
+methods:
+  - method_invarianti
+  - method_casework
+  - method_estremalita
+skills:
+  - skill_modellizzazione
+  - skill_casework_accurato
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jcamp
+  - anno/2019
+  - livello/CAMP-Selection-Camp
+  - topic/combinatoria
+  - topic/logica
+  - gara/individuale
+---
+
+# Japan IMO Selection Camp 2019 — Selection Camp — Quesito 11
+
+*L/R relabel-and-move game on n+2 cells; find second-player wins*
+
+> Let $n$ be a positive integer. There are $n+2$ cells arranged in a single row. On each of the $n$ cells other than the two ends, exactly one of the letters L or R is written, and a single piece is placed on one of the cells other than the two ends. The following operation is performed until the piece is placed on one of the two end cells:
+> 
+> - When the letter written on the cell holding the piece is L, rewrite that letter to R, then choose a cell to the left of that cell and move the piece there.
+> - When the letter written on the cell holding the piece is R, rewrite that letter to L, then choose a cell to the right of that cell and move the piece there.
+> 
+> (1) Prove that, from any starting state (the written letters and the position of the piece), only finitely many operations can be performed.
+> 
+> (2) Consider the game in which two players perform operations alternately and the player who performs the last operation loses. Find all starting states from which the second player can win regardless of how the first player plays.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

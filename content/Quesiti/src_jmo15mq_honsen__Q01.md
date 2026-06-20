@@ -1,0 +1,42 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jmo15mq_honsen__Q01
+parent: src_jmo15mq_honsen
+competition: Japan Mathematical Olympiad 2005 — Honsen (Final)
+family: jmo
+year: '2005'
+level: JMO Honsen
+country: Giappone
+modalita: individuale
+quesito: '1'
+summary: Flipping 5-in-a-row coins on 17x17 grid to all tails
+qa_score: '5'
+topics:
+  - topic_combinatoria
+methods:
+  - method_invarianti
+  - method_colorazione
+skills:
+  - skill_astrazione
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jmo
+  - anno/2005
+  - livello/JMO-Honsen
+  - topic/combinatoria
+  - gara/individuale
+---
+
+# Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 1
+
+*Flipping 5-in-a-row coins on 17x17 grid to all tails*
+
+> Coins, each with a distinguishable head (front) and tail (back), are arranged in a $17 \times 17$ square array, all placed heads up. In one operation, one simultaneously flips $5$ consecutive coins in a column, $5$ consecutive coins in a row, or $5$ consecutive coins along a diagonal. By repeating this operation some number of times, is it possible to reach the state in which all coins are tails up?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

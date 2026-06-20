@@ -1,0 +1,44 @@
+---
+tipo: quesito
+quesito_id: quesito_src_jmo11mq_honsen__Q02
+parent: src_jmo11mq_honsen
+competition: Japan Mathematical Olympiad 2001 — Honsen (Final)
+family: jmo
+year: '2001'
+level: JMO Honsen
+country: Giappone
+modalita: individuale
+quesito: '2'
+summary: Digit-product map f(n); find all positive integers n with f(n)=n
+qa_score: '4'
+topics:
+  - topic_aritmetica
+methods:
+  - method_fattorizzazione
+  - method_casework
+  - method_estremalita
+skills:
+  - skill_manipolazione_algebrica
+  - skill_conteggio_sistematico
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/giappone
+  - comp/jmo
+  - anno/2001
+  - livello/JMO-Honsen
+  - topic/aritmetica
+  - gara/individuale
+---
+
+# Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 2
+
+*Digit-product map f(n); find all positive integers n with f(n)=n*
+
+> For a positive integer $n$ written in decimal as $n = \overline{a_m a_{m-1} \cdots a_1}$ with $a_m \ne 0$ and $0 \le a_i \le 9$, define $$f(n) = (a_m + 1)(a_{m-1} + 1) \cdots (a_1 + 1).$$ Find all positive integers $n$ satisfying $f(n) = n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF
