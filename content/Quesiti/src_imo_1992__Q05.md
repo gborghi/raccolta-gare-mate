@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1992__Q05
 parent: src_imo_1992
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1992 (33rd IMO, Moscow) — Quesito 5
 
 *Bound point-set size by product of projection sizes*
 

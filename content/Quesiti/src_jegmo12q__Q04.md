@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2023 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jegmo12q__Q04
 parent: src_jegmo12q
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2023 — Quesito 4
 
 *Sequence a_{n+1}=a_n·⌊a_n⌋; prove a_n=a_1 for all positive integers n*
 

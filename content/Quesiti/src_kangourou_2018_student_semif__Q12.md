@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q12
 parent: src_kangourou_2018_student_semif
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 12
 
 *Quanti polinomi x^3+bx^2+cx+4 con p(2)=0 e b,c in [-2018,2018]*
 

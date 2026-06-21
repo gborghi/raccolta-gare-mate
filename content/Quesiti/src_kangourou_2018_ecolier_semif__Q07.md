@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q07
 parent: src_kangourou_2018_ecolier_semif
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 7
 
 *Somma massima riempiendo 4x4 con 1 e 3 e vincolo 2x2*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q30
 parent: src_kangourou_2020_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - gara marzo (biennio) — Quesito 30
 
 *Somma cifre del minore di 8 interi divisibili per ultima cifra*
 

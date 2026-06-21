@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1996 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1996__Q06
 parent: src_inmo_1996
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1996 — Quesito 6
 
 *2n×2n binary array with 5n zeros; delete n rows and n columns to remove all zeros*
 

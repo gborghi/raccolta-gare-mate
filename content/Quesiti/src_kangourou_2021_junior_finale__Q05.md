@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q05
 parent: src_kangourou_2021_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 5
 
 *Riempire griglia mxn con somme colonna costanti*
 

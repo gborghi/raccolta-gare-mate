@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q01
 parent: src_kangourou_2011_squadre_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A — Quesito 1
 
 *Ora a S.Francisco all'arrivo del volo da Londra*
 

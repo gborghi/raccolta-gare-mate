@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n1_f2__Q08
 parent: src_obm_2006_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 8
 
 *Maximum number of distinct total masses from six discs of 1–6 kg*
 

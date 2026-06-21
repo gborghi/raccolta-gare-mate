@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1993-94 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1993-94_round1__Q04
 parent: src_bmo_1993-94_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1993-94 — Round 1 — Quesito 4
 
 *Tangent circle and circumcircle configuration; prove angle PAR equals angle ABC*
 

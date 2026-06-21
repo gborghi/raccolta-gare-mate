@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q23
 parent: src_kangourou_2014_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 23
 
 *Cifra nella casella grigia dell’addizione con 0..6*
 

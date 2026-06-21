@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n2_fx__Q05
 parent: src_obm_2025_n2_fx
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 5
 
 *Integer-coefficient quadratic with positive real root less than 1/2*
 

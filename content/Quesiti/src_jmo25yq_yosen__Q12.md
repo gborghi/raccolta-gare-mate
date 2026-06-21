@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo25yq_yosen__Q12
 parent: src_jmo25yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 12
 
 *Find maximum constant a such that any black-white colored grid always admits a·n² non-overlapping L-tromino placements*
 

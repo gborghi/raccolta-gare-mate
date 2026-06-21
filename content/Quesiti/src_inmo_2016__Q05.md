@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2016 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2016__Q05
 parent: src_inmo_2016
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2016 — Quesito 5
 
 *Right triangle, equal inradii of sub-triangles, prove 1/r'=1/r+1/BD*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo11yq_yosen__Q12
 parent: src_jjmo11yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 12
 
 *Perimeter of union of 2013 unit circles*
 

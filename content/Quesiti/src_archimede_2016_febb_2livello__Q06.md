@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q06
 parent: src_archimede_2016_febb_2livello
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2016 - 2 livello — Quesito 6
 
 *Minimo k con a_2016 multiplo di 3^4031 7^4027 nella ricorrenza*
 

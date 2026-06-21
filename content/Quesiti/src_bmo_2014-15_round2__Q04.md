@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2014-15 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2014-15_round2__Q04
 parent: src_bmo_2014-15_round2
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2014-15 — Round 2 — Quesito 4
 
 *Determine whether a 100-loop of integer-coordinate points exists.*
 

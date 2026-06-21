@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q10
 parent: src_cesenatico_2012_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 10
 
 *Somma interi 3 cifre con cifra 3 o 6 (fusion)*
 

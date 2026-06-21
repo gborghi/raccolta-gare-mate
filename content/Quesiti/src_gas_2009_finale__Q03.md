@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q03
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 3
 
 *Massimo numero di elfi tra prigionieri sinceri/bugiardi*
 

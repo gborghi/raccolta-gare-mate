@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q10
 parent: src_kangourou_2000_studenti
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 10
 
 *Togliere 4 cifre per minimo numero di 3 cifre*
 

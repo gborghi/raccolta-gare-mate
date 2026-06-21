@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q08
 parent: src_kangourou_2019_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 8
 
 *Massima somma cifre in base 6 per intero fino a 2019*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Junior 2024
 tipo: gara
 src_id: src_kangourou_2024_junior_finale
 competition: Kangourou Finale Junior 2024
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Kangourou Finale Junior 2024
 
 Sorgente: `Kangaroo/kangourou_individuali/2024/Junior2024RFIN.pdf` · apri PDF
 

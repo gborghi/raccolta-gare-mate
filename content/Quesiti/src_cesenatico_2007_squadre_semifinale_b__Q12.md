@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q12
 parent: src_cesenatico_2007_squadre_semifinale_b
@@ -25,8 +26,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 12
 
 *Massimo di 105cos t -208sin t +103*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student finale individuale
 tipo: gara
 src_id: src_kangourou_2021_student_finale
 competition: Kangourou 2021 Student finale individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Kangourou 2021 Student finale individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2021/Student2021RFIN.pdf` · apri PDF
 

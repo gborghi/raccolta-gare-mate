@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q23
 parent: src_kangourou_2019_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 23
 
 *Quale terna non compare nella sequenza 1..99 a gruppi di 3*
 

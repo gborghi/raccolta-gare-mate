@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q05
 parent: src_kangourou_2017_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 5
 
 *Collezioni di figurine ottenibili nel gioco JUMP*
 

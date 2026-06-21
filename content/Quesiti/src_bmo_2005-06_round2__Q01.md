@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2005-06 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2005-06_round2__Q01
 parent: src_bmo_2005-06_round2
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2005-06 — Round 2 — Quesito 1
 
 *Minimize x^2+y^2 under a polynomial constraint*
 

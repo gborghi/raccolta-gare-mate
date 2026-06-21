@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q07
 parent: src_ioqm_2024
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 7
 
 *Sum of all surface areas of a cube with two given vertices*
 

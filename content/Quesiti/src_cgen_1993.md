@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1993 — Matematica
 tipo: gara
 src_id: src_cgen_1993
 competition: Concours Général des Lycées 1993 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/1993
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1993 — Matematica
 
 Sorgente: apri PDF
 

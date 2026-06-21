@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo30yq_yosen__Q06
 parent: src_jmo30yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 6
 
 *Three nested squares with two shared vertices, find shaded area*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q27
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 27
 
 *Colour 4x4 chessboard red/blue so each row and column has exactly 2 red and 2 blue, count ways*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Gara 17 marzo — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student__Q07
 parent: src_kangourou_2022_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Gara 17 marzo — Quesito 7
 
 *Soluzioni reali di (x-2)²+(x+2)²=0*
 

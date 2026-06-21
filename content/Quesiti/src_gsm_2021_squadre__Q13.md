@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q13
 parent: src_gsm_2021_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 13
 
 *somma max e min che dicono il vero*
 

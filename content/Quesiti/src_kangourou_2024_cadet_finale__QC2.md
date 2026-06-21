@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Cadet 2024 — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC2
 parent: src_kangourou_2024_cadet_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Finale Cadet 2024 — Quesito C2
 
 *Sono di piu le frazioni riducibili o irriducibili (1..12)*
 

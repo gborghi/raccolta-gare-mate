@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1992 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_1992__Q02
 parent: src_cgen_1992
@@ -34,8 +35,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1992 — Matematica — Quesito 2
 
 *Inscribed triangles and quadrilaterals maximising sum of squared sides*
 

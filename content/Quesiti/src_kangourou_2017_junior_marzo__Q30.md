@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q30
 parent: src_kangourou_2017_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Gara 16 marzo — Quesito 30
 
 *Valori possibili di MB con tangente e differenza 6*
 

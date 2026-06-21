@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q03
 parent: src_kangourou_2002_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 3
 
 *Applausi per multipli o cifra 3*
 

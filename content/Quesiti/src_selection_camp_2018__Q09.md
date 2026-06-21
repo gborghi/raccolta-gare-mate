@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q09
 parent: src_selection_camp_2018
@@ -34,8 +35,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 9
 
 *Operation * on finite sets of positive integers; A*B=B*A implies iterated star associativity*
 

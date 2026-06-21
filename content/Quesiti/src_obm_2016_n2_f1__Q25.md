@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f1__Q25
 parent: src_obm_2016_n2_f1
@@ -38,8 +39,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 25
 
 *Every necklace of 9 two-colour pearls contains two equivalent 5-pearl sequences*
 

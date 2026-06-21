@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Student finale — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_student_finale__QS3
 parent: src_kangourou_2025_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2025 Student finale — Quesito S3
 
 *piu lungo del diametro?*
 

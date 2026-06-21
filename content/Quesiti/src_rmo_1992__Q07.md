@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_1992__Q07
 parent: src_rmo_1992
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992 — Quesito 7
 
 *Prove the inequality 1 < sum of 1/(1001) to 1/(3001) < 4/3.*
 

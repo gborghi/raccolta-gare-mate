@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2015 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_printemps__Q05
 parent: src_canimath_2015_printemps
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2015 — Quesito 5
 
 *2015 positive integers on circle; find two neighbors whose removal unbalances equal-sum split*
 

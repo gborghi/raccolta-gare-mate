@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior (20 marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior__Q09
 parent: src_kangourou_2003_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior (20 marzo) — Quesito 9
 
 *Quale modulo e il quarto (parallelepipedo)*
 

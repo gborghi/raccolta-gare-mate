@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio
 tipo: gara
 src_id: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2011/GiochiArchimede2011.pdf` · apri PDF
 

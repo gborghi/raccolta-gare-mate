@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f2__Q06
 parent: src_obm_2005_n3_f2
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 6
 
 *All integer pairs (x,y) satisfying 9xy - x^2 - 8y^2 = 2005*
 

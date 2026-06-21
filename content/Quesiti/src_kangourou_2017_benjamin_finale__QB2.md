@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (finale Cervia) — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_finale__QB2
 parent: src_kangourou_2017_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (finale Cervia) — Quesito B2
 
 *Soglia bagaglio dati due sovrapprezzi (11 e 33 euro)*
 

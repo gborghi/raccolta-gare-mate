@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_triennio__Q12
 parent: src_archimede_2008_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Triennio — Quesito 12
 
 *Piu piccolo di 27 consecutivi con media 2008*
 

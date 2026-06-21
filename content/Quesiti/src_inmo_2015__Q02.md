@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2015 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2015__Q02
 parent: src_inmo_2015
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2015 — Quesito 2
 
 *Length of non-periodic part of decimal expansion of 1/n*
 

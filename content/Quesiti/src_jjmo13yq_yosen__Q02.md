@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo13yq_yosen__Q02
 parent: src_jjmo13yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 2
 
 *Count labelings 1,2,3,4 of ten tangent circles with adjacent labels distinct*
 

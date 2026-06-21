@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio
 tipo: gara
 src_id: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio
 
 Sorgente: `Archimede/individuale/1livello/2008/testo-biennio.pdf` · apri PDF
 

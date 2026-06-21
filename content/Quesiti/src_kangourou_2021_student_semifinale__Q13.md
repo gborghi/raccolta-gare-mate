@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q13
 parent: src_kangourou_2021_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 13
 
 *Resto dividendo per 5 il prodotto dei numeri di 5 cifre*
 

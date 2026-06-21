@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q08
 parent: src_obm_2001_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 8
 
 *Points on circle with 35 degree arcs; smallest n>1 with P_n = P_1*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q30
 parent: src_prmo_2017
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 30
 
 *Nearest integer to square root of max trapezium area given two triangle-product conditions*
 

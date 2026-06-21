@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q28
 parent: src_kangourou_2012_student
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 28
 
 *Somma primi 100 termini di successione ricorsiva*
 

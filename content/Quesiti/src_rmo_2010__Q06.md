@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2010 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2010__Q06
 parent: src_rmo_2010
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2010 — Quesito 6
 
 *Count n in {1,...,2010} where floor(n/floor(sqrt(n))) equals floor((n+1)/floor(sqrt(n+1)))*
 

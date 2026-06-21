@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q26
 parent: src_kangourou_2013_junior
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 26
 
 *Massimo frazioni intere con interi da 1 a 22*
 

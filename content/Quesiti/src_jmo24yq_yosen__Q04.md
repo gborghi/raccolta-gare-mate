@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo24yq_yosen__Q04
 parent: src_jmo24yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 4
 
 *Six concyclic points; three concurrent chords; find FA given five arc-chord lengths*
 

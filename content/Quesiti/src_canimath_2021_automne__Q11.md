@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q11
 parent: src_canimath_2021_automne
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 11
 
 *n has divisors a<b with n=a³+b; show divisor d with a<d<b exists (lycée version)*
 

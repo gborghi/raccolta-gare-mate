@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo18yq_yosen__Q09
 parent: src_jmo18yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 9
 
 *Minimum sum of a recursively constrained real sequence*
 

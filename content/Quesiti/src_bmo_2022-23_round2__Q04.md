@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2022-23 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2022-23_round2__Q04
 parent: src_bmo_2022-23_round2
@@ -34,8 +35,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2022-23 — Round 2 — Quesito 4
 
 *Triangle integer sides with angle A = 3B; prove one side is a cube*
 

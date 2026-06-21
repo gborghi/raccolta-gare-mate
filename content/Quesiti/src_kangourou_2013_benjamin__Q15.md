@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q15
 parent: src_kangourou_2013_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 15
 
 *Numero di facce del cubo con cubetti rimossi ai vertici*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r2__Q03
 parent: src_rmo_2015_r2
@@ -34,8 +35,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 2 — Quesito 3
 
 *Find all integers a,b,c with a^2=bc+1, b^2=ca+1*
 

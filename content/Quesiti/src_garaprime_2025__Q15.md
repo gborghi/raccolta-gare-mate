@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q15
 parent: src_garaprime_2025
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 15
 
 *Valore di 3a+1/a dato 9a^2+1/a^2=19*
 

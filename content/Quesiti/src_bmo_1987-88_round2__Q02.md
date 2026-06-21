@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round2__Q02
 parent: src_bmo_1987-88_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 2 — Quesito 2
 
 *Count ways to pair 2n objects; count pair arrangements for married couples*
 

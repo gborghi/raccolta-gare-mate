@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1991__Q03
 parent: src_inmo_1991
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991 — Quesito 3
 
 *Triangle ABC: prove x+y+z+xyz=0 for given tangent expressions*
 

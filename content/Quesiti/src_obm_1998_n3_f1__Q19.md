@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q19
 parent: src_obm_1998_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 19
 
 *Find the real values of x satisfying sqrt(x) + sqrt(1/x) <= 2.*
 

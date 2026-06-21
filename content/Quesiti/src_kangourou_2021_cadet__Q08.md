@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q08
 parent: src_kangourou_2021_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 8
 
 *Parte dei cubetti grigi del cubo 3x3x3*
 

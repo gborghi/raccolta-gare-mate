@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_pubblico__Q05
 parent: src_archimede_2001_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 5
 
 *cruciverba di numeri primi e prodotti*
 

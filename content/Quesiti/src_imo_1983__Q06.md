@@ -1,4 +1,5 @@
 ---
+title: IMO 1983 (24th International Mathematical Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1983__Q06
 parent: src_imo_1983
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1983 (24th International Mathematical Olympiad) — Quesito 6
 
 *Prove cyclic triangle-side inequality and find equality case*
 

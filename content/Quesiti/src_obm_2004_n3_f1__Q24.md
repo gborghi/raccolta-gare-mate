@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f1__Q24
 parent: src_obm_2004_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 24
 
 *Number of times the string '21' appears when the integers 1 to 999 are concatenated.*
 

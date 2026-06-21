@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q13
 parent: src_archimede_2022_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 13
 
 *Stato finale del gioco delle caramelle con invariante*
 

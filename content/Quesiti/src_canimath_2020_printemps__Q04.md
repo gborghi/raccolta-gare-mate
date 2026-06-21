@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q04
 parent: src_canimath_2020_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 4
 
 *Sequence x -> x^2-2x+1 starting at 2; find the 2020th term*
 

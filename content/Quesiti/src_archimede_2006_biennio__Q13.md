@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q13
 parent: src_archimede_2006_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 13
 
 *Numero totale di soci da percentuali di voti*
 

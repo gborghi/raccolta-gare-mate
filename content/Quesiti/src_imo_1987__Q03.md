@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1987 (28th IMO, Havana) — Quesito 3'
 tipo: quesito
 quesito_id: quesito_src_imo_1987__Q03
 parent: src_imo_1987
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1987 (28th IMO, Havana) — Quesito 3
 
 *Bounded integer combination of unit-norm reals is small*
 

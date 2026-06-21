@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q05
 parent: src_kangourou_2005_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 5
 
 *Lunghezza percorso formica su superficie cubo*
 

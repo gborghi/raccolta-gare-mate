@@ -1,4 +1,5 @@
 ---
+title: XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2008__Q02
 parent: src_cesenatico_2008
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 2
 
 *numero colorazioni*
 

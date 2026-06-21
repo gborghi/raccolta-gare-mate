@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q14
 parent: src_gas_2010_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 14
 
 *Diametro sfera con due cerchi ortogonali tangenti in due punti*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2007
 tipo: gara
 src_id: src_jjmo5q
 competition: Japan Junior Mathematical Olympiad 2007
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2007
 
 Sorgente: apri PDF
 

@@ -1,11 +1,10 @@
 ---
+title: Analisi per casi
 tipo: method
 concept_id: method_casework
 tags:
   - graph/method
 ---
-
-# Analisi per casi
 
 *method* — **779** quesiti (italiani).
 

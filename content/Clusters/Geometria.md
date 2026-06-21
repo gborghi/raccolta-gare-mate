@@ -1,11 +1,10 @@
 ---
+title: Geometria
 tipo: cluster
 cluster: Geometria
 tags:
   - graph/cluster
 ---
-
-# Geometria
 
 Macro-area. **2832** quesiti.
 

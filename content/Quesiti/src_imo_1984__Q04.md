@@ -1,4 +1,5 @@
 ---
+title: IMO 1984 (25th International Mathematical Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1984__Q04
 parent: src_imo_1984
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1984 (25th International Mathematical Olympiad) — Quesito 4
 
 *Tangent circle on AB diameter iff BC parallel AD*
 

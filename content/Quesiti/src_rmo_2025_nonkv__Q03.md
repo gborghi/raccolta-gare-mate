@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — Non-KV — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2025_nonkv__Q03
 parent: src_rmo_2025_nonkv
@@ -30,8 +31,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2025 — Non-KV — Quesito 3
 
 *Two circles, transversal line, concyclicity and equal lengths*
 

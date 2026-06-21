@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q08
 parent: src_kangourou_2018_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 8
 
 *Numero di percorsi da A a B con frecce orientate*
 

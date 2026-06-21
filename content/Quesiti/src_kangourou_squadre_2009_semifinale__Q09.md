@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q09
 parent: src_kangourou_squadre_2009_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 9
 
 *Minimo numero di persone con rapporto maschi/femmine 0,24*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1990-91 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1990-91_round1__Q05
 parent: src_bmo_1990-91_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1990-91 — Round 1 — Quesito 5
 
 *Count permutations of 1–6 with no initial segment forming a permutation of 1..n*
 

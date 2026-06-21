@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n1_f1__Q02
 parent: src_obm_2010_n1_f1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 2
 
 *Find Lucia's reais given pairwise sums*
 

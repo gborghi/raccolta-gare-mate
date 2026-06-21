@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_tfjm_2026__Q02
 parent: src_tfjm_2026
@@ -37,8 +38,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 2
 
 *On the Nine Men's Morris board, define a 'mill figure': points and straight segments with each segment holding 3 points and each point on 2 segments; find minimal point count, connectedness, similarity classes and counting, with a generalized variant.*
 

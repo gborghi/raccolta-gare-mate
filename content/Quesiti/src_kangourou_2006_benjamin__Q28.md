@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q28
 parent: src_kangourou_2006_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 28
 
 *Parita di M e T con M(A-T+A) dispari*
 

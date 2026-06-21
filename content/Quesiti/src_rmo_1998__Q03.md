@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1998 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1998__Q03
 parent: src_rmo_1998
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1998 — Quesito 3
 
 *Inequality between odd and even reciprocal sums*
 

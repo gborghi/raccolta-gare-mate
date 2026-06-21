@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f1__Q04
 parent: src_obm_2010_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 4
 
 *Choose 3 of 8 polyomino pieces to assemble a 3x3 square*
 

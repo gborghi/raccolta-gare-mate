@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q12
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 12
 
 *Count 8-tuples in {1,-1}^8 with weighted sum divisible by 3*
 

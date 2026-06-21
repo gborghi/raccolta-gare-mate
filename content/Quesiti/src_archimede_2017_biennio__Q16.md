@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q16
 parent: src_archimede_2017_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 16
 
 *Zeri finali del prodotto nello schema triangolare*
 

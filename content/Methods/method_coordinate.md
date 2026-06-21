@@ -1,11 +1,10 @@
 ---
+title: Metodo delle coordinate
 tipo: method
 concept_id: method_coordinate
 tags:
   - graph/method
 ---
-
-# Metodo delle coordinate
 
 *method* — **440** quesiti (italiani).
 

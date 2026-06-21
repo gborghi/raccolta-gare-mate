@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Student — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q21
 parent: src_kangourou_2015_marzo_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Student — Quesito 21
 
 *Somma di tutti i 100 numeri della tavola pitagorica*
 

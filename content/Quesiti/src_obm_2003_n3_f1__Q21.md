@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q21
 parent: src_obm_2003_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 21
 
 *Find floor of (3^2001+2^2001)/(3^2000+2^2000)*
 

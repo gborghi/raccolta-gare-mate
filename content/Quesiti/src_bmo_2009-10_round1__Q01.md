@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2009-10 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2009-10_round1__Q01
 parent: src_bmo_2009-10_round1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2009-10 — Round 1 — Quesito 1
 
 *Find all integers x, y, z satisfying a quadratic Diophantine equation*
 

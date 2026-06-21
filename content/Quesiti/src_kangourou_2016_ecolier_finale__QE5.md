@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (finale Cervia) — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_finale__QE5
 parent: src_kangourou_2016_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (finale Cervia) — Quesito E5
 
 *Minimo numero di confronti per verificare i 5 piu pesanti*
 

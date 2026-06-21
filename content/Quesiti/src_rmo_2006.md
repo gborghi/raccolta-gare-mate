@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2006
 tipo: gara
 src_id: src_rmo_2006
 competition: Regional Mathematical Olympiad 2006
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2006
 
 Sorgente: apri PDF
 

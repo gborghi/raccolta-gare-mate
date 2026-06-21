@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - semifinale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q18
 parent: src_kangourou_2021_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - semifinale — Quesito 18
 
 *Resto per 5 del prodotto dei numeri di 5 cifre non div per 5*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale2__Q09
 parent: src_squadre_2024_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 2 — Quesito 9
 
 *Radice digitale iterata di 2024^2025*
 

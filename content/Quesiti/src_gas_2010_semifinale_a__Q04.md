@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_a__Q04
 parent: src_gas_2010_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale A — Quesito 4
 
 *Differenza conteggio simboli in triangolo ciclico di 10000 righe*
 

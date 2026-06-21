@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f3__Q05
 parent: src_obm_2005_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3 — Quesito 5
 
 *Prove 1^2005 + 2^2005 + ... + 2005^2005 is divisible by 1+2+...+2005*
 

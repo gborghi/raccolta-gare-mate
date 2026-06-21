@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q10
 parent: src_kangourou_2017_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 10
 
 *Minimo buste per 70 palloncini (5,10,25)*
 

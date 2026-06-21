@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q09
 parent: src_archimede_2016_classiprime
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 9
 
 *Triangoli rettangoli con vertici tra vertici e centro di ottagono*
 

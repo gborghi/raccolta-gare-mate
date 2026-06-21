@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q24
 parent: src_kangourou_2013_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 24
 
 *Massimo numero di maschi con vincolo sulla distanza*
 

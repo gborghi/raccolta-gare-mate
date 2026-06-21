@@ -1,4 +1,5 @@
 ---
+title: IMO 1975 (Seventeenth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1975_all__Q02
 parent: src_imo_1975_all
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1975 (Seventeenth International Olympiad) — Quesito 2
 
 *Infinitely many a_m of form x a_p + y a_q*
 

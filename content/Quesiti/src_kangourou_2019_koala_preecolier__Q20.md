@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q20
 parent: src_kangourou_2019_koala_preecolier
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 20
 
 *Quante noci ha lo scoiattolo con piu noci (7 noci, 3 diversi)*
 

@@ -1,4 +1,5 @@
 ---
+title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2009__Q03
 parent: src_cesenatico_2009
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XXV Olimpiade Italiana Cesenatico 2009 — Quesito 3
 
 *Numeri gradevoli di 4 cifre con prodotto cifre che divide n^2*
 

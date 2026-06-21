@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 gara 20 marzo Student — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q11
 parent: src_kangourou_2014_marzo_student
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2014 gara 20 marzo Student — Quesito 11
 
 *punti squadra D*
 

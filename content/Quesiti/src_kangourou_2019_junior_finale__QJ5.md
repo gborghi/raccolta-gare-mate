@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ5
 parent: src_kangourou_2019_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito J5
 
 *Per quali n il numero 5^(5n+1)+4^(5n+2)+3^(5n) e divisibile per 11*
 

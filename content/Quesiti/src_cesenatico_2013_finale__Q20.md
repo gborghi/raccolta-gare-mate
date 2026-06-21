@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_finale__Q20
 parent: src_cesenatico_2013_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 20
 
 *Somma 2^a 3^b con a+b in 0..9 (ultime 4 cifre)*
 

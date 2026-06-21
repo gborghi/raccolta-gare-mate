@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q04
 parent: src_kangourou_2012_student
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 4
 
 *Colore della somma di un numero rosso e uno blu*
 

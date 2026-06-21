@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q05
 parent: src_cesenatico_2005_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 5
 
 *Raggio cerchio inscritto da condizioni su circocentro e mediane*
 

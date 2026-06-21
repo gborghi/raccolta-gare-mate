@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f2__Q06
 parent: src_obm_2010_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 6
 
 *Count legal 2×2010 two-colorings avoiding monochromatic L-tromino*
 

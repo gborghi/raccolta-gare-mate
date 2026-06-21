@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q03
 parent: src_archimede_2026_squadre_finale_mista
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 3
 
 *Lunghezza QX con tangente e teorema secante-tangente*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Semifinale individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q02
 parent: src_kangourou_2022_student_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Semifinale individuale — Quesito 2
 
 *stima di chi conosceva la risposta corretta*
 

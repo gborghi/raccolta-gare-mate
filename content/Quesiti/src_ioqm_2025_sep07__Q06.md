@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q06
 parent: src_ioqm_2025_sep07
@@ -30,8 +31,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 6
 
 *Person age perfect square in 2025 and 2012; perfect cube m years after 2025*
 

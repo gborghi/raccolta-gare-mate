@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q03
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 3
 
 *Quale immagine scambia bianchi e grigi del quadrato*
 

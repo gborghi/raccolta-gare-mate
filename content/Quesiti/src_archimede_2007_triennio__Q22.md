@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Triennio — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_triennio__Q22
 parent: src_archimede_2007_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Triennio — Quesito 22
 
 *Implicazione logica vera secondo Francesco*
 

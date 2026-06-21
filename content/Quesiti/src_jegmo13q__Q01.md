@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jegmo13q__Q01
 parent: src_jegmo13q
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2024 — Quesito 1
 
 *Find all positive integer pairs with prime average and integer factorial ratio*
 

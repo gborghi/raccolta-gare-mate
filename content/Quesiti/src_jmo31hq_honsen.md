@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Honsen (Final)
 tipo: gara
 src_id: src_jmo31hq_honsen
 competition: Japan Mathematical Olympiad 2021 — Honsen (Final)
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Honsen (Final)
 
 Sorgente: apri PDF
 

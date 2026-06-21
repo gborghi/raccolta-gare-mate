@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo21yq_yosen__Q01
 parent: src_jmo21yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 1
 
 *Count integer 4-tuples with strict inequalities and bounded differences*
 

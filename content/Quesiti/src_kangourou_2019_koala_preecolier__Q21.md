@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q21
 parent: src_kangourou_2019_koala_preecolier
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 21
 
 *Quanto e alto il mucchio di sabbia (asta bandiera)*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f1__Q23
 parent: src_obm_2008_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 23
 
 *Multiplicative magic square with cells 4, AC, C, 24; find A+B+C+D*
 

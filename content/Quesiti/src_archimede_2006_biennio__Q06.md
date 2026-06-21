@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q06
 parent: src_archimede_2006_biennio
@@ -22,8 +23,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 6
 
 *Perimetro di un rettangolo con base 3/2 dell'altezza*
 

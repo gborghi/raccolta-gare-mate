@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo12mq_honsen__Q01
 parent: src_jjmo12mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 1
 
 *Find all integers n≥2 whose small divisors satisfy d² | n*
 

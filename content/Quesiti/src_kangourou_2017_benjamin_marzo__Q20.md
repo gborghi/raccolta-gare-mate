@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q20
 parent: src_kangourou_2017_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 20
 
 *Area figura di tre quadrati sovrapposti 2,4,6 cm*
 

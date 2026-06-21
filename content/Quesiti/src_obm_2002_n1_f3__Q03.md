@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f3__Q03
 parent: src_obm_2002_n1_f3
@@ -39,8 +40,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 3
 
 *A quadrilateral-shaped park with several gates; label its points so that the numbers along each side add up to the same total T; give an example numbering achieving one possible value of T*
 

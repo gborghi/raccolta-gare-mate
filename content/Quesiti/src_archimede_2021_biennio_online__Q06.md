@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_online__Q06
 parent: src_archimede_2021_biennio_online
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 6
 
 *Quale prodotto di potenze e quadrato di un intero*
 

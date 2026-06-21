@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n1_f1__Q09
 parent: src_obm_2005_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 9
 
 *Blank pages in a 600-page book printed in multiples of 3 and 5*
 

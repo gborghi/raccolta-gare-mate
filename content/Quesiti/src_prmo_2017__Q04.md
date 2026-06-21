@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q04
 parent: src_prmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 4
 
 *Smallest a+b for negative-integer roots of product of two quadratics*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q15
 parent: src_gs_2008_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 15
 
 *Numero tra 1000 e 9999 con cifre diverse dai multipli di 1792*
 

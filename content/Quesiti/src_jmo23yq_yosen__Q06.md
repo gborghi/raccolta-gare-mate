@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo23yq_yosen__Q06
 parent: src_jmo23yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 6
 
 *Distribute 24 each of two candies among 3 people avoiding a condition*
 

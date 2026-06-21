@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q01
 parent: src_archimede_2025_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 1
 
 *Colorazioni griglia 3x3 con numero dispari di verdi per riga/colonna*
 

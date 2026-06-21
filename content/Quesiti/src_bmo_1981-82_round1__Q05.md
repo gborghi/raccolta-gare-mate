@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1981-82 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1981-82_round1__Q05
 parent: src_bmo_1981-82_round1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 1981-82 — Round 1 — Quesito 5
 
 *Cone with elliptic section: condition for two surface routes to intersect*
 

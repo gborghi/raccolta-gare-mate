@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo24yq_yosen__Q12
 parent: src_jmo24yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 12
 
 *Find largest m so that 2m indices guarantee product-sum bound 1/2.014*
 

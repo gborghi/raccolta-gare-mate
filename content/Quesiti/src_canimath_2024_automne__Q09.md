@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q09
 parent: src_canimath_2024_automne
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 9
 
 *Integers a≥2,b≥2 with (a−1)/(b−1)−a/b=1; show a/b and (a−1)/(b−1) are integers*
 

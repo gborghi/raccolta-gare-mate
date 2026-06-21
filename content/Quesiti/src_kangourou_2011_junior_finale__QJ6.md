@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior_finale__QJ6
 parent: src_kangourou_2011_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J6
 
 *Per quali m la formica esce dalla scatola piastrellata*
 

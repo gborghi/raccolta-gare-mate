@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n1_f1__Q13
 parent: src_obm_2010_n1_f1
@@ -35,8 +36,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 13
 
 *Find goals suffered by Esmeralda FC from incomplete championship table*
 

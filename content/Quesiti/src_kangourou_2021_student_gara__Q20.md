@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q20
 parent: src_kangourou_2021_student_gara
@@ -24,8 +25,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 20
 
 *Grafico spessore residuo del rotolo srotolato*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 2014 (shortlist/papers) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2014__Q06
 parent: src_imo_2014
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# IMO 2014 (shortlist/papers) — Quesito 6
 
 *Colorare radice-n rette senza regione blu*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q02
 parent: src_kangourou_2024_student_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 2
 
 *Ripartizione eredita inversamente proporzionale alle eta*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2017 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2017__Q04
 parent: src_inmo_2017
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2017 — Quesito 4
 
 *Convex pentagon with equal angles and consecutive integer sides; find AB+BC+CD*
 

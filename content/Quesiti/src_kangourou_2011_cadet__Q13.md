@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q13
 parent: src_kangourou_2011_cadet
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 13
 
 *Quanti punti F danno triangolo DEF rettangolo area 1*
 

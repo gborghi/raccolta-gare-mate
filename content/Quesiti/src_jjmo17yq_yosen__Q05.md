@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo17yq_yosen__Q05
 parent: src_jjmo17yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 5
 
 *Length AF in cyclic quadrilateral with reflection of D over AE*
 

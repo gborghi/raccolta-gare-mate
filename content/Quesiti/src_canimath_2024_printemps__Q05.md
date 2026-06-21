@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q05
 parent: src_canimath_2024_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 5
 
 *Graph connectivity: between any two cities, path via concrete roads with at most 2 intermediates*
 

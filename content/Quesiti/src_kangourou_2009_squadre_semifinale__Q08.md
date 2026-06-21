@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q08
 parent: src_kangourou_2009_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 8
 
 *Segmento corto su lato suddiviso triangolo 40-50-60*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q25
 parent: src_kangourou_2020_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 25
 
 *Somma dei numeri sui lati (prodotti ai vertici somma 15)*
 

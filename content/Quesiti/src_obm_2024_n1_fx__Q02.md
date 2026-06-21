@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n1_fx__Q02
 parent: src_obm_2024_n1_fx
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 2
 
 *Chess pieces (knight and rook) on 3x3 board, complete configurations*
 

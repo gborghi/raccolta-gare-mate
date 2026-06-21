@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1994 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1994__Q06
 parent: src_rmo_1994
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1994 — Quesito 6
 
 *Two chords at right angles; midpoints form a parallelogram*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q02
 parent: src_cesenatico_2006_squadre_semifinale_b
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 2
 
 *Angolo DAE in configurazione ciclica con DE=AE*
 

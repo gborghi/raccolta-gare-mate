@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (finale Cervia) — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC1
 parent: src_kangourou_2017_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (finale Cervia) — Quesito C1
 
 *Soglia bagaglio dati due sovrapprezzi (11 e 33 euro)*
 

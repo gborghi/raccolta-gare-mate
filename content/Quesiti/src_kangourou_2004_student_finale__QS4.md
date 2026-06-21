@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Student finale nazionale — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student_finale__QS4
 parent: src_kangourou_2004_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Student finale nazionale — Quesito S4
 
 *Valore di X stampato dall'algoritmo*
 

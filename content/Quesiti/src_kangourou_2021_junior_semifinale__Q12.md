@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior Semifinale individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q12
 parent: src_kangourou_2021_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior Semifinale individuale — Quesito 12
 
 *Avanzamento del punto P del cingolo se mezzo avanza 20cm*
 

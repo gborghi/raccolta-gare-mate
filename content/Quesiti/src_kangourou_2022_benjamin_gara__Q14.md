@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q14
 parent: src_kangourou_2022_benjamin_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 14
 
 *Area del rombo ombreggiato nel rettangolo 90cm2*
 

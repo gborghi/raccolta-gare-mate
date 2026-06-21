@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q06
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 6
 
 *Ultime 4 cifre minimo numero con cifre 2,9 divisibile per 2^2009*
 

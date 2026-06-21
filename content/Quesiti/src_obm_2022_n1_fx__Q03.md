@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2022_n1_fx__Q03
 parent: src_obm_2022_n1_fx
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x — Quesito 3
 
 *Square midpoints inner square area; octagon cut into trapezoid angles*
 

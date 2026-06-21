@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f3__Q03
 parent: src_obm_2013_n3_f3
@@ -37,8 +38,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3 — Quesito 3
 
 *Find all injective functions from nonzero reals satisfying a functional equation*
 

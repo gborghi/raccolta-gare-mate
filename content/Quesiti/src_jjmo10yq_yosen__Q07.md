@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo10yq_yosen__Q07
 parent: src_jjmo10yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 7
 
 *Count paths visiting 9 points on graph exactly once and returning to start*
 

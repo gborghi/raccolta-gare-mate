@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q06
 parent: src_squadre_2024_finale
@@ -22,8 +23,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 6
 
 *Volume amuleto dopo cubo-ottaedro-cubo*
 

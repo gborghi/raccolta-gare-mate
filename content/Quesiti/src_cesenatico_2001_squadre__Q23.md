@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q23
 parent: src_cesenatico_2001_squadre
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 23
 
 *Minimo a per cui somma imese coincide con somma ordinaria*
 

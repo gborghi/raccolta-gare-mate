@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_maggio__QC6
 parent: src_kangourou_2009_cadet_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C6
 
 *Massimi vertici rossi con distanze tutte diverse (21-agono)*
 

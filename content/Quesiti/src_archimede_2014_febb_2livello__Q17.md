@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q17
 parent: src_archimede_2014_febb_2livello
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello — Quesito 17
 
 *Coppie (a,b) con a+1 divide b-1 e b divide a^2+a+2*
 

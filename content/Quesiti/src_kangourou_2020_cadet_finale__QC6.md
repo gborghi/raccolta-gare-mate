@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Cadet — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC6
 parent: src_kangourou_2020_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Cadet — Quesito C6
 
 *Quante coppie ordinate (x,y) interi con x^2+7y=xy*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q05
 parent: src_kangourou_2007_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 5
 
 *Membri fra tre anni (+50% ogni anno)*
 

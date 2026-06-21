@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin__Q26
 parent: src_kangourou_2003_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 - Benjamin (20 marzo) — Quesito 26
 
 *Risultato della somma a destra coi simboli*
 

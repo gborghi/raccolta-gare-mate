@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_triennio__Q12
 parent: src_archimede_1998_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Triennio — Quesito 12
 
 *Massima variazione del volume di un parallelepipedo*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo23yq_yosen__Q03
 parent: src_jmo23yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 3
 
 *Star inscribed in unit circle; area of inner pentagon*
 

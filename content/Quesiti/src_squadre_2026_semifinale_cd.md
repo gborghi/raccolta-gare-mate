@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale)
 tipo: gara
 src_id: src_squadre_2026_semifinale_cd
 competition: Gara a Squadre 2026 - Semifinale 2 (nazionale)
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale)
 
 Sorgente: `Archimede/squadre/nazionale/2026/semifinale_CD_2026_testi_soluzioni.pdf` · apri PDF
 

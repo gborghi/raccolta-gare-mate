@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q10
 parent: src_archimede_2018_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 10
 
 *Minuti d'uso del cellulare durante la ricarica*
 

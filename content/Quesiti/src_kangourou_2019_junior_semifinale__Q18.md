@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q18
 parent: src_kangourou_2019_junior_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 18
 
 *Minima somma delle due tacche di rottura del righello*
 

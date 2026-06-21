@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n2_f3__Q04
 parent: src_obm_2015_n2_f3
@@ -37,8 +38,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3 — Quesito 4
 
 *Minimize leaves in road-reform process on a tree of n cities*
 

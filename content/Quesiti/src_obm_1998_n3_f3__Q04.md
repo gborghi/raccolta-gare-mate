@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f3__Q04
 parent: src_obm_1998_n3_f3
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 4
 
 *Two-player quadratic-coefficient game using two integers and 1998; first player forces two distinct rational roots*
 

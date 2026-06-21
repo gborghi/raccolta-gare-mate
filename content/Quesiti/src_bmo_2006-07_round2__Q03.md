@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2006-07 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2006-07_round2__Q03
 parent: src_bmo_2006-07_round2
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2006-07 — Round 2 — Quesito 3
 
 *Acute triangle, angle BAC=60 degrees, Euler line meets sides, prove PO=HQ*
 

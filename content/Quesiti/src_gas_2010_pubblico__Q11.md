@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gas_2010_pubblico__Q11
 parent: src_gas_2010_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Gara del Pubblico — Quesito 11
 
 *Pirati restanti a terra da successione c(n+1)=2c(n)+1*
 

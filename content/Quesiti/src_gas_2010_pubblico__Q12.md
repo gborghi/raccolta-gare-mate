@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_gas_2010_pubblico__Q12
 parent: src_gas_2010_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Gara del Pubblico — Quesito 12
 
 *Massimo numero veritieri in rettangolo con affermazioni sui vicini*
 

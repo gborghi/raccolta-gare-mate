@@ -1,4 +1,5 @@
 ---
+title: IMO 2024 papers — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2024__Q05
 parent: src_imo_2024
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# IMO 2024 papers — Quesito 5
 
 *Turbo la lumaca, minimo n attacchi garantiti*
 

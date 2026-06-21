@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Junior — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior_finale__Q02
 parent: src_kangourou_2014_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Junior — Quesito 2
 
 *Angolo NMB con punti medi di tre corde*
 

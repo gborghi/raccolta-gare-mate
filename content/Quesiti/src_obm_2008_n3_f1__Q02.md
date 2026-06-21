@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f1__Q02
 parent: src_obm_2008_n3_f1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 2
 
 *For x = 10^(-2008), find the option with the largest value*
 

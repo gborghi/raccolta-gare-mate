@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q12
 parent: src_kangourou_2019_ecolier_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 12
 
 *Minuti in cui la cifra 5 compare sull'orologio*
 

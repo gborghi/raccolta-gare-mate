@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo18mq_honsen__Q02
 parent: src_jmo18mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 2
 
 *Players in a circle pass red/white cards; max turns to balance*
 

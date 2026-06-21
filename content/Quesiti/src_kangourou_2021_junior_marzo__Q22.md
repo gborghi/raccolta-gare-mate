@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q22
 parent: src_kangourou_2021_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 22
 
 *Valore di (a+b)(b+c)(c+a) con a+b+c=0 e abc=78*
 

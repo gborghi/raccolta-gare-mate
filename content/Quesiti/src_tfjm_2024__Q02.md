@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_tfjm_2024__Q02
 parent: src_tfjm_2024
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 2
 
 *Mathematics gatherings: seating n=tp people at t tables of p>=2 places over r meals so that two people never share a table more than once (ideal plan); also study f-uniform plans.*
 

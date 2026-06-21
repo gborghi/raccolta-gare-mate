@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2013 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2013__Q03
 parent: src_inmo_2013
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2013 — Quesito 3
 
 *Positive integers a,b,c,d; prove polynomial has no integer solution*
 

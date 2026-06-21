@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1992__Q06
 parent: src_rmo_1992
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992 — Quesito 6
 
 *Quadrilateral ABCD with midpoints P,Q of CD,AB; lines meet; prove area ADX+area BCY=area PXQY.*
 

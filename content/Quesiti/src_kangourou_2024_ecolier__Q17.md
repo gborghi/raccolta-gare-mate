@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q17
 parent: src_kangourou_2024_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 17
 
 *Quale torre vede Ada dopo aver rimosso dischi*
 

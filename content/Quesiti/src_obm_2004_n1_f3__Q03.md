@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f3__Q03
 parent: src_obm_2004_n1_f3
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3 — Quesito 3
 
 *Prove a specific large number is composite*
 

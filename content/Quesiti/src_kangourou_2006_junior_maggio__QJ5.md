@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior finale (maggio) — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_maggio__QJ5
 parent: src_kangourou_2006_junior_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior finale (maggio) — Quesito J5
 
 *Numeri con cifre consecutive e numero dispari di divisori*
 

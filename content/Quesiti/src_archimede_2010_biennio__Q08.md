@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q08
 parent: src_archimede_2010_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 8
 
 *Distanza AB da due incontri di camminatori*
 

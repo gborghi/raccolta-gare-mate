@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2020-21 — Round 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_bmo_2020-21_round1__Q07
 parent: src_bmo_2020-21_round1
@@ -32,8 +33,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2020-21 — Round 1 — Quesito 7
 
 *Pebble game on number line: find when Evie guarantees victory*
 

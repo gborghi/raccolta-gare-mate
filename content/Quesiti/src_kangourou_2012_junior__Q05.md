@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q05
 parent: src_kangourou_2012_junior
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 5
 
 *Quale espressione varia sostituendo 8*
 

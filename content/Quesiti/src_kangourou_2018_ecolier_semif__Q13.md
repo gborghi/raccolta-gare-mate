@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q13
 parent: src_kangourou_2018_ecolier_semif
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 13
 
 *Quale numero avanza nell uguaglianza con 7 numeri*
 

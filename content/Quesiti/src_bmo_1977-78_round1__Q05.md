@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1977-78 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1977-78_round1__Q05
 parent: src_bmo_1977-78_round1
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1977-78 — Round 1 — Quesito 5
 
 *Inside a 15-unit cube, find least 6 points with unit radius sphere covering all*
 

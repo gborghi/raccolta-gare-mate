@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 Benjamin finale (maggio) — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_benjamin_maggio__QB2
 parent: src_kangourou_2008_benjamin_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 Benjamin finale (maggio) — Quesito B2
 
 *Eliminare due caselle per rendere vera l'uguaglianza*
 

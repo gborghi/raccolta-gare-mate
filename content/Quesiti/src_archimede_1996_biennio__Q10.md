@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q10
 parent: src_archimede_1996_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 10
 
 *Lato dell'ottagono regolare ottenuto da un quadrato*
 

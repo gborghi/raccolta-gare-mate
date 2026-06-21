@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q11
 parent: src_ioqm_2022
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 11
 
 *AB diameter, C on circle, perpendicular from C meets circle at D and E, circle centered at C radius CD meets omega at P,Q, find PQ given perimeter of PEQ is 24*
 

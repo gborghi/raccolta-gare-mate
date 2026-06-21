@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1975-76 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1975-76_round2__Q03
 parent: src_bmo_1975-76_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1975-76 — Round 2 — Quesito 3
 
 *Quadratic form has only trivial integer solution; cubic has infinitely many*
 

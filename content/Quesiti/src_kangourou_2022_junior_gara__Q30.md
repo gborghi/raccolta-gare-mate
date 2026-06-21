@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q30
 parent: src_kangourou_2022_junior_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 30
 
 *Diametro massimo delle sei semisfere nel cubo*
 

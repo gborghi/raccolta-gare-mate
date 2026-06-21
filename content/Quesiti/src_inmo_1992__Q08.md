@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_inmo_1992__Q08
 parent: src_inmo_1992
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992 — Quesito 8
 
 *Find all pairs (m,n) of positive integers for which 2^m + 3^n is a perfect square*
 

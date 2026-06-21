@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q10
 parent: src_cesenatico_2006_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 10
 
 *Perimetro unione di 6 cerchi su esagono (coeff. di pi)*
 

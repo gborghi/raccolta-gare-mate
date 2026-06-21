@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1998 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1998__Q02
 parent: src_rmo_1998
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1998 — Quesito 2
 
 *6 divides sum of squares of primes greater than 5 implies 6 divides n*
 

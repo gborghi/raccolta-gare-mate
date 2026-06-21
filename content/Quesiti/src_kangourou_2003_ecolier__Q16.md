@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q16
 parent: src_kangourou_2003_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 16
 
 *Quante lastre triangolari per la stanza*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q06
 parent: src_gs_2013_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 6
 
 *Area bianca con parallelogrammi sovrapposti*
 

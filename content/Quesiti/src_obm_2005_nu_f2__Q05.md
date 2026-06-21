@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2005_nu_f2__Q05
 parent: src_obm_2005_nu_f2
@@ -34,8 +37,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2 — Quesito 5
 
 *Prove that sum of 1/n^n equals integral of x^{-x}*
 

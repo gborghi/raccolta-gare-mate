@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q03
 parent: src_ioqm_2022
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 3
 
 *Trapezoid, internal bisector meets BC at E, incircle of ABE touches AB at M, find angle DAE*
 

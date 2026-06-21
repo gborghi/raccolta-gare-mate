@@ -1,11 +1,10 @@
 ---
+title: Somme telescopiche
 tipo: method
 concept_id: method_telescoping
 tags:
   - graph/method
 ---
-
-# Somme telescopiche
 
 *method* — **74** quesiti (italiani).
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q03
 parent: src_squadre_2024_femminile
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 3
 
 *Somma interi 20ab divisibili per ab-1*
 

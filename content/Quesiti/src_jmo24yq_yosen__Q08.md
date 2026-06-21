@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo24yq_yosen__Q08
 parent: src_jmo24yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 8
 
 *For each n≤1000, count m≤1000 with floor(m/n) odd; find maximum count over all n*
 

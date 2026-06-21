@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q24
 parent: src_ioqm_2020
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 24
 
 *Light at (0,16), disc radius 2 at (6,10); shadow length on x-axis equals m√n; find m+n*
 

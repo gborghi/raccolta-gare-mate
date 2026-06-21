@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Cadet — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet_finale__Q05
 parent: src_kangourou_2014_cadet_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Cadet — Quesito 5
 
 *Dipingere 20 quadrati 8x8 con copertura adiacente*
 

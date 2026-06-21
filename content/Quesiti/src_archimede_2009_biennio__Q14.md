@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q14
 parent: src_archimede_2009_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 14
 
 *Numero corde rotte data spesa con prezzi a potenze di due*
 

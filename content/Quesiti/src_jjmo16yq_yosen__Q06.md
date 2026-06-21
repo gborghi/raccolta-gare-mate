@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo16yq_yosen__Q06
 parent: src_jjmo16yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 6
 
 *Count tilings of cross-shaped grid region with 12 L-shaped trominoes up to symmetry*
 

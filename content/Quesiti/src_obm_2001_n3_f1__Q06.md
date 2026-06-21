@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q06
 parent: src_obm_2001_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 6
 
 *10 pieces of 3 links each; form a 30-link chain in minimum time*
 

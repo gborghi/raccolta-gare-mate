@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r1__Q06
 parent: src_rmo_2015_r1
@@ -33,8 +34,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 1 — Quesito 6
 
 *Find all reals a in (3,4) such that a(3-2f) is an integer*
 

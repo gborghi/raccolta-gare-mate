@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q08
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 8
 
 *Area del foglio con quattro triangoli rettangoli*
 

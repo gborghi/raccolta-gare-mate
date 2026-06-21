@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q02
 parent: src_kangourou_2021_cadet_finale
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - finale — Quesito 2
 
 *Stima del numero di coriandoli col metodo cattura-ricattura*
 

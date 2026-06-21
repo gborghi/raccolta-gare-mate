@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo28mq_honsen__Q04
 parent: src_jmo28mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 4
 
 *no labeling of infinite grid with 1,2,3 meets all three conditions*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2012-13 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2012-13_round2__Q04
 parent: src_bmo_2012-13_round2
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2012-13 — Round 2 — Quesito 4
 
 *Can PA, PB, PC, PD and AB all be integers for P on inscribed circle of square ABCD?*
 

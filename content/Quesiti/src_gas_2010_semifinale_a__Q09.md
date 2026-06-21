@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_a__Q09
 parent: src_gas_2010_semifinale_a
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale A — Quesito 9
 
 *Velocita nave da calo stimato di 1 minuto ogni 7 miglia*
 

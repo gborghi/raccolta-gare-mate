@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q19
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 19
 
 *f(10) con f ottenuta da (x-1)^9 modificando i termini*
 

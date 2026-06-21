@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_benjamin__Q30
 parent: src_kangourou_2001_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2001 - Benjamin (15 marzo) — Quesito 30
 
 *Minima differenza tra due numeri di 3 cifre*
 

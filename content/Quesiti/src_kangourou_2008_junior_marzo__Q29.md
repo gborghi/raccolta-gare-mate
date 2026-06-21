@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q29
 parent: src_kangourou_2008_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior (gara 28 marzo) — Quesito 29
 
 *Quante sequenze di salti 1m/3m per 10m*
 

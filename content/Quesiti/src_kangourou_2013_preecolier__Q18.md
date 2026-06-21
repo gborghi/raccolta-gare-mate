@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_preecolier__Q18
 parent: src_kangourou_2013_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier — Quesito 18
 
 *Fragole ottenibili scambiando 6 pere*
 

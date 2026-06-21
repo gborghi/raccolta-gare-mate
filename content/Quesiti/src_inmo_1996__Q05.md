@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1996 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_1996__Q05
 parent: src_inmo_1996
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1996 — Quesito 5
 
 *Sequence with a_{n+2}=2a_{n+1}-a_n+2; prove a_{4m+2} is a term*
 

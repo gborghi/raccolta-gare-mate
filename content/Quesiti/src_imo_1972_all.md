@@ -1,4 +1,5 @@
 ---
+title: IMO 1972 (Fourteenth International Olympiad)
 tipo: gara
 src_id: src_imo_1972_all
 competition: IMO 1972 (Fourteenth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1972
   - gara/individuale
 ---
-
-# IMO 1972 (Fourteenth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1972_eng.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q17
 parent: src_archimede_2009_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 17
 
 *Interi m con due espressioni razionali entrambe intere*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q05
 parent: src_kangourou_2008_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 5
 
 *Parte d acqua in B (biforcazioni del fiume)*
 

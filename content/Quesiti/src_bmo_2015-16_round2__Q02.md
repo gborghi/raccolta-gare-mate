@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2015-16 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2015-16_round2__Q02
 parent: src_bmo_2015-16_round2
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2015-16 — Round 2 — Quesito 2
 
 *Hockey teams: find largest chain Benjamin can always guarantee*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_bmo_1974-75_round1__Q08
 parent: src_bmo_1974-75_round1
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1974-75 — Round 1 — Quesito 8
 
 *Fraction of conical wine glass occupied by water when tilted*
 

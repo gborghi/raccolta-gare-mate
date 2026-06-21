@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q03
 parent: src_archimede_2009_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 3
 
 *Caramelle date a Delia per egual distribuzione*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q21
 parent: src_kangourou_2011_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 21
 
 *Somma degli n<100 con n^2-81 multiplo di 100*
 

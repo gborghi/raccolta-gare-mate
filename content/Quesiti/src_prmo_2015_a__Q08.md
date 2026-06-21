@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q08
 parent: src_prmo_2015_a
@@ -31,8 +32,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 8
 
 *Radius of circular plate given chord length and sagitta*
 

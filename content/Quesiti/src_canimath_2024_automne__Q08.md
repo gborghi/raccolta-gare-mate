@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q08
 parent: src_canimath_2024_automne
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 8
 
 *Compute 1/x + 1/y given x+y = 2024xy*
 

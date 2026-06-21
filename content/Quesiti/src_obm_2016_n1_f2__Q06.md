@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f2__Q06
 parent: src_obm_2016_n1_f2
@@ -39,8 +40,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 6
 
 *Board m×n covered by T-tetromino (leaving 3) and L-tromino (leaving 2); find minimum m·n*
 

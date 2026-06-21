@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q22
 parent: src_cesenatico_2001_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 22
 
 *Numero di polinomi onesti di grado al piu cinque*
 

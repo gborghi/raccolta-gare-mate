@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo28yq_yosen__Q02
 parent: src_jmo28yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 2
 
 *Distribute cards 1-9 into 3 boxes forming arithmetic progressions*
 

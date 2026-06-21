@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_finale__Q04
 parent: src_garasquadre_2006_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale — Quesito 4
 
 *Coefficiente del termine x^2006 di un prodotto di polinomi*
 

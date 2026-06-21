@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo8mq_honsen__Q01
 parent: src_jjmo8mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 1
 
 *Equiangular n-gon with angles 120 or 240 and equal sides*
 

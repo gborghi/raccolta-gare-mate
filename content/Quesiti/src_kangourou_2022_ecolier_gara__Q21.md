@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier gara individuale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q21
 parent: src_kangourou_2022_ecolier_gara
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier gara individuale — Quesito 21
 
 *Minimo giri perche Giorgio reincontri Thea in A*
 

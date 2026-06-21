@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q20
 parent: src_obm_1998_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 20
 
 *Place two A's, two B's and two C's in a 2x3 table, one per cell, so that no column contains two equal letters; count the arrangements.*
 

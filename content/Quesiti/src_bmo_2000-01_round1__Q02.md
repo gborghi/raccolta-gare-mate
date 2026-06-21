@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2000-01 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2000-01_round1__Q02
 parent: src_bmo_2000-01_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2000-01 — Round 1 — Quesito 2
 
 *Two tangent chords from point on outer circle: angle relation*
 

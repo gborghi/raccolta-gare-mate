@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q13
 parent: src_archimede_2016_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 13
 
 *Numero di cifre del mcm di 2019000 e 2021000*
 

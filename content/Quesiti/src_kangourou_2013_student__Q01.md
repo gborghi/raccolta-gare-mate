@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q01
 parent: src_kangourou_2013_student
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 1
 
 *Quale tra le espressioni con 2013 e la piu grande*
 

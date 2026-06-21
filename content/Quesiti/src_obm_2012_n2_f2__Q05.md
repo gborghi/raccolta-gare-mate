@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n2_f2__Q05
 parent: src_obm_2012_n2_f2
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 5
 
 *Count ant paths from A to B on grid avoiding four interior vertices*
 

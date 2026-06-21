@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q08
 parent: src_kangourou_2017_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (semifinale individuale) — Quesito 8
 
 *Peso della spugna da 90% a 80% di acqua*
 

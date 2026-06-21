@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q01
 parent: src_archimede_1996_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 1
 
 *Cifra delle unita del prodotto di 5 interi consecutivi*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2019 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2019__Q06
 parent: src_rmo_2019
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2019 — Quesito 6
 
 *Among 91 distinct integers >1 with >=456 coprime pairs, find four with cyclic pairwise gcd 1.*
 

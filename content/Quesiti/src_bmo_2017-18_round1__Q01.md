@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2017-18_round1__Q01
 parent: src_bmo_2017-18_round1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2017-18 — Round 1 — Quesito 1
 
 *Compare sums of remainders of 365 by 1..365 and 366 by 1..366*
 

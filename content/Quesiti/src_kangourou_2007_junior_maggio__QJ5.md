@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior finale (maggio) — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ5
 parent: src_kangourou_2007_junior_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior finale (maggio) — Quesito J5
 
 *Raggio della terza di 7 circonferenze (prog. geometrica)*
 

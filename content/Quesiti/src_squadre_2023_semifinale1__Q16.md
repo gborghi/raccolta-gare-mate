@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale1__Q16
 parent: src_squadre_2023_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 1 — Quesito 16
 
 *Valori n vincenti gioco di Nim asimmetrico su 2023 fiammiferi*
 

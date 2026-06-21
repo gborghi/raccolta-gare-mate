@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_b__Q08
 parent: src_cesenatico_2012_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 8
 
 *Probabilita lanci dado diversi da -2 e +4 giorni*
 

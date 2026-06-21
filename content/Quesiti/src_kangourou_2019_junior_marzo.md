@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio)
 tipo: gara
 src_id: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/JMarzo-19.pdf` · apri PDF
 

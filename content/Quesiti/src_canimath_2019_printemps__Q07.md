@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2019 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_printemps__Q07
 parent: src_canimath_2019_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2019 — Quesito 7
 
 *Sequence u_{n+1}=u_n plus its largest proper divisor; show 3^2019 divides u_n eventually*
 

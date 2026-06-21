@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q11
 parent: src_archimede_2003_biennio
@@ -21,8 +22,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 11
 
 *Trovare F dato un intero positivo e fattori della cifra*
 

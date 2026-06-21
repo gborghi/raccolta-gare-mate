@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q18
 parent: src_kangourou_2006_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 18
 
 *Triangoli isosceli non congruenti area 1 lato 2*
 

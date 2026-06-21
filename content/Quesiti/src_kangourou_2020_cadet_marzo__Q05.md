@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q05
 parent: src_kangourou_2020_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 5
 
 *Quale punteggio non puo essere totalizzato nel torneo*
 

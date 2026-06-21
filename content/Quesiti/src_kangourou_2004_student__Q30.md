@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q30
 parent: src_kangourou_2004_student
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 30
 
 *Prodotto BD x AC in quadrilatero convesso*
 

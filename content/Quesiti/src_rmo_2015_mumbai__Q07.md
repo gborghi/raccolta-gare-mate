@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_mumbai__Q07
 parent: src_rmo_2015_mumbai
@@ -36,8 +37,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Quesito 7
 
 *Prove inequality (1+x)(1+y)(1+z) ≤ 4+4xyz for x²+y²+z²-2xyz=1*
 

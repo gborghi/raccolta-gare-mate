@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_ioqm_2021__Q03
 parent: src_ioqm_2021
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 3
 
 *Triangle with distinct prime sides in AP; find a/L for least perimeter*
 

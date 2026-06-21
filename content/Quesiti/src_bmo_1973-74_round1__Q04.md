@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round1__Q04
 parent: src_bmo_1973-74_round1
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 1 — Quesito 4
 
 *Find inverse of 16x16 matrix with 1s on leading diagonal and in 16th row*
 

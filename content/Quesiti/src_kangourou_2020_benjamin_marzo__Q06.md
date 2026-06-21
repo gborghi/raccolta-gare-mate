@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q06
 parent: src_kangourou_2020_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 6
 
 *Quale numero di anelli non e ottenibile con catene 5 e 7*
 

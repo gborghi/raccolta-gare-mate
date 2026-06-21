@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q03
 parent: src_kangourou_2022_benjamin_gara
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 3
 
 *Minimo numero di confezioni per 95 biglie*
 

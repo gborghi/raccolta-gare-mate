@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q22
 parent: src_kangourou_2016_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 22
 
 *Massimo resto numero due cifre diviso somma sue cifre*
 

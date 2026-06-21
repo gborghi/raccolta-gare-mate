@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_2livello__Q14
 parent: src_archimede_2023_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2023 - 2° livello — Quesito 14
 
 *2023 persone in fila, affermazioni su furfanti, quanti*
 

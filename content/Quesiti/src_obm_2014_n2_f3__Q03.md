@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f3__Q03
 parent: src_obm_2014_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 3
 
 *Find all integers n>1 such that for every k with 0<=k<n there is a multiple of n whose digit sum leaves remainder k upon division by n.*
 

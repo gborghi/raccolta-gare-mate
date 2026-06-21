@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_finale__Q04
 parent: src_kangourou_2021_benjamin_finale
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - finale — Quesito 4
 
 *Stima del numero di coriandoli col metodo cattura-ricattura*
 

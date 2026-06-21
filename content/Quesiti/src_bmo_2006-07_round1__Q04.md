@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2006-07 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2006-07_round1__Q04
 parent: src_bmo_2006-07_round1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2006-07 — Round 1 — Quesito 4
 
 *Two tangent circles with common tangent; diameter AP; tangent PQ; prove AP = PQ*
 

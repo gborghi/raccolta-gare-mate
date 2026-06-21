@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale1__Q07
 parent: src_squadre_2024_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 1 — Quesito 7
 
 *Raggio con quadrilatero CAPB area uguale a quadrato inscritto*
 

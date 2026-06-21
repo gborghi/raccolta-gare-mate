@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q21
 parent: src_kangourou_2005_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 21
 
 *Area rettangolo DBEF con due rettangoli*
 

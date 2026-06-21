@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q01
 parent: src_squadre_2026_semifinale_cd
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 1
 
 *Base B in cui 41 e divisibile per 14*
 

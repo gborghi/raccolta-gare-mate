@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2005_nu_f1__Q06
 parent: src_obm_2005_nu_f1
@@ -39,8 +42,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 — Quesito 6
 
 *Prove fewer than 2005 distinct 27th powers with n digits exist for any digit permutation*
 

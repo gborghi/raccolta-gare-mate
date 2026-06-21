@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q06
 parent: src_archimede_2018_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 6
 
 *Soldatini tra 2000 e 2500 con resto 1 per 2..7*
 

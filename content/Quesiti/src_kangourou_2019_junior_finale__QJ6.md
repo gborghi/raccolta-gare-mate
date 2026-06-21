@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ6
 parent: src_kangourou_2019_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito J6
 
 *Circocentro di AEF giace sulla semiretta AB (triangolo acutangolo ortocentro)*
 

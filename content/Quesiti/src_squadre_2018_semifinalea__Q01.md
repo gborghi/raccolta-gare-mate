@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q01
 parent: src_squadre_2018_semifinalea
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 1
 
 *Numero di cifre della somma di numeri triangolari fino a 1918*
 

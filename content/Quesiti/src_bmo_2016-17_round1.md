@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 1
 tipo: gara
 src_id: src_bmo_2016-17_round1
 competition: British Mathematical Olympiad 2016-17 — Round 1
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 1
 
 Sorgente: apri PDF
 

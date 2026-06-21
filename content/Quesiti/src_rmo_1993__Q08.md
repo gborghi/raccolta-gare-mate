@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1993 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_rmo_1993__Q08
 parent: src_rmo_1993
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1993 — Quesito 8
 
 *Count dinners attended alone given overlap conditions*
 

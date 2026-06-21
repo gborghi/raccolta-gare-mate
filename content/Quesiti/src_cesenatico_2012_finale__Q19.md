@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q19
 parent: src_cesenatico_2012_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 19
 
 *Max area ombra parallelepipedo (45 gradi)*
 

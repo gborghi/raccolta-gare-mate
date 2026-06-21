@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_biennio__Q11
 parent: src_archimede_2026_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Biennio — Quesito 11
 
 *Probabilità segmento tra vertici cubo passa per centro*
 

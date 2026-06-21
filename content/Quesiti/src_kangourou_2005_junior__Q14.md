@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q14
 parent: src_kangourou_2005_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 14
 
 *Coppia aree dei due rettangoli rimanenti*
 

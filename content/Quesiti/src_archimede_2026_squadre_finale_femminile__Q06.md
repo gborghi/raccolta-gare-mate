@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q06
 parent: src_archimede_2026_squadre_finale_femminile
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 6
 
 *Probabilità somme parziali mai divisibili per 3*
 

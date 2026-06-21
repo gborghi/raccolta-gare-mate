@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999
 tipo: gara
 src_id: src_archimede_1999_2livello
 competition: Archimede Gara 2º livello 1999
@@ -15,8 +16,6 @@ tags:
   - anno/1999
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999
 
 Sorgente: `Archimede/individuale/2livello/1999/febbraio1999-testi.pdf` · apri PDF
 

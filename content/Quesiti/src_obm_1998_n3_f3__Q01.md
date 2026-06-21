@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f3__Q01
 parent: src_obm_1998_n3_f3
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 1
 
 *15 pairwise-coprime integers in (1,1998); show one is prime*
 

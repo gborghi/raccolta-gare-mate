@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo26yq_yosen__Q12
 parent: src_jmo26yq_yosen
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 12
 
 *Max honest count identifiable via villager liar-count reports*
 

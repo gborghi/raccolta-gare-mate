@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (finale nazionale)
 tipo: gara
 src_id: src_kangourou_2005_benjamin_finale
 competition: Kangourou 2005 - Benjamin (finale nazionale)
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (finale nazionale)
 
 Sorgente: `Kangaroo/kangourou_individuali/2005/BMaggio-05.pdf` · apri PDF
 

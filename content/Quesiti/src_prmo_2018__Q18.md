@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q18
 parent: src_prmo_2018
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 18
 
 *Integers a,b,c>=4 not all equal satisfying 4abc=(a+3)(b+3)(c+3), find a+b+c*
 

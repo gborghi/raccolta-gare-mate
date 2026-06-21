@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q25
 parent: src_kangourou_2020_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 25
 
 *Quale combinazione gelato-decorazione NON e possibile*
 

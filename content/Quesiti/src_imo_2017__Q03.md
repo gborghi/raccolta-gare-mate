@@ -1,4 +1,5 @@
 ---
+title: IMO 2017 papers — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2017__Q03
 parent: src_imo_2017
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2017 papers — Quesito 3
 
 *Cacciatore e coniglio invisibile nel piano*
 

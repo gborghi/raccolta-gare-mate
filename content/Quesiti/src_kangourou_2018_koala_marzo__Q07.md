@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q07
 parent: src_kangourou_2018_koala_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 7
 
 *Quale sara il sedicesimo gruppo di perline (pattern)*
 

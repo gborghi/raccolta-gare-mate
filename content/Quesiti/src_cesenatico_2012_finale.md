@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale
 tipo: gara
 src_id: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2012/GaraASquadre_Cesenatico_2012.pdf` · apri PDF
 

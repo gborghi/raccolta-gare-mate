@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Triennio
 tipo: gara
 src_id: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/1998
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/1998/Archimede1998/gara-triennio1998.pdf` · apri PDF
 

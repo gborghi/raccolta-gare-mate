@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q15
 parent: src_kangourou_2006_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 15
 
 *Quale risposta corretta (autoreferenza logica)*
 

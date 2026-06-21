@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q14
 parent: src_archimede_2013_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 14
 
 *Quale porta scegliere per il cammino piu breve*
 

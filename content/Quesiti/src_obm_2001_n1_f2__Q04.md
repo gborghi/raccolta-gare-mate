@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n1_f2__Q04
 parent: src_obm_2001_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 4
 
 *Labels of grid points immediately below and left of point 2001*
 

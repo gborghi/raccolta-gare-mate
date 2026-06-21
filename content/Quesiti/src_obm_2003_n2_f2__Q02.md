@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f2__Q02
 parent: src_obm_2003_n2_f2
@@ -38,8 +39,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 2
 
 *Choose 13 integers from 1 to 26 containing 4 such that no chosen number divides another*
 

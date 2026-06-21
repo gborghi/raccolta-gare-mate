@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q04
 parent: src_kangourou_2024_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Ecolier 2024 — Quesito 4
 
 *Massima somma di cifre di un numero di 3 cifre divisibile per 4*
 

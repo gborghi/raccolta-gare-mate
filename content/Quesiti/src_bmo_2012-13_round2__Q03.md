@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2012-13 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2012-13_round2__Q03
 parent: src_bmo_2012-13_round2
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2012-13 — Round 2 — Quesito 3
 
 *Prove n+s has more 0s than 1s in binary, for 2013-digit integers with more 0s*
 

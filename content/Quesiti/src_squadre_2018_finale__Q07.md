@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q07
 parent: src_squadre_2018_finale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 7
 
 *Interi X senza zero per cui Y=X^2 vale letto al contrario*
 

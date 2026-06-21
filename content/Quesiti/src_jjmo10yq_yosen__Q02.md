@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo10yq_yosen__Q02
 parent: src_jjmo10yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 2
 
 *Count palindromes at most 2012 with reversed-order equal original*
 

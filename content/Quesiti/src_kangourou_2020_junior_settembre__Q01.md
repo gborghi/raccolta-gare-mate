@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - finale settembre — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q01
 parent: src_kangourou_2020_junior_settembre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - finale settembre — Quesito 1
 
 *Tragitto minimo tra due punti toccando l'asse y*
 

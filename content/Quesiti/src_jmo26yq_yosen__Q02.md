@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo26yq_yosen__Q02
 parent: src_jmo26yq_yosen
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 2
 
 *Count integers 1..2016 with small remainder mod 20*
 

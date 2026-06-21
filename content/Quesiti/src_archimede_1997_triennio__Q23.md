@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q23
 parent: src_archimede_1997_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 23
 
 *Relazioni fra i conteggi dei palindromi di 5 6 7 cifre*
 

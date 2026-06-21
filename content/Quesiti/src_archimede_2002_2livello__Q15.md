@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2002 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_2livello__Q15
 parent: src_archimede_2002_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2002 — Quesito 15
 
 *Terne (x,y,z) interi positivi con prodotto/condizione data*
 

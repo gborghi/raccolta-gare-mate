@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2013 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2013_automne__Q01
 parent: src_canimath_2013_automne
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2013 — Quesito 1
 
 *Count integers between 1 and 10000 divisible by 7 but not 5*
 

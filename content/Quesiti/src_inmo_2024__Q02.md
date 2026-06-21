@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2024 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2024__Q02
 parent: src_inmo_2024
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2024 — Quesito 2
 
 *2024x2024 board colouring game; find maximum squares Mohit can colour red*
 

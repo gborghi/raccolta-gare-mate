@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1990 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1990__Q03
 parent: src_rmo_1990
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1990 — Quesito 3
 
 *Square paper folded so B hits midpoint M of CD; crease divides BC 3:5*
 

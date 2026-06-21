@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo13mq_honsen__Q03
 parent: src_jjmo13mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 3
 
 *Ants on n x n board visiting every cell, minimal black cells*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q02
 parent: src_febbraio_2005
@@ -20,8 +21,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 2
 
 *Quesito a risposta multipla febbraio 2005 n.2*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q03
 parent: src_kangourou_2018_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 3
 
 *Giri completi per leggere MATE 2018 volte*
 

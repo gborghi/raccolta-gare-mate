@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Gara 16 marzo — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q18
 parent: src_kangourou_2017_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Gara 16 marzo — Quesito 18
 
 *Minimo cifre con due consecutivi somma cifre multipla di 7*
 

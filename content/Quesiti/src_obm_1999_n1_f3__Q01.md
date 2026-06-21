@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f3__Q01
 parent: src_obm_1999_n1_f3
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 3 — Quesito 1
 
 *Divide a cube into 1999 small cubes*
 

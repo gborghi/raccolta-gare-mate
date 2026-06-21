@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Biennio
 tipo: gara
 src_id: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/1997
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Biennio
 
 Sorgente: `Archimede/individuale/1livello/1997/Archimede1997/testo biennio1997.pdf` · apri PDF
 

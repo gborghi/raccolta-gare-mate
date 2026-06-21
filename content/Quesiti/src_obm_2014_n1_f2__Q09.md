@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f2__Q09
 parent: src_obm_2014_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 9
 
 *Place +, -, x signs between digits of 2014; count integer and distinct results*
 

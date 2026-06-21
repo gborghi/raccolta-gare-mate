@@ -1,4 +1,5 @@
 ---
+title: IMO 2018 papers — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_2018__Q04
 parent: src_imo_2018
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# IMO 2018 papers — Quesito 4
 
 *Massimo K pietre rosse di Amy (gioco)*
 

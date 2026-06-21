@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (finale nazionale) — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier_finale__QE2
 parent: src_kangourou_2005_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (finale nazionale) — Quesito E2
 
 *Stima peso minimo e massimo attuale*
 

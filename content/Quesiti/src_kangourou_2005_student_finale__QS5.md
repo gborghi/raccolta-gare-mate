@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Student (finale nazionale) — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_student_finale__QS5
 parent: src_kangourou_2005_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Student (finale nazionale) — Quesito S5
 
 *Croce greca su scacchiera 7x7 senza angoli*
 

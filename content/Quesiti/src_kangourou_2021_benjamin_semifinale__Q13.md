@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - semifinale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q13
 parent: src_kangourou_2021_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - semifinale — Quesito 13
 
 *Anni dall ultimo anno = due interi consecutivi accostati*
 

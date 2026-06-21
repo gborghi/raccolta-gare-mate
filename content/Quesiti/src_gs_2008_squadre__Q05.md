@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q05
 parent: src_gs_2008_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 5
 
 *Media pesata cocktail letale*
 

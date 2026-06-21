@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2022_n1_fx__Q04
 parent: src_obm_2022_n1_fx
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x — Quesito 4
 
 *Football tournament points: prove/find min victories and score constraints*
 

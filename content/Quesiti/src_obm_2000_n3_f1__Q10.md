@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n3_f1__Q10
 parent: src_obm_2000_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 10
 
 *Count positive integers x with floor(x/3)+floor(x/5)... =10*
 

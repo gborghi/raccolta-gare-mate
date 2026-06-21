@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2022__Q06
 parent: src_cesenatico_2022
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 6
 
 *P su circoscritta; perimetro*
 

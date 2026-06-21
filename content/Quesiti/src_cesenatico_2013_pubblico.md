@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Gara del pubblico
 tipo: gara
 src_id: src_cesenatico_2013_pubblico
 competition: Gara a Squadre Cesenatico 2013 - Gara del pubblico
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Gara del pubblico
 
 Sorgente: `Archimede/squadre/nazionale/2013/GaraASquadre_Cesenatico_2013.pdf` · apri PDF
 

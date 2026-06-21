@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1996 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_1996__Q02
 parent: src_cgen_1996
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1996 — Matematica — Quesito 2
 
 *Periodic real sequence defined by piecewise recurrence*
 

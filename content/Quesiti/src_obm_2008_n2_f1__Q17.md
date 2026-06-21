@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n2_f1__Q17
 parent: src_obm_2008_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 17
 
 *Smallest x+y making a sum of powers a perfect square*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q24
 parent: src_kangourou_2024_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 24
 
 *Differenza B-A di cubetti neri (cubo 3x3x3 tricolore)*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x
 tipo: gara
 src_id: src_obm_2021_nu_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x
@@ -19,8 +20,6 @@ tags:
   - gara/individuale
   - fase/x
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x
 
 Sorgente: apri PDF
 

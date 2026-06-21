@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q07
 parent: src_kangourou_2009_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 7
 
 *Vertici incontrati dalla diagonale rettangolo 350x210*
 

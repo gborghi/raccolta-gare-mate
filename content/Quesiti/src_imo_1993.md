@@ -1,4 +1,5 @@
 ---
+title: IMO 1993 (34th IMO)
 tipo: gara
 src_id: src_imo_1993
 competition: IMO 1993 (34th IMO)
@@ -15,8 +16,6 @@ tags:
   - anno/1993
   - gara/individuale
 ---
-
-# IMO 1993 (34th IMO)
 
 Sorgente: `Archimede/individuale/imho/all/1993_eng.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Gara del pubblico — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_pubblico__Q10
 parent: src_squadre_2023_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Gara del pubblico — Quesito 10
 
 *AS per dividere triangolo equilatero in 4 aree uguali*
 

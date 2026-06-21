@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_ecolier__Q07
 parent: src_kangourou_2013_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier — Quesito 7
 
 *Pezzo mancante dello specchio rotto*
 

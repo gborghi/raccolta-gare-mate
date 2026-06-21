@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 finale nazionale Benjamin
 tipo: gara
 src_id: src_kangourou_2016_finale_benjamin
 competition: Kangourou 2016 finale nazionale Benjamin
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Kangourou 2016 finale nazionale Benjamin
 
 Sorgente: `Kangaroo/kangourou_individuali/2016/BMaggio-16.pdf` · apri PDF
 

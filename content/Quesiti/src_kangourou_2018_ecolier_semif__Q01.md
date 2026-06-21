@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q01
 parent: src_kangourou_2018_ecolier_semif
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 1
 
 *Animali vivi tra topi e gatti dopo che i gatti mangiano*
 

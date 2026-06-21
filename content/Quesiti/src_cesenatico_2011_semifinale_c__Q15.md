@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q15
 parent: src_cesenatico_2011_semifinale_c
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 15
 
 *Numero con resto 1 mod 2..10 e poi divisibile*
 

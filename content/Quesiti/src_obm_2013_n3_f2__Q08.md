@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f2__Q08
 parent: src_obm_2013_n3_f2
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 8
 
 *Number of ordered real quadruples (x,y,z,w) satisfying cyclic cubic system*
 

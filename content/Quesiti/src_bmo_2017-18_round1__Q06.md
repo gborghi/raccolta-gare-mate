@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2017-18_round1__Q06
 parent: src_bmo_2017-18_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2017-18 — Round 1 — Quesito 6
 
 *Min cards placed when row means must stay integers; give example*
 

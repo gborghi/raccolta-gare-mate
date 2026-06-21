@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q02
 parent: src_jjmo1q
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 2
 
 *Solve a symmetric system of three linear equations in x, y, z*
 

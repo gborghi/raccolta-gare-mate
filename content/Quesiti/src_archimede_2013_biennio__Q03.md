@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q03
 parent: src_archimede_2013_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 3
 
 *Probabilita di testa al lancio successivo di moneta*
 

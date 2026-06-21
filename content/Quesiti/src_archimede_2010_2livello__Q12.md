@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q12
 parent: src_archimede_2010_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 12
 
 *Massimo grado di p(x-1)-3p(x)+3p(x+1)-p(x+2)*
 

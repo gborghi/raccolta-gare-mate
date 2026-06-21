@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q04
 parent: src_kangourou_2022_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale — Quesito 4
 
 *stima di chi conosceva la risposta corretta*
 

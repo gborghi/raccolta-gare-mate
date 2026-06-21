@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f1__Q16
 parent: src_obm_2015_n1_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 16
 
 *Count summands appearing in writing 2015 as sum of three numbers*
 

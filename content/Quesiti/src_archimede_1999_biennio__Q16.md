@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_biennio__Q16
 parent: src_archimede_1999_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Biennio — Quesito 16
 
 *Probabilita che il prodotto di due numeri sia multiplo di 5*
 

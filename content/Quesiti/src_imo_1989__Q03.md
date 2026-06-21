@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 3'
 tipo: quesito
 quesito_id: quesito_src_imo_1989__Q03
 parent: src_imo_1989
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1989 (30th IMO, Braunschweig) — Quesito 3
 
 *Equidistant-points configuration bound k<1/2+sqrt(2n)*
 

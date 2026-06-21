@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_biennio__Q03
 parent: src_archimede_2016_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Biennio — Quesito 3
 
 *numero furfanti*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo22yq_yosen__Q02
 parent: src_jmo22yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 2
 
 *Circle with tangent-chord angles 30° and 10°; find angle BDC*
 

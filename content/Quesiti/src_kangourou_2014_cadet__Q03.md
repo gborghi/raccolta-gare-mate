@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q03
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 3
 
 *2014-2014*
 

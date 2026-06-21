@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1992__Q06
 parent: src_imo_1992
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1992 (33rd IMO, Moscow) — Quesito 6
 
 *n^2 as sum of k positive squares, bounds*
 

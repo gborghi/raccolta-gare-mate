@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q16
 parent: src_kangourou_2020_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 16
 
 *Massimo facce rosse del cubo 3x3 (cubetti con due facce rosse)*
 

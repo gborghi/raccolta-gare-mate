@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q14
 parent: src_kangourou_2007_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 14
 
 *Valore x della soluzione (2^x equazione esponenziale)*
 

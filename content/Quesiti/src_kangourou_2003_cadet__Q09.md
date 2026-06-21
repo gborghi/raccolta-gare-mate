@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q09
 parent: src_kangourou_2003_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 9
 
 *Quale fattore dà più zeri moltiplicato per 768*
 

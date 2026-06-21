@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q15
 parent: src_kangourou_2022_junior_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale — Quesito 15
 
 *bordo uguale all'interno*
 

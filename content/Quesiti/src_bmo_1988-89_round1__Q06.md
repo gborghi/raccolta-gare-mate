@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1988-89 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1988-89_round1__Q06
 parent: src_bmo_1988-89_round1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1988-89 — Round 1 — Quesito 6
 
 *Prove all terms of integer sequence are odd*
 

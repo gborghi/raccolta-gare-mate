@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q28
 parent: src_kangourou_2011_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 28
 
 *Minimo valore intero dell'espressione crittaritmetica*
 

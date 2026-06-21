@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q15
 parent: src_archimede_2005_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 15
 
 *Minima distanza tra centri di due cerchi tangenti*
 

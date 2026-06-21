@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2026 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2026__Q06
 parent: src_inmo_2026
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2026 — Quesito 6
 
 *Two decks of 40 cards play repeated deterministic duels with win/draw/no-interaction rules; prove the maximum time a terminating game can take is 356 hours.*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q10
 parent: src_squadre_2025_femminile
@@ -22,8 +23,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 10
 
 *Minimo n con a_n<1 in progressione geometrica*
 

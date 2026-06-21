@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q07
 parent: src_kangourou_2011_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 7
 
 *Numeri possibili fra 9 km su contachilometri (cifre 1,2)*
 

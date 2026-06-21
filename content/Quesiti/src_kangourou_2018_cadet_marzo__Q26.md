@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q26
 parent: src_kangourou_2018_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo — Quesito 26
 
 *Dimensioni del rettangolo data l'area della colomba*
 

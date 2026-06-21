@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet finale (maggio) — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_maggio__QC6
 parent: src_kangourou_2007_cadet_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet finale (maggio) — Quesito C6
 
 *Somma prime sei cifre decimali di 2^2007/7*
 

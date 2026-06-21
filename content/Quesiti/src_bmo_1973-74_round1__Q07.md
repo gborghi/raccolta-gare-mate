@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round1__Q07
 parent: src_bmo_1973-74_round1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 1 — Quesito 7
 
 *Roots of cubic expressed via each other; find coefficients p, q, r and reality condition*
 

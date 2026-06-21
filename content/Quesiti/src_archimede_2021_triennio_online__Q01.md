@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio_online__Q01
 parent: src_archimede_2021_triennio_online
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 1
 
 *Quale prodotto di potenze e un quadrato perfetto*
 

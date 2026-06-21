@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_biennio__Q05
 parent: src_archimede_2011_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Biennio — Quesito 5
 
 *Somma numeri vertici piramide quadrata con facce div per 3*
 

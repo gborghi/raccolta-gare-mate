@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_triennio__Q15
 parent: src_archimede_2010_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Triennio — Quesito 15
 
 *Tempo per l'ultimo km con km via via piu veloci*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo9yq_yosen__Q05
 parent: src_jjmo9yq_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 5
 
 *Minimum grapes after spells restore apples and grapes to 2011 with mandarins exceeding 2011*
 

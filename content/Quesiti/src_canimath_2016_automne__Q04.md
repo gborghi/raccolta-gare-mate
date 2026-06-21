@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2016 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_automne__Q04
 parent: src_canimath_2016_automne
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2016 — Quesito 4
 
 *Two externally tangent circles; common tangent meets circles; show T,X,Z collinear*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q17
 parent: src_archimede_2014_classiprime
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 17
 
 *Massimo lato n con sottotabelle quadrate 2 bianche 2 nere ai vertici*
 

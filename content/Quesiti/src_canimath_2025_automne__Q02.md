@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q02
 parent: src_canimath_2025_automne
@@ -35,8 +36,6 @@ tags:
   - topic/grafi
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 2
 
 *Maximum candies from 2-coloring 9 connected circles*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q09
 parent: src_kangourou_2020_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 9
 
 *Probabilita di due facce dello stesso colore con due dadi*
 

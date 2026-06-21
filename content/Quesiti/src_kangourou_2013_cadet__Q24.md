@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q24
 parent: src_kangourou_2013_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 24
 
 *Numero concorrenti nella corsa campestre*
 

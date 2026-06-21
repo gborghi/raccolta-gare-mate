@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2017__Q04
 parent: src_selection_camp_2017
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2017 — Selection Camp — Quesito 4
 
 *Isosceles triangle, incenter, reflection: lies on circumcircle of BDE*
 

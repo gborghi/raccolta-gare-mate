@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r1__Q02
 parent: src_rmo_2015_r1
@@ -35,8 +36,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 1 — Quesito 2
 
 *Two quadratics equal at two integers, prove difference of leading linear coefficients is even*
 

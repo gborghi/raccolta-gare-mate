@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio__Q10
 parent: src_archimede_2021_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 10
 
 *Parole infinite su A,B evitando certe terne di lettere*
 

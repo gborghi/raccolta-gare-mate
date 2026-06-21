@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_triennio__Q03
 parent: src_archimede_2018_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Triennio (T1) — Quesito 3
 
 *Cubetti con almeno una faccia dipinta in cubo 10x10x10*
 

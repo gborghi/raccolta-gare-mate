@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_benjamin__Q10
 parent: src_kangourou_2001_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2001 - Benjamin (15 marzo) — Quesito 10
 
 *Fiammiferi minimi per 11 quadrati*
 

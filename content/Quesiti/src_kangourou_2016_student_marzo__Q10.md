@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q10
 parent: src_kangourou_2016_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 10
 
 *Angolo AXP dati archi AP e BP di 20 e 16*
 

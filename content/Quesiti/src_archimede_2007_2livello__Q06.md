@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q06
 parent: src_archimede_2007_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 6
 
 *Minimo numeri pari scegliendo 50 numeri con somma 3000*
 

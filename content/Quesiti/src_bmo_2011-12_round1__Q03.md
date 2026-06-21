@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2011-12_round1__Q03
 parent: src_bmo_2011-12_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 1 — Quesito 3
 
 *Intersection of two circles through P tangent to S is fixed*
 

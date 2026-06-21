@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q08
 parent: src_archimede_2013_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 8
 
 *Ciliegie mangiate da Alberto, divisione e resi*
 

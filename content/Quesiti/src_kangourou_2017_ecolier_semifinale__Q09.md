@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q09
 parent: src_kangourou_2017_ecolier_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 9
 
 *Partite di Tris gia concluse su griglia avvolta*
 

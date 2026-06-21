@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q03
 parent: src_kangourou_2016_marzo_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 gara 17 marzo Benjamin — Quesito 3
 
 *max rimovibili senza far cadere cartoline*
 

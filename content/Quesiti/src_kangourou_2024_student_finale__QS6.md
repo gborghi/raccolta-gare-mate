@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student finale — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_finale__QS6
 parent: src_kangourou_2024_student_finale
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2024 Student finale — Quesito S6
 
 *Numero dipendenti che massimizza giornate lavorative*
 

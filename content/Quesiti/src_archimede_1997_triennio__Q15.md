@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q15
 parent: src_archimede_1997_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 15
 
 *Semplificazione di una espressione con radicali*
 

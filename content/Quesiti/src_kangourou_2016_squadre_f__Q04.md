@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q04
 parent: src_kangourou_2016_squadre_f
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Finale — Quesito 4
 
 *Velocita restanti due terzi per media 21 (impossibile)*
 

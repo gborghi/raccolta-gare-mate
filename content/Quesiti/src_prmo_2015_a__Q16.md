@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q16
 parent: src_prmo_2015_a
@@ -32,8 +33,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 16
 
 *Angle $\angle ADF$ in acute triangle with midpoints and equal angle condition*
 

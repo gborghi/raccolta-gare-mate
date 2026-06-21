@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo)
 tipo: gara
 src_id: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2016/JMarzo-16.pdf` · apri PDF
 

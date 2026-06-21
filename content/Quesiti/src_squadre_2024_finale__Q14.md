@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q14
 parent: src_squadre_2024_finale
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 14
 
 *Probabilita due percorsi minimi disgiunti su griglia 2024*
 

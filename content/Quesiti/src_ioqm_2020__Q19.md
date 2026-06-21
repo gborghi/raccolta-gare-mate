@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q19
 parent: src_ioqm_2020
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 19
 
 *Parallelogram ABCD, E and F midpoints of AB and BC; lines EC and FD intersect at P; find max triangle area*
 

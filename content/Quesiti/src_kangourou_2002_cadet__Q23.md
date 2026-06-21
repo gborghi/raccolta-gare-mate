@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q23
 parent: src_kangourou_2002_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 23
 
 *Giorno della settimana del 20 del mese*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo36yqa_yosen__Q08
 parent: src_jmo36yqa_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 8
 
 *Find a_{20} in a strictly increasing sequence with alternating-sum divisibility condition*
 

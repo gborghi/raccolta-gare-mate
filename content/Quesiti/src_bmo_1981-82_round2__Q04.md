@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1981-82 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1981-82_round2__Q04
 parent: src_bmo_1981-82_round2
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1981-82 — Round 2 — Quesito 4
 
 *Two points on curve x^n - ay^n = b; area of triangle bound*
 

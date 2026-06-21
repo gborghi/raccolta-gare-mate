@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q18
 parent: src_kangourou_2023_student_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 18
 
 *Massimo n di persone senza antipatia reciproca tra le 2023*
 

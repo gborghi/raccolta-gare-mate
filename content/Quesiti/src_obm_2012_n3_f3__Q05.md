@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n3_f3__Q05
 parent: src_obm_2012_n3_f3
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3 — Quesito 5
 
 *Count colourings of n×n grid with 4 colours, no monochromatic 2×2 square side*
 

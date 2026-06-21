@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_tfjm_2018__Q09
 parent: src_tfjm_2018
@@ -39,8 +40,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 9
 
 *A combinatorial game with n torches each lit or off; players alternately toggle one torch but may never repeat a configuration, and the player who cannot move loses; determine winning strategies under cooperative play, a cap of k lit torches, toggling a fixed number per turn, and asymmetric per-player toggle counts.*
 

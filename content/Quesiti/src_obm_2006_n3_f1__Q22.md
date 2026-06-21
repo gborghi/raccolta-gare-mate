@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q22
 parent: src_obm_2006_n3_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 22
 
 *Points A,B in plane alpha at distance 8; count lines of alpha at distance 2 from A and at distance 2 from B.*
 

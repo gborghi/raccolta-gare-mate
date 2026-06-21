@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f2__Q02
 parent: src_obm_2004_n2_f2
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 2
 
 *Count ways to shade one cell per row and column in 4x4 grid*
 

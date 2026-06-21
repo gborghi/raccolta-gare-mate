@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (finale nazionale) — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet_finale__QC2
 parent: src_kangourou_2005_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (finale nazionale) — Quesito C2
 
 *Croce greca su scacchiera 7x7 somma totale negativa*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q11
 parent: src_archimede_2013_febb_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 11
 
 *Probabilita di arrivare a 5 pari a biliardino*
 

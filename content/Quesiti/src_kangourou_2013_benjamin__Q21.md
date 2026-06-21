@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q21
 parent: src_kangourou_2013_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 21
 
 *Logica con bugiardi sui colori delle biglie*
 

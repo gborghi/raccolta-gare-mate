@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1990-91 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1990-91_round1__Q01
 parent: src_bmo_1990-91_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1990-91 — Round 1 — Quesito 1
 
 *Prove 3^n + 2×17^n is never a perfect square*
 

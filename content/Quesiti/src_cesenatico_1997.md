@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1997
 tipo: gara
 src_id: src_cesenatico_1997
 competition: Gara Nazionale Cesenatico 1997
@@ -15,8 +16,6 @@ tags:
   - anno/1997
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1997
 
 Sorgente: `Archimede/individuale/nazionale/1997/cese97.pdf` · apri PDF
 

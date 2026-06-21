@@ -1,4 +1,5 @@
 ---
+title: IMO 2020 papers — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2020__Q01
 parent: src_imo_2020
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2020 papers — Quesito 1
 
 *Tre rette concorrenti in quadrilatero con rapporti angoli*
 

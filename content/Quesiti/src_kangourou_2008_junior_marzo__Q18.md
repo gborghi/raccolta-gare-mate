@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q18
 parent: src_kangourou_2008_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior (gara 28 marzo) — Quesito 18
 
 *Massime cifre cancellabili da 2008...2008 somma 2008*
 

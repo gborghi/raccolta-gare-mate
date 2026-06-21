@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1990
 tipo: gara
 src_id: src_inmo_1990
 competition: Indian National Mathematical Olympiad 1990
@@ -15,8 +16,6 @@ tags:
   - anno/1990
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1990
 
 Sorgente: apri PDF
 

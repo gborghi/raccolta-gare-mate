@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q02
 parent: src_kangourou_2018_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 2
 
 *Terzo lato intero dispari di triangolo di lati 5 e 2*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_2livello__Q03
 parent: src_archimede_2008_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 3
 
 *Area del trapezio isoscele data area di BOC e proporzioni*
 

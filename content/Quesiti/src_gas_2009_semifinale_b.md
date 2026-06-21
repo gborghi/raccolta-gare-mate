@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B
 tipo: gara
 src_id: src_gas_2009_semifinale_b
 competition: Gara a Squadre 2009 - Semifinale B
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B
 
 Sorgente: `Archimede/squadre/nazionale/2009/Bgas09.pdf` · apri PDF
 

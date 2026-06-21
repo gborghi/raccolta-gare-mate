@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f1__Q08
 parent: src_obm_2004_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 8
 
 *Fraction of shaded area in figure made of equal squares*
 

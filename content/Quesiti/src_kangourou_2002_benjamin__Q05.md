@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_benjamin__Q05
 parent: src_kangourou_2002_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Benjamin (21 marzo) — Quesito 5
 
 *Minimo topi per un colore di ciascuno*
 

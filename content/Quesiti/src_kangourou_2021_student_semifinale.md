@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale
 tipo: gara
 src_id: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2021/Student2021RSE.pdf` · apri PDF
 

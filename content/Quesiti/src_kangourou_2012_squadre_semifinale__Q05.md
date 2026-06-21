@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre semifinale turno A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q05
 parent: src_kangourou_2012_squadre_semifinale
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre semifinale turno A — Quesito 5
 
 *Prime quattro cifre della somma numeri con cifre 1-4*
 

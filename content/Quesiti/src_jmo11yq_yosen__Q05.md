@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo11yq_yosen__Q05
 parent: src_jmo11yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 5
 
 *Sum of 2001st powers mod 13*
 

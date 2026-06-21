@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f2__Q08
 parent: src_obm_2007_n3_f2
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 8
 
 *Prove a triangle in a circle configuration is equilateral with side 8 and compute its area*
 

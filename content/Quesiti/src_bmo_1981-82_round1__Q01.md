@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1981-82 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1981-82_round1__Q01
 parent: src_bmo_1981-82_round1
@@ -28,8 +29,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 1981-82 — Round 1 — Quesito 1
 
 *Quadrilateral with given area relation is a square with O at centre*
 

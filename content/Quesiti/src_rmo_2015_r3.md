@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 3
 tipo: gara
 src_id: src_rmo_2015_r3
 competition: Regional Mathematical Olympiad 2015 — Region 3
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/r3
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 3
 
 Sorgente: apri PDF
 

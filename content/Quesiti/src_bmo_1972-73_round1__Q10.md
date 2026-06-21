@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_bmo_1972-73_round1__Q10
 parent: src_bmo_1972-73_round1
@@ -31,8 +32,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1972-73 — Round 1 — Quesito 10
 
 *Flow chart for program printing integers a,b,c with c^2 = a^2 - b^2*
 

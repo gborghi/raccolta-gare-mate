@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_individuale__Q04
 parent: src_archimede_2001_individuale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 4
 
 *somma a cinque cifre e zeri finali del mcm*
 

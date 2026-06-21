@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2026 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo24hq_honsen__Q02
 parent: src_jjmo24hq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2026 — Honsen (Final) — Quesito 2
 
 *Angle bisector, perpendicular bisector of AD, four concyclic points*
 

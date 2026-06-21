@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q29
 parent: src_kangourou_2022_cadet_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 29
 
 *Misura dell'angolo BAC nel triangolo isoscele suddiviso*
 

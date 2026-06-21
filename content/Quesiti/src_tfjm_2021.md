@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
 tipo: gara
 src_id: src_tfjm_2021
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
 
 Sorgente: apri PDF
 

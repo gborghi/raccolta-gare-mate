@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q06
 parent: src_kangourou_2017_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 6
 
 *Quanti pezzi di specchio hanno esattamente quattro lati*
 

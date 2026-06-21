@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale
 tipo: gara
 src_id: src_kangourou_2009_squadre_finale
 competition: Kangourou 2009 squadre finale
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2009/SQ-F-09.pdf` · apri PDF
 

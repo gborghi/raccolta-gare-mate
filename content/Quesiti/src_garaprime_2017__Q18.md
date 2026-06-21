@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q18
 parent: src_garaprime_2017
@@ -23,8 +24,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 18
 
 *Media dei non partecipanti da media pesata*
 

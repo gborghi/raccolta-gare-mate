@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n3_f3__Q05
 parent: src_obm_2000_n3_f3
@@ -36,8 +37,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 5
 
 *Count distance-preserving functions on a sequence space*
 

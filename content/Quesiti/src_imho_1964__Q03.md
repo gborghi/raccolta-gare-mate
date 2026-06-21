@@ -1,4 +1,5 @@
 ---
+title: IMO 1964 (VI International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imho_1964__Q03
 parent: src_imho_1964
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1964 (VI International Olympiad) — Quesito 3
 
 *Somma aree dei quattro cerchi inscritti in funzione di a,b,c*
 

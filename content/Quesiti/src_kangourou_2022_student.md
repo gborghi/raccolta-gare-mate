@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Gara 17 marzo
 tipo: gara
 src_id: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Gara 17 marzo
 
 Sorgente: `Kangaroo/kangourou_individuali/2022/Student2022REL.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2003_benjamin_finale
 competition: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2003
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2003/BMaggio-03.pdf` · apri PDF
 

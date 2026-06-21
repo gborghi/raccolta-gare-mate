@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Triennio
 tipo: gara
 src_id: src_archimede_2007_triennio
 competition: Giochi di Archimede 2007 - Gara Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Triennio
 
 Sorgente: `Archimede/individuale/1livello/2007/Archimede2007/testo-triennio3.pdf` · apri PDF
 

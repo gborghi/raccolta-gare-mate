@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2 —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2001_nu_f2__Q03
 parent: src_obm_2001_nu_f2
@@ -33,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2 — Quesito 3
 
 *Existence of X in SL(2,Z) such that X^t AX equals one of four matrices*
 

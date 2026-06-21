@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q08
 parent: src_kangourou_2014_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 8
 
 *Minimo perle bianche da sfilare con le grigie*
 

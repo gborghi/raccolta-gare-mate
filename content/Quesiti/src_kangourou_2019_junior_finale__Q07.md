@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q07
 parent: src_kangourou_2019_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 7
 
 *Angolo convesso P'OQ' dopo tre ore di corsa*
 

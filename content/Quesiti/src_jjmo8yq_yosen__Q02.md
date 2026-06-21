@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo8yq_yosen__Q02
 parent: src_jjmo8yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 2
 
 *Pick one card per suit so sum is multiple of 7*
 

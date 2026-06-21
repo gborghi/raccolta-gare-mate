@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q03
 parent: src_kangourou_2020_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 3
 
 *Posizione del prodotto ab sulla retta reale*
 

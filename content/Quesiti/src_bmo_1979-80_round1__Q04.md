@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1979-80 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1979-80_round1__Q04
 parent: src_bmo_1979-80_round1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1979-80 — Round 1 — Quesito 4
 
 *Find initial values $a_0$ making the recurrence $a_{n+1}=2^n-3a_n$ strictly increasing*
 

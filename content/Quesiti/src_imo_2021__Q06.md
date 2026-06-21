@@ -1,4 +1,5 @@
 ---
+title: IMO 2021 papers — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2021__Q06
 parent: src_imo_2021
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2021 papers — Quesito 6
 
 *A contiene almeno m/2 elementi (sottoinsiemi somma m^k)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q06
 parent: src_kangourou_2021_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 6
 
 *Vaso col livello d'acqua piu alto con mezzo litro*
 

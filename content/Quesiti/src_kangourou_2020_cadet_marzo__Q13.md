@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q13
 parent: src_kangourou_2020_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 13
 
 *Quale diagramma mostra il traliccio visto dall alto*
 

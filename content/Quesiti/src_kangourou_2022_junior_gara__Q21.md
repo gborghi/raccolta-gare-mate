@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q21
 parent: src_kangourou_2022_junior_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 21
 
 *Area del quadrato R inscritto nel triangolo (P=45)*
 

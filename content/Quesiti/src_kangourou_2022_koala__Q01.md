@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Koala — Gioco Koala — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_koala__Q01
 parent: src_kangourou_2022_koala
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Koala — Gioco Koala — Quesito 1
 
 *Quale scatola contiene più triangoli*
 

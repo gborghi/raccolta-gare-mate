@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q13
 parent: src_kangourou_2013_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Finale — Quesito 13
 
 *Numero di divisori di 2013 al quadrato*
 

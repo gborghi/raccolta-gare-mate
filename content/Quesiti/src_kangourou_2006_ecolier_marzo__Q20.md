@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q20
 parent: src_kangourou_2006_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 20
 
 *Chi abita al primo piano (logica)*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f1__Q06
 parent: src_obm_2007_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 6
 
 *Smallest N/12 where N is a fourth power divisible by 12*
 

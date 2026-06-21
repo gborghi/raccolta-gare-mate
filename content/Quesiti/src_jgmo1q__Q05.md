@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2026 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jgmo1q__Q05
 parent: src_jgmo1q
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2026 — Quesito 5
 
 *Circumcenters of ABC and PQR coincide; incircle tangency condition in acute triangle*
 

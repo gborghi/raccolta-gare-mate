@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1995 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_1995__Q04
 parent: src_inmo_1995
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1995 — Quesito 4
 
 *Ratio of radii of mixtilinear circle to incircle equals tan^2((B-C)/4)*
 

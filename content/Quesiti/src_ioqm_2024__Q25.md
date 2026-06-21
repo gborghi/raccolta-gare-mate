@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q25
 parent: src_ioqm_2024
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 25
 
 *Find N^2 (largest square) in finite set M of perfect squares and 92*
 

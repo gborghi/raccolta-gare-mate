@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1998-99 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1998-99_round1__Q05
 parent: src_bmo_1998-99_round1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1998-99 — Round 1 — Quesito 5
 
 *Find all p such that f(1999)=p for a bijective function with a recurrence condition*
 

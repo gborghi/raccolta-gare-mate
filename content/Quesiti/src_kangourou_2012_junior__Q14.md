@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q14
 parent: src_kangourou_2012_junior
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 14
 
 *Quante volte e venuta croce*
 

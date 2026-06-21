@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q02
 parent: src_kangourou_2019_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Ecolier — Quesito 2
 
 *In che ordine sono passate le tre persone*
 

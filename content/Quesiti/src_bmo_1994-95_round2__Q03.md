@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1994-95 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1994-95_round2__Q03
 parent: src_bmo_1994-95_round2
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1994-95 — Round 2 — Quesito 3
 
 *Prove inequality for real numbers in (0,4)*
 

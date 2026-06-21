@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (finale Cervia) — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC6
 parent: src_kangourou_2017_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (finale Cervia) — Quesito C6
 
 *Cerchio minimo, coppie diametrali e cerchi contenenti S*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q26
 parent: src_kangourou_2024_junior
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 26
 
 *Frazione del tempo a 4 km/h (passeggiata a tre velocita)*
 

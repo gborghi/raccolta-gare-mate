@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f1__Q04
 parent: src_obm_2016_n1_f1
@@ -39,8 +40,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 4
 
 *Numbers on the vertices of a solid so each face has equal sum; total of all vertices.*
 

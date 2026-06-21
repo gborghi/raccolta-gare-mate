@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q07
 parent: src_kangourou_2021_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 7
 
 *Quanti paletti (due numerazioni rossa e verde)*
 

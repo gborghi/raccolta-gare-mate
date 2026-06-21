@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q12
 parent: src_kangourou_2021_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale — Quesito 12
 
 *Ultime quattro cifre del piu grande numero forte*
 

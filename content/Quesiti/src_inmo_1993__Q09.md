@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1993 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_inmo_1993__Q09
 parent: src_inmo_1993
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1993 — Quesito 9
 
 *Convex hexagon with equal angles and side lengths 1,2,3,4,5,6 in some order*
 

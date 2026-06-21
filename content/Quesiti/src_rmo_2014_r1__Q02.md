@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r1__Q02
 parent: src_rmo_2014_r1
@@ -33,8 +34,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 1 — Quesito 2
 
 *Arithmetic progression: express common difference d in terms of x, y, z*
 

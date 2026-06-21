@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q27
 parent: src_kangourou_2021_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 27
 
 *Decilitri nella bottiglia media sui tre scaffali*
 

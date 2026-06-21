@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (finale nazionale) — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin_finale__QB5
 parent: src_kangourou_2005_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (finale nazionale) — Quesito B5
 
 *Minimo estrazioni per svuotare urna (variazioni +/-1)*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo22yqa_yosen__Q01
 parent: src_jjmo22yqa_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 1
 
 *Smallest 5-digit number whose digit sum is 8 and that becomes a perfect square when 1 is added*
 

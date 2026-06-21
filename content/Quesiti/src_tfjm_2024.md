@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024
 tipo: gara
 src_id: src_tfjm_2024
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024
 
 Sorgente: apri PDF
 

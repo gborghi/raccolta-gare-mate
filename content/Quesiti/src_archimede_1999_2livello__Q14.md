@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q14
 parent: src_archimede_1999_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 14
 
 *Naturali con 3 cifre in base 10 e 7 in base 2*
 

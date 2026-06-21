@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_squadre__Q25
 parent: src_archimede_2001_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 25
 
 *raggio terza*
 

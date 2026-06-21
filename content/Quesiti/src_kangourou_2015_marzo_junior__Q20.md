@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q20
 parent: src_kangourou_2015_marzo_junior
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 20
 
 *n primo, uno solo di n-2,n+2 primo*
 

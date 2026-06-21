@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q12
 parent: src_kangourou_2005_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 12
 
 *Minimo lucchetti da aprire per 50 monete*
 

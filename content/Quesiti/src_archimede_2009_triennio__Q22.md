@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_triennio__Q22
 parent: src_archimede_2009_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio — Quesito 22
 
 *Numero cubi lato 3 cm data somma volumi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q16
 parent: src_kangourou_2020_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - gara marzo (biennio) — Quesito 16
 
 *Numero di gommoni alla partenza dopo trasbordi*
 

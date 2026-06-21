@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1994 — Matematica — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cgen_1994__Q04
 parent: src_cgen_1994
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1994 — Matematica — Quesito 4
 
 *Minimize sum of squared distances from point P to triangle vertices via projections*
 

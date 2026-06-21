@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q17
 parent: src_cesenatico_2004_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 17
 
 *Modi di scrivere 2004 come somma di 1 (partizioni)*
 

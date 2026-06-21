@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q06
 parent: src_kangourou_2015_marzo_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 6
 
 *Quale immagine ruotata coincide con quella data*
 

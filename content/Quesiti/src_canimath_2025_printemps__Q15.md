@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2025 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_printemps__Q15
 parent: src_canimath_2025_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2025 — Quesito 15
 
 *Min spies on 2025x2025 grid to identify any 1025x1025 sub-square*
 

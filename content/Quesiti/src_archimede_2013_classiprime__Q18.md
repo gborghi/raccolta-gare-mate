@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q18
 parent: src_archimede_2013_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 18
 
 *Area trapezio dato aree triangoli formati dalle diagonali*
 

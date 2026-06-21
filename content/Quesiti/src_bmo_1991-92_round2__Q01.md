@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1991-92 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1991-92_round2__Q01
 parent: src_bmo_1991-92_round2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1991-92 — Round 2 — Quesito 1
 
 *Odd prime p: unique positive integers x,y with x^2=y(y+p)*
 

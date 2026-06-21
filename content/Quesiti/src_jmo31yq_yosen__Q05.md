@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo31yq_yosen__Q05
 parent: src_jmo31yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 5
 
 *Pack four kinds of L-tetracube blocks into a 2x2x4 box*
 

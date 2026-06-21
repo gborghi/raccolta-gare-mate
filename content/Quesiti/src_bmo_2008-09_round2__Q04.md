@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2008-09 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2008-09_round2__Q04
 parent: src_bmo_2008-09_round2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2008-09 — Round 2 — Quesito 4
 
 *Show k(n) le 2009 implies n le 2^20, find equality cases*
 

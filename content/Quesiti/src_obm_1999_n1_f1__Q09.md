@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f1__Q09
 parent: src_obm_1999_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 9
 
 *Stack of blue plastic cubes exposed to air; count cubes with exactly 3 blue and 3 grey faces.*
 

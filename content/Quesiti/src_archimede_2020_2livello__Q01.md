@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_2livello__Q01
 parent: src_archimede_2020_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2020 - 2° livello — Quesito 1
 
 *Foglio 'contemporaneo' tagliato in 2020 parti simili*
 

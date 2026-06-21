@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q08
 parent: src_kangourou_2023_student
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 8
 
 *Area dipinta di nero in suddivisione infinita di un quadrato*
 

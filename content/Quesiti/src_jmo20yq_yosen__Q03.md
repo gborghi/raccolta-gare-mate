@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo20yq_yosen__Q03
 parent: src_jmo20yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 3
 
 *Max GCD of all six permutations of a 3-digit number with distinct nonzero digits*
 

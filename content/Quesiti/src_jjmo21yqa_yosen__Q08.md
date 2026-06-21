@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo21yqa_yosen__Q08
 parent: src_jjmo21yqa_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 8
 
 *Max area of cyclic quadrilateral with given data*
 

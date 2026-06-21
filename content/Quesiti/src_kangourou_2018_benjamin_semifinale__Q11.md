@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q11
 parent: src_kangourou_2018_benjamin_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Semifinale individuale — Quesito 11
 
 *Ultime 4 cifre della somma massima con prodotto 10^10*
 

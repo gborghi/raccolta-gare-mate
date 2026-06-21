@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q16
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 16
 
 *Difference of two double sums over pairs with odd vs even sum*
 

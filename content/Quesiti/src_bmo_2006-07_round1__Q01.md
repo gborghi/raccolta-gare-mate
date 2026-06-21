@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2006-07 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2006-07_round1__Q01
 parent: src_bmo_2006-07_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2006-07 — Round 1 — Quesito 1
 
 *Find four primes less than 100 dividing 3^n - 2^n for some n*
 

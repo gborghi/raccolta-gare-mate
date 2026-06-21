@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2015-16 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2015-16_round1__Q06
 parent: src_bmo_2015-16_round1
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2015-16 — Round 1 — Quesito 6
 
 *Charming integers defined recursively; prove every positive integer is a sum of few charming integers.*
 

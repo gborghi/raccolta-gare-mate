@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_maggio__QE1
 parent: src_kangourou_2008_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E1
 
 *Quanto tempo fa le stesse 4 cifre sull'orologio*
 

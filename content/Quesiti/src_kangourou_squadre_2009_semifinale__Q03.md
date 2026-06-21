@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q03
 parent: src_kangourou_squadre_2009_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 3
 
 *Raggio del disco in bandiera con croce (similitudine)*
 

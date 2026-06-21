@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2015 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_classiprime__Q01
 parent: src_archimede_2015_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2015 — Quesito 1
 
 *Trovare alpha con 2^alpha=4^(4^4)*
 

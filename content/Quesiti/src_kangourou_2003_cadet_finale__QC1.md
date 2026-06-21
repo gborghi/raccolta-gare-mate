@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC1
 parent: src_kangourou_2003_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C1
 
 *Disposizione 1-9 con somme ai vertici 20*
 

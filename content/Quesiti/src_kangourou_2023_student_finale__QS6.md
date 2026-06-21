@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Student 2023 — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_finale__QS6
 parent: src_kangourou_2023_student_finale
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou Finale Student 2023 — Quesito S6
 
 *Disuguaglianza fra somme di quadrati con sequenze non crescenti*
 

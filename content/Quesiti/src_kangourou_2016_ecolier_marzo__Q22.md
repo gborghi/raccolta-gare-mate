@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q22
 parent: src_kangourou_2016_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (gara marzo) — Quesito 22
 
 *Dove mettere il piatto Z in ordine di peso*
 

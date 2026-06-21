@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Gara 17 marzo — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student__Q22
 parent: src_kangourou_2022_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Gara 17 marzo — Quesito 22
 
 *Interi di 3 cifre = 5 volte il prodotto delle cifre*
 

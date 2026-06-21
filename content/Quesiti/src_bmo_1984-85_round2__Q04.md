@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1984-85 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1984-85_round2__Q04
 parent: src_bmo_1984-85_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1984-85 — Round 2 — Quesito 4
 
 *Count handshakes with Mongolian deputy at IMO session*
 

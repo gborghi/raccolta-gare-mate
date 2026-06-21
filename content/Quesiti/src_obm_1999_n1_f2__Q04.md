@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f2__Q04
 parent: src_obm_1999_n1_f2
@@ -38,8 +39,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2 — Quesito 4
 
 *Distribute coins in boxes so any amount 1–127 reais can be paid with exact boxes*
 

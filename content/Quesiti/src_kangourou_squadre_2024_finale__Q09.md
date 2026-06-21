@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q09
 parent: src_kangourou_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 9
 
 *Numero di incroci tra due nuotatrici in un'ora*
 

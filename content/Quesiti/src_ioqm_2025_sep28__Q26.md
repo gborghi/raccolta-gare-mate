@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q26
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 26
 
 *Triangle ABC; D midpoint of BC, O circumcenter, H orthocenter; ODH equilateral side 6; find a+b for area a√b*
 

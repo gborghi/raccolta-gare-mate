@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_maggio__QC1
 parent: src_kangourou_2008_cadet_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C1
 
 *Affluenza finale alle urne (incremento percentuale)*
 

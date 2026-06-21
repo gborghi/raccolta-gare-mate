@@ -1,4 +1,5 @@
 ---
+title: IMO 1993 (34th IMO) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1993__Q03
 parent: src_imo_1993
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1993 (34th IMO) — Quesito 3
 
 *which n leave one piece*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q09
 parent: src_kangourou_2018_ecolier_semif
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 9
 
 *Quale tassello puo comporre il mosaico mostrato*
 

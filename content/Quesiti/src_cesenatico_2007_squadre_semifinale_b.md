@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale B
 tipo: gara
 src_id: src_cesenatico_2007_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2007 - Semifinale B
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale B
 
 Sorgente: `Archimede/squadre/nazionale/2007/SemifinaliB.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2022__Q05
 parent: src_selection_camp_2022
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2022 — Selection Camp — Quesito 5
 
 *Bead-moving game on a line with ratio r; find r allowing red bead to reach B in at most 2021 moves*
 

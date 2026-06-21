@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q06
 parent: src_prmo_2018
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 6
 
 *Integers a,b,c with a+b-c=1 and a^2+b^2-c^2=-1, find sum of all possible values of a^2+b^2+c^2*
 

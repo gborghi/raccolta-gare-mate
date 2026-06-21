@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q23
 parent: src_kangourou_2017_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 23
 
 *Monete toccate a Enzo (sacchetti da 1 a 10)*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo9mq_honsen__Q03
 parent: src_jjmo9mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 3
 
 *Acute triangle, orthocenter, two circumcircles meet altitude lines outside; prove AE = AF*
 

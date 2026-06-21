@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q16
 parent: src_garaprime_2024
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 16
 
 *Iscritti che sanno giocare a dama e scacchi (insiemi)*
 

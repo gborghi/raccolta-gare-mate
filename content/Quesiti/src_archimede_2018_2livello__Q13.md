@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_2livello__Q13
 parent: src_archimede_2018_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2018 - 2° livello — Quesito 13
 
 *Polinomi prodotto, grado minimo del quoziente*
 

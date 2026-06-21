@@ -1,4 +1,5 @@
 ---
+title: IMO 2016 papers — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2016__Q06
 parent: src_imo_2016
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# IMO 2016 papers — Quesito 6
 
 *Rane su segmenti senza collisioni se n dispari*
 

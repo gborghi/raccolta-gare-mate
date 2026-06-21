@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q05
 parent: src_kangourou_2014_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A — Quesito 5
 
 *Numero coppie (x,y) interi positivi con x+3y=2014*
 

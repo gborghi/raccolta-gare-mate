@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1989__Q01
 parent: src_imo_1989
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1989 (30th IMO, Braunschweig) — Quesito 1
 
 *Partition 1..1989 into 117 equal-sum 17-element subsets*
 

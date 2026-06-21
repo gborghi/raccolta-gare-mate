@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale1__Q10
 parent: src_squadre_2024_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 1 — Quesito 10
 
 *Sottoinsiemi di 1-12 con prodotto cifra unita zero*
 

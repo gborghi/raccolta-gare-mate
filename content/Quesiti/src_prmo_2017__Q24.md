@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q24
 parent: src_prmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 24
 
 *Find KL where three equal parallel cevians through interior point of triangle with sides 26,65,78*
 

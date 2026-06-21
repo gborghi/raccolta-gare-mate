@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r4__Q02
 parent: src_rmo_2016_r4
@@ -32,8 +33,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 4 — Quesito 2
 
 *Prove inequality for positive reals satisfying a cyclic sum condition*
 

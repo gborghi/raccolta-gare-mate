@@ -1,4 +1,5 @@
 ---
+title: IMO 2020 papers — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_2020__Q02
 parent: src_imo_2020
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 2020 papers — Quesito 2
 
 *Disuguaglianza (a+2b+3c+4d)a^a b^b c^c d^d<1*
 

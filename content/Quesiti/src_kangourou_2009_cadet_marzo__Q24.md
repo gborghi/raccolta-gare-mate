@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q24
 parent: src_kangourou_2009_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 24
 
 *Rapporto superfici otto parallelepipedi su cubo*
 

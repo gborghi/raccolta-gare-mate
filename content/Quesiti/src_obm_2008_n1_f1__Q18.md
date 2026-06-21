@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f1__Q18
 parent: src_obm_2008_n1_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 18
 
 *Erase minimum digits from repeated-2008 number so digit sum equals 2008*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q02
 parent: src_kangourou_2018_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 2
 
 *Ora di uscita dell'ultima coppia dal castello*
 

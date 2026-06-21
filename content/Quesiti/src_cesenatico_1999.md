@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1999
 tipo: gara
 src_id: src_cesenatico_1999
 competition: Gara Nazionale Cesenatico 1999
@@ -15,8 +16,6 @@ tags:
   - anno/1999
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1999
 
 Sorgente: `Archimede/individuale/nazionale/1999/Cesenatico 1999.pdf` · apri PDF
 

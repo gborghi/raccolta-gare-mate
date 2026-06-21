@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q18
 parent: src_kangourou_2012_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 18
 
 *Distanza tra Anna e Luigi sul marciapiede mobile*
 

@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q12
 parent: src_garaprime_2024
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 12
 
 *Quadrato perfetto successivo a n*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2020 - testi
 tipo: gara
 src_id: src_cesenatico_2020
 competition: Olimpiade Italiana (Cesenatico) 2020 - testi
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2020 - testi
 
 Sorgente: `Archimede/individuale/nazionale/2020/Cesenatico2020.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 2 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale2__Q11
 parent: src_squadre_2024_semifinale2
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 2 — Quesito 11
 
 *Modi di raggiungere 12 blu 10 rosse 4 verdi con mosse minime*
 

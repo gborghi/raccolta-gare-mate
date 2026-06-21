@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2016-17_round1__Q02
 parent: src_bmo_2016-17_round1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 1 — Quesito 2
 
 *3-smooth greatest divisor; find all pairs (m,n) with n·f(m)=m·f(n)*
 

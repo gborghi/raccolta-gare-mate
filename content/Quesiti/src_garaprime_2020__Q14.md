@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_garaprime_2020__Q14
 parent: src_garaprime_2020
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020 — Quesito 14
 
 *Cifra delle decine di n^3 con n che termina per 5*
 

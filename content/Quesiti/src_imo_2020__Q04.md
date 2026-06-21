@@ -1,4 +1,5 @@
 ---
+title: IMO 2020 papers — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_2020__Q04
 parent: src_imo_2020
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# IMO 2020 papers — Quesito 4
 
 *Minimo k funivie con due stazioni collegate da entrambe*
 

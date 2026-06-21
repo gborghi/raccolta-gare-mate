@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo19mq_honsen__Q04
 parent: src_jmo19mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 4
 
 *Circle tangent to BC and circumcircle: prove angle bisector property at A*
 

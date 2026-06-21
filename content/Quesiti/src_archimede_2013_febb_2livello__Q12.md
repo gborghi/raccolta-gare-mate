@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q12
 parent: src_archimede_2013_febb_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 12
 
 *Coppie intere ordinate con xy=4(y^2+x)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 1
 tipo: gara
 src_id: src_squadre_2024_semifinale1
 competition: Gara a Squadre 2024 - Semifinale 1
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 1
 
 Sorgente: `Archimede/squadre/nazionale/2024/gas2024ITA.pdf` · apri PDF
 

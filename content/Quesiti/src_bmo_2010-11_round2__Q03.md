@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round2__Q03
 parent: src_bmo_2010-11_round2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 2 — Quesito 3
 
 *Find all integers x, y with x+y dividing 2(x^2+y^2)-xy*
 

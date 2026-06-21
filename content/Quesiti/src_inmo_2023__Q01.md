@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2023 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2023__Q01
 parent: src_inmo_2023
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2023 — Quesito 1
 
 *Finite set with 2023 square-product pairs; find 4 elements with no square pairwise product*
 

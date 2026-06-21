@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_tfjm_2021__Q06
 parent: src_tfjm_2021
@@ -35,8 +36,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 6
 
 *Distribute N gift bags among two TFJM committees joined in a tree of neighbor relations; each move along an edge costs 1; minimize total transfer cost*
 

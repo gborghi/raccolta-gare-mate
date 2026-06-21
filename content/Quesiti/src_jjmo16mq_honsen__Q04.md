@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo16mq_honsen__Q04
 parent: src_jjmo16mq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 4
 
 *Blackboard operation with divisors; prove the initial number reappears*
 

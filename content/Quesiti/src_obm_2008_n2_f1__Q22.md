@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n2_f1__Q22
 parent: src_obm_2008_n2_f1
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 22
 
 *Relation among three triangle areas between two parallel lines*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q22
 parent: src_obm_2016_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 22
 
 *Ratio of areas [CHAM]/[AEFG] in a square of side 6 with similar triangles*
 

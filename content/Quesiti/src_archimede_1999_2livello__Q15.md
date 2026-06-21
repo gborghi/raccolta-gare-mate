@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q15
 parent: src_archimede_1999_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 15
 
 *Giri della ruota a perché il sistema torni iniziale*
 

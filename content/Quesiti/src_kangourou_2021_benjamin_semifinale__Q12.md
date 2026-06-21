@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - semifinale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q12
 parent: src_kangourou_2021_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - semifinale — Quesito 12
 
 *Monete in ogni forziere (<270 e >200 per 3)*
 

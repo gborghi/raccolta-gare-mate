@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n2_f1__Q18
 parent: src_obm_2008_n2_f1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 18
 
 *Three-digit number 629 times smaller than sum of all others*
 

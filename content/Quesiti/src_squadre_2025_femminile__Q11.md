@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q11
 parent: src_squadre_2025_femminile
@@ -22,8 +23,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 11
 
 *Palline verdi con prob stesso colore uguale a diverso*
 

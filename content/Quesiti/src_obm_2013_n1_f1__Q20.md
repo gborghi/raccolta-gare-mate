@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f1__Q20
 parent: src_obm_2013_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 20
 
 *Number of ways to tile a 24-cell grid with six identical 4-cell pieces*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 2022 papers — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2022__Q06
 parent: src_imo_2022
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2022 papers — Quesito 6
 
 *Minimo numero di cammini uphill in quadrato nordico*
 

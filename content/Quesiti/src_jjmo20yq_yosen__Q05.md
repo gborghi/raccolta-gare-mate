@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo20yq_yosen__Q05
 parent: src_jjmo20yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 5
 
 *45x45 grid, 2022 cells black; max n guaranteeing all-black n×n subgrid*
 

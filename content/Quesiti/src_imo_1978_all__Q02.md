@@ -1,4 +1,5 @@
 ---
+title: IMO 1978 (Twentieth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1978_all__Q02
 parent: src_imo_1978_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1978 (Twentieth International Olympiad) — Quesito 2
 
 *Locus of opposite vertex Q of perpendicular rays in sphere*
 

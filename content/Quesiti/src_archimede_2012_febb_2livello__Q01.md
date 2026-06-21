@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q01
 parent: src_archimede_2012_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 1
 
 *Da 3a+b su a-b uguale 2, calcolare a^3/b^3*
 

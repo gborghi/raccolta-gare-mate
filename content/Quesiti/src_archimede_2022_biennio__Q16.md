@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_biennio__Q16
 parent: src_archimede_2022_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Biennio — Quesito 16
 
 *Area di triangolo DEG da punti medi successivi*
 

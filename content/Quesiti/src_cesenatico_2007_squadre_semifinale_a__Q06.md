@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_a__Q06
 parent: src_cesenatico_2007_squadre_semifinale_a
@@ -27,8 +28,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 6
 
 *Piu piccolo intero maggiore dell'area di ogni shuriken*
 

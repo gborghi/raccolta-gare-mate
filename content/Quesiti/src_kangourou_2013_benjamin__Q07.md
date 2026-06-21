@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q07
 parent: src_kangourou_2013_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 7
 
 *Ora della quarta pillola a quarti d'ora*
 

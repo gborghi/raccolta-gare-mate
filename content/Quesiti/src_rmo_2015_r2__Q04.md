@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r2__Q04
 parent: src_rmo_2015_r2
@@ -35,8 +36,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 2 — Quesito 4
 
 *Count ways to choose 3 of 32 objects on circle, no two adjacent or diametrically opposite*
 

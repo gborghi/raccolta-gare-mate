@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q28
 parent: src_kangourou_2006_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 28
 
 *Modi di maturare 5-4 sempre in vantaggio*
 

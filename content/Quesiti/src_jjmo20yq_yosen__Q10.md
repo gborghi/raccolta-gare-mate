@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo20yq_yosen__Q10
 parent: src_jjmo20yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 10
 
 *Ring of 103 squares; A moves piece by c or d, B by a or b; count (a,b,c,d)*
 

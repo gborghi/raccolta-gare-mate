@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round2__Q01
 parent: src_bmo_1987-88_round2
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 2 — Quesito 1
 
 *Equilateral triangle with inscribed circles; prove ratio AP/AC = 4/5 and find AQ/AC*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q01
 parent: src_kangourou_2019_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 1
 
 *Risultato del prodotto telescopico di frazioni*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1976 (Eighteenth International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1976_all__Q01
 parent: src_imo_1976_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1976 (Eighteenth International Olympiad) — Quesito 1
 
 *find other diagonal lengths*
 

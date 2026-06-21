@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo22yqa_yosen__Q09
 parent: src_jjmo22yqa_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 9
 
 *Count 2024-step Hamiltonian tours on 2024 cells with restricted moves returning to cell 1*
 

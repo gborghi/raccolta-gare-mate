@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jmo12yq_yosen__Q10
 parent: src_jmo12yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 10
 
 *Max number of 3-cycles in a 14-player round robin*
 

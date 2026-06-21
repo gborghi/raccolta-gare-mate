@@ -1,4 +1,5 @@
 ---
+title: IMO 2015 papers
 tipo: gara
 src_id: src_imo_2015
 competition: IMO 2015 papers
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/individuale
 ---
-
-# IMO 2015 papers
 
 Sorgente: `Archimede/individuale/imho/all/2015_eng.pdf` · apri PDF
 

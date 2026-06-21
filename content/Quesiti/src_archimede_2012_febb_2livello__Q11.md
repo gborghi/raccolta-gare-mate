@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q11
 parent: src_archimede_2012_febb_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 11
 
 *Conteggio colorazioni scacchiera 8x8 con lettere ABCD vincolate*
 

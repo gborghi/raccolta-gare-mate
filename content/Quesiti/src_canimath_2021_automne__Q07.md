@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q07
 parent: src_canimath_2021_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 7
 
 *Maena writes 2021 integers per line iterating a counting rule; show she eventually repeats a line*
 

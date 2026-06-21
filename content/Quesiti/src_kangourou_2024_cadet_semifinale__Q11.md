@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q11
 parent: src_kangourou_2024_cadet_semifinale
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 11
 
 *Somma minima di sei numeri coprimi sulle facce di un cubo*
 

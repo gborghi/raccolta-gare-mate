@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n1_f1__Q06
 parent: src_obm_2001_n1_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 6
 
 *Litres of water evaporated dehydrating 100 kg of pears from 90% to 60% water*
 

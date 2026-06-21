@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q11
 parent: src_cesenatico_2007_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 11
 
 *Media aritmetica forze vitali dato insieme delle medie da 3*
 

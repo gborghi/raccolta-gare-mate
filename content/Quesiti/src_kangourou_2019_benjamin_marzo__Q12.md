@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q12
 parent: src_kangourou_2019_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 12
 
 *Quale solido richiede piu vernice (superficie maggiore)*
 

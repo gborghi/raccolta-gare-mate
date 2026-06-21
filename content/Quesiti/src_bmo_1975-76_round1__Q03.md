@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1975-76 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1975-76_round1__Q03
 parent: src_bmo_1975-76_round1
@@ -32,8 +33,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1975-76 — Round 1 — Quesito 3
 
 *Find 5-element subset meeting each of 50 large subsets of finite set*
 

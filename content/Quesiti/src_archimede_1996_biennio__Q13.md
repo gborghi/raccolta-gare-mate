@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q13
 parent: src_archimede_1996_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 13
 
 *Quale persona indovina data fra settimana giorno mese*
 

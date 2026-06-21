@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2003_nu_f1__Q05
 parent: src_obm_2003_nu_f1
@@ -35,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 — Quesito 5
 
 *Polynomial (1/n)((X+a)^n - X^n - a) has integer coefficients iff n is prime*
 

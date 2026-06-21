@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q24
 parent: src_cesenatico_2001_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 24
 
 *Coppie ordinate di divisori di 385 con m divisore di n*
 

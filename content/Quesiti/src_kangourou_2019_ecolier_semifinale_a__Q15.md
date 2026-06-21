@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q15
 parent: src_kangourou_2019_ecolier_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 15
 
 *Quante zampe ha un gurocan*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_1992__Q05
 parent: src_rmo_1992
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992 — Quesito 5
 
 *Cyclic quadrilateral ABCD; distances x,y,z from A to lines BD,BC,CD satisfy BD/x=BC/y+CD/z.*
 

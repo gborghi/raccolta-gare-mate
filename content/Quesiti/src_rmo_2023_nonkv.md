@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — Non-KV
 tipo: gara
 src_id: src_rmo_2023_nonkv
 competition: Regional Mathematical Olympiad 2023 — Non-KV
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/nonkv
 ---
-
-# Regional Mathematical Olympiad 2023 — Non-KV
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round2__Q01
 parent: src_bmo_1980-81_round2
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 2 — Quesito 1
 
 *Triangle sides red; 3 blue lines cut into 4 congruent triangles and 3 pentagons; find area fraction*
 

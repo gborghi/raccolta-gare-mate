@@ -1,11 +1,10 @@
 ---
+title: Stima e approssimazione
 tipo: skill
 concept_id: skill_stima
 tags:
   - graph/skill
 ---
-
-# Stima e approssimazione
 
 *skill* — **139** quesiti (italiani).
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q11
 parent: src_archimede_2012_triennio
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 11
 
 *Somma cifre di (10^2013+1)^3*
 

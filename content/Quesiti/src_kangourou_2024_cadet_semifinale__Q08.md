@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q08
 parent: src_kangourou_2024_cadet_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 8
 
 *Massimo numero di spagnoli con 143 strette di mano*
 

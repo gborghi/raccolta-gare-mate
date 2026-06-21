@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo30yq_yosen__Q09
 parent: src_jmo30yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 9
 
 *Multiplicative functional equation f(mn)=f(m)^f(n), find minimum of f(f(n))*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale)
 tipo: gara
 src_id: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -15,8 +16,6 @@ tags:
   - anno/2000
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale)
 
 Sorgente: `Kangaroo/kangourou_individuali/2000/Marzo_00.pdf` · apri PDF
 

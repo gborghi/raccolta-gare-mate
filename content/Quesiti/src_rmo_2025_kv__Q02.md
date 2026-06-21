@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2025_kv__Q02
 parent: src_rmo_2025_kv
@@ -31,8 +32,6 @@ tags:
   - regione/kv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 2
 
 *Prove inequality for positive reals with abc=1*
 

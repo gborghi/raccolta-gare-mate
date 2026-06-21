@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q21
 parent: src_kangourou_2002_student
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 21
 
 *Triangoli non degeneri da 10 punti*
 

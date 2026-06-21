@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f1__Q24
 parent: src_obm_2013_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 24
 
 *Minimum board length to prop a cylinder of radius 1 in a corner*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q03
 parent: src_canimath_2019_automne
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 3
 
 *Isosceles triangle ABC with angle ABC = 60°; find all values of angle ACB*
 

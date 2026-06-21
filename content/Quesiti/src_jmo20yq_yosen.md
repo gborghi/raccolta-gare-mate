@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
 tipo: gara
 src_id: src_jmo20yq_yosen
 competition: Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
 
 Sorgente: apri PDF
 

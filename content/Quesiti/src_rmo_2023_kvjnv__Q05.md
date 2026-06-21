@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_kvjnv__Q05
 parent: src_rmo_2023_kvjnv
@@ -37,8 +38,6 @@ tags:
   - regione/kvjnv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 5
 
 *Triangle sides a,b,c with T_n expression, given ratio condition find all perimeters*
 

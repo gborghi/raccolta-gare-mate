@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f2__Q09
 parent: src_obm_2013_n3_f2
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 9
 
 *Largest n such that B is divisible by 3^n, where sum 1+1/2+...+1/2013=A/B in lowest terms*
 

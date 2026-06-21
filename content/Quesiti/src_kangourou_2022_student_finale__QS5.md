@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Finale (risposta aperta) — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_finale__QS5
 parent: src_kangourou_2022_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Finale (risposta aperta) — Quesito S5
 
 *Asse di un segmento con metrica del max (distanza Chebyshev)*
 

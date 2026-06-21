@@ -1,11 +1,10 @@
 ---
+title: Insiemi e funzioni
 tipo: topic
 concept_id: topic_insiemi_funzioni
 tags:
   - graph/topic
 ---
-
-# Insiemi e funzioni
 
 *topic* — **66** quesiti (italiani).
 

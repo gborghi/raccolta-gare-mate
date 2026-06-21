@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f3__Q02
 parent: src_obm_2012_n1_f3
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 2
 
 *Two different hexagons with all interior angles 120 degrees; find the perimeter of ABCDEF and the value of ST+PU from given side lengths.*
 

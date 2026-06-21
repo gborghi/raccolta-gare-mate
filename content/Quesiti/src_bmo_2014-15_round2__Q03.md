@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2014-15 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2014-15_round2__Q03
 parent: src_bmo_2014-15_round2
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2014-15 — Round 2 — Quesito 3
 
 *Locus of incentre of triangle AQP as PQ varies is a circle through A.*
 

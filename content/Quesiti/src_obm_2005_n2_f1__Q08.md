@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q08
 parent: src_obm_2005_n2_f1
@@ -35,8 +36,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 8
 
 *Balance puzzle: equal-shaped figures have equal mass; how many squares balance the last scale*
 

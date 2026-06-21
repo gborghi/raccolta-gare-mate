@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_nonkv__Q03
 parent: src_rmo_2023_nonkv
@@ -34,8 +35,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — Non-KV — Quesito 3
 
 *Find natural numbers m and n with digit-sum conditions in base 10*
 

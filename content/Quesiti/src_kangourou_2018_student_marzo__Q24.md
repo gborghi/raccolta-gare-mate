@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q24
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 24
 
 *Valore di n^2+m con m,n radici di x^2-x-2018=0*
 

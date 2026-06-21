@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1982-83 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1982-83_round2__Q02
 parent: src_bmo_1982-83_round2
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1982-83 — Round 2 — Quesito 2
 
 *Escribed circles of triangle; tangents form a triangle T; prove orthocentre result*
 

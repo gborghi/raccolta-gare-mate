@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1997-98 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1997-98_round2__Q03
 parent: src_bmo_1997-98_round2
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1997-98 — Round 2 — Quesito 3
 
 *Reciprocal equation: hxyz and h(y-x) are perfect squares*
 

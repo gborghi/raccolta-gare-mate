@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q28
 parent: src_kangourou_2013_student
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 28
 
 *natura dei due individui*
 

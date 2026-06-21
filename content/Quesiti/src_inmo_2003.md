@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2003
 tipo: gara
 src_id: src_inmo_2003
 competition: Indian National Mathematical Olympiad 2003
@@ -15,8 +16,6 @@ tags:
   - anno/2003
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2003
 
 Sorgente: apri PDF
 

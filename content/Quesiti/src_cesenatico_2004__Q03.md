@@ -1,4 +1,5 @@
 ---
+title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004__Q03
 parent: src_cesenatico_2004
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 3
 
 *20052004 e 20042005 sono somma di due quadrati perfetti positivi?*
 

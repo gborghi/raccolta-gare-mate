@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q08
 parent: src_kangourou_2024_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 8
 
 *Somma dei due numeri di Sofia da 2(5x+y)=212*
 

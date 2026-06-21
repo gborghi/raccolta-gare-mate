@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f1__Q04
 parent: src_obm_2011_n1_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 4
 
 *Count of dates with equal day, month, last two digits of year*
 

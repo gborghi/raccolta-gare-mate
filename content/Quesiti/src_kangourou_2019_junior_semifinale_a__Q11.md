@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q11
 parent: src_kangourou_2019_junior_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 11
 
 *Probabilita che ABC+AB+A sia divisibile per 3*
 

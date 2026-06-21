@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (finale nazionale) — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin_finale__QB4
 parent: src_kangourou_2005_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (finale nazionale) — Quesito B4
 
 *Minimo lacci comprati da Silvia*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q17
 parent: src_kangourou_2006_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 17
 
 *Quale numero maggiore (frazioni con a,b)*
 

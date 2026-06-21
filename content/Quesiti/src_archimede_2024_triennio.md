@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio
 tipo: gara
 src_id: src_archimede_2024_triennio
 competition: Giochi di Archimede 2024 - Gara Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio
 
 Sorgente: `Archimede/individuale/1livello/2024/archimede_2024_triennio.pdf` · apri PDF
 

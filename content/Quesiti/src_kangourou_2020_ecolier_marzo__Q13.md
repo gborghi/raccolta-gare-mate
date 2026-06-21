@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q13
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 13
 
 *Numero del gradino dove si incontrano coniglio e canguro*
 

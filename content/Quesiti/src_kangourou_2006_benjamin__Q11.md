@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q11
 parent: src_kangourou_2006_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 11
 
 *Perimetro della stella con cerchi e quadrato*
 

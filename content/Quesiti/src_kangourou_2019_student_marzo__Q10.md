@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q10
 parent: src_kangourou_2019_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 10
 
 *Quanti interi da 2^10 a 2^13 divisibili per 210*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q29
 parent: src_kangourou_2009_cadet_marzo
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 29
 
 *Massimi numeri allineabili (divisibilita adiacenti)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q01
 parent: src_cesenatico_2011_semifinale_c
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 1
 
 *Prime 4 cifre della radice positiva di x^2011-x-1*
 

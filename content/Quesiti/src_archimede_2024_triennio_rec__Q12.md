@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q12
 parent: src_archimede_2024_triennio_rec
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 12
 
 *Ordini d'arrivo compatibili con previsioni parziali*
 

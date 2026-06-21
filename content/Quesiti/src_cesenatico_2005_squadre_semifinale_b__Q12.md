@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q12
 parent: src_cesenatico_2005_squadre_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 12
 
 *Cateto maggiore di triangolo rettangolo con condizione incentro*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q07
 parent: src_kangourou_2022_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 7
 
 *Numero piu probabile di chi conosceva la risposta*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre
 tipo: gara
 src_id: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre
 
 Sorgente: `Archimede/squadre/locale/soluzioni/GS_2008_soluzioni.pdf` · apri PDF
 

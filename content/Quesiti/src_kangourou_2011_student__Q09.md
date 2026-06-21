@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q09
 parent: src_kangourou_2011_student
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 9
 
 *Numeri dispari da 1 a 2011 senza i multipli di 3*
 

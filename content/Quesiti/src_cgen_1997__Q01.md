@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1997 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_1997__Q01
 parent: src_cgen_1997
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1997 — Matematica — Quesito 1
 
 *Tokens at vertices of a regular 1997-gon carry integers with strictly positive total; can a start vertex let you collect all tokens keeping the running sum positive, and how many such vertices?*
 

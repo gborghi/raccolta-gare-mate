@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q10
 parent: src_kangourou_2009_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 10
 
 *Probabilita pari e dispari con due dadi truccati*
 

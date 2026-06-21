@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q25
 parent: src_prmo_2018
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 25
 
 *Smallest T with remainders from given sets when divided by 11,13,15, find sum of squares of digits*
 

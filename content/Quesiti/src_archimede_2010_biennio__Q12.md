@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q12
 parent: src_archimede_2010_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 12
 
 *Somma 1+2+2+3+3+...+35+35+36*
 

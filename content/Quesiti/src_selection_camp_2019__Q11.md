@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2019__Q11
 parent: src_selection_camp_2019
@@ -32,8 +33,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2019 — Selection Camp — Quesito 11
 
 *L/R relabel-and-move game on n+2 cells; find second-player wins*
 

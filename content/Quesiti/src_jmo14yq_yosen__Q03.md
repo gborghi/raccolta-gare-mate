@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo14yq_yosen__Q03
 parent: src_jmo14yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 3
 
 *Random coins thrown on desk; probability all removed within 4 operations.*
 

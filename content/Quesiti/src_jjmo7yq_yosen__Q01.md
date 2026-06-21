@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo7yq_yosen__Q01
 parent: src_jjmo7yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 1
 
 *Area of triangle OAB given nested right isosceles triangles, area of OCD is 12*
 

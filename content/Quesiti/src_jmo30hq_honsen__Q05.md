@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo30hq_honsen__Q05
 parent: src_jmo30hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 5
 
 *Find all positive integer sequences where gcd condition holds for all m,n*
 

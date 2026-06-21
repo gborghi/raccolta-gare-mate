@@ -1,4 +1,5 @@
 ---
+title: IMO 1979 (Twenty-first International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1979_all__Q03
 parent: src_imo_1979_all
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1979 (Twenty-first International Olympiad) — Quesito 3
 
 *Fixed point equidistant from two points moving on circles*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q05
 parent: src_archimede_2021_biennio_tradizionale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 5
 
 *Quale prodotto di potenze e quadrato di un intero*
 

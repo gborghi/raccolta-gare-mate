@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Triennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_triennio__Q01
 parent: src_archimede_2017_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Triennio — Quesito 1
 
 *Coppie (m,n) con m^n = 2^24*
 

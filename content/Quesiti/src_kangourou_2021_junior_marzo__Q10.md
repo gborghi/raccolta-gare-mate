@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q10
 parent: src_kangourou_2021_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 10
 
 *Tempo finche si spegne l'ultima delle 10 candele*
 

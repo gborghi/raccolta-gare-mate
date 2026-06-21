@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024
 tipo: gara
 src_id: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024
 
 Sorgente: `Kangaroo/kangourou_individuali/2024/Benjamin2024REL.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo29yq_yosen__Q07
 parent: src_jmo29yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 7
 
 *Quadratics with P(1)=P(2)=Q(3)=0 and P^2+Q^2=R^2; find R*
 

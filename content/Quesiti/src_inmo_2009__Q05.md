@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2009 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2009__Q05
 parent: src_inmo_2009
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2009 — Quesito 5
 
 *In acute triangle, sum of orthocentre distances ≤ 2 × largest altitude*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 2021 papers
 tipo: gara
 src_id: src_imo_2021
 competition: IMO 2021 papers
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# IMO 2021 papers
 
 Sorgente: `Archimede/individuale/imho/all/2021_eng.pdf` · apri PDF
 

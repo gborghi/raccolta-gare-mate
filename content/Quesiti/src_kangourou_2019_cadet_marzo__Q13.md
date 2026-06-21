@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q13
 parent: src_kangourou_2019_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 13
 
 *Quanti gatti nel negozio date le frazioni*
 

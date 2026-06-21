@@ -1,4 +1,5 @@
 ---
+title: Archimede 2003 - Gara Nazionale Individuale (Cesenatico)
 tipo: gara
 src_id: src_archimede_2003_individuale
 competition: Archimede 2003 - Gara Nazionale Individuale (Cesenatico)
@@ -15,8 +16,6 @@ tags:
   - anno/2003
   - gara/individuale
 ---
-
-# Archimede 2003 - Gara Nazionale Individuale (Cesenatico)
 
 Sorgente: `Archimede/individuale/nazionale/2003/GaraIndividuale2003.pdf` · apri PDF
 

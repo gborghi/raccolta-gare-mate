@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q07
 parent: src_archimede_2021_biennio_tradizionale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 7
 
 *Perimetro triangolo date le tre altezze e lato AB*
 

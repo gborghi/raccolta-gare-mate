@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q22
 parent: src_kangourou_2017_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 22
 
 *Modi di inserire 1..5 con regole maggiore sotto/destra*
 

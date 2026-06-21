@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q27
 parent: src_kangourou_2012_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 27
 
 *Piu piccolo valore del massimo tra sei interi*
 

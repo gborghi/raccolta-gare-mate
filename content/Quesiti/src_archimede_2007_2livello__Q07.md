@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q07
 parent: src_archimede_2007_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 7
 
 *Punteggio Austria-Danimarca dalla classifica del girone*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r1__Q06
 parent: src_rmo_2014_r1
@@ -34,8 +35,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 1 — Quesito 6
 
 *Positive reals summing to 1; find smallest K for sum inequality*
 

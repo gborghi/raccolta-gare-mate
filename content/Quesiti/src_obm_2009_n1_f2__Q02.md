@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f2__Q02
 parent: src_obm_2009_n1_f2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 2
 
 *6th grade class: of every 11 students 4 are girls and there are 15 more boys than girls; total students*
 

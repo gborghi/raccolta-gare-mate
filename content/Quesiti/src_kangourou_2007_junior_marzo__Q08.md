@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q08
 parent: src_kangourou_2007_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 8
 
 *Max di KAN+GA+ROO (cifre distinte)*
 

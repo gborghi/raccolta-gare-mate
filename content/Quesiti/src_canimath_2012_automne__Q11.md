@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q11
 parent: src_canimath_2012_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 11
 
 *Round table 2013 people: tall vs short, two sub-questions*
 

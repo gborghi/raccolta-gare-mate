@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q17
 parent: src_kangourou_2023_student
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 17
 
 *Piu piccolo n con intervallo contenente almeno 4 interi*
 

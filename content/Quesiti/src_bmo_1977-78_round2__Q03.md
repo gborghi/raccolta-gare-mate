@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1977-78 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1977-78_round2__Q03
 parent: src_bmo_1977-78_round2
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1977-78 — Round 2 — Quesito 3
 
 *Find all roots of a partial alternating binomial sum equal to 1/2*
 

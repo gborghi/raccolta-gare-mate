@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2014 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2014__Q04
 parent: src_inmo_2014
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2014 — Quesito 4
 
 *Calvin and Hobbes game on x^2+x+2014; prove Calvin has winning strategy*
 

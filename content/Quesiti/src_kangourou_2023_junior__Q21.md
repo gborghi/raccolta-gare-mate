@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q21
 parent: src_kangourou_2023_junior
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 21
 
 *termine al posto 2023*
 

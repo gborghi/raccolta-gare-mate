@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n2_f2__Q03
 parent: src_obm_2015_n2_f2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 3
 
 *Find m+n for a linear equation with solution less than 60*
 

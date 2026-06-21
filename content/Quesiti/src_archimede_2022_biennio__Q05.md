@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_biennio__Q05
 parent: src_archimede_2022_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Biennio — Quesito 5
 
 *Distanza dal punto di partenza dopo 100 passi avanti*
 

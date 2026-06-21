@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo18yq_yosen__Q04
 parent: src_jmo18yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 4
 
 *Positive integers whose restricted divisor sum equals 1000*
 

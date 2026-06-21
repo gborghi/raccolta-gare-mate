@@ -1,4 +1,5 @@
 ---
+title: IMO 1962 (IV International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imho_1962__Q04
 parent: src_imho_1962
@@ -25,8 +26,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# IMO 1962 (IV International Olympiad) — Quesito 4
 
 *Risolvere cos^2 x + cos^2 2x + cos^2 3x = 1*
 

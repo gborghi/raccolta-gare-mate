@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q23
 parent: src_kangourou_2020_pre_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 23
 
 *Numero sulla faccia opposta al 5 su un cubo*
 

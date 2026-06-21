@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f2__Q01
 parent: src_obm_2015_n3_f2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 1
 
 *Esmeralda solves bx=a instead of ax=b; her root is the correct root minus 60; find m+n from correct root m+sqrt(n)*
 

@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q06
 parent: src_garasquadre_2006_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 6
 
 *somma dei valori di a*
 

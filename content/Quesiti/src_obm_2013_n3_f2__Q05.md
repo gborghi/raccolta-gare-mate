@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f2__Q05
 parent: src_obm_2013_n3_f2
@@ -35,8 +36,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 5
 
 *Perimeter of orthic triangle of ABC with sides 13,14,15; find a+b*
 

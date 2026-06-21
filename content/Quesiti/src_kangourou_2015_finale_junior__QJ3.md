@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Junior — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_junior__QJ3
 parent: src_kangourou_2015_finale_junior
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Junior — Quesito J3
 
 *valori di n*
 

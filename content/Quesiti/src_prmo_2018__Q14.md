@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q14
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 14
 
 *Products of cosines, find integer nearest to (2/7)log_2(y/x)*
 

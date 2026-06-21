@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1994-95 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1994-95_round2__Q01
 parent: src_bmo_1994-95_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1994-95 — Round 2 — Quesito 1
 
 *Find all positive integer triples satisfying a product-equals-2 equation*
 

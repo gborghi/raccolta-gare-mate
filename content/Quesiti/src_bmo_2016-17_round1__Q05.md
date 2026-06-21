@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2016-17_round1__Q05
 parent: src_bmo_2016-17_round1
@@ -32,8 +33,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 1 — Quesito 5
 
 *Naomi and Tom pick integers; determine if Naomi always wins*
 

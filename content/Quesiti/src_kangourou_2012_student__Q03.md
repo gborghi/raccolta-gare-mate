@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q03
 parent: src_kangourou_2012_student
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 3
 
 *Numero di rettangoli con area 60 e lati interi*
 

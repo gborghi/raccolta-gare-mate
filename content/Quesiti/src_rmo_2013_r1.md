@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 1
 tipo: gara
 src_id: src_rmo_2013_r1
 competition: Regional Mathematical Olympiad 2013 — Region 1
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/r1
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 1
 
 Sorgente: apri PDF
 

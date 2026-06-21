@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q16
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 16
 
 *Continued fraction equation; find sum of x_1+...+x_7*
 

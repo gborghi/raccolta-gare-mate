@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1997 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1997__Q05
 parent: src_cesenatico_1997
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1997 — Quesito 5
 
 *Massimo MCD d_n permutando cifre di n*
 

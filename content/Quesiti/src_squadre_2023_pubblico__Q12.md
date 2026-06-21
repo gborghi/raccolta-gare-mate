@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Gara del pubblico — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_pubblico__Q12
 parent: src_squadre_2023_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Gara del pubblico — Quesito 12
 
 *f(11) con f ottenuta da (x-1)^9 modificando i termini*
 

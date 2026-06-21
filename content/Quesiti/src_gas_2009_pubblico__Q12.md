@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q12
 parent: src_gas_2009_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 12
 
 *Massimo volume parallelepipedo con vincolo lineare sui lati*
 

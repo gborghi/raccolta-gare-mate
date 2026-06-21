@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q16
 parent: src_cesenatico_2013_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 16
 
 *Differenza somme fino a 1300 (quadrato piu vicino)*
 

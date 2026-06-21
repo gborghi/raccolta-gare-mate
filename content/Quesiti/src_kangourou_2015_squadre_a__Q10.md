@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q10
 parent: src_kangourou_2015_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Semifinale A — Quesito 10
 
 *Metri di rete minimi per suddividere prato in tre*
 

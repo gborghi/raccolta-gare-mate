@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo23hq_honsen__Q05
 parent: src_jjmo23hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 5
 
 *At least m² ordered triples (i,s,t) with s≤t across cyclic sheets*
 

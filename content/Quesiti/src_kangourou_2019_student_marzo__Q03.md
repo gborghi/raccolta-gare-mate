@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q03
 parent: src_kangourou_2019_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 3
 
 *Quale disegno mostra i tre anelli incatenati nello stesso modo*
 

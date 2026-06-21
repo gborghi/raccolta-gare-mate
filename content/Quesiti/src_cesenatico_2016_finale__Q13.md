@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_finale__Q13
 parent: src_cesenatico_2016_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 13
 
 *Somma num+den di q(-4/3)/q(-2) (polinomio da radici)*
 

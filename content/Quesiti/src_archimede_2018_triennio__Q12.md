@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_triennio__Q12
 parent: src_archimede_2018_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Triennio (T1) — Quesito 12
 
 *Divisore certo di un numero di due cifre ripetuto tre volte*
 

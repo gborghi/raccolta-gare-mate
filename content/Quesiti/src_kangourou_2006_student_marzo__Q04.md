@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q04
 parent: src_kangourou_2006_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 4
 
 *Valore di a in progressione aritmetica*
 

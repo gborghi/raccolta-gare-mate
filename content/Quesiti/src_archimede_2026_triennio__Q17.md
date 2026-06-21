@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q17
 parent: src_archimede_2026_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 17
 
 *Terne (a,b,c) con a!=2^b+2^c*
 

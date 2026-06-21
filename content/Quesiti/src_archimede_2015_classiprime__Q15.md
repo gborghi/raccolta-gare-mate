@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2015 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_classiprime__Q15
 parent: src_archimede_2015_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2015 — Quesito 15
 
 *Studente con maggior probabilita data scelta pagina e somma cifre*
 

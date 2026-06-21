@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Finale (risposta aperta) — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_finale__QS6
 parent: src_kangourou_2022_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Finale (risposta aperta) — Quesito S6
 
 *Interi non negativi come unione di traslati disgiunti di A0*
 

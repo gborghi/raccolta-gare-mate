@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1994 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_1994__Q01
 parent: src_cgen_1994
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1994 — Matematica — Quesito 1
 
 *Count integers p with 50^p < 7^n < 50^(p+1)*
 

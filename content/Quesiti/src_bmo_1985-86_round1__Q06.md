@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1985-86 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1985-86_round1__Q06
 parent: src_bmo_1985-86_round1
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1985-86 — Round 1 — Quesito 6
 
 *Cube section area equals tetrahedron section area under parallel planes*
 

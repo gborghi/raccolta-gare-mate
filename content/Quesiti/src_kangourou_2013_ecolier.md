@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier
 tipo: gara
 src_id: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2013/EMarzo-13.pdf` · apri PDF
 

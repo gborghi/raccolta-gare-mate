@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1990 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_1990__Q05
 parent: src_rmo_1990
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1990 — Quesito 5
 
 *Point P inside triangle ABC with perimeter 2s: prove s < AP+BP+CP < 2s*
 

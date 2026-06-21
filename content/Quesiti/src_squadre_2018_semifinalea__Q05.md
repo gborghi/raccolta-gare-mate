@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q05
 parent: src_squadre_2018_semifinalea
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 5
 
 *Due triangoli simili intersecanti in esagono, rapporto prodotti lati*
 

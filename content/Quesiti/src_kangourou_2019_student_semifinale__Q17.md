@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q17
 parent: src_kangourou_2019_student_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 17
 
 *Minimo elementi insieme per 2019 modi di scegliere due sottoinsiemi disgiunti*
 

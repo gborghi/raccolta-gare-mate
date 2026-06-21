@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Triennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_triennio__Q05
 parent: src_archimede_2007_triennio
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Triennio — Quesito 5
 
 *Semplificare 54^(1/3)+4^(1/6)*
 

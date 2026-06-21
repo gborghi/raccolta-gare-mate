@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q08
 parent: src_obm_2006_n3_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 8
 
 *For how many values of a is 2a^2+2a+19 not prime.*
 

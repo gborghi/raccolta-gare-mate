@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2007 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo5q__Q03
 parent: src_jjmo5q
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2007 — Quesito 3
 
 *Find all fractions m/n with m,n ≤ 20 in a given interval*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2004-05 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2004-05_round2__Q03
 parent: src_bmo_2004-05_round2
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2004-05 — Round 2 — Quesito 3
 
 *Prove inequality for positive reals a, b with a+b=1*
 

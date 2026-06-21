@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q04
 parent: src_archimede_2000_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 4
 
 *Tra quanti anni l'eta padre eguaglia somma eta figli*
 

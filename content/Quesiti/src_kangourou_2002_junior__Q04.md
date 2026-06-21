@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Junior (21 marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_junior__Q04
 parent: src_kangourou_2002_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Junior (21 marzo) — Quesito 4
 
 *Minimo biscotti mangiati da Daniela*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q11
 parent: src_gs_2011_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 11
 
 *Probabilita di aprire almeno 13 scatole*
 

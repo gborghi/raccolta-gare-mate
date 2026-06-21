@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q12
 parent: src_kangourou_2018_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 12
 
 *Quanti dei primi 105 numeri della lista divisibili per 3*
 

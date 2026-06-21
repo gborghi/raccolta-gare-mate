@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1993 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_1993__Q01
 parent: src_rmo_1993
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1993 — Quesito 1
 
 *Altitude midpoints in acute triangle, find CD*
 

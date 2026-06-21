@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q16
 parent: src_kangourou_2018_student_semif
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 16
 
 *Quante terne ordinate (a,b,c) interi con a*b*c=45000*
 

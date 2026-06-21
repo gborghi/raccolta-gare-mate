@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Triennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_triennio__Q01
 parent: src_archimede_2002_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Triennio — Quesito 1
 
 *Quanti numeri AB con 12xAB = 21xBA*
 

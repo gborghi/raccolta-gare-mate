@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2016 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_printemps__Q02
 parent: src_canimath_2016_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2016 — Quesito 2
 
 *Whole hours at 55 km/h; odometer goes from abc to cba with a>=1 and a+b+c<=7; find all abc.*
 

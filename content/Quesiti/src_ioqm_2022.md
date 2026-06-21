@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
 tipo: gara
 src_id: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022
 
 Sorgente: apri PDF
 

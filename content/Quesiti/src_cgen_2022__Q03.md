@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2022 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_2022__Q03
 parent: src_cgen_2022
@@ -42,8 +43,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Concours Général des Lycées 2022 — Matematica — Quesito 3
 
 *Probabilistic team tournament: a rigged-coin duel between two players, a regular tournament, the team elimination tournament with win probabilities a_i/(a_i+b_j), and proof via tableau transformations that A's winning probability is independent of player order*
 

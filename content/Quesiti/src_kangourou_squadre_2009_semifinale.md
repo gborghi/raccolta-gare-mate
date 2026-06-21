@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_squadre_2009_semifinale
 competition: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_squadre/kangaroo_squadre.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2016
 tipo: gara
 src_id: src_inmo_2016
 competition: Indian National Mathematical Olympiad 2016
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2016
 
 Sorgente: apri PDF
 

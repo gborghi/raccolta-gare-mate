@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q02
 parent: src_kangourou_2022_junior_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Junior Finale 1 — Quesito 2
 
 *Ora in cui balena veloce inverte la rotta*
 

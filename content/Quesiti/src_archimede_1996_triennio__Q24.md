@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q24
 parent: src_archimede_1996_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 24
 
 *Quanti numeri con cinque cifre 1 e una cifra 2*
 

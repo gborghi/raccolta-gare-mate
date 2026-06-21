@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo30yq_yosen__Q12
 parent: src_jmo30yq_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 12
 
 *Max length of good sequence of distinct positive integers at most 30 with divisibility pattern*
 

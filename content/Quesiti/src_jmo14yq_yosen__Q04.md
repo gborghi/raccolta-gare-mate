@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo14yq_yosen__Q04
 parent: src_jmo14yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 4
 
 *Count positive integer pairs (m,n) with 7m+3n=10^2004 and m divides n.*
 

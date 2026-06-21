@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f2__Q09
 parent: src_obm_2002_n3_f2
@@ -37,8 +38,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 9
 
 *Esmeralda wins Destroy the Triangles game on a sphere*
 

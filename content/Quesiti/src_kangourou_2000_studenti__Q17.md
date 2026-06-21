@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q17
 parent: src_kangourou_2000_studenti
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 17
 
 *Somma delle aree dei triangoli in figura*
 

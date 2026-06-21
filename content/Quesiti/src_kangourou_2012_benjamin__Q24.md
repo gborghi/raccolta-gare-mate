@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q24
 parent: src_kangourou_2012_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 24
 
 *Perimetro del rettangolo originario suddiviso in quattro*
 

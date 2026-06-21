@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q06
 parent: src_kangourou_2020_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 6
 
 *Spettatori con resto 1 mod 2..6 e divisibile 7*
 

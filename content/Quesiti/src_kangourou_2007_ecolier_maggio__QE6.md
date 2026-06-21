@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier finale (maggio) — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE6
 parent: src_kangourou_2007_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier finale (maggio) — Quesito E6
 
 *Piu piccolo numero che spostando il 6 si quadruplica*
 

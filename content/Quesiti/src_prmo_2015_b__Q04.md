@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q04
 parent: src_prmo_2015_b
@@ -30,8 +31,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 4
 
 *Line segments with both endpoints at cube vertices; count*
 

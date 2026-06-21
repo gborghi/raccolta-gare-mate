@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q16
 parent: src_archimede_2026_squadre_finale_mista
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 16
 
 *Massimo colori reticolo con stessa distanza N=6767·7676*
 

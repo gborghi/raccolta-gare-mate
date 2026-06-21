@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n2_f1__Q14
 parent: src_obm_2015_n2_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 14
 
 *Maximum number of square tiles covering a 7-meter wall without overlap*
 

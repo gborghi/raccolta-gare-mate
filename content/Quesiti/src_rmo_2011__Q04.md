@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2011 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2011__Q04
 parent: src_rmo_2011
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2011 — Quesito 4
 
 *Count admissible triples of vertices in a 20-sided convex polygon*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q27
 parent: src_ioqm_2024
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 27
 
 *Product mn where area of pedal triangle DEF is m*sqrt(n) for isogonal point*
 

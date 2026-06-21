@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2009 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2009__Q01
 parent: src_rmo_2009
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2009 — Quesito 1
 
 *Find angle BAC in isosceles triangle with incenter condition*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1969 (Eleventh International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1969_all__Q04
 parent: src_imo_1969_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1969 (Eleventh International Olympiad) — Quesito 4
 
 *Three circles tangent to AB share a second common tangent*
 

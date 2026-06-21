@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q24
 parent: src_prmo_2019
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 24
 
 *Largest prime factor of coloring count for rectangle grid*
 

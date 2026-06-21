@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier__Q04
 parent: src_kangourou_2005_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo) — Quesito 4
 
 *Minimo viaggi per riempire vasca perdendo meta*
 

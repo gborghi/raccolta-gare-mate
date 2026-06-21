@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier_finale__QE3
 parent: src_kangourou_2012_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E3
 
 *Quante biglie marroni tra le 20 di Elena*
 

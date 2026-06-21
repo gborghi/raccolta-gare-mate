@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q14
 parent: src_obm_2009_n3_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 14
 
 *Function f:Z->Z with f(0)=0, f(1)=1, f(2)=2 and f(x+12)=f(x+21)=f(x); find f(2009).*
 

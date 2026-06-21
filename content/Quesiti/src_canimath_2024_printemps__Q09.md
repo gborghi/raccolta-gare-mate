@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q09
 parent: src_canimath_2024_printemps
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 9
 
 *Two linear equations in a,b,c imply a^2+b^2=2c^2*
 

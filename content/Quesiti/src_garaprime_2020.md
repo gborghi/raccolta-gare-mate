@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020
 tipo: gara
 src_id: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020
 
 Sorgente: `Archimede/individuale/classi prime/2020/GaraNazionaleClassiPrime2020.pdf` · apri PDF
 

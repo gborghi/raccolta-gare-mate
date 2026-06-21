@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q15
 parent: src_archimede_2009_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 15
 
 *Studenti con n primo e n^3+3 primo*
 

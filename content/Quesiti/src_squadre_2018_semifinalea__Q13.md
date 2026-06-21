@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q13
 parent: src_squadre_2018_semifinalea
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 13
 
 *Triangolo isoscele rettangolo, due cerchi tangenti, valore 2000 CE/CB*
 

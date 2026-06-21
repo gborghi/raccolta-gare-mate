@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q22
 parent: src_kangourou_2024_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 22
 
 *Quante celle dell'alveare a 9 celle contengono miele*
 

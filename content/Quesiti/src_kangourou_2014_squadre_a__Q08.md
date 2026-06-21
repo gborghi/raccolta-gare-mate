@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q08
 parent: src_kangourou_2014_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A — Quesito 8
 
 *Quante cifre 0 nel quoziente R(25)/R(5)*
 

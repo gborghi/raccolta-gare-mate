@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q18
 parent: src_obm_2005_n2_f1
@@ -37,8 +38,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 18
 
 *Rally driver: legs 240,300,400 km at speeds 40,75,80 km/h in unknown order; guaranteed total time*
 

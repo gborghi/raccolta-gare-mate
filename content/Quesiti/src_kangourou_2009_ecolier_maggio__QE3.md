@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_ecolier_maggio__QE3
 parent: src_kangourou_2009_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E3
 
 *Quanti modi di sistemare 4 monete su scacchiera 4x4*
 

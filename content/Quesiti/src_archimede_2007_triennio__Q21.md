@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Triennio — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_triennio__Q21
 parent: src_archimede_2007_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Triennio — Quesito 21
 
 *Sesta cifra decimale di 13^7/10^5 piu radice 3 su 10^5*
 

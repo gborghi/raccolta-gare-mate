@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q13
 parent: src_gs_2013_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 13
 
 *Numero pari n da equazione su numeri triangolari*
 

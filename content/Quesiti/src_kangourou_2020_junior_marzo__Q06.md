@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q06
 parent: src_kangourou_2020_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - gara marzo (biennio) — Quesito 6
 
 *Area minima di triangolo su griglia di punti*
 

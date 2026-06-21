@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q09
 parent: src_archimede_2025_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 9
 
 *Valore q(4) del polinomio con radici i quadrati delle radici di p*
 

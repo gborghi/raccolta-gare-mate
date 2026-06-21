@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2015
 tipo: gara
 src_id: src_inmo_2015
 competition: Indian National Mathematical Olympiad 2015
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2015
 
 Sorgente: apri PDF
 

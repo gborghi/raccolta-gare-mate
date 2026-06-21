@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2003-04 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2003-04_round1__Q04
 parent: src_bmo_2003-04_round1
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2003-04 — Round 1 — Quesito 4
 
 *Count wicked subsets (no three consecutive) of {1,...,10}*
 

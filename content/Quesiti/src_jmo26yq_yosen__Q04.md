@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo26yq_yosen__Q04
 parent: src_jmo26yq_yosen
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 4
 
 *Partitions of 11x11 grid into 5 rectangles, one interior*
 

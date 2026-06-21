@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n3_f2__Q04
 parent: src_obm_1999_n3_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 4
 
 *Positive integers n for which a 9×10 rectangle can be tiled by 1×n pieces*
 

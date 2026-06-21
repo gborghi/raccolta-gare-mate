@@ -1,4 +1,5 @@
 ---
+title: IMO 2023 papers — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2023__Q03
 parent: src_imo_2023
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2023 papers — Quesito 3
 
 *Successioni con P(an)=an+1...an+k polinomio monico*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f2__Q02
 parent: src_obm_2015_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 2
 
 *T-shirt discounts: 3 at 10% vs 2 at 5%, difference 12 reais; find discounted price*
 

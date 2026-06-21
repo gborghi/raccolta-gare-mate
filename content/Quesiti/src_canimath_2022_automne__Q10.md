@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q10
 parent: src_canimath_2022_automne
@@ -32,8 +33,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 10
 
 *Ten integers on board; any triple product divisible by 10*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1968 (Tenth International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1968_all__Q01
 parent: src_imo_1968_all
@@ -26,8 +27,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# IMO 1968 (Tenth International Olympiad) — Quesito 1
 
 *Unique triangle with consecutive integer sides and angle double*
 

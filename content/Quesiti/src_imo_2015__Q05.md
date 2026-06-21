@@ -1,4 +1,5 @@
 ---
+title: IMO 2015 papers — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2015__Q05
 parent: src_imo_2015
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 2015 papers — Quesito 5
 
 *Equazione funzionale f(x+f(x+y))+f(xy)=...*
 

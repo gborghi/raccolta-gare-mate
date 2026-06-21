@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q25
 parent: src_kangourou_2002_student
@@ -26,8 +27,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 25
 
 *Area della regione C nel cerchio*
 

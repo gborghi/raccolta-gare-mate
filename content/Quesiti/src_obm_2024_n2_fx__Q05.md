@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n2_fx__Q05
 parent: src_obm_2024_n2_fx
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 5
 
 *Esmeralda's iterated quadratic equations with distinct positive integer roots*
 

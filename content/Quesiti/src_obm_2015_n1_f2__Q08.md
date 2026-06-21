@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f2__Q08
 parent: src_obm_2015_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 8
 
 *Regular hexagon with center O made of 6 equilateral triangles (side 6 cm); find areas of various sub-regions*
 

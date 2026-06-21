@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q11
 parent: src_canimath_2025_automne
@@ -34,8 +35,6 @@ tags:
   - topic/grafi
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 11
 
 *Show a 20-island graph with 172 ferry edges has diameter at most 2*
 

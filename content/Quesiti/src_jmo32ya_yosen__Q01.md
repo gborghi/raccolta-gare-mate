@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo32ya_yosen__Q01
 parent: src_jmo32ya_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 1
 
 *Smallest 4-digit multiple of 3 above 2022 with exactly 2 distinct digits*
 

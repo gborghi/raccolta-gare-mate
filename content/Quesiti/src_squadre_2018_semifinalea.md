@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A
 tipo: gara
 src_id: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A
 
 Sorgente: `Archimede/squadre/nazionale/2018/GareASquadreDiMatematica_Cesenatico2018.pdf` · apri PDF
 

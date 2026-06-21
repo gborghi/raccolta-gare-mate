@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_biennio__Q01
 parent: src_archimede_2023_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio — Quesito 1
 
 *Probabilita stesso numero con dado a 6 e dado a 20 facce*
 

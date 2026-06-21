@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q12
 parent: src_kangourou_2007_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 12
 
 *Persone nella classe (amicizie ragazzi/ragazze)*
 

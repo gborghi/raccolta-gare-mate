@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student (20 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student__Q19
 parent: src_kangourou_2003_student
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2003 Student (20 marzo) — Quesito 19
 
 *Valore di a^3+1/a^3 dato a+1/a*
 

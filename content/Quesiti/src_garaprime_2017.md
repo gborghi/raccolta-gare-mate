@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017
 tipo: gara
 src_id: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017
 
 Sorgente: `Archimede/individuale/classi prime/2017/GaraPrime2017.pdf` · apri PDF
 

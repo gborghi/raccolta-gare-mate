@@ -1,4 +1,5 @@
 ---
+title: IMO 2024 papers — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2024__Q01
 parent: src_imo_2024
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 2024 papers — Quesito 1
 
 *Reali alpha con somma floor(k·alpha) multipla di n*
 

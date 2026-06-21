@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q02
 parent: src_kangourou_2009_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 2
 
 *Con quanti compagni ha ballato la quarta ragazza*
 

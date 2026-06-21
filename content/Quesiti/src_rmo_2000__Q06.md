@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2000 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2000__Q06
 parent: src_rmo_2000
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2000 — Quesito 6
 
 *Find least value of ab such that a^n b^(n+1) is divisible by 2000 for all n*
 

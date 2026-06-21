@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q08
 parent: src_kangourou_2006_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 8
 
 *Piu piccolo numero di 10 cifre coi foglietti*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001
 tipo: gara
 src_id: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -15,8 +16,6 @@ tags:
   - anno/2001
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001
 
 Sorgente: `Archimede/individuale/2livello/2001/febbraio2001testi.pdf` · apri PDF
 

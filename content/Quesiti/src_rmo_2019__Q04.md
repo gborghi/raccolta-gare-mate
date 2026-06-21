@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2019 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2019__Q04
 parent: src_rmo_2019
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2019 — Quesito 4
 
 *Extend a 3xk array using 1..3k so row sums and row sums of squares are all equal.*
 

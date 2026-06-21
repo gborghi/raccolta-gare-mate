@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q07
 parent: src_kangourou_2024_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 7
 
 *Somma dei quattro interi nascosti dai prodotti righe/colonne*
 

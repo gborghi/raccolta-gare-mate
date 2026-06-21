@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q20
 parent: src_kangourou_2000_studenti
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 20
 
 *Angolo al centro per settore 15% del cerchio*
 

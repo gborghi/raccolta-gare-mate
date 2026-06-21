@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q07
 parent: src_archimede_2018_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 7
 
 *Lunghezza A100A101 nella spirale di triangoli rettangoli*
 

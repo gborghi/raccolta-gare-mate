@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q06
 parent: src_kangourou_2021_ecolier_finale
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 6
 
 *Rendere uguali 5 numeri aggiungendo 1 a coppie adiacenti*
 

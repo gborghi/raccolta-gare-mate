@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier__Q11
 parent: src_kangourou_2005_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo) — Quesito 11
 
 *Minimo segmenti per suddividere rettangolo in quadrati*
 

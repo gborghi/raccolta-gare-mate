@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2007
 tipo: gara
 src_id: src_rmo_2007
 competition: Regional Mathematical Olympiad 2007
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2007
 
 Sorgente: apri PDF
 

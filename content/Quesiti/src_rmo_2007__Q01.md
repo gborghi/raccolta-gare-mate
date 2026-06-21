@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2007 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2007__Q01
 parent: src_rmo_2007
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2007 — Quesito 1
 
 *Show angle CED > 45 in acute triangle with angle bisector and altitude*
 

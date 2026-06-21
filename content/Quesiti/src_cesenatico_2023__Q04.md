@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2023__Q04
 parent: src_cesenatico_2023
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 4
 
 *CE*ED massimo iff B,O,E,D conciclici*
 

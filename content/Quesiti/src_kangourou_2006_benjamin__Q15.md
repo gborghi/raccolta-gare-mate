@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q15
 parent: src_kangourou_2006_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 15
 
 *Tempo perche due treni tornino a 140 km di distanza*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f2__Q03
 parent: src_obm_2005_n3_f2
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 3
 
 *Area of fourth lot when quadrangular land divided into four lots*
 

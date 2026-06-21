@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q15
 parent: src_kangourou_squadre_2009_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 15
 
 *Ultima cifra di 2^2009+3^2009+5^2009+7^2009*
 

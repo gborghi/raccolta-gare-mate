@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2021-22 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2021-22_round1__Q03
 parent: src_bmo_2021-22_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2021-22 — Round 1 — Quesito 3
 
 *Count pile formations of gold pieces weighing 2021 grams*
 

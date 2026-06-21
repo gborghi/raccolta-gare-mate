@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q04
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 4
 
 *Lato stanza dato il conteggio dei lati piastrelle*
 

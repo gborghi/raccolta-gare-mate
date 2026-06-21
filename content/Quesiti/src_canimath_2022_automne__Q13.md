@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q13
 parent: src_canimath_2022_automne
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 13
 
 *Trapezoid ABCD; midpoints E, F; parallel through E meets CD; right angle and ratio*
 

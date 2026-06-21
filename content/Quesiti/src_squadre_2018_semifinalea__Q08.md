@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q08
 parent: src_squadre_2018_semifinalea
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 8
 
 *Piramide tagliata in volumi uguali, rapporto BP/PV*
 

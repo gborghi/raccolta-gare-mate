@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_tfjm_2026__Q01
 parent: src_tfjm_2026
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 1
 
 *Chip-eating game on a layout of n piles of n chips: two players alternate, a chip may be eaten only if its neighbours are still covered; count states and analyse optimal strategies, then repeat on a pyramid layout.*
 

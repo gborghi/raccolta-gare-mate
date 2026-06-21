@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Benjamin 2024 — Quesito B3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB3
 parent: src_kangourou_2024_benjamin_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Finale Benjamin 2024 — Quesito B3
 
 *Colorazioni di 8 oggetti con adiacenti di colore diverso*
 

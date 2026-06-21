@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q02
 parent: src_kangourou_2006_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 2
 
 *Piu grande numero di 10 cifre accostando foglietti*
 

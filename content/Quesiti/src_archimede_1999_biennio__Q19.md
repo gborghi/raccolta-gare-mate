@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Biennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_biennio__Q19
 parent: src_archimede_1999_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Biennio — Quesito 19
 
 *Volume della parte piu piccola tagliando un cubo*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2011 - soluzioni
 tipo: gara
 src_id: src_cesenatico_2011
 competition: Olimpiade Italiana (Cesenatico) 2011 - soluzioni
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2011 - soluzioni
 
 Sorgente: `Archimede/individuale/nazionale/2011/ces2011-sol.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo28yq_yosen__Q04
 parent: src_jmo28yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 4
 
 *Remainder of 1111^2018 modulo 11111*
 

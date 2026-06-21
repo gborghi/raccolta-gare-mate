@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1998 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1998__Q02
 parent: src_inmo_1998
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1998 — Quesito 2
 
 *Rationality condition for sum of two square roots*
 

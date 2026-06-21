@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo9yq_yosen__Q10
 parent: src_jjmo9yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 10
 
 *Count integers up to 1000 whose digit sum is unchanged when multiplied by 5*
 

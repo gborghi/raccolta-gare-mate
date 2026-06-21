@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f3__Q02
 parent: src_obm_2003_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3 — Quesito 2
 
 *Find smallest prime dividing $x^2+5x+23$ for some integer $x$*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Student — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_finale__Q04
 parent: src_kangourou_2018_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Student — Quesito 4
 
 *Dimostrare che un numero di 20 cifre con 11 uno non e quadrato*
 

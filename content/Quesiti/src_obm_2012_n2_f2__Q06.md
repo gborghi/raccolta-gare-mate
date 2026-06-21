@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n2_f2__Q06
 parent: src_obm_2012_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 6
 
 *Palindromes in base 10: find all two-digit ab with ab+ba and ab*ba both palindromes*
 

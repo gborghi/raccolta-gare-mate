@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
 tipo: gara
 src_id: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
 
 Sorgente: apri PDF
 

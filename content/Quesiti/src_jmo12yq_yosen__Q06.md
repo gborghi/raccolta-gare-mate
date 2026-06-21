@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo12yq_yosen__Q06
 parent: src_jmo12yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 6
 
 *Minimize an expression in two positive reals*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Koala — Gioco Koala — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_koala__Q20
 parent: src_kangourou_2022_koala
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Koala — Gioco Koala — Quesito 20
 
 *somma più alta dei numeri*
 

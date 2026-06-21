@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q06
 parent: src_archimede_2026_squadre_finale_mista
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 6
 
 *Coppie (m,n) con 4·m!+1=2^n+3^n, dare a·b*
 

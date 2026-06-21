@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Benjamin — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_finale__Q01
 parent: src_kangourou_2019_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Benjamin — Quesito 1
 
 *Quanti biscotti alla marmellata aveva Ada prima dello scambio*
 

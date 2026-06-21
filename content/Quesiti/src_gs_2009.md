@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Archimede 2009 (locale)
 tipo: gara
 src_id: src_gs_2009
 competition: Gara a Squadre Archimede 2009 (locale)
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/squadre
 ---
-
-# Gara a Squadre Archimede 2009 (locale)
 
 Sorgente: `Archimede/squadre/locale/testi/GS_2009_testo.pdf` · apri PDF
 

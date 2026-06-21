@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Ecolier finale — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE5
 parent: src_kangourou_2025_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2025 Ecolier finale — Quesito E5
 
 *max e min centesimi di Bob*
 

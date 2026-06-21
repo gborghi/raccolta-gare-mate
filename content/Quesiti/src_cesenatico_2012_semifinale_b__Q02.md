@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_b__Q02
 parent: src_cesenatico_2012_semifinale_b
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 2
 
 *Configurazioni distinte di 6 dischetti ad anello*
 

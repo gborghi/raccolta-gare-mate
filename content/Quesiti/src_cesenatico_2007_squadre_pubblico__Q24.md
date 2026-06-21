@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q24
 parent: src_cesenatico_2007_squadre_pubblico
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 24
 
 *Valore di a^2 b+b^2 c+c^2 a per radici di x^3-10x^2-25x+125*
 

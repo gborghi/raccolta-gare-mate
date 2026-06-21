@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q30
 parent: src_kangourou_2020_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 30
 
 *Cifra delle unita del numero di 4 cifre (indizi tipo mastermind)*
 

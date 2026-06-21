@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q08
 parent: src_archimede_2025_triennio_rec
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 8
 
 *Lunghezza UV tra archi nel segmento dei punti medi*
 

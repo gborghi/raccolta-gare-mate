@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier_finale__QE3
 parent: src_kangourou_2011_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E3
 
 *Numero al posto di x perche somma agli estremi costante*
 

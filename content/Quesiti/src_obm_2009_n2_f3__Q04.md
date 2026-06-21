@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f3__Q04
 parent: src_obm_2009_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 4
 
 *Given a²(b+c)=b²(c+a)=2010, compute c²(a+b)*
 

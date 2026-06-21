@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q16
 parent: src_obm_2006_n3_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 16
 
 *Positive integer x is a multiple of 2006 with sqrt(x) between 2005 and 2007; count possible x.*
 

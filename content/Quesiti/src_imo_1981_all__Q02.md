@@ -1,4 +1,5 @@
 ---
+title: IMO 1981 (Twenty-second International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1981_all__Q02
 parent: src_imo_1981_all
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1981 (Twenty-second International Olympiad) — Quesito 2
 
 *Mean of smallest elements of r-subsets equals (n+1)/(r+1)*
 

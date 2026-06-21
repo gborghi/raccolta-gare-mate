@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q05
 parent: src_kangourou_2022_cadet_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 5
 
 *Possibili dimensioni di ciascun mattone del cubo*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f2__Q08
 parent: src_obm_2006_n2_f2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2 — Quesito 8
 
 *Find a+b and ab given two real equations in a and b*
 

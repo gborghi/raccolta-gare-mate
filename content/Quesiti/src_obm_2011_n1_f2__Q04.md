@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f2__Q04
 parent: src_obm_2011_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 4
 
 *Total mass of a 4x4x4 cube built from small cubes weighted by neighbor count*
 

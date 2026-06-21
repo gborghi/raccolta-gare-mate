@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1993
 tipo: gara
 src_id: src_inmo_1993
 competition: Indian National Mathematical Olympiad 1993
@@ -15,8 +16,6 @@ tags:
   - anno/1993
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1993
 
 Sorgente: apri PDF
 

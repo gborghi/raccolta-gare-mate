@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2005 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2005__Q01
 parent: src_rmo_2005
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2005 — Quesito 1
 
 *Convex quadrilateral with equilateral triangles from midpoints is a rhombus*
 

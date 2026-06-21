@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 4 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r4__Q01
 parent: src_rmo_2014_r4
@@ -30,8 +31,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 4 — Quesito 1
 
 *Isosceles trapezium incircle: CE equals geometric mean of AB and CD*
 

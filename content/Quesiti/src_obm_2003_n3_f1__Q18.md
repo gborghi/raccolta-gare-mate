@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q18
 parent: src_obm_2003_n3_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 18
 
 *Minimum yes/no questions to find odd number chosen by Carlinha up to 100*
 

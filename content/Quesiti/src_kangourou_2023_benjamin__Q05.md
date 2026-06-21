@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin__Q05
 parent: src_kangourou_2023_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 5
 
 *una +4 una -2 dal vero, quanti*
 

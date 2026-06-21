@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997
 tipo: gara
 src_id: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -15,8 +16,6 @@ tags:
   - anno/1997
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997
 
 Sorgente: `Archimede/individuale/2livello/1997/Febbraio97-Testo.pdf` · apri PDF
 

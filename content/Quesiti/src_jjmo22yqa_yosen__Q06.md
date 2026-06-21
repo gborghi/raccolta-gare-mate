@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo22yqa_yosen__Q06
 parent: src_jjmo22yqa_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 6
 
 *Count 6-tuples of positive integers with gcd 1 such that six specified ratios are all integers*
 

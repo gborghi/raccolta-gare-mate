@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Gara 16 marzo — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q22
 parent: src_kangourou_2017_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Gara 16 marzo — Quesito 22
 
 *Lunghezza AD in quadrilatero con diagonali perpendicolari*
 

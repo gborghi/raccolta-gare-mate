@@ -1,4 +1,5 @@
 ---
+title: IMO 1960 (II International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imho_1960__Q06
 parent: src_imho_1960
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1960 (II International Olympiad) — Quesito 6
 
 *Cono con sfera inscritta e cilindro circoscritto, k minimo*
 

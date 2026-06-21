@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1974-75_round1__Q03
 parent: src_bmo_1974-75_round1
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1974-75 — Round 1 — Quesito 3
 
 *Pigeonhole: 7 mutually distant points in unit disc force one at centre*
 

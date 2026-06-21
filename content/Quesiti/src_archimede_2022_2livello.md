@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2022 - 2° livello
 tipo: gara
 src_id: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2022 - 2° livello
 
 Sorgente: `Archimede/individuale/2livello/2022/soluzioni2022-1.pdf` · apri PDF
 

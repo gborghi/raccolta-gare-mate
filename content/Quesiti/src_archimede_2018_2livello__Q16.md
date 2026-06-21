@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_2livello__Q16
 parent: src_archimede_2018_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2018 - 2° livello — Quesito 16
 
 *Gioco tessere su griglia 1x2018, strategia vincente*
 

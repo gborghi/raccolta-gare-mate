@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q01
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 1
 
 *Area di quadrilatero da percorso piano e salita a 45 gradi*
 

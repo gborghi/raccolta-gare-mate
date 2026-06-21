@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_2livello__Q15
 parent: src_archimede_2021_2livello
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2021 - 2° livello — Quesito 15
 
 *Rettangolo, proiezioni, ciclicità e quadrato*
 

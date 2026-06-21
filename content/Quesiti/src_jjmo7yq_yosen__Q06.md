@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo7yq_yosen__Q06
 parent: src_jjmo7yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 6
 
 *Smallest n such that 14n, 16n, 18n, 20n all have equal number of positive divisors*
 

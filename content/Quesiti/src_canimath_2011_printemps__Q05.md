@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2011 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_printemps__Q05
 parent: src_canimath_2011_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2011 — Quesito 5
 
 *Round-table dinner seatings with two new neighbours each*
 

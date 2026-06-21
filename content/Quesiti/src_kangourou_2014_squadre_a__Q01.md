@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q01
 parent: src_kangourou_2014_squadre_a
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A — Quesito 1
 
 *Percentuale di sconto totale sul prezzo iniziale*
 

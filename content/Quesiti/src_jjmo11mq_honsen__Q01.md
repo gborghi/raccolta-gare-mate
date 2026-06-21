@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo11mq_honsen__Q01
 parent: src_jjmo11mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 1
 
 *Max number of the 12 sums/products equal to 1*
 

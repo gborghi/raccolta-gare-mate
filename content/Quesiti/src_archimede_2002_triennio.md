@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Triennio
 tipo: gara
 src_id: src_archimede_2002_triennio
 competition: Giochi di Archimede 2002 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2002
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2002/Archimede2002/testitriennio2002.pdf` · apri PDF
 

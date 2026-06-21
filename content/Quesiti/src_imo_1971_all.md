@@ -1,4 +1,5 @@
 ---
+title: IMO 1971 (Thirteenth International Olympiad)
 tipo: gara
 src_id: src_imo_1971_all
 competition: IMO 1971 (Thirteenth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1971
   - gara/individuale
 ---
-
-# IMO 1971 (Thirteenth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1971_eng.pdf` · apri PDF
 

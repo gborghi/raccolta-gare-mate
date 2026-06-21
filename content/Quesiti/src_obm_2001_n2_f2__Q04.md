@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f2__Q04
 parent: src_obm_2001_n2_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2 — Quesito 4
 
 *Triangle ABC with external bisectors meeting; find angles*
 

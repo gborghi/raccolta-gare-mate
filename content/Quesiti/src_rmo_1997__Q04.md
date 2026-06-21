@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1997 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_1997__Q04
 parent: src_rmo_1997
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1997 — Quesito 4
 
 *Prove two inequalities in parallelogram ABCD with perpendicular diagonals*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q11
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 11
 
 *Somma lunghezze 4 segmenti paralleli ad AC*
 

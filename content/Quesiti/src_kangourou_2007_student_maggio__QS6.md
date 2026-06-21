@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student finale (maggio) — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_maggio__QS6
 parent: src_kangourou_2007_student_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Student finale (maggio) — Quesito S6
 
 *Trovare il sacchetto falso con tre pesate*
 

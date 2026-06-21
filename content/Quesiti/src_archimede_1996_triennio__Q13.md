@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q13
 parent: src_archimede_1996_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 13
 
 *Proprieta di un insieme di interi con regola di chiusura*
 

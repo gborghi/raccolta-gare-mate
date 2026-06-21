@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo24yqa_yosen__Q10
 parent: src_jjmo24yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 10
 
 *Find possible GCDs after 999 iterated (lcm+gcd, lcm-gcd) operations on two coprime integers*
 

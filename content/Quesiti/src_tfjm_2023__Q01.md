@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_tfjm_2023__Q01
 parent: src_tfjm_2023
@@ -35,8 +36,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 1
 
 *Largest axis-aligned square stamp that fits inside a package of given shape, then total area with two disjoint stamps*
 

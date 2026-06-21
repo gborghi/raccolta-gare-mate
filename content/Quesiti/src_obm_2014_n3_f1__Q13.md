@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n3_f1__Q13
 parent: src_obm_2014_n3_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 13
 
 *Angle x in a circle figure with two isosceles triangles and parallel chords*
 

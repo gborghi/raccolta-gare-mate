@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q06
 parent: src_squadre_2025_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 6
 
 *Minimo mosse per forzare triangolo equilatero monocromatico*
 

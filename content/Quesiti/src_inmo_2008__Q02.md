@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2008 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2008__Q02
 parent: src_inmo_2008
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2008 — Quesito 2
 
 *Find all prime-natural triples satisfying p^x = y^4 + 4*
 

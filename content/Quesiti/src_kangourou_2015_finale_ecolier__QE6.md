@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Ecolier — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_ecolier__QE6
 parent: src_kangourou_2015_finale_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Ecolier — Quesito E6
 
 *quante volte gracchia l'ultima in un'ora*
 

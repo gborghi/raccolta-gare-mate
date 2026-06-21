@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1995 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1995__Q03
 parent: src_cgen_1995
@@ -31,8 +32,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1995 — Matematica — Quesito 3
 
 *Minimum area of region inside at least two of three circles of radius R*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1992__Q03
 parent: src_inmo_1992
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992 — Quesito 3
 
 *Remainder of 19^92 upon division by 92*
 

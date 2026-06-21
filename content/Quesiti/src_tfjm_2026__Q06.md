@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_tfjm_2026__Q06
 parent: src_tfjm_2026
@@ -37,8 +38,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 6
 
 *In an m x n grid of stools, people are ill at ease near occupied neighbours; study quasi-complete seatings and the max number seated, then variants with oriented seats facing distance 1, with water fountains replacing seats, and the expected number seated under uniform random arrival E(m,n).*
 

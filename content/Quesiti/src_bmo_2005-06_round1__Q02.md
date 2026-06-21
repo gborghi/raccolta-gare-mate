@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2005-06 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2005-06_round1__Q02
 parent: src_bmo_2005-06_round1
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2005-06 — Round 1 — Quesito 2
 
 *Split six pairs of twins into teams with no pair together*
 

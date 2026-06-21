@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f3__Q04
 parent: src_obm_2015_n3_f3
@@ -37,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 4
 
 *Divisors alternating sum identity and characterization, find three solutions*
 

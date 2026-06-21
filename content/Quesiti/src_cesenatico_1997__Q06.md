@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1997 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1997__Q06
 parent: src_cesenatico_1997
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1997 — Quesito 6
 
 *Spesa minima commesso viaggiatore ferro/aereo*
 

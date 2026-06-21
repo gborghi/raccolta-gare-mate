@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_triennio__Q10
 parent: src_archimede_2016_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Triennio — Quesito 10
 
 *Giorni liberi comuni di Romeo e Giulietta*
 

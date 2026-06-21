@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q09
 parent: src_archimede_2012_febb_2livello
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 9
 
 *Coppie m,n con mn=25! frazione ridotta minore di 1*
 

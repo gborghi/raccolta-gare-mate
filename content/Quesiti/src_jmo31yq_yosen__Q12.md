@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo31yq_yosen__Q12
 parent: src_jmo31yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 12
 
 *Coins on 7x7 board, four spreading operations; maximize total coins*
 

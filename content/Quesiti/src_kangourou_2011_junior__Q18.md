@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q18
 parent: src_kangourou_2011_junior
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 18
 
 *Capacita del recipiente cubico piccolo*
 

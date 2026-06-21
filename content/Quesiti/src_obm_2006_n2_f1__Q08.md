@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f1__Q08
 parent: src_obm_2006_n2_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 8
 
 *Three squares sharing vertices with two vertical bases, find angle x*
 

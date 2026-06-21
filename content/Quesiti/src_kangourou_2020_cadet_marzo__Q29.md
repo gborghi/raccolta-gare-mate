@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q29
 parent: src_kangourou_2020_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 29
 
 *Distanza della corsa (distacchi tra Alberto Bianca Carlo)*
 

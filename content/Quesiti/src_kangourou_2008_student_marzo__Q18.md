@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q18
 parent: src_kangourou_2008_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 18
 
 *Punto P che minimizza somma distanze (5 punti)*
 

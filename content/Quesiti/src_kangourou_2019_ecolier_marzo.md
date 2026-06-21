@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Ecolier
 tipo: gara
 src_id: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/EMarzo-19.pdf` · apri PDF
 

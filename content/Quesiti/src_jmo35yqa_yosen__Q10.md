@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q10
 parent: src_jmo35yqa_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 10
 
 *Count functions f:S->S on {0..8} with f(x)f(y)-f(f(z)) divisible by 9 whenever 9 | x+y-z*
 

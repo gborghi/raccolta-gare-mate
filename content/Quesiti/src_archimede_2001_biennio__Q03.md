@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q03
 parent: src_archimede_2001_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 3
 
 *Quanti oggetti costruibili con aste e viti*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_triennio__Q18
 parent: src_archimede_1999_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Triennio — Quesito 18
 
 *Quale affermazione su poligoni e corretta*
 

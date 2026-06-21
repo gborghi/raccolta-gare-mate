@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_tfjm_2018__Q08
 parent: src_tfjm_2018
@@ -38,8 +39,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 8
 
 *Scheduling a round-robin tournament of n players in the minimum number of days T(n), with 1/0 scoring; study possible point totals at each rank, the earliest day a player can be sure of being first or k-th, how many players can know their final rank, and the number of possible final rankings.*
 

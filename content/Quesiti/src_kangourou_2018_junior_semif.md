@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior
 tipo: gara
 src_id: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior
 
 Sorgente: `Kangaroo/kangourou_individuali/2018/Junior_Semif_18TESTO.pdf` · apri PDF
 

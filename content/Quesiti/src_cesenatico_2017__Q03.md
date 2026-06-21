@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2017__Q03
 parent: src_cesenatico_2017
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 3
 
 *quanti mazzetti girati*
 

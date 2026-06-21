@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale
 tipo: gara
 src_id: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2006/Fgas06.pdf` · apri PDF
 

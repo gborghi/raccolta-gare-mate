@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q03
 parent: src_cesenatico_2005_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 3
 
 *Modi di comporre carovana di 18 animali senza adiacenti uguali*
 

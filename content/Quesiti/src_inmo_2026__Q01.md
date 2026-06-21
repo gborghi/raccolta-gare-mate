@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2026 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2026__Q01
 parent: src_inmo_2026
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2026 — Quesito 1
 
 *Determine which positive integers m occur as a perfect-square term m^2 in a floor-of-square-root recurrence sequence.*
 

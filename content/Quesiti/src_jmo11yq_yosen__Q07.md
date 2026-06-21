@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo11yq_yosen__Q07
 parent: src_jmo11yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 7
 
 *Count 4x4 Latin squares with 2x2 block condition*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q06
 parent: src_kangourou_2011_junior
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 6
 
 *Area di ogni piastrella nel mosaico 360*
 

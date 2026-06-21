@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2016 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_printemps__Q03
 parent: src_canimath_2016_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2016 — Quesito 3
 
 *2016 people in a line, each knave/knight; each points at someone ahead and labels them; strictly more knaves than knights; observer identifies all.*
 

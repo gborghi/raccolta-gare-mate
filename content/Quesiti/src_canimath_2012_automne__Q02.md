@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q02
 parent: src_canimath_2012_automne
@@ -32,8 +33,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 2
 
 *Cooking steaks optimally with one pan holding two*
 

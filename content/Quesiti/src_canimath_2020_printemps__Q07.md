@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q07
 parent: src_canimath_2020_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 7
 
 *Card game mathinal: compare largest pair-sum M before and M' after redistributing red cards*
 

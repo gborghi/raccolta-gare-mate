@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo32hq_honsen__Q03
 parent: src_jmo32hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 3
 
 *Isosceles triangle, circumcircle, circumcenter of HDF lies on Gamma*
 

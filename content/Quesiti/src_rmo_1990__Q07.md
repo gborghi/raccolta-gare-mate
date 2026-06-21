@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1990 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_1990__Q07
 parent: src_rmo_1990
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1990 — Quesito 7
 
 *Censuswoman deduces individual ages from two sums of pairs*
 

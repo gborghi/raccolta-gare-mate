@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q22
 parent: src_kangourou_2024_junior
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 22
 
 *Quale affermazione Carlo non puo aver fatto (verita a giorni alterni)*
 

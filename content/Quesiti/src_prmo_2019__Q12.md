@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q12
 parent: src_prmo_2019
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 12
 
 *Sum of n for which f(n+5)/f(n) is integer, good numbers*
 

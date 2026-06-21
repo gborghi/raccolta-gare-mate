@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q22
 parent: src_kangourou_2012_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 22
 
 *Rapporto tra area triangolo CMN e quadrato ABCD*
 

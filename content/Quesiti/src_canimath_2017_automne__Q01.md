@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2017 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_automne__Q01
 parent: src_canimath_2017_automne
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2017 — Quesito 1
 
 *Write 225 as a sum of 5 or 4 consecutive positive integers*
 

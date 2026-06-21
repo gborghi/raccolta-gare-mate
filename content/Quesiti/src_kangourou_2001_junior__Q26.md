@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Junior (15 marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_junior__Q26
 parent: src_kangourou_2001_junior
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2001 - Junior (15 marzo) — Quesito 26
 
 *Segmenti lunghi 5 cm nella griglia*
 

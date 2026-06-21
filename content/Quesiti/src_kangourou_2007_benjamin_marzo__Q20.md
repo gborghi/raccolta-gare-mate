@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin (marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q20
 parent: src_kangourou_2007_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin (marzo) — Quesito 20
 
 *Tempo totale con almeno una cifra 2 (orologio)*
 

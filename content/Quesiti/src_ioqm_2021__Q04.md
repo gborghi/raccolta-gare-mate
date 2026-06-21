@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_ioqm_2021__Q04
 parent: src_ioqm_2021
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 4
 
 *6-digit numbers with only digits a,b,c; sum is 5939399406; largest remainder of abc mod 100*
 

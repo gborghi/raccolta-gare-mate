@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f1__Q10
 parent: src_obm_2013_n3_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 10
 
 *Find x+y given x^3+y^3=9 and x^2 y + x y^2 = 6*
 

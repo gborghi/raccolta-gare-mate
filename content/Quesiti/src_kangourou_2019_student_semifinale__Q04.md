@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q04
 parent: src_kangourou_2019_student_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 4
 
 *Dove la pallina ricolpisce il bordo sinistro griglia 4x2019*
 

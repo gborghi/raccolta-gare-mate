@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2013 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2013_automne__Q03
 parent: src_canimath_2013_automne
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2013 — Quesito 3
 
 *Light bulbs and three switches; count bulbs on after random switch*
 

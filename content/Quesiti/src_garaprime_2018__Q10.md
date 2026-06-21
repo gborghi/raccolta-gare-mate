@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q10
 parent: src_garaprime_2018
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 10
 
 *Somma dei coefficienti di p(x) da prodotto polinomiale*
 

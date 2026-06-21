@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q09
 parent: src_kangourou_2011_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 9
 
 *Somma del piu grande e piu piccolo numero di 3 cifre somma cifre 8*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011__Q01
 parent: src_cesenatico_2011
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 1
 
 *Suddividere trapezio in m+n trapezi di area uguale, minimo m+n*
 

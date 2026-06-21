@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_biennio__Q13
 parent: src_archimede_2026_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Biennio — Quesito 13
 
 *Ordinamento di k, k^2, k^3 per -1<k<0*
 

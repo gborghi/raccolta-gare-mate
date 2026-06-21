@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q19
 parent: src_prmo_2015_b
@@ -31,8 +32,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 19
 
 *Four consecutive decreasing digits; sum of remainders mod 37*
 

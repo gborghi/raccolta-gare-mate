@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet__Q09
 parent: src_kangourou_2023_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Gara 16 marzo — Quesito 9
 
 *in quanti modi*
 

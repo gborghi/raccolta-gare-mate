@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q12
 parent: src_kangourou_2018_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 12
 
 *Minimo cubo somma di tre cubi*
 

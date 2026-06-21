@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre semifinale turno A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q06
 parent: src_kangourou_2010_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre semifinale turno A — Quesito 6
 
 *Minuti per correggere 84 elaborati insieme*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q04
 parent: src_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 4
 
 *p(2024) con p(2R)=2p(R)+2R^2-1 e somma coefficienti 2*
 

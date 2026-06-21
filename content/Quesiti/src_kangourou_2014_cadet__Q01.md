@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q01
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 1
 
 *Ultima data di marzo per il terzo giovedì*
 

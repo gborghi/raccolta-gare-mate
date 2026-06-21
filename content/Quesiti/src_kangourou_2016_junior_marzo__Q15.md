@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q15
 parent: src_kangourou_2016_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 15
 
 *Numero al posto del ? in quadrato magico moltiplicativo*
 

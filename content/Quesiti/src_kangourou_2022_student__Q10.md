@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Gara 17 marzo — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student__Q10
 parent: src_kangourou_2022_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Gara 17 marzo — Quesito 10
 
 *distanza tra punti medi di AB e CD*
 

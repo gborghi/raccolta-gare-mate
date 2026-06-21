@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 2000 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2000__Q05
 parent: src_cesenatico_2000
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 2000 — Quesito 5
 
 *Quadrupede inscrivibile in circonferenza, rapporto aree*
 

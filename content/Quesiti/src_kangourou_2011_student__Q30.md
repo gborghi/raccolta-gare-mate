@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q30
 parent: src_kangourou_2011_student
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 30
 
 *Quanti cubetti intersecati dal piano per il centro del cubo*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo18yq_yosen__Q07
 parent: src_jmo18yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 7
 
 *Number of possible leading three-digit blocks of six-digit squares*
 

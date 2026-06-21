@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1995-96 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1995-96_round2__Q01
 parent: src_bmo_1995-96_round2
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1995-96 — Round 2 — Quesito 1
 
 *Find all non-negative integer solutions to 2^x + 3^y = z^2*
 

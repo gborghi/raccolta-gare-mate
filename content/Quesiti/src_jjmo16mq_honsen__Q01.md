@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo16mq_honsen__Q01
 parent: src_jjmo16mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 1
 
 *Game on regular k-gon with integers; find all k where B always wins*
 

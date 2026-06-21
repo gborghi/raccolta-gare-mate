@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q15
 parent: src_kangourou_2017_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 15
 
 *Coppia (x,y) con x^2+y^2-16y=2017*
 

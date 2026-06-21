@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q21
 parent: src_squadre_2025_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 21
 
 *Coordinate Candace per area massima triangolo con ellissi*
 

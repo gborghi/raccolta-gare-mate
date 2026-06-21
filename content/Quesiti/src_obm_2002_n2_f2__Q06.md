@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f2__Q06
 parent: src_obm_2002_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 6
 
 *Palindrome years: next four after 2002, next odd palindrome, next prime palindrome after 929*
 

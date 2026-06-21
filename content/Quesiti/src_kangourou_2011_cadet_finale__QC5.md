@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet_finale__QC5
 parent: src_kangourou_2011_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C5
 
 *numero di C sempre uguale*
 

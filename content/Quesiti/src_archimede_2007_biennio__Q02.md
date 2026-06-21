@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q02
 parent: src_archimede_2007_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 2
 
 *Rapporto tra lati di quadrato e triangolo isoperimetrici*
 

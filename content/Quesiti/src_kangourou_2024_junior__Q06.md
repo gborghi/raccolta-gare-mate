@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q06
 parent: src_kangourou_2024_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 6
 
 *Rapporto tra area nera e area grigia (quadrato con 4 cerchi)*
 

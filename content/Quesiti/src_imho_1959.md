@@ -1,4 +1,5 @@
 ---
+title: IMO 1959 (I International Olympiad)
 tipo: gara
 src_id: src_imho_1959
 competition: IMO 1959 (I International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1959
   - gara/individuale
 ---
-
-# IMO 1959 (I International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1959_eng.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q24
 parent: src_kangourou_2015_marzo_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Ecolier — Quesito 24
 
 *chi piu il sabato*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo17mq_honsen__Q04
 parent: src_jmo17mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 4
 
 *Band of width sqrt(2) covering four given points in the plane*
 

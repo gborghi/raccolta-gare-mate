@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f3__Q03
 parent: src_obm_2014_n1_f3
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3 — Quesito 3
 
 *Dice stacked as pillar; faces in contact and rigid cube with equal face-sums*
 

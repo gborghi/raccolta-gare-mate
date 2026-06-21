@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q10
 parent: src_cesenatico_2005_squadre_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 10
 
 *Coppie (a,b) con a^4+4b^4+12ab-9 primo*
 

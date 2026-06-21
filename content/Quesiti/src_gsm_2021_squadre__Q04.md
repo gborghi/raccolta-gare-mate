@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q04
 parent: src_gsm_2021_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 4
 
 *Interi n con n^2 e n^3 somma di consecutivi*
 

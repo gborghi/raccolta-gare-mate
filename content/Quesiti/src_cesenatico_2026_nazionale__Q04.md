@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2026_nazionale__Q04
 parent: src_cesenatico_2026_nazionale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 4
 
 *Dimostrare che angolo AFD e retto*
 

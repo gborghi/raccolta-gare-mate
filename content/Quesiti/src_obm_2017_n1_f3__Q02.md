@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f3__Q02
 parent: src_obm_2017_n1_f3
@@ -38,8 +39,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 2
 
 *Count the ways to build a 27 cm^3 and a 64 cm^3 cube from cubes of side 1, 2, 3 cm*
 

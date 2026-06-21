@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q02
 parent: src_kangourou_2018_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 2
 
 *Massimo prodotto ab con a^2+b^2+1007ab=2018*
 

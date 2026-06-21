@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre semifinale turno A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q14
 parent: src_kangourou_2012_squadre_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre semifinale turno A — Quesito 14
 
 *Intero n con stesso resto dividendo 1059,1417,2312*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q04
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 4
 
 *Quale quadrato ha la parte grigia maggiore*
 

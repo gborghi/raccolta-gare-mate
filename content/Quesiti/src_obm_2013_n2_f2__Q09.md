@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f2__Q09
 parent: src_obm_2013_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 9
 
 *Find largest angle of triangle given midpoint and angle conditions*
 

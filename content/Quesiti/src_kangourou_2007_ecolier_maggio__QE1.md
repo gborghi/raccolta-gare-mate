@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier finale (maggio) — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE1
 parent: src_kangourou_2007_ecolier_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier finale (maggio) — Quesito E1
 
 *Minimo tempo perche ricompaiano le 4 cifre*
 

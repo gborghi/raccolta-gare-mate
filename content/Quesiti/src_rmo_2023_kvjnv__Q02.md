@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_kvjnv__Q02
 parent: src_rmo_2023_kvjnv
@@ -33,8 +34,6 @@ tags:
   - regione/kvjnv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 2
 
 *Prime p with 2p equal to sum of squares of four consecutive positives, prove p-7 divisible by 36*
 

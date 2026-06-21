@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q01
 parent: src_kangourou_2022_kangourou_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 1
 
 *Somma cifre di espressione con 123456789*
 

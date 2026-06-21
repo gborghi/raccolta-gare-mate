@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_triennio__Q15
 parent: src_archimede_2002_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Triennio — Quesito 15
 
 *Velocita seconda meta per media complessiva 30 km/h*
 

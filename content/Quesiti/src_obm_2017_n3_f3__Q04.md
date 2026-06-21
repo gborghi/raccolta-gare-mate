@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n3_f3__Q04
 parent: src_obm_2017_n3_f3
@@ -39,8 +40,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 4
 
 *Phone unlock pattern on a 3x3 grid: find smallest n so any n-subset of digits admits a valid path*
 

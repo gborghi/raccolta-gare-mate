@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q18
 parent: src_archimede_2014_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 18
 
 *Resto di p(x) diviso per x^2-1 dati i resti per x-1 e x+1*
 

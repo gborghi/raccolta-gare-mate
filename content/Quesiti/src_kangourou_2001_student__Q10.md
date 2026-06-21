@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Student (15 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_student__Q10
 parent: src_kangourou_2001_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Student (15 marzo) — Quesito 10
 
 *Affermazione vera con MCD(m,35)>10*
 

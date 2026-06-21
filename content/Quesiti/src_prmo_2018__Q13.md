@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q13
 parent: src_prmo_2018
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 13
 
 *Right-angled triangle at A, altitude and angle bisector from A have lengths 3 and 4, find median length*
 

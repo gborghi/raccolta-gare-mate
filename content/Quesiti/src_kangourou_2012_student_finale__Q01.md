@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 finale nazionale Student — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student_finale__Q01
 parent: src_kangourou_2012_student_finale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2012 finale nazionale Student — Quesito 1
 
 *Sfere passanti per tre punti non allineati nello spazio*
 

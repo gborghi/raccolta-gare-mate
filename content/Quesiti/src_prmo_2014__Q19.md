@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q19
 parent: src_prmo_2014
@@ -32,8 +33,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 19
 
 *Value of sum of x_i^2/(1-x_i) given x_1+...+x_2014=1 and cyclic sum condition*
 

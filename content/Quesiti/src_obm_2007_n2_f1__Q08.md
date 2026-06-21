@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f1__Q08
 parent: src_obm_2007_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 8
 
 *Number of possible values of k in cyclic equal-ratio system*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Junior — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_junior__QJ5
 parent: src_kangourou_2015_finale_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Junior — Quesito J5
 
 *numero totale di gracchiate in un'ora*
 

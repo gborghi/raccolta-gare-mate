@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin__Q21
 parent: src_kangourou_2003_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2003 - Benjamin (20 marzo) — Quesito 21
 
 *Altezza x dell'acqua nel bicchiere*
 

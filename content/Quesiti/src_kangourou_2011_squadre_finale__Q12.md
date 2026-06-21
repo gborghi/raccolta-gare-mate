@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q12
 parent: src_kangourou_2011_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 12
 
 *Eta di nonno Angelo con condizioni di multipli*
 

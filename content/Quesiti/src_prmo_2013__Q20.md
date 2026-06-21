@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q20
 parent: src_prmo_2013
@@ -33,8 +34,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 20
 
 *Sum of natural numbers less than 64 with exactly three 1s in base 2*
 

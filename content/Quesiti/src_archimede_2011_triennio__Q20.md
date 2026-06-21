@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q20
 parent: src_archimede_2011_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 20
 
 *Raggio cerchio inscritto in quadrilatero con diagonali ortogonali*
 

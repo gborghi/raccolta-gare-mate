@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier finale nazionale — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier_finale__QE3
 parent: src_kangourou_2004_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier finale nazionale — Quesito E3
 
 *Quante tessere del domino 0-0..8-8*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q15
 parent: src_kangourou_2014_junior
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 15
 
 *Numero opposto a 14 sul dado con facce prime*
 

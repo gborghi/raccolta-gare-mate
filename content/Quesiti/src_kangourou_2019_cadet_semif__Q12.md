@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q12
 parent: src_kangourou_2019_cadet_semif
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 12
 
 *Quale carta non e stata pescata (resti mod 3,4,5)*
 

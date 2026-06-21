@@ -1,4 +1,5 @@
 ---
+title: IMO 2021 papers — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_2021__Q04
 parent: src_imo_2021
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2021 papers — Quesito 4
 
 *Uguaglianza somme tangenti AD+DT+TX+XA=...*
 

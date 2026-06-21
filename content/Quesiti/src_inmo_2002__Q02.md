@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2002 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2002__Q02
 parent: src_inmo_2002
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2002 — Quesito 2
 
 *Least positive value of $a^3+b^3+c^3-3abc$ over positive integers*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q06
 parent: src_canimath_2022_automne
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 6
 
 *n lines, each intersecting exactly 10 others; find possible n*
 

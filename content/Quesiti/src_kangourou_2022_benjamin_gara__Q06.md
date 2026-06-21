@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q06
 parent: src_kangourou_2022_benjamin_gara
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 6
 
 *Fette di pizza con sia prosciutto sia verdure*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q10
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 10
 
 *Cifra delle unita del prodotto (5^5+1)(5^10+1)(5^15+1)*
 

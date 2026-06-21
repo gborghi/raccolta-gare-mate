@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n2_f1__Q20
 parent: src_obm_2012_n2_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 20
 
 *Count integers in (23456,65432) with odd digit product not a multiple of 7*
 

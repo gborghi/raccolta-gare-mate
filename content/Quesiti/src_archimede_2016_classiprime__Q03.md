@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q03
 parent: src_archimede_2016_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 3
 
 *Prodotto m*n dati MCD=6 e mcm=3150*
 

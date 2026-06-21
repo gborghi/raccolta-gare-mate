@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q24
 parent: src_kangourou_2024_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 24
 
 *Quanti canguri non hanno mai preso la palla (50, salto 6)*
 

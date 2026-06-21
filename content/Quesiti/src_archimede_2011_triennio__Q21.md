@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q21
 parent: src_archimede_2011_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 21
 
 *Partite in torneo a doppia eliminazione con 20 partecipanti*
 

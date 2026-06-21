@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet finale (maggio) — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_maggio__QC3
 parent: src_kangourou_2007_cadet_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet finale (maggio) — Quesito C3
 
 *Max numeri scelti senza somma multipla di 3*
 

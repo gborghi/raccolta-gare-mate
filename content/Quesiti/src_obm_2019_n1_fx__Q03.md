@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n1_fx__Q03
 parent: src_obm_2019_n1_fx
@@ -38,8 +39,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 3
 
 *Spiral-filled large grid; find last number of third layer and triangle distances*
 

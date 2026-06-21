@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q20
 parent: src_obm_2009_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 20
 
 *Two externally tangent circles (radii 3 and 4) with common external tangents at P,Q and R,S and internal tangent meeting them at M,N; ratio of areas of quadrilaterals MNPQ and MNRS.*
 

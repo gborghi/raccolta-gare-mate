@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q03
 parent: src_garaprime_2018
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 3
 
 *Grado di (p(x))^2 - p(x^2)*
 

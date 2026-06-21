@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier_finale__QE4
 parent: src_kangourou_2012_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E4
 
 *Cifra finale del prodotto dei dispari tra 1 e 2012*
 

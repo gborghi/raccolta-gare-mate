@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_bmo_1983-84_round1__Q07
 parent: src_bmo_1983-84_round1
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1983-84 — Round 1 — Quesito 7
 
 *For quadrilateral with inscribed circle, four associated quantities are equal*
 

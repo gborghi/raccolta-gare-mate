@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo22hq_honsen__Q04
 parent: src_jjmo22hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 4
 
 *Maximum number of white cells in 2024×2024 colored grid*
 

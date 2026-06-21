@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio_online__Q11
 parent: src_archimede_2021_triennio_online
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 11
 
 *Funzione con due simmetrie, somma di valori*
 

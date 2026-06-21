@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q15
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 15
 
 *Quale numero nel triangolo X della coroncina di gettoni*
 

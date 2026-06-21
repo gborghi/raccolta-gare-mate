@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q24
 parent: src_kangourou_2014_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 24
 
 *Massimo numeri da 1 a 20 senza maggiore doppio del minore*
 

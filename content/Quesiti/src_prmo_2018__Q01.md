@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q01
 parent: src_prmo_2018
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 1
 
 *Last page number of 3-volume book, find largest prime factor*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q19
 parent: src_kangourou_2002_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 19
 
 *Minimo monete sulla griglia 2x9*
 

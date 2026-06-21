@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Student — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_finale__Q01
 parent: src_kangourou_2018_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Student — Quesito 1
 
 *Area massima di un quadrilatero di lati 1,4,7,8*
 

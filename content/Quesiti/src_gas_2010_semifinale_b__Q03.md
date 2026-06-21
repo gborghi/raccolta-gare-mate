@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale B — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_b__Q03
 parent: src_gas_2010_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale B — Quesito 3
 
 *Conteggio non-bugiardi in cerchio con affermazioni sui vicini*
 

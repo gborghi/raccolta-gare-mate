@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q07
 parent: src_kangourou_2021_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 7
 
 *Affermazione vera sulle altezze a catena*
 

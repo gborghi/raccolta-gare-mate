@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Semifinale A
 tipo: gara
 src_id: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Semifinale A
 
 Sorgente: `Kangaroo/kangourou_squadre/2015/SQ-A-15.pdf` · apri PDF
 

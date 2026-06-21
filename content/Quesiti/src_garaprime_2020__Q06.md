@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_garaprime_2020__Q06
 parent: src_garaprime_2020
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020 — Quesito 6
 
 *Valore di una frazione complessa con potenze di 5*
 

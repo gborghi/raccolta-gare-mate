@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q18
 parent: src_gs_2008_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 18
 
 *Percorso piu breve sulla superficie del cilindro*
 

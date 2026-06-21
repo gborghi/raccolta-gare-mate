@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q01
 parent: src_jjmo2q
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 1
 
 *Evaluate 103*103 minus 97*97*
 

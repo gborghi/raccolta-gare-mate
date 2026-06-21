@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n3_fx__Q05
 parent: src_obm_2024_n3_fx
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 5
 
 *1×2024 board game: Ana and Banana color squares; find min k for Ana to guarantee all-green*
 

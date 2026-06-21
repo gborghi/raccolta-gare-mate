@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f1__Q07
 parent: src_obm_2016_n2_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 7
 
 *Which value cannot be the variable side of triangles ABC and ABD*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q02
 parent: src_kangourou_2008_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior (gara 28 marzo) — Quesito 2
 
 *Primo anno con somma eta figli > eta padre*
 

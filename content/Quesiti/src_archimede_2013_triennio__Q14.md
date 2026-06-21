@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q14
 parent: src_archimede_2013_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 14
 
 *Quale numero divide p(169)-p(1) per polinomio intero*
 

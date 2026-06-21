@@ -1,4 +1,5 @@
 ---
+title: IMO 2022 papers — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2022__Q01
 parent: src_imo_2022
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# IMO 2022 papers — Quesito 1
 
 *Coppie (n,k) monete con n a sinistra dello stesso tipo*
 

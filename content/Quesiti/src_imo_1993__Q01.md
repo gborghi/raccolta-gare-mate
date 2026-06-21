@@ -1,4 +1,5 @@
 ---
+title: IMO 1993 (34th IMO) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1993__Q01
 parent: src_imo_1993
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1993 (34th IMO) — Quesito 1
 
 *Prove x^n+5x^(n-1)+3 is irreducible over integers*
 

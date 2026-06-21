@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo23yq_yosen__Q11
 parent: src_jmo23yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 11
 
 *Orient unit lattice segments in 3D cube so each lattice square is congruent; count*
 

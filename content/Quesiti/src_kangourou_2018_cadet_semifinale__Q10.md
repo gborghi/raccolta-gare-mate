@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q10
 parent: src_kangourou_2018_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 10
 
 *Ultime 4 cifre della somma massima con prodotto 10^10*
 

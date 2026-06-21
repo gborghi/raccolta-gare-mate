@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo24mq_honsen__Q05
 parent: src_jmo24mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 5
 
 *Largest k for a three-variable cyclic inequality*
 

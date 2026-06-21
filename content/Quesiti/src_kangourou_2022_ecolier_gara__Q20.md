@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier gara individuale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q20
 parent: src_kangourou_2022_ecolier_gara
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier gara individuale — Quesito 20
 
 *Quali tasselli puo usare Alba per i collegamenti*
 

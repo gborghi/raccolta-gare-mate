@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_ioqm_2021__Q09
 parent: src_ioqm_2021
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 9
 
 *Sequence P_n defined by linear recurrence; area of pentagon P0,P2,P4,P6,P8*
 

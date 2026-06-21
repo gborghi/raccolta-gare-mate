@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q20
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 20
 
 *Valore di f(0)+f(1)+f(2)+f(3) con f(x+y)=f(x)f(y)*
 

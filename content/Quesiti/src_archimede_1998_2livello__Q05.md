@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q05
 parent: src_archimede_1998_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 5
 
 *A che ora Massimo si accorge di aver dimenticato il portafoglio*
 

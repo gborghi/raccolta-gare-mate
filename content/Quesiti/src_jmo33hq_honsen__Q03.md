@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo33hq_honsen__Q03
 parent: src_jmo33hq_honsen
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 3
 
 *Find all positive-integer sequences where count of i with a_i <= a_{i+1}+c equals c for all n*
 

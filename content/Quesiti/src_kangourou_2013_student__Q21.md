@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q21
 parent: src_kangourou_2013_student
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 21
 
 *Coppie (x,y) con x<=y e xy=5(x+y)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q02
 parent: src_cesenatico_2012_semifinale_c
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 2
 
 *Antenati Matemaya (rami con 7 maschi e 7 femmine)*
 

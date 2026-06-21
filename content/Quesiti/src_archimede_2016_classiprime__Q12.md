@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q12
 parent: src_archimede_2016_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 12
 
 *Deduzioni logiche da proprieta dei voti (quantificatori)*
 

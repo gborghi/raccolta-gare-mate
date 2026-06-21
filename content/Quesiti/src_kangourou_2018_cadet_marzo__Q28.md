@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q28
 parent: src_kangourou_2018_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo — Quesito 28
 
 *Area del triangolo LMN dentro l'equilatero*
 

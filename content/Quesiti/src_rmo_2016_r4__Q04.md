@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r4__Q04
 parent: src_rmo_2016_r4
@@ -36,8 +37,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 4 — Quesito 4
 
 *Box of 4032 scripts, odd/even score selection process, find remaining odd-score count*
 

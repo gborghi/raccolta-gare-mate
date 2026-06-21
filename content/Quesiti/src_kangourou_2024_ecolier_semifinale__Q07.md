@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q07
 parent: src_kangourou_2024_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Ecolier 2024 — Quesito 7
 
 *Quale numero e certamente dispari*
 

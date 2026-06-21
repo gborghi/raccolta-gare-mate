@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Semifinale individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q02
 parent: src_kangourou_2017_junior_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Semifinale individuale — Quesito 2
 
 *Strada minima con ponte corto attraverso fiume*
 

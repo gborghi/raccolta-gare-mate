@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f2__Q02
 parent: src_obm_2000_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2 — Quesito 2
 
 *Count distinct rectangular boxes built from 216 unit cubes*
 

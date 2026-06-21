@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Finale (risposta aperta) — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet_finale__QC6
 parent: src_kangourou_2023_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Finale (risposta aperta) — Quesito C6
 
 *lunghezza traiettoria di P*
 

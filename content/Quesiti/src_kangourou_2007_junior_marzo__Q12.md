@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q12
 parent: src_kangourou_2007_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 12
 
 *A quale potenza elevare 4^4 per ottenere 8^8*
 

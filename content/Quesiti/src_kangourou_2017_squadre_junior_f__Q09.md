@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q09
 parent: src_kangourou_2017_squadre_junior_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 9
 
 *Cifra unita di 1^3+2^3+...+2017^3*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q01
 parent: src_ioqm_2025_sep07
@@ -29,8 +30,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 1
 
 *60% of x is 40; find x% of 60*
 

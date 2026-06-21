@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q10
 parent: src_kangourou_2006_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 10
 
 *Vernice per parte bianca dopo rimozione cubetti*
 

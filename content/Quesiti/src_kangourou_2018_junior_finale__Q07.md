@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q07
 parent: src_kangourou_2018_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 7
 
 *Prodotto dei primi due numeri somma di due quadrati*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q28
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 28
 
 *Numeri da scrivere al posto di a,b,c nel foglio ripiegato*
 

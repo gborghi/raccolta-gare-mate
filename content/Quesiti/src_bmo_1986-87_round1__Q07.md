@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1986-87 — Round 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_bmo_1986-87_round1__Q07
 parent: src_bmo_1986-87_round1
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1986-87 — Round 1 — Quesito 7
 
 *Existence of positive integer x making triangular-number expression divisible by 2^n*
 

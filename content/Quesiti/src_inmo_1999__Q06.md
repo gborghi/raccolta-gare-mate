@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1999 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1999__Q06
 parent: src_inmo_1999
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1999 — Quesito 6
 
 *Split set {1,2,...,4n} into disjoint four-element subsets with equal element sum*
 

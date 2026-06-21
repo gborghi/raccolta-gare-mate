@@ -1,4 +1,5 @@
 ---
+title: IMO 1964 (VI International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imho_1964__Q05
 parent: src_imho_1964
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1964 (VI International Olympiad) — Quesito 5
 
 *Massimo numero di intersezioni di perpendicolari da 5 punti*
 

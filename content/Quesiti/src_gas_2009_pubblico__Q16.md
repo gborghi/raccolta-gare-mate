@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q16
 parent: src_gas_2009_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 16
 
 *Numero di n con espressione radicale annidata intera*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q01
 parent: src_archimede_2001_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 1
 
 *Quanti interi hanno media 6 e somma 18*
 

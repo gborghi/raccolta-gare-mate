@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q21
 parent: src_kangourou_2008_ecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 21
 
 *Quanti naturali 2-3 cifre maggiori della somma cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q14
 parent: src_kangourou_2013_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 14
 
 *Quale sviluppo piano non forma un cubo*
 

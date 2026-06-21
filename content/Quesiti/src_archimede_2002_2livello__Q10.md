@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2002 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_2livello__Q10
 parent: src_archimede_2002_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2002 — Quesito 10
 
 *Indovinello su latte e gara a squadre di matematica*
 

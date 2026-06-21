@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2011 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2011__Q05
 parent: src_rmo_2011
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2011 — Quesito 5
 
 *Triangle with angle bisectors and incircle tangent point; prove FE=AD*
 

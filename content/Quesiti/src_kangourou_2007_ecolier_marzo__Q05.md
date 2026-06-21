@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q05
 parent: src_kangourou_2007_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo) — Quesito 5
 
 *Che ore sono (6 ore e mezza alle 4)*
 

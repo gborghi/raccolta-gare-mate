@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q04
 parent: src_gsm_2022_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 4
 
 *Anni di nascita con eta uguale a somma cifre anno*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student finale (maggio) — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_maggio__QS3
 parent: src_kangourou_2006_student_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 Student finale (maggio) — Quesito S3
 
 *Differenza diagonali piu lunghe e piu corte nel 9-gono*
 

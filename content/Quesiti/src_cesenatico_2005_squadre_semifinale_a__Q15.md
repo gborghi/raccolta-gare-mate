@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_a__Q15
 parent: src_cesenatico_2005_squadre_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 15
 
 *Cubetti attraversati dalla diagonale di parallelepipedo 126x60x70*
 

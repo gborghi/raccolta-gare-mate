@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q29
 parent: src_kangourou_2016_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 29
 
 *Minimo mosse per scacchiera 5x5 con triple consecutive*
 

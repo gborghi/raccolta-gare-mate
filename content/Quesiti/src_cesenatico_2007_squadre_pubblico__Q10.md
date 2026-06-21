@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q10
 parent: src_cesenatico_2007_squadre_pubblico
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 10
 
 *Somma N di tre cifre con ultime tre cifre di N^3 = 888*
 

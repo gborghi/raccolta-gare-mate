@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q20
 parent: src_squadre_2018_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 20
 
 *Percorsi su scacchiera 6x6 senza ritorno su caselle visitate*
 

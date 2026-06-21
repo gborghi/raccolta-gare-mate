@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n1_f2__Q04
 parent: src_obm_2006_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 4
 
 *Perimeter of original cardboard before diagonal cuts yielding perimeter 129*
 

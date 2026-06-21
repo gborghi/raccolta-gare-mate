@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1998-99 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1998-99_round2__Q04
 parent: src_bmo_1998-99_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1998-99 — Round 2 — Quesito 4
 
 *Digit sums of numbers of the form 3n^2+n+1*
 

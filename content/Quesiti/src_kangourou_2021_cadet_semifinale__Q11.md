@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - semifinale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q11
 parent: src_kangourou_2021_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - semifinale — Quesito 11
 
 *Anni dall ultimo anno = due interi consecutivi accostati*
 

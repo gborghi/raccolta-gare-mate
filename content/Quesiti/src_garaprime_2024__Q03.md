@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q03
 parent: src_garaprime_2024
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 3
 
 *Quante cinquine consecutive con media pari e prodotto mult 11 e 13*
 

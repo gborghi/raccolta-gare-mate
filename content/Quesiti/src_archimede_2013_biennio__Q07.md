@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q07
 parent: src_archimede_2013_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 7
 
 *Coppie in tabella dove la riga 2 e multipla della 1*
 

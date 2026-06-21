@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio (prova di riserva)
 tipo: gara
 src_id: src_archimede_2025_biennio_rec
 competition: Giochi di Archimede 2025 - Biennio (prova di riserva)
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio (prova di riserva)
 
 Sorgente: `Archimede/individuale/1livello/2025/archimede_2025_biennio_rec.pdf` · apri PDF
 

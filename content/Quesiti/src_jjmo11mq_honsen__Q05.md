@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo11mq_honsen__Q05
 parent: src_jjmo11mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 5
 
 *Min total surveillance to suppress any rebellion of n*
 

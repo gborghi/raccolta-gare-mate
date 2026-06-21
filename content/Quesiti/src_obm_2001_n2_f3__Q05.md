@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f3__Q05
 parent: src_obm_2001_n2_f3
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 5
 
 *Find all possible values of a symmetric expression in a, b, c given a+b+c=0*
 

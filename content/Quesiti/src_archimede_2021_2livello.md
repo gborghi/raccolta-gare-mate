@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2021 - 2° livello
 tipo: gara
 src_id: src_archimede_2021_2livello
 competition: Archimede Gara di Febbraio 2021 - 2° livello
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2021 - 2° livello
 
 Sorgente: `Archimede/individuale/2livello/2021/soluzioni2021.pdf` · apri PDF
 

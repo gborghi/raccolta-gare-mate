@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q01
 parent: src_kangourou_2021_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - finale — Quesito 1
 
 *Correggere 25x2=211 con +1/-1 sulle cifre*
 

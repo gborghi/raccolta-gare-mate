@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_tfjm_2022__Q01
 parent: src_tfjm_2022
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 1
 
 *Folding polygons: study the flattened polygons (plies) obtainable by repeatedly folding a convex polygon with convex creases, including periodicity of resulting sequences.*
 

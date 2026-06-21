@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q30
 parent: src_kangourou_2022_cadet_gara
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 30
 
 *Quanti koala vivono nei 7 parchi*
 

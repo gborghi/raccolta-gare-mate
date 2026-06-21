@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n3_f1__Q12
 parent: src_obm_2012_n3_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 12
 
 *Find angle PBQ given right angle ABC and angle between CD, AE equal to 40 degrees*
 

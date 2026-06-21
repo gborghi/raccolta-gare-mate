@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q17
 parent: src_kangourou_2011_student
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 17
 
 *Quale affermazione sulla parabola puo essere falsa*
 

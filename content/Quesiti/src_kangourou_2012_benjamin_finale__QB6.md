@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin_finale__QB6
 parent: src_kangourou_2012_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B6
 
 *Numero minimo di pulsanti per sapere a che piano si trova*
 

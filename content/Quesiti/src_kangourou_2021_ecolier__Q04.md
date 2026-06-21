@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - gara marzo — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier__Q04
 parent: src_kangourou_2021_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - gara marzo — Quesito 4
 
 *Frammento che fa parte del sole sorridente*
 

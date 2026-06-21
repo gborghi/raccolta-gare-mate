@@ -1,4 +1,5 @@
 ---
+title: IMO 2018 papers — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2018__Q01
 parent: src_imo_2018
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2018 papers — Quesito 1
 
 *DE parallela a FG (assi BD e CE)*
 

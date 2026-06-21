@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2017__Q06
 parent: src_cesenatico_2017
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 6
 
 *Infiniti m con num. fattori primi dispari di m(m+3) multiplo di 3*
 

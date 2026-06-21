@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier__Q21
 parent: src_kangourou_2005_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo) — Quesito 21
 
 *Somma di due numeri con differenza 989*
 

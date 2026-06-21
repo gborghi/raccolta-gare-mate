@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Finale nazionale Cervia — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_finale__QS5
 parent: src_kangourou_2017_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Finale nazionale Cervia — Quesito S5
 
 *Filo minimo per percorrere i lati di un reticolo 9x7*
 

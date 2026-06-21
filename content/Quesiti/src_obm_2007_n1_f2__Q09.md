@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f2__Q09
 parent: src_obm_2007_n1_f2
@@ -40,8 +41,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 9
 
 *In a number table, the diagonal-n sum is 2n+(n-1)k; find diagonal 9, diagonal 2007, and its remainder mod 100.*
 

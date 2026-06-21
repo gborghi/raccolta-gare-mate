@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Junior — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior_finale__Q03
 parent: src_kangourou_2014_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Junior — Quesito 3
 
 *Luogo dei punti entro distanza 3 (metrica modificata)*
 

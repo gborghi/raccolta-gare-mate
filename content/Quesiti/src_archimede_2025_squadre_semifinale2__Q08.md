@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q08
 parent: src_archimede_2025_squadre_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 8
 
 *Primi p,q con pq=83333, calcolare p+3q*
 

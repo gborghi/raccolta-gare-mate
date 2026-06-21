@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q05
 parent: src_kangourou_2019_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 5
 
 *Allineamenti di sei cifre monotoni non tutti uguali*
 

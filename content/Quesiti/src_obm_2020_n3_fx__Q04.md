@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n3_fx__Q04
 parent: src_obm_2020_n3_fx
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x — Quesito 4
 
 *Excircles touch points: perpendiculars to sides are concurrent*
 

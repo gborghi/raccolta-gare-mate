@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q08
 parent: src_kangourou_2006_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 8
 
 *Raggio del cerchio con area meta (segnale)*
 

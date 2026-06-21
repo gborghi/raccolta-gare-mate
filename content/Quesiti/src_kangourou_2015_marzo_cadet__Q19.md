@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Cadet — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q19
 parent: src_kangourou_2015_marzo_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Cadet — Quesito 19
 
 *colore x*
 

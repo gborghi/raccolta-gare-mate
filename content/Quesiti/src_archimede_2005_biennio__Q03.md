@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q03
 parent: src_archimede_2005_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 3
 
 *Valore massimo di a(b+c)-b(a+c) con interi 1..10*
 

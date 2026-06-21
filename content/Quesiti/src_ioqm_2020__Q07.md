@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q07
 parent: src_ioqm_2020
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 7
 
 *Isosceles triangle ABC, D on BC with BD=48, DC=61, CE perpendicular to AD; find AE*
 

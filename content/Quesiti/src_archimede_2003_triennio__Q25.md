@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Triennio — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_triennio__Q25
 parent: src_archimede_2003_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Triennio — Quesito 25
 
 *Volume piramide da altezze ortogonali sullo spigolo VA*
 

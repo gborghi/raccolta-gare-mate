@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q17
 parent: src_kangourou_2024_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 17
 
 *Quanti interi tra 0 e 10 esprimibili con quattro 4*
 

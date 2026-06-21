@@ -1,4 +1,5 @@
 ---
+title: IMO 1983 (24th International Mathematical Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1983__Q03
 parent: src_imo_1983
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1983 (24th International Mathematical Olympiad) — Quesito 3
 
 *Largest integer not representable as nonnegative combination (Frobenius)*
 

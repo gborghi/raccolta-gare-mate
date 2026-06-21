@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q02
 parent: src_obm_2016_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 2
 
 *Josias's position in a line, with the number ahead one quarter of the number behind*
 

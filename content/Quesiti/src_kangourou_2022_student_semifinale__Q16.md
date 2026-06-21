@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Semifinale individuale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q16
 parent: src_kangourou_2022_student_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Semifinale individuale — Quesito 16
 
 *Numeri ABCDABCDABCD divisibili per 2022*
 

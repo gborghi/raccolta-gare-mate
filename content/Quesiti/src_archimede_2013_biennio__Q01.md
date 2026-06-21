@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q01
 parent: src_archimede_2013_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 1
 
 *resto 1 per 7 e resto 2 per 10*
 

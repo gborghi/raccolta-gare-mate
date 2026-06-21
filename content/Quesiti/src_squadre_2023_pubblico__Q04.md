@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Gara del pubblico — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_pubblico__Q04
 parent: src_squadre_2023_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Gara del pubblico — Quesito 4
 
 *Somma f(2023) per polinomi con f(x^2)=f(2x-1)+f(x)^2*
 

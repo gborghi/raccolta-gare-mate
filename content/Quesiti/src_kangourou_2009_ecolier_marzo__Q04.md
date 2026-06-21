@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q04
 parent: src_kangourou_2009_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 4
 
 *Minimo pulsanti per trasformare 930 in 806*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q13
 parent: src_prmo_2012
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 13
 
 *Value of cyclic sum a/b + b/c + c/d + d/a with given conditions*
 

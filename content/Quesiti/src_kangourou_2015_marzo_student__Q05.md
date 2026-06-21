@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Student — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q05
 parent: src_kangourou_2015_marzo_student
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Student — Quesito 5
 
 *Somma interi 2001-2031 diviso 31*
 

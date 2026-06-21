@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q08
 parent: src_obm_2003_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 8
 
 *Find n in tennis club with n left-handed, 2n right-handed players, given win ratio 3:4*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2018-19_round1__Q05
 parent: src_bmo_2018-19_round1
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2018-19 — Round 1 — Quesito 5
 
 *Find all possible dimensions of two similar cylinders with height sum 1 and volume sum 8pi*
 

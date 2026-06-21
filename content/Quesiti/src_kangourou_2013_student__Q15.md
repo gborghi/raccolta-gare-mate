@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q15
 parent: src_kangourou_2013_student
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 15
 
 *Quanti rettangoli con lato 5 spezzabili in quadrato e rettangolo*
 

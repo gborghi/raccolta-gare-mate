@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q19
 parent: src_kangourou_2021_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 19
 
 *Affermazione vera dividendo mele e pere*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f1__Q17
 parent: src_obm_2011_n1_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 17
 
 *Count of digit 9 in n^2 where n is 2011 nines*
 

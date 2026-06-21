@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 gara 20 marzo Student — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q01
 parent: src_kangourou_2014_marzo_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2014 gara 20 marzo Student — Quesito 1
 
 *Cubetti eliminati da un cubo 5x5x5 con colonne*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q23
 parent: src_kangourou_2016_junior_marzo
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 23
 
 *Minimo mosse per trasformare quadrato 5x5 in scacchiera*
 

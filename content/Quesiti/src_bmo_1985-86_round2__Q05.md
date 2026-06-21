@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1985-86 — Round 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1985-86_round2__Q05
 parent: src_bmo_1985-86_round2
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1985-86 — Round 2 — Quesito 5
 
 *Locus of midpoint of $P_1P_2$ for parallel chords of two circles*
 

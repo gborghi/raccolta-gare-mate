@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q07
 parent: src_kangourou_2011_student
@@ -25,8 +26,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 7
 
 *Forma del taglio obliquo di un cilindro srotolato*
 

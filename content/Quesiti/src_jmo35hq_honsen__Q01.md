@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo35hq_honsen__Q01
 parent: src_jmo35hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 1
 
 *Minimum of cyclic sum of squared differences under gap constraints*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q02
 parent: src_cesenatico_2025_nazionale
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 2
 
 *Valori interi di a con unica soluzione intera della disequazione*
 

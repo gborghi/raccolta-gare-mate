@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q10
 parent: src_canimath_2024_automne
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 10
 
 *Existence of 5 points with quadrilateral and equal-length conditions*
 

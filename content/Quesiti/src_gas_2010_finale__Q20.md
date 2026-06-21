@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q20
 parent: src_gas_2010_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 20
 
 *Prodotto a*b con a^2-b^2 quadrato perfetto minimo, cifre scambiate*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q07
 parent: src_kangourou_2018_student_semif
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 7
 
 *Per cosa non e divisibile 2019*2018^2 - 2018*2019^2*
 

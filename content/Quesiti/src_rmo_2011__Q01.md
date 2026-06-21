@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2011 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2011__Q01
 parent: src_rmo_2011
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2011 — Quesito 1
 
 *Triangle with concurrent cevians; prove angle equality*
 

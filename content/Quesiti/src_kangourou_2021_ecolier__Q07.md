@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - gara marzo — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier__Q07
 parent: src_kangourou_2021_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - gara marzo — Quesito 7
 
 *Stelline del fuoco dorato dati 20 totali e +6*
 

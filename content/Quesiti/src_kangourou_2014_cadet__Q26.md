@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q26
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 26
 
 *Disegno sulla faccia opposta del parallelepipedo di cubi*
 

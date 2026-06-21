@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_2livello__Q08
 parent: src_archimede_2021_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2021 - 2° livello — Quesito 8
 
 *Striscia di 8 caselle, operazioni, combinazioni ottenibili*
 

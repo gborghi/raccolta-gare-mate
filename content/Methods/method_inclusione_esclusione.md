@@ -1,11 +1,10 @@
 ---
+title: Inclusione-esclusione
 tipo: method
 concept_id: method_inclusione_esclusione
 tags:
   - graph/method
 ---
-
-# Inclusione-esclusione
 
 *method* — **115** quesiti (italiani).
 

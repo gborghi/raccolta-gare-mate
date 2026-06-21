@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q01
 parent: src_kangourou_2002_student
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 1
 
 *Triangoli individuabili nella figura*
 

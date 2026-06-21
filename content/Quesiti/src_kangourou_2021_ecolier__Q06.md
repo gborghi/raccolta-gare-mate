@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - gara marzo — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier__Q06
 parent: src_kangourou_2021_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - gara marzo — Quesito 6
 
 *Numero alla tacca sul metro avvolto al cilindro*
 

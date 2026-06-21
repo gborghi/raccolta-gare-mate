@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo12yq_yosen__Q06
 parent: src_jjmo12yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 6
 
 *Find all positive n with n+16 and 16n+1 both perfect squares*
 

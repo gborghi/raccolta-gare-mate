@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q16
 parent: src_kangourou_2020_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 16
 
 *Minimo mosse per portare 9 gettoni allo stesso colore (gira 3)*
 

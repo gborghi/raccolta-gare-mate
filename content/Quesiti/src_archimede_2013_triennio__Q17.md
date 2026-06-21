@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q17
 parent: src_archimede_2013_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 17
 
 *Ordinamento crescente di 3^33, 4^30, 5^25*
 

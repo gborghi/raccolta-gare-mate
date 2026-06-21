@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_tfjm_2019__Q01
 parent: src_tfjm_2019
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 1
 
 *Constructible house floor plans on a grid with overlong walls (binmus) and external cells*
 

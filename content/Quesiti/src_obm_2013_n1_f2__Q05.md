@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f2__Q05
 parent: src_obm_2013_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 5
 
 *100 correct out of 128 questions; find minimum N consecutive correct*
 

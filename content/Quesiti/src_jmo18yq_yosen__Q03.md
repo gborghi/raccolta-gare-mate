@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo18yq_yosen__Q03
 parent: src_jmo18yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 3
 
 *Count item prices for a minimal-pieces, no-shared-denomination payment*
 

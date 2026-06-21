@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q01
 parent: src_kangourou_2021_student_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 1
 
 *una sola affermazione vera su euro di Lisa*
 

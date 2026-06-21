@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo11yq_yosen__Q12
 parent: src_jmo11yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 12
 
 *Min S for 5x9 grid summing to 1 with bounded 2x3 blocks*
 

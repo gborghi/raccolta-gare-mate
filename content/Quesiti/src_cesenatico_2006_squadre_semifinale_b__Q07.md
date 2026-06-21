@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q07
 parent: src_cesenatico_2006_squadre_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 7
 
 *Piu grande numero 4 cifre con quadrato che termina uguale*
 

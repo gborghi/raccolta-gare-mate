@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_2livello__Q16
 parent: src_archimede_2008_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 16
 
 *Q punto medio di AP è ortocentro di ADE*
 

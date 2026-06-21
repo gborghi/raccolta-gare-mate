@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo11yq_yosen__Q03
 parent: src_jmo11yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 3
 
 *Subsets of 1..2001 with odd sum*
 

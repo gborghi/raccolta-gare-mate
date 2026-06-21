@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo)
 tipo: gara
 src_id: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2007/EMarzo-07.pdf` · apri PDF
 

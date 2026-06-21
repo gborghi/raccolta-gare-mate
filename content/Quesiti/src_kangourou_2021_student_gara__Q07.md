@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q07
 parent: src_kangourou_2021_student_gara
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 7
 
 *Il piu grande tra potenze e radici di x=root*
 

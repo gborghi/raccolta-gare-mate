@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Benjamin — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_benjamin__QB2
 parent: src_kangourou_2015_finale_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Benjamin — Quesito B2
 
 *primo o secondo?*
 

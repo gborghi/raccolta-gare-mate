@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_triennio__Q10
 parent: src_archimede_1998_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Triennio — Quesito 10
 
 *Angolo BCD dato angolo iscritto e diametro*
 

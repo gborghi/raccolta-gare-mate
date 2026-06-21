@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q10
 parent: src_jjmo4q
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 10
 
 *Find all integer solutions of x²+xy+y²+3x+3y+6=0 with x=1 excluded; then all integer pairs*
 

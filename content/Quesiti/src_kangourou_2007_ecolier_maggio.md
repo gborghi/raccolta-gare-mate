@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier finale (maggio)
 tipo: gara
 src_id: src_kangourou_2007_ecolier_maggio
 competition: Kangourou 2007 Ecolier finale (maggio)
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier finale (maggio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2007/EMaggio-07.pdf` · apri PDF
 

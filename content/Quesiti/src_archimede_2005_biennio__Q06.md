@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q06
 parent: src_archimede_2005_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 6
 
 *Affermazioni su porte nelle pareti di una stanza*
 

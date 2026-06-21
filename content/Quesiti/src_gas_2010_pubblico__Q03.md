@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gas_2010_pubblico__Q03
 parent: src_gas_2010_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Gara del Pubblico — Quesito 3
 
 *Differenza abitanti da affermazioni di sinceri/bugiardi/variabili*
 

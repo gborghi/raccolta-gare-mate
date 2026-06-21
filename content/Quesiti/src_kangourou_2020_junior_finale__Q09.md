@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q09
 parent: src_kangourou_2020_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2020 Finale — Quesito 9
 
 *Somma interi n con d(n)*s(n)=96*
 

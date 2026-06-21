@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1992__Q01
 parent: src_imo_1992
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1992 (33rd IMO, Moscow) — Quesito 1
 
 *Find a,b,c with (a-1)(b-1)(c-1) dividing abc-1*
 

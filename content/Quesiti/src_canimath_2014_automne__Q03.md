@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2014 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_automne__Q03
 parent: src_canimath_2014_automne
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2014 — Quesito 3
 
 *Divisibility by 81 of 2016, of 20162016, and of '2016' repeated 2016 times*
 

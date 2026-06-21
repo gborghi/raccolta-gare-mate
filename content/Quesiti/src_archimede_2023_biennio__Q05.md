@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_biennio__Q05
 parent: src_archimede_2023_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio — Quesito 5
 
 *Valore di a4-a1 in progressione aritmetica*
 

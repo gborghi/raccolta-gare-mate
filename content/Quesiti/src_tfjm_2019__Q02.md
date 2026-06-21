@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_tfjm_2019__Q02
 parent: src_tfjm_2019
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 2
 
 *Three friends sharing two bicycles to minimize the time for all to reach the end of a path*
 

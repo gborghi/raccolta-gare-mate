@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f1__Q21
 parent: src_obm_2004_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 21
 
 *Smallest and largest possible class average given means of the 10 worst (3) and 10 best (9) of 30 grades.*
 

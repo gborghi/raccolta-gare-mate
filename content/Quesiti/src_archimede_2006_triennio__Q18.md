@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_triennio__Q18
 parent: src_archimede_2006_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Triennio — Quesito 18
 
 *Ordinare ISOLA senza due consonanti consecutive*
 

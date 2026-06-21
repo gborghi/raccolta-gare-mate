@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q10
 parent: src_kangourou_2021_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 10
 
 *Massimo di cinque consecutivi con somma 2020*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q11
 parent: src_febbraio_2005
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 11
 
 *Interi compresi tra 1 e 2005 con numero pari di divisori*
 

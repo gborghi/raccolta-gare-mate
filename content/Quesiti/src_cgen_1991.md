@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1991 — Matematica
 tipo: gara
 src_id: src_cgen_1991
 competition: Concours Général des Lycées 1991 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/1991
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1991 — Matematica
 
 Sorgente: apri PDF
 

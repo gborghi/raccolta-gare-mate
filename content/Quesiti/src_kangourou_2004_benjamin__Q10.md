@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin (18 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin__Q10
 parent: src_kangourou_2004_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin (18 marzo) — Quesito 10
 
 *Volume scatola da cartoncino 6x6*
 

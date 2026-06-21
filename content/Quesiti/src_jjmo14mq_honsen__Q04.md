@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo14mq_honsen__Q04
 parent: src_jjmo14mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 4
 
 *Circumcenter, orthocenter, parallel to BC, equal angles*
 

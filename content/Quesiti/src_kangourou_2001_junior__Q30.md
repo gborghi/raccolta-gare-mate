@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Junior (15 marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_junior__Q30
 parent: src_kangourou_2001_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2001 - Junior (15 marzo) — Quesito 30
 
 *Scomposizioni di 30 in tre interi positivi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q16
 parent: src_kangourou_2018_junior_semif
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 16
 
 *Numeri tra 1 e 9999 con somma prime due cifre = altre due*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q21
 parent: src_kangourou_2021_student_gara
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 21
 
 *Numero di soluzioni di f(f(x))=0 da un grafico*
 

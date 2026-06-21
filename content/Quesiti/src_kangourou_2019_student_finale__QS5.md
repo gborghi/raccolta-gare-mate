@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Student — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_finale__QS5
 parent: src_kangourou_2019_student_finale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Student — Quesito S5
 
 *Localizzazione del circocentro di AEF (triangolo acutangolo)*
 

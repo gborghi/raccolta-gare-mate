@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2008 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2008__Q06
 parent: src_inmo_2008
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2008 — Quesito 6
 
 *Integer polynomial P(x) admits multiples that are polynomials in x^2 and x^3*
 

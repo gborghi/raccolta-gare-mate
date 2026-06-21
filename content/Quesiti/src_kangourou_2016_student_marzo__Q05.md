@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q05
 parent: src_kangourou_2016_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 5
 
 *Logo riflesso scambiando coordinate x e y*
 

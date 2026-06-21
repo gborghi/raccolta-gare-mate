@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q24
 parent: src_kangourou_2023_student
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 24
 
 *Su quale triangolo il tetraedro riposa la faccia colorata*
 

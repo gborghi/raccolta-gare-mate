@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round2__Q03
 parent: src_bmo_1980-81_round2
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 2 — Quesito 3
 
 *Solve symmetric simultaneous equations x^2y^2+x^2z^2=axyz etc.*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q06
 parent: src_archimede_2009_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 6
 
 *Cosa si deduce su N data variazione di probabilità*
 

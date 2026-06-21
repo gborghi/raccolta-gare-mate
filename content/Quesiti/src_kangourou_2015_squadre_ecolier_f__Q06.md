@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q06
 parent: src_kangourou_2015_squadre_ecolier_f
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 6
 
 *Rettangoli senza quadrato nero nella griglia 6x5*
 

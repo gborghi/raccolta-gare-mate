@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Benjamin 2024 — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB4
 parent: src_kangourou_2024_benjamin_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Finale Benjamin 2024 — Quesito B4
 
 *Sono di piu le frazioni riducibili o le irriducibili (1..6)*
 

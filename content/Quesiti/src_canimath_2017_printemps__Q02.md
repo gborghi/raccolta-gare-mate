@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2017 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_printemps__Q02
 parent: src_canimath_2017_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2017 — Quesito 2
 
 *Sum of 5-digit number and its digit-reversal has an even digit*
 

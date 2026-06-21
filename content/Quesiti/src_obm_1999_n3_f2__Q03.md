@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n3_f2__Q03
 parent: src_obm_1999_n3_f2
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 3
 
 *Largest n for rearrangement of (3,6,9,12) making an expression an integer*
 

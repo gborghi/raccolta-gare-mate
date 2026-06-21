@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (finale nazionale) — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet_finale__QC6
 parent: src_kangourou_2006_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (finale nazionale) — Quesito C6
 
 *Numeri con cifre consecutive e numero dispari di divisori*
 

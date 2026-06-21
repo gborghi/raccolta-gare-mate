@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo28mq_honsen__Q02
 parent: src_jmo28mq_honsen
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 2
 
 *lines BX and CY meet on circumcircle of ADE*
 

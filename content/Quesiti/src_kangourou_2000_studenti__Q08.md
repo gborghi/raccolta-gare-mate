@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q08
 parent: src_kangourou_2000_studenti
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 8
 
 *Lunghezza fettuccia attorno alla scatola*
 

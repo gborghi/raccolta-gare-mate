@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2022 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_printemps__Q09
 parent: src_canimath_2022_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2022 — Quesito 9
 
 *Isosceles triangle, symmetric point and altitude foot, find the three angles (lycee)*
 

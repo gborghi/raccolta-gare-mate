@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f1__Q05
 parent: src_obm_2006_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 5
 
 *Isosceles triangle with angle BAD=30 degrees, find angle x*
 

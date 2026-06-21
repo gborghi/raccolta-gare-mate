@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Ecolier — Gara 16 marzo
 tipo: gara
 src_id: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Kangourou 2023 Ecolier — Gara 16 marzo
 
 Sorgente: `Kangaroo/kangourou_individuali/2023/Ecolier2023REL.pdf` · apri PDF
 

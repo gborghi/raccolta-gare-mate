@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Cadet (Mirabilandia) — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet_finale__QC1
 parent: src_kangourou_2012_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Cadet (Mirabilandia) — Quesito C1
 
 *Quante biglie marroni tra le 20 di Elena*
 

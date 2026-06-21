@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Semifinale A
 tipo: gara
 src_id: src_kangourou_2016_squadre_a
 competition: Kangourou Coppa Squadre 2016 Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Semifinale A
 
 Sorgente: `Kangaroo/kangourou_squadre/2016/SQ-A-16.pdf` · apri PDF
 

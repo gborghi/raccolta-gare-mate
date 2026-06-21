@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q05
 parent: src_archimede_2009_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 5
 
 *Rapporto aree triangolo equilatero ed esagono inscritti*
 

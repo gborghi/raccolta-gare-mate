@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Benjamin 2024 — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB5
 parent: src_kangourou_2024_benjamin_finale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Finale Benjamin 2024 — Quesito B5
 
 *Minima distanza antenna dall'abitazione piu lontana (triangolo)*
 

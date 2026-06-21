@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q30
 parent: src_kangourou_2009_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 30
 
 *Differenza BC-AB (bisettrice lunga 2)*
 

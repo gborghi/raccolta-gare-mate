@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2019 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_printemps__Q01
 parent: src_canimath_2019_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2019 — Quesito 1
 
 *Floor times fractional part equals 2019x; find all x*
 

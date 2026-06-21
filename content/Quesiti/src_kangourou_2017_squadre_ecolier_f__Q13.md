@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q13
 parent: src_kangourou_2017_squadre_ecolier_f
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 13
 
 *Quanti cubi bianchi lungo gli spigoli del cubo grande*
 

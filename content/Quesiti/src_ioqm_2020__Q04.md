@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q04
 parent: src_ioqm_2020
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 4
 
 *Rectangle ABCD, AB+BC+CD=20, AE=9, E midpoint of BC; find area*
 

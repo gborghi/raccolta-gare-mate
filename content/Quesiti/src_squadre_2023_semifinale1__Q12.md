@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale1__Q12
 parent: src_squadre_2023_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 1 — Quesito 12
 
 *Paradosso di Simpson, minimo rapporto under 50 a MathVillain*
 

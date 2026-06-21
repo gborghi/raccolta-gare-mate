@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1992-93 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1992-93_round2__Q04
 parent: src_bmo_1992-93_round2
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1992-93 — Round 2 — Quesito 4
 
 *Average of sum of absolute consecutive digit differences over Z(m,n)*
 

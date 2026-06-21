@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f2__Q09
 parent: src_obm_2010_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 9
 
 *Triangle ABC with angle bisectors meeting at I; AI=BC and angle ICA=2·angle IAC; find angle ABC*
 

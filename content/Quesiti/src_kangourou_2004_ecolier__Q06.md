@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q06
 parent: src_kangourou_2004_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 6
 
 *Quale sviluppo del cubo (facce opposte colore)*
 

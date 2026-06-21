@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1981-82 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1981-82_round2__Q02
 parent: src_bmo_1981-82_round2
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1981-82 — Round 2 — Quesito 2
 
 *Sequence of primes; prove 5 never appears*
 

@@ -1,11 +1,10 @@
 ---
+title: Principio dei cassetti
 tipo: method
 concept_id: method_cassetti
 tags:
   - graph/method
 ---
-
-# Principio dei cassetti
 
 *method* — **100** quesiti (italiani).
 

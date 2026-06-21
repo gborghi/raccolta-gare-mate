@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q01
 parent: src_kangourou_2012_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 1
 
 *Di quanto la somma dei pari supera quella dei dispari*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo12mq_honsen__Q03
 parent: src_jmo12mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 3
 
 *2002 distinct naturals with equal n plus digit sum*
 

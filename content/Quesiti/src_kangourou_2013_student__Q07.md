@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q07
 parent: src_kangourou_2013_student
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 7
 
 *Quante affermazioni vere su x con 2<x<3*
 

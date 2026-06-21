@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet__Q29
 parent: src_kangourou_2004_cadet
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo) — Quesito 29
 
 *Quanti numeri di 4 cifre divisibili 12 con somma 6*
 

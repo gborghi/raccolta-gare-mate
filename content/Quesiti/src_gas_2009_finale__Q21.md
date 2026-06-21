@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q21
 parent: src_gas_2009_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 21
 
 *Carta inutilizzata minima per sviluppo cubo da rettangolo*
 

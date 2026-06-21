@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q07
 parent: src_archimede_2015_febb_2livello
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2015 - 2 livello — Quesito 7
 
 *Quaterne con a^2-c^2=b^2-d^2=ab+bc+cd+da=1024*
 

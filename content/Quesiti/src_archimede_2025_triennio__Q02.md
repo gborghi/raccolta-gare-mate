@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q02
 parent: src_archimede_2025_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 2
 
 *Coordinate della formica dopo 2025 giorni di passi a spirale*
 

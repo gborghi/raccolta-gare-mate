@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo22yq_yosen__Q05
 parent: src_jmo22yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 5
 
 *Positive integers whose product of all divisors equals 2^{240}*
 

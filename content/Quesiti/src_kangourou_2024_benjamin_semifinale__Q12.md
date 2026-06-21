@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q12
 parent: src_kangourou_2024_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 12
 
 *Numero di facce di un 2024-antiprisma*
 

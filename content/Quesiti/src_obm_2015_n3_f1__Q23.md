@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f1__Q23
 parent: src_obm_2015_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 23
 
 *Smallest side of triangle formed by tangents through bisector–circumcircle intersections*
 

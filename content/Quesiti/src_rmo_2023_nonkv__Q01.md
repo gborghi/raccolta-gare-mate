@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_nonkv__Q01
 parent: src_rmo_2023_nonkv
@@ -35,8 +36,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — Non-KV — Quesito 1
 
 *Find largest positive integer m so that abcd divides all (a,b,c,d) in S*
 

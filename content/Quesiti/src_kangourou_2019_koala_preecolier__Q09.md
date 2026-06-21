@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q09
 parent: src_kangourou_2019_koala_preecolier
@@ -23,8 +24,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 9
 
 *Quali due porte chiudere per fermare il topo*
 

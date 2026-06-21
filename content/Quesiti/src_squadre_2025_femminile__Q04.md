@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q04
 parent: src_squadre_2025_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 4
 
 *Griglie 5x5 invarianti per rotazioni di 90 gradi*
 

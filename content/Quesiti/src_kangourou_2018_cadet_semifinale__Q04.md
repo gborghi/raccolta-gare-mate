@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q04
 parent: src_kangourou_2018_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 4
 
 *Frazione rimasta bianca nella figura di triangoli*
 

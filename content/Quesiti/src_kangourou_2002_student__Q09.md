@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q09
 parent: src_kangourou_2002_student
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 9
 
 *Lunghezza parallelo a 60 gradi latitudine*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2011 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2011__Q06
 parent: src_inmo_2011
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2011 — Quesito 6
 
 *Find all f:R→R satisfying a given functional equation*
 

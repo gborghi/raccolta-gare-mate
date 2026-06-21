@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q12
 parent: src_cesenatico_2012_semifinale_c
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 12
 
 *Probabilita Sole e Luna perdano con uno illeso*
 

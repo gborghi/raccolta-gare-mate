@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q21
 parent: src_obm_2009_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 21
 
 *Two circles drawn on grid of 2cm squares; find minimum distance between them*
 

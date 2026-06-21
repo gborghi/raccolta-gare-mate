@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q19
 parent: src_archimede_2003_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 19
 
 *Distanza finale di Giovanni dopo 186 passi a schema*
 

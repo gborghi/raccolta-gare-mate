@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006
 tipo: gara
 src_id: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006
 
 Sorgente: apri PDF
 

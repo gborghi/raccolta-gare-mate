@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ5
 parent: src_kangourou_2023_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J5
 
 *due valori di n*
 

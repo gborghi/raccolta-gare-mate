@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q03
 parent: src_squadre_2026_semifinale_cd
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 3
 
 *Somma a segni alterni di a/11-(a/11)^2*
 

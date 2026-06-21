@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round2__Q05
 parent: src_bmo_1980-81_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 2 — Quesito 5
 
 *Sequence u_0=2, u_1=5 with u_{n+1}u_{n-1}-u_n^2=6^{n-1}; prove u_n integer*
 

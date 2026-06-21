@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_b__Q09
 parent: src_cesenatico_2012_semifinale_b
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 9
 
 *Velocita aliena (sorpassi e incroci su pista)*
 

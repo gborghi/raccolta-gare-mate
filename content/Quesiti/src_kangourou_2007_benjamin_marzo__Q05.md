@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin (marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q05
 parent: src_kangourou_2007_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin (marzo) — Quesito 5
 
 *Quale affermazione vera su P1 e P2 (parallelogramma)*
 

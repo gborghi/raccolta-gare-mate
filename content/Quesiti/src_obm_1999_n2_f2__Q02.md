@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n2_f2__Q02
 parent: src_obm_1999_n2_f2
@@ -39,8 +40,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 2
 
 *Three integers on a board; each move erases two and writes their sum minus one; can starting from 2,2,2 or 3,3,3 yield 17,75,91?*
 

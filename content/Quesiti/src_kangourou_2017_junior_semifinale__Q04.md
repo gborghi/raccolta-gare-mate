@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Semifinale individuale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q04
 parent: src_kangourou_2017_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Semifinale individuale — Quesito 4
 
 *Confronto tempi e velocita di due treni*
 

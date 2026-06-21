@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q01
 parent: src_kangourou_2024_student
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 1
 
 *-2 da multiplo di 10, +2 da quadrato, doppio di un primo*
 

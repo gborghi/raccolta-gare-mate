@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q03
 parent: src_obm_2016_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 3
 
 *Side of a square equal in area to a rectangle of integer dimensions with perimeter 58 and square product*
 

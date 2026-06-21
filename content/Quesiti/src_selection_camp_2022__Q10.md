@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2022__Q10
 parent: src_selection_camp_2022
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2022 — Selection Camp — Quesito 10
 
 *Find all n such that divisors can be arranged with all partial sums perfect squares*
 

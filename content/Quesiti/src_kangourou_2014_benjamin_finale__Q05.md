@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Benjamin — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin_finale__Q05
 parent: src_kangourou_2014_benjamin_finale
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Benjamin — Quesito 5
 
 *Annerire 16 quadrati 8x8 con copertura adiacente*
 

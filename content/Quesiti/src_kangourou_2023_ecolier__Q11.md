@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier__Q11
 parent: src_kangourou_2023_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 11
 
 *quale*
 

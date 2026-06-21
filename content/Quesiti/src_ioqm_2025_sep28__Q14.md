@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q14
 parent: src_ioqm_2025_sep28
@@ -30,8 +31,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 14
 
 *Square ABCD side 1 as chord of circle; tangent from C has length 2; find d²*
 

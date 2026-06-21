@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2003 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2003__Q02
 parent: src_inmo_2003
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2003 — Quesito 2
 
 *Find all primes p,q and even n>2 satisfying a sum equation*
 

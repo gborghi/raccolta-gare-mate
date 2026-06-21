@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2002_nu_f2__Q03
 parent: src_obm_2002_nu_f2
@@ -38,8 +41,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 — Quesito 3
 
 *Sets with large size and small pairwise intersections; lower bound on union size*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2012 - Gara a squadre
 tipo: gara
 src_id: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/squadre
 ---
-
-# Coppa Galileo 2012 - Gara a squadre
 
 Sorgente: `Archimede/squadre/locale/soluzioni/GS_2012_soluzioni.pdf` · apri PDF
 

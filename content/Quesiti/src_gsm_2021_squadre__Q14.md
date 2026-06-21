@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q14
 parent: src_gsm_2021_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 14
 
 *Altezza massima parallelepipedo su piano inclinato 30 gradi*
 

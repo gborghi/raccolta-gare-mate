@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q05
 parent: src_jjmo4q
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 5
 
 *Maximum coins on 8×8 grid: at most one face-up per row, at most one face-down per column*
 

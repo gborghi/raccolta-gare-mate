@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gs_2010_squadre__Q16
 parent: src_gs_2010_squadre
@@ -23,8 +24,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre — Quesito 16
 
 *Estrazioni perche probabilita superi 1/2*
 

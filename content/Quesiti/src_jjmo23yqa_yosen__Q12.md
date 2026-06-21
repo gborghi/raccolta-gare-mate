@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo23yqa_yosen__Q12
 parent: src_jjmo23yqa_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 12
 
 *Count favorable tournament outcomes for 1003 players at round table, find ratio mod fraction*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f1__Q23
 parent: src_obm_2011_n3_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 23
 
 *Smallest a with a<=b<=c positive integers and 1/a+1/b+1/c = 1/2011*
 

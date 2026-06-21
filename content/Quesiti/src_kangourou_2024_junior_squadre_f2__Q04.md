@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q04
 parent: src_kangourou_2024_junior_squadre_f2
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 2 — Quesito 4
 
 *Somma primi elementi coppie (a,b) radici intere*
 

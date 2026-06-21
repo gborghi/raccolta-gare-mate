@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q16
 parent: src_kangourou_2024_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 16
 
 *Metri percorsi dal canguro in 2024 salti (salita/discesa)*
 

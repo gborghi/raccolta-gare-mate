@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q09
 parent: src_cesenatico_2001_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 9
 
 *Massimo numero di mucchi di pietre con unione e divisione*
 

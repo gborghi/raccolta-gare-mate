@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2015 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_classiprime__Q06
 parent: src_archimede_2015_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2015 — Quesito 6
 
 *Altezza del primo recipiente dopo travaso (volumi prismi)*
 

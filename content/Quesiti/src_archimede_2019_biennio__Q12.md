@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_biennio__Q12
 parent: src_archimede_2019_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1) — Quesito 12
 
 *Valore di x+y da somma di due quadrati nulla*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student finale nazionale — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student_finale__QS1
 parent: src_kangourou_2003_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 Student finale nazionale — Quesito S1
 
 *Possibile 53 persone con 11 strette ciascuna*
 

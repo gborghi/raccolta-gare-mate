@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q28
 parent: src_kangourou_2022_cadet_gara
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 28
 
 *Punti iniziali sulla retta dopo inserimenti ripetuti*
 

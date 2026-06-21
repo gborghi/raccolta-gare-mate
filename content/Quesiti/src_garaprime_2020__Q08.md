@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_garaprime_2020__Q08
 parent: src_garaprime_2020
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020 — Quesito 8
 
 *Minimo numero di calzini per 4 paia uguali*
 

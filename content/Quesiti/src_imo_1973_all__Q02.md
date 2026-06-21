@@ -1,4 +1,5 @@
 ---
+title: IMO 1973 (Fifteenth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1973_all__Q02
 parent: src_imo_1973_all
@@ -21,8 +22,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1973 (Fifteenth International Olympiad) — Quesito 2
 
 *Finite non-coplanar set with parallel-pairs property exists?*
 

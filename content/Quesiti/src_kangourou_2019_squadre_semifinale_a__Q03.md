@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q03
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 3
 
 *Massimo n con n^2+100 divisibile per n-5*
 

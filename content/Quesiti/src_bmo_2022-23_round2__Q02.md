@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2022-23 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2022-23_round2__Q02
 parent: src_bmo_2022-23_round2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2022-23 — Round 2 — Quesito 2
 
 *Blackboard permutation by moves; find all valid n*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q05
 parent: src_garaprime_2018
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 5
 
 *Ordinare radice di 8, radice cubica di 26 e 2,9*
 

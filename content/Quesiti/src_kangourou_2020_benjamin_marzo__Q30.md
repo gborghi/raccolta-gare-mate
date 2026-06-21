@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q30
 parent: src_kangourou_2020_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 30
 
 *In quale direzione muoversi per visitare ogni isola una volta*
 

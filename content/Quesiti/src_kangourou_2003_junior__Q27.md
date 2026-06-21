@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior (20 marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior__Q27
 parent: src_kangourou_2003_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior (20 marzo) — Quesito 27
 
 *Quale conclusione sui libri puo essere falsa*
 

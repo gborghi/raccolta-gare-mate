@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q03
 parent: src_canimath_2012_automne
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 3
 
 *Find width of a diagonal ribbon on a rectangular box*
 

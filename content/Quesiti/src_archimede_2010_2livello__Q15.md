@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q15
 parent: src_archimede_2010_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 15
 
 *Terne (p,q,n) primi con p^2+q^2 = pqn+1*
 

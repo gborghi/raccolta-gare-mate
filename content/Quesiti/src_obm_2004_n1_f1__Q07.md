@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f1__Q07
 parent: src_obm_2004_n1_f1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 7
 
 *Minimum marbles so every student gets same number*
 

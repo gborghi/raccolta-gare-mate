@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f1__Q14
 parent: src_obm_2012_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 14
 
 *Maximise fraction M×A×T×E×M / (A×T×E×C×A) with distinct digit letters*
 

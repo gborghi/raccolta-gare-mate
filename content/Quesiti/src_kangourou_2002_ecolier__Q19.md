@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_ecolier__Q19
 parent: src_kangourou_2002_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Ecolier (21 marzo) — Quesito 19
 
 *Chi non puo ottenere 20*
 

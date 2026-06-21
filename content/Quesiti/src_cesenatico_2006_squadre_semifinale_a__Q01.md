@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q01
 parent: src_cesenatico_2006_squadre_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 1
 
 *2006-esimo intero che non e ne quadrato ne cubo*
 

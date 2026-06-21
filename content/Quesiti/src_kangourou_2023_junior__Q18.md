@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q18
 parent: src_kangourou_2023_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 18
 
 *area ombreggiata*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_ioqm_2021__Q01
 parent: src_ioqm_2021
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 1
 
 *Square with vertices on three parallel lines distance 3 apart; find area*
 

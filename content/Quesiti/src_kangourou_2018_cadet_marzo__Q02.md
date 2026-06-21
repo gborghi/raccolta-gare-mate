@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q02
 parent: src_kangourou_2018_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo — Quesito 2
 
 *Quale parola ha la stessa simmetria di MAMMA*
 

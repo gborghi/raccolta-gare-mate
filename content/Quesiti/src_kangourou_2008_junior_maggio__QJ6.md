@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_maggio__QJ6
 parent: src_kangourou_2008_junior_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J6
 
 *Esiste retta che interseca tutti i poligoni*
 

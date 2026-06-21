@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q22
 parent: src_cesenatico_2007_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 22
 
 *Calcolo somma coefficienti a_(3k+1) di ((x^4+x^2+1)/3)^2007*
 

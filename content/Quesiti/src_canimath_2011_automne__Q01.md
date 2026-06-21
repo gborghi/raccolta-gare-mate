@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2011 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_automne__Q01
 parent: src_canimath_2011_automne
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2011 — Quesito 1
 
 *Isosceles triangle, point on minor arc, circumcircle of BDE gives parallel lines*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q12
 parent: src_jjmo4q
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 12
 
 *Fill m×n grid with integers: nonzero in ≥1 cell per row-neighborhood, t(S)=0 for each cell*
 

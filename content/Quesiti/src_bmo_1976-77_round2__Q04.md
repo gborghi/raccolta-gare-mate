@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round2__Q04
 parent: src_bmo_1976-77_round2
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 2 — Quesito 4
 
 *Construct necklace of 2n beads in 2n colours covering all colour pairs*
 

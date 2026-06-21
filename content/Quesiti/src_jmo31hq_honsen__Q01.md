@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo31hq_honsen__Q01
 parent: src_jmo31hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 1
 
 *Find all functions f making two divisibility/value conditions equivalent*
 

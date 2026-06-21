@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q04
 parent: src_kangourou_2011_junior
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 4
 
 *Relazione vera tra X Y Z*
 

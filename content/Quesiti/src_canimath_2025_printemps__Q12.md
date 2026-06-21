@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2025 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_printemps__Q12
 parent: src_canimath_2025_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2025 — Quesito 12
 
 *Find all n>=2 for which two cyclic-sum sets each cover n consecutive integers*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q01
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 1
 
 *Massima minima differenza tra minions consecutivi in fila*
 

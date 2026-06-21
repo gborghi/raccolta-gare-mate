@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2014-15 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2014-15_round1__Q02
 parent: src_bmo_2014-15_round1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2014-15 — Round 1 — Quesito 2
 
 *Pythagorean triple with prime; prove divisibility and perfect square*
 

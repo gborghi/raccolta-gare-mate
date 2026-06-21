@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q19
 parent: src_kangourou_2003_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 19
 
 *Minimo numero sui 6 cartoncini con somme date*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1990 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_1990__Q04
 parent: src_rmo_1990
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1990 — Quesito 4
 
 *Find remainder when 2^1990 is divided by 1990*
 

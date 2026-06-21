@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2003_cadet_finale
 competition: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2003
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Cadet (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2003/CMaggio-03.pdf` · apri PDF
 

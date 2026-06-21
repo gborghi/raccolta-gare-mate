@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin (18 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin__Q18
 parent: src_kangourou_2004_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin (18 marzo) — Quesito 18
 
 *Lunghezza traccia della lumaca Tin*
 

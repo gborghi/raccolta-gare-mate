@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - finale settembre
 tipo: gara
 src_id: src_kangourou_2020_student_settembre
 competition: Kangourou 2020 Student - finale settembre
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - finale settembre
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/S-settembre20.pdf` · apri PDF
 

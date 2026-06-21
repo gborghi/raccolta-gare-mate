@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q10
 parent: src_kangourou_2023_kangourou_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 10
 
 *Somma min e max dell'espressione AB0/(A+B)*
 

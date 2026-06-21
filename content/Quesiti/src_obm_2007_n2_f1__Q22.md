@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f1__Q22
 parent: src_obm_2007_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 22
 
 *GCD of the palindromic numbers 1221, 2332, 3443, ..., 8998*
 

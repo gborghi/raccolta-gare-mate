@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2003 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2003__Q04
 parent: src_inmo_2003
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2003 — Quesito 4
 
 *Find all 7-digit numbers using digits 5 and 7, divisible by both 5 and 7*
 

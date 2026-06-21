@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1983-84 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1983-84_round2__Q04
 parent: src_bmo_1983-84_round2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1983-84 — Round 2 — Quesito 4
 
 *Prove recurrence b_{n+1} = 2c_n for full binary-power representations*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (gara marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q11
 parent: src_kangourou_2016_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (gara marzo) — Quesito 11
 
 *Nuova somma sostituendo 201 con 102*
 

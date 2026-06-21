@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_2livello__Q12
 parent: src_archimede_2021_2livello
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2021 - 2° livello — Quesito 12
 
 *Sestuple con somma di cubi 168, resto modulo 6*
 

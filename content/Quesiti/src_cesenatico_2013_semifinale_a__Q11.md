@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q11
 parent: src_cesenatico_2013_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 11
 
 *Riassegnare nomi poligoni 3-9 senza punti fissi*
 

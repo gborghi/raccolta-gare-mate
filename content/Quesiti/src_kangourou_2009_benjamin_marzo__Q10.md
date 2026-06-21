@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q10
 parent: src_kangourou_2009_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 10
 
 *Resto della divisione per 8 di 30!+17*
 

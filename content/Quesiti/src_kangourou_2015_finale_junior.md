@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Junior
 tipo: gara
 src_id: src_kangourou_2015_finale_junior
 competition: Kangourou 2015 finale nazionale Junior
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Junior
 
 Sorgente: `Kangaroo/kangourou_individuali/2015/JMaggio-15.pdf` · apri PDF
 

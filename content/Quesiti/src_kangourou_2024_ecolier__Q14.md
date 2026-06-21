@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q14
 parent: src_kangourou_2024_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 14
 
 *In quanti modi costruire il bruco (testa, coda, pezzi)*
 

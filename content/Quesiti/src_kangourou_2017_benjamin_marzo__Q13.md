@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q13
 parent: src_kangourou_2017_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 13
 
 *Larghezza poltrona dati divani da 2 e 3 posti*
 

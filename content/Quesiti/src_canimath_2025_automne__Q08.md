@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q08
 parent: src_canimath_2025_automne
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 8
 
 *Evaluate a nested product of radicals*
 

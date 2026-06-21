@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1999 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1999__Q06
 parent: src_rmo_1999
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1999 — Quesito 6
 
 *Find all integer solutions of $(m-n)^2 = \frac{4mn}{m+n-1}$*
 

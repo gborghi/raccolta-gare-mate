@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q07
 parent: src_kangourou_2019_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 7
 
 *Probabilita contenuto sacchetti uguale all'iniziale*
 

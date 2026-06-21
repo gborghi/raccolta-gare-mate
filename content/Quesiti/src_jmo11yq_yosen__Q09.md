@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo11yq_yosen__Q09
 parent: src_jmo11yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 9
 
 *Find angle BAC given AB=CD and angle bisector*
 

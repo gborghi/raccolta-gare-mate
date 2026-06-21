@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2016__Q11
 parent: src_selection_camp_2016
@@ -33,8 +34,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2016 — Selection Camp — Quesito 11
 
 *Sequences defined by gcd and lcm recurrence eventually become periodic*
 

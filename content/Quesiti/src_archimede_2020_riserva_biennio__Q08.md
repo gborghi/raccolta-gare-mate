@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q08
 parent: src_archimede_2020_riserva_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 8
 
 *Regioni illimitate prolungando i 18 lati di un poligono*
 

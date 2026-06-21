@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f3__Q04
 parent: src_obm_2017_n1_f3
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 4
 
 *Rectangle split into a square plus four equal smaller rectangles that reassemble into a new square*
 

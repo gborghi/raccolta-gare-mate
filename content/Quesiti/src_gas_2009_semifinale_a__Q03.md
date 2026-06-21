@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q03
 parent: src_gas_2009_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 3
 
 *Coincidenza di cicli veglia-sonno, settimane e affitto*
 

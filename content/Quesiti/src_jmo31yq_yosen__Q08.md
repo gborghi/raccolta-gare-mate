@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo31yq_yosen__Q08
 parent: src_jmo31yq_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 8
 
 *Count 17-tuples with two power towers both 1 mod 17*
 

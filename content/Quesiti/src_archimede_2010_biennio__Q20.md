@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q20
 parent: src_archimede_2010_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 20
 
 *Lato quadrato equiscomposto da triangolo equilatero*
 

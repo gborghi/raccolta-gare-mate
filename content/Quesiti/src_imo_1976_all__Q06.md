@@ -1,4 +1,5 @@
 ---
+title: IMO 1976 (Eighteenth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1976_all__Q06
 parent: src_imo_1976_all
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1976 (Eighteenth International Olympiad) — Quesito 6
 
 *Prove closed form for floor of recurrence sequence u_n*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo32hq_honsen__Q02
 parent: src_jmo32hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 2
 
 *Find all strictly increasing f with f^100(m)+mn=f(m)f(n)*
 

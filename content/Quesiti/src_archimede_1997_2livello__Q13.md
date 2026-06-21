@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q13
 parent: src_archimede_1997_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 13
 
 *Probabilità che il gioco con gettoni non si interrompa*
 

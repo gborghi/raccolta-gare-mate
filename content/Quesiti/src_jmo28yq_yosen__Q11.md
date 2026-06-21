@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo28yq_yosen__Q11
 parent: src_jmo28yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 11
 
 *Count integers equal to sum of base-7 single-digit-deletions*
 

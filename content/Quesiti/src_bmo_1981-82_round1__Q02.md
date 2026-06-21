@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1981-82 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1981-82_round1__Q02
 parent: src_bmo_1981-82_round1
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 1981-82 — Round 1 — Quesito 2
 
 *Multiple of 3 in base 2 with three 1s: digit counts in base 4*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f2__Q07
 parent: src_obm_2009_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 7
 
 *Figures built from right triangles with legs 6,8,10 by gluing equal sides; compare perimeters and maximize with three triangles*
 

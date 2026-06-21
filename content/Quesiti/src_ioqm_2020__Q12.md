@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q12
 parent: src_ioqm_2020
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 12
 
 *Concentric circles, chords touch inner circle, angle ABC=75 degrees; count chords before return*
 

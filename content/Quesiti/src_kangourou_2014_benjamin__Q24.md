@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q24
 parent: src_kangourou_2014_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 24
 
 *Lunghezza AD nel triangolo suddiviso in 4 aree uguali*
 

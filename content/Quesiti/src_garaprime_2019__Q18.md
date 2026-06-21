@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q18
 parent: src_garaprime_2019
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 18
 
 *Minimo triangolo che contiene 2019 punti dati i triangoli*
 

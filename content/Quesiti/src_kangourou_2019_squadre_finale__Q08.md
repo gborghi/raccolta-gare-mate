@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q08
 parent: src_kangourou_2019_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 8
 
 *Somma fattori primi di 12345*
 

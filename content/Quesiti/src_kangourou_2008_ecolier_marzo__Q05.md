@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q05
 parent: src_kangourou_2008_ecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 5
 
 *In quanti orari poteva iniziare la telefonata*
 

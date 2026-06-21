@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q12
 parent: src_kangourou_2019_squadre_finale
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 12
 
 *Minime diagonali per irrigidire reticolo 4x4*
 

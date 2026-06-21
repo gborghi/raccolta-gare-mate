@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f3__Q02
 parent: src_obm_2004_n1_f3
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3 — Quesito 2
 
 *Count distinct tricolor equilateral-triangle pieces (side 2) up to rotation*
 

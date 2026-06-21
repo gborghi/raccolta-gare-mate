@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo14yq_yosen__Q09
 parent: src_jmo14yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 9
 
 *7 politicians, factions with coexistence condition; find maximum faction size.*
 

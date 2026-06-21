@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n3_fx__Q06
 parent: src_obm_2025_n3_fx
@@ -39,8 +40,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 6
 
 *Convex quadrilateral ABCD with angle condition; partition family of tangent lines into 8 concurrent/parallel sets*
 

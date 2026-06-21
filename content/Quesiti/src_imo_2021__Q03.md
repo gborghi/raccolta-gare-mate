@@ -1,4 +1,5 @@
 ---
+title: IMO 2021 papers — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2021__Q03
 parent: src_imo_2021
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2021 papers — Quesito 3
 
 *BC, EF, O1O2 concorrenti (punto interno D)*
 

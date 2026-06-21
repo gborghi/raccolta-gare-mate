@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q11
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 11
 
 *Tea cups: ways to select 2 without handle and 3 with handle equals 1200, max total cups*
 

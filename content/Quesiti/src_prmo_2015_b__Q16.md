@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q16
 parent: src_prmo_2015_b
@@ -30,8 +31,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 16
 
 *Acute triangle midpoints D,E,F; angle conditions; find angle ADF*
 

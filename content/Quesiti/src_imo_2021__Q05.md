@@ -1,4 +1,5 @@
 ---
+title: IMO 2021 papers — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2021__Q05
 parent: src_imo_2021
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2021 papers — Quesito 5
 
 *Scoiattoli e noci, esiste k con a<k<b*
 

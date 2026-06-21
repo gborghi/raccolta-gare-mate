@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_finale__QJ1
 parent: src_kangourou_2017_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J1
 
 *Conviene scegliere somma 9 o 10 ai dadi*
 

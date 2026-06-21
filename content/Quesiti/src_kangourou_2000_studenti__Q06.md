@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q06
 parent: src_kangourou_2000_studenti
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 6
 
 *Lunghezze diverse tagliando striscia in 3 e 4*
 

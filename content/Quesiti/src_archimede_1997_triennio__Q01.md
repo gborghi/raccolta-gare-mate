@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q01
 parent: src_archimede_1997_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 1
 
 *Perimetro di una figura composta da rettangoli uguali*
 

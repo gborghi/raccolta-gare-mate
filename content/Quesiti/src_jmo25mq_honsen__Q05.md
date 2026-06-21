@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo25mq_honsen__Q05
 parent: src_jmo25mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 5
 
 *Max number of a×a sub-grids with exactly a black cells among n chosen*
 

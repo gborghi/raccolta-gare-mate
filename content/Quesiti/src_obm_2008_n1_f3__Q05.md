@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f3__Q05
 parent: src_obm_2008_n1_f3
@@ -39,8 +40,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 5
 
 *'Garbosy' numbers: positive multiples whose first four decimal digits are 2008; show 17 is garbosy and all positives are*
 

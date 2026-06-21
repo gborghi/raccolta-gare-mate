@@ -1,4 +1,5 @@
 ---
+title: IMO 1961 (III International Olympiad)
 tipo: gara
 src_id: src_imho_1961
 competition: IMO 1961 (III International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1961
   - gara/individuale
 ---
-
-# IMO 1961 (III International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1961_eng.pdf` · apri PDF
 

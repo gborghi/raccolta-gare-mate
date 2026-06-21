@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q01
 parent: src_kangourou_2016_squadre_ecolier_f
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 1
 
 *Numero uguale al triplo del proprio doppio*
 

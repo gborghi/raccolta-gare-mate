@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2013-14 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2013-14_round1__Q04
 parent: src_bmo_2013-14_round1
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2013-14 — Round 1 — Quesito 4
 
 *Count 5-day holiday plans with activity constraints*
 

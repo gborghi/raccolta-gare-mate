@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q29
 parent: src_kangourou_2012_student
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 29
 
 *Valore |a-b| con ab uguale somma dei 24 restanti*
 

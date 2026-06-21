@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1989-90 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1989-90_round1__Q05
 parent: src_bmo_1989-90_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1989-90 — Round 1 — Quesito 5
 
 *Diagonals of convex quadrilateral meet at O; prove PQ perpendicular to RS*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Junior finale nazionale (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2009_junior_maggio
 competition: Kangourou 2009 - Junior finale nazionale (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/individuale
 ---
-
-# Kangourou 2009 - Junior finale nazionale (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2009/JMaggio-09.pdf` · apri PDF
 

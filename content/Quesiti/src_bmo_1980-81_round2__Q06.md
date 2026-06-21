@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round2__Q06
 parent: src_bmo_1980-81_round2
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 2 — Quesito 6
 
 *If c is rational prove x^3-3cx^2-3x+c=0 has at most one rational root*
 

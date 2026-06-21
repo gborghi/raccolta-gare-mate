@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q01
 parent: src_canimath_2021_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 1
 
 *Compute a factorial-based fraction*
 

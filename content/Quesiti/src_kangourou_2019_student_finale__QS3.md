@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Student — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_finale__QS3
 parent: src_kangourou_2019_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Student — Quesito S3
 
 *Dopo quanti anni torna la luna piena stesso giorno (ciclo 28gg)*
 

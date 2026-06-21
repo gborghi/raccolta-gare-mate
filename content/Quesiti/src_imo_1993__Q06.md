@@ -1,4 +1,5 @@
 ---
+title: IMO 1993 (34th IMO) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1993__Q06
 parent: src_imo_1993
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1993 (34th IMO) — Quesito 6
 
 *return-to-all-on step counts*
 

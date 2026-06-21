@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q03
 parent: src_canimath_2024_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 3
 
 *Smallest n so product of n consecutive positives always divisible by 45*
 

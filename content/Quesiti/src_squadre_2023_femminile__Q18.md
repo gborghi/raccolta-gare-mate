@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_femminile__Q18
 parent: src_squadre_2023_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale — Quesito 18
 
 *Modi di riempire schema disuguaglianze 6 numeri 1-9*
 

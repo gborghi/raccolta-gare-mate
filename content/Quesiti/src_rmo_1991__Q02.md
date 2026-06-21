@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1991 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1991__Q02
 parent: src_rmo_1991
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1991 — Quesito 2
 
 *Inequality for four positive reals summing condition*
 

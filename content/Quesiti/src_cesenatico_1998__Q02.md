@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1998 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1998__Q02
 parent: src_cesenatico_1998
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1998 — Quesito 2
 
 *due facce con stesso numero di lati*
 

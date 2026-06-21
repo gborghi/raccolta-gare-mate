@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1990 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1990__Q02
 parent: src_rmo_1990
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1990 — Quesito 2
 
 *Inequality for positive reals: sum of fractions ge 3/2*
 

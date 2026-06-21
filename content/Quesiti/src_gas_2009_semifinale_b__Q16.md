@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q16
 parent: src_gas_2009_semifinale_b
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 16
 
 *Probabilita di fuga colpito esattamente una volta su 4 tiri*
 

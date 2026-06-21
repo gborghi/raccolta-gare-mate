@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo24mq_honsen__Q03
 parent: src_jmo24mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 3
 
 *Maximum sum of clique-cover and coloring numbers of a graph*
 

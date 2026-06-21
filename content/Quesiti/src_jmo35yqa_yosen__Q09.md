@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q09
 parent: src_jmo35yqa_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 9
 
 *Acute triangle, circumcenter O, foot D from A; angle AOD=90, OD=4sqrt7, AP=11; find EF*
 

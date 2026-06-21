@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q19
 parent: src_gsm_2022_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 19
 
 *Numero di terne pitagoriche primitive con area quadrato perfetto*
 

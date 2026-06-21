@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q08
 parent: src_kangourou_2008_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 8
 
 *Perimetro del pentagono triangolo+quadrato isoperimetrici*
 

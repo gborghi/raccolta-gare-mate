@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q14
 parent: src_archimede_2015_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2015 - 2 livello — Quesito 14
 
 *Pulce su 2015-agono, primo salto su vertice gia visitato*
 

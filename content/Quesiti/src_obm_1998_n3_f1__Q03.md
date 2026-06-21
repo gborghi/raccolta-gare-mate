@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q03
 parent: src_obm_1998_n3_f1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 3
 
 *Cross-reference to Problem 5 of Level 2 (statement not on these pages).*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo16yq_yosen__Q01
 parent: src_jmo16yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 1
 
 *Max value of n-m for 3-digit number with digit sum condition*
 

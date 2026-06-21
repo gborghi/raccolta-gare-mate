@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo17yq_yosen__Q01
 parent: src_jmo17yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 1
 
 *Area of convex quadrilateral with one right angle and given side lengths*
 

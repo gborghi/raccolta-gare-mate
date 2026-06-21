@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2014__Q02
 parent: src_cesenatico_2014
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 2
 
 *dimostrare angAPM=angPBA*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q03
 parent: src_archimede_2026_squadre_finale_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 3
 
 *Valori x che rendono espressione quadrato di binomio*
 

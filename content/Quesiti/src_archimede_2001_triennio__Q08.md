@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q08
 parent: src_archimede_2001_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 8
 
 *Probabilita somme parziali di lanci non divisibili per 7*
 

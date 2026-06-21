@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f1__Q20
 parent: src_obm_2011_n1_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 20
 
 *Minimum number of notes changing hands so three girls have equal amounts*
 

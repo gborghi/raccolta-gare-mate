@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q02
 parent: src_kangourou_2018_student_semif
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 2
 
 *Probabilita che il numero di Alice superi quello di Barbara*
 

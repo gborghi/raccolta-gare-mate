@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n3_f1__Q08
 parent: src_obm_2000_n3_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 8
 
 *Nim-style game removing 1-5 sticks from 1000, last takes wins*
 

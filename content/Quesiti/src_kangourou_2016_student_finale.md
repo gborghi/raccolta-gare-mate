@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (finale Cervia)
 tipo: gara
 src_id: src_kangourou_2016_student_finale
 competition: Kangourou 2016 Student (finale Cervia)
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (finale Cervia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2016/SMaggio-16.pdf` · apri PDF
 

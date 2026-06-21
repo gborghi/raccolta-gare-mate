@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1975-76 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1975-76_round1__Q02
 parent: src_bmo_1975-76_round1
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1975-76 — Round 1 — Quesito 2
 
 *Prove inequality sum of x/(y+z) >= 3/2 for positive reals*
 

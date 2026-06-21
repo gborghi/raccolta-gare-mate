@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n1_f1__Q19
 parent: src_obm_1998_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 19
 
 *Count ways to place an L-shaped piece on a grid to cover exactly 3 squares*
 

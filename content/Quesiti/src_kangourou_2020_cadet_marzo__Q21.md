@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q21
 parent: src_kangourou_2020_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 21
 
 *Colore del cubo al sesto posto (vincoli di colore)*
 

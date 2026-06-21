@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1992__Q06
 parent: src_inmo_1992
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992 — Quesito 6
 
 *Polynomial with integer coefficients taking value 2 at distinct integers; no integer b with f(b)=9*
 

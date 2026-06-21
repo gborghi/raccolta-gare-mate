@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_preecolier__Q19
 parent: src_kangourou_2013_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier — Quesito 19
 
 *Massimo pezzi ritagliabili dal foglio*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f1__Q21
 parent: src_obm_2010_n3_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 21
 
 *With n=2010^2010 and log n defined, order the three quantities n!, n^{log n}, (log n)^n.*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio__Q04
 parent: src_archimede_2025_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio — Quesito 4
 
 *Capacità recipiente da differenza tra 75% e 20%*
 

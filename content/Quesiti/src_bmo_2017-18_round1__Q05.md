@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2017-18_round1__Q05
 parent: src_bmo_2017-18_round1
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2017-18 — Round 1 — Quesito 5
 
 *Smallest k of coloured squares so no uncoloured 100-comb fits in 200x200 grid*
 

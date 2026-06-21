@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q26
 parent: src_kangourou_2022_benjamin_gara
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 26
 
 *Somma dei tre numeri nei vertici del triangolo ombreggiato*
 

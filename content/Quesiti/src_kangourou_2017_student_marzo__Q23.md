@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Gara 16 marzo — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q23
 parent: src_kangourou_2017_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Gara 16 marzo — Quesito 23
 
 *Valore di a_2017 in successione ricorsiva*
 

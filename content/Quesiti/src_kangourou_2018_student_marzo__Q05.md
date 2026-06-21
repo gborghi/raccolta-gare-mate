@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q05
 parent: src_kangourou_2018_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 5
 
 *Valore della frazione con termini in progressione*
 

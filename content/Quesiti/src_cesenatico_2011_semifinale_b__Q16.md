@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q16
 parent: src_cesenatico_2011_semifinale_b
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 16
 
 *Mattonelle triangolari per ricoprire piramide*
 

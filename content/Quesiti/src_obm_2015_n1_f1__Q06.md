@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f1__Q06
 parent: src_obm_2015_n1_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 6
 
 *Area of a square sheet cut into two squares and two rectangles*
 

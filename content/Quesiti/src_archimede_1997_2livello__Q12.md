@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q12
 parent: src_archimede_1997_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 12
 
 *Massimo intero con stesso numero di cifre in base 10 e 16*
 

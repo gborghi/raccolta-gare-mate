@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f3__Q04
 parent: src_obm_2006_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 4
 
 *Count 3-element subsets {a,b,c} of {1..100} with b arithmetic mean of a and c*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q13
 parent: src_kangourou_2004_student
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 13
 
 *Percentuale marziani con tentacoli sopra la media*
 

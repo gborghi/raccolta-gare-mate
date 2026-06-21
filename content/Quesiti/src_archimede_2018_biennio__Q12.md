@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q12
 parent: src_archimede_2018_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 12
 
 *Casella del numero 1500 nella griglia senza multipli di 11*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo12mq_honsen__Q03
 parent: src_jjmo12mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 3
 
 *In triangle with ∠BAC=60°, reflection of A over PQ lies on BC*
 

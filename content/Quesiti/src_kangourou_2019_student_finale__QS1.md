@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Student — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_finale__QS1
 parent: src_kangourou_2019_student_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Student — Quesito S1
 
 *Possono Bruno e Carlo avere giorno di riposo comune (programmi sportivi)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q12
 parent: src_kangourou_2024_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 12
 
 *Massimo c con 1<=a<=b<=c e ab+ac+bc=abc*
 

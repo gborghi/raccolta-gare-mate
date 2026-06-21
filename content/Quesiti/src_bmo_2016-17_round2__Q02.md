@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2016-17_round2__Q02
 parent: src_bmo_2016-17_round2
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 2 — Quesito 2
 
 *Prove the sequence a_n = sum_{i=1}^{n} floor(n/i) satisfies a_{n+1}>a_n and a_{n+1}=a_n both infinitely often*
 

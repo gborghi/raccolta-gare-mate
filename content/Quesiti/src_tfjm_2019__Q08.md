@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_tfjm_2019__Q08
 parent: src_tfjm_2019
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 8
 
 *Tiling a quartier of an infinite equilateral-triangle grid (Los Angeles) with rhombi (losanges)*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2023__Q01
 parent: src_selection_camp_2023
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2023 — Selection Camp — Quesito 1
 
 *Largest n with distinct-gcd arithmetic progression of divisors*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale1__Q07
 parent: src_squadre_2023_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 1 — Quesito 7
 
 *Somma mcm(k,8) per k da 1 a 136*
 

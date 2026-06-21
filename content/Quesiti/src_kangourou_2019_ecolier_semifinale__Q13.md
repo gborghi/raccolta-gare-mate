@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q13
 parent: src_kangourou_2019_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 13
 
 *Massima somma delle prime due carte con somma totale 35*
 

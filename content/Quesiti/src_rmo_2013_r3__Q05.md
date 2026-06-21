@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r3__Q05
 parent: src_rmo_2013_r3
@@ -37,8 +38,6 @@ tags:
   - regione/r3
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 3 — Quesito 5
 
 *Sequence of triangles from orthocentre reflections; angle condition implies 60°*
 

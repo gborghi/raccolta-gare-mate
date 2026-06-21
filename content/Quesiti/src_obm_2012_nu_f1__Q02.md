@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2012_nu_f1__Q02
 parent: src_obm_2012_nu_f1
@@ -34,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 — Quesito 2
 
 *Properties of f(x)=(e^x−1)^(1/x) for x>0*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q08
 parent: src_kangourou_2016_marzo_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2016 gara 17 marzo Benjamin — Quesito 8
 
 *quanti livelli*
 

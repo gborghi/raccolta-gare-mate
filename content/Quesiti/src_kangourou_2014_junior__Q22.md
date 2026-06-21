@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q22
 parent: src_kangourou_2014_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 22
 
 *Minimo segmenti perché ogni circoletto abbia stesso grado*
 

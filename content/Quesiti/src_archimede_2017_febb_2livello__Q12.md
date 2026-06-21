@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q12
 parent: src_archimede_2017_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2017 - 2 livello — Quesito 12
 
 *Cifra iniziale di 5^n sapendo che 2^n inizia con 7*
 

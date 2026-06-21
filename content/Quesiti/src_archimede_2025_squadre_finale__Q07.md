@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q07
 parent: src_archimede_2025_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 7
 
 *Polinomio con p(p(x))=p(x)+x^4+x^2+1, calcolare p(2025)*
 

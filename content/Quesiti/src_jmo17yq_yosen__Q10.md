@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jmo17yq_yosen__Q10
 parent: src_jmo17yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 10
 
 *Count card multisets with sum 2007 allowing unique n-subset with sum divisible by n*
 

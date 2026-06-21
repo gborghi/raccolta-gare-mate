@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q07
 parent: src_kangourou_2017_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 7
 
 *Quante volte Daria sorpassa Baldo sulla pista*
 

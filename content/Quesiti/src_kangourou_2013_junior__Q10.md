@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q10
 parent: src_kangourou_2013_junior
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 10
 
 *Quale espressione e la piu grande*
 

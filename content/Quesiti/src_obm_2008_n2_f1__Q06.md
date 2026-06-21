@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n2_f1__Q06
 parent: src_obm_2008_n2_f1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 6
 
 *Sum of all numbers given means of 5 largest and 5 smallest*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2016__Q10
 parent: src_selection_camp_2016
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2016 — Selection Camp — Quesito 10
 
 *Maximum n for snake-like number placement in 2015×2015 grid*
 

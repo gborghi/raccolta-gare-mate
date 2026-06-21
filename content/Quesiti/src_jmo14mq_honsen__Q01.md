@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo14mq_honsen__Q01
 parent: src_jmo14mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 1
 
 *No n makes 2n^2+1, 3n^2+1, 6n^2+1 all squares*
 

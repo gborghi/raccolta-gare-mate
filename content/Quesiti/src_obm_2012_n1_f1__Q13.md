@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f1__Q13
 parent: src_obm_2012_n1_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 13
 
 *Percentage of 55+ internet users who use LinkedIn, given table and pie chart*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo15yq_yosen__Q09
 parent: src_jjmo15yq_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 9
 
 *Count ways to choose max lattice points with no equal coordinate differences*
 

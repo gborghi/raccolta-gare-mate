@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q15
 parent: src_squadre_2024_finale
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 15
 
 *Pirati in missione con am>m da ricorrenza razionale*
 

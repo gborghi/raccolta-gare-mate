@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_1992__Q04
 parent: src_rmo_1992
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992 — Quesito 4
 
 *Cyclic quadrilateral ABCD with diagonal AC meeting BD at E; prove EA²+EB²+EC²+ED²=4R².*
 

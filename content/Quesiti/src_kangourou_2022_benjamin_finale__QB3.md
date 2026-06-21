@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin finale individuale — Quesito B3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_finale__QB3
 parent: src_kangourou_2022_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin finale individuale — Quesito B3
 
 *Posizione della squadra Azzurra con previsioni tutte errate*
 

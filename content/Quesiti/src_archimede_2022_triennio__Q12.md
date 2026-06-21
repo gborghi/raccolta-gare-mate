@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q12
 parent: src_archimede_2022_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 12
 
 *Coppie ordinate (m,n) con m<=n e mcm uguale a 1515*
 

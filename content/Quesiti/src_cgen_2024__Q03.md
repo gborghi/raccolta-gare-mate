@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2024 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_2024__Q03
 parent: src_cgen_2024
@@ -41,8 +42,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Concours Général des Lycées 2024 — Matematica — Quesito 3
 
 *Sets E(x)={ent(k/x): k in N*} of integer parts; characterize reals alpha,beta whose sets have empty intersection (P-cap) or union N* (P-cup); Beatty-type theorems via a geometric lattice argument*
 

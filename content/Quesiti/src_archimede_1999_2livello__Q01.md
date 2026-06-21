@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q01
 parent: src_archimede_1999_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 1
 
 *Quanti posti nei palchi di un teatro da 960*
 

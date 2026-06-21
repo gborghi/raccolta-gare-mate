@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2005_nu_f1__Q05
 parent: src_obm_2005_nu_f1
@@ -33,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 — Quesito 5
 
 *Find all alpha making a cosine matrix have zero determinant*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n3_f1__Q24
 parent: src_obm_2012_n3_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 24
 
 *Number of real solutions to cyclic system with 1/x^2 etc*
 

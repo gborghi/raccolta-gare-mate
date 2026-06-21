@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo12yq_yosen__Q07
 parent: src_jjmo12yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 7
 
 *Count placements of six 1x2 boards with two covered cells per row/column*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2011-12_round2__Q01
 parent: src_bmo_2011-12_round2
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 2 — Quesito 1
 
 *Cyclic quadrilateral midpoints give four triangles with equal circumradii*
 

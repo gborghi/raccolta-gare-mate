@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Triennio
 tipo: gara
 src_id: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2010/GiochiArchimede2010.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q09
 parent: src_kangourou_2017_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 9
 
 *Quanti numeri crescenti di tre cifre*
 

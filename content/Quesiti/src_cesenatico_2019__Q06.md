@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2019__Q06
 parent: src_cesenatico_2019
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 6
 
 *quante sequenze fanno vincere Barbara*
 

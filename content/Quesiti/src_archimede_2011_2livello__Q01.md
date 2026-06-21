@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_2livello__Q01
 parent: src_archimede_2011_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 1
 
 *Superficie totale del cubo di cioccolato ceduto*
 

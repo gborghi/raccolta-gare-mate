@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre semifinale turno A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q09
 parent: src_kangourou_2010_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre semifinale turno A — Quesito 9
 
 *Minimo quadrati da colorare per griglia 25x25*
 

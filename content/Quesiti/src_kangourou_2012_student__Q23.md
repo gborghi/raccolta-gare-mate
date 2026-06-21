@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q23
 parent: src_kangourou_2012_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 23
 
 *Minimo n di operazioni per riottenere 7/8*
 

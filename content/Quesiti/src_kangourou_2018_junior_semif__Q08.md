@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q08
 parent: src_kangourou_2018_junior_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 8
 
 *Per quanti interi n il numero n/(n-10) e intero*
 

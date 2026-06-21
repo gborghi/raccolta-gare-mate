@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_tfjm_2026__Q07
 parent: src_tfjm_2026
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 7
 
 *Define a 'permutative' number whose double has the same digits except one digit (0 to 4) replaced by its double; 'rotative' moves the first digit to last and 'fitatory' moves the last digit to first. Decide existence and count such n-digit numbers, also in other bases.*
 

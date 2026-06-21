@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q20
 parent: src_kangourou_2009_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 20
 
 *Quadratini per il decimo disegno della sequenza*
 

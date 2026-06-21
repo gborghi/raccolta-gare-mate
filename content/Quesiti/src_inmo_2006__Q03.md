@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2006 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2006__Q03
 parent: src_inmo_2006
@@ -31,8 +32,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2006 — Quesito 3
 
 *Find all integer triples (a,b,c) with functional equation f(f(a,b,c))=(a,b,c)*
 

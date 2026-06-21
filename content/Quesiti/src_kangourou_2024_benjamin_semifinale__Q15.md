@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q15
 parent: src_kangourou_2024_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 15
 
 *Minimo numero di numeri da dire per cancellare 2..60*
 

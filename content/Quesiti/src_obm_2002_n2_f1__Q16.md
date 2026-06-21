@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f1__Q16
 parent: src_obm_2002_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 16
 
 *Triangle with angles 80° and 40°; find acute angle between bisectors of A and B*
 

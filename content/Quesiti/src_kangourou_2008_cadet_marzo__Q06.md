@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q06
 parent: src_kangourou_2008_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 6
 
 *Massimo numero di mazzi identici (MCD)*
 

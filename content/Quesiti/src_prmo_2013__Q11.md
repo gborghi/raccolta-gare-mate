@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q11
 parent: src_prmo_2013
@@ -30,8 +31,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 11
 
 *Value of x^2+y^2+z^2 given three quadratic equations in x,y,z*
 

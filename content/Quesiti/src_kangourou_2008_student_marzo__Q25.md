@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q25
 parent: src_kangourou_2008_student_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 25
 
 *Valore di k tale che a_k=2008 (successione)*
 

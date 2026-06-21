@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q10
 parent: src_kangourou_2012_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 10
 
 *Qual e il blocco bianco del parallelepipedo*
 

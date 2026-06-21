@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n2_f1__Q23
 parent: src_obm_2012_n2_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 23
 
 *Year in which the gcd of year and OBM edition is maximized*
 

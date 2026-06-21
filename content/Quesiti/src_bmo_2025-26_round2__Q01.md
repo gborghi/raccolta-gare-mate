@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2025-26 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2025-26_round2__Q01
 parent: src_bmo_2025-26_round2
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2025-26 — Round 2 — Quesito 1
 
 *Find smallest k for lcm+hcf=p^k equation in positive integers*
 

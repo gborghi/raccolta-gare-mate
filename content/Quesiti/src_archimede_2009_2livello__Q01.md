@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q01
 parent: src_archimede_2009_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 1
 
 *Quanti interi n con √n a meno di 1 da √101*
 

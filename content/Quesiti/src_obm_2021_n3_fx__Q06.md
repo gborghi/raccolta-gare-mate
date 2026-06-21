@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n3_fx__Q06
 parent: src_obm_2021_n3_fx
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 6
 
 *Bicentric n-gon: circle tangent to circumcircles of semicircle-intersection triangles*
 

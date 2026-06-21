@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f2__Q07
 parent: src_obm_2006_n3_f2
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 7
 
 *Find all positive integer pairs (a,b) with (a+1)(b+1) divisible by ab+1*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q08
 parent: src_canimath_2021_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 8
 
 *n ants on the edges of a unit cube: two at geodesic distance at most 1, for n=13 and n=9*
 

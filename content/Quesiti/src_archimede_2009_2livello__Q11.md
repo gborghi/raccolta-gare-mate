@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q11
 parent: src_archimede_2009_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 11
 
 *Quanti paggi date liste identiche di risposte sui furfanti*
 

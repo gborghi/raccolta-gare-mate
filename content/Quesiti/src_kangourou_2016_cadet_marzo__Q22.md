@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Cadet (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q22
 parent: src_kangourou_2016_cadet_marzo
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Cadet (gara marzo) — Quesito 22
 
 *che ora pensa Paolo*
 

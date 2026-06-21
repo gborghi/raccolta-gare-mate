@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q16
 parent: src_gas_2010_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 16
 
 *Triangoli non congruenti con vertici in poligono di 144 lati*
 

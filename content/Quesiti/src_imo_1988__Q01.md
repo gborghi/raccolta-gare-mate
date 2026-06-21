@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1988 (29th IMO, Canberra) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1988__Q01
 parent: src_imo_1988
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1988 (29th IMO, Canberra) — Quesito 1
 
 *Find values of BC2+CA2+AB2 and locus of BC midpoint*
 

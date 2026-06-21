@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2017 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_printemps__Q03
 parent: src_canimath_2017_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2017 — Quesito 3
 
 *Perpendicular bisectors in 60-degree triangle give equal segment*
 

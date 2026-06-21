@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q27
 parent: src_kangourou_2018_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo — Quesito 27
 
 *Lunghezza del prossimo salto per media 3,82*
 

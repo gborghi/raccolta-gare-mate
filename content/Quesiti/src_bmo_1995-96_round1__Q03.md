@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1995-96 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1995-96_round1__Q03
 parent: src_bmo_1995-96_round1
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1995-96 — Round 1 — Quesito 3
 
 *Prove CO perpendicular to PQ using circle through A, O, B*
 

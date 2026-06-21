@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q22
 parent: src_kangourou_2007_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 22
 
 *Chilometri camminati da Alfredo (salita/discesa)*
 

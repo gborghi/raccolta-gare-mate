@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier
 tipo: gara
 src_id: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/EMarzo-20.pdf` · apri PDF
 

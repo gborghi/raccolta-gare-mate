@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet finale individuale — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_finale__QC2
 parent: src_kangourou_2022_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet finale individuale — Quesito C2
 
 *Quanti ciclisti almeno hanno mentito se somma e 36*
 

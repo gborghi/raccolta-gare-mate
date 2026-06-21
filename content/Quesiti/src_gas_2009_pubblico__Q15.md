@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q15
 parent: src_gas_2009_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 15
 
 *Numero passi di discesa scale dimezzando e per divisore*
 

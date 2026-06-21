@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q20
 parent: src_gs_2009_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 20
 
 *Operazione e MCD, piu grande divisore di 2009*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q19
 parent: src_kangourou_2018_koala_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 19
 
 *Quanti numeri di 2 cifre tra 10 e 25 con cifre 2,0,1,8*
 

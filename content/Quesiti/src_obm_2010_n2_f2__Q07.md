@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f2__Q07
 parent: src_obm_2010_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 7
 
 *Find all prime pairs m<n with 2m+n, m+2n, m+n−18 all prime*
 

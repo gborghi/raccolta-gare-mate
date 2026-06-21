@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r4__Q05
 parent: src_rmo_2012_r4
@@ -32,8 +33,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 4 — Quesito 5
 
 *In a triangle with E on BC (BE=2EC) and F midpoint of AC, find BQ/QF where BF meets AE*
 

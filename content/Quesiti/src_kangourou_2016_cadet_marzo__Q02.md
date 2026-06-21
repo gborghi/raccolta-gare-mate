@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Cadet (gara marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q02
 parent: src_kangourou_2016_cadet_marzo
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 Cadet (gara marzo) — Quesito 2
 
 *Segnale stradale con piu assi di simmetria*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q07
 parent: src_archimede_2013_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 7
 
 *Massimo numero di studenti con parole binarie distinte di 5 test*
 

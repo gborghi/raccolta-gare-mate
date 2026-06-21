@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q07
 parent: src_kangourou_2022_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 7
 
 *Concime supplementare per prato da 25 a 30 metri*
 

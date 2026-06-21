@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q30
 parent: src_kangourou_2018_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 30
 
 *Lunghezza corda BD nel cerchio con corde a 60 gradi*
 

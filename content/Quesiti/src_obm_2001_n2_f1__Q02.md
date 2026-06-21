@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f1__Q02
 parent: src_obm_2001_n2_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 2
 
 *Angle alpha after rotating triangle ABC 90 degrees counterclockwise about C*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q16
 parent: src_archimede_2017_febb_2livello
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2017 - 2 livello — Quesito 16
 
 *triangolo isoscele e parallelogramma*
 

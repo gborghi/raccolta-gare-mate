@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1978-79_round1__Q02
 parent: src_bmo_1978-79_round1
@@ -32,8 +33,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1978-79 — Round 1 — Quesito 2
 
 *Three rays from O in 3-space; find points with equal-perimeter triangles and express OX*
 

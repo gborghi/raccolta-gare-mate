@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2019_nu_f2__Q04
 parent: src_obm_2019_nu_f2
@@ -32,8 +35,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 — Quesito 4
 
 *Find all functions f:R->R with f(xf(y)+f(x))+f(y^2)=f(x)+yf(x+y)*
 

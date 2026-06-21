@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1997-98 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1997-98_round2__Q02
 parent: src_bmo_1997-98_round2
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1997-98 — Round 2 — Quesito 2
 
 *Two circumcircles of a configuration touch*
 

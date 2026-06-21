@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q08
 parent: src_obm_2009_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 8
 
 *In square ABCD of side 4 with K on AD, L on AB, M on BC and KLM an isosceles right triangle with right angle at L, find the area of quadrilateral CDKM.*
 

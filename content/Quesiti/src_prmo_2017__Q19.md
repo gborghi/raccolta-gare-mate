@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q19
 parent: src_prmo_2017
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 19
 
 *Find value of c given 1,2,3 are roots of x^4+x^2+c=0 (likely: find c)*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f3__Q03
 parent: src_obm_2011_n1_f3
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 3
 
 *'Chapa' numbers: all digits nonzero and sum of squares of digits is a perfect square; find largest 2-digit chapa and whether a 2011-digit chapa exists.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet__Q06
 parent: src_kangourou_2023_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Gara 16 marzo — Quesito 6
 
 *numero al posto del ?*
 

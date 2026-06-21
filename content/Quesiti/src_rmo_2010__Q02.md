@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2010 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2010__Q02
 parent: src_rmo_2010
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2010 — Quesito 2
 
 *Three quadratics equal at a point implies coefficients equal*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio
 tipo: gara
 src_id: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio
 
 Sorgente: `Archimede/individuale/1livello/2015/GiochiArchimede-2015/archimede_biennio_2015.pdf` · apri PDF
 

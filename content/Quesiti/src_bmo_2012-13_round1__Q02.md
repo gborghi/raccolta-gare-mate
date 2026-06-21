@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2012-13 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2012-13_round1__Q02
 parent: src_bmo_2012-13_round1
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2012-13 — Round 1 — Quesito 2
 
 *Two touching circles, common tangent, diameter; prove collinearity*
 

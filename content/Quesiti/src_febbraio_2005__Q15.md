@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q15
 parent: src_febbraio_2005
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 15
 
 *Coppie ordinate (x,y) di interi positivi e relazione x+y(x+y)=2005*
 

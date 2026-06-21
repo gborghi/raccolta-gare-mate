@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1990-91 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1990-91_round2__Q04
 parent: src_bmo_1990-91_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1990-91 — Round 2 — Quesito 4
 
 *Multiples of x always contain digit 2; find smallest such N*
 

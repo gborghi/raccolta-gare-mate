@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo13yq_yosen__Q04
 parent: src_jjmo13yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 4
 
 *Cards 1..12 split among A,B,C by sum of squares; find A's and B's cards*
 

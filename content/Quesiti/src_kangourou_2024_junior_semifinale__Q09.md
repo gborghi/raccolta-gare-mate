@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q09
 parent: src_kangourou_2024_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 9
 
 *In che giorno cade il compleanno di Carlo (verita alterne)*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q13
 parent: src_archimede_1999_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 13
 
 *Piazzamenti nello sprint che fanno vincere Cipollini*
 

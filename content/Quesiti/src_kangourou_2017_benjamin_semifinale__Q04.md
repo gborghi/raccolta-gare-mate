@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q04
 parent: src_kangourou_2017_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 4
 
 *Il piu grande e il piu piccolo tra A,B,C da implicazioni*
 

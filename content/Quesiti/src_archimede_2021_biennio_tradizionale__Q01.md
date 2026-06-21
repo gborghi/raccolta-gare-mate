@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q01
 parent: src_archimede_2021_biennio_tradizionale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 1
 
 *Triangoli con due vertici dello stesso colore su circonferenza*
 

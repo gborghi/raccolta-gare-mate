@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013__Q06
 parent: src_cesenatico_2013
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 6
 
 *per quali n la strategia funziona*
 

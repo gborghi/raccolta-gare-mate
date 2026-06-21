@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q04
 parent: src_kangourou_2008_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 4
 
 *Quanti primi p tali che p^4+1 sia primo*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (finale Cervia) — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_finale__QJ3
 parent: src_kangourou_2016_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (finale Cervia) — Quesito J3
 
 *Diametro moneta B che rotola due giri attorno ad A*
 

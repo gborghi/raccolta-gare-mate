@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q19
 parent: src_kangourou_2019_ecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Ecolier — Quesito 19
 
 *Massimo numero di pagine se la cifra 5 compare 16 volte*
 

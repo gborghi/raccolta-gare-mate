@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student (20 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student__Q21
 parent: src_kangourou_2003_student
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2003 Student (20 marzo) — Quesito 21
 
 *Soluzioni di f(f(f(x)))=0 dal grafico*
 

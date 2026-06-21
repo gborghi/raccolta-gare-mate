@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1998 — Matematica
 tipo: gara
 src_id: src_cgen_1998
 competition: Concours Général des Lycées 1998 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/1998
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1998 — Matematica
 
 Sorgente: apri PDF
 

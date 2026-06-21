@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2017 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_printemps__Q04
 parent: src_canimath_2017_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2017 — Quesito 4
 
 *Identify the diagonal among five given lengths of a quadrilateral*
 

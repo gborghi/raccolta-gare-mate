@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q14
 parent: src_kangourou_2012_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 14
 
 *Triangoli equilateri con vertici poligono 2012 lati*
 

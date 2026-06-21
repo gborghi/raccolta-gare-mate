@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1993 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1993__Q06
 parent: src_rmo_1993
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1993 — Quesito 6
 
 *Inequality for four positive reals with abcd=1*
 

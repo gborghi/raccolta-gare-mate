@@ -1,4 +1,5 @@
 ---
+title: IMO 2016 papers — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_2016__Q04
 parent: src_imo_2016
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2016 papers — Quesito 4
 
 *Minimo b con insieme fragrante di P(n)=n^2+n+1*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q06
 parent: src_kangourou_2009_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 6
 
 *Lunghezza linea unendo centri dei foglietti*
 

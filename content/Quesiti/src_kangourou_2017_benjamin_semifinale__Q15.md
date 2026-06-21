@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q15
 parent: src_kangourou_2017_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 15
 
 *Minimo intero che moltiplicato per 2017,316 da un intero*
 

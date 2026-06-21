@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q15
 parent: src_kangourou_2022_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito 15
 
 *Modi di sedersi in fila con posti liberi tra loro*
 

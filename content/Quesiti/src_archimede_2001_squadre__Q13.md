@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_squadre__Q13
 parent: src_archimede_2001_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 13
 
 *numero minimo per fare 2001*
 

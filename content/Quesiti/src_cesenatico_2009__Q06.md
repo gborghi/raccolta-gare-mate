@@ -1,4 +1,5 @@
 ---
+title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2009__Q06
 parent: src_cesenatico_2009
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# XXV Olimpiade Italiana Cesenatico 2009 — Quesito 6
 
 *minimo k*
 

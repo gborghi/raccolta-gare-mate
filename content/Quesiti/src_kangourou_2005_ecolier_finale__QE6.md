@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (finale nazionale) — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier_finale__QE6
 parent: src_kangourou_2005_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (finale nazionale) — Quesito E6
 
 *Massimo amici con rettangoli diversi di 10 tessere*
 

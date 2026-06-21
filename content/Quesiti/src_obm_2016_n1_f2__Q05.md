@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f2__Q05
 parent: src_obm_2016_n1_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 5
 
 *Two gray squares share a vertex; white square has a vertex on each side; find angle X*
 

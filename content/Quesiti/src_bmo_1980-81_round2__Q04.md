@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round2__Q04
 parent: src_bmo_1980-81_round2
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 2 — Quesito 4
 
 *Remainder when x^81+x^49+x^25+x^9+x is divided by x^3-x*
 

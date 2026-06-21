@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1991 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_rmo_1991__Q08
 parent: src_rmo_1991
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1991 — Quesito 8
 
 *8x8 chessboard integers averaged by neighbours, all equal*
 

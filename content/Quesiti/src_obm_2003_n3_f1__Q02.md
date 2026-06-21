@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q02
 parent: src_obm_2003_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 2
 
 *Find 2003rd term of oscillating sequence 1,2,3,4,5,4,3,2,1,2,...*
 

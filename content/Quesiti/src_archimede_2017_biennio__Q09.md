@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q09
 parent: src_archimede_2017_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 9
 
 *Triangolo con angoli BAD=ACD e CAD=ABD*
 

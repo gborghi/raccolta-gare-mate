@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2008-09 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2008-09_round1__Q06
 parent: src_bmo_2008-09_round1
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2008-09 — Round 1 — Quesito 6
 
 *Prove inequality a³cosA + b³cosB + c³cosC < abc for obtuse triangle*
 

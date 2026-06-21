@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo36yqa_yosen__Q12
 parent: src_jmo36yqa_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 12
 
 *Find minimum z for positive integers x,y,z with x^y*y^z=2^{20x+20y} and y/20 integer, z/20 not*
 

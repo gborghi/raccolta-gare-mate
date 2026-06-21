@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Benjamin — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin_finale__Q03
 parent: src_kangourou_2014_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Benjamin — Quesito 3
 
 *Perimetro del tavolo con panni sovrapposti*
 

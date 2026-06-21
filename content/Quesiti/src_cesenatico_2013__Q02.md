@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013__Q02
 parent: src_cesenatico_2013
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 2
 
 *dimostrare A'B'=(a-b)/2*
 

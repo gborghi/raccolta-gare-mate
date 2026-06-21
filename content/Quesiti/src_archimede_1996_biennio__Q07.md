@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q07
 parent: src_archimede_1996_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 7
 
 *Quale frase logica e compatibile con i fatti dati*
 

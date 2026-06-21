@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q11
 parent: src_kangourou_2015_marzo_junior
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 11
 
 *quante scelte*
 

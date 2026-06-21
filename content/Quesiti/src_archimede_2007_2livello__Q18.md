@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q18
 parent: src_archimede_2007_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 18
 
 *Bisettrice DO e similitudine CDB~AOD in circonferenza*
 

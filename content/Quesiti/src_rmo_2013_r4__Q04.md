@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 4 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r4__Q04
 parent: src_rmo_2013_r4
@@ -30,8 +31,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 4 — Quesito 4
 
 *Non-zero real x with x^3+1/x^3 and x^5+1/x^5 rational implies x+1/x rational*
 

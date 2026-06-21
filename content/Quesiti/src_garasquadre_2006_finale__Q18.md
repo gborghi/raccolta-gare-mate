@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_finale__Q18
 parent: src_garasquadre_2006_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale — Quesito 18
 
 *Interi pari tra 4000 e 7000 con tutte cifre diverse*
 

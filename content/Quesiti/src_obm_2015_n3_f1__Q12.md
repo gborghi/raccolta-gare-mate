@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f1__Q12
 parent: src_obm_2015_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 12
 
 *Angle relation in triangle ABC with midpoint M of AB and given side lengths*
 

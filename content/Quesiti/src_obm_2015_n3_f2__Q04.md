@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f2__Q04
 parent: src_obm_2015_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 4
 
 *Count 5-element subsets of {1,...,20} that in increasing order have consecutive differences greater than 1,2,3,4*
 

@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2000 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_2000__Q03
 parent: src_cgen_2000
@@ -33,8 +34,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2000 — Matematica — Quesito 3
 
 *Set E of radii R of spheres (H) keeping points B,C strictly outside while sphere (A) lies strictly inside; non-emptiness and least upper bound*
 

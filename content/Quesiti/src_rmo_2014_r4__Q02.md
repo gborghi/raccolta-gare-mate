@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 4 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r4__Q02
 parent: src_rmo_2014_r4
@@ -30,8 +31,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 4 — Quesito 2
 
 *Prove inequality $4x^4+4y^3+5x^2+y+1\ge 12xy$ for positive reals*
 

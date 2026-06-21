@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n1_f1__Q03
 parent: src_obm_2010_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 3
 
 *2% increase of integer equals successor; find their sum*
 

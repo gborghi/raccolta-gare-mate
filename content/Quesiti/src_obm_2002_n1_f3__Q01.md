@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f3__Q01
 parent: src_obm_2002_n1_f3
@@ -41,8 +42,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 1
 
 *5x5 grid of integers 1-25: choose five numbers, no two in the same line or column; find a set with largest element 23, and one whose largest element is smallest possible*
 

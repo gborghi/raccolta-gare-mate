@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q16
 parent: src_kangourou_2019_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 16
 
 *Quanti interi buoni con massimo divisore N-6*
 

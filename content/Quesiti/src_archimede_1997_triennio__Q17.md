@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q17
 parent: src_archimede_1997_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 17
 
 *Intero piu vicino a una espressione con radici*
 

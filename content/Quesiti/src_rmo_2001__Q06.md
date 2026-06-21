@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2001 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2001__Q06
 parent: src_rmo_2001
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2001 — Quesito 6
 
 *For triangle sides x,y,z prove |x²(y−z)+y²(z−x)+z²(x−y)| < xyz*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Junior 2024 — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_finale__QJ1
 parent: src_kangourou_2024_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Finale Junior 2024 — Quesito J1
 
 *Sono di piu le frazioni riducibili o irriducibili (1..12)*
 

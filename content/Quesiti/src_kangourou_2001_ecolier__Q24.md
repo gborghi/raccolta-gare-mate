@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q24
 parent: src_kangourou_2001_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 24
 
 *Punti sulla faccia superiore del dado*
 

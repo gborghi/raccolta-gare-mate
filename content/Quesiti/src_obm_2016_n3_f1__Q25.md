@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q25
 parent: src_obm_2016_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 25
 
 *Ratio CO/CD where O is circumcenter of triangle ABD, with right angle at B and 60-degree angle at C*
 

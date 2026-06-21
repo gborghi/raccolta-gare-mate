@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2006 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2006__Q01
 parent: src_inmo_2006
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2006 — Quesito 1
 
 *Triangle with AP sides: IO perp BI, I circumcenter of DKE*
 

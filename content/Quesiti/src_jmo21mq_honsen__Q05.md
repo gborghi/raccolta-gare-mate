@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2011 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo21mq_honsen__Q05
 parent: src_jmo21mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2011 — Honsen (Final) — Quesito 5
 
 *Four points, equal inradii of all four triangles implies congruence*
 

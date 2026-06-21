@@ -1,11 +1,10 @@
 ---
+title: Casework accurato
 tipo: skill
 concept_id: skill_casework_accurato
 tags:
   - graph/skill
 ---
-
-# Casework accurato
 
 *skill* — **1397** quesiti (italiani).
 

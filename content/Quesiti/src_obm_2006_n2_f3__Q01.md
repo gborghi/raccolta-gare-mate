@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f3__Q01
 parent: src_obm_2006_n2_f3
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 1
 
 *Min steps to rewrite sequence 1..n in order*
 

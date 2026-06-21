@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q26
 parent: src_kangourou_2005_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 26
 
 *Mesi che iniziano e finiscono stesso giorno settimana*
 

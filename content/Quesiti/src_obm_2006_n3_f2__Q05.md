@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f2__Q05
 parent: src_obm_2006_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 5
 
 *Dice: probability of sum 2006 equals probability of sum S; find min S*
 

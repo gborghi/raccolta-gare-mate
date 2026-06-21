@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Ecolier — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_ecolier__QE3
 parent: src_kangourou_2015_finale_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Ecolier — Quesito E3
 
 *condizioni incrocio treni*
 

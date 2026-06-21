@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q13
 parent: src_garaprime_2019
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 13
 
 *Numero di tassellazioni 4x4 con vincolo sul segmento*
 

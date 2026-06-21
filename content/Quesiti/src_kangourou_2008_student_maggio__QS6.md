@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_maggio__QS6
 parent: src_kangourou_2008_student_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S6
 
 *Esiste persona con almeno 85% della ricchezza*
 

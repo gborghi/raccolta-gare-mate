@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q11
 parent: src_kangourou_2006_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 11
 
 *Resto di 2006 con stesso divisore (resto 5 su 1001)*
 

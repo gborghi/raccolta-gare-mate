@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1)
 tipo: gara
 src_id: src_archimede_2019_biennio
 competition: Giochi di Archimede 2019 - Biennio (T1)
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1)
 
 Sorgente: `Archimede/individuale/1livello/2019/archimede_biennio_2019.pdf` · apri PDF
 

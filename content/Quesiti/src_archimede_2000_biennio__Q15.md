@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q15
 parent: src_archimede_2000_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 15
 
 *Minimo numero di irrigatori per coprire giardino quadrato*
 

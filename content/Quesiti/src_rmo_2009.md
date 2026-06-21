@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2009
 tipo: gara
 src_id: src_rmo_2009
 competition: Regional Mathematical Olympiad 2009
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2009
 
 Sorgente: apri PDF
 

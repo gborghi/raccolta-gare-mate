@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q10
 parent: src_kangourou_2014_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A — Quesito 10
 
 *Somma cifre della differenza di due quadrati grandi*
 

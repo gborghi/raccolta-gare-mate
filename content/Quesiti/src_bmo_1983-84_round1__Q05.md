@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1983-84_round1__Q05
 parent: src_bmo_1983-84_round1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1983-84 — Round 1 — Quesito 5
 
 *Curved surface area of oblique cone over ellipse equals VA/AC times area of ellipse*
 

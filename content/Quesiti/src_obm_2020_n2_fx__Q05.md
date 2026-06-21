@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n2_fx__Q05
 parent: src_obm_2020_n2_fx
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 5
 
 *Prove angle equality using circumcircles of two triangles in acute triangle*
 

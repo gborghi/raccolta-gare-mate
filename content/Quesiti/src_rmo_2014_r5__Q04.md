@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 5 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r5__Q04
 parent: src_rmo_2014_r5
@@ -33,8 +34,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 5 — Quesito 4
 
 *Count distinct paths from (0,0) to (8,8) with exactly three rightward steps*
 

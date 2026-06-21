@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q13
 parent: src_archimede_2008_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 13
 
 *Multipli di 5 o 7 minori o uguali a 1000*
 

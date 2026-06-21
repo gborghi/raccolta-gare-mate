@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1995 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_1995__Q07
 parent: src_rmo_1995
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1995 — Quesito 7
 
 *Prove x^2 sin x + x cos x + x^2 + 1/2 > 0 for all real x*
 

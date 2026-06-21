@@ -1,11 +1,10 @@
 ---
+title: Aritmetica e Teoria dei Numeri
 tipo: cluster
 cluster: Aritmetica e Teoria dei Numeri
 tags:
   - graph/cluster
 ---
-
-# Aritmetica e Teoria dei Numeri
 
 Macro-area. **3259** quesiti.
 

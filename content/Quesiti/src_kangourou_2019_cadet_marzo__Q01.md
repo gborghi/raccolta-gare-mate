@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q01
 parent: src_kangourou_2019_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 1
 
 *Chi e arrivato ultimo nella gara di corsa*
 

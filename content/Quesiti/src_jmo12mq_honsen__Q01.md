@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo12mq_honsen__Q01
 parent: src_jmo12mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 1
 
 *Product MP*MQ constant for inscribed tangent circle*
 

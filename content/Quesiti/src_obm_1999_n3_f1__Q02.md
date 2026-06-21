@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n3_f1__Q02
 parent: src_obm_1999_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 2
 
 *Hotel guests: maximum eating none of three meats*
 

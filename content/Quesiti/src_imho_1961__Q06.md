@@ -1,4 +1,5 @@
 ---
+title: IMO 1961 (III International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imho_1961__Q06
 parent: src_imho_1961
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# IMO 1961 (III International Olympiad) — Quesito 6
 
 *Luogo del baricentro G dei medi al variare di A',B',C'*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q12
 parent: src_prmo_2013
@@ -28,8 +29,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 12
 
 *Length of PC in equilateral triangle with rectangle PQRS inscribed*
 

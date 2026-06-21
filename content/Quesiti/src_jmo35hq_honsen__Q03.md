@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo35hq_honsen__Q03
 parent: src_jmo35hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 3
 
 *Minimum n so n triples cover all consecutive triples in any 1-to-100 sequence*
 

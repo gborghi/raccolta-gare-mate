@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q19
 parent: src_gs_2008_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 19
 
 *Numero di tre cifre con potenza 14-esima a 30 cifre*
 

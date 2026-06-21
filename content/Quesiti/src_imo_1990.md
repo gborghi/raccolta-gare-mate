@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1990 (31st IMO, Beijing)'
 tipo: gara
 src_id: src_imo_1990
 competition: 'IMO 1990 (31st IMO, Beijing)'
@@ -15,8 +16,6 @@ tags:
   - anno/1990
   - gara/individuale
 ---
-
-# IMO 1990 (31st IMO, Beijing)
 
 Sorgente: `Archimede/individuale/imho/all/1990_eng.pdf` · apri PDF
 

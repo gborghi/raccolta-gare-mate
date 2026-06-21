@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f2__Q04
 parent: src_obm_2004_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 4
 
 *Find x so staircase polygon area equals right triangle area*
 

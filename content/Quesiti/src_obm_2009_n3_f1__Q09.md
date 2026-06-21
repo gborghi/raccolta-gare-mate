@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q09
 parent: src_obm_2009_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 9
 
 *On a neighborhood map (houses A,B,C,D), count from how many houses one can start a route traversing every street exactly once.*
 

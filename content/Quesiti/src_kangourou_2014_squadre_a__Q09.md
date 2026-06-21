@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q09
 parent: src_kangourou_2014_squadre_a
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A — Quesito 9
 
 *Dopo quanti km scambiare gomme per consumo uguale*
 

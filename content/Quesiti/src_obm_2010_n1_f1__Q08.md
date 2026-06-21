@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n1_f1__Q08
 parent: src_obm_2010_n1_f1
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 8
 
 *Which total cannot be a sum of visible faces of two tetrahedral dice joined at one face?*
 

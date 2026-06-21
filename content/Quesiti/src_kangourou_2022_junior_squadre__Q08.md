@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q08
 parent: src_kangourou_2022_junior_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Junior Finale 1 — Quesito 8
 
 *Volume ottaedro con vertici centri facce cubo*
 

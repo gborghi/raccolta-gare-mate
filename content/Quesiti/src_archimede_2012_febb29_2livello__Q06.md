@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q06
 parent: src_archimede_2012_febb29_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 6
 
 *Area colorata tra archi tangenti in quadrato di lato 2*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f1__Q05
 parent: src_obm_2007_n1_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 5
 
 *Sum of odd numbers up to 2007 minus sum of even numbers up to 2006*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2014-15 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2014-15_round2__Q02
 parent: src_bmo_2014-15_round2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2014-15 — Round 2 — Quesito 2
 
 *Prove equivalence: more odd-boy councils iff odd classes have more boys.*
 

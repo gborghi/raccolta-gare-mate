@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - semifinale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q05
 parent: src_kangourou_2021_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - semifinale — Quesito 5
 
 *Posizione di 3142 tra le 24 permutazioni ordinate*
 

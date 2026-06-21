@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q06
 parent: src_kangourou_2018_student_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 6
 
 *Per quanti interi n il numero n/(n-10) e intero*
 

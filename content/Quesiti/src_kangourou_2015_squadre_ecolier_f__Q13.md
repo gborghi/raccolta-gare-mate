@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q13
 parent: src_kangourou_2015_squadre_ecolier_f
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 13
 
 *Differenza tessere nere e bianche bordo 4000 nere*
 

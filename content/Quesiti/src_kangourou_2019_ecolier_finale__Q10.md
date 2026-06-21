@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q10
 parent: src_kangourou_2019_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Ecolier — Quesito 10
 
 *Quanti anni meravigliosi nel 21-esimo secolo*
 

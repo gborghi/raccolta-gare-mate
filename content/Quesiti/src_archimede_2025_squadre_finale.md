@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale
 tipo: gara
 src_id: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2025/gas2025ITA.pdf` · apri PDF
 

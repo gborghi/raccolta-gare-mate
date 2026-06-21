@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q03
 parent: src_kangourou_2019_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 3
 
 *Quale spigolo del cubo da area intera nel taglio*
 

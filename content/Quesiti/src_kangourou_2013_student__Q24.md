@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q24
 parent: src_kangourou_2013_student
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 24
 
 *Coppie reali (x,y) con x^2+y^2=|x|+|y|*
 

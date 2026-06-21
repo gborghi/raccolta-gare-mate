@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q13
 parent: src_prmo_2015_b
@@ -31,8 +32,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 13
 
 *Each man danced with 4 women, each woman with 3 men; 9 men; count women*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q16
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 16
 
 *Lato lungo di rettangolo di 10! tessere con rapporto vicino 11/17*
 

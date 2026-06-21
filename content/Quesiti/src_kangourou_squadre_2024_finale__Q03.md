@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q03
 parent: src_kangourou_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 3
 
 *Lunghezza segmento PQ in un quadrato con perpendicolari note*
 

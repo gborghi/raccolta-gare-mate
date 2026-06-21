@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q01
 parent: src_kangourou_2021_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 1
 
 *Segno zodiacale con un asse di simmetria*
 

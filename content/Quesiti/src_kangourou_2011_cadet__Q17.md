@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q17
 parent: src_kangourou_2011_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 17
 
 *A quale numero sommare 1 per minimizzare il prodotto*
 

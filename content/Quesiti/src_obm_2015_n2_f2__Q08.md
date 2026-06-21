@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n2_f2__Q08
 parent: src_obm_2015_n2_f2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 8
 
 *Count positive integers n<100 making (8n+5)/(5n+8) irreducible*
 

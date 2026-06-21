@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2018__Q01
 parent: src_cesenatico_2018
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 1
 
 *altezza della bottiglia*
 

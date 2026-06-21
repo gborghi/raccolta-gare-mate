@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q12
 parent: src_garasquadre_2006_pubblico
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 12
 
 *Sottoinsiemi non vuoti di {1..9} con somma multipla di 3*
 

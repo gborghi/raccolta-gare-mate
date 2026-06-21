@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f2__Q02
 parent: src_obm_2002_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 2
 
 *Farm divided into triangular lots; find original area given smallest lot is 40 alqueires*
 

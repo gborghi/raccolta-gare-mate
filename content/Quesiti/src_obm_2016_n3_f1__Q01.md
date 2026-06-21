@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q01
 parent: src_obm_2016_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 1
 
 *Which of the letters O, B, M can occupy a given (gray) cell of a 3x3 grid*
 

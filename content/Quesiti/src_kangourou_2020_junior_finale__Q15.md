@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q15
 parent: src_kangourou_2020_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2020 Finale — Quesito 15
 
 *Distanza del piano per volume 3/4 del cono*
 

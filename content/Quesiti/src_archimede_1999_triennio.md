@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Triennio
 tipo: gara
 src_id: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/1999
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/1999/Archimede1999/TestoTriennio1999.pdf` · apri PDF
 

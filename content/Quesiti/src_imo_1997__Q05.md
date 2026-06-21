@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1997 (38th IMO, Mar del Plata) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1997__Q05
 parent: src_imo_1997
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1997 (38th IMO, Mar del Plata) — Quesito 5
 
 *Find all integer pairs with a^(b^2)=b^a*
 

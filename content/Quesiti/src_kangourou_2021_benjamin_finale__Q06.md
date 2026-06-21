@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_finale__Q06
 parent: src_kangourou_2021_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - finale — Quesito 6
 
 *Minimo da togliere da 2..2021 senza prodotti rimasti*
 

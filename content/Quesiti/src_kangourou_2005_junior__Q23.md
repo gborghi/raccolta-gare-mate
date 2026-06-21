@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q23
 parent: src_kangourou_2005_junior
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 23
 
 *Quale non e sviluppo di un ottaedro (annullato)*
 

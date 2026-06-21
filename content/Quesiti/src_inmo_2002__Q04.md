@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2002 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2002__Q04
 parent: src_inmo_2002
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2002 — Quesito 4
 
 *Existence of 100 lines with exactly 2002 intersection points*
 

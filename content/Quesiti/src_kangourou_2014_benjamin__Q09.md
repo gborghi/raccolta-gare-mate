@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q09
 parent: src_kangourou_2014_benjamin
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 9
 
 *Quale giro e stato il piu veloce dalla tabella dei tempi*
 

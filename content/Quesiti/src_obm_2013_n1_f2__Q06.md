@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f2__Q06
 parent: src_obm_2013_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 6
 
 *Erase integers 1–1000 two by two starting from second; count students*
 

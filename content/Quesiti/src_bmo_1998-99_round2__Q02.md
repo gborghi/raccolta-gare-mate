@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1998-99 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1998-99_round2__Q02
 parent: src_bmo_1998-99_round2
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1998-99 — Round 2 — Quesito 2
 
 *Prove a product relation in a hexagon with parallel sides*
 

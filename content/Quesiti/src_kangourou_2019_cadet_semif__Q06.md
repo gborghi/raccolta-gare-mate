@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q06
 parent: src_kangourou_2019_cadet_semif
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 6
 
 *Numero al terzo posto con somme di consecutivi quadrati*
 

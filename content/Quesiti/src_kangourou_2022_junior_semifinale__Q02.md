@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q02
 parent: src_kangourou_2022_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale — Quesito 2
 
 *Concime supplementare prato 30 vs 25 metri di lato*
 

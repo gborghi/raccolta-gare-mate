@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q02
 parent: src_archimede_2014_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 2
 
 *Somma angoli interni di un quadrilatero concavo*
 

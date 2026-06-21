@@ -1,4 +1,5 @@
 ---
+title: IMO 1979 (Twenty-first International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1979_all__Q01
 parent: src_imo_1979_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1979 (Twenty-first International Olympiad) — Quesito 1
 
 *Prove numerator p of alternating harmonic sum divisible by 1979*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q17
 parent: src_obm_2003_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 17
 
 *Count guests at party given 77 plates of 4 types serving different numbers of people*
 

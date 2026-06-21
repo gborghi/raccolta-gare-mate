@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q07
 parent: src_selection_camp_2018
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 7
 
 *Two-player game on {0,...,p-1} building a base-10 number: first player has winning strategy mod p*
 

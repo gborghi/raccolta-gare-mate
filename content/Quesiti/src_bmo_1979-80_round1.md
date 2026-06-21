@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1979-80 — Round 1
 tipo: gara
 src_id: src_bmo_1979-80_round1
 competition: British Mathematical Olympiad 1979-80 — Round 1
@@ -15,8 +16,6 @@ tags:
   - anno/1979
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1979-80 — Round 1
 
 Sorgente: apri PDF
 

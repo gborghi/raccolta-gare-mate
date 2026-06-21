@@ -1,4 +1,5 @@
 ---
+title: IMO 1963 (V International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imho_1963__Q04
 parent: src_imho_1963
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1963 (V International Olympiad) — Quesito 4
 
 *Sistema ciclico di 5 equazioni con parametro y*
 

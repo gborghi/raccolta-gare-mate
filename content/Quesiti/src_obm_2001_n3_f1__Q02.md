@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q02
 parent: src_obm_2001_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 2
 
 *Triangle CDE from 90 degree rotation of ABC around C; find angle alpha*
 

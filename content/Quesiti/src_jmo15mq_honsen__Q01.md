@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo15mq_honsen__Q01
 parent: src_jmo15mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 1
 
 *Flipping 5-in-a-row coins on 17x17 grid to all tails*
 

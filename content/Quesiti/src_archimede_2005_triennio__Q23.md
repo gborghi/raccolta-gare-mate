@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q23
 parent: src_archimede_2005_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 23
 
 *Parole di 4 lettere senza M dopo una B*
 

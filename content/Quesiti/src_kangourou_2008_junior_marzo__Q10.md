@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q10
 parent: src_kangourou_2008_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior (gara 28 marzo) — Quesito 10
 
 *Quanti test ancora per media 4/5*
 

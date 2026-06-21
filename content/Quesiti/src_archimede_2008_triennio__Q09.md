@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Triennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_triennio__Q09
 parent: src_archimede_2008_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Triennio — Quesito 9
 
 *Raggio circonferenza da quadrilatero con diagonali perpendicolari*
 

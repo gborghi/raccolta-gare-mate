@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo17yq_yosen__Q02
 parent: src_jmo17yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 2
 
 *Units digit of a power tower 11^(12^13)*
 

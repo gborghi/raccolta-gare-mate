@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_pubblico__Q03
 parent: src_archimede_2002_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 3
 
 *successione di interi*
 

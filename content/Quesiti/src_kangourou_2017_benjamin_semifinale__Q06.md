@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q06
 parent: src_kangourou_2017_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 6
 
 *Modi di inserire 1..5 con catena di disuguaglianze*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q21
 parent: src_kangourou_2011_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 21
 
 *X+Y se 24X8Y divisibile per 4,5,9*
 

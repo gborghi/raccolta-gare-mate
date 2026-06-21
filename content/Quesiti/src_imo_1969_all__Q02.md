@@ -1,4 +1,5 @@
 ---
+title: IMO 1969 (Eleventh International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1969_all__Q02
 parent: src_imo_1969_all
@@ -23,8 +24,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# IMO 1969 (Eleventh International Olympiad) — Quesito 2
 
 *Common zeros of weighted cosine sum differ by multiple of pi*
 

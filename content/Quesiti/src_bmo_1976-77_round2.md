@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 2
 tipo: gara
 src_id: src_bmo_1976-77_round2
 competition: British Mathematical Olympiad 1976-77 — Round 2
@@ -15,8 +16,6 @@ tags:
   - anno/1977
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 2
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior finale (maggio) — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ6
 parent: src_kangourou_2007_junior_maggio
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior finale (maggio) — Quesito J6
 
 *Numero di sottoinsiemi porosi di {1..10}*
 

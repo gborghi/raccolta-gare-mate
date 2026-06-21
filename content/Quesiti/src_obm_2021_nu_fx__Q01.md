@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x —
+  Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2021_nu_fx__Q01
 parent: src_obm_2021_nu_fx
@@ -36,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x — Quesito 1
 
 *Circulant 3x3 matrices with det=1: rational entries infinite, integer entries finite*
 

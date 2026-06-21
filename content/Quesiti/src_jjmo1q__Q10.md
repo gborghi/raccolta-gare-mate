@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q10
 parent: src_jjmo1q
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 10
 
 *Find volume of piece containing vertex A when unit cube is cut by three mid-planes through center*
 

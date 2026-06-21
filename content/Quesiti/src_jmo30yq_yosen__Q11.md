@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo30yq_yosen__Q11
 parent: src_jmo30yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 11
 
 *Circle with 5 points, two tangent circles meet at K, find length CQ*
 

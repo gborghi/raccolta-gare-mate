@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q16
 parent: src_kangourou_2005_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 16
 
 *Altezza acqua nel secchio dopo 20 l/m2 di pioggia*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q03
 parent: src_selection_camp_2018
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 3
 
 *Find all prime pairs (p,q) with p>q such that a given expression is an integer*
 

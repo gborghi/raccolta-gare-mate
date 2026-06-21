@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo17yq_yosen__Q03
 parent: src_jmo17yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 3
 
 *Minimum product AP times BP for a point P at distance 3 from segment AB*
 

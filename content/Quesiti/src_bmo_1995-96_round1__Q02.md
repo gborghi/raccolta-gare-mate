@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1995-96 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1995-96_round1__Q02
 parent: src_bmo_1995-96_round1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1995-96 — Round 1 — Quesito 2
 
 *Compute f(1996) given f(1)=1996 and a recursive sum condition*
 

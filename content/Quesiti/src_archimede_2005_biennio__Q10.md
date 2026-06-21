@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q10
 parent: src_archimede_2005_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 10
 
 *Coppie di interi con prodotto uguale alla somma*
 

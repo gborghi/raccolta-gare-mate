@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q02
 parent: src_kangourou_2024_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 2
 
 *In quale quadrato Mia atterra solo sul piede destro*
 

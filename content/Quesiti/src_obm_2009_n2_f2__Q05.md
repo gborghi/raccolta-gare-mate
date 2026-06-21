@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f2__Q05
 parent: src_obm_2009_n2_f2
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 5
 
 *Overlapping squares ABCD and EFGH side 48; find highlighted intersection area*
 

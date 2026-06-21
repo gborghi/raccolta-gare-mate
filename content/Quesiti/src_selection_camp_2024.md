@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2024 — Selection Camp
 tipo: gara
 src_id: src_selection_camp_2024
 competition: Japan IMO Selection Camp 2024 — Selection Camp
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2024 — Selection Camp
 
 Sorgente: apri PDF
 

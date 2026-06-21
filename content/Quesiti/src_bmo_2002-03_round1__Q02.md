@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2002-03 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2002-03_round1__Q02
 parent: src_bmo_2002-03_round1
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2002-03 — Round 1 — Quesito 2
 
 *Incircle tangent point and perpendicular; prove BX is a diameter*
 

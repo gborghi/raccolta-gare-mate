@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q13
 parent: src_canimath_2024_automne
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 13
 
 *Infinite integer sequence: k+l | a_k+a_l; show k−l | a_k−a_l for k≠l*
 

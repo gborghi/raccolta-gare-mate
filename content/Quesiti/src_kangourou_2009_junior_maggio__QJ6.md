@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_junior_maggio__QJ6
 parent: src_kangourou_2009_junior_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J6
 
 *Spostamento monete su 1000-agono (8x125 e 125x8)*
 

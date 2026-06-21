@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q06
 parent: src_obm_2006_n3_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 6
 
 *Place digits 4,5,6,7,8,9 in spaces forming three two-digit numbers in strictly decreasing order; count arrangements.*
 

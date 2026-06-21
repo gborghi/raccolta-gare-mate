@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_individuale__Q04
 parent: src_archimede_2002_individuale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 4
 
 *per quali n le radici sono intere*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_maggio__QS4
 parent: src_kangourou_2008_student_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S4
 
 *Tre punti col cerchio vuoto all'interno*
 

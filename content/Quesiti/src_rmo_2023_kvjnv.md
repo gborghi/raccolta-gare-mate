@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — KV/JNV
 tipo: gara
 src_id: src_rmo_2023_kvjnv
 competition: Regional Mathematical Olympiad 2023 — KV/JNV
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/kvjnv
 ---
-
-# Regional Mathematical Olympiad 2023 — KV/JNV
 
 Sorgente: apri PDF
 

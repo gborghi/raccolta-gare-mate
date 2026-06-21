@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q29
 parent: src_ioqm_2024
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 29
 
 *Last two digits of count of divisors of n^2 less than n not dividing n*
 

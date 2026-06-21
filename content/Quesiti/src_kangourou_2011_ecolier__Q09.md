@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q09
 parent: src_kangourou_2011_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 9
 
 *Quale figura ha l'area piu grande*
 

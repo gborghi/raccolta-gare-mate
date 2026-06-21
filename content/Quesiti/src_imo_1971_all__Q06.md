@@ -1,4 +1,5 @@
 ---
+title: IMO 1971 (Thirteenth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1971_all__Q06
 parent: src_imo_1971_all
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1971 (Thirteenth International Olympiad) — Quesito 6
 
 *Nonnegative-integer matrix with zero-sum condition has sum>=n^2/2*
 

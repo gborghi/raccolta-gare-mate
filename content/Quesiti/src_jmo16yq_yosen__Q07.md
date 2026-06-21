@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo16yq_yosen__Q07
 parent: src_jmo16yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 7
 
 *Count triples of mutually coprime 2-digit integers sharing digit-equality conditions*
 

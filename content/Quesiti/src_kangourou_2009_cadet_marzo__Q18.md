@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q18
 parent: src_kangourou_2009_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 18
 
 *Con quali colori la cella ombreggiata (4 colori)*
 

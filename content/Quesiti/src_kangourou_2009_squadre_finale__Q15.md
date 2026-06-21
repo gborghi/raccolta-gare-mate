@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q15
 parent: src_kangourou_2009_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale — Quesito 15
 
 *Valore frazione somme dispari spostate di 1000*
 

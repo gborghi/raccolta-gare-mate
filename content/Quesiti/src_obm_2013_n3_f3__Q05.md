@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f3__Q05
 parent: src_obm_2013_n3_f3
@@ -38,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3 — Quesito 5
 
 *Irrational x in (0,1): count distinct k-digit blocks in decimal expansion, prove p(k)>=k+1*
 

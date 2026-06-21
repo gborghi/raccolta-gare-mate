@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Ecolier finale — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE1
 parent: src_kangourou_2025_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2025 Ecolier finale — Quesito E1
 
 *Numero di mele/pere con cassette e 6 frutti in meno*
 

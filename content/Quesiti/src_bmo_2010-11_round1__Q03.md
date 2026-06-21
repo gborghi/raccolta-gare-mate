@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round1__Q03
 parent: src_bmo_2010-11_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 1 — Quesito 3
 
 *Triangle CAB=2CBA; line CA meets perp bisector of BC; prove AB=AC+CM*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q08
 parent: src_kangourou_2021_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale — Quesito 8
 
 *Quanti euro ha Francesco (resti e vincoli)*
 

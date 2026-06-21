@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q14
 parent: src_archimede_1998_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 14
 
 *Raggio x della circonferenza media tangente con due tangenti comuni*
 

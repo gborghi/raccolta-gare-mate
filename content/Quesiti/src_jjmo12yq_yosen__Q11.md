@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo12yq_yosen__Q11
 parent: src_jjmo12yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 11
 
 *Count arrow assignments on 14 circle points with a functional-iteration condition*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q11
 parent: src_kangourou_2017_preecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 11
 
 *Quanti triangoli nella figura*
 

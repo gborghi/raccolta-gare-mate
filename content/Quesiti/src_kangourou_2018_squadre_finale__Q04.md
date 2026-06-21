@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2018 Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q04
 parent: src_kangourou_2018_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2018 Finale — Quesito 4
 
 *Percentuale di aumento del prezzo scontato*
 

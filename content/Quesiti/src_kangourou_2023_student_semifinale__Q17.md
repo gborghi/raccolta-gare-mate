@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q17
 parent: src_kangourou_2023_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 17
 
 *Massima lunghezza di segmento parallelo a un lato nel triangolo*
 

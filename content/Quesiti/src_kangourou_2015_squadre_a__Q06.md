@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q06
 parent: src_kangourou_2015_squadre_a
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Semifinale A — Quesito 6
 
 *Lato max tavoletta quadrata in anello di raggio 8*
 

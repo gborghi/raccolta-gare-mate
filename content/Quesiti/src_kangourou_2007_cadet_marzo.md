@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo)
 tipo: gara
 src_id: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2007/CMarzo-07.pdf` · apri PDF
 

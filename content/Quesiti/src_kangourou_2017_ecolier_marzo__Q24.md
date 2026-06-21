@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q24
 parent: src_kangourou_2017_ecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 24
 
 *Quante terze sagome possibili per il rettangolo 12 quadratini*
 

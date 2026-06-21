@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q09
 parent: src_kangourou_2019_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 9
 
 *Quante somme distinte con addendi 3 e 5 (vincoli)*
 

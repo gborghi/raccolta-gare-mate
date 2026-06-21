@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo11mq_honsen__Q03
 parent: src_jjmo11mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 3
 
 *Find positive integer triples from cyclic gcd system*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1985-86 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1985-86_round1__Q04
 parent: src_bmo_1985-86_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1985-86 — Round 1 — Quesito 4
 
 *Largest K in an inequality for the sides of any obtuse triangle*
 

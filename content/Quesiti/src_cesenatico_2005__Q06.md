@@ -1,4 +1,5 @@
 ---
+title: XXI Olimpiade Italiana Cesenatico 2005 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005__Q06
 parent: src_cesenatico_2005
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# XXI Olimpiade Italiana Cesenatico 2005 — Quesito 6
 
 *Due circonferenze, arco EF bisecato dalla retta CD*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio_online__Q08
 parent: src_archimede_2021_triennio_online
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 8
 
 *Area triangolo PQR da aree di sotto-triangoli con ceviane*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo12yq_yosen__Q10
 parent: src_jjmo12yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 10
 
 *Values of x^2/y+y^2/z+z^2/x up to 500 with gcd(x,y,z)=1*
 

@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_finale__Q09
 parent: src_garasquadre_2006_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale — Quesito 9
 
 *numero di modi*
 

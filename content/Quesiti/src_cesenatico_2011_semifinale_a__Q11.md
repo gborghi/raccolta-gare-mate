@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q11
 parent: src_cesenatico_2011_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 11
 
 *Area del quadrato di ricerca del villaggio*
 

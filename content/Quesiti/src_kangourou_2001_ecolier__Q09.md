@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q09
 parent: src_kangourou_2001_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 9
 
 *Eta di Roberta quando Cristina ha il doppio*
 

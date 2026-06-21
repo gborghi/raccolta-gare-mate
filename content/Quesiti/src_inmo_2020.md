@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2020
 tipo: gara
 src_id: src_inmo_2020
 competition: Indian National Mathematical Olympiad 2020
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2020
 
 Sorgente: apri PDF
 

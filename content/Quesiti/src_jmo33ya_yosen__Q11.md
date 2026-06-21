@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo33ya_yosen__Q11
 parent: src_jmo33ya_yosen
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 11
 
 *Problem statement not present in source (answer sheet only)*
 

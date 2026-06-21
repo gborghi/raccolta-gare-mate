@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q14
 parent: src_archimede_2025_squadre_semifinale2
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 14
 
 *Operazione star iterata su razionali da 2 a 99*
 

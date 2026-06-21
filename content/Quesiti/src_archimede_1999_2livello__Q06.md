@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q06
 parent: src_archimede_1999_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 6
 
 *Area ombreggiata con circonferenze di raggio noto*
 

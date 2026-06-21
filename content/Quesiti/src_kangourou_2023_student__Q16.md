@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q16
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 16
 
 *Massimo numero di koala con ogni animale vicino a un canguro*
 

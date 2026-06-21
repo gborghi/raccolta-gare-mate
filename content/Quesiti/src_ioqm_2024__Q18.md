@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q18
 parent: src_ioqm_2024
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 18
 
 *Last two digits of largest r printed under given conditions on p,q*
 

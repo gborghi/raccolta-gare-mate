@@ -1,11 +1,10 @@
 ---
+title: Colorazione / parita
 tipo: method
 concept_id: method_colorazione
 tags:
   - graph/method
 ---
-
-# Colorazione / parita
 
 *method* — **107** quesiti (italiani).
 

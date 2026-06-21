@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q18
 parent: src_squadre_2018_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 18
 
 *Lunghezza EF con triangoli equilateri esterni a quadrilatero*
 

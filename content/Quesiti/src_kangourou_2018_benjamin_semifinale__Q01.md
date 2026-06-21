@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q01
 parent: src_kangourou_2018_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Semifinale individuale — Quesito 1
 
 *Area intersezione di due quadrati con vertice al centro*
 

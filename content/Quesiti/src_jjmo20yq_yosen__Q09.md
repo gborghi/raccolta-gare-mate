@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo20yq_yosen__Q09
 parent: src_jjmo20yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 9
 
 *Count n<=2022 admitting a multiple with exactly one 0-digit, all others 2*
 

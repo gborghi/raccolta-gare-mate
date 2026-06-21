@@ -1,4 +1,5 @@
 ---
+title: IMO 1965 (Seventh International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1965_all__Q06
 parent: src_imo_1965_all
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1965 (Seventh International Olympiad) — Quesito 6
 
 *Prove number of diameters of n-point set is at most n*
 

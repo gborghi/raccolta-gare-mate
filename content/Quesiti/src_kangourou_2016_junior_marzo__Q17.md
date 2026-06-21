@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q17
 parent: src_kangourou_2016_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 17
 
 *somma supera di 31 quella di Alice*
 

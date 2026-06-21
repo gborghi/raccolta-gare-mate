@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f3__Q02
 parent: src_obm_2015_n1_f3
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3 — Quesito 2
 
 *Nine cards 1–9 stacked; three people draw two each; analyse remaining sums*
 

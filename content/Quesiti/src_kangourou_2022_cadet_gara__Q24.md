@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q24
 parent: src_kangourou_2022_cadet_gara
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 24
 
 *Distanza impossibile di A da D tra quattro paesi*
 

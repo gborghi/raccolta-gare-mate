@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_tfjm_2019__Q05
 parent: src_tfjm_2019
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 5
 
 *Placing chords (Korde walls) in a disk to prevent regular-polygon candidates from seeing each other*
 

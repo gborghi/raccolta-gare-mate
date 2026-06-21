@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2024-25 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2024-25_round1__Q01
 parent: src_bmo_2024-25_round1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2024-25 — Round 1 — Quesito 1
 
 *Find which n in 3..12 admit a happy circle arrangement*
 

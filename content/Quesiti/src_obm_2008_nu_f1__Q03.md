@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2008_nu_f1__Q03
 parent: src_obm_2008_nu_f1
@@ -33,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 — Quesito 3
 
 *Count ways Esmeralda walks 2008 steps on integer lattice ending at origin*
 

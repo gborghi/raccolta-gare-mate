@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q14
 parent: src_kangourou_2011_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 14
 
 *Quante risposte ha sbagliato il signor Rossi*
 

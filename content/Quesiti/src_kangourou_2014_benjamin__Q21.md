@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q21
 parent: src_kangourou_2014_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 21
 
 *Minimo cubetti da rimuovere per la vista voluta*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q19
 parent: src_kangourou_2003_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 19
 
 *Quale casetta si ottiene dal ritaglio*
 

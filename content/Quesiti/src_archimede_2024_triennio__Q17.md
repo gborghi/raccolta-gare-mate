@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q17
 parent: src_archimede_2024_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 17
 
 *Suddivisione di stringhe 0/1 in blocchi, conteggio stringhe*
 

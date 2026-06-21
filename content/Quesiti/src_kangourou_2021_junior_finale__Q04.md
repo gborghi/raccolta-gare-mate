@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q04
 parent: src_kangourou_2021_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 4
 
 *Numero di sviluppi piani diversi di un cubo*
 

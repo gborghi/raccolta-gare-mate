@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo11mq_honsen__Q05
 parent: src_jmo11mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 5
 
 *Triangles ABC, PQR: midpoint and angle-bisector conditions; prove AB+AC=PQ+PR*
 

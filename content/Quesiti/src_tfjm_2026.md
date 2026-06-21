@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026
 tipo: gara
 src_id: src_tfjm_2026
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026
 
 Sorgente: apri PDF
 

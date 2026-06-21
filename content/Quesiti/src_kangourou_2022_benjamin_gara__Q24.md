@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q24
 parent: src_kangourou_2022_benjamin_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 24
 
 *Quale solido rappresenta quello di Anna da altra vista*
 

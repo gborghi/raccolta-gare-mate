@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Ecolier — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__QE1
 parent: src_kangourou_2020_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Ecolier — Quesito E1
 
 *Quante mosse complete con 1000 spilli (gioco a tre per spillo)*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1994 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1994__Q02
 parent: src_inmo_1994
@@ -29,8 +30,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1994 — Quesito 2
 
 *Real root of degree-5 polynomial implies inequality*
 

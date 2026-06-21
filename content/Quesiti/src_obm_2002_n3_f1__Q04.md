@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q04
 parent: src_obm_2002_n3_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 4
 
 *Match water-level vs time graphs to vessels of different shapes being filled at constant rate*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (finale Cervia) — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_finale__QE3
 parent: src_kangourou_2017_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (finale Cervia) — Quesito E3
 
 *Anni fa la somma eta figli uguale a quella del padre*
 

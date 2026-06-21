@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q28
 parent: src_kangourou_2019_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 28
 
 *Valore di a_2019 nella successione (quadrato somma cifre +1)*
 

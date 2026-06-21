@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo14mq_honsen__Q03
 parent: src_jjmo14mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 3
 
 *Minimize product of two quadratics with ab+bc+cd=1*
 

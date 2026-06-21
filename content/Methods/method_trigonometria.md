@@ -1,11 +1,10 @@
 ---
+title: Tecniche trigonometriche
 tipo: method
 concept_id: method_trigonometria
 tags:
   - graph/method
 ---
-
-# Tecniche trigonometriche
 
 *method* — **204** quesiti (italiani).
 

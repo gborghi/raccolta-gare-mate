@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin
 tipo: gara
 src_id: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/Benjamin_Semif_19TESTO.pdf` · apri PDF
 

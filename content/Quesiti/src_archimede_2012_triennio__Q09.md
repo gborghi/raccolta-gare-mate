@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q09
 parent: src_archimede_2012_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 9
 
 *Primi p, q con p^q+1 primo*
 

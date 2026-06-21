@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q14
 parent: src_archimede_2002_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 14
 
 *Massima cifra non pagabile con monete da 3 e 11*
 

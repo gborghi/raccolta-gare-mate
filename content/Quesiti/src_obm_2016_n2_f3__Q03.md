@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f3__Q03
 parent: src_obm_2016_n2_f3
@@ -39,8 +40,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3 — Quesito 3
 
 *Partition of integers 1 to 99 into groups so no two in a group sum to a multiple of 3*
 

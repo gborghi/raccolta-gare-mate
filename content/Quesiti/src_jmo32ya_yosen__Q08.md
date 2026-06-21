@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo32ya_yosen__Q08
 parent: src_jmo32ya_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 8
 
 *Count strictly-increasing sequences satisfying a decreasing squared-difference chain*
 

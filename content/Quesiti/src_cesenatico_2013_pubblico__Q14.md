@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q14
 parent: src_cesenatico_2013_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 14
 
 *Minimo di (a*b)*(c*d) con x*y=x+y-xy*
 

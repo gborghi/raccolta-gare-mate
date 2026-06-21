@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q13
 parent: src_kangourou_2006_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 13
 
 *Quale figura non e usata nel puzzle*
 

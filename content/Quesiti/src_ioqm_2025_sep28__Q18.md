@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q18
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 18
 
 *Grid paths from (0,0) to (7,12) avoiding points with both coordinates odd*
 

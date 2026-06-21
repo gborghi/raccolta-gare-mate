@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_2livello__Q02
 parent: src_archimede_2021_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2021 - 2° livello — Quesito 2
 
 *Triangolo con AC=AM mediana, lunghezza AC*
 

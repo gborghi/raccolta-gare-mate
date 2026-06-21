@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q21
 parent: src_kangourou_2007_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 21
 
 *Valore a^3+b^3 dove a,b radici di x^2-3x+1*
 

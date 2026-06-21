@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q12
 parent: src_obm_1998_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 12
 
 *An integer n is 'good' when 4n+1 is a multiple of 5. Count the good numbers between 500 and 1000.*
 

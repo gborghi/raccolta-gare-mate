@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q26
 parent: src_kangourou_2019_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 26
 
 *Quanti interi z con |z^2-2z-3| primo*
 

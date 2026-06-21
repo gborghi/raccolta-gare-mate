@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q14
 parent: src_kangourou_2020_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 14
 
 *Quanti allievi (3/5 nuoto, 3/5 danza, 5 entrambi)*
 

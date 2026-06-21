@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2008 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2008__Q05
 parent: src_inmo_2008
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2008 — Quesito 5
 
 *Line OI passes through centre of circle tangent to three equal inscribed circles*
 

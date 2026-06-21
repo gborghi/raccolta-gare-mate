@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q18
 parent: src_archimede_2011_triennio
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 18
 
 *Modi di colorare facce e vertici di un dado*
 

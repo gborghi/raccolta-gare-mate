@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f3__Q02
 parent: src_obm_2002_n1_f3
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 2
 
 *X is reflection of B across line r (perpendicular bisector setup); X' Y' Z' are reflections of vertices of triangle XYZ across the opposite sides; compute the area of triangle X'Y'Z'*
 

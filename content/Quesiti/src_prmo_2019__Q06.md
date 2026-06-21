@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q06
 parent: src_prmo_2019
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 6
 
 *Three-digit number with sum of squares of digits equal to square*
 

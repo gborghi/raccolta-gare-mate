@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f2__Q01
 parent: src_obm_2004_n3_f2
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2 — Quesito 1
 
 *Count integer values of a sum expression given root constraints*
 

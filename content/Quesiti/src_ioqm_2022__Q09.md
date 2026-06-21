@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q09
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 9
 
 *Triangle with sides 18, x<100, exactly 35 valid integer values for third side*
 

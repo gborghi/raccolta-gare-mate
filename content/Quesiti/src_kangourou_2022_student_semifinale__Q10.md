@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Semifinale individuale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q10
 parent: src_kangourou_2022_student_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Semifinale individuale — Quesito 10
 
 *Due esagoni regolari con lati perpendicolari, angolo ABC*
 

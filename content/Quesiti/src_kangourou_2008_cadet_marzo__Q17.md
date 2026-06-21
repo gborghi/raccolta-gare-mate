@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q17
 parent: src_kangourou_2008_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 17
 
 *Area del triangolo PQR tra quattro cerchi tangenti*
 

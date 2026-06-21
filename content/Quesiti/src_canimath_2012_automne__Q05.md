@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q05
 parent: src_canimath_2012_automne
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 5
 
 *Prove 10^2011 + 10^2012 + 10^2013 divisible by 37*
 

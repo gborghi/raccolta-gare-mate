@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q03
 parent: src_kangourou_2018_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 3
 
 *Punto d'incontro dei due serpenti sul bordo*
 

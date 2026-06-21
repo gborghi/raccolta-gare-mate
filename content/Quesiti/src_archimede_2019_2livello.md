@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2019 - 2° livello
 tipo: gara
 src_id: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2019 - 2° livello
 
 Sorgente: `Archimede/individuale/2livello/2019/soluzioni2019.pdf` · apri PDF
 

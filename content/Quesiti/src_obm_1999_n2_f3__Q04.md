@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n2_f3__Q04
 parent: src_obm_1999_n2_f3
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 3 — Quesito 4
 
 *Prove sqrt(2) has a nonzero decimal digit between positions 1,000,000 and 3,000,000*
 

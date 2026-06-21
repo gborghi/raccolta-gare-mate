@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q30
 parent: src_kangourou_2005_junior
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 30
 
 *Angolo CPE con tre quadrati accostati*
 

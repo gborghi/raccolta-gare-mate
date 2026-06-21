@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2024
 tipo: gara
 src_id: src_inmo_2024
 competition: Indian National Mathematical Olympiad 2024
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2024
 
 Sorgente: apri PDF
 

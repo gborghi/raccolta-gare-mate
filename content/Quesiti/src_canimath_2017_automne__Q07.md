@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2017 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_automne__Q07
 parent: src_canimath_2017_automne
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2017 — Quesito 7
 
 *2012 numbers (±1) on a circle, no 10 consecutive sum to 0; find possible values of total sum S*
 

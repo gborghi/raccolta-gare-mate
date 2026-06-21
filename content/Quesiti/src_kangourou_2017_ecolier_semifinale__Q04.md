@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q04
 parent: src_kangourou_2017_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 4
 
 *Area dei quadrati piccoli in rettangolo suddiviso*
 

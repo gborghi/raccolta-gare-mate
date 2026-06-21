@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2005 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2005__Q03
 parent: src_rmo_2005
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2005 — Quesito 3
 
 *Three reals with pairwise difference conditions: one equals sum of other two*
 

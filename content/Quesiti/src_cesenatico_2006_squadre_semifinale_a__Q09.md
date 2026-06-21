@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q09
 parent: src_cesenatico_2006_squadre_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 9
 
 *Volte che lancetta secondi sorpassa minuti in una settimana*
 

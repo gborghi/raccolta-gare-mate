@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2024__Q03
 parent: src_selection_camp_2024
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2024 — Selection Camp — Quesito 3
 
 *Complete graph of bridges partitioned into Hamiltonian-path companies; maximize companies*
 

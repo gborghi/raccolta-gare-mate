@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo16yq_yosen__Q11
 parent: src_jmo16yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 11
 
 *Find minimum constant c for functional inequality involving f(x,y) on unit square*
 

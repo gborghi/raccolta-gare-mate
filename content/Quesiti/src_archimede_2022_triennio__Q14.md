@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q14
 parent: src_archimede_2022_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 14
 
 *Numero di k con polinomio avente radice intera positiva*
 

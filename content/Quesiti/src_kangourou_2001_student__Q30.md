@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Student (15 marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_student__Q30
 parent: src_kangourou_2001_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2001 - Student (15 marzo) — Quesito 30
 
 *Area triangolo FAT nell'esagono convesso*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q02
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 2
 
 *Modi di dividere 9 persone in gruppi con vincoli*
 

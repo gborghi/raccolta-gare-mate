@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_triennio__Q02
 parent: src_archimede_2019_triennio
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Triennio (T1) — Quesito 2
 
 *Prezzo del maglione se IVA passa dal 22% al 25%*
 

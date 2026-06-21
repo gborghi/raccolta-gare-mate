@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q04
 parent: src_canimath_2025_automne
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 4
 
 *Find all b given remainders 2 and 4 in two Euclidean divisions*
 

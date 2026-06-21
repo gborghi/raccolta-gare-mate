@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f1__Q05
 parent: src_obm_2001_n2_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 5
 
 *How many times the group 89 appears writing the integers 1 to 1000 in a row*
 

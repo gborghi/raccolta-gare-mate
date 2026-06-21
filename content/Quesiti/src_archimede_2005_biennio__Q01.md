@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q01
 parent: src_archimede_2005_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 1
 
 *Quante cifre ha il numero 2^3*5^4*10^5*
 

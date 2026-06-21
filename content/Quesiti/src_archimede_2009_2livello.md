@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio)
 tipo: gara
 src_id: src_archimede_2009_2livello
 competition: Archimede Gara 2° livello 2009 (biennio/triennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio)
 
 Sorgente: `Archimede/individuale/2livello/2009/febb09.pdf` · apri PDF
 

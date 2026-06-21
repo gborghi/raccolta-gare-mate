@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q28
 parent: src_kangourou_2018_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 28
 
 *Somma dei numeri possibili al punto di domanda*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_biennio__Q12
 parent: src_archimede_2026_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Biennio — Quesito 12
 
 *Quanti cavalieri nella classe (cavalieri e furfanti)*
 

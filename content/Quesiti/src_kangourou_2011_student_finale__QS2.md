@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Student (Mirabilandia) — Quesito S2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student_finale__QS2
 parent: src_kangourou_2011_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Student (Mirabilandia) — Quesito S2
 
 *Chi salta circuito con fossato senza cadere e perche*
 

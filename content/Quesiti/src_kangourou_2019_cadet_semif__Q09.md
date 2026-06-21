@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q09
 parent: src_kangourou_2019_cadet_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 9
 
 *Ultima cifra di 2019*N dati i divisori di 2N e 3N*
 

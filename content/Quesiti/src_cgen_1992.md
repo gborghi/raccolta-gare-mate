@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1992 — Matematica
 tipo: gara
 src_id: src_cgen_1992
 competition: Concours Général des Lycées 1992 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/1992
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1992 — Matematica
 
 Sorgente: apri PDF
 

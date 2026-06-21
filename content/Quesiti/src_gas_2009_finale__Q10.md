@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q10
 parent: src_gas_2009_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 10
 
 *Probabilita di estrarre esattamente 2 anelli elfici su 3*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q03
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 3
 
 *Count 6-digit numbers of form abccba with b odd and divisible by 7*
 

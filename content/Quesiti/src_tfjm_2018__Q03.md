@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_tfjm_2018__Q03
 parent: src_tfjm_2018
@@ -36,8 +37,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 3
 
 *A two-player game placing buildings on n plots by the sea; a building of i floors goes on plot i, floors with a sea view score points, and one analyzes guaranteed advantage and optimal scores under several rule variants.*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q09
 parent: src_canimath_2019_automne
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 9
 
 *Chickens and cows; count cows given total animals and slippers (lycée version)*
 

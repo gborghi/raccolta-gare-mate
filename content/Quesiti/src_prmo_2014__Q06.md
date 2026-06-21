@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q06
 parent: src_prmo_2014
@@ -33,8 +34,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 6
 
 *Smallest natural number n such that x^2 - nx + 2014 = 0 has integer roots*
 

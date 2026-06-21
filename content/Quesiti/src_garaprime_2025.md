@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025
 tipo: gara
 src_id: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025
 
 Sorgente: `Archimede/individuale/classi prime/2025/25 02 05 - gara prime - testo.pdf` · apri PDF
 

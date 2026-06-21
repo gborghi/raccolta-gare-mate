@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2013 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2013_automne__Q05
 parent: src_canimath_2013_automne
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2013 — Quesito 5
 
 *Club of 100: popular member and maximum size of club*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_a__Q14
 parent: src_gas_2010_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale A — Quesito 14
 
 *Massimi numeri di 5 cifre con cifre 0-9, uno doppio dell'altro*
 

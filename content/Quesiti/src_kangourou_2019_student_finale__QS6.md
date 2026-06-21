@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Student — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_finale__QS6
 parent: src_kangourou_2019_student_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Student — Quesito S6
 
 *Critica della dimostrazione su pavimentazione con ettagoni*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2023 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2023__Q06
 parent: src_inmo_2023
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2023 — Quesito 6
 
 *Using a cyclos tool, construct a circle centered at one of two given points passing through the other*
 

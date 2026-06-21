@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_finale__Q11
 parent: src_cesenatico_2011_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 11
 
 *2 primi e 1 quadrato perfetto*
 

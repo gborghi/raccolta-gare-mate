@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q13
 parent: src_ioqm_2025_sep28
@@ -32,8 +33,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 13
 
 *Convex quadrilateral, diagonals 12 and 16, midpoint segments equal; max area*
 

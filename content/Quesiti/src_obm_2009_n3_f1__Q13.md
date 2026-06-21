@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q13
 parent: src_obm_2009_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 13
 
 *6-question test for 18 students; each student got exactly 4 right and each question had the same number m of correct answers; find m.*
 

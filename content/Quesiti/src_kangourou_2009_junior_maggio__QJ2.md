@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_junior_maggio__QJ2
 parent: src_kangourou_2009_junior_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J2
 
 *Il numero 29^28+4 e primo*
 

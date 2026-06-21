@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q25
 parent: src_kangourou_2003_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 25
 
 *Quale conclusione sui libri puo essere falsa*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q06
 parent: src_canimath_2019_automne
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 6
 
 *Max tokens on 8x8 board with at most 4 per row/column; then also at most 4 per large diagonal*
 

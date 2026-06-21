@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q15
 parent: src_kangourou_2022_ecolier_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 15
 
 *Modi di scrivere 40 come due dispari e un pari*
 

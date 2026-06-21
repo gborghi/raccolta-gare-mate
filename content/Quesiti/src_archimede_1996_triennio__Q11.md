@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q11
 parent: src_archimede_1996_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 11
 
 *Cifra delle unita di una somma di quadrati*
 

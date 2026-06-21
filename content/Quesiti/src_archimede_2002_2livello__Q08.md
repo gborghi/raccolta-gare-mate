@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2002 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_2livello__Q08
 parent: src_archimede_2002_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2002 — Quesito 8
 
 *Valore del polinomio r(2002) con r(2000)=2000, r(2001)=2001*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2023__Q08
 parent: src_selection_camp_2023
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2023 — Selection Camp — Quesito 8
 
 *Blackboard mod-p game: largest x for which B can block A*
 

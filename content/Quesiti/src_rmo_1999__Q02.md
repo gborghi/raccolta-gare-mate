@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1999 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1999__Q02
 parent: src_rmo_1999
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1999 — Quesito 2
 
 *Count positive integers dividing $10^{999}$ but not $10^{998}$*
 

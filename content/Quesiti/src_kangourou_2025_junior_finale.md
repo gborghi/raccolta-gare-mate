@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Junior finale
 tipo: gara
 src_id: src_kangourou_2025_junior_finale
 competition: Kangourou 2025 Junior finale
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Kangourou 2025 Junior finale
 
 Sorgente: `Kangaroo/kangourou_individuali/2025/Junior2025RFIN.pdf` · apri PDF
 

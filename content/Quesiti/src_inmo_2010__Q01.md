@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2010 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2010__Q01
 parent: src_inmo_2010
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2010 — Quesito 1
 
 *Circumcircle, angle bisector, intersection points, PQ parallel to BC*
 

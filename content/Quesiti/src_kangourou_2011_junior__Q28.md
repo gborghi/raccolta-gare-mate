@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q28
 parent: src_kangourou_2011_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 28
 
 *Per quali n annerire celle con n per sottogriglia 3x3*
 

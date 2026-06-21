@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Finale (risposta aperta)
 tipo: gara
 src_id: src_kangourou_2022_student_finale
 competition: Kangourou 2022 Student — Finale (risposta aperta)
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Finale (risposta aperta)
 
 Sorgente: `Kangaroo/kangourou_individuali/2022/Student2022RFIN.pdf` · apri PDF
 

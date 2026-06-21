@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo24yq_yosen__Q09
 parent: src_jmo24yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 9
 
 *Square ABCD diagonal midpoint O; points P,Q,R,S on sides; OP=3, OQ=OR=4; find XY*
 

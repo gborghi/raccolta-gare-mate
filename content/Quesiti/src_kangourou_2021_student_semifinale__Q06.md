@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q06
 parent: src_kangourou_2021_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 6
 
 *Soluzione di equazione in (x^3-76) data x=5*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q16
 parent: src_squadre_2026_semifinale_cd
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 16
 
 *Interi tra -400 e 400 differenza di somme di quadrati*
 

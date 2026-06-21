@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q09
 parent: src_canimath_2021_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 9
 
 *Card deck ratio: black twice red, then add 4 black to make triple (lycee)*
 

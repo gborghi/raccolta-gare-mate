@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2018 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_automne__Q07
 parent: src_canimath_2018_automne
@@ -35,8 +36,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2018 — Quesito 7
 
 *Fly vs k spiders on 2018×2018 grid; safe starting cells for fly*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f2__Q07
 parent: src_obm_2004_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 7
 
 *Card game: count cards used and minimum draws to guarantee two blue*
 

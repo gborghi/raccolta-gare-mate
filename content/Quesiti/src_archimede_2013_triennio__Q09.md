@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q09
 parent: src_archimede_2013_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 9
 
 *Massimo quaderni di colori diversi, potenze di 2*
 

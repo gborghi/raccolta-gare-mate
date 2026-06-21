@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2017-18 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2017-18_round2__Q03
 parent: src_bmo_2017-18_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2017-18 — Round 2 — Quesito 3
 
 *Determine if sum of cubes (m+1)³+…+(2m)³ is ever a perfect square*
 

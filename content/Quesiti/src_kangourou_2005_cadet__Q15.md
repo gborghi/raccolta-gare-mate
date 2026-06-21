@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q15
 parent: src_kangourou_2005_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 15
 
 *Quale non e sviluppo piano di un cubo*
 

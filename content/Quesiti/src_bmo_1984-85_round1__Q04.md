@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1984-85 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1984-85_round1__Q04
 parent: src_bmo_1984-85_round1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1984-85 — Round 1 — Quesito 4
 
 *Recurrence sequence: prove f_k f_{k+1} equals some term*
 

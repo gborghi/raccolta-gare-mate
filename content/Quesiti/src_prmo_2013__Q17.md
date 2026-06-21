@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q17
 parent: src_prmo_2013
@@ -30,8 +31,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 17
 
 *Radius of circle S1 given circle configuration with angle YXO=30 and radius of S2=100*
 

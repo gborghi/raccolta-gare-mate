@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q04
 parent: src_canimath_2021_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 4
 
 *8×8 chessboard, infernal rooks attack same-color in row and other-color in column; find maximum non-attacking placement*
 

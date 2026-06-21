@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q13
 parent: src_archimede_2007_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 13
 
 *Ultime 3 cifre di p(21) dato p(k)=2^k per k da 1 a 20*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo6q__Q07
 parent: src_jjmo6q
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008 — Quesito 7
 
 *Count triples (a,b,c) of positive integers with lcm 720, all different*
 

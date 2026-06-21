@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 3'
 tipo: quesito
 quesito_id: quesito_src_imo_1992__Q03
 parent: src_imo_1992
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1992 (33rd IMO, Moscow) — Quesito 3
 
 *Smallest n of colored edges forcing monochromatic triangle*
 

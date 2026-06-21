@@ -1,4 +1,5 @@
 ---
+title: IMO 2022 papers — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_2022__Q04
 parent: src_imo_2022
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2022 papers — Quesito 4
 
 *P,S,Q,R conciclici nel pentagono convesso*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2012
 tipo: gara
 src_id: src_inmo_2012
 competition: Indian National Mathematical Olympiad 2012
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2012
 
 Sorgente: apri PDF
 

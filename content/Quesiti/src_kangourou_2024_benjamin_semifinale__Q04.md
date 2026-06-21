@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q04
 parent: src_kangourou_2024_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 4
 
 *In quale riga si trova 2024 nella disposizione a moduli*
 

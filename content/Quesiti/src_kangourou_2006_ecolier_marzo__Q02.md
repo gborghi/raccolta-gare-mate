@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q02
 parent: src_kangourou_2006_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 2
 
 *Max persone attorno a 7 tavoli quadrati accostati*
 

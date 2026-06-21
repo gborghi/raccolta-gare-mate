@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_biennio__Q08
 parent: src_archimede_2012_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Biennio — Quesito 8
 
 *Modi di colorare mattonelle esagonali con tre colori*
 

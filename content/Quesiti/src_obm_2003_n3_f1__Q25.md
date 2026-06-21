@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q25
 parent: src_obm_2003_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 25
 
 *Find angle DAE in triangle ABC with AB=20,AC=21,BC=29 and D,E on BC*
 

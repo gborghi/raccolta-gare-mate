@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2022__Q04
 parent: src_cesenatico_2022
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 4
 
 *minimo domande per determinare ak*
 

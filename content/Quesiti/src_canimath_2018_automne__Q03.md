@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2018 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_automne__Q03
 parent: src_canimath_2018_automne
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2018 — Quesito 3
 
 *9-digit number 30x070y03 divisible by 37, find digit pairs (x,y)*
 

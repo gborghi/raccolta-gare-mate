@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2010
 tipo: gara
 src_id: src_rmo_2010
 competition: Regional Mathematical Olympiad 2010
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2010
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2016__Q04
 parent: src_selection_camp_2016
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2016 — Selection Camp — Quesito 4
 
 *Product of fractions minus 1 divisible by an odd prime*
 

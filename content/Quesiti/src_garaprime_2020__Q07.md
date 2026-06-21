@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_garaprime_2020__Q07
 parent: src_garaprime_2020
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020 — Quesito 7
 
 *Termine 2020 di successione ricorsiva periodica*
 

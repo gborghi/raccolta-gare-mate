@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f3__Q04
 parent: src_obm_2013_n2_f3
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 3 — Quesito 4
 
 *Find two-digit numbers whose quadroid divides them*
 

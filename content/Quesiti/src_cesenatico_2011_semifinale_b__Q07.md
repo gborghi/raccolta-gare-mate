@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q07
 parent: src_cesenatico_2011_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 7
 
 *rapporto q/r*
 

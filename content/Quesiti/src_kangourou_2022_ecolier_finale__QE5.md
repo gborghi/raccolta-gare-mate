@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__QE5
 parent: src_kangourou_2022_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito E5
 
 *Numero possibile di domeniche in tre mesi consecutivi*
 

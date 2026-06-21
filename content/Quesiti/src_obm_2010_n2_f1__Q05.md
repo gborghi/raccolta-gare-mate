@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f1__Q05
 parent: src_obm_2010_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 5
 
 *Distinct x,y with x-1/x=y-1/y, find xy*
 

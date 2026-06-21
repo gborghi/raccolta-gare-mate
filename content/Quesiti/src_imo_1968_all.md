@@ -1,4 +1,5 @@
 ---
+title: IMO 1968 (Tenth International Olympiad)
 tipo: gara
 src_id: src_imo_1968_all
 competition: IMO 1968 (Tenth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1968
   - gara/individuale
 ---
-
-# IMO 1968 (Tenth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1968_eng.pdf` · apri PDF
 

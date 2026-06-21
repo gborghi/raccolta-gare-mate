@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_triennio__Q13
 parent: src_archimede_2016_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Triennio — Quesito 13
 
 *Confronto di radici n/(n-1) minimo*
 

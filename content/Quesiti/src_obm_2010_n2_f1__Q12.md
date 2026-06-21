@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f1__Q12
 parent: src_obm_2010_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 12
 
 *Ana descends 24-step stair, crosses Beatriz at 3/4 down; steps Beatriz still climbs*
 

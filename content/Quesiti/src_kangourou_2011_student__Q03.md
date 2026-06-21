@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q03
 parent: src_kangourou_2011_student
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 3
 
 *Calcolo di xy con 2^x=15 e 15^y=32*
 

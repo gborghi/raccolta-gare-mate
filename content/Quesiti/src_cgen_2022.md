@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2022 — Matematica
 tipo: gara
 src_id: src_cgen_2022
 competition: Concours Général des Lycées 2022 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2022 — Matematica
 
 Sorgente: apri PDF
 

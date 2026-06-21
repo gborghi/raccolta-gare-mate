@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f1__Q18
 parent: src_obm_2001_n2_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 18
 
 *Sum of all numbers from 1 to 999 in which the digit 1 appears exactly twice*
 

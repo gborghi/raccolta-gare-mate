@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1993 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1993__Q06
 parent: src_inmo_1993
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1993 — Quesito 6
 
 *Two circles tangent to sides of right triangle; product of radii equals area*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q17
 parent: src_cesenatico_2007_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 17
 
 *Anni divisibili ordinatamente per k,k-1,... piu lunga del 2007*
 

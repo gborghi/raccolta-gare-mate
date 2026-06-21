@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q12
 parent: src_kangourou_2016_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 12
 
 *Numero impossibile in cima alla piramide di prodotti*
 

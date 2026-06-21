@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo36hq_honsen__Q02
 parent: src_jmo36hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 2
 
 *Sequence of odd numbers defined by coprimality; bound |a_n - 2n|*
 

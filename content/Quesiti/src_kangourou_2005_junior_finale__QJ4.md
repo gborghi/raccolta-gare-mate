@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (finale nazionale) — Quesito J4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior_finale__QJ4
 parent: src_kangourou_2005_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (finale nazionale) — Quesito J4
 
 *Somma coefficienti dello sviluppo di (2x-y+z)^8*
 

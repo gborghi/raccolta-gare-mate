@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q17
 parent: src_obm_2009_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 17
 
 *Count real pairs (x,y) satisfying (x+y)^4+(x-y)^4=0*
 

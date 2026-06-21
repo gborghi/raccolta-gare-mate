@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q14
 parent: src_kangourou_2022_kangourou_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 14
 
 *Modi di distribuire 16 gettoni in 6 sacchetti*
 

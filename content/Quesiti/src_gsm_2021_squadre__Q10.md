@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q10
 parent: src_gsm_2021_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 10
 
 *Somma dei cubi delle radici di un polinomio di quinto grado*
 

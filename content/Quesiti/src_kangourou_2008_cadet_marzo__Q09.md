@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q09
 parent: src_kangourou_2008_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 9
 
 *Minimo monete da scambiare per pari valore*
 

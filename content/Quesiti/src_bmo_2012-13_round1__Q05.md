@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2012-13 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2012-13_round1__Q05
 parent: src_bmo_2012-13_round1
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2012-13 — Round 1 — Quesito 5
 
 *Triangle with sides at most 2, 3, 4; maximum area*
 

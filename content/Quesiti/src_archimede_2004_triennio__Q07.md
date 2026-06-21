@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Triennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_triennio__Q07
 parent: src_archimede_2004_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Triennio — Quesito 7
 
 *Probabilità di vincita con dado/lista numerata*
 

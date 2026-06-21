@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_biennio__Q14
 parent: src_archimede_2019_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1) — Quesito 14
 
 *Quadrati perfetti multipli di 7 tra 1 e 5000*
 

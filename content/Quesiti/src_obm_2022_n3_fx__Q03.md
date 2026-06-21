@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2022 — Nível 3 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2022_n3_fx__Q03
 parent: src_obm_2022_n3_fx
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível 3 — Fase x — Quesito 3
 
 *Self-referential sequence: find smallest M making it M-self-referential in 2022*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q23
 parent: src_gas_2010_finale
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 23
 
 *Probabilita vincita iterando prodotto delle cifre da 1 a 10000*
 

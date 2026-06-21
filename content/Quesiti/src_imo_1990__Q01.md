@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1990 (31st IMO, Beijing) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1990__Q01
 parent: src_imo_1990
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1990 (31st IMO, Beijing) — Quesito 1
 
 *Find EG/EF in terms of t for tangent-line circle config*
 

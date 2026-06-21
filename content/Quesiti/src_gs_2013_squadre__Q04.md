@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q04
 parent: src_gs_2013_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 4
 
 *Area triangolo da trapezio con similitudini*
 

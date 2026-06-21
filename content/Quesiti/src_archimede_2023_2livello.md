@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2023 - 2° livello
 tipo: gara
 src_id: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2023 - 2° livello
 
 Sorgente: `Archimede/individuale/2livello/2023/soluzioni2023.pdf` · apri PDF
 

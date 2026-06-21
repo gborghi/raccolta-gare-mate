@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q10
 parent: src_obm_2002_n3_f1
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 10
 
 *Given xy=2 and x^2+y^2=5, evaluate x^2/y^2 + y^2/x^2 + 2*
 

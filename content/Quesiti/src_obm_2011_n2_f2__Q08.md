@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f2__Q08
 parent: src_obm_2011_n2_f2
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 8
 
 *Count ordered pairs (a,b) of positive integers with a+b+gcd(a,b)=33*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q07
 parent: src_kangourou_2020_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2020 Finale — Quesito 7
 
 *Posizione della 90-esima coincidenza di cifra 5*
 

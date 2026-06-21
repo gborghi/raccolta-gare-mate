@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q12
 parent: src_canimath_2021_automne
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 12
 
 *Acute isosceles triangle, constructed points S,T,D,E; show CE bisects angle DCB*
 

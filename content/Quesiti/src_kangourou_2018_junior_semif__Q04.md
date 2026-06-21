@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q04
 parent: src_kangourou_2018_junior_semif
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 4
 
 *Probabilita che il numero di Alice superi quello di Barbara*
 

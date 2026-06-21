@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f3__Q02
 parent: src_obm_2008_n1_f3
@@ -38,8 +39,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 2
 
 *Operation replacing each digit with its successor mod 9, eliminating leading zeros; sequence and fixed-point analysis*
 

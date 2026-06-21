@@ -1,4 +1,5 @@
 ---
+title: IMO 1960 (II International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imho_1960__Q02
 parent: src_imho_1960
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1960 (II International Olympiad) — Quesito 2
 
 *Valori di x per cui vale la disuguaglianza con radice*
 

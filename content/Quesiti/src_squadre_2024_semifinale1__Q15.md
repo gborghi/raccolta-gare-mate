@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale1__Q15
 parent: src_squadre_2024_semifinale1
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 1 — Quesito 15
 
 *Modi di raggiungere 11 blu 9 rosse 4 verdi con mosse minime*
 

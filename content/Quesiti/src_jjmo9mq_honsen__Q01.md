@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo9mq_honsen__Q01
 parent: src_jjmo9mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 1
 
 *Cyclic hexagon with three pairs of parallel sides; prove fourth pair also parallel*
 

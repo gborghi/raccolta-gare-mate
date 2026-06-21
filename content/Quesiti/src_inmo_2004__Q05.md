@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2004 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2004__Q05
 parent: src_inmo_2004
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2004 — Quesito 5
 
 *6-tuples of positive integers summing squares; find gcd of all abcdef*
 

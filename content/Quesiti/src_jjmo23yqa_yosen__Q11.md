@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo23yqa_yosen__Q11
 parent: src_jjmo23yqa_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 11
 
 *Minimum total score for student A under given dominance conditions over student B*
 

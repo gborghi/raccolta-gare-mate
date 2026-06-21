@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q20
 parent: src_kangourou_2021_preecolier_koala
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 20
 
 *Posizioni dei denti neri dopo un giro della ruota piccola*
 

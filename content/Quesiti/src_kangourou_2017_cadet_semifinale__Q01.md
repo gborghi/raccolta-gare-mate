@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q01
 parent: src_kangourou_2017_cadet_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (semifinale individuale) — Quesito 1
 
 *Numeri di 3 cifre con prodotto cifre minore di 2*
 

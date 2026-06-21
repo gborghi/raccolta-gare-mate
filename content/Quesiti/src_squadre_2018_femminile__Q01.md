@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q01
 parent: src_squadre_2018_femminile
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 1
 
 *Anno di nascita con somma cifre uguale all'eta nel 2017*
 

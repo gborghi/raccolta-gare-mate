@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2022 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo20hq_honsen__Q01
 parent: src_jjmo20hq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2022 — Honsen (Final) — Quesito 1
 
 *Primes (p,q) making p^3+3q^3-32 prime*
 

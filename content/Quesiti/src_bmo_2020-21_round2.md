@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2020-21 — Round 2
 tipo: gara
 src_id: src_bmo_2020-21_round2
 competition: British Mathematical Olympiad 2020-21 — Round 2
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2020-21 — Round 2
 
 Sorgente: apri PDF
 

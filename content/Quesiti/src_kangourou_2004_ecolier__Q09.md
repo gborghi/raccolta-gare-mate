@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q09
 parent: src_kangourou_2004_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 9
 
 *Peso di una stilografica*
 

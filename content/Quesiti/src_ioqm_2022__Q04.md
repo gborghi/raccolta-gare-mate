@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q04
 parent: src_ioqm_2022
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 4
 
 *Alice and Bob iterate different maps on M and N, reach same number after 4 moves each*
 

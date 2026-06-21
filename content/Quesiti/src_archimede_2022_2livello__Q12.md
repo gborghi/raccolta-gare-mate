@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_2livello__Q12
 parent: src_archimede_2022_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2022 - 2° livello — Quesito 12
 
 *Triangolo dentro esagono, lunghezza percorsa dal vertice*
 

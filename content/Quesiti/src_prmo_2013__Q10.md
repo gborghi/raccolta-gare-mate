@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q10
 parent: src_prmo_2013
@@ -30,8 +31,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 10
 
 *Sum of three numbers in Carol's addition/multiplication mix-up problem*
 

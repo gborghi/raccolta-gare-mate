@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q09
 parent: src_kangourou_2012_student
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 9
 
 *Vincoli su x reale con x^3<64<x^2*
 

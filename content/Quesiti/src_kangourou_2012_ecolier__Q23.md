@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q23
 parent: src_kangourou_2012_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 23
 
 *Lato dei due quadrati finali dal foglio 192x84*
 

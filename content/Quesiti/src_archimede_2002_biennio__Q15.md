@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q15
 parent: src_archimede_2002_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 15
 
 *Regioni in cui le facce prolungate dividono lo spazio*
 

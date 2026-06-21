@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q03
 parent: src_kangourou_2021_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 3
 
 *Minuti per riempire il primo recipiente di amebe*
 

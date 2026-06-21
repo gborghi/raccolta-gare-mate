@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q02
 parent: src_kangourou_2021_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 2
 
 *Quante volte si stringono due mani sinistre*
 

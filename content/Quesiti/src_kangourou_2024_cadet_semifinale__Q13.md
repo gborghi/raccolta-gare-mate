@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q13
 parent: src_kangourou_2024_cadet_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 13
 
 *In quanti modi ripartire 1..18 in coppie con somma quadrato*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q09
 parent: src_kangourou_2019_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 9
 
 *Quale uguaglianza vale per operazione x*y=y-x associativa*
 

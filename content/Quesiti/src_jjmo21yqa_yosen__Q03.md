@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo21yqa_yosen__Q03
 parent: src_jjmo21yqa_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 3
 
 *Row of 7 cells with A,B,C, adjacent pairs of each*
 

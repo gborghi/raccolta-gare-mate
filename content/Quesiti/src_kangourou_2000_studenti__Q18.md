@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q18
 parent: src_kangourou_2000_studenti
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 18
 
 *Attesa di mamma kangourou all'albero*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f3__Q03
 parent: src_obm_2007_n3_f3
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 3
 
 *Prove the set of side and diagonal lengths of a convex n-gon has at least floor(n/2) distinct values*
 

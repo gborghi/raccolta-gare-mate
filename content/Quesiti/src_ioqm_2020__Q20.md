@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q20
 parent: src_ioqm_2020
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 20
 
 *Women build wall in 45 hours; first worked 5 times as many hours as last; find hours first woman worked*
 

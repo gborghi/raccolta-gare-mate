@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q22
 parent: src_kangourou_2023_student
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 22
 
 *Peggiore piazzamento finale possibile in gara a 3 specialita*
 

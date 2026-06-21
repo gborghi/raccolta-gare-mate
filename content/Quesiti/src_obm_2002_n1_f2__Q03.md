@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f2__Q03
 parent: src_obm_2002_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 3
 
 *Starting from 2002, reach 13 by repeatedly doubling or removing the units digit*
 

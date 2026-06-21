@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q06
 parent: src_archimede_2022_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 6
 
 *Perimetro di un sotto-parallelogramma da perimetri dati*
 

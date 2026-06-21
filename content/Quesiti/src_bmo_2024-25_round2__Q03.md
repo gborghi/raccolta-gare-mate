@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2024-25 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2024-25_round2__Q03
 parent: src_bmo_2024-25_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2024-25 — Round 2 — Quesito 3
 
 *Largest swaps Elijah needs to restore chessboard colouring*
 

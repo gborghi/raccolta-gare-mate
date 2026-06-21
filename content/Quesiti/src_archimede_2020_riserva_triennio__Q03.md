@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q03
 parent: src_archimede_2020_riserva_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 3
 
 *Triangoli non congruenti con lati tra 2,3,4,5*
 

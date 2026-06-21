@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q02
 parent: src_archimede_2014_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello — Quesito 2
 
 *frase necessariamente vera*
 

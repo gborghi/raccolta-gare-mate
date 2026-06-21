@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f2__Q06
 parent: src_obm_2004_n2_f2
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 6
 
 *Split set of perfect squares into two equal-sum groups*
 

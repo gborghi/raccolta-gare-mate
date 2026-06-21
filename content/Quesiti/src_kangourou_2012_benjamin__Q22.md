@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q22
 parent: src_kangourou_2012_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 22
 
 *Numero da inserire nel cerchio superiore*
 

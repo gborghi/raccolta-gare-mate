@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q26
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 26
 
 *Chi e il piu alto se uno solo dei fratelli mente*
 

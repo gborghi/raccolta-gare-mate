@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q07
 parent: src_kangourou_2019_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Ecolier — Quesito 7
 
 *Quante puntine per 7 fotografie (pattern condiviso)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q12
 parent: src_kangourou_2003_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 12
 
 *Forma del terzo mattone del parallelepipedo*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q29
 parent: src_kangourou_2021_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 29
 
 *Modi di colorare di nero la tabella 4x4 coi vincoli*
 

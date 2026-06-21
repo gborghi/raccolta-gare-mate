@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q11
 parent: src_kangourou_2016_squadre_f
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Finale — Quesito 11
 
 *2016 somma di potenze di 2 consecutive*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1959 (I International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imho_1959__Q02
 parent: src_imho_1959
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1959 (I International Olympiad) — Quesito 2
 
 *Valori reali di x per una equazione con radici annidate*
 

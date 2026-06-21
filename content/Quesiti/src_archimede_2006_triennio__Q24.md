@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Triennio — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_triennio__Q24
 parent: src_archimede_2006_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Triennio — Quesito 24
 
 *Natura del numero 100020001*
 

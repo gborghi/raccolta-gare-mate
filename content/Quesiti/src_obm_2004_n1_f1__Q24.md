@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f1__Q24
 parent: src_obm_2004_n1_f1
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 24
 
 *Which views match the 3D object shown?*
 

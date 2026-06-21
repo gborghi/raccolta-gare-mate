@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale
 tipo: gara
 src_id: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2012/SQ-F-12.pdf` · apri PDF
 

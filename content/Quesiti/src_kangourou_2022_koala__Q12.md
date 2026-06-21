@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Koala — Gioco Koala — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_koala__Q12
 parent: src_kangourou_2022_koala
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Koala — Gioco Koala — Quesito 12
 
 *Pila di dischi vista dall'alto*
 

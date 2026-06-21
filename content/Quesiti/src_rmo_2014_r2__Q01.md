@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r2__Q01
 parent: src_rmo_2014_r2
@@ -28,8 +29,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 2 — Quesito 1
 
 *Perpendicular bisectors of sides meet at incentre of triangle BXY*
 

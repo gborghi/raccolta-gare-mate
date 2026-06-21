@@ -1,4 +1,5 @@
 ---
+title: IMO 1972 (Fourteenth International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1972_all__Q01
 parent: src_imo_1972_all
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1972 (Fourteenth International Olympiad) — Quesito 1
 
 *Ten two-digit numbers have two disjoint equal-sum subsets*
 

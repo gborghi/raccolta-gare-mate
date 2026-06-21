@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin finale (maggio)
 tipo: gara
 src_id: src_kangourou_2007_benjamin_maggio
 competition: Kangourou 2007 Benjamin finale (maggio)
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin finale (maggio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2007/BMaggio-07.pdf` · apri PDF
 

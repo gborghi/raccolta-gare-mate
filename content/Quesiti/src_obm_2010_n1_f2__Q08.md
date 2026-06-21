@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n1_f2__Q08
 parent: src_obm_2010_n1_f2
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 8
 
 *Card faces: sum of digits on reverse; find cards where one face is double the other*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo14yq_yosen__Q01
 parent: src_jjmo14yq_yosen
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 1
 
 *Count integer triples with a*b and b*c both even*
 

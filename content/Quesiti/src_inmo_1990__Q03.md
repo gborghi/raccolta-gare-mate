@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1990 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1990__Q03
 parent: src_inmo_1990
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1990 — Quesito 3
 
 *Find all values of f(1990) for function with given functional properties*
 

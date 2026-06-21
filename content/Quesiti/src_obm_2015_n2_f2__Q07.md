@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n2_f2__Q07
 parent: src_obm_2015_n2_f2
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 7
 
 *Count colorings of a 2x5 chessboard-like grid after pressing buttons*
 

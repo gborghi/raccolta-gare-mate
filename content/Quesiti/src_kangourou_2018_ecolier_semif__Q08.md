@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q08
 parent: src_kangourou_2018_ecolier_semif
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 8
 
 *Carte mancanti per castello di 11 piani avendone per 10*
 

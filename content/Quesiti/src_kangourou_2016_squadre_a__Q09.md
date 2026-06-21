@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q09
 parent: src_kangourou_2016_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Semifinale A — Quesito 9
 
 *Km percorsi dal treno che rallenta ogni mezz'ora*
 

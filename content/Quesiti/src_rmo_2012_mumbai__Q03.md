@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_mumbai__Q03
 parent: src_rmo_2012_mumbai
@@ -34,8 +35,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Mumbai — Quesito 3
 
 *Solve an exponential equation involving floor and fractional parts*
 

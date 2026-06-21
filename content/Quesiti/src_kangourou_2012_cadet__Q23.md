@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q23
 parent: src_kangourou_2012_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 23
 
 *Quali numeri sicuramente adiacenti nel cerchio*
 

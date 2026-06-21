@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Semifinale individuale
 tipo: gara
 src_id: src_kangourou_2023_cadet_semifinale
 competition: Kangourou 2023 Cadet — Semifinale individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Semifinale individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2023/Cadet2023RSE.pdf` · apri PDF
 

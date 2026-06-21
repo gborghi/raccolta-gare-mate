@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior Semifinale individuale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q17
 parent: src_kangourou_2021_junior_semifinale
@@ -27,15 +28,14 @@ tags:
   - gara/individuale
 ---
 
-# Kangourou 2021 Junior Semifinale individuale — Quesito 17
-
 *Quanti primi della forma (m^2+m+1)/n*
 
 > (7 punti) Quanti sono i numeri primi della forma 
 > 
 >   
 >   
-> 
+> 
+
 >  dove m e n sono numeri interi 
 > positivi? (Scrivi 9999 se ritieni che siano infiniti). 
 >  

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet__Q15
 parent: src_kangourou_2023_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Gara 16 marzo — Quesito 15
 
 *Punti a distanza 1 da due vertici di un quadrato unitario*
 

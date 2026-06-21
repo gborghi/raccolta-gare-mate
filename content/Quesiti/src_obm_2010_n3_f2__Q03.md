@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f2__Q03
 parent: src_obm_2010_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2 — Quesito 3
 
 *Three mutually tangent circles and quadrilateral; find inscribed circle radius*
 

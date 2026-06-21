@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q01
 parent: src_obm_2006_n3_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 1
 
 *Age word problem: Neto was half his grandfather's age at end of 1994; sum of birth years is 3844; find Neto's age in 2006.*
 

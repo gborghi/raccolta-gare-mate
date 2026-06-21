@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f2__Q08
 parent: src_obm_2011_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 8
 
 *Selo (proper-divisor pair) of integers: compute, invert, and minimize*
 

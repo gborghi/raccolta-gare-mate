@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q03
 parent: src_kangourou_2019_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 3
 
 *Numero 4 cifre automorfico (ultime 4 cifre del quadrato)*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_biennio__Q08
 parent: src_archimede_2016_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Biennio — Quesito 8
 
 *Massimo MCD di due numeri con prodotto 14000*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2017__Q04
 parent: src_cesenatico_2017
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 4
 
 *prodotti spigoli opposti uguali*
 

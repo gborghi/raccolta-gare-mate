@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q02
 parent: src_kangourou_2019_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 2
 
 *Quale immagine puo essere un dado regolare (facce opposte 7)*
 

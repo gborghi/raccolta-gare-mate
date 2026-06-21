@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q29
 parent: src_kangourou_2024_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 29
 
 *In quanti modi costruire il bruco con i sette pezzi*
 

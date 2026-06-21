@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q08
 parent: src_canimath_2021_automne
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 8
 
 *Compute 1000^7 divided by 252²−248²*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin__Q04
 parent: src_kangourou_2023_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 4
 
 *quale cubo si ottiene*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f3__Q01
 parent: src_obm_2000_n2_f3
@@ -37,8 +38,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 1
 
 *Three identical glued dice on a table; find the sum of the three faces in contact with the table.*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n1_f1__Q16
 parent: src_obm_2001_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 16
 
 *Pigeonhole conclusion for 32 occupied squares on a 6-row by 9-column board*
 

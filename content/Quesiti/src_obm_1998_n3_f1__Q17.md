@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q17
 parent: src_obm_1998_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 17
 
 *Two radios sold at equal prices, one with 25% profit and one with 25% loss; find the net result on invested capital.*
 

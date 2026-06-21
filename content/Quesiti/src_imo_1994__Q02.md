@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 2'
 tipo: quesito
 quesito_id: quesito_src_imo_1994__Q02
 parent: src_imo_1994
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1994 (35th IMO, Hong Kong) — Quesito 2
 
 *OQ perpendicular EF iff QE=QF*
 

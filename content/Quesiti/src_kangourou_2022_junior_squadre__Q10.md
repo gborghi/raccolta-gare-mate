@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q10
 parent: src_kangourou_2022_junior_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Junior Finale 1 — Quesito 10
 
 *Coppie di sottoinsiemi disgiunti non vuoti*
 

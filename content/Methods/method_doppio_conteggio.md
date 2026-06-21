@@ -1,11 +1,10 @@
 ---
+title: Doppio conteggio
 tipo: method
 concept_id: method_doppio_conteggio
 tags:
   - graph/method
 ---
-
-# Doppio conteggio
 
 *method* — **83** quesiti (italiani).
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n3_f3__Q01
 parent: src_obm_2000_n3_f3
@@ -33,8 +34,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 1
 
 *Trisect angle alpha using paper-folding in three steps*
 

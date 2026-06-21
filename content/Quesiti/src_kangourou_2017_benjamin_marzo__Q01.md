@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q01
 parent: src_kangourou_2017_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 1
 
 *Allineamento non ottenibile scambiando due carte*
 

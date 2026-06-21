@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q05
 parent: src_kangourou_2012_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 5
 
 *Massimo zeri finali di n se prodotto divisori ha 15 zeri*
 

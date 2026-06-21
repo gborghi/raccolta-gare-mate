@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo7yq_yosen__Q02
 parent: src_jjmo7yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 2
 
 *Count minimum-length paths A to B along diagonals in a 3×5 grid*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo25yq_yosen__Q05
 parent: src_jmo25yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 5
 
 *Express a telescoping product quotient in the form a+b√2*
 

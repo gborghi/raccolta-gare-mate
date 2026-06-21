@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Semifinale individuale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q15
 parent: src_kangourou_2017_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Semifinale individuale — Quesito 15
 
 *Massimo di x1^2+x2^2 per equazione a radici intere*
 

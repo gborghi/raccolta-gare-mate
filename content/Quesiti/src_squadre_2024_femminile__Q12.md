@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q12
 parent: src_squadre_2024_femminile
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 12
 
 *Numero deltaedri convessi a facce triangoli equilateri lato 1*
 

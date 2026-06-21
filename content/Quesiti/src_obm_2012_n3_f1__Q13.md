@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n3_f1__Q13
 parent: src_obm_2012_n3_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 13
 
 *Birth year of someone born Feb 29 on a Sunday given Feb 29 2012 was Wednesday*
 

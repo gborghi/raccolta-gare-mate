@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q11
 parent: src_kangourou_2018_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 11
 
 *Numero lettere nella sequenza di Clara*
 

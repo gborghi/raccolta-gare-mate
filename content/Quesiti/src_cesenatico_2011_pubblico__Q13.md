@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q13
 parent: src_cesenatico_2011_pubblico
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 13
 
 *Probabilita tornare all'ufficio 73 (permutazione)*
 

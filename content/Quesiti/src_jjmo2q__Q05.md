@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q05
 parent: src_jjmo2q
@@ -30,8 +31,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 5
 
 *Cryptarithm: IMO plus JMO plus ampersand terms equals JJMO*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q21
 parent: src_kangourou_2012_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 21
 
 *Quale figura ritrae l’orologio alle 8 e 11*
 

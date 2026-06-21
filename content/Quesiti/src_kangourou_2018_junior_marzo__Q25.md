@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q25
 parent: src_kangourou_2018_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 25
 
 *Numero da scrivere nel vertice A del 18-agono ricorsivo*
 

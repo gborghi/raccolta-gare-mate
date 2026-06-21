@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q14
 parent: src_kangourou_2024_student
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 14
 
 *Probabilita di uscire da T in quartiere a senso unico*
 

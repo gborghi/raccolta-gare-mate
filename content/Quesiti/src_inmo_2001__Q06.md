@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2001 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2001__Q06
 parent: src_inmo_2001
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2001 — Quesito 6
 
 *Find all f:R→R satisfying f(x+y)=f(x)f(y)f(xy)*
 

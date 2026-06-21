@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gs_2010_squadre__Q03
 parent: src_gs_2010_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre — Quesito 3
 
 *Ordine di arrivo da affermazioni con un bugiardo*
 

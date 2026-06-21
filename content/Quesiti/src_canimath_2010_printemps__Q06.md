@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2010 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2010_printemps__Q06
 parent: src_canimath_2010_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2010 — Quesito 6
 
 *Equilateral triangular billiard table: ball from A toward P returns to hole A after seven reflections*
 

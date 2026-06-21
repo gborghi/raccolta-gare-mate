@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo9yq_yosen__Q03
 parent: src_jjmo9yq_yosen
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 3
 
 *Smallest positive integer divisible by 2011 with last four digits 9999*
 

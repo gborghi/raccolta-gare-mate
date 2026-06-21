@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q01
 parent: src_kangourou_2022_cadet_gara
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 1
 
 *Massima somma delle cifre di un orologio digitale 24h*
 

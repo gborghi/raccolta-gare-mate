@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f1__Q19
 parent: src_obm_2002_n1_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 19
 
 *Count occurrences of the digit 5 writing integers 100 to 999*
 

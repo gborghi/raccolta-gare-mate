@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q15
 parent: src_gs_2013_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 15
 
 *Ultime tre cifre di r_2013 (ricorrenza mod 1000)*
 

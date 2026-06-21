@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior finale (maggio) — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_maggio__QJ2
 parent: src_kangourou_2006_junior_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior finale (maggio) — Quesito J2
 
 *Somma minima dei valori assoluti su circonferenza numerata*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q12
 parent: src_gas_2009_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 12
 
 *Numero di sovrapposizioni di tre sfere su circonferenza*
 

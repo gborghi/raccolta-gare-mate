@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2024-25 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2024-25_round1__Q06
 parent: src_bmo_2024-25_round1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2024-25 — Round 1 — Quesito 6
 
 *4x4x4 cube of 3-flavour sugar cubes; find 12 same-flavour in 9 equal-distance pairs*
 

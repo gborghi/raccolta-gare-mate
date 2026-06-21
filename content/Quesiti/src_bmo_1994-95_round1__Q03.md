@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1994-95 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1994-95_round1__Q03
 parent: src_bmo_1994-95_round1
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1994-95 — Round 1 — Quesito 3
 
 *Find max and min of cyclic expression over unit cube*
 

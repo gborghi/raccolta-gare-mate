@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f1__Q09
 parent: src_obm_2015_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 9
 
 *Count positive integers n dividing 2032 with remainder 17*
 

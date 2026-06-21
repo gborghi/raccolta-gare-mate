@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo15yq_yosen__Q02
 parent: src_jjmo15yq_yosen
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 2
 
 *Largest integer not exceeding sqrt(123456789)*
 

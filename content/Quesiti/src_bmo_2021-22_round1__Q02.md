@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2021-22 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2021-22_round1__Q02
 parent: src_bmo_2021-22_round1
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2021-22 — Round 1 — Quesito 2
 
 *Find smallest possible number of table tennis games played*
 

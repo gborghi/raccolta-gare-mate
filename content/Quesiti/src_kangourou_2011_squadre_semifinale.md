@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A
 tipo: gara
 src_id: src_kangourou_2011_squadre_semifinale
 competition: Kangourou 2011 squadre semifinale turno A
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A
 
 Sorgente: `Kangaroo/kangourou_squadre/2011/SQ-A-11.pdf` · apri PDF
 

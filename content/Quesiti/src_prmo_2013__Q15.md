@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q15
 parent: src_prmo_2013
@@ -30,8 +31,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 15
 
 *Area of ABCD given A2B2C2D2 (midpoints of midpoints) is a 4x6 rectangle*
 

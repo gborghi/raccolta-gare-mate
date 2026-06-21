@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_biennio__Q11
 parent: src_archimede_1998_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Biennio — Quesito 11
 
 *Cifra centrale ordinando per lunghezza dei segmenti*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Ecolier (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2011_ecolier_finale
 competition: Kangourou 2011 Finale Ecolier (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Ecolier (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2011/EMaggio-11.pdf` · apri PDF
 

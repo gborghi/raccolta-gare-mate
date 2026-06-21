@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_garaprime_2026__Q18
 parent: src_garaprime_2026
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026 — Quesito 18
 
 *Numeri di 4 cifre con cifre 2,0,6*
 

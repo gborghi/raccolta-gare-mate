@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Mumbai — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_mumbai__Q04
 parent: src_rmo_2015_mumbai
@@ -36,8 +37,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Mumbai — Quesito 4
 
 *Find 3-digit numbers (abc) in base 10 where (abc), (bce), (cab) are in geometric progression*
 

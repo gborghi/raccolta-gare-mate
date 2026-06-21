@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q15
 parent: src_prmo_2014
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 15
 
 *Length XY in triangle XOY with angle=90, midpoints M,N on legs, XN=YM=22*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q10
 parent: src_gs_2008_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 10
 
 *Differenza lato lungo del foglio piegato*
 

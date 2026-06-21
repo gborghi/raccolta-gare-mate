@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q28
 parent: src_kangourou_2003_cadet
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 28
 
 *Quanti n con 2003 diviso n resto 23*
 

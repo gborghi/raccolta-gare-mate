@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q01
 parent: src_archimede_2017_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2017 - 2 livello — Quesito 1
 
 *Somma delle facce nascoste dei 27 dadi incollati a cubo*
 

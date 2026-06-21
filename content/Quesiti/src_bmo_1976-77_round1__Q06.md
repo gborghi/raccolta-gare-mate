@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round1__Q06
 parent: src_bmo_1976-77_round1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 1 — Quesito 6
 
 *Decompose 26(x+...+x^n) as sum of permutation polynomials; find all n*
 

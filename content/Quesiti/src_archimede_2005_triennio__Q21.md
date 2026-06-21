@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q21
 parent: src_archimede_2005_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 21
 
 *Colori di palloncini comprati da quattro bambine*
 

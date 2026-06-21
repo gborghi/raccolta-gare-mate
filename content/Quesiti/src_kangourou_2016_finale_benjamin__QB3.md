@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 finale nazionale Benjamin — Quesito B3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_finale_benjamin__QB3
 parent: src_kangourou_2016_finale_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 finale nazionale Benjamin — Quesito B3
 
 *giorni di ponte aggiunti ai festivi*
 

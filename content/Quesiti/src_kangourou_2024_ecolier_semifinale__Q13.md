@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q13
 parent: src_kangourou_2024_ecolier_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Ecolier 2024 — Quesito 13
 
 *Francobolli nella prima busta (ricorrenza a ritroso)*
 

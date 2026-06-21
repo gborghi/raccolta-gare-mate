@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q18
 parent: src_kangourou_2017_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (semifinale individuale) — Quesito 18
 
 *Lunghezza FD nel triangolo diviso in cinque aree uguali*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f3__Q04
 parent: src_obm_2006_n3_f3
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3 — Quesito 4
 
 *Find smallest positive integer that is 'thrown' (arranjado)*
 

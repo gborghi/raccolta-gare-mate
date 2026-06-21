@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo6q__Q04
 parent: src_jjmo6q
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008 — Quesito 4
 
 *Count prices payable with 1000, 100, 10, 1 yen coins minimizing change*
 

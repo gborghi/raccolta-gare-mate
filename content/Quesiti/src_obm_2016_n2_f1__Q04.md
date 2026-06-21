@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f1__Q04
 parent: src_obm_2016_n2_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 4
 
 *Which letter can occupy the grey cell of a 3x3 grid of O, B, M*
 

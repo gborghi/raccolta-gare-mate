@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio_online__Q07
 parent: src_archimede_2021_triennio_online
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 7
 
 *Interi n con n^6+2n^5 multiplo di 49, somma di due*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2013 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo23mq_honsen__Q04
 parent: src_jmo23mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2013 — Honsen (Final) — Quesito 4
 
 *Prove KD bisects angle BKC via radical axis foot*
 

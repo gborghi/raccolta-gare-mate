@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_b__Q06
 parent: src_cesenatico_2012_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 6
 
 *valore di (11*8)+13*
 

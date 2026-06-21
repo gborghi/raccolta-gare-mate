@@ -1,4 +1,5 @@
 ---
+title: IMO 2015 papers — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2015__Q06
 parent: src_imo_2015
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2015 papers — Quesito 6
 
 *Somme limitate di successione con k+ak distinti*
 

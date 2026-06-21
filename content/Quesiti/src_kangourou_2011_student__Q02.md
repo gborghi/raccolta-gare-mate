@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q02
 parent: src_kangourou_2011_student
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 2
 
 *Ordine d'arrivo di tre piloti dati i sorpassi*
 

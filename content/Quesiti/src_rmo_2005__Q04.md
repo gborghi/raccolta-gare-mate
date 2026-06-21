@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2005 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2005__Q04
 parent: src_rmo_2005
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2005 — Quesito 4
 
 *Count 5-digit numbers containing block 15 and divisible by 15*
 

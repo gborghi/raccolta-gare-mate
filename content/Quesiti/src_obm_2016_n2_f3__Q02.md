@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f3__Q02
 parent: src_obm_2016_n2_f3
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3 — Quesito 2
 
 *Sequence of squares, each new square built on the diagonal of the previous larger one*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Triennio (Testo 1)
 tipo: gara
 src_id: src_archimede_2014_triennio
 competition: Giochi di Archimede 2014 - Triennio (Testo 1)
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Triennio (Testo 1)
 
 Sorgente: `Archimede/individuale/1livello/2014/Giochi_Archimede_2014/testi_2014/testo triennio 1.pdf` · apri PDF
 

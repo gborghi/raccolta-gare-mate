@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2000-01 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2000-01_round2__Q01
 parent: src_bmo_2000-01_round2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2000-01 — Round 2 — Quesito 1
 
 *Marble-passing game; find ratio p/q in terms of n*
 

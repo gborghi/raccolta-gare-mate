@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f3__Q03
 parent: src_obm_2001_n3_f3
@@ -35,8 +36,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3 — Quesito 3
 
 *Triangle with side AB trisected and two perpendicularity conditions; find ratio DB/DC*
 

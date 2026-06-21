@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A
 tipo: gara
 src_id: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A
 
 Sorgente: `Kangaroo/kangourou_squadre/2014/SQ-A-14.pdf` · apri PDF
 

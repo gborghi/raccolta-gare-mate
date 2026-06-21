@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q02
 parent: src_ioqm_2020
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 2
 
 *Number N is 503 in base b and 305 in base b+2; find product of digits of N*
 

@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1995 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_1995__Q01
 parent: src_cgen_1995
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1995 — Matematica — Quesito 1
 
 *Isobarycenter locus as line varies in plane triangle*
 

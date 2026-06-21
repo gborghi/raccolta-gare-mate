@@ -1,4 +1,5 @@
 ---
+title: IMO 1961 (III International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imho_1961__Q04
 parent: src_imho_1961
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1961 (III International Olympiad) — Quesito 4
 
 *almeno un rapporto <=2 e uno >=2*
 

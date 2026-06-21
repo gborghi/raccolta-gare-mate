@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2002 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_2livello__Q02
 parent: src_archimede_2002_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2002 — Quesito 2
 
 *Sottoinsieme di numeri naturali con somma divisibile per 6*
 

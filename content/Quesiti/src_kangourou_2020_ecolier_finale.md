@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Ecolier
 tipo: gara
 src_id: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/E-settembre20.pdf` · apri PDF
 

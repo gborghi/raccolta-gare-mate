@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_garaprime_2026__Q14
 parent: src_garaprime_2026
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026 — Quesito 14
 
 *Problemi scritti da Marco quando Anna ha finito*
 

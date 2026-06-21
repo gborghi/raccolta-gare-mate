@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f1__Q06
 parent: src_obm_2013_n3_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 6
 
 *Value of (a+b)^2/(ab) given (a+2b)/b = (a+b)/a*
 

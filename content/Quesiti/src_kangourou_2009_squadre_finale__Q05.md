@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q05
 parent: src_kangourou_2009_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale — Quesito 5
 
 *Massimo sottoinsiemi con intersezione consecutiva*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q01
 parent: src_kangourou_2018_student_semif
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 1
 
 *Lunghezza circonferenza C inscritta nell occhio*
 

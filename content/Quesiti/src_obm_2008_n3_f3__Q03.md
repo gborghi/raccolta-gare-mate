@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f3__Q03
 parent: src_obm_2008_n3_f3
@@ -36,8 +37,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3 — Quesito 3
 
 *Minimum of symmetric rational expression under constraint x+y+z=xy+yz+zx*
 

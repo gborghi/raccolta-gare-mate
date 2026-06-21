@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q10
 parent: src_jjmo2q
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 10
 
 *Quadrilateral with diagonal point and angle conditions, find angle BCD*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior finale individuale — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_finale__QJ6
 parent: src_kangourou_2022_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior finale individuale — Quesito J6
 
 *Il numero finale di 10 cifre ha almeno due cifre uguali*
 

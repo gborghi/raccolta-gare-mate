@@ -1,4 +1,5 @@
 ---
+title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2009__Q04
 parent: src_cesenatico_2009
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# XXV Olimpiade Italiana Cesenatico 2009 — Quesito 4
 
 *posizione finale determina intermedie*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q02
 parent: src_kangourou_2011_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 2
 
 *Area del trapezio dato rettangolo ombreggiato 13*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q06
 parent: src_kangourou_2019_ecolier_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 6
 
 *Palindromo 4 cifre da palindromo 3 cifre piu 2019*
 

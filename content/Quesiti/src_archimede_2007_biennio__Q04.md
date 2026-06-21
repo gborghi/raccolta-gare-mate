@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q04
 parent: src_archimede_2007_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 4
 
 *Segmenti tra due file di 14 punti su rette parallele*
 

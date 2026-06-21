@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo30hq_honsen__Q03
 parent: src_jmo30hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 3
 
 *Find all functions where a given inequality holds for all integers*
 

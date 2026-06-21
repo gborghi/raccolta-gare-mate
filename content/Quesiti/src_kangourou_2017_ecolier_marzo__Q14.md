@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q14
 parent: src_kangourou_2017_ecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 14
 
 *Minimo minuti per cuocere 5 vivande su due fornelli*
 

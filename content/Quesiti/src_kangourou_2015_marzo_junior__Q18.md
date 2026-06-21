@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q18
 parent: src_kangourou_2015_marzo_junior
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 18
 
 *somma cifre di c*
 

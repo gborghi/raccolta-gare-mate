@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q21
 parent: src_kangourou_2011_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 21
 
 *Area dorata sulla superficie del cubo decorato*
 

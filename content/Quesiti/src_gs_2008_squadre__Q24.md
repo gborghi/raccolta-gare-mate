@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q24
 parent: src_gs_2008_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 24
 
 *Profezia di Agnes Nutter, vero/falso e divisibilita*
 

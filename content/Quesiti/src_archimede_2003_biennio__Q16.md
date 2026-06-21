@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q16
 parent: src_archimede_2003_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 16
 
 *Quando vale p+(qr)=(p+q)(p+r)*
 

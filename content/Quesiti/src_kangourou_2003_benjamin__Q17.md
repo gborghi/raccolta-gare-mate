@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin__Q17
 parent: src_kangourou_2003_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2003 - Benjamin (20 marzo) — Quesito 17
 
 *Percorsi minimi sul cubo da A a B*
 

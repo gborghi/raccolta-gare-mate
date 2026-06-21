@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_tfjm_2023__Q07
 parent: src_tfjm_2023
@@ -35,8 +36,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 7
 
 *Laser reflecting inside an equilateral (then right-isosceles, then general) triangle with mirrored sides and open vertices; counting rebounds n(t)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q10
 parent: src_archimede_2026_squadre_semifinale1
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 10
 
 *Volume coppa da sviluppo quadrato con esagoni*
 

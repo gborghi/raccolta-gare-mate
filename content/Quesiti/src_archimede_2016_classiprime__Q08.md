@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q08
 parent: src_archimede_2016_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 8
 
 *massimo prodotto con somma 10*
 

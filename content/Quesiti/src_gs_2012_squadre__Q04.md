@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2012 - Gara a squadre — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gs_2012_squadre__Q04
 parent: src_gs_2012_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Galileo 2012 - Gara a squadre — Quesito 4
 
 *Coppie con prodotto mod 9 uguale a cifra (tabella)*
 

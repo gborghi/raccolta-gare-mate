@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q24
 parent: src_kangourou_2006_student_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 24
 
 *Liste di risposte che garantiscono 4 corrette*
 

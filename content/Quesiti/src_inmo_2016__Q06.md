@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2016 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2016__Q06
 parent: src_inmo_2016
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2016 — Quesito 6
 
 *Non-constant AP with certain powers also in AP implies all terms are integers*
 

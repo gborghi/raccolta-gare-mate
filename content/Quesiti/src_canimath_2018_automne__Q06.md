@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2018 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_automne__Q06
 parent: src_canimath_2018_automne
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2018 — Quesito 6
 
 *Prime p divides product of (k^3+1); prove p ≤ n+1*
 

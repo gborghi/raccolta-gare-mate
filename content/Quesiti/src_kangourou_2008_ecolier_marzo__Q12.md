@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q12
 parent: src_kangourou_2008_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 12
 
 *Quanti punteggi diversi con due frecce*
 

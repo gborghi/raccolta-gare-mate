@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Student — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_student__QS5
 parent: src_kangourou_2015_finale_student
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Student — Quesito S5
 
 *Numero minimo di rette parallele ai lati per 100 regioni*
 

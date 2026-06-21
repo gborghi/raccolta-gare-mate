@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q25
 parent: src_prmo_2019
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 25
 
 *Diameter of circular village wall seen from given point*
 

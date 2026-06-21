@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q08
 parent: src_cesenatico_2006_squadre_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 8
 
 *Somma quadrati delle radici di x^3-89x^2+72x-11*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q20
 parent: src_kangourou_2008_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 20
 
 *Quale forma non puo avere la sezione della piramide*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Junior 2024 — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_finale__QJ2
 parent: src_kangourou_2024_junior_finale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Finale Junior 2024 — Quesito J2
 
 *Due triangoli con due lati e un'altezza uguali sono congruenti*
 

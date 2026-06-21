@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q11
 parent: src_obm_1998_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 11
 
 *On a calculator, key A maps x to 1/x and key 2 doubles; starting from 2, the sequence ABABAB...AB (998 keystrokes) is typed. Find the resulting number.*
 

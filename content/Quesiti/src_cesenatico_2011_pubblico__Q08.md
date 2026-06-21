@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q08
 parent: src_cesenatico_2011_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 8
 
 *Probabilita non scoprire sabotatori*
 

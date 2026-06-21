@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q15
 parent: src_kangourou_2019_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Ecolier — Quesito 15
 
 *In quante ore si riempie il serbatoio con 10 rubinetti*
 

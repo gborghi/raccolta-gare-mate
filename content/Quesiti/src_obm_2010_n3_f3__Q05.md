@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f3__Q05
 parent: src_obm_2010_n3_f3
@@ -38,8 +39,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 5
 
 *Find all n for which n points (no 3 collinear) can be colored so every triangle has no obtuse angle*
 

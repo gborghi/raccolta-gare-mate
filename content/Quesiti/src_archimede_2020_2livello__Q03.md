@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_2livello__Q03
 parent: src_archimede_2020_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2020 - 2° livello — Quesito 3
 
 *Quattro età primi con somma 240, la più giovane*
 

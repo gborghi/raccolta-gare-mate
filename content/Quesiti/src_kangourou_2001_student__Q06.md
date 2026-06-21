@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Student (15 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_student__Q06
 parent: src_kangourou_2001_student
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Student (15 marzo) — Quesito 6
 
 *Valore dell'espressione con 9 e 10*
 

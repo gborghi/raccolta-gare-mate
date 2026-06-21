@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f2__Q04
 parent: src_obm_2015_n1_f2
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 4
 
 *2015 people at round table, each says one neighbor honest and one dishonest; count honest*
 

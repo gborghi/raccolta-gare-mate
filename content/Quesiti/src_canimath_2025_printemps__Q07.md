@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2025 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_printemps__Q07
 parent: src_canimath_2025_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2025 — Quesito 7
 
 *Max distinct values on board under a 2025-of-2027 divisibility condition*
 

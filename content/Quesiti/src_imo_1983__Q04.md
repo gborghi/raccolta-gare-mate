@@ -1,4 +1,5 @@
 ---
+title: IMO 1983 (24th International Mathematical Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1983__Q04
 parent: src_imo_1983
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1983 (24th International Mathematical Olympiad) — Quesito 4
 
 *Two-coloring of equilateral triangle edges yields right triangle*
 

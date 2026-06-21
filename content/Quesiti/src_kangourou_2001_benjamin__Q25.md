@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_benjamin__Q25
 parent: src_kangourou_2001_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2001 - Benjamin (15 marzo) — Quesito 25
 
 *Massimo punti sulla torre di dadi*
 

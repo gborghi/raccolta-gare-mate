@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_mumbai__Q03
 parent: src_rmo_2013_mumbai
@@ -31,8 +32,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Mumbai — Quesito 3
 
 *Count 3-good non-empty subsets of {0,1,...,9}*
 

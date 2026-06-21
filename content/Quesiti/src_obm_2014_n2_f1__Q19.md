@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f1__Q19
 parent: src_obm_2014_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 19
 
 *Which of the five numbers is largest?*
 

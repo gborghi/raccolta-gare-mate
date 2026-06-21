@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f1__Q21
 parent: src_obm_2004_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 21
 
 *True positive weight values for a street vendor's claim*
 

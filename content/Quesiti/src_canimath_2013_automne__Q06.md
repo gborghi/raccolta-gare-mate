@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2013 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2013_automne__Q06
 parent: src_canimath_2013_automne
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2013 — Quesito 6
 
 *Four collinear points: every circle through A,B meets circle through C,D*
 

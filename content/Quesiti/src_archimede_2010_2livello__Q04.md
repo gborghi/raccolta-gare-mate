@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q04
 parent: src_archimede_2010_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 4
 
 *Chi è più probabile abbia il 7 di denari*
 

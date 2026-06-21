@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q25
 parent: src_kangourou_2006_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 25
 
 *Numero rimosso da 10 interi consecutivi (somma 2006)*
 

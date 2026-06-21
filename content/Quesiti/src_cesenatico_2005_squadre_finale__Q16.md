@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q16
 parent: src_cesenatico_2005_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 16
 
 *Minuti dopo Polinomia partono Von Kernel (problema cinematico)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q06
 parent: src_squadre_2018_semifinalea
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 6
 
 *Numero minimo ragazza che balla con condizione su mcm*
 

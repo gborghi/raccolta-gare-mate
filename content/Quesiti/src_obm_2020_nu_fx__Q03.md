@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2020_nu_fx__Q03
 parent: src_obm_2020_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x — Quesito 3
 
 *Count 5x5 matrices over F_{13} satisfying A^5 = I*
 

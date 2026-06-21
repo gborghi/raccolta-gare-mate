@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q05
 parent: src_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 5
 
 *Massimo coefficiente dispari nello sviluppo di (x+y)^13*
 

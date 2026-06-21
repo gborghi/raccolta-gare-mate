@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q04
 parent: src_archimede_2001_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 4
 
 *Persone che non parlano ne inglese ne spagnolo*
 

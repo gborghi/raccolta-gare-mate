@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2002-03 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2002-03_round2__Q04
 parent: src_bmo_2002-03_round2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2002-03 — Round 2 — Quesito 4
 
 *Count values less than 2003 in image of f with f(f(n))=n+2003*
 

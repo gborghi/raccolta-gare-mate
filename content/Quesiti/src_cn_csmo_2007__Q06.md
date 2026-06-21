@@ -1,0 +1,48 @@
+---
+title: China Southeastern Mathematical Olympiad 2007 — Quesito 6
+tipo: quesito
+quesito_id: quesito_src_cn_csmo_2007__Q06
+parent: src_cn_csmo_2007
+competition: China Southeastern Mathematical Olympiad 2007
+family: csmo
+year: '2007'
+level: China Southeastern Mathematical Olympiad
+country: Cina
+modalita: individuale
+quesito: '6'
+summary: >-
+  Smallest n so any positive-integer sequence summing to 2007 has consecutive
+  terms summing to 30
+qa_score: '2'
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_cassetti
+  - method_estremalita
+skills:
+  - skill_conteggio_sistematico
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/cina
+  - comp/csmo
+  - anno/2007
+  - livello/China-Southeastern-Mathematical-Olympiad
+  - topic/combinatoria
+  - topic/aritmetica
+  - gara/individuale
+  - qa/da-verificare
+---
+
+*Smallest n so any positive-integer sequence summing to 2007 has consecutive terms summing to 30*
+
+> Find the smallest positive integer $n$ such that any sequence of positive integers $a_1, a_2, \cdots, a_n$ satisfying $\sum_{i=1}^{n} a_i = 2007$ must have several consecutive terms whose sum is $30$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri libro PDF
+
+> [!warning] Estratto da verificare con la fonte.

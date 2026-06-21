@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_ecolier_maggio__QE5
 parent: src_kangourou_2009_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E5
 
 *Prodotto dei tre numeri dell'esagono (griglia)*
 

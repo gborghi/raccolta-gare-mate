@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q10
 parent: src_prmo_2017
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 10
 
 *Ways to place 4 guests in 8 corridor rooms with no two adjacent or opposite*
 

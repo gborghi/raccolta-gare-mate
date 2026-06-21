@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier
 tipo: gara
 src_id: src_kangourou_2019_ecolier_semifinale
 competition: Kangourou 2019 Semifinale Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/Ecolier_Semif_19TESTO.pdf` · apri PDF
 

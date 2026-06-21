@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q14
 parent: src_kangourou_2019_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 14
 
 *Perimetro del triangolo piu grande di lato dei piccoli 1*
 

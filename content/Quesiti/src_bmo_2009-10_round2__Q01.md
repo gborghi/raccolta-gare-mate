@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2009-10 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2009-10_round2__Q01
 parent: src_bmo_2009-10_round2
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2009-10 — Round 2 — Quesito 1
 
 *Line up children so each is beside at most two of their friends*
 

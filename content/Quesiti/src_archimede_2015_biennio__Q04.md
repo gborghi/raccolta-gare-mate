@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q04
 parent: src_archimede_2015_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 4
 
 *Cifra delle unita di 3^(8^7)*
 

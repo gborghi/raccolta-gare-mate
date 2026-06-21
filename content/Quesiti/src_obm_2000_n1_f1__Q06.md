@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n1_f1__Q06
 parent: src_obm_2000_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 6
 
 *Shaded area in figure with rectangle of area 12*
 

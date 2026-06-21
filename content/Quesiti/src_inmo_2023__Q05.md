@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2023 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2023__Q05
 parent: src_inmo_2023
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2023 — Quesito 5
 
 *n Euclidean points; Gauss records floor(log2 d) for each pair; show fewer than 2n distinct values*
 

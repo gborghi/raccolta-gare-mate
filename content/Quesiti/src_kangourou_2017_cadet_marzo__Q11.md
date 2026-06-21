@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q11
 parent: src_kangourou_2017_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 11
 
 *Risultato somma alternata dispari da 99 a 11*
 

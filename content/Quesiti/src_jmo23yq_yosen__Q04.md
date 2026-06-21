@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo23yq_yosen__Q04
 parent: src_jmo23yq_yosen
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 4
 
 *Sum of coefficients of even powers in a product*
 

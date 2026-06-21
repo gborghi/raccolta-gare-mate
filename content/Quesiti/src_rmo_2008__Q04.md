@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2008 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2008__Q04
 parent: src_rmo_2008
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2008 — Quesito 4
 
 *Count 6-digit numbers with digit sum 10, each of 0,1,2,3 appearing at least once*
 

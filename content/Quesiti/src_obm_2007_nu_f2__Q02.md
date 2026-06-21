@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2 —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2007_nu_f2__Q02
 parent: src_obm_2007_nu_f2
@@ -34,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2 — Quesito 2
 
 *Large subset of {1,…,N} contains a shifted arithmetic-density subinterval*
 

@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2024 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_2024__Q02
 parent: src_cgen_2024
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Concours Général des Lycées 2024 — Matematica — Quesito 2
 
 *Probability game with opaque boxes hiding candies; Monty-Hall-style choices, optimal strategies for Sophie and Germain over n-1 rounds*
 

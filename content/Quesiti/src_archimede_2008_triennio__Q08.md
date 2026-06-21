@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Triennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_triennio__Q08
 parent: src_archimede_2008_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Triennio — Quesito 8
 
 *Somma S1+...+S10 di somme dei primi multipli*
 

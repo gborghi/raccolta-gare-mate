@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q26
 parent: src_kangourou_2003_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 26
 
 *Somma di cinque angoli in griglia 5x5*
 

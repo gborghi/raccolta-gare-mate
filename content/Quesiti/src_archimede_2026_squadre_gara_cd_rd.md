@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Gara Coordinatori e Responsabili
 tipo: gara
 src_id: src_archimede_2026_squadre_gara_cd_rd
 competition: Gara a Squadre 2026 - Gara Coordinatori e Responsabili
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Gara Coordinatori e Responsabili
 
 Sorgente: `Archimede/squadre/nazionale/2026/gara_CD_RD_2026_testo.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2014-15 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2014-15_round1__Q06
 parent: src_bmo_2014-15_round1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2014-15 — Round 1 — Quesito 6
 
 *Find all functions preserving the Egyptian fraction equation 1/a+1/b=1/c*
 

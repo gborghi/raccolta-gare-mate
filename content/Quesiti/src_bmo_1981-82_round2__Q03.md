@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1981-82 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1981-82_round2__Q03
 parent: src_bmo_1981-82_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1981-82 — Round 2 — Quesito 3
 
 *Find largest n for which ax+(a+1)y+(a+2)z=n has no positive solution*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q13
 parent: src_kangourou_2024_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 13
 
 *Somma cifre del prodotto di 9 numeri 2 o 3 tra 600 e 1000*
 

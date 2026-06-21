@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q16
 parent: src_kangourou_2022_junior_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 16
 
 *Rapporto AD/DC del rettangolo in 12 rettangoli*
 

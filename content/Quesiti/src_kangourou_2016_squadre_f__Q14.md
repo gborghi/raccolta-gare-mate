@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q14
 parent: src_kangourou_2016_squadre_f
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Finale — Quesito 14
 
 *Quante esacoppie con somma massima dei due numeri*
 

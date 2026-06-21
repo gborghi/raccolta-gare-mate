@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior
 tipo: gara
 src_id: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/J-settembre19.pdf` · apri PDF
 

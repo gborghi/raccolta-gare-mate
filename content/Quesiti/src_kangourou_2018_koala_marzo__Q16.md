@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q16
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 16
 
 *Quale figura mostra i tre pezzi di corda annodati*
 

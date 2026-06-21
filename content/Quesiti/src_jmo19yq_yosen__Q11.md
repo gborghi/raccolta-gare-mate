@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo19yq_yosen__Q11
 parent: src_jmo19yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 11
 
 *Sum of solutions of a floor-function equation*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q01
 parent: src_kangourou_2018_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo — Quesito 1
 
 *Quante tacche sull'asta della neve*
 

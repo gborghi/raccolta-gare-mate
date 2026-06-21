@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet finale nazionale — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet_finale__QC6
 parent: src_kangourou_2004_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet finale nazionale — Quesito C6
 
 *Max tessere a croce sulla scacchiera 8x8*
 

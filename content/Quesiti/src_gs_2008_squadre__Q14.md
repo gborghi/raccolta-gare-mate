@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q14
 parent: src_gs_2008_squadre
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 14
 
 *Massimo n di 4 cifre con quadrato di forma data*
 

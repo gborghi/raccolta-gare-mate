@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (finale nazionale) — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet_finale__QC6
 parent: src_kangourou_2005_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (finale nazionale) — Quesito C6
 
 *Numero finalisti somma di cifre elevate a se stesse*
 

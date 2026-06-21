@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n1_fx__Q05
 parent: src_obm_2020_n1_fx
@@ -38,8 +39,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 1 — Fase x — Quesito 5
 
 *Simple polygons and straight lines cutting their sides without passing through vertices: constructions and a parity argument*
 

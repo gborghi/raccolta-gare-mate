@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1999 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_1999__Q04
 parent: src_rmo_1999
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1999 — Quesito 4
 
 *Roots of cubic with special form imply $p=q=r$*
 

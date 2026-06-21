@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_2livello__Q11
 parent: src_archimede_2022_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2022 - 2° livello — Quesito 11
 
 *Famiglie di πcchi, possibilità totale dopo 7 nidiate*
 

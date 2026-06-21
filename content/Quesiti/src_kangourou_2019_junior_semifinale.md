@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior
 tipo: gara
 src_id: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/Junior_Semif_19TESTO.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f1__Q12
 parent: src_obm_2010_n3_f1
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 12
 
 *Which fraction is closest to the square root of 7.*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f2__Q03
 parent: src_obm_2006_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 3
 
 *Two runners on circular track, find track length from two crossings*
 

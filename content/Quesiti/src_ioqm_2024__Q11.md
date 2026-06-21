@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q11
 parent: src_ioqm_2024
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 11
 
 *Find 1/a+1/b+1/c given two symmetric equations*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q11
 parent: src_kangourou_2019_cadet_semif
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 11
 
 *Quanti minuti per riempire il serbatoio con 10 rubinetti*
 

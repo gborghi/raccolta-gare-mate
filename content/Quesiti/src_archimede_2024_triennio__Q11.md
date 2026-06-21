@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q11
 parent: src_archimede_2024_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 11
 
 *Inserire 1..10 in 13 caselle con vincolo di ordine verticale*
 

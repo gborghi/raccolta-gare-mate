@@ -1,4 +1,5 @@
 ---
+title: IMO 1972 (Fourteenth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1972_all__Q03
 parent: src_imo_1972_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1972 (Fourteenth International Olympiad) — Quesito 3
 
 *Prove (2m)!(2n)!/(m!n!(m+n)!) is an integer*
 

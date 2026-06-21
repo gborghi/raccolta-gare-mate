@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo13yq_yosen__Q12
 parent: src_jmo13yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 12
 
 *Find minimum-degree integer-polynomial f(x) with (f(x))^3 - 2 = g(x)h(x), g,h degree ≥ 1*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f1__Q04
 parent: src_obm_2011_n3_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 4
 
 *Largest possible N such that any two of 30, 72, N have product divisible by the third*
 

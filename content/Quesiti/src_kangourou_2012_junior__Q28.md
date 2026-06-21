@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q28
 parent: src_kangourou_2012_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 28
 
 *Somma dei prodotti delle cifre di tutti i numeri di 3 cifre*
 

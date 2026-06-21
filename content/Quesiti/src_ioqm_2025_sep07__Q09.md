@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q09
 parent: src_ioqm_2025_sep07
@@ -34,8 +35,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 9
 
 *Four sides and one diagonal of quadrilateral; lengths 10,20,28,50,75; find diagonal*
 

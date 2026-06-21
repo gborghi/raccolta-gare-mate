@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f1__Q22
 parent: src_obm_2004_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 22
 
 *Side of square sheet cut into 41 unit squares plus one larger square*
 

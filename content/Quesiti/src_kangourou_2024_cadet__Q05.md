@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q05
 parent: src_kangourou_2024_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 5
 
 *Quanti vertici ha il solido dopo aver tolto 4 piramidi*
 

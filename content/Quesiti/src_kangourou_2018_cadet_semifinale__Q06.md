@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q06
 parent: src_kangourou_2018_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 6
 
 *Area regione comune a rettangolo e cerchio*
 

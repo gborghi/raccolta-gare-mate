@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier__Q01
 parent: src_kangourou_2005_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo) — Quesito 1
 
 *Quante buche restano dopo copertura a meta*
 

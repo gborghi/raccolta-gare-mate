@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f1__Q10
 parent: src_obm_2008_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 10
 
 *Integer n such that n*2^n has 2008 more divisors than n; find digit sum of n*
 

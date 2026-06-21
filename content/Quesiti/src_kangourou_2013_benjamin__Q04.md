@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q04
 parent: src_kangourou_2013_benjamin
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 4
 
 *Numero minimo di svolte a destra per andare da A a B*
 

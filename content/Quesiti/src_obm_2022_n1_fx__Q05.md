@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2022_n1_fx__Q05
 parent: src_obm_2022_n1_fx
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x — Quesito 5
 
 *2022-partido numbers: split into halves whose product equals original*
 

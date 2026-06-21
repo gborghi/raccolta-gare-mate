@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_2livello__Q01
 parent: src_archimede_2018_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2018 - 2° livello — Quesito 1
 
 *Punteggio impossibile in gara a punteggio +5/-1*
 

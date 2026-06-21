@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n2_f1__Q05
 parent: src_obm_1998_n2_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 5
 
 *Area of triangle with vertices at midpoints of square sides*
 

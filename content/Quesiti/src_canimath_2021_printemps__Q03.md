@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q03
 parent: src_canimath_2021_printemps
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 3
 
 *Find angle DSC in a square with interior equilateral triangle ABS*
 

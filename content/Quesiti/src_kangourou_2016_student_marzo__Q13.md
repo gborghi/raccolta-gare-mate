@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q13
 parent: src_kangourou_2016_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 13
 
 *Valore di x4 nella torre di esponenti x_{n+1}=x_n^{x_n}*
 

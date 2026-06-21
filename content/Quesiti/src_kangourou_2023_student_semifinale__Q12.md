@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q12
 parent: src_kangourou_2023_student_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 12
 
 *Valore di A-B con somme di quadrati e prodotti consecutivi*
 

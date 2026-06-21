@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q05
 parent: src_kangourou_2012_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 5
 
 *Eta dei pulcini nati il 24 febbraio osservati a marzo*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2025 — Selection Camp
 tipo: gara
 src_id: src_selection_camp_2025
 competition: Japan IMO Selection Camp 2025 — Selection Camp
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2025 — Selection Camp
 
 Sorgente: apri PDF
 

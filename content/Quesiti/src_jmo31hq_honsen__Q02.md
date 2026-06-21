@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo31hq_honsen__Q02
 parent: src_jmo31hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 2
 
 *Grid stone game: determine when Taro can guarantee reaching column 1*
 

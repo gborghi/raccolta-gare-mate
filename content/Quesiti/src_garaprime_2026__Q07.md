@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_garaprime_2026__Q07
 parent: src_garaprime_2026
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026 — Quesito 7
 
 *Valore di x^(x^2x+1) dato x^x=2*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Student — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q26
 parent: src_kangourou_2015_marzo_student
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Student — Quesito 26
 
 *quanti*
 

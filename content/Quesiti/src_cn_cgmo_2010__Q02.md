@@ -1,0 +1,43 @@
+---
+title: China Girls' Mathematical Olympiad 2010 — Quesito 2
+tipo: quesito
+quesito_id: quesito_src_cn_cgmo_2010__Q02
+parent: src_cn_cgmo_2010
+competition: China Girls' Mathematical Olympiad 2010
+family: cgmo
+year: '2010'
+level: China Girls' Mathematical Olympiad
+country: Cina
+modalita: individuale
+quesito: '2'
+summary: Prove ED ≥ FD in isosceles triangle with circumcircle configuration
+qa_score: '3'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_trigonometria
+  - method_coordinate
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/cina
+  - comp/cgmo
+  - anno/2010
+  - livello/China-Girls'-Mathematical-Olympiad
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+*Prove ED ≥ FD in isosceles triangle with circumcircle configuration*
+
+> In triangle $ABC$, $AB = AC$. Point $D$ is the midpoint of side $BC$. Point $E$ lies outside the circle $ABC$ such that $CE \perp AB$ and $BE = BD$. Let $M$ be the midpoint of segment $BE$. Point $F$ lies on the minor arc $AB$ of the circumcircle of triangle $ABD$ such that $MF \perp BE$. Prove that $ED \ge FD$.
+
+![[src_cn_cgmo_b11_w185__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** apri libro PDF

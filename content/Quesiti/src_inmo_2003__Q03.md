@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2003 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2003__Q03
 parent: src_inmo_2003
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2003 — Quesito 3
 
 *Quartic has non-real root; find sum of all non-real roots*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q05
 parent: src_kangourou_2015_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Finale — Quesito 5
 
 *Piu piccolo numero fortunato (somma cifre div 17)*
 

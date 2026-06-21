@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_benjamin__Q21
 parent: src_kangourou_2001_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2001 - Benjamin (15 marzo) — Quesito 21
 
 *Lunghezza parti col punto interrogativo*
 

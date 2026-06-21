@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q11
 parent: src_canimath_2021_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 11
 
 *Proper divisors of a multiple of 2020: sum of odd divisors below sum of even divisors (lycee)*
 

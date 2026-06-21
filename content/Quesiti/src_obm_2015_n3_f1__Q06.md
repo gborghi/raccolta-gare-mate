@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f1__Q06
 parent: src_obm_2015_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 6
 
 *Triangle with distinct integer sides, largest side 2015, minimize area*
 

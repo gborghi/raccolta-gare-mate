@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Gara del pubblico — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_pubblico__Q05
 parent: src_squadre_2023_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Gara del pubblico — Quesito 5
 
 *Valori N>337 con prob uguale a 337 lanciando k dadi*
 

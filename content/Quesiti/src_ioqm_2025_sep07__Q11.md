@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q11
 parent: src_ioqm_2025_sep07
@@ -31,8 +32,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 11
 
 *Fraction a/b closest to 3/4 with gcd(a,b)=1 and b≤15, a/b≠3/4; find a+b*
 

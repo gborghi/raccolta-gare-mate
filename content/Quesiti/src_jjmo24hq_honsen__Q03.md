@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2026 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo24hq_honsen__Q03
 parent: src_jjmo24hq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2026 — Honsen (Final) — Quesito 3
 
 *Arrange all divisors so consecutive sums are powers of two*
 

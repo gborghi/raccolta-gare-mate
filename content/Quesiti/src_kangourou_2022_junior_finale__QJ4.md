@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior finale individuale — Quesito J4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_finale__QJ4
 parent: src_kangourou_2022_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior finale individuale — Quesito J4
 
 *Quante coppie (m,n) con 1/m+1/n=1/2022*
 

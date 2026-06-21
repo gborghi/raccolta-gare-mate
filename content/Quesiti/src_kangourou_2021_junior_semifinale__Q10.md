@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior Semifinale individuale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q10
 parent: src_kangourou_2021_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior Semifinale individuale — Quesito 10
 
 *Fette di pizza mangiate tra 2/3 e 3/4*
 

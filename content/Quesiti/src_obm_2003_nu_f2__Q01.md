@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2 —
+  Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2003_nu_f2__Q01
 parent: src_obm_2003_nu_f2
@@ -32,8 +35,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2 — Quesito 1
 
 *Parabola tangent and perpendicular lines trace a hyperbola*
 

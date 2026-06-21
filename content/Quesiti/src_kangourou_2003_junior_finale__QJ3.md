@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior finale nazionale — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior_finale__QJ3
 parent: src_kangourou_2003_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior finale nazionale — Quesito J3
 
 *Area del max cerchio inscritto nel triangolo mistilineo*
 

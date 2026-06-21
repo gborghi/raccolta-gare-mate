@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q03
 parent: src_jjmo4q
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 3
 
 *Fraction with integer numerator and denominator closest to 1, with sum 109*
 

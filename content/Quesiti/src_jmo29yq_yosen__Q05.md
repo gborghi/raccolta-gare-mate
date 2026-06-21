@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo29yq_yosen__Q05
 parent: src_jmo29yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 5
 
 *Smallest positive integer with remainders 32,33,34 mod 97,100,103*
 

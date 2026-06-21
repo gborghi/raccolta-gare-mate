@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale B — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_b__Q09
 parent: src_gas_2010_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale B — Quesito 9
 
 *Media scalini tra piani con rampe crescenti su 222 piani*
 

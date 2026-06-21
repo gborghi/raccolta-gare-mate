@@ -1,4 +1,5 @@
 ---
+title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1982__Q01
 parent: src_imo_1982
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1982 (23rd International Mathematical Olympiad) — Quesito 1
 
 *Determine f(1982) for a subadditive integer function*
 

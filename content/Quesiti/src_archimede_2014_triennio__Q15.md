@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_triennio__Q15
 parent: src_archimede_2014_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 15
 
 *Valore di n perche polinomio abbia soluzione intera*
 

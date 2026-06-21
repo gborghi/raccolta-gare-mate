@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo21yq_yosen__Q08
 parent: src_jmo21yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 8
 
 *Find 4-digit integer P from digit conditions on product of two 2-digit numbers*
 

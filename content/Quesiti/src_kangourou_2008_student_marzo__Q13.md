@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q13
 parent: src_kangourou_2008_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 13
 
 *Punti totali di Roberto sui cinque problemi*
 

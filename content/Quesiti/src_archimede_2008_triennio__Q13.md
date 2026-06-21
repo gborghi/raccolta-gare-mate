@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_triennio__Q13
 parent: src_archimede_2008_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Triennio — Quesito 13
 
 *Somma cifre del massimo n con disuguaglianza frazionaria*
 

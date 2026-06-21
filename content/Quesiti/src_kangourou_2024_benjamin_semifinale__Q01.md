@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q01
 parent: src_kangourou_2024_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 1
 
 *Prodotto dei tre numeri pensati da Adele, Beatrice, Cecilia*
 

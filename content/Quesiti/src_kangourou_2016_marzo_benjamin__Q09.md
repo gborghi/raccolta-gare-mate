@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q09
 parent: src_kangourou_2016_marzo_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 gara 17 marzo Benjamin — Quesito 9
 
 *quante con orecchio destro sul cuscino*
 

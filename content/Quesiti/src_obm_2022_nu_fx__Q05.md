@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2022_nu_fx__Q05
 parent: src_obm_2022_nu_fx
@@ -37,8 +40,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x — Quesito 5
 
 *Upper density product condition implies modular intersection*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1978-79 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1978-79_round2__Q02
 parent: src_bmo_1978-79_round2
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1978-79 — Round 2 — Quesito 2
 
 *Two equilateral triangles with common vertex; prove two triangles similar*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Pre-Ecolier
 tipo: gara
 src_id: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Pre-Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2015/PMarzo-15.pdf` · apri PDF
 

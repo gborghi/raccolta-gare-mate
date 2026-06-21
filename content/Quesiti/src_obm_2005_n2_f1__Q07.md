@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q07
 parent: src_obm_2005_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 7
 
 *Sequence where each term from the third is the sum of the two preceding; given 2nd=1, 5th=2005, find 6th*
 

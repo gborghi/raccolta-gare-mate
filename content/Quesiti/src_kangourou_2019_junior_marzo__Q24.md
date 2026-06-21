@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q24
 parent: src_kangourou_2019_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 24
 
 *Quanti piani passano per tre ma non quattro vertici di un cubo*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f1__Q20
 parent: src_obm_2001_n2_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 20
 
 *Which figure is the net of a cube showing its intersection with a plane*
 

@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q06
 parent: src_garaprime_2024
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 6
 
 *Lunghezza PB in triangolo rettangolo con angoli 30-60*
 

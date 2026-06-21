@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q22
 parent: src_kangourou_2019_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 22
 
 *Quanti grammi pesano le nove biglie (bilance)*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q04
 parent: src_obm_2005_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 4
 
 *Difference between a billion as a million-of-millions vs a thousand-of-millions*
 

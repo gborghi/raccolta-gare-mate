@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q13
 parent: src_kangourou_2019_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Ecolier — Quesito 13
 
 *Ruggiti non in risposta (tre leoni)*
 

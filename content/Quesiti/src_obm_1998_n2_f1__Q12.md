@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n2_f1__Q12
 parent: src_obm_1998_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 12
 
 *Minimum string length to tie 15 packages*
 

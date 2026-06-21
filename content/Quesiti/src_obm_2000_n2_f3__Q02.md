@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f3__Q02
 parent: src_obm_2000_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 2
 
 *Two decks of 50 double-sided cards each showing 1-100; show all 100 cards can be placed so the up faces show every number from 1 to 100.*
 

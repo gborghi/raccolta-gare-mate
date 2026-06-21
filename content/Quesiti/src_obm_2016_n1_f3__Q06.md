@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f3__Q06
 parent: src_obm_2016_n1_f3
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 6
 
 *Convex non-cyclic quadrilateral; circumcenters of bisector quadrilaterals and radical axis point are collinear*
 

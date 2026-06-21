@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q05
 parent: src_kangourou_2017_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 5
 
 *Perimetro triangolo rettangolo con un cateto 11 intero*
 

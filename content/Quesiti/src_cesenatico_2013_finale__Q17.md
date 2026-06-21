@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_finale__Q17
 parent: src_cesenatico_2013_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 17
 
 *Fiorini persi per ogni rosa (icosaedro+raso)*
 

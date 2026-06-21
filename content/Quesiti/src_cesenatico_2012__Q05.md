@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012__Q05
 parent: src_cesenatico_2012
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 5
 
 *luogo dei punti P con angAPB+angCPD=180*
 

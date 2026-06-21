@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1996 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_1996__Q05
 parent: src_rmo_1996
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1996 — Quesito 5
 
 *In triangle ABC prove $(b+c)^2 \ge a^2 + 4h_a^2$*
 

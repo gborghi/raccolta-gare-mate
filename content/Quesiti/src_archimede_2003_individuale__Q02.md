@@ -1,4 +1,5 @@
 ---
+title: Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_individuale__Q02
 parent: src_archimede_2003_individuale
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 2
 
 *minimo tempo*
 

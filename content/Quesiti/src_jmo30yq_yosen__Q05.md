@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo30yq_yosen__Q05
 parent: src_jmo30yq_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 5
 
 *Smallest positive n equal to (x1^2-1)(x2^2-2)...(x10^2-10) for integers xi*
 

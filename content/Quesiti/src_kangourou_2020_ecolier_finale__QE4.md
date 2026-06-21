@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Ecolier — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__QE4
 parent: src_kangourou_2020_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Ecolier — Quesito E4
 
 *Somma dei quattro numeri di Giulia (somme uguali sulle diagonali)*
 

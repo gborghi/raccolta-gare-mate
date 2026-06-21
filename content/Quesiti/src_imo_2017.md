@@ -1,4 +1,5 @@
 ---
+title: IMO 2017 papers
 tipo: gara
 src_id: src_imo_2017
 competition: IMO 2017 papers
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# IMO 2017 papers
 
 Sorgente: `Archimede/individuale/imho/all/2017_eng.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo29yq_yosen__Q02
 parent: src_jmo29yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 2
 
 *3-digit number, all digits prime, whose square is also such*
 

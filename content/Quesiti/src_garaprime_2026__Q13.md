@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_garaprime_2026__Q13
 parent: src_garaprime_2026
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026 — Quesito 13
 
 *Minimo S(n+1) dato S(n)=2026*
 

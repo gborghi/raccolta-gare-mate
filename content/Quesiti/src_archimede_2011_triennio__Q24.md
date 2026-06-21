@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q24
 parent: src_archimede_2011_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 24
 
 *Ultime quattro cifre di a2011 in successione moltiplicativa*
 

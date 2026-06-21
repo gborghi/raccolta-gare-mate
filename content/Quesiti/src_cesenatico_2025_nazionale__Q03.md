@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q03
 parent: src_cesenatico_2025_nazionale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 3
 
 *Infinite coppie consecutive con stessa parita di p(n)*
 

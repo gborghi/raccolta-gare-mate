@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2017__Q05
 parent: src_cesenatico_2017
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 5
 
 *esiste xi >= 2017*
 

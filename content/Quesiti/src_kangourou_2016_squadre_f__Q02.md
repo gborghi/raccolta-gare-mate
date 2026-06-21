@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q02
 parent: src_kangourou_2016_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Finale — Quesito 2
 
 *Probabilita su 100 che primo e ultimo siano quadrati*
 

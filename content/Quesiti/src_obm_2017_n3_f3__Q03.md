@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n3_f3__Q03
 parent: src_obm_2017_n3_f3
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 3
 
 *Tangential quadrilateral with inscribed circle; line RT passes through incenter of triangle PQC*
 

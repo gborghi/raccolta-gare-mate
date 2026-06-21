@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q21
 parent: src_obm_2005_n2_f1
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 21
 
 *Clock makes a plim each time a hand overtakes another; count plins between 12h00m01s and 23h59m59s*
 

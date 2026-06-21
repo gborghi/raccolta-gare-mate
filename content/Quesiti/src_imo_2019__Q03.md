@@ -1,4 +1,5 @@
 ---
+title: IMO 2019 papers — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2019__Q03
 parent: src_imo_2019
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# IMO 2019 papers — Quesito 3
 
 *Rete sociale 2019 utenti, eventi amicizia*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q06
 parent: src_kangourou_2019_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 6
 
 *Massimo peso dell oggetto piu leggero (tre pesi distinti somma 97)*
 

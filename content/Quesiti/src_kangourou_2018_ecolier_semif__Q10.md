@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q10
 parent: src_kangourou_2018_ecolier_semif
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 10
 
 *Massimo numero di poligoni con 41 fiammiferi*
 

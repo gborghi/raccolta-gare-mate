@@ -1,4 +1,5 @@
 ---
+title: IMO 1985 (26th International Mathematical Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1985__Q02
 parent: src_imo_1985
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1985 (26th International Mathematical Olympiad) — Quesito 2
 
 *Two-colored set with coprime conditions all same color*
 

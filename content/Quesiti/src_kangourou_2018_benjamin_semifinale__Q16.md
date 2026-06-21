@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q16
 parent: src_kangourou_2018_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Semifinale individuale — Quesito 16
 
 *Somma dei prodotti delle cifre da 1 a 99*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1978 (Twentieth International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1978_all__Q05
 parent: src_imo_1978_all
@@ -23,8 +24,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1978 (Twentieth International Olympiad) — Quesito 5
 
 *sum a_k/k^2 >= sum 1/k*
 

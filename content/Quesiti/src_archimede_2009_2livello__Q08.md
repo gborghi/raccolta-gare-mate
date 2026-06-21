@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q08
 parent: src_archimede_2009_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 8
 
 *Percorso minimo del ladro per toccare parete e diamante*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo8yq_yosen__Q07
 parent: src_jjmo8yq_yosen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 7
 
 *Regular heptagon with marked points; find angle PTS*
 

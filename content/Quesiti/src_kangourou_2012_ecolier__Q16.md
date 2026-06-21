@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q16
 parent: src_kangourou_2012_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 16
 
 *Qual e il pezzo bianco del blocco*
 

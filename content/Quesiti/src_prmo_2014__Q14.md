@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q14
 parent: src_prmo_2014
@@ -34,8 +35,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 14
 
 *Number of people in Manjul's family given coffee/milk mixture problem*
 

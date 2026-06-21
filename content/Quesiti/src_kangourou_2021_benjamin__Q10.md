@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q10
 parent: src_kangourou_2021_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 10
 
 *Disegno di Dani in cui colora 1/8 del quadrato*
 

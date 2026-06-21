@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f1__Q03
 parent: src_obm_2006_nu_f1
@@ -35,8 +38,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 — Quesito 3
 
 *Bound f(x)<3/2 from ODE with initial conditions*
 

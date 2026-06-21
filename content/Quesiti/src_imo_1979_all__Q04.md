@@ -1,4 +1,5 @@
 ---
+title: IMO 1979 (Twenty-first International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1979_all__Q04
 parent: src_imo_1979_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1979 (Twenty-first International Olympiad) — Quesito 4
 
 *Find points R maximizing ratio (QP+PA)/QR in plane*
 

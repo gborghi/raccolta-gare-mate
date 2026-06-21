@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f2__Q05
 parent: src_obm_2017_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 5
 
 *Distance inequality involving rows of a real d×n matrix and subspace supremum*
 

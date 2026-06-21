@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f1__Q07
 parent: src_obm_2014_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 7
 
 *Four messages about safe/unsafe cave doors; deduce which door is safe*
 

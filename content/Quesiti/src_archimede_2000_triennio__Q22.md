@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q22
 parent: src_archimede_2000_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 22
 
 *Probabilita tre lanci dado formino triangolo rettangolo*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
 tipo: gara
 src_id: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
 
 Sorgente: apri PDF
 

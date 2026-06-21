@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier semifinale individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q13
 parent: src_kangourou_2022_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier semifinale individuale — Quesito 13
 
 *Chilometri percorribili con la benzina nel serbatoio*
 

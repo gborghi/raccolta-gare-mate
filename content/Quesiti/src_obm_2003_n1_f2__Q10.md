@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f2__Q10
 parent: src_obm_2003_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 10
 
 *Domino pieces partially covered by paper; find hidden dots total*
 

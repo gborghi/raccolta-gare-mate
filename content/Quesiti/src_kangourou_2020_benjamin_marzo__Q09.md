@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q09
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 9
 
 *Minimo numero di mele da spostare per pareggiare i cestini*
 

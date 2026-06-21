@@ -1,4 +1,5 @@
 ---
+title: IMO 1960 (II International Olympiad) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_imho_1960__Q07
 parent: src_imho_1960
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1960 (II International Olympiad) — Quesito 7
 
 *Punti sull'asse di un trapezio isoscele con angoli retti*
 

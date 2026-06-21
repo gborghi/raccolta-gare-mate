@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 finale nazionale Student — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student_finale__Q03
 parent: src_kangourou_2012_student_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 finale nazionale Student — Quesito 3
 
 *Colorazioni di 20 tessere con regola di somma*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n3_f3__Q01
 parent: src_obm_1999_n3_f3
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 1
 
 *Area of quadrilateral in regular pentagram with area 1*
 

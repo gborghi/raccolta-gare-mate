@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q01
 parent: src_garaprime_2019
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 1
 
 *Cifre binarie del prodotto delle prime 10 potenze di 8*
 

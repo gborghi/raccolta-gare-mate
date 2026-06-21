@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q08
 parent: src_archimede_2021_biennio_tradizionale
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 8
 
 *Succo di pera rimasto dopo miscele e prelievi*
 

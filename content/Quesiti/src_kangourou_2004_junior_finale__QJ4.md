@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior finale nazionale — Quesito J4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior_finale__QJ4
 parent: src_kangourou_2004_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior finale nazionale — Quesito J4
 
 *Rapporto aree A'B'C' / ABC (simmetrie)*
 

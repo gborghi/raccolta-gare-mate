@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio)
 tipo: gara
 src_id: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/SMarzo-20.pdf` · apri PDF
 

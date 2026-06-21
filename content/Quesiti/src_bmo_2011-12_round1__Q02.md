@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2011-12_round1__Q02
 parent: src_bmo_2011-12_round1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 1 — Quesito 2
 
 *Largest t so that 1,2,...,k can be arranged with adjacent divisibility*
 

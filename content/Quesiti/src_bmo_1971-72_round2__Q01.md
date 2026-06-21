@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1971-72 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1971-72_round2__Q01
 parent: src_bmo_1971-72_round2
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1971-72 — Round 2 — Quesito 1
 
 *Label regular n²-gon vertices with digits 1,2 satisfying four conditions*
 

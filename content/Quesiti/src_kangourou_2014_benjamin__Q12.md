@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q12
 parent: src_kangourou_2014_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 12
 
 *Strada e direzione di Simona per raggiungere Elena*
 

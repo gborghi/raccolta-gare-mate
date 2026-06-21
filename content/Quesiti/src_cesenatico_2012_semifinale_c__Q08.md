@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q08
 parent: src_cesenatico_2012_semifinale_c
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 8
 
 *Acqua nella piscina tetraedro inscritto*
 

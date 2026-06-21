@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q05
 parent: src_archimede_2026_squadre_finale_mista
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 5
 
 *Somma max e min terne autodivisibili cifre 1-9*
 

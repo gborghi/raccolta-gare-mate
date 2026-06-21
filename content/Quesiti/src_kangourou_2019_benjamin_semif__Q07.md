@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q07
 parent: src_kangourou_2019_benjamin_semif
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 7
 
 *Quanti giorni minimo per cui la seconda proposta conviene*
 

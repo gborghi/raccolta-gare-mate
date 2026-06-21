@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f2__Q08
 parent: src_obm_2016_n3_f2
@@ -38,8 +39,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 8
 
 *Maximum angle BAC when G is centroid and two circles are tangent to a common line*
 

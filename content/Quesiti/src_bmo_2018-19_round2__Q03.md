@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2018-19 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2018-19_round2__Q03
 parent: src_bmo_2018-19_round2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2018-19 — Round 2 — Quesito 3
 
 *Count non-empty subsets of {1,...,p-1} with sum divisible by p*
 

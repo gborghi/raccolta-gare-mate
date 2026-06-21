@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f1__Q07
 parent: src_obm_2004_n2_f1
@@ -30,8 +31,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 7
 
 *Difference p-q between same-flavor and different-flavor candy probabilities*
 

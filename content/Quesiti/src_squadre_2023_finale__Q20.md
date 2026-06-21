@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q20
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 20
 
 *Numeri n in 1-100 con Q(n) multiplo di n (somma coprimi)*
 

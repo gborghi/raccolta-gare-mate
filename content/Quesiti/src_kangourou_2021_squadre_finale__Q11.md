@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q11
 parent: src_kangourou_2021_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale — Quesito 11
 
 *Soluzioni (X,Y) con 135X6Y divisibile per 12*
 

@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 —
+  Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2005_nu_f1__Q01
 parent: src_obm_2005_nu_f1
@@ -35,8 +38,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 — Quesito 1
 
 *Find area of triangle formed by tangent lines to cubic*
 

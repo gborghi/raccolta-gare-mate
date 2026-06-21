@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004
 tipo: gara
 src_id: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004
 
 Sorgente: apri PDF
 

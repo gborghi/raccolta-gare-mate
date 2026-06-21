@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q18
 parent: src_kangourou_2004_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 18
 
 *Da quanti triangoli il settimo (numeri quadrati)*
 

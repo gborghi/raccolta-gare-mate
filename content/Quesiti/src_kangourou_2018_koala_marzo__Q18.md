@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q18
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 18
 
 *Massimo numero di gelati con 36 euro e offerta 6=5*
 

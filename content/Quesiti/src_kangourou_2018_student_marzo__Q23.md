@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q23
 parent: src_kangourou_2018_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 23
 
 *Numero del vertice x del prisma con somme uguali*
 

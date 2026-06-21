@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q02
 parent: src_obm_2002_n3_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 2
 
 *Find p+q for the irreducible fraction equal to a repeating-decimal ratio plus 2*
 

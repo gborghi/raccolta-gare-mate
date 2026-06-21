@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2022_n2_fx__Q06
 parent: src_obm_2022_n2_fx
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 6
 
 *Largest k so k subsets of size 1011 of {1,...,2023} can be 2-colored with intersecting pairs*
 

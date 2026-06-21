@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q29
 parent: src_kangourou_2021_student_gara
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 29
 
 *Minimo valore di M(k) massimo di |4x^2-4x+k| su [-1,1]*
 

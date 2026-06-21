@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2022 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_2022__Q01
 parent: src_cgen_2022
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Concours Général des Lycées 2022 — Matematica — Quesito 1
 
 *Sparkling reals defined via parity of floor of x^(2^n); prove each interval [k,k+1) contains a unique sparkling real using sequences a_n, b_n*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q15
 parent: src_kangourou_2022_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 15
 
 *Quante ciliegie ha mangiato Donatella in tutto*
 

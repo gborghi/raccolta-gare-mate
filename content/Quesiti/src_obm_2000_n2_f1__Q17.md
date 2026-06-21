@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f1__Q17
 parent: src_obm_2000_n2_f1
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 17
 
 *Count rectangles with both A and B as vertices on a 9x9 grid*
 

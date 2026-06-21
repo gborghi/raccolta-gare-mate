@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gs_2010_squadre__Q10
 parent: src_gs_2010_squadre
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre — Quesito 10
 
 *Strategia gioco dei fagioli, multiplo di 9*
 

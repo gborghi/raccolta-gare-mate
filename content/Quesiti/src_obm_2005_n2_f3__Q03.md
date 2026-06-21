@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f3__Q03
 parent: src_obm_2005_n2_f3
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3 — Quesito 3
 
 *Given product ratio equals 1/11, find cyclic sum of a/(a+b)*
 

@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_tfjm_2026__Q04
 parent: src_tfjm_2026
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 4
 
 *Necklaces of beads of length l with integer values summing to price p, considered equal up to rotation and avoiding m consecutive value-0 beads; count necklaces $C(l,p,m)$ and the restricted set $C_D(l,p,m)$ using only values in a subset D.*
 

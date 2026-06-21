@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q18
 parent: src_kangourou_2013_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 18
 
 *Celle non intersecate dalle diagonali in griglia 6x10*
 

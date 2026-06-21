@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q01
 parent: src_archimede_2013_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 1
 
 *Cifra delle unita del mcm di 2^255 e 2^256*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q01
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 1
 
 *Differenza tra termini 2019 e 2018 di N^2-2019N+2019*
 

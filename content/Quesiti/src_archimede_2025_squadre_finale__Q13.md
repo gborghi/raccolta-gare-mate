@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q13
 parent: src_archimede_2025_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 13
 
 *Ultime quattro cifre di 1^7+2^7+...+2025^7*
 

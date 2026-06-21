@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1996
 tipo: gara
 src_id: src_inmo_1996
 competition: Indian National Mathematical Olympiad 1996
@@ -15,8 +16,6 @@ tags:
   - anno/1996
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1996
 
 Sorgente: apri PDF
 

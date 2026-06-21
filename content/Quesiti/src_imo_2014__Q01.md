@@ -1,4 +1,5 @@
 ---
+title: IMO 2014 (shortlist/papers) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2014__Q01
 parent: src_imo_2014
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2014 (shortlist/papers) — Quesito 1
 
 *Esiste unico n con an<media prefissi<=an+1*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2026 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jgmo1q__Q01
 parent: src_jgmo1q
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2026 — Quesito 1
 
 *Count border black cells in 100x100 grid with 2500 non-adjacent painted cells*
 

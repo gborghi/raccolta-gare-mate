@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Cadet 2024 — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC4
 parent: src_kangourou_2024_cadet_finale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Finale Cadet 2024 — Quesito C4
 
 *Minima distanza antenna dall'abitazione piu lontana*
 

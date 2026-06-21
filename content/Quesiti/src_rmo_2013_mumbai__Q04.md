@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_mumbai__Q04
 parent: src_rmo_2013_mumbai
@@ -30,8 +31,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Mumbai — Quesito 4
 
 *Triangle with D,E on BC,AC; P on ED; find ratio BS/SD*
 

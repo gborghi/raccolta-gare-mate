@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student finale (maggio) — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_maggio__QS1
 parent: src_kangourou_2006_student_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2006 Student finale (maggio) — Quesito S1
 
 *Somma minima dei valori assoluti su circonferenza numerata*
 

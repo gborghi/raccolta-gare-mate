@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q12
 parent: src_kangourou_2006_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 12
 
 *Valore abc (tre primi con somma e differenza)*
 

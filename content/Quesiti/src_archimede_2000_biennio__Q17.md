@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q17
 parent: src_archimede_2000_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 17
 
 *Probabilita tre vertici esagono formino triangolo equilatero*
 

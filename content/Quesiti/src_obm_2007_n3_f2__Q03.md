@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f2__Q03
 parent: src_obm_2007_n3_f2
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 3
 
 *Digit sum of the integer nearest to the square root of the 1000-digit repunit*
 

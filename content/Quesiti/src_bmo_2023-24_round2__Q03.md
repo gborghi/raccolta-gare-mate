@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2023-24 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2023-24_round2__Q03
 parent: src_bmo_2023-24_round2
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2023-24 — Round 2 — Quesito 3
 
 *Prove quadrilateral AXPY is cyclic in acute triangle configuration*
 

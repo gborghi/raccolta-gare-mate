@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q30
 parent: src_kangourou_2012_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 30
 
 *Numero nella cella centrale della griglia 3x3 con prodotti*
 

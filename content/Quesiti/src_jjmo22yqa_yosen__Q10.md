@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo22yqa_yosen__Q10
 parent: src_jjmo22yqa_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 10
 
 *Find AB given triangle ABC with BC=16, D,E on BC, DF parallel AC, EF parallel AB, F on circumcircle, circumcircle of DEF tangent to AB*
 

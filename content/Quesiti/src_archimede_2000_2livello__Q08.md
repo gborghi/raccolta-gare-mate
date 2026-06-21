@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q08
 parent: src_archimede_2000_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 8
 
 *Numero biglietti lotteria con 999 cifre 9*
 

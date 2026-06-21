@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q20
 parent: src_kangourou_2023_junior
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 20
 
 *blocchi tra 39 e 40*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q07
 parent: src_kangourou_2023_junior_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 7
 
 *Numero massimo di parti tagliando tre sfere con due piani*
 

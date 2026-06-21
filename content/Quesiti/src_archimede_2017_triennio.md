@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Triennio
 tipo: gara
 src_id: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2017/archimede_triennio_2017.pdf` · apri PDF
 

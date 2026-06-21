@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_finale__QC2
 parent: src_kangourou_2018_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C2
 
 *Massimo cassette che Eugenio tiene con 7 furgoni*
 

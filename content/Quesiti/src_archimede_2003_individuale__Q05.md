@@ -1,4 +1,5 @@
 ---
+title: Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_individuale__Q05
 parent: src_archimede_2003_individuale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 5
 
 *pedine al centro, esistenza configurazioni*
 

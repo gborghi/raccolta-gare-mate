@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1997 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1997__Q02
 parent: src_cesenatico_1997
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1997 — Quesito 2
 
 *f dispari e periodica da condizioni simmetria*
 

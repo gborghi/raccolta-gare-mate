@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q08
 parent: src_kangourou_2019_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 8
 
 *In quale disegno l area ombreggiata e massima*
 

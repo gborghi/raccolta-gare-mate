@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1995-96 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1995-96_round1__Q05
 parent: src_bmo_1995-96_round1
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1995-96 — Round 1 — Quesito 5
 
 *Prove 4(a^3+b^3) >= (a+b)^3 and 9(a^3+b^3+c^3) >= (a+b+c)^3*
 

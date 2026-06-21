@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2010 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2010__Q04
 parent: src_inmo_2010
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2010 — Quesito 4
 
 *Count 6-tuples where each element equals an expression in adjacent terms*
 

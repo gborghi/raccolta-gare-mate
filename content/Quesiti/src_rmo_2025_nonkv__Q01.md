@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — Non-KV — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2025_nonkv__Q01
 parent: src_rmo_2025_nonkv
@@ -34,8 +35,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2025 — Non-KV — Quesito 1
 
 *Count configurations of n lines with prescribed intersection points*
 

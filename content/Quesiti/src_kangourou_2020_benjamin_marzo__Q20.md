@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q20
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 20
 
 *Quale figura rappresenta i tre vasi visti dall alto*
 

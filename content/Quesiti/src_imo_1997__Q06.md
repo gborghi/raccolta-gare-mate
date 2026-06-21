@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1997 (38th IMO, Mar del Plata) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1997__Q06
 parent: src_imo_1997
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1997 (38th IMO, Mar del Plata) — Quesito 6
 
 *Bound f(2^n), partitions of n into powers of 2*
 

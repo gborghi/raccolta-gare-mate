@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo10yq_yosen__Q04
 parent: src_jjmo10yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 4
 
 *Point E on side DA of quadrilateral; find length EC*
 

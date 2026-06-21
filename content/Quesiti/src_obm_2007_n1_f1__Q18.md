@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f1__Q18
 parent: src_obm_2007_n1_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 18
 
 *Trip 12 min at 80 km/h, then 15 min lost; find speed to still arrive on time*
 

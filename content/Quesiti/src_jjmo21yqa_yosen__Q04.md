@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo21yqa_yosen__Q04
 parent: src_jjmo21yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 4
 
 *Max primes among pairwise sums of 5 distinct integers*
 

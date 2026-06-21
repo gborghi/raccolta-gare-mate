@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q07
 parent: src_cesenatico_2006_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 7
 
 *Valore di f^(2006)(11) iterando quadrato somma cifre*
 

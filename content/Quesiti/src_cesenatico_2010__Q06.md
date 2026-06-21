@@ -1,4 +1,5 @@
 ---
+title: XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2010__Q06
 parent: src_cesenatico_2010
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 6
 
 *Infiniti primi che dividono 2^(n^3+1)-3^(n^2+1)+5^(n+1)*
 

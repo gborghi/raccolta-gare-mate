@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1996-97 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1996-97_round2__Q03
 parent: src_bmo_1996-97_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1996-97 — Round 2 — Quesito 3
 
 *Count degree-5 polynomials divisible by x^2-x+1*
 

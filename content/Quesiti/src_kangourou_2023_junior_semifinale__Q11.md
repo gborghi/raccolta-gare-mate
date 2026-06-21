@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q11
 parent: src_kangourou_2023_junior_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 11
 
 *Conteggio inserimenti lettere in 5 settori con A,B non adiacenti*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q15
 parent: src_kangourou_2011_junior
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 15
 
 *Quante delle quattro ragazze mentono*
 

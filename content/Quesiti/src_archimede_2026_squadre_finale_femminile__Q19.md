@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q19
 parent: src_archimede_2026_squadre_finale_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 19
 
 *Distanza BC in quadrilatero con angoli 45 e AC=CD*
 

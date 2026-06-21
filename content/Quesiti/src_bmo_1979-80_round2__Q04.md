@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1979-80 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1979-80_round2__Q04
 parent: src_bmo_1979-80_round2
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1979-80 — Round 2 — Quesito 4
 
 *Bridge tournament: each pair are opponents exactly once*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q13
 parent: src_archimede_2025_triennio_rec
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 13
 
 *Interi 1-100 che non dividono il prodotto 50..80*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q11
 parent: src_gas_2009_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 11
 
 *Raggio cerchio inscritto in trapezio rettangolo dato area*
 

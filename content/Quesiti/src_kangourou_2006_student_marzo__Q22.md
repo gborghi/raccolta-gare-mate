@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q22
 parent: src_kangourou_2006_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 22
 
 *Per quanti n la potenza n^300 ha <=100 cifre*
 

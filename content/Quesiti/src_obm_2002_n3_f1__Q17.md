@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q17
 parent: src_obm_2002_n3_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 17
 
 *Remainder when 9 divides sqrt(1111111111 - 22222)*
 

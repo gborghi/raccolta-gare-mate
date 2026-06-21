@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2002_nu_f2__Q02
 parent: src_obm_2002_nu_f2
@@ -34,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 — Quesito 2
 
 *Symmetric real matrix with row sums 1 and bounded off-diagonal; prove 0 < det A ≤ 1*
 

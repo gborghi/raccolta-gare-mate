@@ -1,4 +1,5 @@
 ---
+title: IMO 1981 (Twenty-second International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1981_all__Q06
 parent: src_imo_1981_all
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1981 (Twenty-second International Olympiad) — Quesito 6
 
 *Compute Ackermann-type function f(4,1981)*
 

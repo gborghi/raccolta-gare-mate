@@ -1,4 +1,5 @@
 ---
+title: IMO 2023 papers — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_2023__Q02
 parent: src_imo_2023
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2023 papers — Quesito 2
 
 *Tangente a omega in P incontra BS sul bisettore*
 

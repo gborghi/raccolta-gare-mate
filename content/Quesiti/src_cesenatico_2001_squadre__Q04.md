@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q04
 parent: src_cesenatico_2001_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 4
 
 *Perimetro massimo di triangolo con angolo doppio e lato 55*
 

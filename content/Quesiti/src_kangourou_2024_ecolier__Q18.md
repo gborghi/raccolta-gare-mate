@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q18
 parent: src_kangourou_2024_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 18
 
 *Somma delle tre cifre mancanti (somma di tre numeri = 782)*
 

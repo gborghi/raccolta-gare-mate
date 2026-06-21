@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q15
 parent: src_kangourou_2018_ecolier_semif
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 15
 
 *Minuti di attesa massima per sapere l ora dai rintocchi*
 

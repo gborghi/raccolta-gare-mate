@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q13
 parent: src_canimath_2020_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 13
 
 *Find all n>=0 with n = 2 s(n), where s(n) is the digit sum*
 

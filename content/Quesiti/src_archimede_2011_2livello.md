@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2011 (biennio/triennio)
 tipo: gara
 src_id: src_archimede_2011_2livello
 competition: Archimede Gara 2° livello 2011 (biennio/triennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2011 (biennio/triennio)
 
 Sorgente: `Archimede/individuale/2livello/2011/soluzionifebb11.pdf` · apri PDF
 

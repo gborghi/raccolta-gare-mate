@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello
 tipo: gara
 src_id: src_archimede_2012_febb29_2livello
 competition: Archimede Gara Febbraio 2012 (29 feb) - 2 livello
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (29 feb) - 2 livello
 
 Sorgente: `Archimede/individuale/2livello/2012/soluzioni_feb12_bis4.pdf` · apri PDF
 

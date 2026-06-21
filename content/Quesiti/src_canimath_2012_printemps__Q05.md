@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2012 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_printemps__Q05
 parent: src_canimath_2012_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2012 — Quesito 5
 
 *Maximum count of Paris phone numbers so any single-digit error lands on an unassigned number*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q06
 parent: src_canimath_2024_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 6
 
 *Find all values of symmetric product expression given equal ratios*
 

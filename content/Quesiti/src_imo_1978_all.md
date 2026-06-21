@@ -1,4 +1,5 @@
 ---
+title: IMO 1978 (Twentieth International Olympiad)
 tipo: gara
 src_id: src_imo_1978_all
 competition: IMO 1978 (Twentieth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1978
   - gara/individuale
 ---
-
-# IMO 1978 (Twentieth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1978_eng.pdf` · apri PDF
 

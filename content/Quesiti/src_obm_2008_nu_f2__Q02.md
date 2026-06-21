@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 2 —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2008_nu_f2__Q02
 parent: src_obm_2008_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 2 — Quesito 2
 
 *Finite-complement characterization via linear equation solution count*
 

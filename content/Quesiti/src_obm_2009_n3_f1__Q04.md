@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q04
 parent: src_obm_2009_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 4
 
 *Square A'B'C'D' from a 25-degree clockwise rotation of ABCD about midpoint of AB; acute angle between AC and B'D'.*
 

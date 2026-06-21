@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q05
 parent: src_archimede_2000_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 5
 
 *Aumento percentuale area rettangolo con base e altezza*
 

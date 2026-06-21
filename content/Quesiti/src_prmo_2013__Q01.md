@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q01
 parent: src_prmo_2013
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 1
 
 *Smallest k so that k(3^3+4^3+5^3)=a^n, n>1*
 

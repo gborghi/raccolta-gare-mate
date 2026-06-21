@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo12yq_yosen__Q05
 parent: src_jjmo12yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 5
 
 *Max n so 1..n can be 2-colored with no monochromatic square sum*
 

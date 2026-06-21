@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1979-80 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1979-80_round1__Q03
 parent: src_bmo_1979-80_round1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1979-80 — Round 1 — Quesito 3
 
 *Square inscribed in semicircle; line through vertex and arc point passes through incenter of triangle*
 

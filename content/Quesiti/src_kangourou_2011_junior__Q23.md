@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q23
 parent: src_kangourou_2011_junior
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 23
 
 *Numero minimo di angoli a due a due distinti*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_biennio__Q11
 parent: src_archimede_2019_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1) — Quesito 11
 
 *Numero mattonelle compatibile con salti di 2,3,4,5*
 

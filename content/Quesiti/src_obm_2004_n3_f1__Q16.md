@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f1__Q16
 parent: src_obm_2004_n3_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 16
 
 *Set of real roots of an equation with nested square roots.*
 

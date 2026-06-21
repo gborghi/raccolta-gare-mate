@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2012_nu_f1__Q06
 parent: src_obm_2012_nu_f1
@@ -36,8 +39,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 — Quesito 6
 
 *Values of a for which parabola-sequence region has infinite area*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Cadet
 tipo: gara
 src_id: src_kangourou_2014_cadet_finale
 competition: Kangourou 2014 finale Cadet
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Cadet
 
 Sorgente: `Kangaroo/kangourou_individuali/2014/CMaggio-14.pdf` · apri PDF
 

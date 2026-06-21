@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q24
 parent: src_kangourou_2012_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 24
 
 *Massimo partite perse con 80 punti in 38 partite*
 

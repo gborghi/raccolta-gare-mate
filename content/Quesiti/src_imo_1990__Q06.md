@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1990 (31st IMO, Beijing) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1990__Q06
 parent: src_imo_1990
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1990 (31st IMO, Beijing) — Quesito 6
 
 *Construct equiangular 1990-gon with square-number side lengths*
 

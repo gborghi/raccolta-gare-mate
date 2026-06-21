@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Triennio — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_triennio__Q25
 parent: src_archimede_2010_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Triennio — Quesito 25
 
 *Probabilita che Danilo ottenga la maglia 8*
 

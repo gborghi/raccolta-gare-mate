@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q19
 parent: src_archimede_2013_classiprime
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 19
 
 *massimo per cui Claudia vince (posizioni perse)*
 

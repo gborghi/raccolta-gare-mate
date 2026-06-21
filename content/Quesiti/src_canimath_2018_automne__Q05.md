@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2018 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_automne__Q05
 parent: src_canimath_2018_automne
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2018 — Quesito 5
 
 *Convex quadrilateral ABCD, specific angles, MD=NB; find angle MNB*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q24
 parent: src_kangourou_2005_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 24
 
 *Somma dei dieci angoli su cinque rette per P*
 

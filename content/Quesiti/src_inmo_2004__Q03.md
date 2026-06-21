@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2004 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2004__Q03
 parent: src_inmo_2004
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2004 — Quesito 3
 
 *Real root of cubic; prove floor of a^3 equals 3*
 

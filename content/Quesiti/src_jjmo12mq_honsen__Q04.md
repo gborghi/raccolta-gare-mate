@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo12mq_honsen__Q04
 parent: src_jjmo12mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 4
 
 *Island-bridge graph: shelter assignment with parity conditions*
 

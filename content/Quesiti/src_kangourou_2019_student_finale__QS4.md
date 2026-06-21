@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Student — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_finale__QS4
 parent: src_kangourou_2019_student_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Student — Quesito S4
 
 *Criterio per divisibilita per 11 di 5^a+4^b+3^c*
 

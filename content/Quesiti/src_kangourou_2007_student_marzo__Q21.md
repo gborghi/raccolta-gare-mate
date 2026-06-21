@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q21
 parent: src_kangourou_2007_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 21
 
 *Funzione inversa g (f(g(x))=x)*
 

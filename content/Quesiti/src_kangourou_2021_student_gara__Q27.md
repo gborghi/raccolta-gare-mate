@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q27
 parent: src_kangourou_2021_student_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 27
 
 *Area del triangolo ABC suddiviso con aree 1,3,3*
 

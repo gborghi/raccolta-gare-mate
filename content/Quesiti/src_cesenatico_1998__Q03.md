@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1998 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1998__Q03
 parent: src_cesenatico_1998
@@ -23,8 +24,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1998 — Quesito 3
 
 *Probabilita che si giochi a poker stasera*
 

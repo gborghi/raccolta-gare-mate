@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q15
 parent: src_kangourou_2021_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 15
 
 *Lunghezza di CD dati AB e aree dei rettangoli*
 

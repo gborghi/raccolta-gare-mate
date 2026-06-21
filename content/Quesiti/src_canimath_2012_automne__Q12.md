@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q12
 parent: src_canimath_2012_automne
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 12
 
 *Prove inequality 5x^2+y^2+4 >= 4x+4xy for all reals, find equality cases*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_biennio__Q06
 parent: src_archimede_2019_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1) — Quesito 6
 
 *Monete di due uomini da due condizioni di scambio*
 

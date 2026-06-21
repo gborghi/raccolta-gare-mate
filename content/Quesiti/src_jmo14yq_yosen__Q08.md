@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo14yq_yosen__Q08
 parent: src_jmo14yq_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 8
 
 *Maximize the minimum of a sum-of-fractions expression over positive reals summing to 1.*
 

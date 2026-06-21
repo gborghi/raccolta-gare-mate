@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2022 — Nível 3 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2022_n3_fx__Q04
 parent: src_obm_2022_n3_fx
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível 3 — Fase x — Quesito 4
 
 *Esmeralda erases and writes on board; find largest composite she cannot write*
 

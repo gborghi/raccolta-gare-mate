@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q04
 parent: src_obm_2003_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 4
 
 *Count arrangements of 35 people in a line with Arnaldo first among his 5 friends*
 

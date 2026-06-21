@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f2__Q03
 parent: src_obm_2007_n1_f2
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 3
 
 *In a number array each ring sum equals the square of its central cell; evaluate a ratio for 2007.*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q11
 parent: src_squadre_2024_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 11
 
 *Sequenze di 4 lanci dado per tornare alla casella 1*
 

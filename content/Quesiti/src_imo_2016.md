@@ -1,4 +1,5 @@
 ---
+title: IMO 2016 papers
 tipo: gara
 src_id: src_imo_2016
 competition: IMO 2016 papers
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# IMO 2016 papers
 
 Sorgente: `Archimede/individuale/imho/all/2016_eng.pdf` · apri PDF
 

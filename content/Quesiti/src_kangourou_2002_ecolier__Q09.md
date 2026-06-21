@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_ecolier__Q09
 parent: src_kangourou_2002_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Ecolier (21 marzo) — Quesito 9
 
 *Quante volte la cifra 2 da 1 a 24*
 

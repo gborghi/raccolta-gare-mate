@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q30
 parent: src_prmo_2018
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 30
 
 *Polynomial with non-negative integer coefficients, P(1)=4 P(5)=136, find P(3)*
 

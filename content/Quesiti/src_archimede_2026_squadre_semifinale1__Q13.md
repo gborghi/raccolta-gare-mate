@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q13
 parent: src_archimede_2026_squadre_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 13
 
 *Ampiezza angolo AED con bisettrici interne ed esterne*
 

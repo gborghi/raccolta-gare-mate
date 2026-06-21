@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q02
 parent: src_archimede_2018_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 2
 
 *Numero esprimibile come somma di quadrati di due multipli di 3*
 

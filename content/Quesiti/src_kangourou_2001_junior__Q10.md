@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Junior (15 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_junior__Q10
 parent: src_kangourou_2001_junior
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Junior (15 marzo) — Quesito 10
 
 *Tagliare un anello per liberarli*
 

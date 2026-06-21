@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1999-00 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1999-00_round1__Q01
 parent: src_bmo_1999-00_round1
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1999-00 — Round 1 — Quesito 1
 
 *Two circles, common tangent; prove MQ bisects angle PMR*
 

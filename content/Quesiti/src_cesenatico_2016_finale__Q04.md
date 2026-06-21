@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_finale__Q04
 parent: src_cesenatico_2016_finale
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 4
 
 *Cloni totali primi 100 mesi (ricorrenza a blocchi)*
 

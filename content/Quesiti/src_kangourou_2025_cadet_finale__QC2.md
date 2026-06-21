@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Cadet finale — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_cadet_finale__QC2
 parent: src_kangourou_2025_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2025 Cadet finale — Quesito C2
 
 *Numero totale di lampioni su sentiero circolare*
 

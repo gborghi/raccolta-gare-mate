@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_biennio__Q09
 parent: src_archimede_2004_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Biennio — Quesito 9
 
 *Funzione/posizione di vertici e numero N di lati*
 

@@ -1,4 +1,5 @@
 ---
+title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2009__Q01
 parent: src_cesenatico_2009
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# XXV Olimpiade Italiana Cesenatico 2009 — Quesito 1
 
 *valori di e*
 

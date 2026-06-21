@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2006 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_2006__Q07
 parent: src_rmo_2006
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2006 — Quesito 7
 
 *Functional equation f(xy)=f(x+y) for integers ≥4; find f(9)*
 

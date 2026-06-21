@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2018 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_automne__Q04
 parent: src_canimath_2018_automne
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2018 — Quesito 4
 
 *Rabbits in circle; white give moustaches to brown, grey to white; prove a brown rabbit has two white neighbours*
 

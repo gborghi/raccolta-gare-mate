@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f2__Q04
 parent: src_obm_2007_n2_f2
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 4
 
 *Find the digit sum of a number K (statement not faithfully recoverable).*
 

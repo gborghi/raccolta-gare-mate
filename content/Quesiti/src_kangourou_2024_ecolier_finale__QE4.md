@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Ecolier 2024 — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_finale__QE4
 parent: src_kangourou_2024_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Finale Ecolier 2024 — Quesito E4
 
 *Si puo dedurre il significato di KAB*
 

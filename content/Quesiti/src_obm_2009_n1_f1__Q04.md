@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f1__Q04
 parent: src_obm_2009_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 4
 
 *Count positive integers n <= 31! with 3^n + n divisible by 31*
 

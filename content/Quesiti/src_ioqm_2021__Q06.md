@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_ioqm_2021__Q06
 parent: src_ioqm_2021
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 6
 
 *Positive reals x,y,z with three quadratic constraints; find p+q where expression equals p*sqrt(q)*
 

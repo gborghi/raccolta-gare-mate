@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Benjamin — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_finale__QB5
 parent: src_kangourou_2020_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Benjamin — Quesito B5
 
 *Distanza di P da A per tragitto minimo C-M (riflessione)*
 

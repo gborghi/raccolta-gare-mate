@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q08
 parent: src_archimede_2026_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 8
 
 *Polinomio che concatena cifre 4, valore p(10)*
 

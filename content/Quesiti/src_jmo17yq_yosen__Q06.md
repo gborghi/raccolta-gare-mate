@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo17yq_yosen__Q06
 parent: src_jmo17yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 6
 
 *Count distinct sums achievable by selecting cards numbered 1 to 15*
 

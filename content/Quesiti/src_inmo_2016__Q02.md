@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2016 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2016__Q02
 parent: src_inmo_2016
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2016 — Quesito 2
 
 *Which conditions on positive reals imply a=b=c*
 

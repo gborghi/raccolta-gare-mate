@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier__Q06
 parent: src_kangourou_2005_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo) — Quesito 6
 
 *Minimo numero di figli con fratello e sorella*
 

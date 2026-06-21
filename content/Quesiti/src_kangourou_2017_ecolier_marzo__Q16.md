@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q16
 parent: src_kangourou_2017_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 16
 
 *Somma dei numeri sotto le due macchie sulla pianta*
 

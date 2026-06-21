@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2011 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_automne__Q06
 parent: src_canimath_2011_automne
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2011 — Quesito 6
 
 *Ball: no boy danced with all girls; find a crossing pair of boys and girls*
 

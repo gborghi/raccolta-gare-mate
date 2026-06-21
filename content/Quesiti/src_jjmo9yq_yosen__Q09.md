@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo9yq_yosen__Q09
 parent: src_jjmo9yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 9
 
 *Smallest n with S(n²) = S(n) − 7, where S is the sum-of-divisors function*
 

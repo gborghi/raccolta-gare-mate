@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Biennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_biennio__Q17
 parent: src_archimede_1999_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Biennio — Quesito 17
 
 *Coppie di piani perpendicolari fra le facce di un cubo*
 

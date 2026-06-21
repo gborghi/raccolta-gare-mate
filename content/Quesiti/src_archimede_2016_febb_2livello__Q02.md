@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q02
 parent: src_archimede_2016_febb_2livello
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2016 - 2 livello — Quesito 2
 
 *Cifra delle unita di 150X con esattamente un manoscritto falso*
 

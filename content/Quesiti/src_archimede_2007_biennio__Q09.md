@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q09
 parent: src_archimede_2007_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 9
 
 *Valore di (a+b)/(b+c) con b/a=2 e c/b=3*
 

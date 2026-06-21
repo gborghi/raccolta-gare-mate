@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1975-76 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1975-76_round2__Q04
 parent: src_bmo_1975-76_round2
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1975-76 — Round 2 — Quesito 4
 
 *No positive integers p,q with |sqrt(2)-p/q| ≤ 1/(4q²)*
 

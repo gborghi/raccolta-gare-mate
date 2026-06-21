@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f2__Q04
 parent: src_obm_2016_n3_f2
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 4
 
 *Smallest perimeter shared by two non-congruent integer-sided right triangles*
 

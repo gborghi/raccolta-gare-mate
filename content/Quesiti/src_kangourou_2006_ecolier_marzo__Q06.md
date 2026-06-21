@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q06
 parent: src_kangourou_2006_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 6
 
 *Quale strada e la piu corta*
 

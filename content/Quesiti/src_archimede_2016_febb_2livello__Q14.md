@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q14
 parent: src_archimede_2016_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2016 - 2 livello — Quesito 14
 
 *Conteggio PIN con vincoli su cifre e somma almeno 8*
 

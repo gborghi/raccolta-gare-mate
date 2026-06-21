@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student finale individuale — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_finale__QS5
 parent: src_kangourou_2021_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2021 Student finale individuale — Quesito S5
 
 *somma a_i/b_i >= n*
 

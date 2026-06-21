@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student
 tipo: gara
 src_id: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student
 
 Sorgente: `Kangaroo/kangourou_individuali/2013/SMarzo-13.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_biennio__Q11
 parent: src_archimede_2023_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio — Quesito 11
 
 *Coppie intere (x,y) con x^2 y^3 = 7xy*
 

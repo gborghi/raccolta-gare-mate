@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (finale Cervia) — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_finale__QE5
 parent: src_kangourou_2017_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (finale Cervia) — Quesito E5
 
 *Massimo amici con terne di caramelle a gusti diversi*
 

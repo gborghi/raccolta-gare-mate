@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r1__Q03
 parent: src_rmo_2016_r1
@@ -32,8 +33,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 1 — Quesito 3
 
 *Natural numbers n with n = 2S(n)^2, digits in base 10*
 

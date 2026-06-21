@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2023-24 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2023-24_round1__Q05
 parent: src_bmo_2023-24_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2023-24 — Round 1 — Quesito 5
 
 *Minimum faults for 1000 red-blue dots on a circle*
 

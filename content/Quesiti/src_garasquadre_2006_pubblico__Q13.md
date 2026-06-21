@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q13
 parent: src_garasquadre_2006_pubblico
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 13
 
 *Radice quinta di un intero di 4 cifre con terza cifra 5*
 

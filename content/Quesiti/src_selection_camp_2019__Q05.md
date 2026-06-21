@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2019__Q05
 parent: src_selection_camp_2019
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2019 — Selection Camp — Quesito 5
 
 *Good numbers 2^n+2^{floor(n/2)}: sums and non-sums of distinct good numbers*
 

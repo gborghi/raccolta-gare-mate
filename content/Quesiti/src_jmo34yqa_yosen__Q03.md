@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo34yqa_yosen__Q03
 parent: src_jmo34yqa_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 3
 
 *Find BX in equilateral triangle with circle tangent at X and crossing sides*
 

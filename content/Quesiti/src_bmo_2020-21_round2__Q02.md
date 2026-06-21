@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2020-21 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2020-21_round2__Q02
 parent: src_bmo_2020-21_round2
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2020-21 — Round 2 — Quesito 2
 
 *Tiling a square with two types of square tiles*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2023-24 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2023-24_round1__Q04
 parent: src_bmo_2023-24_round1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2023-24 — Round 1 — Quesito 4
 
 *Find all positive integers n with n times 2^n plus 1 a perfect square*
 

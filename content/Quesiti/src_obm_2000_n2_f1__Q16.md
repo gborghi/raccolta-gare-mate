@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f1__Q16
 parent: src_obm_2000_n2_f1
@@ -37,8 +38,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 16
 
 *Nim game: first player's winning move with 1000 sticks, draw 1-5 each turn*
 

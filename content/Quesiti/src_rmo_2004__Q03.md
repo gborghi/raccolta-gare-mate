@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2004 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2004__Q03
 parent: src_rmo_2004
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2004 — Quesito 3
 
 *Recurrence from quadratic roots; prove integer values and gcd = 1*
 

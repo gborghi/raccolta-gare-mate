@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin (18 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin__Q12
 parent: src_kangourou_2004_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin (18 marzo) — Quesito 12
 
 *Quanti buchi dopo 5 piegature*
 

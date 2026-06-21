@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f1__Q04
 parent: src_obm_2003_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 4
 
 *Calculator keys A (2x+1) and B (3x-1) from 5; largest two-digit number*
 

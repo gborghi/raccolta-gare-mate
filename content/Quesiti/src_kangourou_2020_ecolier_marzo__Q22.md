@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q22
 parent: src_kangourou_2020_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 22
 
 *Quante squadre nel campo (5 o 6 membri, 43 persone)*
 

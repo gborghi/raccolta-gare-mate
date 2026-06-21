@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2006 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2006__Q02
 parent: src_inmo_2006
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2006 — Quesito 2
 
 *Unique ordered pair (a,b) giving every positive integer n*
 

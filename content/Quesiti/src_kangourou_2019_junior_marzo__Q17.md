@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q17
 parent: src_kangourou_2019_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 17
 
 *Valore A+B con somma cifre di AAABBBB uguale ad AB*
 

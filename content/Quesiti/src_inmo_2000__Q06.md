@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2000 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2000__Q06
 parent: src_inmo_2000
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2000 — Quesito 6
 
 *f(n) counts integer-sided triangles; prove f(1999)>f(1996) and f(2000)=f(1997)*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1999-00 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1999-00_round2__Q04
 parent: src_bmo_1999-00_round2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1999-00 — Round 2 — Quesito 4
 
 *Find a 10-element set where no 6 elements sum divisible by 6; what about 11?*
 

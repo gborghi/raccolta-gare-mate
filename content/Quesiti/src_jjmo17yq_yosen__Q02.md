@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo17yq_yosen__Q02
 parent: src_jjmo17yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 2
 
 *Smallest 'this-year number' divisible by 17*
 

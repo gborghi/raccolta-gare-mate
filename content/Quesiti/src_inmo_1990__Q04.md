@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1990 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_1990__Q04
 parent: src_inmo_1990
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1990 — Quesito 4
 
 *Count three-element subsets of {1,...,300} with sum divisible by 3*
 

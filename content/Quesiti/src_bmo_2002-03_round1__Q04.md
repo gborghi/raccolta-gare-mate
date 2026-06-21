@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2002-03 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2002-03_round1__Q04
 parent: src_bmo_2002-03_round1
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2002-03 — Round 1 — Quesito 4
 
 *Greatest number of red points on grid with no axis-aligned right triangle*
 

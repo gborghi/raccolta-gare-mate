@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f2__Q08
 parent: src_obm_2015_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 8
 
 *Parallelogram ABCD (AB=8, BC=4); circle through A,C, midpoint M of BC, tangent to AD, meets CD at P; find MP*
 

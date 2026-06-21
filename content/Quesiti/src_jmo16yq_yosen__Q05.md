@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo16yq_yosen__Q05
 parent: src_jmo16yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 5
 
 *Find all real triples satisfying a system of three equations*
 

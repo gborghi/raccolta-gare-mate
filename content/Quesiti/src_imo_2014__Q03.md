@@ -1,4 +1,5 @@
 ---
+title: IMO 2014 (shortlist/papers) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2014__Q03
 parent: src_imo_2014
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2014 (shortlist/papers) — Quesito 3
 
 *BD tangente al circumcircle di TSH*
 

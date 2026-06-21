@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q14
 parent: src_archimede_2006_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 14
 
 *Gettoni su scacchiera somma riga piu colonna*
 

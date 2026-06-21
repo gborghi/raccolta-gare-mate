@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q24
 parent: src_gas_2009_finale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 24
 
 *Numero di n con espressione radicale annidata intera*
 

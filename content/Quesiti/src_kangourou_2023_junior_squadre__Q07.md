@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q07
 parent: src_kangourou_2023_junior_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 1 — Quesito 7
 
 *Lunghezza FE in quadrato con AG, GF*
 

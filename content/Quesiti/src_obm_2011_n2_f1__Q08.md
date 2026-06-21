@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f1__Q08
 parent: src_obm_2011_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 8
 
 *Number of ways to give 37 centavos change with 1,5,10,25 coins*
 

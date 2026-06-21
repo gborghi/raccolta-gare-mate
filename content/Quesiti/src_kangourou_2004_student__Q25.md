@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q25
 parent: src_kangourou_2004_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 25
 
 *Numero al posto 120 dopo 200 passaggi (divisori)*
 

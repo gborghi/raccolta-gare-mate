@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_biennio__Q03
 parent: src_archimede_1999_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Biennio — Quesito 3
 
 *Perimetro di un frutteto rettangolare con 35 alberi*
 

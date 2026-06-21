@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q13
 parent: src_prmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 13
 
 *Find AB in rectangle ABCD with E midpoint of AB and two perpendicularity conditions*
 

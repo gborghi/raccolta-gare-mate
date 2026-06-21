@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f3__Q03
 parent: src_obm_1998_n3_f3
@@ -38,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 3
 
 *Two-player number game with n rounds and increment t; gcd scoring; determine the winner*
 

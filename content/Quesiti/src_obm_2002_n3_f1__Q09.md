@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q09
 parent: src_obm_2002_n3_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 9
 
 *A square is cut into two squares, four trapezoids and two triangles; an octagon is reassembled, find fraction of area eliminated*
 

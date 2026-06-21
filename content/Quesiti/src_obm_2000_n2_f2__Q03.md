@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f2__Q03
 parent: src_obm_2000_n2_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2 — Quesito 3
 
 *Find angle EGB in rectangle given angle FAE = 20°*
 

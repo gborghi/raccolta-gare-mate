@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo31hq_honsen__Q03
 parent: src_jmo31hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 3
 
 *Acute triangle, points on sides with BD=CE; prove angle equality with circumcircle point*
 

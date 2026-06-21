@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q16
 parent: src_kangourou_2009_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 16
 
 *Minimo numero di cubi per riempire la scatola*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2011-12_round1__Q05
 parent: src_bmo_2011-12_round1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 1 — Quesito 5
 
 *Product of four consecutive positive integers is never a perfect square*
 

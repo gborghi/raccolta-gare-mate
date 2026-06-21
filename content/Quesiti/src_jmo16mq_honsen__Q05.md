@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo16mq_honsen__Q05
 parent: src_jmo16mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 5
 
 *Find maximum A in a symmetric inequality for positive reals*
 

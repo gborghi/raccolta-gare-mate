@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q08
 parent: src_kangourou_2013_squadre_a
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Semifinale A — Quesito 8
 
 *Somma numeri scacchiera 8x8 con vincolo differenze*
 

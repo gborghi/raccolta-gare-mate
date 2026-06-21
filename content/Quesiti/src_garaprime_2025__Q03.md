@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q03
 parent: src_garaprime_2025
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 3
 
 *Area del triangolo MNC nel rettangolo di area 288*
 

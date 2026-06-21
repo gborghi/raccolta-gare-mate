@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2010 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2010__Q03
 parent: src_rmo_2010
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2010 — Quesito 3
 
 *Count 4-digit numbers with non-zero digits divisible by 4 not 8*
 

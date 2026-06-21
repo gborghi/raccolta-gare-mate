@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q11
 parent: src_archimede_1998_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 11
 
 *Per quanti interi x il prodotto di due trinomi è primo*
 

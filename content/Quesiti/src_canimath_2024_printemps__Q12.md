@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q12
 parent: src_canimath_2024_printemps
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 12
 
 *Find all primes p such that 1..p can be partitioned into groups of equal consecutive sums*
 

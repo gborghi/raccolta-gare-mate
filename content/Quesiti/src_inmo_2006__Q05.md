@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2006 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2006__Q05
 parent: src_inmo_2006
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2006 — Quesito 5
 
 *Cyclic quadrilateral ABCD with angle 120 degrees: two inequalities*
 

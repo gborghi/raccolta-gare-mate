@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2025 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2025__Q05
 parent: src_inmo_2025
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2025 — Quesito 5
 
 *Greedy Griphook collects coins from a 2000-gon*
 

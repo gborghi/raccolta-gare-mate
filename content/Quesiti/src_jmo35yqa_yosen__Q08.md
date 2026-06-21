@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q08
 parent: src_jmo35yqa_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 8
 
 *Beautiful integer sequences containing 2025 with convexity-like condition; among max length N find min a_N*
 

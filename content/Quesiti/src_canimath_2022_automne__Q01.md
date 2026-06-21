@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q01
 parent: src_canimath_2022_automne
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 1
 
 *Compute an arithmetic fraction with triple products*
 

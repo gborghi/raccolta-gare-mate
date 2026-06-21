@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1991-92 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1991-92_round1__Q05
 parent: src_bmo_1991-92_round1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1991-92 — Round 1 — Quesito 5
 
 *f: ℤ⁺→ℤ⁺ strictly increasing with f(f(n))=3n; find f(1992)*
 

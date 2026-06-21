@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q30
 parent: src_kangourou_2021_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 30
 
 *Minimo peso possibile per la moneta piu pesante*
 

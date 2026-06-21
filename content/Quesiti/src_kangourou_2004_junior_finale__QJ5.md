@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior finale nazionale — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior_finale__QJ5
 parent: src_kangourou_2004_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior finale nazionale — Quesito J5
 
 *Configurazione con somme righe/colonne non negative*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q21
 parent: src_ioqm_2024
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 21
 
 *Remainder when n divided by 100, given floor conditions*
 

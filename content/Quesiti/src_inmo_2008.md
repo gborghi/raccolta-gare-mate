@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2008
 tipo: gara
 src_id: src_inmo_2008
 competition: Indian National Mathematical Olympiad 2008
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2008
 
 Sorgente: apri PDF
 

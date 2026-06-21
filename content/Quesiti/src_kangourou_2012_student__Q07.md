@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q07
 parent: src_kangourou_2012_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 7
 
 *Massimo intero positivo n con n^200 < 5^300*
 

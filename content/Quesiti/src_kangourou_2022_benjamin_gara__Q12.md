@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q12
 parent: src_kangourou_2022_benjamin_gara
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 12
 
 *Numero finale seguendo le frecce da 12*
 

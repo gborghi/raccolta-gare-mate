@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q19
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 19
 
 *Quante monete c'erano nel forziere*
 

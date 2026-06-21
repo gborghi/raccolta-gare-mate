@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q16
 parent: src_obm_1998_n3_f1
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 16
 
 *Function f assigns to each real x the smaller element of {x+1, (15-x)/2}. Find the maximum value of f(x).*
 

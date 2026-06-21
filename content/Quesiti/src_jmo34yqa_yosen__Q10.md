@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jmo34yqa_yosen__Q10
 parent: src_jmo34yqa_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 10
 
 *Count 100x100 grids with letters J,M,O where every 2x2 block is good and exactly 10000 differing adjacent pairs*
 

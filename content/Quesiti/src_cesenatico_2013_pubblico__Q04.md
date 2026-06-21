@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q04
 parent: src_cesenatico_2013_pubblico
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 4
 
 *Somma terne eta <=30 non coprime a due a due*
 

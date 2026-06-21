@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q22
 parent: src_prmo_2018
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 22
 
 *Count good positive integers k that partition {1,...,20} into subsets each summing to k*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q15
 parent: src_archimede_2010_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 15
 
 *Numero cifre di 112233445566778899 diviso 11*
 

@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1999 — Matematica — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cgen_1999__Q05
 parent: src_cgen_1999
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1999 — Matematica — Quesito 5
 
 *Symmetrics of a triangle vertex wrt opposite side are collinear iff orthocentre equals circumdiameter*
 

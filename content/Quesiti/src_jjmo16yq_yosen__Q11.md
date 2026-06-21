@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo16yq_yosen__Q11
 parent: src_jjmo16yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 11
 
 *Area of quadrilateral APCQ in square ABCD with two interior points P,Q*
 

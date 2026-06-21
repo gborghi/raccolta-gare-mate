@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2003_nu_f2__Q06
 parent: src_obm_2003_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2 — Quesito 6
 
 *Lower bound on trace of A^k for matrix with entries in [0,1]*
 

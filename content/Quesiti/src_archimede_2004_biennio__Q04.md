@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_biennio__Q04
 parent: src_archimede_2004_biennio
@@ -21,8 +22,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Biennio — Quesito 4
 
 *valori del parametro a*
 

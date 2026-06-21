@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale
 tipo: gara
 src_id: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2018/GareASquadreDiMatematica_Cesenatico2018.pdf` · apri PDF
 

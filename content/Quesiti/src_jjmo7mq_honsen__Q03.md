@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo7mq_honsen__Q03
 parent: src_jjmo7mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 3
 
 *Assign 1 to 2n to vertices of 2n-gon; adjacent difference bounds*
 

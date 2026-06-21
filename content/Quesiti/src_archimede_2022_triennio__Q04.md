@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q04
 parent: src_archimede_2022_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 4
 
 *Frazione della classe con voto sotto 6 date le medie*
 

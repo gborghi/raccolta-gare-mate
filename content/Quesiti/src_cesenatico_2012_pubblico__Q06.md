@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q06
 parent: src_cesenatico_2012_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 6
 
 *Distanza minima su superficie 12 piramidi*
 

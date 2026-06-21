@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q14
 parent: src_cesenatico_2013_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 14
 
 *Numero divisori di N con vincoli (quadrati, 10^14)*
 

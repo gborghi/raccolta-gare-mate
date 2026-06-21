@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q07
 parent: src_archimede_2002_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 7
 
 *Forma logica equivalente su insegnanti e auto di lusso*
 

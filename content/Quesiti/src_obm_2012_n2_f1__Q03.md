@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n2_f1__Q03
 parent: src_obm_2012_n2_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 3
 
 *Count of 'bacium' numbers (3.5 times an integer) in a range*
 

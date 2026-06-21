@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q08
 parent: src_kangourou_2005_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 8
 
 *Area pavimento stanza a pareti perpendicolari*
 

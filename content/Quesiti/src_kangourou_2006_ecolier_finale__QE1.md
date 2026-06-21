@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Ecolier (finale nazionale) — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_finale__QE1
 parent: src_kangourou_2006_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Ecolier (finale nazionale) — Quesito E1
 
 *Multiplo di 11 piu vicino a 1000*
 

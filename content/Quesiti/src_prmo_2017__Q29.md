@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q29
 parent: src_prmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 29
 
 *Largest h_n for n<100 where h_n = gcd(n!+1, (n+1)!)*
 

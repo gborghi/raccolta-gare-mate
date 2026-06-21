@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1995 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1995__Q06
 parent: src_inmo_1995
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1995 — Quesito 6
 
 *Find all primes p for which (2^p - 1)/p is a perfect square*
 

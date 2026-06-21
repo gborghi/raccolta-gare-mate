@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q07
 parent: src_gas_2009_semifinale_b
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 7
 
 *Tentativi massimi combinazione 7 cifre 1-4 senza singole*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f2__Q08
 parent: src_obm_2016_n2_f2
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 8
 
 *Ratio EG/GD in equilateral triangle with side trisection points*
 

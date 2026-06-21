@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f2__Q06
 parent: src_obm_2006_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 6
 
 *Distribute n+1 distinct toys to n children, each gets at least one*
 

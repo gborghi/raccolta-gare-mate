@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n1_f2__Q02
 parent: src_obm_2001_n1_f2
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 2
 
 *Area of parallelogram in Tangram square dissection*
 

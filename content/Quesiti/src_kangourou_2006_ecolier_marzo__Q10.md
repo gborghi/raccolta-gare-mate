@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q10
 parent: src_kangourou_2006_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 10
 
 *Quanti figli nella famiglia di Pietro*
 

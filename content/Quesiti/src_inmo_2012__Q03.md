@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2012 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2012__Q03
 parent: src_inmo_2012
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2012 — Quesito 3
 
 *Sequence of functions defined recursively; prove each is polynomial with integer coefficients*
 

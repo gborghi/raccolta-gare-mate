@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1996 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1996__Q02
 parent: src_inmo_1996
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1996 — Quesito 2
 
 *Concentric circles C1, C2 with radii R and 3R; orthocenters*
 

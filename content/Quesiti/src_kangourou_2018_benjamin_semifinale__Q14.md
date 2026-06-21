@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q14
 parent: src_kangourou_2018_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Semifinale individuale — Quesito 14
 
 *Minimo mele per cesti uguali dopo baratti*
 

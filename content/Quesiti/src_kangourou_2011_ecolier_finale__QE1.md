@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier_finale__QE1
 parent: src_kangourou_2011_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E1
 
 *Tutte le ore possibili se orologio scambia 0 e 8 mostrando 20.08*
 

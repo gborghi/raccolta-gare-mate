@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q10
 parent: src_kangourou_2024_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 10
 
 *Quale etichetta collega i due bambini ad aquiloni diversi*
 

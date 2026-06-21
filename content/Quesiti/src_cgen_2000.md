@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2000 — Matematica
 tipo: gara
 src_id: src_cgen_2000
 competition: Concours Général des Lycées 2000 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/2000
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2000 — Matematica
 
 Sorgente: apri PDF
 

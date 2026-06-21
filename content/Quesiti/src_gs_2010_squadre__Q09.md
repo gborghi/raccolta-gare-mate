@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_gs_2010_squadre__Q09
 parent: src_gs_2010_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre — Quesito 9
 
 *Numero turni perche Jake vinca 1005 dollari*
 

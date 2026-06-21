@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q16
 parent: src_kangourou_2018_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 16
 
 *Chi fa il quinto tiro nel gioco della palla*
 

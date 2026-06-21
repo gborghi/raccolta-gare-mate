@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2011 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2011__Q02
 parent: src_rmo_2011
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2011 — Quesito 2
 
 *Permutation of 1..2011; show two indices with equal absolute difference*
 

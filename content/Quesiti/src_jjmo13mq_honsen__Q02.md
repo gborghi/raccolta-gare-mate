@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo13mq_honsen__Q02
 parent: src_jjmo13mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 2
 
 *Maximum of a two-variable rational expression*
 

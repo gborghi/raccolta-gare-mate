@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q15
 parent: src_cesenatico_2006_squadre_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 15
 
 *Probabilita possesso palla con dadi (regole date)*
 

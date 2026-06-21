@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Student (15 marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_student__Q05
 parent: src_kangourou_2001_student
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2001 - Student (15 marzo) — Quesito 5
 
 *Probabilita numero pari e maggiore di 399*
 

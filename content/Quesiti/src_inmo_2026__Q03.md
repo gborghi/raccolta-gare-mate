@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2026 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2026__Q03
 parent: src_inmo_2026
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2026 — Quesito 3
 
 *In an acute scalene triangle, with P,Q on the sides satisfying BP=BN, CQ=CN and K on line AN with MK=MN, prove angle PKQ is a right angle.*
 

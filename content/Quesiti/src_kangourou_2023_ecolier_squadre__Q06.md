@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q06
 parent: src_kangourou_2023_ecolier_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 6
 
 *Incontri totali di ogni partecipante doppio tennis*
 

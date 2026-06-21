@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q05
 parent: src_kangourou_2024_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 5
 
 *Cifre mancanti in 3 numeri consecutivi di 4 cifre*
 

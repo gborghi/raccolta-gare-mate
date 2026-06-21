@@ -1,4 +1,5 @@
 ---
+title: IMO 2015 papers — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_2015__Q02
 parent: src_imo_2015
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2015 papers — Quesito 2
 
 *Triple (a,b,c) con ab-c,bc-a,ca-b potenze di 2*
 

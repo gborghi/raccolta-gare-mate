@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet__Q07
 parent: src_kangourou_2004_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo) — Quesito 7
 
 *Quale figura ottenuta sezionando il cubo*
 

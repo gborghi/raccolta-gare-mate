@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q13
 parent: src_obm_2001_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 13
 
 *Raffle of 30 balls, first ball lost on floor; probability second drawn ball is Pedro's*
 

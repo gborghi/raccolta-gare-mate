@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q07
 parent: src_kangourou_2006_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 7
 
 *Studenti che hanno partecipato a entrambe le gare*
 

@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_tfjm_2025__Q03
 parent: src_tfjm_2025
@@ -38,8 +39,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 3
 
 *Different families of marking schemes graduate a circular pie plate so that it can be cut into convex pieces of equal size; compare numbers of graduations needed.*
 

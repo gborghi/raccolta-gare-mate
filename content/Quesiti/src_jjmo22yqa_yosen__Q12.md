@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo22yqa_yosen__Q12
 parent: src_jjmo22yqa_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 12
 
 *Find maximum N such that 2N positive integers a_i, x_i satisfy four divisibility and concatenation conditions*
 

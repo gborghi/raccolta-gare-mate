@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f3__Q02
 parent: src_obm_2011_n3_f3
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 2
 
 *Find minimum m so every distribution of 2011 stickers among 33 friends is incomplete*
 

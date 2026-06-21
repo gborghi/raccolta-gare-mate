@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q10
 parent: src_kangourou_2011_student
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 10
 
 *Numero di dadi per equiprobabilita tra due eventi*
 

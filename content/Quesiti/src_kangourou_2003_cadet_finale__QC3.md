@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC3
 parent: src_kangourou_2003_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C3
 
 *Lunghezza iniziale del rettangolo magico*
 

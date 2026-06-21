@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q07
 parent: src_kangourou_2016_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 7
 
 *Massimo interi diversi con somme uguali sugli otto triangoli*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q05
 parent: src_kangourou_2018_student_semif
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 5
 
 *Valore m+n con 2^m-2^n=240*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_squadre__Q06
 parent: src_archimede_2002_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 6
 
 *terna pitagorica e superficie*
 

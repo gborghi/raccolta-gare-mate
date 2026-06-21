@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q10
 parent: src_kangourou_2024_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 10
 
 *Massima differenza tra due di 4 interi distinti con media 5*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q13
 parent: src_archimede_2012_triennio
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 13
 
 *Espressione minore o uguale a 1/6+x^2 per ogni x*
 

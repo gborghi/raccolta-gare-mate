@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q02
 parent: src_archimede_2025_triennio_rec
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 2
 
 *X+Y per somma di due decimali periodici come frazione*
 

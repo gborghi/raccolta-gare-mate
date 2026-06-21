@@ -1,4 +1,5 @@
 ---
+title: IMO 1985 (26th International Mathematical Olympiad)
 tipo: gara
 src_id: src_imo_1985
 competition: IMO 1985 (26th International Mathematical Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1985
   - gara/individuale
 ---
-
-# IMO 1985 (26th International Mathematical Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1985_eng.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q08
 parent: src_kangourou_2017_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Gara 16 marzo — Quesito 8
 
 *Euro per estrarre almeno 3 biglie stesso colore*
 

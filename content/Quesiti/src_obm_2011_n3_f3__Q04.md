@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f3__Q04
 parent: src_obm_2011_n3_f3
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 4
 
 *Do there exist 2011 positive integers with gcd(a_i,a_j)=a_j-a_i for all i<j?*
 

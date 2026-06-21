@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2011
 tipo: gara
 src_id: src_inmo_2011
 competition: Indian National Mathematical Olympiad 2011
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2011
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q05
 parent: src_garasquadre_2006_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 5
 
 *Frazioni m/n ridotte con 0<m/n<1 e m*n=20!*
 

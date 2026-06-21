@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1989-90 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1989-90_round1__Q04
 parent: src_bmo_1989-90_round1
@@ -29,8 +30,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1989-90 — Round 1 — Quesito 4
 
 *Biased coin game; find p for fair game between A and B*
 

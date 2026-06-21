@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q15
 parent: src_kangourou_2014_squadre_a
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A — Quesito 15
 
 *Somma di quattro interi consecutivi con prodotto 358800*
 

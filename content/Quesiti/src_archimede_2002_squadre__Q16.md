@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_squadre__Q16
 parent: src_archimede_2002_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 16
 
 *area coltivabile*
 

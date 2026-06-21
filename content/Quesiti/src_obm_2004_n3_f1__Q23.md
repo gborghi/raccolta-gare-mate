@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f1__Q23
 parent: src_obm_2004_n3_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 23
 
 *Two-digit perfect square N whose digits doubled give a four-digit perfect square; sum of digits of N.*
 

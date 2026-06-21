@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q03
 parent: src_kangourou_2019_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 3
 
 *Quanti dei 5 numeri dati sono multipli di 10*
 

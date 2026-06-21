@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Cadet finale — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_cadet_finale__QC5
 parent: src_kangourou_2025_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2025 Cadet finale — Quesito C5
 
 *Quante disposizioni cavalieri/furfanti su griglia 5x5*
 

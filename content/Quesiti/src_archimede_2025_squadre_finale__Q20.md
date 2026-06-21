@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q20
 parent: src_archimede_2025_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 20
 
 *10000 volte prodotto radici reali di 16x^4-16x^3-4x+1*
 

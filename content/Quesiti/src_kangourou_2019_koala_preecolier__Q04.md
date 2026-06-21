@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q04
 parent: src_kangourou_2019_koala_preecolier
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 4
 
 *Quante paia di calze con lo stesso numero*
 

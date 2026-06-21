@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f1__Q22
 parent: src_obm_2004_n3_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 22
 
 *Logic puzzle: determine which box holds the coin from left/right positional clues.*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2006 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2006__Q01
 parent: src_rmo_2006
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2006 — Quesito 1
 
 *Feet of altitudes in acute triangle are collinear with intersection*
 

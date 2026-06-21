@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q11
 parent: src_kangourou_2020_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 11
 
 *Distanza scritta sul cartello spezzato (Atown-Betown-Cetown)*
 

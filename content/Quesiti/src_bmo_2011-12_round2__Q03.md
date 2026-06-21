@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2011-12_round2__Q03
 parent: src_bmo_2011-12_round2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 2 — Quesito 3
 
 *Reals split into two subsets: find close elements in same subset*
 

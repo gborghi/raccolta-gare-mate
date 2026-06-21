@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q09
 parent: src_kangourou_2012_ecolier
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 9
 
 *Quanti dei 4 quadrati si possono fare con due L*
 

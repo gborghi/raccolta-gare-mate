@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio__Q03
 parent: src_archimede_2025_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio — Quesito 3
 
 *Bustine da prendere per 3 biglietti di 3 colori*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1997-98 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1997-98_round2__Q01
 parent: src_bmo_1997-98_round2
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1997-98 — Round 2 — Quesito 1
 
 *Pigeonhole on ticket sales to many destinations*
 

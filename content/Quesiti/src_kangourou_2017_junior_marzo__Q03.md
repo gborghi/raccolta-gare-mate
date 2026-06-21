@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q03
 parent: src_kangourou_2017_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Gara 16 marzo — Quesito 3
 
 *Valore di z dato sistema con A,B,C*
 

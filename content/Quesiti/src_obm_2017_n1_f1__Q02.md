@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f1__Q02
 parent: src_obm_2017_n1_f1
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1 — Quesito 2
 
 *Limits of a sequence defined by partial sums*
 

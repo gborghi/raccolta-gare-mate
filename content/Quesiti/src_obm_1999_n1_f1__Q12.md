@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f1__Q12
 parent: src_obm_1999_n1_f1
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 12
 
 *Printer replaces zeros with blanks; find minimum number of pages to reprint.*
 

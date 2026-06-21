@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q12
 parent: src_kangourou_2003_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 12
 
 *Altezza parallelepipedo di 42 cubi, perimetro base 18*
 

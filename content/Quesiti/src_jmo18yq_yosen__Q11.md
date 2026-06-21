@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo18yq_yosen__Q11
 parent: src_jmo18yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 11
 
 *Area of a convex quadrilateral from sides and diagonal-midpoint distance*
 

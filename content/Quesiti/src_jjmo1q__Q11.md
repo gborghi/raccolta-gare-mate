@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q11
 parent: src_jjmo1q
@@ -38,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 11
 
 *Fill-in-the-blank: operations on integer pairs, achievable products, and extremal values*
 

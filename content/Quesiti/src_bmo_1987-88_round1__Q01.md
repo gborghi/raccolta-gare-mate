@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round1__Q01
 parent: src_bmo_1987-88_round1
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 1 — Quesito 1
 
 *Find all real solutions of a nested square-root equation*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q14
 parent: src_kangourou_2018_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 14
 
 *Minimo k per gioco infinito sui gettoni 50x50*
 

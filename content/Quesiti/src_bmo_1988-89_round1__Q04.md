@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1988-89 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1988-89_round1__Q04
 parent: src_bmo_1988-89_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1988-89 — Round 1 — Quesito 4
 
 *Triangle of numbers: prove every row from third on has an even number*
 

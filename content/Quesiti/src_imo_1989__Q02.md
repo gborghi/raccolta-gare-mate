@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 2'
 tipo: quesito
 quesito_id: quesito_src_imo_1989__Q02
 parent: src_imo_1989
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1989 (30th IMO, Braunschweig) — Quesito 2
 
 *Bisector-defined triangle area at least four times ABC*
 

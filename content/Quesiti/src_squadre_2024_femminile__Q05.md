@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q05
 parent: src_squadre_2024_femminile
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 5
 
 *Scritture di 7 caratteri con esattamente 210 anagrammi*
 

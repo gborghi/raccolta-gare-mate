@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q16
 parent: src_ioqm_2020
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 16
 
 *Scalene triangle with sides x,y satisfying area condition; x=60, y=63; find largest side*
 

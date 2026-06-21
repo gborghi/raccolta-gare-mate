@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f1__Q02
 parent: src_obm_2013_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 2
 
 *Minimum blocks to complete a rectangular parallelepiped*
 

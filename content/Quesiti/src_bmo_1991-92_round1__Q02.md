@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1991-92 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1991-92_round1__Q02
 parent: src_bmo_1991-92_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1991-92 — Round 1 — Quesito 2
 
 *Pentagon ABCDE inscribed in circle with parallel sides: must it be regular?*
 

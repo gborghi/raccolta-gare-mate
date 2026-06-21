@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q16
 parent: src_kangourou_2024_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 16
 
 *Prodotto degli 8 dischetti esterni dai prodotti dei quadrati*
 

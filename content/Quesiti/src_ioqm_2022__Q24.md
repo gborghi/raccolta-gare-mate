@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q24
 parent: src_ioqm_2022
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 24
 
 *Distribute 52 identical balls into 4 boxes, no box empty, pairwise differences not multiples of 6*
 

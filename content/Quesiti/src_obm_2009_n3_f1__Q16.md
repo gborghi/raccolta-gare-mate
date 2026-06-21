@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q16
 parent: src_obm_2009_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 16
 
 *Smallest real k such that 2x^2-12xy+ky^2>=0 for all real x,y.*
 

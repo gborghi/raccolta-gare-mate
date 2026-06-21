@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio__Q11
 parent: src_archimede_2024_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio — Quesito 11
 
 *Perimetro triangolo da due altezze e un lato*
 

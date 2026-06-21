@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q09
 parent: src_canimath_2012_automne
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 9
 
 *Find all prime pairs (p,q) making three expressions all prime*
 

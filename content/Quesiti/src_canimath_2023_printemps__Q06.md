@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q06
 parent: src_canimath_2023_printemps
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 6
 
 *A pair (x,y) with 1<=y<x is 'joli' if x and y have exactly x-y common positive divisors; with s(n) the number of joli pairs with 1<=y<x<=n, decide whether s(n)=2022 or s(n)=2023 is achievable.*
 

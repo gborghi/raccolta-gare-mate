@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f1__Q24
 parent: src_obm_2007_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 24
 
 *3-digit numbers abc with b=a^2+c^2, a≠0: difference max minus min*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q10
 parent: src_canimath_2023_printemps
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 10
 
 *Using the numbers 1 to 22 exactly once each as numerators and denominators, Antoine writes 11 fractions; find the maximum possible number of fractions having integer values.*
 

@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 3'
 tipo: quesito
 quesito_id: quesito_src_imo_1994__Q03
 parent: src_imo_1994
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1994 (35th IMO, Hong Kong) — Quesito 3
 
 *Count numbers with three binary 1s; surjectivity of f*
 

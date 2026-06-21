@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo28mq_honsen__Q03
 parent: src_jmo28mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 3
 
 *function on 1..999 with iteration conditions has a fixed point*
 

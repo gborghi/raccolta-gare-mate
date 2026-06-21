@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q23
 parent: src_kangourou_2006_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 23
 
 *Terna in cui un numero equidista dagli altri due*
 

@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1992 — Matematica — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cgen_1992__Q05
 parent: src_cgen_1992
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1992 — Matematica — Quesito 5
 
 *Units digit of floor of 10^1992 / (10^83 + 7)*
 

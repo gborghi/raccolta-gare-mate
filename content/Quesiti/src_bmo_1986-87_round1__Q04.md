@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1986-87 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1986-87_round1__Q04
 parent: src_bmo_1986-87_round1
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1986-87 — Round 1 — Quesito 4
 
 *Polynomial with given values; prove P(N)=N+51 implies N=26*
 

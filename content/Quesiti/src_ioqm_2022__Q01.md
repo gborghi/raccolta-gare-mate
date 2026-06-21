@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q01
 parent: src_ioqm_2022
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 1
 
 *Triangle inscribed in circle, tangent through B, area bound*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q06
 parent: src_kangourou_2022_cadet_gara
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 6
 
 *Interi tra 100 e 300 con tutte cifre dispari*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo13yq_yosen__Q03
 parent: src_jjmo13yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 3
 
 *Smeared long-multiplication cryptarithm; find the final product*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q06
 parent: src_kangourou_2019_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 6
 
 *Quanti n con [n/20]=[n/17]*
 

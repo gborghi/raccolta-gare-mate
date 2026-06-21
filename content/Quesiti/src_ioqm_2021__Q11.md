@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_ioqm_2021__Q11
 parent: src_ioqm_2021
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 11
 
 *4 married couples seated alternately by gender in a circle; no husband next to wife*
 

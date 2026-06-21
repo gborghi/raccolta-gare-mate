@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q14
 parent: src_cesenatico_2005_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 14
 
 *Somma di tutti gli interi couranteni (riflessione cifre)*
 

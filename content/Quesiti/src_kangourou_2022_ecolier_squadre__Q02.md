@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q02
 parent: src_kangourou_2022_ecolier_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 2
 
 *Somma cifre di 2022 per numero di 1011 uni*
 

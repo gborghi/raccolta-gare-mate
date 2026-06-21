@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_finale__Q21
 parent: src_cesenatico_2011_finale
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 21
 
 *Ultime due cifre di parte intera di x^2011*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_biennio__Q06
 parent: src_archimede_2016_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Biennio — Quesito 6
 
 *punti da reti segnate/subite*
 

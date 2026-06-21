@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q02
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 2
 
 *Linea che collega le coccinelle in ordine di puntini*
 

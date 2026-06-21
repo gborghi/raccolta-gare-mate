@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale A
 tipo: gara
 src_id: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale A
 
 Sorgente: `Archimede/squadre/nazionale/2010/Cesenatico2010_gara_a_squadre/ITA_Agas10.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Archimede 2008 (locale)
 tipo: gara
 src_id: src_gs_2008
 competition: Gara a Squadre Archimede 2008 (locale)
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/squadre
 ---
-
-# Gara a Squadre Archimede 2008 (locale)
 
 Sorgente: `Archimede/squadre/locale/testi/GS_2008_testo.pdf` · apri PDF
 

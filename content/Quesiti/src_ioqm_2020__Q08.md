@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q08
 parent: src_ioqm_2020
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 8
 
 *5-digit number with digits k, k+1, k+2, 3k, k+3 equals m^2; find sum of digits of m*
 

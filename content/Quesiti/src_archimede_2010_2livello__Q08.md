@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q08
 parent: src_archimede_2010_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 8
 
 *Minimo alunni date medie 4,6 e 7,1 di insuff. e suff.*
 

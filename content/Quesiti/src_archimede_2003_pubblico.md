@@ -1,4 +1,5 @@
 ---
+title: Archimede 2003 - Gara del Pubblico (Cesenatico)
 tipo: gara
 src_id: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -15,8 +16,6 @@ tags:
   - anno/2003
   - gara/individuale
 ---
-
-# Archimede 2003 - Gara del Pubblico (Cesenatico)
 
 Sorgente: `Archimede/individuale/nazionale/2003/GaraPubblico2003.pdf` · apri PDF
 

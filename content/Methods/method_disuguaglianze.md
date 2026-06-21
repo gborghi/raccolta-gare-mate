@@ -1,11 +1,10 @@
 ---
+title: Disuguaglianze classiche
 tipo: method
 concept_id: method_disuguaglianze
 tags:
   - graph/method
 ---
-
-# Disuguaglianze classiche
 
 *method* — **200** quesiti (italiani).
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2018_n1_fx__Q05
 parent: src_obm_2018_n1_fx
@@ -39,8 +40,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x — Quesito 5
 
 *n×n×n cube of unit cubes: red spreading daily from vertex; numbering*
 

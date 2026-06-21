@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo12yq_yosen__Q07
 parent: src_jmo12yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 7
 
 *Numerator of factorial sum reduced fraction, mod 2002*
 

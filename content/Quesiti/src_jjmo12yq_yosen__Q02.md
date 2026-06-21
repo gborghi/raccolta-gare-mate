@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo12yq_yosen__Q02
 parent: src_jjmo12yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 2
 
 *Find n where exactly 3 of 4 statements about n are true*
 

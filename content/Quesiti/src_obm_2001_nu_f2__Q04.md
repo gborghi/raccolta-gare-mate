@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2 —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2001_nu_f2__Q04
 parent: src_obm_2001_nu_f2
@@ -36,8 +39,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2 — Quesito 4
 
 *Count distinct paths from A to B on unit-segment figure without revisiting a point*
 

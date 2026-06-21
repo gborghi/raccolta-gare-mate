@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo14yq_yosen__Q11
 parent: src_jmo14yq_yosen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 11
 
 *Convex quadrilateral ABCD with AD=CD, BD=BC and given angles; find angle BAD.*
 

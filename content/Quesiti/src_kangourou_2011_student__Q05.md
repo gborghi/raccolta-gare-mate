@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q05
 parent: src_kangourou_2011_student
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 5
 
 *Posizione di 2011 fra numeri a 4 cifre con somma cifre 4*
 

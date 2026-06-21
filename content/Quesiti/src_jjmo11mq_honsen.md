@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Honsen (Final)
 tipo: gara
 src_id: src_jjmo11mq_honsen
 competition: Japan Junior Mathematical Olympiad 2013 — Honsen (Final)
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Honsen (Final)
 
 Sorgente: apri PDF
 

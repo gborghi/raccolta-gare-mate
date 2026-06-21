@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale
 tipo: gara
 src_id: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2018/Cadet_Semif_18TESTO.pdf` · apri PDF
 

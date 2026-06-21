@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q09
 parent: src_kangourou_2019_ecolier_semifinale_a
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 9
 
 *Chilometri totali percorsi da Mario (salita discesa)*
 

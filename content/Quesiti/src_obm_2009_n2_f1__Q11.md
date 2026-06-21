@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q11
 parent: src_obm_2009_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 11
 
 *5 white-up cards flipped in adjacent pairs; can all be made black-side up?*
 

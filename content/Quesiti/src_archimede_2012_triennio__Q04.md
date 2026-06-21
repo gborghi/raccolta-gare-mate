@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q04
 parent: src_archimede_2012_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 4
 
 *Rapporto superfici di due sfere con rapporto volumi 2*
 

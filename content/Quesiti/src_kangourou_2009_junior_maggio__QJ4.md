@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_junior_maggio__QJ4
 parent: src_kangourou_2009_junior_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J4
 
 *Cammino minimo della formica e punto piu lontano*
 

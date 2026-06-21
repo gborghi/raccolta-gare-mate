@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f2__Q02
 parent: src_obm_2009_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 2
 
 *Max value of ab+bc+cd+da for a,b,c,d a permutation of 1,2,3,4*
 

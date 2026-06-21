@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q14
 parent: src_archimede_2005_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 14
 
 *Numeri n con prodotto piu somma cifre uguale a n*
 

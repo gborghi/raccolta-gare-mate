@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q19
 parent: src_kangourou_2020_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 19
 
 *Quale numero rappresenta Franca nel grafo di amicizie*
 

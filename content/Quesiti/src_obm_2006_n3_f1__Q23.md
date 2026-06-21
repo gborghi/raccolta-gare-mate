@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q23
 parent: src_obm_2006_n3_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 23
 
 *Among the 2161 products 0·2160, 1·2159, ..., 2160·0, count how many are multiples of 2160.*
 

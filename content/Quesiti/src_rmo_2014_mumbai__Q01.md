@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_mumbai__Q01
 parent: src_rmo_2014_mumbai
@@ -38,8 +39,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Quesito 1
 
 *Determine if three positive reals satisfying a quartic relation form triangle sides*
 

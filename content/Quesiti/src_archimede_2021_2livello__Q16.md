@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_2livello__Q16
 parent: src_archimede_2021_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2021 - 2° livello — Quesito 16
 
 *Successione con parte frazionaria, interruzione e razionalità*
 

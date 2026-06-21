@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q19
 parent: src_kangourou_2020_pre_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 19
 
 *Modi di colorare due celle per collegare A a B*
 

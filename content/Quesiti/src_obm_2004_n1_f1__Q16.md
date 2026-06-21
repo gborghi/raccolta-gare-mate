@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f1__Q16
 parent: src_obm_2004_n1_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 16
 
 *Shape obtained rotating a regular pentagon 252° about its center*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q10
 parent: src_kangourou_2018_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo — Quesito 10
 
 *Lunghezza DM che divide il quadrato in aree uguali*
 

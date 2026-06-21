@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q18
 parent: src_prmo_2017
@@ -29,8 +30,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 18
 
 *Find x^2+y^2+z^2 given two quadratic constraints in x,y,z*
 

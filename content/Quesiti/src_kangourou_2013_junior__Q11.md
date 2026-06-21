@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q11
 parent: src_kangourou_2013_junior
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 11
 
 *Angolo alpha dopo rotazione del triangolo equilatero*
 

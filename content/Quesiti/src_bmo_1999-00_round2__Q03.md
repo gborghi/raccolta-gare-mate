@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1999-00 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1999-00_round2__Q03
 parent: src_bmo_1999-00_round2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1999-00 — Round 2 — Quesito 3
 
 *Find positive integers p,q satisfying a given floor/radical equation*
 

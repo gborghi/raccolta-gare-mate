@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f2__Q02
 parent: src_obm_2013_n1_f2
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 2
 
 *Minimum a+b so that 28a³b and 7a⁴b³ are both perfect squares*
 

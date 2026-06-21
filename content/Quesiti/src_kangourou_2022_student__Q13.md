@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Gara 17 marzo — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student__Q13
 parent: src_kangourou_2022_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Gara 17 marzo — Quesito 13
 
 *MCD di 2^2021+2^2022 e 3^2021+3^2022*
 

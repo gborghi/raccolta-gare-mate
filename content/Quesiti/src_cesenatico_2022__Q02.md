@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2022__Q02
 parent: src_cesenatico_2022
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 2
 
 *circonferenza per EFG tangente ad AC*
 

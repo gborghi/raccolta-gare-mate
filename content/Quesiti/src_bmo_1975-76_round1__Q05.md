@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1975-76 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1975-76_round1__Q05
 parent: src_bmo_1975-76_round1
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1975-76 — Round 1 — Quesito 5
 
 *Prove identity involving binomial coefficients and powers of two reals*
 

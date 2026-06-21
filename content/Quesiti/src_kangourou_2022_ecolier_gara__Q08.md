@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier gara individuale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q08
 parent: src_kangourou_2022_ecolier_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier gara individuale — Quesito 8
 
 *Immagine della torre vista dall'alto*
 

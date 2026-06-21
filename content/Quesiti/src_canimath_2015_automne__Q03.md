@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2015 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_automne__Q03
 parent: src_canimath_2015_automne
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2015 — Quesito 3
 
 *Hexagon ABCDEF with rectangle BCEF and given equal sides; its area equals that of a rectangle with consecutive sides a and 36; find a^2.*
 

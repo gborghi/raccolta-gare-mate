@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2014 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2014__Q06
 parent: src_inmo_2014
@@ -35,8 +36,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2014 — Quesito 6
 
 *Find all collections F of 2^{n-1} subsets of {1,...,n} closed under symmetric difference bound*
 

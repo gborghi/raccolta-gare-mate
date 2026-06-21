@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio
 tipo: gara
 src_id: src_archimede_2025_triennio
 competition: Giochi di Archimede 2025 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2025/archimede_2025_triennio.pdf` · apri PDF
 

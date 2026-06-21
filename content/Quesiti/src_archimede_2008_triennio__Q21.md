@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Triennio — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_triennio__Q21
 parent: src_archimede_2008_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Triennio — Quesito 21
 
 *Deduzione logica su punizione e brutto voto*
 

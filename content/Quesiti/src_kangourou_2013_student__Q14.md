@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q14
 parent: src_kangourou_2013_student
@@ -25,8 +26,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 14
 
 *Negazione dell'affermazione su f(x) pari per x pari*
 

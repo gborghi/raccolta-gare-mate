@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q03
 parent: src_kangourou_2017_cadet_semifinale
@@ -22,8 +23,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (semifinale individuale) — Quesito 3
 
 *Esercizio annullato*
 

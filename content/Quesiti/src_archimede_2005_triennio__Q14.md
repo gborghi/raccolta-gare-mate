@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q14
 parent: src_archimede_2005_triennio
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 14
 
 *Soluzioni reali di |x-2|-4=1/|x-3|*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2026
 tipo: gara
 src_id: src_jgmo1q
 competition: Japan EGMO Selection / Girls MO 2026
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2026
 
 Sorgente: apri PDF
 

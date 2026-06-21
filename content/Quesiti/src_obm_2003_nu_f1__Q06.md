@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2003_nu_f1__Q06
 parent: src_obm_2003_nu_f1
@@ -35,8 +38,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 — Quesito 6
 
 *Limits involving log log of a recursive sequence a_{n+1}=a_n^2-2*
 

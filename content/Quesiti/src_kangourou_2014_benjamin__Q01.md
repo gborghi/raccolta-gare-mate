@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q01
 parent: src_kangourou_2014_benjamin
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 1
 
 *Quante rotazioni per leggere correttamente KANGAROO*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q26
 parent: src_kangourou_2002_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 26
 
 *Angolo col punto di domanda dopo pieghe*
 

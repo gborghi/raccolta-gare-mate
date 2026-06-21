@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo15yq_yosen__Q09
 parent: src_jmo15yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 9
 
 *Find angle PAC with point P inside regular pentagon satisfying given angle conditions*
 

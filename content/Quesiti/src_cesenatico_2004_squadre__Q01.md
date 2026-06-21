@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q01
 parent: src_cesenatico_2004_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 1
 
 *Area del quadrilatero formato da sentinelle su triangoli equilateri*
 

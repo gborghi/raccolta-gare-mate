@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q15
 parent: src_kangourou_2005_junior
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 15
 
 *Somma possibile di 22 interi con prodotto 1*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio
 tipo: gara
 src_id: src_archimede_2023_biennio
 competition: Giochi di Archimede 2023 - Gara Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio
 
 Sorgente: `Archimede/individuale/1livello/2023/archimede_2023_biennio.pdf` · apri PDF
 

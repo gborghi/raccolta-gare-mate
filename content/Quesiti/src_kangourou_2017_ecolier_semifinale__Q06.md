@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q06
 parent: src_kangourou_2017_ecolier_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 6
 
 *Massimo numero di quadrati visibili con 12 cannucce*
 

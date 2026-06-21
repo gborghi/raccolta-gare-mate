@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q16
 parent: src_archimede_2016_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 16
 
 *Somma di sette angoli convessi in figura su rettangolo*
 

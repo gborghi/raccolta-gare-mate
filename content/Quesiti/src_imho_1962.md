@@ -1,4 +1,5 @@
 ---
+title: IMO 1962 (IV International Olympiad)
 tipo: gara
 src_id: src_imho_1962
 competition: IMO 1962 (IV International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1962
   - gara/individuale
 ---
-
-# IMO 1962 (IV International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1962_eng.pdf` · apri PDF
 

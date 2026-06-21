@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2006 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2006__Q02
 parent: src_rmo_2006
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2006 — Quesito 2
 
 *Find least value of a+b with divisibility conditions on 11*
 

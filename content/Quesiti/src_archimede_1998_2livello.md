@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998
 tipo: gara
 src_id: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -15,8 +16,6 @@ tags:
   - anno/1998
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998
 
 Sorgente: `Archimede/individuale/2livello/1998/testoFebbraio1998.pdf` · apri PDF
 

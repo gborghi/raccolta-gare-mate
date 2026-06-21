@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Cadet
 tipo: gara
 src_id: src_kangourou_2020_cadet_finale
 competition: Kangourou 2020 Finale nazionale Cadet
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Cadet
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/C-settembre20.pdf` · apri PDF
 

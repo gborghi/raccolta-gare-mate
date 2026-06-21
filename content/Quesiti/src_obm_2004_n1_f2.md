@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
 tipo: gara
 src_id: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -19,8 +20,6 @@ tags:
   - gara/individuale
   - fase/2
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
 
 Sorgente: apri PDF
 

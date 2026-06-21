@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2020__Q02
 parent: src_cesenatico_2020
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 2
 
 *b-a primo, cifra unita di a+b =3, ab quadrato*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo6q__Q11
 parent: src_jjmo6q
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008 — Quesito 11
 
 *Color m×n grid red/blue/black so each color neighbors both others; find valid (m,n)*
 

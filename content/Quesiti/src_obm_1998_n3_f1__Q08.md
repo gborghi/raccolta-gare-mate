@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q08
 parent: src_obm_1998_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 8
 
 *Maximum number of sides of a convex polygon whose interior angles are all smaller than 160 degrees (and cannot equal 160).*
 

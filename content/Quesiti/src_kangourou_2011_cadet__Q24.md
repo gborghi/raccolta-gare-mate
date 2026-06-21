@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q24
 parent: src_kangourou_2011_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 24
 
 *Quanti tiri ha fatto Michele*
 

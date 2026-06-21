@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Finale (risposta aperta) — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_finale__QS4
 parent: src_kangourou_2022_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Finale (risposta aperta) — Quesito S4
 
 *Area punti del pentagono a distanza >1 da un vertice*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q23
 parent: src_obm_2002_n3_f1
@@ -38,8 +39,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 23
 
 *Martian domino: pieces have 3 numbers each from 0..6, one piece per unordered triple; find total sum of all numbers*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f1__Q15
 parent: src_obm_2008_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 15
 
 *Digit-replacement multiplication by 7 gives 6157; find sum of replaced digits*
 

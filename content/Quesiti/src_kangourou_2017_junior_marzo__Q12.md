@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q12
 parent: src_kangourou_2017_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Gara 16 marzo — Quesito 12
 
 *Area regione annerita in rettangolo con quadrato*
 

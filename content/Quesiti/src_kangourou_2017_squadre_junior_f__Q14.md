@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q14
 parent: src_kangourou_2017_squadre_junior_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 14
 
 *Interi 1-1000 senza divisori 3, 5, 7*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2009
 tipo: gara
 src_id: src_inmo_2009
 competition: Indian National Mathematical Olympiad 2009
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2009
 
 Sorgente: apri PDF
 

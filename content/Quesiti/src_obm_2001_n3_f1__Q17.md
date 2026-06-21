@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q17
 parent: src_obm_2001_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 17
 
 *Identify which cube net shows the highlighted cross-section of the cube with a plane*
 

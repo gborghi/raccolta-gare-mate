@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Mumbai — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_mumbai__Q04
 parent: src_rmo_2014_mumbai
@@ -32,8 +33,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Mumbai — Quesito 4
 
 *Count distinct paths from (0,0) to (8,8) with exactly three right steps*
 

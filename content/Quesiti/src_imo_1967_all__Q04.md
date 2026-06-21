@@ -1,4 +1,5 @@
 ---
+title: IMO 1967 (Ninth International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1967_all__Q04
 parent: src_imo_1967_all
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1967 (Ninth International Olympiad) — Quesito 4
 
 *Max-area triangle similar to A1B1C1 circumscribing A0B0C0*
 

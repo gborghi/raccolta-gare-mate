@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q02
 parent: src_kangourou_2022_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito 2
 
 *Quanti valori distinti come somma di due da 1 a 2022*
 

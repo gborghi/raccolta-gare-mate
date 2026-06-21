@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q02
 parent: src_kangourou_2019_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 2
 
 *Quante mele in totale (6 cassette vs 5 con +2)*
 

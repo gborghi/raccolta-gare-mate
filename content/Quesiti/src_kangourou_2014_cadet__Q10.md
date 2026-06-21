@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q10
 parent: src_kangourou_2014_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 10
 
 *Massimo grani bianchi sfilati prima del quinto grigio*
 

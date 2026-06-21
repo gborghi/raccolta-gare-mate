@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2022_n2_fx__Q02
 parent: src_obm_2022_n2_fx
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 2
 
 *System of cyclic equations in a, b, c; determine abc*
 

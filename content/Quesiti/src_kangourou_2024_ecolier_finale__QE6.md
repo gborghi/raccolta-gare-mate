@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Ecolier 2024 — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_finale__QE6
 parent: src_kangourou_2024_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Finale Ecolier 2024 — Quesito E6
 
 *Colorazioni di 8 oggetti con adiacenti diversi*
 

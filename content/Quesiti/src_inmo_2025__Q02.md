@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2025 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2025__Q02
 parent: src_inmo_2025
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2025 — Quesito 2
 
 *Alice erases numbers on a board to leave one number remaining*
 

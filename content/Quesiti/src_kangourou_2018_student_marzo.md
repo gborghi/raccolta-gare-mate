@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student
 tipo: gara
 src_id: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student
 
 Sorgente: `Kangaroo/kangourou_individuali/2018/SMarzo-18.pdf` · apri PDF
 

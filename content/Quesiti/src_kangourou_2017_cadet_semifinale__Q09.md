@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q09
 parent: src_kangourou_2017_cadet_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (semifinale individuale) — Quesito 9
 
 *Minimo mosse della Donna per tornare alla casella iniziale*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q08
 parent: src_kangourou_2022_junior_gara
@@ -24,8 +25,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 8
 
 *Diagramma dei tempi dopo aver dimezzato due materie*
 

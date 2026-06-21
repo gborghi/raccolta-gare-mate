@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_tfjm_2025__Q05
 parent: src_tfjm_2025
@@ -38,8 +39,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 5
 
 *Gerrymandering: moving district capitals within their Voronoi cell each year; characterize which capital configurations are reachable on a disk, plane, and higher dimensions.*
 

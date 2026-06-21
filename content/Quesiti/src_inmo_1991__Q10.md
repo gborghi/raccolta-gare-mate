@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_inmo_1991__Q10
 parent: src_inmo_1991
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991 — Quesito 10
 
 *Find all n for which number of ordered pairs (x,y) with 1/x+1/y=1/n equals 5*
 

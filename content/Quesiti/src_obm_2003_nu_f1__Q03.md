@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2003_nu_f1__Q03
 parent: src_obm_2003_nu_f1
@@ -32,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 — Quesito 3
 
 *If (AB)^k = A^k B^k for three consecutive integers then AB=BA*
 

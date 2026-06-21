@@ -1,4 +1,5 @@
 ---
+title: XXI Olimpiade Italiana Cesenatico 2005
 tipo: gara
 src_id: src_cesenatico_2005
 competition: XXI Olimpiade Italiana Cesenatico 2005
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# XXI Olimpiade Italiana Cesenatico 2005
 
 Sorgente: `Archimede/individuale/nazionale/2005/c05_sol.pdf` · apri PDF
 

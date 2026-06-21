@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2016-17_round1__Q01
 parent: src_bmo_2016-17_round1
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 1 — Quesito 1
 
 *Count odd digits in integers 1 to 2016*
 

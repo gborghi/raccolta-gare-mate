@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q05
 parent: src_kangourou_2002_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 5
 
 *Frazione ombreggiata del rettangolo*
 

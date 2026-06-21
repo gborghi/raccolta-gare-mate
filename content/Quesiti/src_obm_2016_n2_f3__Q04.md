@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f3__Q04
 parent: src_obm_2016_n2_f3
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3 — Quesito 4
 
 *Four-digit numbers, distinct digits summing to 12, two even and two odd*
 

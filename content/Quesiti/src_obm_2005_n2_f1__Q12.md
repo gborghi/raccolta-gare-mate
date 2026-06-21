@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q12
 parent: src_obm_2005_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 12
 
 *Paulistas/Baianos cross-claims of origin; among all, 20% claim Paulista; find true % of Paulistas*
 

@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023
 tipo: gara
 src_id: src_tfjm_2023
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023
 
 Sorgente: apri PDF
 

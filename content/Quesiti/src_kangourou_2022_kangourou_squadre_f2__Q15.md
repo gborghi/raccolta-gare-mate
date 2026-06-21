@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q15
 parent: src_kangourou_2022_kangourou_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 15
 
 *Minore di 5 consecutivi, uno per 10, somma 10000*
 

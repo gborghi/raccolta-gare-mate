@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale A — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_a__Q16
 parent: src_gas_2010_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale A — Quesito 16
 
 *Tentativi massimi per aprire scrigno con 4 serrature e vincolo*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q08
 parent: src_kangourou_2017_squadre_junior_f
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 8
 
 *Quadrato somma aree trapezi S1 e S4 negli esagoni*
 

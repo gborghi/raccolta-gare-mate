@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q07
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 7
 
 *Deduzione logica su extraterrestri verdi/rossi Marte/Venere*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q02
 parent: src_garaprime_2018
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 2
 
 *Numero massimo di parole marziane fino a 5 lettere*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q14
 parent: src_archimede_2014_classiprime
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 14
 
 *Per quale numero NON e divisibile x^5-5x^3+4x in 2014*
 

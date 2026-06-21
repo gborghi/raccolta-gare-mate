@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_maggio__QC2
 parent: src_kangourou_2009_cadet_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C2
 
 *Da quale pizza scegliere la fetta piu grande*
 

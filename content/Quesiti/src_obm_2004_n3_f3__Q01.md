@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f3__Q01
 parent: src_obm_2004_n3_f3
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 1
 
 *Incircles of four triangles in convex quadrilateral share a point iff rhombus*
 

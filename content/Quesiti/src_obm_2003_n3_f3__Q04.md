@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f3__Q04
 parent: src_obm_2003_n3_f3
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 3 — Quesito 4
 
 *Points on circle maximizing quadrilateral ABCD area*
 

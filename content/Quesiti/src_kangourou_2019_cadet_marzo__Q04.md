@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q04
 parent: src_kangourou_2019_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 4
 
 *Numero iniziale di salatini dimezzato dagli scambi*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2009 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2009__Q04
 parent: src_inmo_2009
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2009 — Quesito 4
 
 *3-colouring of plane yields monochromatic isosceles or geometric-progression triangle*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q23
 parent: src_ioqm_2022
@@ -33,8 +34,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 23
 
 *Triangle ABC, median AD divides angle BAC in ratio 1:2, EB perp AB, BE=3, BA=4, find nearest integer to BC*
 

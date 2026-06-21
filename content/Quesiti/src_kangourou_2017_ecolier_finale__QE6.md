@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (finale Cervia) — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_finale__QE6
 parent: src_kangourou_2017_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (finale Cervia) — Quesito E6
 
 *Minuti perche la lancetta dei minuti superi quella delle ore*
 

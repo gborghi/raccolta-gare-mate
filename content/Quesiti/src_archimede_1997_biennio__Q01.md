@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_biennio__Q01
 parent: src_archimede_1997_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Biennio — Quesito 1
 
 *Numero massimo di alberi su due lati di un viale*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q06
 parent: src_kangourou_2022_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 6
 
 *Coppie non ordinate di spigoli paralleli in un cubo*
 

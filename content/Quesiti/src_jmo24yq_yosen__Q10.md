@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jmo24yq_yosen__Q10
 parent: src_jmo24yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 10
 
 *55×55 grid, colour operations; minimum operations to achieve prescribed black/white pattern*
 

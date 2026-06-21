@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio__Q03
 parent: src_archimede_2021_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 3
 
 *Cavalieri e furfanti in file all'ufficio postale*
 

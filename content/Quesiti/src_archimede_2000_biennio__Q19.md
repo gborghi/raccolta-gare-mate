@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q19
 parent: src_archimede_2000_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 19
 
 *Lunghezza spigolo CD di tetraedro dati gli spigoli*
 

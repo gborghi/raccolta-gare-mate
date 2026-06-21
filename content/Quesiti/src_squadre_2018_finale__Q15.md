@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q15
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 15
 
 *Riempimenti tabella 4x4 con vincoli di monotonia, conteggio*
 

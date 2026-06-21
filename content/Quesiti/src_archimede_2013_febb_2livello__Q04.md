@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q04
 parent: src_archimede_2013_febb_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 4
 
 *Area grigia stemma formata da semicirconferenze*
 

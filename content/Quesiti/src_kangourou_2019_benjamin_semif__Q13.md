@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q13
 parent: src_kangourou_2019_benjamin_semif
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 13
 
 *Quanti minuti per riempire il serbatoio con 10 rubinetti*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q23
 parent: src_archimede_1996_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 23
 
 *Quale insieme di frazioni e finito*
 

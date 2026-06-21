@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q08
 parent: src_kangourou_2014_junior
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 8
 
 *Coordinate di un vertice del quadrato con diagonale sull'asse x*
 

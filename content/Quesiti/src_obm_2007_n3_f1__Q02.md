@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f1__Q02
 parent: src_obm_2007_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 2
 
 *Count 4-digit 'peroba' numbers: at least two neighboring digits of same parity*
 

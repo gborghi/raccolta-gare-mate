@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo34yqa_yosen__Q02
 parent: src_jmo34yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 2
 
 *Find all 3-digit n where n+2024 and n-34 are both prime-digit numbers*
 

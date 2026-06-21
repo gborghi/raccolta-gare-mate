@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2005 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2005__Q02
 parent: src_inmo_2005
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2005 — Quesito 2
 
 *Find minimum beta for fraction strictly between two rationals*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q10
 parent: src_kangourou_2022_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito 10
 
 *Somma dei prodotti delle cifre dei numeri 2 cifre*
 

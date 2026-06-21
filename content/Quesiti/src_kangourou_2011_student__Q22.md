@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q22
 parent: src_kangourou_2011_student
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 22
 
 *Quante progressioni aritmetiche contengono entrambe*
 

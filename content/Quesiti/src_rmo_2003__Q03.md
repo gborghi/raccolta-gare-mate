@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2003 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2003__Q03
 parent: src_rmo_2003
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2003 — Quesito 3
 
 *Prove min of three expressions ≤1/4 and max ≥2/9 when a+b+c=1*
 

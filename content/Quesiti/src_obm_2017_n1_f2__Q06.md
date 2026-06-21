@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f2__Q06
 parent: src_obm_2017_n1_f2
@@ -37,8 +38,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 6
 
 *Words over {a,b}: m-equivalence of two words of length l via subword deletion*
 

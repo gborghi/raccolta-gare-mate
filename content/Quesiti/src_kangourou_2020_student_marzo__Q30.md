@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q30
 parent: src_kangourou_2020_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 30
 
 *Figura preferita da Carlo dal dialogo logico*
 

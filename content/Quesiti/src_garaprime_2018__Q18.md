@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q18
 parent: src_garaprime_2018
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 18
 
 *Area massima dividendo un quadrato in 6 quadrati*
 

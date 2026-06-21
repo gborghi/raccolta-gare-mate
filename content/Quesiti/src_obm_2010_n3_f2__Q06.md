@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f2__Q06
 parent: src_obm_2010_n3_f2
@@ -37,8 +38,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2 — Quesito 6
 
 *Angle bisectors of triangle meet at I; find angle ABC given AI=BC and m(ICA)=2m(IAC)*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f1__Q17
 parent: src_obm_2011_n3_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 17
 
 *Largest n such that (2011)! is divisible by (n!)^3*
 

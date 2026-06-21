@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2016 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_automne__Q03
 parent: src_canimath_2016_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2016 — Quesito 3
 
 *Colour 2016 collinear points in 3 colours, count ways*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q04
 parent: src_kangourou_2019_junior_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 4
 
 *Massimo N+T+Q con vincolo T-Q=5*
 

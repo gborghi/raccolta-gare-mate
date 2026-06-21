@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q12
 parent: src_kangourou_2019_benjamin_semif
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 12
 
 *Somma dei numeri nei vertici della faccia inferiore del cubo*
 

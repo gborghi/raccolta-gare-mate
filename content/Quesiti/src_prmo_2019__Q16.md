@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q16
 parent: src_prmo_2019
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 16
 
 *Extra amount school pays swapping pens and notebooks*
 

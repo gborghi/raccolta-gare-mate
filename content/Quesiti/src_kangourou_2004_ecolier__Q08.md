@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q08
 parent: src_kangourou_2004_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 8
 
 *Quale rettangolo e il negativo*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 finale nazionale Benjamin — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_finale_benjamin__QB5
 parent: src_kangourou_2016_finale_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 finale nazionale Benjamin — Quesito B5
 
 *Parco circolare rete 2016m, pianta ogni 8m, stesso tipo ogni 64m*
 

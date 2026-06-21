@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2017 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2017__Q02
 parent: src_inmo_2017
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2017 — Quesito 2
 
 *Find integer roots of cubic with parameter n*
 

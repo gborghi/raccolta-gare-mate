@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Semifinale individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q13
 parent: src_kangourou_2022_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Semifinale individuale — Quesito 13
 
 *Coppie (x,y) con x²+y e x+y² entrambi quadrati*
 

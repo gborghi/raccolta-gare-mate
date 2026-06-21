@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet finale individuale — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_finale__QC1
 parent: src_kangourou_2022_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet finale individuale — Quesito C1
 
 *Misura dell'angolo evidenziato con tre quadrati accostati*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A
 tipo: gara
 src_id: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A
 
 Sorgente: `Archimede/squadre/nazionale/2009/Agas09.pdf` · apri PDF
 

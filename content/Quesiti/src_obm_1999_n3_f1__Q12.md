@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n3_f1__Q12
 parent: src_obm_1999_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 12
 
 *Remainder of 11111...1 (1999 digits) divided by 7*
 

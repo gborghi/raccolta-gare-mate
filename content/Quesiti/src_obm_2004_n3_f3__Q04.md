@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f3__Q04
 parent: src_obm_2004_n3_f3
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 4
 
 *10x10 table with digits 0–9 each 10 times; largest n guaranteeing a row/column with ≥n distinct digits*
 

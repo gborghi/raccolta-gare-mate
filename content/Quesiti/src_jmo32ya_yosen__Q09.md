@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo32ya_yosen__Q09
 parent: src_jmo32ya_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 9
 
 *Permutations of 1–1000 where each p_i is a multiple of i*
 

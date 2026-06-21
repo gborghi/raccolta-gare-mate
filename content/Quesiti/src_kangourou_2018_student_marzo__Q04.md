@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q04
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 4
 
 *Quanti interi a 2 cifre non primi e non div per 2,3,5*
 

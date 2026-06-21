@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q07
 parent: src_kangourou_2011_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 7
 
 *Spettatori certamente italiani maschi e vegetariani*
 

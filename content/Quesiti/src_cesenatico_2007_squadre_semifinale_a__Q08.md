@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_a__Q08
 parent: src_cesenatico_2007_squadre_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 8
 
 *Quanti n in [1,2007] con 2n in 19 gruppi (condizioni)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_femminile__Q20
 parent: src_squadre_2023_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale — Quesito 20
 
 *Area superficie cubo raggiungibile da filo legato a bastoncino*
 

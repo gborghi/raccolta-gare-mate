@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q09
 parent: src_kangourou_2020_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 9
 
 *Altezza delle lastre rettangolari della vetrata*
 

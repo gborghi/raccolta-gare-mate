@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f3__Q04
 parent: src_obm_2009_n3_f3
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3 — Quesito 4
 
 *Prove there exists n₀ such that a cube can be dissected into n smaller cubes for all n≥n₀*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Ecolier (finale nazionale) — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_finale__QE4
 parent: src_kangourou_2006_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Ecolier (finale nazionale) — Quesito E4
 
 *Affermazione che sincero e bugiardo possono dire*
 

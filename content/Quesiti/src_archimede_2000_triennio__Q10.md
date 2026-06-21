@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q10
 parent: src_archimede_2000_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 10
 
 *Prodotto abcd da catena di frazioni continue*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round1__Q09
 parent: src_bmo_1973-74_round1
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 1 — Quesito 9
 
 *Vertical rod hinged at base falls; find time to reach table*
 

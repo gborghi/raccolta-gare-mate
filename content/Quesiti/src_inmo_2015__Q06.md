@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2015 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2015__Q06
 parent: src_inmo_2015
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2015 — Quesito 6
 
 *From 11 square integers choose 6 with two equal triple sums mod 12*
 

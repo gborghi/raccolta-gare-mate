@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q10
 parent: src_kangourou_2005_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 10
 
 *Coppie m,n interi con m^2=n^2+17*
 

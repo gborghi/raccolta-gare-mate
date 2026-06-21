@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q12
 parent: src_kangourou_2021_student_gara
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 12
 
 *Insieme dei numeri a+b con a in A e b in B*
 

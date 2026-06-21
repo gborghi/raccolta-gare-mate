@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo20yq_yosen__Q06
 parent: src_jmo20yq_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 6
 
 *Count bridge configurations among 9 color-island birds satisfying two graph conditions*
 

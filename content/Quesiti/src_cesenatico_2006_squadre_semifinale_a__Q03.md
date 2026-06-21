@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q03
 parent: src_cesenatico_2006_squadre_semifinale_a
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 3
 
 *Lunghezza BC dati due lati e mediana da A*
 

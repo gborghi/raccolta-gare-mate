@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f1__Q18
 parent: src_obm_2004_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 18
 
 *Which 3D shape is formed by folding and joining paper pieces?*
 

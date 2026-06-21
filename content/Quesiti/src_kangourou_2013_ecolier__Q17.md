@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_ecolier__Q17
 parent: src_kangourou_2013_ecolier
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier — Quesito 17
 
 *Quadrati piccoli per ricoprire il quadrato (annullato)*
 

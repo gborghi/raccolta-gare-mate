@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo25mq_honsen__Q04
 parent: src_jmo25mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 4
 
 *Four concyclic points from incircle and circumcircle constructions on triangle ABC*
 

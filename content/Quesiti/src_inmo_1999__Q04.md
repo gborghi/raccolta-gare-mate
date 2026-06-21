@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1999 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_1999__Q04
 parent: src_inmo_1999
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1999 — Quesito 4
 
 *Equilateral triangles inscribed in concentric circles inequality for arbitrary points*
 

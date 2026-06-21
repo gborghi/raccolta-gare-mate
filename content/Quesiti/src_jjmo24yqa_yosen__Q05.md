@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo24yqa_yosen__Q05
 parent: src_jjmo24yqa_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 5
 
 *Count integer assignments to 14 points on 9 circles with equal circle sums*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q21
 parent: src_kangourou_2015_marzo_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 21
 
 *totale insieme*
 

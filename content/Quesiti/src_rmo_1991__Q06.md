@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1991 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1991__Q06
 parent: src_rmo_1991
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1991 — Quesito 6
 
 *Find integers a such that quadratic factors as product*
 

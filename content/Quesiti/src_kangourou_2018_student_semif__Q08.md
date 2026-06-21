@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q08
 parent: src_kangourou_2018_student_semif
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 8
 
 *Probabilita che compaia la cifra 1 tra 1 e 10^7*
 

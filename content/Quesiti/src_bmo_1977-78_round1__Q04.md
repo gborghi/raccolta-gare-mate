@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1977-78 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1977-78_round1__Q04
 parent: src_bmo_1977-78_round1
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1977-78 — Round 1 — Quesito 4
 
 *Prove altitudes of tetrahedron concurrent iff opposite edges perpendicular*
 

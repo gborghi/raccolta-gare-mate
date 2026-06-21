@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1994-95 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1994-95_round2__Q04
 parent: src_bmo_1994-95_round2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1994-95 — Round 2 — Quesito 4
 
 *Count pairings of 2n people; prove divisibility of multinomial*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019
 tipo: gara
 src_id: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019
 
 Sorgente: `Archimede/individuale/classi prime/2019/GaraNazionaleClassiPrime2019.pdf` · apri PDF
 

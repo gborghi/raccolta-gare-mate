@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q29
 parent: src_kangourou_2002_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 29
 
 *Area quadrilatero AFDC nei triangoli uguali*
 

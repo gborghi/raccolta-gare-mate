@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q25
 parent: src_kangourou_2012_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 25
 
 *Quante persone stavano danzando in quell'istante*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1991 (32nd IMO) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1991__Q06
 parent: src_imo_1991
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1991 (32nd IMO) — Quesito 6
 
 *Construct bounded sequence with separation condition for a>1*
 

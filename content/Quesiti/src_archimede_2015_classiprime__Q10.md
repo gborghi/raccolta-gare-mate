@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2015 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_classiprime__Q10
 parent: src_archimede_2015_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2015 — Quesito 10
 
 *Valore di prodotto di interi vicini (differenza di prodotti)*
 

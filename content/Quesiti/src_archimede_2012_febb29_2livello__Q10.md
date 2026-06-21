@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q10
 parent: src_archimede_2012_febb29_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 10
 
 *Conteggio parole chiave con vincoli su caratteri E N V*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo15yq_yosen__Q07
 parent: src_jjmo15yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 7
 
 *Find 3-digit n with n = 2P(n) + 27, P = product of digits*
 

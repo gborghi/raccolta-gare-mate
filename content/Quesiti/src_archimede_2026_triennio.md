@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio
 tipo: gara
 src_id: src_archimede_2026_triennio
 competition: Giochi di Archimede 2026 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2026/archimede_2026_triennio.pdf` · apri PDF
 

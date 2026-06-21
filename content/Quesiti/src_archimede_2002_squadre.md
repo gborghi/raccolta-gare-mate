@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
 tipo: gara
 src_id: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -15,8 +16,6 @@ tags:
   - anno/2002
   - gara/squadre
 ---
-
-# Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
 
 Sorgente: `Archimede/individuale/nazionale/2002/GaraSquadre2002.pdf` · apri PDF
 

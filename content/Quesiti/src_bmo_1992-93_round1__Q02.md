@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1992-93 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1992-93_round1__Q02
 parent: src_bmo_1992-93_round1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1992-93 — Round 1 — Quesito 2
 
 *Square toast ABCD cut in half; find shortest straight cut dividing triangle ABC into equal areas.*
 

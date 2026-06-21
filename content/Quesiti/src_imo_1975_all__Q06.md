@@ -1,4 +1,5 @@
 ---
+title: IMO 1975 (Seventeenth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1975_all__Q06
 parent: src_imo_1975_all
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1975 (Seventeenth International Olympiad) — Quesito 6
 
 *Find homogeneous two-variable polynomials with cyclic condition*
 

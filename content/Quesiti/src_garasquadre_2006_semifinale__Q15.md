@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q15
 parent: src_garasquadre_2006_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 15
 
 *Somma dei quadrati delle radici di x^3-46x^2+55x-7*
 

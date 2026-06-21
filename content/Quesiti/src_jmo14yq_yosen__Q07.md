@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo14yq_yosen__Q07
 parent: src_jmo14yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 7
 
 *Area outside triangle ABC (sides 16, 5√5, 9) within distance 6 from both B and C.*
 

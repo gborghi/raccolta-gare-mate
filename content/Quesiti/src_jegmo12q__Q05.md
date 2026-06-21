@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2023 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jegmo12q__Q05
 parent: src_jegmo12q
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2023 — Quesito 5
 
 *Minimum initial black cells to fill entire 10×10 grid by spreading*
 

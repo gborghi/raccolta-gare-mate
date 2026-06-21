@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q13
 parent: src_cesenatico_2006_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 13
 
 *Massimo numero 4 cifre prodotto di soli 2 e moltiplicazioni*
 

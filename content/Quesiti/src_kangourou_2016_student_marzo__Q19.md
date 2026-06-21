@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q19
 parent: src_kangourou_2016_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 19
 
 *Valori possibili al cerchietto con condizioni divisibilita per 3*
 

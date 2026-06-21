@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q21
 parent: src_cesenatico_2001_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 21
 
 *Ultime 4 cifre del conto quintuplicato ogni 20 anni*
 

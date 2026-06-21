@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q14
 parent: src_kangourou_2018_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 14
 
 *Valore di N dai seggiolini della seggiovia*
 

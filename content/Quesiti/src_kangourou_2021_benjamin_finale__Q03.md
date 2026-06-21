@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_finale__Q03
 parent: src_kangourou_2021_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - finale — Quesito 3
 
 *Area del quadrato grande dato il piccolo di area 18*
 

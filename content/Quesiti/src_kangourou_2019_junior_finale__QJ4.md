@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito J4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ4
 parent: src_kangourou_2019_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito J4
 
 *Dopo quanti anni torna la luna piena stesso giorno (ciclo 28 gg)*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_triennio__Q15
 parent: src_archimede_2009_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio — Quesito 15
 
 *Piu piccolo numero con somma 83 e prodotto 1024*
 

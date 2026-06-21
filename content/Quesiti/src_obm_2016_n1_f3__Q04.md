@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f3__Q04
 parent: src_obm_2016_n1_f3
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 4
 
 *Max subset of {1,...,2016} with no two elements differing by 1, 2, or 6*
 

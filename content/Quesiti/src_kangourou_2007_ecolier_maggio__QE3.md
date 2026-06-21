@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier finale (maggio) — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE3
 parent: src_kangourou_2007_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier finale (maggio) — Quesito E3
 
 *Modi di scegliere tre pezzi per quadrato 3x3*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_mumbai__Q02
 parent: src_rmo_2012_mumbai
@@ -31,8 +32,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Mumbai — Quesito 2
 
 *Divisibility by 169 of a quadratic in n*
 

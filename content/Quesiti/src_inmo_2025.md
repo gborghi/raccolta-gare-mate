@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2025
 tipo: gara
 src_id: src_inmo_2025
 competition: Indian National Mathematical Olympiad 2025
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2025
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q01
 parent: src_garaprime_2018
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 1
 
 *Valore di radice di 4^201 - 2^401 - 2^400*
 

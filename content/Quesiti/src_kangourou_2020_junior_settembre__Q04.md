@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - finale settembre — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q04
 parent: src_kangourou_2020_junior_settembre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - finale settembre — Quesito 4
 
 *Poligoni convessi su 2020 punti che contengono p*
 

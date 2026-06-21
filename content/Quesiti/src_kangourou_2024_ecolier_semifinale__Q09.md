@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q09
 parent: src_kangourou_2024_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Ecolier 2024 — Quesito 9
 
 *Chi ha mentito tra i quattro nipotini*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1995 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1995__Q06
 parent: src_rmo_1995
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1995 — Quesito 6
 
 *21-sided regular polygon inscribed in circle; count triangles containing center*
 

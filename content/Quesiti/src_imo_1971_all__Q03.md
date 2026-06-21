@@ -1,4 +1,5 @@
 ---
+title: IMO 1971 (Thirteenth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1971_all__Q03
 parent: src_imo_1971_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1971 (Thirteenth International Olympiad) — Quesito 3
 
 *Infinite pairwise-coprime subset of numbers 2^k-3*
 

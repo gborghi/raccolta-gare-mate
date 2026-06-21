@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2004_nu_f2__Q06
 parent: src_obm_2004_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 — Quesito 6
 
 *Prove chord inequality for unit-speed simple closed curve*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q06
 parent: src_canimath_2012_automne
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 6
 
 *Find angle x in a regular five-pointed star*
 

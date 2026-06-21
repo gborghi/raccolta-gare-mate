@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2018 - 2° livello
 tipo: gara
 src_id: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2018 - 2° livello
 
 Sorgente: `Archimede/individuale/2livello/2018/soluzioni2018.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992
 tipo: gara
 src_id: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -15,8 +16,6 @@ tags:
   - anno/1992
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992
 
 Sorgente: apri PDF
 

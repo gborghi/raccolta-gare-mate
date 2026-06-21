@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2018 Semifinale A
 tipo: gara
 src_id: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2018 Semifinale A
 
 Sorgente: `Kangaroo/kangourou_squadre/2018/SQ-A-18.pdf` · apri PDF
 

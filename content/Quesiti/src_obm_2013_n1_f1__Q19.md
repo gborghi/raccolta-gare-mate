@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f1__Q19
 parent: src_obm_2013_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 19
 
 *Minimum number of 6th-grade students from a sports bar chart*
 

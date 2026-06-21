@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q11
 parent: src_cesenatico_2006_squadre_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 11
 
 *Piu piccolo numero 4 cifre con condizione su quadrato*
 

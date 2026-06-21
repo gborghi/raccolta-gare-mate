@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q04
 parent: src_archimede_2005_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 4
 
 *Distribuzione di 120 ciliege proporzionale all'eta*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior (18 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior__Q03
 parent: src_kangourou_2004_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior (18 marzo) — Quesito 3
 
 *Spigoli di una piramide con 7 facce*
 

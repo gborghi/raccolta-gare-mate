@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f2__Q09
 parent: src_obm_2009_n3_f2
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 9
 
 *Distance between midpoints of BC and KL in triangle with incircle and diameter circle*
 

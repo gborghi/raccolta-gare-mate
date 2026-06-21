@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2017 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2017__Q02
 parent: src_rmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2017 — Quesito 2
 
 *Show the polynomial sum has no integer solutions in a, b*
 

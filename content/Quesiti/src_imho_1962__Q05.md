@@ -1,4 +1,5 @@
 ---
+title: IMO 1962 (IV International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imho_1962__Q05
 parent: src_imho_1962
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1962 (IV International Olympiad) — Quesito 5
 
 *Costruire D sul cerchio per quadrilatero circoscrittibile*
 

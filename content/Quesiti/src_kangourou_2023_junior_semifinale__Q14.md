@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q14
 parent: src_kangourou_2023_junior_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 14
 
 *Piu piccolo primo p>2 con p^3+7p^2 quadrato perfetto*
 

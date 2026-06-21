@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q02
 parent: src_gas_2009_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 2
 
 *Media aritmetica dei numeri in rettangolo di tavola pitagorica*
 

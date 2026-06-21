@@ -1,4 +1,5 @@
 ---
+title: XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007__Q06
 parent: src_cesenatico_2007
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 6
 
 *Massime costanti c_n e d_n in disuguaglianze con prodotto 1*
 

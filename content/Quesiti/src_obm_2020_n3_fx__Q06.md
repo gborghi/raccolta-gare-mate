@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n3_fx__Q06
 parent: src_obm_2020_n3_fx
@@ -36,8 +37,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x — Quesito 6
 
 *Iterates of f(x)=2x^2+x-1: real fixed points and real zeros*
 

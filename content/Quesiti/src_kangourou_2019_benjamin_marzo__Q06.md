@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q06
 parent: src_kangourou_2019_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 6
 
 *In quale ordine sono state scattate le quattro foto*
 

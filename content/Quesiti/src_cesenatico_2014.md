@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2014 - testi
 tipo: gara
 src_id: src_cesenatico_2014
 competition: Olimpiade Italiana (Cesenatico) 2014 - testi
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2014 - testi
 
 Sorgente: `Archimede/individuale/nazionale/2014/ces14-prel.pdf` · apri PDF
 

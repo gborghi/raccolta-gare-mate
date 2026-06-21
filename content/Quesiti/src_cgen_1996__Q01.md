@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1996 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_1996__Q01
 parent: src_cgen_1996
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1996 — Matematica — Quesito 1
 
 *Cyclic points and triangle type from six special points*
 

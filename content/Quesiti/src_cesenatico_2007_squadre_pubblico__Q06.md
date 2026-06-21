@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q06
 parent: src_cesenatico_2007_squadre_pubblico
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 6
 
 *Calcolo a_5N/1000 con numeri di somma cifre 7*
 

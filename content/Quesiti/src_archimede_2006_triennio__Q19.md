@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Triennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_triennio__Q19
 parent: src_archimede_2006_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Triennio — Quesito 19
 
 *Sinceri e bugiardi tra Andrea, Barbara e Ciro*
 

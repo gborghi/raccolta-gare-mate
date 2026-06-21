@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo21yqa_yosen__Q11
 parent: src_jjmo21yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 11
 
 *Max friendships with half-same-city constraint*
 

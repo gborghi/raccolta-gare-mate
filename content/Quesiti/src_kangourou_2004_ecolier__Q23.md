@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q23
 parent: src_kangourou_2004_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 23
 
 *Quale punteggio non puo avere la squadra*
 

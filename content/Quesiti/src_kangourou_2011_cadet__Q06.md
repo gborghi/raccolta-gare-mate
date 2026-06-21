@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q06
 parent: src_kangourou_2011_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 6
 
 *Quanti topi ha preso Felix il terzo giorno*
 

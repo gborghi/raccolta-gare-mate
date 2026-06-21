@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f1__Q08
 parent: src_obm_2015_n1_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 8
 
 *How many years after 2015 this century have digit mean 2*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1984-85 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1984-85_round2__Q03
 parent: src_bmo_1984-85_round2
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1984-85 — Round 2 — Quesito 3
 
 *Prove product of five consecutive positive integers is never a perfect square*
 

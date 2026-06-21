@@ -1,4 +1,5 @@
 ---
+title: IMO 1962 (IV International Olympiad) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_imho_1962__Q07
 parent: src_imho_1962
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1962 (IV International Olympiad) — Quesito 7
 
 *Tetraedro con cinque sfere tangenti agli spigoli e regolarita*
 

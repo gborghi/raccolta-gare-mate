@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q13
 parent: src_garaprime_2024
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 13
 
 *Quale numero non puo essere prodotto dei divisori*
 

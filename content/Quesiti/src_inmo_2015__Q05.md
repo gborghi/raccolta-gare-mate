@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2015 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2015__Q05
 parent: src_inmo_2015
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2015 — Quesito 5
 
 *Convex quadrilateral ABCD has incircle iff 1/PE+1/PG=1/PF+1/PH*
 

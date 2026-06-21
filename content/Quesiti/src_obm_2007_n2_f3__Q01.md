@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f3__Q01
 parent: src_obm_2007_n2_f3
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3 — Quesito 1
 
 *Fill n×n grid with 1–4 so each cell has exactly one neighbor with same number*
 

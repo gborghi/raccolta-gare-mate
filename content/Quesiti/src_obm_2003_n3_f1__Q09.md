@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q09
 parent: src_obm_2003_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 9
 
 *Find radius of circle C3 tangent to two parallel lines and two circles C1,C2*
 

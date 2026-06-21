@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Semifinale individuale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q17
 parent: src_kangourou_2022_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Semifinale individuale — Quesito 17
 
 *min somma |coeff|*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q11
 parent: src_archimede_2010_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 11
 
 *Perimetro triangolo con angoli 30 e 105 e lato 2*
 

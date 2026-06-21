@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1994-95 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1994-95_round1__Q04
 parent: src_bmo_1994-95_round1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1994-95 — Round 1 — Quesito 4
 
 *Right-angled triangle; angle bisectors; feet of perpendiculars to hypotenuse; find MN*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale2__Q01
 parent: src_squadre_2023_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2 — Quesito 1
 
 *Colorazioni lati pentagono con 3 colori*
 

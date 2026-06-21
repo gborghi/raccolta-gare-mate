@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q09
 parent: src_archimede_2025_biennio_rec
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 9
 
 *Interi 1000-3000 con cifra 7 esattamente una volta*
 

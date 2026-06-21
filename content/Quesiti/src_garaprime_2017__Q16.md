@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q16
 parent: src_garaprime_2017
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 16
 
 *cubo dei lati uguale quadrato diagonali*
 

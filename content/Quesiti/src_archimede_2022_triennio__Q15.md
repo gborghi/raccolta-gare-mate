@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q15
 parent: src_archimede_2022_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 15
 
 *Probabilita che la tombola finisca all'89-esimo numero*
 

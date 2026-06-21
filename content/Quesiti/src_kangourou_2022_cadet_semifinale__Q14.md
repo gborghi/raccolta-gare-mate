@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q14
 parent: src_kangourou_2022_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 14
 
 *Modi di sedersi in auto con vincoli*
 

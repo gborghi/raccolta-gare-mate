@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo23hq_honsen__Q01
 parent: src_jjmo23hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 1
 
 *Min good points on one vertical line via midpoint operations*
 

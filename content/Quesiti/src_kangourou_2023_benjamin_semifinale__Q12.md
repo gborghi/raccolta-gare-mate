@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Semifinale individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin_semifinale__Q12
 parent: src_kangourou_2023_benjamin_semifinale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Semifinale individuale — Quesito 12
 
 *quanti bastano per il disegno*
 

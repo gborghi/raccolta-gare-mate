@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2007 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo5q__Q07
 parent: src_jjmo5q
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2007 — Quesito 7
 
 *Quadrilateral with intersecting diagonals at 60°; minimize perimeter*
 

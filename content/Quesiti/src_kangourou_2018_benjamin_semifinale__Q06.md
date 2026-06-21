@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q06
 parent: src_kangourou_2018_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Semifinale individuale — Quesito 6
 
 *Valore di N dai seggiolini della seggiovia*
 

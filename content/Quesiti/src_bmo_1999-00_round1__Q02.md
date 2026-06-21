@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1999-00 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1999-00_round1__Q02
 parent: src_bmo_1999-00_round1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1999-00 — Round 1 — Quesito 2
 
 *Prove a certain expression in n is divisible by 2000*
 

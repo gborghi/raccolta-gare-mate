@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2014 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2014__Q02
 parent: src_inmo_2014
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2014 — Quesito 2
 
 *Sum of floor(n/k) plus floor(sqrt(n)) is always even*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student finale — Quesito S2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_finale__QS2
 parent: src_kangourou_2024_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2024 Student finale — Quesito S2
 
 *Citta operativa aereo nel primo giorno secondo mese*
 

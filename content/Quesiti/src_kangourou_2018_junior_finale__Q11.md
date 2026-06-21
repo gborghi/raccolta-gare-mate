@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q11
 parent: src_kangourou_2018_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 11
 
 *Palindromo 4 cifre con 17n quadrato perfetto*
 

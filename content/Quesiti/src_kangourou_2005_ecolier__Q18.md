@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier__Q18
 parent: src_kangourou_2005_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo) — Quesito 18
 
 *Rettangoli diversi con 14 fiammiferi*
 

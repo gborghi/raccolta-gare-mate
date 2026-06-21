@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1994 — Matematica — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cgen_1994__Q05
 parent: src_cgen_1994
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1994 — Matematica — Quesito 5
 
 *Functional equation f(m^2+n^2)=[f(m)]^2+[f(n)]^2 on natural numbers*
 

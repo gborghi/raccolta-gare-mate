@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jmo15yq_yosen__Q10
 parent: src_jmo15yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 10
 
 *Count ordered triples of 3-digit numbers summing to 2005 with maximum digit-sum*
 

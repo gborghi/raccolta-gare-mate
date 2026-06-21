@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q24
 parent: src_kangourou_2016_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 24
 
 *Ore per ramo trascinato dalla corrente, barca 4 e 6 ore*
 

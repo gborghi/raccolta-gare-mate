@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q11
 parent: src_kangourou_2019_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 11
 
 *19 con le stesse cifre*
 

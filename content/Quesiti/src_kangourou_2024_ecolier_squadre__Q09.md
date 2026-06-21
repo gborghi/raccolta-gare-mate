@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q09
 parent: src_kangourou_2024_ecolier_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 9
 
 *Più grande numero senza cifra 1, prodotto 20*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_pubblico__Q20
 parent: src_archimede_2001_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 20
 
 *raggio terza*
 

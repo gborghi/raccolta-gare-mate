@@ -1,4 +1,5 @@
 ---
+title: IMO 1969 (Eleventh International Olympiad)
 tipo: gara
 src_id: src_imo_1969_all
 competition: IMO 1969 (Eleventh International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1969
   - gara/individuale
 ---
-
-# IMO 1969 (Eleventh International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1969_eng.pdf` · apri PDF
 

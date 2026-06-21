@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q07
 parent: src_cesenatico_2012_finale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 7
 
 *n con aura 8128 (fattori a min differenza)*
 

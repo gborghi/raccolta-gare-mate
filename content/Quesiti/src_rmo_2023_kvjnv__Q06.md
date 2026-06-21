@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_kvjnv__Q06
 parent: src_rmo_2023_kvjnv
@@ -34,8 +35,6 @@ tags:
   - regione/kvjnv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 6
 
 *Cyclic quadrilateral ABCD, diagonals meet at P, Q on BC with PQ perp AC, prove line joining circumcentres of APD and BQD parallel to AD*
 

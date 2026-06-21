@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2026 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2026__Q04
 parent: src_inmo_2026
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2026 — Quesito 4
 
 *Determine all f:N0->N0 with f(0)=0 such that f(n)+m and f(n)+f(m) are companions (share exactly the same prime divisors) for all m,n.*
 

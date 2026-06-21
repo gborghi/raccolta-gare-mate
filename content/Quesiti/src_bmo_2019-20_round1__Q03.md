@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2019-20_round1__Q03
 parent: src_bmo_2019-20_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2019-20 — Round 1 — Quesito 3
 
 *Two tangent circles with common tangent; prove AC perpendicular to BD*
 

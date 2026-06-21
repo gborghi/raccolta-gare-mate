@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q16
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 16
 
 *Valore di p+q+r+s+t+u dati i tre punti medi*
 

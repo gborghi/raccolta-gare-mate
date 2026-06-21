@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q06
 parent: src_kangourou_2013_student
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 6
 
 *Valore di f(2031)-f(2013) per funzione lineare*
 

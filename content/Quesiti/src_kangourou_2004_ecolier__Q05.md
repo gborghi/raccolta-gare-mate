@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q05
 parent: src_kangourou_2004_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 5
 
 *Quanti quadratini verniciare (neri meta bianchi)*
 

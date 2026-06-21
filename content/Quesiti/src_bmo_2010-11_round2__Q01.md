@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round2__Q01
 parent: src_bmo_2010-11_round2
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 2 — Quesito 1
 
 *Show equal angles from interior point using cevian construction*
 

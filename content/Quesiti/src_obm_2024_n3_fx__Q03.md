@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n3_fx__Q03
 parent: src_obm_2024_n3_fx
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 3
 
 *Colonizing Mars: agencies alternate trips; determine which agency cannot fail first*
 

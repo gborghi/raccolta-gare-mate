@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f1__Q15
 parent: src_obm_2014_n1_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 15
 
 *Square partitioned into four labeled regions A,B,C,D; which two have equal area*
 

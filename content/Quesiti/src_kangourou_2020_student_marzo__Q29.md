@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q29
 parent: src_kangourou_2020_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 29
 
 *Quanti numeri della tabella divisibili per p4*
 

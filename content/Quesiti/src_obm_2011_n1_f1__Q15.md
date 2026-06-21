@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f1__Q15
 parent: src_obm_2011_n1_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 15
 
 *Ratio of red to white painted area of a cube cut into 27 small cubes*
 

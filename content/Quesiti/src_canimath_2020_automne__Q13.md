@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q13
 parent: src_canimath_2020_automne
@@ -34,8 +35,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 13
 
 *Count reals x in [1,10] with fractional-part(x) squared equal to fractional-part(x squared)*
 

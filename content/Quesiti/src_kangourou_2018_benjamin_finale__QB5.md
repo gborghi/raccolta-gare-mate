@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Finale nazionale Cervia — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_finale__QB5
 parent: src_kangourou_2018_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Finale nazionale Cervia — Quesito B5
 
 *Auto nei sei gruppi meno numerosi per somma cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo20yq_yosen__Q08
 parent: src_jjmo20yq_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 8
 
 *Assign 1-8 to 20 blocks of holey 3x3x3 cube so each outer face shows all 8 values*
 

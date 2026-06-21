@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q07
 parent: src_obm_2009_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 7
 
 *Smallest n>1 to place n pieces on n×n board with no two in same row, column, or diagonal.*
 

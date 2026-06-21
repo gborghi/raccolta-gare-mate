@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q11
 parent: src_kangourou_2017_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Finale — Quesito 11
 
 *Cifra unita di 1^3+2^3+...+2017^3*
 

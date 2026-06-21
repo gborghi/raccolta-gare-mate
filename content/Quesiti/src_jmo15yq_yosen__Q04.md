@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo15yq_yosen__Q04
 parent: src_jmo15yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 4
 
 *Probability cumulative sum of dice equals exactly 6 at some point within 6 rolls*
 

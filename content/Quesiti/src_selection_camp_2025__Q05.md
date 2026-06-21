@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2025__Q05
 parent: src_selection_camp_2025
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2025 — Selection Camp — Quesito 5
 
 *Find subsets S of powers of 2 realizable as image of f(a+b)-f(a)-f(b)*
 

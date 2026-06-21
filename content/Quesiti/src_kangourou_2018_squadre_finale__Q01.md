@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2018 Finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q01
 parent: src_kangourou_2018_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2018 Finale — Quesito 1
 
 *Cifre decine e unita di 9^2017+9^2018*
 

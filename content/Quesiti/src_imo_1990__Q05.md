@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1990 (31st IMO, Beijing) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1990__Q05
 parent: src_imo_1990
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1990 (31st IMO, Beijing) — Quesito 5
 
 *winning strategies by n0*
 

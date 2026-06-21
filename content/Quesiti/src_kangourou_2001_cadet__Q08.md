@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Cadet (15 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_cadet__Q08
 parent: src_kangourou_2001_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2001 - Cadet (15 marzo) — Quesito 8
 
 *Tempo per la famiglia di koala insieme*
 

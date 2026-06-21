@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q11
 parent: src_kangourou_2024_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 11
 
 *Superficie del solido a L centralmente simmetrico*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f2__Q04
 parent: src_obm_2007_n1_f2
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 4
 
 *A rectangle is cut so the leftover sides are half the original; find the original perimeter.*
 

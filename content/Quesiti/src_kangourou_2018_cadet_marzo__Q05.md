@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q05
 parent: src_kangourou_2018_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo — Quesito 5
 
 *Quanti percorsi della pallina fino alla corsia B*
 

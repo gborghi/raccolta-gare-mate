@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2007 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2007__Q05
 parent: src_inmo_2007
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2007 — Quesito 5
 
 *Isosceles triangle with ratio conditions; prove polynomial and equilateral iff*
 

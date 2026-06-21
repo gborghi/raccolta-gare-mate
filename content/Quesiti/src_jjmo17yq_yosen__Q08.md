@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo17yq_yosen__Q08
 parent: src_jjmo17yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 8
 
 *Count 5-tuples from {1..5} with a+2b+3c+4d+5e divisible by 6*
 

@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2008_nu_f1__Q04
 parent: src_obm_2008_nu_f1
@@ -33,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 — Quesito 4
 
 *Find smallest k>0 with ABA^{-1}=B^k for n×n matrices A,B≠I*
 

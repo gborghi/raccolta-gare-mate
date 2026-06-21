@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q05
 parent: src_kangourou_2012_student
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 5
 
 *Valore della radice annidata sqrt(2 sqrt2)*
 

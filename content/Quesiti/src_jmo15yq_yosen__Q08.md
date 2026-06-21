@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo15yq_yosen__Q08
 parent: src_jmo15yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 8
 
 *Count valid seatings of 7 people at circular table where no one sits next to another's assigned chair*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo11yq_yosen__Q09
 parent: src_jjmo11yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 9
 
 *Count triples summing to 2013 each coprime to 2013*
 

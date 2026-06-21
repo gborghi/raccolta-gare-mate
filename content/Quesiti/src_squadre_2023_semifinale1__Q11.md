@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale1__Q11
 parent: src_squadre_2023_semifinale1
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 1 — Quesito 11
 
 *Rapporto aree triangoli BMF e BSQ in configurazione tangente*
 

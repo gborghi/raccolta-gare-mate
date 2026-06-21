@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo28yq_yosen__Q03
 parent: src_jmo28yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 3
 
 *Area of right trapezoid given two diagonals and a 45-degree angle*
 

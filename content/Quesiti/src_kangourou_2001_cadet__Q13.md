@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Cadet (15 marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_cadet__Q13
 parent: src_kangourou_2001_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Cadet (15 marzo) — Quesito 13
 
 *Cifra M nell'espressione 4xKLMNP4*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q13
 parent: src_squadre_2026_semifinale_cd
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 13
 
 *Giorni minimi con altezze in progressione*
 

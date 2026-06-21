@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_individuale__Q01
 parent: src_archimede_2001_individuale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 1
 
 *trovare i due lati mancanti*
 

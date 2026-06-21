@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin finale (maggio) — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_maggio__QB4
 parent: src_kangourou_2007_benjamin_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin finale (maggio) — Quesito B4
 
 *Tipo di molecola rimasta (reazioni con invariante)*
 

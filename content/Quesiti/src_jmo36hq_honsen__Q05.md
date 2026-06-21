@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo36hq_honsen__Q05
 parent: src_jmo36hq_honsen
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 5
 
 *Point P off the plane with equal products; circumcircles meet plane in triangle similar to T*
 

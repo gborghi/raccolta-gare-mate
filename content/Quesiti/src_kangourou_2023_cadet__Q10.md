@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet__Q10
 parent: src_kangourou_2023_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Gara 16 marzo — Quesito 10
 
 *numero nella casella per somme uguali*
 

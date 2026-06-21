@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_bmo_1972-73_round1__Q08
 parent: src_bmo_1972-73_round1
@@ -27,8 +28,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1972-73 — Round 1 — Quesito 8
 
 *Companion matrix of a Mobius map; product and conditions for T^n = I*
 

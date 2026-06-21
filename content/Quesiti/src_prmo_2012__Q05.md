@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q05
 parent: src_prmo_2012
@@ -34,8 +35,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 5
 
 *Find all n for which S_n is a perfect square*
 

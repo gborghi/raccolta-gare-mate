@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo13mq_honsen__Q04
 parent: src_jmo13mq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 4
 
 *Sum of weights of all continued fraction expansions of p/q equals q*
 

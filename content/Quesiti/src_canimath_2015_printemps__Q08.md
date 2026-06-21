@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2015 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_printemps__Q08
 parent: src_canimath_2015_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2015 — Quesito 8
 
 *Primes p,q,r; pq+1, pr+1, qr-p squares; prove p+2qr+2 is also a square*
 

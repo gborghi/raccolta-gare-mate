@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q02
 parent: src_jjmo3q
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 2
 
 *Divisors leaving remainder 11 for both 197 and 290*
 

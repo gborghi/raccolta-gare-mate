@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q14
 parent: src_kangourou_2024_junior_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 2 — Quesito 14
 
 *Quante carte mostrano faccia bianca dopo 2024 mosse*
 

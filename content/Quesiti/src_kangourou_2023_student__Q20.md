@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q20
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 20
 
 *Divisori di 2^20*3^23 che non dividono 2^10*3^20*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2022__Q06
 parent: src_selection_camp_2022
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2022 — Selection Camp — Quesito 6
 
 *Three lines AM, PY, QX concur in a circle configuration*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q14
 parent: src_obm_2003_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 14
 
 *Find which player has fewer chances in coin-toss game with Beatriz,Isabele,Nicole*
 

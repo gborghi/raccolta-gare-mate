@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q07
 parent: src_prmo_2017
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 7
 
 *Find smallest positive integer n with given floor/fractional part condition*
 

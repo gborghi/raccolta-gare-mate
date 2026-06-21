@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r1__Q02
 parent: src_rmo_2012_r1
@@ -33,8 +34,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 1 — Quesito 2
 
 *Divisibility chain implies abc divides (a+b+c)^13*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q02
 parent: src_kangourou_squadre_2010_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 2
 
 *Massimo passeggeri con file distinte (occupazioni)*
 

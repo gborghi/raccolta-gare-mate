@@ -1,4 +1,5 @@
 ---
+title: IMO 2014 (shortlist/papers) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_2014__Q02
 parent: src_imo_2014
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2014 (shortlist/papers) — Quesito 2
 
 *Massimo k con quadrato k×k libero da torri pacifiche*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2015 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_classiprime__Q03
 parent: src_archimede_2015_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2015 — Quesito 3
 
 *Lato CB di triangolo isoscele dato rapporto altezze e perimetro*
 

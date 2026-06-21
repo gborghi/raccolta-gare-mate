@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_pubblico__Q04
 parent: src_archimede_2002_pubblico
@@ -29,8 +30,6 @@ tags:
   - gara/individuale
 ---
 
-# Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 4
-
 *minimo dell'espressione razionale*
 
 > 
@@ -49,7 +48,8 @@ tags:
 > 	#
 > 	
 > 
-> 	
+> 	
+
 > 
 > 
 > 
@@ -57,20 +57,23 @@ tags:
 > 
 > 
 > 
-> 	
+> 
+	
 > 
 > 	
 > 
 > 	
 > 	
-> 
+> 
+
 > 
 > 
 > 
 > 	
 > 
 > 	
-> 	
+> 
+	
 > 
 > 
 > 	
@@ -99,7 +102,8 @@ tags:
 > 
 > 
 > 
-> 	
+> 
+	
 > 
 > 	
 > 	
@@ -108,7 +112,8 @@ tags:
 > 
 > 	
 > 
-> 
+> 
+
 > 
 > 			
 > 	
@@ -121,7 +126,9 @@ tags:
 > 
 > 
 > 
-> 
+> 
+
+
 > 
 > 
 > 

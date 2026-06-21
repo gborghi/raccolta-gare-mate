@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q08
 parent: src_kangourou_2014_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Finale — Quesito 8
 
 *eta uguale somma cifre anno*
 

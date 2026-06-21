@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q14
 parent: src_kangourou_2013_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Semifinale A — Quesito 14
 
 *Numero al 126-mo posto della sequenza di sole cifre pari*
 

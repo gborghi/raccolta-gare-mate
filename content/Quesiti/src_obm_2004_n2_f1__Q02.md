@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f1__Q02
 parent: src_obm_2004_n2_f1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 2
 
 *Value of ratio of two consecutive-integer-sum expressions*
 

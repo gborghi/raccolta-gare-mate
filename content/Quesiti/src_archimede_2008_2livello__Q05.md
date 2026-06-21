@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_2livello__Q05
 parent: src_archimede_2008_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 5
 
 *Minimo i>0 per cui a_i multiplo di 19 nella ricorrenza*
 

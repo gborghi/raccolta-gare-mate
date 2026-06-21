@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo24yqa_yosen__Q09
 parent: src_jjmo24yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 9
 
 *Count permutations of 1..30 where every index has at least 2 indices giving an inversion*
 

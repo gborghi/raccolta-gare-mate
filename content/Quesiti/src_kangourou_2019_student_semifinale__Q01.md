@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q01
 parent: src_kangourou_2019_student_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 1
 
 *Tragitto del vertice A in due rotazioni del rettangolo*
 

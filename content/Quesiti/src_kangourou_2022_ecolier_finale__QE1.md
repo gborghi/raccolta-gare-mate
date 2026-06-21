@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__QE1
 parent: src_kangourou_2022_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito E1
 
 *Minimo mosse per uniformare i 9 gettoni bicolori*
 

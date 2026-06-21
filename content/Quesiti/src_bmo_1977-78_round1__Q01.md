@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1977-78 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1977-78_round1__Q01
 parent: src_bmo_1977-78_round1
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1977-78 — Round 1 — Quesito 1
 
 *Find point P inside triangle maximising product of distances to sides*
 

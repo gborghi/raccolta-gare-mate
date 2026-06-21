@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2018 Finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q07
 parent: src_kangourou_2018_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2018 Finale — Quesito 7
 
 *Area regione ombreggiata in quadrato con 4 cerchi*
 

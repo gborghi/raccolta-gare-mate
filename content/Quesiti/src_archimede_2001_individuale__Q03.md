@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_individuale__Q03
 parent: src_archimede_2001_individuale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 3
 
 *soluzioni intere positive*
 

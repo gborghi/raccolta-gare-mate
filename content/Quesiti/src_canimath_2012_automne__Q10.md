@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q10
 parent: src_canimath_2012_automne
@@ -33,8 +34,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 10
 
 *Find angle ABC given incircle center I, AI=BC and angle ICA=2 angle IAC*
 

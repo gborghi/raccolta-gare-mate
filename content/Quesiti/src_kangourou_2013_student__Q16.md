@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q16
 parent: src_kangourou_2013_student
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 16
 
 *Soluzioni di f(f(f(x)))=0 dal grafico*
 

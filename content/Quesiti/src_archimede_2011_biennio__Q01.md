@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_biennio__Q01
 parent: src_archimede_2011_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Biennio — Quesito 1
 
 *Numeri sei cifre con 1-6 divisibili per 1-6*
 

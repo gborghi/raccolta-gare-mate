@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_individuale__Q01
 parent: src_archimede_2002_individuale
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 1
 
 *determinarle*
 

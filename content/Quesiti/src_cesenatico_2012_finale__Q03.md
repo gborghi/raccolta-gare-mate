@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q03
 parent: src_cesenatico_2012_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 3
 
 *Coeff b di p(x)=x^3+ax^2+bx-2012 con radici intere*
 

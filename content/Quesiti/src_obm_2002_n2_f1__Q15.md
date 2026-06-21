@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f1__Q15
 parent: src_obm_2002_n2_f1
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 15
 
 *Count positive integers less than 900 that are multiples of 7 ending in digit 7*
 

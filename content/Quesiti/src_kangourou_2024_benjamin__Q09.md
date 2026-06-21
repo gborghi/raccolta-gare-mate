@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q09
 parent: src_kangourou_2024_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 9
 
 *Massimo numero di camere con cifra 2 quattordici volte e 5 tre volte*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q14
 parent: src_kangourou_2018_student_semif
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 14
 
 *Valori m e n con 46 nuovi tipi di biglietti*
 

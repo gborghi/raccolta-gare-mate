@@ -1,4 +1,5 @@
 ---
+title: XXII Olimpiade Italiana Cesenatico 2006 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006__Q05
 parent: src_cesenatico_2006
@@ -24,8 +25,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# XXII Olimpiade Italiana Cesenatico 2006 — Quesito 5
 
 *per quali n vera*
 

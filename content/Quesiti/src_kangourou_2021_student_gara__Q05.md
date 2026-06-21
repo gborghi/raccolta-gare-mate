@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q05
 parent: src_kangourou_2021_student_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 5
 
 *Direzione di inclinazione dell'asta vista da due punti*
 

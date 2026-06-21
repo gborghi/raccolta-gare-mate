@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q14
 parent: src_kangourou_2006_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 14
 
 *Colore del quadratino in basso a destra*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Triennio — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_triennio__Q24
 parent: src_archimede_1999_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Triennio — Quesito 24
 
 *Minimo numero di cifre di n con 3 e 5 divisibile per 11*
 

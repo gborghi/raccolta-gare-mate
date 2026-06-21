@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2025 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jegmo14q__Q05
 parent: src_jegmo14q
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2025 — Quesito 5
 
 *Functional equation involving the floor function*
 

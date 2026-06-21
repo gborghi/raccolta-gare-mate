@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q21
 parent: src_kangourou_2018_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo — Quesito 21
 
 *Valore di N perche Amalia vinca*
 

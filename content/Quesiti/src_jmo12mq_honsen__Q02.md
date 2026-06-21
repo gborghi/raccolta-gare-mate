@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo12mq_honsen__Q02
 parent: src_jmo12mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 2
 
 *Flipping coins on a circle by parity operation*
 

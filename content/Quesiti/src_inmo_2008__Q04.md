@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2008 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2008__Q04
 parent: src_inmo_2008
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2008 — Quesito 4
 
 *Three-coloured integer lattice always contains a right-angled triangle with all three colours*
 

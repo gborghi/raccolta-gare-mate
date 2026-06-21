@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2002 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_2livello__Q07
 parent: src_archimede_2002_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2002 — Quesito 7
 
 *Massimo c con a≤b≤c e somma di cifre fissata*
 

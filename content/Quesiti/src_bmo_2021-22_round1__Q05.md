@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2021-22 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2021-22_round1__Q05
 parent: src_bmo_2021-22_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2021-22 — Round 1 — Quesito 5
 
 *Find smallest possible mean of an N-set given m(N) for N<2021*
 

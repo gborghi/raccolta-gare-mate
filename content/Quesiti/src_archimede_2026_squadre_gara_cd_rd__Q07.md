@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_gara_cd_rd__Q07
 parent: src_archimede_2026_squadre_gara_cd_rd
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 7
 
 *Somma n in 1400-1500 con n+2 div 6 e n-5 div 7*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1979 (Twenty-first International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1979_all__Q02
 parent: src_imo_1979_all
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1979 (Twenty-first International Olympiad) — Quesito 2
 
 *top and bottom edges all same color*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo27yq_yosen__Q06
 parent: src_jmo27yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 6
 
 *Term x_144 of an integer recurrence*
 

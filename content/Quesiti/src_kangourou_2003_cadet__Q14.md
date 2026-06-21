@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q14
 parent: src_kangourou_2003_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 14
 
 *Percentuale carico autocarro dopo scarico*
 

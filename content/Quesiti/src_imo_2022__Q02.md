@@ -1,4 +1,5 @@
 ---
+title: IMO 2022 papers — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_2022__Q02
 parent: src_imo_2022
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 2022 papers — Quesito 2
 
 *R+->R+ con unica y soddisfacente*
 

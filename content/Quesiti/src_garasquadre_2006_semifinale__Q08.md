@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q08
 parent: src_garasquadre_2006_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 8
 
 *AP ridotta*
 

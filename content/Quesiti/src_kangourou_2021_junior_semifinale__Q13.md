@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior Semifinale individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q13
 parent: src_kangourou_2021_junior_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior Semifinale individuale — Quesito 13
 
 *Massimo numero di stanze visitabili in triangolo n=100*
 

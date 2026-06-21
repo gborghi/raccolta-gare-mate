@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_squadre__Q03
 parent: src_archimede_2002_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 3
 
 *successione di interi*
 

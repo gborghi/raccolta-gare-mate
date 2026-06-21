@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q13
 parent: src_archimede_2026_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 13
 
 *Allenamento di corsa/cammino, valore x per finire a casa*
 

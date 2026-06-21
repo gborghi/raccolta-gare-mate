@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q28
 parent: src_kangourou_2024_student
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 28
 
 *Somma dei due zeri di f con f(20-x)=f(22+x)*
 

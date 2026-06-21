@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_tfjm_2018__Q01
 parent: src_tfjm_2018
@@ -36,8 +37,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 1
 
 *Counting distinct jigsaw-puzzle pieces (unit squares with bumps/hollows on their sides) and characterizing singular puzzles that can be assembled in essentially one way.*
 

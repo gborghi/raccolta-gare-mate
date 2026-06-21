@@ -1,4 +1,5 @@
 ---
+title: IMO 1974 (Sixteenth International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1974_all__Q04
 parent: src_imo_1974_all
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1974 (Sixteenth International Olympiad) — Quesito 4
 
 *Max rectangles partitioning chessboard with balanced colors*
 

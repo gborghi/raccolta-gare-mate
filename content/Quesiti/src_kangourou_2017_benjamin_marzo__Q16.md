@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q16
 parent: src_kangourou_2017_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 16
 
 *Numero sull'ultima chiave (criptaritmo lettera-cifra)*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2012 - Gara a squadre — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gs_2012_squadre__Q05
 parent: src_gs_2012_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Galileo 2012 - Gara a squadre — Quesito 5
 
 *Perimetro poligono di archi di circonferenza*
 

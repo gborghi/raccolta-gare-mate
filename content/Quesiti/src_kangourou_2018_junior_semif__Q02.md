@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q02
 parent: src_kangourou_2018_junior_semif
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 2
 
 *Lunghezza circonferenza C inscritta nell occhio*
 

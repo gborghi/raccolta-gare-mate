@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q23
 parent: src_kangourou_2019_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Ecolier — Quesito 23
 
 *Chi ha mangiato il biscotto (uno solo mente)*
 

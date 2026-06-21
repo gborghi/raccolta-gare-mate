@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f1__Q10
 parent: src_obm_2002_n1_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 10
 
 *Fraction of road travelled when turning back for a magazine*
 

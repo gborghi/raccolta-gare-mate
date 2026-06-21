@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q26
 parent: src_kangourou_2014_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 26
 
 *Triangoli (vertici del cubo) non contenuti in alcuna faccia*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 2018 papers — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2018__Q05
 parent: src_imo_2018
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2018 papers — Quesito 5
 
 *Successione interi con somma ciclica intera diventa costante*
 

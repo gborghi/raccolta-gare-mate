@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1997-98 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1997-98_round1__Q03
 parent: src_bmo_1997-98_round1
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1997-98 — Round 1 — Quesito 3
 
 *Isosceles triangle, parallelogram; prove M is midpoint of DA*
 

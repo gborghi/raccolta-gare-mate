@@ -1,4 +1,5 @@
 ---
+title: IMO 1976 (Eighteenth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1976_all__Q03
 parent: src_imo_1976_all
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1976 (Eighteenth International Olympiad) — Quesito 3
 
 *Box dimensions where volume-2 cubes fill exactly 40%*
 

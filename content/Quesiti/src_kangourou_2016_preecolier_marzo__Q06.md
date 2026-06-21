@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q06
 parent: src_kangourou_2016_preecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 6
 
 *Quanti bambini in giardino, dieci compagni di cui 5 bambine*
 

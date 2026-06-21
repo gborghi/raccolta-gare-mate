@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q20
 parent: src_kangourou_2015_marzo_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 20
 
 *totale*
 

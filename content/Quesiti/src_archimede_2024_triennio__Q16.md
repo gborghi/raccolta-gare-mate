@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q16
 parent: src_archimede_2024_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 16
 
 *Triangolo, bisettrice e circonferenze, triangolo isoscele e similitudini*
 

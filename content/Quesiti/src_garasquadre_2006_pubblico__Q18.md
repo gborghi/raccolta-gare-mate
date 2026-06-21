@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q18
 parent: src_garasquadre_2006_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 18
 
 *Minimo denominatore con periodo decimale di 4 cifre distinte*
 

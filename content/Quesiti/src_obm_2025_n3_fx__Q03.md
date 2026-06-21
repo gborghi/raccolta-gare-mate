@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n3_fx__Q03
 parent: src_obm_2025_n3_fx
@@ -39,8 +40,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 3
 
 *Infinite sequence of positive integers with min-difference power-of-2025 condition; prove surjective onto positives*
 

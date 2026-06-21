@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round2__Q04
 parent: src_bmo_1987-88_round2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 2 — Quesito 4
 
 *Find all positive integer solutions of 1/x + 1/y - 1/z = 1*
 

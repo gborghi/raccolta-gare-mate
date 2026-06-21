@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q21
 parent: src_kangourou_2003_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 21
 
 *Identificare modulo nero del parallelepipedo*
 

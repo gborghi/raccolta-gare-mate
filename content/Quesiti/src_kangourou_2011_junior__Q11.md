@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q11
 parent: src_kangourou_2011_junior
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 11
 
 *Cosa accade nel mese successivo con tre giorni a 5 occorrenze*
 

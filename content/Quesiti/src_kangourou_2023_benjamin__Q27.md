@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin__Q27
 parent: src_kangourou_2023_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 27
 
 *collezione più costosa*
 

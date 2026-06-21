@@ -1,11 +1,10 @@
 ---
+title: Conteggio sistematico
 tipo: skill
 concept_id: skill_conteggio_sistematico
 tags:
   - graph/skill
 ---
-
-# Conteggio sistematico
 
 *skill* — **1436** quesiti (italiani).
 

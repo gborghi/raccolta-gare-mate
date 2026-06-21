@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo33hq_honsen__Q04
 parent: src_jmo33hq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 4
 
 *Find all positive integers n for which (phi(n)^phi(n) - 1) / d(n) is not an integer*
 

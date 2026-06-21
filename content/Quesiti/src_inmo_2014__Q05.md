@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2014 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2014__Q05
 parent: src_inmo_2014
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2014 — Quesito 5
 
 *Acute triangle ABC, D on BC; circumcentre of ABC and orthocentre of O1O2D are parallel to BC*
 

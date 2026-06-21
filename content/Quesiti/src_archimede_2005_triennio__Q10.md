@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q10
 parent: src_archimede_2005_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 10
 
 *Valori di a con 2a^4-4ab+b^2+2=0*
 

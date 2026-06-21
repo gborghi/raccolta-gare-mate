@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2007 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2007__Q06
 parent: src_rmo_2007
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2007 — Quesito 6
 
 *Prove inequalities comparing n with sum of its roots for n>=9*
 

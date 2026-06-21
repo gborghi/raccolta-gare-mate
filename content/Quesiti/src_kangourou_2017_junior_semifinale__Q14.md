@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Semifinale individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q14
 parent: src_kangourou_2017_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Semifinale individuale — Quesito 14
 
 *Velocita media necessaria per recuperare ritardo*
 

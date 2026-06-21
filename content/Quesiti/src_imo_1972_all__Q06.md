@@ -1,4 +1,5 @@
 ---
+title: IMO 1972 (Fourteenth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1972_all__Q06
 parent: src_imo_1972_all
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1972 (Fourteenth International Olympiad) — Quesito 6
 
 *Regular tetrahedron with vertex on each of four parallel planes*
 

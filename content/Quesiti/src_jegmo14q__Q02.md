@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2025 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jegmo14q__Q02
 parent: src_jegmo14q
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2025 — Quesito 2
 
 *Four points concyclic from orthocenter angle bisector and circumcircle*
 

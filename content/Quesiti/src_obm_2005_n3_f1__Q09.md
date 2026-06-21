@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f1__Q09
 parent: src_obm_2005_n3_f1
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 9
 
 *Estimate volume of all platinum produced in history via density and tonnage*
 

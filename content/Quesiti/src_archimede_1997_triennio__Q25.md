@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q25
 parent: src_archimede_1997_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 25
 
 *Quale solido platonico ha un cammino euleriano*
 

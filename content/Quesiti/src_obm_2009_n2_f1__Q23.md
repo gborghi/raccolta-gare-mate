@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q23
 parent: src_obm_2009_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 23
 
 *Rectangle 24×36 cm; each point colored by nearest side; area of yellow region*
 

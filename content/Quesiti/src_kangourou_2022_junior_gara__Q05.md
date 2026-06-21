@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q05
 parent: src_kangourou_2022_junior_gara
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 5
 
 *Valore di y con (x+1)(y+1)=77 e x<y*
 

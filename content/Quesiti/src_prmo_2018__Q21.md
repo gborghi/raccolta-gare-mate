@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q21
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 21
 
 *Orthocentre H, centroids G1 G2 G3 of HBC HCA HAB form triangle of area 7, find area of ABC*
 

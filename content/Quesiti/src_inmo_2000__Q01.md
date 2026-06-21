@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2000 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2000__Q01
 parent: src_inmo_2000
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2000 — Quesito 1
 
 *Incircle touch points; line PQ bisects two sides*
 

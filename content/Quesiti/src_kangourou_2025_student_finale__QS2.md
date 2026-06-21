@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Student finale — Quesito S2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_student_finale__QS2
 parent: src_kangourou_2025_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Student finale — Quesito S2
 
 *In quanti modi 270 come somma interi consecutivi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q10
 parent: src_kangourou_2023_student_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 10
 
 *Trovare n dopo operazioni casuali con risultato 78*
 

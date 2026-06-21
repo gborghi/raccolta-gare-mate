@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q29
 parent: src_kangourou_2005_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 29
 
 *Coppie casella bianca-nera non in riga/colonna*
 

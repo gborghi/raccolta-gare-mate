@@ -1,4 +1,5 @@
 ---
+title: IMO 1983 (24th International Mathematical Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1983__Q05
 parent: src_imo_1983
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1983 (24th International Mathematical Olympiad) — Quesito 5
 
 *Choose 1983 integers with no three-term arithmetic progression*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo23hq_honsen__Q02
 parent: src_jjmo23hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 2
 
 *Existence of real labeling of regular 2025-gon with product condition*
 

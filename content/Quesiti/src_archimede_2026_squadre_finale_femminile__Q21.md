@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q21
 parent: src_archimede_2026_squadre_finale_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 21
 
 *Numeri 5 cifre distinte con due condizioni su cifre*
 

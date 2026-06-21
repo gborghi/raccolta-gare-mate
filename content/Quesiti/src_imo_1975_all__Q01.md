@@ -1,4 +1,5 @@
 ---
+title: IMO 1975 (Seventeenth International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1975_all__Q01
 parent: src_imo_1975_all
@@ -23,8 +24,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1975 (Seventeenth International Olympiad) — Quesito 1
 
 *sorted matching minimizes sum of squared diffs*
 

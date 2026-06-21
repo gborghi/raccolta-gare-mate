@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q09
 parent: src_archimede_2025_squadre_semifinale2
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 9
 
 *2025-esimo intero con somma cifre divisibile per 10*
 

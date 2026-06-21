@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1983-84_round1__Q03
 parent: src_bmo_1983-84_round1
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1983-84 — Round 1 — Quesito 3
 
 *Prove product inequality and cyclic ratio inequality with five variables*
 

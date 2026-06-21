@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r1__Q04
 parent: src_rmo_2014_r1
@@ -34,8 +35,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 1 — Quesito 4
 
 *4x4 grid with numbers; 2x2 sub-grids products not all divisible by 16*
 

@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_tfjm_2025__Q07
 parent: src_tfjm_2025
@@ -38,8 +39,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 7
 
 *Road tolls between n cities labeled 1..n; toll on a road equals max of its endpoint labels; optimize total cost over various network graphs, plus a numbering game between king and ASMR.*
 

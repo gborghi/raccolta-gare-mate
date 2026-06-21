@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1989 (30th IMO, Braunschweig)'
 tipo: gara
 src_id: src_imo_1989
 competition: 'IMO 1989 (30th IMO, Braunschweig)'
@@ -15,8 +16,6 @@ tags:
   - anno/1989
   - gara/individuale
 ---
-
-# IMO 1989 (30th IMO, Braunschweig)
 
 Sorgente: `Archimede/individuale/imho/all/1989_eng.pdf` · apri PDF
 

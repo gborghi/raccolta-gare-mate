@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo9yq_yosen__Q07
 parent: src_jjmo9yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 7
 
 *Smallest integer n ≥ 11 with exactly 23 perfect squares in [n, n+2011]*
 

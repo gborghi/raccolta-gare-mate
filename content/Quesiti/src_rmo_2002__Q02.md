@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2002 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2002__Q02
 parent: src_rmo_2002
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2002 — Quesito 2
 
 *Solve the equation $(x^2+x-2)^4+(2x^2-x-1)^4=27(x^2-1)^4$*
 

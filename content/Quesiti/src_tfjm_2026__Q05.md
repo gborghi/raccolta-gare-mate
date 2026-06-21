@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_tfjm_2026__Q05
 parent: src_tfjm_2026
@@ -39,8 +40,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 5
 
 *On a climbing wall modeled in the plane, define a 'path' of n grips each at distance l from the previous, going up within angle alpha of the vertical; find conditions for two distinct paths to coexist, the minimum number of grips, and arrangements maximizing the count of distinct paths.*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2010 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2010__Q05
 parent: src_rmo_2010
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2010 — Quesito 5
 
 *Reflection of A in angle-bisector line EF lies on BC*
 

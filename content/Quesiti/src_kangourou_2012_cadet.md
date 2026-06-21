@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo)
 tipo: gara
 src_id: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2012/CMarzo-12.pdf` · apri PDF
 

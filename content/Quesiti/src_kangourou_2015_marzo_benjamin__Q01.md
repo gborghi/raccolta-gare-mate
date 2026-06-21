@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q01
 parent: src_kangourou_2015_marzo_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Benjamin — Quesito 1
 
 *In quale figura l’area ombreggiata e meta del totale*
 

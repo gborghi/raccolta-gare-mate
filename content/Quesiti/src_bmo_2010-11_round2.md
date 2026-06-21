@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 2
 tipo: gara
 src_id: src_bmo_2010-11_round2
 competition: British Mathematical Olympiad 2010-11 — Round 2
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 2
 
 Sorgente: apri PDF
 

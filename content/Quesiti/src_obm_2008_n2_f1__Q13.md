@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n2_f1__Q13
 parent: src_obm_2008_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 13
 
 *Sum of digit-sums P(1)+...+P(1000)*
 

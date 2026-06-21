@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f3__Q02
 parent: src_obm_2014_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 2
 
 *AB diameter of circle, CD chord perpendicular to it meeting AB at E; for any P on CD, lines AP and BP meet the circle again at F and G; O is circumcenter of EFG. Show area of OCD is constant.*
 

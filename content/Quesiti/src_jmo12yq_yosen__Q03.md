@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo12yq_yosen__Q03
 parent: src_jmo12yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 3
 
 *5-digit numbers with digits in {1,2,3} divisible by 3*
 

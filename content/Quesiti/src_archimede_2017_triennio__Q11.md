@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_triennio__Q11
 parent: src_archimede_2017_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Triennio — Quesito 11
 
 *Probabilita che Silvia vinca dopo 5 a 4-1*
 

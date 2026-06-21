@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q03
 parent: src_kangourou_2008_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 3
 
 *Quante celle restano dopo cancellazioni (33x21)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q07
 parent: src_kangourou_2021_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 7
 
 *Data in cui Penelope ha tela lunga 100 m*
 

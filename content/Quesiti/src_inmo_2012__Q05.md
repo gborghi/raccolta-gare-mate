@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2012 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2012__Q05
 parent: src_inmo_2012
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2012 — Quesito 5
 
 *Triangle with cevians satisfying pedal angle conditions must be equilateral*
 

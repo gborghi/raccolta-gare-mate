@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q03
 parent: src_kangourou_2004_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 3
 
 *Minimo x reale con x^2-2004<0*
 

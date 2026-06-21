@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q05
 parent: src_gas_2009_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 5
 
 *Tentativi massimi per lucchetto 4 cifre con due uguali*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n2_f3__Q04
 parent: src_obm_1998_n2_f3
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 3 — Quesito 4
 
 *Among 15 naturals >1 and <1998 pairwise coprime, at least one is prime*
 

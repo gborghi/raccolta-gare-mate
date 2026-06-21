@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio__Q05
 parent: src_archimede_2024_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio — Quesito 5
 
 *Cifra al millesimo posto decimale di 3/7*
 

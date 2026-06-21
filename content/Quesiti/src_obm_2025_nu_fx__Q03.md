@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2025_nu_fx__Q03
 parent: src_obm_2025_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x — Quesito 3
 
 *Minimum-modulus elements under invertible linear maps on R^2*
 

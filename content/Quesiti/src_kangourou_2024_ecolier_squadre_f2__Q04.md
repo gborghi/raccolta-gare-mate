@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q04
 parent: src_kangourou_2024_ecolier_squadre_f2
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 4
 
 *Euro presi dal fratello salvadanaio*
 

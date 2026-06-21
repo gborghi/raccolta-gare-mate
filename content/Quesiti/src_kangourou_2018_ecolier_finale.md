@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2018 Finale
 tipo: gara
 src_id: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2018 Finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2018/SQE-F-18.pdf` · apri PDF
 

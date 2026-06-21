@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student finale nazionale (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2008_student_maggio
 competition: Kangourou 2008 - Student finale nazionale (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student finale nazionale (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2008/SMaggio-08.pdf` · apri PDF
 

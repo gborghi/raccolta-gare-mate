@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q04
 parent: src_gs_2009_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 4
 
 *Tempo per riempire volume frazionario*
 

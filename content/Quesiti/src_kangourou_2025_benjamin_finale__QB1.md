@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Benjamin finale — Quesito B1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_benjamin_finale__QB1
 parent: src_kangourou_2025_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Benjamin finale — Quesito B1
 
 *Piu piccolo intero con somma cifre 100*
 

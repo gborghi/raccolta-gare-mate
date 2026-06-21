@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q11
 parent: src_archimede_1999_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 11
 
 *Disposizione oraria con massima probabilità di evitare l'ultima ora*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2015 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_automne__Q08
 parent: src_canimath_2015_automne
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2015 — Quesito 8
 
 *Sequence a_1=1, a_2=7, a_{n+2}=(a_{n+1}^2-1)/a_n; prove 9 a_n a_{n+1}+1 is a perfect square for all n>=1.*
 

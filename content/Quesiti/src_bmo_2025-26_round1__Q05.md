@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2025-26 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2025-26_round1__Q05
 parent: src_bmo_2025-26_round1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2025-26 — Round 1 — Quesito 5
 
 *Integer sequence with parity rules: does it contain every positive integer?*
 

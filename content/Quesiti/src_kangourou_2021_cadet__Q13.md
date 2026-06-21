@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q13
 parent: src_kangourou_2021_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 13
 
 *Area del fiore nero nel quadrato di area 16*
 

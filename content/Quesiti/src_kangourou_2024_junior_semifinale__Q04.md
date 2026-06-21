@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q04
 parent: src_kangourou_2024_junior_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 4
 
 *Massimo numero di spagnoli con 143 strette di mano*
 

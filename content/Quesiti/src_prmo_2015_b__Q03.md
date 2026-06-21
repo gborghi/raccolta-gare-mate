@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q03
 parent: src_prmo_2015_b
@@ -32,8 +33,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 3
 
 *Positive integers a,b with a+b=a/b+b/a; find a²+b²*
 

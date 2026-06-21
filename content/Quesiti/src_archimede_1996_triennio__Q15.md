@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q15
 parent: src_archimede_1996_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 15
 
 *Volume di un cilindro dallo sviluppo laterale*
 

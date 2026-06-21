@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f1__Q03
 parent: src_obm_2003_n1_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 3
 
 *Minimum sticks to form a 2-metre row of sticks*
 

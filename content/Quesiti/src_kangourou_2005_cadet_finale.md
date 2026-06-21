@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (finale nazionale)
 tipo: gara
 src_id: src_kangourou_2005_cadet_finale
 competition: Kangourou 2005 - Cadet (finale nazionale)
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (finale nazionale)
 
 Sorgente: `Kangaroo/kangourou_individuali/2005/CMaggio-05.pdf` · apri PDF
 

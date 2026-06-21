@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q05
 parent: src_kangourou_2013_student
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 5
 
 *Quanti anni prima del 2013 con quattro cifre consecutive*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1994 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_1994__Q05
 parent: src_inmo_1994
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1994 — Quesito 5
 
 *Circle through vertex of rectangle tangent to two sides; distance to diagonal*
 

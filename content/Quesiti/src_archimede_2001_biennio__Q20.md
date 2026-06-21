@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q20
 parent: src_archimede_2001_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 20
 
 *Cifra delle unita del prodotto di numeri di 8 cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q07
 parent: src_archimede_2025_triennio_rec
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 7
 
 *Valore di H·(√47+√39) con somma di radicali razionalizzati*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Finale (risposta aperta)
 tipo: gara
 src_id: src_kangourou_2023_junior_finale
 competition: Kangourou 2023 Junior — Finale (risposta aperta)
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Finale (risposta aperta)
 
 Sorgente: `Kangaroo/kangourou_individuali/2023/Junior2023RFIN.pdf` · apri PDF
 

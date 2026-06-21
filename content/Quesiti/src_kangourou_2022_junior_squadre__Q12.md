@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q12
 parent: src_kangourou_2022_junior_squadre
@@ -29,14 +30,17 @@ tags:
   - gara/squadre
 ---
 
-# Kangourou Squadre 2022 Junior Finale 1 — Quesito 12
-
 *Ultime 4 cifre di n nella differenza da 1/18*
 
 > Differenza da 1/18  
-> Per ogni k intero positivo da 1 in poi sia  
+> Per ogni k intero positivo da 1 in poi sia 
+ 
 > 
-> . La somma  a1 + a2 + … + a100  
+> 
+
+
+
+. La somma  a1 + a2 + … + a100  
 > differisce da  
 > 
 >  per  

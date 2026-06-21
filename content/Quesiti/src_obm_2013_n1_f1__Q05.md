@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f1__Q05
 parent: src_obm_2013_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 5
 
 *With at least 11 multiples of 5 and at most 9 of 6 in 1..n, max multiples of 7*
 

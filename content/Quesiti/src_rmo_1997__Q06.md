@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1997 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1997__Q06
 parent: src_rmo_1997
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1997 — Quesito 6
 
 *Count unordered pairs {A,B} of subsets of X with A not subset of B and A∩B≠X*
 

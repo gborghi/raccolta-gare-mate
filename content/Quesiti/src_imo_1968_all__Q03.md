@@ -1,4 +1,5 @@
 ---
+title: IMO 1968 (Tenth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1968_all__Q03
 parent: src_imo_1968_all
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1968 (Tenth International Olympiad) — Quesito 3
 
 *Number of solutions of cyclic quadratic system via discriminant*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_biennio__Q05
 parent: src_archimede_2004_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Biennio — Quesito 5
 
 *Quanti numeri naturali B in prodotto, scelta multipla*
 

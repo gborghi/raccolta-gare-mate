@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q07
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 7
 
 *Count ordered pairs (a,b) in {10,...,30} with GCD(a,b)=LCM(a,b)-a-b*
 

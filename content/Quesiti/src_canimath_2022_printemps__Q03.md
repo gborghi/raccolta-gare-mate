@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2022 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_printemps__Q03
 parent: src_canimath_2022_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2022 — Quesito 3
 
 *Twenty buildings in a circle, interesting buildings, bound on floor sum*
 

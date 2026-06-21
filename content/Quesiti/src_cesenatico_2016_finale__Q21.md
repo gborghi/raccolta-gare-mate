@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_finale__Q21
 parent: src_cesenatico_2016_finale
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 21
 
 *n iniziale del solitario (operazione su frazioni)*
 

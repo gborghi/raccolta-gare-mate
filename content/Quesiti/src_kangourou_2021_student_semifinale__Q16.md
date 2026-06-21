@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q16
 parent: src_kangourou_2021_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 16
 
 *Valore di n per stanze visitate vicino a 2021*
 

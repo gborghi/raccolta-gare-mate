@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Ecolier — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q12
 parent: src_kangourou_2020_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Ecolier — Quesito 12
 
 *Numeri 4 cifre con cifra migliaia 1 e tre cifre uguali*
 

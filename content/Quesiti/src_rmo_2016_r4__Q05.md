@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r4__Q05
 parent: src_rmo_2016_r4
@@ -30,8 +31,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 4 — Quesito 5
 
 *Triangle with altitude and median; incentre of sub-triangle lies on median*
 

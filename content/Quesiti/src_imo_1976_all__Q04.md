@@ -1,4 +1,5 @@
 ---
+title: IMO 1976 (Eighteenth International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1976_all__Q04
 parent: src_imo_1976_all
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1976 (Eighteenth International Olympiad) — Quesito 4
 
 *Largest product of positive integers summing to 1976*
 

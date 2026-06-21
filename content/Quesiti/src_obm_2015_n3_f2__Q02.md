@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f2__Q02
 parent: src_obm_2015_n3_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 2
 
 *Two intersecting circles, tangent lines define P and Q; given PB*QB=640 and QB*AB=1000 find AB*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q09
 parent: src_cesenatico_2012_semifinale_c
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 9
 
 *Indovinare numero consecutivo dopo 2012 Nu*
 

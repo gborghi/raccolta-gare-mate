@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior (18 marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior__Q25
 parent: src_kangourou_2004_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior (18 marzo) — Quesito 25
 
 *Lunghezza AB data area regione ombreggiata*
 

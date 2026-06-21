@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — Non-KV — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2025_nonkv__Q04
 parent: src_rmo_2025_nonkv
@@ -33,8 +34,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2025 — Non-KV — Quesito 4
 
 *No positive integer solutions to a Diophantine equation in four variables*
 

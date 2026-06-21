@@ -1,4 +1,5 @@
 ---
+title: IMO 1970 (Twelfth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1970_all__Q03
 parent: src_imo_1970_all
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1970 (Twelfth International Olympiad) — Quesito 3
 
 *Prove bounds 0<=b_n<2 for telescoping sequence sum*
 

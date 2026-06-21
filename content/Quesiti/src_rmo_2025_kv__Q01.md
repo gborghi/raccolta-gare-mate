@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2025_kv__Q01
 parent: src_rmo_2025_kv
@@ -35,8 +36,6 @@ tags:
   - regione/kv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 1
 
 *System of cyclic product equations in nonneg integers, a_i≠1*
 

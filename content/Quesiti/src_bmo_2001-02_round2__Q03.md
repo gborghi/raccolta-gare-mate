@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2001-02 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2001-02_round2__Q03
 parent: src_bmo_2001-02_round2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2001-02 — Round 2 — Quesito 3
 
 *Recurrence with nested square root yields only integers*
 

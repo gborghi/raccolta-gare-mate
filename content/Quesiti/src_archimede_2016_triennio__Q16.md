@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_triennio__Q16
 parent: src_archimede_2016_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Triennio — Quesito 16
 
 *Raggio circonferenza da bisettrice e arco medio*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q01
 parent: src_archimede_2016_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 1
 
 *Massimo numero di divisori del quadrato di n con 6 divisori*
 

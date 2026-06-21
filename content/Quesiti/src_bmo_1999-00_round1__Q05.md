@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1999-00 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1999-00_round1__Q05
 parent: src_bmo_1999-00_round1
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1999-00 — Round 1 — Quesito 5
 
 *Count team formations for eight people into four unequal teams*
 

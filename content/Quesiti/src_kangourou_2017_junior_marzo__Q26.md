@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q26
 parent: src_kangourou_2017_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Gara 16 marzo — Quesito 26
 
 *Quanti codici a 7 cifre col criterio dato*
 

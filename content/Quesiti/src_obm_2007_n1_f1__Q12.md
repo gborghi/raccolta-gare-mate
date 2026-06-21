@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f1__Q12
 parent: src_obm_2007_n1_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 12
 
 *Queue: 7 people separate them, 6 behind Esmeralda, 2 enter between; find Esmeralda's position*
 

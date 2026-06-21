@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_finale__Q03
 parent: src_cesenatico_2016_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 3
 
 *Prodotto PA*PC nel trapezio isoscele (angoli)*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2008 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2008__Q06
 parent: src_rmo_2008
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2008 — Quesito 6
 
 *Count integer-sided isosceles obtuse triangles with perimeter 2008*
 

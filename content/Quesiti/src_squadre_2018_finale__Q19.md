@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q19
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 19
 
 *Triangoli equilateri iterati, misura PC con AB=3556*
 

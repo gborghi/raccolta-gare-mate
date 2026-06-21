@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2021_nu_fx__Q05
 parent: src_obm_2021_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x — Quesito 5
 
 *Characterize all real triples that are eigenvalues of a 3×3 non-negative matrix*
 

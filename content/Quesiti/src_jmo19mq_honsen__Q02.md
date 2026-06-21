@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo19mq_honsen__Q02
 parent: src_jmo19mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 2
 
 *Blackboard integers with even sum: prove circle-cross labeling equates partial sums*
 

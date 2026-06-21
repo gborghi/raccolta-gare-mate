@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale
 tipo: gara
 src_id: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2011/SQ-F-11.pdf` · apri PDF
 

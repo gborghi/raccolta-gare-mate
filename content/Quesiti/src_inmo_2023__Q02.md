@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2023 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2023__Q02
 parent: src_inmo_2023
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2023 — Quesito 2
 
 *101 cyclic polynomials in positive reals; show not all can have all real roots*
 

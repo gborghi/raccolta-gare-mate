@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f1__Q12
 parent: src_obm_2001_n2_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 12
 
 *Which statement is true for a 6-row 9-column board with 32 occupied cells*
 

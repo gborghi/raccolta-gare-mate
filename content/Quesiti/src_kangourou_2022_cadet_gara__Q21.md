@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q21
 parent: src_kangourou_2022_cadet_gara
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 21
 
 *Somma dei numeri nei tre cerchi in basso (prodotti)*
 

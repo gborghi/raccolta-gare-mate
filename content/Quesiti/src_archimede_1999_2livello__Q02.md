@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q02
 parent: src_archimede_1999_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 2
 
 *Quante soluzioni reali ha il sistema x²y=150, x³y²=4500*
 

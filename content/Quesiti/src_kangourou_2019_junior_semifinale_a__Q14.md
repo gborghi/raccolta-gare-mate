@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q14
 parent: src_kangourou_2019_junior_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 14
 
 *Somma cifre dei numeri retro-sbilanciati*
 

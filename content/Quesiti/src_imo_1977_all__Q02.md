@@ -1,4 +1,5 @@
 ---
+title: IMO 1977 (Nineteenth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1977_all__Q02
 parent: src_imo_1977_all
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1977 (Nineteenth International Olympiad) — Quesito 2
 
 *any 7 sum negative, any 11 sum positive*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (finale Cervia) — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_finale__QE4
 parent: src_kangourou_2017_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (finale Cervia) — Quesito E4
 
 *Conviene scegliere 9 o 10 nel gioco dei dadi*
 

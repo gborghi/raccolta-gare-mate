@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q10
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 10
 
 *10-digit number 9876543210, count new numbers obtained by swapping disjoint adjacent-digit pairs*
 

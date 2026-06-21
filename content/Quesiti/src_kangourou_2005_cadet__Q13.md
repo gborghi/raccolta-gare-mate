@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q13
 parent: src_kangourou_2005_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 13
 
 *Lunghezza AB su griglia con teorema di Pitagora*
 

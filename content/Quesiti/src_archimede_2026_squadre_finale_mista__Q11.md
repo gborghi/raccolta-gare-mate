@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q11
 parent: src_archimede_2026_squadre_finale_mista
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 11
 
 *Area carta nera visibile dopo pieghe del quadrato*
 

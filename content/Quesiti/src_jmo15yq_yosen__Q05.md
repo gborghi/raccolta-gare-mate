@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo15yq_yosen__Q05
 parent: src_jmo15yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 5
 
 *Count unordered triples of distinct positive integers with product equal to 12 times sum*
 

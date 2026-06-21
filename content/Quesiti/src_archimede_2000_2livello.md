@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000
 tipo: gara
 src_id: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -15,8 +16,6 @@ tags:
   - anno/2000
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000
 
 Sorgente: `Archimede/individuale/2livello/2000/febbraio2000.pdf` · apri PDF
 

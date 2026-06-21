@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q07
 parent: src_jjmo3q
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 7
 
 *Fill 3x3 grid so every row and column product is 2005*
 

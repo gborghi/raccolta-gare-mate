@@ -104,7 +104,7 @@ for (const file of files) {
     tags.push(fam.garaTag)
     if (score != null && score <= 2) tags.push("qa/da-verificare")
     const clusters = [...new Set(topics.map((t) => T2C[t]).filter(Boolean))]
-    const fm = ["---", "tipo: quesito", `quesito_id: quesito_${qfile}`, `parent: ${src}`,
+    const fm = ["---", `title: "${ysafe(title)} — Quesito ${pn}"`, "tipo: quesito", `quesito_id: quesito_${qfile}`, `parent: ${src}`,
       `competition: "${title}"`, `family: ${family}`, `year: ${year}`, `level: "${level}"`,
       "country: Francia", `modalita: "${fam.modalita}"`]
     if (family === "coupe_animath" && extra) fm.push(`stagione: "${extra}"`)
@@ -115,7 +115,7 @@ for (const file of files) {
     if (methods.length) fm.push("methods: [" + methods.join(", ") + "]")
     if (skills.length) fm.push("skills: [" + skills.join(", ") + "]")
     fm.push("tags: [" + tags.join(", ") + "]", "---")
-    const body = [fm.join("\n"), "", `# ${title} — Quesito ${pn}`, "", `*${q.summary || ""}*`, "",
+    const body = [fm.join("\n"), "", `*${q.summary || ""}*`, "",
       "> " + String(q.statement || "").replace(/\n/g, "\n> "), ""]
     const figs = figuresFor(qfile)
     for (const img of figs) body.push(`![[${img}]]`, "")
@@ -133,10 +133,10 @@ for (const file of files) {
   }
   const tags = ["kg/gara", "paese/francia", `comp/${fam.compSlug}`, `anno/${year}`, fam.garaTag]
   if (family === "coupe_animath" && extra) tags.push(`stagione/${extra}`)
-  const gi = ["---", "tipo: gara", `src_id: ${src}`, `competition: "${title}"`, `family: ${family}`,
+  const gi = ["---", `title: "${ysafe(title)}"`, "tipo: gara", `src_id: ${src}`, `competition: "${title}"`, `family: ${family}`,
     `year: ${year}`, `level: "${level}"`, "country: Francia", `modalita: "${fam.modalita}"`,
     ...(family === "coupe_animath" && extra ? [`stagione: "${extra}"`] : []),
-    `n_quesiti: ${index.length}`, `tags: [${tags.join(", ")}]`, "---", "", `# ${title}`, ""]
+    `n_quesiti: ${index.length}`, `tags: [${tags.join(", ")}]`, "---", ""]
   if (pdf) gi.push(`Sorgente: [apri PDF](<../../${pdf}>)\n`)
   for (const [pn, qfile, summ] of index.sort((a, b) => a[0] - b[0])) gi.push(`- [[${qfile}|Quesito ${pn}]] — ${summ}`)
   await fs.writeFile(path.join(QDIR, src + ".md"), gi.join("\n").trimEnd() + "\n")

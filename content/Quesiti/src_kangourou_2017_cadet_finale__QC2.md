@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (finale Cervia) — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC2
 parent: src_kangourou_2017_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (finale Cervia) — Quesito C2
 
 *Conviene scegliere 9 o 10 nel gioco dei dadi*
 

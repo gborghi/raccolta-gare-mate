@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo16yq_yosen__Q09
 parent: src_jjmo16yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 9
 
 *Count colorings of 8 unit cubes (red/yellow faces) satisfying two 2x2x2 assembly conditions*
 

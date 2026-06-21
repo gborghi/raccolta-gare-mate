@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q02
 parent: src_kangourou_2013_student
@@ -25,8 +26,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 2
 
 *Raggio del cerchio inscritto nell’ottagono regolare*
 

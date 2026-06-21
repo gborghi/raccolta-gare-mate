@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_biennio__Q13
 parent: src_archimede_2022_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Biennio — Quesito 13
 
 *Ultimo numero della centesima riga saltando multipli di 5*
 

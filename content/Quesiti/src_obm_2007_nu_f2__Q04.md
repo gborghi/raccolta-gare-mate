@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2 —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2007_nu_f2__Q04
 parent: src_obm_2007_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2 — Quesito 4
 
 *Continuous f with f∘f=exp grows faster than any polynomial*
 

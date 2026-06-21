@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier__Q23
 parent: src_kangourou_2005_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo) — Quesito 23
 
 *Quale cubo ammette lo sviluppo dato*
 

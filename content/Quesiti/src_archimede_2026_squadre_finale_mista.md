@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Finale Nazionale
 tipo: gara
 src_id: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2026/finale_mista_2026_testi.pdf` · apri PDF
 

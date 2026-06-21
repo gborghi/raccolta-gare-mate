@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n1_f2__Q07
 parent: src_obm_2005_n1_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 7
 
 *Areas of squares IJKL and MNOP from right-triangle arrangement*
 

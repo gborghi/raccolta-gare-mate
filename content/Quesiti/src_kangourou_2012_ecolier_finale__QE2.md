@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier_finale__QE2
 parent: src_kangourou_2012_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E2
 
 *A che ora e stata scattata la foto con quattro orologi*
 

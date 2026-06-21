@@ -1,4 +1,5 @@
 ---
+title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1982__Q05
 parent: src_imo_1982
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1982 (23rd International Mathematical Olympiad) — Quesito 5
 
 *Find ratio r making B, M, N collinear in hexagon*
 

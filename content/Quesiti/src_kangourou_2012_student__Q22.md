@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q22
 parent: src_kangourou_2012_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 22
 
 *Confronto volumi ellissoidi di rotazione attorno agli assi*
 

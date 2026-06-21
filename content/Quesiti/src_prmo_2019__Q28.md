@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q28
 parent: src_prmo_2019
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 28
 
 *Largest integer not exceeding r1+r2+r3 for incircle corner triangles*
 

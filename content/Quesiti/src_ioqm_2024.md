@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
 tipo: gara
 src_id: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024
 
 Sorgente: apri PDF
 

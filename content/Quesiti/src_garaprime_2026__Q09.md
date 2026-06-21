@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_garaprime_2026__Q09
 parent: src_garaprime_2026
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026 — Quesito 9
 
 *Area del triangolo AEH suddiviso da punti sui lati*
 

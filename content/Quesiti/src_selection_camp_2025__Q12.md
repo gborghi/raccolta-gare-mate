@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2025__Q12
 parent: src_selection_camp_2025
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2025 — Selection Camp — Quesito 12
 
 *Sequence with max-min spread 1 over any p+1 and any q+1 consecutive terms*
 

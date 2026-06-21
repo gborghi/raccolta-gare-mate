@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1995 (36th IMO, Toronto) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1995__Q05
 parent: src_imo_1995
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1995 (36th IMO, Toronto) — Quesito 5
 
 *Hexagon inequality AG+GB+GH+DH+HE>=CF*
 

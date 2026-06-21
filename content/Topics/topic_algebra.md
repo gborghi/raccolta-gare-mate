@@ -1,11 +1,10 @@
 ---
+title: Algebra
 tipo: topic
 concept_id: topic_algebra
 tags:
   - graph/topic
 ---
-
-# Algebra
 
 *topic* — **1504** quesiti (italiani).
 

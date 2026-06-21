@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q13
 parent: src_archimede_2001_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 13
 
 *Area del triangolo BEF con due equilateri esterni al quadrato*
 

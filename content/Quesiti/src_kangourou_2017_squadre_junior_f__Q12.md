@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q12
 parent: src_kangourou_2017_squadre_junior_f
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 12
 
 *Superficie minima incollando cubi 1, 8 e 27*
 

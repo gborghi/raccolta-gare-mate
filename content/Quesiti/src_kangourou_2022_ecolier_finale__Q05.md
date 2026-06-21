@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q05
 parent: src_kangourou_2022_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito 5
 
 *Lunghezza totale del nastro del pacco regalo*
 

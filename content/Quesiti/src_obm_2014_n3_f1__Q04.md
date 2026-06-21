@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n3_f1__Q04
 parent: src_obm_2014_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 4
 
 *Area of quadrilateral formed by apexes of equilateral triangles on a unit square*
 

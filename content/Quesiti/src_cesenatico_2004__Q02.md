@@ -1,4 +1,5 @@
 ---
+title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004__Q02
 parent: src_cesenatico_2004
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 2
 
 *Luogo dei punti di tangenza di coppie di circonferenze tra due rette*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior (18 marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior__Q11
 parent: src_kangourou_2004_junior
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior (18 marzo) — Quesito 11
 
 *Possibile prodotto di cinque scelte da 1,2,4*
 

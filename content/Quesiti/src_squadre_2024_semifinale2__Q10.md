@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 2 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale2__Q10
 parent: src_squadre_2024_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 2 — Quesito 10
 
 *Lato AC con cerchi inscritti congruenti, altezza 240*
 

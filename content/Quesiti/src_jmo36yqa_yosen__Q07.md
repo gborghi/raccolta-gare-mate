@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo36yqa_yosen__Q07
 parent: src_jmo36yqa_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 7
 
 *Count seating arrangements of students on 2026 benches after a two-rule migration process*
 

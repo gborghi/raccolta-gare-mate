@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q09
 parent: src_archimede_1996_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 9
 
 *Giorno di nascita in anno con 53 sabati e domeniche*
 

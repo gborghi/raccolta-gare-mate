@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q20
 parent: src_prmo_2015_a
@@ -35,8 +36,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 20
 
 *Sum of remainders mod 37 for four-consecutive-decreasing-digit numbers*
 

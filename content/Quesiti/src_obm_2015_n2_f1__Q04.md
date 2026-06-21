@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n2_f1__Q04
 parent: src_obm_2015_n2_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 4
 
 *Possible date of Marta's birthday given Mother's Day constraint*
 

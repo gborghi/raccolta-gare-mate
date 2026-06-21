@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q09
 parent: src_archimede_2020_riserva_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 9
 
 *Massimo numero di cavalieri ai tavoli con vincolo sui vicini*
 

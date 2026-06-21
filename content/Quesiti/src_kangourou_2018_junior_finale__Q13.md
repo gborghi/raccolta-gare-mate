@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q13
 parent: src_kangourou_2018_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 13
 
 *Valore di m^3+n^5 dato m^5+n^3=7901*
 

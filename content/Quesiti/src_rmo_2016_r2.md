@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 2
 tipo: gara
 src_id: src_rmo_2016_r2
 competition: Regional Mathematical Olympiad 2016 — Region 2
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/r2
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 2
 
 Sorgente: apri PDF
 

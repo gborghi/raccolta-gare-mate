@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo15yq_yosen__Q06
 parent: src_jjmo15yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 6
 
 *Two circles tangent to two lines; find TU given PT=1 and a midpoint condition*
 

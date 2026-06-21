@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n1_fx__Q03
 parent: src_obm_2025_n1_fx
@@ -42,8 +43,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 3
 
 *Two players alternately cross out numbers from 1 to 25; you lose if your move leaves three remaining numbers with sum divisible by 3. Analyze a position and decide who wins from the start.*
 

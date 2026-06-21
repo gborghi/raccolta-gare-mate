@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f3__Q01
 parent: src_obm_2008_n1_f3
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 1
 
 *Square of side 12 split into 7 rectangles; identify and find area of highlighted square*
 

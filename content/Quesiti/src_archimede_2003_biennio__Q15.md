@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q15
 parent: src_archimede_2003_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 15
 
 *Quanti n con 8n+50 multiplo di 2n+1*
 

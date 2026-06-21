@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q15
 parent: src_garaprime_2018
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 15
 
 *Gioco della tavoletta di cioccolato, mossa vincente*
 

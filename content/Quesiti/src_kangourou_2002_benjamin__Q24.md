@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_benjamin__Q24
 parent: src_kangourou_2002_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2002 - Benjamin (21 marzo) — Quesito 24
 
 *Lunghezza salita data differenza tempi*
 

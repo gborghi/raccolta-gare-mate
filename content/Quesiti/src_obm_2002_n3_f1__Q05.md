@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q05
 parent: src_obm_2002_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 5
 
 *Choosing cheapest transport for a school trip: rented vans vs hired buses, find minimum N children*
 

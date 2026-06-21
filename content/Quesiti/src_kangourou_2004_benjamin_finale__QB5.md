@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin finale nazionale — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB5
 parent: src_kangourou_2004_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin finale nazionale — Quesito B5
 
 *Quante coppie regolari nell'orologio*
 

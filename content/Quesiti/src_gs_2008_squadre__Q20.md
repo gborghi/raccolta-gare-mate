@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q20
 parent: src_gs_2008_squadre
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 20
 
 *Numero massimo di megaliti su lunghezza data*
 

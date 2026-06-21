@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q09
 parent: src_jjmo1q
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 9
 
 *Count 4-tuples of positive integers satisfying two symmetric equations*
 

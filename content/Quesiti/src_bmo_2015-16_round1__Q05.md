@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2015-16 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2015-16_round1__Q05
 parent: src_bmo_2015-16_round1
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2015-16 — Round 1 — Quesito 5
 
 *Triangle altitude foot; four perpendicular feet are concyclic.*
 

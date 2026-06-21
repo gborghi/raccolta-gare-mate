@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q12
 parent: src_kangourou_2020_pre_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 12
 
 *Numero sul petalo nascosto con somme uguali*
 

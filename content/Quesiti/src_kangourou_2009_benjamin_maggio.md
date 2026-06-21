@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Benjamin finale nazionale (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2009_benjamin_maggio
 competition: Kangourou 2009 - Benjamin finale nazionale (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/individuale
 ---
-
-# Kangourou 2009 - Benjamin finale nazionale (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2009/BMaggio-09.pdf` · apri PDF
 

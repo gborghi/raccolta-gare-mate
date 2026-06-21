@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q06
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 6
 
 *Coppie di interi positivi con x+2^y=2^10*
 

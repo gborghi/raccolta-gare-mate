@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q26
 parent: src_kangourou_2020_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 26
 
 *Massimo numeri carini consecutivi (cifra centrale > somma altre)*
 

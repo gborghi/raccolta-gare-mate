@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q07
 parent: src_gas_2009_semifinale_a
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 7
 
 *Ultime 4 cifre numeratore frazione minima con ab=43!*
 

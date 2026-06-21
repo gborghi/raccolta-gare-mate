@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2024__Q01
 parent: src_cesenatico_2024
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 1
 
 *esiste n con xn+2=xn*
 

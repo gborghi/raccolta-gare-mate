@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q14
 parent: src_garaprime_2024
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 14
 
 *Quanti numeri tra 2 e 900 hanno esattamente 3 divisori*
 

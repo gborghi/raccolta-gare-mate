@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1991-92 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1991-92_round1__Q01
 parent: src_bmo_1991-92_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1991-92 — Round 1 — Quesito 1
 
 *Count non-zero digits of n vs n²; two-digit and three-digit cases*
 

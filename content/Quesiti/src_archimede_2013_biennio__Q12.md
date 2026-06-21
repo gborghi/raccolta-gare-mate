@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q12
 parent: src_archimede_2013_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 12
 
 *Area cerchio non coperta da triangolo equilatero*
 

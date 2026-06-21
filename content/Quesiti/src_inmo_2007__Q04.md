@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2007 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2007__Q04
 parent: src_inmo_2007
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2007 — Quesito 4
 
 *Count permutations of (1,...,n) with exactly two inversions*
 

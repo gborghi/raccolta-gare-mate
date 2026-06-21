@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f1__Q12
 parent: src_obm_2013_n3_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 12
 
 *Circle through A..E, diameter AB perpendicular to chord CD, angle BCE=35; find angle DAE*
 

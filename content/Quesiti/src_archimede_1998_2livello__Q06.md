@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q06
 parent: src_archimede_1998_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 6
 
 *Affermazione non deducibile su polinomio a valori interi*
 

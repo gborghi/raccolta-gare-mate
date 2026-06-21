@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2006 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2006__Q04
 parent: src_inmo_2006
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2006 — Quesito 4
 
 *46 red squares on 9x9 board: at least 3 red in every 2x2 block*
 

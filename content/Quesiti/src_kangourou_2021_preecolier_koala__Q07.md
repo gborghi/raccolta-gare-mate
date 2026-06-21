@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q07
 parent: src_kangourou_2021_preecolier_koala
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 7
 
 *quanti tengono la mano con la destra*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2010 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2010_printemps__Q03
 parent: src_canimath_2010_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2010 — Quesito 3
 
 *Find all integers 1<x<y<z whose symmetric sum equals 2009*
 

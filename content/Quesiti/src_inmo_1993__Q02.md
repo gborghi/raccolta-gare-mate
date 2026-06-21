@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1993 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1993__Q02
 parent: src_inmo_1993
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1993 — Quesito 2
 
 *Quadratic polynomial with integer values at consecutive integers*
 

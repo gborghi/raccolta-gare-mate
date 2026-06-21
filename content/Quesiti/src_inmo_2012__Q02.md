@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2012 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2012__Q02
 parent: src_inmo_2012
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2012 — Quesito 2
 
 *Two prime sets with equal span 8; prove 30 divides difference of smallest elements*
 

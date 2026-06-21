@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier finale nazionale — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier_finale__QE5
 parent: src_kangourou_2003_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier finale nazionale — Quesito E5
 
 *Inserire 1..9 con somme 20 attorno ai vertici*
 

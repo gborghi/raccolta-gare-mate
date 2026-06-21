@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n3_f1__Q11
 parent: src_obm_2014_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 11
 
 *Count triangular trimino pieces with non-decreasing clockwise vertex labels 0-5*
 

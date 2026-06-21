@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo25yq_yosen__Q04
 parent: src_jmo25yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 4
 
 *Count 3×3 fillings with 1–9 where every row and column sum is divisible by 3*
 

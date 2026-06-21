@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2002 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2002__Q06
 parent: src_inmo_2002
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2002 — Quesito 6
 
 *Bound on diagonal entries of increasing $n\times n$ array*
 

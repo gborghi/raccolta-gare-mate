@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f1__Q19
 parent: src_obm_2004_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 19
 
 *Maximum number of 0.8m cubes stacked in a corner that a 1.80m person outside can see through a glass door.*
 

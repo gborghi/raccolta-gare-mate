@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q20
 parent: src_cesenatico_2007_squadre_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 20
 
 *Massimo numero turni del gioco della palla (permutazioni)*
 

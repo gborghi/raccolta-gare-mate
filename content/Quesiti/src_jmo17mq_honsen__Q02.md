@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo17mq_honsen__Q02
 parent: src_jmo17mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 2
 
 *Characterize functions satisfying a double functional inequality*
 

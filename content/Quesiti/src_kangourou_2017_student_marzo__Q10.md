@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Gara 16 marzo — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q10
 parent: src_kangourou_2017_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Gara 16 marzo — Quesito 10
 
 *Funzione con piu punti comuni a f(x)=x*
 

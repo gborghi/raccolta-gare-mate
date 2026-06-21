@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_gas_2010_pubblico__Q08
 parent: src_gas_2010_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Gara del Pubblico — Quesito 8
 
 *Valore atteso tessere con numero primo prima della rossa*
 

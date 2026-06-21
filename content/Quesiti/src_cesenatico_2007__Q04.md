@@ -1,4 +1,5 @@
 ---
+title: XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007__Q04
 parent: src_cesenatico_2007
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 4
 
 *massimo euro garantiti*
 

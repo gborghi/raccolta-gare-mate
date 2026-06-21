@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q20
 parent: src_kangourou_2004_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 20
 
 *Penultima cifra di 11^2004*
 

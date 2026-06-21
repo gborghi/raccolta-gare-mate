@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q09
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 9
 
 *Valore medio di n a fine gioco dei cavalli su scacchiera 3x3*
 

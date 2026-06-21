@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_tfjm_2020__Q08
 parent: src_tfjm_2020
@@ -37,8 +38,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 8
 
 *Self-replicating robots on modular planet galaxies and improper distributions*
 

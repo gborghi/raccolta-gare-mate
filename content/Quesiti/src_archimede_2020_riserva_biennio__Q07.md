@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q07
 parent: src_archimede_2020_riserva_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 7
 
 *Area quadrilatero EMDN da trisezione e punti medi*
 

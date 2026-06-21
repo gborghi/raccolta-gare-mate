@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2014 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_printemps__Q07
 parent: src_canimath_2014_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2014 — Quesito 7
 
 *Integer sequences satisfying x_10 ≤ 2(x_1+…+x_9) with 10 terms*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q01
 parent: src_archimede_2015_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 1
 
 *Valori possibili della somma di 200 dadi 2/5*
 

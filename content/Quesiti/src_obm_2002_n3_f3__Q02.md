@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f3__Q02
 parent: src_obm_2002_n3_f3
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 2
 
 *Convex cyclic quadrilateral ABCD with point M on CD; triangles ADM and ABCM have equal area and perimeter*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (finale Cervia) — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_finale__QJ5
 parent: src_kangourou_2016_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (finale Cervia) — Quesito J5
 
 *Coordinate di un vertice del cubo dati tre vertici*
 

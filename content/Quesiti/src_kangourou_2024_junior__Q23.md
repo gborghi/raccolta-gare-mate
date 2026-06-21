@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q23
 parent: src_kangourou_2024_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 23
 
 *Valore minimo di S con S tripla della somma cifre di N+1*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni
 tipo: gara
 src_id: src_cesenatico_2017
 competition: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni
 
 Sorgente: `Archimede/individuale/nazionale/2017/Cesenatico2017.pdf` · apri PDF
 

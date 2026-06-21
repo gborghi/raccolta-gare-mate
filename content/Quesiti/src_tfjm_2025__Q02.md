@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_tfjm_2025__Q02
 parent: src_tfjm_2025
@@ -36,8 +37,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 2
 
 *Water flows down a triangular network of toboggan pipes (types I, X, Z) splitting and merging; determine which inflow/outflow distributions are achievable.*
 

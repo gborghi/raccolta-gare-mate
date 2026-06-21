@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q20
 parent: src_kangourou_2024_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 20
 
 *Valore dell'espressione con figure-cifre*
 

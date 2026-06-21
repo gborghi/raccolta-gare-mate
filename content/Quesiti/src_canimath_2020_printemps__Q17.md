@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q17
 parent: src_canimath_2020_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 17
 
 *Smallest n to place black cells in an n x n grid, k per row and column, no two sharing a side or corner*
 

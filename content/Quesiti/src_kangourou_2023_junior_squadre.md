@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 1
 tipo: gara
 src_id: src_kangourou_2023_junior_squadre
 competition: Kangourou Squadre 2023 Junior Finale 1
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 1
 
 Sorgente: `Kangaroo/kangourou_squadre/2023/SQJunior2023F1.pdf` · apri PDF
 

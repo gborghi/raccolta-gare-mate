@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q02
 parent: src_obm_2009_n2_f1
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 2
 
 *Regular hexagon from toothpicks; hexagon with 4x area needs how many toothpicks*
 

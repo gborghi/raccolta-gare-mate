@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n1_f1__Q10
 parent: src_obm_2001_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 10
 
 *Identify the correct figure showing the positions of 2001 and 2000 in a two-row decorative number strip*
 

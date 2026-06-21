@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q12
 parent: src_canimath_2020_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 12
 
 *With min x_i >= max y_i, prove P <= G <= 2P for P=max(x_i-y_i), G=max x_i - min y_i*
 

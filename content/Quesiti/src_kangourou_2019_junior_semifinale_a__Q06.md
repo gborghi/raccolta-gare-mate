@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q06
 parent: src_kangourou_2019_junior_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 6
 
 *30 con p q primi*
 

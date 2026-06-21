@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q12
 parent: src_cesenatico_2004_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 12
 
 *Somma interi n con (n-1)/(401-n) quadrato perfetto*
 

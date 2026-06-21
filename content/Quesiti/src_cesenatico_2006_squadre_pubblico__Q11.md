@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q11
 parent: src_cesenatico_2006_squadre_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 11
 
 *Disposizione dado che minimizza spread numeri magici*
 

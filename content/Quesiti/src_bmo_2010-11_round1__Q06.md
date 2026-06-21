@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round1__Q06
 parent: src_bmo_2010-11_round1
@@ -34,8 +35,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 1 — Quesito 6
 
 *Integers a,b,c with a^2+b^2-c^2=ab-bc-ca; prove triangle with 60 degree angle*
 

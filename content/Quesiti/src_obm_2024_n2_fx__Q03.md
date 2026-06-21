@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n2_fx__Q03
 parent: src_obm_2024_n2_fx
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 3
 
 *Longest guaranteed increasing path in 10×10 grid with 1–100*
 

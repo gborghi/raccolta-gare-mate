@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q14
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 14
 
 *Quale cubo puo aver costruito Maria (10/9/8 cubetti)*
 

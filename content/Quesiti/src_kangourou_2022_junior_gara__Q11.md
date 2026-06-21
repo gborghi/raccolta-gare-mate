@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q11
 parent: src_kangourou_2022_junior_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 11
 
 *Area della regione ombreggiata con cerchi grandi e piccoli*
 

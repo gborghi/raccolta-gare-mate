@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Student (15 marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_student__Q07
 parent: src_kangourou_2001_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2001 - Student (15 marzo) — Quesito 7
 
 *Relazione tra x e y aree con parallele*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q15
 parent: src_prmo_2015_b
@@ -33,8 +34,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 15
 
 *Largest integer product of 3 distinct primes x,y,z equal to digit counts*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo25yq_yosen__Q08
 parent: src_jmo25yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 8
 
 *Find PQ where Q is the second intersection of circumcircles of triangles PAC and PBD*
 

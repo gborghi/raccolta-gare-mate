@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1993-94 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1993-94_round2__Q02
 parent: src_bmo_1993-94_round2
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1993-94 — Round 2 — Quesito 2
 
 *Count non-congruent triangles with integer sides and perimeter 1994*
 

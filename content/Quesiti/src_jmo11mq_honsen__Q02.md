@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo11mq_honsen__Q02
 parent: src_jmo11mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 2
 
 *Digit-product map f(n); find all positive integers n with f(n)=n*
 

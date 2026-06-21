@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2019-20 — Round 1
 tipo: gara
 src_id: src_bmo_2019-20_round1
 competition: British Mathematical Olympiad 2019-20 — Round 1
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2019-20 — Round 1
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f1__Q06
 parent: src_obm_2009_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 6
 
 *Convolution recurrence with a_0=0, a_1=pi/3; compute the sum of a_k/2^k*
 

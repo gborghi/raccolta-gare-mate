@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_preecolier__Q21
 parent: src_kangourou_2013_preecolier
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier — Quesito 21
 
 *Piastrelle utilizzabili per ricomporre il muro (annullato)*
 

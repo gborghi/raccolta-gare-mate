@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo29mq_honsen__Q03
 parent: src_jmo29mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 3
 
 *Functional equation over positive reals*
 

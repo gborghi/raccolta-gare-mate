@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q11
 parent: src_archimede_2017_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 11
 
 *Area triangolo AEH con punti di trisezione/quadrisezione*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f1__Q24
 parent: src_obm_2014_n2_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 24
 
 *Count ways to fill 2×2014 Bitonho table with 0s and 1s*
 

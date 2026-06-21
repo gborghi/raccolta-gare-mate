@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1989-90 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1989-90_round1__Q01
 parent: src_bmo_1989-90_round1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1989-90 — Round 1 — Quesito 1
 
 *Find positive integer whose first digit is 1, tripled when moved to end*
 

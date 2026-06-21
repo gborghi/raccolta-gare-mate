@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q20
 parent: src_archimede_2013_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 20
 
 *Numero minimo di tessere a Z per coprire griglia 5x5*
 

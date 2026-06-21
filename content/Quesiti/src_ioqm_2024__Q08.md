@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q08
 parent: src_ioqm_2024
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 8
 
 *First two digits of smallest n with digit-sum conditions on n and n+1*
 

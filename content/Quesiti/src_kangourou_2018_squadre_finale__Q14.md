@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2018 Finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q14
 parent: src_kangourou_2018_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2018 Finale — Quesito 14
 
 *Probabilita somma 7 con due dadi non standard*
 

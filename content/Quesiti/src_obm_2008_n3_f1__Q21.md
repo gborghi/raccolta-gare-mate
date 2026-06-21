@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f1__Q21
 parent: src_obm_2008_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 21
 
 *Count functions f(x)=cx/(2x+3) with f(f(x))=x for all x*
 

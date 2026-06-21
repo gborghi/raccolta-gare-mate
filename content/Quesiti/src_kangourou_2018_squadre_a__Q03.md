@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q03
 parent: src_kangourou_2018_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2018 Semifinale A — Quesito 3
 
 *Allineamenti possibili 1-14 con condizione max/min*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f2__Q09
 parent: src_obm_2008_n3_f2
@@ -37,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 9
 
 *Minimize product of 2008 entries of 2008×2008 matrix (i+j), one per row and column*
 

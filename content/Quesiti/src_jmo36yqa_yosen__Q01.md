@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo36yqa_yosen__Q01
 parent: src_jmo36yqa_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 1
 
 *Find non-negative integer triples with a^20+b^2+c^6=2026*
 

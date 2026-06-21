@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n2_f1__Q14
 parent: src_obm_2012_n2_f1
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 14
 
 *Distance traveled by a golf/soccer ball following a semicircular path*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 4 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r4__Q04
 parent: src_rmo_2014_r4
@@ -34,8 +35,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 4 — Quesito 4
 
 *Minimum area of right-angled triangle with inradius 1*
 

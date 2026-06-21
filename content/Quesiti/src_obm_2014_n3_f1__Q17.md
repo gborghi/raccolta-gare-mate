@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n3_f1__Q17
 parent: src_obm_2014_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 17
 
 *Count fillings of a 2x2014 0/1 board under an equal-neighbor constraint*
 

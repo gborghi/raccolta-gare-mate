@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_mumbai__Q02
 parent: src_rmo_2013_mumbai
@@ -31,8 +32,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Mumbai — Quesito 2
 
 *Find all prime triples (p,q,r) with pq=r+1 and 2p^2+q^2=r^2+1*
 

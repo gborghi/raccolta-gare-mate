@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2015 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_printemps__Q06
 parent: src_canimath_2015_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2015 — Quesito 6
 
 *Floor-based f(n); find all integers n with f(n+1)>f(n)*
 

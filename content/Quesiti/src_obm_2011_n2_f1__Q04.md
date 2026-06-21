@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f1__Q04
 parent: src_obm_2011_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 4
 
 *Value of expression with squares of 20112011 and 20112003*
 

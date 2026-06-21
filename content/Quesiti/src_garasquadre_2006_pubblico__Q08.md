@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q08
 parent: src_garasquadre_2006_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 8
 
 *Ultima cifra non nulla di (5n)! per anni 2006-2009*
 

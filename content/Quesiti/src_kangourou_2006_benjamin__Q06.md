@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q06
 parent: src_kangourou_2006_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 6
 
 *Figura con angolo lancette di 150 gradi*
 

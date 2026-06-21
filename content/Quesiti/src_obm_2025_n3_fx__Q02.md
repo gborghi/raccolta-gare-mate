@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n3_fx__Q02
 parent: src_obm_2025_n3_fx
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 2
 
 *Acute triangle with circumcircle; concurrency/collinearity of specific intersection points*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo11yq_yosen__Q03
 parent: src_jjmo11yq_yosen
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 3
 
 *Angle in cyclic heptagon with five equal sides*
 

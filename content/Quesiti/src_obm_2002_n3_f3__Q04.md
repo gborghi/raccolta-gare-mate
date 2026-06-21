@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f3__Q04
 parent: src_obm_2002_n3_f3
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 4
 
 *Diameter of a nonempty subset of {1,...,n} defined as difference of max and min; sum of diameters of all nonempty subsets*
 

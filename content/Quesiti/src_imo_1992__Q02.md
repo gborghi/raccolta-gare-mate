@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 2'
 tipo: quesito
 quesito_id: quesito_src_imo_1992__Q02
 parent: src_imo_1992
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1992 (33rd IMO, Moscow) — Quesito 2
 
 *Find all f with f(x^2+f(y))=y+f(x)^2*
 

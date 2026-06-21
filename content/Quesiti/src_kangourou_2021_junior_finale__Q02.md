@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q02
 parent: src_kangourou_2021_junior_finale
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 2
 
 *Massimo n con 4^27+4^1025+4^n quadrato perfetto*
 

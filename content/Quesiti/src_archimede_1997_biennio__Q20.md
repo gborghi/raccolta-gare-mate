@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Biennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_biennio__Q20
 parent: src_archimede_1997_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Biennio — Quesito 20
 
 *Probabilita che un ragazzo resti senza giocattoli*
 

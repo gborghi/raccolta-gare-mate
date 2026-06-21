@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_inmo_1991__Q09
 parent: src_inmo_1991
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991 — Quesito 9
 
 *Incircle tangent construction: triangle AB'C' similar to ABC*
 

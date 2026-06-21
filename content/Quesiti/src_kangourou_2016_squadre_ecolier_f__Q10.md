@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q10
 parent: src_kangourou_2016_squadre_ecolier_f
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 10
 
 *Prodotto di due dispari consecutivi con somma 196*
 

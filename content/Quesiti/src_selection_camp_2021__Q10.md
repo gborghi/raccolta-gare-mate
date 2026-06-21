@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2021__Q10
 parent: src_selection_camp_2021
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2021 — Selection Camp — Quesito 10
 
 *Infinitely many primes whose island-bridge graph is disconnected*
 

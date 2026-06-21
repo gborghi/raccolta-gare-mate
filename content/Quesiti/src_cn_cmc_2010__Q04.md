@@ -1,0 +1,43 @@
+---
+title: China Mathematical Competition 2010 — Quesito 4
+tipo: quesito
+quesito_id: quesito_src_cn_cmc_2010__Q04
+parent: src_cn_cmc_2010
+competition: China Mathematical Competition 2010
+family: cmc
+year: '2010'
+level: China Mathematical Competition
+country: Cina
+modalita: individuale
+quesito: '4'
+summary: Arithmetic and geometric sequences linked by a logarithmic identity
+qa_score: '2'
+answer: '$3+\sqrt[3]{3}$'
+topics:
+  - topic_algebra
+  - topic_aritmetica
+skills:
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/cina
+  - comp/cmc
+  - anno/2010
+  - livello/China-Mathematical-Competition
+  - topic/algebra
+  - topic/aritmetica
+  - gara/individuale
+  - qa/da-verificare
+---
+
+*Arithmetic and geometric sequences linked by a logarithmic identity*
+
+> It is known that $\{a_n\}$ is an arithmetic sequence with non-zero common difference and $\{b_n\}$ a geometric sequence, satisfying $a_1 = 3$, $b_1 = 1$, $a_2 = b_2$, $3a_5 = b_3$; furthermore, there are constants $\alpha$ and $\beta$ such that for every positive integer $n$, we have $a_n = \log_{\alpha} b_n + \beta$. Then $\alpha + \beta = $ ________.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** $3+\sqrt[3]{3}$
+**Fonte:** apri libro PDF
+
+> [!warning] Estratto da verificare con la fonte.

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_finale__Q11
 parent: src_cesenatico_2013_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 11
 
 *Prodotto numeri della ninna nanna (sistema)*
 

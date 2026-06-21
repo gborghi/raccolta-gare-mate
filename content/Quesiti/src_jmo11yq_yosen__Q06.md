@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo11yq_yosen__Q06
 parent: src_jmo11yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 6
 
 *Max distance from fixed point to line PQ with fixed quadrilateral area*
 

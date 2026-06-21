@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q08
 parent: src_kangourou_2017_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 8
 
 *Immagine del cubo non coerente con le altre*
 

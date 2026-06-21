@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q06
 parent: src_archimede_2012_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 6
 
 *Gara cavalli con mentitori e veritieri, chi e terzo*
 

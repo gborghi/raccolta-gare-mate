@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q14
 parent: src_kangourou_2019_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 14
 
 *Punti raggiungibili con tre mosse (invariante MCD)*
 

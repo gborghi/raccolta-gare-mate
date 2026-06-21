@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q10
 parent: src_archimede_2007_biennio
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 10
 
 *Semplificare radice 10 per radice di 15 piu radice 54*
 

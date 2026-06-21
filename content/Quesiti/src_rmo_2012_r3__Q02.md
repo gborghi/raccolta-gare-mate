@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r3__Q02
 parent: src_rmo_2012_r3
@@ -32,8 +33,6 @@ tags:
   - regione/r3
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 3 — Quesito 2
 
 *Divisibility: abc divides (a+b+c)^31 given chained divisibility*
 

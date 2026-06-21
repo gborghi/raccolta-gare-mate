@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q22
 parent: src_kangourou_2021_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 22
 
 *Massimo numero di pancakes con ingredienti dati*
 

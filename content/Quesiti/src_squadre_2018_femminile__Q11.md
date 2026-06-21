@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q11
 parent: src_squadre_2018_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 11
 
 *Coppie ordinate di sintomi con implicazione transitiva*
 

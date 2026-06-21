@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jmo26yq_yosen__Q10
 parent: src_jmo26yq_yosen
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 10
 
 *Minimum travel distance to visit 2016 points on a circle*
 

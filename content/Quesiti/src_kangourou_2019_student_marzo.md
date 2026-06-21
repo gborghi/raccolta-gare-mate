@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio)
 tipo: gara
 src_id: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/SMarzo-19.pdf` · apri PDF
 

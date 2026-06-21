@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q11
 parent: src_kangourou_2020_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 11
 
 *Valore a^3+b^3 dato a^3-b^3=485*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1975-76 — Round 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1975-76_round2__Q05
 parent: src_bmo_1975-76_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1975-76 — Round 2 — Quesito 5
 
 *Figure-of-eight curve with two hexagons properties*
 

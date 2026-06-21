@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q12
 parent: src_kangourou_2024_junior_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 2 — Quesito 12
 
 *Percentuale area S rispetto area T triangolo 3,4,5*
 

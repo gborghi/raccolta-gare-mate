@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q09
 parent: src_canimath_2025_automne
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 9
 
 *Right-triangle area equals sum of two lune-like regions between semicircles*
 

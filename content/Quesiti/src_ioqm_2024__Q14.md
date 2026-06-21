@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q14
 parent: src_ioqm_2024
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 14
 
 *Particles at (79,80) after 80 steps of splitting rule*
 

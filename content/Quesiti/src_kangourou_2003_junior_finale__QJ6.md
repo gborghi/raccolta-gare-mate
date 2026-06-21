@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior finale nazionale — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior_finale__QJ6
 parent: src_kangourou_2003_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior finale nazionale — Quesito J6
 
 *Numero autodescrittivo di dieci cifre*
 

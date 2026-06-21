@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q05
 parent: src_archimede_2015_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2015 - 2 livello — Quesito 5
 
 *Polinomi monici con MCD e mcm dati, scelte di p(x)*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo36yqa_yosen__Q06
 parent: src_jmo36yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 6
 
 *Find XY in a parallelogram given midpoint and intersection conditions with CE=DF=3*
 

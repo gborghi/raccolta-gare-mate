@@ -1,4 +1,5 @@
 ---
+title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004__Q05
 parent: src_cesenatico_2004
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 5
 
 *Enunciato su successioni reali decomposte in due con somme parziali*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q11
 parent: src_gas_2009_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 11
 
 *Ultime 4 cifre del prodotto dei dispari fino a 2009*
 

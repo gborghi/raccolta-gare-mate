@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior finale (maggio)
 tipo: gara
 src_id: src_kangourou_2006_junior_maggio
 competition: Kangourou 2006 Junior finale (maggio)
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior finale (maggio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2006/JMaggio-06.pdf` · apri PDF
 

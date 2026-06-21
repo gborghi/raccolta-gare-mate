@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q26
 parent: src_kangourou_2012_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 26
 
 *Numero di zeri tra 50 reali con 522 prodotti negativi*
 

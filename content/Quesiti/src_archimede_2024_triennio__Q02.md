@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q02
 parent: src_archimede_2024_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 2
 
 *Cavalieri e furfanti, voti di vantaggio minimo del vincitore*
 

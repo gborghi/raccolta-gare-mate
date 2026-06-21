@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Koala n.6 Pre-Ecolier
 tipo: gara
 src_id: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Koala n.6 Pre-Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/Koala2019REL.pdf` · apri PDF
 

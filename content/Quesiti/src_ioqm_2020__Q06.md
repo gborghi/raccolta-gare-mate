@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q06
 parent: src_ioqm_2020
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 6
 
 *Least positive integer to multiply 2^3·3^6·4^5·5^7·6^8 to get perfect square*
 

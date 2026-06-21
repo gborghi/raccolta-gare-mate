@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q27
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 27
 
 *Probabilita che la somma dei tre massimi sia 18*
 

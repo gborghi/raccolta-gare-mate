@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r2__Q06
 parent: src_rmo_2016_r2
@@ -34,8 +35,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 2 — Quesito 6
 
 *AP {1,4,7,...} has infinitely many 3-term HP subsequences with ratio condition*
 

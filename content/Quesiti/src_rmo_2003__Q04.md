@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2003 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2003__Q04
 parent: src_rmo_2003
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2003 — Quesito 4
 
 *Count ordered triples of nonneg integers with x≤y≤z, x+y+z≤100*
 

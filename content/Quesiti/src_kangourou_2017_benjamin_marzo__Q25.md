@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q25
 parent: src_kangourou_2017_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 25
 
 *Mosse di scambio di canguri che si guardano in faccia*
 

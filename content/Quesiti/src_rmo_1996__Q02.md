@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1996 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1996__Q02
 parent: src_rmo_1996
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1996 — Quesito 2
 
 *Find all positive integer triples (a,b,c) satisfying a product-of-fractions equation*
 

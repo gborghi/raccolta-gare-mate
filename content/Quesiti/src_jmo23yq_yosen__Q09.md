@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo23yq_yosen__Q09
 parent: src_jmo23yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 9
 
 *Divisors of 10^2013-1 between 1 and 100*
 

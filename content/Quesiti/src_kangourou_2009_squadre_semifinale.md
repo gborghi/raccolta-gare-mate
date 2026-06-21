@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale
 tipo: gara
 src_id: src_kangourou_2009_squadre_semifinale
 competition: Kangourou 2009 squadre semifinale
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale
 
 Sorgente: `Kangaroo/kangourou_squadre/2009/SQ-A-09.pdf` · apri PDF
 

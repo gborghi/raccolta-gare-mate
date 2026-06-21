@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Benjamin finale — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_benjamin_finale__QB5
 parent: src_kangourou_2025_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Benjamin finale — Quesito B5
 
 *Massimo numeri rossi somma di verde e blu (1-9)*
 

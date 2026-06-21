@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q02
 parent: src_kangourou_2022_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 2
 
 *Quanti cubi di lato 1cm nel cubo grande*
 

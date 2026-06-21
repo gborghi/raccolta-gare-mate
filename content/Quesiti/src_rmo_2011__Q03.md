@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2011 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2011__Q03
 parent: src_rmo_2011
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2011 — Quesito 3
 
 *Consecutive perfect squares; prove n-kl is a perfect square*
 

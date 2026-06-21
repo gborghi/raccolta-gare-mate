@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f1__Q10
 parent: src_obm_2003_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 10
 
 *Oscillating sequence 1,2,3,4,5,3,2 with period 7; term 2003*
 

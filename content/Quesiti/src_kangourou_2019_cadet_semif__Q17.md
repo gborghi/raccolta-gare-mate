@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q17
 parent: src_kangourou_2019_cadet_semif
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 17
 
 *Quanti allievi presenti date le differenze di eta media*
 

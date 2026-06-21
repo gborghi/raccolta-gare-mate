@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q07
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 7
 
 *Capacità del secchio (mezzo poi tre quarti)*
 

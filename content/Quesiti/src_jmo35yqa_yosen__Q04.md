@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q04
 parent: src_jmo35yqa_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 4
 
 *Count integers 1..1000 whose remainders mod 2,3,4,5,6 are pairwise distinct*
 

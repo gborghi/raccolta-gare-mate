@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo16mq_honsen__Q01
 parent: src_jmo16mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 1
 
 *Circle geometry: prove two arc-midpoint chords are equal*
 

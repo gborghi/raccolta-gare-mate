@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q09
 parent: src_kangourou_2013_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 9
 
 *Posizione lancetta a un terzo del viaggio*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior finale individuale — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_finale__QJ3
 parent: src_kangourou_2022_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior finale individuale — Quesito J3
 
 *Massimo numero di tessere 2x1 nella regione di 36 quadratini*
 

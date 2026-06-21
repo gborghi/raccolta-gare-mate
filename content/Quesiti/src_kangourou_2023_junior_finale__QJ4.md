@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ4
 parent: src_kangourou_2023_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J4
 
 *lunghezza traiettoria di P*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior finale nazionale — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior_finale__QJ6
 parent: src_kangourou_2004_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior finale nazionale — Quesito J6
 
 *Permutazione di 1..9 con divisibilita progressive*
 

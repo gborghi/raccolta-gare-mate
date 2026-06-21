@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_ecolier__Q20
 parent: src_kangourou_2002_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Ecolier (21 marzo) — Quesito 20
 
 *Minimo colori per il reticolo di cannucce*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1989 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_1989__Q05
 parent: src_inmo_1989
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1989 — Quesito 5
 
 *Show a/(b+c)+b/(c+a)+c/(a+b) lies strictly between 1/2 and 2*
 

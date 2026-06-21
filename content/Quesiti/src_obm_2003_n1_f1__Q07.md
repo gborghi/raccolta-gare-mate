@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f1__Q07
 parent: src_obm_2003_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 7
 
 *Rectangle divided into 7 squares; area of smallest given area of whole*
 

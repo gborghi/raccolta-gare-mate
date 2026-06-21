@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2017 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2017__Q06
 parent: src_inmo_2017
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2017 — Quesito 6
 
 *Integer n making x an integer with sides forming triangle of integer inradius*
 

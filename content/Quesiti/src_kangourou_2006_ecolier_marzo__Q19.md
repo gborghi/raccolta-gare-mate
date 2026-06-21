@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q19
 parent: src_kangourou_2006_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 19
 
 *Facce verniciate di struttura di 10 cubi*
 

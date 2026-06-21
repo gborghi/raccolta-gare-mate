@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n1_f1__Q11
 parent: src_obm_2001_n1_f1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 11
 
 *Express the price of a dozen oranges plus a dozen bananas in watermelons*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q19
 parent: src_ioqm_2022
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 19
 
 *String of n 1s, place + signs to sum to 1000, count valid n, find digit sum of count*
 

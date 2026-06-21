@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2014
 tipo: gara
 src_id: src_canimath_2014_printemps
 competition: Coupe Animath Printemps 2014
@@ -17,8 +18,6 @@ tags:
   - gara/individuale
   - stagione/printemps
 ---
-
-# Coupe Animath Printemps 2014
 
 Sorgente: apri PDF
 

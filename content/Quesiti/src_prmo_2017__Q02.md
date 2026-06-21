@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q02
 parent: src_prmo_2017
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 2
 
 *Find floor(a+b) given two radical equations in positive reals a,b*
 

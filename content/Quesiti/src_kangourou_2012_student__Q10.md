@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q10
 parent: src_kangourou_2012_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 10
 
 *Misura angolo alfa in stella regolare a 5 punte*
 

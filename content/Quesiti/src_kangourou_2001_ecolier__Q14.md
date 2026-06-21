@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q14
 parent: src_kangourou_2001_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 14
 
 *Quanti francobolli ha Arturo in piu*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q13
 parent: src_kangourou_2015_marzo_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Ecolier — Quesito 13
 
 *quanti modi*
 

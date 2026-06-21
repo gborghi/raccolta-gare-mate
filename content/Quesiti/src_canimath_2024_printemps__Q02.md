@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q02
 parent: src_canimath_2024_printemps
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 2
 
 *Parallelogram with equal segments, angle bisector perpendicular to KL*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q04
 parent: src_kangourou_2011_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 4
 
 *Numero giocatori torneo con 100 partite*
 

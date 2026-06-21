@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_biennio__Q13
 parent: src_archimede_2019_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1) — Quesito 13
 
 *Probabilita somma 8 con dado normale e dado speciale*
 

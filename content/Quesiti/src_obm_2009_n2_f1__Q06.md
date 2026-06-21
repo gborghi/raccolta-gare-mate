@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q06
 parent: src_obm_2009_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 6
 
 *Positive integers 15m=20n; certifiably n is a multiple of what*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q04
 parent: src_cesenatico_2011_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 4
 
 *Druidi e impostori (multiplo di 3 impostori)*
 

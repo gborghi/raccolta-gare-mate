@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q06
 parent: src_archimede_2017_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 6
 
 *ultimo rimasto*
 

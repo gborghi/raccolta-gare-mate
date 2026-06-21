@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo21yq_yosen__Q09
 parent: src_jmo21yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 9
 
 *Count color arrangements of 12 marbles in a row with adjacency condition*
 

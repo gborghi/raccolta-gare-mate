@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Student — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q03
 parent: src_kangourou_2015_marzo_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Student — Quesito 3
 
 *Quante soluzioni ha 2^(2x)=4^(x+1)*
 

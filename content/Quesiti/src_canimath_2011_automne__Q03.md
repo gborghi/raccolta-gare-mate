@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2011 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_automne__Q03
 parent: src_canimath_2011_automne
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2011 — Quesito 3
 
 *Twelve candidates each announcing cumulative number of lies, determine total lies*
 

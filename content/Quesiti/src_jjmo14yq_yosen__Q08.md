@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo14yq_yosen__Q08
 parent: src_jjmo14yq_yosen
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 8
 
 *Largest multiple of 37 with all distinct digits*
 

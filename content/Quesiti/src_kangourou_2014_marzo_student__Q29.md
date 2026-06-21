@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 gara 20 marzo Student — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q29
 parent: src_kangourou_2014_marzo_student
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2014 gara 20 marzo Student — Quesito 29
 
 *Z->Z con x f(x)=(x-3)f(x+1): prodotto f(4)...f(2014)*
 

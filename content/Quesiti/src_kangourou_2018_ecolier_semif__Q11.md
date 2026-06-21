@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q11
 parent: src_kangourou_2018_ecolier_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 11
 
 *Nuova somma scambiando due cifre tra 345 e 921*
 

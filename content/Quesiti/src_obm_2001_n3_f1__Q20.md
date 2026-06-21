@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q20
 parent: src_obm_2001_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 20
 
 *Right trapezoid ABCD with right angles A,B; M,N midpoints of AB,CD; compare angles ANB and CMD*
 

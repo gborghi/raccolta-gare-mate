@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q13
 parent: src_canimath_2021_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 13
 
 *100-digit number N; product of 100×99 pairwise digit sums equals N?*
 

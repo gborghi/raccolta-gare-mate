@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q17
 parent: src_kangourou_2024_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 17
 
 *Quanti numeri di due cifre con esattamente cinque punti neri (Braille)*
 

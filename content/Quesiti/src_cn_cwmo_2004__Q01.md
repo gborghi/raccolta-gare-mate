@@ -1,0 +1,42 @@
+---
+title: China Western Mathematical Olympiad 2004 — Quesito 1
+tipo: quesito
+quesito_id: quesito_src_cn_cwmo_2004__Q01
+parent: src_cn_cwmo_2004
+competition: China Western Mathematical Olympiad 2004
+family: cwmo
+year: '2004'
+level: China Western Mathematical Olympiad
+country: Cina
+modalita: individuale
+quesito: '1'
+summary: Find all integers n making a degree-4 polynomial a perfect square
+qa_score: '3'
+topics:
+  - topic_aritmetica
+methods:
+  - method_casework
+  - method_fattorizzazione
+skills:
+  - skill_manipolazione_algebrica
+  - skill_casework_accurato
+  - skill_stima
+tags:
+  - kg/quesito
+  - paese/cina
+  - comp/cwmo
+  - anno/2004
+  - livello/China-Western-Mathematical-Olympiad
+  - topic/aritmetica
+  - gara/individuale
+---
+
+*Find all integers n making a degree-4 polynomial a perfect square*
+
+> Find all integers $n$ such that $n^4 - 6n^3 + 11n^2 + 3n + 31$ is a perfect square.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri libro PDF

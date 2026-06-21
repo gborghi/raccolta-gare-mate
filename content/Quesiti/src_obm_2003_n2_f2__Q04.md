@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f2__Q04
 parent: src_obm_2003_n2_f2
@@ -38,8 +39,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 4
 
 *Find all 'powerful' numbers less than 100, where a number equals the product of its proper divisors*
 

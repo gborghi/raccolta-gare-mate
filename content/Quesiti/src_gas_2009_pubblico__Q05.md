@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q05
 parent: src_gas_2009_pubblico
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 5
 
 *Numero coefficienti possibili termine cubico, radici intere*
 

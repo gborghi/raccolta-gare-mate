@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q12
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 12
 
 *Numero minimo confezioni da 83 per biscotti in teglie da 68*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q04
 parent: src_archimede_2011_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 4
 
 *Valori di m+5n con m-n=7 tra 0 e 2011*
 

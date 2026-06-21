@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2007_nu_f2__Q05
 parent: src_obm_2007_nu_f2
@@ -33,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2 — Quesito 5
 
 *Count real symmetric square roots of a real symmetric matrix*
 

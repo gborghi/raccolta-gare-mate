@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q08
 parent: src_kangourou_2024_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 8
 
 *Quante strisce ottenibili cambiando colore a 4 quadrati*
 

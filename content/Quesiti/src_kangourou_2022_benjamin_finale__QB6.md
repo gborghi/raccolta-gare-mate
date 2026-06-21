@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin finale individuale — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_finale__QB6
 parent: src_kangourou_2022_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin finale individuale — Quesito B6
 
 *Minimo partite perche ognuno sia compagno di tutti*
 

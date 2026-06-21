@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Biennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_biennio__Q20
 parent: src_archimede_1999_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Biennio — Quesito 20
 
 *Quante cifre il minimo n per 20 con somma cifre per 1999*
 

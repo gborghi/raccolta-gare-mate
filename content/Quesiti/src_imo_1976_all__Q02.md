@@ -1,4 +1,5 @@
 ---
+title: IMO 1976 (Eighteenth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1976_all__Q02
 parent: src_imo_1976_all
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1976 (Eighteenth International Olympiad) — Quesito 2
 
 *Iterated polynomial P_n(x)=x has real distinct roots*
 

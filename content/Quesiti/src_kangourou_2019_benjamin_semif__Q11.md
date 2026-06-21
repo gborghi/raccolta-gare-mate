@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q11
 parent: src_kangourou_2019_benjamin_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 11
 
 *Valore di M numero a due cifre con M*k=2331*
 

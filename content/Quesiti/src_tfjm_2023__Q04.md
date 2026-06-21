@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_tfjm_2023__Q04
 parent: src_tfjm_2023
@@ -35,8 +36,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 4
 
 *Resolution-change operation on a strip of n notes producing m notes/silences; reachability and minimal operations, then 2D image version*
 

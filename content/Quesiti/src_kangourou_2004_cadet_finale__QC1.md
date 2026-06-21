@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet finale nazionale — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet_finale__QC1
 parent: src_kangourou_2004_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet finale nazionale — Quesito C1
 
 *Aumento superficie del solido scavato*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q04
 parent: src_kangourou_2018_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 4
 
 *Terzo di cinque numeri consecutivi con somma 10*2018*
 

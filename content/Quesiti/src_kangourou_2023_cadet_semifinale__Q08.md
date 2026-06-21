@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q08
 parent: src_kangourou_2023_cadet_semifinale
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Semifinale individuale — Quesito 8
 
 *somma minima*
 

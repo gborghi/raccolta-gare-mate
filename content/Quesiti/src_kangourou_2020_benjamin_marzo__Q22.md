@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q22
 parent: src_kangourou_2020_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 22
 
 *Distanza dal lato inferiore del quadrato intermedio*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f1__Q02
 parent: src_obm_2010_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 2
 
 *2% increase of smaller of two consecutive numbers gives the larger; find sum*
 

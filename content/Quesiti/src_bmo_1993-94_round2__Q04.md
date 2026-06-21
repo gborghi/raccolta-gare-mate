@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1993-94 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1993-94_round2__Q04
 parent: src_bmo_1993-94_round2
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1993-94 — Round 2 — Quesito 4
 
 *Count perfect squares modulo 2^n*
 

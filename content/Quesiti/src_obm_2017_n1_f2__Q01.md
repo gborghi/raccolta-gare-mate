@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f2__Q01
 parent: src_obm_2017_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 1
 
 *Prove a nonconstant polynomial with nonneg coefficients whose power is positive is itself positive*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q10
 parent: src_kangourou_2014_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Finale — Quesito 10
 
 *Massimo di ab-bc+ca con prodotto abc=16*
 

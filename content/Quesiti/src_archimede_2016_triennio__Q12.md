@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_triennio__Q12
 parent: src_archimede_2016_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Triennio — Quesito 12
 
 *Probabilita somma dadi rossi uguale dado azzurro*
 

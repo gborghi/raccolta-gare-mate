@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale nazionale Student — Quesito S2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_finale_student__QS2
 parent: src_kangourou_2014_finale_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale nazionale Student — Quesito S2
 
 *Luogo dei punti entro distanza 3 con metrica modificata*
 

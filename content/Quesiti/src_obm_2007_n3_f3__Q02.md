@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f3__Q02
 parent: src_obm_2007_n3_f3
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 2
 
 *Count integers c in [-2007,2007] for which x^2+c is a multiple of 2^2007 for some integer x*
 

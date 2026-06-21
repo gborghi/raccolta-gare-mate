@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_maggio__QC1
 parent: src_kangourou_2009_cadet_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C1
 
 *Basta l'area di un triangolo per area del parallelogramma*
 

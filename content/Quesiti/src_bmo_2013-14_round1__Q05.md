@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2013-14 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2013-14_round1__Q05
 parent: src_bmo_2013-14_round1
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2013-14 — Round 1 — Quesito 5
 
 *Equilateral triangle with interior point; prove two identities/inequalities*
 

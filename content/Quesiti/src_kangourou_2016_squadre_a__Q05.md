@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q05
 parent: src_kangourou_2016_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Semifinale A — Quesito 5
 
 *Minimo numero cubi per riempire cassa 160x140x100*
 

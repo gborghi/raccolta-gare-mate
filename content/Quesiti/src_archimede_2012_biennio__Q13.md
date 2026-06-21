@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_biennio__Q13
 parent: src_archimede_2012_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Biennio — Quesito 13
 
 *Distanza dopo 17 salti con rotazioni di cavalletta*
 

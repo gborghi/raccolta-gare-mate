@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q12
 parent: src_kangourou_2005_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 12
 
 *Minimo palline estratte per somma 18*
 

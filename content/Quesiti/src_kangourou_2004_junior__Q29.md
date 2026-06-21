@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior (18 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior__Q29
 parent: src_kangourou_2004_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior (18 marzo) — Quesito 29
 
 *Numero al 2004-simo posto (div 5 o 11)*
 

@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
 tipo: gara
 src_id: src_tfjm_2020
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
 
 Sorgente: apri PDF
 

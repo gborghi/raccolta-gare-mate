@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo34yqa_yosen__Q01
 parent: src_jmo34yqa_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 1
 
 *Simplify a nested factorial square root as a reduced fraction*
 

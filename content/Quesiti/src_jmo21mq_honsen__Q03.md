@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2011 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo21mq_honsen__Q03
 parent: src_jmo21mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2011 — Honsen (Final) — Quesito 3
 
 *Grid game: B can always terminate the game regardless of A's moves*
 

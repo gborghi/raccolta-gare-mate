@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Junior finale — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_junior_finale__QJ5
 parent: src_kangourou_2025_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2025 Junior finale — Quesito J5
 
 *Strategia scelta mazzi di carte rosse/verdi*
 

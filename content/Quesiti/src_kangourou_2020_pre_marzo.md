@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo
 tipo: gara
 src_id: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/PMarzo-20.pdf` · apri PDF
 

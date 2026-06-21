@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_biennio__Q14
 parent: src_archimede_1998_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Biennio — Quesito 14
 
 *Distanza fra centri in sette cerchi disposti*
 

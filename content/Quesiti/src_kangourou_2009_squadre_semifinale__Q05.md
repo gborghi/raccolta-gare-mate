@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q05
 parent: src_kangourou_2009_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 5
 
 *Massimo pedine su scacchiera 8x8 con vincoli*
 

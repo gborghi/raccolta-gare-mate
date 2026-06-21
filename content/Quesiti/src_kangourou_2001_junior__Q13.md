@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Junior (15 marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_junior__Q13
 parent: src_kangourou_2001_junior
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2001 - Junior (15 marzo) — Quesito 13
 
 *Ore di ritardo in una settimana*
 

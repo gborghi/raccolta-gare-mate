@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2019_nu_f2__Q06
 parent: src_obm_2019_nu_f2
@@ -37,8 +40,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 — Quesito 6
 
 *Limit of f(n)/n! where f(n) counts derangements with no 2-cycles (secret friend with no 'jam')*
 

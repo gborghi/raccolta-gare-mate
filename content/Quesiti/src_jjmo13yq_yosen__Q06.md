@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo13yq_yosen__Q06
 parent: src_jjmo13yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 6
 
 *Color 2015 boxes red/blue/white; odd boxes not white, adjacent boxes differ*
 

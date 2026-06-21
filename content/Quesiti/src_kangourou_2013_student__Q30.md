@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q30
 parent: src_kangourou_2013_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 30
 
 *Modi di uscita di cinque auto dalla rotonda*
 

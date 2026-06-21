@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2024__Q02
 parent: src_cesenatico_2024
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 2
 
 *insieme dei punti mediani*
 

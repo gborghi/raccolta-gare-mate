@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q08
 parent: src_kangourou_2007_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo) — Quesito 8
 
 *Modi di scambiarsi i doni (3 amiche)*
 

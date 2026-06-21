@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q06
 parent: src_kangourou_2024_junior_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 2 — Quesito 6
 
 *Valore f(0) funzione ricorsiva di McCarthy*
 

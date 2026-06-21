@@ -1,4 +1,5 @@
 ---
+title: IMO 1984 (25th International Mathematical Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1984__Q06
 parent: src_imo_1984
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1984 (25th International Mathematical Olympiad) — Quesito 6
 
 *Odd integers with ad=bc and power-of-two sums imply a=1*
 

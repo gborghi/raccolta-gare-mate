@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo21yq_yosen__Q02
 parent: src_jmo21yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 2
 
 *Sum of positive integers ≤2011 divisible by 3 with given remainders*
 

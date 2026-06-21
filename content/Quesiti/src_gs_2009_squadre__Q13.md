@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q13
 parent: src_gs_2009_squadre
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 13
 
 *Cifre finali di una potenza di 3 (beneficenza)*
 

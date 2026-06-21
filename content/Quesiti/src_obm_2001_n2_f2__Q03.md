@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f2__Q03
 parent: src_obm_2001_n2_f2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2 — Quesito 3
 
 *Find all super-Olympic years for OBM divisibility condition*
 

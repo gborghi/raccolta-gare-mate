@@ -1,4 +1,5 @@
 ---
+title: IMO 1978 (Twentieth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1978_all__Q03
 parent: src_imo_1978_all
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1978 (Twentieth International Olympiad) — Quesito 3
 
 *find f(240)*
 

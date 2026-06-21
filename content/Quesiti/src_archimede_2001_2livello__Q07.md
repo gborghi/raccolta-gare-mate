@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q07
 parent: src_archimede_2001_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 7
 
 *Luogo dei punti con distanza da B doppia di quella da A*
 

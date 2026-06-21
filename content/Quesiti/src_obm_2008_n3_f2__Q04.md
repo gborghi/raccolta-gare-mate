@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f2__Q04
 parent: src_obm_2008_n3_f2
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 4
 
 *Count permutations of 1..9 where all elements between i and i+1 are less than i*
 

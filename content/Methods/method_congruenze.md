@@ -1,11 +1,10 @@
 ---
+title: Aritmetica modulare / congruenze
 tipo: method
 concept_id: method_congruenze
 tags:
   - graph/method
 ---
-
-# Aritmetica modulare / congruenze
 
 *method* — **976** quesiti (italiani).
 

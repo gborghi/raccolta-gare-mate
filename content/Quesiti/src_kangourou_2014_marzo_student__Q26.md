@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 gara 20 marzo Student — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q26
 parent: src_kangourou_2014_marzo_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 gara 20 marzo Student — Quesito 26
 
 *n perche CZ=1*
 

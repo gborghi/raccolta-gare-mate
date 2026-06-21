@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q25
 parent: src_kangourou_2007_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 25
 
 *Divisori di n+2 (n primo, n+1 con 3 divisori)*
 

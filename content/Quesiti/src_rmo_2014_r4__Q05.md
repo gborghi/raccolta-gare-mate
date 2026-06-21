@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 4 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r4__Q05
 parent: src_rmo_2014_r4
@@ -29,8 +30,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 4 — Quesito 5
 
 *Incircles and concyclicity: prove B,E,I,F concyclic in acute triangle*
 

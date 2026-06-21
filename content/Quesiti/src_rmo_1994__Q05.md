@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1994 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_1994__Q05
 parent: src_rmo_1994
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1994 — Quesito 5
 
 *Set of 16 positive integers with pairwise product not exceeding 1994*
 

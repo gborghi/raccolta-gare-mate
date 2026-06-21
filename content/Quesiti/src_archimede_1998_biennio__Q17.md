@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Biennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_biennio__Q17
 parent: src_archimede_1998_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Biennio — Quesito 17
 
 *Quanti paggi fra vecchio ragazzo e ragazza*
 

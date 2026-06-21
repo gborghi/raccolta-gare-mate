@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q09
 parent: src_kangourou_2014_ecolier
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 9
 
 *Quante caramelle c'erano all'inizio dopo i prelievi*
 

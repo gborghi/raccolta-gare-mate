@@ -1,4 +1,5 @@
 ---
+title: IMO 1977 (Nineteenth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1977_all__Q06
 parent: src_imo_1977_all
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1977 (Nineteenth International Olympiad) — Quesito 6
 
 *f(n+1)>f(f(n)) implies f(n)=n for all n*
 

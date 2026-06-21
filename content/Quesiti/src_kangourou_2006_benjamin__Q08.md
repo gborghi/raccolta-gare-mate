@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q08
 parent: src_kangourou_2006_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 8
 
 *Modi di scrivere 2006 seguendo le frecce*
 

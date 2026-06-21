@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2019 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2019__Q03
 parent: src_rmo_2019
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2019 — Quesito 3
 
 *Prove an inequality for positive reals with a+b+c=1.*
 

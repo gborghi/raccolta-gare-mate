@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2006 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2006__Q06
 parent: src_inmo_2006
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2006 — Quesito 6
 
 *Find integer l with n < l^2 < (1+1/2005)n for n >= 4011^2*
 

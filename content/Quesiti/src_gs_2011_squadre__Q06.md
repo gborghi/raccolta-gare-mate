@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q06
 parent: src_gs_2011_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 6
 
 *Probabilita di ottenere 9 con tre dadi diversi*
 

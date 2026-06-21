@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 4'
 tipo: quesito
 quesito_id: quesito_src_imo_1992__Q04
 parent: src_imo_1992
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1992 (33rd IMO, Moscow) — Quesito 4
 
 *Find locus of P with incircle tangent and midpoint condition*
 

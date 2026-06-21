@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r1__Q04
 parent: src_rmo_2016_r1
@@ -31,8 +32,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 1 — Quesito 4
 
 *Count 6-digit numbers with exactly three odd and three even digits*
 

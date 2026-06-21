@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo32ya_yosen__Q12
 parent: src_jmo32ya_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 12
 
 *Find BC in acute triangle given orthocenter, midpoint, and angle condition*
 

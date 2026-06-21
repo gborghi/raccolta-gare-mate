@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1998-99 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1998-99_round1__Q02
 parent: src_bmo_1998-99_round1
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1998-99 — Round 1 — Quesito 2
 
 *Prove tan(APX)/tan(PAX) is constant as P moves on circle*
 

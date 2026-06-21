@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2025 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jegmo14q__Q01
 parent: src_jegmo14q
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2025 — Quesito 1
 
 *Minimum number of distinct values among 14 subset sums*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q18
 parent: src_obm_2001_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 18
 
 *f(x)=x^2-3x+4; count real solutions of f applied 2001 times equals 2*
 

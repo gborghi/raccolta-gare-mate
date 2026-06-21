@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1995 (36th IMO, Toronto) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1995__Q01
 parent: src_imo_1995
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1995 (36th IMO, Toronto) — Quesito 1
 
 *Prove AM, DN, XY concurrent in two-diameter-circles config*
 

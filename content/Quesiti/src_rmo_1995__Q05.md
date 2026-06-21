@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1995 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_1995__Q05
 parent: src_rmo_1995
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1995 — Quesito 5
 
 *Triangle inequality: a^2+b^2+c^2 > sqrt(3) max{|a^2-b^2|,|b^2-c^2|,|c^2-a^2|}*
 

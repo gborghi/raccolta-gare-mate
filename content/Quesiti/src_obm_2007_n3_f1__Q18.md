@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f1__Q18
 parent: src_obm_2007_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 18
 
 *System a^2-ab=1, b^2-bc=1, c^2-ca=1; find abc(a+b+c)*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_1992__Q01
 parent: src_rmo_1992
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992 — Quesito 1
 
 *Find all integers n such that n²+19n+92 is a perfect square.*
 

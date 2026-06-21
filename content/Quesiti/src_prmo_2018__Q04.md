@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q04
 parent: src_prmo_2018
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 4
 
 *Find all valid bases b>=10 for equation 166x56=8590*
 

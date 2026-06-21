@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n3_fx__Q04
 parent: src_obm_2024_n3_fx
@@ -35,8 +36,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 4
 
 *Three distinct reals satisfying cyclic system; prove all lie in (-1,1)*
 

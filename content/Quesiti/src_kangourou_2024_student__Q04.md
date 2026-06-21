@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q04
 parent: src_kangourou_2024_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 4
 
 *Retta y=x+1 in assi con orientamento invertito*
 

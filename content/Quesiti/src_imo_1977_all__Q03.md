@@ -1,4 +1,5 @@
 ---
+title: IMO 1977 (Nineteenth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1977_all__Q03
 parent: src_imo_1977_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1977 (Nineteenth International Olympiad) — Quesito 3
 
 *Non-unique factorization into indecomposables in V_n*
 

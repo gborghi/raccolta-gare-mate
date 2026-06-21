@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q10
 parent: src_kangourou_2018_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 10
 
 *Somma di due dadi con probabilita piu alta tra 7,8,9,10*
 

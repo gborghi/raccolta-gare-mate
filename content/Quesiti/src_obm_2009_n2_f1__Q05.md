@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q05
 parent: src_obm_2009_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 5
 
 *Neighborhood map: count houses reachable traversing each street at most once*
 

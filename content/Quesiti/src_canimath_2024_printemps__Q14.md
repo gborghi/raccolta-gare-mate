@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q14
 parent: src_canimath_2024_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 14
 
 *Isosceles triangle geometry: BH bisects angle GEA; EF parallel to BH*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q03
 parent: src_kangourou_2011_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 3
 
 *Tra quanti minuti orologio mostra di nuovo cifre 0,1,1,2*
 

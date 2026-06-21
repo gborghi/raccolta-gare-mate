@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q15
 parent: src_kangourou_2006_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 15
 
 *Minimo numero di salti per coprire 997 metri*
 

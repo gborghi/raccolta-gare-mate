@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo17yq_yosen__Q12
 parent: src_jmo17yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 12
 
 *Maximum guaranteed honest-candidate votes in a village with liars using one instruction*
 

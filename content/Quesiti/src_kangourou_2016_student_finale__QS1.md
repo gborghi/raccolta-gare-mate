@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (finale Cervia) — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_finale__QS1
 parent: src_kangourou_2016_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (finale Cervia) — Quesito S1
 
 *n con 2016 = radice della somma dei cubi dei primi n interi*
 

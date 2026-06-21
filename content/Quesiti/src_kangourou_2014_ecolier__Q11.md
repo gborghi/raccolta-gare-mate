@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q11
 parent: src_kangourou_2014_ecolier
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 11
 
 *Numero nella cella grigia della piramide moltiplicativa*
 

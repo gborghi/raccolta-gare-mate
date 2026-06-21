@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q12
 parent: src_kangourou_2023_junior_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 1 — Quesito 12
 
 *Minimo n/100 divisibile per 75 con 75 divisori*
 

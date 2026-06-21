@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Ecolier — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__QE5
 parent: src_kangourou_2020_ecolier_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Ecolier — Quesito E5
 
 *Riempire griglia 6x6 con/senza numero in posizione speciale*
 

@@ -1,4 +1,5 @@
 ---
+title: XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2008__Q04
 parent: src_cesenatico_2008
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 4
 
 *Terne (a,b,c) interi positivi con a^2+2^(b+1)=3^c*
 

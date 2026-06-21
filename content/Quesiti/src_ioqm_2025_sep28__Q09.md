@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q09
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 9
 
 *Largest integer n so a square of side n fits inside a disc of area 1000*
 

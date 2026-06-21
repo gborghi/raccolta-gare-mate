@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q03
 parent: src_kangourou_2015_marzo_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 3
 
 *Trova la parte mancante della casetta*
 

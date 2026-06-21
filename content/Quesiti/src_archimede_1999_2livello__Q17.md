@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q17
 parent: src_archimede_1999_2livello
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 17
 
 *Pentagono inscritto con diagonali parallele ai lati è regolare*
 

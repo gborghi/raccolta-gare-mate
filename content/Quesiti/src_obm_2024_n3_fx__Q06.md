@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n3_fx__Q06
 parent: src_obm_2024_n3_fx
@@ -39,8 +40,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 6
 
 *Sequence defined via smallest non-divisor; prove every positive integer appears*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1998-99 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1998-99_round1__Q03
 parent: src_bmo_1998-99_round1
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1998-99 — Round 1 — Quesito 3
 
 *Find positive constant c so xy^2 - y^2 - x + y = c has exactly three positive integer solutions*
 

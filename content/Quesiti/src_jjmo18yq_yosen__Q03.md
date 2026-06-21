@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo18yq_yosen__Q03
 parent: src_jjmo18yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 3
 
 *Count palindromic integers not divisible by 10 between 1 and 10000*
 

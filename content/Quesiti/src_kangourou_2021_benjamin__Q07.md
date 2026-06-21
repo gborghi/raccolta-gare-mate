@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q07
 parent: src_kangourou_2021_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 7
 
 *Figura che puo uscire dall'apertura G con traslazioni*
 

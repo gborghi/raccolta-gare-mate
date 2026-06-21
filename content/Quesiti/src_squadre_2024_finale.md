@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale
 tipo: gara
 src_id: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2024/gas2024ITA.pdf` · apri PDF
 

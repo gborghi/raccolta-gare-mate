@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f1__Q13
 parent: src_obm_2016_n1_f1
@@ -38,8 +39,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 13
 
 *List of 10 numbers split into odd/even counts x,y; relation between same- and mixed-parity pairs; max x.*
 

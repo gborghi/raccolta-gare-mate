@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q02
 parent: src_cesenatico_2012_pubblico
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 2
 
 *Max media geometrica delle aure (allenamenti)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 gara 20 marzo Student — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q04
 parent: src_kangourou_2014_marzo_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 gara 20 marzo Student — Quesito 4
 
 *quante nel piu grande*
 

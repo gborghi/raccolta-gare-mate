@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q08
 parent: src_canimath_2020_automne
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 8
 
 *Maximum size of a subset of {1,...,200} whose pairwise differences are never prime*
 

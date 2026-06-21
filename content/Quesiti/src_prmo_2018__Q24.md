@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q24
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 24
 
 *Count non-similar triangles with all integer angles in degrees, find N/100*
 

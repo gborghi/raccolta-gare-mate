@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q15
 parent: src_kangourou_2011_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 15
 
 *Colore della regione X in mappa con 4 colori*
 

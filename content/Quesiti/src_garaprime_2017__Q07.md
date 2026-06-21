@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q07
 parent: src_garaprime_2017
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 7
 
 *Conteggio di k con MCD e mcm invariati*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Ecolier — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q13
 parent: src_kangourou_2020_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Ecolier — Quesito 13
 
 *Area della stella grigia al centro degli esagoni*
 

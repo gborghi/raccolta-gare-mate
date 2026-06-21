@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q22
 parent: src_kangourou_2006_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 22
 
 *Valore a+b+ab con a^2b+ab^2=30*
 

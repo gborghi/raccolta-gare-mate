@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q23
 parent: src_kangourou_2014_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 23
 
 *Quanti divisori di 2014 di due cifre*
 

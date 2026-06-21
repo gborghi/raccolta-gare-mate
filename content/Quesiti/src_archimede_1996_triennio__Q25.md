@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q25
 parent: src_archimede_1996_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 25
 
 *Percentuale di cartoncino sprecata tagliando cerchi*
 

@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_finale__Q15
 parent: src_garasquadre_2006_finale
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale — Quesito 15
 
 *costante mistica*
 

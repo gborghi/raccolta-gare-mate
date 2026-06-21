@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q08
 parent: src_archimede_2024_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 8
 
 *Massimo b con forma quadratica a/x^2+b/xy+c/y^2 non negativa*
 

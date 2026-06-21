@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q19
 parent: src_kangourou_2017_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 19
 
 *Modi di correre due giorni non consecutivi a settimana*
 

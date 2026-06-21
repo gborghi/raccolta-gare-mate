@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q18
 parent: src_archimede_2016_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 18
 
 *Area del quadrato intermedio con vertici allineati*
 

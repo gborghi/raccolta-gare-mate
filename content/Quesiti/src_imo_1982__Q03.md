@@ -1,4 +1,5 @@
 ---
+title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1982__Q03
 parent: src_imo_1982
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1982 (23rd International Mathematical Olympiad) — Quesito 3
 
 *Decreasing sequence sums of squared ratios bounded near 4*
 

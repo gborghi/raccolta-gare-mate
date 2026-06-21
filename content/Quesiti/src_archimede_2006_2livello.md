@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2006 (biennio/triennio)
 tipo: gara
 src_id: src_archimede_2006_2livello
 competition: Archimede Gara 2° livello 2006 (biennio/triennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2006 (biennio/triennio)
 
 Sorgente: `Archimede/individuale/2livello/2006/febb06.pdf` · apri PDF
 

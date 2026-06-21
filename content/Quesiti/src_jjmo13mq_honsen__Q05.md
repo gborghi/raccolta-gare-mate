@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo13mq_honsen__Q05
 parent: src_jjmo13mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 5
 
 *2015 points, edges with pairwise angles over 90 degrees, max edges*
 

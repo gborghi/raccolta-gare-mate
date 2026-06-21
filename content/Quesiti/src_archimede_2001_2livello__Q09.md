@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q09
 parent: src_archimede_2001_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 9
 
 *Condizione sufficiente perché x^y > y^x*
 

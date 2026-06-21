@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q29
 parent: src_kangourou_2014_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 29
 
 *Per quanti giorni si può prevedere il tempo*
 

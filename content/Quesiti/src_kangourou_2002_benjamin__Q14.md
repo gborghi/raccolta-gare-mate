@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_benjamin__Q14
 parent: src_kangourou_2002_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2002 - Benjamin (21 marzo) — Quesito 14
 
 *Aumento dell'altezza del soffitto*
 

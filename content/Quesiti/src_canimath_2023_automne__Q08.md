@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2023 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_automne__Q08
 parent: src_canimath_2023_automne
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2023 — Quesito 8
 
 *Average of five grades is 16, three known grades are 13,14,17; find the sum of the two forgotten grades*
 

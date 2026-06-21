@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q02
 parent: src_kangourou_2012_student
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 2
 
 *Ore con livello dell'acqua sopra 30 cm dal grafico*
 

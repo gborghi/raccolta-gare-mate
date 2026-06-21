@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Benjamin finale nazionale (Mirabilandia) — Quesito B1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_benjamin_maggio__QB1
 parent: src_kangourou_2009_benjamin_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2009 - Benjamin finale nazionale (Mirabilandia) — Quesito B1
 
 *Quanti modi di sistemare 4 monete su scacchiera 4x4*
 

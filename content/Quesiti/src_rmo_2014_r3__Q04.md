@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r3__Q04
 parent: src_rmo_2014_r3
@@ -30,8 +31,6 @@ tags:
   - regione/r3
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 3 — Quesito 4
 
 *Find all positive reals x,y,z satisfying three cyclic equations*
 

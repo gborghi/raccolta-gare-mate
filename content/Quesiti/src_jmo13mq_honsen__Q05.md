@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo13mq_honsen__Q05
 parent: src_jmo13mq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 5
 
 *Find max N points in plane 3-colored satisfying triangle interior conditions*
 

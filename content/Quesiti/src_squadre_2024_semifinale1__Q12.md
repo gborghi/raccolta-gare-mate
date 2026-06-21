@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale1__Q12
 parent: src_squadre_2024_semifinale1
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 1 — Quesito 12
 
 *Lunghezza minima sequenza con differenza 10, esponente di 2*
 

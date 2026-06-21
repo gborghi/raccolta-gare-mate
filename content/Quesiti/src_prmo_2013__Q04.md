@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q04
 parent: src_prmo_2013
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 4
 
 *Product of all possible values of YZ given XY=10, XZ=3 collinear*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_triennio__Q12
 parent: src_archimede_2002_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Triennio — Quesito 12
 
 *Probabilita primo dado minore del secondo*
 

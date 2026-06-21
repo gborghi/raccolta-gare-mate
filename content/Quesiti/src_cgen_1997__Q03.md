@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1997 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1997__Q03
 parent: src_cgen_1997
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1997 — Matematica — Quesito 3
 
 *Find the maximal area of the orthogonal projection of a unit cube onto a plane*
 

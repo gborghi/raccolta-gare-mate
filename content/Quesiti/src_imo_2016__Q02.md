@@ -1,4 +1,5 @@
 ---
+title: IMO 2016 papers — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_2016__Q02
 parent: src_imo_2016
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2016 papers — Quesito 2
 
 *Tabella n×n riempita con I,M,O bilanciate*
 

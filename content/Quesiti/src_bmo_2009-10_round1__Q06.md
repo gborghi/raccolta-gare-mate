@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2009-10 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2009-10_round1__Q06
 parent: src_bmo_2009-10_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2009-10 — Round 1 — Quesito 6
 
 *Integer map (x,y)→(x²+y, x−y) with x+y=p²; count distinct treasure locations*
 

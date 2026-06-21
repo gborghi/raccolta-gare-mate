@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n2_fx__Q01
 parent: src_obm_2020_n2_fx
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 1
 
 *Find angle BFC in right triangle with bisector and perpendicular conditions*
 

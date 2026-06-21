@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2022 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_printemps__Q01
 parent: src_canimath_2022_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2022 — Quesito 1
 
 *Compute a nested radical*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q05
 parent: src_kangourou_2019_cadet_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 5
 
 *Quale uguaglianza tra b (prodotto divisori di 1024) e a*
 

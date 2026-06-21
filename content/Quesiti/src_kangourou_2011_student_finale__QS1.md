@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Student (Mirabilandia) — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student_finale__QS1
 parent: src_kangourou_2011_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Student (Mirabilandia) — Quesito S1
 
 *Max numero di cifre distinte divisibile per ognuna delle sue cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_biennio__Q04
 parent: src_archimede_1998_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Biennio — Quesito 4
 
 *Quante caramelle riceve ogni vincitore*
 

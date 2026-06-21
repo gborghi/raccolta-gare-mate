@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q08
 parent: src_kangourou_2009_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 8
 
 *Quali intrecci non con un unico spezzone (parita)*
 

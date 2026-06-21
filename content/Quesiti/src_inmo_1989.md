@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1989
 tipo: gara
 src_id: src_inmo_1989
 competition: Indian National Mathematical Olympiad 1989
@@ -15,8 +16,6 @@ tags:
   - anno/1989
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1989
 
 Sorgente: apri PDF
 

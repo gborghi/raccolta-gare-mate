@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q21
 parent: src_kangourou_2017_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Gara 16 marzo — Quesito 21
 
 *Numero in griglia 3x3 con somme 2x2 uguali*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q23
 parent: src_cesenatico_2012_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 23
 
 *x^2y^2-192xy+5776=16x^2+25y^2*
 

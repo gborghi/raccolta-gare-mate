@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q26
 parent: src_kangourou_2013_student
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 26
 
 *Triangoli contenenti il centro in poligono di 13 lati*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n2_f3__Q03
 parent: src_obm_1999_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 3 — Quesito 3
 
 *How many times did Adriano and Bruno face each other in ping-pong?*
 

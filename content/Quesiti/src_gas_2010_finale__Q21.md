@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q21
 parent: src_gas_2010_finale
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 21
 
 *Numero punti su incroci di griglia in due mappe quadrate*
 

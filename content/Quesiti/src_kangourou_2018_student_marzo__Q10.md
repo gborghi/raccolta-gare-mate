@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q10
 parent: src_kangourou_2018_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 10
 
 *Misura dell angolo alfa tra due rettangoli inclinati*
 

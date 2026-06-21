@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Ecolier
 tipo: gara
 src_id: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/E-settembre19.pdf` · apri PDF
 

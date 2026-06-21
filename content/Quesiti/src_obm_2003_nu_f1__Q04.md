@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2003_nu_f1__Q04
 parent: src_obm_2003_nu_f1
@@ -35,8 +38,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 — Quesito 4
 
 *Find a>0 such that limit of f(n) - pi^2/6 + a/n exists; compute the limit*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f3__Q02
 parent: src_obm_2004_n3_f3
@@ -37,8 +38,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 2
 
 *Find all n for which a triangle can be divided into n triangles with equal vertex degree*
 

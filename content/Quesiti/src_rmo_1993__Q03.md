@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1993 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1993__Q03
 parent: src_rmo_1993
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1993 — Quesito 3
 
 *Non-isosceles triangles from vertices of 20-gon*
 

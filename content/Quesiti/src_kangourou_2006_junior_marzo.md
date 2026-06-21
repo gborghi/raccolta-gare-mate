@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo)
 tipo: gara
 src_id: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2006/JMarzo-06.pdf` · apri PDF
 

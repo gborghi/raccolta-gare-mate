@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q11
 parent: src_prmo_2019
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 11
 
 *Triangles similar to ABC with cos A cos B sin C = 1*
 

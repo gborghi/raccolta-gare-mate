@@ -1,4 +1,5 @@
 ---
+title: IMO 1975 (Seventeenth International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1975_all__Q04
 parent: src_imo_1975_all
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1975 (Seventeenth International Olympiad) — Quesito 4
 
 *Iterated digit sum of 4444^4444*
 

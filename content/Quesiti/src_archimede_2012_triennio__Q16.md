@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q16
 parent: src_archimede_2012_triennio
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 16
 
 *Valori di k con soluzione intera di x^10+kx^2+4=0*
 

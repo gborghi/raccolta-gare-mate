@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q11
 parent: src_kangourou_2020_pre_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 11
 
 *Costruzione che usa piu cubetti*
 

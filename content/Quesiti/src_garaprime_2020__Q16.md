@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_garaprime_2020__Q16
 parent: src_garaprime_2020
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020 — Quesito 16
 
 *Divisori del prodotto mn dati i divisori e il MCD*
 

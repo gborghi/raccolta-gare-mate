@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q09
 parent: src_archimede_2005_triennio
@@ -29,8 +30,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 9
 
 *Interi n con n-52 e n+53 quadrati perfetti*
 

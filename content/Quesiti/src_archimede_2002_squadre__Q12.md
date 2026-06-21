@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_squadre__Q12
 parent: src_archimede_2002_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 12
 
 *triangolo coordinato, punti interi*
 

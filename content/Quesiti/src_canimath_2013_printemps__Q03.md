@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2013 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2013_printemps__Q03
 parent: src_canimath_2013_printemps
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2013 — Quesito 3
 
 *Rhombus with special point K on CD, prove A, K, P collinear*
 

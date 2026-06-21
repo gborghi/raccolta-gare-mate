@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo10mq_honsen__Q02
 parent: src_jjmo10mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 2
 
 *7-digit multiples of 7 stable under all digit rearrangements*
 

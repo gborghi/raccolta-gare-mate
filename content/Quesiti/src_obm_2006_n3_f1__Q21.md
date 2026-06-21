@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q21
 parent: src_obm_2006_n3_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 21
 
 *Square room of side 4 m tiled completely with equal 1 m by 2 m rugs; count the number of tilings (three shown).*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n2_f1__Q22
 parent: src_obm_2012_n2_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 22
 
 *Largest power of 2 dividing 2011^2012 - 1*
 

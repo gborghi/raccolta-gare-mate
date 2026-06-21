@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo36yqa_yosen__Q05
 parent: src_jmo36yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 5
 
 *Find integer triples (x,y,z) in [1,17] where a single integer >1 divides all four expressions*
 

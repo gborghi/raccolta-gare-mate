@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo20yq_yosen__Q02
 parent: src_jjmo20yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 2
 
 *Count prime pairs (p,q) with p<=q such that pq divides 15(p-1)(q-1)*
 

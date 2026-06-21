@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2026_nazionale__Q02
 parent: src_cesenatico_2026_nazionale
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 2
 
 *Distanza VK vertice cono-sfera maggiore di 5 cm*
 

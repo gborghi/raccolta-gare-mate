@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q11
 parent: src_kangourou_2015_squadre_ecolier_f
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 11
 
 *Cucchiai piccoli per riempire il vasetto di zucchero*
 

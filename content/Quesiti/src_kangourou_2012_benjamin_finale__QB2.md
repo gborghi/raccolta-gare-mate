@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin_finale__QB2
 parent: src_kangourou_2012_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B2
 
 *Quante biglie marroni tra le 20 di Elena*
 

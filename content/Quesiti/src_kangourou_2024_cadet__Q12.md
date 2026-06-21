@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q12
 parent: src_kangourou_2024_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 12
 
 *Raggio della circonferenza dati punti piu vicino e lontano*
 

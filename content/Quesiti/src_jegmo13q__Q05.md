@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2024 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jegmo13q__Q05
 parent: src_jegmo13q
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2024 — Quesito 5
 
 *Prove two perpendiculars meet on circumcircle given concyclicity condition*
 

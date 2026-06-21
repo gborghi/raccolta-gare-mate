@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Gara del pubblico — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_pubblico__Q03
 parent: src_squadre_2023_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Gara del pubblico — Quesito 3
 
 *Valore somma di frazioni 1/(k^2-4) tipo telescopica*
 

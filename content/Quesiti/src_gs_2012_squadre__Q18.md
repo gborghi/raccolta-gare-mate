@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2012 - Gara a squadre — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_gs_2012_squadre__Q18
 parent: src_gs_2012_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Coppa Galileo 2012 - Gara a squadre — Quesito 18
 
 *Numero circonferenze inscritte sotto soglia*
 

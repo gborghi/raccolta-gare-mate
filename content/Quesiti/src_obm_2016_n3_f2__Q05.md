@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f2__Q05
 parent: src_obm_2016_n3_f2
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 5
 
 *Minimum number of positive divisors of P(n) for degree-10 integer-root polynomial*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin (18 marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin__Q05
 parent: src_kangourou_2004_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin (18 marzo) — Quesito 5
 
 *Peso di 1 mela e 1 arancia*
 

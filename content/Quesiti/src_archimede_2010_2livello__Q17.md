@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q17
 parent: src_archimede_2010_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 17
 
 *Ordinamenti di {21..81} con somme di 4 consecutivi divisibili per 3*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2021__Q04
 parent: src_selection_camp_2021
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2021 — Selection Camp — Quesito 4
 
 *Collinearity forces right angle in isosceles triangle*
 

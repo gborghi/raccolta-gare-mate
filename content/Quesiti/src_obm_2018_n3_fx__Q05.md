@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2018_n3_fx__Q05
 parent: src_obm_2018_n3_fx
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x — Quesito 5
 
 *Board with 1–10; erase a,b write a+b+ab/S; find operation count and max remaining value*
 

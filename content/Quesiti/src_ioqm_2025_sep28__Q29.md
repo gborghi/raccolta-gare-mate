@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q29
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 29
 
 *Isosceles triangle 13-13-10; incircle tangents parallel to sides form hexagon; find m+n+l*
 

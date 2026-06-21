@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q12
 parent: src_archimede_2009_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 12
 
 *Modi di disegnare tre triangoli da P senza staccare penna*
 

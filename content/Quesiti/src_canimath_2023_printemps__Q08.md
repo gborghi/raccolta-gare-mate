@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q08
 parent: src_canimath_2023_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 8
 
 *Count the integers n such that n/3 and 3n are both integers between 1 and 1000 inclusive.*
 

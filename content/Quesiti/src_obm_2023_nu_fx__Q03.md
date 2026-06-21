@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2023_nu_fx__Q03
 parent: src_obm_2023_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x — Quesito 3
 
 *Constant C>0 bounding a sum of k-th roots over log x*
 

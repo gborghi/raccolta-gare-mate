@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q08
 parent: src_archimede_2007_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 8
 
 *Area della falce di luna ritagliata con compasso raggio r√2*
 

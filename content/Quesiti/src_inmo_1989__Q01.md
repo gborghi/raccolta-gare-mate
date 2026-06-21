@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1989 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_1989__Q01
 parent: src_inmo_1989
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1989 — Quesito 1
 
 *Prove polynomial f(x)=x^4+26x^3+52x^2+78x+1989 irreducible over Z[x]*
 

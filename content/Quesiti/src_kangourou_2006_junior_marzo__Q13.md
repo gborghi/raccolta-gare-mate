@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q13
 parent: src_kangourou_2006_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 13
 
 *Lato del quadrato piu grande (rettangolo in 6 quadrati)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q06
 parent: src_garaprime_2017
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 6
 
 *Perimetro minimo di rettangolo intero con area 12120*
 

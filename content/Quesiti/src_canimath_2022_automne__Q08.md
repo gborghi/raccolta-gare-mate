@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q08
 parent: src_canimath_2022_automne
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 8
 
 *Compute a nested radical expression*
 

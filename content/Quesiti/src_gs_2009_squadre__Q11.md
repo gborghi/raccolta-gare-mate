@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q11
 parent: src_gs_2009_squadre
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 11
 
 *Area piegatura rettangolo a rombo (II)*
 

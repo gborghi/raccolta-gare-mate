@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale2__Q04
 parent: src_squadre_2023_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2 — Quesito 4
 
 *Minimo ab con 2023 numero di Frobenius*
 

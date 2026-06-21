@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q26
 parent: src_kangourou_2014_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 26
 
 *Quale immagine non si ottiene appiattendo il cubo*
 

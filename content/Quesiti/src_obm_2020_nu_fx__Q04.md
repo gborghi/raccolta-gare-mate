@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2020_nu_fx__Q04
 parent: src_obm_2020_nu_fx
@@ -32,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x — Quesito 4
 
 *Prove/disprove every real 2x2 and 3x3 matrix is sum of two squares*
 

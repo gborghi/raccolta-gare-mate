@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_tfjm_2018__Q07
 parent: src_tfjm_2018
@@ -40,8 +41,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 7
 
 *A generalized knight that moves a squares then b squares perpendicular on the infinite board Z^2; determine for which (a,b) all squares are reachable, study the number reachable in k moves, the number on square (0,1), irregular squares, and an intervention-time quantity.*
 

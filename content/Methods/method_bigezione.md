@@ -1,11 +1,10 @@
 ---
+title: Bigezione / corrispondenza
 tipo: method
 concept_id: method_bigezione
 tags:
   - graph/method
 ---
-
-# Bigezione / corrispondenza
 
 *method* — **12** quesiti (italiani).
 

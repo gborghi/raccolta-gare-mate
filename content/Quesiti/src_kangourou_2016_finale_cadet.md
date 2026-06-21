@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 finale nazionale Cadet
 tipo: gara
 src_id: src_kangourou_2016_finale_cadet
 competition: Kangourou 2016 finale nazionale Cadet
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Kangourou 2016 finale nazionale Cadet
 
 Sorgente: `Kangaroo/kangourou_individuali/2016/CMaggio-16.pdf` · apri PDF
 

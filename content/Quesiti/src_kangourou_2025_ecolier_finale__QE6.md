@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Ecolier finale — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE6
 parent: src_kangourou_2025_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2025 Ecolier finale — Quesito E6
 
 *Numero totale di lampioni su sentiero circolare*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q10
 parent: src_kangourou_squadre_2009_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 10
 
 *Probabilita pari/dispari con dadi truccati proporzionali*
 

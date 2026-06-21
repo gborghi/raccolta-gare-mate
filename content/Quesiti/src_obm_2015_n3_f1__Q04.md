@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f1__Q04
 parent: src_obm_2015_n3_f1
@@ -31,8 +32,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 4
 
 *Self-referential: count vowels and consonants in the correct answer*
 

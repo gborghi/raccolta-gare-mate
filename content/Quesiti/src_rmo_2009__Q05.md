@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2009 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2009__Q05
 parent: src_rmo_2009
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2009 — Quesito 5
 
 *Convex polygon Γ with diameter ≤1: boundary distance and interior midpoint on boundary*
 

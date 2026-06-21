@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2015 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_printemps__Q02
 parent: src_canimath_2015_printemps
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2015 — Quesito 2
 
 *Right triangle ABC; find point(s) P on perimeter with PA+PB=PC*
 

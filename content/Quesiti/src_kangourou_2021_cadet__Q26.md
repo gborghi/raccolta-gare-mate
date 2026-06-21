@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q26
 parent: src_kangourou_2021_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 26
 
 *Canguro di cui Bruno non indovina il colore*
 

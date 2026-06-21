@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_kvjnv__Q04
 parent: src_rmo_2023_kvjnv
@@ -35,8 +36,6 @@ tags:
   - regione/kvjnv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 4
 
 *Set X of N four-digit numbers from digits 1-8, any two digits share a number in X, find smallest N*
 

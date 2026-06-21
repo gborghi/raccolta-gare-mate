@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n1_f2__Q08
 parent: src_obm_2005_n1_f2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 8
 
 *Find all 3-digit multiples of 7 where successor is multiple of 11*
 

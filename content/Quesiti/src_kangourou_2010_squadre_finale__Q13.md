@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q13
 parent: src_kangourou_2010_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre finale — Quesito 13
 
 *Minimo massimo elemento con prodotto quadrato perfetto*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q10
 parent: src_cesenatico_2007_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 10
 
 *Area parte piu piccola dello Yin-Yang tagliato (coeff. pi)*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2014 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_printemps__Q02
 parent: src_canimath_2014_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2014 — Quesito 2
 
 *Digit pairs (a,b) making four-digit number ab32 divisible by 99*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1995-96 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1995-96_round1__Q01
 parent: src_bmo_1995-96_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1995-96 — Round 1 — Quesito 1
 
 *Find all four-digit perfect-square pairs differing by one in two digits*
 

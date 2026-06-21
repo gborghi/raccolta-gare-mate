@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r2__Q04
 parent: src_rmo_2012_r2
@@ -31,8 +32,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 2 — Quesito 4
 
 *Count pairs {A,B} with A,B subsets of {1,...,12} satisfying conditions*
 

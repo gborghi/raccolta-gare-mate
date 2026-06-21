@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Student (15 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_student__Q19
 parent: src_kangourou_2001_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2001 - Student (15 marzo) — Quesito 19
 
 *Cubetti minimo e massimo da viste*
 

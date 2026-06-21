@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q12
 parent: src_kangourou_2015_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Semifinale A — Quesito 12
 
 *Volume max parallelepipedo con due facce 24 e 30*
 

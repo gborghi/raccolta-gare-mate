@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q20
 parent: src_prmo_2015_b
@@ -34,8 +35,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 20
 
 *Circle omega inside Omega tangent at P; diameter XY tangent to omega; YZ=2PZ; find angle PYX*
 

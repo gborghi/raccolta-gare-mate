@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q04
 parent: src_archimede_1997_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 4
 
 *Numero massimo ottenibile in 8 mosse raddoppio o quadrato*
 

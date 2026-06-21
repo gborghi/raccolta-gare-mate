@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q19
 parent: src_kangourou_2007_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo) — Quesito 19
 
 *Somma punti invisibili di 7 dadi impilati*
 

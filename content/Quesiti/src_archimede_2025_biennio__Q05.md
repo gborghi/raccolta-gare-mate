@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio__Q05
 parent: src_archimede_2025_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio — Quesito 5
 
 *Millesima cifra decimale di 3/7*
 

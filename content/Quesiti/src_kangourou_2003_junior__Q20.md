@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior (20 marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior__Q20
 parent: src_kangourou_2003_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior (20 marzo) — Quesito 20
 
 *Lato del rombo da foglio piegato sulla diagonale*
 

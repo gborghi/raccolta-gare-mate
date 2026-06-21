@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q22
 parent: src_cesenatico_2012_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 22
 
 *Somma numeri 0-999 con cifra 3 o 6 (fusion)*
 

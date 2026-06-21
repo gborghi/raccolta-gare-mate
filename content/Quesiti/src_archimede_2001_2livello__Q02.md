@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q02
 parent: src_archimede_2001_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 2
 
 *Minimo n di giri per misurare il circuito con errore <30 m*
 

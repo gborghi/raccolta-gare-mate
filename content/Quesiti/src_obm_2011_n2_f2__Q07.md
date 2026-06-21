@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f2__Q07
 parent: src_obm_2011_n2_f2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 7
 
 *Positive reals a(b+c)=152, b(c+a)=162, c(a+b)=170; find abc*
 

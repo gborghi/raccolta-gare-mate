@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2019 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo17mq_honsen__Q03
 parent: src_jjmo17mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2019 — Honsen (Final) — Quesito 3
 
 *GCD-min inequality and equality cases for positive integers*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 gara 20 marzo Student
 tipo: gara
 src_id: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Kangourou 2014 gara 20 marzo Student
 
 Sorgente: `Kangaroo/kangourou_individuali/2014/SMarzo-14.pdf` · apri PDF
 

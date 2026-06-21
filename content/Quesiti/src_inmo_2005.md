@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2005
 tipo: gara
 src_id: src_inmo_2005
 competition: Indian National Mathematical Olympiad 2005
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2005
 
 Sorgente: apri PDF
 

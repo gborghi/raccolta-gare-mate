@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q10
 parent: src_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 10
 
 *Colorazioni finali griglia 2024x2024, somma esponenti*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo22yq_yosen__Q01
 parent: src_jmo22yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 1
 
 *Square ABCD with two perpendicular transversals; find side length*
 

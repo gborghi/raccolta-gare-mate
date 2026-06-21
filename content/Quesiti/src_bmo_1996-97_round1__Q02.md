@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1996-97 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1996-97_round1__Q02
 parent: src_bmo_1996-97_round1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1996-97 — Round 1 — Quesito 2
 
 *Sequence with a_{n+1} defined by digit sum; find a_{1997}*
 

@@ -1,4 +1,5 @@
 ---
+title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2009__Q05
 parent: src_cesenatico_2009
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# XXV Olimpiade Italiana Cesenatico 2009 — Quesito 5
 
 *T,R,K allineati*
 

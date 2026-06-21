@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q25
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 25
 
 *Rapporto tra le velocità delle due parti del viaggio*
 

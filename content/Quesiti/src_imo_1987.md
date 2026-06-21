@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1987 (28th IMO, Havana)'
 tipo: gara
 src_id: src_imo_1987
 competition: 'IMO 1987 (28th IMO, Havana)'
@@ -15,8 +16,6 @@ tags:
   - anno/1987
   - gara/individuale
 ---
-
-# IMO 1987 (28th IMO, Havana)
 
 Sorgente: `Archimede/individuale/imho/all/1987_eng.pdf` · apri PDF
 

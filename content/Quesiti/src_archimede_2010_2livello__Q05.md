@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q05
 parent: src_archimede_2010_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 5
 
 *Per quanti interi n il valore 3n/(n+5) è intero multiplo di 4*
 

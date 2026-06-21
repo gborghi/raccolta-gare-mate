@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f2__Q09
 parent: src_obm_2011_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 9
 
 *Proper colorings of a disk split into n cyclic sectors with k colors*
 

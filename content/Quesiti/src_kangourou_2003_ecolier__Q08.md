@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q08
 parent: src_kangourou_2003_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 8
 
 *Numero gerbere dalle proporzioni dei fiori*
 

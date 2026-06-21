@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Ecolier — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier_finale__Q04
 parent: src_kangourou_2014_ecolier_finale
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Ecolier — Quesito 4
 
 *Punteggi possibili in mini-torneo a tre squadre*
 

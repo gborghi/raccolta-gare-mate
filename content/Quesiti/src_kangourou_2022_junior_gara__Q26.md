@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q26
 parent: src_kangourou_2022_junior_gara
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 26
 
 *Peso nello stesso gruppo del peso da 9 etti*
 

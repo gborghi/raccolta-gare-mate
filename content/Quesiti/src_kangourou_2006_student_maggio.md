@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student finale (maggio)
 tipo: gara
 src_id: src_kangourou_2006_student_maggio
 competition: Kangourou 2006 Student finale (maggio)
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Kangourou 2006 Student finale (maggio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2006/SMaggio-06.pdf` · apri PDF
 

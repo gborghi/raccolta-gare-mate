@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q08
 parent: src_prmo_2018
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 8
 
 *Chord AB, point C on circle with angle ABC=30, point D on AB with angle DCO=angle OCB=20, find angle CDO*
 

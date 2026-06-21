@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q15
 parent: src_kangourou_2009_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 15
 
 *Quanti bugiardi nella fila di 25 (sinceri/bugiardi)*
 

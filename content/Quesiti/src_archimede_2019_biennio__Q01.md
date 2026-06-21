@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_biennio__Q01
 parent: src_archimede_2019_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1) — Quesito 1
 
 *Quanti reali x soddisfano 0<=x<=1, 1/x<=1*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2007 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo5q__Q04
 parent: src_jjmo5q
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2007 — Quesito 4
 
 *Three-variable degree-3 polynomial with three divisibility conditions*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q09
 parent: src_kangourou_2018_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 9
 
 *Somma multipli di 3 cifre di 3 7 e 11*
 

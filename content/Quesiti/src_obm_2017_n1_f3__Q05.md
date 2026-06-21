@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f3__Q05
 parent: src_obm_2017_n1_f3
@@ -39,8 +40,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 5
 
 *Phone unlock patterns as digit sequences on a 3x3 grid: identify a password and count patterns*
 

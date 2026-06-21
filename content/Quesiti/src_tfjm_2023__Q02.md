@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_tfjm_2023__Q02
 parent: src_tfjm_2023
@@ -34,8 +35,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 2
 
 *Counting orientations of rivers between villages with assigned altitudes so water flows downhill; functions n_k(P) on graph families*
 

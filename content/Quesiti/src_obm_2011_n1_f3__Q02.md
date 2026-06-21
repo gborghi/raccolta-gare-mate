@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f3__Q02
 parent: src_obm_2011_n1_f3
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 2
 
 *Minimum number of equal small cubes to add to a 2 cm red cube to obtain a cube of volume (12/5)^3.*
 

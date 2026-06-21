@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q10
 parent: src_archimede_2013_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 10
 
 *Numero di palline con resto 5 dividendo per 6,7,8,9*
 

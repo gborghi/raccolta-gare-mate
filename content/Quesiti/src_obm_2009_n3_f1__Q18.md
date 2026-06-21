@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q18
 parent: src_obm_2009_n3_f1
@@ -36,8 +37,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 18
 
 *A subset of {1,...,20} is 'superpar' when any two of its elements have an even product; find the maximum number of elements.*
 

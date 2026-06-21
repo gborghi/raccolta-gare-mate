@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q02
 parent: src_kangourou_2024_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 2
 
 *Area del triangolo ANC nel triangolo equilatero*
 

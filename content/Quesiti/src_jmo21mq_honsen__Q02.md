@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2011 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo21mq_honsen__Q02
 parent: src_jmo21mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2011 — Honsen (Final) — Quesito 2
 
 *Find all positive integer quadruples satisfying a^n-1 factored product*
 

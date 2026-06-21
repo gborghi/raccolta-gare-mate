@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q13
 parent: src_archimede_2009_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 13
 
 *Massimo k con k^2 che divide n!/(n-6)! per ogni n>6*
 

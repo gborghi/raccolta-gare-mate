@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f2__Q04
 parent: src_obm_2009_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 4
 
 *Count two-digit integers divisible by each of their digits*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q05
 parent: src_gas_2010_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 5
 
 *Somma numeri 4 cifre con vincoli su somme e parita cifre*
 

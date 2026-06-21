@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q11
 parent: src_kangourou_2021_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 11
 
 *Somma delle taglie dei numeri di 3 cifre distinte*
 

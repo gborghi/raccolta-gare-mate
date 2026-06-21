@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f1__Q06
 parent: src_obm_2008_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 6
 
 *Runners on a regular n-gon track meet at vertices; find n*
 

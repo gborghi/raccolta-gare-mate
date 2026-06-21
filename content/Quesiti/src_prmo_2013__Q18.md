@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q18
 parent: src_prmo_2013
@@ -32,8 +33,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 18
 
 *Maximum k such that 2013 equals sum of k consecutive positive integers*
 

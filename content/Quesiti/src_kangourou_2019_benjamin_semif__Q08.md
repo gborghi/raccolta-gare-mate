@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q08
 parent: src_kangourou_2019_benjamin_semif
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 8
 
 *Numero al terzo posto con somme di consecutivi quadrati*
 

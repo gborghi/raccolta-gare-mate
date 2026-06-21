@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q24
 parent: src_obm_2002_n3_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 24
 
 *Triangle ABC, angle A=60, angle B=50, M midpoint of AB, P on BC with AC+CP=BP; find angle MPC*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q01
 parent: src_canimath_2012_automne
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 1
 
 *Count children in a family from sibling-ratio constraints*
 

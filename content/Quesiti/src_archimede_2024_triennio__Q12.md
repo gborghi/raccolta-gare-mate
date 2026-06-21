@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q12
 parent: src_archimede_2024_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 12
 
 *Area regione entro 3 dal perimetro di quadrilatero circoscritto*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_triennio__Q14
 parent: src_archimede_2018_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Triennio (T1) — Quesito 14
 
 *Probabilita sedia vuota tra ragazzo e ragazza*
 

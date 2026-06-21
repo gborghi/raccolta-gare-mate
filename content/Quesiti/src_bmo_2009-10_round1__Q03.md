@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2009-10 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2009-10_round1__Q03
 parent: src_bmo_2009-10_round1
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2009-10 — Round 1 — Quesito 3
 
 *Count non-increasing sequences of six integer marks from 0–10*
 

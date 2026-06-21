@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q14
 parent: src_kangourou_2021_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 14
 
 *Quanti anni compira Anna (50 anni 50 mesi ...)*
 

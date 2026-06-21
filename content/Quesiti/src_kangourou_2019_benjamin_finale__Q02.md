@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Benjamin — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_finale__Q02
 parent: src_kangourou_2019_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Benjamin — Quesito 2
 
 *Ottenere 2021 dalla calcolatrice con sole operazioni con 2019*
 

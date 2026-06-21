@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin (marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q27
 parent: src_kangourou_2007_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin (marzo) — Quesito 27
 
 *Numero sulla faccia ? (dadi accostati)*
 

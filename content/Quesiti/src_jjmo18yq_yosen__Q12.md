@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo18yq_yosen__Q12
 parent: src_jjmo18yq_yosen
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 12
 
 *All quadruples (a,b,c,d) from 1-9 where every non-empty subset sum avoids multiples of 24*
 

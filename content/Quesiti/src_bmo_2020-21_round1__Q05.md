@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2020-21 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2020-21_round1__Q05
 parent: src_bmo_2020-21_round1
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2020-21 — Round 1 — Quesito 5
 
 *Circle tangent to AC and AB, prove AD=DP implies BP=AC*
 

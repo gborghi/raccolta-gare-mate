@@ -1,4 +1,5 @@
 ---
+title: XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2010__Q05
 parent: src_cesenatico_2010
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 5
 
 *quante stringhe non vincenti*
 

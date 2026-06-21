@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo11yq_yosen__Q11
 parent: src_jjmo11yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 11
 
 *Max of good cells minus bad cells in a grid*
 

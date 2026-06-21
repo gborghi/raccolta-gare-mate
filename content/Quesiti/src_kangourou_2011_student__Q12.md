@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q12
 parent: src_kangourou_2011_student
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 12
 
 *Somme dei quadrati 2x2 uguali a 10 in griglia 3x3*
 

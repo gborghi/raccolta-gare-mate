@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q30
 parent: src_kangourou_2007_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 30
 
 *Quale numero ottenibile con 5 operazioni da 15*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo12mq_honsen__Q05
 parent: src_jjmo12mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 5
 
 *Find all positive integer pairs (n,k) with (n^n+n+2)/(n+1)²=2^k*
 

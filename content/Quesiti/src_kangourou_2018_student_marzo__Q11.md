@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q11
 parent: src_kangourou_2018_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 11
 
 *Quanti componenti del gruppo con 24 paia di calze*
 

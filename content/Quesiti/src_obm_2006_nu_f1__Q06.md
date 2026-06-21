@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f1__Q06
 parent: src_obm_2006_nu_f1
@@ -36,8 +39,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 — Quesito 6
 
 *Probability that minimum pairwise distance exceeds m*
 

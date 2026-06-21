@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q06
 parent: src_prmo_2012
@@ -32,8 +33,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 6
 
 *Count ways postman delivers exactly two letters correctly*
 

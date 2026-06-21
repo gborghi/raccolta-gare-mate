@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q06
 parent: src_kangourou_2017_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Finale — Quesito 6
 
 *parallelogrammi su tastiera*
 

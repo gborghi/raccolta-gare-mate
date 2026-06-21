@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q01
 parent: src_kangourou_squadre_2010_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 1
 
 *Massimo numero formato con cifre date (somma e prodotto)*
 

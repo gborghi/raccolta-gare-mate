@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2005 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2005__Q05
 parent: src_rmo_2005
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2005 — Quesito 5
 
 *Triangle with midpoint of BC and two given angles; find angle BAD*
 

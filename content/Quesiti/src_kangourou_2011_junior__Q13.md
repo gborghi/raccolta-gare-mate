@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q13
 parent: src_kangourou_2011_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 13
 
 *Valore di n se 9^n sommato tre volte da 3^2011*
 

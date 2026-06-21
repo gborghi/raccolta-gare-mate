@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q10
 parent: src_canimath_2025_automne
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 10
 
 *Three distinct integers making x+n, x+m, x+l a geometric progression forces x rational*
 

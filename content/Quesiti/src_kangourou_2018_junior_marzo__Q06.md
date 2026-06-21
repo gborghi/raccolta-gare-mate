@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q06
 parent: src_kangourou_2018_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 6
 
 *Somma cifre P+Q+R+S in addizione crittografata*
 

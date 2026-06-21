@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2001 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2001__Q02
 parent: src_inmo_2001
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2001 — Quesito 2
 
 *Equation x²+y²+z²=(x-y)(y-z)(z-x) has infinitely many integer solutions*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo7mq_honsen__Q05
 parent: src_jjmo7mq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 5
 
 *Perimeter of convex hexagon ≥ sum of three main diagonals at 60°*
 

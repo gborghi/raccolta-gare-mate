@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q04
 parent: src_obm_2016_n3_f1
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 4
 
 *Whether a pyramid over a regular 2016-gon can have 1008 congruent lateral faces; conclusion it cannot*
 

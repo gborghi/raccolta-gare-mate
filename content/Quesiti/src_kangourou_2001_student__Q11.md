@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Student (15 marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_student__Q11
 parent: src_kangourou_2001_student
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Student (15 marzo) — Quesito 11
 
 *Circonferenze tangenti a C1, C2 e r*
 

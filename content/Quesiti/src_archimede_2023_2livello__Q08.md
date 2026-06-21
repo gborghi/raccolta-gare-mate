@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_2livello__Q08
 parent: src_archimede_2023_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2023 - 2° livello — Quesito 8
 
 *Cubo, piano per 6 punti medi, volume tra due piani*
 

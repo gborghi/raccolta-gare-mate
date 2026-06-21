@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r1__Q06
 parent: src_rmo_2013_r1
@@ -34,8 +35,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 1 — Quesito 6
 
 *Prove n divisible by 6 given both quadratics have integer roots*
 

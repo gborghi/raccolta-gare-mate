@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico)
 tipo: gara
 src_id: src_archimede_2002_individuale
 competition: Archimede 2002 - Gara Nazionale Individuale (Cesenatico)
@@ -15,8 +16,6 @@ tags:
   - anno/2002
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara Nazionale Individuale (Cesenatico)
 
 Sorgente: `Archimede/individuale/nazionale/2002/GaraIndividuale2002.pdf` · apri PDF
 

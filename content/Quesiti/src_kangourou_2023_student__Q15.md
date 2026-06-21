@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q15
 parent: src_kangourou_2023_student
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 15
 
 *Coppie di interi con |2m-2023|+|2n-m|<=1*
 

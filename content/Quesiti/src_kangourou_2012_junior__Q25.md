@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q25
 parent: src_kangourou_2012_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 25
 
 *In quanti modi tornare a casa in 13 salti*
 

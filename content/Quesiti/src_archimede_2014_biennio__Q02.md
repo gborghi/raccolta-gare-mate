@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_biennio__Q02
 parent: src_archimede_2014_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 2
 
 *Prodotto di numeri periodici (1,3)·(0,3)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q08
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 8
 
 *Triangolo, cerchi inscritto ed exscritti conciclici, AC minimo*
 

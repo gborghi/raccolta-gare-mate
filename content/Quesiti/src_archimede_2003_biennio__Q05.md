@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q05
 parent: src_archimede_2003_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 5
 
 *Triangoli su stella a 5 punte con angoli regolari*
 

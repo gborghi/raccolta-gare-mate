@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2014 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_printemps__Q06
 parent: src_canimath_2014_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2014 — Quesito 6
 
 *Max circles at equal distance from four non-concyclic points*
 

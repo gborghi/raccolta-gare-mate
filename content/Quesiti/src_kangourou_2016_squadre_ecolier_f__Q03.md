@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q03
 parent: src_kangourou_2016_squadre_ecolier_f
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 3
 
 *Primo anno dopo 2016 con 1 gennaio di nuovo venerdi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q02
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 2
 
 *Litri minimi al minuto per non affondare la barca*
 

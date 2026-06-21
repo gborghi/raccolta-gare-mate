@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo11yq_yosen__Q08
 parent: src_jjmo11yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 8
 
 *Count integer pairs making 201/a + 3/b an integer*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f1__Q19
 parent: src_obm_2012_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 19
 
 *Different rectangular hollow desk arrangements seating 30 students*
 

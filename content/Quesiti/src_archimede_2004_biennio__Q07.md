@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_biennio__Q07
 parent: src_archimede_2004_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Biennio — Quesito 7
 
 *quanti diversi da zero*
 

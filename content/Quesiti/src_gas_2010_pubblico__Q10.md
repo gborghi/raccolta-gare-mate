@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gas_2010_pubblico__Q10
 parent: src_gas_2010_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Gara del Pubblico — Quesito 10
 
 *Diametro sfera con due cerchi ortogonali tangenti in due punti*
 

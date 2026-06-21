@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2022_nu_fx__Q04
 parent: src_obm_2022_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x — Quesito 4
 
 *Convergence of series involving iterated exponential recurrence*
 

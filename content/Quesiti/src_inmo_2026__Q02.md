@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2026 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2026__Q02
 parent: src_inmo_2026
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2026 — Quesito 2
 
 *For f:N->N where f(k) counts the maximum multiplicity in f(1),...,f(k-1) for k>2026, prove f(n)=f(n+1) for infinitely many n.*
 

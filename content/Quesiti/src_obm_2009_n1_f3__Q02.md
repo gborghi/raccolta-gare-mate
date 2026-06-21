@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f3__Q02
 parent: src_obm_2009_n1_f3
@@ -35,8 +36,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 3 — Quesito 2
 
 *3×3 grid filled 1–9; colour by row max/min; optimize difference A−B*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1968 (Tenth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1968_all__Q02
 parent: src_imo_1968_all
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1968 (Tenth International Olympiad) — Quesito 2
 
 *Find naturals where digit product equals x^2-10x-22*
 

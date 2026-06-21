@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2017__Q07
 parent: src_selection_camp_2017
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2017 — Selection Camp — Quesito 7
 
 *Find all positive integer pairs (n,k) with n^4+10n^2+2^k a perfect square*
 

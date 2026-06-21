@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f3__Q05
 parent: src_obm_2007_n1_f3
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 3 — Quesito 5
 
 *Digit sum of 9 times product of 2007-digit repunit fives and twos*
 

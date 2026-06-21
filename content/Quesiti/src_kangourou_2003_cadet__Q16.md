@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q16
 parent: src_kangourou_2003_cadet
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 16
 
 *Numero di terne di bastoncini che formano triangolo*
 

@@ -1,4 +1,5 @@
 ---
+title: XXI Olimpiade Italiana Cesenatico 2005 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005__Q04
 parent: src_cesenatico_2005
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XXI Olimpiade Italiana Cesenatico 2005 — Quesito 4
 
 *n interi a due a due con fattore comune ma a tre a tre coprimi*
 

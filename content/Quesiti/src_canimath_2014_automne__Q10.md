@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2014 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_automne__Q10
 parent: src_canimath_2014_automne
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2014 — Quesito 10
 
 *22 numbered cards; players alternate, units digit of card-sum wins*
 

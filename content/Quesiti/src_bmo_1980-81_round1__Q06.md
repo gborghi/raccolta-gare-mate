@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round1__Q06
 parent: src_bmo_1980-81_round1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 1 — Quesito 6
 
 *Lagrange-interpolation identity: sum of 1/P_i is an integer*
 

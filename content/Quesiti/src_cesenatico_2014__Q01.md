@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2014__Q01
 parent: src_cesenatico_2014
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 1
 
 *Numeri di 3 cifre con n0 (senza zeri) divisore proprio di n*
 

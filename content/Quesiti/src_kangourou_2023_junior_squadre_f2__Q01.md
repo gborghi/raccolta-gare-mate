@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q01
 parent: src_kangourou_2023_junior_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 2 — Quesito 1
 
 *Area trapezio date aree triangoli diagonali*
 

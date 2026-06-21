@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2021-22 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2021-22_round2__Q02
 parent: src_bmo_2021-22_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2021-22 — Round 2 — Quesito 2
 
 *Find all functions satisfying 2yf(f(y)+x)=f(x+1)f(2y)*
 

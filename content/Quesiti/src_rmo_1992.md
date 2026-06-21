@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992
 tipo: gara
 src_id: src_rmo_1992
 competition: Regional Mathematical Olympiad 1992
@@ -15,8 +16,6 @@ tags:
   - anno/1992
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992
 
 Sorgente: apri PDF
 

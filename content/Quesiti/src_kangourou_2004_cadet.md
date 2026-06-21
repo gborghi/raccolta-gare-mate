@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo)
 tipo: gara
 src_id: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2004/CMarzo-04.pdf` · apri PDF
 

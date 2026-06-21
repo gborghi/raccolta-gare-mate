@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_tfjm_2023__Q05
 parent: src_tfjm_2023
@@ -37,8 +38,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 5
 
 *Sets of points/polygons with all integer-degree angles; maxima under convexity, concyclicity, collinearity, and two-line constraints*
 

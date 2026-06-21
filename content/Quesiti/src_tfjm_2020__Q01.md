@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_tfjm_2020__Q01
 parent: src_tfjm_2020
@@ -33,8 +34,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 1
 
 *Domino puzzle tiling completion on k×n grids*
 

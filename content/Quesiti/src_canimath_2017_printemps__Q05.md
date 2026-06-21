@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2017 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_printemps__Q05
 parent: src_canimath_2017_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2017 — Quesito 5
 
 *Maximum consecutive odd numbers when repeatedly adding largest digit*
 

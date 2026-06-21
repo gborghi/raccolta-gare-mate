@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2009 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2009__Q06
 parent: src_rmo_2009
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2009 — Quesito 6
 
 *Pages torn from book 1–100 with remaining page-sum 4949; find torn count*
 

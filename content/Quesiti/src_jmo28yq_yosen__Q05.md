@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo28yq_yosen__Q05
 parent: src_jmo28yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 5
 
 *Counting flip-sequences turning alternating Othello row all black*
 

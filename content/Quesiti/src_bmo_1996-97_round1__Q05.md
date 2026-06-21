@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1996-97 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1996-97_round1__Q05
 parent: src_bmo_1996-97_round1
@@ -29,8 +30,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1996-97 — Round 1 — Quesito 5
 
 *Positive reals x, y with x+y>=2; two inequality questions*
 

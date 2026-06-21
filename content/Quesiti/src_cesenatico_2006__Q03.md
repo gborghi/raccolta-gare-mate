@@ -1,4 +1,5 @@
 ---
+title: XXII Olimpiade Italiana Cesenatico 2006 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006__Q03
 parent: src_cesenatico_2006
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# XXII Olimpiade Italiana Cesenatico 2006 — Quesito 3
 
 *Circonferenza e due punti A,B; locus dei punti C*
 

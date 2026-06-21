@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f2__Q04
 parent: src_obm_2005_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 4
 
 *Functional equation f(x+f(y))=x+f(f(y)), find f(2005)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q13
 parent: src_kangourou_2023_junior_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 2 — Quesito 13
 
 *Percorsi minimi pedina su scacchiera 8x8*
 

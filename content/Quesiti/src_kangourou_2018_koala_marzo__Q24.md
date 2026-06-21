@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q24
 parent: src_kangourou_2018_koala_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 24
 
 *Giocattolo piu economico e piu costoso dai prezzi*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n1_f1__Q13
 parent: src_obm_2000_n1_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 13
 
 *Sequence in columns: under which letter does 2000 appear*
 

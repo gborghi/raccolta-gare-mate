@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo22yq_yosen__Q06
 parent: src_jmo22yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 6
 
 *2×100 grid red/blue coloring with parity and existence constraints*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n1_fx__Q02
 parent: src_obm_2019_n1_fx
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 2
 
 *Count ways to place colored tiles on a 2×5 grid*
 

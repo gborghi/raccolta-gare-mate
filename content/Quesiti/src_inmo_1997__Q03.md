@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1997 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1997__Q03
 parent: src_inmo_1997
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1997 — Quesito 3
 
 *Distinct reals a,b,c with cyclic sum condition imply abc+t=0*
 

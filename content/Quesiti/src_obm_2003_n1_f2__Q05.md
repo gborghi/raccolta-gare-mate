@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f2__Q05
 parent: src_obm_2003_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 5
 
 *Ferris wheel with 25 cabins; how many cabins total*
 

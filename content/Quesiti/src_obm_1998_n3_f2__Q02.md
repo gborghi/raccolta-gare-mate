@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f2__Q02
 parent: src_obm_1998_n3_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 2
 
 *Two children take turns eating balls; strategy for second player to win*
 

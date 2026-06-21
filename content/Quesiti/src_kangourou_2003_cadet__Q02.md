@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q02
 parent: src_kangourou_2003_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 2
 
 *Max caselle 4x4 intersecate da una retta*
 

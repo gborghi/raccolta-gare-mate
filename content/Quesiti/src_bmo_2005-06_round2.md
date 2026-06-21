@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2005-06 — Round 2
 tipo: gara
 src_id: src_bmo_2005-06_round2
 competition: British Mathematical Olympiad 2005-06 — Round 2
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2005-06 — Round 2
 
 Sorgente: apri PDF
 

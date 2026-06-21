@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_gara_cd_rd__Q02
 parent: src_archimede_2026_squadre_gara_cd_rd
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 2
 
 *Somma coefficienti grado pari di (3-2x-3x^2)^21*
 

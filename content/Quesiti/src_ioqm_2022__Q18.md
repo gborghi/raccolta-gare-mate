@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q18
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 18
 
 *Natural numbers m,n with m+3n-5=2LCM(m,n)-11GCD(m,n), find maximum m+n*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f1__Q01
 parent: src_obm_2000_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 1
 
 *Count positive integers less than 1,000,000 whose perfect cube ends in digit 1*
 

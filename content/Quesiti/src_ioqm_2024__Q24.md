@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q24
 parent: src_ioqm_2024
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 24
 
 *Count degree-14 polynomials in F such that product with q(x)=x^3+x+1 stays in F*
 

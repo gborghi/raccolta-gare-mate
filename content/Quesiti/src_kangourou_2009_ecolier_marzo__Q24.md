@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q24
 parent: src_kangourou_2009_ecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 24
 
 *Minimo numero di amici (scarpe Piedistrani)*
 

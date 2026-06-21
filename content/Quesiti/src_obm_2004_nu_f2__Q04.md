@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2004_nu_f2__Q04
 parent: src_obm_2004_nu_f2
@@ -34,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 — Quesito 4
 
 *Construct integer polynomial vanishing at P_j but not divisible by p at Q*
 

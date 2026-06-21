@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo34yqa_yosen__Q07
 parent: src_jmo34yqa_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 7
 
 *Count pairs (p,a) with p prime >= 3 and ap^4+2p^3+2p^2+1 a perfect square*
 

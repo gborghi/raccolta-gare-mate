@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n1_f1__Q11
 parent: src_obm_2005_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 11
 
 *Mirror image of clock showing 2h23min*
 

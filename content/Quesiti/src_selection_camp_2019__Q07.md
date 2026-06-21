@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2019__Q07
 parent: src_selection_camp_2019
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2019 — Selection Camp — Quesito 7
 
 *Min moves to gather n stones onto cell n via right shifts of up to k*
 

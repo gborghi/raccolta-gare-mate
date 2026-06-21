@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f1__Q16
 parent: src_obm_2014_n1_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 16
 
 *Marble game: Adao lost 5, Bernardo lost 4, Carlos gained them; minimum total*
 

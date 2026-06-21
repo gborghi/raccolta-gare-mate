@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q20
 parent: src_kangourou_2022_benjamin_gara
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 20
 
 *Massima somma su ciascun segmento con 3..9*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale2__Q11
 parent: src_squadre_2023_semifinale2
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2 — Quesito 11
 
 *Disposizioni numeri 1-8 su scacchiera triangolare con vincoli*
 

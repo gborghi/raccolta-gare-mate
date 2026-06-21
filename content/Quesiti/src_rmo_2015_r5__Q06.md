@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 5 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r5__Q06
 parent: src_rmo_2015_r5
@@ -35,8 +36,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 5 — Quesito 6
 
 *Sum over ordered triples of subsets, express in terms of n*
 

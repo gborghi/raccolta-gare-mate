@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n3_f1__Q24
 parent: src_obm_1999_n3_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 24
 
 *Total digits when writing 2^1999 and 5^1999 side by side*
 

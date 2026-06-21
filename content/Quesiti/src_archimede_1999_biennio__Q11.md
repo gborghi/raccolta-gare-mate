@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_biennio__Q11
 parent: src_archimede_1999_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Biennio — Quesito 11
 
 *Per quanti minuti ore e minuti sono quadrati perfetti*
 

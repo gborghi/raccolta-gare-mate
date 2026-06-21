@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q02
 parent: src_archimede_2009_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 2
 
 *Giri ruota posteriore data ruota anteriore e raggi*
 

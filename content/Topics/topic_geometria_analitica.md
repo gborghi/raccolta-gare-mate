@@ -1,11 +1,10 @@
 ---
+title: Geometria analitica
 tipo: topic
 concept_id: topic_geometria_analitica
 tags:
   - graph/topic
 ---
-
-# Geometria analitica
 
 *topic* — **104** quesiti (italiani).
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f2__Q09
 parent: src_obm_2004_n1_f2
@@ -39,8 +40,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 9
 
 *Digit-count toy: iterated row description gives sequence; find digits on line 10 and 2006*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f2__Q08
 parent: src_obm_2009_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 8
 
 *Count elements of union of sets A_n defined via floor function*
 

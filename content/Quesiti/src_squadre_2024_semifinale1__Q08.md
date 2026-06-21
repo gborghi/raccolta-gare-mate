@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale1__Q08
 parent: src_squadre_2024_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 1 — Quesito 8
 
 *Possibili numeri di membri Organizzazione, dichiarazioni a tavola*
 

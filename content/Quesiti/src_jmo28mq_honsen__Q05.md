@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo28mq_honsen__Q05
 parent: src_jmo28mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 5
 
 *find all functions on pairs with level-set and shift conditions*
 

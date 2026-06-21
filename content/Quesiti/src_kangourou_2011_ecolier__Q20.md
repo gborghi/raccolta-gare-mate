@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q20
 parent: src_kangourou_2011_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 20
 
 *Quanti numeri di tre cifre con le tre carte 9,9,8*
 

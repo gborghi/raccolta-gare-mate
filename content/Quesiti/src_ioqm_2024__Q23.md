@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q23
 parent: src_ioqm_2024
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 23
 
 *Smallest n such that fourth powers 1^4,...,14^4 have distinct remainders mod n*
 

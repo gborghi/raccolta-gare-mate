@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo13yq_yosen__Q08
 parent: src_jjmo13yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 8
 
 *Distribute 5-color balls to A,B,C so each holds 0 or >=2 of each color*
 

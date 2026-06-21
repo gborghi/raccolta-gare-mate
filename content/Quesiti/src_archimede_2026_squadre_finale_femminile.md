@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2026 - IX Finale Nazionale
 tipo: gara
 src_id: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2026 - IX Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2026/finale_femminile_2026_testi.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q09
 parent: src_kangourou_2018_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2018 Semifinale A — Quesito 9
 
 *Risultato della differenza di prodotti vicini a 20182018*
 

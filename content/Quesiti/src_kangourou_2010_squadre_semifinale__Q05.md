@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre semifinale turno A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q05
 parent: src_kangourou_2010_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre semifinale turno A — Quesito 5
 
 *Ultime due cifre dell'ultimo termine sequenza q=p+p^2*
 

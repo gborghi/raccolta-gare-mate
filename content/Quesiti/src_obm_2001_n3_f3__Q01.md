@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f3__Q01
 parent: src_obm_2001_n3_f3
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3 — Quesito 1
 
 *Prove an inequality between a product and a geometric-mean term for three positive reals*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q10
 parent: src_kangourou_2009_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale — Quesito 10
 
 *Somma numeri di 4 cifre con condizioni di divisibilita*
 

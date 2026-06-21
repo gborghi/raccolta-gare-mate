@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Student (finale nazionale) — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_student_finale__QS1
 parent: src_kangourou_2005_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Student (finale nazionale) — Quesito S1
 
 *Suddividere esagono regolare in 8 parti uguali*
 

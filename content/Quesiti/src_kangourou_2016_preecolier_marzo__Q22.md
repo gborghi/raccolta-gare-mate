@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q22
 parent: src_kangourou_2016_preecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 22
 
 *Disegno ottenibile sovrapponendo cartoncini colorati*
 

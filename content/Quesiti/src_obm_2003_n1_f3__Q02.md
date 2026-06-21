@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f3__Q02
 parent: src_obm_2003_n1_f3
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 3 — Quesito 2
 
 *Longest sequence ending in 103 where each term plus its digit sum gives the next term*
 

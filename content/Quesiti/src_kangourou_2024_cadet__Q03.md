@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q03
 parent: src_kangourou_2024_cadet
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 3
 
 *Quanti numeri di 4 cifre con i tre gettoni 1,5,11*
 

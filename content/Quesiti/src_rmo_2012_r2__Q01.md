@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r2__Q01
 parent: src_rmo_2012_r2
@@ -30,8 +31,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 2 — Quesito 1
 
 *Quadrant circle inscribed in unit square, find radius*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo14mq_honsen__Q04
 parent: src_jmo14mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 4
 
 *Prove sum inequality for positive reals with a+b+c=1*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q13
 parent: src_archimede_2002_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 13
 
 *Livello acqua dopo immersione cubo nella vasca*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_a__Q03
 parent: src_cesenatico_2012_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 3
 
 *Minimo numero >=7 cifre con divisore di 4 cifre*
 

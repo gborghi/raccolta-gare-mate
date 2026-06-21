@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n3_fx__Q04
 parent: src_obm_2021_n3_fx
@@ -37,8 +38,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 4
 
 *Find smallest real belonging to every framed (bounded, closed under (a-b)^2) set*
 

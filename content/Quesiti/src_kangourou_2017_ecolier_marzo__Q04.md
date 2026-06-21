@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q04
 parent: src_kangourou_2017_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 4
 
 *Numero coperto dal muso del panda*
 

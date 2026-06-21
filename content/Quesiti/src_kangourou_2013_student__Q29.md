@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q29
 parent: src_kangourou_2013_student
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 29
 
 *Valore a100 con a_{m+n}=a_m+a_n+mn*
 

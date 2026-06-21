@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q28
 parent: src_kangourou_2006_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 28
 
 *Area regione ? (rettangolo suddiviso da M,N)*
 

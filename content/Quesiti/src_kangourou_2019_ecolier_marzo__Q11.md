@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q11
 parent: src_kangourou_2019_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Ecolier — Quesito 11
 
 *Peso intero di ognuno dei tre cani (bilance)*
 

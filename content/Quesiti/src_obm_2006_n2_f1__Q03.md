@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f1__Q03
 parent: src_obm_2006_n2_f1
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 3
 
 *Two-digit number, 5 times digit sum equals 6 times swapped digit sum*
 

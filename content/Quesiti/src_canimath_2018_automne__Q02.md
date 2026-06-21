@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2018 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_automne__Q02
 parent: src_canimath_2018_automne
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2018 — Quesito 2
 
 *Triangle ABC, interior point O, sum of three parallel-line ratios equals 1*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round1__Q03
 parent: src_bmo_1980-81_round1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 1 — Quesito 3
 
 *Bound on number of tetrahedra cut in quadrilaterals by a plane*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2000
 tipo: gara
 src_id: src_rmo_2000
 competition: Regional Mathematical Olympiad 2000
@@ -15,8 +16,6 @@ tags:
   - anno/2000
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2000
 
 Sorgente: apri PDF
 

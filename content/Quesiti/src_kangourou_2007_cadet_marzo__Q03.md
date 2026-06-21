@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q03
 parent: src_kangourou_2007_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 3
 
 *In quale buca cade la palla (45 gradi)*
 

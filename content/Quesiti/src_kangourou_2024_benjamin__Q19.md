@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q19
 parent: src_kangourou_2024_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 19
 
 *Numero nel cerchio col punto interrogativo, somme allineate 23*
 

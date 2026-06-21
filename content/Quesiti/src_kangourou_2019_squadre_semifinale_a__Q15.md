@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q15
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 15
 
 *Cifra di AGRO in KANGAROO divisibile per 15*
 

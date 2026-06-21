@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Finale
 tipo: gara
 src_id: src_kangourou_2017_squadre_f
 competition: Kangourou Coppa Squadre 2017 Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2017/SQ-F-17.pdf` · apri PDF
 

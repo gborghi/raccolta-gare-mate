@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q30
 parent: src_kangourou_2017_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 30
 
 *Modi di colorare mappa di 4 regioni con 4 colori*
 

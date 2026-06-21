@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q16
 parent: src_febbraio_2005
@@ -20,8 +21,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 16
 
 *Quesito febbraio 2005 n.16*
 

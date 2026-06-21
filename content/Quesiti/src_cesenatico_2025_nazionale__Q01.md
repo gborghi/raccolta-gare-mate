@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q01
 parent: src_cesenatico_2025_nazionale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 1
 
 *Minimo n con n=225 s(n) e n=225 s(n)^2*
 

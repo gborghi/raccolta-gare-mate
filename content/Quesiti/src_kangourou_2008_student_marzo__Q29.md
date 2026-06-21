@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q29
 parent: src_kangourou_2008_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 29
 
 *Quante sbarrette per 61 ottagoni*
 

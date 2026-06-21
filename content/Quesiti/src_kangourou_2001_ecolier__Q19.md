@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q19
 parent: src_kangourou_2001_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 19
 
 *Giunti usati nella costruzione di 4 cubi*
 

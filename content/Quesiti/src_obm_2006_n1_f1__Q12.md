@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n1_f1__Q12
 parent: src_obm_2006_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 12
 
 *Logic puzzle: six friends travelling in pairs by different transports*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q07
 parent: src_gsm_2021_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 7
 
 *Modi di allacciare un laccio attraverso sei asole*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q18
 parent: src_squadre_2018_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 18
 
 *Date g1g2m1m2 prodotto di due primi specchiati, somma valori*
 

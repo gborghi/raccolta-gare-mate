@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo10yq_yosen__Q12
 parent: src_jjmo10yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 12
 
 *Circle X inscribed in quadrilateral PQRS; find radius of circle X given radii of A,B,C,D*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1997 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_1997__Q05
 parent: src_rmo_1997
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1997 — Quesito 5
 
 *Determine if three real expressions can be triangle side lengths*
 

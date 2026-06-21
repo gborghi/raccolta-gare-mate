@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (finale nazionale) — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior_finale__QJ1
 parent: src_kangourou_2005_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (finale nazionale) — Quesito J1
 
 *Minimo lacci comprati da Silvia*
 

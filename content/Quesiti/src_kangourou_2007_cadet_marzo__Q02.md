@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q02
 parent: src_kangourou_2007_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 2
 
 *Fra quanti anni Billy avra 10 (eta)*
 

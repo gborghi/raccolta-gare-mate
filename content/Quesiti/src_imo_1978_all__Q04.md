@@ -1,4 +1,5 @@
 ---
+title: IMO 1978 (Twentieth International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1978_all__Q04
 parent: src_imo_1978_all
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1978 (Twentieth International Olympiad) — Quesito 4
 
 *Midpoint of tangency chord PQ is incircle center*
 

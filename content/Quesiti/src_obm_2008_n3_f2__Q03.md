@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f2__Q03
 parent: src_obm_2008_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 3
 
 *Sum of all 4-digit autoreplicating numbers (last digits of n² equal n)*
 

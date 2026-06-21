@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Semifinale individuale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin_semifinale__Q07
 parent: src_kangourou_2023_benjamin_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Semifinale individuale — Quesito 7
 
 *giro di Bill*
 

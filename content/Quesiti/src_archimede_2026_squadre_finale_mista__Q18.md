@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q18
 parent: src_archimede_2026_squadre_finale_mista
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 18
 
 *Somma potenze 16-esime delle radici del polinomio*
 

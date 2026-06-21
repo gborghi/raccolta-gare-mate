@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo11yq_yosen__Q10
 parent: src_jjmo11yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 10
 
 *Minimal PQ for circles through hexagon vertex pairs*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n2_fx__Q06
 parent: src_obm_2020_n2_fx
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 6
 
 *Find k for which Arnaldo wins a 2020x2020 coloring board game*
 

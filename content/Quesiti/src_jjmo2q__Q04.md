@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q04
 parent: src_jjmo2q
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 4
 
 *System of equations in positive integers, find n*
 

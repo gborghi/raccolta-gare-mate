@@ -1,4 +1,5 @@
 ---
+title: XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2010__Q01
 parent: src_cesenatico_2010
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 1
 
 *medie promossi/bocciati prima e dopo +5*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1967 (Ninth International Olympiad)
 tipo: gara
 src_id: src_imo_1967_all
 competition: IMO 1967 (Ninth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1967
   - gara/individuale
 ---
-
-# IMO 1967 (Ninth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1967_eng.pdf` · apri PDF
 

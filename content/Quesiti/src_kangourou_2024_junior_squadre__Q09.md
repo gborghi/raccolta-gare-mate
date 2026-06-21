@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q09
 parent: src_kangourou_2024_junior_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 1 — Quesito 9
 
 *Numeri 12 cifre 1,2,3 con adiacenti diff 1*
 

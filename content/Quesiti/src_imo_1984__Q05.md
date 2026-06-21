@@ -1,4 +1,5 @@
 ---
+title: IMO 1984 (25th International Mathematical Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1984__Q05
 parent: src_imo_1984
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1984 (25th International Mathematical Olympiad) — Quesito 5
 
 *Bound diagonal-sum to perimeter ratio of convex polygon*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q10
 parent: src_kangourou_2011_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 10
 
 *Quanti ragazzi nella classe con gatti cani pesci*
 

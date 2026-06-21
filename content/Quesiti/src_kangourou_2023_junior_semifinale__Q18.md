@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q18
 parent: src_kangourou_2023_junior_semifinale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 18
 
 *Intero piu vicino a p dato rapporto perimetri quadrato smussato*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q14
 parent: src_archimede_2010_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 14
 
 *Area minima dell'ombra della piramide al sole a 45°*
 

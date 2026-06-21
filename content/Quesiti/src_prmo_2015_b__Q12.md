@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q12
 parent: src_prmo_2015_b
@@ -32,8 +33,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 12
 
 *Rectangle ABCD with point P on AD, angle BPC=90°; sum of incircle radii*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f3__Q02
 parent: src_obm_2015_n3_f3
@@ -39,8 +40,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 2
 
 *Largest k so every 4n-element subset contains k pairs {a,b} with b multiple of a*
 

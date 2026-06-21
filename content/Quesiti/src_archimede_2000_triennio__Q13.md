@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q13
 parent: src_archimede_2000_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 13
 
 *Rapporto aree esagono e poligono stellato interno*
 

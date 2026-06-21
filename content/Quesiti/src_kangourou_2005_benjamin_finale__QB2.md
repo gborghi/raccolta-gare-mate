@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (finale nazionale) — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin_finale__QB2
 parent: src_kangourou_2005_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (finale nazionale) — Quesito B2
 
 *Eccedenza area del terreno mal delimitato*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1975 (Seventeenth International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1975_all__Q05
 parent: src_imo_1975_all
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1975 (Seventeenth International Olympiad) — Quesito 5
 
 *1975 points on unit circle with rational pairwise distances*
 

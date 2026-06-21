@@ -1,4 +1,5 @@
 ---
+title: XXI Olimpiade Italiana Cesenatico 2005 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005__Q03
 parent: src_cesenatico_2005
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# XXI Olimpiade Italiana Cesenatico 2005 — Quesito 3
 
 *Tabella 4x4 di cifre 1 e 2 con somme dei 3x3 multiple di 4*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_b__Q15
 parent: src_cesenatico_2012_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 15
 
 *Minimo numero >=5 cifre con divisore di 4 cifre*
 

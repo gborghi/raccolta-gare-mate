@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_triennio__Q12
 parent: src_archimede_2010_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Triennio — Quesito 12
 
 *Valori n con radici intere distinte di 3x^2+2nx+3*
 

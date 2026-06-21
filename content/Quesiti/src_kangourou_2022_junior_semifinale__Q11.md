@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q11
 parent: src_kangourou_2022_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale — Quesito 11
 
 *Due esagoni regolari con lati perpendicolari, angolo ABC*
 

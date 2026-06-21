@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_garaprime_2020__Q17
 parent: src_garaprime_2020
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020 — Quesito 17
 
 *Differenza aree max-min quadrato in un ottagono*
 

@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
+  Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f1__Q01
 parent: src_obm_2006_nu_f1
@@ -31,8 +34,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 — Quesito 1
 
 *Compute an improper integral involving exponential*
 

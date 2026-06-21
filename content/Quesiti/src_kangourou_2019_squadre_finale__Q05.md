@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q05
 parent: src_kangourou_2019_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 5
 
 *Quanti fattori 55 per ottenere 5^55*
 

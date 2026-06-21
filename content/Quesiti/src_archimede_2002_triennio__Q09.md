@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Triennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_triennio__Q09
 parent: src_archimede_2002_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Triennio — Quesito 9
 
 *Volume di due oggetti dati densita e differenza peso*
 

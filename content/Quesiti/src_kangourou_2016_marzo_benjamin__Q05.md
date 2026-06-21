@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q05
 parent: src_kangourou_2016_marzo_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 gara 17 marzo Benjamin — Quesito 5
 
 *area del quadrato piu piccolo*
 

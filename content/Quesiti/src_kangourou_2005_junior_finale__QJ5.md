@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (finale nazionale) — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior_finale__QJ5
 parent: src_kangourou_2005_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (finale nazionale) — Quesito J5
 
 *Prodotto dei fattoriali non quadrato ma lo e diviso 50!*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q19
 parent: src_archimede_2011_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 19
 
 *Terne primi minori di 100 con p^2+q^2=r*
 

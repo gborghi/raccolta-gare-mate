@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q01
 parent: src_gas_2010_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 1
 
 *Anni multipli auto-referenziale fino al 2010*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q12
 parent: src_kangourou_2012_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 12
 
 *Area dell'aiuola dei piselli prima della variazione*
 

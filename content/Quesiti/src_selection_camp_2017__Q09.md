@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2017__Q09
 parent: src_selection_camp_2017
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2017 — Selection Camp — Quesito 9
 
 *Ferry network on n islands: prove some island eventually connected to all others*
 

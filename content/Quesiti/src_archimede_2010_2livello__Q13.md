@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q13
 parent: src_archimede_2010_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 13
 
 *Codice numero massimo con ogni sottosequenza prima*
 

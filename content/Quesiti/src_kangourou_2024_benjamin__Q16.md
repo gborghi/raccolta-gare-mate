@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q16
 parent: src_kangourou_2024_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 16
 
 *Area ombreggiata nella seconda figura di quadrati uguali*
 

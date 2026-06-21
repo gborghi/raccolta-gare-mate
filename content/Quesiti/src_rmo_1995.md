@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1995
 tipo: gara
 src_id: src_rmo_1995
 competition: Regional Mathematical Olympiad 1995
@@ -15,8 +16,6 @@ tags:
   - anno/1995
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1995
 
 Sorgente: apri PDF
 

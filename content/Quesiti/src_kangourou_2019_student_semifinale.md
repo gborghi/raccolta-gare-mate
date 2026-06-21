@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student
 tipo: gara
 src_id: src_kangourou_2019_student_semifinale
 competition: Kangourou 2019 Semifinale Student
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/Student_Semif_19TESTO.pdf` · apri PDF
 

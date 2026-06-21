@@ -1,4 +1,5 @@
 ---
+title: IMO 1961 (III International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imho_1961__Q01
 parent: src_imho_1961
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1961 (III International Olympiad) — Quesito 1
 
 *Sistema x+y+z=a, x^2+y^2+z^2=b^2, xy=z^2 con condizioni*
 

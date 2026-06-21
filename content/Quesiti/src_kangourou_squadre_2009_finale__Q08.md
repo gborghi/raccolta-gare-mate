@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q08
 parent: src_kangourou_squadre_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 8
 
 *rettangolo 36x81 ricomposto in quadrato*
 

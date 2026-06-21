@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q09
 parent: src_kangourou_2021_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 9
 
 *Terzo triangolo con vincoli su area/isoscele/retto*
 

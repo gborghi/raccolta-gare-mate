@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2012 - Gara a squadre — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gs_2012_squadre__Q02
 parent: src_gs_2012_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Galileo 2012 - Gara a squadre — Quesito 2
 
 *Ultime due cifre di 2^99 via periodicita*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q24
 parent: src_kangourou_2017_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 24
 
 *Minimo risultati diversi aggiungendo 2 o 5 a 1..9*
 

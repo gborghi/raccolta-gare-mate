@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2015-16 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2015-16_round1__Q04
 parent: src_bmo_2015-16_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2015-16 — Round 1 — Quesito 4
 
 *James jar of 100 pebbles game; determine positions from which second player wins.*
 

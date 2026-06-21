@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q07
 parent: src_kangourou_2017_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Gara 16 marzo — Quesito 7
 
 *Percentuale di successi a scacchi*
 

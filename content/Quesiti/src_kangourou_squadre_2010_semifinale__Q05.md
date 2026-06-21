@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q05
 parent: src_kangourou_squadre_2010_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 5
 
 *Ultime due cifre dell'ultimo termine di sequenza q=p+p^2*
 

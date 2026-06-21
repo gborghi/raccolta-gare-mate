@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q03
 parent: src_kangourou_2017_squadre_junior_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 3
 
 *Somma di 100 e degli interi z con z^2+12 divisibile z+4*
 

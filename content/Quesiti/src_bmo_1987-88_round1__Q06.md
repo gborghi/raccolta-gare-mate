@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round1__Q06
 parent: src_bmo_1987-88_round1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 1 — Quesito 6
 
 *Show least positive value of (x²+y²)/y subject to quadratic constraint is 1/2*
 

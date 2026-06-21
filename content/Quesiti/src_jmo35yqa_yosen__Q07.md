@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q07
 parent: src_jmo35yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 7
 
 *On a 20x25 grid, fill turns writing n along right/up-adjacent chains, minimizing turns; count final fillings*
 

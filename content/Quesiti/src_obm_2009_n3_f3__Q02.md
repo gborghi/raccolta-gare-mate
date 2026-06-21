@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f3__Q02
 parent: src_obm_2009_n3_f3
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3 — Quesito 2
 
 *Safe prime q=2p+1; prove q has a multiple with digit sum ≤3*
 

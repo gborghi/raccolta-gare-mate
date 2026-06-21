@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f3__Q03
 parent: src_obm_2002_n3_f3
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 3
 
 *Number cells of m×n grid so adjacent cells in rows i and i+1 share a common side*
 

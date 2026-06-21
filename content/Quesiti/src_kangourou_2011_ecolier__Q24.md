@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q24
 parent: src_kangourou_2011_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 24
 
 *Da quanti esagoni e formata la quinta figura*
 

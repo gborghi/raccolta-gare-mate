@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q12
 parent: src_kangourou_2009_squadre_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 12
 
 *Denominatore del prodotto telescopico (1-2/n)*
 

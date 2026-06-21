@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre semifinale turno A — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q07
 parent: src_kangourou_2010_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre semifinale turno A — Quesito 7
 
 *Somma interi pari n con -53<2010/(53-n)<53-n*
 

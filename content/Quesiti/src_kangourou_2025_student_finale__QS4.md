@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Student finale — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_student_finale__QS4
 parent: src_kangourou_2025_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2025 Student finale — Quesito S4
 
 *Strategia scelta mazzi di carte rosse/verdi*
 

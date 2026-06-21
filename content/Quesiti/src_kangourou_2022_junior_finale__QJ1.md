@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior finale individuale — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_finale__QJ1
 parent: src_kangourou_2022_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior finale individuale — Quesito J1
 
 *Ogni termine della sequenza 1007,10017,... divisibile per 53*
 

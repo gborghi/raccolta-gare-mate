@@ -1,4 +1,5 @@
 ---
+title: IMO 2022 papers — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2022__Q03
 parent: src_imo_2022
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2022 papers — Quesito 3
 
 *Unico modo di disporre primi con prodotto x^2+x+k*
 

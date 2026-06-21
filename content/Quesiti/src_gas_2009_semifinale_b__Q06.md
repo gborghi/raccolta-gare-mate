@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q06
 parent: src_gas_2009_semifinale_b
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 6
 
 *Ultime 4 cifre numeratore frazione minima con ab=28!*
 

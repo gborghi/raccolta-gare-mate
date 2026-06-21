@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f1__Q13
 parent: src_obm_2013_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 13
 
 *Billiards: minimum speed for Jade's ball to meet a ball hit at 60 km/h, 30 degrees, balls 50 cm apart*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q05
 parent: src_cesenatico_2012_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 5
 
 *Max puntate scontro Gonioku-Vieta*
 

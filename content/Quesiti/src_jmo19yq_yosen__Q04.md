@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo19yq_yosen__Q04
 parent: src_jmo19yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 4
 
 *Minimum angle BAC given AB=4 and median AM=1*
 

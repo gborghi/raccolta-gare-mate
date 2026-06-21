@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q02
 parent: src_kangourou_2023_kangourou_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 2
 
 *Segmento AE in trapezio isoscele con triangolo*
 

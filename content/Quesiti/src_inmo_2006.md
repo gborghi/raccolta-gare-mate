@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2006
 tipo: gara
 src_id: src_inmo_2006
 competition: Indian National Mathematical Olympiad 2006
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2006
 
 Sorgente: apri PDF
 

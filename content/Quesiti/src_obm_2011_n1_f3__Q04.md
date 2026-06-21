@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f3__Q04
 parent: src_obm_2011_n1_f3
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 4
 
 *Square of area 64 with center O; OA=OC=2, AB=CD=4 and a chain of perpendicular segments; find areas of trapezoid ABCO and quadrilateral BCDE.*
 

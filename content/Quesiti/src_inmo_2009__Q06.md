@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2009 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2009__Q06
 parent: src_inmo_2009
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2009 — Quesito 6
 
 *For positive reals with a³+b³=c³, prove a²+b²−c²≥6(c−a)(c−b)*
 

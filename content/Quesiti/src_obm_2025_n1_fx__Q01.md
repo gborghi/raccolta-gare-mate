@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n1_fx__Q01
 parent: src_obm_2025_n1_fx
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 1
 
 *Years whose last two digits divide the year exactly: find the next three after 2025, and count them between 1900 and 1999.*
 

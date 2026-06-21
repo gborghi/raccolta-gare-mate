@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio
 tipo: gara
 src_id: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/1996
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/1996/Archimede1996/testo triennio.pdf` · apri PDF
 

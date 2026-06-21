@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1989__Q05
 parent: src_imo_1989
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1989 (30th IMO, Braunschweig) — Quesito 5
 
 *n consecutive integers none a prime power*
 

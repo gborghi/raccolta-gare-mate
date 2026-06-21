@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q12
 parent: src_archimede_2007_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 12
 
 *Percorsi su lati e diagonali di un quadrato*
 

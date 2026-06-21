@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2014 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_automne__Q06
 parent: src_canimath_2014_automne
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2014 — Quesito 6
 
 *Equilateral triangle of same perimeter as a square; compare the areas*
 

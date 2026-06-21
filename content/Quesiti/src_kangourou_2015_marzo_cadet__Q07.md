@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Cadet — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q07
 parent: src_kangourou_2015_marzo_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Cadet — Quesito 7
 
 *spigolo che coincide con UV*
 

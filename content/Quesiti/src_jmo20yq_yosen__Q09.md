@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo20yq_yosen__Q09
 parent: src_jmo20yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 9
 
 *Count row arrangements of 2010 white and 2010 black stones with an odd number of adjacent white-then-black pairs*
 

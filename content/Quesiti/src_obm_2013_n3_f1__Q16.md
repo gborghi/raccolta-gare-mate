@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f1__Q16
 parent: src_obm_2013_n3_f1
@@ -36,8 +37,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 16
 
 *Zigzag chain of equal segments between two lines through A; angle B1AB2=1 degree, max n*
 

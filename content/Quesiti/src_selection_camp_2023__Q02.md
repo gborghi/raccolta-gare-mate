@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2023__Q02
 parent: src_selection_camp_2023
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2023 — Selection Camp — Quesito 2
 
 *Max number of L-shaped 2023-cell tiles on 2023x2023 board*
 

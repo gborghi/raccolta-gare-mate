@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q13
 parent: src_kangourou_2018_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 13
 
 *Numeri 4 cifre con cifre 1 2 3 senza adiacenti uguali*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1996-97 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1996-97_round2__Q01
 parent: src_bmo_1996-97_round2
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1996-97 — Round 2 — Quesito 1
 
 *Divisibility by 7 preserved under digit swaps between two integers*
 

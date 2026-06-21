@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q05
 parent: src_squadre_2025_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 5
 
 *Numeri 5 cifre con resto 3 mod 4 e invertiti resto 3 mod 5*
 

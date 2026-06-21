@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q14
 parent: src_kangourou_2017_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 14
 
 *Possibili accoppiate primo-secondo nel menu*
 

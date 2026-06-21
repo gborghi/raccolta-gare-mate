@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q28
 parent: src_prmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 28
 
 *Least p+q for primes p,q such that n^(3pq)-n is multiple of 3pq for all positive integers n*
 

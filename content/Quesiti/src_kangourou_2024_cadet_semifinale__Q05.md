@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q05
 parent: src_kangourou_2024_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 5
 
 *Quale parola e divisibile per 11 (KANGAROO)*
 

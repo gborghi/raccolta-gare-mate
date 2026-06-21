@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q11
 parent: src_gs_2008_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 11
 
 *Area della lettera W con teorema di Pick*
 

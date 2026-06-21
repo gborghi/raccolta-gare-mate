@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1982-83 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1982-83_round2__Q03
 parent: src_bmo_1982-83_round2
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1982-83 — Round 2 — Quesito 3
 
 *Three lines in space; PQ perpendicular to n has constant length*
 

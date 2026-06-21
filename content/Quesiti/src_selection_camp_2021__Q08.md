@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2021__Q08
 parent: src_selection_camp_2021
@@ -30,8 +31,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2021 — Selection Camp — Quesito 8
 
 *People grouped into n circles with a common-circle condition; count totals*
 

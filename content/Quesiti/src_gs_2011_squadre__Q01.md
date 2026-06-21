@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q01
 parent: src_gs_2011_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 1
 
 *Affermazione del guardiano falsa*
 

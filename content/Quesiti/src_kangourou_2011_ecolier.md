@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo)
 tipo: gara
 src_id: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2011/EMarzo-11.pdf` · apri PDF
 

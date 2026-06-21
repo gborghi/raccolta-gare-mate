@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_tfjm_2024__Q05
 parent: src_tfjm_2024
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 5
 
 *Free electron: a charged particle moves along circular arcs of radius 1 (counterclockwise), reversing direction when a button is pressed (or reflecting off mirrors); study guiding it between points, avoiding a circle, through n points, gathering k electrons, and admirable polygons.*
 

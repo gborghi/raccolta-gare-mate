@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f3__Q01
 parent: src_obm_2002_n3_f3
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 1
 
 *Set of positive integers with 2002 elements, no element is a perfect power*
 

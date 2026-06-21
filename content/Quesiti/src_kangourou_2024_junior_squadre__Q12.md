@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q12
 parent: src_kangourou_2024_junior_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 1 — Quesito 12
 
 *Risultato 2024*24 con operazione binaria*
 

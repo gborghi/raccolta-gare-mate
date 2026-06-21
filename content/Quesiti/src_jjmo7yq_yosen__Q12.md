@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo7yq_yosen__Q12
 parent: src_jjmo7yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 12
 
 *Count positive integers ≤2009 expressible as a^2009 + b^2009 for integers a, b*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q19
 parent: src_obm_2002_n3_f1
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 19
 
 *alpha is the largest root of x^2+x-1=0; find alpha^3*
 

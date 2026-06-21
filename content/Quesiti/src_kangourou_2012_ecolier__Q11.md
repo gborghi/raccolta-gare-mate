@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q11
 parent: src_kangourou_2012_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 11
 
 *Numero totale di auto nel parcheggio*
 

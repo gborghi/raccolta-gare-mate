@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q13
 parent: src_archimede_2001_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 13
 
 *Calcolare CD dati OB e due angoli in figura*
 

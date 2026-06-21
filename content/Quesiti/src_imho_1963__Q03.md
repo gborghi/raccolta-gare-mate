@@ -1,4 +1,5 @@
 ---
+title: IMO 1963 (V International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imho_1963__Q03
 parent: src_imho_1963
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1963 (V International Olympiad) — Quesito 3
 
 *provare equilatero*
 

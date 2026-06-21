@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_tfjm_2022__Q07
 parent: src_tfjm_2022
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 7
 
 *Dog walk: n dogs each move one unit per second toward the next dog (cyclically); Boule on a leash of length L must avoid breaking leashes whether he stays put or moves; study triangle case, universal leash lengths, and variants where a dog chases a cat on an N-gon or a line.*
 

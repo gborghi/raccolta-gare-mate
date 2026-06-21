@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q16
 parent: src_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 16
 
 *Spettro del polinomio (x-2)(x+2)(x^2+x+1)(x^2-x+1)*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_biennio__Q07
 parent: src_archimede_2014_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 7
 
 *Massimo biglie nel distributore con 5 monete*
 

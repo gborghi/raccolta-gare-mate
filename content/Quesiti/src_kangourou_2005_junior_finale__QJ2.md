@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (finale nazionale) — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior_finale__QJ2
 parent: src_kangourou_2005_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (finale nazionale) — Quesito J2
 
 *B+I+N+O nella moltiplicazione UN x 6 = BIO*
 

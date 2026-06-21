@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo13yq_yosen__Q02
 parent: src_jmo13yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 2
 
 *Smallest positive integer n such that last three digits of 2003n equal 113*
 

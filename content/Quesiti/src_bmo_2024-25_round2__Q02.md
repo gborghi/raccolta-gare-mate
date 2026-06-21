@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2024-25 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2024-25_round2__Q02
 parent: src_bmo_2024-25_round2
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2024-25 — Round 2 — Quesito 2
 
 *Prove D lies on circle AQP in acute triangle configuration*
 

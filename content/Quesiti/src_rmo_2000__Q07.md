@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2000 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_2000__Q07
 parent: src_rmo_2000
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2000 — Quesito 7
 
 *Find all real a for which x^4 - 2ax^2 + x + a^2 - a = 0 has all real roots*
 

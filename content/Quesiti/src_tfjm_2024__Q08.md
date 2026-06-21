@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_tfjm_2024__Q08
 parent: src_tfjm_2024
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 8
 
 *Game creation: number N cards 1..N so that each authorized/forbidden pair is decided by reading the manual page indexed by the sum (or GCD, LCM, product) of the two card numbers; characterize admissible configurations and find the minimal M (>=N) making every configuration M-admissible.*
 

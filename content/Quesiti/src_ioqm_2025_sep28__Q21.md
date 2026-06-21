@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q21
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 21
 
 *f satisfies 4f(3-x)+3f(x)=x²; find f(27)-f(25) to nearest integer*
 

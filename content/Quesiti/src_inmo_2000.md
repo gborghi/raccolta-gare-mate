@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2000
 tipo: gara
 src_id: src_inmo_2000
 competition: Indian National Mathematical Olympiad 2000
@@ -15,8 +16,6 @@ tags:
   - anno/2000
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2000
 
 Sorgente: apri PDF
 

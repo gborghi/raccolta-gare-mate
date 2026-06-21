@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q08
 parent: src_archimede_2013_febb_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 8
 
 *Coppie di sottoinsiemi di {1..5} con intersezione di un elemento*
 

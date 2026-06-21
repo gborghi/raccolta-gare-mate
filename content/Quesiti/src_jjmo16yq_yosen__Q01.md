@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo16yq_yosen__Q01
 parent: src_jjmo16yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 1
 
 *Area of equilateral triangle divided by three lines parallel to its sides*
 

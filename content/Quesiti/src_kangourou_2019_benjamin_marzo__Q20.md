@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q20
 parent: src_kangourou_2019_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 20
 
 *Quanti pezzi di carta dopo le piegature e i tagli*
 

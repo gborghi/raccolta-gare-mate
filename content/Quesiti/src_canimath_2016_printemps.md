@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2016
 tipo: gara
 src_id: src_canimath_2016_printemps
 competition: Coupe Animath Printemps 2016
@@ -17,8 +18,6 @@ tags:
   - gara/individuale
   - stagione/printemps
 ---
-
-# Coupe Animath Printemps 2016
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q03
 parent: src_cesenatico_2011_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 3
 
 *Modi di pagare 4027 lingotti con bronzo e rame*
 

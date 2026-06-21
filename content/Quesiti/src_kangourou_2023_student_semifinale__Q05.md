@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q05
 parent: src_kangourou_2023_student_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 5
 
 *Numero massimo di parti tagliando tre sfere con due piani*
 

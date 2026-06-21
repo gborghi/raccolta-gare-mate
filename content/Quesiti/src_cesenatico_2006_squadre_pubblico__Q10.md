@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q10
 parent: src_cesenatico_2006_squadre_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 10
 
 *Minimo combinazioni utili da 36 ingredienti (condizione)*
 

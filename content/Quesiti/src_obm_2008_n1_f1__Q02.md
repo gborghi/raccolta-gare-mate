@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f1__Q02
 parent: src_obm_2008_n1_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 2
 
 *Expression for change when buying olive oil and juice*
 

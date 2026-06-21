@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2010 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2010__Q02
 parent: src_inmo_2010
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2010 — Quesito 2
 
 *Find all n>1 such that n² does not divide (n-2)!*
 

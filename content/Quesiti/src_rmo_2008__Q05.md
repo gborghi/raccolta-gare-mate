@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2008 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2008__Q05
 parent: src_rmo_2008
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2008 — Quesito 5
 
 *Harmonic progression of strictly increasing positive integers with n=20, b divides c*
 

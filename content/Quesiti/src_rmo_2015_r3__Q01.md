@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r3__Q01
 parent: src_rmo_2015_r3
@@ -28,8 +29,6 @@ tags:
   - regione/r3
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 3 — Quesito 1
 
 *Two circles; midpoint of arc-chord lies on second circle*
 

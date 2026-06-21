@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo17yq_yosen__Q12
 parent: src_jjmo17yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 12
 
 *Distinct strings reachable in 4 operations from 'A'*
 

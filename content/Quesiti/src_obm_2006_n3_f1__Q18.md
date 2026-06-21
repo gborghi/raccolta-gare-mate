@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q18
 parent: src_obm_2006_n3_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 18
 
 *Starting from (2048,1024), operation (a,b)->((3a+b)/4,(a+3b)/4); among five listed pairs which are obtainable.*
 

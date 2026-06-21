@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q10
 parent: src_kangourou_2018_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 10
 
 *Perimetro giardino quadrato con cinque aiuole*
 

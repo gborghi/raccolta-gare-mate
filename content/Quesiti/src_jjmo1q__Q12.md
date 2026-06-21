@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q12
 parent: src_jjmo1q
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 12
 
 *Maximum draws in a 15-player round-robin chess tournament with all distinct records*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 4 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r4__Q03
 parent: src_rmo_2015_r4
@@ -34,8 +35,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 4 — Quesito 3
 
 *Find all integer triples with a²=bc+4 and b²=ca+4*
 

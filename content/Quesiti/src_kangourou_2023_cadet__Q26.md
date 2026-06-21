@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet__Q26
 parent: src_kangourou_2023_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Gara 16 marzo — Quesito 26
 
 *quanti usano la strada indicata*
 

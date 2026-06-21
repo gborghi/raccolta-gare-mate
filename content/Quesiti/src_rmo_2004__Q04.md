@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2004 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2004__Q04
 parent: src_rmo_2004
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2004 — Quesito 4
 
 *Count subset triples with A∩B∩C=∅, A∩B≠∅, B∩C≠∅; prove equals 7^n−6^n+5^n*
 

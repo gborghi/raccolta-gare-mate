@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2013 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2013_printemps__Q04
 parent: src_canimath_2013_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2013 — Quesito 4
 
 *Smallest denominator of sum of two irreducible fractions with denominators 600 and 700*
 

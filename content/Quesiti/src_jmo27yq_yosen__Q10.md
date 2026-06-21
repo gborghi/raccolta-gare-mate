@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jmo27yq_yosen__Q10
 parent: src_jmo27yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 10
 
 *Length of perpendicular from Q to BC in right triangle*
 

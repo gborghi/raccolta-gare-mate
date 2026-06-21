@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q05
 parent: src_kangourou_2017_preecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 5
 
 *Quale disegno della farfalla con gli adesivi*
 

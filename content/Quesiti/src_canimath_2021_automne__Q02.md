@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q02
 parent: src_canimath_2021_automne
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 2
 
 *Isosceles triangle, midpoint symmetric image, find angle MDC in terms of x*
 

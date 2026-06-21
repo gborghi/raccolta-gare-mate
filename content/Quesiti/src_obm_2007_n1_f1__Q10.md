@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f1__Q10
 parent: src_obm_2007_n1_f1
@@ -29,8 +30,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 10
 
 *Equilateral triangle side parallel to square side; find angle x*
 

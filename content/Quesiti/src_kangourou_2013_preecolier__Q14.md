@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_preecolier__Q14
 parent: src_kangourou_2013_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier — Quesito 14
 
 *Quanti cubi ha usato Pietro per il podio*
 

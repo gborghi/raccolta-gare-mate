@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n2_fx__Q04
 parent: src_obm_2019_n2_fx
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x — Quesito 4
 
 *Five points on a circle: reflections of D over sides of acute triangle*
 

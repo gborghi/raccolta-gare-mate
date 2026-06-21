@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q02
 parent: src_kangourou_2018_ecolier_semif
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 2
 
 *Eta di Roberta oggi data condizione su somma futura*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q20
 parent: src_kangourou_2005_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 20
 
 *Numeri dispari minori di 100 con lunghezza 3*
 

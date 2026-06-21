@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q02
 parent: src_kangourou_2012_junior
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 2
 
 *Calcolo di 11.111-1.1111*
 

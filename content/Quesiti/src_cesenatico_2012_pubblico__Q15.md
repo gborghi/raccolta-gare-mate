@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q15
 parent: src_cesenatico_2012_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 15
 
 *Area stellina a 5 punte su sfera (archi)*
 

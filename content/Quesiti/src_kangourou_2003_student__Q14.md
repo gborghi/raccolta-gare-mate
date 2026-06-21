@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student (20 marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student__Q14
 parent: src_kangourou_2003_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Student (20 marzo) — Quesito 14
 
 *Area triangolo acutangolo da 12,13,15*
 

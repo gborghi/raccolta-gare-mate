@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f2__Q03
 parent: src_obm_2009_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 3
 
 *Largest family of 3-digit numbers sharing at least one digit pairwise*
 

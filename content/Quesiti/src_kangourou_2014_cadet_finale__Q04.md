@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Cadet — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet_finale__Q04
 parent: src_kangourou_2014_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Cadet — Quesito 4
 
 *Area del triangolo rettangolo dalla bisettrice (4 e 5)*
 

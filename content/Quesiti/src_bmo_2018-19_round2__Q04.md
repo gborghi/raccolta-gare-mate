@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2018-19 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2018-19_round2__Q04
 parent: src_bmo_2018-19_round2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2018-19 — Round 2 — Quesito 4
 
 *Find all functions satisfying a monotonicity condition and functional equation*
 

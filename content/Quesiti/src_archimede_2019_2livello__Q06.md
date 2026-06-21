@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_2livello__Q06
 parent: src_archimede_2019_2livello
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2019 - 2° livello — Quesito 6
 
 *Calcolatrice +1 e x3, numeri ottenibili senza esplodere*
 

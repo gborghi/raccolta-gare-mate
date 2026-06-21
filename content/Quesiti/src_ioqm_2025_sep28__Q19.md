@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q19
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 19
 
 *Count ordered pairs (m,n) with 1≤m<n≤50 and mn a perfect square*
 

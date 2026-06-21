@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q08
 parent: src_archimede_2013_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 8
 
 *Tempo per dipingere muro lavorando insieme (lavoro/velocita)*
 

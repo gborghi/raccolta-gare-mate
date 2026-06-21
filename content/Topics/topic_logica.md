@@ -1,11 +1,10 @@
 ---
+title: 'Logica, giochi, strategie'
 tipo: topic
 concept_id: topic_logica
 tags:
   - graph/topic
 ---
-
-# Logica, giochi, strategie
 
 *topic* — **1257** quesiti (italiani).
 

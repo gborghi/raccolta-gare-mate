@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q14
 parent: src_gas_2009_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 14
 
 *Angolo ABC in quadrilatero con cerchio e archi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (finale Cervia) — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_finale__QE1
 parent: src_kangourou_2017_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (finale Cervia) — Quesito E1
 
 *Quante pagine ha il libro delle vacanze (4 tipologie)*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f1__Q06
 parent: src_obm_2004_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 6
 
 *Figure obtained rotating a regular pentagon by 252 degrees clockwise*
 

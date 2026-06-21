@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q11
 parent: src_kangourou_2019_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 11
 
 *Minimo numero di donne in parlamento 300 deputati*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2011 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_automne__Q02
 parent: src_canimath_2011_automne
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2011 — Quesito 2
 
 *Quadratic f with f(t)=f(f(f(t)))=0, show f(0)*f(1)=0*
 

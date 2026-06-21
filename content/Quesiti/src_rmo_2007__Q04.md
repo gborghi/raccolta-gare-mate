@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2007 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2007__Q04
 parent: src_rmo_2007
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2007 — Quesito 4
 
 *Count 6-digit numbers with digits from {1,2,3,4,5} each appearing at least twice*
 

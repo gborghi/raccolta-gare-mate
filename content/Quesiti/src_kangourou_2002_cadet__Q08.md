@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q08
 parent: src_kangourou_2002_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 8
 
 *Massimo punti visibili sul dado*
 

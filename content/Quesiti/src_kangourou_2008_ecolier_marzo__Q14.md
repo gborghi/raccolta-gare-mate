@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q14
 parent: src_kangourou_2008_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 14
 
 *Massimo mattoncini 1x2x4 in scatola 4x4x4*
 

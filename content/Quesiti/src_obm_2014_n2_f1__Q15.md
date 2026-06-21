@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f1__Q15
 parent: src_obm_2014_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 15
 
 *Count valid pieces in simplified triomino with vertices 0–5*
 

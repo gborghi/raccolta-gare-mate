@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1990 — Matematica
 tipo: gara
 src_id: src_cgen_1990
 competition: Concours Général des Lycées 1990 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/1990
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1990 — Matematica
 
 Sorgente: apri PDF
 

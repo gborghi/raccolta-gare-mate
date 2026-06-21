@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2012 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_printemps__Q03
 parent: src_canimath_2012_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2012 — Quesito 3
 
 *Splitting seven cheeses so two people each get three whole and share the seventh equally*
 

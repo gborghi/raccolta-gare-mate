@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q10
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 10
 
 *Bugiardi e sinceri in fila con risposte a pattern, massimo bugiardi*
 

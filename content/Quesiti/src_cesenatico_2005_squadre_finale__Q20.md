@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q20
 parent: src_cesenatico_2005_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 20
 
 *Numero N indovinato dalle dichiarazioni autoreferenziali dei saggi*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1979-80 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1979-80_round1__Q05
 parent: src_bmo_1979-80_round1
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1979-80 — Round 1 — Quesito 5
 
 *Party of 10: any 3 contain 2 strangers; prove 4 mutual strangers exist*
 

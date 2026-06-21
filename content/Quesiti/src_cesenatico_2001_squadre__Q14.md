@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q14
 parent: src_cesenatico_2001_squadre
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 14
 
 *Anni bisestili (somma cifre 7) tra anno 0 e 5000*
 

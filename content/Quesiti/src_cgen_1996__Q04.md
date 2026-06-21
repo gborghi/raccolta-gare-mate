@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1996 — Matematica — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cgen_1996__Q04
 parent: src_cgen_1996
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1996 — Matematica — Quesito 4
 
 *Minimum of $f(x)=x^x$ on positive reals; prove $x^y + y^x > 1$*
 

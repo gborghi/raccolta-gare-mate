@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f1__Q17
 parent: src_obm_2016_n2_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 17
 
 *Minimum merge operations to equalize piles 1,2,...,9,11 summing to 56*
 

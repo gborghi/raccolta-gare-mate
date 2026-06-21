@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f1__Q07
 parent: src_obm_2011_n3_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 7
 
 *Greatest value of ab/(a+b) for reals with 0<a<=1 and 0<b<=1*
 

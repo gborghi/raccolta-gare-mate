@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f1__Q16
 parent: src_obm_2013_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 16
 
 *Largest common divisor of all 9-digit pandigital numbers (digits 1-9)*
 

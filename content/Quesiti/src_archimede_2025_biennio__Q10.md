@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio__Q10
 parent: src_archimede_2025_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio — Quesito 10
 
 *Pin di 5 cifre con 4 uguali e 1 diversa*
 

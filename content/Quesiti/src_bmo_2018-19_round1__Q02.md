@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2018-19_round1__Q02
 parent: src_bmo_2018-19_round1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2018-19 — Round 1 — Quesito 2
 
 *Determine how many n in [3,2018] allow an n-ring of positive integers with bounded neighbour products*
 

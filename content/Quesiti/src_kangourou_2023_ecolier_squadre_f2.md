@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Ecolier Finale 2
 tipo: gara
 src_id: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Ecolier Finale 2
 
 Sorgente: `Kangaroo/kangourou_squadre/2023/SQEcolier2023F2.pdf` · apri PDF
 

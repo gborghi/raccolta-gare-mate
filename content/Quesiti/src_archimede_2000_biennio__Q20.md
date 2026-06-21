@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q20
 parent: src_archimede_2000_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 20
 
 *Affermazione necessariamente vera su percentuali studenti*
 

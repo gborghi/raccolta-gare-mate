@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Benjamin (gara 28 marzo)
 tipo: gara
 src_id: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Kangourou 2008 - Benjamin (gara 28 marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2008/BMarzo-08.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q08
 parent: src_kangourou_2011_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 8
 
 *Minimo numero di scatole per 66 uova*
 

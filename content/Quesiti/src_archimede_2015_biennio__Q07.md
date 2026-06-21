@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q07
 parent: src_archimede_2015_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 7
 
 *Area triangolo DEF da punti medi in triangolo ABC*
 

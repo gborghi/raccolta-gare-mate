@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q11
 parent: src_kangourou_2012_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 11
 
 *Lunghezza del treno (Giacomo 45m, Luca 30m)*
 

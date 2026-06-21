@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student finale — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_finale__QS4
 parent: src_kangourou_2024_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2024 Student finale — Quesito S4
 
 *Esistono palindromi ABBA quadrati perfetti?*
 

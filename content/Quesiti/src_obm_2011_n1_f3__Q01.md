@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f3__Q01
 parent: src_obm_2011_n1_f3
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 1
 
 *Erase even numbers from 1 to 2011; count remaining and count those written only with digits 0 and 1.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q18
 parent: src_kangourou_2021_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 18
 
 *Valore di x con rettangoli di aree P=2Q*
 

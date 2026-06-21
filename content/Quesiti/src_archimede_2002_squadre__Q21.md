@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_squadre__Q21
 parent: src_archimede_2002_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 21
 
 *conteggio combinatorio*
 

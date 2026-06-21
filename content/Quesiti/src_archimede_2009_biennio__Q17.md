@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q17
 parent: src_archimede_2009_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 17
 
 *Ordine tra a, b e 1 data disuguaglianza cubica*
 

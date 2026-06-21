@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Junior — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_junior__QJ2
 parent: src_kangourou_2015_finale_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Junior — Quesito J2
 
 *misura angolo ABC*
 

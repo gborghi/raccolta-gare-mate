@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q06
 parent: src_kangourou_2024_student
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 6
 
 *Somma 16^15 quattro volte espressa come potenza*
 

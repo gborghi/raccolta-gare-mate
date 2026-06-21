@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q11
 parent: src_kangourou_2014_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Finale — Quesito 11
 
 *2014! divisibile per 2^a*19^b*
 

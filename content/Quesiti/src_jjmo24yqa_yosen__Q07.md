@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo24yqa_yosen__Q07
 parent: src_jjmo24yqa_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 7
 
 *Minimum-coin domination on 37 lattice points within distance sqrt(10); count min arrangements*
 

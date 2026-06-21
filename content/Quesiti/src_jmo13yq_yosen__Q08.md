@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo13yq_yosen__Q08
 parent: src_jmo13yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 8
 
 *Find all m in [2,2003] that maximize the number of steps to reach 1 under odd→+1, even→÷2*
 

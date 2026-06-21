@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1992 (33rd IMO, Moscow)'
 tipo: gara
 src_id: src_imo_1992
 competition: 'IMO 1992 (33rd IMO, Moscow)'
@@ -15,8 +16,6 @@ tags:
   - anno/1992
   - gara/individuale
 ---
-
-# IMO 1992 (33rd IMO, Moscow)
 
 Sorgente: `Archimede/individuale/imho/all/1992_eng.pdf` · apri PDF
 

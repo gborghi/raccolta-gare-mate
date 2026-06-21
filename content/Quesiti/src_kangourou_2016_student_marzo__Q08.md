@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q08
 parent: src_kangourou_2016_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 8
 
 *Rapporto a/b con due rettangoli di uguale area*
 

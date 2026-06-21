@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q14
 parent: src_kangourou_2018_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 14
 
 *Quante coppie (m,n) con |sqrt17-m|+sqrt(17+n)=20*
 

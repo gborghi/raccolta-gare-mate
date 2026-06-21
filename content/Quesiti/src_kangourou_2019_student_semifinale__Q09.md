@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q09
 parent: src_kangourou_2019_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 9
 
 *Quanti allineamenti di lunghezza 16 di due lettere (vincoli)*
 

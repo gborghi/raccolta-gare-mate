@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jegmo13q__Q03
 parent: src_jegmo13q
@@ -29,8 +30,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2024 — Quesito 3
 
 *Find all real-valued functions satisfying a given functional equation*
 

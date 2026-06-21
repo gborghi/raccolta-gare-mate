@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_2livello__Q02
 parent: src_archimede_2006_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 2
 
 *Quante affermazioni su cane/gatto possono essere false insieme*
 

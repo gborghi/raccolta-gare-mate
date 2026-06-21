@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q13
 parent: src_kangourou_2002_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 13
 
 *Topi totali con occhi azzurri*
 

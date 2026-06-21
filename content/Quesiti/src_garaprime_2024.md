@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024
 tipo: gara
 src_id: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024
 
 Sorgente: `Archimede/individuale/classi prime/2024/Soluzioni_gara_prime_2024.pdf` · apri PDF
 

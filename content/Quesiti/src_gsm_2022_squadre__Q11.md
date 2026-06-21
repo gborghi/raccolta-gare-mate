@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q11
 parent: src_gsm_2022_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 11
 
 *Probabilita che il secondo giocatore vinca col dado e moneta*
 

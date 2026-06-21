@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2012 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_automne__Q04
 parent: src_canimath_2012_automne
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2012 — Quesito 4
 
 *Round table: prove equal numbers of tall and short among 2013*
 

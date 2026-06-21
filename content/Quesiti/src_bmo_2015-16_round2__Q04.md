@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2015-16 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2015-16_round2__Q04
 parent: src_bmo_2015-16_round2
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2015-16 — Round 2 — Quesito 4
 
 *Prime p with p^2 = a^3 + b^2: prove divisibility or factorisation result*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q03
 parent: src_kangourou_2023_junior_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 1 — Quesito 3
 
 *Somma numeri MEDI di tre cifre*
 

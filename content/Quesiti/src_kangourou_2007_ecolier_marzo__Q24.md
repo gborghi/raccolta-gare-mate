@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q24
 parent: src_kangourou_2007_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo) — Quesito 24
 
 *Anni di Fabio oggi (eta amici)*
 

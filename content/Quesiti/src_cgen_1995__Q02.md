@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1995 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_1995__Q02
 parent: src_cgen_1995
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1995 — Matematica — Quesito 2
 
 *Convergence of a sequence defined by a square-root recurrence*
 

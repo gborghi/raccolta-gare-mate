@@ -1,4 +1,5 @@
 ---
+title: IMO 2019 papers — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_2019__Q04
 parent: src_imo_2019
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2019 papers — Quesito 4
 
 *Coppie (k,n) con k!=(2^n-1)(2^n-2)...*
 

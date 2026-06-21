@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q23
 parent: src_kangourou_2009_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 23
 
 *A quale tacca corrisponde 1/4 (tra 1/5 e 1/3)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q15
 parent: src_kangourou_2021_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale — Quesito 15
 
 *Piu piccolo numero anticipato di 4 cifre*
 

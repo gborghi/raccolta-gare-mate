@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q05
 parent: src_archimede_2013_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 5
 
 *Affermazioni vere su quando un quadrilatero e un rombo*
 

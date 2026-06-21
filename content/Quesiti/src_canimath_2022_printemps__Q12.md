@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2022 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_printemps__Q12
 parent: src_canimath_2022_printemps
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2022 — Quesito 12
 
 *Isosceles triangle, two angle bisectors, prove an angle equality*
 

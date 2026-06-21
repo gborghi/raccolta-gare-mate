@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q15
 parent: src_kangourou_2019_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 15
 
 *Quante forme di formaggio iniziali date due giornate di topi*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2012 - Gara a squadre — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gs_2012_squadre__Q10
 parent: src_gs_2012_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Coppa Galileo 2012 - Gara a squadre — Quesito 10
 
 *Probabilita di arrivare al termine delle strade*
 

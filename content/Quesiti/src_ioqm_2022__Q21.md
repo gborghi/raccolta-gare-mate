@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q21
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 21
 
 *Ant on cube vertex, moves to adjacent vertex every 10 minutes, one-hour journeys returning to start*
 

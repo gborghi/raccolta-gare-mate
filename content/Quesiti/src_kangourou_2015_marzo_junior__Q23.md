@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q23
 parent: src_kangourou_2015_marzo_junior
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 23
 
 *regione centrale*
 

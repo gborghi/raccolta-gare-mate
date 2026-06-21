@@ -1,4 +1,5 @@
 ---
+title: IMO 2020 papers
 tipo: gara
 src_id: src_imo_2020
 competition: IMO 2020 papers
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# IMO 2020 papers
 
 Sorgente: `Archimede/individuale/imho/all/2020_eng.pdf` · apri PDF
 

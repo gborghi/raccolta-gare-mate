@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale
 tipo: gara
 src_id: src_kangourou_2022_junior_semifinale
 competition: Kangourou 2022 Junior — Semifinale individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2022/Junior2022RSE.pdf` · apri PDF
 

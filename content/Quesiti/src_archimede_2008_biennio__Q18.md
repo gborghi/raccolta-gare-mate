@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q18
 parent: src_archimede_2008_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 18
 
 *Rapporto DC su DE da rapporto aree in rettangolo*
 

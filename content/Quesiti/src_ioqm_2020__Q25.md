@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q25
 parent: src_ioqm_2020
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 25
 
 *Smallest positive N where product formula with nearest perfect squares holds; find sum of squares of digits*
 

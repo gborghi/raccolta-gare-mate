@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior Semifinale individuale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q03
 parent: src_kangourou_2021_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior Semifinale individuale — Quesito 3
 
 *Rapporto massimo di velocita senza sorpasso su strada*
 

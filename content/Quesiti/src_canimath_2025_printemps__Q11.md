@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2025 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_printemps__Q11
 parent: src_canimath_2025_printemps
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2025 — Quesito 11
 
 *Prove PM bisects angle NPB in isosceles triangle ABC*
 

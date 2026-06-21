@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q08
 parent: src_kangourou_2023_student_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 8
 
 *in quale vivono i mentitori*
 

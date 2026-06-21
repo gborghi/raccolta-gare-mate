@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f2__Q01
 parent: src_obm_2013_n2_f2
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 1
 
 *Min integers from {1..18} so 3 consecutive are chosen*
 

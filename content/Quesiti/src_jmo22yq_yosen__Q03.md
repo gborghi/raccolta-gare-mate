@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo22yq_yosen__Q03
 parent: src_jmo22yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 3
 
 *Assign digits 1–9 to variables; find minimum possible maximum triple product sum*
 

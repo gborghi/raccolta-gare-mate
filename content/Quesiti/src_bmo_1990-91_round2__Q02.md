@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1990-91 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1990-91_round2__Q02
 parent: src_bmo_1990-91_round2
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1990-91 — Round 2 — Quesito 2
 
 *Dwarfs with reversible cloaks: prove changes eventually stop*
 

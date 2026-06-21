@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo27yq_yosen__Q02
 parent: src_jmo27yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 2
 
 *Count coprime ordered factorizations a<b of 29!*
 

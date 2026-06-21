@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2005 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2005__Q05
 parent: src_inmo_2005
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2005 — Quesito 5
 
 *Sequence built by adding nonzero digit; prove infinitely many even terms*
 

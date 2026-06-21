@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Gara 16 marzo — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q15
 parent: src_kangourou_2017_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Gara 16 marzo — Quesito 15
 
 *Probabilita di comporre 2017 con quattro tetraedri*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q05
 parent: src_archimede_2006_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 5
 
 *Cifra delle unita di 3 elevato al quadrato 2006 volte*
 

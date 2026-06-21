@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2007 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo5q__Q08
 parent: src_jjmo5q
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2007 — Quesito 8
 
 *4-digit number: product of top-2 and bottom-2 digit parts divides n*
 

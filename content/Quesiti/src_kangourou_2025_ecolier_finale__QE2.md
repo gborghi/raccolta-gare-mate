@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Ecolier finale — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE2
 parent: src_kangourou_2025_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Ecolier finale — Quesito E2
 
 *Assegnazione colori con 4 numeri rossi somma verde+blu*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q01
 parent: src_archimede_2018_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 1
 
 *Indicare la piu piccola tra cinque frazioni n+1/n*
 

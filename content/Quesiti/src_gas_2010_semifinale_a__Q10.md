@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_a__Q10
 parent: src_gas_2010_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale A — Quesito 10
 
 *Prezzo ottimale spade per massimizzare i guadagni*
 

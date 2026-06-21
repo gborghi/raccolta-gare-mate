@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f1__Q11
 parent: src_obm_2004_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 11
 
 *Number of yellow faces on five two-colour cubes given probability 1/2 of exactly two yellow tops.*
 

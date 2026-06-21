@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Benjamin — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin_finale__Q04
 parent: src_kangourou_2014_benjamin_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Benjamin — Quesito 4
 
 *Scoiattolo svuota 15 piattini in quattro visite*
 

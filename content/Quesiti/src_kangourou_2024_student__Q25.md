@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q25
 parent: src_kangourou_2024_student
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 25
 
 *Somma coefficienti di p con p(x+1)=x^2-x+2p(6)*
 

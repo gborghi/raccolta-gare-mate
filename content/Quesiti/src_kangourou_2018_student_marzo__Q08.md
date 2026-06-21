@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q08
 parent: src_kangourou_2018_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 8
 
 *Minimo estrazioni che garantisce una pallina bianca*
 

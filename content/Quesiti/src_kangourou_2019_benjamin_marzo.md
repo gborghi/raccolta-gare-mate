@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin
 tipo: gara
 src_id: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/BMarzo-19.pdf` · apri PDF
 

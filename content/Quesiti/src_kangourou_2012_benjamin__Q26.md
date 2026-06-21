@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q26
 parent: src_kangourou_2012_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 26
 
 *Minimo numero di tavolette quadrate da tavola 6x7*
 

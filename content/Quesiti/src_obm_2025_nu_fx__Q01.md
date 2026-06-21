@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x —
+  Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2025_nu_fx__Q01
 parent: src_obm_2025_nu_fx
@@ -34,8 +37,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x — Quesito 1
 
 *No continuous function asymptotic to prime-counting function*
 

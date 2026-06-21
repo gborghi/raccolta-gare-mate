@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q27
 parent: src_kangourou_2024_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 27
 
 *Minimo numero di caramelle (20 per sacchetto, 12 avanzate)*
 

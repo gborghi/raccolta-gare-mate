@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2023 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jegmo12q__Q03
 parent: src_jegmo12q
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2023 — Quesito 3
 
 *Place n² cards on n×n grid so adjacent cards have coprime values*
 

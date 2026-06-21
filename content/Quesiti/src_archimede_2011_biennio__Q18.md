@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Biennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_biennio__Q18
 parent: src_archimede_2011_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Biennio — Quesito 18
 
 *Ipotenusa triangolo rettangolo da cateto e raggio inscritto*
 

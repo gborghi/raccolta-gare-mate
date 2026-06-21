@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q17
 parent: src_kangourou_2018_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 17
 
 *Quanti numeri di 3 cifre con cancellazione = un nono*
 

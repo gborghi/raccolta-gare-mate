@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n1_f2__Q04
 parent: src_obm_2000_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2 — Quesito 4
 
 *Place integers 1–10 in star; each row of 4 in increasing or decreasing order*
 

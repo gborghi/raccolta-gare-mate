@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q20
 parent: src_kangourou_2007_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 20
 
 *Somma raggi due circonferenze nel quadrato*
 

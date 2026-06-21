@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Cadet (gara marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q09
 parent: src_kangourou_2016_cadet_marzo
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 Cadet (gara marzo) — Quesito 9
 
 *numero impossibile*
 

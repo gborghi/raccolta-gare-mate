@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q01
 parent: src_kangourou_2023_cadet_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Semifinale individuale — Quesito 1
 
 *min carte da rovesciare*
 

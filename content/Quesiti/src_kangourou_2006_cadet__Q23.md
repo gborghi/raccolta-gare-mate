@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q23
 parent: src_kangourou_2006_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 23
 
 *Quale anagramma puo apparire nella seconda striscia*
 

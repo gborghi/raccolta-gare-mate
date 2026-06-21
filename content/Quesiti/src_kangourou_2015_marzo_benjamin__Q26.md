@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q26
 parent: src_kangourou_2015_marzo_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Benjamin — Quesito 26
 
 *vertice F*
 

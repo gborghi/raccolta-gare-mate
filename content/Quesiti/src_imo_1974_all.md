@@ -1,4 +1,5 @@
 ---
+title: IMO 1974 (Sixteenth International Olympiad)
 tipo: gara
 src_id: src_imo_1974_all
 competition: IMO 1974 (Sixteenth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1974
   - gara/individuale
 ---
-
-# IMO 1974 (Sixteenth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1974_eng.pdf` · apri PDF
 

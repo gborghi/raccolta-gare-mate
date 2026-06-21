@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q09
 parent: src_kangourou_2018_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 9
 
 *Immagine laterale del monumento di cilindri*
 

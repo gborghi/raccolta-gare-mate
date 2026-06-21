@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2009 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2009_printemps__Q02
 parent: src_canimath_2009_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2009 — Quesito 2
 
 *Find width of ribbon wrapped diagonally around rectangular box*
 

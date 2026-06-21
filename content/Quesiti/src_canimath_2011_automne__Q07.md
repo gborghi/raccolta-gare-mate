@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2011 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_automne__Q07
 parent: src_canimath_2011_automne
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2011 — Quesito 7
 
 *Find positive integer triples (p,n,m) with p prime and p^n+144=m^2*
 

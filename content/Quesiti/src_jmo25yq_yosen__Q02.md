@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo25yq_yosen__Q02
 parent: src_jmo25yq_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 2
 
 *Find BC given two tangents meet at P and AB parallel to CP*
 

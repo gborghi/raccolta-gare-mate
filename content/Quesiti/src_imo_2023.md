@@ -1,4 +1,5 @@
 ---
+title: IMO 2023 papers
 tipo: gara
 src_id: src_imo_2023
 competition: IMO 2023 papers
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# IMO 2023 papers
 
 Sorgente: `Archimede/individuale/imho/all/2023_eng.pdf` · apri PDF
 

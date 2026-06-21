@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2023_nu_fx__Q04
 parent: src_obm_2023_nu_fx
@@ -33,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x — Quesito 4
 
 *Invertible matrix C in M_2(Z) with given CAC^{-1} forms*
 

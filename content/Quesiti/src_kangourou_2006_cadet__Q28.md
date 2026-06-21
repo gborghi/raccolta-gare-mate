@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q28
 parent: src_kangourou_2006_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 28
 
 *Modi accostare vagoni con S piu vicino di T*
 

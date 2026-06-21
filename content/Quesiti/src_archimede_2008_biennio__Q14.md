@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q14
 parent: src_archimede_2008_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 14
 
 *Palline con zero data condizione di somma*
 

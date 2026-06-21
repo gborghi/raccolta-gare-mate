@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1999 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_1999__Q05
 parent: src_rmo_1999
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1999 — Quesito 5
 
 *Triangle sides inequality with cyclic fractions $\ge 3$*
 

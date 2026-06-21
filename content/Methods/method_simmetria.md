@@ -1,11 +1,10 @@
 ---
+title: Sfruttamento della simmetria
 tipo: method
 concept_id: method_simmetria
 tags:
   - graph/method
 ---
-
-# Sfruttamento della simmetria
 
 *method* — **248** quesiti (italiani).
 

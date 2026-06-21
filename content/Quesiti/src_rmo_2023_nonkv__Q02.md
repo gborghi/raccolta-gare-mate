@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_nonkv__Q02
 parent: src_rmo_2023_nonkv
@@ -32,8 +33,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — Non-KV — Quesito 2
 
 *Semicircle with variable chord CD; show angle and circumcircle conditions*
 

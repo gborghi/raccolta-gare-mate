@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q07
 parent: src_kangourou_2018_junior_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 7
 
 *Quanti primi r somma di due primi con uguale somma cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q04
 parent: src_cesenatico_2025_nazionale
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 4
 
 *Massimo numero di potenze di 2 come somma di coppie in S*
 

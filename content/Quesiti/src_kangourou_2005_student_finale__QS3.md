@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Student (finale nazionale) — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_student_finale__QS3
 parent: src_kangourou_2005_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Student (finale nazionale) — Quesito S3
 
 *Angolo ottuso con incentro e circocentro simmetrici*
 

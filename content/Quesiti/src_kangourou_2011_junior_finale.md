@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Junior (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2011_junior_finale
 competition: Kangourou 2011 Finale Junior (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Junior (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2011/JMaggio-11.pdf` · apri PDF
 

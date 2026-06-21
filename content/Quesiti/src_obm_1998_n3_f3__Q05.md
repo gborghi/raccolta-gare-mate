@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f3__Q05
 parent: src_obm_1998_n3_f3
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 5
 
 *Find all f: N->N with f(2f(x)) = x + 1998*
 

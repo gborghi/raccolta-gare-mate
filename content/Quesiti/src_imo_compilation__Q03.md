@@ -1,4 +1,5 @@
 ---
+title: IMO compilation 1959-2013 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_compilation__Q03
 parent: src_imo_compilation
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO compilation 1959-2013 — Quesito 3
 
 *IMO 1997 problema 3*
 

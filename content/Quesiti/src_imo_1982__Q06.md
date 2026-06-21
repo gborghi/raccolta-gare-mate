@@ -1,4 +1,5 @@
 ---
+title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1982__Q06
 parent: src_imo_1982
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1982 (23rd International Mathematical Olympiad) — Quesito 6
 
 *Path covering square boundary has two close far-apart points*
 

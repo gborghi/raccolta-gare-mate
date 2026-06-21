@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet_finale__QC6
 parent: src_kangourou_2011_cadet_finale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C6
 
 *Quanti valori distinti della somma perimetri di 4 triangoli area 1/4*
 

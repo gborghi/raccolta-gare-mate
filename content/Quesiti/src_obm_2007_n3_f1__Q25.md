@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f1__Q25
 parent: src_obm_2007_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 25
 
 *Recurrence a_{n+1}=2*digitsum(a_n)+1, a_1=1; find a_31+...+a_35*
 

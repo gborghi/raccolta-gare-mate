@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q15
 parent: src_kangourou_2011_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A — Quesito 15
 
 *Numero libri di Elisabetta (romanzo,poesia,scienza)*
 

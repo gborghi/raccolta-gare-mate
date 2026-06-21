@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Semifinale B
 tipo: gara
 src_id: src_cesenatico_2005_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2005 - Semifinale B
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Semifinale B
 
 Sorgente: `Archimede/squadre/nazionale/2005/GASces05b.pdf` · apri PDF
 

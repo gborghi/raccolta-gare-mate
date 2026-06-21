@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Triennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_triennio__Q07
 parent: src_archimede_1998_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Triennio — Quesito 7
 
 *Area intersezione di due cerchi passanti per i centri*
 

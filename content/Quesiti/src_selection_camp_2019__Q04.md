@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2019__Q04
 parent: src_selection_camp_2019
@@ -29,8 +30,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2019 — Selection Camp — Quesito 4
 
 *All f on positive rationals with f(x^2 f(y)^2)=f(x)^2 f(y)*
 

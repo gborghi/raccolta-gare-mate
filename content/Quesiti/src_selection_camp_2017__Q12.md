@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2017__Q12
 parent: src_selection_camp_2017
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2017 — Selection Camp — Quesito 12
 
 *Convex quadrilateral with equal angles, bisectors, midpoint and circumcircle: PQ perp AC*
 

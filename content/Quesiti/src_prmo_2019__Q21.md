@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q21
 parent: src_prmo_2019
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 21
 
 *Largest prime in partition of set E = {5,6,7,8,9}*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q28
 parent: src_kangourou_2008_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 28
 
 *Misura angolo ABC tra due cubi (Pitagora)*
 

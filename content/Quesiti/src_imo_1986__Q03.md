@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1986 (27th IMO, Warsaw) — Quesito 3'
 tipo: quesito
 quesito_id: quesito_src_imo_1986__Q03
 parent: src_imo_1986
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1986 (27th IMO, Warsaw) — Quesito 3
 
 *Pentagon integer-relabeling operation terminates in finite steps*
 

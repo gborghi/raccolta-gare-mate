@@ -1,4 +1,5 @@
 ---
+title: IMO 1965 (Seventh International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1965_all__Q03
 parent: src_imo_1965_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1965 (Seventh International Olympiad) — Quesito 3
 
 *Volume ratio of tetrahedron cut by plane parallel to skew edges*
 

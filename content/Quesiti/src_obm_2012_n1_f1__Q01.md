@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f1__Q01
 parent: src_obm_2012_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 1
 
 *Fewest coins (10 centavos) to pay 23 reais using 10-real notes*
 

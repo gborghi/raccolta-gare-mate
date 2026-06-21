@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q23
 parent: src_ioqm_2025_sep07
@@ -33,8 +34,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 23
 
 *Rectangle ABCD, points M on AB and N on BC with MC=CD, MD=MN, C,D,M,N concyclic; find m+n*
 

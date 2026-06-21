@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1997-98 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1997-98_round2__Q04
 parent: src_bmo_1997-98_round2
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1997-98 — Round 2 — Quesito 4
 
 *Symmetric system: find unique positive solution*
 

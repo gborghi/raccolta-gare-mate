@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f2__Q03
 parent: src_obm_2004_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 3
 
 *Count two-digit numbers whose digit sum is a perfect square*
 

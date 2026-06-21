@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f1__Q22
 parent: src_obm_2014_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 22
 
 *Count ordered pairs (a,b) of positive integers with 2014/(a+b) integer*
 

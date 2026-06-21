@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q02
 parent: src_kangourou_2023_ecolier_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 2
 
 *Quanti dei primi 2022 termini sono dispari*
 

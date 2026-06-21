@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q12
 parent: src_cesenatico_2001_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 12
 
 *Lunghezza minore segmento su orologio rettangolare*
 

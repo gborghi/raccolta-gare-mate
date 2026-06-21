@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2006 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2006__Q05
 parent: src_rmo_2006
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2006 — Quesito 5
 
 *Tangential quadrilateral with AB∥CD and AB=3CD; find inradius*
 

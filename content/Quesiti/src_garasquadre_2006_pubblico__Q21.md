@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q21
 parent: src_garasquadre_2006_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 21
 
 *Somma razionali positivi forma a/30 minori di 10*
 

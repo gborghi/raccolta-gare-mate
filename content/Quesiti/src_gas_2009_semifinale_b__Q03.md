@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q03
 parent: src_gas_2009_semifinale_b
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 3
 
 *Valore di prodotto/quoziente di differenze di quadrati*
 

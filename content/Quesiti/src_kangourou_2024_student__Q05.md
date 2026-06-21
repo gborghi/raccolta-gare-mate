@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q05
 parent: src_kangourou_2024_student
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 5
 
 *Probabilita di 6 in dado truccato*
 

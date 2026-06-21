@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q18
 parent: src_archimede_2005_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 18
 
 *Polinomio con p(x+1)-p(x-1)=p(x)*
 

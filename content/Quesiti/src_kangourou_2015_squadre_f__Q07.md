@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q07
 parent: src_kangourou_2015_squadre_f
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Finale — Quesito 7
 
 *Somma minima griglia 3x3 con sei somme primi diversi*
 

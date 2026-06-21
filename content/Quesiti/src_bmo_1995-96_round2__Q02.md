@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1995-96 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1995-96_round2__Q02
 parent: src_bmo_1995-96_round2
@@ -32,8 +33,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1995-96 — Round 2 — Quesito 2
 
 *Triangles ABC and UVW with sides related by equations; prove ABC acute, find UVW angles*
 

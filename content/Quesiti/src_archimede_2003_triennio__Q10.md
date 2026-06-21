@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_triennio__Q10
 parent: src_archimede_2003_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Triennio — Quesito 10
 
 *rapporto*
 

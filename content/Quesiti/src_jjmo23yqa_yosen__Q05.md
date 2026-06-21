@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo23yqa_yosen__Q05
 parent: src_jjmo23yqa_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 5
 
 *Count non-empty boxes remaining after 50^25 split operations starting from one box*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q18
 parent: src_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 18
 
 *Perimetro pentagono ciclico lati interi, BAE=120*
 

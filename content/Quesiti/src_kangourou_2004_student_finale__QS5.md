@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Student finale nazionale — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student_finale__QS5
 parent: src_kangourou_2004_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2004 Student finale nazionale — Quesito S5
 
 *Sequenza piu lunga di quadrati con differenze prime*
 

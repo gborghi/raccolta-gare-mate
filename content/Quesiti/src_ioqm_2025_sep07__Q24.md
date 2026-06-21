@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q24
 parent: src_ioqm_2025_sep07
@@ -32,8 +33,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 24
 
 *P(x)=x^2025 divided by Q(x)=x^4+x^3+2x^2+x+1; find R(3)*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo19yq_yosen__Q06
 parent: src_jmo19yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 6
 
 *Volume of tetrahedron from edges and angles at O*
 

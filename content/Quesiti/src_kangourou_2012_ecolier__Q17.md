@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q17
 parent: src_kangourou_2012_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 17
 
 *Minimo numero di salti per raggiungere il 22-mo gradino*
 

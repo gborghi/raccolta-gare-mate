@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q04
 parent: src_canimath_2024_automne
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 4
 
 *Octagon with blue integers on sides; can vertex products be 1,2,...,8 in some order?*
 

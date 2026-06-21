@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q20
 parent: src_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 20
 
 *Coppie iniziali con strategia vincente nel gioco (x,y)*
 

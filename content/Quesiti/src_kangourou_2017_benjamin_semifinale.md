@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale)
 tipo: gara
 src_id: src_kangourou_2017_benjamin_semifinale
 competition: Kangourou 2017 Benjamin (semifinale individuale)
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale)
 
 Sorgente: `Kangaroo/kangourou_individuali/2017/Benjamin_Semif_17TESTO.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q01
 parent: src_kangourou_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 1
 
 *Perimetro pentagono ombreggiato da triangoli equilateri annidati*
 

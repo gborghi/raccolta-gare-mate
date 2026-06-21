@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f1__Q09
 parent: src_obm_2010_n2_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 9
 
 *Triangle, angle BAC=140, midpoints M,N, P foot of perpendicular, find angle NMP*
 

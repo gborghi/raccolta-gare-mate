@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Junior (15 marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_junior__Q24
 parent: src_kangourou_2001_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Junior (15 marzo) — Quesito 24
 
 *Cifra delle unita della somma di potenze*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo21hq_honsen__Q04
 parent: src_jjmo21hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 4
 
 *Find all positive rational triples making a+c/b, b+a/c, c+b/a integers*
 

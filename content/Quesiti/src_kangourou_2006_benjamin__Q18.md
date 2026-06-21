@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q18
 parent: src_kangourou_2006_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 18
 
 *Perimetro regione evidenziata nel cerchio*
 

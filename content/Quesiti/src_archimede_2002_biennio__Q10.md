@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q10
 parent: src_archimede_2002_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 10
 
 *Numero strette di mano escludendo connazionali*
 

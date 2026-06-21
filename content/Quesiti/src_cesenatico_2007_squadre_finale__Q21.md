@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q21
 parent: src_cesenatico_2007_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 21
 
 *Sequenze valide di 12 posizioni zodiaco a partire da tigre*
 

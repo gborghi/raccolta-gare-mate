@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_triennio__Q05
 parent: src_archimede_2018_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Triennio (T1) — Quesito 5
 
 *Minuti d'uso cellulare durante ricarica (40% consumato)*
 

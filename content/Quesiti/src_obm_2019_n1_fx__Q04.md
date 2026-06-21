@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n1_fx__Q04
 parent: src_obm_2019_n1_fx
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 4
 
 *Place digits 0–10 in a cross-shaped drawing satisfying sum conditions*
 

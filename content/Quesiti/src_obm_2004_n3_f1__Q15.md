@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f1__Q15
 parent: src_obm_2004_n3_f1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 15
 
 *Measure (in radians) of angle BXC for a square built externally on a side of a regular heptagon.*
 

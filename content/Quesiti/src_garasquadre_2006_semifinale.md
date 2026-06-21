@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Semifinale A
 tipo: gara
 src_id: src_garasquadre_2006_semifinale
 competition: VII Gara Nazionale a Squadre 2006 - Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Semifinale A
 
 Sorgente: `Archimede/individuale/nazionale/2006/SemifinaliA_06.pdf` · apri PDF
 

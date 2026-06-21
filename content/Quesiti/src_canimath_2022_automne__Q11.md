@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q11
 parent: src_canimath_2022_automne
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 11
 
 *Integers 1–31 on circle; counting neighbors; number opposite 11*
 

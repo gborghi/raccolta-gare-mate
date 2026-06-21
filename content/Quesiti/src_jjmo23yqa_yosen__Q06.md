@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo23yqa_yosen__Q06
 parent: src_jjmo23yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 6
 
 *Count integer triples satisfying two equations with bound 80000*
 

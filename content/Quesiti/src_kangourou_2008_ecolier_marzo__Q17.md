@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q17
 parent: src_kangourou_2008_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 17
 
 *Peso del canguro nell autunno 2004*
 

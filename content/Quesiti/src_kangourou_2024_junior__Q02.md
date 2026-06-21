@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q02
 parent: src_kangourou_2024_junior
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 2
 
 *Chi vince la gara di salto (rapporto altezza saltata/propria)*
 

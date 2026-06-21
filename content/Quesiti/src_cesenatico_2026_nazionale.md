@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico
 tipo: gara
 src_id: src_cesenatico_2026_nazionale
 competition: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico
 
 Sorgente: `Archimede/individuale/nazionale/2026/SoluzioniCesenatico2026.pdf` · apri PDF
 

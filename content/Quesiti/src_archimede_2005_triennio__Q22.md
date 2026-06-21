@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q22
 parent: src_archimede_2005_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 22
 
 *Ipotenusa del triangolo rettangolo di perimetro minimo*
 

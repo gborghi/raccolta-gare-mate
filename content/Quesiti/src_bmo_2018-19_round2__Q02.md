@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2018-19 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2018-19_round2__Q02
 parent: src_bmo_2018-19_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2018-19 — Round 2 — Quesito 2
 
 *Find all n for which magical chess pieces can win*
 

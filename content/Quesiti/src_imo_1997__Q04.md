@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1997 (38th IMO, Mar del Plata) — Quesito 4'
 tipo: quesito
 quesito_id: quesito_src_imo_1997__Q04
 parent: src_imo_1997
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1997 (38th IMO, Mar del Plata) — Quesito 4
 
 *none for n=1997, exist for infinitely many n*
 

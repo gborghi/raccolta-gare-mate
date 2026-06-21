@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q05
 parent: src_archimede_2012_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 5
 
 *Velocita media nel percorso casa-scuola-casa*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2008_ecolier_maggio
 competition: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier finale nazionale (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2008/EMaggio-08.pdf` · apri PDF
 

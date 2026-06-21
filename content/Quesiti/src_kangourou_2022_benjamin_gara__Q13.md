@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q13
 parent: src_kangourou_2022_benjamin_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 13
 
 *Altezza dell’acqua nel serbatoio in altra posizione*
 

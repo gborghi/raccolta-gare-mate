@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q08
 parent: src_kangourou_2003_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 8
 
 *Numero impossibile di intersezioni di 4 segmenti*
 

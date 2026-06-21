@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_tfjm_2022__Q08
 parent: src_tfjm_2022
@@ -39,8 +40,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 8
 
 *Perseus and the Gorgon: a step-by-step pursuit where each moves at most d_0 per step and the Gorgon petrifies Perseus if the segment between them avoids the obstacle O; determine admissible distances d for various obstacles (line, point, segment, disk, polygon), characterize possible admissible sets, and treat continuous-speed strategy variants.*
 

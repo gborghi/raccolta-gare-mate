@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q27
 parent: src_kangourou_2013_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 27
 
 *Massima differenza dopo 2013 operazioni cambio sulla terna*
 

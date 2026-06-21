@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f1__Q05
 parent: src_obm_2008_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 5
 
 *Rafael chooses cards from an arithmetic set summing to 100*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q15
 parent: src_garaprime_2019
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 15
 
 *Numero di primi nella fattorizzazione di p(19,18)*
 

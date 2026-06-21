@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin finale nazionale — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB6
 parent: src_kangourou_2004_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin finale nazionale — Quesito B6
 
 *Costo minimo ghiacciolo spendendo tutto*
 

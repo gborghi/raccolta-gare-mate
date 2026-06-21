@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Finale nazionale Cervia
 tipo: gara
 src_id: src_kangourou_2018_benjamin_finale
 competition: Kangourou 2018 Benjamin - Finale nazionale Cervia
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Finale nazionale Cervia
 
 Sorgente: `Kangaroo/kangourou_individuali/2018/B-settembre18.pdf` · apri PDF
 

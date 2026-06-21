@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2018 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_printemps__Q03
 parent: src_canimath_2018_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2018 — Quesito 3
 
 *Find all n equal to sum of squares of its two smallest divisors*
 

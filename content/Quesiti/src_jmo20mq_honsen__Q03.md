@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo20mq_honsen__Q03
 parent: src_jmo20mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 3
 
 *Tree of islands sending letters: fixed point or mutual exchange exists*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n1_f1__Q20
 parent: src_obm_2000_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 20
 
 *Net of a cube: identify correct assembled cube*
 

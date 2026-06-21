@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q14
 parent: src_archimede_2001_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 14
 
 *Quale somma di numeri dispari e sicuramente errata*
 

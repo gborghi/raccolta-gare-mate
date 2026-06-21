@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f1__Q12
 parent: src_obm_2014_n2_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 12
 
 *Identify rear view of a 2x2x3 block of black and white cubes*
 

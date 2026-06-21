@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q02
 parent: src_kangourou_2019_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 2
 
 *In quale disegno l area ombreggiata e massima*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q03
 parent: src_kangourou_2017_squadre_a
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 3
 
 *Cubetti blu a contatto con rossi nella scatola 5x6x7*
 

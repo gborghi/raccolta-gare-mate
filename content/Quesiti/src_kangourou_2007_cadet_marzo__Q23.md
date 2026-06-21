@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q23
 parent: src_kangourou_2007_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 23
 
 *Quale affermazione certamente vera (pesi)*
 

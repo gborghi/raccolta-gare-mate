@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale
 tipo: gara
 src_id: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale
 
 Sorgente: `Archimede/individuale/nazionale/2006/Finale_06.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo6q__Q01
 parent: src_jjmo6q
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008 — Quesito 1
 
 *Compute an arithmetic expression with products*
 

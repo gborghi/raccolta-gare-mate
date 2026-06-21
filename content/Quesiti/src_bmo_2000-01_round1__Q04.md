@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2000-01 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2000-01_round1__Q04
 parent: src_bmo_2000-01_round1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2000-01 — Round 1 — Quesito 4
 
 *Sequence defined via nearest-integer function; prove terms form consecutive integers*
 

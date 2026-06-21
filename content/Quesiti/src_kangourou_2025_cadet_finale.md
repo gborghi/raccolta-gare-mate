@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Cadet finale
 tipo: gara
 src_id: src_kangourou_2025_cadet_finale
 competition: Kangourou 2025 Cadet finale
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Kangourou 2025 Cadet finale
 
 Sorgente: `Kangaroo/kangourou_individuali/2025/Cadet2025RFIN.pdf` · apri PDF
 

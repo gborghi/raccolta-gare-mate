@@ -1,4 +1,5 @@
 ---
+title: XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007__Q03
 parent: src_cesenatico_2007
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 3
 
 *quadrilatero ciclico sse BA=BE*
 

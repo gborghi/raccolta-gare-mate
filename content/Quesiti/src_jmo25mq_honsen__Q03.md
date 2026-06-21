@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo25mq_honsen__Q03
 parent: src_jmo25mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 3
 
 *Ascending sequences of positive integers and multiples of primes*
 

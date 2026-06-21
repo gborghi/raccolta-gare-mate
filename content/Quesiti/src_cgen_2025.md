@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2025 — Matematica
 tipo: gara
 src_id: src_cgen_2025
 competition: Concours Général des Lycées 2025 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2025 — Matematica
 
 Sorgente: apri PDF
 

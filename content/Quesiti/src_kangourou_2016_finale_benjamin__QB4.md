@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 finale nazionale Benjamin — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_finale_benjamin__QB4
 parent: src_kangourou_2016_finale_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 finale nazionale Benjamin — Quesito B4
 
 *conviene quale?*
 

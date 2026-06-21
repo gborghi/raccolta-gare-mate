@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1997 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1997__Q06
 parent: src_inmo_1997
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1997 — Quesito 6
 
 *Cubic with three real roots; minimal absolute value root bounds ratio b/a*
 

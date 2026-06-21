@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f1__Q20
 parent: src_obm_2008_n1_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 20
 
 *Three cars at constant speeds; given relative positions when A overtakes B; find A–C distance*
 

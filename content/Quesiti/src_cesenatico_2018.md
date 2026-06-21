@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2018 - testi
 tipo: gara
 src_id: src_cesenatico_2018
 competition: Olimpiade Italiana (Cesenatico) 2018 - testi
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2018 - testi
 
 Sorgente: `Archimede/individuale/nazionale/2018/ces18-2.pdf` · apri PDF
 

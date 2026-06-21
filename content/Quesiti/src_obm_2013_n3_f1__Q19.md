@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f1__Q19
 parent: src_obm_2013_n3_f1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 19
 
 *Number closest to the number of digits of 3^400*
 

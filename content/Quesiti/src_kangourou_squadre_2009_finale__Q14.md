@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q14
 parent: src_kangourou_squadre_2009_finale
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 14
 
 *Valore n% per cui Peter e' certo dell'elezione*
 

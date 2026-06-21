@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo)
 tipo: gara
 src_id: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2007/JMarzo-07.pdf` · apri PDF
 

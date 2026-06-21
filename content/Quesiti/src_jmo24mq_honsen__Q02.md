@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo24mq_honsen__Q02
 parent: src_jmo24mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 2
 
 *Find all positive integer solutions of an exponential equation*
 

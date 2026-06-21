@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q24
 parent: src_squadre_2018_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 24
 
 *Area massima ombra di parallelepipedo 20x40x60*
 

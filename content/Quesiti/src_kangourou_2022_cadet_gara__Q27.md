@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q27
 parent: src_kangourou_2022_cadet_gara
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 27
 
 *Somma delle aree dei due quadrati (regione grigia 43)*
 

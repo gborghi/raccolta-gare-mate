@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round1__Q04
 parent: src_bmo_2010-11_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 1 — Quesito 4
 
 *8x8 board, red/white/blue coins; count arrangements with odd red per row and column*
 

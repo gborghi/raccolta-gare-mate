@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q07
 parent: src_kangourou_2017_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Finale — Quesito 7
 
 *Superficie minima incollando cubi 1, 8 e 27*
 

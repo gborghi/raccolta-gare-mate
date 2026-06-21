@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f1__Q07
 parent: src_obm_2012_n1_f1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 7
 
 *Difference in perimeters of two pieces cut from grid paper*
 

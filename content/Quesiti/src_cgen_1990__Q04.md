@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1990 — Matematica — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cgen_1990__Q04
 parent: src_cgen_1990
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1990 — Matematica — Quesito 4
 
 *Max area of triangle inscribed in square; max volume of tetrahedron in cube*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q09
 parent: src_kangourou_squadre_2010_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 9
 
 *Minimo quadrati da colorare per coprire griglia 25x25*
 

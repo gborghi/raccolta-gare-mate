@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q21
 parent: src_kangourou_2002_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 21
 
 *Minimo divisori di n divisibile 21 e 9*
 

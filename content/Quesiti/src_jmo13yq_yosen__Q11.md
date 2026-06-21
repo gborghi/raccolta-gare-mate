@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo13yq_yosen__Q11
 parent: src_jmo13yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 11
 
 *Count planes through exactly 3 vertices of a regular icosahedron*
 

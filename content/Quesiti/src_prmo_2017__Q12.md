@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q12
 parent: src_prmo_2017
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 12
 
 *Total students given boys:girls = 1:3 and present boys equal square of present girls*
 

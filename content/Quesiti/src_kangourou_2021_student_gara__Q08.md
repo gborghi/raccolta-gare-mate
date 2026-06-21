@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q08
 parent: src_kangourou_2021_student_gara
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 8
 
 *Numeri di tre cifre con 1,3,5 divisibili per 3*
 

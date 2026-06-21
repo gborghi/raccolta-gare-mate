@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Finale (risposta aperta) — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet_finale__QC4
 parent: src_kangourou_2023_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Finale (risposta aperta) — Quesito C4
 
 *parola di senso compiuto*
 

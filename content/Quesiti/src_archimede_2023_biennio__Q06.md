@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_biennio__Q06
 parent: src_archimede_2023_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio — Quesito 6
 
 *Quante affermazioni su potenze di 2 sono vere*
 

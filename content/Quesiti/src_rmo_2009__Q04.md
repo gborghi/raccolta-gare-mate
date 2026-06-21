@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2009 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2009__Q04
 parent: src_rmo_2009
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2009 — Quesito 4
 
 *Sum of all 3-digit numbers with at least one odd and one even digit*
 

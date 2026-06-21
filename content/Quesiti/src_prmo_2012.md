@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai
 tipo: gara
 src_id: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/Mumbai
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai
 
 Sorgente: apri PDF
 

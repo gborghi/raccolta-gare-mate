@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1998 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_1998__Q05
 parent: src_inmo_1998
@@ -33,8 +34,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1998 — Quesito 5
 
 *Real quadratic with complex roots implies triangle inequality*
 

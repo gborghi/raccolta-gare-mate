@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_finale__Q17
 parent: src_cesenatico_2011_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 17
 
 *Tre atleti fianco a fianco per la prima volta*
 

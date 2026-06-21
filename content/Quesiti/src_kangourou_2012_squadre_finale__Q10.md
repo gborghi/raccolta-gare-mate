@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q10
 parent: src_kangourou_2012_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 10
 
 *Valore prodotto (2012-0)*...*(0-2012)*
 

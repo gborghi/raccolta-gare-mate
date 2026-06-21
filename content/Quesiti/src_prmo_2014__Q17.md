@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q17
 parent: src_prmo_2014
@@ -37,8 +38,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 17
 
 *Smallest b such that N(b)=20, where N(b) counts a for which x^2+ax+b=0 has no integer roots*
 

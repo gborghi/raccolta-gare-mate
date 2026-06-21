@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - gara marzo — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier__Q16
 parent: src_kangourou_2021_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - gara marzo — Quesito 16
 
 *Aspetto delle tre tazze dopo la decima mossa*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior (20 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior__Q29
 parent: src_kangourou_2003_junior
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior (20 marzo) — Quesito 29
 
 *Min mosse cambio colore scacchiera 2x3*
 

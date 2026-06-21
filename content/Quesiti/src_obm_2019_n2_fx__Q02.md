@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n2_fx__Q02
 parent: src_obm_2019_n2_fx
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x — Quesito 2
 
 *Prove inequality involving min and max of two positive integers*
 

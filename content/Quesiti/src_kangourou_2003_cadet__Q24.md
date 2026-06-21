@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q24
 parent: src_kangourou_2003_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 24
 
 *Differenza aree regione grigia e nera (4 quadrati)*
 

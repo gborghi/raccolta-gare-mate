@@ -1,11 +1,10 @@
 ---
+title: Combinatoria
 tipo: topic
 concept_id: topic_combinatoria
 tags:
   - graph/topic
 ---
-
-# Combinatoria
 
 *topic* — **2191** quesiti (italiani).
 

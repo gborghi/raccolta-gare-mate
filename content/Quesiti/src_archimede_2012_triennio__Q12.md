@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q12
 parent: src_archimede_2012_triennio
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 12
 
 *Massimo divisore di n^5-5n^3+4n per n>=3*
 

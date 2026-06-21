@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n3_f1__Q07
 parent: src_obm_2012_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 7
 
 *Ways to tile 4x4 board with one 2x2 square and four L-pieces*
 

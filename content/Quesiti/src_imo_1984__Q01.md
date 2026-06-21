@@ -1,4 +1,5 @@
 ---
+title: IMO 1984 (25th International Mathematical Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1984__Q01
 parent: src_imo_1984
@@ -23,8 +24,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1984 (25th International Mathematical Olympiad) — Quesito 1
 
 *Bound xy+yz+zx-2xyz for nonnegative reals summing to 1*
 

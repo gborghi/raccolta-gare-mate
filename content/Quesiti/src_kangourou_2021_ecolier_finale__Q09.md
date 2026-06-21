@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q09
 parent: src_kangourou_2021_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 9
 
 *Lato del cioccolatino piccolo (scatola 18)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo)
 tipo: gara
 src_id: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2001
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2001/EMarzo-01.pdf` · apri PDF
 

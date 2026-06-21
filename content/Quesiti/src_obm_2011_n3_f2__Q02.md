@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f2__Q02
 parent: src_obm_2011_n3_f2
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 2
 
 *Count anagrams of FELICIDADE that are alternated (consonant/vowel)*
 

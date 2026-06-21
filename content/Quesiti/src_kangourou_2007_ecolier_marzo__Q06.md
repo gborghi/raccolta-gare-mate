@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q06
 parent: src_kangourou_2007_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo) — Quesito 6
 
 *Numeri di 3 cifre con 0 e 7*
 

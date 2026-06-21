@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Cadet (15 marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_cadet__Q11
 parent: src_kangourou_2001_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2001 - Cadet (15 marzo) — Quesito 11
 
 *Intersezioni di quattro circonferenze*
 

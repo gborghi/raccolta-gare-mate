@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q10
 parent: src_kangourou_2017_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 10
 
 *Coppie con somma pari tra 1 e 103*
 

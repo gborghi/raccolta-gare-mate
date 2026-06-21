@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q08
 parent: src_kangourou_2020_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 8
 
 *Minimo ribaltamenti di linee per 2020 gettoni rossi*
 

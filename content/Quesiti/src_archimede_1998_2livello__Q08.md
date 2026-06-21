@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q08
 parent: src_archimede_1998_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 8
 
 *Valori di k per cui ||x|-1|=k ha tre soluzioni*
 

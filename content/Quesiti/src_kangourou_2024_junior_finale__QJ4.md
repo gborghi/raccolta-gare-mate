@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Junior 2024 — Quesito J4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_finale__QJ4
 parent: src_kangourou_2024_junior_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Finale Junior 2024 — Quesito J4
 
 *Minimo valore di N(P) per un pentagono*
 

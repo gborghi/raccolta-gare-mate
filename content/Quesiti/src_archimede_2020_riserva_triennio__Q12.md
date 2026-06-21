@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q12
 parent: src_archimede_2020_riserva_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 12
 
 *Primi p con x^2-(43-p)x+5p a radici intere positive*
 

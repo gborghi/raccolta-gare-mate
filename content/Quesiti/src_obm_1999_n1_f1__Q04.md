@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f1__Q04
 parent: src_obm_1999_n1_f1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 4
 
 *Metro line with 12 equally-spaced stations; find total length.*
 

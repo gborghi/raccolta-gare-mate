@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior (18 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior__Q21
 parent: src_kangourou_2004_junior
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior (18 marzo) — Quesito 21
 
 *Quante volte l'alpinista e tornato indietro*
 

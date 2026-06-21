@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q02
 parent: src_kangourou_2020_pre_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 2
 
 *Quale foto del palloncino davanti al castello*
 

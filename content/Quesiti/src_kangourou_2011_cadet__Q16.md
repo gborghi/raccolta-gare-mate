@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q16
 parent: src_kangourou_2011_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 16
 
 *Area del quadrato dato somma perimetri di 6 rettangoli*
 

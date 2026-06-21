@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q29
 parent: src_kangourou_2011_student
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 29
 
 *Minimo valore ammissibile per n nella griglia 4x5*
 

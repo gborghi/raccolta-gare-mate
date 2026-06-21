@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo23yqa_yosen__Q03
 parent: src_jjmo23yqa_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 3
 
 *Find length BD in triangle with circumcircle, cevian, and parallel line*
 

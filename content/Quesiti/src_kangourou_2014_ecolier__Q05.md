@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q05
 parent: src_kangourou_2014_ecolier
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 5
 
 *Quale forma unendo i punti delle risposte 0-5*
 

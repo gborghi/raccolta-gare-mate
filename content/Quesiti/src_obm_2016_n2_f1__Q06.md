@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f1__Q06
 parent: src_obm_2016_n2_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 6
 
 *Evaluate (x^3-1)/(1+x^2+(x+1)^2) for x=2015*
 

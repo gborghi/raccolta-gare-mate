@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_femminile__Q06
 parent: src_squadre_2023_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale — Quesito 6
 
 *Minimo k0 pari con k_100 divisibile per 533*
 

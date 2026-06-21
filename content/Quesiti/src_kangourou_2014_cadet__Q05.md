@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q05
 parent: src_kangourou_2014_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 5
 
 *Differenza di due interi con prodotto 36 e somma 37*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q06
 parent: src_kangourou_2016_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Finale — Quesito 6
 
 *Segmenti per disegnare cubo da 1000 cubetti*
 

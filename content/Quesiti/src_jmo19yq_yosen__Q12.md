@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo19yq_yosen__Q12
 parent: src_jmo19yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 12
 
 *Subsets of 10 points cut off by a half-space*
 

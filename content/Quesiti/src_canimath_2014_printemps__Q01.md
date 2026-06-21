@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2014 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_printemps__Q01
 parent: src_canimath_2014_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2014 — Quesito 1
 
 *Side of large square with inscribed square and equilateral triangles*
 

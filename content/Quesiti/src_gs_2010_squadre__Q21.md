@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_gs_2010_squadre__Q21
 parent: src_gs_2010_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre — Quesito 21
 
 *Conteggio suriezioni soldati su tre lettere*
 

@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_tfjm_2022__Q06
 parent: src_tfjm_2022
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 6
 
 *Twin towns: each day Aliénor picks an inhabitant of A without a correspondent and Boniface assigns one in B preserving friendship; study perfect twinnings and the maximal asymmetric/symmetric compatibility C(A,B), D(A,B) for cycle-towns and the infinite town Z.*
 

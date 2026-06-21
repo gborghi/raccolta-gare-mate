@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Benjamin finale nazionale (Mirabilandia) — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_benjamin_maggio__QB6
 parent: src_kangourou_2009_benjamin_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Benjamin finale nazionale (Mirabilandia) — Quesito B6
 
 *Chi ha vinto piu mani alla morra cinese*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012__Q01
 parent: src_cesenatico_2012
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 1
 
 *1/x=1/AB+1/AC*
 

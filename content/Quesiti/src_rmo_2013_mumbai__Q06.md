@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_mumbai__Q06
 parent: src_rmo_2013_mumbai
@@ -31,8 +32,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Mumbai — Quesito 6
 
 *Find common divisor of P(2013!+1) and Q(2013!+1) for given polynomials*
 

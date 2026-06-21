@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1999 — Matematica
 tipo: gara
 src_id: src_cgen_1999
 competition: Concours Général des Lycées 1999 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/1999
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1999 — Matematica
 
 Sorgente: apri PDF
 

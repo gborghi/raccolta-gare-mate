@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q17
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 17
 
 *Volume dell ottaedro inscritto nel cubo di spigolo 1*
 

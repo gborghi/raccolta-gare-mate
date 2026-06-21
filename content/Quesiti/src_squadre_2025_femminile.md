@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale
 tipo: gara
 src_id: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale
 
 Sorgente: `Archimede/squadre/nazionale/2025/finale_femminile_2025_testi.pdf` · apri PDF
 

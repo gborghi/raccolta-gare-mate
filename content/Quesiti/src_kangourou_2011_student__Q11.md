@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q11
 parent: src_kangourou_2011_student
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 11
 
 *Dividere un rettangolo in tre rettangoli simili*
 

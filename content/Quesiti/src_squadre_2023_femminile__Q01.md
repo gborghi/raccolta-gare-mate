@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_femminile__Q01
 parent: src_squadre_2023_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale — Quesito 1
 
 *Somma cifre n di 9999...9 (2023 nove) al quadrato meno uno*
 

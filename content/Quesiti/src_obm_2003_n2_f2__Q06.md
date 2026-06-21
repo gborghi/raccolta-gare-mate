@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f2__Q06
 parent: src_obm_2003_n2_f2
@@ -38,8 +39,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 6
 
 *Find another four-digit 'biquadrado' number, equal to the sum of squares of its two two-digit halves*
 

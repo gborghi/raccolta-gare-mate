@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q02
 parent: src_cesenatico_2005_squadre_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 2
 
 *Modi per andare dal centro al bordo scacchiera in n mosse*
 

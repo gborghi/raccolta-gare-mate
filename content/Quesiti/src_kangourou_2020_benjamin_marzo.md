@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin
 tipo: gara
 src_id: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/BMarzo-20.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1991 (32nd IMO) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1991__Q03
 parent: src_imo_1991
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1991 (32nd IMO) — Quesito 3
 
 *Smallest n forcing five pairwise coprime numbers in subset*
 

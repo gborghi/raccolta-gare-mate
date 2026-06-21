@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q15
 parent: src_archimede_2025_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 15
 
 *Berenice determina i numeri da somme adiacenti*
 

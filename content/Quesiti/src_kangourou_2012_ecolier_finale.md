@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Ecolier (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2012_ecolier_finale
 competition: Kangourou 2012 Finale Ecolier (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Ecolier (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2012/EMaggio-12.pdf` · apri PDF
 

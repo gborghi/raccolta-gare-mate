@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - finale settembre
 tipo: gara
 src_id: src_kangourou_2020_junior_settembre
 competition: Kangourou 2020 Junior - finale settembre
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - finale settembre
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/J-settembre20.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f1__Q10
 parent: src_obm_2013_n1_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 10
 
 *Number of plus signs in 2013^2013 + ... = 2013^2014*
 

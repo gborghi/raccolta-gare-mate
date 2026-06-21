@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo33hq_honsen__Q01
 parent: src_jmo33hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 1
 
 *Max cells covered by at least 1 L-tetromino on 5x5 grid*
 

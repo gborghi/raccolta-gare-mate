@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q23
 parent: src_kangourou_2019_koala_preecolier
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 23
 
 *Quale numero indicare per essere sicuri (quadrato somma >63)*
 

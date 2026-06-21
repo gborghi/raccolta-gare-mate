@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q14
 parent: src_kangourou_2005_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 14
 
 *Massimo di cinque interi consecutivi con somma 2005*
 

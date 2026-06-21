@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q01
 parent: src_kangourou_2015_squadre_a
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Semifinale A — Quesito 1
 
 *Lato del rombo data busta con lati 12 e 16*
 

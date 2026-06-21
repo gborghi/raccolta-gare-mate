@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo26yq_yosen__Q07
 parent: src_jmo26yq_yosen
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 7
 
 *Minimum of sum of squares under three product equations*
 

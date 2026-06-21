@@ -1,4 +1,5 @@
 ---
+title: IMO 1964 (VI International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imho_1964__Q01
 parent: src_imho_1964
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1964 (VI International Olympiad) — Quesito 1
 
 *Quando 2^n-1 e 2^n+1 sono divisibili per 7*
 

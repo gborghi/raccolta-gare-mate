@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2017-18 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2017-18_round2__Q02
 parent: src_bmo_2017-18_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2017-18 — Round 2 — Quesito 2
 
 *Circular cake game: for which n can Mad Hatter force Alice to eat all cakes*
 

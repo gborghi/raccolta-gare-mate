@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2002-03 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2002-03_round2__Q01
 parent: src_bmo_2002-03_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2002-03 — Round 2 — Quesito 1
 
 *Largest prime factor triples in arithmetic progression*
 

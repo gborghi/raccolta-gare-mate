@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_preecolier__Q23
 parent: src_kangourou_2013_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier — Quesito 23
 
 *Quanti timbri possono essere fatti da Angela*
 

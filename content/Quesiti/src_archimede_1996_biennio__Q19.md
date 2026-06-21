@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q19
 parent: src_archimede_1996_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 19
 
 *Quale sacchetto piu probabile data pallina bianca*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1996 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1996__Q06
 parent: src_rmo_1996
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1996 — Quesito 6
 
 *For any positive integer n, construct two non-integer rationals whose power differences are integers*
 

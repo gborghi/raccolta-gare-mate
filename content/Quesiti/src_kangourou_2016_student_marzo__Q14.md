@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q14
 parent: src_kangourou_2016_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 14
 
 *Angolo CAM in rettangolo con BC meta diagonale*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q10
 parent: src_cesenatico_2005_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 10
 
 *Somma perimetri terne pitagoriche con c=(3/4)a+(4/5)b*
 

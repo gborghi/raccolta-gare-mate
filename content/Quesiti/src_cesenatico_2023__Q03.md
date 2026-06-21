@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2023__Q03
 parent: src_cesenatico_2023
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 3
 
 *Esistenza a,b distinti con 2023a+s(a)=... e a+2023s(a)=...*
 

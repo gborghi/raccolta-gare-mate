@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2017 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2017__Q05
 parent: src_inmo_2017
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2017 — Quesito 5
 
 *Altitude foot perpendicular to line joining incenters of sub-triangles*
 

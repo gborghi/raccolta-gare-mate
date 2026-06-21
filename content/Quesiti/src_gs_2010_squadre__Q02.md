@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gs_2010_squadre__Q02
 parent: src_gs_2010_squadre
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre — Quesito 2
 
 *Successione ricorsiva di chiamata dei numeri*
 

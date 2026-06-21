@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo18hq_honsen__Q02
 parent: src_jjmo18hq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 2
 
 *Isosceles triangle with altitude foot; find angle BCD*
 

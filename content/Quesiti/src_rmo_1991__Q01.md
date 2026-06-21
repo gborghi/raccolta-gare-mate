@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1991 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_1991__Q01
 parent: src_rmo_1991
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1991 — Quesito 1
 
 *Cevians through interior point, prove ratio sum equals one*
 

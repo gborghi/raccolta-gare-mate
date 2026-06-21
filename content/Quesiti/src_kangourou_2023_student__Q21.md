@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q21
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 21
 
 *Espressione della funzione f da sistema funzionale*
 

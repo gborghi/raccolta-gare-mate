@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f1__Q09
 parent: src_obm_2013_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 9
 
 *2013th term of a sequence of 3-digit numbers with nonzero digits*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior finale (maggio) — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ1
 parent: src_kangourou_2007_junior_maggio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior finale (maggio) — Quesito J1
 
 *Max numeri scelti senza somma multipla di 3*
 

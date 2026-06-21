@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1993 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1993__Q03
 parent: src_inmo_1993
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1993 — Quesito 3
 
 *Inequality for four positive reals summing to 1*
 

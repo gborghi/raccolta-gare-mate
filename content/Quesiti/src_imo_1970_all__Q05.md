@@ -1,4 +1,5 @@
 ---
+title: IMO 1970 (Twelfth International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1970_all__Q05
 parent: src_imo_1970_all
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1970 (Twelfth International Olympiad) — Quesito 5
 
 *Tetrahedron perimeter-squared inequality with equality case*
 

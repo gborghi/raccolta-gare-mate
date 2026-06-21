@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo21hq_honsen__Q01
 parent: src_jjmo21hq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 1
 
 *Prove triangle ABC similar to triangle DEF formed by circle intersections*
 

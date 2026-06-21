@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q12
 parent: src_archimede_2001_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 12
 
 *Interi uguali al triplo della somma delle loro cifre*
 

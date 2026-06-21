@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q17
 parent: src_gsm_2021_squadre
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 17
 
 *Rapporto tra raggio inferiore e superiore di solido vetrario*
 

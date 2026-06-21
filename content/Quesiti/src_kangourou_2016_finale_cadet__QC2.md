@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 finale nazionale Cadet — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_finale_cadet__QC2
 parent: src_kangourou_2016_finale_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 finale nazionale Cadet — Quesito C2
 
 *gelato 2 kang con 2 euro*
 

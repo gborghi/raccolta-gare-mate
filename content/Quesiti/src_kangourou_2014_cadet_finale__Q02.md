@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Cadet — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet_finale__Q02
 parent: src_kangourou_2014_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Cadet — Quesito 2
 
 *Quanti primi p con 4p+1 quadrato perfetto*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo29mq_honsen__Q04
 parent: src_jmo29mq_honsen
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 4
 
 *Circle on diameter AK tangent to incircle*
 

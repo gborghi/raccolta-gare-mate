@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q05
 parent: src_kangourou_2021_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 5
 
 *Zeri finali del prodotto dei pari tra 1 e 101*
 

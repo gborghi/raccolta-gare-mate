@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n1_f1__Q09
 parent: src_obm_2006_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 9
 
 *Two cyclists on opposite sides of a 45 km loop, find meeting time*
 

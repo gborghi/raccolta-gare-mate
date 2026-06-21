@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo15mq_honsen__Q03
 parent: src_jmo15mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 3
 
 *Cube-root inequality for positive reals summing to 1*
 

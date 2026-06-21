@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo24yqa_yosen__Q06
 parent: src_jjmo24yqa_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 6
 
 *Triangle, BD=DE=EC on BC, parallel cevians, equal angles; find AC*
 

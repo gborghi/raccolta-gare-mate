@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n1_f2__Q09
 parent: src_obm_2005_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 9
 
 *Domino chain alignment and impossibility with 1–4 tiles*
 

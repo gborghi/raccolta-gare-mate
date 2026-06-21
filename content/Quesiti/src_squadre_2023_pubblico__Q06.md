@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Gara del pubblico — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_pubblico__Q06
 parent: src_squadre_2023_pubblico
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Gara del pubblico — Quesito 6
 
 *Valori n con 8n^3+11n^2+16n-20 cubo perfetto, somma*
 

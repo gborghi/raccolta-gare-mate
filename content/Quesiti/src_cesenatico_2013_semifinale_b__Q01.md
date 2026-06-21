@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q01
 parent: src_cesenatico_2013_semifinale_b
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 1
 
 *Area intersezione delle due ombre (tetraedro+specchio)*
 

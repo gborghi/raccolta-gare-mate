@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q09
 parent: src_prmo_2013
@@ -28,8 +29,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 9
 
 *Angle BOC when B,H,I,C are concyclic in triangle ABC*
 

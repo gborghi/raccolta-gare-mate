@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q16
 parent: src_archimede_2005_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 16
 
 *Quante volte compare la cifra 1 da 1 a 2005*
 

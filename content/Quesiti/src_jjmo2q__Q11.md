@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q11
 parent: src_jjmo2q
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 11
 
 *Fill-in dialogue: triples and the operation a*b mod 10*
 

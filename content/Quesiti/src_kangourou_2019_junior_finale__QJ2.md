@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ2
 parent: src_kangourou_2019_junior_finale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito J2
 
 *Minima somma di 4 interi ai vertici con vincoli di divisibilita*
 

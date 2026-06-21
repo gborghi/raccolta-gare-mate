@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_mumbai__Q05
 parent: src_rmo_2014_mumbai
@@ -33,8 +34,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Quesito 5
 
 *Prove (1+a^2)(1+b^2)(1+c^2) >= 125 given reciprocal sum at most 1*
 

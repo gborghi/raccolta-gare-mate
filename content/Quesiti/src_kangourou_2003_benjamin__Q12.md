@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin__Q12
 parent: src_kangourou_2003_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 - Benjamin (20 marzo) — Quesito 12
 
 *Risultati diversi sommando due numeri*
 

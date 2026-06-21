@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f2__Q01
 parent: src_obm_2010_n2_f2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 1
 
 *Smallest N so that 33N has all digits equal to 7; find digit sum of N*
 

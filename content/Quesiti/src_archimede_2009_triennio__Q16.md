@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_triennio__Q16
 parent: src_archimede_2009_triennio
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio — Quesito 16
 
 *Somma numeri quattro cifre distinte tra 1,2,3,6*
 

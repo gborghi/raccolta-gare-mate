@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_biennio__Q08
 parent: src_archimede_1999_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Biennio — Quesito 8
 
 *Negazione di una affermazione con quantificatori annidati*
 

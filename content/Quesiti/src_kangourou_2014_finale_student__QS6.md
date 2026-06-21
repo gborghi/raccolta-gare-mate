@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale nazionale Student — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_finale_student__QS6
 parent: src_kangourou_2014_finale_student
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 finale nazionale Student — Quesito S6
 
 *Disporre successione con infiniti 1 e non-1 in matrice infinita*
 

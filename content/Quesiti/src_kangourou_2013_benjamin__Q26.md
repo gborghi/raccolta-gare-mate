@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q26
 parent: src_kangourou_2013_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 26
 
 *Minimo numero di pulsanti per rendere allegre le facce*
 

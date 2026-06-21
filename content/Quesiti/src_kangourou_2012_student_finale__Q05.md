@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 finale nazionale Student — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student_finale__Q05
 parent: src_kangourou_2012_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 finale nazionale Student — Quesito 5
 
 *Sottoinsieme con somma multiplo di n tra n interi*
 

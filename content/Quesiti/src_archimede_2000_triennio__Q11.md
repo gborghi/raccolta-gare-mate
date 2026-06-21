@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q11
 parent: src_archimede_2000_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 11
 
 *Punti squadre dopo quattro giornate con vincoli*
 

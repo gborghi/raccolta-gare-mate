@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo15mq_honsen__Q05
 parent: src_jmo15mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 5
 
 *Existence of an envy-free assignment that is not dominated by another*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q07
 parent: src_obm_2016_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 7
 
 *Original number of people sharing a 6000 cost when 3 drop out and each remaining pays 100 more*
 

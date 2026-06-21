@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q08
 parent: src_kangourou_2011_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 8
 
 *Numeri 7 cifre contenenti blocco 2011*
 

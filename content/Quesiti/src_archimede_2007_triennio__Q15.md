@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_triennio__Q15
 parent: src_archimede_2007_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Triennio — Quesito 15
 
 *Fogli delle presenze distinti per 10 studenti*
 

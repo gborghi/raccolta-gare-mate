@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2000-01 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2000-01_round1__Q01
 parent: src_bmo_2000-01_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2000-01 — Round 1 — Quesito 1
 
 *Two-digit N where digit-sum of 10^N minus 1 is divisible by 170*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2017 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo27mq_honsen__Q03
 parent: src_jmo27mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2017 — Honsen (Final) — Quesito 3
 
 *A, midpoint of XY, midpoint of BC are collinear*
 

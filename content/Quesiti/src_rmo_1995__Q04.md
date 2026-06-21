@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1995 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_1995__Q04
 parent: src_rmo_1995
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1995 — Quesito 4
 
 *Quadratic x^2 + 7x - 14(q^2+1) with integer q has no integer root*
 

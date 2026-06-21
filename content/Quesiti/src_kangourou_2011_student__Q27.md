@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q27
 parent: src_kangourou_2011_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 27
 
 *Quanti punteggi complessivi distinti con 3 frecce*
 

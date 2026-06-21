@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Student — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_student__QS3
 parent: src_kangourou_2015_finale_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Student — Quesito S3
 
 *Modi di realizzare N+1 kang > modi per N kang*
 

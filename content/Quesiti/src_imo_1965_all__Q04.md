@@ -1,4 +1,5 @@
 ---
+title: IMO 1965 (Seventh International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1965_all__Q04
 parent: src_imo_1965_all
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1965 (Seventh International Olympiad) — Quesito 4
 
 *Find four reals where each plus product of other three is 2*
 

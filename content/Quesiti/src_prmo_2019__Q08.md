@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q08
 parent: src_prmo_2019
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 8
 
 *Count n in [3,100] such that x^2+x+1 is divisible by n for some integer x*
 

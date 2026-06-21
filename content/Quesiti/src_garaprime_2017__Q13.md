@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q13
 parent: src_garaprime_2017
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 13
 
 *Grado del polinomio da uguaglianza di gradi*
 

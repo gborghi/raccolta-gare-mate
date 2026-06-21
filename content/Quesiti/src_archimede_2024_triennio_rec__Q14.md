@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q14
 parent: src_archimede_2024_triennio_rec
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 14
 
 *Angolo F con tangente bisettrice in configurazione circolare*
 

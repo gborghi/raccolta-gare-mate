@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_triennio__Q11
 parent: src_archimede_2019_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Triennio (T1) — Quesito 11
 
 *Probabilita somma 10 con dado normale e dado speciale*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1978-79_round1__Q03
 parent: src_bmo_1978-79_round1
@@ -36,8 +37,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1978-79 — Round 1 — Quesito 3
 
 *Distinct odd positive integers with distinct pairwise differences; prove sum lower bound*
 

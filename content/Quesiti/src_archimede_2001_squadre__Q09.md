@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_squadre__Q09
 parent: src_archimede_2001_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 9
 
 *unioni e divisioni, numero massimo di mucchi*
 

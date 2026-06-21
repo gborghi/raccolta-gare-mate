@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q25
 parent: src_kangourou_2000_studenti
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 25
 
 *Posizione della moneta tra le scatole*
 

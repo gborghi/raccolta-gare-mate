@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q09
 parent: src_archimede_2010_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 9
 
 *Numeri pari da 2 a 2010 non multipli di tre*
 

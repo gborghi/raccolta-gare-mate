@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale2__Q05
 parent: src_squadre_2023_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2 — Quesito 5
 
 *Valore di 2023^3-3*2022^3+3*2021^3-2020^3*
 

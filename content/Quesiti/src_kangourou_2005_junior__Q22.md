@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q22
 parent: src_kangourou_2005_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 22
 
 *Volume piramide che racchiude 14 cubi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Cadet — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_finale__Q04
 parent: src_kangourou_2019_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Cadet — Quesito 4
 
 *Tra quanti anni la luna piena tornera a Ferragosto*
 

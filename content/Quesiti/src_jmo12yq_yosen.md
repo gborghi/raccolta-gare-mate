@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
 tipo: gara
 src_id: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -15,8 +16,6 @@ tags:
   - anno/2002
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
 
 Sorgente: apri PDF
 

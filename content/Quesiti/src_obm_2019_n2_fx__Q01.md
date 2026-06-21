@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n2_fx__Q01
 parent: src_obm_2019_n2_fx
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x — Quesito 1
 
 *Count and characterize 'robust' and 'super-robust' 8-digit numbers*
 

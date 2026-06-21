@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2011
 tipo: gara
 src_id: src_rmo_2011
 competition: Regional Mathematical Olympiad 2011
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2011
 
 Sorgente: apri PDF
 

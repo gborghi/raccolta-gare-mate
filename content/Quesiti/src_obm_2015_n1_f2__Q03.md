@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f2__Q03
 parent: src_obm_2015_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 3
 
 *Two 1 cm-wide strips cut into rectangles forming 100 cm decorative strip; find original width*
 

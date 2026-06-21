@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q17
 parent: src_archimede_1997_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 17
 
 *Coppie (m,n) naturali con mn = p(m+n), p primo*
 

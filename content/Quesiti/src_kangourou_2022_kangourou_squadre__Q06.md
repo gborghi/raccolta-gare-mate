@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q06
 parent: src_kangourou_2022_kangourou_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 6
 
 *Valore n perché 1/n moltiplicata per 2022*
 

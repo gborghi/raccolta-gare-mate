@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q24
 parent: src_kangourou_2021_student_gara
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 24
 
 *Di chi e figlio il cangurino s*
 

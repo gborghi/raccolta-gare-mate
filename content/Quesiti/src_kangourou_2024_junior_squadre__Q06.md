@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q06
 parent: src_kangourou_2024_junior_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 1 — Quesito 6
 
 *Radice di N, quadrato perfetto da M con +3 cifre*
 

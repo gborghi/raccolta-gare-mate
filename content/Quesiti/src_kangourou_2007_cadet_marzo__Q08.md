@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q08
 parent: src_kangourou_2007_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 8
 
 *Differenza tra palindromi (6 cifre e 5 cifre)*
 

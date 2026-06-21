@@ -1,11 +1,10 @@
 ---
+title: Induzione
 tipo: method
 concept_id: method_induzione
 tags:
   - graph/method
 ---
-
-# Induzione
 
 *method* — **35** quesiti (italiani).
 

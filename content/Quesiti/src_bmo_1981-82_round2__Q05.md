@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1981-82 — Round 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1981-82_round2__Q05
 parent: src_bmo_1981-82_round2
@@ -31,8 +32,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1981-82 — Round 2 — Quesito 5
 
 *Polynomial satisfying functional relation; prove identity*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_nonkv__Q06
 parent: src_rmo_2023_nonkv
@@ -38,8 +39,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — Non-KV — Quesito 6
 
 *16 points in 4x4 grid; any 7 blue points contain an isosceles right-angled triangle*
 

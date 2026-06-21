@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1998 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1998__Q03
 parent: src_inmo_1998
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1998 — Quesito 3
 
 *Divisibility by 5 for a polynomial evaluated at an integer*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2025 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_printemps__Q13
 parent: src_canimath_2025_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2025 — Quesito 13
 
 *Max distinct values on board under 2023-of-2025 divisibility condition*
 

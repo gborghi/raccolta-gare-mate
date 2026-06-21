@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Semifinale individuale
 tipo: gara
 src_id: src_kangourou_2023_benjamin_semifinale
 competition: Kangourou 2023 Benjamin — Semifinale individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Semifinale individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2023/Benjamin2023RSE.pdf` · apri PDF
 

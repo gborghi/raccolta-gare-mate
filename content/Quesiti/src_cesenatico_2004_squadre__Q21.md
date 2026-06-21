@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q21
 parent: src_cesenatico_2004_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 21
 
 *Vino di Chiara dopo travasi ciclici tra cinque amici*
 

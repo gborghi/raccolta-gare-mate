@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f2__Q06
 parent: src_obm_2006_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 — Quesito 6
 
 *No integer alternating product of A^a_i B^b_i equals identity for n>1*
 

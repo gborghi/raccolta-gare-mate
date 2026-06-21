@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1998 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1998__Q01
 parent: src_cesenatico_1998
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1998 — Quesito 1
 
 *Somma di floor(sqrt n) da 1 a 1000000*
 

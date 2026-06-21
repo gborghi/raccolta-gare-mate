@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo8mq_honsen__Q02
 parent: src_jjmo8mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 2
 
 *Largest k so truncating a perfect square keeps squares*
 

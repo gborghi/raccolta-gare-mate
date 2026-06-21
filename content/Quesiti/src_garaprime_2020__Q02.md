@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_garaprime_2020__Q02
 parent: src_garaprime_2020
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020 — Quesito 2
 
 *Mosse minime per girare 11 monete a gruppi di 3*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Benjamin (20 marzo)
 tipo: gara
 src_id: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2003
   - gara/individuale
 ---
-
-# Kangourou 2003 - Benjamin (20 marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2003/BMarzo-03.pdf` · apri PDF
 

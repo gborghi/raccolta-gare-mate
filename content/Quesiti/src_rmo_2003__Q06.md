@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2003 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2003__Q06
 parent: src_rmo_2003
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2003 — Quesito 6
 
 *Find all real a such that x²+(a-2)x+1=3|x| has exactly three distinct real solutions*
 

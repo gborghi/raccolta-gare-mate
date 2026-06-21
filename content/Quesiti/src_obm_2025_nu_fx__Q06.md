@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2025_nu_fx__Q06
 parent: src_obm_2025_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x — Quesito 6
 
 *Möbius maps on (-1,1) via tanh; find minimum contraction factor*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo)
 tipo: gara
 src_id: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2005/JMarzo-05.pdf` · apri PDF
 

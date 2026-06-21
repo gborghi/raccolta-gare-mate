@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico
 tipo: gara
 src_id: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico
 
 Sorgente: `Archimede/squadre/nazionale/2009/Pgas09.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1994__Q01
 parent: src_imo_1994
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1994 (35th IMO, Hong Kong) — Quesito 1
 
 *Sum-closed subset average is at least (n+1)/2*
 

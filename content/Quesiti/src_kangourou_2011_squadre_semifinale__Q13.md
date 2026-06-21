@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q13
 parent: src_kangourou_2011_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A — Quesito 13
 
 *Partite totali con 20% squadre senza vittorie*
 

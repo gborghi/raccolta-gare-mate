@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1993 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1993__Q03
 parent: src_cgen_1993
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1993 — Matematica — Quesito 3
 
 *Bounded-below function on Z with midpoint inequality implies constant*
 

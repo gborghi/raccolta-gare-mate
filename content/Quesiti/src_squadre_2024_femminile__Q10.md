@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q10
 parent: src_squadre_2024_femminile
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 10
 
 *Numero triangoli da terne di travi tra 10 punti su cerchio*
 

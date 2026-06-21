@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q13
 parent: src_kangourou_2021_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 13
 
 *Quanti termini < 2021 con media dei primi n uguale a n*
 

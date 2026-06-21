@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2017 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2017__Q01
 parent: src_rmo_2017
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2017 — Quesito 1
 
 *Construct line segment CD using compass/ruler given angle and ratio*
 

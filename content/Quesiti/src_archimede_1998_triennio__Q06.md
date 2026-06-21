@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Triennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_triennio__Q06
 parent: src_archimede_1998_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Triennio — Quesito 6
 
 *Quale affermazione e sicuramente vera fra tre relazioni*
 

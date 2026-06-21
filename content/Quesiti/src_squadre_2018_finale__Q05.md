@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q05
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 5
 
 *Cammini di robot con passi diritti e diagonali fino all'ingresso*
 

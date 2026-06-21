@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q26
 parent: src_ioqm_2024
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 26
 
 *Sum of floor(x) for real x satisfying 16+15x+15x^2=floor(x)^3*
 

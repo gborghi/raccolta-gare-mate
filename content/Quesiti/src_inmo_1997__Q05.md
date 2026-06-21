@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1997 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_1997__Q05
 parent: src_inmo_1997
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1997 — Quesito 5
 
 *Count 4x4 arrays from {0,1,2,3} with row and column sums divisible by 4*
 

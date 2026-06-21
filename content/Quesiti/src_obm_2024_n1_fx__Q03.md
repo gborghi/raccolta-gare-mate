@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n1_fx__Q03
 parent: src_obm_2024_n1_fx
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 3
 
 *Regular octagon with midpoints and intersections, find segment lengths and squares*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_triennio__Q18
 parent: src_archimede_1998_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Triennio — Quesito 18
 
 *Piu piccolo intero di cinque cifre divisibile per 3 e 13*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q08
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 8
 
 *Quanti dischi vede Marco guardando dall alto*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f1__Q24
 parent: src_obm_2002_n2_f1
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 24
 
 *Self-referential: total number of letters in all wrong answers to this question*
 

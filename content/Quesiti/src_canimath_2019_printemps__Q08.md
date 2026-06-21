@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2019 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_printemps__Q08
 parent: src_canimath_2019_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2019 — Quesito 8
 
 *m x n blue/red grid; maximize rows with blue majority plus columns with red majority*
 

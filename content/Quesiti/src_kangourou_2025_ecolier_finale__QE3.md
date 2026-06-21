@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Ecolier finale — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE3
 parent: src_kangourou_2025_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Ecolier finale — Quesito E3
 
 *Piu piccolo intero con somma cifre 30*
 

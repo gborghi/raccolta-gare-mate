@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1984-85 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1984-85_round1__Q02
 parent: src_bmo_1984-85_round1
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1984-85 — Round 1 — Quesito 2
 
 *For a,b,c in (0,1), not all of a(1-b),b(1-c),c(1-a) exceed 1/4*
 

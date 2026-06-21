@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q01
 parent: src_archimede_2000_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 1
 
 *Quale spigolo aumentare per massimo incremento di volume*
 

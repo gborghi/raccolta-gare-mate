@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_ioqm_2021__Q08
 parent: src_ioqm_2021
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 8
 
 *Greatest integer N with floor(sqrt(floor(sqrt(N))))=4; find digit sum of N*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2019-20_round1__Q06
 parent: src_bmo_2019-20_round1
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2019-20 — Round 1 — Quesito 6
 
 *Find all functions f assigning integers to pairs of integers satisfying a given functional equation*
 

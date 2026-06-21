@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q13
 parent: src_kangourou_2013_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 13
 
 *Quante regioni grigie hanno stesso perimetro del foglio*
 

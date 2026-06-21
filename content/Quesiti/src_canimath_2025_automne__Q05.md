@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q05
 parent: src_canimath_2025_automne
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 5
 
 *Among four positive reals, a pair's difference is less than a third of the sum of the other two*
 

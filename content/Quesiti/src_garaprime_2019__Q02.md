@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q02
 parent: src_garaprime_2019
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 2
 
 *Differenza bianche-nere in tabella 81x81 a cornici*
 

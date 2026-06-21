@@ -1,4 +1,5 @@
 ---
+title: IMO compilation 1959-2013 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_compilation__Q04
 parent: src_imo_compilation
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# IMO compilation 1959-2013 — Quesito 4
 
 *IMO 1997 problema 4*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2025 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_printemps__Q08
 parent: src_canimath_2025_printemps
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2025 — Quesito 8
 
 *Compute nested radical expression involving square roots*
 

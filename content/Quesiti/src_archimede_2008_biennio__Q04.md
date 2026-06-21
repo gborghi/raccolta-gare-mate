@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q04
 parent: src_archimede_2008_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 4
 
 *Numero amici da conto diviso in due modi*
 

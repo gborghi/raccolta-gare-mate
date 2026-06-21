@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2004-05 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2004-05_round2__Q01
 parent: src_bmo_2004-05_round2
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2004-05 — Round 2 — Quesito 1
 
 *Show N is a perfect square given exactly 2005 ordered pairs (x,y)*
 

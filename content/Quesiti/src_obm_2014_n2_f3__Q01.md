@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f3__Q01
 parent: src_obm_2014_n2_f3
@@ -38,8 +39,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 1
 
 *Superdado built from eight unit dice; opposite faces of each die sum to 7. Find the six-face sum of a given superdado and build one whose six-face sum is 106.*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 2024 papers — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2024__Q03
 parent: src_imo_2024
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2024 papers — Quesito 3
 
 *Successione conta-occorrenze eventualmente periodica*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q23
 parent: src_squadre_2018_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 23
 
 *Somma su prodotti delle cifre non nulle, potenza energia*
 

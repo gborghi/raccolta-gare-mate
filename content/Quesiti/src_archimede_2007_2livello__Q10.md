@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q10
 parent: src_archimede_2007_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 10
 
 *Rapporto b/h dato triangolo equilatero e rettangolo isoperimetrici*
 

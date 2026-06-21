@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q09
 parent: src_archimede_1999_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 9
 
 *Soluzioni intere positive di x^x - 2^x - x² = 10*
 

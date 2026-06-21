@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q12
 parent: src_kangourou_2016_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Finale — Quesito 12
 
 *Quanti divisori ha il numero 2016*
 

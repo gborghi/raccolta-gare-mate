@@ -1,4 +1,5 @@
 ---
+title: IMO 1966 (Eighth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1966_all__Q03
 parent: src_imo_1966_all
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1966 (Eighth International Olympiad) — Quesito 3
 
 *center minimizes sum of vertex distances*
 

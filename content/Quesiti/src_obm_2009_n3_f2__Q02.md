@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f2__Q02
 parent: src_obm_2009_n3_f2
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 2
 
 *Incenter distance CI in right triangle ABC*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q23
 parent: src_kangourou_2013_student
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 23
 
 *Quante rette tracciate nel piano*
 

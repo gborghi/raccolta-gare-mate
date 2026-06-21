@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2
 tipo: gara
 src_id: src_squadre_2023_semifinale2
 competition: Gara a Squadre 2023 - Semifinale 2
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2
 
 Sorgente: `Archimede/squadre/nazionale/2023/gas2023ITA.pdf` · apri PDF
 

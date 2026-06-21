@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior
 tipo: gara
 src_id: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior
 
 Sorgente: `Kangaroo/kangourou_individuali/2018/JMarzo-18.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1959 (I International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imho_1959__Q01
 parent: src_imho_1959
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1959 (I International Olympiad) — Quesito 1
 
 *Provare che (21n+4)/(14n+3) e irriducibile*
 

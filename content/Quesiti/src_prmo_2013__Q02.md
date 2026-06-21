@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q02
 parent: src_prmo_2013
@@ -30,8 +31,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 2
 
 *Value of sum of 1/(S_n+S_{n-1}) for n=1 to 99*
 

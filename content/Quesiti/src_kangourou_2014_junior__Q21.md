@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q21
 parent: src_kangourou_2014_junior
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 21
 
 *Soluzioni di N×U×(M+E+R+O)=33 con cifre distinte*
 

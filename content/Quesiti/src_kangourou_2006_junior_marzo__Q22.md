@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q22
 parent: src_kangourou_2006_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 22
 
 *Proprieta del prodotto p (tre numeri somma 20)*
 

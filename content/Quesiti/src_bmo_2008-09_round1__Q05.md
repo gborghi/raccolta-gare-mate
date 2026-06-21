@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2008-09 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2008-09_round1__Q05
 parent: src_bmo_2008-09_round1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2008-09 — Round 1 — Quesito 5
 
 *Determine rational periodic sequences satisfying a recurrence*
 

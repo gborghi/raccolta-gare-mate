@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q02
 parent: src_kangourou_squadre_2009_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 2
 
 *Percentuale di quadrati perfetti tra 1 e 10000*
 

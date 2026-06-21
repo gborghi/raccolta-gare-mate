@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q09
 parent: src_kangourou_2005_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 9
 
 *Numero di pali con corvi prima singoli poi a coppie*
 

@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f2__Q02
 parent: src_obm_2006_nu_f2
@@ -36,8 +39,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 — Quesito 2
 
 *Count 2x2 integer matrices with determinant kn+1 mod n*
 

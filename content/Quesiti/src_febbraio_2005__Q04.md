@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q04
 parent: src_febbraio_2005
@@ -22,8 +23,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 4
 
 *dado, tre regagli*
 

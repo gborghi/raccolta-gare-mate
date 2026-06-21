@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1997 (38th IMO, Mar del Plata)'
 tipo: gara
 src_id: src_imo_1997
 competition: 'IMO 1997 (38th IMO, Mar del Plata)'
@@ -15,8 +16,6 @@ tags:
   - anno/1997
   - gara/individuale
 ---
-
-# IMO 1997 (38th IMO, Mar del Plata)
 
 Sorgente: `Archimede/individuale/imho/all/1997_eng.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q02
 parent: src_squadre_2025_femminile
@@ -22,8 +23,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 2
 
 *Somma aree infinita di triangoli con punti medi*
 

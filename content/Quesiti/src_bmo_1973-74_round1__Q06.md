@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round1__Q06
 parent: src_bmo_1973-74_round1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 1 — Quesito 6
 
 *Feet of perpendiculars from P to sides of triangle; line through P perpendicular to AB meets XY at Z bisecting AB*
 

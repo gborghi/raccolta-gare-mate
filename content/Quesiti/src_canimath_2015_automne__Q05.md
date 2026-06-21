@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2015 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_automne__Q05
 parent: src_canimath_2015_automne
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2015 — Quesito 5
 
 *For n>=2 numbers a_i in [-1/2,1/2], removing any single one leaves an integer sum; prove all equal when n even, and ask whether forced when n odd.*
 

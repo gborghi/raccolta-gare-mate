@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q03
 parent: src_kangourou_2021_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - finale — Quesito 3
 
 *Rapporto dei volumi di due sfere a distanza 100x*
 

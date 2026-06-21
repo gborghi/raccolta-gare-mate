@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2016 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_printemps__Q05
 parent: src_canimath_2016_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2016 — Quesito 5
 
 *Five reals a<b<c<d<e; three smallest pairwise sums are 32,36,37 and two largest are 48,51; find all possible e.*
 

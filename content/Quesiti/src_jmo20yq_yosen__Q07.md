@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jmo20yq_yosen__Q07
 parent: src_jmo20yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 7
 
 *Maximum value of a_0 in positive-integer sequence with divisibility and bounded differences*
 

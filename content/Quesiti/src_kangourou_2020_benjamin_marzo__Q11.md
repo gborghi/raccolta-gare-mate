@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q11
 parent: src_kangourou_2020_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 11
 
 *Numero al posto del punto interrogativo (cerchietti 1-10)*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1978-79_round1__Q06
 parent: src_bmo_1978-79_round1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1978-79 — Round 1 — Quesito 6
 
 *Infinite sequence 1001,100010001,...; prove no prime divides all terms*
 

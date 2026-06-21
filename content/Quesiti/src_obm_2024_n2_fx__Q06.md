@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n2_fx__Q06
 parent: src_obm_2024_n2_fx
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 6
 
 *Perpendicularity result in isosceles triangle with special cevian configuration*
 

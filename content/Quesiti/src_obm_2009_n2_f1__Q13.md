@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q13
 parent: src_obm_2009_n2_f1
@@ -38,8 +39,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 13
 
 *Queue of 49 fans (25 Corinthians, 14 Flamengo, 10 Grêmio): no two same team consecutive*
 

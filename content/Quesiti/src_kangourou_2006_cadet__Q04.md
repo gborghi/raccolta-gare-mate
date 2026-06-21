@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q04
 parent: src_kangourou_2006_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 4
 
 *Numero di nipoti dalle tortine della nonna*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q05
 parent: src_kangourou_2024_ecolier_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Ecolier 2024 — Quesito 5
 
 *Numero al posto del punto interrogativo (consecutivi non connessi)*
 

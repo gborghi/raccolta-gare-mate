@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q07
 parent: src_archimede_2024_biennio_rec
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 7
 
 *Massimo numero di intersezioni tra 3 cerchi e 3 rette*
 

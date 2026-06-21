@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f2__Q09
 parent: src_obm_2011_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 9
 
 *Quadrilateral ABCD; trisection points form XYZT; show area is constant, find it*
 

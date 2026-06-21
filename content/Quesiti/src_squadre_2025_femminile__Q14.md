@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q14
 parent: src_squadre_2025_femminile
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 14
 
 *Probabilita polinomio cubico con 3 radici intere distinte*
 

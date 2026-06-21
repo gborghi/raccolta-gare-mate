@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q12
 parent: src_kangourou_2005_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 12
 
 *Contributo per coprire spese gita*
 

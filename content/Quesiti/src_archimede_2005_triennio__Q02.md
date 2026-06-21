@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q02
 parent: src_archimede_2005_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 2
 
 *Interi n con n^3+2n^2+n quadrato perfetto*
 

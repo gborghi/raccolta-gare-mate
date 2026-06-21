@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q16
 parent: src_archimede_1999_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 16
 
 *Quanti pesci ha pescato Andrea (riduzioni del 38%)*
 

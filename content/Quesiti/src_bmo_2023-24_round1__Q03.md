@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2023-24 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2023-24_round1__Q03
 parent: src_bmo_2023-24_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2023-24 — Round 1 — Quesito 3
 
 *Prove BZ perpendicular to AC in circle geometry problem*
 

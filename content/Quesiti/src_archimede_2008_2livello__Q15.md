@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_2livello__Q15
 parent: src_archimede_2008_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 15
 
 *Coppie reali (x,y) con 4/(x+y) = 1/x + 1/y*
 

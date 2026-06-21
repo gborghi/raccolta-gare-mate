@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q15
 parent: src_ioqm_2020
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 15
 
 *Three couples in 2 rows of 3; no couple in same row adjacent or same column; count arrangements*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo13mq_honsen__Q04
 parent: src_jjmo13mq_honsen
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 4
 
 *Circumcenter of BPQ lies on a fixed line independent of l*
 

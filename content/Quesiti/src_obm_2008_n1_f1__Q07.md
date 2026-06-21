@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f1__Q07
 parent: src_obm_2008_n1_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 7
 
 *Class of 22 boys and 18 girls; 60% do community work; minimum from boys*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q05
 parent: src_kangourou_2000_studenti
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 5
 
 *Quanti 2 e 5 per fare 2000*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q15
 parent: src_kangourou_2019_student_semifinale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 15
 
 *Somma raggi cerchi inscritti in T, P, Q (triangolo rettangolo)*
 

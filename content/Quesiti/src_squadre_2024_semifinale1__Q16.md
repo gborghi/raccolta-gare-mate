@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale1__Q16
 parent: src_squadre_2024_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 1 — Quesito 16
 
 *Somma k con successione che raggiunge 2024*
 

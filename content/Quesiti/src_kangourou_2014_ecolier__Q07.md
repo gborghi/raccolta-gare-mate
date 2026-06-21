@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q07
 parent: src_kangourou_2014_ecolier
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 7
 
 *Come appaiono i fiori visti dall’esterno della vetrina*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo6q__Q08
 parent: src_jjmo6q
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008 — Quesito 8
 
 *Find class sizes given tulip-planting constraints and counts 52, 64*
 

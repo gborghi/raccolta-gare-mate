@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior
 tipo: gara
 src_id: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior
 
 Sorgente: `Kangaroo/kangourou_individuali/2013/JMarzo-13.pdf` · apri PDF
 

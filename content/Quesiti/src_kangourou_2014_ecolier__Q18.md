@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q18
 parent: src_kangourou_2014_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 18
 
 *Numero di donne attorno al tavolo con vincoli*
 

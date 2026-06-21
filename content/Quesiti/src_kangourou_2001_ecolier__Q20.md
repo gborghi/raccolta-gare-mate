@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q20
 parent: src_kangourou_2001_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 20
 
 *Numeri di 3 cifre con somma 4*
 

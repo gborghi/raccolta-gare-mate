@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (finale nazionale) — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet_finale__QC4
 parent: src_kangourou_2006_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (finale nazionale) — Quesito C4
 
 *Minimo numero di colori per gli spicchi del cerchio*
 

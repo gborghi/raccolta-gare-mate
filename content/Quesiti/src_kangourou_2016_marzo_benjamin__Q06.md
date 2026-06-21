@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q06
 parent: src_kangourou_2016_marzo_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 gara 17 marzo Benjamin — Quesito 6
 
 *calze mancanti*
 

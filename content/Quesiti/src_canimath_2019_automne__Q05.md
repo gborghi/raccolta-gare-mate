@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q05
 parent: src_canimath_2019_automne
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 5
 
 *Count 3-digit integers whose digits form an arithmetic progression left to right*
 

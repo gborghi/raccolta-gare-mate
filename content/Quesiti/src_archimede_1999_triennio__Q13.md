@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_triennio__Q13
 parent: src_archimede_1999_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Triennio — Quesito 13
 
 *Stima di x = 99 meno 70 radice di 2*
 

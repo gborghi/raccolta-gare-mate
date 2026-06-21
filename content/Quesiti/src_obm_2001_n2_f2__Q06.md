@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f2__Q06
 parent: src_obm_2001_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2 — Quesito 6
 
 *Count ways to lace a shoe with 5 pairs of holes, symmetric pattern*
 

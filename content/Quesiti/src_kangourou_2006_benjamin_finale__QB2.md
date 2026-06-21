@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (finale nazionale) — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin_finale__QB2
 parent: src_kangourou_2006_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (finale nazionale) — Quesito B2
 
 *Somma dei primi 40 numeri della sequenza ripetuta*
 

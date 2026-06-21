@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior Semifinale individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q05
 parent: src_kangourou_2021_junior_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior Semifinale individuale — Quesito 5
 
 *2021 come somma di cinque interi con sole cifre 3 e 5*
 

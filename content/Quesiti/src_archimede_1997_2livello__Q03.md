@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q03
 parent: src_archimede_1997_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 3
 
 *Sbarra acciaio-gomma con stesso peso invertendo i materiali*
 

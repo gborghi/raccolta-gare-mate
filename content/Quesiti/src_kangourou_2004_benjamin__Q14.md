@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin (18 marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin__Q14
 parent: src_kangourou_2004_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin (18 marzo) — Quesito 14
 
 *Min numero scatole per palline (MCD)*
 

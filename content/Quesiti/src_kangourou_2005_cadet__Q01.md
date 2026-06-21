@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q01
 parent: src_kangourou_2005_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 1
 
 *Minuti in meta di un terzo di un quarto di giorno*
 

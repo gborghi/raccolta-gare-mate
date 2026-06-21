@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q07
 parent: src_prmo_2013
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 7
 
 *Minimum total marbles n for Akbar-Birbal statements to hold*
 

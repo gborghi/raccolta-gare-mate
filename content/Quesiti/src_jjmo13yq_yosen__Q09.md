@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo13yq_yosen__Q09
 parent: src_jjmo13yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 9
 
 *Find angle PAC in isosceles triangle with interior point P*
 

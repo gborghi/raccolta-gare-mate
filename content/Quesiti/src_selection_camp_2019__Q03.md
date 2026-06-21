@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2019__Q03
 parent: src_selection_camp_2019
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2019 — Selection Camp — Quesito 3
 
 *Triangle from perpendiculars at circumcenters of AOP,BOP,COP tangent to OP*
 

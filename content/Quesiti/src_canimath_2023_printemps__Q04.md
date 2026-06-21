@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q04
 parent: src_canimath_2023_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 4
 
 *In a pentagon ABCDE with all sides equal, with angles BCD and CDE right angles and A not inside quadrilateral BCDE, P the intersection of lines (AC) and (BD); prove AP = PD.*
 

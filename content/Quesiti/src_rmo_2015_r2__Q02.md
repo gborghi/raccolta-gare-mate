@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r2__Q02
 parent: src_rmo_2015_r2
@@ -30,8 +31,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 2 — Quesito 2
 
 *Quadratic polynomial, P(s)=t, P(t)=s; prove b-st is a root*
 

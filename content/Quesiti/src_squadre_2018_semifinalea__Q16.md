@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q16
 parent: src_squadre_2018_semifinalea
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 16
 
 *Rettangolo e triangolo, area quadrilatero CYXD*
 

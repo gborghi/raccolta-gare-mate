@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q11
 parent: src_archimede_2015_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 11
 
 *Percentuale massima di olio di palma dall'ordine ingredienti*
 

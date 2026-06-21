@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin
 tipo: gara
 src_id: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin
 
 Sorgente: `Kangaroo/kangourou_individuali/2014/BMarzo-14.pdf` · apri PDF
 

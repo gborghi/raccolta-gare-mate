@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q28
 parent: src_kangourou_2024_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 28
 
 *Quanti pezzi di corda ottiene Maya (12 e 16 tagli)*
 

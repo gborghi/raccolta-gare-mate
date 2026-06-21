@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q06
 parent: src_selection_camp_2018
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 6
 
 *Integer sequence with positive integer parameters: one of a_{2017}, a_{2018} is at least 2017*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q07
 parent: src_archimede_2026_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 7
 
 *Area cerchio da corde perpendicolari, teorema delle corde*
 

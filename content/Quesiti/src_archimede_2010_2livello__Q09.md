@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q09
 parent: src_archimede_2010_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 9
 
 *Area al sicuro dentro base triangolare equilatera lato 8*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f2__Q08
 parent: src_obm_2008_n3_f2
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 8
 
 *Trapezoid inscribed in circle of radius 25, CD diameter, height 24, compute AF·BG/FG*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo11mq_honsen__Q01
 parent: src_jmo11mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 1
 
 *m×n grid coloring: each black cell has odd many black neighbours; show m,n odd*
 

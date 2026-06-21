@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q13
 parent: src_ioqm_2024
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 13
 
 *Find value of a given two equations in positive integers a,b,c with a>c*
 

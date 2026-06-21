@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo30hq_honsen__Q04
 parent: src_jmo30hq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 4
 
 *Two players, special points on circle; show fraction of connected pairs is large*
 

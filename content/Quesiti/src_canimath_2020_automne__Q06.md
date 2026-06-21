@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q06
 parent: src_canimath_2020_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 6
 
 *Show 12 pebbles on an 8x8 board can be covered by coloring 4 rows and 4 columns red*
 

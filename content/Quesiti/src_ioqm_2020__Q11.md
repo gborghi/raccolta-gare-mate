@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q11
 parent: src_ioqm_2020
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 11
 
 *Count pairs (a,b) in X×X where x^2+ax+b and x^2+bx+a share a common real zero*
 

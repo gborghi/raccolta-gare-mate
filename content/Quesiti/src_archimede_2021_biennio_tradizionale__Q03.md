@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q03
 parent: src_archimede_2021_biennio_tradizionale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 3
 
 *Quanti numeri secondi tra 40 e 70*
 

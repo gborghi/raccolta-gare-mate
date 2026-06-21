@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio__Q02
 parent: src_archimede_2024_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio — Quesito 2
 
 *Cifre necessarie per scrivere 100^200+738*
 

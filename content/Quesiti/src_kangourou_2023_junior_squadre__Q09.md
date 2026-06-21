@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q09
 parent: src_kangourou_2023_junior_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 1 — Quesito 9
 
 *Allineamenti diversi sopprimendo lettere ANCONA*
 

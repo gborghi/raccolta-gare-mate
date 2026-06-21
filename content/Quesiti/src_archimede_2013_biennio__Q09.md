@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q09
 parent: src_archimede_2013_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 9
 
 *Divisori di n^2 se n ha 6 divisori*
 

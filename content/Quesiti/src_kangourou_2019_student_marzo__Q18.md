@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q18
 parent: src_kangourou_2019_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 18
 
 *Area del triangolo ombreggiato tra due quadrati*
 

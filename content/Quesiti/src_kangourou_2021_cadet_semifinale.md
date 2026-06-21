@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - semifinale
 tipo: gara
 src_id: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - semifinale
 
 Sorgente: `Kangaroo/kangourou_individuali/2021/Cadet2021RSE.pdf` · apri PDF
 

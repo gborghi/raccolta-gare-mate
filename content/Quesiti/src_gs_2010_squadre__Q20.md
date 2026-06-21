@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_gs_2010_squadre__Q20
 parent: src_gs_2010_squadre
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre — Quesito 20
 
 *Conteggio coprimi minori di p/2 con Eulero*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q16
 parent: src_cesenatico_2012_finale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 16
 
 *Probabilita aura 7 cifre con 4 zeri sia maggiore*
 

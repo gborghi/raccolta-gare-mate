@@ -1,4 +1,5 @@
 ---
+title: IMO 2019 papers — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_2019__Q02
 parent: src_imo_2019
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2019 papers — Quesito 2
 
 *P,Q,P1,Q1 conciclici nel triangolo*
 

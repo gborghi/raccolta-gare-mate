@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q06
 parent: src_archimede_2017_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2017 - 2 livello — Quesito 6
 
 *Modi di comprare 3 case non adiacenti tra 10 in fila*
 

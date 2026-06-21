@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q17
 parent: src_kangourou_2016_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 17
 
 *Valore a+b con due quadratiche a radici reali e simmetriche*
 

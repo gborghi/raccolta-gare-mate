@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q14
 parent: src_kangourou_2018_junior_semif
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 14
 
 *Quante coppie (a,b) interi in [-2018,2018] con 2a+b+6=0*
 

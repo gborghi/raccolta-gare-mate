@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q08
 parent: src_archimede_1997_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 8
 
 *Posizione finale dopo 1997 passi su foglio a quadretti*
 

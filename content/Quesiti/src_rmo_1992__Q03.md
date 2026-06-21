@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1992__Q03
 parent: src_rmo_1992
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992 — Quesito 3
 
 *Find the largest 3-digit prime factor of C(2000,1000).*
 

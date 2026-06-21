@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2016-17_round2__Q04
 parent: src_bmo_2016-17_round2
@@ -33,8 +34,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 2 — Quesito 4
 
 *Bobby's secret 3-digit code: find minimum guesses Alex needs to guarantee learning the code*
 

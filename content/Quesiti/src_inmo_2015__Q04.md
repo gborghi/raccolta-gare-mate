@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2015 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2015__Q04
 parent: src_inmo_2015
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2015 — Quesito 4
 
 *Basketball passed among four players, count ways ball returns to A after seven passes*
 

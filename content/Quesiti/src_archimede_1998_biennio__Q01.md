@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_biennio__Q01
 parent: src_archimede_1998_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Biennio — Quesito 1
 
 *Valore di 0,3 al cubo*
 

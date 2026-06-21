@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (gara marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q02
 parent: src_kangourou_2016_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (gara marzo) — Quesito 2
 
 *Calcolo 17+3 e 20-16 nei tasselli*
 

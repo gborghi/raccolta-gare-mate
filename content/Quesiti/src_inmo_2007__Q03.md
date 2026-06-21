@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2007 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2007__Q03
 parent: src_inmo_2007
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2007 — Quesito 3
 
 *Integer roots iff floor expression is a perfect square*
 

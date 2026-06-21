@@ -1,4 +1,5 @@
 ---
+title: IMO 1977 (Nineteenth International Olympiad)
 tipo: gara
 src_id: src_imo_1977_all
 competition: IMO 1977 (Nineteenth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1977
   - gara/individuale
 ---
-
-# IMO 1977 (Nineteenth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1977_eng.pdf` · apri PDF
 

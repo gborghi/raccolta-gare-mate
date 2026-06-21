@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2008 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2008__Q02
 parent: src_rmo_2008
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2008 — Quesito 2
 
 *Two infinite sequences of positive integers satisfying four conditions*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q27
 parent: src_kangourou_2014_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 27
 
 *Quanti appartengono ai Verdi (Verdi/Rossi/Gialli)*
 

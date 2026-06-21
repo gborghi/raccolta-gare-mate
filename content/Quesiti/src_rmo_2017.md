@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2017
 tipo: gara
 src_id: src_rmo_2017
 competition: Regional Mathematical Olympiad 2017
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2017
 
 Sorgente: apri PDF
 

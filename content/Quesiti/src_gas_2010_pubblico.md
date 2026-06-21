@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Gara del Pubblico
 tipo: gara
 src_id: src_gas_2010_pubblico
 competition: Gara a Squadre 2010 - Gara del Pubblico
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Gara del Pubblico
 
 Sorgente: `Archimede/squadre/nazionale/2010/ITA_Pgas10.pdf` · apri PDF
 

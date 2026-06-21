@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q16
 parent: src_kangourou_2019_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 16
 
 *Minimo punteggio Giraffe (geometrica vs aritmetica)*
 

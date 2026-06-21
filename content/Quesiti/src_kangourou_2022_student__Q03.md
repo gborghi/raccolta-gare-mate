@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Gara 17 marzo — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student__Q03
 parent: src_kangourou_2022_student
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Gara 17 marzo — Quesito 3
 
 *quale coppia può avere stessa età*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q05
 parent: src_kangourou_2022_cadet_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 5
 
 *Quante affermazioni corrette su Ada e Bice che corrono*
 

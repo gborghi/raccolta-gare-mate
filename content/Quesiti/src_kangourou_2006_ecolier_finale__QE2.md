@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Ecolier (finale nazionale) — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_finale__QE2
 parent: src_kangourou_2006_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Ecolier (finale nazionale) — Quesito E2
 
 *Numero MALE dato MELA minimo a cifre distinte*
 

@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_tfjm_2025__Q08
 parent: src_tfjm_2025
@@ -38,8 +39,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 8
 
 *Two-player game coloring 2n points on a circle (orange/blue); winner forms the longest monochromatic arc. Study strategies and winning probabilities versus random and skilled opponents.*
 

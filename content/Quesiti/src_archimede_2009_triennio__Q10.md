@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_triennio__Q10
 parent: src_archimede_2009_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio — Quesito 10
 
 *Numero femmine da voti medi della classe*
 

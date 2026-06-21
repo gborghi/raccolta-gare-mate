@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q14
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 14
 
 *Complex numbers with three symmetric sum equations, find m+n for x/yz+y/zx+z/xy=m/n*
 

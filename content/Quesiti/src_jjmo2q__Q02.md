@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q02
 parent: src_jjmo2q
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 2
 
 *Right triangle, angle B exceeds C by 48 degrees*
 

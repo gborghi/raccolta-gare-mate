@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q16
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 16
 
 *Reals a,b,c satisfying three equations, abc takes two rational values, find r+s+t+u*
 

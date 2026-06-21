@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q06
 parent: src_jjmo3q
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 6
 
 *Count triangles from a 3x3 grid of points*
 

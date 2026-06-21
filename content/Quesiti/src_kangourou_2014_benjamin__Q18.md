@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q18
 parent: src_kangourou_2014_benjamin
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 18
 
 *Numero opposto al 4 sul dado date le adiacenze*
 

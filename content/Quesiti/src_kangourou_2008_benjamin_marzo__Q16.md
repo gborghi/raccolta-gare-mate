@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q16
 parent: src_kangourou_2008_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 16
 
 *Numeri di 2 cifre con unita maggiore delle decine*
 

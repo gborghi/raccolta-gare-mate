@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Semifinale individuale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q03
 parent: src_kangourou_2017_junior_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Semifinale individuale — Quesito 3
 
 *Quali due disuguaglianze su x sono vere*
 

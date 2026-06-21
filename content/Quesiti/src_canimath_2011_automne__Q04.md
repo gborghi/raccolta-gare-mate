@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2011 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_automne__Q04
 parent: src_canimath_2011_automne
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2011 — Quesito 4
 
 *Find all f from R* to R* with x f(x/2) - f(2/x) = 1*
 

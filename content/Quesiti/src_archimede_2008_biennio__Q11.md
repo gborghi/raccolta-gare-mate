@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q11
 parent: src_archimede_2008_biennio
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 11
 
 *Terne interi positivi soluzioni equazione quadratica*
 

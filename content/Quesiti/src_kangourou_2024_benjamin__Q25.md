@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q25
 parent: src_kangourou_2024_benjamin
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 25
 
 *Quanti numeri di 4 cifre con proprieta tipo 2024*
 

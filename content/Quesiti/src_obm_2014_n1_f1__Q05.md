@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f1__Q05
 parent: src_obm_2014_n1_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 5
 
 *Four equal 20 cm squares stacked corner-to-center; area of the resulting figure*
 

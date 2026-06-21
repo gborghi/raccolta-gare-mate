@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f2__Q03
 parent: src_obm_2010_n2_f2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 3
 
 *Real p,q satisfy two quadratics with pq≠1; find (pq+p+1)/q*
 

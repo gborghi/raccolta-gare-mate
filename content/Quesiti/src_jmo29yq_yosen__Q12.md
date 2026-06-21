@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo29yq_yosen__Q12
 parent: src_jmo29yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 12
 
 *Count maps F on subsets of {1..6} with F(F(A)∪B)=A∩F(B)*
 

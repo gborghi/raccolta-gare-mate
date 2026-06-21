@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q02
 parent: src_kangourou_2007_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 2
 
 *Quanti biglietti premiati (vincolo sulle cifre)*
 

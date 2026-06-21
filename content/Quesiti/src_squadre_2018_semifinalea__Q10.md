@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q10
 parent: src_squadre_2018_semifinalea
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 10
 
 *Frecce con angoli dati chiuse per riflessione, numero minimo*
 

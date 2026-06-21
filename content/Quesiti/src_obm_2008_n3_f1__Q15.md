@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f1__Q15
 parent: src_obm_2008_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 15
 
 *Cards: a square design in 5 regions painted with 5 colors; count distinct under rotation*
 

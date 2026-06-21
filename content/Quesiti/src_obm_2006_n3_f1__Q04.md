@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q04
 parent: src_obm_2006_n3_f1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 4
 
 *Three squares glued by their vertices to one another and to two vertical sticks; find angle x.*
 

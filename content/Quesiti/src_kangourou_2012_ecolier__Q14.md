@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q14
 parent: src_kangourou_2012_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 14
 
 *Quanti sono i conigli date 44 zampe*
 

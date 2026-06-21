@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q07
 parent: src_kangourou_2011_squadre_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A — Quesito 7
 
 *Quanti interi sono 20 volte la somma delle cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q01
 parent: src_canimath_2019_automne
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 1
 
 *Count odd integers between 1 and 2019 inclusive*
 

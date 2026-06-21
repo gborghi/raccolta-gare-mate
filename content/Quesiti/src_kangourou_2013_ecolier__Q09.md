@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_ecolier__Q09
 parent: src_kangourou_2013_ecolier
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier — Quesito 9
 
 *Quanti triangoli si vedono nella figura*
 

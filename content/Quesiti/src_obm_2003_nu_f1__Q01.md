@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
+  Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2003_nu_f1__Q01
 parent: src_obm_2003_nu_f1
@@ -34,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 — Quesito 1
 
 *Volume of convex polyhedron with integer vertices on sphere radius sqrt(2)*
 

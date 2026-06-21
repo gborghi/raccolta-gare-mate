@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2020__Q05
 parent: src_cesenatico_2020
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 5
 
 *max e min di f(2020)*
 

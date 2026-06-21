@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q02
 parent: src_squadre_2026_semifinale_cd
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 2
 
 *Probabilita che ab+bcd+d2 estratto sia dispari*
 

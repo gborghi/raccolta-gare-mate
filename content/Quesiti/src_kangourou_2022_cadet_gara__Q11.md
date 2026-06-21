@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q11
 parent: src_kangourou_2022_cadet_gara
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 11
 
 *Massimo numero di bicchieri impilabili sul ripiano*
 

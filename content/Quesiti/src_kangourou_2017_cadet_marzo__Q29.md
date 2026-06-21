@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q29
 parent: src_kangourou_2017_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 29
 
 *Metri del secondo tra due incontri sulla pista circolare*
 

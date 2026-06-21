@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_2livello__Q04
 parent: src_archimede_2008_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 4
 
 *Stagioni di nascita da sistema lineare con soluzioni infinite/nessuna*
 

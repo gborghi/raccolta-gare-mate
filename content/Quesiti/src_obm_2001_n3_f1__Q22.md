@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q22
 parent: src_obm_2001_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 22
 
 *Acute triangle ABC; max of sum of distances from an interior/boundary point to the three sides*
 

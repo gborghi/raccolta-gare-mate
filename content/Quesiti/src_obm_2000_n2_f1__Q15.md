@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f1__Q15
 parent: src_obm_2000_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 15
 
 *Compare a/b and (a+1)/(b+1) given 0 < a/b < 1*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f2__Q06
 parent: src_obm_2004_n3_f2
@@ -37,8 +38,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2 — Quesito 6
 
 *Determine angles of triangle given orthocenter, incenter, circumcenter collinearity condition*
 

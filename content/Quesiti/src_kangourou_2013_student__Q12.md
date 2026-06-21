@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q12
 parent: src_kangourou_2013_student
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 12
 
 *Quanti interi n con n/3 e 3n entrambi a tre cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q09
 parent: src_squadre_2018_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 9
 
 *Cammini su griglia da (8,6) a (0,0) con 7 cambi direzione*
 

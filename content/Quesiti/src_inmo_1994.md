@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1994
 tipo: gara
 src_id: src_inmo_1994
 competition: Indian National Mathematical Olympiad 1994
@@ -15,8 +16,6 @@ tags:
   - anno/1994
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1994
 
 Sorgente: apri PDF
 

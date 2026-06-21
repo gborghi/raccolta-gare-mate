@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier
 tipo: gara
 src_id: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2018/Ecolier_Semif_18TESTO.pdf` · apri PDF
 

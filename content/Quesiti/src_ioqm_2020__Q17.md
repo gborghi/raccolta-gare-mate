@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q17
 parent: src_ioqm_2020
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 17
 
 *Count two-digit numbers with exactly 4 positive factors*
 

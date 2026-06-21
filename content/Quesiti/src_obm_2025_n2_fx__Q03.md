@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n2_fx__Q03
 parent: src_obm_2025_n2_fx
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 3
 
 *Prove quadrilateral KDMR is cyclic in acute triangle with orthocenter*
 

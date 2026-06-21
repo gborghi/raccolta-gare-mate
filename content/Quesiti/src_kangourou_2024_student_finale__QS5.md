@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student finale — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_finale__QS5
 parent: src_kangourou_2024_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2024 Student finale — Quesito S5
 
 *Lunghezza XE con incerchio raggio 4 e YD=3*
 

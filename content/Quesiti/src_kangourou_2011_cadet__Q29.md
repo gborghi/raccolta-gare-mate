@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q29
 parent: src_kangourou_2011_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 29
 
 *Minimo numero di celle da toccare per trovare 2 celle blu adiacenti*
 

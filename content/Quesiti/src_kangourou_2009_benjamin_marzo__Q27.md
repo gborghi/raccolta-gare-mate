@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q27
 parent: src_kangourou_2009_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 27
 
 *Numero totale di pallini in un set di domino*
 

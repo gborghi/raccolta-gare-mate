@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_triennio__Q06
 parent: src_archimede_2018_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Triennio (T1) — Quesito 6
 
 *Lunghezza A900A901 nella spirale di triangoli rettangoli*
 

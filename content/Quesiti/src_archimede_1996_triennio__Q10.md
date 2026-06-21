@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q10
 parent: src_archimede_1996_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 10
 
 *Probabilita che un estratto sia minore dell'altro*
 

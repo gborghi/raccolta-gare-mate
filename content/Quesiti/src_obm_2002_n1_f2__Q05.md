@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f2__Q05
 parent: src_obm_2002_n1_f2
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 5
 
 *Pick-up sticks: score exactly 40 points; count distinct numbers of sticks that suffice*
 

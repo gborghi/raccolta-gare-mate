@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q02
 parent: src_archimede_2009_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 2
 
 *Volume del solido di rotazione del rombo attorno a un lato*
 

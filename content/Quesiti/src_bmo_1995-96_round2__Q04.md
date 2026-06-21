@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1995-96 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1995-96_round2__Q04
 parent: src_bmo_1995-96_round2
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1995-96 — Round 2 — Quesito 4
 
 *Find all positive reals a,b,c,d satisfying two symmetric equations*
 

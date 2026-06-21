@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale
 tipo: gara
 src_id: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2005/GASces05f.pdf` · apri PDF
 

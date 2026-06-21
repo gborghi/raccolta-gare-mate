@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q09
 parent: src_squadre_2025_femminile
@@ -22,8 +23,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 9
 
 *Numero mancini con 490 strette di mano in piu tra destri*
 

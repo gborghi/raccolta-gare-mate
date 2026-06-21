@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q17
 parent: src_kangourou_2008_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 17
 
 *Segno e valore della frazione (negativi)*
 

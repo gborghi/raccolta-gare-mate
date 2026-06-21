@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q22
 parent: src_obm_2005_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 22
 
 *Line PQ tangent at N to circle through L,M,N; LM meets PQ at R; LM=LN, angle PNL=alpha<60; find angle LRP*
 

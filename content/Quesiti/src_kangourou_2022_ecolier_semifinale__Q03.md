@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier semifinale individuale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q03
 parent: src_kangourou_2022_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier semifinale individuale — Quesito 3
 
 *Modi in cui Chiara puo programmare le 7 ripetizioni*
 

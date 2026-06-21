@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q04
 parent: src_archimede_2001_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 4
 
 *Rapporto aree tra esagono P3 e P1 inscritti*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1974 (Sixteenth International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1974_all__Q01
 parent: src_imo_1974_all
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# IMO 1974 (Sixteenth International Olympiad) — Quesito 1
 
 *who received q on first round*
 

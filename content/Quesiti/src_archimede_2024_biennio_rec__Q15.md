@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q15
 parent: src_archimede_2024_biennio_rec
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 15
 
 *Modi di sedere 3 coppie di fratelli accanto*
 

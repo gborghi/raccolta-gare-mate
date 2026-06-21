@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q01
 parent: src_gas_2009_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 1
 
 *Massimo numero di elfi tra prigionieri sinceri/bugiardi*
 

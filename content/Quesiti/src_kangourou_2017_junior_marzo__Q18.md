@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q18
 parent: src_kangourou_2017_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Gara 16 marzo — Quesito 18
 
 *Circonferenza di A in sistema di tre pulegge*
 

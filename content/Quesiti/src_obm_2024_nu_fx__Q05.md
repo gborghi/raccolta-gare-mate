@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2024_nu_fx__Q05
 parent: src_obm_2024_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x — Quesito 5
 
 *Matrix sequence with A^12=I or (A^2-I)^2=O, trace on diagonal*
 

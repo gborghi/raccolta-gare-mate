@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student (20 marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student__Q15
 parent: src_kangourou_2003_student
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Student (20 marzo) — Quesito 15
 
 *Quanti termini settime potenze tra 5^21 e 2^49*
 

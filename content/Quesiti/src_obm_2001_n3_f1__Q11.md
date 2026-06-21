@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q11
 parent: src_obm_2001_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 11
 
 *Papa-Leguas (Road Runner) 100-lap race; first lap at 200 km/h; bound the average speed*
 

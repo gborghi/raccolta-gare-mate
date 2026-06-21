@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_tfjm_2021__Q04
 parent: src_tfjm_2021
@@ -37,8 +38,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 4
 
 *Identify counterfeit chocolate coins (different mass) with a two-pan balance; minimum weighings in worst case under various information*
 

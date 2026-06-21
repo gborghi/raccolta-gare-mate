@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2016 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_automne__Q08
 parent: src_canimath_2016_automne
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2016 — Quesito 8
 
 *Minimum integers equal to 1 in a 'jolie' list of 100 positive integers*
 

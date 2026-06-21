@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q10
 parent: src_archimede_2010_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 10
 
 *Minimo a4 con MCD a coppie >1 ma MCD globale 1*
 

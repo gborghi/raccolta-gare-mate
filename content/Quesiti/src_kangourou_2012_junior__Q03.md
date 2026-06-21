@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q03
 parent: src_kangourou_2012_junior
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 3
 
 *Minuti perche la lancetta passi da NE a NW*
 

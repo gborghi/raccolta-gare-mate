@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2002-03 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2002-03_round2__Q02
 parent: src_bmo_2002-03_round2
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2002-03 — Round 2 — Quesito 2
 
 *Triangle angle bisector meets median, prove angle less than 90 degrees*
 

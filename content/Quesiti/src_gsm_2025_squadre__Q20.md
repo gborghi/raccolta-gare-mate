@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q20
 parent: src_gsm_2025_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 20
 
 *Probabilita che il dado coperto valga 6*
 

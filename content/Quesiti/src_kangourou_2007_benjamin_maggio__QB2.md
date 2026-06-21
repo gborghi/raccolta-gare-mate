@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin finale (maggio) — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_maggio__QB2
 parent: src_kangourou_2007_benjamin_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin finale (maggio) — Quesito B2
 
 *Minimo monete per triangolo e quadrato*
 

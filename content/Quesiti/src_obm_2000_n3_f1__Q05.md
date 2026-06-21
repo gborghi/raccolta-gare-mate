@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n3_f1__Q05
 parent: src_obm_2000_n3_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 5
 
 *Comparison of (a+1)/(b+1) with a/b when a/b<1*
 

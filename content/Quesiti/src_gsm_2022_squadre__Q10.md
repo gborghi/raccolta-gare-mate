@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q10
 parent: src_gsm_2022_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 10
 
 *Valore di r^5+5rs+s^5 dati r+s e r^4+s^4*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Triennio — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_triennio__Q24
 parent: src_archimede_2002_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Triennio — Quesito 24
 
 *Esistono tetraedri con base equilatera e volume razionale*
 

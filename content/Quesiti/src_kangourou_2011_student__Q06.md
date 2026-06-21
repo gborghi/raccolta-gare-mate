@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q06
 parent: src_kangourou_2011_student
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 6
 
 *Perimetro di una tassellazione con esagono, quadrati, triangoli*
 

@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2005_nu_f2__Q06
 parent: src_obm_2005_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2 — Quesito 6
 
 *Prove invertibility of binomial coefficient matrix for two index sequences*
 

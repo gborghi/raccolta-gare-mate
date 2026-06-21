@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2024_nu_fx__Q06
 parent: src_obm_2024_nu_fx
@@ -38,8 +41,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x — Quesito 6
 
 *Irreducible fractions in [0,1] with denominator ≤ n; limit of ratio*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_mumbai__Q06
 parent: src_rmo_2012_mumbai
@@ -35,8 +36,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Mumbai — Quesito 6
 
 *Weighted alternating sum over all subsets of a 10-element set*
 

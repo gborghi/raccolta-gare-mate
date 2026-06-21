@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f1__Q14
 parent: src_obm_1999_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 14
 
 *Cards on a table; mean of all is 5, mean of Y's neighbours is 3; find X.*
 

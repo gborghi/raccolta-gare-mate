@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo16yq_yosen__Q12
 parent: src_jjmo16yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 12
 
 *Minimum m so any two of 2018 circular stations can be connected within m minutes using local and express trains*
 

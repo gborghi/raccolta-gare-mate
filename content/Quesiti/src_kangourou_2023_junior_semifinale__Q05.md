@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q05
 parent: src_kangourou_2023_junior_semifinale
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 5
 
 *Minima somma di tre numeri TAP, BAT, CAD con cifre distinte*
 

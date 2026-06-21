@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Koala — Gioco Koala — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_koala__Q24
 parent: src_kangourou_2022_koala
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Koala — Gioco Koala — Quesito 24
 
 *minimo scambi per ordine crescente*
 

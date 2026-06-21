@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Mumbai — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_mumbai__Q02
 parent: src_rmo_2014_mumbai
@@ -32,8 +33,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Mumbai — Quesito 2
 
 *Find all positive integer pairs (a,b) from roots in AP and GP*
 

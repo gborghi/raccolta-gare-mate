@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_tfjm_2024__Q07
 parent: src_tfjm_2024
@@ -38,8 +39,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 7
 
 *Funny cookies: dough deposited along segments, each point P filling a disk of radius R(P); characterize which planar shapes (disk, rectangle, triangle, annulus) are cookies / r-cookies, the dough quantity needed, and which contours bound r-cookies.*
 

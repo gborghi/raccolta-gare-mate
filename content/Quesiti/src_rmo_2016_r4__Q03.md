@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r4__Q03
 parent: src_rmo_2016_r4
@@ -34,8 +35,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 4 — Quesito 3
 
 *Ages of two brothers and father as integers satisfying fraction conditions*
 

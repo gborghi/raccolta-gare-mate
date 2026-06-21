@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q11
 parent: src_gas_2009_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 11
 
 *Area di figura a luna fra archi di circonferenza*
 

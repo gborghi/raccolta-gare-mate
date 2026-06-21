@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q18
 parent: src_kangourou_2022_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 18
 
 *probabilita che vinca Anna *100*
 

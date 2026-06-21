@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q04
 parent: src_kangourou_2014_junior
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 4
 
 *Numero equidistante da 2/3 e 4/5 sulla retta*
 

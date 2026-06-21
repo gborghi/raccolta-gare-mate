@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q21
 parent: src_kangourou_2006_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 21
 
 *Perimetro di ogni triangolo da parallelogramma e rombo*
 

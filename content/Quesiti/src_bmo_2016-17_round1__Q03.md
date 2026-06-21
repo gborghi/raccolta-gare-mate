@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2016-17_round1__Q03
 parent: src_bmo_2016-17_round1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 1 — Quesito 3
 
 *Pairs of positive integers where both m²-n and n²-m are perfect squares*
 

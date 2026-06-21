@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q05
 parent: src_kangourou_squadre_2009_finale
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 5
 
 *Massimo numero di sottoinsiemi a intersezione consecutiva*
 

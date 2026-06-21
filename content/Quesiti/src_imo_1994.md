@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1994 (35th IMO, Hong Kong)'
 tipo: gara
 src_id: src_imo_1994
 competition: 'IMO 1994 (35th IMO, Hong Kong)'
@@ -15,8 +16,6 @@ tags:
   - anno/1994
   - gara/individuale
 ---
-
-# IMO 1994 (35th IMO, Hong Kong)
 
 Sorgente: `Archimede/individuale/imho/all/1994_eng.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Archimede 2011 (locale)
 tipo: gara
 src_id: src_gs_2011
 competition: Gara a Squadre Archimede 2011 (locale)
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/squadre
 ---
-
-# Gara a Squadre Archimede 2011 (locale)
 
 Sorgente: `Archimede/squadre/locale/testi/GS_2011_testo.pdf` · apri PDF
 

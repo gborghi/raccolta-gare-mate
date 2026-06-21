@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q11
 parent: src_archimede_2018_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 11
 
 *Triangoli isosceli interi con lato maggiore 2018*
 

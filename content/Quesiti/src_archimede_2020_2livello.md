@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2020 - 2° livello
 tipo: gara
 src_id: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2020 - 2° livello
 
 Sorgente: `Archimede/individuale/2livello/2020/soluzioni2020.pdf` · apri PDF
 

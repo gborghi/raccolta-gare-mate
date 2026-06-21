@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3
 tipo: gara
 src_id: src_obm_2009_n3_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3
@@ -19,8 +20,6 @@ tags:
   - gara/individuale
   - fase/3
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3
 
 Sorgente: apri PDF
 

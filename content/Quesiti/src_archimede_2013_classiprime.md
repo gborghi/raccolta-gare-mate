@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013
 tipo: gara
 src_id: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013
 
 Sorgente: `Archimede/individuale/classi prime/2013/GaraNazionaleClassiPrime2013.pdf` · apri PDF
 

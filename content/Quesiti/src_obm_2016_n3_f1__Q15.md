@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q15
 parent: src_obm_2016_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 15
 
 *Ordering probabilities p1, p2, p3 of obtaining large sums with 1, 2 and 3 dice*
 

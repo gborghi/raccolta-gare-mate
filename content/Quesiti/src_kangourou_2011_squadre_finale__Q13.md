@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q13
 parent: src_kangourou_2011_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 13
 
 *Valore n con 2^n=134217728*
 

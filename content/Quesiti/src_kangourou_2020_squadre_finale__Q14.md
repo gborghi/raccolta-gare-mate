@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q14
 parent: src_kangourou_2020_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 14
 
 *Quante casseforti per il bottino 44100*
 

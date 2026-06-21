@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q11
 parent: src_kangourou_2024_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 11
 
 *Quale vaso si riempira per primo (tubi di scarico)*
 

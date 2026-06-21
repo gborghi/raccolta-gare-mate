@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior finale (maggio) — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_maggio__QJ1
 parent: src_kangourou_2006_junior_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior finale (maggio) — Quesito J1
 
 *Traiettoria del punto medio della sbarra che scivola*
 

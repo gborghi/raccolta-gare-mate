@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin__Q27
 parent: src_kangourou_2003_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 - Benjamin (20 marzo) — Quesito 27
 
 *Area della parte colorata coi triangoli*
 

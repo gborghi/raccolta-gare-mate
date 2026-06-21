@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_biennio__Q02
 parent: src_archimede_2026_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Biennio — Quesito 2
 
 *Valore di 1-6x da equazione lineare*
 

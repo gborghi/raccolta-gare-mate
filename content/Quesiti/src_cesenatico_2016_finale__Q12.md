@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_finale__Q12
 parent: src_cesenatico_2016_finale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 12
 
 *Probabilita 4 pezzi tornino agli angoli dopo 2016 salti*
 

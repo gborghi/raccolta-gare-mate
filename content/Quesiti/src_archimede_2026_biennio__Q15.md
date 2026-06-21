@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_biennio__Q15
 parent: src_archimede_2026_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Biennio — Quesito 15
 
 *Colorazioni distinte cubo con 2+4 facce (10 colori)*
 

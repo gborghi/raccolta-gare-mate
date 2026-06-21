@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q07
 parent: src_kangourou_2001_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 7
 
 *Allievi da aggiungere per 6 gruppi uguali*
 

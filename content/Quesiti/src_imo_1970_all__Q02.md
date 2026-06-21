@@ -1,4 +1,5 @@
 ---
+title: IMO 1970 (Twelfth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1970_all__Q02
 parent: src_imo_1970_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1970 (Twelfth International Olympiad) — Quesito 2
 
 *Base-a vs base-b digit ratio inequality iff a>b*
 

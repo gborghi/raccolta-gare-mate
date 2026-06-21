@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
 tipo: gara
 src_id: src_obm_2016_n3_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
@@ -19,8 +20,6 @@ tags:
   - gara/individuale
   - fase/2
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
 
 Sorgente: apri PDF
 

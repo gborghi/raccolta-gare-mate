@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q23
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 23
 
 *Quale chiave non si taglia in tre pezzi uguali di 5 quadretti*
 

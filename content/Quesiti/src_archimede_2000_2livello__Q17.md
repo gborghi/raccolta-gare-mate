@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q17
 parent: src_archimede_2000_2livello
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 17
 
 *HM∥AC e isoscele*
 

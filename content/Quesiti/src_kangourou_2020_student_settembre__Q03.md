@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - finale settembre — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_settembre__Q03
 parent: src_kangourou_2020_student_settembre
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - finale settembre — Quesito 3
 
 *Coppie intere (x,y) con x^2+7y=xy*
 

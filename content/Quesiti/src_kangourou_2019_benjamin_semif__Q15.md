@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q15
 parent: src_kangourou_2019_benjamin_semif
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 15
 
 *Quale carta non e stata pescata (resti mod 3,4,5)*
 

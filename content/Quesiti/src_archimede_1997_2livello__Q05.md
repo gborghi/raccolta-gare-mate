@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q05
 parent: src_archimede_1997_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 5
 
 *Cifra delle unità di una potenza di 2*
 

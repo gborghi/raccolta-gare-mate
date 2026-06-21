@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round1__Q05
 parent: src_bmo_1976-77_round1
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 1 — Quesito 5
 
 *Five equal spheres on a regular pentagon; do two tangent spheres meet?*
 

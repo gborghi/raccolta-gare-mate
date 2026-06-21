@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1992-93 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1992-93_round1__Q05
 parent: src_bmo_1992-93_round1
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1992-93 — Round 1 — Quesito 5
 
 *Positive reals x,y,z satisfy 1/3 ≤ xy+yz+zx ≤ 3; find range of xyz and x+y+z.*
 

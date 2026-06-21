@@ -1,4 +1,5 @@
 ---
+title: IMO 1977 (Nineteenth International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1977_all__Q01
 parent: src_imo_1977_all
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1977 (Nineteenth International Olympiad) — Quesito 1
 
 *Midpoints from equilateral triangles form regular dodecagon*
 

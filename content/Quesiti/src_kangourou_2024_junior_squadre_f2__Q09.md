@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q09
 parent: src_kangourou_2024_junior_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 2 — Quesito 9
 
 *Resto di N (1001 uni) diviso per 1001*
 

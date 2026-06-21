@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2019-20 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2019-20_round2__Q03
 parent: src_bmo_2019-20_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2019-20 — Round 2 — Quesito 3
 
 *Count balanced colourings of a 2019×2019 grid*
 

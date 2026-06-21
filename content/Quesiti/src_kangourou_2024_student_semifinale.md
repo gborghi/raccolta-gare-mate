@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale
 tipo: gara
 src_id: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale
 
 Sorgente: `Kangaroo/kangourou_individuali/2024/Student2024RSE.pdf` · apri PDF
 

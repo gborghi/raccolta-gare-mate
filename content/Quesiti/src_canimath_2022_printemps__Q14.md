@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2022 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_printemps__Q14
 parent: src_canimath_2022_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2022 — Quesito 14
 
 *Increasing positive integers with a divisibility hypothesis; prove two inequalities*
 

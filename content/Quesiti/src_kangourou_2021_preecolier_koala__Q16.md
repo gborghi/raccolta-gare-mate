@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q16
 parent: src_kangourou_2021_preecolier_koala
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 16
 
 *Foglie totali rimaste sui due ramoscelli*
 

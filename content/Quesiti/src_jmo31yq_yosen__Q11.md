@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo31yq_yosen__Q11
 parent: src_jmo31yq_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 11
 
 *Sum maxima/minima of three pairings over all tuples; divisors of M-m*
 

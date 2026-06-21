@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f2__Q09
 parent: src_obm_2013_n1_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 9
 
 *Trapezoid diagonals: area ABC = area ADE; then find area of AGDH*
 

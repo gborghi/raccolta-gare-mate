@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q16
 parent: src_gsm_2022_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 16
 
 *Massimo di 1/(32a^5)+a^5 data 1/(4a^2)+a^2*
 

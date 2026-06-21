@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1990 (31st IMO, Beijing) — Quesito 4'
 tipo: quesito
 quesito_id: quesito_src_imo_1990__Q04
 parent: src_imo_1990
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1990 (31st IMO, Beijing) — Quesito 4
 
 *Construct function on positive rationals with f(xf(y))=f(x)/y*
 

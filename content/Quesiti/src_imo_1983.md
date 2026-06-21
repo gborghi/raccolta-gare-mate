@@ -1,4 +1,5 @@
 ---
+title: IMO 1983 (24th International Mathematical Olympiad)
 tipo: gara
 src_id: src_imo_1983
 competition: IMO 1983 (24th International Mathematical Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1983
   - gara/individuale
 ---
-
-# IMO 1983 (24th International Mathematical Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1983_eng.pdf` · apri PDF
 

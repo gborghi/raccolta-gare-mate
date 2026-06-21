@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2021__Q12
 parent: src_selection_camp_2021
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2021 — Selection Camp — Quesito 12
 
 *Functional equation on the integers using iterates of f*
 

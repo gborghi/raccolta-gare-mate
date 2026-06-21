@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q12
 parent: src_squadre_2018_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 12
 
 *Indice termine errato nella sequenza di Fibonacci modificata*
 

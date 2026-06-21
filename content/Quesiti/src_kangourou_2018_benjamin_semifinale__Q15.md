@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q15
 parent: src_kangourou_2018_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Semifinale individuale — Quesito 15
 
 *Quanti parallelogrammi con vertici tra 8 punti*
 

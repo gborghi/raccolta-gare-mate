@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1988-89 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1988-89_round2__Q02
 parent: src_bmo_1988-89_round2
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1988-89 — Round 2 — Quesito 2
 
 *Count row arrangements of 5 A's, 5 B's, 5 C's with each letter adjacent to identical letter*
 

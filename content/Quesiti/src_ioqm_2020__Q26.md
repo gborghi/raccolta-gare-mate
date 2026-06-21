@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q26
 parent: src_ioqm_2020
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 26
 
 *Color 6 disks with 2 black, 2 blue, 2 white; count distinct colorings under rotation/reflection*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q04
 parent: src_archimede_2018_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 4
 
 *Probabilita due carte stesso colore dopo scambi*
 

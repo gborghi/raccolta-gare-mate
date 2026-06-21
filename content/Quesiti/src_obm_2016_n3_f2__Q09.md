@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f2__Q09
 parent: src_obm_2016_n3_f2
@@ -38,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 9
 
 *Trailing zeros of the q-binomial coefficient C(2016,38)_q as a polynomial in q*
 

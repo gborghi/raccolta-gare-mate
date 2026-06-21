@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q01
 parent: src_kangourou_2020_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 1
 
 *Quanti dei numeri 2,20,202,2020 sono primi*
 

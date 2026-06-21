@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo15yq_yosen__Q10
 parent: src_jjmo15yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 10
 
 *Ways to fill 2x7 grid with 1-14, rows increasing, column gaps non-decreasing*
 

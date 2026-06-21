@@ -1,4 +1,5 @@
 ---
+title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1982__Q02
 parent: src_imo_1982
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1982 (23rd International Mathematical Olympiad) — Quesito 2
 
 *Prove three lines through midpoints and reflected touch-points concurrent*
 

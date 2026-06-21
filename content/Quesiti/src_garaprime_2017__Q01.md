@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q01
 parent: src_garaprime_2017
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 1
 
 *Cifre 1 nella rappresentazione binaria di 255*257*
 

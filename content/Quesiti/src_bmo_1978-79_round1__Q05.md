@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1978-79_round1__Q05
 parent: src_bmo_1978-79_round1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1978-79 — Round 1 — Quesito 5
 
 *Partition function p(n); prove p(n+1)-2p(n)+p(n-1)>=0 for n>1*
 

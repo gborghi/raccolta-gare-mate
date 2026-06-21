@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f1__Q16
 parent: src_obm_2007_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 16
 
 *Figure of rectangle, pentagon, triangle, circle: black minus gray area*
 

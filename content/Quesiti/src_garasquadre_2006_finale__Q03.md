@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_finale__Q03
 parent: src_garasquadre_2006_finale
@@ -22,8 +23,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale — Quesito 3
 
 *trovare AB*
 

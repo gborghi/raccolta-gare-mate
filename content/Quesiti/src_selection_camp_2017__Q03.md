@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2017__Q03
 parent: src_selection_camp_2017
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2017 — Selection Camp — Quesito 3
 
 *Find all k such that sum of k-th powers equals (sum)^{r_n} for all n*
 

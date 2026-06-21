@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q21
 parent: src_kangourou_2015_marzo_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 21
 
 *Numeri 2 cifre come somma di 6 potenze distinte di 2*
 

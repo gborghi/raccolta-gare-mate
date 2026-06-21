@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q27
 parent: src_kangourou_2006_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 27
 
 *Quante volte piu in fretta aumentando di 6 m/s*
 

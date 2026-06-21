@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2010
 tipo: gara
 src_id: src_inmo_2010
 competition: Indian National Mathematical Olympiad 2010
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2010
 
 Sorgente: apri PDF
 

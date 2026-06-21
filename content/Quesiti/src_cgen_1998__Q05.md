@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1998 — Matematica — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cgen_1998__Q05
 parent: src_cgen_1998
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1998 — Matematica — Quesito 5
 
 *Prove existence of a 2n-5 point set piercing all triangles from an n-point set*
 

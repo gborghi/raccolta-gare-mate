@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q01
 parent: src_squadre_2024_femminile
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 1
 
 *Area unione tre rettangoli, AB=20 BC=40*
 

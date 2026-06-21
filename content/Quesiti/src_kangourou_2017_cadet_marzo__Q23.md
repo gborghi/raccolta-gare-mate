@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q23
 parent: src_kangourou_2017_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 23
 
 *Minimo x+y con angoli interi distinti del triangolo*
 

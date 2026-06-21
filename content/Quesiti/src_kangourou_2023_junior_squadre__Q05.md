@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q05
 parent: src_kangourou_2023_junior_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 1 — Quesito 5
 
 *Massimo n/10 con 2023 cubi terminanti in 1*
 

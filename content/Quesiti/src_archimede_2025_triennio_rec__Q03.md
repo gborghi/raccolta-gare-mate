@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q03
 parent: src_archimede_2025_triennio_rec
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 3
 
 *Multipli di 3 con sole cifre 1,4,7 tra 1000 e 100000*
 

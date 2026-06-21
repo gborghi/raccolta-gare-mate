@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q17
 parent: src_prmo_2017
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 17
 
 *Find semi-perimeter of triangle with altitudes 10, 12, 15*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1992-93 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1992-93_round1__Q01
 parent: src_bmo_1992-93_round1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1992-93 — Round 1 — Quesito 1
 
 *Find six-digit perfect square where last three digits exceed first three by exactly one.*
 

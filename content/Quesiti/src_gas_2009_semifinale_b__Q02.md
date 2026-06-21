@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q02
 parent: src_gas_2009_semifinale_b
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 2
 
 *Area cortile triangolare in quadrato di lato 80*
 

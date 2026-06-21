@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 gara 20 marzo Student — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q25
 parent: src_kangourou_2014_marzo_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 gara 20 marzo Student — Quesito 25
 
 *Max interi <=100 distinti con prodotto non div per 54*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2002 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_2002__Q07
 parent: src_rmo_2002
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2002 — Quesito 7
 
 *Find all integers a,b,c,d satisfying two conditions*
 

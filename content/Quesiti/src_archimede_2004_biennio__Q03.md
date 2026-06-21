@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_biennio__Q03
 parent: src_archimede_2004_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Biennio — Quesito 3
 
 *Tipo di figura formata da quattro triangoli rettangoli*
 

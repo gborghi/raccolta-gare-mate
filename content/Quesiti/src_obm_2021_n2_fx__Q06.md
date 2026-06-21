@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n2_fx__Q06
 parent: src_obm_2021_n2_fx
@@ -37,8 +38,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 6
 
 *For real a>=1, A(a)={floor(na)}; suppose every positive integer not in A(a) leaves the same remainder r mod 2021. Find all possible a*
 

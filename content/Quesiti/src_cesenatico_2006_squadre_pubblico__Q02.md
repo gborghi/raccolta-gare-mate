@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q02
 parent: src_cesenatico_2006_squadre_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 2
 
 *Piu grande x con cbrt(x+1184)-cbrt(x-1184)=4*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2013-14 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2013-14_round1__Q01
 parent: src_bmo_2013-14_round1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2013-14 — Round 1 — Quesito 1
 
 *Calculate value of ratio of consecutive power sums*
 

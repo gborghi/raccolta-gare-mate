@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q12
 parent: src_kangourou_2017_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 12
 
 *Distanza A-F tra due quadrati con aree 23 e 777*
 

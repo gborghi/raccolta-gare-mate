@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gas_2010_pubblico__Q02
 parent: src_gas_2010_pubblico
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Gara del Pubblico — Quesito 2
 
 *Probabilita che almeno 2 punti fissi in rotazione del cubo*
 

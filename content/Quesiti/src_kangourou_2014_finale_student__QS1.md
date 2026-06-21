@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale nazionale Student — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_finale_student__QS1
 parent: src_kangourou_2014_finale_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 finale nazionale Student — Quesito S1
 
 *misura angolo NMB*
 

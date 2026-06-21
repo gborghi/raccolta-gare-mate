@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_biennio__Q02
 parent: src_archimede_2016_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Biennio — Quesito 2
 
 *Numeri distinti dopo dimezzare i pari fino a 1000*
 

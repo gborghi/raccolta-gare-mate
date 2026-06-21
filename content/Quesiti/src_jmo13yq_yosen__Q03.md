@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo13yq_yosen__Q03
 parent: src_jmo13yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 3
 
 *Find all primes p for which 2003 has a base-p digit sum of 15*
 

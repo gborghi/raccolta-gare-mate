@@ -1,4 +1,5 @@
 ---
+title: IMO 1981 (Twenty-second International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1981_all__Q03
 parent: src_imo_1981_all
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1981 (Twenty-second International Olympiad) — Quesito 3
 
 *Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981*
 

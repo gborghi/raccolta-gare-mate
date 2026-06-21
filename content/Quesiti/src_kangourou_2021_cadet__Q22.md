@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q22
 parent: src_kangourou_2021_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 22
 
 *Domande senza risposta dato il punteggio 100*
 

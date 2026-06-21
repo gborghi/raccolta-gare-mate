@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q03
 parent: src_squadre_2018_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 3
 
 *Diametro x cerchio inscritto in triangolo isoscele*
 

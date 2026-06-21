@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Benjamin 2024 — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB6
 parent: src_kangourou_2024_benjamin_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Finale Benjamin 2024 — Quesito B6
 
 *Perche il risultato di Marco e sempre 1089*
 

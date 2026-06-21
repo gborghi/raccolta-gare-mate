@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Triennio
 tipo: gara
 src_id: src_archimede_2008_triennio
 competition: Giochi di Archimede 2008 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2008/testo-triennio.pdf` · apri PDF
 

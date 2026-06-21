@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q12
 parent: src_obm_2006_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 12
 
 *Arnaldo has blue 2x2, yellow 2x2, green 3x3 squares; assemble a larger square using at least three of each; minimize total count.*
 

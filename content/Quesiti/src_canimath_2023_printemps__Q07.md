@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q07
 parent: src_canimath_2023_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 7
 
 *In a 10x10 grid with rows numbered 1 (top) to 10 (bottom) and columns 1 (left) to 10 (right), Martin colors cells so that each colored cell c has at most one other colored cell with both column number and row number greater than or equal to those of c; find the maximum number of colored cells.*
 

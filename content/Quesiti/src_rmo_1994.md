@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1994
 tipo: gara
 src_id: src_rmo_1994
 competition: Regional Mathematical Olympiad 1994
@@ -15,8 +16,6 @@ tags:
   - anno/1994
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1994
 
 Sorgente: apri PDF
 

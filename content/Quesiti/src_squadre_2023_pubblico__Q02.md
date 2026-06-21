@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Gara del pubblico — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_pubblico__Q02
 parent: src_squadre_2023_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Gara del pubblico — Quesito 2
 
 *Distanza retta s dal centro di Gamma2, raggi 8 e 52*
 

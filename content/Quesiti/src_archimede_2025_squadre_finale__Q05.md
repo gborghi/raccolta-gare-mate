@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q05
 parent: src_archimede_2025_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 5
 
 *Area minima esagono su reticolo con vincoli su lati*
 

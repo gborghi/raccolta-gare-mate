@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Cadet (21 marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_cadet__Q20
 parent: src_kangourou_2002_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2002 - Cadet (21 marzo) — Quesito 20
 
 *Secondi su scala mobile in salita*
 

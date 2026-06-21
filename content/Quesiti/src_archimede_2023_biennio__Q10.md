@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_biennio__Q10
 parent: src_archimede_2023_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio — Quesito 10
 
 *Minimo numero di paggi tra 11 abitanti in cerchio*
 

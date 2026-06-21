@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2019 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_printemps__Q05
 parent: src_canimath_2019_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2019 — Quesito 5
 
 *If floor(x^2)=floor(x)^2, show floor(x^2),floor(x^3),floor(x^4) are perfect squares*
 

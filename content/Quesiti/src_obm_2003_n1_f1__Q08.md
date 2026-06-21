@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f1__Q08
 parent: src_obm_2003_n1_f1
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 8
 
 *Next term of oscillating sequence 1,2,3,4,5,4,3,2,1,2,3,4,5,...*
 

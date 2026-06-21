@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2000-01 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2000-01_round2__Q04
 parent: src_bmo_2000-01_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2000-01 — Round 2 — Quesito 4
 
 *Numbers 1 to N in a circle; find max and min of sum of neighbour differences*
 

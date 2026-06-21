@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q14
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 14
 
 *Percorso del cane con 3 svolte destra e 2 sinistra*
 

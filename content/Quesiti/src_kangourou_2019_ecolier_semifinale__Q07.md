@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q07
 parent: src_kangourou_2019_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 7
 
 *Quale foglio incollato per primo nella sovrapposizione*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2015-16 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2015-16_round2__Q03
 parent: src_bmo_2015-16_round2
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2015-16 — Round 2 — Quesito 3
 
 *Cyclic quadrilateral: PQ perp AC implies PQ perp BD*
 

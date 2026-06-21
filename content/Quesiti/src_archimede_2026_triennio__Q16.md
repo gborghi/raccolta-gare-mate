@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q16
 parent: src_archimede_2026_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 16
 
 *Griglia 11x11 ciliegi/peschi, condizioni di fioritura*
 

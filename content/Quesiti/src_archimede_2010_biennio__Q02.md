@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q02
 parent: src_archimede_2010_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 2
 
 *Minimo calzini per due dello stesso colore*
 

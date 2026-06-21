@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_triennio__Q11
 parent: src_archimede_2010_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Triennio — Quesito 11
 
 *Partite vinte data classifica con punti e pareggi*
 

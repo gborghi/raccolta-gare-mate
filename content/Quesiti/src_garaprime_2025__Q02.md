@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q02
 parent: src_garaprime_2025
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 2
 
 *Massimo monete nel forziere fermandosi su totale pari*
 

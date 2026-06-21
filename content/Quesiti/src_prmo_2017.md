@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017
 tipo: gara
 src_id: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017
 
 Sorgente: apri PDF
 

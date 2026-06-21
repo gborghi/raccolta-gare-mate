@@ -1,4 +1,5 @@
 ---
+title: XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007__Q05
 parent: src_cesenatico_2007
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 5
 
 *n e x_n coprimi per ogni n*
 

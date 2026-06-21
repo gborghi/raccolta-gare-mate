@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q21
 parent: src_kangourou_2005_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 21
 
 *Numero risultati diversi di autobus in 19 minuti*
 

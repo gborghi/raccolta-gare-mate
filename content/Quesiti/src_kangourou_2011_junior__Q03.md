@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q03
 parent: src_kangourou_2011_junior
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 3
 
 *Perimetro del rettangolo da somme di tre lati 20 o 22*
 

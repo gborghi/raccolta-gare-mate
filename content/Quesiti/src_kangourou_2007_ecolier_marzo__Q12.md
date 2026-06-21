@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q12
 parent: src_kangourou_2007_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo) — Quesito 12
 
 *Sequenza di macchine per ottenere il risultato*
 

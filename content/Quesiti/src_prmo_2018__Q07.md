@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q07
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 7
 
 *Point P inside regular hexagon at distances 8,8,16 from three consecutive vertices, find integer closest to circumradius*
 

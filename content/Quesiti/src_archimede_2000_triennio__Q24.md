@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q24
 parent: src_archimede_2000_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 24
 
 *Massimo combinazioni lucchetto 4 cifre con due uguali*
 

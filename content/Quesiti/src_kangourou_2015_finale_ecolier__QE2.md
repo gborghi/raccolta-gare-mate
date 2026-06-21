@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Ecolier — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_ecolier__QE2
 parent: src_kangourou_2015_finale_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Ecolier — Quesito E2
 
 *Dado non regolare con condizioni somma facce opposte*
 

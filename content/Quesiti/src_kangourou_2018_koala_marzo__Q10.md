@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q10
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 10
 
 *Disegno visto sovrapponendo i due quadrati trasparenti*
 

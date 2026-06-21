@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1995 (36th IMO, Toronto) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1995__Q06
 parent: src_imo_1995
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1995 (36th IMO, Toronto) — Quesito 6
 
 *Count p-element subsets of 1..2p with p-divisible sum*
 

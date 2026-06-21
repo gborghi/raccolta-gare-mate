@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q09
 parent: src_kangourou_2017_preecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 9
 
 *Quanti orsetti per due trenini con i baratti*
 

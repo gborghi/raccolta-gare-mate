@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q17
 parent: src_gs_2008_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 17
 
 *Colori magliette scimmie (II) conteggio*
 

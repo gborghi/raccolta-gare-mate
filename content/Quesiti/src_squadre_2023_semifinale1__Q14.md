@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale1__Q14
 parent: src_squadre_2023_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 1 — Quesito 14
 
 *MCD di tutti i numeri 1^n+...+999^n*
 

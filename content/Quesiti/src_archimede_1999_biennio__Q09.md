@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_biennio__Q09
 parent: src_archimede_1999_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Biennio — Quesito 9
 
 *Probabilita che il secondo estratto sia 28 dato 27*
 

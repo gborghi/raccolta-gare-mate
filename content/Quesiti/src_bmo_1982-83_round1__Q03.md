@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1982-83 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1982-83_round1__Q03
 parent: src_bmo_1982-83_round1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1982-83 — Round 1 — Quesito 3
 
 *Sequence x_n with x_1=-1, x_2=2; prove nS_n + F_n = 1 for all n*
 

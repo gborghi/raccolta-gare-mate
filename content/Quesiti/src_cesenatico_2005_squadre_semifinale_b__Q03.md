@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q03
 parent: src_cesenatico_2005_squadre_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 3
 
 *Piu grande ultraprimo di 3 cifre*
 

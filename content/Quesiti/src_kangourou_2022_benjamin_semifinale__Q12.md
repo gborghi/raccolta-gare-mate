@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q12
 parent: src_kangourou_2022_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 12
 
 *Chilometri percorribili con la benzina nel serbatoio*
 

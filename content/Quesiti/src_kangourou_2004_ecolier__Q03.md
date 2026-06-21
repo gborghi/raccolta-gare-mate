@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q03
 parent: src_kangourou_2004_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 3
 
 *Quante rondini all'inizio*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r2__Q04
 parent: src_rmo_2016_r2
@@ -36,8 +37,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 2 — Quesito 4
 
 *Count 6-digit numbers with digits 1,2,3 where 3 appears exactly twice and divisible by 9*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q05
 parent: src_cesenatico_2006_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 5
 
 *Minimo combinazioni utili da 36 ingredienti (condizione)*
 

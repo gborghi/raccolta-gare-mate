@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q02
 parent: src_kangourou_2020_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 2
 
 *Numero al posto 2020 della sequenza dispari ripetuti*
 

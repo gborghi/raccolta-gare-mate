@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f1__Q25
 parent: src_obm_2011_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 25
 
 *Minimum sum of six pairwise-adjacent sums on a hexagon labelled 1-6*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q18
 parent: src_archimede_1996_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 18
 
 *Quanti angoli maggiori di 90 gradi in un quadrilatero*
 

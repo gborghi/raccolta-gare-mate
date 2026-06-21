@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q07
 parent: src_garaprime_2024
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 7
 
 *Area del triangolo BCQ nel giardino di Santina*
 

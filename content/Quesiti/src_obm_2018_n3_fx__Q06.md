@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2018_n3_fx__Q06
 parent: src_obm_2018_n3_fx
@@ -38,8 +39,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x — Quesito 6
 
 *Digit sum s(n): find all positive integer pairs (a,b) making s(an+b)−s(n) finitely valued*
 

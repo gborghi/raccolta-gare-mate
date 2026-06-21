@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_biennio__Q11
 parent: src_archimede_2011_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Biennio — Quesito 11
 
 *Somma successione tipo Fibonacci con primo 34 ultimo 0*
 

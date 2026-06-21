@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Student finale nazionale — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student_finale__QS3
 parent: src_kangourou_2004_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2004 Student finale nazionale — Quesito S3
 
 *Max tessere a croce sulla scacchiera 8x8*
 

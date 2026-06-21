@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q16
 parent: src_kangourou_2022_benjamin_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 16
 
 *Solido che richiede meno vernice tra i quattro*
 

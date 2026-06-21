@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1998 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1998__Q05
 parent: src_cesenatico_1998
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1998 — Quesito 5
 
 *non esiste n con P(n)=12*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f2__Q05
 parent: src_obm_2003_n3_f2
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2 — Quesito 5
 
 *Probability that a 3x3 coloring contains a monochromatic 2x2 square*
 

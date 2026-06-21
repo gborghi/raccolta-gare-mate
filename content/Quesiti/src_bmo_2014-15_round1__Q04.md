@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2014-15 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2014-15_round1__Q04
 parent: src_bmo_2014-15_round1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2014-15 — Round 1 — Quesito 4
 
 *Prove t_n = x^n + x^{-n} is integer; find n where t divides t_n*
 

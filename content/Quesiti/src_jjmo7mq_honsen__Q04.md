@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo7mq_honsen__Q04
 parent: src_jjmo7mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 4
 
 *Double inequality for cyclic expression in positive reals a,b,c*
 

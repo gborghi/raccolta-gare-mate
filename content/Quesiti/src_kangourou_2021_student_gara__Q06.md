@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q06
 parent: src_kangourou_2021_student_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 6
 
 *Rapporto volumi dei due cilindri da rettangolo arrotolato*
 

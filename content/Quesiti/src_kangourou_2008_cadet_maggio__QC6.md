@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_maggio__QC6
 parent: src_kangourou_2008_cadet_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C6
 
 *Rapporto area triangolo T su quadrato C*
 

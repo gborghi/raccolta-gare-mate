@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q08
 parent: src_garaprime_2017
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 8
 
 *Cammino minimo riflesso verso la riva del mare*
 

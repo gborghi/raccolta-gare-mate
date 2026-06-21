@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_1992__Q04
 parent: src_inmo_1992
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992 — Quesito 4
 
 *Permutations of 1,...,k not extendable; find number of such permutations*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q12
 parent: src_squadre_2025_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 12
 
 *Massimo mucche al pascolo per sempre, erba che cresce*
 

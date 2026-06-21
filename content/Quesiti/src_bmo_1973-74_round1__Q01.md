@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round1__Q01
 parent: src_bmo_1973-74_round1
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 1 — Quesito 1
 
 *Three curves where B bisects area between A and C; find equation of C*
 

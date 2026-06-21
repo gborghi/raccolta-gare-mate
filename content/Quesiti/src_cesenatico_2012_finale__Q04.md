@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q04
 parent: src_cesenatico_2012_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 4
 
 *Passi totali nell'inseguimento sull'equatore*
 

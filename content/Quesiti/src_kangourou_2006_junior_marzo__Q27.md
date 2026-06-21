@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q27
 parent: src_kangourou_2006_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 27
 
 *Somma dei 96 numeri sulla circonferenza*
 

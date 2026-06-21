@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f1__Q03
 parent: src_obm_2012_n1_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 3
 
 *Count positive integers whose largest proper divisor is 9*
 

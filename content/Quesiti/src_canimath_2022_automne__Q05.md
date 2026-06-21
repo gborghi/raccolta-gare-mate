@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q05
 parent: src_canimath_2022_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 5
 
 *Odd positive integer n; divisors of 2n; find odd divisor in (k, 2k]*
 

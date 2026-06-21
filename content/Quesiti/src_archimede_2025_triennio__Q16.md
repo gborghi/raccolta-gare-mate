@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q16
 parent: src_archimede_2025_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 16
 
 *Altezze, simmetrico e ciclicita, similitudine e perpendicolarita AP*
 

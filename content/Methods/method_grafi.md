@@ -1,11 +1,10 @@
 ---
+title: Teoria dei grafi
 tipo: method
 concept_id: method_grafi
 tags:
   - graph/method
 ---
-
-# Teoria dei grafi
 
 *method* — **123** quesiti (italiani).
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q10
 parent: src_archimede_2014_febb_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello — Quesito 10
 
 *Coefficienti non nulli del prodotto di binomi (1+x^3^k)*
 

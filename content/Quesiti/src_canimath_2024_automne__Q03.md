@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q03
 parent: src_canimath_2024_automne
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 3
 
 *Positive integers a,b,n with a,b | n and n=a+b+ab; show a=b*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q14
 parent: src_archimede_1996_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 14
 
 *Numero di cifre del prodotto di due numeri ripetitivi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (finale Cervia) — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_finale__QS4
 parent: src_kangourou_2016_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (finale Cervia) — Quesito S4
 
 *Somma degli inversi dei prodotti su tutti i sottoinsiemi*
 

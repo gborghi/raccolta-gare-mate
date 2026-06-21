@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q09
 parent: src_kangourou_2021_student_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 9
 
 *Area triangolo con vertici dati nel piano cartesiano*
 

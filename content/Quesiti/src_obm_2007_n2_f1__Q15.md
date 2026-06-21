@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f1__Q15
 parent: src_obm_2007_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 15
 
 *Given 1+(x^2+x)(x^2+5x+6)=181^2, find x(x+3)*
 

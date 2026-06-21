@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n2_f1__Q16
 parent: src_obm_2008_n2_f1
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 16
 
 *Magic sum of an order-7 magic square with numbers 1 to 49*
 

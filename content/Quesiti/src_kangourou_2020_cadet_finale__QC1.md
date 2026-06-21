@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Cadet — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC1
 parent: src_kangourou_2020_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Cadet — Quesito C1
 
 *Area della regione delimitata da quattro archi uguali*
 

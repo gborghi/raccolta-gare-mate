@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2023
 tipo: gara
 src_id: src_jegmo12q
 competition: Japan EGMO Selection / Girls MO 2023
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2023
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q04
 parent: src_kangourou_2014_squadre_a
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A — Quesito 4
 
 *Diametro piscina circolare da nuoto Est e Nord*
 

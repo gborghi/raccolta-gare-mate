@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_triennio__Q10
 parent: src_archimede_2023_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Triennio — Quesito 10
 
 *Colorazioni della striscia con multipli di 4 blu (4 colori)*
 

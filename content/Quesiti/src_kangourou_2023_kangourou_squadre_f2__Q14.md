@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q14
 parent: src_kangourou_2023_kangourou_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 14
 
 *Area rettangolo ABCD da area triangolo FMN*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_triennio__Q15
 parent: src_archimede_1998_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Triennio — Quesito 15
 
 *Quale affermazione e sicuramente falsa dato xy<x*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q01
 parent: src_kangourou_2019_cadet_semif
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 1
 
 *In quanti angoli identici a epsilon si ripartisce il piano*
 

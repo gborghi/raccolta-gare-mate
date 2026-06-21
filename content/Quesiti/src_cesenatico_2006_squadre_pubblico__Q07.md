@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q07
 parent: src_cesenatico_2006_squadre_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 7
 
 *Lunghezza intera elica su cilindro, 2006 m in 15 giri*
 

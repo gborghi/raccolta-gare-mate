@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Triennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_triennio__Q17
 parent: src_archimede_2007_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Triennio — Quesito 17
 
 *Quanti tra 2,3,5,7,11 dividono 371^4-41^4*
 

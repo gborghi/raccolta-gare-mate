@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q16
 parent: src_archimede_2025_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 16
 
 *Triangoli equiarea iterati 1000a/b, ultimo bastoncino*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q02
 parent: src_kangourou_2014_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 2
 
 *Peso del pezzo piu grande di torta*
 

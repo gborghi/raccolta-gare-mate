@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q09
 parent: src_kangourou_2018_student_semif
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 9
 
 *Massime sequenze di 7 lettere AB con distanza Hamming >=3*
 

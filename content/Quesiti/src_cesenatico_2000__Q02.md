@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 2000 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2000__Q02
 parent: src_cesenatico_2000
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 2000 — Quesito 2
 
 *Punti di tangenza e griglia su piramide quadrata*
 

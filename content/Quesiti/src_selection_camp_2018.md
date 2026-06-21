@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp
 tipo: gara
 src_id: src_selection_camp_2018
 competition: Japan IMO Selection Camp 2018 — Selection Camp
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp
 
 Sorgente: apri PDF
 

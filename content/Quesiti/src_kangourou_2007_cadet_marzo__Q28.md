@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q28
 parent: src_kangourou_2007_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 28
 
 *Lunghezza max curva connessa (piastrelle archi)*
 

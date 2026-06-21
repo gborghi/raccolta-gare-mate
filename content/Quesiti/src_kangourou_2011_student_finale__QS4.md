@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Student (Mirabilandia) — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student_finale__QS4
 parent: src_kangourou_2011_student_finale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Student (Mirabilandia) — Quesito S4
 
 *Quanti valori distinti somma perimetri di 4 triangoli area 1/4*
 

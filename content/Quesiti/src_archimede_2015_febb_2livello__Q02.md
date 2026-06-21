@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q02
 parent: src_archimede_2015_febb_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2015 - 2 livello — Quesito 2
 
 *Somma di 100 termini con media di consecutivi pari all'indice*
 

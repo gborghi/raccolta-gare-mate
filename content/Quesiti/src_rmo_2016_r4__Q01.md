@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r4__Q01
 parent: src_rmo_2016_r4
@@ -30,8 +31,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 4 — Quesito 1
 
 *Isosceles triangle, circumcircle, line through D parallel to AC, AE:EB=2:1*
 

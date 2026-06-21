@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q29
 parent: src_kangourou_2006_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 29
 
 *Lettera al posto del punto interrogativo sul cubo*
 

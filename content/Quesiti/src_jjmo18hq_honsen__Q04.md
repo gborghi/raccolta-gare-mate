@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo18hq_honsen__Q04
 parent: src_jjmo18hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 4
 
 *Minimum pieces so every cell has 2+ pieces on its diagonals*
 

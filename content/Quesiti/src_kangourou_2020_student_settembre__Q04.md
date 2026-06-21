@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - finale settembre — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_settembre__Q04
 parent: src_kangourou_2020_student_settembre
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - finale settembre — Quesito 4
 
 *Confronto tra 129^29 e 4095^17*
 

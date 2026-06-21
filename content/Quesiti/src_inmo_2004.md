@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2004
 tipo: gara
 src_id: src_inmo_2004
 competition: Indian National Mathematical Olympiad 2004
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2004
 
 Sorgente: apri PDF
 

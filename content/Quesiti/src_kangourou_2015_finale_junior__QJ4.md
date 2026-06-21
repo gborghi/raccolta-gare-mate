@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Junior — Quesito J4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_junior__QJ4
 parent: src_kangourou_2015_finale_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Junior — Quesito J4
 
 *Modi di realizzare N+1 kang > modi per N kang*
 

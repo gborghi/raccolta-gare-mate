@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q10
 parent: src_archimede_2025_triennio_rec
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 10
 
 *Disposizioni di 4 coppie di sorelle accanto*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_individuale__Q02
 parent: src_archimede_2001_individuale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 2
 
 *quante squadre partecipano*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2007 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2007__Q05
 parent: src_rmo_2007
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2007 — Quesito 5
 
 *Trapezium inscribed in circle, diagonals meet at M with OM=2; find difference of parallel sides*
 

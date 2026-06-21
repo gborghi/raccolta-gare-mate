@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1974-75_round1__Q05
 parent: src_bmo_1974-75_round1
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1974-75 — Round 1 — Quesito 5
 
 *Find a so the limit of g(a)/f(a) equals 1/2*
 

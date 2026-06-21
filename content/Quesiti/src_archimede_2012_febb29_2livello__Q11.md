@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q11
 parent: src_archimede_2012_febb29_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 11
 
 *Folletto divide per 12 prodotto differenze di quadrati, giorni sicuri*
 

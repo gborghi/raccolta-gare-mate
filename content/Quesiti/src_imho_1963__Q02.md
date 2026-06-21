@@ -1,4 +1,5 @@
 ---
+title: IMO 1963 (V International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imho_1963__Q02
 parent: src_imho_1963
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# IMO 1963 (V International Olympiad) — Quesito 2
 
 *Luogo di vertici di angoli retti con un lato per A*
 

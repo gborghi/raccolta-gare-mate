@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1988-89 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1988-89_round1__Q03
 parent: src_bmo_1988-89_round1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1988-89 — Round 1 — Quesito 3
 
 *Express area of triangle ABC in terms of areas of triangles OBC, OCA, OAB*
 

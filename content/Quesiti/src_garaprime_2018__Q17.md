@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q17
 parent: src_garaprime_2018
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 17
 
 *Resto diviso 6 del numero concatenato 2018..1*
 

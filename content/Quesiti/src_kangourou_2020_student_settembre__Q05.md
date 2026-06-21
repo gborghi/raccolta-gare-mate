@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - finale settembre — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_settembre__Q05
 parent: src_kangourou_2020_student_settembre
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - finale settembre — Quesito 5
 
 *Allineamento di M,N,P nel triangolo con incerchio*
 

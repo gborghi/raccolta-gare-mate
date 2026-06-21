@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_tfjm_2025__Q06
 parent: src_tfjm_2025
@@ -38,8 +39,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 6
 
 *Optimizing bus stop spacing on a line where bus speed decreases with passenger count V_k = V_0/(1+ln(k+1)); minimize bunching and travel time with holding/skip-stop strategies.*
 

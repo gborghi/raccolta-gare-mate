@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q17
 parent: src_archimede_2016_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 17
 
 *Valore p(0) di polinomio cubico con radici 7 e 13*
 

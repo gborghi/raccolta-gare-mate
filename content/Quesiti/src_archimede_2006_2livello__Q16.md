@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_2livello__Q16
 parent: src_archimede_2006_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 16
 
 *Conteggio interi con k cifre dispari e quoziente n/5 simile*
 

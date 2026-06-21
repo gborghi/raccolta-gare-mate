@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q08
 parent: src_kangourou_2004_student
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 8
 
 *Prodotto possibile di cinque numeri scelti tra 1,2,4*
 

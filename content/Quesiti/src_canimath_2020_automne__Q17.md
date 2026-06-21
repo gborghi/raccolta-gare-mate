@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q17
 parent: src_canimath_2020_automne
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 17
 
 *Decide if 10 blue, 10 red, 10 green points can satisfy cyclic second-nearest conditions*
 

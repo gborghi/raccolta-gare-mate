@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q12
 parent: src_kangourou_2024_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 12
 
 *Minimo numero di numeri da dire per cancellare 2..60*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2010 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2010__Q01
 parent: src_rmo_2010
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2010 — Quesito 1
 
 *Geometric mean areas in concurrent-diagonal hexagon*
 

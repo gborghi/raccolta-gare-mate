@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q04
 parent: src_archimede_2000_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 4
 
 *Valore di 6a data relazione lineare in a e b*
 

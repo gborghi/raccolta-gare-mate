@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q03
 parent: src_archimede_2010_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 3
 
 *Quanti cavalieri tra quattro abitanti con affermazioni date*
 

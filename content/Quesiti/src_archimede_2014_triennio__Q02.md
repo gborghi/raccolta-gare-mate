@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_triennio__Q02
 parent: src_archimede_2014_triennio
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 2
 
 *Natura radici di x^2+bx+c=0 con c<0*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q05
 parent: src_prmo_2017
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 5
 
 *Find n such that u^40 = v^n = w^60 with u,v,w in geometric progression*
 

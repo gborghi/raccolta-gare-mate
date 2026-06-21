@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q07
 parent: src_prmo_2015_a
@@ -34,8 +35,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 7
 
 *Two-digit $N$ whose digit-sum with its reversal is a perfect square*
 

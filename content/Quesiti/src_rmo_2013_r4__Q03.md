@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 4 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r4__Q03
 parent: src_rmo_2013_r4
@@ -30,8 +31,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 4 — Quesito 3
 
 *Inequality for real numbers a,b,c,d,e > 1*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q01
 parent: src_cesenatico_2012_finale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 1
 
 *Quanti anni del drago (somma cifre divisibile per 7)*
 

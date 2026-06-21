@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2000 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2000__Q03
 parent: src_rmo_2000
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2000 — Quesito 3
 
 *Decreasing sequence with bounded partial sums; prove sum of 1/k terms < 3*
 

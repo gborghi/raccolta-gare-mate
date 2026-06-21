@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q02
 parent: src_jmo35yqa_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 2
 
 *Count quadruples (a,b,c,d) of positive integers, abcd=2025, ab,bc,cd,da all squares*
 

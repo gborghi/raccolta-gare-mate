@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f1__Q13
 parent: src_obm_2006_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 13
 
 *GCD of all terms of sequence a_n = n^2 - n*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo23hq_honsen__Q04
 parent: src_jjmo23hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 4
 
 *At most n-3 terms among a_1,...,a_n are p-th powers given divisibility*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2024__Q06
 parent: src_inmo_2024
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2024 — Quesito 6
 
 *Sequences A_n and B_n of nested radicals; find positive integers with equal floor values*
 

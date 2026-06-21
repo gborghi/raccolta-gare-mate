@@ -1,4 +1,5 @@
 ---
+title: IMO 1971 (Thirteenth International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1971_all__Q01
 parent: src_imo_1971_all
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1971 (Thirteenth International Olympiad) — Quesito 1
 
 *Symmetric product inequality true only for n=3,5*
 

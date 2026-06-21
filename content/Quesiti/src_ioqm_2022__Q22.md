@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q22
 parent: src_ioqm_2022
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 22
 
 *Friendly binary sequences with n terms, find smallest n>=2 with F_n>100*
 

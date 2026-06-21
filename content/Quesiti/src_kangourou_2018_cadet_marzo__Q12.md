@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q12
 parent: src_kangourou_2018_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo — Quesito 12
 
 *Quanti quadrati non colorati nel rettangolo*
 

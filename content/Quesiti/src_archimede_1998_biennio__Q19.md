@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Biennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_biennio__Q19
 parent: src_archimede_1998_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Biennio — Quesito 19
 
 *Cifra dopo il 9 nello sviluppo decimale di x*
 

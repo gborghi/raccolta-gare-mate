@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q07
 parent: src_archimede_1999_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 7
 
 *Affermazione vera con quantificatori nei razionali*
 

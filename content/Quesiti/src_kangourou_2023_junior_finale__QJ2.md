@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ2
 parent: src_kangourou_2023_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J2
 
 *gioco equo o no*
 

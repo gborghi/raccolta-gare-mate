@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2011 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_printemps__Q04
 parent: src_canimath_2011_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2011 — Quesito 4
 
 *Fencing a square field with two perimeter constraints*
 

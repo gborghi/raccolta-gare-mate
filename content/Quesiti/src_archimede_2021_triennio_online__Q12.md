@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio_online__Q12
 parent: src_archimede_2021_triennio_online
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 12
 
 *Valori di k con polinomio avente radice doppia dell'altra*
 

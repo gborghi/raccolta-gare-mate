@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_femminile__Q13
 parent: src_squadre_2023_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale — Quesito 13
 
 *Probabilita prodotto di due primi <40 piu uno quadrato*
 

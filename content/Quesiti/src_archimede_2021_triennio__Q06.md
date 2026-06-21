@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio__Q06
 parent: src_archimede_2021_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 6
 
 *Interi n con n^6+3n^5 multiplo di 49, somma di due*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q21
 parent: src_kangourou_2006_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 21
 
 *qual e la situazione*
 

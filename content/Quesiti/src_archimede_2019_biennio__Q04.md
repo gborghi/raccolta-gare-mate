@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_biennio__Q04
 parent: src_archimede_2019_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1) — Quesito 4
 
 *Coppie di libri di due generi diversi tra 9,7,4*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Cadet — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q24
 parent: src_kangourou_2015_marzo_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Cadet — Quesito 24
 
 *2 leggeri 25%, 3 pesanti 60%: quanti canguri*
 

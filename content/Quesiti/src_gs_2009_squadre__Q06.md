@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q06
 parent: src_gs_2009_squadre
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 6
 
 *Tre orologi a velocita diverse, ora comune*
 

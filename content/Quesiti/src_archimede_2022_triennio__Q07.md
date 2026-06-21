@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q07
 parent: src_archimede_2022_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 7
 
 *Coppie (a,b) con a divisore di b e a+2b=1010*
 

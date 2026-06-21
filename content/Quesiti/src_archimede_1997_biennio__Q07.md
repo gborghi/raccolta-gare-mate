@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_biennio__Q07
 parent: src_archimede_1997_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Biennio — Quesito 7
 
 *Quanti n positivi con n+30 maggiore di n quadrato*
 

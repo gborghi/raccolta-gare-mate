@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q03
 parent: src_canimath_2025_automne
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 3
 
 *Show D, E, F, X are concyclic in a triangle with reflected points*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo15yq_yosen__Q11
 parent: src_jjmo15yq_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 11
 
 *Count integer 4-tuples satisfying (a^2+b^2)(c^2+d^2)=4abcd+106*
 

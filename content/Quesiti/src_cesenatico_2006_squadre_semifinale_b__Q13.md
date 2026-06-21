@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q13
 parent: src_cesenatico_2006_squadre_semifinale_b
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 13
 
 *Numero colorazioni distinte di tetraedri con 16 colori*
 

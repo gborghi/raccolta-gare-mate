@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q26
 parent: src_prmo_2019
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 26
 
 *Smallest x+y+z given xy+z=160*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_maggio__QJ3
 parent: src_kangourou_2008_junior_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J3
 
 *Trovare un insieme IMPERFETTO infinito*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Cadet — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_cadet__QC5
 parent: src_kangourou_2015_finale_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Cadet — Quesito C5
 
 *Modi di realizzare N+1 kang > modi per N kang*
 

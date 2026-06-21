@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior finale nazionale — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior_finale__QJ2
 parent: src_kangourou_2004_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior finale nazionale — Quesito J2
 
 *Coppie intere con x^2+y^2+xy=1*
 

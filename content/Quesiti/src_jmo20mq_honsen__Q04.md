@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo20mq_honsen__Q04
 parent: src_jmo20mq_honsen
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 4
 
 *Cyclic inequality in three positive reals*
 

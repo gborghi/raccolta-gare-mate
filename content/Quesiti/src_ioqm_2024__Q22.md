@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q22
 parent: src_ioqm_2024
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 22
 
 *Find m+n+p for ratio AC/AB in right triangle with given BD ratio*
 

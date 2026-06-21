@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q01
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 1
 
 *Minimo confezioni di uova per 24 muffin*
 

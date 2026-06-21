@@ -1,4 +1,5 @@
 ---
+title: IMO 1973 (Fifteenth International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1973_all__Q05
 parent: src_imo_1973_all
@@ -25,8 +26,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# IMO 1973 (Fifteenth International Olympiad) — Quesito 5
 
 *Group of affine maps has common fixed point*
 

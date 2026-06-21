@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q04
 parent: src_squadre_2018_semifinalea
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 4
 
 *Sequenza autodescrittiva dopo 2018 iterazioni, terzo termine*
 

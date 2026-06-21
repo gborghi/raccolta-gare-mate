@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q23
 parent: src_ioqm_2020
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 23
 
 *Incircle of scalene triangle; mixtilinear incircle radii r_A=16, r_B=25, r_C=36; find inradius*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_biennio__Q16
 parent: src_archimede_1998_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Biennio — Quesito 16
 
 *Spigoli e vertici del dodecaedro regolare*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q06
 parent: src_archimede_1996_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 6
 
 *Quadrato del quadrato del quadrato di 8*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q11
 parent: src_kangourou_2018_junior_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 11
 
 *M-N tra somma dispari e somma pari minori di 1000*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2009 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2009__Q01
 parent: src_inmo_2009
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2009 — Quesito 1
 
 *Collinearity of interior point and midpoints given BP=2PM*
 

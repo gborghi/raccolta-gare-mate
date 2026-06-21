@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q06
 parent: src_kangourou_2015_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Finale — Quesito 6
 
 *Minimo n con resti decrescenti dividendo per 10..2*
 

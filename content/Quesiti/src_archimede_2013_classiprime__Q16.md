@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q16
 parent: src_archimede_2013_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 16
 
 *Modi di comporre 1 euro con monete da 1,2,5 centesimi*
 

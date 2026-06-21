@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n1_f1__Q16
 parent: src_obm_1998_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 16
 
 *Count distinct 4-letter surnames with a 2-letter alphabet*
 

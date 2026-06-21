@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Ecolier — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q07
 parent: src_kangourou_2020_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Ecolier — Quesito 7
 
 *Massimo euro di Marta con 20 banconote*
 

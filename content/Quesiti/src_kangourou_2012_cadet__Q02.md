@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q02
 parent: src_kangourou_2012_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 2
 
 *Tra quanti minuti la lancetta sara a Nord-Ovest*
 

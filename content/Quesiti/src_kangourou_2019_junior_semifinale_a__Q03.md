@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q03
 parent: src_kangourou_2019_junior_semifinale_a
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 3
 
 *Modi di assegnare interi all'ottagono con somme diagonali*
 

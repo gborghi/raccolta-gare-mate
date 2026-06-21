@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1991 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_1991__Q01
 parent: src_cgen_1991
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1991 — Matematica — Quesito 1
 
 *Real sequence with sum-of-squares identity; power sums as perfect squares*
 

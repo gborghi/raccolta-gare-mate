@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2023 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_2023__Q03
 parent: src_cgen_2023
@@ -44,8 +45,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Concours Général des Lycées 2023 — Matematica — Quesito 3
 
 *In an orthonormal frame, study polynomials whose graph passes through all vertices of a regular k-gon centered at O: case of equilateral triangles, squares centered at O, the lower bound d >= k-1, and the sufficiency of every d >= k-1 (via Chebyshev polynomials).*
 

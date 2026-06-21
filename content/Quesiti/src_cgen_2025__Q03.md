@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2025 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_2025__Q03
 parent: src_cgen_2025
@@ -34,8 +35,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2025 — Matematica — Quesito 3
 
 *Functional equation f(x+1)=1/2+sqrt(f(x)-f(x)^2): exhibit a continuous solution, prove every solution is periodic, and produce infinitely many continuous solutions with f(0)=1/2.*
 

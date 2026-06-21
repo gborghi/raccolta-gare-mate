@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q08
 parent: src_squadre_2024_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 8
 
 *1000*BC con circonferenza per D,E,S tangente a BC*
 

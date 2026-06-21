@@ -1,4 +1,5 @@
 ---
+title: IMO 2015 papers — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2015__Q01
 parent: src_imo_2015
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2015 papers — Quesito 1
 
 *Insiemi bilanciati e centre-free di n punti*
 

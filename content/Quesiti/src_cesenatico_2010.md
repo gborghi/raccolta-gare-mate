@@ -1,4 +1,5 @@
 ---
+title: XXVI Olimpiade Italiana Cesenatico 2010
 tipo: gara
 src_id: src_cesenatico_2010
 competition: XXVI Olimpiade Italiana Cesenatico 2010
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/individuale
 ---
-
-# XXVI Olimpiade Italiana Cesenatico 2010
 
 Sorgente: `Archimede/individuale/nazionale/2010/ces10-sol.pdf` · apri PDF
 

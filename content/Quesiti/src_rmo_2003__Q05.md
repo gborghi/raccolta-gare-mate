@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2003 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2003__Q05
 parent: src_rmo_2003
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2003 — Quesito 5
 
 *Interior point P with equal ratios of vertex-to-side distances; find common value*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q05
 parent: src_canimath_2023_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 5
 
 *Theo's grades are integers from 1 to 5 with average at most 3; he replaces every grade equal to 1 with a 3; show the new average remains at most 4.*
 

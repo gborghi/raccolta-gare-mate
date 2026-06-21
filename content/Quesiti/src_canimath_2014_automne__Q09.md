@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2014 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_automne__Q09
 parent: src_canimath_2014_automne
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2014 — Quesito 9
 
 *25 distinct positive numbers; pick two whose sum/difference equals no other*
 

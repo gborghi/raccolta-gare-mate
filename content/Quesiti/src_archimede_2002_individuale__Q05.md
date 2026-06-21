@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_individuale__Q05
 parent: src_archimede_2002_individuale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 5
 
 *dividere espressione in tre parti, k multiplo di 3*
 

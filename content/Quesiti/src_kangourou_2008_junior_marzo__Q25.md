@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q25
 parent: src_kangourou_2008_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior (gara 28 marzo) — Quesito 25
 
 *Valore B+D sullo sviluppo dell ottaedro*
 

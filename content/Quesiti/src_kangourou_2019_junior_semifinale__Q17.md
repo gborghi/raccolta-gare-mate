@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q17
 parent: src_kangourou_2019_junior_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 17
 
 *Minimo celle da annerire griglia 6x2019 (dominio connesso)*
 

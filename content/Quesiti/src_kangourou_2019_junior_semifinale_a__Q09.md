@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q09
 parent: src_kangourou_2019_junior_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 9
 
 *Prodotto delle soluzioni di f(n)=n*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2017 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2017__Q04
 parent: src_rmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2017 — Quesito 4
 
 *Minimum colours to colour n^2 unit squares with distinct-centre condition*
 

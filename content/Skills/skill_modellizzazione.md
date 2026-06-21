@@ -1,11 +1,10 @@
 ---
+title: Modellizzazione / traduzione del testo
 tipo: skill
 concept_id: skill_modellizzazione
 tags:
   - graph/skill
 ---
-
-# Modellizzazione / traduzione del testo
 
 *skill* — **875** quesiti (italiani).
 

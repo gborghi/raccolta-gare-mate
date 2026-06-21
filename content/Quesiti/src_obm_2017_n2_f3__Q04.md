@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n2_f3__Q04
 parent: src_obm_2017_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3 — Quesito 4
 
 *Imps' number system (odd digits only); counting and multiplication in Imp language*
 

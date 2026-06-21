@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_finale__Q20
 parent: src_cesenatico_2016_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 20
 
 *Min n con probabilita 1/2016 (cammino aleatorio grafo)*
 

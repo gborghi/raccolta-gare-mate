@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_triennio__Q25
 parent: src_archimede_2009_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio — Quesito 25
 
 *Area superficie cubo esterna a sfera per punti medi*
 

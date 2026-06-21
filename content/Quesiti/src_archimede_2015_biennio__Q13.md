@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q13
 parent: src_archimede_2015_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 13
 
 *Configurazione non ottenibile invertendo righe/colonne*
 

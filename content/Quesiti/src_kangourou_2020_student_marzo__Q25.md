@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q25
 parent: src_kangourou_2020_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 25
 
 *Quanti gusti esauriti se le combinazioni coincidono*
 

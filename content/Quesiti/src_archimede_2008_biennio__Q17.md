@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q17
 parent: src_archimede_2008_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 17
 
 *Numero caselle scacchiera da numerazione a serpentina*
 

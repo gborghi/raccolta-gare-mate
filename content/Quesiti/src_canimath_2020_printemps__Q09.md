@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q09
 parent: src_canimath_2020_printemps
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 9
 
 *Count 5-card hands containing four cards of the same value (lycee)*
 

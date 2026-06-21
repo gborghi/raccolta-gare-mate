@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n3_fx__Q01
 parent: src_obm_2025_n3_fx
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 1
 
 *Find positive integer n and 2n non-negative reals with three properties*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f2__Q02
 parent: src_obm_2002_n3_f2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 2
 
 *Find reals a,b,c from three symmetric product equations*
 

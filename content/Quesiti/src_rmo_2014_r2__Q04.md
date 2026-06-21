@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r2__Q04
 parent: src_rmo_2014_r2
@@ -32,8 +33,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 2 — Quesito 4
 
 *Prove sum of reciprocals of consecutive prime pairs equals (n-1)/(2n+2)*
 

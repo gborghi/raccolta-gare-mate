@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q17
 parent: src_kangourou_2017_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 17
 
 *Km percorsi giovedi, 2 km in piu al giorno, totale 70*
 

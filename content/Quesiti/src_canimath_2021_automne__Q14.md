@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q14
 parent: src_canimath_2021_automne
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 14
 
 *Non-empty balanced subsets of {1,...,n} are odd in number*
 

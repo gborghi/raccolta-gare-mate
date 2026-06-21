@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q10
 parent: src_archimede_2014_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 10
 
 *Posizione del monomio x^7y^10 in una lista ordinata*
 

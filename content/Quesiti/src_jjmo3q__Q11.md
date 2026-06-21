@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q11
 parent: src_jjmo3q
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 11
 
 *Fill-in-the-blank: minimal count forcing a borrow-free subtraction*
 

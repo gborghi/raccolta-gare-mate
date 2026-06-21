@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1995
 tipo: gara
 src_id: src_inmo_1995
 competition: Indian National Mathematical Olympiad 1995
@@ -15,8 +16,6 @@ tags:
   - anno/1995
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1995
 
 Sorgente: apri PDF
 

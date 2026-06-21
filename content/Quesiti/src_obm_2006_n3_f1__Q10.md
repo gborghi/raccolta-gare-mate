@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q10
 parent: src_obm_2006_n3_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 10
 
 *Sequence of 9 reals, first 20, last 4, each term from the third on is the arithmetic mean of all previous ones; find the second term.*
 

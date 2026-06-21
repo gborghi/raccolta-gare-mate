@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q20
 parent: src_kangourou_2024_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 20
 
 *Dopo quante ore una candela e tripla dell'altra*
 

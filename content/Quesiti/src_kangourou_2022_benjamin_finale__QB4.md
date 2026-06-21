@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin finale individuale — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_finale__QB4
 parent: src_kangourou_2022_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin finale individuale — Quesito B4
 
 *Quanti ciclisti almeno hanno mentito se somma e 36*
 

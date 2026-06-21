@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2012 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2012__Q06
 parent: src_inmo_2012
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2012 — Quesito 6
 
 *Functional equation on integers: find all f values and set where f(n)≠0*
 

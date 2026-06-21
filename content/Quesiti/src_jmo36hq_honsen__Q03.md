@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo36hq_honsen__Q03
 parent: src_jmo36hq_honsen
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 3
 
 *Regular m-gon, n red and n blue vertices, no matching red/blue distance; find min m*
 

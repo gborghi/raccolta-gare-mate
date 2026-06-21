@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_a__Q15
 parent: src_cesenatico_2007_squadre_semifinale_a
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 15
 
 *Ultime 4 cifre somma prodotti sottoinsiemi di multipli di 2007*
 

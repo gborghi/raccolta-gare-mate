@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q06
 parent: src_kangourou_2022_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 6
 
 *Percorso minimo della formica sul cilindro*
 

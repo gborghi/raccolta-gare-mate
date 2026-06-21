@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q04
 parent: src_kangourou_2024_student_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 4
 
 *Perche area di quadrato a vertici interi non puo essere 27*
 

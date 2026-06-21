@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q15
 parent: src_kangourou_2019_cadet_semif
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 15
 
 *In quanti modi scegliere n con percentuale rossa intera*
 

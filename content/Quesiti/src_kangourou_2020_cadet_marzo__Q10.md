@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q10
 parent: src_kangourou_2020_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 10
 
 *Somma dei numeri nell ultima colonna della tabella 3x3*
 

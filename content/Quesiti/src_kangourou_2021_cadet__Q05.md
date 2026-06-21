@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q05
 parent: src_kangourou_2021_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 5
 
 *Risultato dell'operazione nel puzzle a tessere*
 

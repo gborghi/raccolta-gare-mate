@@ -1,11 +1,10 @@
 ---
+title: Equazioni funzionali / successioni
 tipo: topic
 concept_id: topic_funzionali
 tags:
   - graph/topic
 ---
-
-# Equazioni funzionali / successioni
 
 *topic* — **245** quesiti (italiani).
 

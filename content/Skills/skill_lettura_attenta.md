@@ -1,11 +1,10 @@
 ---
+title: Lettura attenta del testo
 tipo: skill
 concept_id: skill_lettura_attenta
 tags:
   - graph/skill
 ---
-
-# Lettura attenta del testo
 
 *skill* — **218** quesiti (italiani).
 

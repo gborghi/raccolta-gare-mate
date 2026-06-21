@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q01
 parent: src_gs_2013_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 1
 
 *Coppie di affermazioni uguali false (logica)*
 

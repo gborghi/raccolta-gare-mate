@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q12
 parent: src_cesenatico_2013_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 12
 
 *Valore p(a+b+c) con a,b,c radici del cubico*
 

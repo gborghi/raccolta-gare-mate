@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2018-19_round1__Q06
 parent: src_bmo_2018-19_round1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2018-19 — Round 1 — Quesito 6
 
 *Find highest power of 10 dividing the number of ant's closed 2018-step journeys*
 

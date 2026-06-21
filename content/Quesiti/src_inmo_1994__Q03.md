@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1994 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1994__Q03
 parent: src_inmo_1994
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1994 — Quesito 3
 
 *Among 181 perfect squares, 19 have sum divisible by 19*
 

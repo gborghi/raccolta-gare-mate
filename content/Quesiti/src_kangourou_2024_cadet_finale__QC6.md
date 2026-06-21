@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Cadet 2024 — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC6
 parent: src_kangourou_2024_cadet_finale
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou Finale Cadet 2024 — Quesito C6
 
 *Minimo numero di rette per coprire i vertici dei quadretti*
 

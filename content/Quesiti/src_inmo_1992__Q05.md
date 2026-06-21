@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_1992__Q05
 parent: src_inmo_1992
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992 — Quesito 5
 
 *Two circles; line through P meets them; midpoint of AB, midpoint of XZ coincide*
 

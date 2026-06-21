@@ -1,4 +1,5 @@
 ---
+title: IMO 2016 papers — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2016__Q05
 parent: src_imo_2016
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2016 papers — Quesito 5
 
 *Minimo k fattori da cancellare senza soluzioni reali*
 

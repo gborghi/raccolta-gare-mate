@@ -1,4 +1,5 @@
 ---
+title: IMO 1962 (IV International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imho_1962__Q02
 parent: src_imho_1962
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1962 (IV International Olympiad) — Quesito 2
 
 *Reali x con sqrt(3-x)-sqrt(x+1) > 1/2*
 

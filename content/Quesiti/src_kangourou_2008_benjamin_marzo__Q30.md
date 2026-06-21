@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q30
 parent: src_kangourou_2008_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 30
 
 *Numero di ragazzi che si spartiscono le mele*
 

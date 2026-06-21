@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q15
 parent: src_prmo_2015_a
@@ -34,8 +35,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 15
 
 *Find $xy$ given $3^x + 2^y = 985$ and $3^{2x} - 2^{2y} = 473$*
 

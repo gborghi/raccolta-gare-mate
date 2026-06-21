@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q14
 parent: src_kangourou_2022_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale — Quesito 14
 
 *Coppie interi m<n con 1/m+1/n=1/3*
 

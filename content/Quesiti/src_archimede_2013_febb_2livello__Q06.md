@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q06
 parent: src_archimede_2013_febb_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 6
 
 *Minimo di |x|+2|y| con x^2+4y^2=1*
 

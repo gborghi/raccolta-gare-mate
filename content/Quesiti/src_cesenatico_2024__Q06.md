@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2024__Q06
 parent: src_cesenatico_2024
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 6
 
 *Minimo Mn per 1/a1+a1/a2+...+a(n-1)/an con interi crescenti*
 

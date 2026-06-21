@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q14
 parent: src_kangourou_2021_student_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 14
 
 *Scarto massimo tra le due bilance con 2021 oggetti*
 

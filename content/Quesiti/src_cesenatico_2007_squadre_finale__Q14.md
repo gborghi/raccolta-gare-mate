@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q14
 parent: src_cesenatico_2007_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 14
 
 *Area parallelogramma formato dalle intersezioni dei segmenti*
 

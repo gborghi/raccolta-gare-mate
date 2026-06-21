@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2019 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo17mq_honsen__Q04
 parent: src_jjmo17mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2019 — Honsen (Final) — Quesito 4
 
 *Minimum orthogonal moves in king-move Hamiltonian path on n×n grid*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q27
 parent: src_kangourou_2013_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 27
 
 *Massimo del minimo delle somme dei vicini su circonferenza*
 

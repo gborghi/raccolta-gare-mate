@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round1__Q04
 parent: src_bmo_1987-88_round1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 1 — Quesito 4
 
 *Perpendicular feet from orthocentre to angle bisectors are collinear with midpoint of BC*
 

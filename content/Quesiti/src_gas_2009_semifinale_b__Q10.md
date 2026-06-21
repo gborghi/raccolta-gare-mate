@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q10
 parent: src_gas_2009_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 10
 
 *Minimo soldati totali con 5a^4=6b^3*
 

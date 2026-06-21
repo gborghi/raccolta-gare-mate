@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Mumbai
 tipo: gara
 src_id: src_rmo_2014_mumbai
 competition: Regional Mathematical Olympiad 2014 — Mumbai
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/mumbai
 ---
-
-# Regional Mathematical Olympiad 2014 — Mumbai
 
 Sorgente: apri PDF
 

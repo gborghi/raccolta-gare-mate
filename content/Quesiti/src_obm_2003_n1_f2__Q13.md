@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f2__Q13
 parent: src_obm_2003_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 13
 
 *Find all powerful numbers less than 100*
 

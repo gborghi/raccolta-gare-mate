@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q15
 parent: src_archimede_2000_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 15
 
 *Valore di f(x+1)-f(x) per funzione esponenziale 4^x*
 

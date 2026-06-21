@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Junior — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior_finale__Q04
 parent: src_kangourou_2014_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Junior — Quesito 4
 
 *Strategie vincenti nel gioco delle due pile*
 

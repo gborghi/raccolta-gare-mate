@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q20
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 20
 
 *Numero coperto dal cerchio (somme triangoli e quadrati)*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 5 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r5__Q04
 parent: src_rmo_2015_r5
@@ -34,8 +35,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 5 — Quesito 4
 
 *Find all three-digit numbers (abc)_10 with (abc)_10 = (abc)_b * (acb)_b*
 

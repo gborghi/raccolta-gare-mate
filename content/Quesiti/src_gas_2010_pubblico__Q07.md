@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_gas_2010_pubblico__Q07
 parent: src_gas_2010_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Gara del Pubblico — Quesito 7
 
 *Area triangolo date le tre mediane 25,153,160*
 

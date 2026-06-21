@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1998-99 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1998-99_round2__Q01
 parent: src_bmo_1998-99_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1998-99 — Round 2 — Quesito 1
 
 *Partition first n naturals into 2 or 3 equal-sum subsets*
 

@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1987 (28th IMO, Havana) — Quesito 4'
 tipo: quesito
 quesito_id: quesito_src_imo_1987__Q04
 parent: src_imo_1987
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1987 (28th IMO, Havana) — Quesito 4
 
 *No function on naturals with f(f(n))=n+1987*
 

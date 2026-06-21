@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n3_f1__Q01
 parent: src_obm_2002_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 1
 
 *Reading a bar chart of monthly billing of companies A and B in the second half of 2001*
 

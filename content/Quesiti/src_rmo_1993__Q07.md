@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1993 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_1993__Q07
 parent: src_rmo_1993
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1993 — Quesito 7
 
 *Ages of 10 persons from 9-element subset sums*
 

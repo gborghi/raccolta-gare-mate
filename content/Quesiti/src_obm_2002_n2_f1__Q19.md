@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f1__Q19
 parent: src_obm_2002_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 19
 
 *Count occurrences of digit 5 in all integers from 100 to 999*
 

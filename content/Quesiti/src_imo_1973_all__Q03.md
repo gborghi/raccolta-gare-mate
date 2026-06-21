@@ -1,4 +1,5 @@
 ---
+title: IMO 1973 (Fifteenth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1973_all__Q03
 parent: src_imo_1973_all
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1973 (Fifteenth International Olympiad) — Quesito 3
 
 *Minimize a^2+b^2 for quartic with a real root*
 

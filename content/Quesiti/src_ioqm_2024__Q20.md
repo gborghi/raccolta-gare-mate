@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q20
 parent: src_ioqm_2024
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 20
 
 *Minimum steps to reach 121 from 11 via multiply by 2 or subtract 3*
 

@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1991 — Matematica — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cgen_1991__Q04
 parent: src_cgen_1991
@@ -32,8 +33,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1991 — Matematica — Quesito 4
 
 *Max subset of {1,...,2^p} with no element double another*
 

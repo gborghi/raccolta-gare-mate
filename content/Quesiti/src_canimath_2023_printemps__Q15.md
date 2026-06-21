@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q15
 parent: src_canimath_2023_printemps
@@ -38,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 15
 
 *For a fixed integer n>=2, a positive integer S is 'special' if for every k and every ordered decomposition of n into k positive parts n_1<=...<=n_k there exist integers 0<=a_1<a_2<...<a_k with sum a_i n_i = S; show n^2-2n is not special and find all special numbers.*
 

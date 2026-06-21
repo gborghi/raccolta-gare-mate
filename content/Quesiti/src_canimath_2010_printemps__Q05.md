@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2010 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2010_printemps__Q05
 parent: src_canimath_2010_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2010 — Quesito 5
 
 *sqrt(n) has its first k decimals all equal to v; bound sqrt(n) below by 10^k/2 and 10^k/144*
 

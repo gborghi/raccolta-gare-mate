@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q01
 parent: src_selection_camp_2018
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 1
 
 *Convex pentagon with equal sides and angles, perpendicular from E to BC meets AC and BD at one point*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q18
 parent: src_kangourou_2017_preecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 18
 
 *Quante mucche per raddoppiare il rapporto animali*
 

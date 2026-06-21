@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r1__Q05
 parent: src_rmo_2013_r1
@@ -31,8 +32,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 1 — Quesito 5
 
 *Triangle with angle A=90 and point D,E on BC; prove angle DAE=45*
 

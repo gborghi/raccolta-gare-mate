@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2023__Q05
 parent: src_selection_camp_2023
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2023 — Selection Camp — Quesito 5
 
 *Find rationals q realized by f(x+f(y))=f(x)+f(y) with f(z)=qz*
 

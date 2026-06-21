@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_triennio__Q10
 parent: src_archimede_2019_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Triennio (T1) — Quesito 10
 
 *Misura DA in quadrilatero ciclico con angolo retto*
 

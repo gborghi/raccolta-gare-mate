@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_2livello__Q17
 parent: src_archimede_2020_2livello
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2020 - 2° livello — Quesito 17
 
 *Triangolo scaleno, cerchi, simmetrico, allineamenti*
 

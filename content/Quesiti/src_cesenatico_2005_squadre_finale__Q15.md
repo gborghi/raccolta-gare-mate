@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q15
 parent: src_cesenatico_2005_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 15
 
 *Calcolo 3F3+4F4+... per poliedro con 2005 spigoli*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q10
 parent: src_archimede_2015_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 10
 
 *Somma dei cinque piu piccoli divisori di 40! oltre 40*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q07
 parent: src_kangourou_2006_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 7
 
 *Minimo valore della differenza con cifre da inserire*
 

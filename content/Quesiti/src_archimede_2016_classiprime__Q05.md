@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q05
 parent: src_archimede_2016_classiprime
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 5
 
 *morso vincente da 27cm*
 

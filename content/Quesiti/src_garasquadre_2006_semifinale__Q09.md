@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q09
 parent: src_garasquadre_2006_semifinale
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 9
 
 *volte lancetta secondi sorpassa minuti*
 

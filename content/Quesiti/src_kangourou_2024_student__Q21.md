@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q21
 parent: src_kangourou_2024_student
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 21
 
 *Minimo risultato con operazioni su carte a due facce*
 

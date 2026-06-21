@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2008 (biennio/triennio)
 tipo: gara
 src_id: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2008 (biennio/triennio)
 
 Sorgente: `Archimede/individuale/2livello/2008/febb08.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q07
 parent: src_kangourou_2015_marzo_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 7
 
 *Vista dall'alto di una torre a base rotonda*
 

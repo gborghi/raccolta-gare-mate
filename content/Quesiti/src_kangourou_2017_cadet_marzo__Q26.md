@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q26
 parent: src_kangourou_2017_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 26
 
 *Cubetti non usati nel cubo con 9 tunnel*
 

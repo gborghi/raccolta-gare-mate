@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student (20 marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student__Q26
 parent: src_kangourou_2003_student
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Student (20 marzo) — Quesito 26
 
 *Termine a_2003 della successione periodica*
 

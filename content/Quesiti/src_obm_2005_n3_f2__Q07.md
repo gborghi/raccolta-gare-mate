@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f2__Q07
 parent: src_obm_2005_n3_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 7
 
 *Cross-section of right prism with equilateral triangle base cut by plane*
 

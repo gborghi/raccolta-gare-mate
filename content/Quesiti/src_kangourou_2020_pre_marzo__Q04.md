@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q04
 parent: src_kangourou_2020_pre_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 4
 
 *Prossimi due pupazzi nello schema periodico*
 

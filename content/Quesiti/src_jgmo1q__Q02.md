@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2026 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jgmo1q__Q02
 parent: src_jgmo1q
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2026 — Quesito 2
 
 *Sequences of positive integers whose cumulative averages permute all positive integers*
 

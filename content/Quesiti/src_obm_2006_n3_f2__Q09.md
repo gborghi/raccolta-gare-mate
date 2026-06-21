@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f2__Q09
 parent: src_obm_2006_n3_f2
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 9
 
 *Fibonacci sequence: find all positive integer pairs (m,n) with F_m·F_n=mn*
 

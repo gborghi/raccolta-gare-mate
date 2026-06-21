@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q24
 parent: src_kangourou_2024_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 24
 
 *Come colorare la faccia bianca dello sviluppo del cubo*
 

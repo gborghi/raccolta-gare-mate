@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2018__Q06
 parent: src_cesenatico_2018
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 6
 
 *punti conciclici e intersezione su Omega*
 

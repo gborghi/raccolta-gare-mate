@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n1_f2__Q06
 parent: src_obm_1998_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2 — Quesito 6
 
 *Wooden cube 10 cm painted, cut into 1 cm³ cubes: count by painted faces*
 

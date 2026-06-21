@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale
 tipo: gara
 src_id: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2007/Finale.pdf` · apri PDF
 

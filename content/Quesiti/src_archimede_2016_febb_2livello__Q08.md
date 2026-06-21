@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q08
 parent: src_archimede_2016_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2016 - 2 livello — Quesito 8
 
 *Lunghezza HN con piede altezza, medio di BC e medio di AM*
 

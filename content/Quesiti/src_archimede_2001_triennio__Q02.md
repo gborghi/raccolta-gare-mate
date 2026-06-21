@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q02
 parent: src_archimede_2001_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 2
 
 *Numero di frazioni ridotte a/b in dato intervallo*
 

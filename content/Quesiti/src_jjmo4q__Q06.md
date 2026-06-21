@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q06
 parent: src_jjmo4q
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 6
 
 *Volume of cube formed by joining centroids of adjacent faces of a regular octahedron*
 

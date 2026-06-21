@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q13
 parent: src_kangourou_2019_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 13
 
 *Massima somma spigoli parallelepipedo con volume ottaedro 150*
 

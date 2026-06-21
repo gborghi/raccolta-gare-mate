@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q02
 parent: src_kangourou_squadre_2009_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 2
 
 *Numero poligoni di un circuito chiuso pentagoni-quadrati*
 

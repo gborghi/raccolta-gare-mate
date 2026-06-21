@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2021_nu_fx__Q04
 parent: src_obm_2021_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x — Quesito 4
 
 *For n>1 let k(n) be the max perfect-power exponent; find limit of Cesaro mean*
 

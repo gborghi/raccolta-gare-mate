@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q03
 parent: src_archimede_2024_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 3
 
 *Coppie (m,n) intere che risolvono n^2+2024n+2024m=2024*
 

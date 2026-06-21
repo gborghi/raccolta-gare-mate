@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2008_nu_f1__Q06
 parent: src_obm_2008_nu_f1
@@ -35,8 +38,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 — Quesito 6
 
 *Compute limit of P_n P_{n+1}/n for a trigonometric sum sequence*
 

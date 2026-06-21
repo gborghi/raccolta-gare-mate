@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q10
 parent: src_archimede_2003_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 10
 
 *Numero minimo per ottenere un valore con cifre, base 10*
 

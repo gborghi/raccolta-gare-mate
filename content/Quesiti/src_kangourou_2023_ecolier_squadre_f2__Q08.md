@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q08
 parent: src_kangourou_2023_ecolier_squadre_f2
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 8
 
 *Peso serbatoio vuoto data turbina e consumo*
 

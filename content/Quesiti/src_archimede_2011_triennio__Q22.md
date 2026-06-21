@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q22
 parent: src_archimede_2011_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 22
 
 *Rapporto b/a da piegatura del quadrato*
 

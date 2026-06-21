@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q03
 parent: src_cesenatico_2013_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 3
 
 *Rimbalzi palla in stanza che raddoppia*
 

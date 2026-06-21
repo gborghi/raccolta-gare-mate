@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo17mq_honsen__Q01
 parent: src_jmo17mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 1
 
 *Winning strategy in a number-calling game up to n*
 

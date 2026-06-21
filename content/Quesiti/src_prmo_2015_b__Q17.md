@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q17
 parent: src_prmo_2015_b
@@ -31,8 +32,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 17
 
 *Expression P with a+b+c=0; find P*
 

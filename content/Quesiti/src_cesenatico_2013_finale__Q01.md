@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_finale__Q01
 parent: src_cesenatico_2013_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 1
 
 *Somma 10 aree di intersezioni triangoli (p+q)*
 

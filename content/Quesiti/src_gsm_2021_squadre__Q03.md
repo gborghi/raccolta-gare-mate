@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q03
 parent: src_gsm_2021_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 3
 
 *Probabilita di arrivare in vetta con biforcazioni*
 

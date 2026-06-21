@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q11
 parent: src_kangourou_2009_squadre_semifinale
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 11
 
 *Cippi con due e non piu di due cifre diverse*
 

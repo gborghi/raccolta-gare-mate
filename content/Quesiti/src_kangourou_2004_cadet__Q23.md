@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet__Q23
 parent: src_kangourou_2004_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo) — Quesito 23
 
 *Quale non puo essere totale pagine (48/52)*
 

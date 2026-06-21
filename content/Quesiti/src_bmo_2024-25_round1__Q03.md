@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2024-25 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2024-25_round1__Q03
 parent: src_bmo_2024-25_round1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2024-25 — Round 1 — Quesito 3
 
 *Game replacing n by |a-b| starting at 10^6*
 

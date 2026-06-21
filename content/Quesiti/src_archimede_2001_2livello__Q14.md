@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q14
 parent: src_archimede_2001_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 14
 
 *Lanci minimi di un dado per somma ≥48 con prob >50%*
 

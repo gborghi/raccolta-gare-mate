@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo21hq_honsen__Q03
 parent: src_jjmo21hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 3
 
 *Find max guaranteed total B can achieve in n×n grid game*
 

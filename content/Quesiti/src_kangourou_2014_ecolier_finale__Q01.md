@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Ecolier — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier_finale__Q01
 parent: src_kangourou_2014_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Ecolier — Quesito 1
 
 *Capre da comprare perché siano metà degli animali*
 

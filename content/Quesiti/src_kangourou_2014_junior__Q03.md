@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q03
 parent: src_kangourou_2014_junior
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 3
 
 *Quale disuguaglianza tra le lunghezze dei fili e corretta*
 

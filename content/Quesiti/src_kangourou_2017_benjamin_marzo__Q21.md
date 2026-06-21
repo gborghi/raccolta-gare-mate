@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q21
 parent: src_kangourou_2017_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 21
 
 *Solido costruibile con 9 barrette 2 grigi 1 bianco*
 

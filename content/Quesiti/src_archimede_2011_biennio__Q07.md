@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_biennio__Q07
 parent: src_archimede_2011_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Biennio — Quesito 7
 
 *Minimo numero primi con 60 e 68 abbinamenti pasti*
 

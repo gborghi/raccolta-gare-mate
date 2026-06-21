@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q14
 parent: src_obm_2009_n2_f1
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 14
 
 *Point P on CD; shaded region 1/3 of rectangle; find PC*
 

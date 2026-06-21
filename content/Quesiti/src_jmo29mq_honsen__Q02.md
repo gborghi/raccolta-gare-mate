@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo29mq_honsen__Q02
 parent: src_jmo29mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 2
 
 *Grid-writing game maximizing row/column multiple-of-n score*
 

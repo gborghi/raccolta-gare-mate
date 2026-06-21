@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q06
 parent: src_jjmo2q
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 6
 
 *Magic spells transform strawberries and bananas to target counts*
 

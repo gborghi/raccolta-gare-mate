@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q03
 parent: src_kangourou_2022_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 3
 
 *Cifra delle unita del prodotto finale 2021-2029*
 

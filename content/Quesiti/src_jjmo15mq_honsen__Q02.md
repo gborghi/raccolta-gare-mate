@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo15mq_honsen__Q02
 parent: src_jjmo15mq_honsen
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 2
 
 *Integers on blackboard closed under pairwise sums; find max value expressible as sum of two*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1968 (Tenth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1968_all__Q06
 parent: src_imo_1968_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1968 (Tenth International Olympiad) — Quesito 6
 
 *Evaluate infinite sum of floor((n+2^k)/2^(k+1))*
 

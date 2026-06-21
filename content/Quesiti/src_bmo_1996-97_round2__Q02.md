@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1996-97 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1996-97_round2__Q02
 parent: src_bmo_1996-97_round2
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1996-97 — Round 2 — Quesito 2
 
 *Triangle with equal median and altitude is equilateral*
 

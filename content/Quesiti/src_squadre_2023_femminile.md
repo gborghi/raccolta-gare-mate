@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale
 tipo: gara
 src_id: src_squadre_2023_femminile
 competition: Gara a Squadre Femminile 2023 - VI Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale
 
 Sorgente: `Archimede/squadre/nazionale/2023/gas2023ITA.pdf` · apri PDF
 

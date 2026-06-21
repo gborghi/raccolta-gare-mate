@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q05
 parent: src_prmo_2013
@@ -32,8 +33,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 5
 
 *Find n given 299 ways to pick two different-colour balls from bag*
 

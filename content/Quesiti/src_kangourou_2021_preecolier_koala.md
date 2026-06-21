@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier)
 tipo: gara
 src_id: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier)
 
 Sorgente: `Kangaroo/kangourou_individuali/2021/Koala2021REL.pdf` · apri PDF
 

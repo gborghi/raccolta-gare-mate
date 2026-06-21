@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q12
 parent: src_kangourou_2017_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 12
 
 *Somma naturali con resto uguale al quoziente diviso 6*
 

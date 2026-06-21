@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2 —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2003_nu_f2__Q03
 parent: src_obm_2003_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2 — Quesito 3
 
 *Count matrices of order 4 over Z/(p) whose square is the identity*
 

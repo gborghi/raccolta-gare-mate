@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f1__Q03
 parent: src_obm_2011_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 3
 
 *Smallest possible sum of hidden faces of three stacked numbered cubes*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q23
 parent: src_kangourou_2011_student
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 23
 
 *Valore di f2011(2011) nella successione di funzioni*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo15mq_honsen__Q01
 parent: src_jjmo15mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 1
 
 *People on circular chairs each move at most 1 step; maximize total steps*
 

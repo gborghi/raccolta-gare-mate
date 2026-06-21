@@ -1,4 +1,7 @@
 ---
+title: >-
+  Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito
+  11
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q11
 parent: src_kangourou_squadre_2010_semifinale
@@ -26,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 11
 
 *Somma interi non esprimibili come somma di 5 e 7*
 

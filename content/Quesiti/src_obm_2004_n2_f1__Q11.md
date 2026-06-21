@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f1__Q11
 parent: src_obm_2004_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 11
 
 *Value of x^2+6xy+y^2 given x+y=8 and xy=15*
 

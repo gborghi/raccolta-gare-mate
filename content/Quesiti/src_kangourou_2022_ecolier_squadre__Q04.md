@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q04
 parent: src_kangourou_2022_ecolier_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 4
 
 *Numero 4 cifre che sposta prima cifra in coda*
 

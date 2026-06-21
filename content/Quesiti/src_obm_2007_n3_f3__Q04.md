@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f3__Q04
 parent: src_obm_2007_n3_f3
@@ -39,8 +40,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 4
 
 *Game on a 2007x2007 board: Arnaldo removes 2x2 blocks, Bernaldo removes single squares; can Bernaldo always win?*
 

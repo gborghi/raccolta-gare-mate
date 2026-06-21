@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q02
 parent: src_kangourou_2021_student_gara
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 2
 
 *Quanti interi tra 20-radq21 e 20+radq21*
 

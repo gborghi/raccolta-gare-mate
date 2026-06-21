@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q05
 parent: src_kangourou_2021_student_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 5
 
 *esiti diversi*
 

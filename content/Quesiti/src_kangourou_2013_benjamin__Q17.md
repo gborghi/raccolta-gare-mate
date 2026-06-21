@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q17
 parent: src_kangourou_2013_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 17
 
 *Coppie di numeri di due cifre con differenza 50*
 

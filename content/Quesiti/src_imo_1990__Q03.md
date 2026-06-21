@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1990 (31st IMO, Beijing) — Quesito 3'
 tipo: quesito
 quesito_id: quesito_src_imo_1990__Q03
 parent: src_imo_1990
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1990 (31st IMO, Beijing) — Quesito 3
 
 *Determine all n>1 with n^2 dividing 2^n+1*
 

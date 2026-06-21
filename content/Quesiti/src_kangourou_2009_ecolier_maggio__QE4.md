@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_ecolier_maggio__QE4
 parent: src_kangourou_2009_ecolier_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E4
 
 *Pesi delle etichette ancora da preparare*
 

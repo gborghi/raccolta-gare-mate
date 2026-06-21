@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_online__Q04
 parent: src_archimede_2021_biennio_online
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 4
 
 *Quanti numeri secondi tra 20 e 60*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo10yq_yosen__Q08
 parent: src_jjmo10yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 8
 
 *Count integers less than 10^6 divisible by 3 written on blackboard once each*
 

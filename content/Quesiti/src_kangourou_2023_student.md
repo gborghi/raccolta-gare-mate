@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023
 tipo: gara
 src_id: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023
 
 Sorgente: `Kangaroo/kangourou_individuali/2023/Student2023REL.pdf` · apri PDF
 

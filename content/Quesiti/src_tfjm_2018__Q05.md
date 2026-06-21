@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_tfjm_2018__Q05
 parent: src_tfjm_2018
@@ -40,8 +41,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 5
 
 *A chain of n unit links with the oriented angle at each joint constrained to an interval depending on alpha; describe and compute the area of the set of points reachable by the free end, with variants fixing A_1 and using angles near pi/2.*
 

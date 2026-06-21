@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q14
 parent: src_kangourou_2019_cadet_semif
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 14
 
 *Massimo pedine sul 21-agono con distanze tutte diverse*
 

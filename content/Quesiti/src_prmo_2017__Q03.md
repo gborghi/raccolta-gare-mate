@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q03
 parent: src_prmo_2017
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 3
 
 *Days team B works alone to finish job after A starts, B joins, then A withdraws*
 

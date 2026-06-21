@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1988 (29th IMO, Canberra) — Quesito 3'
 tipo: quesito
 quesito_id: quesito_src_imo_1988__Q03
 parent: src_imo_1988
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1988 (29th IMO, Canberra) — Quesito 3
 
 *Count n<=1988 with recursively-defined f(n)=n*
 

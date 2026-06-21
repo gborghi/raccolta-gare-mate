@@ -1,4 +1,5 @@
 ---
+title: IMO 2024 papers — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2024__Q06
 parent: src_imo_2024
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 2024 papers — Quesito 6
 
 *Funzioni aquaesuliane, minimo c valori f(r)+f(-r)*
 

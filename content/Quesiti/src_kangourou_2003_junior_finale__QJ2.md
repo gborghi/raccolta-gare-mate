@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior finale nazionale — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior_finale__QJ2
 parent: src_kangourou_2003_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior finale nazionale — Quesito J2
 
 *Minima differenza tra numeri detti contemporaneamente*
 

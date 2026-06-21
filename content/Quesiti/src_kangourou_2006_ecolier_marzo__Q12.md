@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q12
 parent: src_kangourou_2006_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 12
 
 *Minuti per mangiare 78 noccioline (somma 1..n)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin_finale__QB3
 parent: src_kangourou_2003_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B3
 
 *Lunghezza del rettangolo magico*
 

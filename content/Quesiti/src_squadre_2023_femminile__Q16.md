@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_femminile__Q16
 parent: src_squadre_2023_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale — Quesito 16
 
 *Probabilita non viste tutte le facce dado a 4 al sesto lancio*
 

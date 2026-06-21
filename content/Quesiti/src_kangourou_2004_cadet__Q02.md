@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet__Q02
 parent: src_kangourou_2004_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo) — Quesito 2
 
 *Angolo di rotazione del triangolo equilatero*
 

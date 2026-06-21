@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f3__Q06
 parent: src_obm_2014_n2_f3
@@ -40,8 +41,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 6
 
 *A 2m x 2n board with an integer in each cell; the move picks three cells forming an L-tromino and adds 1 to each. Find the necessary and sufficient condition, in terms of m, n and the initial numbers, to make all numbers equal.*
 

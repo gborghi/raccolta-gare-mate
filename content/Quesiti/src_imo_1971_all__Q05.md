@@ -1,4 +1,5 @@
 ---
+title: IMO 1971 (Thirteenth International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1971_all__Q05
 parent: src_imo_1971_all
@@ -21,8 +22,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1971 (Thirteenth International Olympiad) — Quesito 5
 
 *Point set where every point has m points at unit distance*
 

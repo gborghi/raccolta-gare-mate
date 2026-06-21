@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q23
 parent: src_kangourou_2022_junior_gara
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 23
 
 *Quanti erano i pirati dato il bottino*
 

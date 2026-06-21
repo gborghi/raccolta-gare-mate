@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2015 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_automne__Q07
 parent: src_canimath_2015_automne
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2015 — Quesito 7
 
 *Each side of a unit square is divided into 3 equal parts; lines drawn from the division points create a grey polygon; find its area.*
 

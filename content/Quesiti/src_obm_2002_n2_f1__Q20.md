@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f1__Q20
 parent: src_obm_2002_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 20
 
 *Given xy=2 and x²+y²+x²y²=5, find x²/y²+2+y²/x²*
 

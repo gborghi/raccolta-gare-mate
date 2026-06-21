@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1990 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_1990__Q02
 parent: src_cgen_1990
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1990 — Matematica — Quesito 2
 
 *Max pieces of painted regular tetrahedra with no two identical*
 

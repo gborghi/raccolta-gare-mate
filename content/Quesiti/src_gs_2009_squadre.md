@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre
 tipo: gara
 src_id: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre
 
 Sorgente: `Archimede/squadre/locale/soluzioni/GS_2009_soluzioni.pdf` · apri PDF
 

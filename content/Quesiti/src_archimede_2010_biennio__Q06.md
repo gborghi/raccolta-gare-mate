@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q06
 parent: src_archimede_2010_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 6
 
 *Affermazione vera su tre numeri con somme coppie non negative*
 

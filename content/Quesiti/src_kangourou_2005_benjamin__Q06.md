@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q06
 parent: src_kangourou_2005_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 6
 
 *Calcolo del 2005% di 200*
 

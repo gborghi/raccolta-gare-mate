@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo31hq_honsen__Q05
 parent: src_jmo31hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 5
 
 *2n×2n grid white/black coloring; bound number of 2×2 all-black squares by 2n−1*
 

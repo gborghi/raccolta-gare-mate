@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q15
 parent: src_cesenatico_2004_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 15
 
 *Piu grande numero non esprimibile con monete palindrome (Frobenius)*
 

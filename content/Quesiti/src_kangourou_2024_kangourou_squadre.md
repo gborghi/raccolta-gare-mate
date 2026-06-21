@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Kangourou Finale 1
 tipo: gara
 src_id: src_kangourou_2024_kangourou_squadre
 competition: Kangourou Squadre 2024 Kangourou Finale 1
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Kangourou Finale 1
 
 Sorgente: `Kangaroo/kangourou_squadre/2024/SQKangourou2024F1.pdf` · apri PDF
 

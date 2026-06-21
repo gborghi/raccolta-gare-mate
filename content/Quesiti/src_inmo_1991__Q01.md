@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_1991__Q01
 parent: src_inmo_1991
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991 — Quesito 1
 
 *Count positive integers n with n<=1991 and n^2+3n+2 divisible by 6*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2017-18_round1__Q03
 parent: src_bmo_2017-18_round1
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2017-18 — Round 1 — Quesito 3
 
 *Line MN bisects both area and perimeter of isosceles triangle ABC*
 

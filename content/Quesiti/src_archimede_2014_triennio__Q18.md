@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_triennio__Q18
 parent: src_archimede_2014_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 18
 
 *Spigoli di un poliedro da conteggio delle facce*
 

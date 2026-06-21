@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior (20 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior__Q18
 parent: src_kangourou_2003_junior
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior (20 marzo) — Quesito 18
 
 *Somma di tutti i numeri da cifre di 2003*
 

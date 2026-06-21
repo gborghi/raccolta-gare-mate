@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q05
 parent: src_cesenatico_2007_squadre_pubblico
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 5
 
 *Piu piccolo b con (mnmn)_b cubo perfetto, risposta b+m+n*
 

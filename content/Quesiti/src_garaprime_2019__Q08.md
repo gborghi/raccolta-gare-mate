@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q08
 parent: src_garaprime_2019
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 8
 
 *Quali tra a,b,c sono cubi perfetti*
 

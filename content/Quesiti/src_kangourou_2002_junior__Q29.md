@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Junior (21 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_junior__Q29
 parent: src_kangourou_2002_junior
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2002 - Junior (21 marzo) — Quesito 29
 
 *Somma di n*2^n da 2 a 10*
 

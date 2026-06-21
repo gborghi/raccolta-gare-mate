@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f3__Q05
 parent: src_obm_2007_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3 — Quesito 5
 
 *Acute triangle with AB/√2 = BH = OB: find all angles*
 

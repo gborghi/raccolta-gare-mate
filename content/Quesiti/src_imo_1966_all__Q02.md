@@ -1,4 +1,5 @@
 ---
+title: IMO 1966 (Eighth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1966_all__Q02
 parent: src_imo_1966_all
@@ -25,8 +26,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# IMO 1966 (Eighth International Olympiad) — Quesito 2
 
 *Prove triangle isosceles from given tangent relation*
 

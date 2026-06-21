@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1984-85 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1984-85_round2__Q01
 parent: src_bmo_1984-85_round2
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1984-85 — Round 2 — Quesito 1
 
 *Tangent lines to circle from midpoints of chord AB*
 

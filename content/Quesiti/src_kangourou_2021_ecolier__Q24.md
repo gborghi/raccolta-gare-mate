@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - gara marzo — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier__Q24
 parent: src_kangourou_2021_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - gara marzo — Quesito 24
 
 *Formine da mettere per l'equilibrio della bilancia*
 

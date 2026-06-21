@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (finale Cervia) — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC3
 parent: src_kangourou_2017_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (finale Cervia) — Quesito C3
 
 *Massimo amici con terne di caramelle a gusti diversi*
 

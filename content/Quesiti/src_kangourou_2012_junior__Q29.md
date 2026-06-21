@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q29
 parent: src_kangourou_2012_junior
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 29
 
 *Minimo numero di frazioni unitarie per 28/33*
 

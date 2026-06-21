@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q07
 parent: src_jjmo2q
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 7
 
 *Arrange 8 balls of 3 colors with odd number of red*
 

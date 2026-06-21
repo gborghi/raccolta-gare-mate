@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f1__Q21
 parent: src_obm_2004_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 21
 
 *Area of highlighted region in square ABCD with two equilateral triangles*
 

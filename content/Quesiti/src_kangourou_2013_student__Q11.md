@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q11
 parent: src_kangourou_2013_student
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 11
 
 *Di quanti pentagoni e fatto l'anello*
 

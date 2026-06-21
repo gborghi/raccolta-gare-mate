@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q13
 parent: src_kangourou_2020_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 13
 
 *Massimo bigliettini distinti (5 quadrati 4 colori rotazione)*
 

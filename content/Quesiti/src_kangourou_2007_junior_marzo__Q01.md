@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q01
 parent: src_kangourou_2007_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 1
 
 *Probabilita prodotto facce visibili divisibile per 6*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q12
 parent: src_prmo_2012
@@ -28,8 +29,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 12
 
 *Find m+n given nested radical equals sqrt(m) - sqrt(n)*
 

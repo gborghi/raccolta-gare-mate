@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f2__Q08
 parent: src_obm_2011_n3_f2
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 8
 
 *Integer-coeff polynomial: P(x)=2011 has roots 1 and t, P(x)=0 has an integer root; find all t*
 

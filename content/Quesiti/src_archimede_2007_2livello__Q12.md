@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q12
 parent: src_archimede_2007_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 12
 
 *Massimo numeri primi tra 20 interi consecutivi >50*
 

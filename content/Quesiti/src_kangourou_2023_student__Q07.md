@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q07
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 7
 
 *Perimetro esagono formato da due triangoli equilateri sovrapposti*
 

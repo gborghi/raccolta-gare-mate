@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2023 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_automne__Q04
 parent: src_canimath_2023_automne
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2023 — Quesito 4
 
 *20 dwarves around a round table; neighbouring nugget counts differ by 2 or 3 and all are distinct; find the greatest possible spread*
 

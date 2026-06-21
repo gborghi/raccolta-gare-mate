@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q14
 parent: src_kangourou_2024_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 14
 
 *Superficie del solido a L centralmente simmetrico*
 

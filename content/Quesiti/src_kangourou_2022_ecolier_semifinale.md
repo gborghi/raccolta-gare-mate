@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier semifinale individuale
 tipo: gara
 src_id: src_kangourou_2022_ecolier_semifinale
 competition: Kangourou 2022 Ecolier semifinale individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier semifinale individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2022/Ecolier2022RSE.pdf` · apri PDF
 

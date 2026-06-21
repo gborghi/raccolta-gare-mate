@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f2__Q06
 parent: src_obm_2015_n3_f2
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 6
 
 *System 1/(ab)=b+2c, 1/(bc)=2c+3a, 1/(ca)=3a+b; (a+b+c)^3=p/q, find p+q*
 

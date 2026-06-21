@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q17
 parent: src_kangourou_2014_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 17
 
 *Coppie (x,y) con x divide y+1 e y divide x+1*
 

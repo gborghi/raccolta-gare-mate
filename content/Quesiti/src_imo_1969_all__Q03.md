@@ -1,4 +1,5 @@
 ---
+title: IMO 1969 (Eleventh International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1969_all__Q03
 parent: src_imo_1969_all
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1969 (Eleventh International Olympiad) — Quesito 3
 
 *Conditions on a for tetrahedron with k edges length a*
 

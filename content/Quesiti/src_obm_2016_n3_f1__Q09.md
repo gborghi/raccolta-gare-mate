@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q09
 parent: src_obm_2016_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 9
 
 *Counting sequences of 9 pearls (two colors) with respect to having equivalent sequences*
 

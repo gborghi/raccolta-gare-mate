@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n1_f1__Q01
 parent: src_obm_2006_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 1
 
 *Ping-pong balls tank: time to reach 2000 balls*
 

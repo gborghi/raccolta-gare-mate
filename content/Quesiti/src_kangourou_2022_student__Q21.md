@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Gara 17 marzo — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student__Q21
 parent: src_kangourou_2022_student
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Gara 17 marzo — Quesito 21
 
 *prob Martina non in finale*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q12
 parent: src_kangourou_2023_junior
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 12
 
 *ridotto durata e portata di 1/4, riduzione consumo*
 

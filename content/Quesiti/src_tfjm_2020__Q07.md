@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_tfjm_2020__Q07
 parent: src_tfjm_2020
@@ -36,8 +37,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 7
 
 *Moving objects in Chambord forest of integer-lattice trees via translations and rotations*
 

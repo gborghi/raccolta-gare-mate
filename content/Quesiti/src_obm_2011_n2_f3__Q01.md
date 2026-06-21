@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f3__Q01
 parent: src_obm_2011_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3 — Quesito 1
 
 *Magic-sum 3x3 grid with multiples of 3*
 

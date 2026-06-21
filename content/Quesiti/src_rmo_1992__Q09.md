@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_rmo_1992__Q09
 parent: src_rmo_1992
@@ -33,8 +34,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992 — Quesito 9
 
 *Cyclic octagon ABCDEFGH with alternating sides a,a,a,a,b,b,b,b; find circumradius in terms of a and b.*
 

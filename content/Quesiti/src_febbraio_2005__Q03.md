@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q03
 parent: src_febbraio_2005
@@ -20,8 +21,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 3
 
 *Tre interi a,b,c misure dei lati di un triangolo non degenere*
 

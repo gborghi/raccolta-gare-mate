@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r3__Q03
 parent: src_rmo_2014_r3
@@ -32,8 +33,6 @@ tags:
   - regione/r3
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 3 — Quesito 3
 
 *No positive integer n<2310 with 2310 | n(2310-n)*
 

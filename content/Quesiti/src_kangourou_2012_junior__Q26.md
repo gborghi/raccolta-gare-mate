@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q26
 parent: src_kangourou_2012_junior
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 26
 
 *Cosa concludere su a e b dalle condizioni*
 

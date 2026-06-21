@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f1__Q15
 parent: src_obm_2011_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 15
 
 *Largest subset of {1..20} with no element double of another*
 

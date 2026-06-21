@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f1__Q22
 parent: src_obm_2015_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 22
 
 *Min obtuse angles among all triangles formed by 5 non-collinear points*
 

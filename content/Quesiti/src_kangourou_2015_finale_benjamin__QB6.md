@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Benjamin — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_benjamin__QB6
 parent: src_kangourou_2015_finale_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Benjamin — Quesito B6
 
 *Modi di realizzare N+1 kang > modi per N kang*
 

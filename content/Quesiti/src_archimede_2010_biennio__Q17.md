@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q17
 parent: src_archimede_2010_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 17
 
 *Area triangolo DEF in triangolo equilatero con perpendicolare*
 

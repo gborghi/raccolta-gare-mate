@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f2__Q09
 parent: src_obm_2016_n2_f2
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 9
 
 *Real solutions of iterated quadratic p(p(x))=x^2 and p(p(x))=p(x)*
 

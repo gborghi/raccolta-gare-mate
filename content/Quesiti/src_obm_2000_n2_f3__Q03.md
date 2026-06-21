@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f3__Q03
 parent: src_obm_2000_n2_f3
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 3
 
 *Paper-folding trisection of an angle; prove lines AA' and AB' divide angle alpha into three equal parts.*
 

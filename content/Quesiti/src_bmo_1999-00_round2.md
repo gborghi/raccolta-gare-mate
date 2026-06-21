@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1999-00 — Round 2
 tipo: gara
 src_id: src_bmo_1999-00_round2
 competition: British Mathematical Olympiad 1999-00 — Round 2
@@ -15,8 +16,6 @@ tags:
   - anno/2000
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1999-00 — Round 2
 
 Sorgente: apri PDF
 

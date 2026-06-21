@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo19mq_honsen__Q03
 parent: src_jmo19mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 3
 
 *Find all triples (n1,n2,n3) of positive integers with b1*b2=b3*
 

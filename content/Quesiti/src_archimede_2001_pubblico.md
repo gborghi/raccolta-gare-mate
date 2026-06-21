@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara del Pubblico (Cesenatico)
 tipo: gara
 src_id: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -15,8 +16,6 @@ tags:
   - anno/2001
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara del Pubblico (Cesenatico)
 
 Sorgente: `Archimede/individuale/nazionale/2001/GaraPubblico.pdf` · apri PDF
 

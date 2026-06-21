@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo8yq_yosen__Q03
 parent: src_jjmo8yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 3
 
 *Square with internal division points; find length BV*
 

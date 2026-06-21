@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q14
 parent: src_prmo_2015_b
@@ -33,8 +34,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 14
 
 *3^x+2^x=985 and 3^y-2^y=473; find xy*
 

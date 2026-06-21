@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f2__Q06
 parent: src_obm_2007_n3_f2
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 6
 
 *Find all positive-integer pairs (x,y) satisfying x^2 - xy + y^2 = 2x + 2y*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f3__Q04
 parent: src_obm_2003_n2_f3
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3 — Quesito 4
 
 *Prove $x^2+4y^2-4xy+2x-4y+2>0$ for all reals $x,y$*
 

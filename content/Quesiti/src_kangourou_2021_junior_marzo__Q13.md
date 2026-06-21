@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q13
 parent: src_kangourou_2021_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 13
 
 *Numero al posto del ? con somme uguali sulle circonferenze*
 

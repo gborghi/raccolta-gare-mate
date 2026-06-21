@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2003-04 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2003-04_round2__Q01
 parent: src_bmo_2003-04_round2
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2003-04 — Round 2 — Quesito 1
 
 *Circle tangent to side of equilateral triangle; prove length equality*
 

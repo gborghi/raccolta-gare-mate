@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q13
 parent: src_garaprime_2025
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 13
 
 *Area del parallelogramma dato il baricentro e area APO*
 

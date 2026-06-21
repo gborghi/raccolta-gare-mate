@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q11
 parent: src_archimede_2025_biennio_rec
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 11
 
 *Estrazioni minime per coppia con somma 22*
 

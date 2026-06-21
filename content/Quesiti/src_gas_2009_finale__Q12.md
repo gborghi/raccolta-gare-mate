@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q12
 parent: src_gas_2009_finale
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 12
 
 *Inseguimento con velocita a tratti, distanza al raggiungimento*
 

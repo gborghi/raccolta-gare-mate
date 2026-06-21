@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio__Q07
 parent: src_archimede_2025_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio — Quesito 7
 
 *30*
 

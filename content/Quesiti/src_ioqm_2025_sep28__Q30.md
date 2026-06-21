@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q30
 parent: src_ioqm_2025_sep28
@@ -35,8 +36,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 30
 
 *Regular dodecagon vertices coloured blue/red; no monochromatic equilateral triangle or square; find p+q*
 

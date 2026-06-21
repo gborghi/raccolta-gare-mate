@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q05
 parent: src_archimede_2014_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 5
 
 *Massimo valore ottenibile su calcolatrice con 4 tasti*
 

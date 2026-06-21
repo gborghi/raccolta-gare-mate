@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q06
 parent: src_prmo_2015_a
@@ -34,8 +35,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 6
 
 *Sum of even-digit function $E$ from 1 to 100*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q06
 parent: src_ioqm_2025_sep28
@@ -31,8 +32,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 6
 
 *Four distinct primes sum to 240, none greater than 70; find smallest*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q02
 parent: src_archimede_2021_biennio_tradizionale
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 2
 
 *Massimo valore di 3-2x dato (5-4x)(5x-4)=0*
 

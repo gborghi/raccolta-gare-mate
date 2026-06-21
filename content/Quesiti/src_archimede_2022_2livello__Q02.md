@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_2livello__Q02
 parent: src_archimede_2022_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2022 - 2° livello — Quesito 2
 
 *Somma prime 2022 cifre di 57/111*
 

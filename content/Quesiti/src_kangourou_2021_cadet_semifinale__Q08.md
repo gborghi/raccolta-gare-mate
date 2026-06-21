@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - semifinale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q08
 parent: src_kangourou_2021_cadet_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - semifinale — Quesito 8
 
 *Quante cifre 3 scrivendo 2021 come somma di cinque numeri*
 

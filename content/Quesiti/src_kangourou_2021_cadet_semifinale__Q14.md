@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - semifinale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q14
 parent: src_kangourou_2021_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - semifinale — Quesito 14
 
 *Lunghezza della striscia attorno al triangolo equilatero*
 

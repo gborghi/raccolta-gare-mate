@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q25
 parent: src_kangourou_2021_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 25
 
 *Numeri di 5 cifre con prodotto cifre 1000*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q11
 parent: src_gsm_2025_squadre
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 11
 
 *Numeri di otto cifre che generano rettangoli*
 

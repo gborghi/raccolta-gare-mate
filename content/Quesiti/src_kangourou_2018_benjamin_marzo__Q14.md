@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q14
 parent: src_kangourou_2018_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 14
 
 *Lunghezza dell’asse segata in 9 pezzi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q06
 parent: src_kangourou_2012_benjamin
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 6
 
 *Quale schema unendo i centri degli esagoni vicini*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio
 tipo: gara
 src_id: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio
 
 Sorgente: `Archimede/individuale/1livello/2009/testo-biennio2.pdf` · apri PDF
 

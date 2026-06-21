@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q07
 parent: src_kangourou_2024_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 7
 
 *Quante piastrelle grigie nasconde il poster*
 

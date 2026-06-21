@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q01
 parent: src_kangourou_2015_squadre_f
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Finale — Quesito 1
 
 *Percentuale di cui B supera A*
 

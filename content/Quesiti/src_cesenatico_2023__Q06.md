@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2023__Q06
 parent: src_cesenatico_2023
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 6
 
 *per quali c intrappola*
 

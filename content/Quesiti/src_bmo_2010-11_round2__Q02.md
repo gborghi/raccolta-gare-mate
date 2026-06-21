@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round2__Q02
 parent: src_bmo_2010-11_round2
@@ -32,8 +33,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 2 — Quesito 2
 
 *Count positive integers n < 2011 with f(n) = f(2011)*
 

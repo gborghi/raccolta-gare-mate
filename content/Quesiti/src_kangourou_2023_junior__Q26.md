@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q26
 parent: src_kangourou_2023_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 26
 
 *quale sviluppo non possibile*
 

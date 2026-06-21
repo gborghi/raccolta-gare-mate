@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q12
 parent: src_squadre_2018_semifinalea
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 12
 
 *Anni a 4 cifre con migliaia >= somma altre cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2007 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2007__Q06
 parent: src_inmo_2007
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2007 — Quesito 6
 
 *Prove cyclic product inequality for positive reals*
 

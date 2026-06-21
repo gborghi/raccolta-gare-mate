@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q15
 parent: src_archimede_2001_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 15
 
 *Probabilita somma 13 con due dadi a dodici facce*
 

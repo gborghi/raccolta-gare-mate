@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1989 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1989__Q06
 parent: src_inmo_1989
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1989 — Quesito 6
 
 *Scalene obtuse triangle: find points on extended BC with AD=sqrt(BD·CD)*
 

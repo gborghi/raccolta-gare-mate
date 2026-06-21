@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale
 tipo: gara
 src_id: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2022/Benjamin2022REL.pdf` · apri PDF
 

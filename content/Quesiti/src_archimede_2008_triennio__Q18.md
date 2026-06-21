@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_triennio__Q18
 parent: src_archimede_2008_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Triennio — Quesito 18
 
 *Somma di tutti i numeri di due cifre distinte*
 

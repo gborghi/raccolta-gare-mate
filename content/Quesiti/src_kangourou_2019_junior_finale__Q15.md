@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q15
 parent: src_kangourou_2019_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 15
 
 *Modi di programmare gli inviti a tre feste*
 

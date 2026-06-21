@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q10
 parent: src_gsm_2025_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 10
 
 *Interi 1..2025 divisibili per 19 o contenenti 19*
 

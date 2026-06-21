@@ -1,11 +1,10 @@
 ---
+title: Invarianti / monovarianti
 tipo: method
 concept_id: method_invarianti
 tags:
   - graph/method
 ---
-
-# Invarianti / monovarianti
 
 *method* — **214** quesiti (italiani).
 

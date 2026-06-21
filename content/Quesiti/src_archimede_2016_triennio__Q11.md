@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_triennio__Q11
 parent: src_archimede_2016_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Triennio — Quesito 11
 
 *Piu grande fattore primo di 3^12-1*
 

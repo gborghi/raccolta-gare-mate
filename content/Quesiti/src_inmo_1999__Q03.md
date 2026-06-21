@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1999 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1999__Q03
 parent: src_inmo_1999
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1999 — Quesito 3
 
 *Nonconstant polynomials p(x) and q(x) with integer coefficients satisfying p(x)q(x) = x^4 + 2x + 1*
 

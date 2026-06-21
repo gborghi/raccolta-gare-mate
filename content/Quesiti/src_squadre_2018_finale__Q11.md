@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q11
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 11
 
 *Trapezio rettangolo, quadrilatero ciclico, valore a+b*
 

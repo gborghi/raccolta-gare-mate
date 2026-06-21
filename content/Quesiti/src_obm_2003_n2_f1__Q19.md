@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f1__Q19
 parent: src_obm_2003_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 19
 
 *Order X=2^300, Y=11^100, Z=5^400 from smallest to largest*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q15
 parent: src_gs_2009_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 15
 
 *Templi di Magrathea, colonne cocircolari (I)*
 

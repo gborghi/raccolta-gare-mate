@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - semifinale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q10
 parent: src_kangourou_2021_ecolier_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - semifinale — Quesito 10
 
 *Altri anni del 21 secolo con somma cifre 5*
 

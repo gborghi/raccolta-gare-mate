@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q07
 parent: src_canimath_2021_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 7
 
 *Max length of a 0/1 sequence balanced in every 200 but unbalanced in every 202*
 

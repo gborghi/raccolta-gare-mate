@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2022 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo20hq_honsen__Q03
 parent: src_jjmo20hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2022 — Honsen (Final) — Quesito 3
 
 *Max number of the six sums equal to 1*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q23
 parent: src_kangourou_2021_student_gara
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 23
 
 *Valore somma f(2)/f(1)+...+f(2021)/f(2020) con f moltiplicativa*
 

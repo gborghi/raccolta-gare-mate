@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q23
 parent: src_kangourou_2005_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 23
 
 *Numero strette di mano tra 12 studenti adiacenti*
 

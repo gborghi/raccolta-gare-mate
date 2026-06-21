@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q12
 parent: src_archimede_2000_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 12
 
 *Differenza lato tra due depositi cubici dato volume*
 

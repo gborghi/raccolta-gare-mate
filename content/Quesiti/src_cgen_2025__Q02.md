@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2025 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_2025__Q02
 parent: src_cgen_2025
@@ -39,8 +40,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2025 — Matematica — Quesito 2
 
 *Positive and bounded sequences: for the recurrence u_{n+2}=u_{n+1}^2 - alpha u_n^4 with u_0=u_1=1, determine which real alpha make all terms positive (property P) and which make the sequence bounded (property B).*
 

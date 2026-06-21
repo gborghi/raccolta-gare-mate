@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo16mq_honsen__Q05
 parent: src_jjmo16mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 5
 
 *Incircle tangent points and midpoints define lines; prove concurrence of AX, BY, CZ*
 

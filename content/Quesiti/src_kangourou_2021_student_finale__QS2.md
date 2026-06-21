@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student finale individuale — Quesito S2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_finale__QS2
 parent: src_kangourou_2021_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student finale individuale — Quesito S2
 
 *Numero massimo di travasi per ripristinare i recipienti*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1996 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_1996__Q01
 parent: src_inmo_1996
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1996 — Quesito 1
 
 *Existence and uniqueness of divisibility condition for s+j*
 

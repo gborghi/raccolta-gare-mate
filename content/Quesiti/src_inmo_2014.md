@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2014
 tipo: gara
 src_id: src_inmo_2014
 competition: Indian National Mathematical Olympiad 2014
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2014
 
 Sorgente: apri PDF
 

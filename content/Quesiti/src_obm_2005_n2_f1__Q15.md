@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q15
 parent: src_obm_2005_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 15
 
 *Locksmith welds equal S-shaped pieces (10,5,5,10 cm) using 20 m of rod; which drawing is the panel's end*
 

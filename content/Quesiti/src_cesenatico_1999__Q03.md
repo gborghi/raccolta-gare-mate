@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1999 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1999__Q03
 parent: src_cesenatico_1999
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1999 — Quesito 3
 
 *AB passa per intersezione sse r1+r2=r (cerchi tangenti)*
 

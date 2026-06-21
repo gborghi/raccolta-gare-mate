@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo8yq_yosen__Q01
 parent: src_jjmo8yq_yosen
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 1
 
 *Two-digit number stays 3 digits after multiplying by 7 twice*
 

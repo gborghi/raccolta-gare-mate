@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1995-96 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1995-96_round2__Q03
 parent: src_bmo_1995-96_round2
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1995-96 — Round 2 — Quesito 3
 
 *Two circles touching externally at A and internally a third circle; prove B1B2 is common tangent*
 

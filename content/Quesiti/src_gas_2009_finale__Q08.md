@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q08
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 8
 
 *Distanza luce per dato rapporto superfici illuminata/ombra cubo*
 

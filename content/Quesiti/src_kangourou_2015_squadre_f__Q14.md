@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q14
 parent: src_kangourou_2015_squadre_f
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Finale — Quesito 14
 
 *Quanti numeri 2015-sbilanciati di 7 cifre*
 

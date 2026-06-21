@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q17
 parent: src_kangourou_2021_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 17
 
 *Lunghezza AB con due cerchi tangenti in angolo 60 gradi*
 

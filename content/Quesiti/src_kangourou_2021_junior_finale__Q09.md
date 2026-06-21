@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q09
 parent: src_kangourou_2021_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 9
 
 *Minimo L per segmenti che coprono il triangolo*
 

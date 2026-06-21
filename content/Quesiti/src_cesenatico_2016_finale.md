@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Finale Nazionale
 tipo: gara
 src_id: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2016/Cesenatico2016_gsm.pdf` · apri PDF
 

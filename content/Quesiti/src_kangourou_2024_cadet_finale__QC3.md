@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Cadet 2024 — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC3
 parent: src_kangourou_2024_cadet_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Finale Cadet 2024 — Quesito C3
 
 *Due triangoli con due lati e un'altezza uguali sono congruenti*
 

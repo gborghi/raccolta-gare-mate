@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q06
 parent: src_kangourou_2016_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 6
 
 *risultato di 000000 meno 00*
 

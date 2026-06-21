@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1997 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1997__Q04
 parent: src_cesenatico_1997
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1997 — Quesito 4
 
 *Volume tetraedro da spigolo AB e proiezione S*
 

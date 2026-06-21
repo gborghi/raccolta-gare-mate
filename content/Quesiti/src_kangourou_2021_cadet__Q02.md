@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q02
 parent: src_kangourou_2021_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 2
 
 *Percentuale ombreggiata di circonferenze concentriche*
 

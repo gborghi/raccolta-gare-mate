@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q11
 parent: src_kangourou_2022_junior_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Junior Finale 1 — Quesito 11
 
 *Angolo centrale progressione aritmetica pentagono*
 

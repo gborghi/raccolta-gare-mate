@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Archimede 2010 (locale)
 tipo: gara
 src_id: src_gs_2010
 competition: Gara a Squadre Archimede 2010 (locale)
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/squadre
 ---
-
-# Gara a Squadre Archimede 2010 (locale)
 
 Sorgente: `Archimede/squadre/locale/testi/GS_2010_testo.pdf` · apri PDF
 

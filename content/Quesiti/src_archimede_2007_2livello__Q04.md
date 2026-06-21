@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q04
 parent: src_archimede_2007_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 4
 
 *Voto dell'ultimo esame dato calo della media a 22,25*
 

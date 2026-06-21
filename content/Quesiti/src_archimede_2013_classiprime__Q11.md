@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q11
 parent: src_archimede_2013_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 11
 
 *Monomi da aggiungere a x^8+x^4 per ottenere quadrato di binomio*
 

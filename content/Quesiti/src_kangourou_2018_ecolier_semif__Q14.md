@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Ecolier — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q14
 parent: src_kangourou_2018_ecolier_semif
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Ecolier — Quesito 14
 
 *Punti vertici di 4 quadrati in rettangolo 100x60*
 

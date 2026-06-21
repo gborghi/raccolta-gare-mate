@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Student — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q17
 parent: src_kangourou_2015_marzo_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Student — Quesito 17
 
 *rapporto prezzi*
 

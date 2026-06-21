@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior finale (maggio) — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ2
 parent: src_kangourou_2007_junior_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior finale (maggio) — Quesito J2
 
 *Percorso piu breve sulla superficie del cono*
 

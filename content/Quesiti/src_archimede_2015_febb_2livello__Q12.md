@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q12
 parent: src_archimede_2015_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2015 - 2 livello — Quesito 12
 
 *Lunghezza AC nel quadrilatero ciclico dati i lati e BD*
 

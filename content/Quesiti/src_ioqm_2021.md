@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
 tipo: gara
 src_id: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021
 
 Sorgente: apri PDF
 

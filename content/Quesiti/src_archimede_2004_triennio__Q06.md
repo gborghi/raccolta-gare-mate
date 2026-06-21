@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Triennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_triennio__Q06
 parent: src_archimede_2004_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Triennio — Quesito 6
 
 *valore della somma 1/4+1/16+...*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2006-07 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2006-07_round1__Q05
 parent: src_bmo_2006-07_round1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2006-07 — Round 1 — Quesito 5
 
 *Show that if 2 + sqrt(1 + 12a^2) is integer, it is a perfect square*
 

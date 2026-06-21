@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q05
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 5
 
 *Quanti canguri spostare per pareggiare i due parchi*
 

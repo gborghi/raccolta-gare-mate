@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2002 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2002__Q05
 parent: src_rmo_2002
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2002 — Quesito 5
 
 *Circle divided by convex quadrilateral arcs; prove ABCD cyclic*
 

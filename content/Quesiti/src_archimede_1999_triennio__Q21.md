@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Triennio — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_triennio__Q21
 parent: src_archimede_1999_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Triennio — Quesito 21
 
 *Raggio di un cerchio tangente a due lati e passante per A*
 

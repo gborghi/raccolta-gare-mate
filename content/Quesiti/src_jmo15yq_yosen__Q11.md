@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo15yq_yosen__Q11
 parent: src_jmo15yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 11
 
 *Minimum cos(angle QPR) for varying division point k in triangle ABC*
 

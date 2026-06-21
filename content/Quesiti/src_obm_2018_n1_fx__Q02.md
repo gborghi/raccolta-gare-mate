@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2018_n1_fx__Q02
 parent: src_obm_2018_n1_fx
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x — Quesito 2
 
 *Integer sequences: each term is remainder mod 9 of product of two previous*
 

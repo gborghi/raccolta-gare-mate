@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_mumbai__Q01
 parent: src_rmo_2013_mumbai
@@ -28,8 +29,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Mumbai — Quesito 1
 
 *Isosceles triangle with circumcircle, prove BE parallel to AD*
 

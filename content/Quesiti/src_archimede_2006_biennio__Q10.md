@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q10
 parent: src_archimede_2006_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 10
 
 *Biglie nel sacchetto con un solo mentitore*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1994 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1994__Q06
 parent: src_inmo_1994
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1994 — Quesito 6
 
 *Find all functions satisfying two functional equations*
 

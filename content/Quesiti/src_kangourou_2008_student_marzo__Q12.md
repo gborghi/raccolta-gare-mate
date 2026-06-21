@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q12
 parent: src_kangourou_2008_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 12
 
 *Lunghezza AB diagonale del parallelepipedo*
 

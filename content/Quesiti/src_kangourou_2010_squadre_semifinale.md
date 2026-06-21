@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre semifinale turno A
 tipo: gara
 src_id: src_kangourou_2010_squadre_semifinale
 competition: Kangourou 2010 squadre semifinale turno A
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre semifinale turno A
 
 Sorgente: `Kangaroo/kangourou_squadre/2010/SQ-A-10.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q14
 parent: src_cesenatico_2004_squadre
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 14
 
 *Ultime 4 cifre somma interi divisibili per 30 con 30 divisori*
 

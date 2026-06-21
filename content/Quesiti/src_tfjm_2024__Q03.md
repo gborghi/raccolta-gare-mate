@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_tfjm_2024__Q03
 parent: src_tfjm_2024
@@ -35,8 +36,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 3
 
 *Ping-pong tournament: 2n players on n numbered tables, winners climb a table and losers descend; study stable configurations, reachability, and which words of wins/losses are inscriptible.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q14
 parent: src_kangourou_2009_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale — Quesito 14
 
 *Valore n quando Peter e sicuro di vincere (62%)*
 

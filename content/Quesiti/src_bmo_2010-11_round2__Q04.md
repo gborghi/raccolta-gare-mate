@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round2__Q04
 parent: src_bmo_2010-11_round2
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 2 — Quesito 4
 
 *Find largest parallelogram-free subset of 2011×2011 integer grid*
 

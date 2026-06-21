@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q19
 parent: src_gas_2010_finale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 19
 
 *Minimo a+b+c con relazione su mcm e MCD*
 

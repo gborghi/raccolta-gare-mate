@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q03
 parent: src_kangourou_2024_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 3
 
 *Minimo numero di lettere per parola che contiene tre parole*
 

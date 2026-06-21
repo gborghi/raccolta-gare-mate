@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Junior (21 marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_junior__Q28
 parent: src_kangourou_2002_junior
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2002 - Junior (21 marzo) — Quesito 28
 
 *V con vertice assegnato tra 7 punti*
 

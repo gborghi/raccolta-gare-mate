@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2023 — Matematica
 tipo: gara
 src_id: src_cgen_2023
 competition: Concours Général des Lycées 2023 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2023 — Matematica
 
 Sorgente: apri PDF
 

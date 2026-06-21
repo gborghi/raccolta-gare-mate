@@ -1,4 +1,5 @@
 ---
+title: IMO 2023 papers — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2023__Q06
 parent: src_imo_2023
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2023 papers — Quesito 6
 
 *Tre circumcircle passano per due punti comuni*
 

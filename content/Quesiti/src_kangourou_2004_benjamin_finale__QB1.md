@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin finale nazionale — Quesito B1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB1
 parent: src_kangourou_2004_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin finale nazionale — Quesito B1
 
 *Concludere famiglia dei pirati Martedi/Mercoledi*
 

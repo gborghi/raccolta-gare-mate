@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior_finale__QJ2
 parent: src_kangourou_2012_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J2
 
 *Quante sfere per tre punti non allineati e raggio minimo*
 

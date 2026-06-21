@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Ecolier
 tipo: gara
 src_id: src_kangourou_2014_ecolier_finale
 competition: Kangourou 2014 finale Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2014/EMaggio-14.pdf` · apri PDF
 

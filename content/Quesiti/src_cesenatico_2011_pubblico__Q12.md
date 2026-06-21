@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q12
 parent: src_cesenatico_2011_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 12
 
 *Tempo minimo rotta a due tratti ortogonali*
 

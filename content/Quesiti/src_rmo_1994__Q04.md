@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1994 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_1994__Q04
 parent: src_rmo_1994
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1994 — Quesito 4
 
 *Solve a system of equations in real x and y*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q03
 parent: src_archimede_2006_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 3
 
 *Numero di divisori positivi di 5*4*3*2*
 

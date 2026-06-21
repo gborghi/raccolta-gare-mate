@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_maggio__QE6
 parent: src_kangourou_2008_ecolier_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E6
 
 *Tagliare e ricomporre la torta (due tagli)*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2003 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2003__Q06
 parent: src_inmo_2003
@@ -33,8 +34,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2003 — Quesito 6
 
 *Nine-digit tickets coloured by differing-in-all-places rule; find colour of 123123123*
 

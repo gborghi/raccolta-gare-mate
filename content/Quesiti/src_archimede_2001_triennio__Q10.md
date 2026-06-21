@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q10
 parent: src_archimede_2001_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 10
 
 *Colpevole e complice dalle deposizioni del furto*
 

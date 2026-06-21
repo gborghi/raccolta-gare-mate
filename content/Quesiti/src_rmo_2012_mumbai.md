@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Mumbai
 tipo: gara
 src_id: src_rmo_2012_mumbai
 competition: Regional Mathematical Olympiad 2012 — Mumbai
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/mumbai
 ---
-
-# Regional Mathematical Olympiad 2012 — Mumbai
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Junior (21 marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_junior__Q24
 parent: src_kangourou_2002_junior
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Junior (21 marzo) — Quesito 24
 
 *Sfruttamento medio annuo dell'albergo*
 

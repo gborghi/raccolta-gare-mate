@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Ecolier
 tipo: gara
 src_id: src_kangourou_2015_finale_ecolier
 competition: Kangourou 2015 finale nazionale Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2015/EMaggio-15.pdf` · apri PDF
 

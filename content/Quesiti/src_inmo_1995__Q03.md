@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1995 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1995__Q03
 parent: src_inmo_1995
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1995 — Quesito 3
 
 *Count three-element subsets of {1,...,65} with a+b+c<95*
 

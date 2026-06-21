@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q14
 parent: src_cesenatico_2007_squadre_semifinale_b
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 14
 
 *Somma radici distinte di x^2-ax+4a con radici intere positive*
 

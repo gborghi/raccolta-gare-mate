@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q12
 parent: src_garaprime_2025
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 12
 
 *Prodotto xy dato (x+y)^2=100x+y=2025*
 

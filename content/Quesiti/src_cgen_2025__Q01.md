@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2025 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_2025__Q01
 parent: src_cgen_2025
@@ -39,8 +40,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2025 — Matematica — Quesito 1
 
 *Addition on a parabola: an operation defined geometrically via secants/tangents to y=x^2 meeting the line y=-1; associativity, then a sequence of points and its convergence via heights of rationals.*
 

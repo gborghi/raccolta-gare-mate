@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q02
 parent: src_kangourou_2011_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 2
 
 *Da quale numero era partita Elisa*
 

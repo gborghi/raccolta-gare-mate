@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q21
 parent: src_obm_1998_n3_f1
@@ -38,8 +39,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 21
 
 *A traveler should walk one hour between north and east at 30 degrees from east, but mistakenly walks one hour between west and north at 30 degrees from north; find the angle from north of the direction he must now take.*
 

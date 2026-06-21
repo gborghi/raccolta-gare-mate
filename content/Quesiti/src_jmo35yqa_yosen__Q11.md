@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q11
 parent: src_jmo35yqa_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 11
 
 *Directed-graph 'star cluster' importance-propagation operation; sum of importances of stars built in the 100th step*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q12
 parent: src_kangourou_2013_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Finale — Quesito 12
 
 *Intero piu vicino a 1000(x-y) tra due somme*
 

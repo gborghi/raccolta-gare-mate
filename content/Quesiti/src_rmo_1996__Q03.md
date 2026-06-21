@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1996 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1996__Q03
 parent: src_rmo_1996
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1996 — Quesito 3
 
 *Solve a system of two polynomial equations in real x and y*
 

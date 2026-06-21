@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q16
 parent: src_squadre_2025_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 16
 
 *Volume piramide noto volume parte rimossa dal piano*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q15
 parent: src_archimede_2013_triennio
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 15
 
 *Numero massimo soluzioni di un sistema quadratico*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q18
 parent: src_kangourou_2011_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 18
 
 *Quale sviluppo del cubo corrisponde alla linea nera*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_inmo_1992__Q07
 parent: src_inmo_1992
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992 — Quesito 7
 
 *n x n chessboard: count ways to place n^2 numbers in arithmetic progression in each row and column*
 

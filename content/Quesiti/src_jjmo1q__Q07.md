@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q07
 parent: src_jjmo1q
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 7
 
 *Find all possible integer side lengths of a convex polygon when one side is 18*
 

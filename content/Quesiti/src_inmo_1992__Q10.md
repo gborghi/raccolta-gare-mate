@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_inmo_1992__Q10
 parent: src_inmo_1992
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992 — Quesito 10
 
 *Find all functions f: R\{0,1} → R satisfying a functional equation*
 

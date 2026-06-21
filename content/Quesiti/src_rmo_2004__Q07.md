@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2004 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_2004__Q07
 parent: src_rmo_2004
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2004 — Quesito 7
 
 *Positive reals satisfying y³+y ≤ x−x³; prove y<x<1 and x²+y²<1*
 

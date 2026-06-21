@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q20
 parent: src_obm_2003_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 20
 
 *Find digit sum of N expressible as 9 consecutive integers and as 11 consecutive integers*
 

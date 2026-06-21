@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f1__Q05
 parent: src_obm_2009_n1_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 5
 
 *Circulant 4x4 determinant equals f(1)f(i)f(-1)f(-i)*
 

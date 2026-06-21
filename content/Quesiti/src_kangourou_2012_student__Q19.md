@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q19
 parent: src_kangourou_2012_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 19
 
 *Distanza tra 1 e 2 su orologio rettangolare*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale
 tipo: gara
 src_id: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2021/SQ-F-21.pdf` · apri PDF
 

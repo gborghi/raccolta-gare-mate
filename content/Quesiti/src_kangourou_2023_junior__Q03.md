@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q03
 parent: src_kangourou_2023_junior
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 3
 
 *Grafico velocità-tempo del tragitto casa-scuola*
 

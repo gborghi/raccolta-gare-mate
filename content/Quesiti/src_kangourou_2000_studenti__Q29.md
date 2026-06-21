@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q29
 parent: src_kangourou_2000_studenti
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 29
 
 *Angoli di 30 gradi nelle diagonali dell'esagono*
 

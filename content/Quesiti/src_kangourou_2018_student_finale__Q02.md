@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Student — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_finale__Q02
 parent: src_kangourou_2018_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Student — Quesito 2
 
 *Quante carte scartate data probabilita 1/1001 dei 4 assi*
 

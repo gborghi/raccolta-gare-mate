@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo29yq_yosen__Q04
 parent: src_jmo29yq_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 4
 
 *Regular pentagon, line through diagonal intersection; find AG*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1996 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_1996__Q04
 parent: src_rmo_1996
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1996 — Quesito 4
 
 *n-digit number with distinct digits and every 3 consecutive digits divisible by 5*
 

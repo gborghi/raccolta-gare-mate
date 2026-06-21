@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q02
 parent: src_kangourou_2014_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A — Quesito 2
 
 *Numero nella quarta cella griglia 100x100 progressioni*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q02
 parent: src_archimede_2006_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 2
 
 *Perimetro di una C ottenuta da una corona circolare*
 

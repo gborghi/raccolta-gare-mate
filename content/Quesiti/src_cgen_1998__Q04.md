@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1998 — Matematica — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cgen_1998__Q04
 parent: src_cgen_1998
@@ -32,8 +33,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1998 — Matematica — Quesito 4
 
 *Point on segment between two lines through O; minimize area then perimeter*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Semifinale A
 tipo: gara
 src_id: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Semifinale A
 
 Sorgente: `Archimede/squadre/nazionale/2016/Cesenatico2016_gsm.pdf` · apri PDF
 

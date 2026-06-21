@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q03
 parent: src_kangourou_2011_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 3
 
 *Numero PAPA nella somma cifrata A+AP+APP=PQA*
 

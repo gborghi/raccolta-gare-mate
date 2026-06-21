@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q20
 parent: src_cesenatico_2006_squadre_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 20
 
 *Rapporto 1000 A/B aree triangoli in dodecagono*
 

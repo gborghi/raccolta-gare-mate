@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q16
 parent: src_gsm_2021_squadre
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 16
 
 *Minimo n per suddividere carte 1..n in quattro mazzetti equisomma*
 

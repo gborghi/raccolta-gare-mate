@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round1__Q05
 parent: src_bmo_1980-81_round1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 1 — Quesito 5
 
 *Sum of a_i^k / P_i over distinct nonzero integers is an integer*
 

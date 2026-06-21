@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q06
 parent: src_gsm_2025_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 6
 
 *Massime cifre consecutive di 1/26 con somma 3000*
 

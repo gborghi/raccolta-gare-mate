@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_a__Q11
 parent: src_gas_2010_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale A — Quesito 11
 
 *Massima velocita inseguitore con rotta alternata a due direzioni*
 

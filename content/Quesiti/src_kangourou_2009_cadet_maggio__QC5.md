@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_maggio__QC5
 parent: src_kangourou_2009_cadet_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C5
 
 *Cammino minimo della formica e punto piu lontano*
 

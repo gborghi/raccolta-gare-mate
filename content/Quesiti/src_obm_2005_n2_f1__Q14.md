@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q14
 parent: src_obm_2005_n2_f1
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 14
 
 *Integers O,B,M with three product/sum equations; find O+B+M*
 

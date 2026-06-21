@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q10
 parent: src_kangourou_2019_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 10
 
 *Quante celle puo raggiungere la pedina in 5 mosse*
 

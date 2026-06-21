@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q30
 parent: src_kangourou_2018_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 30
 
 *Numero partecipanti al campo data probabilita 1/2*
 

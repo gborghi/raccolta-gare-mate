@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q06
 parent: src_kangourou_2014_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 6
 
 *Dove mettere il tassello per formare la sagoma*
 

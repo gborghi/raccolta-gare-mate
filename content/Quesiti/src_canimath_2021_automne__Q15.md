@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q15
 parent: src_canimath_2021_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 15
 
 *Test with 3 problems scored 0–7; 61 or 40 students; find A dominating B on all problems*
 

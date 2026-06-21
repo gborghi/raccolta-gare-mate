@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q23
 parent: src_kangourou_2016_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 23
 
 *Quante parabole ad asse verticale per 3 punti anneriti*
 

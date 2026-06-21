@@ -1,4 +1,5 @@
 ---
+title: IMO 2024 papers — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_2024__Q04
 parent: src_imo_2024
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2024 papers — Quesito 4
 
 *Angolo KIL+YPX=180 (incerchio e tangenti)*
 

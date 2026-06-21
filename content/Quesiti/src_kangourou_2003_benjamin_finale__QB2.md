@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin_finale__QB2
 parent: src_kangourou_2003_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B2
 
 *Tempo per il giro dell'aiuola*
 

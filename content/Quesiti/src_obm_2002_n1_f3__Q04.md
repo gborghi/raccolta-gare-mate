@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f3__Q04
 parent: src_obm_2002_n1_f3
@@ -41,8 +42,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 4
 
 *Seven coins in a circle, one showing its visible face; determine whether by flipping five consecutive coins each time (a) or four consecutive coins each time (b) all can be made to show face down*
 

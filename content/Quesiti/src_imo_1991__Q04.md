@@ -1,4 +1,5 @@
 ---
+title: IMO 1991 (32nd IMO) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1991__Q04
 parent: src_imo_1991
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1991 (32nd IMO) — Quesito 4
 
 *Label graph edges so each vertex has gcd 1*
 

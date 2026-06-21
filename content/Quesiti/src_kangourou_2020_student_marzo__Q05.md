@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q05
 parent: src_kangourou_2020_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 5
 
 *Valore di A+B+C+D+E somma di 5 numeri a tre cifre*
 

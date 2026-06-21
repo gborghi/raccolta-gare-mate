@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo7mq_honsen__Q02
 parent: src_jjmo7mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 2
 
 *Angle in triangle with BP+CQ=PQ and circumcircle intersection*
 

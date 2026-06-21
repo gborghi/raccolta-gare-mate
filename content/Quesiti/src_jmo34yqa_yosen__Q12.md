@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo34yqa_yosen__Q12
 parent: src_jmo34yqa_yosen
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 12
 
 *Count tuples (a_1,...,a_2100) mod 2100 satisfying a Mobius-type convolution condition*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2002 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_2livello__Q12
 parent: src_archimede_2002_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2002 — Quesito 12
 
 *Perimetro del rettangolo diviso in cinque quadrati*
 

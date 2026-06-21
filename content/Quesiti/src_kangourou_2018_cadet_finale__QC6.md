@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_finale__QC6
 parent: src_kangourou_2018_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C6
 
 *Area B in funzione di A nel pentagono regolare*
 

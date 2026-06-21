@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q16
 parent: src_cesenatico_2007_squadre_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 16
 
 *Calcolo somma coefficienti a_(3k+1) di ((x^4+x^2+1)/3)^2007*
 

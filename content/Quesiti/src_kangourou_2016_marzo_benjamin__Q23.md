@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q23
 parent: src_kangourou_2016_marzo_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 gara 17 marzo Benjamin — Quesito 23
 
 *Max tasselli ritagliabili da quadrato 5x5*
 

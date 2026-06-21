@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_semifinale1__Q07
 parent: src_archimede_2025_squadre_semifinale1
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 7
 
 *Minimo turni per banco con k^2+kn uguale a 6384*
 

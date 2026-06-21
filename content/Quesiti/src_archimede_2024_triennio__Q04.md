@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q04
 parent: src_archimede_2024_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 4
 
 *Triangolo rettangolo, circonferenza circoscritta, misura PA*
 

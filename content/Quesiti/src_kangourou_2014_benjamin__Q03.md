@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q03
 parent: src_kangourou_2014_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 3
 
 *Vista da dietro di due anelli intrecciati*
 

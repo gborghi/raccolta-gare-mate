@@ -1,4 +1,5 @@
 ---
+title: IMO 1970 (Twelfth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1970_all__Q06
 parent: src_imo_1970_all
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1970 (Twelfth International Olympiad) — Quesito 6
 
 *At most 70% of triangles from 100 points are acute*
 

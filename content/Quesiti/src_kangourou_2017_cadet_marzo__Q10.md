@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q10
 parent: src_kangourou_2017_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 10
 
 *Frazione del bastone tra formica e coccinella*
 

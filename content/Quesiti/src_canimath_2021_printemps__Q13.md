@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q13
 parent: src_canimath_2021_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 13
 
 *6000 students' grades; after a replacement the mean rises by 1/10; bound a count difference*
 

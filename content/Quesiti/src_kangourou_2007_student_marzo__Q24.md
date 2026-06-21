@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q24
 parent: src_kangourou_2007_student_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 24
 
 *Quanti a tali che x^2+ax+2007 ha radici intere*
 

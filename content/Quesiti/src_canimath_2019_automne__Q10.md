@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q10
 parent: src_canimath_2019_automne
@@ -33,8 +34,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 10
 
 *Minimum socks drawn to guarantee two of different colours from 6 blue and 6 red*
 

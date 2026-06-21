@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q12
 parent: src_kangourou_2009_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 12
 
 *Minimo punti da rimuovere per nessuna terna allineata*
 

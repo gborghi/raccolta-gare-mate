@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1977-78 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1977-78_round2__Q02
 parent: src_bmo_1977-78_round2
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1977-78 — Round 2 — Quesito 2
 
 *Infinitely many n where last m decimal digits of 3^n alternate parity*
 

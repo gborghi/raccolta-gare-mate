@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q04
 parent: src_kangourou_2017_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 4
 
 *9 da numero di 90 cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q13
 parent: src_archimede_2024_triennio_rec
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 13
 
 *Interi da 1 a 100 che non dividono il prodotto da 50 a 80*
 

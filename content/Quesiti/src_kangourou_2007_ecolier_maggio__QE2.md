@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier finale (maggio) — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE2
 parent: src_kangourou_2007_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier finale (maggio) — Quesito E2
 
 *Area del tappeto quadrato di sbieco*
 

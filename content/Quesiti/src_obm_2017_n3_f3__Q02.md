@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n3_f3__Q02
 parent: src_obm_2017_n3_f3
@@ -38,8 +39,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 2
 
 *Set of n positive integers whose pairwise GCDs form a set of exactly k elements*
 

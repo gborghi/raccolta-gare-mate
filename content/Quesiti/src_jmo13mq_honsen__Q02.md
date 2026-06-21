@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo13mq_honsen__Q02
 parent: src_jmo13mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 2
 
 *Find all pairs of positive integers with digit and divisibility conditions*
 

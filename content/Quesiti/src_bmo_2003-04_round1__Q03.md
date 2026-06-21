@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2003-04 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2003-04_round1__Q03
 parent: src_bmo_2003-04_round1
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2003-04 — Round 1 — Quesito 3
 
 *Card game: Alice always scores at least as much as Barbara*
 

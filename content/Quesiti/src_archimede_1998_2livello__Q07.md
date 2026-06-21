@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q07
 parent: src_archimede_1998_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 7
 
 *Probabilità che tre amici totalizzino stesso punteggio in sei gare*
 

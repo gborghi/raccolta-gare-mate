@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q03
 parent: src_obm_2009_n2_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 3
 
 *How many seating arrangements for 2 couples in 4 chairs so spouses sit adjacent*
 

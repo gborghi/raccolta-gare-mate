@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2009 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2009__Q02
 parent: src_inmo_2009
@@ -31,8 +32,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2009 — Quesito 2
 
 *Sequence of 0/1 by parity of divisor count; rational or irrational?*
 

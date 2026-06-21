@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q16
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 16
 
 *Codici di 2018 cifre 0,1,2 con somma al piu 8, resto mod 2018*
 

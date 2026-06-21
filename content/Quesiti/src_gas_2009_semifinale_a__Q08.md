@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q08
 parent: src_gas_2009_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 8
 
 *Spigoli minimi cancellati per cammino euleriano su dodecaedro*
 

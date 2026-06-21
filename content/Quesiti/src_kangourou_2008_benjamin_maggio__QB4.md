@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 Benjamin finale (maggio) — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_benjamin_maggio__QB4
 parent: src_kangourou_2008_benjamin_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 Benjamin finale (maggio) — Quesito B4
 
 *Piu piccolo palindromo divisibile per 27*
 

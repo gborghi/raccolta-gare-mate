@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q10
 parent: src_kangourou_2014_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 10
 
 *Quale quadrato rende uguali area bianca e nera*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q09
 parent: src_kangourou_2018_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 9
 
 *Distanza d del filo allungato di 10 m attorno equatore*
 

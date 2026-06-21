@@ -1,11 +1,10 @@
 ---
+title: Disuguaglianze
 tipo: topic
 concept_id: topic_disuguaglianze
 tags:
   - graph/topic
 ---
-
-# Disuguaglianze
 
 *topic* — **130** quesiti (italiani).
 

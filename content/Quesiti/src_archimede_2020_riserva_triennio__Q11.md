@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q11
 parent: src_archimede_2020_riserva_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 11
 
 *Area trapezio da aree di due triangoli sulle diagonali*
 

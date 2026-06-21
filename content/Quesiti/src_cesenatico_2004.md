@@ -1,4 +1,5 @@
 ---
+title: XX Olimpiade Italiana Cesenatico 2004 - individuale
 tipo: gara
 src_id: src_cesenatico_2004
 competition: XX Olimpiade Italiana Cesenatico 2004 - individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/individuale
 ---
-
-# XX Olimpiade Italiana Cesenatico 2004 - individuale
 
 Sorgente: `Archimede/individuale/nazionale/2004/GaraIndividuale2004.pdf` · apri PDF
 

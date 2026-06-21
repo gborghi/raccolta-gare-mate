@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q14
 parent: src_kangourou_2003_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 14
 
 *Massima somma cifre orologio digitale*
 

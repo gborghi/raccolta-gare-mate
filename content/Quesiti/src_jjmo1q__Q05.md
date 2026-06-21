@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q05
 parent: src_jjmo1q
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 5
 
 *Count integers from 1 to 2003 with an even number of positive divisors*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q13
 parent: src_kangourou_2020_pre_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 13
 
 *Figura in cui si e usata di piu la matita grigia*
 

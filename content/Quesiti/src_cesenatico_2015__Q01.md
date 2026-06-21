@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2015__Q01
 parent: src_cesenatico_2015
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 1
 
 *volume totale dai 4 volumi*
 

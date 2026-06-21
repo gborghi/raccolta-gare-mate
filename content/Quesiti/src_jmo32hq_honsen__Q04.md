@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo32hq_honsen__Q04
 parent: src_jmo32hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 4
 
 *Find all positive integer pairs with 3^x - 8^y = 2xy+1*
 

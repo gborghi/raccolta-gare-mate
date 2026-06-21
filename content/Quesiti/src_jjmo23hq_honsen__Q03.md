@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo23hq_honsen__Q03
 parent: src_jjmo23hq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 3
 
 *Four incircle/excircle tangent points on AB and CD are concyclic*
 

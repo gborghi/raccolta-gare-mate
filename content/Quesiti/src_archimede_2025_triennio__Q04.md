@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q04
 parent: src_archimede_2025_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 4
 
 *Interi m di tre cifre con f(m)=f(m-1)+25, somma e prodotto cifre*
 

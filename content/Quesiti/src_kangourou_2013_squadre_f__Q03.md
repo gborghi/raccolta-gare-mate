@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q03
 parent: src_kangourou_2013_squadre_f
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Finale — Quesito 3
 
 *Angolo ABC con quadrilatero ABCO rombo inscritto*
 

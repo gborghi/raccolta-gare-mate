@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f1__Q02
 parent: src_obm_1999_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 2
 
 *Calculator keys D (duplicate units digit) and T (erase units digit); find result for 1999.*
 

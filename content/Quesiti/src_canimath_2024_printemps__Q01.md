@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q01
 parent: src_canimath_2024_printemps
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 1
 
 *Three numbers sum to 96 with ratio and difference conditions*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q01
 parent: src_cesenatico_2005_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 1
 
 *piastrellature 2 rett bianchi e 2 neri*
 

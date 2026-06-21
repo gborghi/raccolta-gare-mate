@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r3__Q04
 parent: src_rmo_2015_r3
@@ -34,8 +35,6 @@ tags:
   - regione/r3
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 3 — Quesito 4
 
 *Count 3-element subsets of 36 equally-spaced circle points, no two adjacent or antipodal*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n1_fx__Q01
 parent: src_obm_2021_n1_fx
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 1
 
 *Squared numbers: digit sum is a perfect square*
 

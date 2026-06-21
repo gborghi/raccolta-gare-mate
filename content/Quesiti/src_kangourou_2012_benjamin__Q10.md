@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q10
 parent: src_kangourou_2012_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 10
 
 *Peso del cestino dato palloni che sollevano carichi*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_pubblico__Q12
 parent: src_archimede_2003_pubblico
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 12
 
 *problema 12*
 

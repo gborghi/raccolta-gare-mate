@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q09
 parent: src_ioqm_2020
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 9
 
 *Triangle ABC, angle bisector of C meets AB at D, parallel lines through D; find sum of digits of p-q*
 

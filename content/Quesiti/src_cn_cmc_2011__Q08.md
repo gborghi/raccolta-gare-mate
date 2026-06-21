@@ -1,0 +1,43 @@
+---
+title: China Mathematical Competition 2011 — Quesito 8
+tipo: quesito
+quesito_id: quesito_src_cn_cmc_2011__Q08
+parent: src_cn_cmc_2011
+competition: China Mathematical Competition 2011
+family: cmc
+year: '2011'
+level: China Mathematical Competition
+country: Cina
+modalita: individuale
+quesito: '8'
+summary: Probability code A is used in week 7 given it was used in week 1
+qa_score: '5'
+answer: '\frac{61}{243}'
+topics:
+  - topic_probabilita
+methods:
+  - method_ricorsione
+skills:
+  - skill_modellizzazione
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/cina
+  - comp/cmc
+  - anno/2011
+  - livello/China-Mathematical-Competition
+  - topic/probabilita
+  - gara/individuale
+---
+
+*Probability code A is used in week 7 given it was used in week 1*
+
+> An information station employs four different codes, $A$, $B$, $C$ and $D$, for communication, but each week uses only one of them. The code used in a definite week is randomly selected with equal chance among the three ones that have not been used in the last week. Suppose the code used in the first week is $A$. Then the probability that $A$ is also used in the seventh week is __________ (expressed as an irreducible fraction).
+
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** $\frac{61}{243}$
+**Fonte:** apri libro PDF

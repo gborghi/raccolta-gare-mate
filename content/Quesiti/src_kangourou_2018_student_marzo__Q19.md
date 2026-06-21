@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q19
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 19
 
 *Immagine quando il pentagono ruotato di 21 gradi coincide*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q02
 parent: src_archimede_2000_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 2
 
 *Area del sottoinsieme definito da cerchio e semipiano*
 

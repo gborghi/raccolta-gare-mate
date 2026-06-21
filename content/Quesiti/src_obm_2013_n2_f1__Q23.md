@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f1__Q23
 parent: src_obm_2013_n2_f1
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 23
 
 *4-digit numbers using digits 1-4 once each, first two digit sum equals last two*
 

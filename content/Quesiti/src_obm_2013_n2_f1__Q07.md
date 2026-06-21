@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f1__Q07
 parent: src_obm_2013_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 7
 
 *Divisibility-by-7 trick: count multiples via doubling last digit; find concatenated number*
 

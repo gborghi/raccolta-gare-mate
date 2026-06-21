@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round2__Q03
 parent: src_bmo_1976-77_round2
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 2 — Quesito 3
 
 *Either solve linear Diophantine equation or prove AP has infinite subset with same prime divisors*
 

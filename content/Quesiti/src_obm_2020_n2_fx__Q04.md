@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n2_fx__Q04
 parent: src_obm_2020_n2_fx
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 4
 
 *Count 4-digit supercylindrical numbers*
 

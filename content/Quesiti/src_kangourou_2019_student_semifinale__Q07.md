@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q07
 parent: src_kangourou_2019_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 7
 
 *Quante somme distinte con addendi 3 e 5 (vincoli)*
 

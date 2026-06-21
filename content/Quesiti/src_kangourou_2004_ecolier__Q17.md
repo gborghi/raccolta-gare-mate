@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q17
 parent: src_kangourou_2004_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 17
 
 *Quale figura non costruibile con due pezzi*
 

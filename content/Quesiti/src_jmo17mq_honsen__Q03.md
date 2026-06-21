@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo17mq_honsen__Q03
 parent: src_jmo17mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 3
 
 *Four circles tangent to triangle sides meet at a point*
 

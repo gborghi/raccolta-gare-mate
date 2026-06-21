@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q24
 parent: src_obm_2006_n3_f1
@@ -38,8 +39,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 24
 
 *Find minimum over reals x,y,z of sqrt(x^2+1)+sqrt((y-x)^2+4)+sqrt((z-y)^2+1)+sqrt((10-z)^2+9).*
 

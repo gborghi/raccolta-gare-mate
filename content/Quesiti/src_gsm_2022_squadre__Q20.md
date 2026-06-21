@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q20
 parent: src_gsm_2022_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 20
 
 *Ampiezza angolo PND data DKH in un quadrato*
 

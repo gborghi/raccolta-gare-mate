@@ -1,4 +1,5 @@
 ---
+title: IMO 2019 papers
 tipo: gara
 src_id: src_imo_2019
 competition: IMO 2019 papers
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# IMO 2019 papers
 
 Sorgente: `Archimede/individuale/imho/all/2019_eng.pdf` · apri PDF
 

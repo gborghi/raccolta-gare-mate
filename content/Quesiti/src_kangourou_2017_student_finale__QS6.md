@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Finale nazionale Cervia — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_finale__QS6
 parent: src_kangourou_2017_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Finale nazionale Cervia — Quesito S6
 
 *Funzione che manda ogni intervallo su tutto [0,1]*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q03
 parent: src_kangourou_2015_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Semifinale A — Quesito 3
 
 *Minimo e massimo numero lati poligono angoli 168/169*
 

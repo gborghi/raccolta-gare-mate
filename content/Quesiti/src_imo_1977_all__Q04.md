@@ -1,4 +1,5 @@
 ---
+title: IMO 1977 (Nineteenth International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1977_all__Q04
 parent: src_imo_1977_all
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1977 (Nineteenth International Olympiad) — Quesito 4
 
 *f(theta)>=0 implies a^2+b^2<=2 and A^2+B^2<=1*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q11
 parent: src_obm_2009_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 11
 
 *Positive integer n such that the number of divisors of 2n equals twice the number of divisors of n; conclude what n is.*
 

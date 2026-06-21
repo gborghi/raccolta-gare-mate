@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f3__Q05
 parent: src_obm_2015_n3_f3
@@ -38,8 +39,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 5
 
 *Polynomial f with rational coefficients and integer-valued set S of size n+1 forcing g(t)=f(t) for all t*
 

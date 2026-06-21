@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q10
 parent: src_garaprime_2025
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 10
 
 *Massimo numeri della tombola con vincoli somma e prodotto*
 

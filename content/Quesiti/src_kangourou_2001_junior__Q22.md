@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Junior (15 marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_junior__Q22
 parent: src_kangourou_2001_junior
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2001 - Junior (15 marzo) — Quesito 22
 
 *Valore di q in funzione di p e c*
 

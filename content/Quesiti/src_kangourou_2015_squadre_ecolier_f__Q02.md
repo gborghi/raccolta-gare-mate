@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q02
 parent: src_kangourou_2015_squadre_ecolier_f
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 2
 
 *Quante monete da 10 centesimi (20 monete, 5 euro)*
 

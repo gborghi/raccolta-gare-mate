@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1995 (36th IMO, Toronto) — Quesito 2'
 tipo: quesito
 quesito_id: quesito_src_imo_1995__Q02
 parent: src_imo_1995
@@ -23,8 +24,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1995 (36th IMO, Toronto) — Quesito 2
 
 *Prove sum of 1/(a^3(b+c)) at least 3/2 for abc=1*
 

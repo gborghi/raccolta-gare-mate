@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q14
 parent: src_canimath_2020_automne
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 14
 
 *Find integers n>=2 expressible as a^3+d^3 with a the smallest prime divisor and d a divisor*
 

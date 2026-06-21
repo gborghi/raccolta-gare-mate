@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1987 (28th IMO, Havana) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1987__Q01
 parent: src_imo_1987
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1987 (28th IMO, Havana) — Quesito 1
 
 *Sum of k times permutations with k fixed points equals n!*
 

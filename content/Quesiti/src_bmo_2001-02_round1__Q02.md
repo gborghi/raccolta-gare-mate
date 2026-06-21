@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2001-02 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2001-02_round1__Q02
 parent: src_bmo_2001-02_round1
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2001-02 — Round 1 — Quesito 2
 
 *Cyclic quadrilateral, equal lengths CD=CP=DQ; prove angle CAD=40°*
 

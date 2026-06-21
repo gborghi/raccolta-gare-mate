@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_tfjm_2021__Q01
 parent: src_tfjm_2021
@@ -37,8 +38,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 1
 
 *Bomb with combination lock: shortest sequence of single-wheel clicks passing through all combinations*
 

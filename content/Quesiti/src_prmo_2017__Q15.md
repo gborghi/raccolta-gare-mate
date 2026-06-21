@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q15
 parent: src_prmo_2017
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 15
 
 *Maximum sum of two removed integers from 1..n given average of rest is 17*
 

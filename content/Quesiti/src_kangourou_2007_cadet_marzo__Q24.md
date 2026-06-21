@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q24
 parent: src_kangourou_2007_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 24
 
 *Quanti numeri autodescrittivi di 4 cifre*
 

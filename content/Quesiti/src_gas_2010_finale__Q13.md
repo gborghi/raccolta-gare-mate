@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q13
 parent: src_gas_2010_finale
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 13
 
 *Somma vinta in successione di puntate a(n+1)=2a(n)+2n-1*
 

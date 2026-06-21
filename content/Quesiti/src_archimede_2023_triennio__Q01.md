@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Triennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_triennio__Q01
 parent: src_archimede_2023_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Triennio — Quesito 1
 
 *Valore di a2-a1 in progressione aritmetica*
 

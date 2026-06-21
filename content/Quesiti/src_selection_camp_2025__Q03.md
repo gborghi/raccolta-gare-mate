@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2025__Q03
 parent: src_selection_camp_2025
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2025 — Selection Camp — Quesito 3
 
 *n x n grid, 2x2 operation from one black cell; find all n fully colorable*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Archimede 2012 (locale)
 tipo: gara
 src_id: src_gs_2012
 competition: Gara a Squadre Archimede 2012 (locale)
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/squadre
 ---
-
-# Gara a Squadre Archimede 2012 (locale)
 
 Sorgente: `Archimede/squadre/locale/testi/GS_2012_testo.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior finale individuale
 tipo: gara
 src_id: src_kangourou_2022_junior_finale
 competition: Kangourou 2022 Junior finale individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior finale individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2022/Junior2022RFIN.pdf` · apri PDF
 

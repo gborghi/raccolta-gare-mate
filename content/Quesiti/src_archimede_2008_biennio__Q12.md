@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q12
 parent: src_archimede_2008_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 12
 
 *Somma numeri decimali periodici 0,60 e 0,70*
 

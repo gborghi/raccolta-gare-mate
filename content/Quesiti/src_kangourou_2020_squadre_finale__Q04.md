@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q04
 parent: src_kangourou_2020_squadre_finale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 4
 
 *Prime cifre della differenza tra somme di D e P*
 

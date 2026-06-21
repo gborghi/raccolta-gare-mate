@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q16
 parent: src_gsm_2025_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 16
 
 *Valore di a_100 di una successione max/min ricorrente*
 

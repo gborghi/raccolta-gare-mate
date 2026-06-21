@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_pubblico__Q25
 parent: src_archimede_2002_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 25
 
 *configurazioni dei trenini*
 

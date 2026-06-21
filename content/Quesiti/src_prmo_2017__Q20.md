@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q20
 parent: src_prmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 20
 
 *Count triples (a,b,c) of positive integers with a<b<c<10 and (b-a) divides c*
 

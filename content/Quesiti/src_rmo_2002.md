@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2002
 tipo: gara
 src_id: src_rmo_2002
 competition: Regional Mathematical Olympiad 2002
@@ -15,8 +16,6 @@ tags:
   - anno/2002
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2002
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f2__Q01
 parent: src_obm_2007_n2_f2
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 1
 
 *Find Ludmilson's age x given (x-55)(x+55) is a prime cube.*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q14
 parent: src_archimede_2014_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello — Quesito 14
 
 *Cavallo su scacchiera 3x3, percorsi in 12 mosse all'angolo opposto*
 

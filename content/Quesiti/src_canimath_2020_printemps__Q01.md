@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q01
 parent: src_canimath_2020_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 1
 
 *Compute the alternating sum 0-1+2-3+...-49+50*
 

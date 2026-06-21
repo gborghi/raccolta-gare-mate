@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q09
 parent: src_archimede_2015_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 9
 
 *Codici di 4 cifre con prodotto delle cifre 18*
 

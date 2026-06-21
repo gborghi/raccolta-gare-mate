@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q04
 parent: src_kangourou_2022_kangourou_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 4
 
 *Altezza scatola dato nastro regalo*
 

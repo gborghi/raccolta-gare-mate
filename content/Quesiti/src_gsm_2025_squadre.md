@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025
 tipo: gara
 src_id: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025
 
 Sorgente: `Archimede/squadre/locale/testi/gsm_25.pdf` · apri PDF
 

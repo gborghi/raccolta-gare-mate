@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n2_f2__Q09
 parent: src_obm_2012_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 9
 
 *Count non-crossing Hamiltonian routes through 20 cities on a circle*
 

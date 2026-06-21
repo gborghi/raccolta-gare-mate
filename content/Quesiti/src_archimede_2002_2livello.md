@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2002
 tipo: gara
 src_id: src_archimede_2002_2livello
 competition: Archimede Gara 2º livello 2002
@@ -15,8 +16,6 @@ tags:
   - anno/2002
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2002
 
 Sorgente: `Archimede/individuale/2livello/2002/Febbraio2002 Testo E Soluzioni.pdf` · apri PDF
 

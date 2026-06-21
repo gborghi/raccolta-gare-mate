@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Student
 tipo: gara
 src_id: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Student
 
 Sorgente: `Kangaroo/kangourou_individuali/2015/SMarzo-15.pdf` · apri PDF
 

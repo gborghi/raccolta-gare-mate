@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier__Q09
 parent: src_kangourou_2023_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 9
 
 *quale copre il puntino*
 

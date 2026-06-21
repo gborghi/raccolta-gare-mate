@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q09
 parent: src_kangourou_2019_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 9
 
 *Numero iniziale ABC2 da relazione con riordino*
 

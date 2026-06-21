@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Finale nazionale Cervia — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_finale__QB6
 parent: src_kangourou_2018_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Finale nazionale Cervia — Quesito B6
 
 *Spartizione equa degli 8 euro col problema dei punti*
 

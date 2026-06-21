@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q09
 parent: src_kangourou_2012_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 9
 
 *Quanti chili pesa il canestro del pallone*
 

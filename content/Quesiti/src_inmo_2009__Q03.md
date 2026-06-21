@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2009 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2009__Q03
 parent: src_inmo_2009
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2009 — Quesito 3
 
 *Find all real x satisfying [x^2+2x]=[x]^2+2[x]*
 

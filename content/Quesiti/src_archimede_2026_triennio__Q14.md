@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q14
 parent: src_archimede_2026_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 14
 
 *Terne (x,y,z) con x+y+z+MCD(x,y,z)=24*
 

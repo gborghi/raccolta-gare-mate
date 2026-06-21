@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q18
 parent: src_kangourou_2003_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 18
 
 *Relazione tra segmenti su una retta*
 

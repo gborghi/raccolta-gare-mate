@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q13
 parent: src_kangourou_2012_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 13
 
 *Numeri di due cifre la cui riduzione iterata da 0*
 

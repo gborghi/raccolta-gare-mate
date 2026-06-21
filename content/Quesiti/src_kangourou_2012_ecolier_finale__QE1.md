@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier_finale__QE1
 parent: src_kangourou_2012_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E1
 
 *Quanti ragazzi nella classe in fila*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio)
 tipo: gara
 src_id: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2021/Junior2021REL.pdf` · apri PDF
 

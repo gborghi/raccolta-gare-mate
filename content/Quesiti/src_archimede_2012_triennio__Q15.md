@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q15
 parent: src_archimede_2012_triennio
@@ -31,8 +32,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 15
 
 *Probabilita somma 11 con dado a 4 e dado a 8 facce*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q26
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 26
 
 *Lunghezza del lato del quadrato da segmenti sugli assi*
 

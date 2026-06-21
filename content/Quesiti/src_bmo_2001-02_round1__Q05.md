@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2001-02 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2001-02_round1__Q05
 parent: src_bmo_2001-02_round1
@@ -33,8 +34,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2001-02 — Round 1 — Quesito 5
 
 *Find all values of f(2001) for increasing function satisfying functional equation*
 

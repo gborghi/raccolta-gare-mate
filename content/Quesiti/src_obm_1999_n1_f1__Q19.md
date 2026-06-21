@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f1__Q19
 parent: src_obm_1999_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 19
 
 *VCR records 150-min film on single tape switching from EP (6h) to SP (2h); find elapsed minutes at switch.*
 

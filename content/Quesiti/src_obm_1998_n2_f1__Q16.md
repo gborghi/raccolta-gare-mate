@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n2_f1__Q16
 parent: src_obm_1998_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 16
 
 *Fill grid with digits 1-5; find most repeated digit*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q10
 parent: src_archimede_2001_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 10
 
 *Probabilità di estrarre pallina bianca alla seconda estrazione*
 

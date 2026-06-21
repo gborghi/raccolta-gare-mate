@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2001 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2001__Q05
 parent: src_inmo_2001
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2001 — Quesito 5
 
 *Triangle with D midpoint of BC, angle conditions; prove AOD equilateral*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q14
 parent: src_archimede_2016_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 14
 
 *Quarto monomio in successione tipo Fibonacci di monomi*
 

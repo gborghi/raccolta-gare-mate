@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q15
 parent: src_canimath_2024_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 15
 
 *Find largest c so that sum of 1/z_i < c guarantees Theo can give every student a liked gift*
 

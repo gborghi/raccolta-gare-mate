@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Triennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_triennio__Q03
 parent: src_archimede_2010_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Triennio — Quesito 3
 
 *Numero cifre del quadrato di un numero di 10 cifre*
 

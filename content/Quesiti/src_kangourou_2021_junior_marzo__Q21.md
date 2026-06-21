@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q21
 parent: src_kangourou_2021_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 21
 
 *Rapporto tra percorso di salita e di discesa (scale)*
 

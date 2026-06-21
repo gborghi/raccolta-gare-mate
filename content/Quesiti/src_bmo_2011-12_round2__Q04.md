@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2011-12_round2__Q04
 parent: src_bmo_2011-12_round2
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 2 — Quesito 4
 
 *Integers a,b,c,d: divisibility condition for all positive n*
 

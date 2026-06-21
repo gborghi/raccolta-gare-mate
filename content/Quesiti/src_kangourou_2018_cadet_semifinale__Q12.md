@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q12
 parent: src_kangourou_2018_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 12
 
 *Minimo mele per cesti uguali dopo baratti*
 

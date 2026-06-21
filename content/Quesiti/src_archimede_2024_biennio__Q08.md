@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio__Q08
 parent: src_archimede_2024_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio — Quesito 8
 
 *Differenza max-min al vertice di piramide di somme*
 

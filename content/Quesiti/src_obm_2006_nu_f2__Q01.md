@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
+  Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f2__Q01
 parent: src_obm_2006_nu_f2
@@ -33,8 +36,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 — Quesito 1
 
 *Prove integral inequality for increasing integrable function*
 

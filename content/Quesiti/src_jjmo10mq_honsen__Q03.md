@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo10mq_honsen__Q03
 parent: src_jjmo10mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 3
 
 *Grid stamping operation; find minimum a,b given N initial coins*
 

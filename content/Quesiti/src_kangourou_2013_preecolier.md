@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier
 tipo: gara
 src_id: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier
 
 Sorgente: `Kangaroo/kangourou_individuali/2013/PMarzo-13.pdf` · apri PDF
 

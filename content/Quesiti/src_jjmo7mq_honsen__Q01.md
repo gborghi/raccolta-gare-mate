@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo7mq_honsen__Q01
 parent: src_jjmo7mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 1
 
 *Sum of integers coprime to n; find when sum is prime*
 

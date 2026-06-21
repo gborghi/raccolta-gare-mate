@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f1__Q09
 parent: src_obm_2011_n3_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 9
 
 *Value of 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
 

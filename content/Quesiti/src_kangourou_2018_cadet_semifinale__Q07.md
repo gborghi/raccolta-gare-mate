@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q07
 parent: src_kangourou_2018_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 7
 
 *Numero somma di tre e di quattro consecutivi*
 

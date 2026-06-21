@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_pubblico__Q02
 parent: src_archimede_2001_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 2
 
 *Posizione del pianeta (15,30) nella numerazione a coppie*
 

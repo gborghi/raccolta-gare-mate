@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n3_f3__Q03
 parent: src_obm_2000_n3_f3
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 3
 
 *Find smallest n such that f(1)+...+f(n) >= 123456*
 

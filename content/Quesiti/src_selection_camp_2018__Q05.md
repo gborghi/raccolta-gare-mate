@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q05
 parent: src_selection_camp_2018
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 5
 
 *Only finitely many subsets S of {1,...,n} with |S|≥√n+1 and all products xy being perfect powers*
 

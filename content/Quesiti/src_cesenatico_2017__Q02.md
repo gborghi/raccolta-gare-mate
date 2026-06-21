@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2017__Q02
 parent: src_cesenatico_2017
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 2
 
 *soluzioni intere finite*
 

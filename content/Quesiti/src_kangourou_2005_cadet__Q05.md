@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q05
 parent: src_kangourou_2005_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 5
 
 *Minimi spostamenti canguri 2 per riga e colonna*
 

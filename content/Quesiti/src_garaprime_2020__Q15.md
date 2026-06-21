@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_garaprime_2020__Q15
 parent: src_garaprime_2020
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020 — Quesito 15
 
 *Area della lunula del quadrato e cerchio circoscritto*
 

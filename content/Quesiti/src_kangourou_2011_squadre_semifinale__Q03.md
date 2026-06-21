@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q03
 parent: src_kangourou_2011_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A — Quesito 3
 
 *Misura angolo X con tre quadrati nel rettangolo*
 

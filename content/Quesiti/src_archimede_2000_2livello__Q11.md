@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q11
 parent: src_archimede_2000_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 11
 
 *Volume del tetraedro ABPQ in un cubo di lato 12*
 

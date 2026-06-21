@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q09
 parent: src_archimede_2017_febb_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2017 - 2 livello — Quesito 9
 
 *Coppie reali (x,y) con x+y^2=y^3 e y+x^2=x^3*
 

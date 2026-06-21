@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q01
 parent: src_kangourou_2006_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 1
 
 *Valore di 20x(0+6)-(20x0)+6*
 

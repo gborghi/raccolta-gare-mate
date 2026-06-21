@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q19
 parent: src_archimede_2008_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 19
 
 *Deduzione logica dalla negazione di affermazione universale*
 

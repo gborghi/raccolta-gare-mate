@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q08
 parent: src_gas_2009_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 8
 
 *Area di figura a luna fra archi di circonferenza*
 

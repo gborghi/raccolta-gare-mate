@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2015__Q04
 parent: src_cesenatico_2015
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 4
 
 *Coppie intere (a,b) con a^3+b^3+3ab=1*
 

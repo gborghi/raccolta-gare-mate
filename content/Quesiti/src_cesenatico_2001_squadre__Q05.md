@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q05
 parent: src_cesenatico_2001_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 5
 
 *Lunghezza DC in triangolo rettangolo con lati interi*
 

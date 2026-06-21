@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2010 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2010__Q06
 parent: src_inmo_2010
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2010 — Quesito 6
 
 *Sequence defined by recurrence; prove 2^k divides a_n iff 2^k divides a_{2^n}*
 

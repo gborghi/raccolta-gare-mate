@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q23
 parent: src_cesenatico_2007_squadre_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 23
 
 *Massimo di f(a,b,c,d) con vincolo quadratico (interi positivi)*
 

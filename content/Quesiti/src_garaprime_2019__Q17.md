@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q17
 parent: src_garaprime_2019
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 17
 
 *Divisori di n sapendo che 30n ne ha 45*
 

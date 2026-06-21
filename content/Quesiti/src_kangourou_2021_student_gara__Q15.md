@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q15
 parent: src_kangourou_2021_student_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 15
 
 *Perimetro del triangolo grande dai perimetri dei piccoli*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q04
 parent: src_canimath_2020_automne
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 4
 
 *Determine each shepherd's perfect-square sheep count given sum bounds and parity*
 

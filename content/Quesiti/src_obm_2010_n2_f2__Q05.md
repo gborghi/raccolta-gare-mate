@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f2__Q05
 parent: src_obm_2010_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 5
 
 *Integer r,s; quadratic with integer roots; count possible values of |r−s|*
 

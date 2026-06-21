@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1990 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_1990__Q01
 parent: src_cgen_1990
@@ -32,8 +33,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1990 — Matematica — Quesito 1
 
 *Integer sequence with recurrence; find zeros and a general term*
 

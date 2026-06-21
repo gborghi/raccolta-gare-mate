@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Gara 15 marzo
 tipo: gara
 src_id: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Gara 15 marzo
 
 Sorgente: `Kangaroo/kangourou_individuali/2018/CMarzo-18.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q12
 parent: src_kangourou_2019_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 12
 
 *Area della figura su foglio a quadretti di area 2cm2*
 

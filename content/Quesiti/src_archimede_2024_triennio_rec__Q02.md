@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q02
 parent: src_archimede_2024_triennio_rec
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 2
 
 *Somma di due numeri periodici come frazione, X+Y*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q10
 parent: src_squadre_2026_semifinale_cd
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 10
 
 *Configurazioni di gettoni in magic-force-4*
 

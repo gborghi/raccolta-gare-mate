@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q19
 parent: src_obm_2006_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 19
 
 *13x17 grid numbered first by rows then re-numbered by columns; count cells where the two numbers coincide.*
 

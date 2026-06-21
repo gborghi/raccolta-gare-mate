@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f2__Q07
 parent: src_obm_2015_n3_f2
@@ -37,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 7
 
 *Count distinct colorings of a 2015x37 chessboard obtainable by row/column inversion buttons*
 

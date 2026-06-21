@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_finale__Q11
 parent: src_garasquadre_2006_finale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale — Quesito 11
 
 *max fogli*
 

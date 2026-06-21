@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q30
 parent: src_kangourou_2021_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 30
 
 *Minimo numero di streghe data la somma 36*
 

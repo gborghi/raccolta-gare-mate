@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_benjamin__Q14
 parent: src_kangourou_2001_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Benjamin (15 marzo) — Quesito 14
 
 *Numero ultimo vagone del trenino*
 

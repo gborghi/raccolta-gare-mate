@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q28
 parent: src_kangourou_2005_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 28
 
 *Riordinare piantine a curve di livello delle montagne*
 

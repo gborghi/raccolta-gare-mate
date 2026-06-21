@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q04
 parent: src_gs_2008_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 4
 
 *Numero minimo di pietre con vincolo sui pesi*
 

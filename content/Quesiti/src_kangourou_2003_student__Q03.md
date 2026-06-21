@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student (20 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student__Q03
 parent: src_kangourou_2003_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2003 Student (20 marzo) — Quesito 3
 
 *Correzione volume sfera con diametro al posto raggio*
 

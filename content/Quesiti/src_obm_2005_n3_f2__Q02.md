@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f2__Q02
 parent: src_obm_2005_n3_f2
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 2
 
 *Smallest positive integer multiple conditions modulo 5,7,9,11*
 

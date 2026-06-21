@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - gara marzo — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier__Q05
 parent: src_kangourou_2021_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - gara marzo — Quesito 5
 
 *Bersaglio col punteggio piu alto*
 

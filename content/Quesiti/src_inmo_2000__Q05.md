@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2000 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2000__Q05
 parent: src_inmo_2000
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2000 — Quesito 5
 
 *Cubic root with 1≤a≤b≤c≥0: |λ|≤1*
 

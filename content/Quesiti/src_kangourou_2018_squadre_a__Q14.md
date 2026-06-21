@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q14
 parent: src_kangourou_2018_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2018 Semifinale A — Quesito 14
 
 *Valore somma 1^2-2^2-3^2+4^2+... fino a 100^2*
 

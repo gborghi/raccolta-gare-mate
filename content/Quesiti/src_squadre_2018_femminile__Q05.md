@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q05
 parent: src_squadre_2018_femminile
@@ -22,8 +23,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 5
 
 *Somma quadrati diagonali facce di un romboedro*
 

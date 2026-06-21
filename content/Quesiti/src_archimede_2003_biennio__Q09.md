@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q09
 parent: src_archimede_2003_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 9
 
 *Numero di pezzi tagliando un nastro con piegature*
 

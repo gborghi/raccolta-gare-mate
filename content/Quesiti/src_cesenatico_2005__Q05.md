@@ -1,4 +1,5 @@
 ---
+title: XXI Olimpiade Italiana Cesenatico 2005 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005__Q05
 parent: src_cesenatico_2005
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# XXI Olimpiade Italiana Cesenatico 2005 — Quesito 5
 
 *per quali h torna a 1*
 

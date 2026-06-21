@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Triennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_triennio__Q02
 parent: src_archimede_2003_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Triennio — Quesito 2
 
 *lettere automobilistiche da 2 a 4 lettere, conteggio*
 

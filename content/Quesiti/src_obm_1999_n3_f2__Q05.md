@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n3_f2__Q05
 parent: src_obm_1999_n3_f2
@@ -32,8 +33,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 5
 
 *Probability of using magenta glasses on August 31 given a daily random choice*
 

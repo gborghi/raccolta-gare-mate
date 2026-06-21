@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q09
 parent: src_gas_2009_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 9
 
 *Spigoli minimi cancellati per cammino euleriano su icosaedro*
 

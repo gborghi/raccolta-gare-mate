@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_biennio__Q07
 parent: src_archimede_2026_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Biennio — Quesito 7
 
 *Modi di dividere 16 caramelle con vincolo amici uguali*
 

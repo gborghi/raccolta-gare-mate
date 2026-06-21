@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q10
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 10
 
 *Quale immagine vede Luca guardando la piramide dall alto*
 

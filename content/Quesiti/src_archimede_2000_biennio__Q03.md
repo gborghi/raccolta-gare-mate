@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q03
 parent: src_archimede_2000_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 3
 
 *Media aritmetica dei numeri da 1 a 2000*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013__Q01
 parent: src_cesenatico_2013
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 1
 
 *velocita intere salita/piano/discesa*
 

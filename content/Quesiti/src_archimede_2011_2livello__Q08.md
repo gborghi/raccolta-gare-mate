@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_2livello__Q08
 parent: src_archimede_2011_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 8
 
 *Numeri di 10 cifre diverse con coppie a somma 9*
 

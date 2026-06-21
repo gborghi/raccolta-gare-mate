@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q21
 parent: src_kangourou_2006_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 21
 
 *Divisibilita della somma di due interi dato il prodotto*
 

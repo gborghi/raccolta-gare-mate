@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q05
 parent: src_canimath_2021_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 5
 
 *Pair 0..13 into 7 pairs so the product of the pair-sums is a perfect square*
 

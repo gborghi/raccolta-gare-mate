@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n2_f1__Q23
 parent: src_obm_2008_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 23
 
 *Determine result of Austria vs Denmark from group standings*
 

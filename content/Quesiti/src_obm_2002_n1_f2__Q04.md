@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f2__Q04
 parent: src_obm_2002_n1_f2
@@ -33,8 +34,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 4
 
 *Three friends with dresses and shoes in three colors; deduce each friend's dress color*
 

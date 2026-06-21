@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f1__Q01
 parent: src_obm_2007_n1_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 1
 
 *Pattern in products of 101 by repunits; digit sum for 2007 ones*
 

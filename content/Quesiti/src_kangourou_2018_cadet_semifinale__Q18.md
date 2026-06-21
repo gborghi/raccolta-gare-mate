@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q18
 parent: src_kangourou_2018_cadet_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 18
 
 *Massima differenza punteggio tra due concorrenti*
 

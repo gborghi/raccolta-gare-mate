@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - semifinale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q09
 parent: src_kangourou_2021_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - semifinale — Quesito 9
 
 *Massimo rapporto velocita Sandro/Carlo senza sorpasso*
 

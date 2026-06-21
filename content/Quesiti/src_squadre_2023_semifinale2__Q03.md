@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale2__Q03
 parent: src_squadre_2023_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2 — Quesito 3
 
 *Area massima triangolo lato minore 38 e maggiore 181*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q16
 parent: src_kangourou_2017_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (semifinale individuale) — Quesito 16
 
 *Minima velocita intera per non far affondare la barca*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ1
 parent: src_kangourou_2019_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito J1
 
 *Strategia vincente nel gioco dei 66 gettoni (chi prende l ultimo perde)*
 

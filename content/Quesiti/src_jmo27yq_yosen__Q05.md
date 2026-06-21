@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo27yq_yosen__Q05
 parent: src_jmo27yq_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 5
 
 *Count tuples of distinct positives with a+b=c+d+e=29*
 

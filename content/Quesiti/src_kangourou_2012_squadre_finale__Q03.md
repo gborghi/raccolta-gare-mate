@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q03
 parent: src_kangourou_2012_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 3
 
 *Numero di cifre di 8^5 * 5^17 * 7^3*
 

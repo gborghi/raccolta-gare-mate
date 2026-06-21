@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - finale settembre — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q06
 parent: src_kangourou_2020_junior_settembre
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - finale settembre — Quesito 6
 
 *Allineamento di M,N,P nel triangolo con incerchio*
 

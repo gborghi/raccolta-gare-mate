@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q07
 parent: src_squadre_2024_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 7
 
 *Numero 4 cifre con n=a^a+b^b+c^c+d^d*
 

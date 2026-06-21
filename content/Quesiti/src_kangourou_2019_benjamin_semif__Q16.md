@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q16
 parent: src_kangourou_2019_benjamin_semif
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 16
 
 *Perimetro del rettangolo R diviso in 4 rettangoli*
 

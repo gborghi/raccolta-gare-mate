@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q06
 parent: src_canimath_2025_automne
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 6
 
 *Equal areas of parallelogram ABCD and constructed parallelogram AEFG*
 

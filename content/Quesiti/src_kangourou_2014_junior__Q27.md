@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q27
 parent: src_kangourou_2014_junior
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 27
 
 *Misura dell’angolo TBP (tangente e bisettrice)*
 

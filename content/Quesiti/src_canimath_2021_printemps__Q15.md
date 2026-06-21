@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q15
 parent: src_canimath_2021_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 15
 
 *Smallest n with reals in (-1,1) summing to 0 and squares summing to 2020*
 

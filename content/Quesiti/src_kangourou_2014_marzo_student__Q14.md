@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 gara 20 marzo Student — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q14
 parent: src_kangourou_2014_marzo_student
@@ -29,8 +30,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2014 gara 20 marzo Student — Quesito 14
 
 *Terne a>b>c>1 con 1/a+1/b+1/c>1*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q09
 parent: src_canimath_2022_automne
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 9
 
 *Isosceles triangle; angle PCQ in terms of x (lycée)*
 

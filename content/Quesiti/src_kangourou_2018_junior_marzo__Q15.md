@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q15
 parent: src_kangourou_2018_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 15
 
 *Percentuale studenti che studia una lingua*
 

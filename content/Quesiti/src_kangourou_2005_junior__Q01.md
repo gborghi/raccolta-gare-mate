@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q01
 parent: src_kangourou_2005_junior
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 1
 
 *Studenti totali con Elena 50ma da entrambi i lati*
 

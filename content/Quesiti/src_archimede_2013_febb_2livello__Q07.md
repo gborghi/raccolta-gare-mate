@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q07
 parent: src_archimede_2013_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 7
 
 *Rapporto aree dividendo angolo retto del quadrato in tre*
 

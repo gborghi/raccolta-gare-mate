@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1994 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_1994__Q01
 parent: src_rmo_1994
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1994 — Quesito 1
 
 *Sum of page numbers on torn leaf of a book*
 

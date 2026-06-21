@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2021__Q07
 parent: src_selection_camp_2021
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2021 — Selection Camp — Quesito 7
 
 *Functional equation over the reals with nested f*
 

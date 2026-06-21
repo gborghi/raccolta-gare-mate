@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q14
 parent: src_garaprime_2025
@@ -23,8 +24,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 14
 
 *Studenti che amano la matematica (insiemi)*
 

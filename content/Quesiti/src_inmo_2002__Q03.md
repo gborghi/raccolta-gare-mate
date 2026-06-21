@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2002 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2002__Q03
 parent: src_inmo_2002
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2002 — Quesito 3
 
 *Prove $x^2y^2(x^2+y^2)\le 2$ for positive reals with $x+y=2$*
 

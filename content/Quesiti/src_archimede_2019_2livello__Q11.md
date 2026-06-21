@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_2livello__Q11
 parent: src_archimede_2019_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2019 - 2° livello — Quesito 11
 
 *Cerchi centrati nei quadrati perfetti, perimetro castello*
 

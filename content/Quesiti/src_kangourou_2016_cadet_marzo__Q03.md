@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Cadet (gara marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q03
 parent: src_kangourou_2016_cadet_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Cadet (gara marzo) — Quesito 3
 
 *risultato sommando 26*
 

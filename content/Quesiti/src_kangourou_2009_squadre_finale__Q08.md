@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q08
 parent: src_kangourou_2009_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale — Quesito 8
 
 *Segmento x per trasformare rettangolo in quadrato*
 

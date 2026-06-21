@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2007-08_round1__Q03
 parent: src_bmo_2007-08_round1
@@ -25,8 +26,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2007-08 — Round 1 — Quesito 3
 
 *Diameter and perpendiculars in a circle; prove LS = LT*
 

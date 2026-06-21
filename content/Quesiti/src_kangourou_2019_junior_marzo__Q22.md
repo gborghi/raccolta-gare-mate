@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q22
 parent: src_kangourou_2019_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 22
 
 *Distanza di A dal centro del disco rotante*
 

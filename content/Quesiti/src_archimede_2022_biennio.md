@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Biennio
 tipo: gara
 src_id: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Biennio
 
 Sorgente: `Archimede/individuale/1livello/2022/archimede_biennio_2022.pdf` · apri PDF
 

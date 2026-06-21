@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q11
 parent: src_kangourou_2011_squadre_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A — Quesito 11
 
 *Massimo somme intere distinte di 10 numeri (uno non intero)*
 

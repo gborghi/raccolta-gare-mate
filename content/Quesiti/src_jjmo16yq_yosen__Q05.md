@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo16yq_yosen__Q05
 parent: src_jjmo16yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 5
 
 *Area of rectangle PQRS inscribed in rectangle ABCD with FQ:QR=2:3*
 

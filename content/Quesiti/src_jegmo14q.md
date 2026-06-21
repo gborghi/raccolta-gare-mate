@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2025
 tipo: gara
 src_id: src_jegmo14q
 competition: Japan EGMO Selection / Girls MO 2025
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2025
 
 Sorgente: apri PDF
 

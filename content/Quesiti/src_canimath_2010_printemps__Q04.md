@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2010 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2010_printemps__Q04
 parent: src_canimath_2010_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2010 — Quesito 4
 
 *Eight-team round-robin: prove a chain A>B,C,D; B>C,D; C>D exists; ask about seven teams*
 

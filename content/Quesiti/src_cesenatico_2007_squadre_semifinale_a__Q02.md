@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_a__Q02
 parent: src_cesenatico_2007_squadre_semifinale_a
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 2
 
 *Numero 4 cifre multiplo 25 con condizione cifre centrali*
 

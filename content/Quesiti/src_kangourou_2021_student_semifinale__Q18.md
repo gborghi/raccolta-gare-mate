@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q18
 parent: src_kangourou_2021_student_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 18
 
 *Minimo numero di domande sul prodotto di terne su 98 numeri*
 

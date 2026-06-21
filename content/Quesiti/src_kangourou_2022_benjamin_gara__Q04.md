@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q04
 parent: src_kangourou_2022_benjamin_gara
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 4
 
 *Minimo veicoli da spostare per far uscire l'auto nera*
 

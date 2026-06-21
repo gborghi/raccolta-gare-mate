@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_maggio__QE5
 parent: src_kangourou_2008_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E5
 
 *Dopo quanti secondi Pimpy di nuovo accanto ad Arturo*
 

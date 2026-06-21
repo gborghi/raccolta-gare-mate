@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q05
 parent: src_kangourou_2019_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Ecolier — Quesito 5
 
 *Numero pensato per comporre il braccialetto*
 

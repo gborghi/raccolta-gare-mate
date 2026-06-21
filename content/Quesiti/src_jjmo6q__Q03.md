@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo6q__Q03
 parent: src_jjmo6q
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008 — Quesito 3
 
 *Find angle BFD on circle with six equal arcs and angle ACE=68°*
 

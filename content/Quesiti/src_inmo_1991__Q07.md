@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_inmo_1991__Q07
 parent: src_inmo_1991
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991 — Quesito 7
 
 *Find all real solutions to a symmetric system of three equations*
 

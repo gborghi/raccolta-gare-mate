@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q08
 parent: src_prmo_2012
@@ -33,8 +34,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 8
 
 *Area of triangle AEB in rectangle with intersecting segments*
 

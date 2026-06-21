@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2023 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2023__Q04
 parent: src_inmo_2023
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2023 — Quesito 4
 
 *Calvin and Hobbes coin game on a circle; find all k for which Calvin wins*
 

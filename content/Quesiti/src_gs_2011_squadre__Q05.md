@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q05
 parent: src_gs_2011_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 5
 
 *Numeri k con k^2+1 divisore di a*
 

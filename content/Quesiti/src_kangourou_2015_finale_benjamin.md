@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Benjamin
 tipo: gara
 src_id: src_kangourou_2015_finale_benjamin
 competition: Kangourou 2015 finale nazionale Benjamin
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Benjamin
 
 Sorgente: `Kangaroo/kangourou_individuali/2015/BMaggio-15.pdf` · apri PDF
 

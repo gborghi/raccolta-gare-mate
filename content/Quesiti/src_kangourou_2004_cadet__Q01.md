@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet__Q01
 parent: src_kangourou_2004_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo) — Quesito 1
 
 *Risultato di 2004-4*200*
 

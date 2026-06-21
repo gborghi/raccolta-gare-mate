@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2025_kv__Q04
 parent: src_rmo_2025_kv
@@ -33,8 +34,6 @@ tags:
   - regione/kv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 4
 
 *Count frog paths from (0,0) to (n,2) avoiding consecutive UU or DD*
 

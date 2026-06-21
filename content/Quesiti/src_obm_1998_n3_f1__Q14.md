@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q14
 parent: src_obm_1998_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 14
 
 *If x men make x bundles in x seconds, how many seconds do y men take to make y bundles?*
 

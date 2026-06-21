@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_maggio__QS1
 parent: src_kangourou_2008_student_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S1
 
 *Numero di sottoinsiemi con numero dispari di elementi*
 

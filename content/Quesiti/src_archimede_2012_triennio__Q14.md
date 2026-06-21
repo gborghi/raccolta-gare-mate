@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q14
 parent: src_archimede_2012_triennio
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 14
 
 *Distanza punti medi su sviluppo del cono*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_2livello__Q07
 parent: src_archimede_2008_2livello
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 7
 
 *Ordinamenti di 1,2,4,7,9 che danno multiplo di 11*
 

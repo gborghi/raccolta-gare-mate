@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1997-98 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1997-98_round1__Q02
 parent: src_bmo_1997-98_round1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1997-98 — Round 1 — Quesito 2
 
 *Mod-100 Fibonacci-like sequence; sum of squares mod 8*
 

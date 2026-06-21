@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r4__Q04
 parent: src_rmo_2012_r4
@@ -35,8 +36,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 4 — Quesito 4
 
 *Count pairs {A,B} of subsets of {1,...,11} with A != B and a given intersection*
 

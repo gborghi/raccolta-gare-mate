@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q06
 parent: src_archimede_1997_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 6
 
 *Minuti per formare una catena aperta di 10 anelli*
 

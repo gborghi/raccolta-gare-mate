@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre
 tipo: gara
 src_id: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre
 
 Sorgente: `Archimede/squadre/locale/soluzioni/GS_2013_soluzioni.pdf` · apri PDF
 

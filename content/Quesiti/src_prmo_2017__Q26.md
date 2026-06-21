@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q26
 parent: src_prmo_2017
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 26
 
 *Find m+n+k for area between two parallel chords AB=6, CD=8 in circle radius 5*
 

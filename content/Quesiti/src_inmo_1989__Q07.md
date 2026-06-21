@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1989 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_inmo_1989__Q07
 parent: src_inmo_1989
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1989 — Quesito 7
 
 *Acute triangle: locus of P so that pedal triangle DEF is isosceles or equilateral*
 

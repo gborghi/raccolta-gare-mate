@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Benjamin — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin_finale__Q01
 parent: src_kangourou_2014_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Benjamin — Quesito 1
 
 *Turni minimi perché ogni ragazzo balli con ogni ragazza*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q14
 parent: src_kangourou_2017_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 14
 
 *Misure della scatola piu piccola per la costruzione*
 

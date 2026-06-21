@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f1__Q24
 parent: src_obm_2001_n2_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 24
 
 *Number of wolves among five animals where dogs tell truth and wolves lie*
 

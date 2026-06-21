@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1986 (27th IMO, Warsaw) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1986__Q05
 parent: src_imo_1986
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1986 (27th IMO, Warsaw) — Quesito 5
 
 *Find all functions with f(xf(y))f(y)=f(x+y) and f(2)=0*
 

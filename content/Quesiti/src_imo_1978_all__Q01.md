@@ -1,4 +1,5 @@
 ---
+title: IMO 1978 (Twentieth International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1978_all__Q01
 parent: src_imo_1978_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1978 (Twentieth International Olympiad) — Quesito 1
 
 *Minimize m+n with equal last three digits of 1978^m,1978^n*
 

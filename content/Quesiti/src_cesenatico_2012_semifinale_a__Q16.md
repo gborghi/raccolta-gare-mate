@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_a__Q16
 parent: src_cesenatico_2012_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - gara/squadre
 ---
 
-# Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 16
-
 *Configurazioni distinte di 8 dischetti ad anello*
 
 > Le dodici scimmie
@@ -40,11 +39,14 @@ tags:
 > vaccino funziona anche se l’intero virus cambia posizione rigidamente, ruotando attorno al centro dell’anello o ribaltandosi
 > completamente. Quanti diversi vaccini dovranno preparare i pochi superstiti per debellare il virus?
 > 
-> 	  
+> 	
+  
 > 
-> 	  
+> 	
+  
 > 
-> 	  
+> 	
+  
 > 
 > Cesenatico 2012
 > XIII GARA NAZIONALE A

@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_tfjm_2022__Q02
 parent: src_tfjm_2022
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 2
 
 *Swallows on electric wires sing musical themes determined by a reflection-type recurrence on their positions; study which themes appear, periodicity, sharpest themes, and generalized bird species.*
 

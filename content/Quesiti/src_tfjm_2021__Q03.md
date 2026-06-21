@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_tfjm_2021__Q03
 parent: src_tfjm_2021
@@ -37,8 +38,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 3
 
 *Single pizzaiolo schedules n pizzas (one at a time) to be ready near time 0; minimize total weighted earliness/lateness penalty*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r2__Q02
 parent: src_rmo_2012_r2
@@ -32,8 +33,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 2 — Quesito 2
 
 *Positive integers with divisibility, same set of prime divisors*
 

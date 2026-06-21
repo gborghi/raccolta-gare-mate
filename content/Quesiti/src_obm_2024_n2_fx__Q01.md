@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n2_fx__Q01
 parent: src_obm_2024_n2_fx
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 1
 
 *Sequence formed by repeated prime-factorization operation; three sub-parts*
 

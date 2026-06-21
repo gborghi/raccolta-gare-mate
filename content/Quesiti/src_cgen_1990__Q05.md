@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1990 — Matematica — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cgen_1990__Q05
 parent: src_cgen_1990
@@ -34,8 +35,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1990 — Matematica — Quesito 5
 
 *Triangle with incircle: area, perimeter, angle; existence and approximation*
 

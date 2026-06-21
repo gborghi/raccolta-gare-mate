@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2025 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_printemps__Q04
 parent: src_canimath_2025_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2025 — Quesito 4
 
 *Show a product of pairwise differences under permutation is even*
 

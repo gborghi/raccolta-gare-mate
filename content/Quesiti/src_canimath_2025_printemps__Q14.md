@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2025 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_printemps__Q14
 parent: src_canimath_2025_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2025 — Quesito 14
 
 *Max and min of sum of consecutive absolute differences over n-permutations*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale2__Q10
 parent: src_squadre_2023_semifinale2
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2 — Quesito 10
 
 *Rapporto aree triangoli BMF e BSQ*
 

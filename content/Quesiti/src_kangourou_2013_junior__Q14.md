@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q14
 parent: src_kangourou_2013_junior
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 14
 
 *Percentuale di ragazze da incremento medie*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q14
 parent: src_kangourou_2019_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 14
 
 *Per quanti n sia n-2019 sia n+6000 quadrati*
 

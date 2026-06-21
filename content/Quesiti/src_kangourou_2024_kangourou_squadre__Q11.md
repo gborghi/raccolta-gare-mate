@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q11
 parent: src_kangourou_2024_kangourou_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 11
 
 *Valore n dato tre somme 401,444,468*
 

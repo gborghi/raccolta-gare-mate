@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q01
 parent: src_kangourou_2011_student
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 1
 
 *Numeri sui vertici di esagono con somme uguali per lato*
 

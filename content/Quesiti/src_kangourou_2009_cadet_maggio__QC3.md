@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_maggio__QC3
 parent: src_kangourou_2009_cadet_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C3
 
 *Il numero 29^28+4 e primo*
 

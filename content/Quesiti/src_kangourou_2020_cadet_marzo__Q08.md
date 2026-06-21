@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q08
 parent: src_kangourou_2020_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 8
 
 *Quale affermazione fanno il bugiardo e il sincero*
 

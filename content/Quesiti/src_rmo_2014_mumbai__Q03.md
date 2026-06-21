@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Mumbai — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_mumbai__Q03
 parent: src_rmo_2014_mumbai
@@ -29,8 +30,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Mumbai — Quesito 3
 
 *Prove BO perpendicular to AC when DE parallel to AC*
 

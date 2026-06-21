@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q06
 parent: src_archimede_2025_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 6
 
 *Somma primi della forma n^4-2023n^2+1*
 

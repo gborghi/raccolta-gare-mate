@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2009 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2009_printemps__Q05
 parent: src_canimath_2009_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2009 — Quesito 5
 
 *Four coins touching in sequence; prove angle ABC + angle CDA = 180 degrees*
 

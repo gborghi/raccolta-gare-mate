@@ -1,4 +1,5 @@
 ---
+title: IMO 1964 (VI International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imho_1964__Q06
 parent: src_imho_1964
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1964 (VI International Olympiad) — Quesito 6
 
 *Provare volume ABCD un terzo di A1B1C1D0 nel tetraedro*
 

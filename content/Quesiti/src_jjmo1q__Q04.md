@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q04
 parent: src_jjmo1q
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 4
 
 *Count closed walks on regular tetrahedron returning to start after visiting all vertices*
 

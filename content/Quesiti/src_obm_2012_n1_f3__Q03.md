@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f3__Q03
 parent: src_obm_2012_n1_f3
@@ -39,8 +40,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 3
 
 *From a pile of 25 cards Doroti takes some and returns the rest to Cristina; using divisibility/coprimality/parity facts about the two counts, find the numbers.*
 

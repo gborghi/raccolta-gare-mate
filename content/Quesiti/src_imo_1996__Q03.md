@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1996 (37th IMO, Mumbai) — Quesito 3'
 tipo: quesito
 quesito_id: quesito_src_imo_1996__Q03
 parent: src_imo_1996
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1996 (37th IMO, Mumbai) — Quesito 3
 
 *Find all f with f(m+f(n))=f(f(m))+f(n)*
 

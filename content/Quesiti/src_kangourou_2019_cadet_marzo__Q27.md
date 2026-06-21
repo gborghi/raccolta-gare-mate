@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q27
 parent: src_kangourou_2019_cadet_marzo
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 27
 
 *Quale coppia di cerchi e necessariamente dello stesso colore*
 

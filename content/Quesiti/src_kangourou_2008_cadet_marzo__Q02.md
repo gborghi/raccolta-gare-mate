@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q02
 parent: src_kangourou_2008_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 2
 
 *Minimo numero di ragazze con l influenza*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q27
 parent: src_kangourou_2003_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 27
 
 *Spirale di triangoli isosceli, primo a coprire il n.0*
 

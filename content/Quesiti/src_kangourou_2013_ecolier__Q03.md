@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_ecolier__Q03
 parent: src_kangourou_2013_ecolier
@@ -23,8 +24,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier — Quesito 3
 
 *Chi e Barbara dati gli oggetti posseduti*
 

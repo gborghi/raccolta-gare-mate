@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q04
 parent: src_kangourou_2023_junior_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 4
 
 *tentativi massimi noti i vincoli sulle cifre*
 

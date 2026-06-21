@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2016-17_round2__Q01
 parent: src_bmo_2016-17_round2
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 2 — Quesito 1
 
 *Count n≤2017 for which a right-angled isosceles triangle has exactly n lattice points on its perimeter*
 

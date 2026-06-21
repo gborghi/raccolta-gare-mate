@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q16
 parent: src_kangourou_2011_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 16
 
 *Minimo numero di aree per calcolare area del parallelogramma X*
 

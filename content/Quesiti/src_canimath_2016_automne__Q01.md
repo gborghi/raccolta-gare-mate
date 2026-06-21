@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2016 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_automne__Q01
 parent: src_canimath_2016_automne
@@ -31,8 +32,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2016 — Quesito 1
 
 *Logic: who broke the window among four children*
 

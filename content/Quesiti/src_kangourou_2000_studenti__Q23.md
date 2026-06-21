@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q23
 parent: src_kangourou_2000_studenti
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 23
 
 *Minimo numero di giudici per media 5.625*
 

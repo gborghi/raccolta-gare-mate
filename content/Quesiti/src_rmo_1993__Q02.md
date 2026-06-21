@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1993 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1993__Q02
 parent: src_rmo_1993
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1993 — Quesito 2
 
 *Ten's digit of any power of 3 is even*
 

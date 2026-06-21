@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n3_fx__Q04
 parent: src_obm_2019_n3_fx
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x — Quesito 4
 
 *For every positive m there exists n_m so unit sum of n-th powers of reciprocals holds*
 

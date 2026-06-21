@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n3_f1__Q20
 parent: src_obm_2012_n3_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 20
 
 *Evaluate sum of (n+1)^2/n! in terms of e*
 

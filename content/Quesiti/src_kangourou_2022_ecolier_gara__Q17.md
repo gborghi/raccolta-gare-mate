@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier gara individuale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q17
 parent: src_kangourou_2022_ecolier_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier gara individuale — Quesito 17
 
 *Quanti tasselli bianchi usati nel cubo*
 

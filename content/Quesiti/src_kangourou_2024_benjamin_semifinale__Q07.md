@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q07
 parent: src_kangourou_2024_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 7
 
 *Chi ha mentito tra i quattro nipotini*
 

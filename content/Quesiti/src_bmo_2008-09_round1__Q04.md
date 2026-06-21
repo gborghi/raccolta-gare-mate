@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2008-09 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2008-09_round1__Q04
 parent: src_bmo_2008-09_round1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2008-09 — Round 1 — Quesito 4
 
 *Find positive integers n with n+2008 | n²+2008 and n+2009 | n²+2009*
 

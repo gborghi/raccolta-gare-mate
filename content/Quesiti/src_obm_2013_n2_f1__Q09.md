@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f1__Q09
 parent: src_obm_2013_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 9
 
 *Three-door problem: deduce which door hides the car from porter statements*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_2livello__Q08
 parent: src_archimede_2018_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2018 - 2° livello — Quesito 8
 
 *Tre amiche a calcio, chi ha iniziato in porta*
 

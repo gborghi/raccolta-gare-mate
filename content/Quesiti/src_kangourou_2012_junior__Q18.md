@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q18
 parent: src_kangourou_2012_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 18
 
 *Numero nella cella libera della prima riga*
 

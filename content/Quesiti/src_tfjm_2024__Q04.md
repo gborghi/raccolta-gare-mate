@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_tfjm_2024__Q04
 parent: src_tfjm_2024
@@ -36,8 +37,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 4
 
 *Depollution of the Seine: a discrete dynamical model of clean vs. polluted water volumes in a basin where bacteria reproduce (factor K) and die at midnight; study the recurrence v_T under several movement rules, stirring, evaporation, and weather.*
 

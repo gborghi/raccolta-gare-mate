@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q21
 parent: src_kangourou_2020_pre_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 21
 
 *Quante mele gialle nel cestino*
 

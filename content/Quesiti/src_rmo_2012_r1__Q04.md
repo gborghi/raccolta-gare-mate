@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r1__Q04
 parent: src_rmo_2012_r1
@@ -32,8 +33,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 1 — Quesito 4
 
 *Count unordered pairs {A,B} subsets of {1,...,10} with A∩B={2,3,5,7}*
 

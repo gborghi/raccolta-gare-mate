@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q07
 parent: src_cesenatico_2004_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 7
 
 *Primo termine della ricorrenza a=7a+1 divisibile per 30*
 

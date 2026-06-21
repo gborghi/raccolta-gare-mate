@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f3__Q03
 parent: src_obm_2010_n3_f3
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 3
 
 *Largest shadow (orthogonal projection area) of a unit-edge solid cube*
 

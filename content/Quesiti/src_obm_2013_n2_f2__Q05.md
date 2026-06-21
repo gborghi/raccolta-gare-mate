@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f2__Q05
 parent: src_obm_2013_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 5
 
 *Max bishops on 8x8 board with no two attacking each other*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q15
 parent: src_archimede_2024_triennio_rec
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 15
 
 *Area triangolo BCD con D simmetrico rispetto al baricentro*
 

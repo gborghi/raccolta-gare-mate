@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f1__Q14
 parent: src_obm_2011_n3_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 14
 
 *First nonzero digit after the decimal point of 1/5^10*
 

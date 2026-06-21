@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q17
 parent: src_kangourou_2024_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 17
 
 *Perimetro del quarto rettangolino noti gli altri tre*
 

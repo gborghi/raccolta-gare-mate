@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student finale individuale — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_finale__QS1
 parent: src_kangourou_2021_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2021 Student finale individuale — Quesito S1
 
 *Rapporto dei volumi di due sfere viste della stessa grandezza*
 

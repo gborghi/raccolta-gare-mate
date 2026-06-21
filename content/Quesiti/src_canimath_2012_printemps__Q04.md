@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2012 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_printemps__Q04
 parent: src_canimath_2012_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2012 — Quesito 4
 
 *Who is right about the 'additivity of fractions' identity a/b+c/d=(a+c)/(b+d)*
 

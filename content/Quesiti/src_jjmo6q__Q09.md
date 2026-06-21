@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo6q__Q09
 parent: src_jjmo6q
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008 — Quesito 9
 
 *Min rounds for 2008 boys and 2008 girls gift-exchange meeting*
 

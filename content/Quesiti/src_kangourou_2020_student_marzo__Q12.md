@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q12
 parent: src_kangourou_2020_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 12
 
 *Mosse minime per girare 5 monete girandone 3 alla volta*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q06
 parent: src_cesenatico_2012_finale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 6
 
 *C2=E, BAxB=ECE, ABxCBA=EDDDE*
 

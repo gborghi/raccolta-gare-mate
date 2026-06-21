@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1995-96 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1995-96_round1__Q04
 parent: src_bmo_1995-96_round1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1995-96 — Round 1 — Quesito 4
 
 *Determine all n with q(n) > q(n+1) where q(n)=floor(n/floor(sqrt n))*
 

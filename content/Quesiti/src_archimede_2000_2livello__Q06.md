@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q06
 parent: src_archimede_2000_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 6
 
 *Quali dati servono per scegliere il percorso più breve*
 

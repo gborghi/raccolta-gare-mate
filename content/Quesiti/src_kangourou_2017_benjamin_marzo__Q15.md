@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q15
 parent: src_kangourou_2017_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 15
 
 *Numero massimo a 7 cifre cancellando 24 cifre*
 

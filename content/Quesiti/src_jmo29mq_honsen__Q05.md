@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo29mq_honsen__Q05
 parent: src_jmo29mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 5
 
 *Beautiful sets and a uniform bound on non-multiples*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n3_f1__Q25
 parent: src_obm_2012_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 25
 
 *Product of all entries in a 100x100 table of gcd(i,j) values*
 

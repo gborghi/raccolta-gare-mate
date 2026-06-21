@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ6
 parent: src_kangourou_2023_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J6
 
 *coppie a distanza massima ≤ n*
 

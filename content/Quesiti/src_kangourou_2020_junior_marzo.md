@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - gara marzo (biennio)
 tipo: gara
 src_id: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - gara marzo (biennio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/JMarzo-20.pdf` · apri PDF
 

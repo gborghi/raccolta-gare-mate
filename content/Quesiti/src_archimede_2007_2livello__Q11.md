@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q11
 parent: src_archimede_2007_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 11
 
 *Probabilità gruppo di 6 con due ori, due argenti, due strette*
 

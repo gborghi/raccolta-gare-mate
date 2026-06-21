@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2005 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2005__Q06
 parent: src_rmo_2005
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2005 — Quesito 6
 
 *All triples of positive integers with a+b+c+ab+bc+ca = abc+1*
 

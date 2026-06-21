@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2025_kv__Q06
 parent: src_rmo_2025_kv
@@ -32,8 +33,6 @@ tags:
   - regione/kv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 6
 
 *Digit-sum of a_n^2 equals n^2+n+7 for all n≥0*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2017__Q10
 parent: src_selection_camp_2017
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2017 — Selection Camp — Quesito 10
 
 *Find all n>=3: for any 2n reals with |a_k|+|b_k|=1, choose x_k=pm1 bounding two sums*
 

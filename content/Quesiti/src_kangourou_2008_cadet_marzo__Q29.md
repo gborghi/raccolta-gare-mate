@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q29
 parent: src_kangourou_2008_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 29
 
 *Quanti razionali sono quadrati perfetti (MCD,mcm)*
 

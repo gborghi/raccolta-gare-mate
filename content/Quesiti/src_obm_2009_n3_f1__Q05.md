@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q05
 parent: src_obm_2009_n3_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 5
 
 *One of five numbers divides the sum of the other four; which one.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q10
 parent: src_kangourou_2019_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 10
 
 *Massimo k appendendo una cifra a destra a N per ottenere kN*
 

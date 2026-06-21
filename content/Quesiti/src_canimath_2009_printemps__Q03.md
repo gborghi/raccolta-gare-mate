@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2009 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2009_printemps__Q03
 parent: src_canimath_2009_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2009 — Quesito 3
 
 *Two-digit numbers: always choose two with distinct units and tens digits*
 

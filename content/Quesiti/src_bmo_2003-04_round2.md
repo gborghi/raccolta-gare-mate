@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2003-04 — Round 2
 tipo: gara
 src_id: src_bmo_2003-04_round2
 competition: British Mathematical Olympiad 2003-04 — Round 2
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2003-04 — Round 2
 
 Sorgente: apri PDF
 

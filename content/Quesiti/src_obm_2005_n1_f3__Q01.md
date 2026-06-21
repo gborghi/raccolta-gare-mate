@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n1_f3__Q01
 parent: src_obm_2005_n1_f3
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3 — Quesito 1
 
 *Number of small cubes needed to form a single face of a large hollow cube*
 

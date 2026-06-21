@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1977-78 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1977-78_round2__Q01
 parent: src_bmo_1977-78_round2
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1977-78 — Round 2 — Quesito 1
 
 *Convex pentagon unit-triangle property: equal area, infinitely many non-congruent*
 

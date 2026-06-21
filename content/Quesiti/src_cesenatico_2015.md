@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2015 - testi
 tipo: gara
 src_id: src_cesenatico_2015
 competition: Olimpiade Italiana (Cesenatico) 2015 - testi
@@ -15,8 +16,6 @@ tags:
   - anno/2015
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2015 - testi
 
 Sorgente: `Archimede/individuale/nazionale/2015/ces15.pdf` · apri PDF
 

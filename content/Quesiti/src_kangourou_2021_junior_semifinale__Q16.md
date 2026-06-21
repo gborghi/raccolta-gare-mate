@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior Semifinale individuale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q16
 parent: src_kangourou_2021_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior Semifinale individuale — Quesito 16
 
 *Resto dividendo per 5 il prodotto dei numeri di 5 cifre*
 

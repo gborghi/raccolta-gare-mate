@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q09
 parent: src_kangourou_2019_benjamin_semif
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 9
 
 *Quanti diversi decori di esagoni con triangolini colorati*
 

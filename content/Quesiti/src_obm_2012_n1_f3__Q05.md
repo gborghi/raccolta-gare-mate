@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f3__Q05
 parent: src_obm_2012_n1_f3
@@ -39,8 +40,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 5
 
 *Amoebas fuse in pairs (red+red->1 blue, red+blue->2 red, blue+blue->2 red); from 19 blue and 95 red, find the maximum size of the next generation and the number of blue amoebas when the total is 100.*
 

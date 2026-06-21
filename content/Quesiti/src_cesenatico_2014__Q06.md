@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2014__Q06
 parent: src_cesenatico_2014
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 6
 
 *minimo numero di caselle speciali*
 

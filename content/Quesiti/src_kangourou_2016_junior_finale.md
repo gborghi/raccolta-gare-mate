@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (finale Cervia)
 tipo: gara
 src_id: src_kangourou_2016_junior_finale
 competition: Kangourou 2016 Junior (finale Cervia)
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (finale Cervia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2016/JMaggio-16.pdf` · apri PDF
 

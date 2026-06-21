@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 1
 tipo: gara
 src_id: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Junior Finale 1
 
 Sorgente: `Kangaroo/kangourou_squadre/2022/Junior2022RFIN1.pdf` · apri PDF
 

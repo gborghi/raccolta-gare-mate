@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x
 tipo: gara
 src_id: src_obm_2020_n2_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x
@@ -19,8 +20,6 @@ tags:
   - gara/individuale
   - fase/x
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x
 
 Sorgente: apri PDF
 

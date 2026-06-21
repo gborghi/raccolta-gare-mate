@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2002 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_2livello__Q14
 parent: src_archimede_2002_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2002 — Quesito 14
 
 *Conteggio celle del cubo da colorare (4 caselle ai vertici)*
 

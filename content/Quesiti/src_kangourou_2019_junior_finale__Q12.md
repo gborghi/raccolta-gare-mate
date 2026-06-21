@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q12
 parent: src_kangourou_2019_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 12
 
 *Prime quattro cifre decimali di (sqrt50+7)^4*
 

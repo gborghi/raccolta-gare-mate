@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q03
 parent: src_ioqm_2020
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 3
 
 *Telescoping sum equals 0.9999; find N*
 

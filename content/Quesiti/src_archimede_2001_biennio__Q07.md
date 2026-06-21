@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q07
 parent: src_archimede_2001_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 7
 
 *Figura ottenuta ruotando il diagramma attorno origine*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q02
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 2
 
 *Settori raggiungibili su scacchiera con costi 2 e 3, 60 palline*
 

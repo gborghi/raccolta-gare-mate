@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2001-02 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2001-02_round1__Q01
 parent: src_bmo_2001-02_round1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2001-02 — Round 1 — Quesito 1
 
 *Find positive integers m (even) and n (odd) with 1/m+1/n=4/2001*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — Non-KV — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2025_nonkv__Q02
 parent: src_rmo_2025_nonkv
@@ -31,8 +32,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2025 — Non-KV — Quesito 2
 
 *Find value of expression given three nonzero reals satisfying a system*
 

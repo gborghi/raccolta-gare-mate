@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f1__Q15
 parent: src_obm_2007_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 15
 
 *Set of c for which sqrt(x)=sqrt(sqrt(x)+c) has a real solution*
 

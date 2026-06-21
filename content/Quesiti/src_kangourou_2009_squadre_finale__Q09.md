@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q09
 parent: src_kangourou_2009_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale — Quesito 9
 
 *Primi due numeri dispettosi (resto 5 mod6, 7 mod8)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q23
 parent: src_kangourou_2021_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 23
 
 *Somma cifre di N+2021 con N minimo di somma cifre 2021*
 

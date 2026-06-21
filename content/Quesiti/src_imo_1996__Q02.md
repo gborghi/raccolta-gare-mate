@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1996 (37th IMO, Mumbai) — Quesito 2'
 tipo: quesito
 quesito_id: quesito_src_imo_1996__Q02
 parent: src_imo_1996
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1996 (37th IMO, Mumbai) — Quesito 2
 
 *Show AP, BD, CE concurrent with incenter angle condition*
 

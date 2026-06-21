@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q09
 parent: src_prmo_2012
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 9
 
 *Find value of X_144 in geometric-like sequence*
 

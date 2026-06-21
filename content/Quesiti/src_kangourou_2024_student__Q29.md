@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q29
 parent: src_kangourou_2024_student
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 29
 
 *Triangoli del dodecagono con almeno un angolo di 45 gradi*
 

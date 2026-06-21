@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f2__Q05
 parent: src_obm_2002_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 5
 
 *Sequence starting at 7; each next term is the digit sum of the previous term squared, plus 1; find the 2002nd element*
 

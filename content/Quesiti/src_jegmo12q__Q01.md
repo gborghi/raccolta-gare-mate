@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2023 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jegmo12q__Q01
 parent: src_jegmo12q
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2023 — Quesito 1
 
 *Find all prime pairs (p,q) with p≤q making a fraction an integer*
 

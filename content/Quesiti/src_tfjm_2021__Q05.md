@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_tfjm_2021__Q05
 parent: src_tfjm_2021
@@ -40,8 +41,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 5
 
 *Feudal lords own castles in a kingdom; influence zones via nearest-point regions; sworn enemies and Machiavellian lords; analyze configurations across segment/disc/square kingdoms*
 

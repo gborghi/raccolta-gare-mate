@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round2__Q02
 parent: src_bmo_1973-74_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 2 — Quesito 2
 
 *Polygonal line in a 50×50 square must have length greater than 1248*
 

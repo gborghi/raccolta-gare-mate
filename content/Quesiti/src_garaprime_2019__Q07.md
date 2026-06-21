@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q07
 parent: src_garaprime_2019
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 7
 
 *Orario finale della somma parallela di 200 foglietti*
 

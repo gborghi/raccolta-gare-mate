@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2005 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2005__Q06
 parent: src_inmo_2005
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2005 — Quesito 6
 
 *Find all f: R to R satisfying f(x^2 + yf(z)) = xf(x) + zf(y)*
 

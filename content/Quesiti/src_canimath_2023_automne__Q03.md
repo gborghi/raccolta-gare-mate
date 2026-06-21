@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2023 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_automne__Q03
 parent: src_canimath_2023_automne
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2023 — Quesito 3
 
 *5x5 grid of positive integers with every row sum odd; prove some column sum is also odd*
 

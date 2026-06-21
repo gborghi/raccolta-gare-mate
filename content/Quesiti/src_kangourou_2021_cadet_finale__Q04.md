@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q04
 parent: src_kangourou_2021_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - finale — Quesito 4
 
 *Minimo da togliere da 2..2021 senza prodotti rimasti*
 

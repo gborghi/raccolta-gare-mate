@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1988 (29th IMO, Canberra) — Quesito 4'
 tipo: quesito
 quesito_id: quesito_src_imo_1988__Q04
 parent: src_imo_1988
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1988 (29th IMO, Canberra) — Quesito 4
 
 *Inequality solution set is intervals of total length 1988*
 

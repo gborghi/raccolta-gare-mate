@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q10
 parent: src_kangourou_2019_junior_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 10
 
 *Modi di scegliere n con media maggiore di n*
 

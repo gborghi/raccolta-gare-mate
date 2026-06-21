@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__QE3
 parent: src_kangourou_2022_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito E3
 
 *Posizione di Sara a meta classifica con Gino e Pino*
 

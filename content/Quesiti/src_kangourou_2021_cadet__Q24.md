@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q24
 parent: src_kangourou_2021_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 24
 
 *Massimo numero di gettoni nella scatola (cassetti)*
 

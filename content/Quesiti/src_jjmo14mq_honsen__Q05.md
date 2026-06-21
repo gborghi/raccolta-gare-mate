@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo14mq_honsen__Q05
 parent: src_jjmo14mq_honsen
@@ -34,8 +35,6 @@ tags:
   - topic/grafi
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 5
 
 *Airlines X and Y on n cities, travel m flights avoiding Y-after-X*
 

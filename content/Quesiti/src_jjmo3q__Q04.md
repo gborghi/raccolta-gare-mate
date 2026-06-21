@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q04
 parent: src_jjmo3q
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 4
 
 *Linear combination of two equations in three reals*
 

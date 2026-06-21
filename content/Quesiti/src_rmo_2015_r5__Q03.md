@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 5 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r5__Q03
 parent: src_rmo_2015_r5
@@ -36,8 +37,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 5 — Quesito 3
 
 *Non-constant polynomial with positive integer coefficients, prove P(2015)=0 impossible*
 

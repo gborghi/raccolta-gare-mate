@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q28
 parent: src_kangourou_2008_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior (gara 28 marzo) — Quesito 28
 
 *Massimo diagonali senza punti in comune (4x4)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q06
 parent: src_kangourou_2015_marzo_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 6
 
 *Cifra delle unita di 2015^2+2015^0+2015^1+2015^5*
 

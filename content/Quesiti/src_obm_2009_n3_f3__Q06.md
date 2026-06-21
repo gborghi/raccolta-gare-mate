@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f3__Q06
 parent: src_obm_2009_n3_f3
@@ -38,8 +39,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3 — Quesito 6
 
 *Find all values of cyclic sum x_i/(x_{i-1}+x_i+x_{i+1}) for positive reals, n>3 fixed*
 

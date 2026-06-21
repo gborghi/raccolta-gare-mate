@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo18mq_honsen__Q04
 parent: src_jmo18mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 4
 
 *Find all real functions satisfying given functional equation*
 

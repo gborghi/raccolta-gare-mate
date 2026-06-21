@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f1__Q03
 parent: src_obm_2017_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1 — Quesito 3
 
 *Ellipse semi-diameters at right angles: invariant and envelope*
 

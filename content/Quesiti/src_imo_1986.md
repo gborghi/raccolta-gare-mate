@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1986 (27th IMO, Warsaw)'
 tipo: gara
 src_id: src_imo_1986
 competition: 'IMO 1986 (27th IMO, Warsaw)'
@@ -15,8 +16,6 @@ tags:
   - anno/1986
   - gara/individuale
 ---
-
-# IMO 1986 (27th IMO, Warsaw)
 
 Sorgente: `Archimede/individuale/imho/all/1986_eng.pdf` · apri PDF
 

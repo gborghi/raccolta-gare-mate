@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q07
 parent: src_cesenatico_2007_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 7
 
 *Numero dadi unitari con tutti e tre i colori (assemblaggio)*
 

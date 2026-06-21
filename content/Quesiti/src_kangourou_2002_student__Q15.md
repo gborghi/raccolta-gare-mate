@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q15
 parent: src_kangourou_2002_student
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 15
 
 *Riduzione spese con tre modifiche*
 

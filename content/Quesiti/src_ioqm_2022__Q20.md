@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q20
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 20
 
 *Permutation landmark points, find maximum n>=3 for L(n) a perfect square*
 

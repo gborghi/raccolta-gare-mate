@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q27
 parent: src_kangourou_2020_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 27
 
 *Quante gocce di colla nella piramide di sferette 4x4*
 

@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_garaprime_2026__Q05
 parent: src_garaprime_2026
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026 — Quesito 5
 
 *Modi di suddividere un rettangolo in 4 triangoli di area 1*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q29
 parent: src_kangourou_2014_cadet
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 29
 
 *Massimo foglie visitabili dalla rana (salti non adiacenti)*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2022_n2_fx__Q05
 parent: src_obm_2022_n2_fx
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 5
 
 *Divisor-addition process from 2022; find largest unattainable number*
 

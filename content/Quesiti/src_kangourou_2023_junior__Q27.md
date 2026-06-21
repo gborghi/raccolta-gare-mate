@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q27
 parent: src_kangourou_2023_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 27
 
 *Numeri 'equi' n - somma cifre = numero a 3 cifre uguali*
 

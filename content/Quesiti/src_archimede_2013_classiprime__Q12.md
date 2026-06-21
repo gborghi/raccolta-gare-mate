@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q12
 parent: src_archimede_2013_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 12
 
 *Numeri buoni di 6 cifre con cifre 1-4 e proprieta di minimo*
 

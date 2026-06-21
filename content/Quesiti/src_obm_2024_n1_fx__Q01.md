@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n1_fx__Q01
 parent: src_obm_2024_n1_fx
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 1
 
 *Special numbers: digit-sum supera condition, find smallest exceeding 2024*
 

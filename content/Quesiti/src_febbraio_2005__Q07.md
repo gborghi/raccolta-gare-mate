@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q07
 parent: src_febbraio_2005
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 7
 
 *Numero massimo di soluzioni di equazione con valore assoluto*
 

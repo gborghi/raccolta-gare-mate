@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n1_f1__Q18
 parent: src_obm_2010_n1_f1
@@ -37,8 +38,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 18
 
 *Which first break guarantees Fabio gets the almond square*
 

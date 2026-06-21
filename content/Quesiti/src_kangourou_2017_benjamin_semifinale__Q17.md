@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q17
 parent: src_kangourou_2017_benjamin_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 17
 
 *Prime quattro cifre della sequenza multipli di 17 o 23*
 

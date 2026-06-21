@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023
 tipo: gara
 src_id: src_kangourou_2023_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2023
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023
 
 Sorgente: `Kangaroo/kangourou_individuali/2023/Junior2023RSE.pdf` · apri PDF
 

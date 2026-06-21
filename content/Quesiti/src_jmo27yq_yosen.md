@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
 tipo: gara
 src_id: src_jmo27yq_yosen
 competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
 
 Sorgente: apri PDF
 

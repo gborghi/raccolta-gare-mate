@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q15
 parent: src_archimede_2016_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 15
 
 *Volume del cubo con tre fori quadrati passanti*
 

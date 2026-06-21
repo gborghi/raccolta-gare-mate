@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q20
 parent: src_kangourou_2018_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 20
 
 *Quanti numeri comuni alle scelte di Lara e Mara*
 

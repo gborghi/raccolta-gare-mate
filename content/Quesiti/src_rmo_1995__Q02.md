@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1995 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1995__Q02
 parent: src_rmo_1995
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1995 — Quesito 2
 
 *Positive integer n is good if there exist n integers with equal product and sum*
 

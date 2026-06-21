@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_garaprime_2026__Q03
 parent: src_garaprime_2026
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026 — Quesito 3
 
 *Lati del poligono con angolo interno 11 volte l'esterno*
 

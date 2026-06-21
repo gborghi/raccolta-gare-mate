@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2026 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jgmo1q__Q03
 parent: src_jgmo1q
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2026 — Quesito 3
 
 *Find all positive integer pairs (m,n) with 2^m = 8n^4 + n^2 - 1*
 

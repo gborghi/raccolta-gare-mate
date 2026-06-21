@@ -1,4 +1,5 @@
 ---
+title: IMO 1984 (25th International Mathematical Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1984__Q03
 parent: src_imo_1984
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1984 (25th International Mathematical Olympiad) — Quesito 3
 
 *point with same color on its circle*
 

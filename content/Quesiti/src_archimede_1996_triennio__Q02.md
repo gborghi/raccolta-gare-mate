@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q02
 parent: src_archimede_1996_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 2
 
 *Dove il cane raggiunge la lepre date le falcate*
 

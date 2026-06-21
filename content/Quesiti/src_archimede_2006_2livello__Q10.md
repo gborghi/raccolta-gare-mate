@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_2livello__Q10
 parent: src_archimede_2006_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 10
 
 *Valore di radice cubica di 2+√5 più radice cubica di 2-√5*
 

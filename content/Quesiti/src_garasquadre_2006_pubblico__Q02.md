@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q02
 parent: src_garasquadre_2006_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 2
 
 *Massimo x con cubica radice(x+1184)-radice(x-1184)=4*
 

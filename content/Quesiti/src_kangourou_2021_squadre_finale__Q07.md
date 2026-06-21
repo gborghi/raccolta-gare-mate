@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q07
 parent: src_kangourou_2021_squadre_finale
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale — Quesito 7
 
 *Velocita dell'autobus (ordine ai due distributori)*
 

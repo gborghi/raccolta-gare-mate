@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1992-93 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1992-93_round2__Q02
 parent: src_bmo_1992-93_round2
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1992-93 — Round 2 — Quesito 2
 
 *Prove 2^(m-1) ≡ 1 mod m where m=(4^p−1)/3, p prime >3*
 

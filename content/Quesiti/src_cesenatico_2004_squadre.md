@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale
 tipo: gara
 src_id: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2004/GASces04.pdf` · apri PDF
 

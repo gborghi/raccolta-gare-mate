@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q14
 parent: src_obm_2001_n3_f1
@@ -33,8 +34,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 14
 
 *Five animals (dogs tell truth, wolves lie); given statements, count the wolves*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1962 (IV International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imho_1962__Q06
 parent: src_imho_1962
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1962 (IV International Olympiad) — Quesito 6
 
 *Provare d=sqrt(r(r-2rho)) (formula di Eulero)*
 

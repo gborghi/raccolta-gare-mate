@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Semifinale individuale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin_semifinale__Q16
 parent: src_kangourou_2023_benjamin_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Semifinale individuale — Quesito 16
 
 *quanti*
 

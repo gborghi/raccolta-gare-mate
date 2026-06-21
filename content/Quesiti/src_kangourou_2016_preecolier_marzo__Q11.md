@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q11
 parent: src_kangourou_2016_preecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 11
 
 *Minimo numero di porte da A a B nella casa delle bambole*
 

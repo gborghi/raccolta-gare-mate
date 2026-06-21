@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q06
 parent: src_kangourou_2011_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 6
 
 *Radice di quadrato 6 cifre multiplo 27 con vincoli cifre*
 

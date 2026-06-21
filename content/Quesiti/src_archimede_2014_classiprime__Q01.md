@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q01
 parent: src_archimede_2014_classiprime
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 1
 
 *Calcolo di espressione con potenze di 2 e 16*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Cadet finale — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_cadet_finale__QC3
 parent: src_kangourou_2025_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Cadet finale — Quesito C3
 
 *Coppie (a,b) con a+b=283*353 e b divide a*
 

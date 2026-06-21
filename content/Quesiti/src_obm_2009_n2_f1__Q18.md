@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q18
 parent: src_obm_2009_n2_f1
@@ -38,8 +39,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 18
 
 *18 students, 6 questions; each gets 4 right; each question correct same times; find m*
 

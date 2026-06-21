@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q04
 parent: src_squadre_2018_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 4
 
 *Sequenze di partite con vincoli su pareggi e differenza vittorie*
 

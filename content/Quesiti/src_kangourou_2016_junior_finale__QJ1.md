@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (finale Cervia) — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_finale__QJ1
 parent: src_kangourou_2016_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (finale Cervia) — Quesito J1
 
 *Comprare gelato da 2 kang con 2 euro, minimo cambi*
 

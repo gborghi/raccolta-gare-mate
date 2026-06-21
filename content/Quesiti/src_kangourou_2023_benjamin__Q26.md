@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin__Q26
 parent: src_kangourou_2023_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 26
 
 *quante somme diverse*
 

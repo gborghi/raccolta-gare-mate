@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1988 (29th IMO, Canberra) — Quesito 2'
 tipo: quesito
 quesito_id: quesito_src_imo_1988__Q02
 parent: src_imo_1988
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1988 (29th IMO, Canberra) — Quesito 2
 
 *when can elements be labeled 0/1 evenly*
 

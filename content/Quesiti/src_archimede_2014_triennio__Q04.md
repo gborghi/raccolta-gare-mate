@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_triennio__Q04
 parent: src_archimede_2014_triennio
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 4
 
 *Sesterzi non distribuiti, somma di potenze di 2*
 

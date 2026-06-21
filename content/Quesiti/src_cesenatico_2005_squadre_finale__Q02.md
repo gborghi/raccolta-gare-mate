@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q02
 parent: src_cesenatico_2005_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 2
 
 *Massimo numero collaboratori, ognuno 3 campi su 8*
 

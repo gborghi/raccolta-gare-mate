@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q04
 parent: src_kangourou_2012_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 4
 
 *Angolo acuto lancette 10 minuti dopo angolo 90*
 

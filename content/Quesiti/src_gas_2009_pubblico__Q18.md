@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q18
 parent: src_gas_2009_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 18
 
 *Tangente angolo da uguaglianza potenze rispetto a due cerchi*
 

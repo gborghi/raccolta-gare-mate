@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_finale__Q01
 parent: src_cesenatico_2016_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 1
 
 *Volume del prisma droide (taglio per A,B,D')*
 

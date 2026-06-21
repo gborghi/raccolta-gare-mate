@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2004-05 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2004-05_round1__Q01
 parent: src_bmo_2004-05_round1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2004-05 — Round 1 — Quesito 1
 
 *Find positive integer n from two money-sharing conditions*
 

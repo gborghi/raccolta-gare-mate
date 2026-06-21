@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q13
 parent: src_kangourou_2020_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 13
 
 *Litri di vernice per la struttura di parallelepipedi*
 

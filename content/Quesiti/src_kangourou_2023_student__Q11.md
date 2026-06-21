@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q11
 parent: src_kangourou_2023_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 11
 
 *Somma lunghezze dei due spigoli mancanti di una piramide*
 

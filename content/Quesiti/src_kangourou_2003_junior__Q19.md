@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior (20 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior__Q19
 parent: src_kangourou_2003_junior
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior (20 marzo) — Quesito 19
 
 *Somma cifre del prodotto 2003*A*
 

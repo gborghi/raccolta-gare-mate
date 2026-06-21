@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2020-21 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2020-21_round1__Q01
 parent: src_bmo_2020-21_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2020-21 — Round 1 — Quesito 1
 
 *Find values of a written on blackboard second time*
 

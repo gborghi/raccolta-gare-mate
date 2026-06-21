@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q16
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 16
 
 *Angolo BAC dato angolo ottuso tra altezza e bisettrice*
 

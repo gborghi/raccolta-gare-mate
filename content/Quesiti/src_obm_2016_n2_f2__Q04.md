@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f2__Q04
 parent: src_obm_2016_n2_f2
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 4
 
 *Positive integer solutions to x^2 - y^4 = 36*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f3__Q01
 parent: src_obm_2016_n1_f3
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 1
 
 *Angle bisectors, parallel conditions; prove AB=AC from collinearity*
 

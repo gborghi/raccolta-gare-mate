@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2023 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_2023__Q02
 parent: src_cgen_2023
@@ -40,8 +41,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Concours Général des Lycées 2023 — Matematica — Quesito 2
 
 *Sympathetic polynomials: study existence/uniqueness of strictly positive roots of equations x^d + (1/n)x - 1 = 0 and their limits, then classify polynomials as initially/falsely/truly sympathetic and study convergence of the positive roots of a convergent sequence of such polynomials.*
 

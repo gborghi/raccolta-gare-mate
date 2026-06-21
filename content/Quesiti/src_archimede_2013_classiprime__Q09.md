@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q09
 parent: src_archimede_2013_classiprime
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 9
 
 *Perimetro rettangolo dato incremento d'area di +1 cm sui lati*
 

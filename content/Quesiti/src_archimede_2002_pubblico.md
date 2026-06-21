@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara del Pubblico (Cesenatico)
 tipo: gara
 src_id: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -15,8 +16,6 @@ tags:
   - anno/2002
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara del Pubblico (Cesenatico)
 
 Sorgente: `Archimede/individuale/nazionale/2002/GaraPubblico2002.pdf` · apri PDF
 

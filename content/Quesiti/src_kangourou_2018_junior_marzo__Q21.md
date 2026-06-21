@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q21
 parent: src_kangourou_2018_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 21
 
 *Numero vertici dei tre poligoni del 2018-agono diviso*
 

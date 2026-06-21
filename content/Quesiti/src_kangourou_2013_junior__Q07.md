@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q07
 parent: src_kangourou_2013_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 7
 
 *Sviluppo piano del cubo dipinto*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO compilation 1959-2013 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_imo_compilation__Q07
 parent: src_imo_compilation
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO compilation 1959-2013 — Quesito 7
 
 *IMO 1962 problema 7*
 

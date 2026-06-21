@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo26mq_honsen__Q01
 parent: src_jmo26mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 1
 
 *Sum of counts of divisors of kp+1 in [k,p) over k=1..p-1*
 

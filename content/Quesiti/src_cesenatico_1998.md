@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1998
 tipo: gara
 src_id: src_cesenatico_1998
 competition: Gara Nazionale Cesenatico 1998
@@ -15,8 +16,6 @@ tags:
   - anno/1998
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1998
 
 Sorgente: `Archimede/individuale/nazionale/1998/cesenatico98.pdf` · apri PDF
 

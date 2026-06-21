@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r2__Q03
 parent: src_rmo_2016_r2
@@ -32,8 +33,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 2 — Quesito 3
 
 *Find all n with n^3 = 8S(n)^3 + 4S(n) + 1*
 

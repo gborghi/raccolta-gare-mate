@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1991 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1991__Q03
 parent: src_rmo_1991
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1991 — Quesito 3
 
 *Find all four-digit perfect squares with equal digit pairs*
 

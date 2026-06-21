@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2025 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jegmo14q__Q03
 parent: src_jegmo14q
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2025 — Quesito 3
 
 *Find all positive integers n with n = phi(n) + 2 phi(phi(n))*
 

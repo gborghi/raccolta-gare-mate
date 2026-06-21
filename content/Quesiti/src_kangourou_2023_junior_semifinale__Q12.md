@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q12
 parent: src_kangourou_2023_junior_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 12
 
 *Trovare n dopo operazioni casuali con risultato 78*
 

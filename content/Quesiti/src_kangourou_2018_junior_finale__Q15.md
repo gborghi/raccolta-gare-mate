@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q15
 parent: src_kangourou_2018_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 15
 
 *Coppie intere con 2|x|+3|y|<23*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f2__Q04
 parent: src_obm_2007_n3_f2
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 4
 
 *Right triangle with incenter I and midpoint O of hypotenuse; given angle AOI find angle ACB*
 

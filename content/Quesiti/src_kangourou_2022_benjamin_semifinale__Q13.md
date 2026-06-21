@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q13
 parent: src_kangourou_2022_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 13
 
 *Cifre del quoziente di 111...999 diviso 111*
 

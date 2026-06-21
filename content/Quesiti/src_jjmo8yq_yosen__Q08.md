@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo8yq_yosen__Q08
 parent: src_jjmo8yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 8
 
 *Fill 3x4 grid with 1-12 preserving row/column relations of reference grid*
 

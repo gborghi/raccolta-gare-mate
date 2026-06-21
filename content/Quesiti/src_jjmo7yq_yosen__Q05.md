@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo7yq_yosen__Q05
 parent: src_jjmo7yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 5
 
 *Maximum area of convex pentagon with all sides 1 and two perpendicular diagonals*
 

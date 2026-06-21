@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q08
 parent: src_kangourou_2022_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 8
 
 *Quante affermazioni corrette su Ada e Bice che corrono*
 

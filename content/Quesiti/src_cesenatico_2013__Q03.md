@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013__Q03
 parent: src_cesenatico_2013
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 3
 
 *esiste blocco di 2000 bilanciato*
 

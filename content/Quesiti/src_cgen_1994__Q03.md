@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1994 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1994__Q03
 parent: src_cgen_1994
@@ -31,8 +32,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1994 — Matematica — Quesito 3
 
 *Functional recurrence on N, sequence reaches 0, find v(1994) and preimage of N*
 

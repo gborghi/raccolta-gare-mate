@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier semifinale individuale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q09
 parent: src_kangourou_2022_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier semifinale individuale — Quesito 9
 
 *Cifra delle unita del prodotto finale 2021-2029*
 

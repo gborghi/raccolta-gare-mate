@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r1__Q01
 parent: src_rmo_2016_r1
@@ -28,8 +29,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 1 — Quesito 1
 
 *Right-angled triangle, incenter, perpendicular foot, prove distance formula*
 

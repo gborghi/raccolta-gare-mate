@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q03
 parent: src_archimede_2014_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 3
 
 *Tentativi minimi per cassaforte con una cifra cambiata*
 

@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_tfjm_2019__Q03
 parent: src_tfjm_2019
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 3
 
 *Scheduling trains onto station tracks (dead-end, one-way, two-way) so an arrival order is admissible*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_2livello__Q16
 parent: src_archimede_2023_2livello
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2023 - 2° livello — Quesito 16
 
 *Numeri doppiamente reversibili, tipi 2 e 3*
 

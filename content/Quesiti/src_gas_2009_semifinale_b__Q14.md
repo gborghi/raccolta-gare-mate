@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q14
 parent: src_gas_2009_semifinale_b
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 14
 
 *Somma valori assoluti soluzioni intere equazione diofantea*
 

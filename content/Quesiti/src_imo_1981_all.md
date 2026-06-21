@@ -1,4 +1,5 @@
 ---
+title: IMO 1981 (Twenty-second International Olympiad)
 tipo: gara
 src_id: src_imo_1981_all
 competition: IMO 1981 (Twenty-second International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1981
   - gara/individuale
 ---
-
-# IMO 1981 (Twenty-second International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1981_eng.pdf` · apri PDF
 

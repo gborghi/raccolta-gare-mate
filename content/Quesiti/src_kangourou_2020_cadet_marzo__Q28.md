@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q28
 parent: src_kangourou_2020_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 28
 
 *Minimi metri dell allenatore (tre bambini percorrono 50m)*
 

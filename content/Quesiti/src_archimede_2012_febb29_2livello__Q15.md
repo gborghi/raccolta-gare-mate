@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q15
 parent: src_archimede_2012_febb29_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 15
 
 *Strategia roulette di Martino, giocate minime e capitale finale*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2014 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_automne__Q04
 parent: src_canimath_2014_automne
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2014 — Quesito 4
 
 *Sequence a_n=a_{n-1}/a_{n-2}, a_1=2, a_2=3; find a_{2014}*
 

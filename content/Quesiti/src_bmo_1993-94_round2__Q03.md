@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1993-94 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1993-94_round2__Q03
 parent: src_bmo_1993-94_round2
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1993-94 — Round 2 — Quesito 3
 
 *Equal-angle chords in a circle: prove AR(AP+AR)=AQ(AQ+AS)*
 

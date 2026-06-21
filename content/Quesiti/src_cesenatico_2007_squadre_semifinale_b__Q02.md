@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q02
 parent: src_cesenatico_2007_squadre_semifinale_b
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 2
 
 *Cartolerie (multipli 18) non di lusso (non multipli 24) in 2007*
 

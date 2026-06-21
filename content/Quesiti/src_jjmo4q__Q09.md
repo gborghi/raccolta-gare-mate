@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q09
 parent: src_jjmo4q
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 9
 
 *Count coprime pairs (x,y,z) where tens digits of x·z and y·z equal tens digits of x and y*
 

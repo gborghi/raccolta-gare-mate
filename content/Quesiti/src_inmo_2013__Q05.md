@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2013 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2013__Q05
 parent: src_inmo_2013
@@ -32,8 +33,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2013 — Quesito 5
 
 *Acute triangle ABC; circumcenter O, orthocenter H, centroid G; find angle C*
 

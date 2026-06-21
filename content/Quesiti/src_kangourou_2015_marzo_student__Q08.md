@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Student — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q08
 parent: src_kangourou_2015_marzo_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Student — Quesito 8
 
 *Forma carta per superficie laterale di tronco di cono*
 

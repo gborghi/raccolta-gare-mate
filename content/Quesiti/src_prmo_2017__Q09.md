@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q09
 parent: src_prmo_2017
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 9
 
 *Ways to start from city A and return after visiting some of 5 fully-connected cities*
 

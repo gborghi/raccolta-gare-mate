@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2023_nu_fx__Q06
 parent: src_obm_2023_nu_fx
@@ -38,8 +41,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x — Quesito 6
 
 *Find all pairs (c,d) in R^2 such that a sequence with given recurrence of positive reals exists*
 

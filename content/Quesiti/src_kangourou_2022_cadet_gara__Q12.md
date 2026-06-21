@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q12
 parent: src_kangourou_2022_cadet_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 12
 
 *Minimo punti sulla superficie di quattro dadi standard*
 

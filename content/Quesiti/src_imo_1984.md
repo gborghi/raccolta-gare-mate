@@ -1,4 +1,5 @@
 ---
+title: IMO 1984 (25th International Mathematical Olympiad)
 tipo: gara
 src_id: src_imo_1984
 competition: IMO 1984 (25th International Mathematical Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1984
   - gara/individuale
 ---
-
-# IMO 1984 (25th International Mathematical Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1984_eng.pdf` · apri PDF
 

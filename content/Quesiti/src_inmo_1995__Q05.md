@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1995 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_1995__Q05
 parent: src_inmo_1995
@@ -29,8 +30,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1995 — Quesito 5
 
 *Real numbers a_k>1 satisfying sum condition, prove double sum inequality*
 

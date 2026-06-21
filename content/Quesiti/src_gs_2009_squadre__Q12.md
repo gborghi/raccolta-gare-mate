@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q12
 parent: src_gs_2009_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 12
 
 *Numero di pratiche, fattorizzazione di 438516x2*
 

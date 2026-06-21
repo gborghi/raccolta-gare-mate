@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q10
 parent: src_kangourou_2012_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 10
 
 *Quante figure ottenibili accostando due tessere a L*
 

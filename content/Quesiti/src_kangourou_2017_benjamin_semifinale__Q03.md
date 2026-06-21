@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q03
 parent: src_kangourou_2017_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 3
 
 *Area del triangolo piu esteso su griglia 4x4 di puntini*
 

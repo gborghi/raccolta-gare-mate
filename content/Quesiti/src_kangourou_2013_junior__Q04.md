@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q04
 parent: src_kangourou_2013_junior
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 4
 
 *Somma di tre numeri il cui prodotto e 1000*
 

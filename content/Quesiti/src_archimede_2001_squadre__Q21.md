@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_squadre__Q21
 parent: src_archimede_2001_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 21
 
 *conto quintuplicato in 20 anni, ultime 4 cifre dopo 40020*
 

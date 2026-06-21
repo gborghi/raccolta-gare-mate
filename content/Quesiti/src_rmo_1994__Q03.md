@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1994 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1994__Q03
 parent: src_rmo_1994
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1994 — Quesito 3
 
 *6-digit numbers with digits 1–6 each once, divisible by k for 1 to 6*
 

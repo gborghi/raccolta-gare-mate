@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Cadet — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q05
 parent: src_kangourou_2015_marzo_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Cadet — Quesito 5
 
 *Quale dei numeri non e intero*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q14
 parent: src_archimede_2000_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 14
 
 *Ora di risveglio con differenza di fuso orario*
 

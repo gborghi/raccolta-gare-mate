@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q16
 parent: src_obm_2001_n3_f1
@@ -36,8 +37,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 16
 
 *Rectangular table (2a < b) pushed through a right-angle corridor; minimum corridor width*
 

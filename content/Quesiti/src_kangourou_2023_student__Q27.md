@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q27
 parent: src_kangourou_2023_student
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 27
 
 *Massimo intero che divide n^3(n+1)^3...(n+4)^3*
 

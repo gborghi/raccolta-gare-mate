@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q22
 parent: src_kangourou_2022_benjamin_gara
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 22
 
 *Massima somma dei quattro interi nella prima riga*
 

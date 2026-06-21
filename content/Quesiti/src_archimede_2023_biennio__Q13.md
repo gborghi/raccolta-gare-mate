@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_biennio__Q13
 parent: src_archimede_2023_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio — Quesito 13
 
 *Triangoli isosceli con vertici di poligono regolare 25-gono*
 

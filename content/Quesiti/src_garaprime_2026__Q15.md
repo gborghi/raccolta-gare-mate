@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_garaprime_2026__Q15
 parent: src_garaprime_2026
@@ -25,8 +26,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026 — Quesito 15
 
 *Anatre con testa e piume rosse (insiemi)*
 

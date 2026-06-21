@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q28
 parent: src_ioqm_2020
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 28
 
 *Count good numbers in {1,...,100} where good means sum of r>=2 consecutive positive integers*
 

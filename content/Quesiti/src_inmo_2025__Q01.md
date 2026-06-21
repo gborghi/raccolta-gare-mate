@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2025 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2025__Q01
 parent: src_inmo_2025
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2025 — Quesito 1
 
 *Find all positive integers n such that u_n/n is an integer*
 

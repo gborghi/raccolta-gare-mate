@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q04
 parent: src_kangourou_squadre_2024_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 4
 
 *Numero ABC = B x CB con B e CB primi*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale2__Q07
 parent: src_squadre_2023_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2 — Quesito 7
 
 *Rapporto aree diamante con punti a 1/4 dei lati*
 

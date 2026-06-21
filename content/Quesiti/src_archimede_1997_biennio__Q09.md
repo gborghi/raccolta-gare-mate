@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_biennio__Q09
 parent: src_archimede_1997_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Biennio — Quesito 9
 
 *Colla per costruire un cubo 5x5x5 da cubetti unitari*
 

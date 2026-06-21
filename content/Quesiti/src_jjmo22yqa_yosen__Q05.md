@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo22yqa_yosen__Q05
 parent: src_jjmo22yqa_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 5
 
 *Area of quadrilateral ABCD with BC=1, angle C=90 deg, AC=AD, triangles ABD and BCD similar*
 

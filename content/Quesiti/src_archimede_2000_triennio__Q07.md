@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q07
 parent: src_archimede_2000_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 7
 
 *Valore di x per triangolo di area massima lati 4,5,x*
 

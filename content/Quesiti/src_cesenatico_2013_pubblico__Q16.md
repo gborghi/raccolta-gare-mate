@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q16
 parent: src_cesenatico_2013_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 16
 
 *Modi crescita in 5 passi (catena multipli, 12!)*
 

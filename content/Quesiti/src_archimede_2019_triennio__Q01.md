@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_triennio__Q01
 parent: src_archimede_2019_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Triennio (T1) — Quesito 1
 
 *Ordinare i lati dalle altezze di un triangolo*
 

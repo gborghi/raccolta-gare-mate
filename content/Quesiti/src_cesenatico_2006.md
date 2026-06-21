@@ -1,4 +1,5 @@
 ---
+title: XXII Olimpiade Italiana Cesenatico 2006
 tipo: gara
 src_id: src_cesenatico_2006
 competition: XXII Olimpiade Italiana Cesenatico 2006
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# XXII Olimpiade Italiana Cesenatico 2006
 
 Sorgente: `Archimede/individuale/nazionale/2006/cesenatico06-testi e soluzioni.pdf` · apri PDF
 

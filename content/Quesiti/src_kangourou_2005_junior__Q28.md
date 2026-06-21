@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q28
 parent: src_kangourou_2005_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 28
 
 *Area triangolo ombreggiato nel pesce di fiammiferi*
 

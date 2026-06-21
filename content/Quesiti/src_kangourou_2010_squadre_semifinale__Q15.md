@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre semifinale turno A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q15
 parent: src_kangourou_2010_squadre_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre semifinale turno A — Quesito 15
 
 *Codice quadrato perfetto con resto 1 da 2 a 9*
 

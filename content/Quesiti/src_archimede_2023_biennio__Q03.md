@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_biennio__Q03
 parent: src_archimede_2023_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio — Quesito 3
 
 *Angolo B in triangolo con AC=CD e AD=DB*
 

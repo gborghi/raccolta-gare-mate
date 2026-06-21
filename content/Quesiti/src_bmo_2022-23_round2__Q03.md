@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2022-23 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2022-23_round2__Q03
 parent: src_bmo_2022-23_round2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2022-23 — Round 2 — Quesito 3
 
 *Count ideal n-lists where running averages are integers*
 

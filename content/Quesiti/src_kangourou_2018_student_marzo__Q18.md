@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q18
 parent: src_kangourou_2018_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 18
 
 *Punteggio finale dati 3 pronostici azzeccati su 5*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q20
 parent: src_kangourou_2013_student
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 20
 
 *f(2013) per f periodica di periodo 5*
 

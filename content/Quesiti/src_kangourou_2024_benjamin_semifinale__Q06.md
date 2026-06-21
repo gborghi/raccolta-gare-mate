@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q06
 parent: src_kangourou_2024_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 6
 
 *In quanti modi ripartire 1..8 in coppie con differenza costante*
 

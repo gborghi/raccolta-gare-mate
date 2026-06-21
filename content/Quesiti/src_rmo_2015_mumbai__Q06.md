@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Mumbai — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_mumbai__Q06
 parent: src_rmo_2015_mumbai
@@ -33,8 +34,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Mumbai — Quesito 6
 
 *Sum over ordered triples of subsets whose union is S; find in terms of n*
 

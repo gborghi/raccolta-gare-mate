@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q05
 parent: src_kangourou_2013_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Semifinale A — Quesito 5
 
 *Distanza dalla base del piano taglio piramide*
 

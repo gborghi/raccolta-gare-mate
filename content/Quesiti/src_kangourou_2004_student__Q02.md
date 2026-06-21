@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q02
 parent: src_kangourou_2004_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 2
 
 *Spigoli di una piramide con 17 facce*
 

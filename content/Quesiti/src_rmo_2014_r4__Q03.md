@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 4 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r4__Q03
 parent: src_rmo_2014_r4
@@ -32,8 +33,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 4 — Quesito 3
 
 *Find all pairs m>n of positive integers with gcd chain equal to gcd(m,2m-n)*
 

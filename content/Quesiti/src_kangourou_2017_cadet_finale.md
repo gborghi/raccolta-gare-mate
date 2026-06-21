@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (finale Cervia)
 tipo: gara
 src_id: src_kangourou_2017_cadet_finale
 competition: Kangourou 2017 Cadet (finale Cervia)
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (finale Cervia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2017/C-settembre17.pdf` · apri PDF
 

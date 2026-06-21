@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1989 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1989__Q03
 parent: src_inmo_1989
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1989 — Quesito 3
 
 *Subset of {1,11,21,...,551} with no pair summing to 552 has at most 38 elements*
 

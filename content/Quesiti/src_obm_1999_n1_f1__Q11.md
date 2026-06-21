@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f1__Q11
 parent: src_obm_1999_n1_f1
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 11
 
 *Count distinct figures formed by joining three congruent rhombuses side to side.*
 

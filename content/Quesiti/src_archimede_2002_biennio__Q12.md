@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q12
 parent: src_archimede_2002_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 12
 
 *Quali affermazioni su 3^10 cubo dispari quadrato*
 

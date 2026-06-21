@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q13
 parent: src_archimede_2025_squadre_semifinale2
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 13
 
 *Area triangolo ABC con circonferenza e rapporti dati*
 

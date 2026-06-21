@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Triennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_triennio__Q20
 parent: src_archimede_2017_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Triennio — Quesito 20
 
 *Area rettangolo ABCD da angolo doppio e area CPT*
 

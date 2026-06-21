@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f1__Q09
 parent: src_obm_2010_n3_f1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 9
 
 *Regular polygon: PQ and TS extended meet at X with angle QXS = 140 degrees; find number of sides.*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1989-90 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1989-90_round2__Q01
 parent: src_bmo_1989-90_round2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1989-90 — Round 2 — Quesito 1
 
 *Integer-coefficient polynomial taking value 1990 at four distinct integers cannot take 1991*
 

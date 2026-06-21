@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_2livello__Q17
 parent: src_archimede_2023_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2023 - 2° livello — Quesito 17
 
 *Insiemi labirintici in tabella 2n x 2n, perimetro e limiti*
 

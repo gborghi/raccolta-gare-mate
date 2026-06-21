@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Ecolier — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_ecolier__QE1
 parent: src_kangourou_2015_finale_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Ecolier — Quesito E1
 
 *quante somme*
 

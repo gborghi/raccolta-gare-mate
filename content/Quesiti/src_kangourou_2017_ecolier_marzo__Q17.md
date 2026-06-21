@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q17
 parent: src_kangourou_2017_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 17
 
 *Quadrati per raddoppiare il perimetro di un rettangolo 1x10*
 

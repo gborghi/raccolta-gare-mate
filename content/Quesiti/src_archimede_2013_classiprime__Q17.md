@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2013 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_classiprime__Q17
 parent: src_archimede_2013_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2013 — Quesito 17
 
 *Valore radice 21-esima del prodotto dei divisori di 576*
 

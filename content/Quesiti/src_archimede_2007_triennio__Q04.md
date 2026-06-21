@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_triennio__Q04
 parent: src_archimede_2007_triennio
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Triennio — Quesito 4
 
 *Segni di a,b con a+b>0 e ab<0*
 

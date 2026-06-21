@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_biennio__Q12
 parent: src_archimede_2022_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Biennio — Quesito 12
 
 *Probabilita di cubetto con una faccia dipinta*
 

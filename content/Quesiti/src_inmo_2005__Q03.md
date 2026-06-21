@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2005 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2005__Q03
 parent: src_inmo_2005
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2005 — Quesito 3
 
 *Three equations share root; prove root negative and third has non-real roots*
 

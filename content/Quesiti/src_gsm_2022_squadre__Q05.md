@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q05
 parent: src_gsm_2022_squadre
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 5
 
 *Area quadrilatero tra due circonferenze concentriche e tangenti*
 

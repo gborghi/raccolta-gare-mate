@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio
 tipo: gara
 src_id: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2001
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2001/Archimede2001/testitriennio2001.pdf` · apri PDF
 

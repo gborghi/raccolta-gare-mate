@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q09
 parent: src_kangourou_2019_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 9
 
 *Quanti canguri se la somma delle eta cresce di 24 in 2 anni*
 

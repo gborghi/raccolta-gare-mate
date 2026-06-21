@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q29
 parent: src_kangourou_2019_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 29
 
 *Cosa vedro tra 3 ore e 45 minuti (segmenti spenti)*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q18
 parent: src_archimede_2013_triennio
@@ -22,8 +23,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 18
 
 *Numero di banane radioattive da probabilita data*
 

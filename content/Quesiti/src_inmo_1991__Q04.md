@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_1991__Q04
 parent: src_inmo_1991
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991 — Quesito 4
 
 *Real numbers a,b,c in (0,1) with a+b+c=2: prove sum of fractions >=8*
 

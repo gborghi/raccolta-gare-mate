@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q04
 parent: src_kangourou_2024_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 4
 
 *Quale aspetto poteva avere la costruzione prima dell'incidente*
 

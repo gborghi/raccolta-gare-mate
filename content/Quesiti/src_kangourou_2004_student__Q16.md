@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q16
 parent: src_kangourou_2004_student
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 16
 
 *Natura di una espressione numerica con radicali*
 

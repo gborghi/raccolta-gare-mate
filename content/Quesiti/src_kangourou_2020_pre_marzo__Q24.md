@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q24
 parent: src_kangourou_2020_pre_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 24
 
 *Biglie iniziali di Giovanni dopo due scambi*
 

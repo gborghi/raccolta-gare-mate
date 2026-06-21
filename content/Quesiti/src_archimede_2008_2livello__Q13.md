@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_2livello__Q13
 parent: src_archimede_2008_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 13
 
 *Più grande primo di due cifre con varie condizioni di primalità*
 

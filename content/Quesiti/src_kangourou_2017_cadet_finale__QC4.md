@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (finale Cervia) — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC4
 parent: src_kangourou_2017_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (finale Cervia) — Quesito C4
 
 *Tempo dei due voli con vento costante da A verso B*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Koala — Gioco Koala
 tipo: gara
 src_id: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Kangourou 2022 Koala — Gioco Koala
 
 Sorgente: `Kangaroo/kangourou_individuali/2022/Koala2022REL.pdf` · apri PDF
 

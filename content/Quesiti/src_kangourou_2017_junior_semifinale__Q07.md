@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Semifinale individuale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q07
 parent: src_kangourou_2017_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Semifinale individuale — Quesito 7
 
 *Numero possibile di partite del torneo a batterie*
 

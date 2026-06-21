@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1998
 tipo: gara
 src_id: src_inmo_1998
 competition: Indian National Mathematical Olympiad 1998
@@ -15,8 +16,6 @@ tags:
   - anno/1998
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1998
 
 Sorgente: apri PDF
 

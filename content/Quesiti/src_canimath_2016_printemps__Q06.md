@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2016 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_printemps__Q06
 parent: src_canimath_2016_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2016 — Quesito 6
 
 *Convex 2016-gon cut by non-crossing diagonals into 2014 triangles; can exactly half have all three sides being diagonals?*
 

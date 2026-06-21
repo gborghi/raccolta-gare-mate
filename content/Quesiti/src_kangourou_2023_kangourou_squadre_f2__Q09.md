@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q09
 parent: src_kangourou_2023_kangourou_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 9
 
 *Minimo k con 193k+9 quadrato perfetto*
 

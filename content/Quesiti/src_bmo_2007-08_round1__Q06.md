@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2007-08_round1__Q06
 parent: src_bmo_2007-08_round1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2007-08 — Round 1 — Quesito 6
 
 *Recurrence on positive integers; prove integer values and count solutions to f(n)=2n*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r1__Q03
 parent: src_rmo_2012_r1
@@ -34,8 +35,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Quesito 3
 
 *Prove a^a b^b + a^b b^a <= 1 for positive reals a+b=1*
 

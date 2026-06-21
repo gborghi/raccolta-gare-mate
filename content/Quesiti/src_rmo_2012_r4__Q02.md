@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r4__Q02
 parent: src_rmo_2012_r4
@@ -33,8 +34,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 4 — Quesito 2
 
 *Show that abc divides (a+b+c)^7 given the divisibility conditions a|b^2, b|c^2, c|a^2*
 

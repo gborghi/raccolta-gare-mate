@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q13
 parent: src_kangourou_2022_cadet_gara
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 13
 
 *Massimo numero di somme dispari a coppie di X,Y,Z,W*
 

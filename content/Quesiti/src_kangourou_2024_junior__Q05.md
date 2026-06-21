@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q05
 parent: src_kangourou_2024_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 5
 
 *Lunghezza del piu breve percorso ripassando i segmenti*
 

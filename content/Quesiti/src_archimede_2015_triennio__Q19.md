@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Triennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_triennio__Q19
 parent: src_archimede_2015_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Triennio — Quesito 19
 
 *minimo metri*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q12
 parent: src_archimede_2014_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 12
 
 *Quali polinomi NON sono scomponibili sui coefficienti interi*
 

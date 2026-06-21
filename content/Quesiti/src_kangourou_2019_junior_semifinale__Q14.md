@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q14
 parent: src_kangourou_2019_junior_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 14
 
 *Quanti votanti hanno mentito nelle due citta del referendum*
 

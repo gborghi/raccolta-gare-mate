@@ -1,4 +1,5 @@
 ---
+title: IMO 1961 (III International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imho_1961__Q05
 parent: src_imho_1961
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1961 (III International Olympiad) — Quesito 5
 
 *Costruire triangolo dati b, c e angolo AMB con condizione*
 

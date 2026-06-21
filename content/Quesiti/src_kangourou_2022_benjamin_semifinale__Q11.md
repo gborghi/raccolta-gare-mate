@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q11
 parent: src_kangourou_2022_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 11
 
 *Distanza tra le oasi A e B con i due cammelli*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q27
 parent: src_kangourou_2004_student
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 27
 
 *Cifra c da somma 1554 delle permutazioni*
 

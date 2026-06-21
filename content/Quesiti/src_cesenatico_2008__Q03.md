@@ -1,4 +1,5 @@
 ---
+title: XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2008__Q03
 parent: src_cesenatico_2008
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 3
 
 *Funzioni Z->R crescenti con differenze nell'immagine*
 

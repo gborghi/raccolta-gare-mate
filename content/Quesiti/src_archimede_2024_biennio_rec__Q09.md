@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q09
 parent: src_archimede_2024_biennio_rec
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 9
 
 *Interi da 1000 a 3000 con cifra 7 esattamente una volta*
 

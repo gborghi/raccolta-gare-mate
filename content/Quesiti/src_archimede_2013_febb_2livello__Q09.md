@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q09
 parent: src_archimede_2013_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 9
 
 *Polinomio con p(5n-1)=5^(5n)-1, calcolare p(3)*
 

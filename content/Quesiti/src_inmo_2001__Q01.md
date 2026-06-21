@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2001 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2001__Q01
 parent: src_inmo_2001
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2001 — Quesito 1
 
 *Reflections of point P in triangle sides; incentre, circumcentre, orthocentre*
 

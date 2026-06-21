@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f2__Q04
 parent: src_obm_1998_n3_f2
@@ -36,8 +37,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 4
 
 *Semicircles on legs of acute triangle; altitude lines meet them at equal segments*
 

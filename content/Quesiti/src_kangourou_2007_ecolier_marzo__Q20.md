@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q20
 parent: src_kangourou_2007_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo) — Quesito 20
 
 *Quale figura non ottenibile piegando e tagliando*
 

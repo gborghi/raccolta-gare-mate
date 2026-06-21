@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q06
 parent: src_cesenatico_2004_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 6
 
 *Eliminazione iterata dei pari da 9999 soldati, soldato di mezzo*
 

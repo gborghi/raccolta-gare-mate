@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Triennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_triennio__Q17
 parent: src_archimede_2017_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Triennio — Quesito 17
 
 *Cifra in posizione 2017 sequenza dei pari*
 

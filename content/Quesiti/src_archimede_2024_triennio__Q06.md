@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q06
 parent: src_archimede_2024_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 6
 
 *Somma divisori di 18000 la cui scrittura termina per 50*
 

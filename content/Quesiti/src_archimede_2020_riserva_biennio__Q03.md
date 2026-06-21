@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q03
 parent: src_archimede_2020_riserva_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 3
 
 *Modi di pagare 141 euro con banconote da 5 e monete da 1*
 

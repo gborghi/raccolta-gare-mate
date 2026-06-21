@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student (20 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student__Q18
 parent: src_kangourou_2003_student
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Student (20 marzo) — Quesito 18
 
 *Somma 100^2-99^2+...+2^2-1^2*
 

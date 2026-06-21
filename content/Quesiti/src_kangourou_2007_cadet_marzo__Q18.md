@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q18
 parent: src_kangourou_2007_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 18
 
 *Confronto volumi dei due cilindri*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q18
 parent: src_kangourou_2022_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 18
 
 *Minimo numero di operazioni per raggiungere 2022 da 1*
 

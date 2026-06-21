@@ -1,4 +1,5 @@
 ---
+title: IMO 1973 (Fifteenth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1973_all__Q06
 parent: src_imo_1973_all
@@ -23,8 +24,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1973 (Fifteenth International Olympiad) — Quesito 6
 
 *Construct b_k bounding a_k with ratio and sum conditions*
 

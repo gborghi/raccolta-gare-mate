@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q25
 parent: src_kangourou_2018_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 25
 
 *Eta della nonna alla nascita di Katia*
 

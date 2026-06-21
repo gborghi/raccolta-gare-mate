@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_triennio__Q15
 parent: src_archimede_2006_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Triennio — Quesito 15
 
 *Soluzioni reali di una equazione con valori assoluti*
 

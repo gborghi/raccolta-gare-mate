@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1983-84_round1__Q01
 parent: src_bmo_1983-84_round1
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1983-84 — Round 1 — Quesito 1
 
 *Circumcentres of AQR, BRP, CPQ form triangle similar to ABC*
 

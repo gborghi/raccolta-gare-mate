@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1991-92 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1991-92_round2__Q02
 parent: src_bmo_1991-92_round2
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1991-92 — Round 2 — Quesito 2
 
 *Positive reals a,b,c,d: prove double inequality for six pairwise-sum fractions*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q04
 parent: src_archimede_2000_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 4
 
 *Carte minime per 50% di pescare almeno un cuori*
 

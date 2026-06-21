@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier gara individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q02
 parent: src_kangourou_2022_ecolier_gara
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier gara individuale — Quesito 2
 
 *Minimo scatole da togliere per aprire la nera*
 

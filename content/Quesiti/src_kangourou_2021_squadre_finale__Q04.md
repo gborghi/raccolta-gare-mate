@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q04
 parent: src_kangourou_2021_squadre_finale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale — Quesito 4
 
 *Angolo phi tra quadrato ottagono ed esagono*
 

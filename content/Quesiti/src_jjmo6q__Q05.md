@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo6q__Q05
 parent: src_jjmo6q
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008 — Quesito 5
 
 *Area of triangle CBE in unit square with inscribed circle tangent to CE*
 

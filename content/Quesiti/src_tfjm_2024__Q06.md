@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_tfjm_2024__Q06
 parent: src_tfjm_2024
@@ -33,8 +34,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 6
 
 *Rigged coins: Felix flips a coin landing heads with probability p; Clara predicts upcoming flips to maximize her guaranteed (worst-case over p) expected gain across strategies, then with two coins, guessing which coin, and a switch point K.*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q14
 parent: src_cesenatico_2007_squadre_pubblico
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 14
 
 *Modi di assegnare categorie a 8 missioni (1 G,2 M,5 P)*
 

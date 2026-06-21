@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2021-22 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2021-22_round2__Q04
 parent: src_bmo_2021-22_round2
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2021-22 — Round 2 — Quesito 4
 
 *Prove Q on BC and line AT passes through Q*
 

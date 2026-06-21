@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q16
 parent: src_gs_2013_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 16
 
 *Coppia di primi con somma 126 e prodotto*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo18mq_honsen__Q03
 parent: src_jmo18mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 3
 
 *Circle through A and circumcenter meets sides; PQ=BC, find angle*
 

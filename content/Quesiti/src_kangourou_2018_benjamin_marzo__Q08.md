@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q08
 parent: src_kangourou_2018_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 8
 
 *Minimo cerchietti da toccare per renderli rossi*
 

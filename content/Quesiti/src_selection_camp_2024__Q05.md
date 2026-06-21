@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2024__Q05
 parent: src_selection_camp_2024
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2024 — Selection Camp — Quesito 5
 
 *Functional equation with iterate exponent b*f(a)*
 

@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q07
 parent: src_garaprime_2025
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 7
 
 *Numeri di 6 cifre con 1 e 2 multipli di 3*
 

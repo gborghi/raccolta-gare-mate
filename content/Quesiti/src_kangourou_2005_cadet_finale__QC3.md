@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (finale nazionale) — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet_finale__QC3
 parent: src_kangourou_2005_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (finale nazionale) — Quesito C3
 
 *Area rettangolo ombreggiato in triangolo rettangolo*
 

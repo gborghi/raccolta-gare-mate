@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q26
 parent: src_kangourou_2007_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 26
 
 *Numero sulla carta rimasta (somma 3x)*
 

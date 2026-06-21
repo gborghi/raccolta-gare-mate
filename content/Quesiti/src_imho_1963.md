@@ -1,4 +1,5 @@
 ---
+title: IMO 1963 (V International Olympiad)
 tipo: gara
 src_id: src_imho_1963
 competition: IMO 1963 (V International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1963
   - gara/individuale
 ---
-
-# IMO 1963 (V International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1963_eng.pdf` · apri PDF
 

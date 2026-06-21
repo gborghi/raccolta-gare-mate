@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q04
 parent: src_prmo_2015_a
@@ -36,8 +37,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 4
 
 *Non-zero polynomial with integer coefficients divisible by $n$ for all positive $n$; find $P(0)$*
 

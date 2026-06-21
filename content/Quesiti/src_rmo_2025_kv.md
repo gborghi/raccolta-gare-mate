@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — KV/JNV
 tipo: gara
 src_id: src_rmo_2025_kv
 competition: Regional Mathematical Olympiad 2025 — KV/JNV
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/kv
 ---
-
-# Regional Mathematical Olympiad 2025 — KV/JNV
 
 Sorgente: apri PDF
 

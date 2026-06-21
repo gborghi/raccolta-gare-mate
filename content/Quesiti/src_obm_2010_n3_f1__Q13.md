@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f1__Q13
 parent: src_obm_2010_n3_f1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 13
 
 *Triangle ABC with angle BAC=140; M midpoint of BC, P on AC with MP perpendicular to AC; find an angle.*
 

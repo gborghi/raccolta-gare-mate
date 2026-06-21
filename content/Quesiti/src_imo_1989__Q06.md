@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1989__Q06
 parent: src_imo_1989
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1989 (30th IMO, Braunschweig) — Quesito 6
 
 *More permutations of 1..2n with property P than without*
 

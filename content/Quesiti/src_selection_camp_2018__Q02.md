@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q02
 parent: src_selection_camp_2018
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 2
 
 *Self-map on {1,...,n}: unique g satisfying f(g(f(m)))=g(f(g(m))) implies f and f∘f have same image*
 

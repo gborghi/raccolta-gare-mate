@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_biennio__Q04
 parent: src_archimede_1997_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Biennio — Quesito 4
 
 *Voto al quinto compito per ottenere la media del 7*
 

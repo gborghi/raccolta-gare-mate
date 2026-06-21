@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q16
 parent: src_kangourou_2019_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 16
 
 *Quanti dei ritagli sono quadrati dopo piegature e tagli*
 

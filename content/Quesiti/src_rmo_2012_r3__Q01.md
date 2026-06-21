@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r3__Q01
 parent: src_rmo_2012_r3
@@ -28,8 +29,6 @@ tags:
   - regione/r3
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 3 — Quesito 1
 
 *Inscribed circle touching two quadrant arcs and a side of unit square*
 

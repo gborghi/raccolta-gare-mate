@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Cadet — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_cadet__QC6
 parent: src_kangourou_2015_finale_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Cadet — Quesito C6
 
 *numero totale di gracchiate in un'ora*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q05
 parent: src_kangourou_2010_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre finale — Quesito 5
 
 *Somma numeri sulle facce dato somma vertici 70*
 

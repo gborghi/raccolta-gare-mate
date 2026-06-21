@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q16
 parent: src_kangourou_2023_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 16
 
 *gradini neri col piede destro*
 

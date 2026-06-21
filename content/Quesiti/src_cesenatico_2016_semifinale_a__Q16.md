@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q16
 parent: src_cesenatico_2016_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 16
 
 *Valore di -1^3-2^3+3^3+4^3-...+16^3 (segni alternati)*
 

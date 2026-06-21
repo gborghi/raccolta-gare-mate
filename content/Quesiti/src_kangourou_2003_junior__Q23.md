@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior (20 marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior__Q23
 parent: src_kangourou_2003_junior
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior (20 marzo) — Quesito 23
 
 *Quanti ragazzi dicono la verita*
 

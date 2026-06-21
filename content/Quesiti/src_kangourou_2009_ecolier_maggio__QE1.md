@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_ecolier_maggio__QE1
 parent: src_kangourou_2009_ecolier_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E1
 
 *Massimo litri di sciroppo preparabili*
 

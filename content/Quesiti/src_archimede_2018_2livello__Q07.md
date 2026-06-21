@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_2livello__Q07
 parent: src_archimede_2018_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2018 - 2° livello — Quesito 7
 
 *Area poligono da quadrati esterni a trapezio isoscele*
 

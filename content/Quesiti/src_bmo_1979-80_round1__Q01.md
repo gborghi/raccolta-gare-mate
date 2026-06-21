@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1979-80 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1979-80_round1__Q01
 parent: src_bmo_1979-80_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1979-80 — Round 1 — Quesito 1
 
 *Prove no integer solution to $x^n+y^n=z^n$ with $0<x\le n$, $0<y\le n$*
 

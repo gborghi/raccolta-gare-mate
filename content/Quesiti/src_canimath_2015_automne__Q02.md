@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2015 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_automne__Q02
 parent: src_canimath_2015_automne
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2015 — Quesito 2
 
 *Three digits x>y>z>0; sum of the six three-digit permutations equals 4884; find the possible numbers xyz.*
 

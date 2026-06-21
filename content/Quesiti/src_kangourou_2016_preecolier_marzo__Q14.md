@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q14
 parent: src_kangourou_2016_preecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 14
 
 *Parola letta da Maria lungo il percorso*
 

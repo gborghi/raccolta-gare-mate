@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q14
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 14
 
 *Area minima tabellone di quadrati distinti somma lati 2023*
 

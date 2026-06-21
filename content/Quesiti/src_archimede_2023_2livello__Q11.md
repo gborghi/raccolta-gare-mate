@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_2livello__Q11
 parent: src_archimede_2023_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2023 - 2° livello — Quesito 11
 
 *Coppie (m,n) la cui frazione inizia con 3,14*
 

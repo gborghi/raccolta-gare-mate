@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2017 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_printemps__Q07
 parent: src_canimath_2017_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2017 — Quesito 7
 
 *Friendship alignment: at most 2 friends yields spacing ≤2017; 3 friends may fail*
 

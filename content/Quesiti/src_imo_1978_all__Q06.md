@@ -1,4 +1,5 @@
 ---
+title: IMO 1978 (Twentieth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1978_all__Q06
 parent: src_imo_1978_all
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1978 (Twentieth International Olympiad) — Quesito 6
 
 *Member whose number is sum/double of same-country members*
 

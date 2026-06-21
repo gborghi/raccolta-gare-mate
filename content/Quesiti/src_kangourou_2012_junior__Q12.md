@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q12
 parent: src_kangourou_2012_junior
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 12
 
 *Ordine di arrivo nella gara di corsa*
 

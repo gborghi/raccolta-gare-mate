@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q13
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 13
 
 *Triangle ABC, D on BC with AD=BC, angles x,y,z in AP, find largest angle ABC*
 

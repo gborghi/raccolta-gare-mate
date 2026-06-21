@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Gara 16 marzo — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q25
 parent: src_kangourou_2017_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Gara 16 marzo — Quesito 25
 
 *Area triangolo rettangolo con perimetro 18*
 

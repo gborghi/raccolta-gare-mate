@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q10
 parent: src_kangourou_2015_marzo_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Ecolier — Quesito 10
 
 *quante banane date*
 

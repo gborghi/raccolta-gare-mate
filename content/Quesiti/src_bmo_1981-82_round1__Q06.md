@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1981-82 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1981-82_round1__Q06
 parent: src_bmo_1981-82_round1
@@ -29,8 +30,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 1981-82 — Round 1 — Quesito 6
 
 *Count binary sequences with exactly m occurrences of 01*
 

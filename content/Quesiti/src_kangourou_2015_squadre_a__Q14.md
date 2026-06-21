@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q14
 parent: src_kangourou_2015_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Semifinale A — Quesito 14
 
 *Perimetro ennagono in triangolo equilatero lato 15*
 

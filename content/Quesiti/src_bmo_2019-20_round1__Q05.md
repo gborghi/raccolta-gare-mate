@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2019-20_round1__Q05
 parent: src_bmo_2019-20_round1
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2019-20 — Round 1 — Quesito 5
 
 *Children with sweets around a table; find initial arrangements that can be made perfect*
 

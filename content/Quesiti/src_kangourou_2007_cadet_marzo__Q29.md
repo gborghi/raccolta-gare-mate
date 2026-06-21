@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q29
 parent: src_kangourou_2007_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 29
 
 *Quanti numeri di 3 cifre con proprieta su somma cifre*
 

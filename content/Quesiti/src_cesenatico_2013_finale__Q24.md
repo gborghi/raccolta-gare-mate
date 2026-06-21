@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_finale__Q24
 parent: src_cesenatico_2013_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 24
 
 *Modi crescita in 6 passi (catena multipli, 12!)*
 

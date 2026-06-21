@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2024-25 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2024-25_round2__Q04
 parent: src_bmo_2024-25_round2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2024-25 — Round 2 — Quesito 4
 
 *Count positive integer sequences with given recurrence and u1=1*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q20
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 20
 
 *Media dei quattro numeri dalle somme date*
 

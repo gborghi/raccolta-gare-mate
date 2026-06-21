@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q01
 parent: src_kangourou_2008_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 1
 
 *Maggiore dei due incogniti nella tabella 2x2*
 

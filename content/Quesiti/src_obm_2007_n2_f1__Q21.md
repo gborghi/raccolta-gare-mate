@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f1__Q21
 parent: src_obm_2007_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 21
 
 *Which clock time gives the smallest angle between the hands*
 

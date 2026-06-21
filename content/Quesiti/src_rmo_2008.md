@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2008
 tipo: gara
 src_id: src_rmo_2008
 competition: Regional Mathematical Olympiad 2008
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2008
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f1__Q16
 parent: src_obm_2016_n1_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 16
 
 *Booklet pagination: relate page numbers on the front/back of a sheet.*
 

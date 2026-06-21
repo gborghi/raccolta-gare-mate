@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale1__Q05
 parent: src_squadre_2024_semifinale1
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 1 — Quesito 5
 
 *Minimo n con n(n-1)(n-2) multiplo di 11 e 19*
 

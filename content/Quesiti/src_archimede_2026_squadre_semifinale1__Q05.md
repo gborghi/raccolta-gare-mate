@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q05
 parent: src_archimede_2026_squadre_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 5
 
 *Somma alternata a/9-(a/9)^2 da 1 a 10*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Benjamin finale — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_benjamin_finale__QB6
 parent: src_kangourou_2025_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2025 Benjamin finale — Quesito B6
 
 *Massimo cavalieri su griglia 4x4 con dichiarazioni*
 

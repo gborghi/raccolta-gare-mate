@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2013-14 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2013-14_round2__Q03
 parent: src_bmo_2013-14_round2
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2013-14 — Round 2 — Quesito 3
 
 *Sequence a_1=3, a_{n+1}=a_n^2+a_n-1; prove infinitely many prime divisors*
 

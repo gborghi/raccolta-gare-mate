@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_2livello__Q14
 parent: src_archimede_2011_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 14
 
 *Coppie intere (x,y) che verificano l'equazione quartica*
 

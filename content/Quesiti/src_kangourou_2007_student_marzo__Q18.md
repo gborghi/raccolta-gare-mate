@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q18
 parent: src_kangourou_2007_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 18
 
 *Punti a coordinate intere sulla sfera r=3*
 

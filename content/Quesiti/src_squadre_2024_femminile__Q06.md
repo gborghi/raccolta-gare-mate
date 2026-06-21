@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q06
 parent: src_squadre_2024_femminile
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 6
 
 *Somma n*a_n^2024 con a_n opposto somma divisori propri*
 

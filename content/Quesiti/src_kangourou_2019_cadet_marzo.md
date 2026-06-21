@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet
 tipo: gara
 src_id: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/CMarzo-19.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1992-93 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1992-93_round2__Q03
 parent: src_bmo_1992-93_round2
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1992-93 — Round 2 — Quesito 3
 
 *Internal point P of triangle; prove PA sin∠BAC/sin α = PB sin∠CBA/sin β = PC sin∠ACB/sin γ*
 

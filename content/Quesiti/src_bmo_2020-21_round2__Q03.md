@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2020-21 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2020-21_round2__Q03
 parent: src_bmo_2020-21_round2
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2020-21 — Round 2 — Quesito 3
 
 *AI and KD meet on circumcircle of triangle ABC*
 

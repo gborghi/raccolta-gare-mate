@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Finale (risposta aperta) — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_finale__QS1
 parent: src_kangourou_2022_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Finale (risposta aperta) — Quesito S1
 
 *Tessere 2×1 al massimo su regione di 36 quadratini*
 

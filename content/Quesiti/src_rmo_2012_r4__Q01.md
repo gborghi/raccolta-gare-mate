@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r4__Q01
 parent: src_rmo_2012_r4
@@ -32,8 +33,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 4 — Quesito 1
 
 *Radius of a circle inscribed in a unit square tangent to two side-centred quadrant arcs and a side*
 

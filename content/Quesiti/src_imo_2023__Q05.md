@@ -1,4 +1,5 @@
 ---
+title: IMO 2023 papers — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2023__Q05
 parent: src_imo_2023
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2023 papers — Quesito 5
 
 *Triangolo giapponese, max k cerchi rossi su ninja path*
 

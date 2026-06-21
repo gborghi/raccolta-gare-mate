@@ -1,4 +1,5 @@
 ---
+title: IMO 1959 (I International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imho_1959__Q06
 parent: src_imho_1959
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1959 (I International Olympiad) — Quesito 6
 
 *Costruire trapezio isoscele circoscrittibile tra due piani*
 

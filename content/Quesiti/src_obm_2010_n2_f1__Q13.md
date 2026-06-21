@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f1__Q13
 parent: src_obm_2010_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 13
 
 *Four friends, card claims, exactly one false; who made the false claim*
 

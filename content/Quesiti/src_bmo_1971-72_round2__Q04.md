@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1971-72 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1971-72_round2__Q04
 parent: src_bmo_1971-72_round2
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1971-72 — Round 2 — Quesito 4
 
 *Find all polynomials p such that a·p(a²)+b·p(b²)+c·p(c²)=k·abc for triangle sides*
 

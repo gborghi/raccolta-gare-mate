@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Honsen (Final)
 tipo: gara
 src_id: src_jmo11mq_honsen
 competition: Japan Mathematical Olympiad 2001 — Honsen (Final)
@@ -15,8 +16,6 @@ tags:
   - anno/2001
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Honsen (Final)
 
 Sorgente: apri PDF
 

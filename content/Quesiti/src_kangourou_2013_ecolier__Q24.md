@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_ecolier__Q24
 parent: src_kangourou_2013_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier — Quesito 24
 
 *Minimo numero di pezzi per formare un quadrato pieno*
 

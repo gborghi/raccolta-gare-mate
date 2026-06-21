@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_individuale__Q06
 parent: src_archimede_2001_individuale
@@ -31,8 +32,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 6
 
 *configurazioni per accenderle tutte*
 

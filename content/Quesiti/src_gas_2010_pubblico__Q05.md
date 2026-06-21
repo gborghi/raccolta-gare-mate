@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gas_2010_pubblico__Q05
 parent: src_gas_2010_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Gara del Pubblico — Quesito 5
 
 *Massima cardinalita insieme chiuso per (m+n)/MCD(m,n)*
 

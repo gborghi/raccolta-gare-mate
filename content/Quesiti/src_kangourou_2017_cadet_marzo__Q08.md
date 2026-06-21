@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q08
 parent: src_kangourou_2017_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 8
 
 *Come Marco ha piegato il foglio dato il foro*
 

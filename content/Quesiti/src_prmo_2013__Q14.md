@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q14
 parent: src_prmo_2013
@@ -33,8 +34,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 14
 
 *Find m+n where m,n are smallest odd/even integers making triangular number a perfect square*
 

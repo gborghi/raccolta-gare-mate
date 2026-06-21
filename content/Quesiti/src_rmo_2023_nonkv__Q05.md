@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_nonkv__Q05
 parent: src_rmo_2023_nonkv
@@ -35,8 +36,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — Non-KV — Quesito 5
 
 *Find positive reals a_1,...,a_n satisfying a sum-of-fractions identity*
 

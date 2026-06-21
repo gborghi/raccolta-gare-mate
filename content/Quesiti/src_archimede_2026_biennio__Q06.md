@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_biennio__Q06
 parent: src_archimede_2026_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Biennio — Quesito 6
 
 *Quante potenze di 2025 sono quadrati perfetti*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_2livello__Q16
 parent: src_archimede_2022_2livello
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2022 - 2° livello — Quesito 16
 
 *Triangolo, bisettrice, proiezioni, isoscele ADH*
 

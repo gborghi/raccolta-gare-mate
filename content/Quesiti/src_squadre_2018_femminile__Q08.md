@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q08
 parent: src_squadre_2018_femminile
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 8
 
 *Numeri segni + per ottenere 1 da 1..2018 con max addizioni*
 

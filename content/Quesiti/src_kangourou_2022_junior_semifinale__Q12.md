@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q12
 parent: src_kangourou_2022_junior_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale — Quesito 12
 
 *Cinque persone in auto con vincoli, disposizioni*
 

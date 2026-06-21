@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q06
 parent: src_kangourou_2015_marzo_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Benjamin — Quesito 6
 
 *Lunghezza della linea evidenziata (quadratini 4 cm2)*
 

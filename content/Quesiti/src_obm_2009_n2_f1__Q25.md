@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q25
 parent: src_obm_2009_n2_f1
@@ -37,8 +38,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 25
 
 *Stacked cubes: identify which front view is impossible given left and front views*
 

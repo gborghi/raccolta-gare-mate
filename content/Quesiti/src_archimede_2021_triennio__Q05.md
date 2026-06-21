@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio__Q05
 parent: src_archimede_2021_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 5
 
 *Probabilita che due compagni finiscano nella stessa aula*
 

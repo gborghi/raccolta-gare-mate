@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_finale__QJ2
 parent: src_kangourou_2017_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J2
 
 *Terne di dispari consecutivi tutti primi*
 

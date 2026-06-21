@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q13
 parent: src_kangourou_squadre_2024_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 13
 
 *Risultato incontro A-D in torneo di calcio a 4 squadre*
 

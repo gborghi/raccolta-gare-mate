@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2014 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2014__Q01
 parent: src_inmo_2014
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2014 — Quesito 1
 
 *Triangle ABC, D on BC with AB·BD=AC·CD; four points on circle implies AB=AC*
 

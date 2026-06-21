@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f1__Q25
 parent: src_obm_2006_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 25
 
 *Triangle ABC with equilateral triangles ACD and AEB; find BD/FG ratio*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012__Q06
 parent: src_cesenatico_2012
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 6
 
 *colorazione interi forza differenza a o b*
 

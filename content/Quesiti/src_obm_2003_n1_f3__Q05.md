@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f3__Q05
 parent: src_obm_2003_n1_f3
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 3 — Quesito 5
 
 *Building a rectangle's perimeter from 2003 integer-length rods by breaking some: one break not always enough, two breaks always suffice*
 

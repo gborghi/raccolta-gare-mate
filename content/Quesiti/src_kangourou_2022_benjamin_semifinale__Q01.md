@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q01
 parent: src_kangourou_2022_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 1
 
 *Ora a Roma quando e stata servita la cena (fusi orari)*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_biennio__Q02
 parent: src_archimede_2023_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio — Quesito 2
 
 *Numeri di 3 cifre multipli di 4 con cifre 1,2,5,8*
 

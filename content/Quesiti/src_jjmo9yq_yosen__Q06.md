@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo9yq_yosen__Q06
 parent: src_jjmo9yq_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 6
 
 *Find all 4-card sets with distinct 1-digit integers giving 4 distinct sums and 3 distinct products*
 

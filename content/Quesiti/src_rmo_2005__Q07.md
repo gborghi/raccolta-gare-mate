@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2005 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_2005__Q07
 parent: src_rmo_2005
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2005 — Quesito 7
 
 *Positive reals summing to 1; minimum of cubic expressions gives real roots*
 

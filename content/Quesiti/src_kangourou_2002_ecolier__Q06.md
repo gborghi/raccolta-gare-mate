@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_ecolier__Q06
 parent: src_kangourou_2002_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Ecolier (21 marzo) — Quesito 6
 
 *Libri da spostare per pareggiare i ripiani*
 

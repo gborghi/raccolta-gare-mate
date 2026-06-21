@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q12
 parent: src_archimede_2025_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 12
 
 *Somma medie 2025,abcd minimali con 10000 giudici*
 

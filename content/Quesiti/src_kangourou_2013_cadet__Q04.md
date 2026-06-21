@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q04
 parent: src_kangourou_2013_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 4
 
 *Candele ancora accese dopo 55 minuti*
 

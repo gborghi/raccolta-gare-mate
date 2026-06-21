@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_ioqm_2021__Q12
 parent: src_ioqm_2021
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 12
 
 *12x12 board; minimum N rooks to guarantee 7 mutually non-attacking*
 

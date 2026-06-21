@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q06
 parent: src_kangourou_2021_junior_finale
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 6
 
 *Dimostrare c1+..+cn>=n se prodotto ci=1 (AM-GM)*
 

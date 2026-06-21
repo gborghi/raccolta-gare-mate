@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q01
 parent: src_kangourou_2006_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 1
 
 *Numeri di 4 cifre distinte divisibili per 2006*
 

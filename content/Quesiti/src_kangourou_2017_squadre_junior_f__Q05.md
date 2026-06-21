@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q05
 parent: src_kangourou_2017_squadre_junior_f
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 5
 
 *Quanti tappi blu data probabilita 9/11*
 

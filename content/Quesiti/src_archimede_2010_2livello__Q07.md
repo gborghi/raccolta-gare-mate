@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q07
 parent: src_archimede_2010_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 7
 
 *Seconda cifra del prodotto (10^16+1)...(10+1)*
 

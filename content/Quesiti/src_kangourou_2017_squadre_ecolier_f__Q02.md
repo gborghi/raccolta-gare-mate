@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q02
 parent: src_kangourou_2017_squadre_ecolier_f
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 2
 
 *Differenza tra il piu grande e piu piccolo numero dolce*
 

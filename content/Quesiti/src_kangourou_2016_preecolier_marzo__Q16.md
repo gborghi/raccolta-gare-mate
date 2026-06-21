@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q16
 parent: src_kangourou_2016_preecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 16
 
 *Quale dei cinque orologi e rotto*
 

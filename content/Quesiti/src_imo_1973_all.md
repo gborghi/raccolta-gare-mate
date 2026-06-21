@@ -1,4 +1,5 @@
 ---
+title: IMO 1973 (Fifteenth International Olympiad)
 tipo: gara
 src_id: src_imo_1973_all
 competition: IMO 1973 (Fifteenth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1973
   - gara/individuale
 ---
-
-# IMO 1973 (Fifteenth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1973_eng.pdf` · apri PDF
 

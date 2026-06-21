@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q04
 parent: src_kangourou_2003_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 4
 
 *Immagine con tre quarti di cuori*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1974 (Sixteenth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1974_all__Q03
 parent: src_imo_1974_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1974 (Sixteenth International Olympiad) — Quesito 3
 
 *Prove binomial-sum with 2^3k not divisible by 5*
 

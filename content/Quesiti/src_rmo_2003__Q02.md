@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2003 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2003__Q02
 parent: src_rmo_2003
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2003 — Quesito 2
 
 *Prove C(n,7) minus floor(n/7) divisible by 7 for n>7*
 

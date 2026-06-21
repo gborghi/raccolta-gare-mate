@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2001 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_2001__Q07
 parent: src_rmo_2001
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2001 — Quesito 7
 
 *Product of first 200 even integers minus product of first 200 odd integers is divisible by 401*
 

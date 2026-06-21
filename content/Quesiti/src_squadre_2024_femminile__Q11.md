@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q11
 parent: src_squadre_2024_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 11
 
 *Possibili prodotti di n interi con cifra aggiunta a sinistra*
 

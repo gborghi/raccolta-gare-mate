@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q08
 parent: src_cesenatico_2013_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 8
 
 *Prodotto numeri della ninna nanna (sistema)*
 

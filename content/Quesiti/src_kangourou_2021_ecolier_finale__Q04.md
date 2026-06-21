@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q04
 parent: src_kangourou_2021_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 4
 
 *Correggere 25x2=211 con +1/-1 sulle cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Triennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_triennio__Q05
 parent: src_archimede_2023_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Triennio — Quesito 5
 
 *Modi di disporre 8 quaderni colorati a blocchi*
 

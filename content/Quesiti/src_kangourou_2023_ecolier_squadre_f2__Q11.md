@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q11
 parent: src_kangourou_2023_ecolier_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 11
 
 *Minima differenza tra due numeri somma 9999*
 

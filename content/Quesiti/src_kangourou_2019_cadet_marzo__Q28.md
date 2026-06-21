@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q28
 parent: src_kangourou_2019_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 28
 
 *Massimo numero di squadre con non piu di 250 partite*
 

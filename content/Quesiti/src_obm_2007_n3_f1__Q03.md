@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f1__Q03
 parent: src_obm_2007_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 3
 
 *If 1+(x^2+x)(x^2+5x+6)=181^2 find x(x+3)*
 

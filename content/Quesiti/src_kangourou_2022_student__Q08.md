@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Gara 17 marzo — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student__Q08
 parent: src_kangourou_2022_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Gara 17 marzo — Quesito 8
 
 *arco come cerchio piccolo*
 

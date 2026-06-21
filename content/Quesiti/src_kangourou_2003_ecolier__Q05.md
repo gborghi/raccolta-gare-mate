@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q05
 parent: src_kangourou_2003_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 5
 
 *Ore e minuti dormiti da Martino*
 

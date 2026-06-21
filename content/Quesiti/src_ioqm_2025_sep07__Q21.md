@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q21
 parent: src_ioqm_2025_sep07
@@ -33,8 +34,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 21
 
 *List (a+1)n², m², a(n+1)² is three consecutive integers; largest m²*
 

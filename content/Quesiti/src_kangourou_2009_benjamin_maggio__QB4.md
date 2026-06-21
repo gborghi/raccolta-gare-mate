@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Benjamin finale nazionale (Mirabilandia) — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_benjamin_maggio__QB4
 parent: src_kangourou_2009_benjamin_maggio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2009 - Benjamin finale nazionale (Mirabilandia) — Quesito B4
 
 *A quanti euro ammonta la somma iniziale*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2001 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2001__Q02
 parent: src_rmo_2001
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2001 — Quesito 2
 
 *Find all prime pairs p,q making p²+7pq+q² a perfect square*
 

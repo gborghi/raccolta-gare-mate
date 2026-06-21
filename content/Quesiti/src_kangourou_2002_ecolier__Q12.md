@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_ecolier__Q12
 parent: src_kangourou_2002_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Ecolier (21 marzo) — Quesito 12
 
 *Scomposizione del quadrante in quattro parti*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2016 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2016__Q03
 parent: src_inmo_2016
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2016 — Quesito 3
 
 *Function T on naturals, show iterations reach 1, Fibonacci recurrence for counts*
 

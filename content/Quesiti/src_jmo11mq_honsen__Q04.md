@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo11mq_honsen__Q04
 parent: src_jmo11mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 4
 
 *Any prime p and positive m: some multiple of p has ≥m consecutive zeros in decimal*
 

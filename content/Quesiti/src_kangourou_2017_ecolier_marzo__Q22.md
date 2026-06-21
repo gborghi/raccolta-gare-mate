@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q22
 parent: src_kangourou_2017_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 22
 
 *Quante faccine ha nascosto Lilli (celle confinanti)*
 

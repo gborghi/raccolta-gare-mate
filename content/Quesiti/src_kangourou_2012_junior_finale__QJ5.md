@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior_finale__QJ5
 parent: src_kangourou_2012_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J5
 
 *Ogni poliedro ha due facce con stesso numero di spigoli*
 

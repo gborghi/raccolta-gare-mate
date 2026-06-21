@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q17
 parent: src_kangourou_2014_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 17
 
 *Pedine che mostrano verde dopo i giri successivi*
 

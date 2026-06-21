@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q06
 parent: src_archimede_2015_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 6
 
 *Numero di ragazze a una festa di danze incrociate*
 

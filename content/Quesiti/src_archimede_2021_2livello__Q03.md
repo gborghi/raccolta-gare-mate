@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_2livello__Q03
 parent: src_archimede_2021_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2021 - 2° livello — Quesito 3
 
 *Somma cifre di 2021+(10^2021+21)^2*
 

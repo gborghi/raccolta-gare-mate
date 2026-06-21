@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_mumbai__Q08
 parent: src_rmo_2015_mumbai
@@ -39,8 +40,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Quesito 8
 
 *Convex quadrilateral ABCD with positive integer sides: prove some two sides equal*
 

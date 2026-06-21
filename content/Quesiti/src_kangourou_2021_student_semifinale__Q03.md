@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q03
 parent: src_kangourou_2021_student_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 3
 
 *Sottoinsiemi consecutivi con somma quadrato perfetto*
 

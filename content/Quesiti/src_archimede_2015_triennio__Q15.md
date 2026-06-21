@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_triennio__Q15
 parent: src_archimede_2015_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Triennio — Quesito 15
 
 *Lunghezza filettatura elica sulla vite cilindrica*
 

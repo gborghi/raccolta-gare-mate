@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2007 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2007__Q01
 parent: src_inmo_2007
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2007 — Quesito 1
 
 *Right triangle, median bisects angle; prove ratio bound*
 

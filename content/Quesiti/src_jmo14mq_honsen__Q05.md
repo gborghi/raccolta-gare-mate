@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo14mq_honsen__Q05
 parent: src_jmo14mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 5
 
 *Cubic graph: Hamiltonian cycle differing from given one and its reverse*
 

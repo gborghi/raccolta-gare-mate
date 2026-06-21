@@ -1,4 +1,5 @@
 ---
+title: IMO 1965 (Seventh International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1965_all__Q01
 parent: src_imo_1965_all
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1965 (Seventh International Olympiad) — Quesito 1
 
 *Solve trig inequality with abs value on [0,2pi]*
 

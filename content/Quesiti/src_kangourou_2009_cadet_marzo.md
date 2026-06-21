@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo)
 tipo: gara
 src_id: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2009/CMarzo-09.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q04
 parent: src_kangourou_squadre_2009_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 4
 
 *Partite giocate in torneo a eliminazione con 2009 iscritti*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo)
 tipo: gara
 src_id: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2005/EMarzo-05.pdf` · apri PDF
 

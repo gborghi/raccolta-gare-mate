@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q06
 parent: src_kangourou_2023_ecolier_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 6
 
 *Cubetti non toccati dal trapano in cubo 4x4x4*
 

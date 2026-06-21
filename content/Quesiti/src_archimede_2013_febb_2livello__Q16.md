@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q16
 parent: src_archimede_2013_febb_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 16
 
 *per quali n ritorna al punto di partenza*
 

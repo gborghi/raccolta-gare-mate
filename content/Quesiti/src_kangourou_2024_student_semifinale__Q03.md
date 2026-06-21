@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q03
 parent: src_kangourou_2024_student_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 3
 
 *Probabilita diamante nella scatola 9 dopo aperture*
 

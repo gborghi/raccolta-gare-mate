@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_benjamin__Q19
 parent: src_kangourou_2002_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2002 - Benjamin (21 marzo) — Quesito 19
 
 *Colore opposto a quello bianco*
 

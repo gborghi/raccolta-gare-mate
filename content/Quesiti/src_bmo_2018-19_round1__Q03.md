@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2018-19_round1__Q03
 parent: src_bmo_2018-19_round1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2018-19 — Round 1 — Quesito 3
 
 *Determine all products T obtainable by two pairs of integers each differing by 9*
 

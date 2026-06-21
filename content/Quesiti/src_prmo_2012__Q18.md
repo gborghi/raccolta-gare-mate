@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q18
 parent: src_prmo_2012
@@ -32,8 +33,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 18
 
 *Sum of squares of roots of quadratic involving floor function*
 

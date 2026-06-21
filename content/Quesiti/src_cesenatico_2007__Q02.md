@@ -1,4 +1,5 @@
 ---
+title: XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007__Q02
 parent: src_cesenatico_2007
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 2
 
 *p(2007)-q(2007) multiplo di 2 e di k*
 

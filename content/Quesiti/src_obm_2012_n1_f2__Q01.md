@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f2__Q01
 parent: src_obm_2012_n1_f2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2 — Quesito 1
 
 *Bus route distance from terminal to terminal*
 

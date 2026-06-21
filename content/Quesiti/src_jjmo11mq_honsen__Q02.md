@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo11mq_honsen__Q02
 parent: src_jjmo11mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 2
 
 *Game pouring milk and tea to make two good milk teas*
 

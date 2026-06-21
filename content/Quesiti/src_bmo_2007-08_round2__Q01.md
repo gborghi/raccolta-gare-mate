@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2007-08 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2007-08_round2__Q01
 parent: src_bmo_2007-08_round2
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2007-08 — Round 2 — Quesito 1
 
 *Minimum sum of squares under cubic symmetric constraint*
 

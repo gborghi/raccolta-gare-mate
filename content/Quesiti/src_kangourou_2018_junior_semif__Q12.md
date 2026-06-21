@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q12
 parent: src_kangourou_2018_junior_semif
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 12
 
 *Rapporto lunghezza fune / pezzo piu corto (dischi)*
 

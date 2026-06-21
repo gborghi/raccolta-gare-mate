@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q01
 parent: src_archimede_2020_riserva_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 1
 
 *Modi di comprare tre capi tutti di tipo diverso*
 

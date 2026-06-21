@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q01
 parent: src_canimath_2024_automne
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 1
 
 *Compute (2039−2024)²/9*
 

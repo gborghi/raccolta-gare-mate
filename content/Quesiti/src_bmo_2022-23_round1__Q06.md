@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2022-23 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2022-23_round1__Q06
 parent: src_bmo_2022-23_round1
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2022-23 — Round 1 — Quesito 6
 
 *Prove frog on circle Γ returns to previously visited point*
 

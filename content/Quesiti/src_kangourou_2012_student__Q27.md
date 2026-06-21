@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q27
 parent: src_kangourou_2012_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 27
 
 *Centro del cubo dati tre vertici nello spazio*
 

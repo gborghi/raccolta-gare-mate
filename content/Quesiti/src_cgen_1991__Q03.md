@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1991 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1991__Q03
 parent: src_cgen_1991
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1991 — Matematica — Quesito 3
 
 *Tetrahedra in sphere with mutually orthogonal lateral edges; fixed plane and formula*
 

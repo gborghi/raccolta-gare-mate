@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (finale Cervia)
 tipo: gara
 src_id: src_kangourou_2017_ecolier_finale
 competition: Kangourou 2017 Écolier (finale Cervia)
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (finale Cervia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2017/E-settembre17.pdf` · apri PDF
 

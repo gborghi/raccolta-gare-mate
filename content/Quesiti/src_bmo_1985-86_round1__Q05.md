@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1985-86 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1985-86_round1__Q05
 parent: src_bmo_1985-86_round1
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1985-86 — Round 1 — Quesito 5
 
 *Count permutations of 1..n with bounded jump constraints*
 

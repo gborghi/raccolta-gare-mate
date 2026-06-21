@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q12
 parent: src_kangourou_2017_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 12
 
 *Minimo ragazzi da iscrivere per sei squadre uguali*
 

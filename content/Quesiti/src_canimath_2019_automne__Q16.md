@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q16
 parent: src_canimath_2019_automne
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 16
 
 *2020 points on circle numbered 1–2020; find 1010 chords matching each point once with sum a-b equal to 1010^2*
 

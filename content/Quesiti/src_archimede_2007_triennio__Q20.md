@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Triennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_triennio__Q20
 parent: src_archimede_2007_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Triennio — Quesito 20
 
 *Modi di apparecchiare tavola rotonda con piatti bianchi e neri*
 

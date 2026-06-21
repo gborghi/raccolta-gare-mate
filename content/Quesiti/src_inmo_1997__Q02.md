@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1997 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1997__Q02
 parent: src_inmo_1997
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1997 — Quesito 2
 
 *No positive integers m,n satisfy the given equation*
 

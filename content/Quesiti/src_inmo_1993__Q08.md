@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1993 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_inmo_1993__Q08
 parent: src_inmo_1993
@@ -31,8 +32,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1993 — Quesito 8
 
 *Bijection from {1,...,n} to itself iterated M times equals identity*
 

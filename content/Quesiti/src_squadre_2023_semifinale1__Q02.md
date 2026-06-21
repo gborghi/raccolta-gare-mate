@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale1__Q02
 parent: src_squadre_2023_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 1 — Quesito 2
 
 *Area massima triangolo lato minore 40 e maggiore 101*
 

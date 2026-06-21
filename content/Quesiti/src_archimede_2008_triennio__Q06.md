@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Triennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_triennio__Q06
 parent: src_archimede_2008_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Triennio — Quesito 6
 
 *Valori di b con radici intere di x2+bx-16*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q08
 parent: src_kangourou_2018_junior_finale
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 8
 
 *Maggiore raggio di tre cerchi tangenti a una retta*
 

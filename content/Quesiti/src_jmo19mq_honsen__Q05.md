@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo19mq_honsen__Q05
 parent: src_jmo19mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 5
 
 *Find all non-negative real-valued functions satisfying a functional equation*
 

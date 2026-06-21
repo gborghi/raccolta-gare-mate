@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1998 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1998__Q04
 parent: src_cesenatico_1998
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1998 — Quesito 4
 
 *BC^2=CD·CE in trapezio con diagonali perpendicolari*
 

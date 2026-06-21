@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier_finale__QE4
 parent: src_kangourou_2011_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E4
 
 *Minimo numero di problemi per cinque categorie*
 

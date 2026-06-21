@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2005-06 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2005-06_round1__Q06
 parent: src_bmo_2005-06_round1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2005-06 — Round 1 — Quesito 6
 
 *Each point lies inside an even number of triangles*
 

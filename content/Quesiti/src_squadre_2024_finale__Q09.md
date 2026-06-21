@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q09
 parent: src_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 9
 
 *Massimo n con somma 24 numeri x un 3 cifre quadrato perfetto*
 

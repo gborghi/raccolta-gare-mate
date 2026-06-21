@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q04
 parent: src_archimede_2026_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 4
 
 *Lunghezza CQ dato un quadrato e aree di poligoni*
 

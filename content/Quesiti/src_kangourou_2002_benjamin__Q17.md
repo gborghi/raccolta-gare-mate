@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_benjamin__Q17
 parent: src_kangourou_2002_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Benjamin (21 marzo) — Quesito 17
 
 *Percentuale di sale nella soluzione*
 

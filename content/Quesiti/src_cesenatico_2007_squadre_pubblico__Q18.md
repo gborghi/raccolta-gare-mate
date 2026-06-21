@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q18
 parent: src_cesenatico_2007_squadre_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 18
 
 *Numero divisori del numero di mazzi mateninja magici*
 

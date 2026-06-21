@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q12
 parent: src_kangourou_2019_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 12
 
 *Minimo valore di a/b+c/d con interi distinti 1-10*
 

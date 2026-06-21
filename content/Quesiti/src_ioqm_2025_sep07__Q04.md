@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q04
 parent: src_ioqm_2025_sep07
@@ -34,8 +35,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 4
 
 *Count isosceles integer-sided triangles with perimeter 23*
 

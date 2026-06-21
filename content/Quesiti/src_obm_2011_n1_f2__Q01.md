@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f2__Q01
 parent: src_obm_2011_n1_f2
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 1
 
 *Area of inner rectangle with vertices on sides of outer rectangle*
 

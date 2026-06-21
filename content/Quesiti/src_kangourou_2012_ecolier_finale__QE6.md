@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier_finale__QE6
 parent: src_kangourou_2012_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E6
 
 *Si puo ottenere somma 100 sulle facce visibili dei dadi*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1985 (26th International Mathematical Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1985__Q06
 parent: src_imo_1985
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1985 (26th International Mathematical Olympiad) — Quesito 6
 
 *Unique starting value keeping recurrence sequence in (0,1)*
 

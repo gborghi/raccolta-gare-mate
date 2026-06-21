@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo30hq_honsen__Q01
 parent: src_jmo30hq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 1
 
 *Find all positive integer pairs making two expressions integers*
 

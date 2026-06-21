@@ -1,4 +1,5 @@
 ---
+title: IMO 1970 (Twelfth International Olympiad)
 tipo: gara
 src_id: src_imo_1970_all
 competition: IMO 1970 (Twelfth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1970
   - gara/individuale
 ---
-
-# IMO 1970 (Twelfth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1970_eng.pdf` · apri PDF
 

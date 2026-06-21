@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q03
 parent: src_gas_2010_finale
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 3
 
 *Modi disporre 28 bottiglie su 7 mensole con somme non multiple di 3*
 

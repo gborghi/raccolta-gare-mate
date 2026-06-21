@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f2__Q06
 parent: src_obm_2013_n3_f2
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 6
 
 *Square ABCD inscribed in circle of radius 30; chord AM meets diagonal BD at P; AM=50, find AP*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q15
 parent: src_kangourou_2022_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 15
 
 *Cifra non usata scrivendo 2022 come somma di tre numeri*
 

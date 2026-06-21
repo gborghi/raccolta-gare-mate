@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q03
 parent: src_kangourou_2015_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Finale — Quesito 3
 
 *Angolo AQB nel quadrato con due quarti di circonferenza*
 

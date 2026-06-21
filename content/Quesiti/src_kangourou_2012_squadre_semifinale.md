@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre semifinale turno A
 tipo: gara
 src_id: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre semifinale turno A
 
 Sorgente: `Kangaroo/kangourou_squadre/2012/SQ-A-12.pdf` · apri PDF
 

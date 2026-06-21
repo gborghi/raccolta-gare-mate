@@ -1,4 +1,5 @@
 ---
+title: IMO 1961 (III International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imho_1961__Q03
 parent: src_imho_1961
@@ -26,8 +27,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# IMO 1961 (III International Olympiad) — Quesito 3
 
 *Risolvere cos^n x - sin^n x = 1*
 

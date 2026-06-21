@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier semifinale individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q11
 parent: src_kangourou_2022_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier semifinale individuale — Quesito 11
 
 *Resto di (numero*10) diviso 6 con numero=2 mod 6*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n1_fx__Q01
 parent: src_obm_2019_n1_fx
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 1
 
 *Find integers O, B, M as exponents summing to 24*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Finale (risposta aperta) — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin_finale__QB4
 parent: src_kangourou_2023_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Finale (risposta aperta) — Quesito B4
 
 *minimo gettoni*
 

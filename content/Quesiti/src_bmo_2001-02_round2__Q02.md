@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2001-02 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2001-02_round2__Q02
 parent: src_bmo_2001-02_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2001-02 — Round 2 — Quesito 2
 
 *Round table seating rule; find all n delegates that avoid collision*
 

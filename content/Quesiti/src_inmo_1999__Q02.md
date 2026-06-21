@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1999 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1999__Q02
 parent: src_inmo_1999
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1999 — Quesito 2
 
 *Village cleanup rectangular field with integer sides and 1998 equal parts*
 

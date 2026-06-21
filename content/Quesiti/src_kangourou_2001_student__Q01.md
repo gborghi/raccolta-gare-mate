@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Student (15 marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_student__Q01
 parent: src_kangourou_2001_student
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2001 - Student (15 marzo) — Quesito 1
 
 *Massimo topolini grigi con vincolo gruppi*
 

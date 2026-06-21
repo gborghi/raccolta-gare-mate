@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q19
 parent: src_kangourou_2016_preecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 19
 
 *Quadratini da aggiungere per il piu piccolo quadrato*
 

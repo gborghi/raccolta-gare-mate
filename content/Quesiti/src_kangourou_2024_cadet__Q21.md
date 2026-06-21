@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q21
 parent: src_kangourou_2024_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 21
 
 *Somma di tre cifre con 5 tratti orizzontali e 10 verticali*
 

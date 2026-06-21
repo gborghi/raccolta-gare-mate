@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q07
 parent: src_kangourou_2017_squadre_ecolier_f
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 7
 
 *Segmenti interni in rettangolo quadrettato 40x30*
 

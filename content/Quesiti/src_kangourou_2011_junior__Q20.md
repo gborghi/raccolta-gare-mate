@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q20
 parent: src_kangourou_2011_junior
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 20
 
 *Quale frazione ha il valore piu alto con x,y maggiori di 1*
 

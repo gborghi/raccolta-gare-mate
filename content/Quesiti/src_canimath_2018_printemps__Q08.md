@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2018 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_printemps__Q08
 parent: src_canimath_2018_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2018 — Quesito 8
 
 *Three bars cut into pieces; can Daphne guarantee a triangle of each color?*
 

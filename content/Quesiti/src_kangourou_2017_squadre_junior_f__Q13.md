@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q13
 parent: src_kangourou_2017_squadre_junior_f
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 13
 
 *Massimo gettoni e modi nella griglia 8x2 non adiacenti*
 

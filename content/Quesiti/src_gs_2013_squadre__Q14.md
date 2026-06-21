@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q14
 parent: src_gs_2013_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 14
 
 *Probabilita segnaposto in 2 al sesto lancio*
 

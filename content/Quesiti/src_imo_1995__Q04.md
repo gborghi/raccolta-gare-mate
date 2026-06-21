@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1995 (36th IMO, Toronto) — Quesito 4'
 tipo: quesito
 quesito_id: quesito_src_imo_1995__Q04
 parent: src_imo_1995
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1995 (36th IMO, Toronto) — Quesito 4
 
 *Maximum x0 for cyclic positive-real recurrence sequence*
 

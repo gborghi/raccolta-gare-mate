@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior finale (maggio) — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ3
 parent: src_kangourou_2007_junior_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior finale (maggio) — Quesito J3
 
 *Numeri ab il cui quadrato finisce in ab (automorfi)*
 

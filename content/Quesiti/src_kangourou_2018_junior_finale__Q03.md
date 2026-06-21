@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q03
 parent: src_kangourou_2018_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 3
 
 *Massimo n con tripartizione a somma uguale*
 

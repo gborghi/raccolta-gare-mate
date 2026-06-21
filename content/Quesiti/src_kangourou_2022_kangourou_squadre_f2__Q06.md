@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q06
 parent: src_kangourou_2022_kangourou_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 6
 
 *Cifre A,B con [3(2022+A)]^2 dato*
 

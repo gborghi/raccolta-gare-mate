@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q16
 parent: src_kangourou_2006_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 16
 
 *Perimetro esagono intersezione di due triangoli*
 

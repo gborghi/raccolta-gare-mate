@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r1__Q05
 parent: src_rmo_2012_r1
@@ -32,8 +33,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 1 — Quesito 5
 
 *Angle bisectors feet; prove XY=(b+c-a)/2*
 

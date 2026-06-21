@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f3__Q03
 parent: src_obm_2006_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 3
 
 *Find all integer pairs with x^3 - y^3 = 3(x^2 - y^2)*
 

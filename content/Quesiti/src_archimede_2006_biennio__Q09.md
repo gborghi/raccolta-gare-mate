@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q09
 parent: src_archimede_2006_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 9
 
 *Lunghezza DC con DE parallelo ad AB e rapporto aree*
 

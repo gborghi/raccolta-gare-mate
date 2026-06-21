@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q12
 parent: src_kangourou_2012_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 12
 
 *Minimo dolcetti decorati sia con uvetta sia con noci*
 

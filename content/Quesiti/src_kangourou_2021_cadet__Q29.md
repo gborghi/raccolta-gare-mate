@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q29
 parent: src_kangourou_2021_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 29
 
 *Tornata in cui D incontra F nel torneo*
 

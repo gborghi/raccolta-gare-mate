@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q08
 parent: src_kangourou_2017_ecolier_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 8
 
 *Minimo numero di adulti dato incasso a teatro*
 

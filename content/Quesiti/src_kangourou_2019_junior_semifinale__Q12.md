@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q12
 parent: src_kangourou_2019_junior_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 12
 
 *Quarto numero della sequenza geometrica da 6 a 192*
 

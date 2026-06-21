@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round2__Q03
 parent: src_bmo_1987-88_round2
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 2 — Quesito 3
 
 *System of equations in a,b,c,x,y,z; express z and a combined expression*
 

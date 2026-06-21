@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q21
 parent: src_kangourou_2012_student
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 21
 
 *Minimo di funzione con valori assoluti*
 

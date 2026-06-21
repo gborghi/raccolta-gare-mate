@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q02
 parent: src_kangourou_2017_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 2
 
 *3 mosche e 2 ragni come 9 canarini e gatti*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q12
 parent: src_kangourou_2024_ecolier_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 12
 
 *Massimo numero con resto uguale al quoziente per 45*
 

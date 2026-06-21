@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1991-92 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1991-92_round1__Q04
 parent: src_bmo_1991-92_round1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1991-92 — Round 1 — Quesito 4
 
 *Minimize x²+5y²+8z² subject to yz+zx+xy=−1; does a maximum exist?*
 

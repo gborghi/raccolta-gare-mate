@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1995 (36th IMO, Toronto)'
 tipo: gara
 src_id: src_imo_1995
 competition: 'IMO 1995 (36th IMO, Toronto)'
@@ -15,8 +16,6 @@ tags:
   - anno/1995
   - gara/individuale
 ---
-
-# IMO 1995 (36th IMO, Toronto)
 
 Sorgente: `Archimede/individuale/imho/all/1995_eng.pdf` · apri PDF
 

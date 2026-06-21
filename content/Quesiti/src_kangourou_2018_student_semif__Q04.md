@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q04
 parent: src_kangourou_2018_student_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 4
 
 *Quanti primi r somma di due primi con uguale somma cifre*
 

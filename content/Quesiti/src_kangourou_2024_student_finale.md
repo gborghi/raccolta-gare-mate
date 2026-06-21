@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student finale
 tipo: gara
 src_id: src_kangourou_2024_student_finale
 competition: Kangourou 2024 Student finale
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Kangourou 2024 Student finale
 
 Sorgente: `Kangaroo/kangourou_individuali/2024/Student2024RFIN.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q02
 parent: src_kangourou_2016_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 2
 
 *Valore della somma 1/10+1/100+1/1000*
 

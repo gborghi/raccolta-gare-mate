@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f2__Q07
 parent: src_obm_2011_n3_f2
@@ -34,8 +35,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 7
 
 *Find all real solutions of a cyclic system 2y=x+1/x, etc.*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q17
 parent: src_ioqm_2025_sep28
@@ -34,8 +35,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 17
 
 *Minimum cards to draw guaranteeing product divisible by 6*
 

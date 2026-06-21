@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_gara_cd_rd__Q06
 parent: src_archimede_2026_squadre_gara_cd_rd
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 6
 
 *Sequenze 1,1,2,2,3,3,4,4 con vincolo coppie uguali*
 

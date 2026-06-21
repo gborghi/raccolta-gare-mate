@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo10mq_honsen__Q01
 parent: src_jjmo10mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 1
 
 *Pentagon with square base; prove triangle inscribed in circle*
 

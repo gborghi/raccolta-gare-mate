@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio__Q11
 parent: src_archimede_2021_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 11
 
 *Angolo ADM in parallelogramma con punti conciclici*
 

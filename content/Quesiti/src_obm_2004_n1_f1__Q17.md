@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n1_f1__Q17
 parent: src_obm_2004_n1_f1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 17
 
 *Fraction of people with blonde hair from a pie chart*
 

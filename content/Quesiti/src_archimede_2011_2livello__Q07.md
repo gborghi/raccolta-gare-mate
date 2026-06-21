@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_2livello__Q07
 parent: src_archimede_2011_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 7
 
 *Numero soluzioni reali distinte del polinomio di grado 6*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2000 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2000__Q02
 parent: src_inmo_2000
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2000 — Quesito 2
 
 *Solve integer system x+y=1-z, x^3+y^3=1-z^2*
 

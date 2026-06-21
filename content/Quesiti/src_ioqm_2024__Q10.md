@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q10
 parent: src_ioqm_2024
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 10
 
 *Count positive integral p for triangle with given side equation*
 

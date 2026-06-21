@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet
 tipo: gara
 src_id: src_kangourou_2019_cadet_semif
 competition: Kangourou 2019 Semifinale Cadet
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/Cadet_Semif_19TESTO.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q17
 parent: src_kangourou_2019_benjamin_semif
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 17
 
 *Massimo pedine sul 21-agono con distanze tutte diverse*
 

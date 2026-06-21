@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Triennio — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_triennio__Q21
 parent: src_archimede_2006_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Triennio — Quesito 21
 
 *Cifra delle unita di 17 elevato 17*
 

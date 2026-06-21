@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q06
 parent: src_kangourou_2012_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 6
 
 *Numero cubetti del cubo (1/8 rossi, 1/4 bianchi)*
 

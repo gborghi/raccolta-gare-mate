@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_tfjm_2023__Q06
 parent: src_tfjm_2023
@@ -36,8 +37,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 6
 
 *Hierarchies as oriented social-bond graphs; emeutes (riots) that flip and add bonds; stability, reachability, revolutions on complete/coherent/arbitrary tribes*
 

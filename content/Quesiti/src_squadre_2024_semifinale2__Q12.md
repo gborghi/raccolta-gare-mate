@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 2 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale2__Q12
 parent: src_squadre_2024_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 2 — Quesito 12
 
 *Area unione di tre rettangoli, AB=46 BC=20*
 

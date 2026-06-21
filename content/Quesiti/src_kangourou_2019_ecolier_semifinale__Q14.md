@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q14
 parent: src_kangourou_2019_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 14
 
 *Tra quante ore i due serbatoi hanno uguale quantita acqua*
 

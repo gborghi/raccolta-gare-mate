@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q06
 parent: src_cesenatico_2016_semifinale_a
@@ -29,8 +30,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 6
 
 *128*(p1+...+p35) sottoinsiemi somma pari*
 

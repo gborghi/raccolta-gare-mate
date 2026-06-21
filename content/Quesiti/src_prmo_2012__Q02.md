@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q02
 parent: src_prmo_2012
@@ -33,8 +34,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 2
 
 *Maximum area of triangle with integer sides and perimeter 7*
 

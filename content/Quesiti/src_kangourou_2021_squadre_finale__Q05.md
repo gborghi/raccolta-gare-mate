@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q05
 parent: src_kangourou_2021_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale — Quesito 5
 
 *Somma dei pesi dei numeri di 5 cifre con 1..5*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q01
 parent: src_kangourou_2024_student_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 1
 
 *Area dell'ottagono regolare con quadrato inscritto di area 2*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q04
 parent: src_kangourou_2019_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 4
 
 *Probabilita che Giulio totalizzi per primo due vittorie*
 

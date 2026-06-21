@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2005 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2005__Q01
 parent: src_inmo_2005
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2005 — Quesito 1
 
 *Median meets incircle; prove sides in ratio 5:10:13*
 

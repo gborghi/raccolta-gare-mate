@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo29mq_honsen__Q01
 parent: src_jmo29mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 1
 
 *Diophantine equation in three positive integers*
 

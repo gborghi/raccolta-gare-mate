@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q14
 parent: src_kangourou_2018_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 14
 
 *Quanti treni da o per Z tra 40 treni e 5 citta*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q03
 parent: src_kangourou_2019_benjamin_semif
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 3
 
 *Quale locale e al centro del corridoio (vincoli)*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1981 (Twenty-second International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1981_all__Q04
 parent: src_imo_1981_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1981 (Twenty-second International Olympiad) — Quesito 4
 
 *largest divides lcm of others*
 

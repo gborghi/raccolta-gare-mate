@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q10
 parent: src_archimede_2013_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 10
 
 *Rapporto area triangolo CDE e trapezio*
 

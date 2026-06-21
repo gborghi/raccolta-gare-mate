@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q20
 parent: src_archimede_2026_squadre_finale_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 20
 
 *Resto di 18!/3! diviso per 1+2+...+18 (Wilson)*
 

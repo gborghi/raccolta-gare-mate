@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2016 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_automne__Q07
 parent: src_canimath_2016_automne
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2016 — Quesito 7
 
 *Game: replace n on board; who wins?*
 

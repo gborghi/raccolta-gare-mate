@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n1_f1__Q07
 parent: src_obm_1998_n1_f1
@@ -33,8 +34,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 7
 
 *Identify the youngest among four boys from age relations*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n1_f2__Q01
 parent: src_obm_2001_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 1
 
 *Total number of dots on all 28 dominoes*
 

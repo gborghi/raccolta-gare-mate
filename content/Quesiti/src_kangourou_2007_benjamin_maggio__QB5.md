@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin finale (maggio) — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_maggio__QB5
 parent: src_kangourou_2007_benjamin_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin finale (maggio) — Quesito B5
 
 *Triangoli di perimetro 27 con lati interi distinti*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale nazionale Student — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_finale_student__QS4
 parent: src_kangourou_2014_finale_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale nazionale Student — Quesito S4
 
 *per quanti n|m*
 

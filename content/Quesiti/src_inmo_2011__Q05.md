@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2011 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2011__Q05
 parent: src_inmo_2011
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2011 — Quesito 5
 
 *Cyclic quadrilateral with AC·BD=EG·FH implies four lines concurrent*
 

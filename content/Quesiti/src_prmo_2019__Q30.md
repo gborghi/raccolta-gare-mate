@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q30
 parent: src_prmo_2019
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 30
 
 *Number of elements in E partitioned into 3 subsets with equal sums*
 

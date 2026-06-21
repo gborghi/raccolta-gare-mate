@@ -1,4 +1,5 @@
 ---
+title: IMO 1969 (Eleventh International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1969_all__Q06
 parent: src_imo_1969_all
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1969 (Eleventh International Olympiad) — Quesito 6
 
 *Prove quadratic-form inequality with equality conditions*
 

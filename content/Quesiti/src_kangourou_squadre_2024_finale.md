@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
 tipo: gara
 src_id: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
 
 Sorgente: `Kangaroo/kangourou_squadre/2024/SQKangourou2024F2.pdf` · apri PDF
 

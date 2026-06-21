@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q01
 parent: src_kangourou_2000_studenti
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 1
 
 *Ragazze in classe di 29 con 3 in piu*
 

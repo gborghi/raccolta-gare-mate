@@ -1,4 +1,5 @@
 ---
+title: IMO 1979 (Twenty-first International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1979_all__Q05
 parent: src_imo_1979_all
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1979 (Twenty-first International Olympiad) — Quesito 5
 
 *Find a with nonneg x_k satisfying three power-sum relations*
 

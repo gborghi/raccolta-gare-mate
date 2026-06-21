@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q17
 parent: src_kangourou_2018_benjamin_semifinale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Semifinale individuale — Quesito 17
 
 *Quanti numeri come somma A (4 cifre) e B (2 cifre)*
 

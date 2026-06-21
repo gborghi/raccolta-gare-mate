@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f3__Q06
 parent: src_obm_2004_n2_f3
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3 — Quesito 6
 
 *10×10 table with digits 0–9 each 10 times; largest guaranteed distinct digits in a line*
 

@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1996 (37th IMO, Mumbai) — Quesito 4'
 tipo: quesito
 quesito_id: quesito_src_imo_1996__Q04
 parent: src_imo_1996
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1996 (37th IMO, Mumbai) — Quesito 4
 
 *Least square value with 15a+16b and 16a-15b both squares*
 

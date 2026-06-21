@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2006-07 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2006-07_round2__Q01
 parent: src_bmo_2006-07_round2
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2006-07 — Round 2 — Quesito 1
 
 *Integer-sided triangle, angle bisector meets BC, AB=CD, find AB and BC*
 

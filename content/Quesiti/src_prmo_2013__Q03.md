@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q03
 parent: src_prmo_2013
@@ -32,8 +33,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 3
 
 *Sum of all integer values of a making x^2+ax+20=0 have integer roots*
 

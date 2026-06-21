@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale B — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_b__Q02
 parent: src_gas_2010_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale B — Quesito 2
 
 *Lunghezza segmento bisettrice in triangolo isoscele 120 gradi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q24
 parent: src_kangourou_2021_preecolier_koala
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 24
 
 *Ripiano su cui non puo stare il puzzle*
 

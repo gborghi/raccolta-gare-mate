@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo14yq_yosen__Q12
 parent: src_jjmo14yq_yosen
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 12
 
 *Max number N of arrow-placement configurations agreeing on targets*
 

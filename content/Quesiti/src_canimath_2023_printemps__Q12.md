@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q12
 parent: src_canimath_2023_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 12
 
 *In a rhombus ABCD with E the intersection of the diagonals, F the midpoint of [BE], G the midpoint of [AD], I the intersection of (FG) and (AC), and K the reflection of A across I; find EK/EA.*
 

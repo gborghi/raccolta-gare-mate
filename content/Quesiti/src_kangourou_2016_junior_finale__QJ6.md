@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (finale Cervia) — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_finale__QJ6
 parent: src_kangourou_2016_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (finale Cervia) — Quesito J6
 
 *Massimo rapporto area parallelogramma su esagono regolare*
 

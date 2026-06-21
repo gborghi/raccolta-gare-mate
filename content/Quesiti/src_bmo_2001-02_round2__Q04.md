@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2001-02 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2001-02_round2__Q04
 parent: src_bmo_2001-02_round2
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2001-02 — Round 2 — Quesito 4
 
 *Product of tangent lengths from point to unit spheres bounded by distances to centres*
 

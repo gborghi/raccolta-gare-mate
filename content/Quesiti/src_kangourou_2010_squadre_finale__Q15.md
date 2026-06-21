@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q15
 parent: src_kangourou_2010_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre finale — Quesito 15
 
 *Massimo studenti con 3 problemi e <=1 in comune*
 

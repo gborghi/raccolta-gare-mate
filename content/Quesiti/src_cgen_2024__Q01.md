@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2024 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_2024__Q01
 parent: src_cgen_2024
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Concours Général des Lycées 2024 — Matematica — Quesito 1
 
 *Recursively defined sequence u_{n+1}=1/(n+1)+sqrt(u_n): positivity, monotonicity, convergence and asymptotics*
 

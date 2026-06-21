@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1995 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_1995__Q01
 parent: src_rmo_1995
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1995 — Quesito 1
 
 *Triangle ABC with points K,L on BC; AL bisects angle KAC*
 

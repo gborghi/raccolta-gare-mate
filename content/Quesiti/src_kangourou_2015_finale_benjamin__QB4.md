@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Benjamin — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_benjamin__QB4
 parent: src_kangourou_2015_finale_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Benjamin — Quesito B4
 
 *misura angolo ABC*
 

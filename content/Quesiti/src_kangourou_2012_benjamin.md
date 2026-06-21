@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo)
 tipo: gara
 src_id: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2012/BMarzo-12.pdf` · apri PDF
 

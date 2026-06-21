@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_triennio__Q14
 parent: src_archimede_2010_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Triennio — Quesito 14
 
 *Numero cifre di 111222...888999 diviso 111*
 

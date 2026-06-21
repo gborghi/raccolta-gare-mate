@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Junior (21 marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_junior__Q05
 parent: src_kangourou_2002_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Junior (21 marzo) — Quesito 5
 
 *Spezzata piu lunga sul quadrato*
 

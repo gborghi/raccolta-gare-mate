@@ -1,4 +1,5 @@
 ---
+title: IMO 1960 (II International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imho_1960__Q04
 parent: src_imho_1960
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1960 (II International Olympiad) — Quesito 4
 
 *Costruire triangolo dati ha, hb e mediana ma*
 

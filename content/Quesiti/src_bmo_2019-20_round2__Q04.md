@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2019-20 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2019-20_round2__Q04
 parent: src_bmo_2019-20_round2
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2019-20 — Round 2 — Quesito 4
 
 *Sequence recurrence: boundedness and unboundedness results*
 

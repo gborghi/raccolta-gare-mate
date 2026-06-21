@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q06
 parent: src_kangourou_2012_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 6
 
 *Chi ha vinto e con quanti punti in piu al bersaglio*
 

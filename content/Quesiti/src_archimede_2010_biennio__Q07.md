@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q07
 parent: src_archimede_2010_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 7
 
 *Colorazioni di sette stati con tre colori*
 

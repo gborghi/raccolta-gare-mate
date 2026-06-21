@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo)
 tipo: gara
 src_id: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2005/BMarzo-05.pdf` · apri PDF
 

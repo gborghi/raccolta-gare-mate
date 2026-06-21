@@ -1,4 +1,5 @@
 ---
+title: XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2008__Q01
 parent: src_cesenatico_2008
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 1
 
 *Dodecagono regolare, intersezione diagonali e circonferenza S*
 

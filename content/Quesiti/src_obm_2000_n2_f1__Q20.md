@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f1__Q20
 parent: src_obm_2000_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 20
 
 *2000th number in sequence filling white cells of growing-row table*
 

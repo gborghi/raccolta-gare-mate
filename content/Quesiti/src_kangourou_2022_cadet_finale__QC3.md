@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet finale individuale — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_finale__QC3
 parent: src_kangourou_2022_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet finale individuale — Quesito C3
 
 *Quanti triangoli equilateri congiungendo vertici di un cubo*
 

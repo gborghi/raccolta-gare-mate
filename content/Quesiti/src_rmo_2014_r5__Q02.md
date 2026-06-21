@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 5 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r5__Q02
 parent: src_rmo_2014_r5
@@ -35,8 +36,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 5 — Quesito 2
 
 *Find positive integer values a and b given AP and GP conditions on roots*
 

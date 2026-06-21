@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q16
 parent: src_kangourou_2020_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 16
 
 *Quanti totali possibili tra 75,216,365,2020 sulla ruota*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2009 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2009_printemps__Q04
 parent: src_canimath_2009_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2009 — Quesito 4
 
 *At a party every guest shakes hands with exactly 7 others; prove even number of guests*
 

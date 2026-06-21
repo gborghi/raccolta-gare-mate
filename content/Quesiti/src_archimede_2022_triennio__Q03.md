@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q03
 parent: src_archimede_2022_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 3
 
 *Numeri di 4 cifre con 3 cifre uguali e una diversa*
 

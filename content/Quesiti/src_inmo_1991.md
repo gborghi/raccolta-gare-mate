@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991
 tipo: gara
 src_id: src_inmo_1991
 competition: Indian National Mathematical Olympiad 1991
@@ -15,8 +16,6 @@ tags:
   - anno/1991
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991
 
 Sorgente: apri PDF
 

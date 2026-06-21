@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Junior (21 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_junior__Q21
 parent: src_kangourou_2002_junior
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2002 - Junior (21 marzo) — Quesito 21
 
 *Area possibile del rettangolo di perimetro 32*
 

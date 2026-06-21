@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q11
 parent: src_squadre_2018_semifinalea
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 11
 
 *Successione ricorsiva in base 3, guadagno totale fino a edizione 2018*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q16
 parent: src_kangourou_2011_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 16
 
 *In quanti modi annerire celle con vincoli righe e colonne*
 

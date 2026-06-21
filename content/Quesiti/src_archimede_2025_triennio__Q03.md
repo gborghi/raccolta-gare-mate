@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q03
 parent: src_archimede_2025_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 3
 
 *Massima distanza tra due punti in piazza quadrata, distanze dai lati*
 

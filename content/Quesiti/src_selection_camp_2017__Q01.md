@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2017__Q01
 parent: src_selection_camp_2017
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2017 — Selection Camp — Quesito 1
 
 *Binary strings game: find minimum whiteboard count for B to win*
 

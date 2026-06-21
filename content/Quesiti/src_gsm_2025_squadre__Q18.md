@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q18
 parent: src_gsm_2025_squadre
@@ -30,8 +31,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 18
 
 *Probabilita che compaia 2026 in una successione di operazioni*
 

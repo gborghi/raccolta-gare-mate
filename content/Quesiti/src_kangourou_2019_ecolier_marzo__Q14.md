@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q14
 parent: src_kangourou_2019_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Ecolier — Quesito 14
 
 *Peso di un bicchiere riempito a meta d acqua*
 

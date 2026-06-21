@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1988-89 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1988-89_round2__Q04
 parent: src_bmo_1988-89_round2
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1988-89 — Round 2 — Quesito 4
 
 *Find BM in triangle ABC given BAM and BMC have equal inradii*
 

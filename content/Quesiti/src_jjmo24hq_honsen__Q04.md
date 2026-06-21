@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2026 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo24hq_honsen__Q04
 parent: src_jjmo24hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2026 — Honsen (Final) — Quesito 4
 
 *Minimize ratio of max to min under cyclic product constraint*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1971-72 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1971-72_round2__Q03
 parent: src_bmo_1971-72_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1971-72 — Round 2 — Quesito 3
 
 *In a friendship graph with no common friends and two common strangers, find n*
 

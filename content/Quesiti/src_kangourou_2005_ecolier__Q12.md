@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier__Q12
 parent: src_kangourou_2005_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo) — Quesito 12
 
 *Quale puo essere la terza parte del quadrato tagliato*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q04
 parent: src_archimede_2025_biennio_rec
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 4
 
 *Massimo di a+5b con ab=12 naturali*
 

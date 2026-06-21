@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1993 — Matematica — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cgen_1993__Q05
 parent: src_cgen_1993
@@ -34,8 +35,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1993 — Matematica — Quesito 5
 
 *Optimal triangles MAB by area/perimeter; maximize V/L^3 for a tetrahedron*
 

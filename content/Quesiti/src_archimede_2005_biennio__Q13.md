@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q13
 parent: src_archimede_2005_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 13
 
 *Numeri uguali al quadrato del numero dei divisori*
 

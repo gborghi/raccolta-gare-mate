@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo14yq_yosen__Q04
 parent: src_jjmo14yq_yosen
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 4
 
 *Max people getting at least one more apple than orange*
 

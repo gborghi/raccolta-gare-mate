@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q12
 parent: src_kangourou_2012_student
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 12
 
 *Affermazione vera per x con x^3<64<x^2*
 

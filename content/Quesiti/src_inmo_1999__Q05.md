@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1999 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_1999__Q05
 parent: src_inmo_1999
@@ -34,8 +35,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1999 — Quesito 5
 
 *Four distinct positive integers A, B, C with three quadratics all having real or all non-real roots*
 

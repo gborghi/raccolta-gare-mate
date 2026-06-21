@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n3_f1__Q12
 parent: src_obm_2014_n3_f1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 12
 
 *Find real a where roots of x^2-ax+b are squares of roots of x^2-bx+a*
 

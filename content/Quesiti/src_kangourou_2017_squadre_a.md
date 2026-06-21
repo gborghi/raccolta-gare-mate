@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A
 tipo: gara
 src_id: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A
 
 Sorgente: `Kangaroo/kangourou_squadre/2017/SQ-A-17.pdf` · apri PDF
 

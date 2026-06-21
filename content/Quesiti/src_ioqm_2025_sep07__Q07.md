@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q07
 parent: src_ioqm_2025_sep07
@@ -34,8 +35,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 7
 
 *Sum of two reals is positive integer n, sum of squares is n+1012; max n*
 

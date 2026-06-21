@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1994 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_1994__Q07
 parent: src_rmo_1994
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1994 — Quesito 7
 
 *Count rationals m/n with 0 < m/n < 1, gcd(m,n)=1, mn = 25!*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_biennio__Q15
 parent: src_archimede_2012_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Biennio — Quesito 15
 
 *Probabilita di riestrarre la stessa carta con reinserimento*
 

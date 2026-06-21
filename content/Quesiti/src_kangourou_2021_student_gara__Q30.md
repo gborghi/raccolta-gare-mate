@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_gara__Q30
 parent: src_kangourou_2021_student_gara
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale — Quesito 30
 
 *Probabilita che A vinca con vantaggio di 3 punti*
 

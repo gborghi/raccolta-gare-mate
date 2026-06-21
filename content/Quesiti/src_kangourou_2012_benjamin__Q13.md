@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q13
 parent: src_kangourou_2012_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 13
 
 *Quale lettera al dado non visibile nel cubo*
 

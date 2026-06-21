@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo22yqa_yosen__Q07
 parent: src_jjmo22yqa_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 7
 
 *Count integers n in [10^98, 10^100) such that the erasing operation leaves exactly 3 numbers*
 

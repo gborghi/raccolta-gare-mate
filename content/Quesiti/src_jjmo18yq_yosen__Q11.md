@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo18yq_yosen__Q11
 parent: src_jjmo18yq_yosen
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 11
 
 *Maximum expected number of black-face-up coins after 2020 row/column flip operations*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q17
 parent: src_archimede_2013_febb_2livello
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 17
 
 *parallela per P bisecata e PQ biseca la base minore*
 

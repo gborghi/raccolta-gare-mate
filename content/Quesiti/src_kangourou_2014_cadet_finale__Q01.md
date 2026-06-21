@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Cadet — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet_finale__Q01
 parent: src_kangourou_2014_cadet_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Cadet — Quesito 1
 
 *Perché numero coppie = somma primi n-1 interi*
 

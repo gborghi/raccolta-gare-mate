@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q20
 parent: src_kangourou_2015_marzo_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Benjamin — Quesito 20
 
 *min mosse per raggiungere A*
 

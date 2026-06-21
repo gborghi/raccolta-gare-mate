@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q09
 parent: src_archimede_2005_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 9
 
 *Divisibilita di (n+2)(n+3)(2n+5)*
 

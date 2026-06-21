@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q18
 parent: src_kangourou_2023_student
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 18
 
 *Da quanti numeri si parte per ottenere 10 sommando parte decimale*
 

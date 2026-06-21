@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q01
 parent: src_kangourou_2012_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 1
 
 *Quanto costa una tavoletta di cioccolata*
 

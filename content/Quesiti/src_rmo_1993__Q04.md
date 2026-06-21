@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1993 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_1993__Q04
 parent: src_rmo_1993
@@ -29,8 +30,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1993 — Quesito 4
 
 *Inequality for inscribed circle radii in rectangle*
 

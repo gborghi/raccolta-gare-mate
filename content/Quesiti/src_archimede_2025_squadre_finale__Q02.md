@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q02
 parent: src_archimede_2025_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 2
 
 *Massimo spigoli percorso euleriano su icosaedro*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q15
 parent: src_gas_2009_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 15
 
 *Probabilita di fuga colpito esattamente una volta su 5 tiri*
 

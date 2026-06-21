@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2015__Q03
 parent: src_cesenatico_2015
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 3
 
 *ciclicita iff parallelismo*
 

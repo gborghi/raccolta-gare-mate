@@ -1,4 +1,5 @@
 ---
+title: XXIII Olimpiade Italiana Cesenatico 2007
 tipo: gara
 src_id: src_cesenatico_2007
 competition: XXIII Olimpiade Italiana Cesenatico 2007
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# XXIII Olimpiade Italiana Cesenatico 2007
 
 Sorgente: `Archimede/individuale/nazionale/2007/ces07-sol.pdf` · apri PDF
 

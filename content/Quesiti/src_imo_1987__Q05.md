@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1987 (28th IMO, Havana) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1987__Q05
 parent: src_imo_1987
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1987 (28th IMO, Havana) — Quesito 5
 
 *n points with irrational distances and rational triangle areas*
 

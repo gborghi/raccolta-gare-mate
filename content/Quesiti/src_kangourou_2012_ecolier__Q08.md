@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q08
 parent: src_kangourou_2012_ecolier
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 8
 
 *Eta dei pulcini nati il 24 febbraio osservati a marzo*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1975-76 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1975-76_round2__Q02
 parent: src_bmo_1975-76_round2
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1975-76 — Round 2 — Quesito 2
 
 *Root of real equation lies in given interval*
 

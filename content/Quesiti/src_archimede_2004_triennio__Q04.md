@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_triennio__Q04
 parent: src_archimede_2004_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Triennio — Quesito 4
 
 *valore di una espressione*
 

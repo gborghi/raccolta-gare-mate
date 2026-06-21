@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q05
 parent: src_archimede_2024_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 5
 
 *Interi k con q(k)=0 per composizione 2024 volte di p(x)*
 

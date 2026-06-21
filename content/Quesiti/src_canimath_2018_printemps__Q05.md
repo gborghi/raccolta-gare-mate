@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2018 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_printemps__Q05
 parent: src_canimath_2018_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2018 — Quesito 5
 
 *Two points on semicircle of diameter AD with AB=BC=1, find CD*
 

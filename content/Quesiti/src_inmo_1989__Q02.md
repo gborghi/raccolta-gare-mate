@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1989 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1989__Q02
 parent: src_inmo_1989
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1989 — Quesito 2
 
 *Roots of x^3+ax^2+bx+c cannot all be rational given a,b,c real not all zero*
 

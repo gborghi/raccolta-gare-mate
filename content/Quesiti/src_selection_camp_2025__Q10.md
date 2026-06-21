@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2025__Q10
 parent: src_selection_camp_2025
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2025 — Selection Camp — Quesito 10
 
 *Cyclic pentagon, diagonal intersection points; prove concyclicity*
 

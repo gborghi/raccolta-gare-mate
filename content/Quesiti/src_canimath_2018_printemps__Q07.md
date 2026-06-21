@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2018 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_printemps__Q07
 parent: src_canimath_2018_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2018 — Quesito 7
 
 *Trapezoid ABCD, diagonals meet at E, line through E parallel to AB meets AD at F, show angle BFC=90*
 

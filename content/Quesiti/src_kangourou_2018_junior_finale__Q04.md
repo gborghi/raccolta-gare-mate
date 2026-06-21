@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q04
 parent: src_kangourou_2018_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 4
 
 *Massimo N con sacchi (algoritmo euclideo Fibonacci)*
 

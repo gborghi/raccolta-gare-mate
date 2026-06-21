@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f3__Q01
 parent: src_obm_2001_n2_f3
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 1
 
 *Fold a rectangular sheet along its diagonal, then so C meets A; show the crease quadrilateral is a rhombus and find its area*
 

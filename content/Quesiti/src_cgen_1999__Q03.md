@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1999 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1999__Q03
 parent: src_cgen_1999
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1999 — Matematica — Quesito 3
 
 *Acute triangle maximizing ratio of shortest side to inradius*
 

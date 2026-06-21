@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2014 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_automne__Q05
 parent: src_canimath_2014_automne
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2014 — Quesito 5
 
 *10 villages, one-way non-crossing roads with no return possible; graph results*
 

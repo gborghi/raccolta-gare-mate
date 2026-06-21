@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 1 —
+  Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2002_nu_f1__Q01
 parent: src_obm_2002_nu_f1
@@ -31,8 +34,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 1 — Quesito 1
 
 *Find f(13) for a continuous differentiable functional equation*
 

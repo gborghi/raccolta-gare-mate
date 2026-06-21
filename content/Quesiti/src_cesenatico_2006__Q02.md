@@ -1,4 +1,5 @@
 ---
+title: XXII Olimpiade Italiana Cesenatico 2006 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006__Q02
 parent: src_cesenatico_2006
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XXII Olimpiade Italiana Cesenatico 2006 — Quesito 2
 
 *Determinare valori di (a,b,c) con c=ab e ab=a^2 e relazioni*
 

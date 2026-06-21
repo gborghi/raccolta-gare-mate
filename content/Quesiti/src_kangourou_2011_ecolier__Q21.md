@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q21
 parent: src_kangourou_2011_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 21
 
 *Quale pezzo certamente non usato nel mosaico*
 

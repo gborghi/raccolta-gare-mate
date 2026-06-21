@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n2_f3__Q01
 parent: src_obm_2017_n2_f3
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3 — Quesito 1
 
 *Trapezoids formed by midpoints and vertices of a triangle; area ratios*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q20
 parent: src_cesenatico_2001_squadre
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 20
 
 *Ultime quattro cifre del coefficiente massimo del polinomio*
 

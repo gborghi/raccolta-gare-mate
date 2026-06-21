@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2002-03 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2002-03_round1__Q01
 parent: src_bmo_2002-03_round1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2002-03 — Round 1 — Quesito 1
 
 *Find digits contained in a specific large number*
 

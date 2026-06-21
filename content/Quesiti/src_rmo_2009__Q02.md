@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2009 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2009__Q02
 parent: src_rmo_2009
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2009 — Quesito 2
 
 *No integer a makes a²−3a−19 divisible by 289*
 

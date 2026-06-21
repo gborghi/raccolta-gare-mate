@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q05
 parent: src_kangourou_2024_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 5
 
 *Aspetto delle scatole viste dall'altra parte del muretto*
 

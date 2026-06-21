@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1986-87 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1986-87_round1__Q03
 parent: src_bmo_1986-87_round1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1986-87 — Round 1 — Quesito 3
 
 *Find limiting value of product of two binomial-coefficient sums*
 

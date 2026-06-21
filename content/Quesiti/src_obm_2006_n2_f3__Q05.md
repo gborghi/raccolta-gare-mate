@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f3__Q05
 parent: src_obm_2006_n2_f3
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 5
 
 *Find angle MNR in acute triangle given orthocenter and midpoints*
 

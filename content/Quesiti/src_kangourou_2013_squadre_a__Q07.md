@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q07
 parent: src_kangourou_2013_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Semifinale A — Quesito 7
 
 *Somma numeri sulle facce del cubo, vertici=1001*
 

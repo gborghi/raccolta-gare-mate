@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q05
 parent: src_jjmo3q
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 5
 
 *Same digit-count in base ten and base five*
 

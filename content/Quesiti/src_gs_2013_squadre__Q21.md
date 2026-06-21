@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q21
 parent: src_gs_2013_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 21
 
 *Conteggio rettangoli con perimetro 20 sulla griglia*
 

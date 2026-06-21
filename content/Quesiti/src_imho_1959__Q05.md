@@ -1,4 +1,5 @@
 ---
+title: IMO 1959 (I International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imho_1959__Q05
 parent: src_imho_1959
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1959 (I International Olympiad) — Quesito 5
 
 *coincidenza di punti e luogo dei medi*
 

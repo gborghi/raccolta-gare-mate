@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2020 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_garaprime_2020__Q12
 parent: src_garaprime_2020
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2020 — Quesito 12
 
 *Area del trapezio ABCD in un ottagono regolare*
 

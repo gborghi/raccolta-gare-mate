@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f2__Q08
 parent: src_obm_2009_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 8
 
 *Three-digit A times two-digit B; reversing B's digits gives a result 2034 larger; find A when B's digits are consecutive / non-consecutive*
 

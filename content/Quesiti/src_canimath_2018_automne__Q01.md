@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2018 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_automne__Q01
 parent: src_canimath_2018_automne
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2018 — Quesito 1
 
 *Distribute 2018 pieces in b boxes into n houses; box contains at least n pieces?*
 

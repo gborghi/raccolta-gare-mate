@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Cadet — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q12
 parent: src_kangourou_2020_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Cadet — Quesito 12
 
 *Km al giorno per la media obiettivo di marzo*
 

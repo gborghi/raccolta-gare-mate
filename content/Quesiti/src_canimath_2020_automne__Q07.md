@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q07
 parent: src_canimath_2020_automne
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 7
 
 *Count integer triples summing to zero with absolute-value sum equal to 2k*
 

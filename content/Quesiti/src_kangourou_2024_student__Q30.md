@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q30
 parent: src_kangourou_2024_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 30
 
 *Cifra A in ABCD = AA+BB+CC+DD*
 

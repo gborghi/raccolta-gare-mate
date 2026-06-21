@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q14
 parent: src_kangourou_2016_squadre_ecolier_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 14
 
 *Minimo tende da 5 posti per 31 ragazzi senza posti liberi*
 

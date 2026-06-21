@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q04
 parent: src_gas_2009_pubblico
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 4
 
 *Interi 1-55 non esprimibili come somma con segni di quadrati*
 

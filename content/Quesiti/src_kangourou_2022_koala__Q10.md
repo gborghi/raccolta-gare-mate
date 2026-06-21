@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Koala — Gioco Koala — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_koala__Q10
 parent: src_kangourou_2022_koala
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Koala — Gioco Koala — Quesito 10
 
 *Canguro verso koala evitando macchie azzurre*
 

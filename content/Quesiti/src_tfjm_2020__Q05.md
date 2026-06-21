@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_tfjm_2020__Q05
 parent: src_tfjm_2020
@@ -32,8 +33,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 5
 
 *Peeling polygonal labels by removing triangles with a unit ruler*
 

@@ -1,4 +1,5 @@
 ---
+title: XXI Olimpiade Italiana Cesenatico 2005 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005__Q01
 parent: src_cesenatico_2005
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# XXI Olimpiade Italiana Cesenatico 2005 — Quesito 1
 
 *Triangolo rettangolo, altezza, valori del rapporto AH/CH*
 

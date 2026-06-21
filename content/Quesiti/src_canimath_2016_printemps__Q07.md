@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2016 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_printemps__Q07
 parent: src_canimath_2016_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2016 — Quesito 7
 
 *Among 18 consecutive integers <= 2016, show at least one is divisible by the sum of its digits.*
 

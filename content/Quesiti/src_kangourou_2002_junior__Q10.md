@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Junior (21 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_junior__Q10
 parent: src_kangourou_2002_junior
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Junior (21 marzo) — Quesito 10
 
 *Conclusione sul vicino Franco*
 

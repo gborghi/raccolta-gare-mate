@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1995 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1995__Q03
 parent: src_rmo_1995
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1995 — Quesito 3
 
 *Among any 18 consecutive 3-digit numbers, one is divisible by sum of its digits*
 

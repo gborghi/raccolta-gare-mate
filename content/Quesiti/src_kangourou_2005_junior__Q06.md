@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q06
 parent: src_kangourou_2005_junior
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 6
 
 *Numero x per progressioni aritmetiche in tabella*
 

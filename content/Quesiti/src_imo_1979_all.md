@@ -1,4 +1,5 @@
 ---
+title: IMO 1979 (Twenty-first International Olympiad)
 tipo: gara
 src_id: src_imo_1979_all
 competition: IMO 1979 (Twenty-first International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1979
   - gara/individuale
 ---
-
-# IMO 1979 (Twenty-first International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1979_eng.pdf` · apri PDF
 

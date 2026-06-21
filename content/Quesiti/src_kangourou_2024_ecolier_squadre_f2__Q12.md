@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q12
 parent: src_kangourou_2024_ecolier_squadre_f2
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 12
 
 *Prime 4 cifre minimo divisibile per 3, sette addendi*
 

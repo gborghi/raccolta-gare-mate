@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale2__Q02
 parent: src_squadre_2024_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 2 — Quesito 2
 
 *Somma k con successione che raggiunge 1000*
 

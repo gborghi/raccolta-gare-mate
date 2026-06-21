@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q25
 parent: src_kangourou_2022_cadet_gara
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 25
 
 *Minimo litri di vernice verde da sostituire*
 

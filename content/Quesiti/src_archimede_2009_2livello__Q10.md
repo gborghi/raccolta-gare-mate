@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q10
 parent: src_archimede_2009_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 10
 
 *Probabilità tutti a zero punti dopo 10 mani*
 

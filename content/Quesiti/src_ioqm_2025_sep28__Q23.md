@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q23
 parent: src_ioqm_2025_sep28
@@ -30,8 +31,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 23
 
 *Cevians from interior point P; BP/PE=5/2, CP/PF=7/3; find p+q where AP/PD=p/q*
 

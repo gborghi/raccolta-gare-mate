@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q09
 parent: src_kangourou_2021_preecolier_koala
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 9
 
 *Quanti pezzi di nastro dopo il taglio*
 

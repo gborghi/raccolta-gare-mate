@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_biennio__Q04
 parent: src_archimede_2022_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Biennio — Quesito 4
 
 *Numeri di 4 cifre con 3 cifre uguali (non 0) e uno 0*
 

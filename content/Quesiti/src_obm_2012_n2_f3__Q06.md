@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n2_f3__Q06
 parent: src_obm_2012_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 3 — Quesito 6
 
 *Find m,n,d values allowing full marking of m×n chocolate bar*
 

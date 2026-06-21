@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f2__Q03
 parent: src_obm_2002_n2_f2
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 3
 
 *8×8 table with neighbor-difference 1, entries 17 and 3 present; find sum of main diagonals*
 

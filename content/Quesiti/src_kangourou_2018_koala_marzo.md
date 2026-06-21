@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo)
 tipo: gara
 src_id: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2018/PMarzo-18.pdf` · apri PDF
 

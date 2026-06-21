@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1998
 tipo: gara
 src_id: src_rmo_1998
 competition: Regional Mathematical Olympiad 1998
@@ -15,8 +16,6 @@ tags:
   - anno/1998
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1998
 
 Sorgente: apri PDF
 

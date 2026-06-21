@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_bmo_1972-73_round1__Q07
 parent: src_bmo_1972-73_round1
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1972-73 — Round 1 — Quesito 7
 
 *Life-expectancy of a Draconian aged 70 from a life-table model*
 

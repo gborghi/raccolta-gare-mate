@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f2__Q01
 parent: src_obm_1998_n3_f2
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 1
 
 *Max times cards can be removed from a box under a rule*
 

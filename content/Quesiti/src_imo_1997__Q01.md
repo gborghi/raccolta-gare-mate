@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1997 (38th IMO, Mar del Plata) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1997__Q01
 parent: src_imo_1997
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1997 (38th IMO, Mar del Plata) — Quesito 1
 
 *Chessboard triangle black-white area difference function f(m,n)*
 

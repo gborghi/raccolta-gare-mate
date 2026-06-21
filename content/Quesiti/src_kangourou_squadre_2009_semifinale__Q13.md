@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q13
 parent: src_kangourou_squadre_2009_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 13
 
 *Griglia irregolare con vincoli pari/dispari e frecce*
 

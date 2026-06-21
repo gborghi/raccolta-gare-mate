@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q18
 parent: src_kangourou_2024_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 18
 
 *Quanti interi di 3 cifre contengono almeno una cifra 1,2,3*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_biennio__Q10
 parent: src_archimede_2014_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 10
 
 *Numero di incontri in torneo di biliardino a coppie*
 

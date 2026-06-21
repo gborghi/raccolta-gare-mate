@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n2_f1__Q16
 parent: src_obm_2015_n2_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 16
 
 *Find x = CP making two gray regions equal in a two-squares figure*
 

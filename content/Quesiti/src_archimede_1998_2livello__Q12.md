@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q12
 parent: src_archimede_1998_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 12
 
 *Quale unica affermazione su età e forza è falsa*
 

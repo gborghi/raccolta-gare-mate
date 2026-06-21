@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2001_squadre__Q02
 parent: src_cesenatico_2001_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001 — Quesito 2
 
 *Posizione del pianeta (24,25) nell'ordinamento dei pianeti*
 

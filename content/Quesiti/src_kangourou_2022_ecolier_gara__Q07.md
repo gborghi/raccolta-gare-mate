@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier gara individuale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q07
 parent: src_kangourou_2022_ecolier_gara
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier gara individuale — Quesito 7
 
 *Quale e la cartolina di Michele*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n1_fx__Q02
 parent: src_obm_2021_n1_fx
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 2
 
 *Count triples of positive integers with divisibility conditions*
 

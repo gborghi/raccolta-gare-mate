@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q22
 parent: src_kangourou_2006_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 22
 
 *Modi di scegliere foglietti con differenza 3 cifre*
 

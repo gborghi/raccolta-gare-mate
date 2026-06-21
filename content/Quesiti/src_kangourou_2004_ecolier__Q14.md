@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q14
 parent: src_kangourou_2004_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 14
 
 *Quale differenza non e uguale a 671-389*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale)
 tipo: gara
 src_id: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale)
 
 Sorgente: `Kangaroo/kangourou_individuali/2024/Student2024REL.pdf` · apri PDF
 

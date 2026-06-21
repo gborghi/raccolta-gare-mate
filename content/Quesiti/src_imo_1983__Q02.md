@@ -1,4 +1,5 @@
 ---
+title: IMO 1983 (24th International Mathematical Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1983__Q02
 parent: src_imo_1983
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1983 (24th International Mathematical Olympiad) — Quesito 2
 
 *Prove angle O1AO2 equals angle M1AM2 for two circles*
 

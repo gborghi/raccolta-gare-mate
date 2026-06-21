@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2016 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_printemps__Q08
 parent: src_canimath_2016_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2016 — Quesito 8
 
 *Class test: at least 2/3 of questions difficult and at least 2/3 of students did well; is it possible; repeat with 3/4 and 7/10.*
 

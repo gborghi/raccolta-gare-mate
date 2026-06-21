@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q14
 parent: src_kangourou_2019_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 14
 
 *Lunghezza totale del percorso del triathlon*
 

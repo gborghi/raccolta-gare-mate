@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q04
 parent: src_kangourou_2013_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Finale — Quesito 4
 
 *senza quadrati ne cubi*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q04
 parent: src_ioqm_2024
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 4
 
 *Find angle CAB in quadrilateral ABCD with given angles*
 

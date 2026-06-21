@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (finale Cervia) — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_finale__QJ2
 parent: src_kangourou_2016_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (finale Cervia) — Quesito J2
 
 *Busta A o B con al massimo un errore*
 

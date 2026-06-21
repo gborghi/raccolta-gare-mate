@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2019__Q06
 parent: src_selection_camp_2019
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2019 — Selection Camp — Quesito 6
 
 *Min meal vouchers in a one-match-per-day round robin of 2k players*
 

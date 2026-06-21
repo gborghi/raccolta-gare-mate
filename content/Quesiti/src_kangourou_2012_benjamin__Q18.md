@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q18
 parent: src_kangourou_2012_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 18
 
 *Punto di arrivo della rana Hip*
 

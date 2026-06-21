@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q09
 parent: src_archimede_2024_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 9
 
 *Colorazioni 5x5 rosso/blu con vincolo sui lati condivisi*
 

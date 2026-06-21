@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q02
 parent: src_ioqm_2022
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 2
 
 *Parallelogram ABCD, point P on AB, Q on AD, find AC/AT*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q22
 parent: src_kangourou_2024_cadet
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 22
 
 *In quanti modi annerire due quadretti per un solo asse*
 

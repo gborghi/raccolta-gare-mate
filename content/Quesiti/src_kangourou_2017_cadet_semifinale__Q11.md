@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q11
 parent: src_kangourou_2017_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (semifinale individuale) — Quesito 11
 
 *Minimo prove sufficienti dato totale risposte corrette*
 

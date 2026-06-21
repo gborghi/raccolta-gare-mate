@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round2__Q03
 parent: src_bmo_1973-74_round2
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 2 — Quesito 3
 
 *Locus of centre of circular hoop touching floor and two perpendicular walls*
 

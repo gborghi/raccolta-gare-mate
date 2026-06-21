@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q18
 parent: src_kangourou_2016_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 18
 
 *Minimo colori per griglia 3x3 righe colonne diagonali*
 

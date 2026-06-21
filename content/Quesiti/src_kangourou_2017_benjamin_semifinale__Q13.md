@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q13
 parent: src_kangourou_2017_benjamin_semifinale
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (semifinale individuale) — Quesito 13
 
 *ritorno piu lento di un quinto*
 

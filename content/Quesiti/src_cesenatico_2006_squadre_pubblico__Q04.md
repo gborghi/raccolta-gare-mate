@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q04
 parent: src_cesenatico_2006_squadre_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 4
 
 *Minimo di 4a^3/b + b + 1/a con a,b>0*
 

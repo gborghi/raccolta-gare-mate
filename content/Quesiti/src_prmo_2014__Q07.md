@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q07
 parent: src_prmo_2014
@@ -30,8 +31,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 7
 
 *Value of 2^(1/y) + 2^(1/x) given 2^(x+y) = 4*
 

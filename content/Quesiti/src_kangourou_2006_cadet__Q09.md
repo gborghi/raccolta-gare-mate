@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q09
 parent: src_kangourou_2006_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 9
 
 *Massimo perimetro triangolo con due lati 7 e terzo intero*
 

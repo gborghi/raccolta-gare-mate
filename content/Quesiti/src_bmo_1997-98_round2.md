@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1997-98 — Round 2
 tipo: gara
 src_id: src_bmo_1997-98_round2
 competition: British Mathematical Olympiad 1997-98 — Round 2
@@ -15,8 +16,6 @@ tags:
   - anno/1998
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1997-98 — Round 2
 
 Sorgente: apri PDF
 

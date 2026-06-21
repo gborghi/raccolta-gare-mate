@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_triennio__Q11
 parent: src_archimede_1999_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Triennio — Quesito 11
 
 *Numero in posizione 1999 fra i non multipli di 2 e 3*
 

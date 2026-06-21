@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q20
 parent: src_kangourou_2006_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 20
 
 *Ordine dei cinque punti sul segmento OE*
 

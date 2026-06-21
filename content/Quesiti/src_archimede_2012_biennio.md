@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Biennio
 tipo: gara
 src_id: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Biennio
 
 Sorgente: `Archimede/individuale/1livello/2012/testo-biennio-def.pdf` · apri PDF
 

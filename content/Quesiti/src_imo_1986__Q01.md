@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1986 (27th IMO, Warsaw) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1986__Q01
 parent: src_imo_1986
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1986 (27th IMO, Warsaw) — Quesito 1
 
 *Find pair in {2,5,13,d} with ab-1 not perfect square*
 

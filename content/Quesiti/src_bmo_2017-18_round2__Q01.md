@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2017-18 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2017-18_round2__Q01
 parent: src_bmo_2017-18_round2
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2017-18 — Round 2 — Quesito 1
 
 *Circle tangent to BC at B through midpoint M meets AB at P; prove AB×BP=2BM²*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1983-84 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1983-84_round2__Q03
 parent: src_bmo_1983-84_round2
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1983-84 — Round 2 — Quesito 3
 
 *Find maximum and minimum of cos α + cos β + cos γ with α+β+γ = 4π/3*
 

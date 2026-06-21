@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q16
 parent: src_cesenatico_2006_squadre_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 16
 
 *Numero cubi con vertici in griglia 11x11x11 interi*
 

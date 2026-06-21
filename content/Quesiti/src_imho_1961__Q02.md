@@ -1,4 +1,5 @@
 ---
+title: IMO 1961 (III International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imho_1961__Q02
 parent: src_imho_1961
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1961 (III International Olympiad) — Quesito 2
 
 *Provare a^2+b^2+c^2 >= 4 sqrt3 T (disuguaglianza di Weitzenbock)*
 

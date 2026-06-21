@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - finale settembre — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q05
 parent: src_kangourou_2020_junior_settembre
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - finale settembre — Quesito 5
 
 *Coppie intere (x,y) con x^2+7y=xy*
 

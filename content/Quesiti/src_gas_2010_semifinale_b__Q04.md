@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale B — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_b__Q04
 parent: src_gas_2010_semifinale_b
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale B — Quesito 4
 
 *Velocita nave da calo stimato di 1 minuto ogni 8 miglia*
 

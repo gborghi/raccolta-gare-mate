@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q01
 parent: src_archimede_1997_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 1
 
 *Quale delle cinque sagome mostra la faccia bianca*
 

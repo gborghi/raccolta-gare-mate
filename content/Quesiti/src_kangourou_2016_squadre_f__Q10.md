@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q10
 parent: src_kangourou_2016_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Finale — Quesito 10
 
 *Somma interi consecutivi i cui cubi danno 2016*
 

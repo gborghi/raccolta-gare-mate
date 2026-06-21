@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
 tipo: gara
 src_id: src_jmo35yqa_yosen
 competition: Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q14
 parent: src_gas_2009_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 14
 
 *Modi di indossare 9 anelli su 8 dita con ordine*
 

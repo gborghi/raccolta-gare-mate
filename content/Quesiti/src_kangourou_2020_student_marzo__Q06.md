@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q06
 parent: src_kangourou_2020_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 6
 
 *Valore di (1010^2+2020^2+3030^2)/2020*
 

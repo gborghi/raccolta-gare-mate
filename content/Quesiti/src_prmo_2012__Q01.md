@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q01
 parent: src_prmo_2012
@@ -29,8 +30,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 1
 
 *Find original number after wrong subtraction sequence*
 

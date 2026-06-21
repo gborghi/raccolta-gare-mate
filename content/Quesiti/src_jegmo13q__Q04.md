@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jegmo13q__Q04
 parent: src_jegmo13q
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2024 — Quesito 4
 
 *Find all integer n>=2 and strictly increasing positive integer sequences with divisibility condition*
 

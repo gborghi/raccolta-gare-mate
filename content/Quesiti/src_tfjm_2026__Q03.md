@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_tfjm_2026__Q03
 parent: src_tfjm_2026
@@ -36,8 +37,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 3
 
 *Among N barrels, exactly k are contaminated by a lethal dye; using detectors that test mixtures of chosen barrels, find a strategy minimizing the number of detectors $D_{N,k}(S)$ under perfect, threshold-sensitive, probabilistic and dynamic detector models.*
 

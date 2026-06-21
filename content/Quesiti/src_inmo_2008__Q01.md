@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2008 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2008__Q01
 parent: src_inmo_2008
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2008 — Quesito 1
 
 *Reflections of incenter concyclic with incenter of reflected triangle*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Triennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_triennio__Q08
 parent: src_archimede_2003_triennio
@@ -21,8 +22,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Triennio — Quesito 8
 
 *relazione di parabola, valore*
 

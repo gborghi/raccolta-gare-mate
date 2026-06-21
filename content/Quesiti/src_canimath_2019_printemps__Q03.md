@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2019 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_printemps__Q03
 parent: src_canimath_2019_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2019 — Quesito 3
 
 *Rectangle with cevians; show a+b=c for areas of four regions*
 

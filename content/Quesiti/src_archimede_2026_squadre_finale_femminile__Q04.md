@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q04
 parent: src_archimede_2026_squadre_finale_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 4
 
 *Numeri 3 cifre con decine maggiore di unità e centinaia*
 

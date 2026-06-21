@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q08
 parent: src_kangourou_2019_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 8
 
 *Somma a+b+c+d nella sottrazione criptata*
 

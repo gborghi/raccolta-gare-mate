@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q07
 parent: src_cesenatico_2005_squadre_semifinale_b
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 7
 
 *Misura dell'angolo CAD nel quadrilatero con angoli dati*
 

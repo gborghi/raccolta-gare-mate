@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q03
 parent: src_canimath_2021_automne
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 3
 
 *Village 5 buildings, each person has ≥2 family members in village; show someone shares building with a family member*
 

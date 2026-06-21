@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f1__Q03
 parent: src_obm_2009_n1_f1
@@ -37,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 3
 
 *Frog random walk on equilateral triangle: limit of return probability and existence of p with P_n=1/pi*
 

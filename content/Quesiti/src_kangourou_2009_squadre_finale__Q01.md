@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q01
 parent: src_kangourou_2009_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale — Quesito 1
 
 *Esiti distinti con due scatole bianca e nera*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q29
 parent: src_kangourou_2005_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 29
 
 *Chi siede all'estremita destra della panchina*
 

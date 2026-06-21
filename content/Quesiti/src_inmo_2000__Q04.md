@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2000 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2000__Q04
 parent: src_inmo_2000
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2000 — Quesito 4
 
 *Convex quadrilateral with special sides and angle; prove angle difference 90°*
 

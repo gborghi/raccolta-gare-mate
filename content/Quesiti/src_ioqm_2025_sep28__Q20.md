@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q20
 parent: src_ioqm_2025_sep28
@@ -34,8 +35,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 20
 
 *Four-digit numbers with non-zero digits: a+c=bd and b+d=ac; count*
 

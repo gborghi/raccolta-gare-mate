@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio_online__Q03
 parent: src_archimede_2021_triennio_online
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 3
 
 *Massimo valore di 4-3/x con prodotto di fattori nullo*
 

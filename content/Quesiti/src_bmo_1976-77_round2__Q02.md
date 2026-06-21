@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round2__Q02
 parent: src_bmo_1976-77_round2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 2 — Quesito 2
 
 *Pyramid with inscribed circles of adjacent faces touching; prove contact points on circle*
 

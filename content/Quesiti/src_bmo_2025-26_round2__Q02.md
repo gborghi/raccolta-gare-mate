@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2025-26 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2025-26_round2__Q02
 parent: src_bmo_2025-26_round2
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2025-26 — Round 2 — Quesito 2
 
 *Convex quadrilateral ABCD: prove AC=BD iff XY bisects angle DXC*
 

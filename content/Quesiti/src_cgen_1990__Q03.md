@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1990 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1990__Q03
 parent: src_cgen_1990
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1990 — Matematica — Quesito 3
 
 *Find distinct naturals satisfying two reciprocal-sum identities*
 

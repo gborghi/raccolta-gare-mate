@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q12
 parent: src_kangourou_2015_marzo_junior
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 12
 
 *percorso minimo*
 

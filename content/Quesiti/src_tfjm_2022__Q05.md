@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_tfjm_2022__Q05
 parent: src_tfjm_2022
@@ -38,8 +39,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 5
 
 *Microscopic tinkering: which line configurations Malo can reach from another using three operations (reflect a line across another, scale the whole picture by lambda, translate by a vector); study square and triangular grid configurations and interchangeability.*
 

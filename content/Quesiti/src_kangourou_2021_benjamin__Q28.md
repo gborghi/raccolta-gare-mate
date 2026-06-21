@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q28
 parent: src_kangourou_2021_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 28
 
 *Cubetti con almeno una riga rossa sulle diagonali*
 

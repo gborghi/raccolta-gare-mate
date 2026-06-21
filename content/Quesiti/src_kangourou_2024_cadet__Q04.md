@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q04
 parent: src_kangourou_2024_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 4
 
 *Quale pentagono lascia due curve chiuse nere*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2022__Q03
 parent: src_selection_camp_2022
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2022 — Selection Camp — Quesito 3
 
 *Sequence of positive integers with divisibility condition implies eventual periodicity*
 

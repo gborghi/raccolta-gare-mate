@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1974-75_round1__Q06
 parent: src_bmo_1974-75_round1
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1974-75 — Round 1 — Quesito 6
 
 *Prove an inequality between two rational functions of x and y*
 

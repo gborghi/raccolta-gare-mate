@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q10
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 10
 
 *Numero squadre da procedura su scritture in base 3*
 

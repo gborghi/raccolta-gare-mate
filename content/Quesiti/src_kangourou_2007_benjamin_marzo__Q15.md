@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin (marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q15
 parent: src_kangourou_2007_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin (marzo) — Quesito 15
 
 *Dimensione griglia se 9 quadratini colorati*
 

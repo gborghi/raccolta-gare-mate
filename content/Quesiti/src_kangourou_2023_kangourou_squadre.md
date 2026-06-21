@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Kangourou Finale 1
 tipo: gara
 src_id: src_kangourou_2023_kangourou_squadre
 competition: Kangourou Squadre 2023 Kangourou Finale 1
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Kangourou Finale 1
 
 Sorgente: `Kangaroo/kangourou_squadre/2023/SQKangourou2023F1.pdf` · apri PDF
 

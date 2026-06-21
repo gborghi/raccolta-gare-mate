@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2019-20_round1__Q02
 parent: src_bmo_2019-20_round1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2019-20 — Round 1 — Quesito 2
 
 *Find all possible values of a_1 in an integer sequence satisfying a recurrence*
 

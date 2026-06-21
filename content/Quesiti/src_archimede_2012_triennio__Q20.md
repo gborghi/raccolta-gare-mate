@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q20
 parent: src_archimede_2012_triennio
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 20
 
 *Stima soluzione di equazione polinomiale (t-1)(t+1)^2012=1*
 

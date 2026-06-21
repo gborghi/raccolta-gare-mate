@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2020 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2020__Q03
 parent: src_inmo_2020
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2020 — Quesito 3
 
 *Smallest subset S of digits so every positive integer equals p+q with digits in S*
 

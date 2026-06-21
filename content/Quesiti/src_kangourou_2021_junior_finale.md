@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale
 tipo: gara
 src_id: src_kangourou_2021_junior_finale
 competition: Kangourou 2021 Junior - finale
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale
 
 Sorgente: `Kangaroo/kangourou_individuali/2021/Junior2021RFIN.pdf` · apri PDF
 

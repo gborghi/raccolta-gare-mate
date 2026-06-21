@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2018 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_printemps__Q01
 parent: src_canimath_2018_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2018 — Quesito 1
 
 *12 numbered chairs, grasshopper jumps exactly 4 numbers*
 

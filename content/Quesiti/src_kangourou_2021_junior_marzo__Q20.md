@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q20
 parent: src_kangourou_2021_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 20
 
 *Valore di a nella sequenza con somme alternate*
 

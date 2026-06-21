@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q16
 parent: src_kangourou_2000_studenti
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 16
 
 *Tempo per lavare 3 elefanti insieme*
 

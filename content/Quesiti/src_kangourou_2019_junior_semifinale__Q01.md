@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q01
 parent: src_kangourou_2019_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 1
 
 *Valore dell espressione con potenze di 7 (differenze di quadrati)*
 

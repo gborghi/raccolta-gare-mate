@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q16
 parent: src_archimede_2026_squadre_finale_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 16
 
 *Coppie (a,b) positive con a^2+b^2-2a-4b=2026*
 

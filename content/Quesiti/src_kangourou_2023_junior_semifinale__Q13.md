@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q13
 parent: src_kangourou_2023_junior_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 13
 
 *Somma cifre eliminabili per rendere il numero divisibile per 9*
 

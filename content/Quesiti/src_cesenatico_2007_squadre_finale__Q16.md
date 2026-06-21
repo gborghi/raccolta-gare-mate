@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q16
 parent: src_cesenatico_2007_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 16
 
 *Piu piccolo b con (mnmn)_b cubo perfetto, risposta b+m+n*
 

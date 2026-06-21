@@ -1,4 +1,5 @@
 ---
+title: IMO 1975 (Seventeenth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1975_all__Q03
 parent: src_imo_1975_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1975 (Seventeenth International Olympiad) — Quesito 3
 
 *prove angle QRP=90 and QR=RP*
 

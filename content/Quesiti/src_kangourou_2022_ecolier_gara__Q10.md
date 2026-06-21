@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier gara individuale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q10
 parent: src_kangourou_2022_ecolier_gara
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier gara individuale — Quesito 10
 
 *Pezzo da inserire rispettando la regola dei vicini*
 

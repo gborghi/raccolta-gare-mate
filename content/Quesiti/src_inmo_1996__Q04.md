@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1996 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_1996__Q04
 parent: src_inmo_1996
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1996 — Quesito 4
 
 *Count ordered triples (A,B,C) of subsets with A⊂B⊂C of n-element set*
 

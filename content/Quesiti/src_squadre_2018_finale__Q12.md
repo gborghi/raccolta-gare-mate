@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q12
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 12
 
 *Radici multiple massime di g(x)=f(x^3-3x)*
 

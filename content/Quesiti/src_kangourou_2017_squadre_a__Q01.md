@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q01
 parent: src_kangourou_2017_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 1
 
 *5^6 come somma di N addendi uguali a 5*
 

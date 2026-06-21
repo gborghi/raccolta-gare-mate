@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q15
 parent: src_archimede_2024_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 15
 
 *a|b e a+1|b+1, dimostrazione*
 

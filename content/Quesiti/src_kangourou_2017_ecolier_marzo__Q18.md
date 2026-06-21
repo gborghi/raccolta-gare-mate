@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q18
 parent: src_kangourou_2017_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 18
 
 *Quanti metri e lungo il treno (340 m e 110 m)*
 

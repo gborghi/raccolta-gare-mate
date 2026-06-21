@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q14
 parent: src_archimede_2007_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 14
 
 *Per quanti a il sistema simmetrico ha soluzioni intere*
 

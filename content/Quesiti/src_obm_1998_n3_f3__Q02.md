@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f3__Q02
 parent: src_obm_1998_n3_f3
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 2
 
 *Triangle with D midpoint of AB, E on BC with BE=2EC, equal angles; find angle BAC*
 

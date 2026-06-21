@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2016 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_automne__Q02
 parent: src_canimath_2016_automne
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2016 — Quesito 2
 
 *Area of triangle AOF given isosceles right triangles with OA=8 cm*
 

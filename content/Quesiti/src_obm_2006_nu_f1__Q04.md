@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f1__Q04
 parent: src_obm_2006_nu_f1
@@ -32,8 +35,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 — Quesito 4
 
 *Locus of midpoints of chords of a hyperbola parallel to a line*
 

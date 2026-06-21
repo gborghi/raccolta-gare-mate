@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q01
 parent: src_canimath_2021_automne
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 1
 
 *Compute sum of two arithmetic progressions*
 

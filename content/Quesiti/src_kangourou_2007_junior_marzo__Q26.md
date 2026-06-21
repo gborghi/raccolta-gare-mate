@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q26
 parent: src_kangourou_2007_junior_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 26
 
 *Divisori di k (10k quadrato, 6k cubo)*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2000-01 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2000-01_round1__Q03
 parent: src_bmo_2000-01_round1
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2000-01 — Round 1 — Quesito 3
 
 *Seven distinct tetrominoes; pack them into a 4×7 rectangle*
 

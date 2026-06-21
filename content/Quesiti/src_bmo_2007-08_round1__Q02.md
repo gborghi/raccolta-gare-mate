@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2007-08_round1__Q02
 parent: src_bmo_2007-08_round1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2007-08 — Round 1 — Quesito 2
 
 *Find positive integer solutions of two simultaneous equations*
 

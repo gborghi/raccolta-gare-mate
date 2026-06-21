@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q21
 parent: src_kangourou_2013_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 21
 
 *Quante operazioni cambio per far apparire 2013*
 

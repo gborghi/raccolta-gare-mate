@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier finale nazionale — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier_finale__QE5
 parent: src_kangourou_2004_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier finale nazionale — Quesito E5
 
 *Spazi bianchi sull'ultima riga (numeri 1..150)*
 

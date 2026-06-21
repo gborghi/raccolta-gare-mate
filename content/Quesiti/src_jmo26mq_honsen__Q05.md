@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo26mq_honsen__Q05
 parent: src_jmo26mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 5
 
 *Partition m cities into two groups so each city has at most 1 highway*
 

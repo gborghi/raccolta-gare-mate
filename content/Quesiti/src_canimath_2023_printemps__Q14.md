@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q14
 parent: src_canimath_2023_printemps
@@ -36,8 +37,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 14
 
 *For which positive integers n can Aline write 2n real numbers, not all equal, such that for every choice of n of them the sum of the chosen n equals the product of the other n?*
 

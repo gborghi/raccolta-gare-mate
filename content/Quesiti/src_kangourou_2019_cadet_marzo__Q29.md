@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q29
 parent: src_kangourou_2019_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 29
 
 *Quale frazione del quadrato ABCD e ombreggiata*
 

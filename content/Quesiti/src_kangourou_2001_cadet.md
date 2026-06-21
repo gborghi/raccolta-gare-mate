@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Cadet (15 marzo)
 tipo: gara
 src_id: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2001
   - gara/individuale
 ---
-
-# Kangourou 2001 - Cadet (15 marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2001/CMarzo-01.pdf` · apri PDF
 

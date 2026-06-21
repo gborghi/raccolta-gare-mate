@@ -1,4 +1,5 @@
 ---
+title: IMO 1969 (Eleventh International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1969_all__Q05
 parent: src_imo_1969_all
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1969 (Eleventh International Olympiad) — Quesito 5
 
 *At least (n-3 choose 2) convex quadrilaterals from n points*
 

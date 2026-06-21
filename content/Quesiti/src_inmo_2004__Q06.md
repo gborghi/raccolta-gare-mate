@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2004 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2004__Q06
 parent: src_inmo_2004
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2004 — Quesito 6
 
 *Count 5-tuples satisfying reciprocal-sum equation; prove the count is odd*
 

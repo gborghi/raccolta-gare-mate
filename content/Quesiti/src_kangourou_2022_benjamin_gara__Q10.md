@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q10
 parent: src_kangourou_2022_benjamin_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 10
 
 *Cubetti con esattamente 4 facce verniciate nel 2022*
 

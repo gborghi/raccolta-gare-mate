@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q17
 parent: src_kangourou_2006_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 17
 
 *Modi di colorare cubo 3 facce blu 3 rosse*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1991 (32nd IMO) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1991__Q01
 parent: src_imo_1991
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1991 (32nd IMO) — Quesito 1
 
 *Bound product of incenter-vertex over bisector ratios*
 

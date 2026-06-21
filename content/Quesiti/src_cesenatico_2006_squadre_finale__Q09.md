@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q09
 parent: src_cesenatico_2006_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 9
 
 *Modi di colorare prisma base quadrata con 6 colori*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q13
 parent: src_kangourou_2021_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 13
 
 *Numeri 4 cifre con migliaia 1 e almeno 3 cifre uguali*
 

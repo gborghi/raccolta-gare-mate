@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q05
 parent: src_kangourou_2020_pre_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 5
 
 *Immagine vista sovrapponendo i cartoncini con buchi*
 

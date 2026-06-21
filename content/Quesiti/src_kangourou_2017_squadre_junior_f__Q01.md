@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q01
 parent: src_kangourou_2017_squadre_junior_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 1
 
 *Piu piccolo dispari di 3 cifre divisibile per 11 con vincolo*
 

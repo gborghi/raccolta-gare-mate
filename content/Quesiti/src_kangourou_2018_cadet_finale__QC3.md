@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_finale__QC3
 parent: src_kangourou_2018_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C3
 
 *Auto nei sei gruppi meno numerosi per somma cifre*
 

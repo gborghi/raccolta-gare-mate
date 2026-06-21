@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q07
 parent: src_garaprime_2018
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 7
 
 *Numero di alunni dato aumento dell'8% pro capite*
 

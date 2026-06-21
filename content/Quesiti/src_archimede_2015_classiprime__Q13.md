@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2015 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_classiprime__Q13
 parent: src_archimede_2015_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2015 — Quesito 13
 
 *cubo di cubetti suddiviso in cubi uguali*
 

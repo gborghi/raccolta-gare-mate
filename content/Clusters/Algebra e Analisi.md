@@ -1,11 +1,10 @@
 ---
+title: Algebra e Analisi
 tipo: cluster
 cluster: Algebra e Analisi
 tags:
   - graph/cluster
 ---
-
-# Algebra e Analisi
 
 Macro-area. **1829** quesiti.
 

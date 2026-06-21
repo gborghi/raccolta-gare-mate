@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q02
 parent: src_kangourou_2019_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 2
 
 *Angolo alfa tra listelli equispaziati*
 

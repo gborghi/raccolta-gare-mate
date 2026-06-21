@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_biennio__Q13
 parent: src_archimede_1998_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Biennio — Quesito 13
 
 *Minimo numero che pratica tutti e tre gli sport*
 

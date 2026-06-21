@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q10
 parent: src_archimede_1997_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 10
 
 *Larghezza minima di una striscia che contiene tre punti*
 

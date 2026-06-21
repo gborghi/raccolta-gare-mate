@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC6
 parent: src_kangourou_2003_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C6
 
 *Interi di 7 cifre divisibili per 2003*
 

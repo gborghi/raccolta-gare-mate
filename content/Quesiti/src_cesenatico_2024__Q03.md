@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2024__Q03
 parent: src_cesenatico_2024
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 3
 
 *72, 71 e 72^71 sono egiziani?*
 

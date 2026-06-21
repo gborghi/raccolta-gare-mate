@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q04
 parent: src_kangourou_2020_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2020 Finale — Quesito 4
 
 *Numero della casa abbattuta (media 995,8)*
 

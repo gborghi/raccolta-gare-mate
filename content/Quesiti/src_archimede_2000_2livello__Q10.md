@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q10
 parent: src_archimede_2000_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 10
 
 *Cosa è determinato tra cornice, passepartout e tela*
 

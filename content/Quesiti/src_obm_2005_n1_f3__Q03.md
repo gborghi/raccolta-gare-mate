@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n1_f3__Q03
 parent: src_obm_2005_n1_f3
@@ -38,8 +39,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3 — Quesito 3
 
 *Numbers written in diagonal pattern on a 100x100 board starting at line 1 column 50; find n and position of 2005*
 

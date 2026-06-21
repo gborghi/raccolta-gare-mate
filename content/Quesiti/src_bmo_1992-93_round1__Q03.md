@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1992-93 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1992-93_round1__Q03
 parent: src_bmo_1992-93_round1
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1992-93 — Round 1 — Quesito 3
 
 *Sequence u_n defined by recurrence; find c such that u_i divides u_j whenever i ≤ j.*
 

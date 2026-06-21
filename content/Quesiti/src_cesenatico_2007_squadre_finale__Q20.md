@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q20
 parent: src_cesenatico_2007_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 20
 
 *Somma valori N con N=sum i/a_i, a_i crescenti positivi*
 

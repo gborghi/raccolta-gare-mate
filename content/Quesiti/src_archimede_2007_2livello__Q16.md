@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_2livello__Q16
 parent: src_archimede_2007_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 16
 
 *Sequenze di salti della pulce per finire a 80 cm dopo 5 salti*
 

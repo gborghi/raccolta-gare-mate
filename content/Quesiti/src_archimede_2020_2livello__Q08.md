@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_2livello__Q08
 parent: src_archimede_2020_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2020 - 2° livello — Quesito 8
 
 *Differenza tra cifre 1 e cifre 0 da 1 a 2020*
 

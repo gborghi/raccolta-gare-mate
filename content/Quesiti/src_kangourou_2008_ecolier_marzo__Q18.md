@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q18
 parent: src_kangourou_2008_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 18
 
 *Numero di figli nella famiglia*
 

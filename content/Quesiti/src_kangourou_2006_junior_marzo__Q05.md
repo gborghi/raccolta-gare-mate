@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q05
 parent: src_kangourou_2006_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 5
 
 *Minimo minuti perche numeri diventino multipli di 5*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Benjamin — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_finale__QB4
 parent: src_kangourou_2020_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Benjamin — Quesito B4
 
 *Somma dei numeri delle candeline per porzione (due tagli)*
 

@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1986 (27th IMO, Warsaw) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1986__Q06
 parent: src_imo_1986
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# IMO 1986 (27th IMO, Warsaw) — Quesito 6
 
 *Two-color integer points balancing counts on axis-parallel lines*
 

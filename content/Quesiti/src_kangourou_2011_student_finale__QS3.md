@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Student (Mirabilandia) — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student_finale__QS3
 parent: src_kangourou_2011_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Student (Mirabilandia) — Quesito S3
 
 *numero di C sempre uguale*
 

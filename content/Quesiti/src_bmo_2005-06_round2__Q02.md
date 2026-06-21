@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2005-06 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2005-06_round2__Q02
 parent: src_bmo_2005-06_round2
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2005-06 — Round 2 — Quesito 2
 
 *Integers with prime factors at most 5 with x^2-y^2=2^k*
 

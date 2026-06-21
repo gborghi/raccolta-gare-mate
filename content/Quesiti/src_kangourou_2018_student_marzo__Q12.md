@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q12
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 12
 
 *Rapporto volumi V e W dei due cubi che si intersecano*
 

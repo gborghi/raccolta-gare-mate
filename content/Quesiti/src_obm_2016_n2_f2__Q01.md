@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f2__Q01
 parent: src_obm_2016_n2_f2
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 1
 
 *Angle AEG in regular pentagon with adjacent equilateral triangle*
 

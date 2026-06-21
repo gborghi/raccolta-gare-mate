@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q03
 parent: src_archimede_2002_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 3
 
 *Minimo fogli calendario per il terzo millennio*
 

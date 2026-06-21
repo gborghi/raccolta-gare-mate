@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n3_f1__Q21
 parent: src_obm_2014_n3_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 21
 
 *Height of a cone whose base is the equator of a radius-1 sphere through generatrix midpoints*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q11
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 11
 
 *Per quale punto passa la terza greca*
 

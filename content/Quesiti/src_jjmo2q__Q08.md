@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q08
 parent: src_jjmo2q
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 8
 
 *Triangle with two cevians, equal angles, find BE*
 

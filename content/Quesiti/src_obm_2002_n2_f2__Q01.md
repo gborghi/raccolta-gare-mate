@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f2__Q01
 parent: src_obm_2002_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 1
 
 *Two walkers leave simultaneously toward each other; find each travel time*
 

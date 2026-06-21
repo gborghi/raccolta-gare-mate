@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q11
 parent: src_archimede_2013_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 11
 
 *Coppie reali con x^2k+y^2k=(xy)^k*
 

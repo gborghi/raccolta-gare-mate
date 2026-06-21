@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q13
 parent: src_kangourou_2018_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 13
 
 *Area non ombreggiata in quadrato con 8 semicirconferenze*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q14
 parent: src_canimath_2022_automne
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 14
 
 *Positive reals summing to 1; inequality involving sum of |xi-yi| and min ratios*
 

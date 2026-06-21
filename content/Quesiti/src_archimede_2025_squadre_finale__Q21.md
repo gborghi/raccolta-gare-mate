@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q21
 parent: src_archimede_2025_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 21
 
 *Volume tetraedro da volumi di sotto-tetraedri*
 

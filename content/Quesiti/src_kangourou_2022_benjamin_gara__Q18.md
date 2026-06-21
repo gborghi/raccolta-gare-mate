@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q18
 parent: src_kangourou_2022_benjamin_gara
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 18
 
 *Numero nel cerchio col punto interrogativo (latin square)*
 

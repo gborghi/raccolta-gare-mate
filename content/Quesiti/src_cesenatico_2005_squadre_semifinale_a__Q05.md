@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_a__Q05
 parent: src_cesenatico_2005_squadre_semifinale_a
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 5
 
 *Massimo intero non esprimibile come 23k+17h (Frobenius)*
 

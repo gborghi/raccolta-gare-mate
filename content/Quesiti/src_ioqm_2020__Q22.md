@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q22
 parent: src_ioqm_2020
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 22
 
 *Triangle ABC, perpendiculars from A to angle bisectors of B and C; find area given PQ=7, QR=6, RS=8*
 

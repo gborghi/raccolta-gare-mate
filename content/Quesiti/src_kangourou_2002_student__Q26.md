@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q26
 parent: src_kangourou_2002_student
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 26
 
 *Interi con somma cifre 2 fino a 10^2002*
 

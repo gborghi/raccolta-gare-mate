@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2006 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2006__Q06
 parent: src_rmo_2006
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2006 — Quesito 6
 
 *Infinitely many n with n(n+1) as sum of two squares in two ways*
 

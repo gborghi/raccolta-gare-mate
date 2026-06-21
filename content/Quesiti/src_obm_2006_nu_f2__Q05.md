@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f2__Q05
 parent: src_obm_2006_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 — Quesito 5
 
 *Series 1/f(n) converges iff series f^{-1}(n)/n^2 converges*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo28mq_honsen__Q01
 parent: src_jmo28mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 1
 
 *gcd operation on blackboard, final number not a square*
 

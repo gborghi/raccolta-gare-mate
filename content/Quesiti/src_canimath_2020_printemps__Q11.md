@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q11
 parent: src_canimath_2020_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 11
 
 *Smallest number of colours to colour 2..8 then 2..31 so multiples differ (lycee)*
 

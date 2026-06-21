@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo14yq_yosen__Q10
 parent: src_jjmo14yq_yosen
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 10
 
 *Area of non-convex quadrilateral with reflex angle at D*
 

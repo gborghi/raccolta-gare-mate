@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Triennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_triennio__Q05
 parent: src_archimede_2006_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Triennio — Quesito 5
 
 *Area triangolo rettangolo da proiezioni dei cateti*
 

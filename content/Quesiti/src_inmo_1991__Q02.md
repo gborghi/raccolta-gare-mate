@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1991__Q02
 parent: src_inmo_1991
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991 — Quesito 2
 
 *Acute triangle with semicircles on each side: prove area sum identity*
 

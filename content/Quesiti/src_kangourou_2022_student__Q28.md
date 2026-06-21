@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Gara 17 marzo — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student__Q28
 parent: src_kangourou_2022_student
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Gara 17 marzo — Quesito 28
 
 *valore di a2*
 

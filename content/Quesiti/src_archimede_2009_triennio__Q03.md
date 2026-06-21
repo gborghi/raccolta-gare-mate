@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_triennio__Q03
 parent: src_archimede_2009_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio — Quesito 3
 
 *Anno in cui somma eta figli Greta supera quella di Eva*
 

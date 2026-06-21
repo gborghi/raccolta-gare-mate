@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin_finale__QB5
 parent: src_kangourou_2012_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B5
 
 *Si puo ottenere somma 2012 sulle facce esposte dei dadi*
 

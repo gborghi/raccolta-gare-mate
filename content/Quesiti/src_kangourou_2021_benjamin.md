@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo
 tipo: gara
 src_id: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo
 
 Sorgente: `Kangaroo/kangourou_individuali/2021/Benjamin2021REL.pdf` · apri PDF
 

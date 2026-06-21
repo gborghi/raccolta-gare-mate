@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q12
 parent: src_selection_camp_2018
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 12
 
 *Convex hexagon with AB=BC; reflections of A,B,C across line l; circumcircles meet at E; BB1 and DE meet on circumcircle*
 

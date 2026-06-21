@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1998 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_1998__Q01
 parent: src_cgen_1998
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1998 — Matematica — Quesito 1
 
 *Tetrahedron with two pairs of orthogonal edges; minimize a degree-6 expression*
 

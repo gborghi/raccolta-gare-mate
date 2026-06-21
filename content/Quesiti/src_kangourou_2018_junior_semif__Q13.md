@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q13
 parent: src_kangourou_2018_junior_semif
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 13
 
 *Probabilita di segnare il primo rigore dato p>=uno=0,999*
 

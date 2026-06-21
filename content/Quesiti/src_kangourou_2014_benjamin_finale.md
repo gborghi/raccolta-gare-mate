@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Benjamin
 tipo: gara
 src_id: src_kangourou_2014_benjamin_finale
 competition: Kangourou 2014 finale Benjamin
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Benjamin
 
 Sorgente: `Kangaroo/kangourou_individuali/2014/BMaggio-14.pdf` · apri PDF
 

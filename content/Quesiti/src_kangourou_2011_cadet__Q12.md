@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q12
 parent: src_kangourou_2011_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 12
 
 *Max punti comuni a piu di una di 4 circonferenze a due a due tangenti*
 

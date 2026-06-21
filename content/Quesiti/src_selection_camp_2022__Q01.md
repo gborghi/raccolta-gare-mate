@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2022__Q01
 parent: src_selection_camp_2022
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2022 — Selection Camp — Quesito 1
 
 *Colorful integers on a circular arrangement; find maximum non-colorful*
 

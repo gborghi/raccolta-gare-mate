@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_biennio__Q11
 parent: src_archimede_2012_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Biennio — Quesito 11
 
 *Modi di disporre frutti senza pera tra due mele*
 

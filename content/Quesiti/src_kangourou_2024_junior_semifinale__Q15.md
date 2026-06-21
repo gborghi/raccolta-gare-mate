@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q15
 parent: src_kangourou_2024_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 15
 
 *Di quanti interi 17 e il massimo divisore proprio*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 2014 (shortlist/papers) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2014__Q05
 parent: src_imo_2014
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 2014 (shortlist/papers) — Quesito 5
 
 *Suddividere monete di valore 1/n in <=100 gruppi*
 

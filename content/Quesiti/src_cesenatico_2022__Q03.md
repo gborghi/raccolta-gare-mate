@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2022__Q03
 parent: src_cesenatico_2022
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 3
 
 *chi prende la fetta piu grande*
 

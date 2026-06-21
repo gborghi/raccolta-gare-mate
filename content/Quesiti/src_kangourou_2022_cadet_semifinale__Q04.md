@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q04
 parent: src_kangourou_2022_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 4
 
 *Concime supplementare per prato da 25 a 30 metri (frazione)*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q12
 parent: src_archimede_2026_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 12
 
 *Minimo di x+y con vincoli e equazione con radici*
 

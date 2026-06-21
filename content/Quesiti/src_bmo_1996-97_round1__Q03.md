@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1996-97 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1996-97_round1__Q03
 parent: src_bmo_1996-97_round1
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1996-97 — Round 1 — Quesito 3
 
 *Count ways to pay 1997 Pippins with decimal coins*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q20
 parent: src_kangourou_2016_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 20
 
 *Somma frazioni colore diverso/uguale per 2016 canguri*
 

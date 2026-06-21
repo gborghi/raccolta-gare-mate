@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2025 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_printemps__Q10
 parent: src_canimath_2025_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2025 — Quesito 10
 
 *Max number of people in room with friendship/enmity constraint*
 

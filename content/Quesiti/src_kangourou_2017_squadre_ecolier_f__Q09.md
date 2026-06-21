@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q09
 parent: src_kangourou_2017_squadre_ecolier_f
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 9
 
 *Giorni di vacanza nel 2017 (4 mesi, primo minore)*
 

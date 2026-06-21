@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1992__Q02
 parent: src_rmo_1992
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992 — Quesito 2
 
 *Positive integers a,b,c with no common factor; (a+b) is a perfect square.*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q23
 parent: src_prmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 23
 
 *Largest prime p satisfying 7x^2 - 44x + 12 = p for some integer x*
 

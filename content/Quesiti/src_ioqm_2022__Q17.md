@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q17
 parent: src_ioqm_2022
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 17
 
 *f(n)=n minus largest prime divisor of n, find floor(sqrt(N)) where f(f(f(N)))=97*
 

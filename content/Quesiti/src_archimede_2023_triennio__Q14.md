@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_triennio__Q14
 parent: src_archimede_2023_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Triennio — Quesito 14
 
 *Triangoli non scaleni con vertici di 21-gono regolare*
 

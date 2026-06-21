@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q12
 parent: src_kangourou_2024_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 12
 
 *Pesci mangiati dall'altro pulcino (26 a uno)*
 

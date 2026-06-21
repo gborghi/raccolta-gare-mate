@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 2
 tipo: gara
 src_id: src_kangourou_2022_kangourou_squadre_f2
 competition: Kangourou Squadre 2022 Kangourou Finale 2
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 2
 
 Sorgente: `Kangaroo/kangourou_squadre/2022/Kangourou2022RFIN2.pdf` · apri PDF
 

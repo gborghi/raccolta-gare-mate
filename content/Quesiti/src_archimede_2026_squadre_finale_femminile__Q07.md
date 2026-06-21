@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q07
 parent: src_archimede_2026_squadre_finale_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 7
 
 *Minimo grado polinomio coeff 2,0,6 con p(-1)=2026*
 

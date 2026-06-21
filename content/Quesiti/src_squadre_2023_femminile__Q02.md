@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_femminile__Q02
 parent: src_squadre_2023_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale — Quesito 2
 
 *Numero di k che dividono 2023 con resto 43*
 

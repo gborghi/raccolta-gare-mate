@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q20
 parent: src_gas_2009_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 20
 
 *Volume del solido entro 1.8mm dal perimetro di triangolo equilatero*
 

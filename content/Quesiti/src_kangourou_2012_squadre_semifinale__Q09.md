@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre semifinale turno A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q09
 parent: src_kangourou_2012_squadre_semifinale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre semifinale turno A — Quesito 9
 
 *Triangoli rettangoli con vertici del cubo*
 

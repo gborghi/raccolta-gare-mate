@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q01
 parent: src_kangourou_2017_squadre_ecolier_f
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 1
 
 *Prodotto di due pagine consecutive con somma 37*
 

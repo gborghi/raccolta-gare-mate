@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q09
 parent: src_jjmo2q
@@ -30,8 +31,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 9
 
 *Maximum number of nested factions among 7 politicians*
 

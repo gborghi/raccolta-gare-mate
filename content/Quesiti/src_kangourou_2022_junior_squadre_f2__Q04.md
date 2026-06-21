@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q04
 parent: src_kangourou_2022_junior_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Junior Finale 2 — Quesito 4
 
 *Caramelle nel sesto sacchetto con vincoli*
 

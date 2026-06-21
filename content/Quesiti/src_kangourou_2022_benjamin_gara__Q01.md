@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q01
 parent: src_kangourou_2022_benjamin_gara
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 1
 
 *Quesito 1 (testo non disponibile nel sidecar)*
 

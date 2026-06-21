@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q06
 parent: src_kangourou_2019_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 6
 
 *Numero di pagine se la cifra 4 compare 16 volte*
 

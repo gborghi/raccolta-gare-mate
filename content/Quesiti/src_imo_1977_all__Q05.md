@@ -1,4 +1,5 @@
 ---
+title: IMO 1977 (Nineteenth International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1977_all__Q05
 parent: src_imo_1977_all
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1977 (Nineteenth International Olympiad) — Quesito 5
 
 *Find pairs (a,b) with q^2+r=1977 for a^2+b^2 over a+b*
 

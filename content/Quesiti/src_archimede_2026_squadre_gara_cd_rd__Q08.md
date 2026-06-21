@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_gara_cd_rd__Q08
 parent: src_archimede_2026_squadre_gara_cd_rd
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 8
 
 *Massima somma distanze tra 5 punti su segmento lungo 3*
 

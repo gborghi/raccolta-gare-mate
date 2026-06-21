@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q26
 parent: src_kangourou_2006_student_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 26
 
 *Modi di disporre 1..6 con vincolo differenza non 3*
 

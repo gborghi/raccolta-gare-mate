@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - semifinale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q13
 parent: src_kangourou_2021_ecolier_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - semifinale — Quesito 13
 
 *Minimo marziani per averne due dello stesso tipo*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q16
 parent: src_kangourou_2008_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior (gara 28 marzo) — Quesito 16
 
 *Somma differenze cifre dei numeri a 2 cifre*
 

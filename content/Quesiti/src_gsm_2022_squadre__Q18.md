@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q18
 parent: src_gsm_2022_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 18
 
 *Massima differenza di soldi attorno a una tavola rotonda*
 

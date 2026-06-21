@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q17
 parent: src_kangourou_2018_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 17
 
 *Somma a+b nell'uguaglianza con cifre incognite*
 

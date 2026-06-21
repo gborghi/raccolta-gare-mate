@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale B — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_b__Q08
 parent: src_gas_2010_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale B — Quesito 8
 
 *Massimo a con a^2+200a+1 quadrato perfetto*
 

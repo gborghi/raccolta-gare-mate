@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q01
 parent: src_archimede_2003_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 1
 
 *Segno (cavaliere/furfante/normale) di un abitante che afferma di essere cavaliere*
 

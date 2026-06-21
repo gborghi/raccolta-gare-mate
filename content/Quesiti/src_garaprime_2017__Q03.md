@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q03
 parent: src_garaprime_2017
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 3
 
 *Area di triangolo equilatero da quattro triangolini interni*
 

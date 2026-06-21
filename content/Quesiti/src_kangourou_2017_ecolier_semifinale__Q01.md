@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q01
 parent: src_kangourou_2017_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 1
 
 *Ordine di arrivo di una gara da indizi*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q03
 parent: src_archimede_2013_triennio
@@ -22,8 +23,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 3
 
 *Quale espressione e sicuramente funzione dispari*
 

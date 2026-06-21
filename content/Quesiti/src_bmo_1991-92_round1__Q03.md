@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1991-92 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1991-92_round1__Q03
 parent: src_bmo_1991-92_round1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1991-92 — Round 1 — Quesito 3
 
 *Find four (or more) distinct positive integers whose product is divisible by every pairwise sum*
 

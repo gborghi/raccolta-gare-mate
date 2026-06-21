@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_triennio__Q14
 parent: src_archimede_1999_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Triennio — Quesito 14
 
 *Che ore sono data la lancetta sul minuto 23*
 

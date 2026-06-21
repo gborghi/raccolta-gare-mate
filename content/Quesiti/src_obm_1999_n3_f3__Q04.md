@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n3_f3__Q04
 parent: src_obm_1999_n3_f3
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 4
 
 *Antipodal city Kriptonita prices differ by at most 100 Urghs*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q03
 parent: src_squadre_2018_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 3
 
 *Somma N con sequenza tale che N^a0=somma di N^ai*
 

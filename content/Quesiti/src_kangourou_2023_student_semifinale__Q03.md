@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q03
 parent: src_kangourou_2023_student_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 3
 
 *Somma cifre del prodotto di 9 numeri di cifre 2 o 3 tra 600 e 1200*
 

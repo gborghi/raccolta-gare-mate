@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_2livello__Q17
 parent: src_archimede_2011_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 17
 
 *Numero minimo di posti in carrozza con 2n stazioni*
 

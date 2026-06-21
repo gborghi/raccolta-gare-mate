@@ -1,4 +1,5 @@
 ---
+title: IMO 1960 (II International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imho_1960__Q03
 parent: src_imho_1960
@@ -27,8 +28,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# IMO 1960 (II International Olympiad) — Quesito 3
 
 *Provare tan(alfa)=4nh/((n^2-1)a) nel triangolo rettangolo*
 

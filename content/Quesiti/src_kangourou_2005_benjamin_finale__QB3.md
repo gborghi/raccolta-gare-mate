@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (finale nazionale) — Quesito B3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin_finale__QB3
 parent: src_kangourou_2005_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (finale nazionale) — Quesito B3
 
 *Schede rimaste da esaminare alla una*
 

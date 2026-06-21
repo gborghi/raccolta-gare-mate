@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n1_f2__Q02
 parent: src_obm_2000_n1_f2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2 — Quesito 2
 
 *Find side length of square I in rectangle divided into 9 squares*
 

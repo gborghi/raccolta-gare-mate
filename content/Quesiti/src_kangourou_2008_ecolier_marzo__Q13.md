@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q13
 parent: src_kangourou_2008_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 13
 
 *Numeri di 4 cifre con cifra doppio della destra*
 

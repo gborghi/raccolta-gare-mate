@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q27
 parent: src_kangourou_2018_benjamin_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 27
 
 *Massima somma in tabella 5x5 con vincolo 2x2*
 

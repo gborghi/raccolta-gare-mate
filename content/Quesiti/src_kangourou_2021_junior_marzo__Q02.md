@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q02
 parent: src_kangourou_2021_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 2
 
 *Grafico fedele dell'andamento delle temperature*
 

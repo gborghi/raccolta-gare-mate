@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1971-72 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1971-72_round2__Q02
 parent: src_bmo_1971-72_round2
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1971-72 — Round 2 — Quesito 2
 
 *Prove S = ab/c + bc/d + cd/a + da/b ≥ 4 and find equality conditions*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q23
 parent: src_kangourou_2024_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 23
 
 *Quale insieme di dolcetti e stato preso da una ragazza*
 

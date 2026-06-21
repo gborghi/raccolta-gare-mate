@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q17
 parent: src_gas_2009_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 17
 
 *Somma quadrati segmenti baricentro-vertice di un tetraedro*
 

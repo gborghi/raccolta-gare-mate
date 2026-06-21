@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q16
 parent: src_kangourou_2024_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 16
 
 *In quanti modi ripartire 1..18 in coppie con somma quadrato*
 

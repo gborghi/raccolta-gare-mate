@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q08
 parent: src_jjmo3q
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 8
 
 *Angle from two angle bisectors in a triangle*
 

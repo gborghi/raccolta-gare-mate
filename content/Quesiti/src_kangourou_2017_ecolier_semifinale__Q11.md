@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q11
 parent: src_kangourou_2017_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 11
 
 *Numero del cavaliere che balla con la dama 374*
 

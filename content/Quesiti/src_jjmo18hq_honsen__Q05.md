@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo18hq_honsen__Q05
 parent: src_jjmo18hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 5
 
 *Regular 2020-gon with distinct labels; show some n satisfies inequality*
 

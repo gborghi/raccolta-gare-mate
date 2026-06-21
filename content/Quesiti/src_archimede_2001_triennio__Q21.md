@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q21
 parent: src_archimede_2001_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 21
 
 *Numero iniziale dopo 2000 iterazioni raddoppia e meno 1*
 

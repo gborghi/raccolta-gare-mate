@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q14
 parent: src_kangourou_2019_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 14
 
 *Eta e altezza dell uomo (tre info con un dato corretto)*
 

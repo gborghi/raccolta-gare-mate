@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q01
 parent: src_kangourou_2024_junior_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 1 — Quesito 1
 
 *Lunghezza tagli quadrato max da semicerchio*
 

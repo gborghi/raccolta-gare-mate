@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q04
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 4
 
 *Somma quadrati perfetti con tutte le cifre 4 tranne la prima*
 

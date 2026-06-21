@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q12
 parent: src_canimath_2020_automne
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 12
 
 *Count possible numbers of even entries in a 3x3 grid with all row and column sums odd*
 

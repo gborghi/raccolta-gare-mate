@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n3_f2__Q05
 parent: src_obm_2014_n3_f2
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2 — Quesito 5
 
 *Maximum shadow area of a 3x4x6 box under 45-degree parallel light*
 

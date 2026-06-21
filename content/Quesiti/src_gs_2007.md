@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Archimede 2007 (locale)
 tipo: gara
 src_id: src_gs_2007
 competition: Gara a Squadre Archimede 2007 (locale)
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/squadre
 ---
-
-# Gara a Squadre Archimede 2007 (locale)
 
 Sorgente: `Archimede/squadre/locale/testi/GS_2007_testo.pdf` · apri PDF
 

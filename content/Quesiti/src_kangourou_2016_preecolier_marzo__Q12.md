@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q12
 parent: src_kangourou_2016_preecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 12
 
 *In quante stanze la luce era spenta, 18 finestre illuminate*
 

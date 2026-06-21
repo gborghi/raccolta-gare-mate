@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Cadet (15 marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_cadet__Q04
 parent: src_kangourou_2001_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2001 - Cadet (15 marzo) — Quesito 4
 
 *Compagne di Giovanna in classe*
 

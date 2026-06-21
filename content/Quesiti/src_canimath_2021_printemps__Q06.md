@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q06
 parent: src_canimath_2021_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 6
 
 *Perimeter of triangle AMC at least perimeter of quadrilateral ABME*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q15
 parent: src_gsm_2021_squadre
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 15
 
 *Valore di radice quarta di a piu radice quarta di b*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q14
 parent: src_kangourou_2006_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 14
 
 *Cifra rappresentata da A (KAN+KAG+KNG=2006)*
 

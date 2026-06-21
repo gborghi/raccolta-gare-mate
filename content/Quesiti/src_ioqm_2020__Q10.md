@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q10
 parent: src_ioqm_2020
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 10
 
 *Five students take test 0-100; largest possible difference between median and mean*
 

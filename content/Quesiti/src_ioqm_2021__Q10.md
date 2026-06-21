@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_ioqm_2021__Q10
 parent: src_ioqm_2021
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 10
 
 *Polynomial of least degree with integer coefficients satisfying P(sqrt(7)+sqrt(5))=2(sqrt(7)-sqrt(5)); find P(2)*
 

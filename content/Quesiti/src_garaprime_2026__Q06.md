@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_garaprime_2026__Q06
 parent: src_garaprime_2026
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026 — Quesito 6
 
 *Minimo M con N divisibile per M ma non M^2*
 

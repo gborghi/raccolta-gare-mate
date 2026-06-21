@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q18
 parent: src_kangourou_2004_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 18
 
 *Raggio circonferenza inscritta in quarto di cerchio*
 

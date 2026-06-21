@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_biennio__Q16
 parent: src_archimede_2014_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 16
 
 *Area seminata con corda fissata ad angolo della casa*
 

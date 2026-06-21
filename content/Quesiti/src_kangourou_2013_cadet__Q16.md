@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q16
 parent: src_kangourou_2013_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 16
 
 *Vertice con rapporto y/x minimo nel rettangolo*
 

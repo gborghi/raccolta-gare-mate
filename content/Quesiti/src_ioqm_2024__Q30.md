@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q30
 parent: src_ioqm_2024
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 30
 
 *Minimum integer AC in right triangle ABC with integer perimeter and altitude BD=12*
 

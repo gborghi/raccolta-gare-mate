@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_preecolier__Q06
 parent: src_kangourou_2013_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier — Quesito 6
 
 *Piastrelle per completare la croce interna*
 

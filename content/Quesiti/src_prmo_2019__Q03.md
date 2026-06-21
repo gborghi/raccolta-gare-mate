@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q03
 parent: src_prmo_2019
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 3
 
 *Sequence defined by recursive product; sum of digits of largest prime factor*
 

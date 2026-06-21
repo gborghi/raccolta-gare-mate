@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2015 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_printemps__Q03
 parent: src_canimath_2015_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2015 — Quesito 3
 
 *Digit-reversing f; find all 4-digit n with f(n)=4n+3*
 

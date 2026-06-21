@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin (18 marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin__Q30
 parent: src_kangourou_2004_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin (18 marzo) — Quesito 30
 
 *Area possibile del poligono dal triangolo piegato*
 

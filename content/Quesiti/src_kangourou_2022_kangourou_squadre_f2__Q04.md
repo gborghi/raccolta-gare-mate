@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q04
 parent: src_kangourou_2022_kangourou_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 4
 
 *Minimo numero con resti dati per 3..7*
 

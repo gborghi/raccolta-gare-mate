@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q06
 parent: src_kangourou_2024_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 6
 
 *Minimo numero di cifre di N (20230...0)*
 

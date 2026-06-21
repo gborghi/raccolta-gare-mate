@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2007 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2007__Q02
 parent: src_rmo_2007
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2007 — Quesito 2
 
 *Prove c+d is sum of two squares given gcd condition on natural numbers*
 

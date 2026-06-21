@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q15
 parent: src_kangourou_2014_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Finale — Quesito 15
 
 *Valore di P-D somma quadrati pari meno dispari*
 

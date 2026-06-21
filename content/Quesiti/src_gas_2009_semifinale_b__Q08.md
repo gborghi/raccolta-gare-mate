@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q08
 parent: src_gas_2009_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 8
 
 *Tentativi massimi lucchetto 5 cifre con tre uguali*
 

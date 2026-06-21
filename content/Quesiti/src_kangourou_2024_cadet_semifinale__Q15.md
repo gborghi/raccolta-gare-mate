@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q15
 parent: src_kangourou_2024_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 15
 
 *Valore di (cd-ab)(c+d) con somma e somma inversi nulle*
 

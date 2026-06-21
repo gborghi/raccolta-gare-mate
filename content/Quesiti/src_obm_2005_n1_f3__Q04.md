@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n1_f3__Q04
 parent: src_obm_2005_n1_f3
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3 — Quesito 4
 
 *Rectangle ABCD with diagonals; triangle BME with ME=MB and BE=BA; find its area and prove BD parallel EC*
 

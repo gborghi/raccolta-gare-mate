@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1984-85 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1984-85_round1__Q01
 parent: src_bmo_1984-85_round1
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1984-85 — Round 1 — Quesito 1
 
 *Two circles tangent to a line, prove bisection and area ratio*
 

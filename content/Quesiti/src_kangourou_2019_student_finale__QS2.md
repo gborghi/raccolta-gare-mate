@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Student — Quesito S2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_finale__QS2
 parent: src_kangourou_2019_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Student — Quesito S2
 
 *Determinare lo spigolo VD della piramide a base rettangolare*
 

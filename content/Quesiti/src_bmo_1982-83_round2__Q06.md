@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1982-83 — Round 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1982-83_round2__Q06
 parent: src_bmo_1982-83_round2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1982-83 — Round 2 — Quesito 6
 
 *Find all positive integer pairs (n,k) with (n+1)^k = n! + 1*
 

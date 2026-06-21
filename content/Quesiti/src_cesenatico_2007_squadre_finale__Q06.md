@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q06
 parent: src_cesenatico_2007_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 6
 
 *Modi di dividere 4 maschi e 8 femmine in squadre miste da 3*
 

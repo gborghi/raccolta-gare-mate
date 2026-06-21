@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q10
 parent: src_kangourou_2021_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale — Quesito 10
 
 *Quanti interi da 1 a 2021 senza la cifra 6*
 

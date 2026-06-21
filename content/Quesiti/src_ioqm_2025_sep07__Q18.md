@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q18
 parent: src_ioqm_2025_sep07
@@ -34,8 +35,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 18
 
 *Permutations of digits of 223334444; count nine-digit integers with at least one 3 right of last 4*
 

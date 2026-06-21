@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1996 (37th IMO, Mumbai) — Quesito 1'
 tipo: quesito
 quesito_id: quesito_src_imo_1996__Q01
 parent: src_imo_1996
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1996 (37th IMO, Mumbai) — Quesito 1
 
 *Knight-like moves of distance sqrt(r) across board corners*
 

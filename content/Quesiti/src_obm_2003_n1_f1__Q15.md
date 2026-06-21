@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f1__Q15
 parent: src_obm_2003_n1_f1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 15
 
 *Surface area of trophy made of 5 stacked cubes (10, 20, 30, 40, 50 cm)*
 

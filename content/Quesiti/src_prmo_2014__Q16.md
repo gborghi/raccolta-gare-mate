@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q16
 parent: src_prmo_2014
@@ -34,8 +35,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 16
 
 *Value of angle QPR in triangle ABC with incenter I and angle BAC=40*
 

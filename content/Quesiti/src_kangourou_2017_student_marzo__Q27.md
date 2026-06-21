@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Gara 16 marzo — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q27
 parent: src_kangourou_2017_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Gara 16 marzo — Quesito 27
 
 *Numero centrale in griglia 3x3 con somma 500*
 

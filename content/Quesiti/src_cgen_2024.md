@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2024 — Matematica
 tipo: gara
 src_id: src_cgen_2024
 competition: Concours Général des Lycées 2024 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2024 — Matematica
 
 Sorgente: apri PDF
 

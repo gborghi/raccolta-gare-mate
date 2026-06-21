@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q14
 parent: src_kangourou_2024_junior
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 14
 
 *Piu piccolo n con S(n)>=100 (quozienti 2020../2424..)*
 

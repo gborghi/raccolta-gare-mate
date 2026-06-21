@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2025-26 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2025-26_round1__Q02
 parent: src_bmo_2025-26_round1
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2025-26 — Round 1 — Quesito 2
 
 *Find all real triples satisfying two symmetric equations*
 

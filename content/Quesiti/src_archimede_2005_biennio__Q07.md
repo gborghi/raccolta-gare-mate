@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q07
 parent: src_archimede_2005_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 7
 
 *Quante terne (v,n,p) con v=n+p in un campionato*
 

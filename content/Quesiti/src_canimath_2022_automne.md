@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022
 tipo: gara
 src_id: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -17,8 +18,6 @@ tags:
   - gara/individuale
   - stagione/automne
 ---
-
-# Coupe Animath Automne 2022
 
 Sorgente: apri PDF
 

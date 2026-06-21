@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q08
 parent: src_squadre_2026_semifinale_cd
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 8
 
 *Somma pesata di quadrati nei quadrati Q1..Q10*
 

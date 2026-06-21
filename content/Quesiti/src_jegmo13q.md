@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2024
 tipo: gara
 src_id: src_jegmo13q
 competition: Japan EGMO Selection / Girls MO 2024
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2024
 
 Sorgente: apri PDF
 

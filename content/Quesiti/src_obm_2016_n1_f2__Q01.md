@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f2__Q01
 parent: src_obm_2016_n1_f2
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 1
 
 *Count integers less than 2016 whose cube has fewer than 10 digits*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q10
 parent: src_kangourou_2024_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 10
 
 *Relazione aree regioni di parco diviso da due percorsi*
 

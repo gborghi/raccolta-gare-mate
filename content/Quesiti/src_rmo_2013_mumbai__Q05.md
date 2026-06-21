@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_mumbai__Q05
 parent: src_rmo_2013_mumbai
@@ -30,8 +31,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Mumbai — Quesito 5
 
 *Show gcd(b3,c3)=a2 for sequences defined by gcd and lcm*
 

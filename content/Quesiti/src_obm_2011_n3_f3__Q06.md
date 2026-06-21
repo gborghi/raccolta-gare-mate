@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f3__Q06
 parent: src_obm_2011_n3_f3
@@ -36,8 +37,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 6
 
 *Cyclic product of differences of 2011 non-negative reals with given sum is bounded*
 

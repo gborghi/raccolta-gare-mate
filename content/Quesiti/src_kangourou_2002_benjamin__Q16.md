@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_benjamin__Q16
 parent: src_kangourou_2002_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Benjamin (21 marzo) — Quesito 16
 
 *Affermazione falsa sugli animali*
 

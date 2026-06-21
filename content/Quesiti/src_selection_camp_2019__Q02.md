@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2019__Q02
 parent: src_selection_camp_2019
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2019 — Selection Camp — Quesito 2
 
 *Max of a_2018 - a_2017 for an averaging recurrence*
 

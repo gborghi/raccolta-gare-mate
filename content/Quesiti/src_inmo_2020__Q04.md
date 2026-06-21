@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2020 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2020__Q04
 parent: src_inmo_2020
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2020 — Quesito 4
 
 *Prove inequality for n real numbers with sum 2n*
 

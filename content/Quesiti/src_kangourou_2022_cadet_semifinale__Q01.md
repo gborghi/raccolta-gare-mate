@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q01
 parent: src_kangourou_2022_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 1
 
 *Quali timbri forniscono la scritta corretta*
 

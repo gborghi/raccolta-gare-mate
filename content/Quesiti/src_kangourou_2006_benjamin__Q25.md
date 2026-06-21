@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q25
 parent: src_kangourou_2006_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 25
 
 *Stuzzicadenti da aggiungere alla 31-esima griglia*
 

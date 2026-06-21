@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1999 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_2livello__Q03
 parent: src_archimede_1999_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1999 — Quesito 3
 
 *Area della regione definita da cerchio e striscia*
 

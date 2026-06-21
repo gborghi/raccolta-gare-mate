@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q18
 parent: src_kangourou_2009_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 18
 
 *Secondi per uscire dal viadotto (treno)*
 

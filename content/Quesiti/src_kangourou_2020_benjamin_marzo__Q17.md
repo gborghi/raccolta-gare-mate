@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q17
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 17
 
 *Quale forma non e ottenibile con i due pezzi di fil di ferro*
 

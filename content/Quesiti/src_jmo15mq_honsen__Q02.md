@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo15mq_honsen__Q02
 parent: src_jmo15mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 2
 
 *Lattice points on segments of a periodic integer polynomial orbit are constant*
 

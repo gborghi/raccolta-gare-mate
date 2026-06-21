@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q01
 parent: src_kangourou_2023_student_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 1
 
 *Quanti interi <40 con somma dei quadrati delle cifre quadrato perfetto*
 

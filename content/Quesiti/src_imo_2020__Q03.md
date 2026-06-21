@@ -1,4 +1,5 @@
 ---
+title: IMO 2020 papers — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2020__Q03
 parent: src_imo_2020
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2020 papers — Quesito 3
 
 *4n sassi colorati in due mucchi bilanciati*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q15
 parent: src_kangourou_2004_student
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 15
 
 *Conteggio interi positivi in base 3 bilanciata*
 

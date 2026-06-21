@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_2livello__Q03
 parent: src_archimede_2019_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2019 - 2° livello — Quesito 3
 
 *Calzini in buste, minimo buste per tre paia*
 

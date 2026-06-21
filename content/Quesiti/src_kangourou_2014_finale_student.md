@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale nazionale Student
 tipo: gara
 src_id: src_kangourou_2014_finale_student
 competition: Kangourou 2014 finale nazionale Student
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Kangourou 2014 finale nazionale Student
 
 Sorgente: `Kangaroo/kangourou_individuali/2014/SMaggio-14.pdf` · apri PDF
 

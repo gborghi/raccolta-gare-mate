@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student finale (maggio) — Quesito S2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_maggio__QS2
 parent: src_kangourou_2007_student_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Student finale (maggio) — Quesito S2
 
 *Strategia vincente nel gioco delle 52 carte*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_biennio__Q01
 parent: src_archimede_2016_biennio
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Biennio — Quesito 1
 
 *Numero di cifre di 1000^1000*
 

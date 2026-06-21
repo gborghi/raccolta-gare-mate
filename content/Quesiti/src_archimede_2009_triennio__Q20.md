@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_triennio__Q20
 parent: src_archimede_2009_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio — Quesito 20
 
 *Cifra delle unita di 66^66 diviso 2*
 

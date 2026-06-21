@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1988 (29th IMO, Canberra) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1988__Q06
 parent: src_imo_1988
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1988 (29th IMO, Canberra) — Quesito 6
 
 *(a2+b2)/(ab+1) integer is a perfect square (Vieta jumping)*
 

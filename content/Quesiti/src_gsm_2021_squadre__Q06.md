@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q06
 parent: src_gsm_2021_squadre
@@ -31,8 +32,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 6
 
 *Resto modulo 6 di termine di successione ricorrente*
 

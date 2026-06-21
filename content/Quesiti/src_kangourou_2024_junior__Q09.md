@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q09
 parent: src_kangourou_2024_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 9
 
 *Somma cifre del piu grande palindromo ABA multiplo di 6*
 

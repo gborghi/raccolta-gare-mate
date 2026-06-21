@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q11
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 11
 
 *5(2m+1)(2m+3)(2m+5) = six-digit ababab; find m+a+b*
 

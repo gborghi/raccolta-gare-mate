@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q16
 parent: src_archimede_2013_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 16
 
 *Differenza zeri di 2000! in base 10 e base 5*
 

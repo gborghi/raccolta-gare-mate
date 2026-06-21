@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q10
 parent: src_kangourou_2024_benjamin_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 10
 
 *Numero di tre cifre divisibile per 4 con massima somma cifre*
 

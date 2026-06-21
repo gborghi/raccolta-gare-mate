@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q22
 parent: src_kangourou_2006_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 22
 
 *Percorsi A-B sui sei ponti una sola volta (Euler)*
 

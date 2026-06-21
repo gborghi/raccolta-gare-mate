@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f2__Q03
 parent: src_obm_1998_n3_f2
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 3
 
 *Line through midpoints of opposite sides of convex quadrilateral bisects both diagonals*
 

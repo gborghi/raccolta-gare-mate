@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q28
 parent: src_kangourou_2024_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 28
 
 *Quante corde di lunghezza tra raggio e diametro (20-gono)*
 

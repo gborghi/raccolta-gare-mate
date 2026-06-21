@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q05
 parent: src_archimede_2024_biennio_rec
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 5
 
 *Quale espressione e certamente dispari*
 

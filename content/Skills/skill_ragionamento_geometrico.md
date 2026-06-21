@@ -1,11 +1,10 @@
 ---
+title: Ragionamento geometrico
 tipo: skill
 concept_id: skill_ragionamento_geometrico
 tags:
   - graph/skill
 ---
-
-# Ragionamento geometrico
 
 *skill* — **2275** quesiti (italiani).
 

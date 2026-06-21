@@ -1,4 +1,5 @@
 ---
+title: IMO 2017 papers — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2017__Q01
 parent: src_imo_2017
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 2017 papers — Quesito 1
 
 *Valori a0 con successione radice/+3 periodica*
 

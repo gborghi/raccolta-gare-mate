@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q01
 parent: src_kangourou_2024_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 1
 
 *Quanto costa l'articolo piu caro (3 prezzi interi, totale 7)*
 

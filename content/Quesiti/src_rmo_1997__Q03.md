@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1997 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1997__Q03
 parent: src_rmo_1997
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1997 — Quesito 3
 
 *Solve equation involving floor functions*
 

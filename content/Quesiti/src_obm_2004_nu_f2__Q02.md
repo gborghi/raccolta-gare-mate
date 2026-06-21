@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2004_nu_f2__Q02
 parent: src_obm_2004_nu_f2
@@ -33,8 +36,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 — Quesito 2
 
 *Prove no subset of R^2 has finite columns and countable rows*
 

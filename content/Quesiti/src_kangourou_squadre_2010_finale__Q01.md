@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q01
 parent: src_kangourou_squadre_2010_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 1
 
 *Distanza casa-scuola da due velocita e ritardi*
 

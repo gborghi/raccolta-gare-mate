@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior finale (maggio) — Quesito J4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ4
 parent: src_kangourou_2007_junior_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior finale (maggio) — Quesito J4
 
 *Strategia vincente nel gioco delle 52 carte*
 

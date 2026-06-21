@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2005-06 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2005-06_round2__Q03
 parent: src_bmo_2005-06_round2
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2005-06 — Round 2 — Quesito 3
 
 *Triangle, points on sides, line meets perpendicular bisector; angle relation*
 

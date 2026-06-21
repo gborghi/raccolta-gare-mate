@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2007 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo5q__Q09
 parent: src_jjmo5q
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2007 — Quesito 9
 
 *19×19 grid: min n so any 9 removed cells leave ≤n good rectangles*
 

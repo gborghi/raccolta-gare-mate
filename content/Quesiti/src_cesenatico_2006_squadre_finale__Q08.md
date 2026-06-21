@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q08
 parent: src_cesenatico_2006_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 8
 
 *Piu piccolo multiplo di 73 con quadrato >=63 divisori*
 

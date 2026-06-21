@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet
 tipo: gara
 src_id: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet
 
 Sorgente: `Kangaroo/kangourou_individuali/2013/CMarzo-13.pdf` · apri PDF
 

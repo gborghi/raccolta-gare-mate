@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_maggio__QC5
 parent: src_kangourou_2008_cadet_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C5
 
 *Sottoinsiemi pari = dispari (999 e 1000 elementi)*
 

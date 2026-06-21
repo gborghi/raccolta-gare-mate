@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1996 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1996__Q03
 parent: src_cgen_1996
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1996 — Matematica — Quesito 3
 
 *Rectangular parallelepiped, tetrahedra with right-triangle faces, and isosceles tetrahedra*
 

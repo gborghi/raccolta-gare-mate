@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q18
 parent: src_kangourou_2019_student_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 18
 
 *In quanti modi acquistare 30 pezzi tra tre tipi (max 20 ciascuno)*
 

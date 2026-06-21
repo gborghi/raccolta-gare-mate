@@ -1,4 +1,5 @@
 ---
+title: IMO 1960 (II International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imho_1960__Q01
 parent: src_imho_1960
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1960 (II International Olympiad) — Quesito 1
 
 *Numeri di tre cifre divisibili per 11 con N/11 somma quadrati cifre*
 

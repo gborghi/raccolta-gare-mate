@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f1__Q08
 parent: src_obm_2004_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 8
 
 *Area of a rectangle with perimeter 100 and diagonal x*
 

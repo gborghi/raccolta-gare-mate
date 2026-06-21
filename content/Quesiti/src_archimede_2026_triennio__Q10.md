@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q10
 parent: src_archimede_2026_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 10
 
 *Coppie (a,b) con polinomio intero p(5,1)=a, p(17,19)=b*
 

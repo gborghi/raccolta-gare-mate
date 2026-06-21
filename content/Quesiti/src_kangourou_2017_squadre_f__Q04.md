@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q04
 parent: src_kangourou_2017_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Finale — Quesito 4
 
 *Somma degli n positivi con n^2+12 divisibile per n+4*
 

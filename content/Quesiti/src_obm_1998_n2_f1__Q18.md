@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n2_f1__Q18
 parent: src_obm_1998_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 18
 
 *Count ways to paint flag with 4 colours, two cannot be adjacent*
 

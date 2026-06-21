@@ -1,4 +1,5 @@
 ---
+title: IMO 1993 (34th IMO) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1993__Q05
 parent: src_imo_1993
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1993 (34th IMO) — Quesito 5
 
 *Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
 

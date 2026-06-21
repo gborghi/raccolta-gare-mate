@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q15
 parent: src_archimede_1996_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 15
 
 *Probabilita che una squadra vinca tutte le partite*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q06
 parent: src_prmo_2013
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 6
 
 *Find S(5N+2013) where N is smallest positive integer with digit sum 2013*
 

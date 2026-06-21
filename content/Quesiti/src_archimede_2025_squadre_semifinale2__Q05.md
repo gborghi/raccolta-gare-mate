@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q05
 parent: src_archimede_2025_squadre_semifinale2
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 5
 
 *Pentagono con quadrato e triangolo isoscele, trovare AE*
 

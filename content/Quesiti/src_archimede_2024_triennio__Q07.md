@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q07
 parent: src_archimede_2024_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 7
 
 *Tre punti nello spazio, esistenza P con rette perpendicolari*
 

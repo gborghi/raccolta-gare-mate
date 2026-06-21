@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q19
 parent: src_prmo_2013
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 19
 
 *Length of AC in right triangle given perpendicular bisector area ratio 13:18*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q13
 parent: src_kangourou_2007_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin (marzo) — Quesito 13
 
 *Dove si ferma il robot nella griglia*
 

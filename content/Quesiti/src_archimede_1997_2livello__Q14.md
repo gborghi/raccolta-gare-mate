@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q14
 parent: src_archimede_1997_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 14
 
 *Area massima del quadrilatero CDNM nel quadrato unitario*
 

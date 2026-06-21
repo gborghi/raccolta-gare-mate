@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student finale nazionale — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student_finale__QS4
 parent: src_kangourou_2003_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Student finale nazionale — Quesito S4
 
 *Probabilita completare album con 5 figurine*
 

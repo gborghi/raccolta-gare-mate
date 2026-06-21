@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q18
 parent: src_kangourou_2011_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 18
 
 *Quante volte le quattro cifre dell'orologio sono uguali*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1982__Q04
 parent: src_imo_1982
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1982 (23rd International Mathematical Olympiad) — Quesito 4
 
 *Cubic Diophantine equation has at least three integer solutions*
 

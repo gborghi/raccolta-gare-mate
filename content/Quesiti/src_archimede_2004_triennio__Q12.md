@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_triennio__Q12
 parent: src_archimede_2004_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Triennio — Quesito 12
 
 *contenenti numeri da 1 a 2005*
 

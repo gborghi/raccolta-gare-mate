@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q26
 parent: src_kangourou_2021_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 26
 
 *Somma dobloni e diamanti dalle risposte vere/false*
 

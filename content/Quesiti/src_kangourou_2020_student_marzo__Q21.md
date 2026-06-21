@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q21
 parent: src_kangourou_2020_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 21
 
 *Quale deve essere positivo dato l'arco di parabola*
 

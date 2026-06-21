@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q16
 parent: src_garasquadre_2006_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 16
 
 *Cubi con spigoli paralleli agli assi e vertici interi 0-10*
 

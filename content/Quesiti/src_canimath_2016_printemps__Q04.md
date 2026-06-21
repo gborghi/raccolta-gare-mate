@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2016 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_printemps__Q04
 parent: src_canimath_2016_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2016 — Quesito 4
 
 *Trapezoid ABCD with equal-length diagonals; prove sum of distances from any M to three vertices exceeds distance to the fourth.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q01
 parent: src_kangourou_squadre_2009_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 1
 
 *Conteggio esiti di 6 palline rosse e 5 verdi in scatola*
 

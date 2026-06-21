@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q07
 parent: src_prmo_2015_b
@@ -34,8 +35,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 7
 
 *Sum of even-digits function E(1)+E(2)+…+E(100)*
 

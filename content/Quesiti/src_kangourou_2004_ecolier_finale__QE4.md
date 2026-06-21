@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier finale nazionale — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier_finale__QE4
 parent: src_kangourou_2004_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier finale nazionale — Quesito E4
 
 *Minima distanza tra bandierine rossa e verde*
 

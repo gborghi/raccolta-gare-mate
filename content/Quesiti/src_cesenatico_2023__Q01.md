@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2023__Q01
 parent: src_cesenatico_2023
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 1
 
 *a e' potenza di 54*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Junior — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior_finale__Q05
 parent: src_kangourou_2014_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Junior — Quesito 5
 
 *Per quanti n il prodotto (p+1) è divisibile per n*
 

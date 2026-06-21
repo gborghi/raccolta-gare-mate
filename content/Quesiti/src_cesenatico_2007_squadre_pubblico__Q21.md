@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q21
 parent: src_cesenatico_2007_squadre_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 21
 
 *Lunghezza CD in quadrilatero ciclico con AC diametro*
 

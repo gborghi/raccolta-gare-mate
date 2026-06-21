@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2012_nu_f1__Q05
 parent: src_obm_2012_nu_f1
@@ -33,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 — Quesito 5
 
 *Count matrices M_i with A^4 = M_i among three given matrices*
 

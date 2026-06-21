@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q08
 parent: src_archimede_2006_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 8
 
 *Ordinare 3, radice 10, radice 2 piu radice 3*
 

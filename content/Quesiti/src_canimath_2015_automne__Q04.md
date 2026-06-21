@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2015 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_automne__Q04
 parent: src_canimath_2015_automne
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2015 — Quesito 4
 
 *A positive integer k on the board may be replaced by a+b where ab=k; starting from n, determine the smallest number reachable after finitely many replacements.*
 

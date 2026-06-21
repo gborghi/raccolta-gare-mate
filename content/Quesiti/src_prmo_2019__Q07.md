@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q07
 parent: src_prmo_2019
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 7
 
 *Clock angle difference between two times when hands are perpendicular*
 

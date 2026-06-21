@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f1__Q08
 parent: src_obm_2014_n1_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 8
 
 *Climbing an 18-step staircase by 2s then by 1s, descending; minimum steps stepped on*
 

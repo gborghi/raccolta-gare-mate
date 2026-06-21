@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q02
 parent: src_kangourou_2019_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 2
 
 *Scritta SHAVE vista allo specchio dopo rotazione 180 gradi*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2016 - 2 livello
 tipo: gara
 src_id: src_archimede_2016_febb_2livello
 competition: Archimede Gara di Febbraio 2016 - 2 livello
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2016 - 2 livello
 
 Sorgente: `Archimede/individuale/2livello/2016/febbraio2016.pdf` · apri PDF
 

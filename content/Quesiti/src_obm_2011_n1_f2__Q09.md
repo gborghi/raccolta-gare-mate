@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f2__Q09
 parent: src_obm_2011_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 9
 
 *Maximum squares on geoplane with one continuous string (4x4 and 5x5)*
 

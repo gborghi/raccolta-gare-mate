@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q15
 parent: src_kangourou_2019_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 15
 
 *In quanti modi piastrellare la figura con tessere a L*
 

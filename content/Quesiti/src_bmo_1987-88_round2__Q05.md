@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round2__Q05
 parent: src_bmo_1987-88_round2
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 2 — Quesito 5
 
 *Skew lines with moving segment; sphere through four points has centre on fixed circle*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Finale nazionale Cervia — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_finale__QS3
 parent: src_kangourou_2017_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Finale nazionale Cervia — Quesito S3
 
 *Coppia diametrale e cerchio minimo di un insieme*
 

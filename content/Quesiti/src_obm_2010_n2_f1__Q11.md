@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f1__Q11
 parent: src_obm_2010_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 11
 
 *For how many integers n is n/(100-n) also an integer*
 

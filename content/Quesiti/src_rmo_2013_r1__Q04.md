@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r1__Q04
 parent: src_rmo_2013_r1
@@ -33,8 +34,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 1 — Quesito 4
 
 *Count 10-tuples of integers with bounded entries and sum-of-products condition*
 

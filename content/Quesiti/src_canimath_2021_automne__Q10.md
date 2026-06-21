@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q10
 parent: src_canimath_2021_automne
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 10
 
 *Village 5 buildings with 5,15,25,35,45 residents; show someone shares building with family member (lycée)*
 

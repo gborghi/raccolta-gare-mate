@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q08
 parent: src_kangourou_2011_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 8
 
 *Quale non puo essere area di triangolo con lati 6 e 8*
 

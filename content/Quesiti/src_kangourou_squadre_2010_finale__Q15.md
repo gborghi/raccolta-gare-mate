@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q15
 parent: src_kangourou_squadre_2010_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 15
 
 *Massimo studenti con 3 problemi su 8 e un comune*
 

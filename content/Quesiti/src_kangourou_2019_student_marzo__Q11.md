@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q11
 parent: src_kangourou_2019_student_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 11
 
 *Massima potenza di 3 che divide 7!+8!+9!*
 

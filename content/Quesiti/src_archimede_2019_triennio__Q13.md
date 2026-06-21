@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_triennio__Q13
 parent: src_archimede_2019_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Triennio (T1) — Quesito 13
 
 *Modi di sedere 6 persone con due coppie adiacenti*
 

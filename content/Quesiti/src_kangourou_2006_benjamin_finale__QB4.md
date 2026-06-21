@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (finale nazionale) — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin_finale__QB4
 parent: src_kangourou_2006_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (finale nazionale) — Quesito B4
 
 *Numeri di 3 cifre con cifre che differiscono di almeno 4*
 

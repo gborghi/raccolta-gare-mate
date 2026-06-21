@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q07
 parent: src_kangourou_2024_junior
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 7
 
 *Massima area del rettangolo con perimetro 40 e lati primi*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2023__Q07
 parent: src_selection_camp_2023
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2023 — Selection Camp — Quesito 7
 
 *Max C with bounded partial sums of good +-1 sequence of length 2022*
 

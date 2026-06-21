@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q09
 parent: src_obm_2005_n2_f1
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 9
 
 *Thirteen nonzero reals, more positive than negative; 22 of the 78 pairwise products are negative; how many are negative*
 

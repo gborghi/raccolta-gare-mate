@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q09
 parent: src_archimede_1998_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 9
 
 *Triangoli con vertici sul cubo non su nessuna faccia*
 

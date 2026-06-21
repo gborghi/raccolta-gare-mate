@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - semifinale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q14
 parent: src_kangourou_2021_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - semifinale — Quesito 14
 
 *Anni dall ultimo anno = due interi consecutivi accostati*
 

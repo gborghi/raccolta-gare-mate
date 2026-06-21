@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n2_f1__Q11
 parent: src_obm_2007_n2_f1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 11
 
 *Two quadratics with a common root, product of the two non-common roots*
 

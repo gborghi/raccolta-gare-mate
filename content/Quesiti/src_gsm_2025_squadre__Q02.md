@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q02
 parent: src_gsm_2025_squadre
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 2
 
 *Numero all'inizio della 97-esima riga di dispari*
 

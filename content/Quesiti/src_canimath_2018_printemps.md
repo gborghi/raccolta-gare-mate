@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2018
 tipo: gara
 src_id: src_canimath_2018_printemps
 competition: Coupe Animath Printemps 2018
@@ -17,8 +18,6 @@ tags:
   - gara/individuale
   - stagione/printemps
 ---
-
-# Coupe Animath Printemps 2018
 
 Sorgente: apri PDF
 

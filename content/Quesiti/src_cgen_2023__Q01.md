@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2023 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_2023__Q01
 parent: src_cgen_2023
@@ -38,8 +39,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Concours Général des Lycées 2023 — Matematica — Quesito 1
 
 *A recursively defined sequence built from the function r(n) (largest k with n/k integer); show its terms are positive rationals and that every positive rational appears exactly once.*
 

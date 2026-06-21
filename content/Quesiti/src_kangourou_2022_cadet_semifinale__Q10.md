@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q10
 parent: src_kangourou_2022_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 10
 
 *Distanza tra le oasi A e B con i due cammelli*
 

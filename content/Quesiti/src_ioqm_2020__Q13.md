@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q13
 parent: src_ioqm_2020
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 13
 
 *Sum of all positive integers n for which |2^n + 5^n - 65| is a perfect square*
 

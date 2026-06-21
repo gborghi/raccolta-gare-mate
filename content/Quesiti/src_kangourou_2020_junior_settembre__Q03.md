@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - finale settembre — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q03
 parent: src_kangourou_2020_junior_settembre
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - finale settembre — Quesito 3
 
 *Numeri in posizione speciale in griglia 2020x2020*
 

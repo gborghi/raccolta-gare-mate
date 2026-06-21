@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_tfjm_2018__Q04
 parent: src_tfjm_2018
@@ -36,8 +37,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 4
 
 *Galettes des rois: n galettes each cut into k parts contain hidden feves with a_1<=...<=a_n feves; given how many feves were already found, decide which galette to pick to maximize (or minimize) the chance of finding a feve, and study useless galettes.*
 

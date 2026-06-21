@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q06
 parent: src_kangourou_2019_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 6
 
 *Salti dalla casa dopo 2019 salti del canguro*
 

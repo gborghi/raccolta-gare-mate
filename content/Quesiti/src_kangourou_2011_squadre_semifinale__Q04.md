@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q04
 parent: src_kangourou_2011_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A — Quesito 4
 
 *Percentuale problemi risolti da Gigi*
 

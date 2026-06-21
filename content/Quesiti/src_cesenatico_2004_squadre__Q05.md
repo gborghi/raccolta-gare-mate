@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q05
 parent: src_cesenatico_2004_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 5
 
 *Quanti numeri di tre cifre con somma cifre divisibile per 11*
 

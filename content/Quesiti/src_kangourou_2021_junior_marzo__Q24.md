@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q24
 parent: src_kangourou_2021_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 24
 
 *Quale informazione determina il colore della pallina 2021*
 

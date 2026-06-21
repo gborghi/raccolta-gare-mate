@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q14
 parent: src_kangourou_2009_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 14
 
 *Facce e spigoli di un antiprisma a basi quadrate*
 

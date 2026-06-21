@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Benjamin — Quesito B1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_finale__QB1
 parent: src_kangourou_2020_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Benjamin — Quesito B1
 
 *Massimo sacchetti da 4 penne con max due dello stesso colore*
 

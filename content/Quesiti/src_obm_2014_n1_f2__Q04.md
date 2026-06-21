@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f2__Q04
 parent: src_obm_2014_n1_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 4
 
 *Rectangle ABCD cut parallel to AD; rotated piece fits; find area*
 

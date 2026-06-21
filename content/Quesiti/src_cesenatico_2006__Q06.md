@@ -1,4 +1,5 @@
 ---
+title: XXII Olimpiade Italiana Cesenatico 2006 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006__Q06
 parent: src_cesenatico_2006
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# XXII Olimpiade Italiana Cesenatico 2006 — Quesito 6
 
 *Gioco di Alberto e Barbara con gettoni e strategia vincente*
 

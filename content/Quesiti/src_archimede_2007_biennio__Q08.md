@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q08
 parent: src_archimede_2007_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 8
 
 *Cancello di ingresso della 2007-esima persona*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2023 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_automne__Q12
 parent: src_canimath_2023_automne
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2023 — Quesito 12
 
 *Prove that if 2^n and 5^n share the same leading digit, that digit is 3 (lycee)*
 

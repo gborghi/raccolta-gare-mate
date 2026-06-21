@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet__Q08
 parent: src_kangourou_2004_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo) — Quesito 8
 
 *Aumento percentuale area aiuola (+10%+10%)*
 

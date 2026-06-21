@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni
 tipo: gara
 src_id: src_cesenatico_2022
 competition: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni
 
 Sorgente: `Archimede/individuale/nazionale/2022/Soluzioni-Cesenatico-2022.pdf` · apri PDF
 

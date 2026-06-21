@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q14
 parent: src_prmo_2012
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 14
 
 *Angle BAC in triangle given circumcenter and incenter positions*
 

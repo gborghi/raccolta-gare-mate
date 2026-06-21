@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Semifinale individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin_semifinale__Q11
 parent: src_kangourou_2023_benjamin_semifinale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Semifinale individuale — Quesito 11
 
 *altezza e bisettrice, angolo ACB*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q16
 parent: src_kangourou_2002_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 16
 
 *Angolo ABC tra punti medi del cubo*
 

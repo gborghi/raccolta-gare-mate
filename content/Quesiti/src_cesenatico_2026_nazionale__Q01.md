@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2026_nazionale__Q01
 parent: src_cesenatico_2026_nazionale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 1
 
 *Minimo da spendere con monete 3,5,7 per merendina da 24*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier gara individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q14
 parent: src_kangourou_2022_ecolier_gara
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier gara individuale — Quesito 14
 
 *Quali numeri bucati piegando il foglio*
 

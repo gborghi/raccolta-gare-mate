@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q15
 parent: src_gsm_2025_squadre
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 15
 
 *Naturali sotto 10000 con somma cifre multipla di 6*
 

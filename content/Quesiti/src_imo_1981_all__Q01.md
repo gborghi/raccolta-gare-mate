@@ -1,4 +1,5 @@
 ---
+title: IMO 1981 (Twenty-second International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1981_all__Q01
 parent: src_imo_1981_all
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1981 (Twenty-second International Olympiad) — Quesito 1
 
 *Minimize BC/PD+CA/PE+AB/PF for interior point P*
 

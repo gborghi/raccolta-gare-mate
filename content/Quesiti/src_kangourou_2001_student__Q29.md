@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Student (15 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_student__Q29
 parent: src_kangourou_2001_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2001 - Student (15 marzo) — Quesito 29
 
 *Numero di pesci catturati dallo zio Marco*
 

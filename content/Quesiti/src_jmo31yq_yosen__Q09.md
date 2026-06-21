@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jmo31yq_yosen__Q09
 parent: src_jmo31yq_yosen
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 9
 
 *Fill 2021x2021 with 1,2,3 so every 2x2 sums to 8; count mod 100*
 

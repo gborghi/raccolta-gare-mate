@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q06
 parent: src_ioqm_2024
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 6
 
 *Count triples (a,b,c) satisfying two simultaneous power equations*
 

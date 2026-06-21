@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Student 2023 — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_finale__QS4
 parent: src_kangourou_2023_student_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Finale Student 2023 — Quesito S4
 
 *Caratterizzare n con p^2+n divisibile per 40, p primo>5*
 

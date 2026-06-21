@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo)
 tipo: gara
 src_id: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2006/CMarzo-06.pdf` · apri PDF
 

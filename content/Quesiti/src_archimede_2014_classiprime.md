@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014
 tipo: gara
 src_id: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014
 
 Sorgente: `Archimede/individuale/classi prime/2014/GaraNazionaleClassiPrime2014.pdf` · apri PDF
 

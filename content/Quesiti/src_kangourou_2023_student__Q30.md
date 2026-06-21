@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q30
 parent: src_kangourou_2023_student
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 30
 
 *Cifra d nel prodotto di sei interi consecutivi a 12 cifre*
 

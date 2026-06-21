@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q08
 parent: src_squadre_2023_finale
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 8
 
 *Numero minimo biglie con condizioni 23x e 88x*
 

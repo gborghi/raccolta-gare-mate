@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2024__Q04
 parent: src_inmo_2024
@@ -32,8 +33,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2024 — Quesito 4
 
 *Cardinal function f on positive integers; find all values of f(2024)*
 

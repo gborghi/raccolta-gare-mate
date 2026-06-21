@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n1_fx__Q03
 parent: src_obm_2020_n1_fx
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 1 — Fase x — Quesito 3
 
 *Sums of the initial decimal digits of 7/33 and 11/41 after the decimal point: reach exactly 1202, show 2020 is impossible, reach at least 2021*
 

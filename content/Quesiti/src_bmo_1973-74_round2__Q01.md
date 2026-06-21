@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round2__Q01
 parent: src_bmo_1973-74_round2
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 2 — Quesito 1
 
 *Right-angled triangle from trig identity; circumcentre–centroid distance formula*
 

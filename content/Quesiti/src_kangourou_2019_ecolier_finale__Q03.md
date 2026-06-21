@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q03
 parent: src_kangourou_2019_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Ecolier — Quesito 3
 
 *Distanza del canguro dopo 2019 salti 3 avanti 1 indietro*
 

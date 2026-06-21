@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2008 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2008__Q03
 parent: src_rmo_2008
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2008 — Quesito 3
 
 *Cubic with all positive real roots: bounds on coefficients*
 

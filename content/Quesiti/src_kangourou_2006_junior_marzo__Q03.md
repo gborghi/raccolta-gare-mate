@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q03
 parent: src_kangourou_2006_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 3
 
 *Quando la differenza tra orologi sara 1 ora*
 

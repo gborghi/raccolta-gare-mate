@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q03
 parent: src_kangourou_2024_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Ecolier 2024 — Quesito 3
 
 *Prodotto dei tre numeri pensati (Adele, Beatrice, Cecilia)*
 

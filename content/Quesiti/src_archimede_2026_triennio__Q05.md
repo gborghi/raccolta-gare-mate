@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q05
 parent: src_archimede_2026_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 5
 
 *Massimo numero di facce arancioni con probabilita stesso colore 50%*
 

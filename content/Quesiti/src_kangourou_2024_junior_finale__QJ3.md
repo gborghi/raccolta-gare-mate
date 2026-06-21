@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Junior 2024 — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_finale__QJ3
 parent: src_kangourou_2024_junior_finale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Finale Junior 2024 — Quesito J3
 
 *Stabilire su quale citta l'aereo opera (calendario, caffe)*
 

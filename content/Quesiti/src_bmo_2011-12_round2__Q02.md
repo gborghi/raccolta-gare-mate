@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2011-12_round2__Q02
 parent: src_bmo_2011-12_round2
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 2 — Quesito 2
 
 *Recursive function on positive integers: prove f(n)=n infinitely often*
 

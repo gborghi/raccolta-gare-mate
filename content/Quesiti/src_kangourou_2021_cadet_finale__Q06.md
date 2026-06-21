@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q06
 parent: src_kangourou_2021_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - finale — Quesito 6
 
 *Riempire griglia mxn con somme colonna costanti*
 

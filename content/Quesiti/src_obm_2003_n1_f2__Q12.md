@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n1_f2__Q12
 parent: src_obm_2003_n1_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 12
 
 *Two squares ABCD and FHIJ share a side line; find area of square BEFG*
 

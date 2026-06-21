@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2007-08_round1__Q04
 parent: src_bmo_2007-08_round1
@@ -29,8 +30,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2007-08 — Round 1 — Quesito 4
 
 *Show a given integer expression is a perfect square*
 

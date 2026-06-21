@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Triennio
 tipo: gara
 src_id: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Triennio
 
 Sorgente: `Archimede/individuale/1livello/2006/testo-triennio3.pdf` · apri PDF
 

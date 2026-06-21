@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q13
 parent: src_squadre_2025_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 13
 
 *p(14) con equazione funzionale e p(10)=100*
 

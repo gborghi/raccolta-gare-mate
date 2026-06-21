@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q02
 parent: src_squadre_2024_femminile
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 2
 
 *p(12) con p(2R)=2p(R)+2R^2-1 e somma coefficienti 2*
 

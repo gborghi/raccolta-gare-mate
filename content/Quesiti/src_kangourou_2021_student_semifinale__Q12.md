@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q12
 parent: src_kangourou_2021_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 12
 
 *Ultime quattro cifre allineamento 0/1 senza blocchi ripetuti*
 

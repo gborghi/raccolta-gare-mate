@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1993 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_inmo_1993__Q07
 parent: src_inmo_1993
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1993 — Quesito 7
 
 *53-element subset of {1,...,100} contains two elements with sum divisible by 9*
 

@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2000 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_2000__Q02
 parent: src_cgen_2000
@@ -37,8 +38,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2000 — Matematica — Quesito 2
 
 *Triangles ABC (called Cartesian) with integer sides and angle A = 2pi/3: rational lengths, incircle/excircle, and number-theoretic characterization*
 

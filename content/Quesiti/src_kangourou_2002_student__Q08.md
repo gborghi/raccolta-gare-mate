@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q08
 parent: src_kangourou_2002_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 8
 
 *Percentuale di bicchiere con acqua a 45 gradi*
 

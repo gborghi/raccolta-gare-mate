@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q11
 parent: src_kangourou_2019_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 11
 
 *In quale isola e il tesoro (una sola pergamena vera)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q01
 parent: src_kangourou_2019_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 1
 
 *Punti interi nel cerchio raggio 10 centrato origine*
 

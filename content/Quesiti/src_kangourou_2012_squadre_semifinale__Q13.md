@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre semifinale turno A — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q13
 parent: src_kangourou_2012_squadre_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre semifinale turno A — Quesito 13
 
 *Ricavo dato prodotto 71685 con cifre scambiate*
 

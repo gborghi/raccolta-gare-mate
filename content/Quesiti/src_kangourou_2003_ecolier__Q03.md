@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q03
 parent: src_kangourou_2003_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 3
 
 *Colore del 27-simo canguro (ciclo di 5)*
 

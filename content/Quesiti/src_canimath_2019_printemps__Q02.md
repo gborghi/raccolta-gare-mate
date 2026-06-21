@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2019 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_printemps__Q02
 parent: src_canimath_2019_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2019 — Quesito 2
 
 *Count 8-digit numbers ab2019cd divisible by 360*
 

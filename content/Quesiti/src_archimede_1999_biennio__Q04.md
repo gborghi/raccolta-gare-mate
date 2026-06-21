@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_biennio__Q04
 parent: src_archimede_1999_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Biennio — Quesito 4
 
 *Numero la cui decima parte eguaglia dieci volte il suo quadrato*
 

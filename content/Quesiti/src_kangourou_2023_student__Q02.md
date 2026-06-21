@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q02
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 2
 
 *Massimo numero di 6 con 5 dadi che totalizzano 19*
 

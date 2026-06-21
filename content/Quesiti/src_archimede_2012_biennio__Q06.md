@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_biennio__Q06
 parent: src_archimede_2012_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Biennio — Quesito 6
 
 *Numeri tre cifre con ogni permutazione divisibile per 4*
 

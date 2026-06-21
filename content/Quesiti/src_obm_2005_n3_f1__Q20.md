@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f1__Q20
 parent: src_obm_2005_n3_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 20
 
 *Classify (2+sqrt2)^3(3-sqrt2)^4 + (2-sqrt2)^3(3+sqrt2)^4*
 

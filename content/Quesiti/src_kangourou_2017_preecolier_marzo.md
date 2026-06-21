@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
 tipo: gara
 src_id: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Kangourou 2017 Pre-Ecolier - Gara 16 marzo
 
 Sorgente: `Kangaroo/kangourou_individuali/2017/PMarzo-17.pdf` · apri PDF
 

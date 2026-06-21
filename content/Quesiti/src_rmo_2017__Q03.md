@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2017 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2017__Q03
 parent: src_rmo_2017
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2017 — Quesito 3
 
 *Find all real roots of composition P(Q(x)) = 0*
 

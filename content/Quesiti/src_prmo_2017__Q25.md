@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q25
 parent: src_prmo_2017
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 25
 
 *Find area of triangle AEF given areas of triangles in rectangle ABCD*
 

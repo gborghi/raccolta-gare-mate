@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Ecolier — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier_finale__Q06
 parent: src_kangourou_2014_ecolier_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Ecolier — Quesito 6
 
 *Divisibilità della somma di tre interi consecutivi*
 

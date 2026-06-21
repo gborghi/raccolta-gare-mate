@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q10
 parent: src_kangourou_2008_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 10
 
 *Tempo tra inizio primo e fine terzo brano*
 

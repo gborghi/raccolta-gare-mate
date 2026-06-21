@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q14
 parent: src_prmo_2017
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 14
 
 *Least positive integer n such that x^n > 100 where {x}, floor(x), x are in GP*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q15
 parent: src_kangourou_2019_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 15
 
 *Minimo numero di cifre per braccialetto 20 perline*
 

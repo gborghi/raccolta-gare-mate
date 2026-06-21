@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q27
 parent: src_kangourou_2013_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 27
 
 *Somma cifre di n con somma 1..n di tre cifre uguali*
 

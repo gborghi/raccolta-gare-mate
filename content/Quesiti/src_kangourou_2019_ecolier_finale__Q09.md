@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q09
 parent: src_kangourou_2019_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Ecolier — Quesito 9
 
 *Perimetro del poligono ortogonale di area 200*
 

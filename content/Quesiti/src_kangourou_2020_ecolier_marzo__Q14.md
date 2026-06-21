@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q14
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 14
 
 *Quale e uno dei tre numeri iniziali (somma 50, sottratto x)*
 

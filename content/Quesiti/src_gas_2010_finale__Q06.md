@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q06
 parent: src_gas_2010_finale
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 6
 
 *Massimo tempo corsa andata-ritorno con velocita diverse*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n2_f1__Q12
 parent: src_obm_2004_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 12
 
 *Total distance travelled by a light ray reflecting between two mirrors at 30 degrees*
 

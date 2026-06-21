@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet finale nazionale — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet_finale__QC3
 parent: src_kangourou_2004_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet finale nazionale — Quesito C3
 
 *Esiste sempre squadra dominante nel girone*
 

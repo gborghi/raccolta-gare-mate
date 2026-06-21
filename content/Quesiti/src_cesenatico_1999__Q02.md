@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1999 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1999__Q02
 parent: src_cesenatico_1999
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1999 — Quesito 2
 
 *Esiste solo numero finito di numeri equilibrati*
 

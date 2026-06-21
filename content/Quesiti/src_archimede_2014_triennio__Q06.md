@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_triennio__Q06
 parent: src_archimede_2014_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 6
 
 *Quale tra cinque espressioni e un numero intero*
 

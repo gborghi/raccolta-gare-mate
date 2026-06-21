@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_finale__Q06
 parent: src_cesenatico_2016_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 6
 
 *Max MCD(m,n) scambiando prima/ultima cifra + n cifre*
 

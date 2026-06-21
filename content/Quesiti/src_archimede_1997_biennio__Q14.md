@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_biennio__Q14
 parent: src_archimede_1997_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Biennio — Quesito 14
 
 *In quale intervallo si trova x volte radice di y*
 

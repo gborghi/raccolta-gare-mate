@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
 tipo: gara
 src_id: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico
 
 Sorgente: `Archimede/individuale/nazionale/2006/GaraDelPubblico_06.pdf` · apri PDF
 

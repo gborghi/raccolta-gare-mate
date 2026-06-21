@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo16yq_yosen__Q08
 parent: src_jjmo16yq_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 8
 
 *Find all integer values of a for polynomial ax^2-bx+c satisfying P(16)=P(30)=59, P(n)=2018*
 

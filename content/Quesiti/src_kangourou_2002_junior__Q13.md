@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Junior (21 marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_junior__Q13
 parent: src_kangourou_2002_junior
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2002 - Junior (21 marzo) — Quesito 13
 
 *Salti del canguro verso Mosca*
 

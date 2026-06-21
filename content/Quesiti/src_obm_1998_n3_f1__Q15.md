@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q15
 parent: src_obm_1998_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 15
 
 *Pizza price is proportional to area; a 20cm-diameter pizza costs R$3.60. Find the price of a 30cm-diameter pizza.*
 

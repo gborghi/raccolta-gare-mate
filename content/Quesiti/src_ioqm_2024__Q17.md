@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q17
 parent: src_ioqm_2024
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 17
 
 *Length of chord PQ parallel to BC through midpoint of altitude foot*
 

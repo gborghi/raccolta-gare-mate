@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q11
 parent: src_garaprime_2017
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 11
 
 *Chi ha dati sufficienti a determinare il triangolo acutangolo*
 

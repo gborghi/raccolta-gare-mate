@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q18
 parent: src_kangourou_2020_pre_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 18
 
 *Carrozza che affianca la 12 quando le 19 sono affiancate*
 

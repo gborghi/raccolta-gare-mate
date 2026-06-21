@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q10
 parent: src_archimede_2015_febb_2livello
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2015 - 2 livello — Quesito 10
 
 *Gradini speciali verdi dopo i salti dei canguri*
 

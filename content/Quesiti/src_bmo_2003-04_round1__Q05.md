@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2003-04 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2003-04_round1__Q05
 parent: src_bmo_2003-04_round1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2003-04 — Round 1 — Quesito 5
 
 *Primes p,q,r with q|p-1, r|p-1; find all values of pq*
 

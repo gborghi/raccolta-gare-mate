@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_finale__QJ6
 parent: src_kangourou_2017_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J6
 
 *Cubi inscrivibili in un dodecaedro regolare*
 

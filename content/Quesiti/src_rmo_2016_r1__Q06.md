@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r1__Q06
 parent: src_rmo_2016_r1
@@ -34,8 +35,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 1 — Quesito 6
 
 *Arithmetic progression with infinite geometric subsequence*
 

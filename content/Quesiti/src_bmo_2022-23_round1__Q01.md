@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2022-23 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2022-23_round1__Q01
 parent: src_bmo_2022-23_round1
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2022-23 — Round 1 — Quesito 1
 
 *Find all three-digit n where exactly 1/k numbers start with digit 2*
 

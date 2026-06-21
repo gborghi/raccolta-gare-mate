@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f1__Q14
 parent: src_obm_2014_n1_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 14
 
 *Rosa distributes among nephews; 10 left over, then 22, finally distributes 240; amount each got*
 

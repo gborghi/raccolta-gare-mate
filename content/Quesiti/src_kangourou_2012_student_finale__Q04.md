@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 finale nazionale Student — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student_finale__Q04
 parent: src_kangourou_2012_student_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 finale nazionale Student — Quesito 4
 
 *Ogni poliedro ha due facce con ugual numero di spigoli*
 

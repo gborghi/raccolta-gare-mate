@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q04
 parent: src_kangourou_2009_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 4
 
 *Quante lettere da consegnare (numeri dispari)*
 

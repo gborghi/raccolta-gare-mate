@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n2_f2__Q01
 parent: src_obm_1999_n2_f2
@@ -39,8 +40,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 1
 
 *Three consecutive months in a non-leap year each with exactly four Sundays; prove one of them is February.*
 

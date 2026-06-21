@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2015 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_automne__Q01
 parent: src_canimath_2015_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2015 — Quesito 1
 
 *Fifteen students eat ice cream in groups of three each evening; every pair eats together exactly once; find how many days the camp lasted.*
 

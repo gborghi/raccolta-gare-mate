@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q05
 parent: src_cesenatico_2007_squadre_semifinale_b
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 5
 
 *Radice 99-esima del prodotto divisori di 2^8*3^10*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q04
 parent: src_archimede_2012_febb_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 4
 
 *Numeri di 2 cifre con numero meno somma cifre uguale 45*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - finale settembre — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_settembre__Q01
 parent: src_kangourou_2020_student_settembre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - finale settembre — Quesito 1
 
 *Cifra delle unita del minimo n con 7n di 2021 cifre*
 

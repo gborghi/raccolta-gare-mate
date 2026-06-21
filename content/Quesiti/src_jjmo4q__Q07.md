@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q07
 parent: src_jjmo4q
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 7
 
 *Count ways to choose 3 cards from 20 blue-numbered cards (1–10 each in 2 copies) summing to 16*
 

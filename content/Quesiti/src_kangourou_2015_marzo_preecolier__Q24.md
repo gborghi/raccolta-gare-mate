@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q24
 parent: src_kangourou_2015_marzo_preecolier
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 24
 
 *numero centrale*
 

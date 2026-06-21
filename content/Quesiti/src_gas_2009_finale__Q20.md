@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q20
 parent: src_gas_2009_finale
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 20
 
 *Volume piramide retta quadrata con angolo diedro 120 gradi*
 

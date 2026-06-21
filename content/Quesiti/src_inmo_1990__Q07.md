@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1990 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_inmo_1990__Q07
 parent: src_inmo_1990
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1990 — Quesito 7
 
 *Locus of P such that triangle DEF (feet of perps) is isosceles; when equilateral?*
 

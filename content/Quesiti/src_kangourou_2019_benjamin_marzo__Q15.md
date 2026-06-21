@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q15
 parent: src_kangourou_2019_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 15
 
 *Quanti gatti all inizio dopo le trasformazioni della strega*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior finale individuale — Quesito J2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_finale__QJ2
 parent: src_kangourou_2022_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior finale individuale — Quesito J2
 
 *Raggio del cerchio interno alle tre circonferenze*
 

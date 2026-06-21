@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q04
 parent: src_gas_2009_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 4
 
 *Successione con media variazioni, valore termine 1000*
 

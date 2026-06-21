@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q21
 parent: src_kangourou_2003_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 21
 
 *Barre nere sottili nel codice a barre*
 

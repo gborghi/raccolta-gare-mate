@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q09
 parent: src_kangourou_2023_student_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 9
 
 *Rapporto circonferenza/raggio nella distanza taxicab*
 

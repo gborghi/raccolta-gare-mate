@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q28
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 28
 
 *Distribute 8 distinct chocolates among 3 children, each gets at least one with all different counts, find digit sum of N*
 

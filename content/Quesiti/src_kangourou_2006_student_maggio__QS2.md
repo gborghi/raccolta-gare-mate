@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student finale (maggio) — Quesito S2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_maggio__QS2
 parent: src_kangourou_2006_student_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Student finale (maggio) — Quesito S2
 
 *p+q prodotto di almeno tre interi >1 (primi consecutivi)*
 

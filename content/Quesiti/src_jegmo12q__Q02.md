@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2023 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jegmo12q__Q02
 parent: src_jegmo12q
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2023 — Quesito 2
 
 *Midpoint of PQ lies on circumcircle of ABC; orthocenter collinearity*
 

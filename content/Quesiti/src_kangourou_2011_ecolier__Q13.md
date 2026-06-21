@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q13
 parent: src_kangourou_2011_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 13
 
 *Qual e il numero di Franco con i dadi*
 

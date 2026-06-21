@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q11
 parent: src_prmo_2012
@@ -34,8 +35,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 11
 
 *Largest integer dividing P(n) for all positive even n*
 

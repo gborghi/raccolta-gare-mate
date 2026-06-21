@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q03
 parent: src_kangourou_2013_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 3
 
 *Distanza da percorrere per raggiungere l'amica*
 

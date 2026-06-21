@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q18
 parent: src_kangourou_2022_junior_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale — Quesito 18
 
 *Coppie (x,y) con x²+y e x+y² entrambi quadrati*
 

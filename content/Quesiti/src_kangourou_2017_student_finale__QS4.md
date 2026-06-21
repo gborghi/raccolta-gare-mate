@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Finale nazionale Cervia — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_finale__QS4
 parent: src_kangourou_2017_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Finale nazionale Cervia — Quesito S4
 
 *Cubi inscrivibili in un dodecaedro regolare*
 

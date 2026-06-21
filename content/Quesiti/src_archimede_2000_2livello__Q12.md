@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q12
 parent: src_archimede_2000_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 12
 
 *Quanti televisori distinguibili annidati nello schermo*
 

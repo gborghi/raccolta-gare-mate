@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_triennio__Q11
 parent: src_archimede_2008_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Triennio — Quesito 11
 
 *m+n da radice cubica di 45+29radice2*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q03
 parent: src_archimede_2015_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 3
 
 *Eta media dei tre amici di Enea*
 

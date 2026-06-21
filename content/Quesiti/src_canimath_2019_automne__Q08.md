@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q08
 parent: src_canimath_2019_automne
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 8
 
 *Integer with exactly 300 ones, no zeros in decimal, and a perfect square*
 

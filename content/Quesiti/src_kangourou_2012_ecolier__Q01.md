@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q01
 parent: src_kangourou_2012_ecolier
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 1
 
 *Quale figura ha l'area bianca maggiore della grigia*
 

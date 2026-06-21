@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q09
 parent: src_squadre_2018_femminile
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 9
 
 *Dado che muta, numero con massima probabilita al terzo lancio*
 

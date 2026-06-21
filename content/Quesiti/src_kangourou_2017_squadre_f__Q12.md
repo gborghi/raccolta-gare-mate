@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q12
 parent: src_kangourou_2017_squadre_f
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Finale — Quesito 12
 
 *Quadrato somma aree trapezi S1 e S4 negli esagoni*
 

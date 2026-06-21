@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2022 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_printemps__Q13
 parent: src_canimath_2022_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2022 — Quesito 13
 
 *Three-colored plane with all colors present; prove a right triangle with three different-colored vertices (lycee)*
 

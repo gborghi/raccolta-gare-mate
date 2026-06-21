@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q01
 parent: src_kangourou_2020_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - gara marzo (biennio) — Quesito 1
 
 *mamma della figlia della mamma della mamma*
 

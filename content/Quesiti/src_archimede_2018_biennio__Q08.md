@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q08
 parent: src_archimede_2018_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 8
 
 *Probabilita sedia vuota tra due ragazze*
 

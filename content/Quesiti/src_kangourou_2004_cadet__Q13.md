@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet__Q13
 parent: src_kangourou_2004_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo) — Quesito 13
 
 *Quanti ragazzi (coni a due gusti distinti)*
 

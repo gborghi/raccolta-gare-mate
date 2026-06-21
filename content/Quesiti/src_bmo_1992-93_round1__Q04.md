@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1992-93 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1992-93_round1__Q04
 parent: src_bmo_1992-93_round1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1992-93 — Round 1 — Quesito 4
 
 *Two circles touch internally at M; tangent to inner circle meets outer at Q,R; prove equal angles at M.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q17
 parent: src_kangourou_2014_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 17
 
 *Quante biglie servono per gruppi di 3 e 5 senza resto*
 

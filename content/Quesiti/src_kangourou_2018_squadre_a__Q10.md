@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q10
 parent: src_kangourou_2018_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2018 Semifinale A — Quesito 10
 
 *Differenza tra max e min palindromi di 5 cifre div 45*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior finale nazionale — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior_finale__QJ1
 parent: src_kangourou_2004_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior finale nazionale — Quesito J1
 
 *Esistono basi in cui 15x15=321*
 

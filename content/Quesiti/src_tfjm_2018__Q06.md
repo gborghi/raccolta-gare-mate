@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_tfjm_2018__Q06
 parent: src_tfjm_2018
@@ -37,8 +38,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 6
 
 *A two-player simultaneous card game with cards 1..2n; under several rules about who reveals first and how the lead passes, determine the number of points each player can guarantee, and study a card-redistribution variant.*
 

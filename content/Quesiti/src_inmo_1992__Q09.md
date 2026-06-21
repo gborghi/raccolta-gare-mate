@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_inmo_1992__Q09
 parent: src_inmo_1992
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992 — Quesito 9
 
 *Regular n-gon A_1A_2...A_n; identity for reciprocals of products of sides*
 

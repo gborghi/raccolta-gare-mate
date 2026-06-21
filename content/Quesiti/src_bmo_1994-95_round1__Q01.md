@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1994-95 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1994-95_round1__Q01
 parent: src_bmo_1994-95_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1994-95 — Round 1 — Quesito 1
 
 *Find positive integers whose square ends in four 4s*
 

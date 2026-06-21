@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_ecolier__Q23
 parent: src_kangourou_2013_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier — Quesito 23
 
 *Minimo addendi di 0 e 1 con somma 2013*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2015 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_printemps__Q07
 parent: src_canimath_2015_printemps
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2015 — Quesito 7
 
 *n points on circle diameter n/pi; show no arc strictly longer than its enclosed point count*
 

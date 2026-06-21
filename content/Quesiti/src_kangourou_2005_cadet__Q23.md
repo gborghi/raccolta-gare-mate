@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q23
 parent: src_kangourou_2005_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 23
 
 *Vino rimanente dopo tre sostituzioni con acqua*
 

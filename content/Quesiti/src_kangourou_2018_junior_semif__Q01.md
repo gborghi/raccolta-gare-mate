@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q01
 parent: src_kangourou_2018_junior_semif
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 1
 
 *Quante coppie (a,b) reali non nulli con a+b=ab=a/b*
 

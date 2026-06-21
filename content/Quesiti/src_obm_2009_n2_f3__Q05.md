@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f3__Q05
 parent: src_obm_2009_n2_f3
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 5
 
 *Circumscribed circles of AOB and COD meet BC and AD at M,N,P,Q; prove MNPQ cyclic with center O*
 

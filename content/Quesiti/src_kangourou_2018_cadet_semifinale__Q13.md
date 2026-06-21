@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q13
 parent: src_kangourou_2018_cadet_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 13
 
 *Somma dei prodotti delle cifre da 1 a 99*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011__Q05
 parent: src_cesenatico_2011
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 5
 
 *Soluzioni intere di n^3 = p^2 - p - 1 con p primo*
 

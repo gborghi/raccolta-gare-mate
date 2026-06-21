@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2014 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_printemps__Q05
 parent: src_canimath_2014_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2014 — Quesito 5
 
 *Football tournament: find number of teams given win/draw/loss scoring rules*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2004 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2004__Q04
 parent: src_inmo_2004
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2004 — Quesito 4
 
 *Triangle with 2R ≤ r_a; prove inequalities on sides and exradii*
 

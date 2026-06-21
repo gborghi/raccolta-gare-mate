@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (finale Cervia) — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_finale__QE4
 parent: src_kangourou_2016_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (finale Cervia) — Quesito E4
 
 *posso restare senza denaro*
 

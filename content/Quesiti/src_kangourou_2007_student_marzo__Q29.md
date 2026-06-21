@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q29
 parent: src_kangourou_2007_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 29
 
 *Centesimo elemento (somme di potenze di 3)*
 

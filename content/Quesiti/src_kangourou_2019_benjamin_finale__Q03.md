@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Benjamin — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_finale__Q03
 parent: src_kangourou_2019_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Benjamin — Quesito 3
 
 *Misura dell angolo ITE nel pentagono e triangolo equilatero*
 

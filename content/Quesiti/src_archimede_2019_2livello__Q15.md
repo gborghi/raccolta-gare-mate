@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_2livello__Q15
 parent: src_archimede_2019_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2019 - 2° livello — Quesito 15
 
 *Lampadine in fila, mosse con rapporto primo*
 

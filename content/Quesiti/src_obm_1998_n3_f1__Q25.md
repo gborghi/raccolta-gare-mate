@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q25
 parent: src_obm_1998_n3_f1
@@ -39,8 +40,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 25
 
 *Given a cube, consider the 27 points formed by vertices, edge midpoints, face centers and the cube center; count the lines passing through three of these points.*
 

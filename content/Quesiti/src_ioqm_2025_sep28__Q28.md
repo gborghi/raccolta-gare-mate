@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q28
 parent: src_ioqm_2025_sep28
@@ -34,8 +35,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 28
 
 *10-member delegation photo line; shortest leftmost, tallest rightmost, exactly one valley; find a+b*
 

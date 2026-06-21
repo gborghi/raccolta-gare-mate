@@ -1,4 +1,5 @@
 ---
+title: IMO 1985 (26th International Mathematical Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1985__Q03
 parent: src_imo_1985
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1985 (26th International Mathematical Olympiad) — Quesito 3
 
 *Odd-coefficient count inequality for sums of binomial polynomials*
 

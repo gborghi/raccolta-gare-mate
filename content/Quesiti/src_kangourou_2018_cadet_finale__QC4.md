@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_finale__QC4
 parent: src_kangourou_2018_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C4
 
 *Spartizione equa degli 8 euro col problema dei punti*
 

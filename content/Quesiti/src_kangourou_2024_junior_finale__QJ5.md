@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Junior 2024 — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_finale__QJ5
 parent: src_kangourou_2024_junior_finale
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou Finale Junior 2024 — Quesito J5
 
 *Minimo numero di rette per coprire i vertici dei quadretti*
 

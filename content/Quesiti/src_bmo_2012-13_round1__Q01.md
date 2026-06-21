@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2012-13 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2012-13_round1__Q01
 parent: src_bmo_2012-13_round1
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2012-13 — Round 1 — Quesito 1
 
 *Max counters on chessboard avoiding five in any line*
 

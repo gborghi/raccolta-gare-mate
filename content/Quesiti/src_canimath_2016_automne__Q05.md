@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2016 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_automne__Q05
 parent: src_canimath_2016_automne
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2016 — Quesito 5
 
 *Find all balanced four-digit palindromes that are sums of two four-digit palindromes*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f2__Q04
 parent: src_obm_2009_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 4
 
 *Cover an 88 cm x 95 cm table with 10 cm square sheets; find area covered by four overlapping sheets*
 

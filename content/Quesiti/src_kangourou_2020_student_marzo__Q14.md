@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q14
 parent: src_kangourou_2020_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 14
 
 *Quale non puo valere (a-b)^2+(b-c)^2+(c-a)^2*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n1_fx__Q05
 parent: src_obm_2025_n1_fx
@@ -39,8 +40,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 5
 
 *The 'arrumadinho' game on a 2xn board: each first-row number must reappear in an adjacent second-row column, and no left prefix of the second row equals {1,...,k} except k=n. Give an example for n=8 and count the 2x2025 cards.*
 

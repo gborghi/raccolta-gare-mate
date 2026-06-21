@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q22
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 22
 
 *Numero passi di discesa scale dimezzando e per divisore*
 

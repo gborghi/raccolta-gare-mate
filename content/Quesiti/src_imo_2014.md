@@ -1,4 +1,5 @@
 ---
+title: IMO 2014 (shortlist/papers)
 tipo: gara
 src_id: src_imo_2014
 competition: IMO 2014 (shortlist/papers)
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# IMO 2014 (shortlist/papers)
 
 Sorgente: `Archimede/individuale/imho/all/2014_eng.pdf` · apri PDF
 

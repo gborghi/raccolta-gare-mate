@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f1__Q02
 parent: src_obm_2015_n1_f1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 2
 
 *Time to cut a log into 9 pieces given cost of 5 cuts*
 

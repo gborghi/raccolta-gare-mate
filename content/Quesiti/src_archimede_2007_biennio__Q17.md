@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q17
 parent: src_archimede_2007_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 17
 
 *Resto della divisione di un polinomio in 2007 per 669*
 

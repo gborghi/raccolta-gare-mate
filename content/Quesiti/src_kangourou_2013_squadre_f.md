@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Finale
 tipo: gara
 src_id: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2013/SQ-F-13.pdf` · apri PDF
 

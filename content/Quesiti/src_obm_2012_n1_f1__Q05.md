@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f1__Q05
 parent: src_obm_2012_n1_f1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 5
 
 *Distance remaining for Paulinho when sister arrives 20 min early*
 

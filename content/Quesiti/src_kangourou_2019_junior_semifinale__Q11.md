@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q11
 parent: src_kangourou_2019_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 11
 
 *Massimo k appendendo una cifra a destra a N per ottenere kN*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_pubblico__Q07
 parent: src_archimede_2002_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 7
 
 *probabilita di una giacca blu*
 

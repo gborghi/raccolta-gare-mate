@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_tfjm_2023__Q08
 parent: src_tfjm_2023
@@ -35,8 +36,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 8
 
 *Card-deck shuffles as permutations; finding the shuffle sigma in minimum games, and realizable objectives (target partitions) per shuffle*
 

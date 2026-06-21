@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q16
 parent: src_archimede_2006_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 16
 
 *Studenti in entrambe le gare di chimica e fisica*
 

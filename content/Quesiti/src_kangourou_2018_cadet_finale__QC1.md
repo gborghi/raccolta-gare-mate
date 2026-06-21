@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_finale__QC1
 parent: src_kangourou_2018_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C1
 
 *Giri di B perche le tre tacche tornino allineate*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q11
 parent: src_archimede_2011_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 11
 
 *Ritorni del canguro al vertice di partenza in 40 salti*
 

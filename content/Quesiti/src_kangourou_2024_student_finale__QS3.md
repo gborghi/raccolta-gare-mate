@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student finale — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_finale__QS3
 parent: src_kangourou_2024_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2024 Student finale — Quesito S3
 
 *Minimo N(P) intersezioni diagonali in un pentagono*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_semifinale1__Q11
 parent: src_archimede_2025_squadre_semifinale1
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 11
 
 *Coppie (n,d) con condizione su divisori primi*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q12
 parent: src_prmo_2014
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 12
 
 *Sum of inradii of triangles ABD and BCD in quadrilateral ABCD*
 

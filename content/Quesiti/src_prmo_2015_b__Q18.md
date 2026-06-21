@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q18
 parent: src_prmo_2015_b
@@ -32,8 +33,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 18
 
 *Subset of {1,...,100} with no two elements summing to 125; max size*
 

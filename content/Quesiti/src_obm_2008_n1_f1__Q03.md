@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f1__Q03
 parent: src_obm_2008_n1_f1
@@ -35,8 +36,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 3
 
 *Color preference survey with pie charts; determine overall ranking*
 

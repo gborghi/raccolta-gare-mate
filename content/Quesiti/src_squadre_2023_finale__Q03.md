@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q03
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 3
 
 *Somma 10 numeri iniziali Collatz-like che arrivano a 10*
 

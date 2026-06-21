@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_ecolier__Q15
 parent: src_kangourou_2002_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2002 - Ecolier (21 marzo) — Quesito 15
 
 *Immagine impossibile della bandiera*
 

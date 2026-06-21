@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q05
 parent: src_jmo35yqa_yosen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 5
 
 *Bicentric quadrilateral, incircle radius 6; triangles PBC,QCD inradii 5,3; find BC/CD*
 

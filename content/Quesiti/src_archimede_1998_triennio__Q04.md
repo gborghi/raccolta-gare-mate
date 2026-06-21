@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_triennio__Q04
 parent: src_archimede_1998_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Triennio — Quesito 4
 
 *Confronto fra due numeri con esponenti irrazionali*
 

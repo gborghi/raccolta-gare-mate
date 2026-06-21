@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_triennio__Q03
 parent: src_archimede_2019_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Triennio (T1) — Quesito 3
 
 *Numero mattonelle compatibile con salti di 3,4,5,6*
 

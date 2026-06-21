@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q25
 parent: src_kangourou_2014_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 25
 
 *Minuti tra arrivi di messaggeri successivi*
 

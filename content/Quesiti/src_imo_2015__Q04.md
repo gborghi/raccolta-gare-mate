@@ -1,4 +1,5 @@
 ---
+title: IMO 2015 papers — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_2015__Q04
 parent: src_imo_2015
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2015 papers — Quesito 4
 
 *X giace sulla retta AO (cerchi tangenti)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q03
 parent: src_kangourou_2024_ecolier_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 3
 
 *Grammi giallo per 220 grammi di verde*
 

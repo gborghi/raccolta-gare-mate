@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre semifinale turno A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q04
 parent: src_kangourou_2010_squadre_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre semifinale turno A — Quesito 4
 
 *Area ricoperta da esattamente due adesivi quadrati*
 

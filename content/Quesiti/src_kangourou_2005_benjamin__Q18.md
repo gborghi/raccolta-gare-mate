@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q18
 parent: src_kangourou_2005_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 18
 
 *Numero di divisori di 100*
 

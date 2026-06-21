@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n2_f2__Q06
 parent: src_obm_2016_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 6
 
 *Min interior points of 4x4 square hit by every inscribed unit disk*
 

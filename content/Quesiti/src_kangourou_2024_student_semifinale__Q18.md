@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q18
 parent: src_kangourou_2024_student_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 18
 
 *1/p prob biglie rosse e verdi sempre diverse*
 

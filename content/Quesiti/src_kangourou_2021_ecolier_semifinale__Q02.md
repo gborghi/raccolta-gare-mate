@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - semifinale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q02
 parent: src_kangourou_2021_ecolier_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - semifinale — Quesito 2
 
 *Piastrelle gialle nel pavimento con diagonali rosse*
 

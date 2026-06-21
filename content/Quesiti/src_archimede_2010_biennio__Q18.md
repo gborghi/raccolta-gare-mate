@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q18
 parent: src_archimede_2010_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 18
 
 *Colpevole tra cinque sospettati con dichiarazioni*
 

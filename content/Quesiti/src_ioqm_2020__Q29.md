@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q29
 parent: src_ioqm_2020
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 29
 
 *Positive integers a,b,c with ab/(a-b)=c; find largest a+b+c not exceeding 99*
 

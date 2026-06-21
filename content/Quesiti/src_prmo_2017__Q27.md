@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q27
 parent: src_prmo_2017
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 27
 
 *Find radii of two circles given tangent and secant conditions*
 

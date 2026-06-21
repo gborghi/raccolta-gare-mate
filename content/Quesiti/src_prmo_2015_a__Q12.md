@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q12
 parent: src_prmo_2015_a
@@ -32,8 +33,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 12
 
 *Find $a^2 - b^2 + c^2$ from two linear equations*
 

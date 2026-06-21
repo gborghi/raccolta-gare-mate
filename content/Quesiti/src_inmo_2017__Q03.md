@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2017 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2017__Q03
 parent: src_inmo_2017
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2017 — Quesito 3
 
 *Find triples (x,a,b) satisfying fractional-part equation*
 

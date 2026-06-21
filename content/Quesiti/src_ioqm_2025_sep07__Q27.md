@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q27
 parent: src_ioqm_2025_sep07
@@ -36,8 +37,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 27
 
 *Count ordered triples (a,b,c) with 1≤a,b,c≤50 satisfying (lcm(a,c)+lcm(b,c))/(a+b)=26c/27*
 

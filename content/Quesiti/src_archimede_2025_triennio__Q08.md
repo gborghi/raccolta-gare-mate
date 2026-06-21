@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q08
 parent: src_archimede_2025_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 8
 
 *Sequenze complete di 50 (+1) e 50 (-1) le cui somme parziali toccano 0..49*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n3_fx__Q03
 parent: src_obm_2021_n3_fx
@@ -38,8 +39,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 3
 
 *Find all positive k and irrational a>1 such that floor(a^n) is perfect square minus k for all large n*
 

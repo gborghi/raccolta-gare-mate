@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q12
 parent: src_kangourou_2014_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 12
 
 *Somma di due punteggi non ottenibile al bersaglio*
 

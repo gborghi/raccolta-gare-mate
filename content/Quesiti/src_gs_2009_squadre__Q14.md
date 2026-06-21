@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q14
 parent: src_gs_2009_squadre
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 14
 
 *Sveglia su Eadrax, orari con tripli e multiplo di 9*
 

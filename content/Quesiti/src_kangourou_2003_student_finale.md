@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student finale nazionale
 tipo: gara
 src_id: src_kangourou_2003_student_finale
 competition: Kangourou 2003 Student finale nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2003
   - gara/individuale
 ---
-
-# Kangourou 2003 Student finale nazionale
 
 Sorgente: `Kangaroo/kangourou_individuali/2003/SMaggio-03.pdf` · apri PDF
 

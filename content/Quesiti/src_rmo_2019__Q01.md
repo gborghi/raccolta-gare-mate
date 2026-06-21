@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2019 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2019__Q01
 parent: src_rmo_2019
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2019 — Quesito 1
 
 *Prove x is rational given x^5 and 20x+19/x are rational.*
 

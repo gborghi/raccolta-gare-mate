@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2007 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo5q__Q05
 parent: src_jjmo5q
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2007 — Quesito 5
 
 *5×5 grid numbered 1–16; find minimum m for a column-sum condition*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q17
 parent: src_kangourou_2022_junior_gara
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 17
 
 *Secondi di ritardo del podista rispetto al ciclista*
 

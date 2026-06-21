@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q24
 parent: src_kangourou_2015_marzo_junior
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 24
 
 *XA=4:1: BY:YA*
 

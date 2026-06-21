@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1985-86 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1985-86_round2__Q03
 parent: src_bmo_1985-86_round2
@@ -32,8 +33,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1985-86 — Round 2 — Quesito 3
 
 *Family of 2-element sets with intersection condition; existence proof*
 

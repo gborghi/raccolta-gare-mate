@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q16
 parent: src_ioqm_2025_sep07
@@ -30,8 +31,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 16
 
 *Two degree-2 polynomials with given ratio conditions; find f(5)*
 

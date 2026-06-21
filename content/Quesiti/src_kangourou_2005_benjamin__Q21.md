@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q21
 parent: src_kangourou_2005_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 21
 
 *Massima somma cifre di un numero minore di 208359*
 

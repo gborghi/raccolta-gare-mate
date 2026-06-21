@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q10
 parent: src_cesenatico_2004_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 10
 
 *Valore di x2-y2+z2 dati due vincoli lineari*
 

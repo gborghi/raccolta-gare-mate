@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q05
 parent: src_kangourou_2007_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 5
 
 *Probabilita triangolo rettangolo (41-gono)*
 

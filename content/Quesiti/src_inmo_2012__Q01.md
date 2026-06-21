@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2012 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2012__Q01
 parent: src_inmo_2012
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2012 — Quesito 1
 
 *Max area of cyclic quadrilateral with given side and central angle*
 

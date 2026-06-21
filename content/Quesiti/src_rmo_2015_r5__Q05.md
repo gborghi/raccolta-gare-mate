@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 5 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r5__Q05
 parent: src_rmo_2015_r5
@@ -32,8 +33,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 5 — Quesito 5
 
 *Right-angled triangle, incentres of sub-triangles from altitude collinear*
 

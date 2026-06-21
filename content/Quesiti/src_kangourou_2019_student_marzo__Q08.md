@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q08
 parent: src_kangourou_2019_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 8
 
 *Quale immagine del dado non posso vedere (probabilita date)*
 

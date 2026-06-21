@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_femminile__Q10
 parent: src_squadre_2023_femminile
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale — Quesito 10
 
 *Codici quasi palindromi ABxyzCD diviso 10*
 

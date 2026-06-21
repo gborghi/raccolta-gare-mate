@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q12
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 12
 
 *Punti raggiungibili dalla pulce dopo 30 salti*
 

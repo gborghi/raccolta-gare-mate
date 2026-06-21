@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n2_f1__Q13
 parent: src_obm_2000_n2_f1
@@ -35,8 +36,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 13
 
 *Which expression is always largest for positive reals x and y*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo26mq_honsen__Q03
 parent: src_jmo26mq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 3
 
 *JMO Kingdom coin micro-taxation: find minimum total coins S*
 

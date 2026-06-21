@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01)
 tipo: gara
 src_id: src_archimede_2020_riserva_biennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01)
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01)
 
 Sorgente: `Archimede/individuale/1livello/2020/Archimede2020/archimede_riserva_biennio.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2006-07 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2006-07_round1__Q03
 parent: src_bmo_2006-07_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2006-07 — Round 1 — Quesito 3
 
 *Find the unique 9-digit pandigital number with n-divisibility property*
 

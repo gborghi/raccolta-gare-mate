@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo25mq_honsen__Q02
 parent: src_jmo25mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 2
 
 *Checkers on triangulated hexagon: find minimum moves to reach any vertex*
 

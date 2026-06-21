@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q03
 parent: src_kangourou_2019_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Ecolier — Quesito 3
 
 *Quali mezzi si vedono a libro chiuso*
 

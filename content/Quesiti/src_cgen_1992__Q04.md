@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1992 — Matematica — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cgen_1992__Q04
 parent: src_cgen_1992
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1992 — Matematica — Quesito 4
 
 *Convergence and eventual monotonicity of a square-root recurrence*
 

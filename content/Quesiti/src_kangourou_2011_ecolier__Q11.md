@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q11
 parent: src_kangourou_2011_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 11
 
 *Quale somma non puo avere con 13 monete da 5 o 10*
 

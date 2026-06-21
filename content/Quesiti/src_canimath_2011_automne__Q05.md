@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2011 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_automne__Q05
 parent: src_canimath_2011_automne
@@ -32,8 +33,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2011 — Quesito 5
 
 *Right triangle, midpoint, perpendiculars; triangles AEM and MCA similar iff angle ABC=60*
 

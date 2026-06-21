@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q12
 parent: src_archimede_2016_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2016 - 2 livello — Quesito 12
 
 *Probabilita che la partita non finisca prima del 21esimo gol*
 

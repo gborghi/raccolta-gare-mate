@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo6q__Q02
 parent: src_jjmo6q
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008 — Quesito 2
 
 *Max times 1004×1005×…×2008 is divisible by 2*
 

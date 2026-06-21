@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_ecolier__Q01
 parent: src_kangourou_2013_ecolier
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier — Quesito 1
 
 *Quanti mattoni in piu nella piramide di destra*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q12
 parent: src_canimath_2025_automne
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 12
 
 *Show Marie never writes 5 in the iterated product-plus-one, largest-prime-divisor process*
 

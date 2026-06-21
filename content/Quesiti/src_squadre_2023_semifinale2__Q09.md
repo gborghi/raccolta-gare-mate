@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale2__Q09
 parent: src_squadre_2023_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2 — Quesito 9
 
 *Probabilita MCD=1 di tre estrazioni da 1-9*
 

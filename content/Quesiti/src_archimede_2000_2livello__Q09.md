@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q09
 parent: src_archimede_2000_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 9
 
 *Quante terne reali con a²+b²+c²=1 e a³+b³+c³=1*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2018 Finale
 tipo: gara
 src_id: src_kangourou_2018_squadre_finale
 competition: Kangourou Coppa squadre 2018 Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2018 Finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2018/SQ-F-18.pdf` · apri PDF
 

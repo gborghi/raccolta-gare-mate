@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2000-01 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2000-01_round1__Q05
 parent: src_bmo_2000-01_round1
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2000-01 — Round 1 — Quesito 5
 
 *Triangle is right-angled iff a²+b²+c²=8R²*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f1__Q25
 parent: src_obm_2003_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 25
 
 *Right triangle ABC; BD=8, EC=9; find angle DAE*
 

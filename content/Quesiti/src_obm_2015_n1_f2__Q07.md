@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f2__Q07
 parent: src_obm_2015_n1_f2
@@ -38,8 +39,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 7
 
 *10-digit numbers where each new digit equals sum of all previous (or last digit of that sum); find smallest, largest, possible last digits*
 

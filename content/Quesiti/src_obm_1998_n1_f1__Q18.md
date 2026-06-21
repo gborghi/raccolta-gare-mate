@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n1_f1__Q18
 parent: src_obm_1998_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 18
 
 *Deduce maximum number of cars from total legs and wheels on planet Z*
 

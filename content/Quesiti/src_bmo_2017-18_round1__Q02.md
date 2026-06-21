@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2017-18_round1__Q02
 parent: src_bmo_2017-18_round1
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2017-18 — Round 1 — Quesito 2
 
 *Max and min number of days at least five of six friends swim*
 

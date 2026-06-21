@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q17
 parent: src_kangourou_2006_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 17
 
 *Quale numero aumenta del 500% al quadrato*
 

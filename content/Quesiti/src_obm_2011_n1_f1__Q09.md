@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f1__Q09
 parent: src_obm_2011_n1_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 9
 
 *Number of girls in a class given height-ranking pattern*
 

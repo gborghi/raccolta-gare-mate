@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2 —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2005_nu_f2__Q03
 parent: src_obm_2005_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2 — Quesito 3
 
 *Find permutation bounding all partial vector sums by sqrt(5)*
 

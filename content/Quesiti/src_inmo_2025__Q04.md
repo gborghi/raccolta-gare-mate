@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2025 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2025__Q04
 parent: src_inmo_2025
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2025 — Quesito 4
 
 *Find the largest real t_n such that a symmetric max inequality holds*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q01
 parent: src_jmo35yqa_yosen
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 1
 
 *Fill 7 honeycomb hexagons with 1-7 (each once), adjacent sums at most 10*
 

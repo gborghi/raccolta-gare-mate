@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2001-02 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2001-02_round1__Q03
 parent: src_bmo_2001-02_round1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2001-02 — Round 1 — Quesito 3
 
 *Find all positive integers n satisfying a floor-sum divisibility condition*
 

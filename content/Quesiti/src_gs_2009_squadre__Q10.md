@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q10
 parent: src_gs_2009_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 10
 
 *Numero di trapezi in poligono di 33 vertici*
 

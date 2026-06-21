@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q01
 parent: src_prmo_2017
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 1
 
 *Count positive integers <1000 with digit sum divisible by 7 and divisible by 3*
 

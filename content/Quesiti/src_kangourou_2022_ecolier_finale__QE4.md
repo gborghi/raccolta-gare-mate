@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__QE4
 parent: src_kangourou_2022_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito E4
 
 *Quali cassette contengono banane dai pesi*
 

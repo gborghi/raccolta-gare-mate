@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n2_fx__Q02
 parent: src_obm_2025_n2_fx
@@ -37,8 +38,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 2
 
 *Winning strategy in 5x5 board game for which positive integers m*
 

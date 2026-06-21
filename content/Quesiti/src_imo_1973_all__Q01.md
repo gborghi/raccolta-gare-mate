@@ -1,4 +1,5 @@
 ---
+title: IMO 1973 (Fifteenth International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1973_all__Q01
 parent: src_imo_1973_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1973 (Fifteenth International Olympiad) — Quesito 1
 
 *sum length >=1*
 

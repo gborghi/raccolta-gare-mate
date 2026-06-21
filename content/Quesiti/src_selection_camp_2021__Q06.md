@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2021__Q06
 parent: src_selection_camp_2021
@@ -30,8 +31,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2021 — Selection Camp — Quesito 6
 
 *Maximal good (row,column) pairs of a prime grid have equal row counts*
 

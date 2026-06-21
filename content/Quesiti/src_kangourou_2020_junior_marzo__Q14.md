@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q14
 parent: src_kangourou_2020_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - gara marzo (biennio) — Quesito 14
 
 *Distanza del vertice comune di 6 triangoli equiarea*
 

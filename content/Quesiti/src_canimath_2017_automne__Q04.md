@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2017 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_automne__Q04
 parent: src_canimath_2017_automne
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2017 — Quesito 4
 
 *n^2 with last two digits removed is again a perfect square*
 

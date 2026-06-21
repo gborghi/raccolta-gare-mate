@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q06
 parent: src_kangourou_2017_cadet_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (semifinale individuale) — Quesito 6
 
 *Area del cortile ottagonale di triangoli equi/isosceli*
 

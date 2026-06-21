@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1998 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_1998__Q04
 parent: src_inmo_1998
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1998 — Quesito 4
 
 *Cyclic quadrilateral with unit circumradius and equal diagonals is a square*
 

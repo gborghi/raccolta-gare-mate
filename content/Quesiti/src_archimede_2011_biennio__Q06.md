@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_biennio__Q06
 parent: src_archimede_2011_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Biennio — Quesito 6
 
 *Diagonale minore parallelogramma con lati e angolo dati*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2008-09 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2008-09_round1__Q01
 parent: src_bmo_2008-09_round1
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2008-09 — Round 1 — Quesito 1
 
 *Count zig-zag paths of white squares on 8x8 chessboard*
 

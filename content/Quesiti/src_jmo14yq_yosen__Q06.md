@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo14yq_yosen__Q06
 parent: src_jmo14yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 6
 
 *Find f(x) satisfying f(x)+f(1/(1-x))=1/x for all x not 0 or 1.*
 

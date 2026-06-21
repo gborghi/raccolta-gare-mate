@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_b__Q16
 parent: src_cesenatico_2012_semifinale_b
@@ -27,8 +28,6 @@ tags:
   - gara/squadre
 ---
 
-# Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 16
-
 *Somma esponenti di 2 in n! per n=1..127*
 
 > Le dodici scimmie
@@ -39,11 +38,14 @@ tags:
 > vaccino funziona anche se l’intero virus cambia posizione rigidamente, ruotando attorno al centro dell’anello o ribaltandosi
 > completamente. Quanti diversi vaccini dovranno preparare i pochi superstiti per debellare il virus?
 > 
-> 	  
+> 	
+  
 > 
-> 	  
+> 	
+  
 > 
-> 	  
+> 	
+  
 > 
 > Cesenatico 2012
 > XIII GARA NAZIONALE A

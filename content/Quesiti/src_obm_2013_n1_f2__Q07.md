@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f2__Q07
 parent: src_obm_2013_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 7
 
 *Table with X=product and Y=quotient; find row 10 and sum in row 2013*
 

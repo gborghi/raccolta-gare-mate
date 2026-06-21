@@ -1,4 +1,5 @@
 ---
+title: IMO 2018 papers — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2018__Q06
 parent: src_imo_2018
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2018 papers — Quesito 6
 
 *Angolo BXA+DXC=180 in quadrilatero con AB·CD=BC·DA*
 

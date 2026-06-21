@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n1_f3__Q03
 parent: src_obm_2008_n1_f3
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 3
 
 *Count ways to tile a 3×n board with 3×1 pieces; specific values and n=15*
 

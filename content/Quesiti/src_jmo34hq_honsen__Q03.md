@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo34hq_honsen__Q03
 parent: src_jmo34hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 3
 
 *Minimum n so that some good point lies on n Z-shaped broken lines in a grid*
 

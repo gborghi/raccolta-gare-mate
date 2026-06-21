@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q04
 parent: src_kangourou_2022_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito 4
 
 *Numeri 3 cifre con somma prime due = terza*
 

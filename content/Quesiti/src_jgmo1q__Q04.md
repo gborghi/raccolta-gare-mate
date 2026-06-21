@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2026 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jgmo1q__Q04
 parent: src_jgmo1q
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2026 — Quesito 4
 
 *Maximum n guaranteeing 0/1 satisfying assignment for all blackboard equality/inequality writings on 100 variables*
 

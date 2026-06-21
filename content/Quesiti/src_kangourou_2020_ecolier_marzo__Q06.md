@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q06
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 6
 
 *Quale figura si compone con i sei adesivi*
 

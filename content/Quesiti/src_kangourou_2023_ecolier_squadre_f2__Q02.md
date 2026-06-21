@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q02
 parent: src_kangourou_2023_ecolier_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 2
 
 *Ora di rientro a casa con orologio fermo*
 

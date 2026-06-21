@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet finale (maggio) — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_maggio__QC4
 parent: src_kangourou_2007_cadet_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet finale (maggio) — Quesito C4
 
 *Coprire scacchiera 8x8 con 21 piastrelle 1x3*
 

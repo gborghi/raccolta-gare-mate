@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q10
 parent: src_prmo_2015_b
@@ -34,8 +35,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 10
 
 *2×3 and 3×4 rectangles in a square without overlap; minimum square area*
 

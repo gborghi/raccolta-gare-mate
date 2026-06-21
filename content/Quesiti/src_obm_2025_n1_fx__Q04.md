@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n1_fx__Q04
 parent: src_obm_2025_n1_fx
@@ -40,8 +41,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 4
 
 *Supersum S(N): sum of all distinct numbers formed by the orderings of the digits of N. Find a multiple of 9 with S(N) a multiple of 9, prove the implication, and find the smallest N with S(N) a multiple of 2025.*
 

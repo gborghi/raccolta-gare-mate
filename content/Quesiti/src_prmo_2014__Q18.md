@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q18
 parent: src_prmo_2014
@@ -37,8 +38,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 18
 
 *Least possible value of f(999) for one-to-one function on naturals with f(mn)=f(m)f(n)*
 

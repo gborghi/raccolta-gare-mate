@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q17
 parent: src_kangourou_2006_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 17
 
 *Cifre del piu grande numero con coppie quadrati*
 

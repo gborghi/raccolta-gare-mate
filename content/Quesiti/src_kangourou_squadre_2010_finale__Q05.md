@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q05
 parent: src_kangourou_squadre_2010_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 5
 
 *Somma numeri sulle facce del cubo dato 70 sui vertici*
 

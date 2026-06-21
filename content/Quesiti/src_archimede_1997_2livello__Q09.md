@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q09
 parent: src_archimede_1997_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 9
 
 *Successioni di colori di calzini senza due uguali vicini*
 

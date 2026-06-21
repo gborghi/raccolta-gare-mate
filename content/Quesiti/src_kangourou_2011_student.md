@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo)
 tipo: gara
 src_id: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2011/SMarzo-11.pdf` · apri PDF
 

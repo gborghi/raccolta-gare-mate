@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f1__Q21
 parent: src_obm_2013_n3_f1
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 21
 
 *Trapezoid ABCD, AB||CD, angle BAD=82, ABC=74, P on CD with AD+DP=PC+CB=AB; find angle APB*
 

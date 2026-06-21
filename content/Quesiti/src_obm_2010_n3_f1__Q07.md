@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f1__Q07
 parent: src_obm_2010_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 7
 
 *Count three-digit numbers, distinct digits from {0,1,2,3}, that are multiples of 6.*
 

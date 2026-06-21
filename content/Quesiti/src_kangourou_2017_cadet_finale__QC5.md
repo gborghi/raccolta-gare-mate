@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (finale Cervia) — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC5
 parent: src_kangourou_2017_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (finale Cervia) — Quesito C5
 
 *Sequenze consecutive con somma cifre divisibile per 7*
 

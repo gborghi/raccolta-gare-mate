@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f2__Q07
 parent: src_obm_2007_n3_f2
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 7
 
 *Find all six-digit numbers of the form AABBB that are one less than a perfect square*
 

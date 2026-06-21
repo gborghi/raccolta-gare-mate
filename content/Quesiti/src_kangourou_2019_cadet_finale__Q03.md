@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Cadet — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_finale__Q03
 parent: src_kangourou_2019_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Cadet — Quesito 3
 
 *Perche Elvira vuole iniziare nel gioco dei 66 gettoni*
 

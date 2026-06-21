@@ -1,11 +1,10 @@
 ---
+title: Geometria piana
 tipo: topic
 concept_id: topic_geometria_piana
 tags:
   - graph/topic
 ---
-
-# Geometria piana
 
 *topic* — **2179** quesiti (italiani).
 

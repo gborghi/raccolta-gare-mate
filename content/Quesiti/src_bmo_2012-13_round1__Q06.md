@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2012-13 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2012-13_round1__Q06
 parent: src_bmo_2012-13_round1
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2012-13 — Round 1 — Quesito 6
 
 *Two tangent circles in triangle; D is midpoint of AE*
 

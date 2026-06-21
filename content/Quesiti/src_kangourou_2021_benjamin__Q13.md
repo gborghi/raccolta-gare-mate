@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q13
 parent: src_kangourou_2021_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 13
 
 *Tessera che non puo stare al centro del labirinto*
 

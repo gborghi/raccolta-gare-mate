@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q08
 parent: src_garaprime_2025
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 8
 
 *Angolo BAC in catena di triangoli isosceli*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q10
 parent: src_kangourou_2011_junior
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 10
 
 *Punti sulla faccia X dei dadi impilati*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 2 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale2__Q13
 parent: src_squadre_2023_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 2 — Quesito 13
 
 *Valori n vincenti gioco di Nim su 2022 fiammiferi*
 

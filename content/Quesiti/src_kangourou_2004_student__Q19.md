@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q19
 parent: src_kangourou_2004_student
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 19
 
 *Segno prodotto in successione geometrica a3<a2<a4*
 

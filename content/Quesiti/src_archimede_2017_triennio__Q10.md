@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_triennio__Q10
 parent: src_archimede_2017_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Triennio — Quesito 10
 
 *dopo quanti minuti*
 

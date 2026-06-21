@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (tradizionale)
 tipo: gara
 src_id: src_archimede_2021_biennio_tradizionale
 competition: Giochi di Archimede 2021 - Gara Biennio (tradizionale)
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (tradizionale)
 
 Sorgente: `Archimede/individuale/1livello/2021/giochi_archimede_2021/archimede_biennio_tradizionale.pdf` · apri PDF
 

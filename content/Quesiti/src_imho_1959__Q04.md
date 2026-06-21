@@ -1,4 +1,5 @@
 ---
+title: IMO 1959 (I International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imho_1959__Q04
 parent: src_imho_1959
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1959 (I International Olympiad) — Quesito 4
 
 *Costruire triangolo rettangolo con mediana media geometrica*
 

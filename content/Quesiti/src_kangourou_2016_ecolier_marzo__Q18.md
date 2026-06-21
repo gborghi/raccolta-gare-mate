@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q18
 parent: src_kangourou_2016_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (gara marzo) — Quesito 18
 
 *Somma possibile eta quattro fratelli, tre gemelli*
 

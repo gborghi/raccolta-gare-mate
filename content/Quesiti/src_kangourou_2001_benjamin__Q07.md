@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_benjamin__Q07
 parent: src_kangourou_2001_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2001 - Benjamin (15 marzo) — Quesito 7
 
 *Area grigia maggiore tra le figure*
 

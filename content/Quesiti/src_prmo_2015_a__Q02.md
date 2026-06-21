@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q02
 parent: src_prmo_2015_a
@@ -33,8 +34,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 2
 
 *Find $a^2+b^2$ given $a+b=a/b+b/a$ for positive integers*
 

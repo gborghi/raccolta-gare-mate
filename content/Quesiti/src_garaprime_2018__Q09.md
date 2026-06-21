@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q09
 parent: src_garaprime_2018
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 9
 
 *Area della parte piu piccola tagliando rettangolo*
 

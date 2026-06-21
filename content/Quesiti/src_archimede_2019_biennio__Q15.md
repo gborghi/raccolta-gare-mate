@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_biennio__Q15
 parent: src_archimede_2019_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1) — Quesito 15
 
 *Numero di cavalieri attorno a tavolo di 8 con frasi alterne*
 

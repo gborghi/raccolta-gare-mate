@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 finale nazionale Cadet — Quesito C6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_finale_cadet__QC6
 parent: src_kangourou_2016_finale_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 finale nazionale Cadet — Quesito C6
 
 *giorni di ponte in piu*
 

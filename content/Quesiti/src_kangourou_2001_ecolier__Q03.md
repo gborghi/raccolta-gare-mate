@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q03
 parent: src_kangourou_2001_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 3
 
 *Peso del cuore di cioccolato*
 

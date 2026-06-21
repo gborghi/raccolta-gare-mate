@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2014 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_printemps__Q03
 parent: src_canimath_2014_printemps
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2014 — Quesito 3
 
 *Two tangent circles, common tangent, four sub-questions on geometry*
 

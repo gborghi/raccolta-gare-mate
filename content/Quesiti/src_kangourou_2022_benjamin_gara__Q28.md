@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q28
 parent: src_kangourou_2022_benjamin_gara
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 28
 
 *Dove sorge la scuola minimizzando le distanze*
 

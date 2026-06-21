@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_finale__Q12
 parent: src_cesenatico_2011_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 12
 
 *Probabilita pesce completamente giallo*
 

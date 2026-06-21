@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q16
 parent: src_kangourou_2011_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 16
 
 *Quanti erano gli invitati alla festa con due torte*
 

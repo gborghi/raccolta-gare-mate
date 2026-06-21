@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo22hq_honsen__Q03
 parent: src_jjmo22hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 3
 
 *Find all positive integers n,x,y,z and prime p satisfying a product equation*
 

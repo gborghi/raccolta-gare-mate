@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f2__Q09
 parent: src_obm_2009_n1_f2
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 9
 
 *Chess: 7 rounds, 4 games/round, 8 players; after round 3, can there be a tied first-place group with the rest tied second, and can all scores differ*
 

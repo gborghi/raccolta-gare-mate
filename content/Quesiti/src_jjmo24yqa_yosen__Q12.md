@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo24yqa_yosen__Q12
 parent: src_jjmo24yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 12
 
 *Square ABCD in circle; parallel lines through B and C intersect; find EQ*
 

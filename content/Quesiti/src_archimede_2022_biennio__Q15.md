@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_biennio__Q15
 parent: src_archimede_2022_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Biennio — Quesito 15
 
 *Probabilita di nessuna tombola dopo 89 estrazioni*
 

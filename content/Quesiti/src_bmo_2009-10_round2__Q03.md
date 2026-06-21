@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2009-10 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2009-10_round2__Q03
 parent: src_bmo_2009-10_round2
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2009-10 — Round 2 — Quesito 3
 
 *Find integer n such that n^2+4 divides n^3+n*
 

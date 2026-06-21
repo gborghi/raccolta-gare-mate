@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q05
 parent: src_archimede_2001_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 5
 
 *Anno di nascita di Archimede da catena di uguaglianze*
 

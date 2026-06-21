@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n2_fx__Q01
 parent: src_obm_2021_n2_fx
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 1
 
 *Length (lonjura) defined by iterating the divisor-count operation until reaching 2; count numbers of length 2 and the maximal length in 3..1000*
 

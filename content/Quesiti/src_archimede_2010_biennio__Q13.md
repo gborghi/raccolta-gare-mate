@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q13
 parent: src_archimede_2010_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 13
 
 *Numero cifre concatenando i naturali da 1 a 2010*
 

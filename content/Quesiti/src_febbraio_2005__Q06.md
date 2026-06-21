@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q06
 parent: src_febbraio_2005
@@ -22,8 +23,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 6
 
 *Festa con tre ragazze e tre ragazzi attorno a un tavolo rotondo*
 

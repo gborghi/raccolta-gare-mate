@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student finale individuale — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_finale__QS6
 parent: src_kangourou_2021_student_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student finale individuale — Quesito S6
 
 *Esiste multiplo di 2021 in binario con 2021 zeri e 2021 uni*
 

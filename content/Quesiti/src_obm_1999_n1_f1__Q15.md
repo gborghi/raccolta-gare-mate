@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f1__Q15
 parent: src_obm_1999_n1_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 15
 
 *Three ages related by fractions; find their sum.*
 

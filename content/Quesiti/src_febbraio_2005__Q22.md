@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q22
 parent: src_febbraio_2005
@@ -22,8 +23,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 22
 
 *Coppie (x,d) di interi positivi e relazione x+d(x+d)=2005*
 

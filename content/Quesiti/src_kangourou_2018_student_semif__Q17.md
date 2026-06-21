@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q17
 parent: src_kangourou_2018_student_semif
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 17
 
 *Numero di lati n dell orto-poligono vicino a 2019*
 

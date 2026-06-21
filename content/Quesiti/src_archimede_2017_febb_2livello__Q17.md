@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q17
 parent: src_archimede_2017_febb_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2017 - 2 livello — Quesito 17
 
 *n puo essere solo 0 o 2*
 

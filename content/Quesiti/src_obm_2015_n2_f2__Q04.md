@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n2_f2__Q04
 parent: src_obm_2015_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 4
 
 *Minimum boxes to store 2015 water bottles and 2015 orange juice cartons*
 

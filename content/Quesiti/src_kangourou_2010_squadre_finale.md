@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre finale
 tipo: gara
 src_id: src_kangourou_2010_squadre_finale
 competition: Kangourou 2010 squadre finale
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2010/SQ-F-10.pdf` · apri PDF
 

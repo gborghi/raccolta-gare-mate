@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_tfjm_2020__Q04
 parent: src_tfjm_2020
@@ -33,8 +34,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 4
 
 *Two-player furniture-moving game in a 1D and 2D warehouse*
 

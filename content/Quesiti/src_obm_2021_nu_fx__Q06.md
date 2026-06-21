@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2021_nu_fx__Q06
 parent: src_obm_2021_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x — Quesito 6
 
 *Recursively defined bacana word pairs; prove (α,β) bacana iff αβ is palindrome*
 

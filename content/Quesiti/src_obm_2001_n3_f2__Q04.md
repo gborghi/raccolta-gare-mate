@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f2__Q04
 parent: src_obm_2001_n3_f2
@@ -38,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2 — Quesito 4
 
 *Venusiano football championship; find minimum points for Vulcano FC to guarantee final*
 

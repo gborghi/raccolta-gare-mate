@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q12
 parent: src_cesenatico_2012_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 12
 
 *Anni per strada >=113 scudi (57 diviso per coppie)*
 

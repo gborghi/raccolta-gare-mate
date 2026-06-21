@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin_finale__QB4
 parent: src_kangourou_2003_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B4
 
 *Pneumatici usati per lo stesso percorso*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q10
 parent: src_archimede_2022_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 10
 
 *Ultimo numero della 120-esima riga saltando multipli di 5*
 

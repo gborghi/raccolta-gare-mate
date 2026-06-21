@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Student finale nazionale — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student_finale__QS6
 parent: src_kangourou_2004_student_finale
@@ -29,8 +30,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2004 Student finale nazionale — Quesito S6
 
 *Somma distanze di P dai sei spigoli del tetraedro*
 

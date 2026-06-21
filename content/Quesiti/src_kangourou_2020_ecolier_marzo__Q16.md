@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q16
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 16
 
 *Quale combinazione di stecchini forma un quadrato*
 

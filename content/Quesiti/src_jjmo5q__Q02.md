@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2007 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo5q__Q02
 parent: src_jjmo5q
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2007 — Quesito 2
 
 *Quadrilateral with perpendicular diagonals; find fourth side*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q04
 parent: src_kangourou_2017_squadre_junior_f
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 4
 
 *parallelogrammi sulla tastiera*
 

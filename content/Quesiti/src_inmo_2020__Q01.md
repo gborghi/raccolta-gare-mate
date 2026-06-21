@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2020 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2020__Q01
 parent: src_inmo_2020
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2020 — Quesito 1
 
 *Circumcentre of triangles ACD and XAY lies on perp bisector of O1O2*
 

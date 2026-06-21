@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q11
 parent: src_kangourou_2022_benjamin_gara
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 11
 
 *Situazione impossibile di elefanti dopo il bivio*
 

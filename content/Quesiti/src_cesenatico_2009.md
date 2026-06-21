@@ -1,4 +1,5 @@
 ---
+title: XXV Olimpiade Italiana Cesenatico 2009
 tipo: gara
 src_id: src_cesenatico_2009
 competition: XXV Olimpiade Italiana Cesenatico 2009
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/individuale
 ---
-
-# XXV Olimpiade Italiana Cesenatico 2009
 
 Sorgente: `Archimede/individuale/nazionale/2009/ces2009.pdf` · apri PDF
 

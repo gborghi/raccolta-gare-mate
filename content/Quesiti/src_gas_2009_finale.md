@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale
 tipo: gara
 src_id: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2009/Fgas09.pdf` · apri PDF
 

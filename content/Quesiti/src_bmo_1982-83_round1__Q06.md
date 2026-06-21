@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1982-83 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1982-83_round1__Q06
 parent: src_bmo_1982-83_round1
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1982-83 — Round 1 — Quesito 6
 
 *Equation with square roots; find p for exactly one real solution x*
 

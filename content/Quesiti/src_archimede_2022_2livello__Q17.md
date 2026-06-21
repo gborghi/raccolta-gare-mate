@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_2livello__Q17
 parent: src_archimede_2022_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2022 - 2° livello — Quesito 17
 
 *Colorazione primo quadrante con semirette, monocromatico*
 

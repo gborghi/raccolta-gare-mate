@@ -1,4 +1,5 @@
 ---
+title: IMO 2021 papers — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2021__Q01
 parent: src_imo_2021
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2021 papers — Quesito 1
 
 *Un mucchio contiene due carte con somma quadrato*
 

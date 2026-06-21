@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - gara marzo — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier__Q02
 parent: src_kangourou_2021_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - gara marzo — Quesito 2
 
 *Pesci col muso verso l'anello tendendo la fune*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r1__Q01
 parent: src_rmo_2012_r1
@@ -31,8 +32,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 1 — Quesito 1
 
 *Find ratios BP/PE and AP/PD in triangle with midpoint*
 

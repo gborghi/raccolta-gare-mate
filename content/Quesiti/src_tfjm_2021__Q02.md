@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_tfjm_2021__Q02
 parent: src_tfjm_2021
@@ -37,8 +38,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 2
 
 *Two-player token elimination game on a row using offset sets; analyze winning strategies and periodicity*
 

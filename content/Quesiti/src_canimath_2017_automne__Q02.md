@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2017 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_automne__Q02
 parent: src_canimath_2017_automne
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2017 — Quesito 2
 
 *a_n = last digit of digit-sum of 2005 written n times in a row; find n with a_n=0 and compute a sum*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin (18 marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin__Q16
 parent: src_kangourou_2004_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin (18 marzo) — Quesito 16
 
 *Min quadratini da verniciare per asse simmetria*
 

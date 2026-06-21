@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2018__Q05
 parent: src_cesenatico_2018
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 5
 
 *Minimo numero di sottosequenze di 6 cifre per x irrazionale*
 

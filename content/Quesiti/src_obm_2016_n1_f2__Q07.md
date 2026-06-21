@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f2__Q07
 parent: src_obm_2016_n1_f2
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 7
 
 *Color 7×7 table red/blue/brown so blue dominates each row and column; min red and min brown cells*
 

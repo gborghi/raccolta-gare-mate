@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q13
 parent: src_kangourou_2007_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet (marzo) — Quesito 13
 
 *Triangoli con vertici su due rette parallele*
 

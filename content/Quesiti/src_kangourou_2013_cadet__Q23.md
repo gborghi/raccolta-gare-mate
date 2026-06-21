@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q23
 parent: src_kangourou_2013_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 23
 
 *Massimo aceri tra 20 alberi senza 3 alberi tra due aceri*
 

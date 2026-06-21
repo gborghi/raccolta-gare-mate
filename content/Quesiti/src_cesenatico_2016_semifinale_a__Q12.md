@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q12
 parent: src_cesenatico_2016_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 12
 
 *Somma valori del risultato in criptaritmetica*
 

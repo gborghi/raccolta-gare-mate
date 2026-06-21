@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q13
 parent: src_kangourou_2019_student_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 13
 
 *Minimo celle da annerire griglia 6x2019 (dominio connesso)*
 

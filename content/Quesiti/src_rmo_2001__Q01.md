@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2001 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2001__Q01
 parent: src_rmo_2001
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2001 — Quesito 1
 
 *Altitudes, cyclic quads, parallelism of FM and EN*
 

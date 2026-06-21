@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q13
 parent: src_kangourou_2022_ecolier_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 13
 
 *Euro di Antonio dopo trasferimenti a Cristina*
 

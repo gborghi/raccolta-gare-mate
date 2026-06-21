@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_finale__Q08
 parent: src_garasquadre_2006_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale — Quesito 8
 
 *Piu piccolo multiplo di 73 con quadrato avente >=63 divisori*
 

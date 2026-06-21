@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q02
 parent: src_kangourou_2012_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 2
 
 *Aumento percentuale area triangolo con lati +20%*
 

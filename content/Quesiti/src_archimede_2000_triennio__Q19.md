@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q19
 parent: src_archimede_2000_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 19
 
 *Volume piramide retta a base quadrata spigoli unitari*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q07
 parent: src_gas_2010_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 7
 
 *Minuti settimanali in cui ago bussola indica il nord*
 

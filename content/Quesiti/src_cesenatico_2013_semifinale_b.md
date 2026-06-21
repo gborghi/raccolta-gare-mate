@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale B
 tipo: gara
 src_id: src_cesenatico_2013_semifinale_b
 competition: Gara a Squadre Cesenatico 2013 - Semifinale B
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale B
 
 Sorgente: `Archimede/squadre/nazionale/2013/GaraASquadre_Cesenatico_2013.pdf` · apri PDF
 

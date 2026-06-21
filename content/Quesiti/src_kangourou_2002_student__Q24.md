@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q24
 parent: src_kangourou_2002_student
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 24
 
 *Triangoli non congruenti nel decagono*
 

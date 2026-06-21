@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2020_nu_fx__Q05
 parent: src_obm_2020_nu_fx
@@ -36,8 +39,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x — Quesito 5
 
 *Game on spaceship: show 2n people can be split into n friendly pairs*
 

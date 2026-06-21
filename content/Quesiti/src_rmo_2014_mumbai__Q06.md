@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_mumbai__Q06
 parent: src_rmo_2014_mumbai
@@ -33,8 +34,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Quesito 6
 
 *Prove lines from contact triangle incentres to opposite contact points are concurrent*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2004
 tipo: gara
 src_id: src_rmo_2004
 competition: Regional Mathematical Olympiad 2004
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2004
 
 Sorgente: apri PDF
 

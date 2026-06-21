@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2001 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2001__Q03
 parent: src_rmo_2001
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2001 — Quesito 3
 
 *Count positive integers x with floor(x/99) = floor(x/101)*
 

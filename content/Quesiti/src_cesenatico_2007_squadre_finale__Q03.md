@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q03
 parent: src_cesenatico_2007_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 3
 
 *Ultime 4 cifre 2007-esimo multiplo di 3 prima di un quadrato*
 

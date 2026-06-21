@@ -1,4 +1,5 @@
 ---
+title: IMO 1981 (Twenty-second International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1981_all__Q05
 parent: src_imo_1981_all
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1981 (Twenty-second International Olympiad) — Quesito 5
 
 *incenter, circumcenter, O collinear*
 

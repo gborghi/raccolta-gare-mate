@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 1 —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2007_nu_f1__Q02
 parent: src_obm_2007_nu_f1
@@ -35,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 1 — Quesito 2
 
 *Minimal period of f equals 2pi/m, m = gcd of indices with nonzero coefficients*
 

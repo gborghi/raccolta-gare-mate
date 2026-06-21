@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q20
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 20
 
 *Tra quanti giorni i due forzieri avranno uguali monete*
 

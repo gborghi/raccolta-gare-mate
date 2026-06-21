@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_mumbai__Q04
 parent: src_rmo_2012_mumbai
@@ -30,8 +31,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Mumbai — Quesito 4
 
 *Prove a product relation among segments using a right angle and a perpendicular*
 

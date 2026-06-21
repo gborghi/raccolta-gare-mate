@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q13
 parent: src_kangourou_2007_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 13
 
 *Relazione tra angolo gamma e alfa (percentuali)*
 

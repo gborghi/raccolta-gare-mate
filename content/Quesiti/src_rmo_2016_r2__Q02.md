@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r2__Q02
 parent: src_rmo_2016_r2
@@ -32,8 +33,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 2 — Quesito 2
 
 *Prove abc ≤ 1/8 given cyclic sum equals 1 with positive reals*
 

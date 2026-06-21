@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2002 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2002__Q03
 parent: src_rmo_2002
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2002 — Quesito 3
 
 *Show abc divides expansion of (a+b+c)^n*
 

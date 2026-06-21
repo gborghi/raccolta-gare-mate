@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q16
 parent: src_archimede_2000_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 16
 
 *Coppie (m,n) interi positivi con 1/m+1/n-1/mn=2/5*
 

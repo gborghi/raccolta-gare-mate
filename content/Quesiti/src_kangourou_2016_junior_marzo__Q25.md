@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q25
 parent: src_kangourou_2016_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 25
 
 *Numero al posto 2016 tra permutazioni di 1..7*
 

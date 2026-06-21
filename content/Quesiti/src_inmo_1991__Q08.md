@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_inmo_1991__Q08
 parent: src_inmo_1991
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991 — Quesito 8
 
 *10 integer-weight objects totalling 20: partition into equal-weight groups if no weight exceeds 10*
 

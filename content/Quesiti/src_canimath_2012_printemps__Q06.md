@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2012 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2012_printemps__Q06
 parent: src_canimath_2012_printemps
@@ -37,8 +38,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2012 — Quesito 6
 
 *Inequality aa'+bb'+cc' <= 2S+R(a+b+c) for acute triangles, and whether it holds for obtuse ones*
 

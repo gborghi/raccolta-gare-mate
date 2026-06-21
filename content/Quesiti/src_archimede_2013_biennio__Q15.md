@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q15
 parent: src_archimede_2013_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 15
 
 *Coefficiente di x^199 in (x^2+x+1)^100*
 

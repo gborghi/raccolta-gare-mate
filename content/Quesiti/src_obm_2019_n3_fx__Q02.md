@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n3_fx__Q02
 parent: src_obm_2019_n3_fx
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x — Quesito 2
 
 *Minimum operations to mark integer n on real line starting from 0 and 1*
 

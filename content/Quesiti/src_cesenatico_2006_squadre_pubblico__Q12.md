@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q12
 parent: src_cesenatico_2006_squadre_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 12
 
 *Sottoinsiemi di {1..9} con somma multipla di 3*
 

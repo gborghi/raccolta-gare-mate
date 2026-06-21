@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q05
 parent: src_kangourou_2024_junior_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 2 — Quesito 5
 
 *Massimo punteggio sottogriglie 10x10*
 

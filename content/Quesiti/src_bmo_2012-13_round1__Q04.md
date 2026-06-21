@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2012-13 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2012-13_round1__Q04
 parent: src_bmo_2012-13_round1
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2012-13 — Round 1 — Quesito 4
 
 *Find positive integers n with 12n-119 and 75n-539 perfect squares*
 

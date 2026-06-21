@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q11
 parent: src_kangourou_2011_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 11
 
 *Piu piccolo intero non scrivibile come a*b+c cifre distinte*
 

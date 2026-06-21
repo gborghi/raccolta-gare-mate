@@ -1,4 +1,5 @@
 ---
+title: IMO 1975 (Seventeenth International Olympiad)
 tipo: gara
 src_id: src_imo_1975_all
 competition: IMO 1975 (Seventeenth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1975
   - gara/individuale
 ---
-
-# IMO 1975 (Seventeenth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1975_eng.pdf` · apri PDF
 

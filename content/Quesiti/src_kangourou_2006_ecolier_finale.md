@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Ecolier (finale nazionale)
 tipo: gara
 src_id: src_kangourou_2006_ecolier_finale
 competition: Kangourou 2006 - Ecolier (finale nazionale)
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/individuale
 ---
-
-# Kangourou 2006 - Ecolier (finale nazionale)
 
 Sorgente: `Kangaroo/kangourou_individuali/2006/EMaggio-06.pdf` · apri PDF
 

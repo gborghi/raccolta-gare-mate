@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q09
 parent: src_kangourou_2019_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Finale — Quesito 9
 
 *Lunghezza contorno del cerchio piegato*
 

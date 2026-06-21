@@ -1,4 +1,5 @@
 ---
+title: IMO 1974 (Sixteenth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1974_all__Q06
 parent: src_imo_1974_all
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1974 (Sixteenth International Olympiad) — Quesito 6
 
 *Bound n(P)-deg(P)<=2 for P(k)^2=1 integer roots*
 

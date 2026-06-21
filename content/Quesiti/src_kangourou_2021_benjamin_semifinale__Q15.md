@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - semifinale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q15
 parent: src_kangourou_2021_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - semifinale — Quesito 15
 
 *Canguri contagiosi al sesto giorno*
 

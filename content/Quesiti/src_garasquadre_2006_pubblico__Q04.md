@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q04
 parent: src_garasquadre_2006_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 4
 
 *Minimo di 4a^3/b + b + 1/a con a,b reali positivi*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo18mq_honsen__Q05
 parent: src_jmo18mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 5
 
 *Existence of n representing every rational as integer plus n unit fractions*
 

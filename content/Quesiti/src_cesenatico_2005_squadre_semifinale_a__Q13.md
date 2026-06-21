@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_a__Q13
 parent: src_cesenatico_2005_squadre_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 13
 
 *Cateto minore di triangolo rettangolo con condizione incentro*
 

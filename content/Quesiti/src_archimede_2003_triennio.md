@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Triennio
 tipo: gara
 src_id: src_archimede_2003_triennio
 competition: Giochi di Archimede 2003 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2003
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2003/testitriennio2003.pdf` · apri PDF
 

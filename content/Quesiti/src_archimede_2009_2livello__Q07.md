@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q07
 parent: src_archimede_2009_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 7
 
 *Massimo n interi senza somma né differenza divisibile per 100*
 

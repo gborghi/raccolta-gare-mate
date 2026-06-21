@@ -1,4 +1,5 @@
 ---
+title: IMO 1972 (Fourteenth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1972_all__Q02
 parent: src_imo_1972_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1972 (Fourteenth International Olympiad) — Quesito 2
 
 *Dissect cyclic quadrilateral into n cyclic quadrilaterals*
 

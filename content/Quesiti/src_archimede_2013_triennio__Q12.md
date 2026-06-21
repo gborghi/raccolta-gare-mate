@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_triennio__Q12
 parent: src_archimede_2013_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Triennio — Quesito 12
 
 *Perimetro triangolo da teorema della bisettrice*
 

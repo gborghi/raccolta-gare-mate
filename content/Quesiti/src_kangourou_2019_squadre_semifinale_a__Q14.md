@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q14
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 14
 
 *Punti interi su segmento da (0,0) a (4200,3000)*
 

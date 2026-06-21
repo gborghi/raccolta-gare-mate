@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q06
 parent: src_kangourou_2013_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 6
 
 *Ordine finale dei cinque canguri che saltano*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q06
 parent: src_jjmo1q
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 6
 
 *Find area of triangle DBC given incircle-related point and distances on cevian*
 

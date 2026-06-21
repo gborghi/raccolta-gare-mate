@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (finale nazionale) — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin_finale__QB6
 parent: src_kangourou_2006_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (finale nazionale) — Quesito B6
 
 *Risultato della somma ORE+ORE+ORE=VIVE*
 

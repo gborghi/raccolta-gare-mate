@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (finale nazionale) — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet_finale__QC4
 parent: src_kangourou_2005_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (finale nazionale) — Quesito C4
 
 *Prossima eclissi di due pianeti in rotazione*
 

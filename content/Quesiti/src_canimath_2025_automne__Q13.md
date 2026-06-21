@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q13
 parent: src_canimath_2025_automne
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 13
 
 *Grid with equal row/column sums at nonzero cells implies m=n (lycée version)*
 

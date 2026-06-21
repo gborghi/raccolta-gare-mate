@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q08
 parent: src_archimede_2022_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 8
 
 *Angolo BAD con rombo costruito su triangolo isoscele*
 

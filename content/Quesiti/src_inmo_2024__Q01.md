@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2024__Q01
 parent: src_inmo_2024
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2024 — Quesito 1
 
 *Circumcircle point E gives parallel line intersecting circumcircle at F,G*
 

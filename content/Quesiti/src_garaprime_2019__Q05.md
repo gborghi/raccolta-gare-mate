@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q05
 parent: src_garaprime_2019
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 5
 
 *Modi di dare 10 Euro con monete da 2,1,0.5*
 

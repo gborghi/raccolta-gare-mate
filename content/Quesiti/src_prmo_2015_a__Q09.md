@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q09
 parent: src_prmo_2015_a
@@ -37,8 +38,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 9
 
 *Smallest square area containing $2\times3$ and $3\times4$ non-overlapping rectangles*
 

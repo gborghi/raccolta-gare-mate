@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q11
 parent: src_obm_2006_n3_f1
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 11
 
 *Count real triples (x,y,z) satisfying x(x+y+z)=2005, y(x+y+z)=2006, z(x+y+z)=2007.*
 

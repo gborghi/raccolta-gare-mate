@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q01
 parent: src_kangourou_2008_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 1
 
 *Quale simbolo rende vera 1+1*1-2=100*
 

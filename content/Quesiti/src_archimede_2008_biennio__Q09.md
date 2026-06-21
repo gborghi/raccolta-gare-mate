@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q09
 parent: src_archimede_2008_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 9
 
 *Conteggio numeri quattro cifre con 5 cifra massima*
 

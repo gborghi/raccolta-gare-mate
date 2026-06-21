@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q09
 parent: src_kangourou_2023_ecolier_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 9
 
 *Somma lunghezze segmenti interni rettangolo*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q08
 parent: src_archimede_2026_squadre_finale_mista
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 8
 
 *Massimo q(0)^2 con due polinomi radice comune*
 

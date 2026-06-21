@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q07
 parent: src_gas_2009_pubblico
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 7
 
 *Disposizioni a tavola rotonda con vincoli di vicinanza*
 

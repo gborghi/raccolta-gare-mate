@@ -1,4 +1,5 @@
 ---
+title: IMO 1967 (Ninth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1967_all__Q02
 parent: src_imo_1967_all
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1967 (Ninth International Olympiad) — Quesito 2
 
 *Tetrahedron with one edge over 1 has volume at most 1/8*
 

@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_finale__Q13
 parent: src_garasquadre_2006_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale — Quesito 13
 
 *massimo a 4 cifre*
 

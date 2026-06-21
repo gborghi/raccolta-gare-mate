@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2010 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2010__Q04
 parent: src_rmo_2010
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2010 — Quesito 4
 
 *Three distinct positive integers, least sum, reciprocal condition*
 

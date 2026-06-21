@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q10
 parent: src_canimath_2020_automne
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 10
 
 *Find angle FEA in a square with E on diagonal BD such that EB=AB (lycée)*
 

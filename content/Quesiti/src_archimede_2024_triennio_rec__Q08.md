@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q08
 parent: src_archimede_2024_triennio_rec
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 8
 
 *Lunghezza UV tra punti medi e due archi nel quadrato*
 

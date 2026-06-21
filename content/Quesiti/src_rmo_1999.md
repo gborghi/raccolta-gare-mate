@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1999
 tipo: gara
 src_id: src_rmo_1999
 competition: Regional Mathematical Olympiad 1999
@@ -15,8 +16,6 @@ tags:
   - anno/1999
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1999
 
 Sorgente: apri PDF
 

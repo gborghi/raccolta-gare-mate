@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q05
 parent: src_archimede_1996_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 5
 
 *Ora di accensione del forno per cuocere il pesce*
 

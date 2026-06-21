@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student finale — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_finale__QS1
 parent: src_kangourou_2024_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2024 Student finale — Quesito S1
 
 *Due triangoli con due lati e un'altezza uguali sono congruenti?*
 

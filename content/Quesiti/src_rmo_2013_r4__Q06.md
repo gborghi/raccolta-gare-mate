@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 4 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r4__Q06
 parent: src_rmo_2013_r4
@@ -36,8 +37,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 4 — Quesito 6
 
 *Regular 20-gon vertices 3-coloured; three vertices same colour form isosceles triangle*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2010 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2010__Q05
 parent: src_inmo_2010
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2010 — Quesito 5
 
 *Acute triangle, orthocentre, circumcentre; Q on HO line, prove AK perpendicular*
 

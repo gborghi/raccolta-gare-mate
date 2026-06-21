@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q09
 parent: src_jjmo3q
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 9
 
 *Four-digit multiples of 7 with digits from 1 to 6*
 

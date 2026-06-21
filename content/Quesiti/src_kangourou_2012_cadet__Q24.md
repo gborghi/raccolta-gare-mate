@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q24
 parent: src_kangourou_2012_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 24
 
 *Area del parallelogramma ombreggiato*
 

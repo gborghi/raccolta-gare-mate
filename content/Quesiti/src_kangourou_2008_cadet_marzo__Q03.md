@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q03
 parent: src_kangourou_2008_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 3
 
 *Numero di commissari valutatori*
 

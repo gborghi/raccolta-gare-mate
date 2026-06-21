@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q03
 parent: src_archimede_2003_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 3
 
 *Lato del quadrato dato il raggio della circonferenza, lunghezza 1*
 

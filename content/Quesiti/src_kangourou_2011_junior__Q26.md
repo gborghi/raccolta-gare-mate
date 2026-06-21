@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q26
 parent: src_kangourou_2011_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 26
 
 *Quante quaterne di spigoli del cubo senza vertici comuni*
 

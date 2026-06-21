@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2007 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2007__Q02
 parent: src_inmo_2007
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2007 — Quesito 2
 
 *Represent 9n as sum of three squares with nonzero-integer coefficients*
 

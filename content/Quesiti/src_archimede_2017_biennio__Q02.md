@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q02
 parent: src_archimede_2017_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 2
 
 *numero furfanti*
 

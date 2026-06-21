@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (finale nazionale) — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet_finale__QC5
 parent: src_kangourou_2005_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (finale nazionale) — Quesito C5
 
 *Valori possibili di x+y con x+y+xy=90*
 

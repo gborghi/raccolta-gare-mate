@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_online__Q03
 parent: src_archimede_2021_biennio_online
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 3
 
 *Massimo valore di 7-4x dato (2x-3)(5-3x)=0*
 

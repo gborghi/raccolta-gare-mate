@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q12
 parent: src_squadre_2026_semifinale_cd
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 12
 
 *Somma di n con Kn=4096 successione geometrica*
 

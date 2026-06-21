@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q17
 parent: src_canimath_2019_automne
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 17
 
 *Existence of sequence of strictly positive integers satisfying a_{n+2} = a_{n+1} + sqrt(a_n + a_{n+1})*
 

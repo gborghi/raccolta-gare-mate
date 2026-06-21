@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q17
 parent: src_kangourou_2004_student
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 17
 
 *Triangoli rettangoli da vertici di un 14-gono*
 

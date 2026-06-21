@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1986 (27th IMO, Warsaw) — Quesito 2'
 tipo: quesito
 quesito_id: quesito_src_imo_1986__Q02
 parent: src_imo_1986
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1986 (27th IMO, Warsaw) — Quesito 2
 
 *Rotation sequence returning to P0 forces equilateral triangle*
 

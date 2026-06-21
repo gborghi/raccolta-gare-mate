@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q02
 parent: src_kangourou_2022_cadet_gara
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 2
 
 *Su quale numero atterra il canguro che salta a schema*
 

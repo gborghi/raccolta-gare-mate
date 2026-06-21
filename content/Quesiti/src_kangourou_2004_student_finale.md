@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Student finale nazionale
 tipo: gara
 src_id: src_kangourou_2004_student_finale
 competition: Kangourou 2004 Student finale nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/individuale
 ---
-
-# Kangourou 2004 Student finale nazionale
 
 Sorgente: `Kangaroo/kangourou_individuali/2004/SMaggio-04.pdf` · apri PDF
 

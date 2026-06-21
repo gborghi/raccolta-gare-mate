@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q13
 parent: src_kangourou_2024_student_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 13
 
 *Minimo n con Sn+S(n-1)>2024 diagonali poligono*
 

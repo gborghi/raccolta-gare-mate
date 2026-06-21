@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Benjamin finale — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_benjamin_finale__QB4
 parent: src_kangourou_2025_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2025 Benjamin finale — Quesito B4
 
 *Numero totale di lampioni su sentiero circolare*
 

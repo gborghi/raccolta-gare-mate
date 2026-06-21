@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (finale Cervia) — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_finale__QS6
 parent: src_kangourou_2016_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (finale Cervia) — Quesito S6
 
 *Affermazioni su piastrellamenti del piano (convesse)*
 

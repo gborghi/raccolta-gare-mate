@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q17
 parent: src_garaprime_2024
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 17
 
 *Coppie non ordinate di palline di colore diverso*
 

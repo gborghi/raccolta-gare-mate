@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_finale__Q14
 parent: src_cesenatico_2013_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 14
 
 *Modi di sedersi a tavola (vincoli capotavola)*
 

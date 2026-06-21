@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q22
 parent: src_kangourou_2022_junior_gara
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 22
 
 *Massimo punti del vincitore del torneo a otto squadre*
 

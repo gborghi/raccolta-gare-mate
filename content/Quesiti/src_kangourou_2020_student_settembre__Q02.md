@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - finale settembre — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_settembre__Q02
 parent: src_kangourou_2020_student_settembre
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - finale settembre — Quesito 2
 
 *Numeri in posizione speciale in griglia 2020x2020*
 

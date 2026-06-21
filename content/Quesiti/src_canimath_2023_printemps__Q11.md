@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q11
 parent: src_canimath_2023_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 11
 
 *Given 100 distinct integers 1 <= a_1 < a_2 < ... < a_100 <= 400 with d_i = a_{i+1} - a_i, show that at least 15 of d_1,...,d_99 are equal to one another.*
 

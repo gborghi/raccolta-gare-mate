@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q16
 parent: src_archimede_2025_biennio_rec
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 16
 
 *Misura PC' da distanze di P dai lati (somma altezze)*
 

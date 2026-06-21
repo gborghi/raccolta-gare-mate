@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - semifinale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q05
 parent: src_kangourou_2021_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - semifinale — Quesito 5
 
 *Max cifre 1 nelle prime 15 cifre dell allineamento*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2007-08 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2007-08_round2__Q02
 parent: src_bmo_2007-08_round2
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2007-08 — Round 2 — Quesito 2
 
 *Find side ratio of triangle from incentre-circumcentre angles*
 

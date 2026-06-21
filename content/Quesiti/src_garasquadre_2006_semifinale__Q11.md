@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q11
 parent: src_garasquadre_2006_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 11
 
 *Piu piccolo N di 4 cifre con somma ultime cifre di N^2 e N = 10000*
 

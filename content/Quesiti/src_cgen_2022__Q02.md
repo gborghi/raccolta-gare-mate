@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2022 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_2022__Q02
 parent: src_cgen_2022
@@ -39,8 +40,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Concours Général des Lycées 2022 — Matematica — Quesito 2
 
 *Lattice path M_k with steps i or j; alignment of three or more points; Stern-Brocot / Farey-style tight fractions, naive mediants, principal intervals, and pigeonhole to force n aligned points*
 

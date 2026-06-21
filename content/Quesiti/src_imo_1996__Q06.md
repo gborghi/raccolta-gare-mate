@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1996 (37th IMO, Mumbai) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1996__Q06
 parent: src_imo_1996
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1996 (37th IMO, Mumbai) — Quesito 6
 
 *Lattice-path tuple has two indices with equal values*
 

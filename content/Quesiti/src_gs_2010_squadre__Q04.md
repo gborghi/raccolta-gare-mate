@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gs_2010_squadre__Q04
 parent: src_gs_2010_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre — Quesito 4
 
 *Spartizione cifra fra tre musicisti per eta*
 

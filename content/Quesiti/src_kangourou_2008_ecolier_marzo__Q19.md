@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q19
 parent: src_kangourou_2008_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 19
 
 *Peso complessivo dei tre frutti*
 

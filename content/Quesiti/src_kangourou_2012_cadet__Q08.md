@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q08
 parent: src_kangourou_2012_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 8
 
 *In quanti modi scegliere vertici senza tagliare i triangoli*
 

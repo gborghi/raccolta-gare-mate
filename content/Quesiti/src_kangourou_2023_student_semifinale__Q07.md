@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q07
 parent: src_kangourou_2023_student_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 7
 
 *Coppie (X,n) false in un allineamento periodico di lettere*
 

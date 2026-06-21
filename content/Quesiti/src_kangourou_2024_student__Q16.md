@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student (gara individuale) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student__Q16
 parent: src_kangourou_2024_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2024 Student (gara individuale) — Quesito 16
 
 *Minimo AX+XD al variare di X su BC del trapezio*
 

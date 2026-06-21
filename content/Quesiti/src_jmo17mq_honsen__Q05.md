@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo17mq_honsen__Q05
 parent: src_jmo17mq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 5
 
 *Irrational alpha such that beta in A(alpha) implies beta/alpha is an integer*
 

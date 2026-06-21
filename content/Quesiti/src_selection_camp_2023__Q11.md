@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2023__Q11
 parent: src_selection_camp_2023
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2023 — Selection Camp — Quesito 11
 
 *Three circumcircles share a common point*
 

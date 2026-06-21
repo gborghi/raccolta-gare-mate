@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin__Q16
 parent: src_kangourou_2023_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 16
 
 *Colorare 5 rettangolini con 3 colori adiacenti diversi*
 

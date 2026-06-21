@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2019 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo17mq_honsen__Q01
 parent: src_jjmo17mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2019 — Honsen (Final) — Quesito 1
 
 *Angle bisectors of two angles meet on side AB*
 

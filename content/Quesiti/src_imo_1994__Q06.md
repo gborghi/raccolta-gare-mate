@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1994__Q06
 parent: src_imo_1994
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1994 (35th IMO, Hong Kong) — Quesito 6
 
 *prime-product membership condition for infinite prime sets*
 

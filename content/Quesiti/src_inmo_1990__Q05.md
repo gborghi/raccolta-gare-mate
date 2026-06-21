@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1990 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_1990__Q05
 parent: src_inmo_1990
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1990 — Quesito 5
 
 *Show triangle side quantity lies strictly between 1/2 and 2*
 

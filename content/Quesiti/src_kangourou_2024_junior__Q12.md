@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q12
 parent: src_kangourou_2024_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 12
 
 *In quanti modi riempire la griglia 2x4 con A,B,C,D*
 

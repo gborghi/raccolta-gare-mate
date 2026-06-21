@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q06
 parent: src_cesenatico_2025_nazionale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 6
 
 *Fermare una formica con rotazioni di alpha e beta*
 

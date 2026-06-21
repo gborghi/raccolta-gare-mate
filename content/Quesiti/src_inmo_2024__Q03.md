@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2024__Q03
 parent: src_inmo_2024
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2024 — Quesito 3
 
 *Odd prime p divides sum of powers of integers a,b,c*
 

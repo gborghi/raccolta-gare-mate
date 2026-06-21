@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q02
 parent: src_archimede_1996_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 2
 
 *Percentuale di matematici dato un rapporto su abitanti*
 

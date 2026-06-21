@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2025__Q11
 parent: src_selection_camp_2025
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2025 — Selection Camp — Quesito 11
 
 *Find n so every cubic P has quadratic Q with Q(k)(P(k)+Q(k)) never divisible by n*
 

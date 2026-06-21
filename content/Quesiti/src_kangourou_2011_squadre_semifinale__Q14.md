@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q14
 parent: src_kangourou_2011_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A — Quesito 14
 
 *Numeri rimasti dopo cancellazioni iterate (1997 cancellato)*
 

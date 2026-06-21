@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n1_fx__Q05
 parent: src_obm_2019_n1_fx
@@ -41,8 +42,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 5
 
 *Count lattice points inside axis-aligned rectangles and squares on an infinite grid*
 

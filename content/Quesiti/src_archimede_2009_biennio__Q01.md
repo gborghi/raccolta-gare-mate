@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q01
 parent: src_archimede_2009_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 1
 
 *Divisore di 3^5*4^4*5^3 tra opzioni date*
 

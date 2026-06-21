@@ -1,11 +1,10 @@
 ---
+title: Trigonometria
 tipo: topic
 concept_id: topic_trigonometria
 tags:
   - graph/topic
 ---
-
-# Trigonometria
 
 *topic* — **54** quesiti (italiani).
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1993-94 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1993-94_round1__Q02
 parent: src_bmo_1993-94_round1
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1993-94 — Round 1 — Quesito 2
 
 *Identify triangle ACX given angle and midpoint/trisection conditions*
 

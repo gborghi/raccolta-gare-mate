@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2022-23 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2022-23_round1__Q05
 parent: src_bmo_2022-23_round1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2022-23 — Round 1 — Quesito 5
 
 *Prove for each N≥1 there is n≥1 with N not dividing f(n)*
 

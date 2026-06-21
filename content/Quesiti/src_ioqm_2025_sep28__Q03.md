@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q03
 parent: src_ioqm_2025_sep28
@@ -32,8 +33,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 3
 
 *Count positive integers n ≤ 100 with no prime factor other than 2 or 3*
 

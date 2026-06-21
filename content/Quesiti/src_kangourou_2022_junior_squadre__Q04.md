@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q04
 parent: src_kangourou_2022_junior_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Junior Finale 1 — Quesito 4
 
 *Massimo a+b+c con due equazioni quadratiche*
 

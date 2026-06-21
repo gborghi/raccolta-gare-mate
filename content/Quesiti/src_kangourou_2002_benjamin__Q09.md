@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_benjamin__Q09
 parent: src_kangourou_2002_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Benjamin (21 marzo) — Quesito 9
 
 *Angoli distinti minori di 180 gradi*
 

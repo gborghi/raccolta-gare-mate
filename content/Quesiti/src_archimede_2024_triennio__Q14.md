@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q14
 parent: src_archimede_2024_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 14
 
 *Massimo numero di dadi a 14 facce distinti per rotazione*
 

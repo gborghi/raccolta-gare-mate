@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Benjamin — Quesito B1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_benjamin__QB1
 parent: src_kangourou_2015_finale_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Benjamin — Quesito B1
 
 *Dado non regolare con condizioni di somma facce opposte*
 

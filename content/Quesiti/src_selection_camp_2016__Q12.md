@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2016__Q12
 parent: src_selection_camp_2016
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2016 — Selection Camp — Quesito 12
 
 *Quadrilateral with inscribed circles on four sub-quadrilaterals: three lines concurrent or parallel*
 

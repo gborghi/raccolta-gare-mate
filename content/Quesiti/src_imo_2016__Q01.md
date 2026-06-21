@@ -1,4 +1,5 @@
 ---
+title: IMO 2016 papers — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2016__Q01
 parent: src_imo_2016
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2016 papers — Quesito 1
 
 *BD, FX, ME concorrenti (parallelogramma AMXE)*
 

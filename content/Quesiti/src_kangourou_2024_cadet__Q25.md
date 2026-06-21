@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q25
 parent: src_kangourou_2024_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 25
 
 *In quanti modi scegliere n nel diagramma di prodotti (720)*
 

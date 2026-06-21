@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q10
 parent: src_canimath_2024_printemps
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 10
 
 *Triangle with incenter: show angle BID is at least 90 degrees*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q07
 parent: src_kangourou_2014_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Semifinale A — Quesito 7
 
 *Coppie (a,b) con 1/a+1/b=1/5*
 

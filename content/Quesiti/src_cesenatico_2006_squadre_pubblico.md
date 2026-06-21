@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
 tipo: gara
 src_id: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -15,8 +16,6 @@ tags:
   - anno/2006
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico
 
 Sorgente: `Archimede/squadre/nazionale/2006/Pgas06.pdf` · apri PDF
 

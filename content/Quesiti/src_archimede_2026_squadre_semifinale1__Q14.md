@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q14
 parent: src_archimede_2026_squadre_semifinale1
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 14
 
 *Giorni minimi con altezze in progressione aritmetica*
 

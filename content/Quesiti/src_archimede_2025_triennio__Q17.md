@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q17
 parent: src_archimede_2025_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 17
 
 *mcm(a,b)=n(a+b) e mcm(a,b,c)=n(a+b+c)*
 

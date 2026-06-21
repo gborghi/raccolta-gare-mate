@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Semifinale individuale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q03
 parent: src_kangourou_2022_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Semifinale individuale — Quesito 3
 
 *Numero a 4 cifre con ultima cifra spostata in testa, somma*
 

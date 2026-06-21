@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q15
 parent: src_kangourou_2011_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 15
 
 *Angoli acuti del rombo da quattro triangoli rettangoli*
 

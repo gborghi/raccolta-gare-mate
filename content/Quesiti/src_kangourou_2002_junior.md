@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Junior (21 marzo)
 tipo: gara
 src_id: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2002
   - gara/individuale
 ---
-
-# Kangourou 2002 - Junior (21 marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2002/JMarzo-02.pdf` · apri PDF
 

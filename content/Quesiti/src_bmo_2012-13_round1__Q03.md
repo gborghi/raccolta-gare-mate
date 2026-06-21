@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2012-13 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2012-13_round1__Q03
 parent: src_bmo_2012-13_round1
@@ -29,8 +30,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2012-13 — Round 1 — Quesito 3
 
 *Find reals satisfying three simultaneous quadratic equations*
 

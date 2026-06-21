@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo16mq_honsen__Q02
 parent: src_jmo16mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 2
 
 *Find all integers k with infinitely many integer solutions to the equation*
 

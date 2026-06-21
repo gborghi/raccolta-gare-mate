@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q22
 parent: src_kangourou_2012_junior
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 22
 
 *Minimo numero di anelli da aprire per la collana*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Student (marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q06
 parent: src_kangourou_2006_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 Student (marzo) — Quesito 6
 
 *Quali carte rovesciare (logica condizionale)*
 

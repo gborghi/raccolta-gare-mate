@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1982-83 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1982-83_round2__Q04
 parent: src_bmo_1982-83_round2
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1982-83 — Round 2 — Quesito 4
 
 *Prove inequality for six positive reals with harmonic-mean structure*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - semifinale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q18
 parent: src_kangourou_2021_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - semifinale — Quesito 18
 
 *Valore di N in (N-1)+...+(N-2021)=1+..+2021*
 

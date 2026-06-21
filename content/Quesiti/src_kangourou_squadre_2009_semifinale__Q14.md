@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q14
 parent: src_kangourou_squadre_2009_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 14
 
 *Facce e spigoli di un antiprisma a basi quadrate*
 

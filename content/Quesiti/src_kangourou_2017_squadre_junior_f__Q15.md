@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q15
 parent: src_kangourou_2017_squadre_junior_f
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Junior 2017 Finale — Quesito 15
 
 *Somma caselle di arrivo possibili nella passeggiata*
 

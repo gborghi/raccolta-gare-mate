@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q04
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 4
 
 *Media aritmetica dei numeri in un rettangolo di tavola pitagorica*
 

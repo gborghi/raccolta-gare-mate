@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q14
 parent: src_kangourou_squadre_2024_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 14
 
 *Somma massima dei punteggi di 24 lanci di dado vincolati*
 

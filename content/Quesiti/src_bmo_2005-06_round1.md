@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2005-06 — Round 1
 tipo: gara
 src_id: src_bmo_2005-06_round1
 competition: British Mathematical Olympiad 2005-06 — Round 1
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2005-06 — Round 1
 
 Sorgente: apri PDF
 

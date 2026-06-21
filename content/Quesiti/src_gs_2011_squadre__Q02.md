@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q02
 parent: src_gs_2011_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 2
 
 *Percorso piu breve su faccia laterale vs tetto*
 

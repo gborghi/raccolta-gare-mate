@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_ecolier__Q04
 parent: src_kangourou_2013_ecolier
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier — Quesito 4
 
 *Cifra nascosta nella somma 5_ + 5_ = 104*
 

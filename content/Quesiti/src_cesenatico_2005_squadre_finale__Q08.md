@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q08
 parent: src_cesenatico_2005_squadre_finale
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 8
 
 *Terne (a,b,c) in [0,2005] con b^2+b=c^2-c e a^2=b+c*
 

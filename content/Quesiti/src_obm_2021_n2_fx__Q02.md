@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n2_fx__Q02
 parent: src_obm_2021_n2_fx
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 2
 
 *Acute triangle; A_1 is the midpoint of the major arc BC, A_2,A_3 feet of perpendiculars onto AB,AC; prove A_2A_3 bisects BC and that the three analogous lines are concurrent*
 

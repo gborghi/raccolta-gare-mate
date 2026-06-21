@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q12
 parent: src_kangourou_2021_junior_finale
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 12
 
 *Lunghezza del ponte (Aldo e Carlo)*
 

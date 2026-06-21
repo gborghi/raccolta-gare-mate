@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2003-04 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2003-04_round2__Q02
 parent: src_bmo_2003-04_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2003-04 — Round 2 — Quesito 2
 
 *Find integer with 2004 zeros and 2004 ones in binary, divisible by 2004*
 

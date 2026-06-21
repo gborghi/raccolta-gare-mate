@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Gara del pubblico — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_pubblico__Q07
 parent: src_squadre_2023_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Gara del pubblico — Quesito 7
 
 *Massimo k con 2^k divide max|a(n)-b(n)| sottoinsiemi*
 

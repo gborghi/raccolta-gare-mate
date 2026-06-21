@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q01
 parent: src_kangourou_2018_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 1
 
 *Quale espressione numerica ha il valore massimo*
 

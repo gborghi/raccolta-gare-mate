@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024
 tipo: gara
 src_id: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024
 
 Sorgente: `Kangaroo/kangourou_individuali/2024/Junior2024REL.pdf` · apri PDF
 

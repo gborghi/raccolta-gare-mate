@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q04
 parent: src_canimath_2022_automne
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 4
 
 *Rectangle ABCD; midpoints M, N; show angle MAN equals angle BPN*
 

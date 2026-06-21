@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo21hq_honsen__Q05
 parent: src_jjmo21hq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 5
 
 *Prove circumcircle of triangle PRN is tangent to BC*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_pubblico__Q19
 parent: src_archimede_2002_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 19
 
 *area dello stemma*
 

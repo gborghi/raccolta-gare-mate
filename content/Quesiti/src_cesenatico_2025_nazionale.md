@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico
 tipo: gara
 src_id: src_cesenatico_2025_nazionale
 competition: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico
 
 Sorgente: `Archimede/individuale/nazionale/2025/SoluzioniCesenatico2025.pdf` · apri PDF
 

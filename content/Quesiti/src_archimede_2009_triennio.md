@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio
 tipo: gara
 src_id: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2009
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2009/testo-triennio2.pdf` · apri PDF
 

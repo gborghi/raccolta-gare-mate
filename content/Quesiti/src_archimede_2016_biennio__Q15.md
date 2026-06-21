@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_biennio__Q15
 parent: src_archimede_2016_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Biennio — Quesito 15
 
 *Anni minori di 2016 multipli di 1,2,3,4*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_triennio__Q18
 parent: src_archimede_2010_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Triennio — Quesito 18
 
 *Quadrati perfetti di almeno tre cifre fino a 2010*2011*
 

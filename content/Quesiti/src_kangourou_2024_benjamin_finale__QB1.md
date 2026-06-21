@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Benjamin 2024 — Quesito B1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB1
 parent: src_kangourou_2024_benjamin_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Finale Benjamin 2024 — Quesito B1
 
 *Minimo numero di chiavi e disposizione fra quattro amici*
 

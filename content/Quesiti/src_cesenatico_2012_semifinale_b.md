@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale B
 tipo: gara
 src_id: src_cesenatico_2012_semifinale_b
 competition: Gara a Squadre Cesenatico 2012 - Semifinale B
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale B
 
 Sorgente: `Archimede/squadre/nazionale/2012/GaraASquadre_Cesenatico_2012.pdf` · apri PDF
 

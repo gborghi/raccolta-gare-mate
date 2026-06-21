@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Ecolier (finale nazionale) — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_finale__QE3
 parent: src_kangourou_2006_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Ecolier (finale nazionale) — Quesito E3
 
 *Scritta PUZZLES vista riflessa dall'interno*
 

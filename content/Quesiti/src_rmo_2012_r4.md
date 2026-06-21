@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 4
 tipo: gara
 src_id: src_rmo_2012_r4
 competition: Regional Mathematical Olympiad 2012 — Region 4
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/r4
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 4
 
 Sorgente: apri PDF
 

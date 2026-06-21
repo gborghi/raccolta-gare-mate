@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Triennio — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_triennio__Q24
 parent: src_archimede_2003_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Triennio — Quesito 24
 
 *Dimensione regione cancellata 14 minuti fa dal virus*
 

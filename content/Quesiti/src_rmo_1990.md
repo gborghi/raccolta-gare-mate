@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1990
 tipo: gara
 src_id: src_rmo_1990
 competition: Regional Mathematical Olympiad 1990
@@ -15,8 +16,6 @@ tags:
   - anno/1990
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1990
 
 Sorgente: apri PDF
 

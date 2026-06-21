@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q02
 parent: src_gs_2008_squadre
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 2
 
 *Membri dei due cori con parte in comune*
 

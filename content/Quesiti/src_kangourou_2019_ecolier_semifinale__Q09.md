@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q09
 parent: src_kangourou_2019_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 9
 
 *Numero di zeri finali nel prodotto 1991x...x2019*
 

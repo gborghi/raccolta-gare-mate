@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jmo19yq_yosen__Q10
 parent: src_jmo19yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 10
 
 *Ratio of two sums of nested square roots*
 

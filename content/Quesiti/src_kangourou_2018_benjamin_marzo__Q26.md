@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q26
 parent: src_kangourou_2018_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 26
 
 *Quanti volumi contiene ogni scatola*
 

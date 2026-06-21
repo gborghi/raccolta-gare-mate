@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q06
 parent: src_kangourou_2010_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre finale — Quesito 6
 
 *Volume del cubottaedro da cubo di lato 6*
 

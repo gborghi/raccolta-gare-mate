@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q25
 parent: src_kangourou_2019_junior_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 25
 
 *In quali vertici puo trovarsi la pulce dopo 2019 salti*
 

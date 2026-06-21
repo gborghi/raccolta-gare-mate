@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1998 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_1998__Q01
 parent: src_inmo_1998
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1998 — Quesito 1
 
 *Chord, midpoint, tangent circle, and distance relation*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q26
 parent: src_ioqm_2025_sep07
@@ -36,8 +37,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 26
 
 *Sequence with strictly increasing 4-term averages and strictly decreasing 7-term averages; max length*
 

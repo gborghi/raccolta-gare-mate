@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (finale Cervia) — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_finale__QE2
 parent: src_kangourou_2017_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (finale Cervia) — Quesito E2
 
 *Quadretti racchiusi nel quadrato, 35 colorati*
 

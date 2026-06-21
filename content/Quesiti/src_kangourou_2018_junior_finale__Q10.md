@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q10
 parent: src_kangourou_2018_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 10
 
 *Massimo primo 3 cifre con cascata di somme prime*
 

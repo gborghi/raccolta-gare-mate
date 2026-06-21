@@ -1,4 +1,5 @@
 ---
+title: IMO 1985 (26th International Mathematical Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1985__Q05
 parent: src_imo_1985
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1985 (26th International Mathematical Olympiad) — Quesito 5
 
 *Prove angle OMB is right in two-circle configuration*
 

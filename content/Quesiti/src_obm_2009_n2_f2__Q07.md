@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f2__Q07
 parent: src_obm_2009_n2_f2
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 7
 
 *Recurrence sequence S_k=ar^k+bs^k; find S_7 given S_1..S_4*
 

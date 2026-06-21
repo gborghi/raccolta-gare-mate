@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1972-73_round1__Q04
 parent: src_bmo_1972-73_round1
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1972-73 — Round 1 — Quesito 4
 
 *Congruent equilateral triangular discs forming convex equiangular hexagon; valid n*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2008 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2008__Q03
 parent: src_inmo_2008
@@ -30,8 +31,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2008 — Quesito 3
 
 *Set with rational a^2+bc implies a*sqrt(M) rational for all elements*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q12
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 12
 
 *Per quanto tempo Trello e stato fuori (orologio a testa in giu)*
 

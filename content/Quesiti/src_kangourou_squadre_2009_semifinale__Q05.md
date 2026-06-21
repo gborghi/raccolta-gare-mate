@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q05
 parent: src_kangourou_squadre_2009_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 5
 
 *Massimo numero di pedine su scacchiera 8x8 connessa*
 

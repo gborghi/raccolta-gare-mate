@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2020 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2020__Q06
 parent: src_inmo_2020
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2020 — Quesito 6
 
 *5x5 board cannot be covered by 16 trominoes with each square covered once or twice*
 

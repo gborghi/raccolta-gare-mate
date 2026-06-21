@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior (20 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior__Q10
 parent: src_kangourou_2003_junior
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior (20 marzo) — Quesito 10
 
 *Cifra X nella somma criptaritmetica XX+YY+ZZ=ZYX*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1966 (Eighth International Olympiad)
 tipo: gara
 src_id: src_imo_1966_all
 competition: IMO 1966 (Eighth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1966
   - gara/individuale
 ---
-
-# IMO 1966 (Eighth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1966_eng.pdf` · apri PDF
 

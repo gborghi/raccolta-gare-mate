@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Junior — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q01
 parent: src_kangourou_2018_junior_finale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Junior — Quesito 1
 
 *Numeri 7 cifre divisibili per 4 con somma cifre 4*
 

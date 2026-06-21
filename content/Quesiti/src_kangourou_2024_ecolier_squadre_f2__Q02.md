@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q02
 parent: src_kangourou_2024_ecolier_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 2
 
 *Più grande numero settimino di 4 cifre*
 

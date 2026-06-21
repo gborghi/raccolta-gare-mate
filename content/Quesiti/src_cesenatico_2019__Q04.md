@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2019__Q04
 parent: src_cesenatico_2019
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 4
 
 *Se floor(lambda^n+1)..floor(lambda^4n) quadrati allora floor(lambda) quadrato*
 

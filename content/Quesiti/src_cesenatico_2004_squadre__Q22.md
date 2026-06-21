@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q22
 parent: src_cesenatico_2004_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 22
 
 *Colorazioni di 8 gemme in cerchio con 4 tipi, adiacenti diverse*
 

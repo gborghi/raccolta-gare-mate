@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1991 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_1991__Q04
 parent: src_rmo_1991
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1991 — Quesito 4
 
 *Two urns, operations to empty both simultaneously*
 

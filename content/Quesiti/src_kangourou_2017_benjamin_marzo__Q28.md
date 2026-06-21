@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q28
 parent: src_kangourou_2017_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 28
 
 *Ordine in cui le tre ragazze prendono le biglie*
 

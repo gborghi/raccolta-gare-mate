@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_a__Q08
 parent: src_cesenatico_2012_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 8
 
 *valore di (12*7)+17*
 

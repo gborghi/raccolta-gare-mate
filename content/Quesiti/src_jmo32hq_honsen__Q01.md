@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo32hq_honsen__Q01
 parent: src_jmo32hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 1
 
 *Game on 2022-square row; find max squares A can guarantee*
 

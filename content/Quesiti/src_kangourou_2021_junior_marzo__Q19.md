@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q19
 parent: src_kangourou_2021_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 19
 
 *Somma dei sei angoli indicati nell'immagine*
 

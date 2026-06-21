@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2019 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2019__Q02
 parent: src_rmo_2019
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2019 — Quesito 2
 
 *Centroid lines meet circumcircle; equal angle conditions force equilateral triangles.*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q05
 parent: src_archimede_2022_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 5
 
 *Probabilita di cubetto con due facce dipinte*
 

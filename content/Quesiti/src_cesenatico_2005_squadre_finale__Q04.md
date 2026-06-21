@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q04
 parent: src_cesenatico_2005_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 4
 
 *Minimo numero travasi per equidistribuire 2005 borracce*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Triennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_triennio__Q01
 parent: src_archimede_2003_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Triennio — Quesito 1
 
 *tipo dell'abitante*
 

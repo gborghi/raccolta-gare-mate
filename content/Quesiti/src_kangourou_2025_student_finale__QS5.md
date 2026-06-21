@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Student finale — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_student_finale__QS5
 parent: src_kangourou_2025_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Student finale — Quesito S5
 
 *n interi distinti ciascuno divide somma altri n-1*
 

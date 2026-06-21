@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q19
 parent: src_archimede_2005_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 19
 
 *Rapporto aree triangolo interno PQR e ABC equilatero*
 

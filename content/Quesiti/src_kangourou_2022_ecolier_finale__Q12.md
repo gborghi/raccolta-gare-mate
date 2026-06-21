@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q12
 parent: src_kangourou_2022_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito 12
 
 *Differenza tempi gatto e tartaruga (percorso)*
 

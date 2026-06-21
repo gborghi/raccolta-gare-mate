@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q07
 parent: src_canimath_2024_automne
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 7
 
 *Reals a,b,c>0 with pairwise sum ≥ product; show a+b+c ≥ (3/4)abc*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q10
 parent: src_archimede_2011_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 10
 
 *Numero x con uguaglianze ax+b=bx+c=cx+a*
 

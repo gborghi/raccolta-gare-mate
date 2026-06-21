@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2019__Q09
 parent: src_selection_camp_2019
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2019 — Selection Camp — Quesito 9
 
 *If P(P(x)) and P(P(P(x))) are integer-coeff then P is too*
 

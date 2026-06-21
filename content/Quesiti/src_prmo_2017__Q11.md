@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q11
 parent: src_prmo_2017
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 11
 
 *Least natural number n such that f(n*pi+x)=f(x) for all real x*
 

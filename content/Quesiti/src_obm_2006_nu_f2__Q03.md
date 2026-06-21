@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f2__Q03
 parent: src_obm_2006_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 — Quesito 3
 
 *Billiard on elliptic table: prove ball returns to B after A-B-C-A path*
 

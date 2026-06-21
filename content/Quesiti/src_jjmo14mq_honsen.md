@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2016 — Honsen (Final)
 tipo: gara
 src_id: src_jjmo14mq_honsen
 competition: Japan Junior Mathematical Olympiad 2016 — Honsen (Final)
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2016 — Honsen (Final)
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q02
 parent: src_kangourou_2019_ecolier_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Ecolier — Quesito 2
 
 *Colorazioni distinte di un cubo (rotazioni)*
 

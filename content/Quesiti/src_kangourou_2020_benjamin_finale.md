@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Benjamin
 tipo: gara
 src_id: src_kangourou_2020_benjamin_finale
 competition: Kangourou 2020 Finale nazionale Benjamin
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Benjamin
 
 Sorgente: `Kangaroo/kangourou_individuali/2020/B-settembre20.pdf` · apri PDF
 

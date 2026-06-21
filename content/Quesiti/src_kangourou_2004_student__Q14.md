@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q14
 parent: src_kangourou_2004_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 14
 
 *Numeri di due cifre con quadrato e cubo stessa cifra finale*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q27
 parent: src_kangourou_2021_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 27
 
 *Cubetti attraversati dal tunnel diagonale 3x4x5*
 

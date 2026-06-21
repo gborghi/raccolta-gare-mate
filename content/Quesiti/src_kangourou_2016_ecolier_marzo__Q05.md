@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (gara marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q05
 parent: src_kangourou_2016_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (gara marzo) — Quesito 5
 
 *Figura geometrica della parte nascosta del rettangolo*
 

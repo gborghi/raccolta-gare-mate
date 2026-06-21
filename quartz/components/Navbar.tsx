@@ -42,7 +42,7 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
 
 Navbar.css = `
 .navbar {
-  position: sticky; top: 0; z-index: 1000; width: 100%; margin: 0;
+  position: sticky; top: 0; z-index: 900; width: 100%; margin: 0;
   padding: 0.9rem 2rem; background: var(--navbar-bg);
   box-shadow: 0 2px 14px rgba(18, 90, 60, 0.22);
 }

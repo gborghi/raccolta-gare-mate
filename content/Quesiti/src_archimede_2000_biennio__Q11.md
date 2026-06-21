@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q11
 parent: src_archimede_2000_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 11
 
 *Distanza tra podista e ciclista dopo tre ore di spola*
 

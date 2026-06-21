@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q28
 parent: src_kangourou_2014_cadet
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 28
 
 *Minimo valore di M con divisibilità per 2 e 13*
 

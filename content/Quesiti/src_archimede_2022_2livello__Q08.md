@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_2livello__Q08
 parent: src_archimede_2022_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2022 - 2° livello — Quesito 8
 
 *Palla Riemanniana, tabella azioni, valore k*
 

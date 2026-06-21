@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2023_nu_fx__Q05
 parent: src_obm_2023_nu_fx
@@ -38,8 +41,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x — Quesito 5
 
 *Drunk knight on infinite board; probability of reaching specific cell after 2023 moves*
 

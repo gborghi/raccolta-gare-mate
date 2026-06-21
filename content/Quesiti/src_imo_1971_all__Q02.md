@@ -1,4 +1,5 @@
 ---
+title: IMO 1971 (Thirteenth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1971_all__Q02
 parent: src_imo_1971_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1971 (Thirteenth International Olympiad) — Quesito 2
 
 *Two of nine translated polyhedra share interior point*
 

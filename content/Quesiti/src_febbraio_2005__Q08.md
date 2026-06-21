@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q08
 parent: src_febbraio_2005
@@ -20,8 +21,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 8
 
 *massimo volume di tali parti del cubo*
 

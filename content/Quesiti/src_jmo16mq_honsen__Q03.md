@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo16mq_honsen__Q03
 parent: src_jmo16mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 3
 
 *Find all real functions satisfying a given functional equation*
 

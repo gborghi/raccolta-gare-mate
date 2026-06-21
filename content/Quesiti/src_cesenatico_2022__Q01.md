@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2022__Q01
 parent: src_cesenatico_2022
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 1
 
 *Per quali n esiste multiplo di 2022 con n cifre 7 e resto 0*
 

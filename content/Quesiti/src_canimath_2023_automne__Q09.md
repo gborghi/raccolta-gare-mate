@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2023 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_automne__Q09
 parent: src_canimath_2023_automne
@@ -34,8 +35,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2023 — Quesito 9
 
 *Unit square ABCD with E on diagonal AC and AE=1; find angle BEC in degrees (lycee)*
 

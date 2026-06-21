@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Cadet 2024 — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC5
 parent: src_kangourou_2024_cadet_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Finale Cadet 2024 — Quesito C5
 
 *Perche il risultato di Marco e sempre 1089*
 

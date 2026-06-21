@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier_finale__QE5
 parent: src_kangourou_2012_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E5
 
 *Minimo numero di triangoli per ritagliare il canguro*
 

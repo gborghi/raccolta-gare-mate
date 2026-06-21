@@ -1,4 +1,5 @@
 ---
+title: IMO 1962 (IV International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imho_1962__Q03
 parent: src_imho_1962
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# IMO 1962 (IV International Olympiad) — Quesito 3
 
 *Luogo dei medi di XY in moto sul cubo*
 

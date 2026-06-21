@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q08
 parent: src_archimede_2014_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello — Quesito 8
 
 *Numero di terne reali del sistema simmetrico x+y+z, ecc.*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1989-90 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1989-90_round1__Q03
 parent: src_bmo_1989-90_round1
@@ -32,8 +33,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1989-90 — Round 1 — Quesito 3
 
 *Convex quadrilateral with cos identity; prove trapezium or cyclic*
 

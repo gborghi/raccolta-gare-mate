@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q21
 parent: src_gs_2011_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 21
 
 *Lunghezza segmento con teorema della bisettrice*
 

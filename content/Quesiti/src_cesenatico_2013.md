@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2013 - soluzioni
 tipo: gara
 src_id: src_cesenatico_2013
 competition: Olimpiade Italiana (Cesenatico) 2013 - soluzioni
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2013 - soluzioni
 
 Sorgente: `Archimede/individuale/nazionale/2013/ces13-sol.pdf` · apri PDF
 

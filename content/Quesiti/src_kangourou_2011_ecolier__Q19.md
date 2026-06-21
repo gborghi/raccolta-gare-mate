@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q19
 parent: src_kangourou_2011_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 19
 
 *Come appare la costruzione di dadi vista da dietro*
 

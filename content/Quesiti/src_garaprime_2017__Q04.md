@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q04
 parent: src_garaprime_2017
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 4
 
 *Area grigia con archi in un rettangolo di area 1000*
 

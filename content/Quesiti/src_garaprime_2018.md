@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018
 tipo: gara
 src_id: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018
 
 Sorgente: `Archimede/individuale/classi prime/2018/GaraNazionaleClassiPrime2018.pdf` · apri PDF
 

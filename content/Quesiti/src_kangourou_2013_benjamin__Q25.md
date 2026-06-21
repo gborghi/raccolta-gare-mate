@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q25
 parent: src_kangourou_2013_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 25
 
 *Ragazzi che danno la mano sinistra a una ragazza in cerchio*
 

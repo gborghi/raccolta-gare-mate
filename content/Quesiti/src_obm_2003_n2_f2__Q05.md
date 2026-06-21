@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f2__Q05
 parent: src_obm_2003_n2_f2
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 5
 
 *Functional equation f(x)-f(xy)=x/y+y/x: find f(1) and a formula for f(x)*
 

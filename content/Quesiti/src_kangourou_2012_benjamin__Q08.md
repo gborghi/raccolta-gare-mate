@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q08
 parent: src_kangourou_2012_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 8
 
 *Configurazione dei canguri dopo la rotazione della moneta*
 

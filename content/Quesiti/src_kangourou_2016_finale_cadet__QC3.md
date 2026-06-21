@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 finale nazionale Cadet — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_finale_cadet__QC3
 parent: src_kangourou_2016_finale_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 finale nazionale Cadet — Quesito C3
 
 *conviene quale?*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f1__Q17
 parent: src_obm_2015_n3_f1
@@ -38,8 +39,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 17
 
 *Min radius r so every circle of radius 1 centered at a lattice point is cut by a radius-r circle*
 

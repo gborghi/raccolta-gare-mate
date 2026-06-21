@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2014-15 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2014-15_round2__Q01
 parent: src_bmo_2014-15_round2
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2014-15 — Round 2 — Quesito 1
 
 *Find 2015th term of recursively defined sequence starting at 2014.*
 

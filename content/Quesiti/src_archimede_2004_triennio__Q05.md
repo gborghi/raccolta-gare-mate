@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Triennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_triennio__Q05
 parent: src_archimede_2004_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Triennio — Quesito 5
 
 *numero di alunni della classe*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q11
 parent: src_kangourou_2013_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Semifinale A — Quesito 11
 
 *Prime quattro cifre del numero piu grande cancellando 20 cifre*
 

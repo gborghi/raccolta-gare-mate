@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jmo19yq_yosen__Q08
 parent: src_jmo19yq_yosen
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 8
 
 *Least-degree polynomial in identity f(x^3)+g(x)=f(x)+x^5 g(x)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q16
 parent: src_cesenatico_2011_semifinale_a
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 16
 
 *Numero soluzioni intere di |x|+2|y|=4022*
 

@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2021_nu_fx__Q02
 parent: src_obm_2021_nu_fx
@@ -34,8 +37,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x — Quesito 2
 
 *Find all C² functions satisfying f(t)²=f(t√2) for all real t*
 

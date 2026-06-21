@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2009 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2009__Q03
 parent: src_rmo_2009
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2009 — Quesito 3
 
 *Write 3^2008+4^2009 as product of two integers each >2009^182*
 

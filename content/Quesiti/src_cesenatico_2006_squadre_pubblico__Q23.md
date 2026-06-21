@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q23
 parent: src_cesenatico_2006_squadre_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 23
 
 *Interi pari in [4000,7000] con tutte cifre diverse*
 

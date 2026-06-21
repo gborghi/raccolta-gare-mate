@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin (marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q04
 parent: src_kangourou_2007_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin (marzo) — Quesito 4
 
 *Altezza torre di 1000 cubetti*
 

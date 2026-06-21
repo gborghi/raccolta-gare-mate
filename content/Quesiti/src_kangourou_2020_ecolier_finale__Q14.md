@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Ecolier — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q14
 parent: src_kangourou_2020_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Ecolier — Quesito 14
 
 *Numero di gettoni di Alessio (resti 1 2 3)*
 

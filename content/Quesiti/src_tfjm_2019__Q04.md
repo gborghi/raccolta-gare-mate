@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_tfjm_2019__Q04
 parent: src_tfjm_2019
@@ -32,8 +33,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 4
 
 *Finding a vegetarian pizza hidden in a stack of boxes in the fewest moves*
 

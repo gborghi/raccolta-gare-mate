@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet finale nazionale — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet_finale__QC2
 parent: src_kangourou_2004_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet finale nazionale — Quesito C2
 
 *Min a con somma a+...+9a a cifre uguali*
 

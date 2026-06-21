@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q26
 parent: src_prmo_2018
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 26
 
 *Ways to choose 60 unit squares from 11x11 board with no two sharing a side*
 

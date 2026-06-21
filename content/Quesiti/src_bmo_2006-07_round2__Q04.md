@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2006-07 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2006-07_round2__Q04
 parent: src_bmo_2006-07_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2006-07 — Round 2 — Quesito 4
 
 *Six-city rail network, count ways to close lines keeping full connectivity*
 

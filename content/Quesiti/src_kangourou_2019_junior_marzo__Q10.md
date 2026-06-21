@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q10
 parent: src_kangourou_2019_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 10
 
 *Quali cifre nascoste nelle tre targhe somma 57263*
 

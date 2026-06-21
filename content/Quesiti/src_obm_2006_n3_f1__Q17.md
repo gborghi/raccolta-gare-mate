@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q17
 parent: src_obm_2006_n3_f1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 17
 
 *Two semicircles, diameter PS (measure 1) and QR parallel to PS; smaller semicircle tangent to PS at O; find shaded area.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q23
 parent: src_kangourou_2024_benjamin
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 23
 
 *Minimo numero di colori per le sette linee metropolitane*
 

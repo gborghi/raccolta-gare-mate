@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q16
 parent: src_archimede_2002_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 16
 
 *Confronto aree tratteggiate divise da tre linee*
 

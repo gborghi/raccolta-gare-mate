@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q13
 parent: src_archimede_2017_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 13
 
 *Sostituzione di bibita per ottenere 50% succo*
 

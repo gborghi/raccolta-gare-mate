@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 gara 17 marzo Benjamin
 tipo: gara
 src_id: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Kangourou 2016 gara 17 marzo Benjamin
 
 Sorgente: `Kangaroo/kangourou_individuali/2016/BMarzo-16.pdf` · apri PDF
 

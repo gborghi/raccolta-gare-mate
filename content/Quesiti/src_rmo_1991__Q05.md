@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1991 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_1991__Q05
 parent: src_rmo_1991
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1991 — Quesito 5
 
 *Lines through point on side of triangle, parallelism chain*
 

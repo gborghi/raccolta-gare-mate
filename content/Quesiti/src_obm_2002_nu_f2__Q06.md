@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2002_nu_f2__Q06
 parent: src_obm_2002_nu_f2
@@ -37,8 +40,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 — Quesito 6
 
 *Two conics intersecting at 4 points; tangent lines yield a tangent ellipse or circle*
 

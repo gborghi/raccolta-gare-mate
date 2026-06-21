@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2006_nu_f1__Q02
 parent: src_obm_2006_nu_f1
@@ -35,8 +38,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 — Quesito 2
 
 *Volume of solid defined by floor sum condition*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q01
 parent: src_prmo_2014
@@ -31,8 +32,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 1
 
 *Largest prime factor of k given k^2 < 2014 < (k+1)^2*
 

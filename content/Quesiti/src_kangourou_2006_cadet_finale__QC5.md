@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (finale nazionale) — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet_finale__QC5
 parent: src_kangourou_2006_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (finale nazionale) — Quesito C5
 
 *Risultato della somma ORE+ORE+ORE=VIVE*
 

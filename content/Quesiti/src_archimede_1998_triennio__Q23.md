@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1998 - Triennio — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_triennio__Q23
 parent: src_archimede_1998_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1998 - Triennio — Quesito 23
 
 *Quale espressione e la meta di 4 alla 1998*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f3__Q02
 parent: src_obm_2016_n1_f3
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 2
 
 *Smallest n: any n integer-coordinate points have two with squared distance divisible by 2016*
 

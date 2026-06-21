@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q13
 parent: src_kangourou_2016_preecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 13
 
 *Coppie con differenza minore di 15 tra 7,13,20,30*
 

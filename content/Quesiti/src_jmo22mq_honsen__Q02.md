@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo22mq_honsen__Q02
 parent: src_jmo22mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 2
 
 *Find all real functions satisfying a functional equation*
 

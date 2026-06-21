@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q09
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 9
 
 *Tentativi massimi rune su prisma esagonale a meno di rotazioni*
 

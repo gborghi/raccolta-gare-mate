@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q05
 parent: src_archimede_2013_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 5
 
 *Zeri di 2000! in base 5 e 2013! in base 10, calcolare x-y*
 

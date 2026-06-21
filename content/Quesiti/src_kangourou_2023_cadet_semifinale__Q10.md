@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q10
 parent: src_kangourou_2023_cadet_semifinale
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Semifinale individuale — Quesito 10
 
 *misura angolo ACB*
 

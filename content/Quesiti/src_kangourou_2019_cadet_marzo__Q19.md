@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q19
 parent: src_kangourou_2019_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 19
 
 *Quali griglie 4x4 non si ottengono dai due pezzi*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2013-14 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2013-14_round2__Q01
 parent: src_bmo_2013-14_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2013-14 — Round 2 — Quesito 1
 
 *Minimum colours to colour diagonals of 2014-gon so crossing diagonals differ*
 

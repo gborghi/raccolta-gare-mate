@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q18
 parent: src_kangourou_2024_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 18
 
 *Minimo numero di biglie con probabilita stesso colore 13/24*
 

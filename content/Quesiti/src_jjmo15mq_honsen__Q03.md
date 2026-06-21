@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo15mq_honsen__Q03
 parent: src_jjmo15mq_honsen
@@ -34,8 +35,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 3
 
 *Real numbers on vertices of regular (2n+1)-gon; adjacent sums non-negative; prove nS+(n+1)T≥0*
 

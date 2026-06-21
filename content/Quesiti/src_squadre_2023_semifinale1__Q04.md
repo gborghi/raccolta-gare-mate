@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale1__Q04
 parent: src_squadre_2023_semifinale1
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 1 — Quesito 4
 
 *Disposizioni numeri 1-9 su scacchiera triangolare con vincoli*
 

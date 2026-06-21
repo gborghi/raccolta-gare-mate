@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n3_f1__Q03
 parent: src_obm_2003_n3_f1
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 3
 
 *Count Camila's marked cells in 4x4 Minesweeper-style board*
 

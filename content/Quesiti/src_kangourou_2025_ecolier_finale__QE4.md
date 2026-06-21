@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Ecolier finale — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE4
 parent: src_kangourou_2025_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Ecolier finale — Quesito E4
 
 *Su quale dito cade il conteggio 2025*
 

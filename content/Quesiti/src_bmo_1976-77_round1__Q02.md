@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round1__Q02
 parent: src_bmo_1976-77_round1
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 1 — Quesito 2
 
 *Incircle of triangle: centre lies on midline joining midpoints of BC and AX*
 

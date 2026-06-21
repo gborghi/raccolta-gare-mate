@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q16
 parent: src_kangourou_2019_cadet_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 16
 
 *Rapporto eta mamma/Mara tra lo stesso numero di anni*
 

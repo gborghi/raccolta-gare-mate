@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2018 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_garaprime_2018__Q13
 parent: src_garaprime_2018
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2018 — Quesito 13
 
 *Divisori di 999^9 che sono quadrati o cubi perfetti*
 

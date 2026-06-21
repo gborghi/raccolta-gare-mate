@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q10
 parent: src_kangourou_2020_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 10
 
 *Eta di Sofia con (x-55)(x+55) cubo di primo*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q17
 parent: src_kangourou_2011_junior
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 17
 
 *Max interi consecutivi di tre cifre con almeno una cifra dispari*
 

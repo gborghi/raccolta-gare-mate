@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale B — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_b__Q01
 parent: src_gas_2010_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale B — Quesito 1
 
 *Risposta n auto-referenziale a ((n-1)(n-3)+6)/2*
 

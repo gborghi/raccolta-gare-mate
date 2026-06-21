@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q10
 parent: src_archimede_2001_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 10
 
 *Caselle riempibili dato dilemma cavalieri e furfanti*
 

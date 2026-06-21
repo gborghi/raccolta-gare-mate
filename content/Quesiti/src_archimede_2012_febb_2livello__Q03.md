@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q03
 parent: src_archimede_2012_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 3
 
 *Lato triangolo equilatero dato tesoro equidistante a 1 e 2 metri*
 

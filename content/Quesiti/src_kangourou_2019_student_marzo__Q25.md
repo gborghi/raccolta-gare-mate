@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q25
 parent: src_kangourou_2019_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 25
 
 *Prodotto delle 8 ascisse rette per origine e parabola*
 

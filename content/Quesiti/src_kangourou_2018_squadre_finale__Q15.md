@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2018 Finale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q15
 parent: src_kangourou_2018_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2018 Finale — Quesito 15
 
 *Frazioni irriducibili <1 con somma termini 2018*
 

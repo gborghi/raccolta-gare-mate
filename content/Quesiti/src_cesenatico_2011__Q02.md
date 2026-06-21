@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011__Q02
 parent: src_cesenatico_2011
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 2
 
 *Esistenza di due scalette con MCD termini =1 e >1*
 

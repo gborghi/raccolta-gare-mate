@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n2_f1__Q10
 parent: src_obm_2008_n2_f1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 10
 
 *Five positive integers with given product-sum conditions, find total*
 

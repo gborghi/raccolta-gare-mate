@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet__Q04
 parent: src_kangourou_2004_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo) — Quesito 4
 
 *Quanti semi per la casella col punto interrogativo*
 

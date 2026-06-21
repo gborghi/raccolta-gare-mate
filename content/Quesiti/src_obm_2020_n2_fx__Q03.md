@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n2_fx__Q03
 parent: src_obm_2020_n2_fx
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 3
 
 *Find smallest x_1 so that an infinite integer sequence contains 2020*
 

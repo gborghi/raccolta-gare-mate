@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior_finale__QJ3
 parent: src_kangourou_2011_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J3
 
 *Chi salta circuito con fossato senza cadere e perche*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1992 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1992__Q02
 parent: src_inmo_1992
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1992 — Quesito 2
 
 *Real numbers x,y,z with sum and sum of squares conditions; show x_i in [1/2,2]*
 

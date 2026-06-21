@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q06
 parent: src_canimath_2024_automne
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 6
 
 *Square ABCD, equilateral triangles ABE and DAF exterior; midpoint H of EF, G = (BF)∩(CE); show GH=GC*
 

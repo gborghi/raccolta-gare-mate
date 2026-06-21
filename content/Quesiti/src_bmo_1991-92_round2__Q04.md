@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1991-92 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1991-92_round2__Q04
 parent: src_bmo_1991-92_round2
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1991-92 — Round 2 — Quesito 4
 
 *Dwarf visiting graph: parity of destroyed friendships all even or all odd*
 

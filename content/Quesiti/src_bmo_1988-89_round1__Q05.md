@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1988-89 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1988-89_round1__Q05
 parent: src_bmo_1988-89_round1
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1988-89 — Round 1 — Quesito 5
 
 *Prove sin A + sin B + sin C > 2 for acute triangle*
 

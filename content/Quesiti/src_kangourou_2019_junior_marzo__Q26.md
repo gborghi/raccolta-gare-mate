@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q26
 parent: src_kangourou_2019_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 26
 
 *Quanti valori di A con B=2A+1, C=2B+1 e cifre palindrome*
 

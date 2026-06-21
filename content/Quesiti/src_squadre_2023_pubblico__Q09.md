@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Gara del pubblico — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_pubblico__Q09
 parent: src_squadre_2023_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Gara del pubblico — Quesito 9
 
 *Resto mod 2023 di somma 2^(2 x_k) con ricorrenza cubica*
 

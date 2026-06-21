@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1974-75_round1__Q02
 parent: src_bmo_1974-75_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1974-75 — Round 1 — Quesito 2
 
 *Divisor of difference of prime-set products is 1 or at least p_n*
 

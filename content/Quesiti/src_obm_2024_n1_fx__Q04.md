@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n1_fx__Q04
 parent: src_obm_2024_n1_fx
@@ -39,8 +40,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 4
 
 *Sequence built by repeatedly replacing largest prime factor; properties and initial term*
 

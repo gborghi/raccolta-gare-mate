@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2025_kv__Q05
 parent: src_rmo_2025_kv
@@ -32,8 +33,6 @@ tags:
   - regione/kv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 5
 
 *Acute triangle with angle 60°; reflections of altitude feet bisect BC*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo12mq_honsen__Q02
 parent: src_jjmo12mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 2
 
 *Prove A≤B for minimum consecutive ratios of 2n positive rationals*
 

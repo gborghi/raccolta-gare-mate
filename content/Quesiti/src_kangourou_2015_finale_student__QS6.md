@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Student — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_student__QS6
 parent: src_kangourou_2015_finale_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Student — Quesito S6
 
 *complanari o su sfera?*
 

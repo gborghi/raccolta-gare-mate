@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo33hq_honsen__Q02
 parent: src_jmo33hq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 2
 
 *In acute triangle, line through F parallel to XY meets DY at P; prove AD perp EP*
 

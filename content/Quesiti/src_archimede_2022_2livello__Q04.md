@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_2livello__Q04
 parent: src_archimede_2022_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2022 - 2° livello — Quesito 4
 
 *Polinomio con p(a)+p(b)+p(c)=p(674), valore p(2022)*
 

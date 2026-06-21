@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q12
 parent: src_canimath_2022_automne
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 12
 
 *Odd n; odd number of divisors of 2n up to k; find odd divisor in (k, 2k]*
 

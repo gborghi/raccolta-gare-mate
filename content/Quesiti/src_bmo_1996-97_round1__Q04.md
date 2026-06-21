@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1996-97 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1996-97_round1__Q04
 parent: src_bmo_1996-97_round1
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1996-97 — Round 1 — Quesito 4
 
 *Quadrilateral with inscribed circle; prove PQRS area half of ABCD*
 

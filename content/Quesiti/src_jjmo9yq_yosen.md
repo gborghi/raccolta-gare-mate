@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary)
 tipo: gara
 src_id: src_jjmo9yq_yosen
 competition: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary)
 
 Sorgente: apri PDF
 

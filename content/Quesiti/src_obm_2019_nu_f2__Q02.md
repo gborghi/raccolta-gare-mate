@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2019_nu_f2__Q02
 parent: src_obm_2019_nu_f2
@@ -36,8 +39,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 — Quesito 2
 
 *Existence of a continuous increasing function squeezed between consecutive iterated-exponential growth scales*
 

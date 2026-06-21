@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q05
 parent: src_kangourou_2011_junior
@@ -28,8 +29,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 5
 
 *Spettatori certamente italiani maschi e vegetariani*
 

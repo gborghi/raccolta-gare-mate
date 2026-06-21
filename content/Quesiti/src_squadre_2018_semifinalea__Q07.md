@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q07
 parent: src_squadre_2018_semifinalea
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 7
 
 *Coppie di polinomi grado 4 con un coefficiente dispari nel prodotto*
 

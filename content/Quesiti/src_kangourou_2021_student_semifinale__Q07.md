@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q07
 parent: src_kangourou_2021_student_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 7
 
 *somma diametri impossibile*
 

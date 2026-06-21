@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Junior (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2012_junior_finale
 competition: Kangourou 2012 Finale Junior (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Junior (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2012/JMaggio-12.pdf` · apri PDF
 

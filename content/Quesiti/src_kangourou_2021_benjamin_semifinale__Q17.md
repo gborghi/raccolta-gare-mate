@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - semifinale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q17
 parent: src_kangourou_2021_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - semifinale — Quesito 17
 
 *Quante fette di pizza ha mangiato Marco*
 

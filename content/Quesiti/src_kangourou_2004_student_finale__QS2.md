@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Student finale nazionale — Quesito S2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student_finale__QS2
 parent: src_kangourou_2004_student_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2004 Student finale nazionale — Quesito S2
 
 *Area regione interna a beta esterna a gamma*
 

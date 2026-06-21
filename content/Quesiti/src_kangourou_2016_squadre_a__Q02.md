@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q02
 parent: src_kangourou_2016_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Semifinale A — Quesito 2
 
 *Alunni che sciano e nuotano (sport invernali/estivi)*
 

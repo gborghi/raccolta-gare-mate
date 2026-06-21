@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round1__Q03
 parent: src_bmo_1976-77_round1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 1 — Quesito 3
 
 *Schur-type inequality and a sixth-degree symmetric inequality*
 

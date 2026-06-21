@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q25
 parent: src_kangourou_2012_student
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 25
 
 *Permutazioni con somma ciclica divisibile per 3*
 

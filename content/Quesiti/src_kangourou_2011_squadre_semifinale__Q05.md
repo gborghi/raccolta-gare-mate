@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre semifinale turno A — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q05
 parent: src_kangourou_2011_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre semifinale turno A — Quesito 5
 
 *Numero civico della cugina (lato sinistro dispari)*
 

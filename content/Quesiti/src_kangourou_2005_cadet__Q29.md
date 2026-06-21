@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q29
 parent: src_kangourou_2005_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 29
 
 *Risultato del prodotto di sei numeri (divisibilita)*
 

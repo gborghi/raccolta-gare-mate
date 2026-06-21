@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale1__Q02
 parent: src_squadre_2024_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 1 — Quesito 2
 
 *Area unione di tre rettangoli su diagonali, AB=48 BC=20*
 

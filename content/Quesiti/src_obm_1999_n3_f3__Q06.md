@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n3_f3__Q06
 parent: src_obm_1999_n3_f3
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 6
 
 *Construct minimum-area inscribed triangle with prescribed angles using compass and straightedge*
 

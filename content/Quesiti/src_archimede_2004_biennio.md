@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Biennio
 tipo: gara
 src_id: src_archimede_2004_biennio
 competition: Giochi di Archimede 2004 - Gara Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Biennio
 
 Sorgente: `Archimede/individuale/1livello/2004/testo_biennio3.pdf` · apri PDF
 

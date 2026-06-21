@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale2__Q01
 parent: src_squadre_2024_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 2 — Quesito 1
 
 *Massime strette di mano tra 35 partecipanti in due fazioni*
 

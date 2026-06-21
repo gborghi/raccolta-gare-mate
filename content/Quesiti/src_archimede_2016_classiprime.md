@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016
 tipo: gara
 src_id: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016
 
 Sorgente: `Archimede/individuale/classi prime/2016/GaraNazionaleClassiPrime2016.pdf` · apri PDF
 

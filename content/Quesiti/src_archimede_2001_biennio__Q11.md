@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q11
 parent: src_archimede_2001_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 11
 
 *Numero di cammini su sei cerchi tangenti da A a B*
 

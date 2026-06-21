@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2007-08_round1__Q05
 parent: src_bmo_2007-08_round1
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2007-08 — Round 1 — Quesito 5
 
 *Interior point of triangle; prove a sine-ratio equality*
 

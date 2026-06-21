@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q05
 parent: src_kangourou_2018_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 5
 
 *Massimo numero di cestini con 42,60,90 frutti (MCD)*
 

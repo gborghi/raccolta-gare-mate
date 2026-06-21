@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (finale Cervia) — Quesito B3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_finale__QB3
 parent: src_kangourou_2017_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (finale Cervia) — Quesito B3
 
 *Conviene scegliere 9 o 10 nel gioco dei dadi*
 

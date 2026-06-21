@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__QE2
 parent: src_kangourou_2022_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito E2
 
 *Tempo da A a B nuotando con stessa energia del controcorrente*
 

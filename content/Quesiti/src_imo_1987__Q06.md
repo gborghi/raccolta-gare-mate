@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1987 (28th IMO, Havana) — Quesito 6'
 tipo: quesito
 quesito_id: quesito_src_imo_1987__Q06
 parent: src_imo_1987
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1987 (28th IMO, Havana) — Quesito 6
 
 *Prime-generating quadratic extends primality to larger range*
 

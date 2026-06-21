@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Finale (risposta aperta) — Quesito B3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin_finale__QB3
 parent: src_kangourou_2023_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Finale (risposta aperta) — Quesito B3
 
 *posizione ultimo ragazzo*
 

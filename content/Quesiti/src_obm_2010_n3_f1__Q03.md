@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f1__Q03
 parent: src_obm_2010_n3_f1
@@ -37,8 +38,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 3
 
 *Numbered triangular faces of a solid; count placements with distinct visible faces.*
 

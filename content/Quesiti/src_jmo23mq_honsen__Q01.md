@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2013 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo23mq_honsen__Q01
 parent: src_jmo23mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2013 — Honsen (Final) — Quesito 1
 
 *Distribute candies to grouped people under conditions*
 

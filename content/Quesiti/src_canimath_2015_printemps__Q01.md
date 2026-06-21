@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2015 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_printemps__Q01
 parent: src_canimath_2015_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2015 — Quesito 1
 
 *Three integer operations; find x giving 1945, all x giving 2015*
 

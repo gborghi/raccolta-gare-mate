@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1988 (29th IMO, Canberra) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1988__Q05
 parent: src_imo_1988
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1988 (29th IMO, Canberra) — Quesito 5
 
 *prove area S>=2T*
 

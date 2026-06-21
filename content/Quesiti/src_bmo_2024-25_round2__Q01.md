@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2024-25 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2024-25_round2__Q01
 parent: src_bmo_2024-25_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2024-25 — Round 2 — Quesito 1
 
 *Express 1/n as finite sum of distinct triangular reciprocals*
 

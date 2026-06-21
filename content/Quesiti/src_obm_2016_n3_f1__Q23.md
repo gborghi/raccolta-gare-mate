@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q23
 parent: src_obm_2016_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 23
 
 *Function f summing prime exponents; comparing values and evaluating f(2016)*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo30hq_honsen__Q02
 parent: src_jmo30hq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 2
 
 *Circumcircles and perpendicularity condition in triangle ABC*
 

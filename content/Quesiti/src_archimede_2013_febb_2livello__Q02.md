@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q02
 parent: src_archimede_2013_febb_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 2
 
 *Cavalieri e furfanti, quanti cavalieri dato totale di Si*
 

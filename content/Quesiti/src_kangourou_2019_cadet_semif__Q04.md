@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q04
 parent: src_kangourou_2019_cadet_semif
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 4
 
 *Quanti giorni minimo per cui la seconda proposta conviene*
 

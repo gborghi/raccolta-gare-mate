@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q10
 parent: src_kangourou_2013_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 10
 
 *Diminuzione di volume nella solidificazione*
 

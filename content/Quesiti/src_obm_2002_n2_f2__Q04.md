@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f2__Q04
 parent: src_obm_2002_n2_f2
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 4
 
 *Four birds equidistant from observer post; find distance given BD=16 and angle BAD=45°*
 

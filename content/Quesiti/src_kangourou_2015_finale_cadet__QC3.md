@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Cadet — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_cadet__QC3
 parent: src_kangourou_2015_finale_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Cadet — Quesito C3
 
 *misura angolo ABC*
 

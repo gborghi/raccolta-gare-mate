@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q12
 parent: src_kangourou_2023_kangourou_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 12
 
 *Minimo di 100 numeri in cerchio, media adiacenti*
 

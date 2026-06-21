@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q18
 parent: src_kangourou_2013_student
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 18
 
 *Coppie (x,y) interi con x^2 y^3=6^12*
 

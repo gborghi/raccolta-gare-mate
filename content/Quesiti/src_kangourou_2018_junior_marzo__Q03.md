@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Junior — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q03
 parent: src_kangourou_2018_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Junior — Quesito 3
 
 *Altezza del tavolo dati due dislivelli tra gatti*
 

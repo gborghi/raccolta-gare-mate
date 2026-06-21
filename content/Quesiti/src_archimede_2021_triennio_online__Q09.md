@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio_online__Q09
 parent: src_archimede_2021_triennio_online
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 9
 
 *Parole infinite su A,B evitando certe terne di lettere*
 

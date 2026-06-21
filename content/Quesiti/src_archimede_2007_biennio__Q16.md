@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q16
 parent: src_archimede_2007_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 16
 
 *Contenuto del tubetto di dentifricio prima della riduzione*
 

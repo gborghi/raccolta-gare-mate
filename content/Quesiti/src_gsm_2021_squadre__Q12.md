@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q12
 parent: src_gsm_2021_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 12
 
 *Massimo k con MCD(k^2021-1,k^2020-1) uguale a 2021*
 

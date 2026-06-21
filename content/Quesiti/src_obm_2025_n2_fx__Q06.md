@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n2_fx__Q06
 parent: src_obm_2025_n2_fx
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 6
 
 *Minimum size of an obstructive diagonal set in triangulations of convex n-gon*
 

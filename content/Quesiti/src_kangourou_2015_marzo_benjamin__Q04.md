@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q04
 parent: src_kangourou_2015_marzo_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Benjamin — Quesito 4
 
 *10 galline, uova in 10 giorni*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q13
 parent: src_ioqm_2025_sep07
@@ -35,8 +36,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 13
 
 *Quadrilateral with given sides and angles 30° and 90°; acute angle between diagonals*
 

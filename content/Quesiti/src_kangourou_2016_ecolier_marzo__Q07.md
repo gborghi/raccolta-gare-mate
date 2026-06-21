@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (gara marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q07
 parent: src_kangourou_2016_ecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (gara marzo) — Quesito 7
 
 *Percorsi distinti del topolino nel labirinto*
 

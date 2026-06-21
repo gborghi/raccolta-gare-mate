@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - semifinale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q07
 parent: src_kangourou_2021_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - semifinale — Quesito 7
 
 *Modi di sommare numeri 1..8 per ottenere 30*
 

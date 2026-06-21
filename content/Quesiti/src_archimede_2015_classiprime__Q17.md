@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2015 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_classiprime__Q17
 parent: src_archimede_2015_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2015 — Quesito 17
 
 *Quanti tornei all'italiana possono finire tutti a pari punteggio*
 

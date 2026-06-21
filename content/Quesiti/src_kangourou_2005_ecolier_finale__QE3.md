@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (finale nazionale) — Quesito E3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier_finale__QE3
 parent: src_kangourou_2005_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (finale nazionale) — Quesito E3
 
 *Minimo numero 4 cifre divisibile per ogni sua cifra*
 

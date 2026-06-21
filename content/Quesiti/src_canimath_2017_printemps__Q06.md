@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2017 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_printemps__Q06
 parent: src_canimath_2017_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2017 — Quesito 6
 
 *Find all integers n≥2 where d|n implies (d-1)|(n-1) for all d≥2*
 

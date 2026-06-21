@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo34hq_honsen__Q05
 parent: src_jmo34hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 5
 
 *No positive integer solution to a^2+b^2+c^2+d^2−4√(abcd)=7·2^(2n−1)*
 

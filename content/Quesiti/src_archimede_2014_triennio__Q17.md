@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_triennio__Q17
 parent: src_archimede_2014_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 17
 
 *Volume di un tetraedro regolare di lato 6√2*
 

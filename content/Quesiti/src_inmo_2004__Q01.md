@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2004 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2004__Q01
 parent: src_inmo_2004
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2004 — Quesito 1
 
 *Convex quadrilateral ABCD with midpoints; prove it is a square*
 

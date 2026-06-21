@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2003-04 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2003-04_round2__Q03
 parent: src_bmo_2003-04_round2
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2003-04 — Round 2 — Quesito 3
 
 *Sign of sum of cubes equivalent to sign of sum of fifth powers under zero sum*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q03
 parent: src_kangourou_2019_koala_preecolier
@@ -23,8 +24,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 3
 
 *Quale pezzo puo essere ritagliato dalla griglia*
 

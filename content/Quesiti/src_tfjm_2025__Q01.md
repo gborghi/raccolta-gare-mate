@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_tfjm_2025__Q01
 parent: src_tfjm_2025
@@ -35,8 +36,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 1
 
 *Propagation of good mood among leprechauns on a friendship graph; a number j is realizable if good mood can spread to all leprechauns starting from one.*
 

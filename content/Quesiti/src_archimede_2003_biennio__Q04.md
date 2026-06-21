@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_biennio__Q04
 parent: src_archimede_2003_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Biennio — Quesito 4
 
 *Differenza tra numero massimo e minimo di tessere su griglia*
 

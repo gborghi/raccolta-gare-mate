@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_febbraio_2005__Q10
 parent: src_febbraio_2005
@@ -22,8 +23,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005 — Quesito 10
 
 *gioco con gettoni, strategia vincente*
 

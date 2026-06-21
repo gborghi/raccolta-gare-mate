@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2022 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo20hq_honsen__Q02
 parent: src_jjmo20hq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2022 — Honsen (Final) — Quesito 2
 
 *Stones on a circle, make a cell with n-1 stones in n-2 moves*
 

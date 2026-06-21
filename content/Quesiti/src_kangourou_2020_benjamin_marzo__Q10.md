@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q10
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 10
 
 *In quale punto si incontrano cane e gatto (velocita tripla)*
 

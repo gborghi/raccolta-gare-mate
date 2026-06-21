@@ -1,4 +1,5 @@
 ---
+title: IMO 1963 (V International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imho_1963__Q01
 parent: src_imho_1963
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1963 (V International Olympiad) — Quesito 1
 
 *Radici reali di sqrt(x^2-p)+2 sqrt(x^2-1)=x*
 

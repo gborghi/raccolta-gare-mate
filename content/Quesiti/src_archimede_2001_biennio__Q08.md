@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q08
 parent: src_archimede_2001_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 8
 
 *Minimo cubi per costruire scatola aperta 10x10x10*
 

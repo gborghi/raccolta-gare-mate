@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q15
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 15
 
 *Positive integers satisfying 17(abcd+ab+ad+cd+1)=20(bcd+b+d); find a²+b²+c²+d²*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q08
 parent: src_jjmo4q
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 8
 
 *Find triples of mutually coprime positive integers where two of any two are perfect squares, with minimum sum*
 

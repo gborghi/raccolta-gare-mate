@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (gara marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q03
 parent: src_kangourou_2016_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (gara marzo) — Quesito 3
 
 *condivise con 5 amiche, mezza ciascuna*
 

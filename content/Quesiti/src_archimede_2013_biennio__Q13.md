@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q13
 parent: src_archimede_2013_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 13
 
 *Probabilita due palline dello stesso colore*
 

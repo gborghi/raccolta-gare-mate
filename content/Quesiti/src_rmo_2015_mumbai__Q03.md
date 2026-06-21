@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Mumbai — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_mumbai__Q03
 parent: src_rmo_2015_mumbai
@@ -34,8 +35,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Mumbai — Quesito 3
 
 *Non-constant polynomial with positive coefficients: prove P(-2015)=0 impossible*
 

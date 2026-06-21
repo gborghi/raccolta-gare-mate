@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q28
 parent: src_kangourou_2012_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 28
 
 *Somma delle aree dei due rettangoli grigi dopo le piegature*
 

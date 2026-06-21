@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1997 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_1997__Q04
 parent: src_inmo_1997
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1997 — Quesito 4
 
 *100 rays from square center divide square into 100 equal parts; bound p*
 

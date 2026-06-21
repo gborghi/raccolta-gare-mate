@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Student (finale nazionale) — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_student_finale__QS6
 parent: src_kangourou_2005_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Student (finale nazionale) — Quesito S6
 
 *Luogo dei punti medi tra due circonferenze esterne*
 

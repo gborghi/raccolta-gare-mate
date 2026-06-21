@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q06
 parent: src_kangourou_2003_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 6
 
 *Distanza BC da AC, BD, AD*
 

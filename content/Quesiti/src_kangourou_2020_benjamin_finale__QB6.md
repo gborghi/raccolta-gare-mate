@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Benjamin — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_finale__QB6
 parent: src_kangourou_2020_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Benjamin — Quesito B6
 
 *Cifra delle unita di n con 7n di 2021 cifre*
 

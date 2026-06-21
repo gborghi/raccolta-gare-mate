@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q12
 parent: src_kangourou_2006_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 12
 
 *Differenza somma primi 1000 pari e dispari*
 

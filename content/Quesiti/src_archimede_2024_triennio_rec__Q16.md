@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q16
 parent: src_archimede_2024_triennio_rec
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 16
 
 *Probabilita che due divisori di 18000 siano primi tra loro*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q05
 parent: src_kangourou_2022_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 5
 
 *Cifra delle unita del prodotto finale dei numeri 2021-2029*
 

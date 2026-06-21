@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q24
 parent: src_kangourou_2011_student
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 24
 
 *Quale puo essere il numero totale di palline*
 

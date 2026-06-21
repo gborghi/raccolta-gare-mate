@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round2__Q06
 parent: src_bmo_1987-88_round2
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 2 — Quesito 6
 
 *If two triangles have sides a1,b1,c1 and a2,b2,c2, prove geometric means form a triangle*
 

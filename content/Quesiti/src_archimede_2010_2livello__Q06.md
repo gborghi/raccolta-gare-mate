@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_2livello__Q06
 parent: src_archimede_2010_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 6
 
 *Distanza minima sul cono per raggiungere porta dell'Inferno*
 

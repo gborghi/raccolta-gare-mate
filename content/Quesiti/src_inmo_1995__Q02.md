@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1995 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1995__Q02
 parent: src_inmo_1995
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1995 — Quesito 2
 
 *Infinitely many coprime pairs with two quadratics having integer roots*
 

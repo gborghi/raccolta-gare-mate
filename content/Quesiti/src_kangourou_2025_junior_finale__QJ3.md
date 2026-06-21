@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Junior finale — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_junior_finale__QJ3
 parent: src_kangourou_2025_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Junior finale — Quesito J3
 
 *In quanti modi 270 come somma interi consecutivi*
 

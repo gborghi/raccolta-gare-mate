@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1972-73_round1__Q03
 parent: src_bmo_1972-73_round1
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1972-73 — Round 1 — Quesito 3
 
 *String over hemisphere-on-cylinder surface does not lie in a plane*
 

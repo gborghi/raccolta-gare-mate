@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f1__Q19
 parent: src_obm_2011_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 19
 
 *Max presses of broken sqrt (sqrt or /100) to first get below 2*
 

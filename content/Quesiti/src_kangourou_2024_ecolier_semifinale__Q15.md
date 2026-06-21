@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q15
 parent: src_kangourou_2024_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Ecolier 2024 — Quesito 15
 
 *Prodotto di 9 numeri 2 o 3 tra 600 e 1000*
 

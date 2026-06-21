@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_triennio__Q16
 parent: src_archimede_2017_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Triennio — Quesito 16
 
 *Quadrati in griglia 7x7 contenenti casella centrale*
 

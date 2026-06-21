@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_biennio__Q11
 parent: src_archimede_1996_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Biennio — Quesito 11
 
 *Peso finale delle angurie dopo evaporazione*
 

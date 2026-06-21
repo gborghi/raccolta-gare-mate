@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2024_n1_fx__Q05
 parent: src_obm_2024_n1_fx
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 5
 
 *Six-team football championship, find minimum possible highest score*
 

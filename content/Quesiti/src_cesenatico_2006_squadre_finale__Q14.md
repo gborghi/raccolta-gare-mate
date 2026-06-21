@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q14
 parent: src_cesenatico_2006_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 14
 
 *Rapporto 1000 A/B aree triangoli in dodecagono*
 

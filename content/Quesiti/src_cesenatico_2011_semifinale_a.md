@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale A
 tipo: gara
 src_id: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale A
 
 Sorgente: `Archimede/squadre/nazionale/2011/Agas11.pdf` · apri PDF
 

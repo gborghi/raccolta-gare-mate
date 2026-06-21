@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x —
+  Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2025_nu_fx__Q02
 parent: src_obm_2025_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x — Quesito 2
 
 *Integer sequences; infinitely many N and M with ratio conditions*
 

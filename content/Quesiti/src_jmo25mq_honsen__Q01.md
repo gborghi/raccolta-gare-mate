@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo25mq_honsen__Q01
 parent: src_jmo25mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 1
 
 *Find all positive integers n making 10^n/(n^3+n^2+n+1) an integer*
 

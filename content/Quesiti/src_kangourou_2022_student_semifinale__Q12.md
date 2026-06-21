@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Semifinale individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q12
 parent: src_kangourou_2022_student_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Semifinale individuale — Quesito 12
 
 *bordo uguale all'interno*
 

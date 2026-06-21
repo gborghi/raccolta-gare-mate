@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025
 tipo: gara
 src_id: src_tfjm_2025
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025
@@ -15,8 +16,6 @@ tags:
   - anno/2025
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2012 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2012__Q04
 parent: src_inmo_2012
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2012 — Quesito 4
 
 *Count 'good' interior points of triangle yielding 27 equal-area sub-triangles*
 

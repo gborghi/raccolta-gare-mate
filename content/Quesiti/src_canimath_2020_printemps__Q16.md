@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q16
 parent: src_canimath_2020_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 16
 
 *Find all S so that positive integers each <=10 summing to S can always be split into two groups each <=70*
 

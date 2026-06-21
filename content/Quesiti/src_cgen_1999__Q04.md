@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1999 — Matematica — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cgen_1999__Q04
 parent: src_cgen_1999
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1999 — Matematica — Quesito 4
 
 *Candy-eating algorithm: prove last candy eaten is red*
 

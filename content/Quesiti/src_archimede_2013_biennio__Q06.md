@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_biennio__Q06
 parent: src_archimede_2013_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio — Quesito 6
 
 *Numero di matematici a un convegno con vincoli*
 

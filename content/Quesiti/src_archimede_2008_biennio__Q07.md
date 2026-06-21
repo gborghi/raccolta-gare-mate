@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q07
 parent: src_archimede_2008_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 7
 
 *Frazione percorsa dalla mamma all'incontro con Pietro*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q06
 parent: src_prmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 6
 
 *Find q-p where sum of 1/i(i+1)(i+2) from 1 to 10 equals p/q in lowest terms*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r1__Q03
 parent: src_rmo_2013_r1
@@ -31,8 +32,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 1 — Quesito 3
 
 *Find all primes p,q such that p divides q^2-4 and q divides p^2-1*
 

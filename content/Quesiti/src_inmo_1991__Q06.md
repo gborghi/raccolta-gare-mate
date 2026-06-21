@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1991 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1991__Q06
 parent: src_inmo_1991
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1991 — Quesito 6
 
 *Find positive integers p for which 3^(p-1) divides 2^p+1; 3^(n+2) does not divide 2^n+1+1*
 

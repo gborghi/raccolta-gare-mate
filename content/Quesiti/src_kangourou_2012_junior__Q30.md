@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q30
 parent: src_kangourou_2012_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 30
 
 *Lunghezza del cammino del vertice del triangolo ruotante*
 

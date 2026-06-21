@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q11
 parent: src_jjmo4q
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 11
 
 *Count colorings of 3×3 grid with 3 or 4 colors; adjacent cells different colors*
 

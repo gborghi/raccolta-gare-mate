@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q19
 parent: src_archimede_2001_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 19
 
 *Area quadrilatero EFGH da triangoli isosceli esterni*
 

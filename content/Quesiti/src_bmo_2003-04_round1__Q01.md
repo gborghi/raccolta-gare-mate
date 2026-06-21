@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2003-04 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2003-04_round1__Q01
 parent: src_bmo_2003-04_round1
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2003-04 — Round 1 — Quesito 1
 
 *Solve simultaneous equations in four real numbers*
 

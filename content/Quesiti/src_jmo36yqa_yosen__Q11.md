@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo36yqa_yosen__Q11
 parent: src_jmo36yqa_yosen
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 11
 
 *Count sequences (a_1,...,a_26) in [1,20] satisfying a partial-sum balance condition for all pairs*
 

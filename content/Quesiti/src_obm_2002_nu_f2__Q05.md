@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2002_nu_f2__Q05
 parent: src_obm_2002_nu_f2
@@ -35,8 +38,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 — Quesito 5
 
 *Iterated logarithm product defines a_n; determine convergence of sum 1/a_n*
 

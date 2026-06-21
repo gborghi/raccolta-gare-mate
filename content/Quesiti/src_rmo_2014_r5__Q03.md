@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 5 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r5__Q03
 parent: src_rmo_2014_r5
@@ -31,8 +32,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 5 — Quesito 3
 
 *Angle bisectors from perpendicular bisectors in acute triangle; prove BO perp to DE*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2025-26 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2025-26_round2__Q03
 parent: src_bmo_2025-26_round2
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2025-26 — Round 2 — Quesito 3
 
 *30x30 grid with entries -1,0,1; 300 of each; row and column sums all different?*
 

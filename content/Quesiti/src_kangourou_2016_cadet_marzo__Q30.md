@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Cadet (gara marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q30
 parent: src_kangourou_2016_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2016 Cadet (gara marzo) — Quesito 30
 
 *la sesta faccia*
 

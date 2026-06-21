@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Cadet (18 marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_cadet__Q26
 parent: src_kangourou_2004_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Cadet (18 marzo) — Quesito 26
 
 *Differenza x-y dopo 999 secondi (vertici)*
 

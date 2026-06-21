@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_benjamin__Q22
 parent: src_kangourou_2002_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Benjamin (21 marzo) — Quesito 22
 
 *Applausi per multipli o cifra 3*
 

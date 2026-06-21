@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q05
 parent: src_kangourou_2016_squadre_ecolier_f
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 5
 
 *Lato quadrato tagliato in 36 quadrati (uno piu grande)*
 

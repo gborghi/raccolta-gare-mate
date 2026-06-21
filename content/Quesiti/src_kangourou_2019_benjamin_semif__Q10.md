@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q10
 parent: src_kangourou_2019_benjamin_semif
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 10
 
 *Cifra al 2019-esimo posto della sequenza 20189102...*
 

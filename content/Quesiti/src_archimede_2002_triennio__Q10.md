@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_triennio__Q10
 parent: src_archimede_2002_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Triennio — Quesito 10
 
 *Numero commensali da resti e divisibilita per 7*
 

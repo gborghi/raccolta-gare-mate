@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q08
 parent: src_kangourou_2019_cadet_semif
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 8
 
 *Somma del piu piccolo e piu grande di 1009 consecutivi*
 

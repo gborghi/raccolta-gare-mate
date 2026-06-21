@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q11
 parent: src_selection_camp_2018
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 11
 
 *n×n×n cube colored with unit cubes: maximize colors such that every n×n×1 slab has the same color multiset*
 

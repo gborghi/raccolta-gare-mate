@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q13
 parent: src_archimede_1997_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 13
 
 *Conviene tirare o fermarsi nel gioco del dado*
 

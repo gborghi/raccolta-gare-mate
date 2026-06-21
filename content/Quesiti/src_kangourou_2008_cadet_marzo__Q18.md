@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q18
 parent: src_kangourou_2008_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 18
 
 *Somma carte del primo saggio (parita)*
 

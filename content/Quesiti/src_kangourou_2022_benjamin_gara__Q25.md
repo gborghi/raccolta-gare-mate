@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q25
 parent: src_kangourou_2022_benjamin_gara
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 25
 
 *Quanti numeri scrivibili nel riquadro ombreggiato*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 2019 papers — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2019__Q06
 parent: src_imo_2019
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 2019 papers — Quesito 6
 
 *DI e PQ si incontrano su retta per A perp AI*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q12
 parent: src_ioqm_2022
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 12
 
 *Triangle with angles 60 and 30, isosceles trapezium BPQR inside, find minimum area ratio*
 

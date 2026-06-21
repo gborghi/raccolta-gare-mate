@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q11
 parent: src_archimede_2020_riserva_biennio
@@ -21,8 +22,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 11
 
 *Volume scatola da tre aree delle facce*
 

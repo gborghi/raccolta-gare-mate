@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_2livello__Q09
 parent: src_archimede_2022_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2022 - 2° livello — Quesito 9
 
 *Successione ricorsiva, minimo n con a_n divisibile per 2022*
 

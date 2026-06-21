@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q02
 parent: src_canimath_2020_automne
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 2
 
 *Find the number of floors of two buildings given total bathrooms and bedrooms*
 

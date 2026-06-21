@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q20
 parent: src_kangourou_2019_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 20
 
 *Valore di N con diametro per 7 e 23*
 

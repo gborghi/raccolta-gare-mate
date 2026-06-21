@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q04
 parent: src_cesenatico_2012_semifinale_c
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 4
 
 *Altra radice di x^2-bx+c=0 (b dispari, b|c)*
 

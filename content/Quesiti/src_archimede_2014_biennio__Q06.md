@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_biennio__Q06
 parent: src_archimede_2014_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 6
 
 *Operai per dirigente da vincoli sugli stipendi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Cadet (gara marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q01
 parent: src_kangourou_2016_cadet_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Cadet (gara marzo) — Quesito 1
 
 *Quanti interi tra -20,16 e 3,17*
 

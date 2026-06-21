@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q09
 parent: src_gsm_2025_squadre
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 9
 
 *Probabilita che la spezzata passi per l'origine*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q19
 parent: src_kangourou_2005_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 19
 
 *Larghezza vialetto da differenza perimetri*
 

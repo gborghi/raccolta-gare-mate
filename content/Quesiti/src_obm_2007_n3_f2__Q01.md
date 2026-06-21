@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f2__Q01
 parent: src_obm_2007_n3_f2
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 1
 
 *Count the divisors less than 2007 of the largest divisor of 123456 below 2007*
 

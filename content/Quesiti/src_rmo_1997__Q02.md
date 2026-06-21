@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1997 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1997__Q02
 parent: src_rmo_1997
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1997 — Quesito 2
 
 *Find all values taken by a sequence term given gcd recurrence*
 

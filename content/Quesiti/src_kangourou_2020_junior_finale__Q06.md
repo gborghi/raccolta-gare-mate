@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q06
 parent: src_kangourou_2020_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2020 Finale — Quesito 6
 
 *Anno di nascita dell'avo (sistema diofanteo)*
 

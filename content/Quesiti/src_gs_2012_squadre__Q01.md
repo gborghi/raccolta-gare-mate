@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2012 - Gara a squadre — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_gs_2012_squadre__Q01
 parent: src_gs_2012_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Coppa Galileo 2012 - Gara a squadre — Quesito 1
 
 *Rapporto fra aree per dimezzamenti successivi*
 

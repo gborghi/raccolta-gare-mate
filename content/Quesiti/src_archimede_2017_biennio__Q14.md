@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q14
 parent: src_archimede_2017_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 14
 
 *Area trapezio isoscele inscritto in circonferenza*
 

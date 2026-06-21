@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1985-86 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1985-86_round2__Q04
 parent: src_bmo_1985-86_round2
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1985-86 — Round 2 — Quesito 4
 
 *Product of binomial coefficients divisible by $n^2$*
 

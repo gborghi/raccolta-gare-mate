@@ -1,4 +1,5 @@
 ---
+title: Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_individuale__Q01
 parent: src_archimede_2003_individuale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 1
 
 *divisibilita dei numeri di cifre*
 

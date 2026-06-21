@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q18
 parent: src_kangourou_2024_benjamin_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 18
 
 *Per quanti secondi Aldo aspetta Bernardo (raggi ruote)*
 

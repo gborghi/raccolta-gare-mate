@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Cadet — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q02
 parent: src_kangourou_2019_cadet_semif
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Cadet — Quesito 2
 
 *Quale poligono non si puo staccare con un taglio*
 

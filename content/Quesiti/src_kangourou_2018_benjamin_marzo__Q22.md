@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q22
 parent: src_kangourou_2018_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 22
 
 *Numero al 2018-esimo posto della sequenza*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q02
 parent: src_canimath_2024_automne
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 2
 
 *Find angle QDP using two angle bisectors from point D on triangle side*
 

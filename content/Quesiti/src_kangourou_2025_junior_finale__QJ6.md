@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Junior finale — Quesito J6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_junior_finale__QJ6
 parent: src_kangourou_2025_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2025 Junior finale — Quesito J6
 
 *n interi distinti ciascuno divide somma altri n-1*
 

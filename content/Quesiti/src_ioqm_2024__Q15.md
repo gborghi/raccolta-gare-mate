@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q15
 parent: src_ioqm_2024
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 15
 
 *Smallest n so that 20 consecutive integers from n form acute triangle triples*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q04
 parent: src_canimath_2024_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 4
 
 *Color n positive reals blue/green/red so each color's sum is less than sum of others*
 

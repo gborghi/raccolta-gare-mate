@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q22
 parent: src_kangourou_2021_preecolier_koala
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 22
 
 *Minimo numero di vassoi di biscotti per il piatto*
 

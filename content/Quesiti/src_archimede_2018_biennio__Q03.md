@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q03
 parent: src_archimede_2018_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 3
 
 *Cubetti con due facce dipinte in un cubo 10x10x10*
 

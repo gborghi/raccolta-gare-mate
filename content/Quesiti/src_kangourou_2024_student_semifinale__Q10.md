@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q10
 parent: src_kangourou_2024_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 10
 
 *Valore di (cd-ab)(c+d) con somma e somma inversi nulle*
 

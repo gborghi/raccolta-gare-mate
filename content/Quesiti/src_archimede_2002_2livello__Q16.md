@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2002 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_2livello__Q16
 parent: src_archimede_2002_2livello
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2002 — Quesito 16
 
 *dimostrare uguaglianza di angoli*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1983-84 — Round 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1983-84_round2__Q05
 parent: src_bmo_1983-84_round2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1983-84 — Round 2 — Quesito 5
 
 *Polynomial with integer coefficients approximating p/q on interval of length 1/q*
 

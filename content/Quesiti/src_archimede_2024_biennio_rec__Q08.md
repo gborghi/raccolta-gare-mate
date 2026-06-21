@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q08
 parent: src_archimede_2024_biennio_rec
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 8
 
 *Valore di una espressione con potenze*
 

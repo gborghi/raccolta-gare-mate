@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q04
 parent: src_cesenatico_2006_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 4
 
 *Coefficiente di x^2006 in prodotto di polinomi*
 

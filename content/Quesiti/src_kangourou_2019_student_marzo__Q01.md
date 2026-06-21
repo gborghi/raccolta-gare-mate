@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q01
 parent: src_kangourou_2019_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 1
 
 *Gli altri due valori delle somme righe/colonne tabella 2x2*
 

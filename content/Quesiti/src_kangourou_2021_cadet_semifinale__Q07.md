@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - semifinale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q07
 parent: src_kangourou_2021_cadet_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - semifinale — Quesito 7
 
 *Somma 2+5+8+...+2021*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 2021 papers — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_2021__Q02
 parent: src_imo_2021
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 2021 papers — Quesito 2
 
 *Disuguaglianza somme radici |xi-xj|<=|xi+xj|*
 

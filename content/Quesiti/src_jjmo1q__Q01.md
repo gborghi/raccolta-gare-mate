@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q01
 parent: src_jjmo1q
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 1
 
 *Compute a decimal arithmetic expression*
 

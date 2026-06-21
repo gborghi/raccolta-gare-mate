@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q21
 parent: src_squadre_2018_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 21
 
 *Coefficienti a,b,c di gradi 11,12,13 in prodotto di polinomi*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q08
 parent: src_gs_2008_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 8
 
 *Area superficie totale del cilindro*
 

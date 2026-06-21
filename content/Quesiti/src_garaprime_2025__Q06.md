@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q06
 parent: src_garaprime_2025
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 6
 
 *Massimo punti in cerchio a distanza almeno 1*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q10
 parent: src_kangourou_2005_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 10
 
 *Massimo numero KANGOUROU con codice crescente*
 

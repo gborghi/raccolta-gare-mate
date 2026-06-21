@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q15
 parent: src_canimath_2025_automne
@@ -34,8 +35,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 15
 
 *Largest and smallest a-b for positive reals with running averages between 0 and 1*
 

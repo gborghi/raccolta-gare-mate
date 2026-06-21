@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q08
 parent: src_kangourou_2008_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 8
 
 *Chi puo costruire un cubo pieno*
 

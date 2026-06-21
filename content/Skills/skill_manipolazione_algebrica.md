@@ -1,11 +1,10 @@
 ---
+title: Manipolazione algebrica
 tipo: skill
 concept_id: skill_manipolazione_algebrica
 tags:
   - graph/skill
 ---
-
-# Manipolazione algebrica
 
 *skill* — **1367** quesiti (italiani).
 

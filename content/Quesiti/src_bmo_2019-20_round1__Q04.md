@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2019-20_round1__Q04
 parent: src_bmo_2019-20_round1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2019-20 — Round 1 — Quesito 4
 
 *Penguins queue with ticket rules; find counts near tickets 2 and 33*
 

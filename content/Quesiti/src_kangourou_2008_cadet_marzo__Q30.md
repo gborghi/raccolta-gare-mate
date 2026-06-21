@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q30
 parent: src_kangourou_2008_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 30
 
 *Affermazione falsa su M (area 1)*
 

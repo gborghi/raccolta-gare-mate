@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_gara_cd_rd__Q04
 parent: src_archimede_2026_squadre_gara_cd_rd
@@ -23,8 +24,6 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 4
 
 *Valore minimo di (x+y)^2 con xy=5*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n1_f1__Q20
 parent: src_obm_2005_n1_f1
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 20
 
 *Minimum colors to paint 3x3 grid with no row/column/diagonal repeat*
 

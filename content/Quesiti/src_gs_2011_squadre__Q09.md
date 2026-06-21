@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q09
 parent: src_gs_2011_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 9
 
 *Probabilita attivazione esattamente alla quinta pressione*
 

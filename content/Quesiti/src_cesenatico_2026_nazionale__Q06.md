@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2026_nazionale__Q06
 parent: src_cesenatico_2026_nazionale
@@ -30,8 +31,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 6
 
 *Lunghezza fila di musicisti supera 42 m?*
 

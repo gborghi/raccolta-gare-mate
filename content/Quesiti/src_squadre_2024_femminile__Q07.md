@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q07
 parent: src_squadre_2024_femminile
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 7
 
 *Probabilita evitare caselle (k,k+2) su griglia 2024*
 

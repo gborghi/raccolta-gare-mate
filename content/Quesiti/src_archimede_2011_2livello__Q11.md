@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_2livello__Q11
 parent: src_archimede_2011_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 11
 
 *Coppie (x,y) con x^2-y^2 multiplo di 2011 e 2011 divisori*
 

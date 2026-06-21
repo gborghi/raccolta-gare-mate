@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q12
 parent: src_kangourou_2017_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 12
 
 *Minimo piante da aggiungere per distanze uguali*
 

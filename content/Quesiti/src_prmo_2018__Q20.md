@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q20
 parent: src_prmo_2018
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 20
 
 *Sum of positive integers n whose digit product equals n^2-15n-27*
 

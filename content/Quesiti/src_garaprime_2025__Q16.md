@@ -1,4 +1,5 @@
 ---
+title: X Gara Nazionale Classi Prime 2025 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_garaprime_2025__Q16
 parent: src_garaprime_2025
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# X Gara Nazionale Classi Prime 2025 — Quesito 16
 
 *Massimo mcm di interi positivi con somma 10*
 

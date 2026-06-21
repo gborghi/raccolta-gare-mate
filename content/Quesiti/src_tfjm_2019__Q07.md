@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_tfjm_2019__Q07
 parent: src_tfjm_2019
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 7
 
 *Distributing chocolates round-robin to children in a line; when the configuration becomes balanced*
 

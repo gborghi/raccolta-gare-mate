@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q10
 parent: src_kangourou_2016_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (gara marzo) — Quesito 10
 
 *Numeri nascosti su due cartellini, somma totale 32*
 

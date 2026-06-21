@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Finale (risposta aperta) — Quesito B5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin_finale__QB5
 parent: src_kangourou_2023_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Finale (risposta aperta) — Quesito B5
 
 *parola*
 

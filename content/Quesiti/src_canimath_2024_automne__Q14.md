@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q14
 parent: src_canimath_2024_automne
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 14
 
 *100 reals on circle, each ≤ sum of two neighbors; max number of strictly positive ones*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1998-99 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1998-99_round1__Q01
 parent: src_bmo_1998-99_round1
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1998-99 — Round 1 — Quesito 1
 
 *Four children's distinct ages satisfying two squared-sum conditions*
 

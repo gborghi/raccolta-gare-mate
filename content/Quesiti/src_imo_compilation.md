@@ -1,4 +1,5 @@
 ---
+title: IMO compilation 1959-2013
 tipo: gara
 src_id: src_imo_compilation
 competition: IMO compilation 1959-2013
@@ -15,8 +16,6 @@ tags:
   - anno/
   - gara/individuale
 ---
-
-# IMO compilation 1959-2013
 
 Sorgente: `Archimede/individuale/imho/imho.pdf` · apri PDF
 

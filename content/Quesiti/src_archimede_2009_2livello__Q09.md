@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q09
 parent: src_archimede_2009_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 9
 
 *Quanti n con rappresentazione base 2 uguale a base 3 di 2n*
 

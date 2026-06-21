@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q04
 parent: src_archimede_2009_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 4
 
 *Scelte di n perche pulce torni al 12 dopo 12 salti*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo9mq_honsen__Q02
 parent: src_jjmo9mq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 2
 
 *n a perfect square; find the n smallest integers expressible as product of two factors each at most n*
 

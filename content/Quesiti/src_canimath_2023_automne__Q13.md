@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2023 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_automne__Q13
 parent: src_canimath_2023_automne
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2023 — Quesito 13
 
 *Regular sets are arithmetic progressions; super-regular if both the set and its reciprocals are regular; largest n with a super-regular set of n distinct nonzero reals (lycee)*
 

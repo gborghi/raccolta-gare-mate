@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1993 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_1993__Q02
 parent: src_cgen_1993
@@ -34,8 +35,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1993 — Matematica — Quesito 2
 
 *Existence of 2n+1 consecutive integers satisfying sum / sum-of-squares / sum-of-cubes equality*
 

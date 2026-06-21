@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1993-94 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1993-94_round2__Q01
 parent: src_bmo_1993-94_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1993-94 — Round 2 — Quesito 1
 
 *Find first integer n>1 whose sum-of-squares average is a perfect square*
 

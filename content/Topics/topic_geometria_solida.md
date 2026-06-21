@@ -1,11 +1,10 @@
 ---
+title: Geometria solida
 tipo: topic
 concept_id: topic_geometria_solida
 tags:
   - graph/topic
 ---
-
-# Geometria solida
 
 *topic* — **603** quesiti (italiani).
 

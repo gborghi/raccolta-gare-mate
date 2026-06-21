@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f1__Q19
 parent: src_obm_2005_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 19
 
 *Smaller circles of equal radius r, centres at vertices of a square, inside larger circle; ratio of grey areas a/b*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2019 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_garaprime_2019__Q16
 parent: src_garaprime_2019
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2019 — Quesito 16
 
 *Somma degli spigoli del parallelepipedo con 60 cubetti*
 

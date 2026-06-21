@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2020 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_printemps__Q15
 parent: src_canimath_2020_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2020 — Quesito 15
 
 *Square ABCD with exterior equilateral triangle BCS; N,H,P midpoints; compute angles BPN and NHC*
 

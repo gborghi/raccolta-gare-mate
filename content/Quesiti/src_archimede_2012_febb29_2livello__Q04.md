@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q04
 parent: src_archimede_2012_febb29_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 4
 
 *Radici di 2x^3-7x^2-2x+12 con 4a=3(b+c), calcolare a+bc*
 

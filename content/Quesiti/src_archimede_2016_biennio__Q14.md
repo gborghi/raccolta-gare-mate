@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_biennio__Q14
 parent: src_archimede_2016_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Biennio — Quesito 14
 
 *Area regione formata da 4 archi raggio 2*
 

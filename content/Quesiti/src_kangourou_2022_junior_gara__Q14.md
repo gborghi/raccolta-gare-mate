@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q14
 parent: src_kangourou_2022_junior_gara
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 14
 
 *Oggetti rimasti dopo eliminazioni successive su 2022*
 

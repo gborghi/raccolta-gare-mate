@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q08
 parent: src_kangourou_2020_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2020 Finale — Quesito 8
 
 *Area del quadrato con tre rette parallele*
 

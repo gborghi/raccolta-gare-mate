@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q13
 parent: src_kangourou_2005_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 13
 
 *Quale rettangolo va in posizione I*
 

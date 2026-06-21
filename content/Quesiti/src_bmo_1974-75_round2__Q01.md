@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1974-75 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1974-75_round2__Q01
 parent: src_bmo_1974-75_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1974-75 — Round 2 — Quesito 1
 
 *Real function with f(x-y)=f(x)-f(y)+bxy; continuity and differentiability*
 

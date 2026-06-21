@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q20
 parent: src_kangourou_2012_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 20
 
 *Ultima cifra diversa da 0 del numero 2^59 3^4 5^53*
 

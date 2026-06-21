@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q12
 parent: src_kangourou_2021_preecolier_koala
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 12
 
 *Parola nascosta dal codice 3B 1D 4D 2B*
 

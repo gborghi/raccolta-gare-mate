@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q12
 parent: src_kangourou_2009_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale — Quesito 12
 
 *Minimo numero nella cella A della griglia 3x4 multipli*
 

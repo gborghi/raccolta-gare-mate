@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin (18 marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin__Q13
 parent: src_kangourou_2004_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin (18 marzo) — Quesito 13
 
 *Cifra del quadrato nell'addizione criptata*
 

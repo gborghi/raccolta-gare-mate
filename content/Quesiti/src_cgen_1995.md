@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1995 — Matematica
 tipo: gara
 src_id: src_cgen_1995
 competition: Concours Général des Lycées 1995 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/1995
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1995 — Matematica
 
 Sorgente: apri PDF
 

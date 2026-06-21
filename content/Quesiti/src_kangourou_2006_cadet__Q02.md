@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q02
 parent: src_kangourou_2006_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 2
 
 *Evento piu probabile nel lancio di un dado*
 

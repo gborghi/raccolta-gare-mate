@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q19
 parent: src_ioqm_2024
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 19
 
 *Color 10 lines among 5 points so no monochromatic triangle exists*
 

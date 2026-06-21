@@ -1,4 +1,5 @@
 ---
+title: IMO 1965 (Seventh International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1965_all__Q02
 parent: src_imo_1965_all
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1965 (Seventh International Olympiad) — Quesito 2
 
 *Prove diagonally-dominant 3x3 system has only zero solution*
 

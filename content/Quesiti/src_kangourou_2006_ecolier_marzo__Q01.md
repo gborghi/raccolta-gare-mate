@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q01
 parent: src_kangourou_2006_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 1
 
 *Giorno della settimana del compleanno*
 

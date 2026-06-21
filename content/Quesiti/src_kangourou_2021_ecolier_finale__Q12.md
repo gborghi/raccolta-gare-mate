@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q12
 parent: src_kangourou_2021_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 12
 
 *Confezioni da 5 per 100 biscotti col minimo numero*
 

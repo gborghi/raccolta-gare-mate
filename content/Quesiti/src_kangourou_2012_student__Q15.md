@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q15
 parent: src_kangourou_2012_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 15
 
 *Area regione unione di tre quadrati e triangolo in aiuola*
 

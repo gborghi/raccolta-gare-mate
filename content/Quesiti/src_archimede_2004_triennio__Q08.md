@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2004 - Gara Triennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2004_triennio__Q08
 parent: src_archimede_2004_triennio
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2004 - Gara Triennio — Quesito 8
 
 *Coefficienti pari/dispari in espressione, scelta multipla*
 

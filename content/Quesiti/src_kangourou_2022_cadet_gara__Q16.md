@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q16
 parent: src_kangourou_2022_cadet_gara
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 16
 
 *Ora in cui i due orologi furono messi all'ora corretta*
 

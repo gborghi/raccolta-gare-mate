@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q05
 parent: src_archimede_2014_febb_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello — Quesito 5
 
 *Affermazioni vere/false, quanti valori puo assumere n*
 

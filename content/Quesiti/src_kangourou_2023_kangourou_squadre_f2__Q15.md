@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q15
 parent: src_kangourou_2023_kangourou_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 15
 
 *M+m minimo possibile 100 numeri in linea*
 

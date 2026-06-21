@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2022 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_printemps__Q11
 parent: src_canimath_2022_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2022 — Quesito 11
 
 *Ten students each pick one of ten consecutive integers; maximize perfect-square gift winners (lycee)*
 

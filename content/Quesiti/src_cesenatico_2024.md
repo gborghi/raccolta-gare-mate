@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni
 tipo: gara
 src_id: src_cesenatico_2024
 competition: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni
 
 Sorgente: `Archimede/individuale/nazionale/2024/Cesenatico2024.pdf` · apri PDF
 

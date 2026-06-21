@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q13
 parent: src_kangourou_2013_squadre_a
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Semifinale A — Quesito 13
 
 *Disposizione cifre 1-9 nei dischi con somma minima*
 

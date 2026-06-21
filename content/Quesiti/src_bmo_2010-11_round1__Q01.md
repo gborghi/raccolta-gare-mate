@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round1__Q01
 parent: src_bmo_2010-11_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 1 — Quesito 1
 
 *Remove one integer from 1..n; average of remaining is 163/4*
 

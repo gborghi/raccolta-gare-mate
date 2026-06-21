@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q13
 parent: src_kangourou_2015_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Finale — Quesito 13
 
 *Terne di punti allineati tra 27 punti del cubo*
 

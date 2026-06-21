@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q25
 parent: src_kangourou_2016_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 25
 
 *Somma impossibile di tre numeri di tre cifre con 1..9*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_triennio__Q18
 parent: src_archimede_2017_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Triennio — Quesito 18
 
 *Polinomio coefficienti +-1, p(2)=11 trovare p(3)*
 

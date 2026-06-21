@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1997
 tipo: gara
 src_id: src_inmo_1997
 competition: Indian National Mathematical Olympiad 1997
@@ -15,8 +16,6 @@ tags:
   - anno/1997
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1997
 
 Sorgente: apri PDF
 

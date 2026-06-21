@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q24
 parent: src_kangourou_2004_student
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 24
 
 *Raggio arco che bisseca un triangolo equilatero*
 

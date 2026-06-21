@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1983-84_round1__Q02
 parent: src_bmo_1983-84_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1983-84 — Round 1 — Quesito 2
 
 *Binomial coefficients mod 3: remainders 1 exceed remainders 2*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q08
 parent: src_kangourou_2016_squadre_ecolier_f
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 8
 
 *Lunghezza in mm del trenino in microkang*
 

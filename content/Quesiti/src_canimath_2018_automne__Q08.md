@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2018 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_automne__Q08
 parent: src_canimath_2018_automne
@@ -36,8 +37,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2018 — Quesito 8
 
 *Find all functions f: R*→R satisfying af(x/y)+af(x/z)−f(x)f((y+z)/2)≥a²*
 

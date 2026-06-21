@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q08
 parent: src_kangourou_2022_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito 8
 
 *A quale numero Alice ha aggiunto lo 0 in coda*
 

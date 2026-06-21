@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q16
 parent: src_cesenatico_2011_semifinale_c
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 16
 
 *Max punti senza quadrato in reticolo 4x4*
 

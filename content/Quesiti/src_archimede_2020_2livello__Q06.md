@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_2livello__Q06
 parent: src_archimede_2020_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2020 - 2° livello — Quesito 6
 
 *Due nuotatori, valori possibili di vasche di Zanobi*
 

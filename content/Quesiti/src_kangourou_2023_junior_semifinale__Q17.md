@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q17
 parent: src_kangourou_2023_junior_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 17
 
 *Prodotto di due numeri tolti da 1..17 uguale alla somma dei restanti*
 

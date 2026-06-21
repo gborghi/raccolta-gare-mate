@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2019_biennio__Q07
 parent: src_archimede_2019_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2019 - Biennio (T1) — Quesito 7
 
 *Modi di sedere 5 persone con due coppie adiacenti*
 

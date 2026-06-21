@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_biennio__Q16
 parent: src_archimede_2016_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Biennio — Quesito 16
 
 *Percorsi della pulce dall'origine a (0,2016)*
 

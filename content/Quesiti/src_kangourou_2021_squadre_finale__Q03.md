@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2021 Finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q03
 parent: src_kangourou_2021_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2021 Finale — Quesito 3
 
 *Massimo opposto somma prodotti di sequenza 0,1,-1*
 

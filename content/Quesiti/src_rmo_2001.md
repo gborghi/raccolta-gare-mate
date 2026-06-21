@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2001
 tipo: gara
 src_id: src_rmo_2001
 competition: Regional Mathematical Olympiad 2001
@@ -15,8 +16,6 @@ tags:
   - anno/2001
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2001
 
 Sorgente: apri PDF
 

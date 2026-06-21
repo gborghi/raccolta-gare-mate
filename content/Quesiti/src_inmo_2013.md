@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2013
 tipo: gara
 src_id: src_inmo_2013
 competition: Indian National Mathematical Olympiad 2013
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2013
 
 Sorgente: apri PDF
 

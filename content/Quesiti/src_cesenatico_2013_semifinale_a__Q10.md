@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q10
 parent: src_cesenatico_2013_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 10
 
 *Probabilita somma 2 carte >=14 (mazzo)*
 

@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1993 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_1993__Q01
 parent: src_cgen_1993
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1993 — Matematica — Quesito 1
 
 *Perfect weight box: characterize and count by factorization, total mass 1993g*
 

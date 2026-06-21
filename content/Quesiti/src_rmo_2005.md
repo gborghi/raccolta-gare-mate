@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2005
 tipo: gara
 src_id: src_rmo_2005
 competition: Regional Mathematical Olympiad 2005
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2005
 
 Sorgente: apri PDF
 

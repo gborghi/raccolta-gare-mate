@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n1_f3__Q05
 parent: src_obm_2006_n1_f3
@@ -39,8 +40,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3 — Quesito 5
 
 *Sliding pieces on grid: minimum moves to swap two circular and two square pieces*
 

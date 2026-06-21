@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round1__Q02
 parent: src_bmo_1980-81_round1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 1 — Quesito 2
 
 *Alternating sum of products of consecutive integers divisible by m!*
 

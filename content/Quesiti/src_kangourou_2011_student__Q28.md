@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q28
 parent: src_kangourou_2011_student
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 28
 
 *Minimo numero di divisori di a per b per c*
 

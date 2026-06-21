@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q05
 parent: src_prmo_2015_b
@@ -33,8 +34,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 5
 
 *Non-zero integer-coefficient polynomial divisible by n for all positive n; find P(0)*
 

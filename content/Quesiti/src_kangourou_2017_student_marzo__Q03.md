@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Gara 16 marzo — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q03
 parent: src_kangourou_2017_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Gara 16 marzo — Quesito 3
 
 *Minimo ponti da eliminare per separare A e B*
 

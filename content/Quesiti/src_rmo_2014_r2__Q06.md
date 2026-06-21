@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r2__Q06
 parent: src_rmo_2014_r2
@@ -34,8 +35,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 2 — Quesito 6
 
 *Odd n: sum of row products and column products in n×n grid is nonzero*
 

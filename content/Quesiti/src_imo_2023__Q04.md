@@ -1,4 +1,5 @@
 ---
+title: IMO 2023 papers — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_2023__Q04
 parent: src_imo_2023
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 2023 papers — Quesito 4
 
 *Dimostrare a2023>=3034 (radici di somme e reciproci)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q01
 parent: src_kangourou_2023_junior_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 1 — Quesito 1
 
 *Quanti n in -2023..2023 con 1+4n multiplo di 5*
 

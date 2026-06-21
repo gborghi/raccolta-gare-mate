@@ -1,4 +1,5 @@
 ---
+title: IMO 2019 papers — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_2019__Q01
 parent: src_imo_2019
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 2019 papers — Quesito 1
 
 *Z->Z con f(2a)+2f(b)=f(f(a+b))*
 

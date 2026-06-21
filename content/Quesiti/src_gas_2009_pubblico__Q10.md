@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q10
 parent: src_gas_2009_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 10
 
 *Massimo numero affermazioni coerenti su 12 argomenti*
 

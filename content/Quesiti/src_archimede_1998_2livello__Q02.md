@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q02
 parent: src_archimede_1998_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 2
 
 *Forma del dominio definito da somma di valori assoluti*
 

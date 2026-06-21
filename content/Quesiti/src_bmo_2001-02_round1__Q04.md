@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2001-02 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2001-02_round1__Q04
 parent: src_bmo_2001-02_round1
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2001-02 — Round 1 — Quesito 4
 
 *Count simultaneous handshake arrangements for 12 people at circular table*
 

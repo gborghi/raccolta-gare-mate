@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n2_f2__Q06
 parent: src_obm_1999_n2_f2
@@ -38,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 6
 
 *Find all positive integers n for which a 9x10 rectangle can be tiled using 1xn pieces.*
 

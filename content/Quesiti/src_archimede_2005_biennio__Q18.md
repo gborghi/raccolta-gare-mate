@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q18
 parent: src_archimede_2005_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 18
 
 *Impiegati bilingui inglese e tedesco*
 

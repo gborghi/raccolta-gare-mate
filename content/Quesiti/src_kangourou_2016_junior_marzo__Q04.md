@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q04
 parent: src_kangourou_2016_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 4
 
 *50% in piu delle errate su 30*
 

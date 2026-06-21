@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1998 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1998__Q06
 parent: src_rmo_1998
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1998 — Quesito 6
 
 *Find a collection of 3-element subsets of 7-element set covering each pair exactly once*
 

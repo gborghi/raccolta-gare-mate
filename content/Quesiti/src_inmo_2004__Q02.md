@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2004 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2004__Q02
 parent: src_inmo_2004
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2004 — Quesito 2
 
 *Find all integer pairs (a,b) satisfying equation with prime p > 3*
 

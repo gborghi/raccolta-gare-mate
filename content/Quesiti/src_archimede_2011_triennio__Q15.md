@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q15
 parent: src_archimede_2011_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 15
 
 *Massimo bugiardi tra quattro amici con dichiarazioni*
 

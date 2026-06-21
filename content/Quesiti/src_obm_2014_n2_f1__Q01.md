@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n2_f1__Q01
 parent: src_obm_2014_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 1
 
 *Which difference of two consecutive primes is impossible?*
 

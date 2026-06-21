@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q22
 parent: src_prmo_2019
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 22
 
 *Greatest integer not exceeding sum of 1/sqrt(k) up to 1500*
 

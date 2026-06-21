@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q10
 parent: src_kangourou_2012_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 10
 
 *Valore di n che da resto 11 per 144 e 220*
 

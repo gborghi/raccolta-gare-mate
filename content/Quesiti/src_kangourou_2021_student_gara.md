@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student gara individuale
 tipo: gara
 src_id: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/individuale
 ---
-
-# Kangourou 2021 Student gara individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2021/Student2021REL.pdf` · apri PDF
 

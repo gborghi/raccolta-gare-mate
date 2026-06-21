@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1996 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_1996__Q03
 parent: src_inmo_1996
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1996 — Quesito 3
 
 *Solve cyclic system of four cubic equations in a,b,c,d,e*
 

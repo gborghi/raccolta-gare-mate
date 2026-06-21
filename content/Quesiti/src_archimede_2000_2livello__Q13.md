@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2000 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_2livello__Q13
 parent: src_archimede_2000_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2000 — Quesito 13
 
 *Soluzioni reali positive di 32^x = 64^[x]*
 

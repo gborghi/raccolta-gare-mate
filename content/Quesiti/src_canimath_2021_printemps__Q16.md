@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q16
 parent: src_canimath_2021_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 16
 
 *Partition {1,...,2021^2} into pairwise disjoint balanced sets*
 

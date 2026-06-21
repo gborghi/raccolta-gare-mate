@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q13
 parent: src_gs_2011_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 13
 
 *Valore espressione con cubo della somma*
 

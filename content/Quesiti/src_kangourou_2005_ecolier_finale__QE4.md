@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (finale nazionale) — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier_finale__QE4
 parent: src_kangourou_2005_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (finale nazionale) — Quesito E4
 
 *Minimo pallini da cancellare per invertire la freccia*
 

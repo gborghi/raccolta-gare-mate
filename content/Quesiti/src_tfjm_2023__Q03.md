@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_tfjm_2023__Q03
 parent: src_tfjm_2023
@@ -37,8 +38,6 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 3
 
 *Monetary systems S: S-appoints (exact payments), S-primary prices, and S-decompositions; finiteness and uniqueness conditions*
 

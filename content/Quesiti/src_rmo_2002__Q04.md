@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2002 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2002__Q04
 parent: src_rmo_2002
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2002 — Quesito 4
 
 *Integers 1..10 split into two collections with partition conditions*
 

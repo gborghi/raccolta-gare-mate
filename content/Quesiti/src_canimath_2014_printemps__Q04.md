@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2014 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_printemps__Q04
 parent: src_canimath_2014_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2014 — Quesito 4
 
 *Partition integers 1–10 into pairs with five distinct prime sums; extend to 1–20*
 

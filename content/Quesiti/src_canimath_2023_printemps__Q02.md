@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q02
 parent: src_canimath_2023_printemps
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 2
 
 *In triangle ABC with angle CAB = 20 degrees, D the midpoint of [AB], and angle CDB = 40 degrees; find angle ABC.*
 

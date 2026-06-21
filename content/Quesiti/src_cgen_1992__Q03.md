@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1992 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1992__Q03
 parent: src_cgen_1992
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1992 — Matematica — Quesito 3
 
 *Tetrahedron inscribed in sphere: three equivalent conditions*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q30
 parent: src_kangourou_2008_student_marzo
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 30
 
 *Numeri di 2007 cifre con coppie divisibili 17 o 23*
 

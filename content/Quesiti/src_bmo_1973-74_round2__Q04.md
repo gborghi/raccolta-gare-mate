@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round2__Q04
 parent: src_bmo_1973-74_round2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 2 — Quesito 4
 
 *Cube roots of distinct primes not in AP; or find x²+y²+z² given sum and sum of cubes*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio__Q14
 parent: src_archimede_2025_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio — Quesito 14
 
 *Isole con un solo ponte (divisibilità)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q15
 parent: src_kangourou_2014_ecolier
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 15
 
 *Quanti cavoli ha mangiato il coniglio in una settimana*
 

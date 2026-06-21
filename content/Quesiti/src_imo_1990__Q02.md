@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1990 (31st IMO, Beijing) — Quesito 2'
 tipo: quesito
 quesito_id: quesito_src_imo_1990__Q02
 parent: src_imo_1990
@@ -23,8 +24,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1990 (31st IMO, Beijing) — Quesito 2
 
 *Smallest k making every coloring of 2n-1 points good*
 

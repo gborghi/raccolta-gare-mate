@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2005 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2005__Q04
 parent: src_inmo_2005
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2005 — Quesito 4
 
 *Find the 2005th 6-digit number with digits in non-increasing order*
 

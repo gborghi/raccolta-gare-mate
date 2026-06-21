@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q10
 parent: src_prmo_2015_a
@@ -34,8 +35,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 10
 
 *Greatest perimeter of integer right triangle with one side 12*
 

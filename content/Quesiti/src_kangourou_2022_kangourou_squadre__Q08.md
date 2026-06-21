@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q08
 parent: src_kangourou_2022_kangourou_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 8
 
 *Somma diametrale minima poligono 2022 lati*
 

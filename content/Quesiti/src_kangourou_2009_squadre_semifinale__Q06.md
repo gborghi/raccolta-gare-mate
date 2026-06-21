@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q06
 parent: src_kangourou_2009_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 6
 
 *Notti vissute dalla mamma prima di Martina*
 

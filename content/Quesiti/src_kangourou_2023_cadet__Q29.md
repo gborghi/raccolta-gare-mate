@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet__Q29
 parent: src_kangourou_2023_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Gara 16 marzo — Quesito 29
 
 *Sei interi consecutivi su 3 monete, lanci 6,7,8/23/17*
 

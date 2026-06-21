@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2006 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo4q__Q04
 parent: src_jjmo4q
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2006 — Quesito 4
 
 *Find angle DEF where DEF is the contact triangle of ABC with angle BAC=70°*
 

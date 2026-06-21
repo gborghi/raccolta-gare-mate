@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1993 — Matematica — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cgen_1993__Q04
 parent: src_cgen_1993
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1993 — Matematica — Quesito 4
 
 *Covering a unit disk with two or three equal disks of radius r < 1*
 

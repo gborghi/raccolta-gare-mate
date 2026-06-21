@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Junior (18 marzo) — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_junior__Q08
 parent: src_kangourou_2004_junior
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2004 Junior (18 marzo) — Quesito 8
 
 *Quanti biscotti nel vassoio*
 

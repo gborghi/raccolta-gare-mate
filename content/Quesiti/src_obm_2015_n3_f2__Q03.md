@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n3_f2__Q03
 parent: src_obm_2015_n3_f2
@@ -35,8 +36,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 3
 
 *Triangle inscribed in circle with given angles; random interior point X, probability X is closer to B than to A or C; find p*q*
 

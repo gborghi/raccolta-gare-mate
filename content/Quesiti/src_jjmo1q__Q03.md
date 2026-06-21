@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q03
 parent: src_jjmo1q
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 3
 
 *Find ratio DS/SR using two cevians in a parallelogram*
 

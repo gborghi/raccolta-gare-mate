@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2025-26 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2025-26_round1__Q06
 parent: src_bmo_2025-26_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2025-26 — Round 1 — Quesito 6
 
 *Frogs on 1000 lily pads in circle: find n for which one frog remains*
 

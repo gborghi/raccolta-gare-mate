@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q04
 parent: src_kangourou_2023_ecolier_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 4
 
 *Massimo dei tre numeri date somme a coppie*
 

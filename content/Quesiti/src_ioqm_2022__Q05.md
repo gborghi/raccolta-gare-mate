@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q05
 parent: src_ioqm_2022
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 5
 
 *Smallest m so that sum of squares of 11 consecutive integers from m is a perfect square*
 

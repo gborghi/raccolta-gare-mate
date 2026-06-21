@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x —
+  Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2022_nu_fx__Q06
 parent: src_obm_2022_nu_fx
@@ -38,8 +41,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x — Quesito 6
 
 *Rational tangent angle, prime p≡3 mod 4, numerator divisible by p*
 

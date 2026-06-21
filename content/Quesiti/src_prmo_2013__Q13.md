@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_prmo_2013__Q13
 parent: src_prmo_2013
@@ -34,8 +35,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 13
 
 *Maximum distinct colours in colouring of {1,...,1000} with divisibility constraint*
 

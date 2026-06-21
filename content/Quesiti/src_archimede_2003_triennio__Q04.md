@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_triennio__Q04
 parent: src_archimede_2003_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Triennio — Quesito 4
 
 *Probabilità che inserendo da 1 a 15 tessere agenti non collidano*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2006 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2006__Q03
 parent: src_rmo_2006
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2006 — Quesito 3
 
 *Prove inequality involving sum of fractions for positive reals*
 

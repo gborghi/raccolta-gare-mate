@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student finale nazionale — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student_finale__QS6
 parent: src_kangourou_2003_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Student finale nazionale — Quesito S6
 
 *Lucchetti e chiavi per accesso a gruppi di 4/3*
 

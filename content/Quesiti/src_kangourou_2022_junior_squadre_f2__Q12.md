@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q12
 parent: src_kangourou_2022_junior_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Junior Finale 2 — Quesito 12
 
 *Minimo intero 4 cifre con divisioni per 7 resto 1*
 

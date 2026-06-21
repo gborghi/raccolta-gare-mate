@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q13
 parent: src_kangourou_2009_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 13
 
 *Numero nella cella ? della griglia con frecce*
 

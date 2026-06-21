@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q16
 parent: src_kangourou_2021_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 16
 
 *Valore di h nei cinque quadrati disposti*
 

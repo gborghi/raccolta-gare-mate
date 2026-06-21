@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q03
 parent: src_archimede_2009_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 3
 
 *Anni tra 999 e 9999 con due o più zeri consecutivi*
 

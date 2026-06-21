@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_jmo34yqa_yosen__Q11
 parent: src_jmo34yqa_yosen
@@ -32,8 +33,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 11
 
 *Minimum sum f(100)+...+f(199) for function satisfying triangle side conditions*
 

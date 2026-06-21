@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (finale Cervia) — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_finale__QS5
 parent: src_kangourou_2016_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (finale Cervia) — Quesito S5
 
 *Massimo rapporto area parallelogramma su esagono regolare*
 

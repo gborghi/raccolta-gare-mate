@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q14
 parent: src_kangourou_2024_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 14
 
 *Somma minima di sei numeri coprimi sulle facce di un cubo*
 

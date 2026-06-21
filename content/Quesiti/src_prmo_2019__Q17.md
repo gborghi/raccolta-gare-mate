@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q17
 parent: src_prmo_2019
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 17
 
 *Ordered triples (a,b,c) with 30a+50b+70c <= 343*
 

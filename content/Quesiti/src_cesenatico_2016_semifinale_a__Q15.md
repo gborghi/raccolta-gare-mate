@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q15
 parent: src_cesenatico_2016_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 15
 
 *Valori di p(3) per cubici monici con vincoli*
 

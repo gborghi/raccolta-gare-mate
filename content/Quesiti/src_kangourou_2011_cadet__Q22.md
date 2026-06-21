@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q22
 parent: src_kangourou_2011_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 22
 
 *Quale sestina di spigoli non da esagono regolare*
 

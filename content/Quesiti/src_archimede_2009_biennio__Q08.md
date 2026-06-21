@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q08
 parent: src_archimede_2009_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 8
 
 *Colorazioni vertici pentagono senza asse di simmetria*
 

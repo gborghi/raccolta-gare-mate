@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q22
 parent: src_kangourou_2005_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 22
 
 *Massimo del piu grande con media 10 di 10 interi*
 

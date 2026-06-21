@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2023-24 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2023-24_round2__Q04
 parent: src_bmo_2023-24_round2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2023-24 — Round 2 — Quesito 4
 
 *Find all (m,n) for which n piles of m objects can be emptied*
 

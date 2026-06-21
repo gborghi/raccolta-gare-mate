@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q02
 parent: src_archimede_2026_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 2
 
 *Disposizioni di cavalieri/furfanti a tavola rotonda, a meno di rotazione*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q12
 parent: src_jmo35yqa_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 12
 
 *Cyclic pentagon ABCDE, AC=AD, BC||DE; reflect P over the 5 side-lines; find P1P3/P1P5*
 

@@ -1,11 +1,10 @@
 ---
+title: Conteggio combinatorio
 tipo: method
 concept_id: method_conteggio
 tags:
   - graph/method
 ---
-
-# Conteggio combinatorio
 
 *method* — **1189** quesiti (italiani).
 

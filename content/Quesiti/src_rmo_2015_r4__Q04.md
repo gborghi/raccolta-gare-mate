@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 4 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r4__Q04
 parent: src_rmo_2015_r4
@@ -35,8 +36,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 4 — Quesito 4
 
 *Count ways to choose 3 of 40 objects on circle, no two adjacent or diametrically opposite*
 

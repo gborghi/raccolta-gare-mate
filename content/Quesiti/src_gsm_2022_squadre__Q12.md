@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q12
 parent: src_gsm_2022_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 12
 
 *Minimo numero di consecutivi con prodotto divisibile per 2022*
 

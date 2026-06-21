@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q11
 parent: src_kangourou_2024_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 11
 
 *Quale tassello completa il quadrato magico 4x4*
 

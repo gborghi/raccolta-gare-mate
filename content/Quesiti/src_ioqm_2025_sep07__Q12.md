@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q12
 parent: src_ioqm_2025_sep07
@@ -35,8 +36,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 12
 
 *Five-digit $\overline{abcab}$ divisible by $\overline{ab}$ but not 13; largest digit sum*
 

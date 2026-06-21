@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre semifinale turno A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q11
 parent: src_kangourou_2012_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre semifinale turno A — Quesito 11
 
 *Quanti euro ha speso Carlo (media amici 82)*
 

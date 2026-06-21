@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (finale Cervia) — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_finale__QE2
 parent: src_kangourou_2016_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (finale Cervia) — Quesito E2
 
 *Nome del giocatore di basket tra tre sportivi*
 

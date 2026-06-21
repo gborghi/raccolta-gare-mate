@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1989 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_1989__Q04
 parent: src_inmo_1989
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1989 — Quesito 4
 
 *Find all n not a square such that floor(sqrt(n))^2 divides n^2*
 

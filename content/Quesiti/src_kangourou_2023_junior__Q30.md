@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q30
 parent: src_kangourou_2023_junior
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 30
 
 *Allineamenti 1..9 con ogni terna consecutiva mult di 3*
 

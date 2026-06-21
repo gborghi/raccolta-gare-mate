@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1978-79 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1978-79_round2__Q03
 parent: src_bmo_1978-79_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1978-79 — Round 2 — Quesito 3
 
 *Sequence defined by floor of average of all previous terms; find $a_{1979}$*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q01
 parent: src_kangourou_2007_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo) — Quesito 1
 
 *Quali terne di numeri annotabili da casa a scuola*
 

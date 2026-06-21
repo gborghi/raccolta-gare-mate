@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale nazionale Student — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_finale_student__QS5
 parent: src_kangourou_2014_finale_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 finale nazionale Student — Quesito S5
 
 *Minimo n caselle nere su griglia 8x8 con adiacenza*
 

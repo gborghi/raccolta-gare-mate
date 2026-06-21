@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n3_f1__Q24
 parent: src_obm_2009_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 24
 
 *Rectangular notebook sheet with yellow borders of 24 cm and red borders of 36 cm; each point painted the color of its nearest side; find the yellow area.*
 

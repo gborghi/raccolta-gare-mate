@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021
 tipo: gara
 src_id: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -15,8 +16,6 @@ tags:
   - anno/2021
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021
 
 Sorgente: `Archimede/squadre/locale/testi/gsm_2021.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC5
 parent: src_kangourou_2003_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C5
 
 *Tempo tra sovrapposizioni delle lancette*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f2__Q04
 parent: src_obm_2013_n2_f2
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 4
 
 *Chord AM meets diagonal BD at P in circle-inscribed square; find AP*
 

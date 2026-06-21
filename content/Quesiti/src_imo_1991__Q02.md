@@ -1,4 +1,5 @@
 ---
+title: IMO 1991 (32nd IMO) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1991__Q02
 parent: src_imo_1991
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1991 (32nd IMO) — Quesito 2
 
 *Equally-spaced totatives imply n prime or power of 2*
 

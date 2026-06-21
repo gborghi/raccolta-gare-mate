@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2012-13 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2012-13_round2__Q02
 parent: src_bmo_2012-13_round2
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2012-13 — Round 2 — Quesito 2
 
 *Prove angle QAB = angle CAP given PBQC parallelogram and equal angles*
 

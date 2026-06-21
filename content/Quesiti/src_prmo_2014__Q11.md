@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q11
 parent: src_prmo_2014
@@ -35,8 +36,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 11
 
 *Number of pairs (x,y) with z=gcd satisfying 2xy + y(z,y) = (x+y)^2*
 

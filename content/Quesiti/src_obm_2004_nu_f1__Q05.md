@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2004_nu_f1__Q05
 parent: src_obm_2004_nu_f1
@@ -35,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1 — Quesito 5
 
 *Matrix with a_{ij}=m(i-1)+j; find lambda for limit of phi(n)/n^lambda*
 

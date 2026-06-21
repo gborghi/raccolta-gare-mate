@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q12
 parent: src_kangourou_squadre_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 12
 
 *Minimo nella cella A di griglia 3x4 di multipli*
 

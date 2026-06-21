@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q06
 parent: src_archimede_2020_riserva_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 6
 
 *Probabilita prodotto 36 lanciando 4 dadi*
 

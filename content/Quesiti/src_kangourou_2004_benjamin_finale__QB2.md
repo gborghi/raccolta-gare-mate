@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin finale nazionale — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB2
 parent: src_kangourou_2004_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin finale nazionale — Quesito B2
 
 *Chi vince il gioco di taglio delle corde*
 

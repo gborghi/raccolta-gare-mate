@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo33hq_honsen__Q05
 parent: src_jmo33hq_honsen
@@ -37,8 +38,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 5
 
 *S={1,...,3000}; find max X such that for any bijection f, some bijection g makes sum >= X*
 

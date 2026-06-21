@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2008-09 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2008-09_round2__Q03
 parent: src_bmo_2008-09_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2008-09 — Round 2 — Quesito 3
 
 *Find all real functions satisfying a symmetric cubic functional equation*
 

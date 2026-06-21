@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2003_n2_f2__Q01
 parent: src_obm_2003_n2_f2
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 1
 
 *Find the area of square BEFG given the areas of squares ABCD and FHIJ*
 

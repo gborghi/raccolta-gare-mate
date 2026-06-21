@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1999-00 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1999-00_round1__Q04
 parent: src_bmo_1999-00_round1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1999-00 — Round 1 — Quesito 4
 
 *Collatz-like sequence; find all k for which 2000 appears*
 

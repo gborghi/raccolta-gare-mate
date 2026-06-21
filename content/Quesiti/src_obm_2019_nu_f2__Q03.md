@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2019_nu_f2__Q03
 parent: src_obm_2019_nu_f2
@@ -37,8 +40,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 — Quesito 3
 
 *A system of three equations each with a sum of two square roots has exactly one nonnegative solution*
 

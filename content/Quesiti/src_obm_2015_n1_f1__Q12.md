@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2015_n1_f1__Q12
 parent: src_obm_2015_n1_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 12
 
 *How many of 1-9 can occupy the centre square of an X*
 

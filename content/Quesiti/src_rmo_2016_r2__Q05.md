@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2016 — Region 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2016_r2__Q05
 parent: src_rmo_2016_r2
@@ -28,8 +29,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2016 — Region 2 — Quesito 5
 
 *Circumcircles of ACD and ABD intersect sides; reflection K; prove FK=BC*
 

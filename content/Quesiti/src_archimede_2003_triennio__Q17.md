@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2003 - Triennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2003_triennio__Q17
 parent: src_archimede_2003_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2003 - Triennio — Quesito 17
 
 *Triangoli non degeneri con vertici in nove punti*
 

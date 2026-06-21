@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_semifinale_a__Q02
 parent: src_cesenatico_2012_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 2
 
 *n con partita di 594 mosse*
 

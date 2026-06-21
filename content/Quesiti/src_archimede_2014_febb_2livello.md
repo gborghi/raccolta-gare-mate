@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello
 tipo: gara
 src_id: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello
 
 Sorgente: `Archimede/individuale/2livello/2014/soluzioni2014.pdf` · apri PDF
 

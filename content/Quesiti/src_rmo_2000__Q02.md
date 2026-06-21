@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2000 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2000__Q02
 parent: src_rmo_2000
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2000 — Quesito 2
 
 *Solve y^3 = x^3 + 8x^2 - 6x + 8 in positive integers*
 

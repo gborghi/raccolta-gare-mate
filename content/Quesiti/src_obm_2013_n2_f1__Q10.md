@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n2_f1__Q10
 parent: src_obm_2013_n2_f1
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 10
 
 *Triangle of consecutive odd numbers: which row contains 2013?*
 

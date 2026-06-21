@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Ecolier (marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_ecolier__Q14
 parent: src_kangourou_2005_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Ecolier (marzo) — Quesito 14
 
 *Numero panchina a meta strada tra 24 e 66*
 

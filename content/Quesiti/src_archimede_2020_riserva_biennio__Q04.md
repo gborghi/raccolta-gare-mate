@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q04
 parent: src_archimede_2020_riserva_biennio
@@ -21,8 +22,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 4
 
 *Quanti multipli di 79 tra 15000 e 36000*
 

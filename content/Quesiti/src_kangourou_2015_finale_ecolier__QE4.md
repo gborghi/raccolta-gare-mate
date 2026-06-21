@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Ecolier — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_ecolier__QE4
 parent: src_kangourou_2015_finale_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Ecolier — Quesito E4
 
 *primo o secondo?*
 

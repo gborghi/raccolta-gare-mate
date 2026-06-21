@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n2_f3__Q06
 parent: src_obm_2011_n2_f3
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3 — Quesito 6
 
 *No 2k-digit natural N satisfies I(N)=I(N) and P(N)=P(N) symmetry*
 

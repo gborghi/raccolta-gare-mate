@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Semifinale individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q11
 parent: src_kangourou_2017_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Semifinale individuale — Quesito 11
 
 *Valore di b/a+a/b dati a+b e 1/a+1/b*
 

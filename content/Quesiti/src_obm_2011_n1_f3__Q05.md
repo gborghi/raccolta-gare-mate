@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n1_f3__Q05
 parent: src_obm_2011_n1_f3
@@ -38,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 5
 
 *On a 3x3 board fill 1 to 9 so that of the 8 sums (3 rows, 3 columns, 2 diagonals) exactly 3 are multiples of 3; and decide whether none can be a multiple of 3.*
 

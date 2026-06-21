@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q30
 parent: src_kangourou_2019_student_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 30
 
 *Numero nell angolo in alto a destra del quadrato latino*
 

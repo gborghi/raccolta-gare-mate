@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q08
 parent: src_gsm_2025_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 8
 
 *Probabilita che l'ultimo spettatore sieda al posto giusto*
 

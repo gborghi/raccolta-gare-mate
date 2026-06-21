@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1997 — Matematica
 tipo: gara
 src_id: src_cgen_1997
 competition: Concours Général des Lycées 1997 — Matematica
@@ -15,8 +16,6 @@ tags:
   - anno/1997
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1997 — Matematica
 
 Sorgente: apri PDF
 

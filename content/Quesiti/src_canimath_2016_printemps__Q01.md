@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2016 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_printemps__Q01
 parent: src_canimath_2016_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2016 — Quesito 1
 
 *Square ABCD of side 10 cm, X midpoint of AB, isosceles triangle ABY; overlap area with square is 99 cm2, find XY.*
 

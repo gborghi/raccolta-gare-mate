@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo15mq_honsen__Q05
 parent: src_jjmo15mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 5
 
 *Acute triangle with orthocenter; four circumcircle-altitude intersections are concyclic*
 

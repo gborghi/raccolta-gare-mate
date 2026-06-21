@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q11
 parent: src_archimede_2014_febb_2livello
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello — Quesito 11
 
 *Punteggi diversi a podio con 10,8,5 punti in 16 gare*
 

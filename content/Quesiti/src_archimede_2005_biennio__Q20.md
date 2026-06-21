@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q20
 parent: src_archimede_2005_biennio
@@ -22,8 +23,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 20
 
 *Catena di disuguaglianze tra potenze 2 e 3*
 

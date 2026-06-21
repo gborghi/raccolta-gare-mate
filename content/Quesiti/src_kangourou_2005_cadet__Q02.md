@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q02
 parent: src_kangourou_2005_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 2
 
 *Lunghezza percorso formica su superficie cubo*
 

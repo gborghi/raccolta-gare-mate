@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Junior — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior_finale__Q01
 parent: src_kangourou_2014_junior_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Junior — Quesito 1
 
 *Minimo visite per svuotare i 15 piattini*
 

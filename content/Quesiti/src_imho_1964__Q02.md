@@ -1,4 +1,5 @@
 ---
+title: IMO 1964 (VI International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imho_1964__Q02
 parent: src_imho_1964
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1964 (VI International Olympiad) — Quesito 2
 
 *Provare a^2(b+c-a)+...<=3abc per lati di triangolo*
 

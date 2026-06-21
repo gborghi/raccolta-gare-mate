@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q26
 parent: src_kangourou_2019_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Benjamin — Quesito 26
 
 *Quante foto se ognuno compare in 2-3 di esse*
 

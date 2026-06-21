@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q08
 parent: src_kangourou_2015_squadre_f
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Finale — Quesito 8
 
 *Massimo numero di somme dispari da prodotti di primi*
 

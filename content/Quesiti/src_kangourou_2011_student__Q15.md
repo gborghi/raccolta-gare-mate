@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q15
 parent: src_kangourou_2011_student
@@ -27,8 +28,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 15
 
 *Angolo tra tergicristallo e bordo, area pulita*
 

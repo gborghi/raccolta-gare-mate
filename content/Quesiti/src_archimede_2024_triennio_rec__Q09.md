@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q09
 parent: src_archimede_2024_triennio_rec
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 9
 
 *Valore di 4x-1 con (x-7)^8=(x+4)^8*
 

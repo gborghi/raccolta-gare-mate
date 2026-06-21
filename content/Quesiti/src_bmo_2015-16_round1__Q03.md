@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2015-16 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2015-16_round1__Q03
 parent: src_bmo_2015-16_round1
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2015-16 — Round 1 — Quesito 3
 
 *Sequence defined by recurrence with constants A and B; find rational initial values.*
 

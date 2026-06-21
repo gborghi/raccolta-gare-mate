@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q06
 parent: src_kangourou_2022_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito 6
 
 *Minima somma dei tre numeri dai tagli*
 

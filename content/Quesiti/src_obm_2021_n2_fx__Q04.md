@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n2_fx__Q04
 parent: src_obm_2021_n2_fx
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 4
 
 *Right triangle ABC (right angle at B) with inscribed square BDEF; incircles of CFE and EDA have radii c and b; inside the square two circles of radius b are tangent and two of radius a are tangent. Find a/c*
 

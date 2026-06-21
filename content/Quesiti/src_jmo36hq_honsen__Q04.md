@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo36hq_honsen__Q04
 parent: src_jmo36hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 4
 
 *Find all real functions with f(x^2+f(y)^2)+2f(x)y=f(x+f(y))^2*
 

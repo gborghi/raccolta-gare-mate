@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q06
 parent: src_prmo_2015_b
@@ -32,8 +33,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 6
 
 *Two-digit N whose digit-reversal sum is a perfect square; count*
 

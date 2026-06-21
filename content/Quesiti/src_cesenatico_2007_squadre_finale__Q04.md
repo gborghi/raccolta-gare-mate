@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q04
 parent: src_cesenatico_2007_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 4
 
 *Area massima quadrilatero ABCD con P interno a distanze 2,4,6,8*
 

@@ -1,11 +1,10 @@
 ---
+title: Conteggio per casi
 tipo: method
 concept_id: method_casi_conteggio
 tags:
   - graph/method
 ---
-
-# Conteggio per casi
 
 *method* — **51** quesiti (italiani).
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2000 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2000__Q05
 parent: src_rmo_2000
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2000 — Quesito 5
 
 *Angle bisector meets circumcircle at D; show BE perpendicular to AD and AO parallel to BD*
 

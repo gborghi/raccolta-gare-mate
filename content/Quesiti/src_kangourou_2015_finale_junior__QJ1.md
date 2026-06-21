@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Junior — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_junior__QJ1
 parent: src_kangourou_2015_finale_junior
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Junior — Quesito J1
 
 *condizioni per incrocio treni*
 

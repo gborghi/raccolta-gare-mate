@@ -1,4 +1,5 @@
 ---
+title: IMO 1993 (34th IMO) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1993__Q04
 parent: src_imo_1993
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1993 (34th IMO) — Quesito 4
 
 *Minimum-altitude function triangle inequality for four points*
 

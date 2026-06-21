@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2026
 tipo: gara
 src_id: src_inmo_2026
 competition: Indian National Mathematical Olympiad 2026
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2026
 
 Sorgente: apri PDF
 

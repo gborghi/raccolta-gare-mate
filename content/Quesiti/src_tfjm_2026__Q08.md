@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_tfjm_2026__Q08
 parent: src_tfjm_2026
@@ -37,8 +38,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 8
 
 *Gaston's insertion-by-interval sorting algorithm G inserts a_k into the k-th position whose subinterval [(k-1)/k, k/k] it falls in; study fixed points, the count N(L) of preimages, its min/max over permutations, the iterated-sort count N'(L), and worst-case number of iterations to sort.*
 

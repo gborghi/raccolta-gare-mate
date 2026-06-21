@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Student — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_finale__Q06
 parent: src_kangourou_2018_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Student — Quesito 6
 
 *Caratterizzare i poligoni equilateri convessi rombosi*
 

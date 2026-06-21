@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round1__Q05
 parent: src_bmo_2010-11_round1
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 1 — Quesito 5
 
 *Two circles meet at L,M; P on S2; show chord QR in S1 passes through fixed point*
 

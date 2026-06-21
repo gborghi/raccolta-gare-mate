@@ -1,4 +1,5 @@
 ---
+title: IMO 2022 papers
 tipo: gara
 src_id: src_imo_2022
 competition: IMO 2022 papers
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# IMO 2022 papers
 
 Sorgente: `Archimede/individuale/imho/all/2022_eng.pdf` · apri PDF
 

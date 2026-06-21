@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1994 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_1994__Q02
 parent: src_rmo_1994
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1994 — Quesito 2
 
 *Incircle of triangle touches sides; find sides given concurrency*
 

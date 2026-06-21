@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q06
 parent: src_kangourou_2023_junior_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 2 — Quesito 6
 
 *Lato più lungo DC o ED nel pentagono retto*
 

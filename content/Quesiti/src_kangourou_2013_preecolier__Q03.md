@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_preecolier__Q03
 parent: src_kangourou_2013_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier — Quesito 3
 
 *Abito con tra 5 e 7 bottoni*
 

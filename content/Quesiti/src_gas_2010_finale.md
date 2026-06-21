@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale
 tipo: gara
 src_id: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2010/Cesenatico2010_gara_a_squadre/ITA_Fgas10.pdf` · apri PDF
 

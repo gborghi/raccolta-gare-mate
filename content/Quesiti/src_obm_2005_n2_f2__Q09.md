@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n2_f2__Q09
 parent: src_obm_2005_n2_f2
@@ -39,8 +40,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2 — Quesito 9
 
 *Domino sequences with houses 1-3: count arrangements, explain impossibility for 1-4*
 

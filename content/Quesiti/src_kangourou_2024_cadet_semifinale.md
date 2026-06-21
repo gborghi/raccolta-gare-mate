@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024
 tipo: gara
 src_id: src_kangourou_2024_cadet_semifinale
 competition: Kangourou Semifinale individuale Cadet 2024
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024
 
 Sorgente: `Kangaroo/kangourou_individuali/2024/Cadet2024RSE.pdf` · apri PDF
 

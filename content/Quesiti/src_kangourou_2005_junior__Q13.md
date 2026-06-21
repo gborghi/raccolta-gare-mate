@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q13
 parent: src_kangourou_2005_junior
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 13
 
 *Affermazione che il bugiardo alternante non puo fare*
 

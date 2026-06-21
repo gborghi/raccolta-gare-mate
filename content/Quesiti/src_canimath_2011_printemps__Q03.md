@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2011 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_printemps__Q03
 parent: src_canimath_2011_printemps
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2011 — Quesito 3
 
 *Circumscribed circle intersections and hexagon area ratio*
 

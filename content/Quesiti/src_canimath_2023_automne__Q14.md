@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2023 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_automne__Q14
 parent: src_canimath_2023_automne
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2023 — Quesito 14
 
 *Rectangle ABCD, M midpoint of CD; a line parallel to AB meets AD, AM, BM, BC at P, Q, R, S; line DR meets AM at X and BC at Y; given DX=6, XR=4, find RY*
 

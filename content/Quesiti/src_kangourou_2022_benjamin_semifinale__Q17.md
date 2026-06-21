@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin semifinale individuale — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q17
 parent: src_kangourou_2022_benjamin_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin semifinale individuale — Quesito 17
 
 *Modi di sedersi in auto con vincoli*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q02
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 2
 
 *Quale dei cinque segnali stradali e errato*
 

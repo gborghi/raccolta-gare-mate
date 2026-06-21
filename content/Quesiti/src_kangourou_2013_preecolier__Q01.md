@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_preecolier__Q01
 parent: src_kangourou_2013_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier — Quesito 1
 
 *Quali cifre sono state dimenticate*
 

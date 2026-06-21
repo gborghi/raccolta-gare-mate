@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q14
 parent: src_kangourou_2024_kangourou_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 14
 
 *Minimo lampadine sostituite, rapporti colori*
 

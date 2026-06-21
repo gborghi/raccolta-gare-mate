@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_jjmo1q__Q08
 parent: src_jjmo1q
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003 — Quesito 8
 
 *Find area of quadrilateral with given sides and diagonal intersection angle 45°*
 

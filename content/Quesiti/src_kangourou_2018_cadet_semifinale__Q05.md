@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q05
 parent: src_kangourou_2018_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2018 Cadet - Semifinale individuale — Quesito 5
 
 *Distanza tra Aldo e Bruno al traguardo*
 

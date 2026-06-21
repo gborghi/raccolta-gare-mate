@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q23
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 23
 
 *Quanti anni perche i cangurini battano il padre ai voti*
 

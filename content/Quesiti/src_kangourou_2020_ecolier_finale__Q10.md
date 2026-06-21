@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Ecolier — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q10
 parent: src_kangourou_2020_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Ecolier — Quesito 10
 
 *Quanti talleri valeva il paiolo (contratto)*
 

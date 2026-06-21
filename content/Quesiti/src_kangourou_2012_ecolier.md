@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo)
 tipo: gara
 src_id: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2012/EMarzo-12.pdf` · apri PDF
 

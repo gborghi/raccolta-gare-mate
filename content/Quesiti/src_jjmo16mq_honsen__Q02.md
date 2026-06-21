@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo16mq_honsen__Q02
 parent: src_jjmo16mq_honsen
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 2
 
 *5 people, all pairwise age-sums distinct; find minimum age difference between oldest and youngest*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2007-08 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2007-08_round2__Q03
 parent: src_bmo_2007-08_round2
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2007-08 — Round 2 — Quesito 3
 
 *Deduce integer-radius circle in at most sixty inside-point queries*
 

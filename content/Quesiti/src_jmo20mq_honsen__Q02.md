@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo20mq_honsen__Q02
 parent: src_jmo20mq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 2
 
 *Existence of n with n^n - m divisible by 2^k*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q07
 parent: src_canimath_2022_automne
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 7
 
 *Cyclic sum of n positive reals strictly between 1 and n-1*
 

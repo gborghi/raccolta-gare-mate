@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 4'
 tipo: quesito
 quesito_id: quesito_src_imo_1994__Q04
 parent: src_imo_1994
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1994 (35th IMO, Hong Kong) — Quesito 4
 
 *Find all (m,n) with (n^3+1)/(mn-1) integer*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale B — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_b__Q16
 parent: src_gas_2010_semifinale_b
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale B — Quesito 16
 
 *Massima area quadrilatero in semicerchio con angoli dati*
 

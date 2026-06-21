@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior finale (maggio) — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_maggio__QJ3
 parent: src_kangourou_2006_junior_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior finale (maggio) — Quesito J3
 
 *Minimo numero di colori per gli spicchi*
 

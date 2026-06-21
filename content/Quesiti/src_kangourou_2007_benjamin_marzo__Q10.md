@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin (marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q10
 parent: src_kangourou_2007_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin (marzo) — Quesito 10
 
 *Conclusione su sinceri e mentitori (3 abitanti)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q05
 parent: src_kangourou_2019_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 5
 
 *Lunghezza totale del nastro diviso in frazioni un terzo*
 

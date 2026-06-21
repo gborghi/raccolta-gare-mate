@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gara di Marzo Student — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q06
 parent: src_kangourou_2018_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gara di Marzo Student — Quesito 6
 
 *In quanti modi 1001 come somma di due primi*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1984-85 — Round 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1984-85_round2__Q05
 parent: src_bmo_1984-85_round2
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1984-85 — Round 2 — Quesito 5
 
 *Prove AB + CD = BC + AD and OH = OD' for circumscribed tetrahedron face*
 

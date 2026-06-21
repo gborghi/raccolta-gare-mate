@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1999 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_1999__Q02
 parent: src_cgen_1999
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1999 — Matematica — Quesito 2
 
 *Solve in N the equation involving sum of powers*
 

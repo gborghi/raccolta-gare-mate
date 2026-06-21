@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q07
 parent: src_archimede_2006_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 7
 
 *Quanti multipli di 3 tra 2000 e 4000*
 

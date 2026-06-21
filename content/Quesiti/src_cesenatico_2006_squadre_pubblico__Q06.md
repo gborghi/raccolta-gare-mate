@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q06
 parent: src_cesenatico_2006_squadre_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 6
 
 *Coefficiente di x^2006 in prodotto di polinomi*
 

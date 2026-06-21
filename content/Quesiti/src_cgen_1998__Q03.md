@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1998 — Matematica — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cgen_1998__Q03
 parent: src_cgen_1998
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1998 — Matematica — Quesito 3
 
 *Find the range of a function defined by a nested-radical floor expression*
 

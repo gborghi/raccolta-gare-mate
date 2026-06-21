@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round1__Q01
 parent: src_bmo_1976-77_round1
@@ -31,8 +32,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 1 — Quesito 1
 
 *Additive function vanishing on digit-3 and at 10; prove f identically 0*
 

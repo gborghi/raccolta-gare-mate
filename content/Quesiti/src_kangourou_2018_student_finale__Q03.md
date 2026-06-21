@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Finale Nazionale Student — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_finale__Q03
 parent: src_kangourou_2018_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Finale Nazionale Student — Quesito 3
 
 *Dimostrare che la soluzione di x^5+x=10 e irrazionale*
 

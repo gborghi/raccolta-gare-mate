@@ -1,11 +1,10 @@
 ---
+title: Fattorizzazione / manipolazione algebrica
 tipo: method
 concept_id: method_fattorizzazione
 tags:
   - graph/method
 ---
-
-# Fattorizzazione / manipolazione algebrica
 
 *method* — **570** quesiti (italiani).
 

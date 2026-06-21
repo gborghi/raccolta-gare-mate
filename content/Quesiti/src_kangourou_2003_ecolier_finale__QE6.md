@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier finale nazionale — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier_finale__QE6
 parent: src_kangourou_2003_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier finale nazionale — Quesito E6
 
 *Numero di percorsi da P a Q (verso il basso)*
 

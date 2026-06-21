@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_pubblico__Q13
 parent: src_archimede_2001_pubblico
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 13
 
 *Anni bisestili con somma cifre 6 tra 0 e 7000*
 

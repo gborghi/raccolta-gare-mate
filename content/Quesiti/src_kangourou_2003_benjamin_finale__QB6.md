@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin_finale__QB6
 parent: src_kangourou_2003_benjamin_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B6
 
 *Insieme di 200 interi senza un numero e il doppio*
 

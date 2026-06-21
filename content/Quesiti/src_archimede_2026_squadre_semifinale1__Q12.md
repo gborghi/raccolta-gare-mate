@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q12
 parent: src_archimede_2026_squadre_semifinale1
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 12
 
 *Colorazioni 18 scudi con 13 coppie adiacenti uguali*
 

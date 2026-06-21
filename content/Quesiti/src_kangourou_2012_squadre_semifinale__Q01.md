@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre semifinale turno A — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q01
 parent: src_kangourou_2012_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre semifinale turno A — Quesito 1
 
 *Quanti n con n-2012 e n+2012 entrambi a 4 cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q21
 parent: src_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 21
 
 *Somma pesi dei divisori di 2310*
 

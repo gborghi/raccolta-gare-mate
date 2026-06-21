@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2018__Q08
 parent: src_selection_camp_2018
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2018 — Selection Camp — Quesito 8
 
 *Convex quadrilateral with incircle; incenters of two triangles and common external tangent point are concyclic with I*
 

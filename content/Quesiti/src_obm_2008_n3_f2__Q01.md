@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2008_n3_f2__Q01
 parent: src_obm_2008_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 1
 
 *Isosceles trapezoid, diagonal 100 m, angle 30°, find S/sqrt(3)*
 

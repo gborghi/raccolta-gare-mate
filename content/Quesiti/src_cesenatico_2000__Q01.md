@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 2000 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2000__Q01
 parent: src_cesenatico_2000
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 2000 — Quesito 1
 
 *Numeri speciali con cifre 0-9 e divisibilita*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2004 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2004__Q01
 parent: src_rmo_2004
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2004 — Quesito 1
 
 *Unique point on perpendicular from center where PQ equals tangent length*
 

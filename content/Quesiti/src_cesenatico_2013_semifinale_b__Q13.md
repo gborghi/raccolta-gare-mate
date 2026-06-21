@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q13
 parent: src_cesenatico_2013_semifinale_b
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 13
 
 *Terne (a,b,c) somma 94 con conteggio mult. di 3*
 

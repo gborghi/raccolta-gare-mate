@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q30
 parent: src_ioqm_2020
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 30
 
 *Count pairs (a,b) of natural numbers where a+1 divides b-1 and b divides a^2+2*
 

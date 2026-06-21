@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q22
 parent: src_kangourou_2024_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 22
 
 *Area del rettangolo grigio note tre aree e segmenti*
 

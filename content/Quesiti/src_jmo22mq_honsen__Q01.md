@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo22mq_honsen__Q01
 parent: src_jmo22mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 1
 
 *Tangent at A meets BC at P; show QR perpendicular to BC*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2002
 tipo: gara
 src_id: src_inmo_2002
 competition: Indian National Mathematical Olympiad 2002
@@ -15,8 +16,6 @@ tags:
   - anno/2002
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2002
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Junior — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior_finale__Q06
 parent: src_kangourou_2014_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Junior — Quesito 6
 
 *Minimo n di quadrati grigi 8x8 per copertura adiacente*
 

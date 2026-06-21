@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1988-89 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1988-89_round2__Q03
 parent: src_bmo_1988-89_round2
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1988-89 — Round 2 — Quesito 3
 
 *Find f(n+1) for degree-n polynomial with f(k)=1/(k+1) for k=0,...,n*
 

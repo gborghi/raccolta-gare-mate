@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo18yq_yosen__Q02
 parent: src_jjmo18yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 2
 
 *Pairs (a,b) of positive integers whose consecutive sum equals 2020, minimizing a*
 

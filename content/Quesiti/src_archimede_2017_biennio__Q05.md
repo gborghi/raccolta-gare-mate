@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q05
 parent: src_archimede_2017_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 5
 
 *Proprieta di n multiplo di 1000 non 10000*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q14
 parent: src_kangourou_2013_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 14
 
 *Pesci pescati se triplo darebbe 12 in più*
 

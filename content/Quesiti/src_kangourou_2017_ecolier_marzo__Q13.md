@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q13
 parent: src_kangourou_2017_ecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 13
 
 *Massima somma di un quadrato 2x2 nella griglia 4x4*
 

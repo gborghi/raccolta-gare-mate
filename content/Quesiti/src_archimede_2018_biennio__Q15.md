@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_biennio__Q15
 parent: src_archimede_2018_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Biennio (T1) — Quesito 15
 
 *Modi di disporre 99 monete non adiacenti in tabella 2x100*
 

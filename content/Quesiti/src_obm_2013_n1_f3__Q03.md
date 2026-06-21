@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n1_f3__Q03
 parent: src_obm_2013_n1_f3
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 3 — Quesito 3
 
 *Square paper folded at each vertex forms a pinwheel; find gray/white area ratio and overlap area*
 

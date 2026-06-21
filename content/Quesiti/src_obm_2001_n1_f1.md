@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
 tipo: gara
 src_id: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -19,8 +20,6 @@ tags:
   - gara/individuale
   - fase/1
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
 
 Sorgente: apri PDF
 

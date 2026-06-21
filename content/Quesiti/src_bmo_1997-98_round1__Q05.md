@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1997-98 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1997-98_round1__Q05
 parent: src_bmo_1997-98_round1
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1997-98 — Round 1 — Quesito 5
 
 *Triangle with midpoint and trisection point; find angle BAC*
 

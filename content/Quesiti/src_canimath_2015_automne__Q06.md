@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2015 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2015_automne__Q06
 parent: src_canimath_2015_automne
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2015 — Quesito 6
 
 *Students sit so that a square arrangement leaves 5 over, while a rectangle of 7 more rows than columns seats everyone exactly; find the largest possible number of students.*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r1__Q05
 parent: src_rmo_2014_r1
@@ -30,8 +31,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 1 — Quesito 5
 
 *Acute triangle, orthocentre, circumcircles: find point X independent of P*
 

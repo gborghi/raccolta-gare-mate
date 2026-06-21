@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jjmo21hq_honsen__Q02
 parent: src_jjmo21hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 2
 
 *Find maximum k distinct values of xy/(x+y)^2 from 2023 reals*
 

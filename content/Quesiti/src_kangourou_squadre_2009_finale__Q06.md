@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q06
 parent: src_kangourou_squadre_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 6
 
 *Frazione massima <1/3 con somma num+den <=103*
 

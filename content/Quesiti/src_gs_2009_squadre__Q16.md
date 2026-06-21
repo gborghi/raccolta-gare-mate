@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q16
 parent: src_gs_2009_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 16
 
 *Somma prodotti dei mucchi indipendente, induzione*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q21
 parent: src_kangourou_2008_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 21
 
 *Probabilita di tornare al punto di partenza*
 

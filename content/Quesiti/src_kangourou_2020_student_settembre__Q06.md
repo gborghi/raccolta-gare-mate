@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - finale settembre — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_settembre__Q06
 parent: src_kangourou_2020_student_settembre
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - finale settembre — Quesito 6
 
 *Limitatezza somme dei cubi di successione convergente a 0*
 

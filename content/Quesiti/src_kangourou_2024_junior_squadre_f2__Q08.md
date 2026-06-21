@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q08
 parent: src_kangourou_2024_junior_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Junior Finale 2 — Quesito 8
 
 *Prime 4 cifre max n con n^2+2024n quadrato*
 

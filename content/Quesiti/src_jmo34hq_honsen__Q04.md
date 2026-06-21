@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo34hq_honsen__Q04
 parent: src_jmo34hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 4
 
 *Circumcircle diameter endpoint lies on circumcircle of auxiliary triangle via angle chase*
 

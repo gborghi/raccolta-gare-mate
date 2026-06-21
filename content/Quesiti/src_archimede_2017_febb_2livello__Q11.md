@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q11
 parent: src_archimede_2017_febb_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2017 - 2 livello — Quesito 11
 
 *Probabilita di estrarre la pallina 8 dopo le operazioni*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1987-88 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1987-88_round1__Q02
 parent: src_bmo_1987-88_round1
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1987-88 — Round 1 — Quesito 2
 
 *Find all real-valued functions on natural numbers satisfying f(x+y)=f(x)f(y)*
 

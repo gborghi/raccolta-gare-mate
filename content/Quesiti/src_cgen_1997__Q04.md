@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1997 — Matematica — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cgen_1997__Q04
 parent: src_cgen_1997
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1997 — Matematica — Quesito 4
 
 *Define lambda(alpha) by a relation between the alpha-th powers of the side lengths and the medians of a triangle; compute lambda(2), the limit as alpha tends to 0, and the condition for independence of alpha*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q03
 parent: src_kangourou_2016_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Semifinale A — Quesito 3
 
 *Valore di x se numero centrale (9x) di 9 consecutivi*
 

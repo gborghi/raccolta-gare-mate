@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2013 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2013_automne__Q07
 parent: src_canimath_2013_automne
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2013 — Quesito 7
 
 *Find best constants a,b in inequality a(x+y+z)^2 ≤ x²+y²+z²+yz ≤ b(x+y+z)^2*
 

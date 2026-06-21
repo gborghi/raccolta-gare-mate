@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_tfjm_2022__Q03
 parent: src_tfjm_2022
@@ -35,8 +36,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 3
 
 *A confined professor wants substitute Perrine to reconstruct the seating arrangement of n pupils; find the minimal number of questions needed under several allowed question types, with adaptive answers, errors, and lying.*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q18
 parent: src_archimede_2006_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 18
 
 *Numeri con cifre 3,4,6,7 divisibili per 44*
 

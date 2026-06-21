@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1978-79_round1__Q04
 parent: src_bmo_1978-79_round1
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1978-79 — Round 1 — Quesito 4
 
 *Rational-valued function satisfying f(x+f(y))=f(f(x))+f(y); prove f is constant*
 

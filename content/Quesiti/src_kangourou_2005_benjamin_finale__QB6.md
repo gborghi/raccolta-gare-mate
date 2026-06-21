@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (finale nazionale) — Quesito B6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin_finale__QB6
 parent: src_kangourou_2005_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (finale nazionale) — Quesito B6
 
 *Suddividere esagono regolare in 8 parti uguali*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q11
 parent: src_kangourou_2012_junior
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 11
 
 *Quale calcolo con 8 non funziona scambiando il numero*
 

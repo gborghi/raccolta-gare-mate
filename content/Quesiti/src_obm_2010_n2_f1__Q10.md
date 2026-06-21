@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n2_f1__Q10
 parent: src_obm_2010_n2_f1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 10
 
 *Max chips on 5x5 board, counts per row/column multiple of 3*
 

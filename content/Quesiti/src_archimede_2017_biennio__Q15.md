@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q15
 parent: src_archimede_2017_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 15
 
 *Cifra in posizione 2017 della sequenza degli interi*
 

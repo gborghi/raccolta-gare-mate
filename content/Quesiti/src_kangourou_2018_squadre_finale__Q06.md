@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2018 Finale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q06
 parent: src_kangourou_2018_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2018 Finale — Quesito 6
 
 *Massimo numero 3 cifre uguale a 34 volte somma cifre*
 

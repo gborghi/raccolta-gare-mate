@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round2__Q02
 parent: src_bmo_1980-81_round2
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 2 — Quesito 2
 
 *Count and classify the 13 axes of a cube; state minimum rotation angles*
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q05
 parent: src_prmo_2018
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 5
 
 *Trapezium ABCD with incircle touching AB at Q and CD at P, find PQ*
 

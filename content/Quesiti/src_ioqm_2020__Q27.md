@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q27
 parent: src_ioqm_2020
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 27
 
 *Bug moves along grid lines from A=(-3,2) to B=(3,-2), path length at most 14; count integer points on paths*
 

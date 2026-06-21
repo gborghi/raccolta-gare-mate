@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q03
 parent: src_archimede_2013_febb_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2013 - 2 livello — Quesito 3
 
 *Parita su vertici di poligono, affermazione sicuramente vera*
 

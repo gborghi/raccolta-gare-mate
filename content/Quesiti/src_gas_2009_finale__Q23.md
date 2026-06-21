@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q23
 parent: src_gas_2009_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 23
 
 *Differenza quadrati aree triangoli da polinomi delle lunghezze*
 

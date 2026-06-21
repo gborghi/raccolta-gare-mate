@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f1__Q01
 parent: src_obm_2001_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 1
 
 *Count two-digit numbers that are neither prime nor multiples of 2, 3, or 5*
 

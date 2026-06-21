@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2025 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2025__Q06
 parent: src_inmo_2025
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2025 — Quesito 6
 
 *Prove infinitely many payable numbers exist for notes with b-1 copies*
 

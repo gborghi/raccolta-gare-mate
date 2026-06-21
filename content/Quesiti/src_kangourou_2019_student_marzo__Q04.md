@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q04
 parent: src_kangourou_2019_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 4
 
 *Quanti spigoli ha piramide con 23 facce triangolari*
 

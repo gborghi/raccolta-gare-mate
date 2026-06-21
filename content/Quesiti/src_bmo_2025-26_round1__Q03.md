@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2025-26 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2025-26_round1__Q03
 parent: src_bmo_2025-26_round1
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2025-26 — Round 1 — Quesito 3
 
 *Reassemble 11×11 grid cut into L-shaped pieces, single square in row 3 col 3*
 

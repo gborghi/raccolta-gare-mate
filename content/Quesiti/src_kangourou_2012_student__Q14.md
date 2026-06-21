@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q14
 parent: src_kangourou_2012_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 14
 
 *Rapporto ragazzi/ragazze da medie dei voti*
 

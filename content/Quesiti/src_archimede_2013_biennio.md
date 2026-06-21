@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2013 - Biennio
 tipo: gara
 src_id: src_archimede_2013_biennio
 competition: Giochi di Archimede 2013 - Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2013
   - gara/individuale
 ---
-
-# Giochi di Archimede 2013 - Biennio
 
 Sorgente: `Archimede/individuale/1livello/2013/testo-biennio-def.pdf` · apri PDF
 

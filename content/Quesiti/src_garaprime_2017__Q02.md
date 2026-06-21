@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q02
 parent: src_garaprime_2017
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 2
 
 *Resto di un repunit binario di 2017 cifre diviso 16*
 

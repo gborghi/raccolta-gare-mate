@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_triennio__Q10
 parent: src_archimede_2024_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Triennio — Quesito 10
 
 *Cifre 0 finali del massimo prodotto di interi distinti somma 2024*
 

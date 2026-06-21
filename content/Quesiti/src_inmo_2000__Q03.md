@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2000 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2000__Q03
 parent: src_inmo_2000
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2000 — Quesito 3
 
 *Equal ratios with abc nonzero: a+b+c=0 or a=b=c*
 

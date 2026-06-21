@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n2_f1__Q17
 parent: src_obm_2006_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 17
 
 *Triangle with sides a, b, c summing to 1; determine which inequality holds*
 

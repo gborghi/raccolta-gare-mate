@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2014__Q05
 parent: src_cesenatico_2014
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 5
 
 *Intero come somma di 2015 potenze 2014-esime in due modi*
 

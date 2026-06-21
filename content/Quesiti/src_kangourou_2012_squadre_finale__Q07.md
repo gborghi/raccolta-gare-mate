@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre finale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q07
 parent: src_kangourou_2012_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre finale — Quesito 7
 
 *Partite totali torneo 16 tennisti tutti contro tutti*
 

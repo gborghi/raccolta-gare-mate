@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2006_n3_f1__Q05
 parent: src_obm_2006_n3_f1
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 5
 
 *Two distinct nonzero reals a,b with a-b=a/b; find a possible value of a/b+1/b-ab.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student finale (maggio) — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_maggio__QS1
 parent: src_kangourou_2007_student_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2007 Student finale (maggio) — Quesito S1
 
 *Percorso piu breve sulla superficie del cono*
 

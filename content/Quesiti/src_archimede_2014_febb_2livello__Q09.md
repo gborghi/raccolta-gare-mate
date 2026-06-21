@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q09
 parent: src_archimede_2014_febb_2livello
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello — Quesito 9
 
 *Probabilita di nessuno scontro tra cinque amici in seggiovia*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale
 tipo: gara
 src_id: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2020/SQ-F-20.pdf` · apri PDF
 

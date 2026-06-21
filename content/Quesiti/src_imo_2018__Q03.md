@@ -1,4 +1,5 @@
 ---
+title: IMO 2018 papers — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2018__Q03
 parent: src_imo_2018
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2018 papers — Quesito 3
 
 *Triangolo anti-Pascal con 2018 righe*
 

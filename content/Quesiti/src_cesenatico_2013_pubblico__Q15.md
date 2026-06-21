@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q15
 parent: src_cesenatico_2013_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 15
 
 *M+m testimoni veritieri al tavolo rotondo (7999)*
 

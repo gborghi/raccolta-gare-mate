@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Cadet (Mirabilandia) — Quesito C3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet_finale__QC3
 parent: src_kangourou_2012_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Cadet (Mirabilandia) — Quesito C3
 
 *Quante sfere per tre punti non allineati e raggio minimo*
 

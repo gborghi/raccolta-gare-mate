@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2015 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2015__Q03
 parent: src_inmo_2015
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2015 — Quesito 3
 
 *Find all real functions satisfying f(x^2+yf(x))=xf(x+y)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q24
 parent: src_kangourou_2013_junior
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 24
 
 *Cifre a destra della virgola di 1/1024000*
 

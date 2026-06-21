@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - semifinale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q11
 parent: src_kangourou_2021_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - semifinale — Quesito 11
 
 *Peso di un anguria in etti (3 chili meno di tre angurie)*
 

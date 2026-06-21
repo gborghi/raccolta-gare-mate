@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q22
 parent: src_kangourou_2019_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 22
 
 *Per quali a l equazione 2-|x|=ax ha due soluzioni*
 

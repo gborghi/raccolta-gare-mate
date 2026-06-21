@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 squadre semifinale turno A — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q10
 parent: src_kangourou_2012_squadre_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2012 squadre semifinale turno A — Quesito 10
 
 *Numeri 200-999 con cifra unita*decine=centinaia*
 

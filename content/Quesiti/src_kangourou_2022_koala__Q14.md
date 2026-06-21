@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Koala — Gioco Koala — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_koala__Q14
 parent: src_kangourou_2022_koala
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Koala — Gioco Koala — Quesito 14
 
 *Tessere per orlare quadrato di lato 5*
 

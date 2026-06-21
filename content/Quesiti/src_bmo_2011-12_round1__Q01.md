@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2011-12_round1__Q01
 parent: src_bmo_2011-12_round1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 1 — Quesito 1
 
 *Find all integers n such that n^2+20n+11 is a perfect square*
 

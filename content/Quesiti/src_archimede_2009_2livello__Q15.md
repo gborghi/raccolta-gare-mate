@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_2livello__Q15
 parent: src_archimede_2009_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 15
 
 *Minimo c e infinite terne con 2c^2 = a^2 + b^2*
 

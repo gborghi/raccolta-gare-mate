@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q13
 parent: src_cesenatico_2012_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 13
 
 *Coppie (a,b) con sqrt(a-1)+sqrt(b-1)=sqrt(ab-1)*
 

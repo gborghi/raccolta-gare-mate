@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2022 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_automne__Q15
 parent: src_canimath_2022_automne
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2022 — Quesito 15
 
 *Largest r such that n reals contain r with no two at distance 1 (or alpha)*
 

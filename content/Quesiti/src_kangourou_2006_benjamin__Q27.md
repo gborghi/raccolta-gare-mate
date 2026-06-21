@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Benjamin (marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_benjamin__Q27
 parent: src_kangourou_2006_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 - Benjamin (marzo) — Quesito 27
 
 *Ripartizione equa delle monete tra Aldo e Bruno*
 

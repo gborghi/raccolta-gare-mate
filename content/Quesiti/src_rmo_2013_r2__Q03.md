@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r2__Q03
 parent: src_rmo_2013_r2
@@ -34,8 +35,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 2 — Quesito 3
 
 *Sign changes in 2013^2+2014^2+...+n^2 to equal 9999*
 

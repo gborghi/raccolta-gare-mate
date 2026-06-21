@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2005-06 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2005-06_round1__Q01
 parent: src_bmo_2005-06_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2005-06 — Round 1 — Quesito 1
 
 *Twin primes around n force divisibility by 720*
 

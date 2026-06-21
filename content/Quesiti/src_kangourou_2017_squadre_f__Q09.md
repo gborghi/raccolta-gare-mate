@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Finale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q09
 parent: src_kangourou_2017_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Finale — Quesito 9
 
 *Quanti sottoinsiemi di 7 in progressione aritmetica*
 

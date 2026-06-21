@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q21
 parent: src_kangourou_2008_junior_marzo
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Junior (gara 28 marzo) — Quesito 21
 
 *Numeri di 6 cifre con cifra = somma due precedenti*
 

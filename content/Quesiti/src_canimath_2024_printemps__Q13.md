@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2024 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_printemps__Q13
 parent: src_canimath_2024_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2024 — Quesito 13
 
 *Minimum operations to checkerboard-color a 100x100 grid by recoloring 99 cells per row/column*
 

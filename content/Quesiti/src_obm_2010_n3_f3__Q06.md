@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2010_n3_f3__Q06
 parent: src_obm_2010_n3_f3
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 6
 
 *Find all positive integer pairs (a,b) with 3^a = 2b^2 + 1*
 

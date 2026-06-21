@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q25
 parent: src_kangourou_2012_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 25
 
 *Quali numeri necessariamente in vertici consecutivi*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1972 (Fourteenth International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1972_all__Q04
 parent: src_imo_1972_all
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1972 (Fourteenth International Olympiad) — Quesito 4
 
 *Solve cyclic system of product inequalities, positive reals*
 

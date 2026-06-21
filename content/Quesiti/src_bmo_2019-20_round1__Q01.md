@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2019-20_round1__Q01
 parent: src_bmo_2019-20_round1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2019-20 — Round 1 — Quesito 1
 
 *Find primes p<200 where p,p+2,p+6,p+8,p+12 all prime; unique prime q for q+2,q+6,q+8,q+12,q+14 all prime*
 

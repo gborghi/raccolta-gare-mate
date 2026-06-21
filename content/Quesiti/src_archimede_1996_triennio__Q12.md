@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1996 - Triennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_1996_triennio__Q12
 parent: src_archimede_1996_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1996 - Triennio — Quesito 12
 
 *Area di un dominio definito da disequazioni di cerchi*
 

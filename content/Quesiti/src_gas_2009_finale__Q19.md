@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q19
 parent: src_gas_2009_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 19
 
 *Modi di indossare 7 anelli su 8 dita con ordine*
 

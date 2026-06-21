@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 Benjamin finale (maggio) — Quesito B3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_benjamin_maggio__QB3
 parent: src_kangourou_2008_benjamin_maggio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 Benjamin finale (maggio) — Quesito B3
 
 *Due tra 10 interi con somma o differenza divisibile per 10*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q05
 parent: src_kangourou_2018_junior_semif
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 5
 
 *Rapporto volume cubo / tetraedro regolare inscritto*
 

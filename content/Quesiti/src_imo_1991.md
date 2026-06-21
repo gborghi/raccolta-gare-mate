@@ -1,4 +1,5 @@
 ---
+title: IMO 1991 (32nd IMO)
 tipo: gara
 src_id: src_imo_1991
 competition: IMO 1991 (32nd IMO)
@@ -15,8 +16,6 @@ tags:
   - anno/1991
   - gara/individuale
 ---
-
-# IMO 1991 (32nd IMO)
 
 Sorgente: `Archimede/individuale/imho/all/1991_eng.pdf` · apri PDF
 

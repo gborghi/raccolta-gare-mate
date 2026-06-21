@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo18yq_yosen__Q01
 parent: src_jjmo18yq_yosen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 1
 
 *Ratio AB/AC in right triangle with inscribed square and three area labels*
 

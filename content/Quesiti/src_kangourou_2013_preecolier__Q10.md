@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Pre-Ecolier — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_preecolier__Q10
 parent: src_kangourou_2013_preecolier
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Pre-Ecolier — Quesito 10
 
 *Peso di un gatto se Giorgio pesa 30 kg*
 

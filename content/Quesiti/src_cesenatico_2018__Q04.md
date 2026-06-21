@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2018__Q04
 parent: src_cesenatico_2018
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 4
 
 *doppio di primo o potenza di primo*
 

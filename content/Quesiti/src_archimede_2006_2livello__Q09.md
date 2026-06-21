@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_2livello__Q09
 parent: src_archimede_2006_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 9
 
 *Minimo numero di radici quadrate per scendere sotto 2*
 

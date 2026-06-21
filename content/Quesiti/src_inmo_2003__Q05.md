@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2003 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2003__Q05
 parent: src_inmo_2003
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2003 — Quesito 5
 
 *Triangle with augmented sides has area at least 3/4 of original*
 

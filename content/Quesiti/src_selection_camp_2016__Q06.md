@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2016__Q06
 parent: src_selection_camp_2016
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2016 — Selection Camp — Quesito 6
 
 *Minimum handshakes to guarantee infection of all 2015 people*
 

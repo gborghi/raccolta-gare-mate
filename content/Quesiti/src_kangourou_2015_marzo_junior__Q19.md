@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q19
 parent: src_kangourou_2015_marzo_junior
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 19
 
 *Interi 3 cifre con cifre adiacenti che differiscono di 3*
 

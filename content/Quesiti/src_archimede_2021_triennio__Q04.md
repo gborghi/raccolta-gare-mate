@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_triennio__Q04
 parent: src_archimede_2021_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 4
 
 *Quale prodotto di potenze e un quadrato perfetto*
 

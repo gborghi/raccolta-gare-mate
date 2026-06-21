@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale
 tipo: gara
 src_id: src_kangourou_2022_cadet_semifinale
 competition: Kangourou 2022 Cadet semifinale individuale
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale
 
 Sorgente: `Kangaroo/kangourou_individuali/2022/Cadet2022RSE.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_2livello__Q05
 parent: src_archimede_2011_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 5
 
 *Probabilità che Nicola vinca almeno 4 monete in 5 partite*
 

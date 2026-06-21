@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q14
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 14
 
 *Area di ciascun rettangolo in quadrato lato 24*
 

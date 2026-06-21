@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q11
 parent: src_kangourou_2020_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Junior - gara marzo (biennio) — Quesito 11
 
 *Giorno conveniente per iniziare visita di 18 giorni*
 

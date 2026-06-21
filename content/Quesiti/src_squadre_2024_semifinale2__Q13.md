@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Semifinale 2 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_semifinale2__Q13
 parent: src_squadre_2024_semifinale2
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Semifinale 2 — Quesito 13
 
 *Tratto in salita strada minima attorno a cono, apotema 1000*
 

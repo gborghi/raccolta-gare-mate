@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Benjamin 2024 — Quesito B2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB2
 parent: src_kangourou_2024_benjamin_finale
@@ -23,8 +24,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Finale Benjamin 2024 — Quesito B2
 
 *Si puo dedurre il significato di KAB dalla risposta*
 

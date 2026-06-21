@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Cadet 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q04
 parent: src_kangourou_2024_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Cadet 2024 — Quesito 4
 
 *Somma dei due numeri di Sofia da 5x+y=106*
 

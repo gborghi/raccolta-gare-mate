@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q16
 parent: src_kangourou_2007_student_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 16
 
 *Piu grande di 8 numeri (5 consecutivi = 3 seguenti)*
 

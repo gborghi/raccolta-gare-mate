@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q16
 parent: src_kangourou_2013_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 16
 
 *Anno di nascita di mamma Enrica con prodotto età 2013*
 

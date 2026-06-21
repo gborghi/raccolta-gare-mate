@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1999-00 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1999-00_round2__Q02
 parent: src_bmo_1999-00_round2
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1999-00 — Round 2 — Quesito 2
 
 *Find minimum of x^2+4xy+4y^2+2z^2 given xyz=32*
 

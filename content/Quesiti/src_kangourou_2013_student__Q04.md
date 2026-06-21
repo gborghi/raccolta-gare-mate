@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q04
 parent: src_kangourou_2013_student
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 4
 
 *Valore della radice cubica di 3^(3^3)*
 

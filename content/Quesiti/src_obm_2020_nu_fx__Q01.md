@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x —
+  Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2020_nu_fx__Q01
 parent: src_obm_2020_nu_fx
@@ -34,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x — Quesito 1
 
 *Limit of average of n(k) over R^{1/2} as R tends to infinity*
 

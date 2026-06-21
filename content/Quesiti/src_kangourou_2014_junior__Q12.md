@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q12
 parent: src_kangourou_2014_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 12
 
 *Quale quadro è più vicino al pavimento*
 

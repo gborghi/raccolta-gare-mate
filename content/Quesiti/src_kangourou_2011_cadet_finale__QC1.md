@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet_finale__QC1
 parent: src_kangourou_2011_cadet_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C1
 
 *Minimo numero di problemi per cinque categorie con vincoli di punteggio*
 

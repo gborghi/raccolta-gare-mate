@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior_finale__QJ1
 parent: src_kangourou_2012_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J1
 
 *Cifra finale del prodotto dei dispari tra 1 e 2012*
 

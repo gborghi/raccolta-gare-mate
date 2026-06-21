@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q13
 parent: src_kangourou_2012_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 13
 
 *Numero da inserire nella cella grigia del sudoku*
 

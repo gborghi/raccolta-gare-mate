@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q04
 parent: src_prmo_2014
@@ -36,8 +37,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 4
 
 *Greatest possible perimeter of integer-sided triangle with one side three times another and third side 17*
 

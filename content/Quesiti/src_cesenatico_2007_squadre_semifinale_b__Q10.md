@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q10
 parent: src_cesenatico_2007_squadre_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 10
 
 *Quanti codici palindromi multipli 3 dispari cifre <=7 cifre*
 

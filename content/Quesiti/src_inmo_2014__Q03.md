@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2014 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2014__Q03
 parent: src_inmo_2014
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2014 — Quesito 3
 
 *Natural a,b with ab>2: gcd/lcm quotient at most (a+b)/4; find equality cases*
 

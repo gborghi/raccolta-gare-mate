@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2018
 tipo: gara
 src_id: src_canimath_2018_automne
 competition: Coupe Animath Automne 2018
@@ -17,8 +18,6 @@ tags:
   - gara/individuale
   - stagione/automne
 ---
-
-# Coupe Animath Automne 2018
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q19
 parent: src_prmo_2018
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 19
 
 *N = 6+66+666+...+666...6 (100 sixes), count occurrences of digit 7 in N*
 

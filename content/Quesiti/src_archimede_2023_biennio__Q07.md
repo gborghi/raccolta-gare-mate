@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Biennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_biennio__Q07
 parent: src_archimede_2023_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Biennio — Quesito 7
 
 *Angolo AFE con catena di bisettrici nel triangolo*
 

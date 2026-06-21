@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q14
 parent: src_kangourou_2024_ecolier_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Ecolier 2024 — Quesito 14
 
 *In quanti modi ripartire 1..8 in coppie con differenza costante*
 

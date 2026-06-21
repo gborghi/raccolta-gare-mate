@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q02
 parent: src_squadre_2018_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 2
 
 *Numero divisori dell'mcm dei naturali da 1 a 30*
 

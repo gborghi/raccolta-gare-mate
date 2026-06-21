@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo32hq_honsen__Q05
 parent: src_jmo32hq_honsen
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 5
 
 *999 circular squares with reals; find minimum m for sequential property*
 

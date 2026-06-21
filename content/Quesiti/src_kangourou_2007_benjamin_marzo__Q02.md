@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin (marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q02
 parent: src_kangourou_2007_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin (marzo) — Quesito 2
 
 *Numero divisibile per la somma delle sue cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q17
 parent: src_kangourou_2003_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 17
 
 *Pagine di un libro con 35 cifre*
 

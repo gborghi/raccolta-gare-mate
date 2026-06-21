@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q19
 parent: src_kangourou_2015_marzo_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Benjamin — Quesito 19
 
 *quanti frutti per mela e pera stesso colore*
 

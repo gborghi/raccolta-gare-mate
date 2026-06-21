@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q22
 parent: src_kangourou_2008_ecolier_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 22
 
 *Quante date leggibili al contrario*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1979-80 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1979-80_round2__Q03
 parent: src_bmo_1979-80_round2
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1979-80 — Round 2 — Quesito 3
 
 *Prove an inequality for real numbers with equality condition*
 

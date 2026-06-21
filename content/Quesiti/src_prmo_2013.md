@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai
 tipo: gara
 src_id: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/Mumbai
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai
 
 Sorgente: apri PDF
 

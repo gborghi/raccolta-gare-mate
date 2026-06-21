@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_a__Q19
 parent: src_prmo_2015_a
@@ -36,8 +37,6 @@ tags:
   - regione/a
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 19
 
 *Angle $\angle PYX$ for internally tangent circles with diameter tangent to inner circle*
 

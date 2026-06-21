@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q12
 parent: src_kangourou_2019_student_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 12
 
 *Quanti votanti hanno mentito nelle due citta del referendum*
 

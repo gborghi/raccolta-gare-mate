@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jjmo18hq_honsen__Q01
 parent: src_jjmo18hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 1
 
 *Minimize L-trominoes tiling a grid with L and S tiles*
 

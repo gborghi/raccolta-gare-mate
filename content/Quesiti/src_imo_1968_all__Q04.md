@@ -1,4 +1,5 @@
 ---
+title: IMO 1968 (Tenth International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1968_all__Q04
 parent: src_imo_1968_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# IMO 1968 (Tenth International Olympiad) — Quesito 4
 
 *Every tetrahedron has a vertex whose edges form a triangle*
 

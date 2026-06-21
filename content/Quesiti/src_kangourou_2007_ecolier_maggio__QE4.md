@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier finale (maggio) — Quesito E4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE4
 parent: src_kangourou_2007_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier finale (maggio) — Quesito E4
 
 *Numero allievi (65 strette di mano)*
 

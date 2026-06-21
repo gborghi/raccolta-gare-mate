@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n3_f2__Q03
 parent: src_obm_2001_n3_f2
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2 — Quesito 3
 
 *Trapezoid ABCD with AB∥CD; find angle DAB given angle sum condition*
 

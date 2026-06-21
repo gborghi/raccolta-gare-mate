@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q21
 parent: src_cesenatico_2012_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 21
 
 *Distanza minima su superficie piramidi (6)*
 

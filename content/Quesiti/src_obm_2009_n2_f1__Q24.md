@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n2_f1__Q24
 parent: src_obm_2009_n2_f1
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 24
 
 *Integers 0≤x≤y≤z≤u≤v≤t with w=2(x+y+z), t=u+v+2, w=9; find t*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_benjamin__Q12
 parent: src_kangourou_2001_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Benjamin (15 marzo) — Quesito 12
 
 *Euro di Edoardo con monete in terzi*
 

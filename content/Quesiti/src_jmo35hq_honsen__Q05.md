@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo35hq_honsen__Q05
 parent: src_jmo35hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 5
 
 *Interior points via angle bisectors; reflections yield similar triangles*
 

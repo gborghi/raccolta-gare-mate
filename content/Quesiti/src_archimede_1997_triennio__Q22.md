@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q22
 parent: src_archimede_1997_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 22
 
 *Probabilita che il 13 sia estratto in una sola citta*
 

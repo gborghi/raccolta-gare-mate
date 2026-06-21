@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Biennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_biennio__Q20
 parent: src_archimede_2011_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Biennio — Quesito 20
 
 *Caselle raggiungibili dal re in cinque mosse senza ripetizioni*
 

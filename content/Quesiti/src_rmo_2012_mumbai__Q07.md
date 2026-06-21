@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_mumbai__Q07
 parent: src_rmo_2012_mumbai
@@ -29,8 +30,6 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Mumbai — Quesito 7
 
 *Power of a point and similar triangles yield a 100 degree angle*
 

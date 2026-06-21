@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q02
 parent: src_kangourou_2009_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 2
 
 *Massimo quadratini coperti dal quadrato ABCD*
 

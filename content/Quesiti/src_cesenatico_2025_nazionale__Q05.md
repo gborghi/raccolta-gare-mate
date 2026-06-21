@@ -1,4 +1,5 @@
 ---
+title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q05
 parent: src_cesenatico_2025_nazionale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 5
 
 *Dimostrare GH parallela a BC (bisettrice e asse)*
 

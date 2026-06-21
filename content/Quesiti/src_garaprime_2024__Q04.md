@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q04
 parent: src_garaprime_2024
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 4
 
 *Massimo n per poligono con angoli in progressione di 30*
 

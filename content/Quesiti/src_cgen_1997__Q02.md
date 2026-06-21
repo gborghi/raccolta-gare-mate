@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1997 — Matematica — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cgen_1997__Q02
 parent: src_cgen_1997
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1997 — Matematica — Quesito 2
 
 *Maximize the volume of a right cylinder inscribed in a capsule formed by a sphere and a cone sharing the same axis*
 

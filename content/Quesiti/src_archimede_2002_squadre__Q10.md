@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_squadre__Q10
 parent: src_archimede_2002_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 10
 
 *massima potenza che divide 2002!*
 

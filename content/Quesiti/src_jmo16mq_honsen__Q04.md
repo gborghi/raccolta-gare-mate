@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo16mq_honsen__Q04
 parent: src_jmo16mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 4
 
 *Count lattice path crossing configurations; find all valid tuples*
 

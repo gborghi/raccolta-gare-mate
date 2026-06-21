@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jjmo15mq_honsen__Q04
 parent: src_jjmo15mq_honsen
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 4
 
 *Two non-intersecting curves in xy-plane; 5 points chosen; minimize maximum axis-aligned rectangle area*
 

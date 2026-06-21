@@ -1,4 +1,5 @@
 ---
+title: IMO 1982 (23rd International Mathematical Olympiad)
 tipo: gara
 src_id: src_imo_1982
 competition: IMO 1982 (23rd International Mathematical Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1982
   - gara/individuale
 ---
-
-# IMO 1982 (23rd International Mathematical Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1982_eng.pdf` · apri PDF
 

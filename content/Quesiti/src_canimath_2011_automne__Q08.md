@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2011 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_automne__Q08
 parent: src_canimath_2011_automne
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2011 — Quesito 8
 
 *x,y,z in [0,1] with (1-x)(1-y)(1-z)=xyz; one of three products >=1/4 and one <=1/4*
 

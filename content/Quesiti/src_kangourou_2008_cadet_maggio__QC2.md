@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_maggio__QC2
 parent: src_kangourou_2008_cadet_maggio
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C2
 
 *Sottoinsieme con somma/differenza divisibile per 10*
 

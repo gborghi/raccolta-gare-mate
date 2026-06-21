@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q03
 parent: src_kangourou_2023_junior_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 2 — Quesito 3
 
 *Quanti triangoli nella figura*
 

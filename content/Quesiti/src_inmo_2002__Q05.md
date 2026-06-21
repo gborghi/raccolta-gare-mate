@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2002 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2002__Q05
 parent: src_inmo_2002
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2002 — Quesito 5
 
 *Existence of distinct positive reals forming a 7-term arithmetic progression*
 

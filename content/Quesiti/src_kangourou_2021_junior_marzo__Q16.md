@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q16
 parent: src_kangourou_2021_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 16
 
 *Membri della squadra partita per prima (ragazzi/ragazze)*
 

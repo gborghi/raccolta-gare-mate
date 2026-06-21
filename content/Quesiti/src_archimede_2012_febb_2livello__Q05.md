@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q05
 parent: src_archimede_2012_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 5
 
 *Massimo coefficiente grado 1 di polinomio monico grado 5*
 

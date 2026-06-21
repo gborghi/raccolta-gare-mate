@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q25
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 25
 
 *Massima potenza di (x-1) che divide un polinomio di 5 grado*
 

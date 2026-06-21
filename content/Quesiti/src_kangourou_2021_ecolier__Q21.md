@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - gara marzo — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier__Q21
 parent: src_kangourou_2021_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - gara marzo — Quesito 21
 
 *Numero di dolci divisibili per 2,3,4 con resto 6 su 7*
 

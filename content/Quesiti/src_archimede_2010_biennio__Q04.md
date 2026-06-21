@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q04
 parent: src_archimede_2010_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 4
 
 *Ordinamento corretto di radici 2rad2, rad10, rad5+rad3*
 

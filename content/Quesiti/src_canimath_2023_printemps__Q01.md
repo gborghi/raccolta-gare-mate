@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q01
 parent: src_canimath_2023_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 1
 
 *Compute the value of 4^8/8^4.*
 

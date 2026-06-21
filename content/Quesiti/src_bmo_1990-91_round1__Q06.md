@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1990-91 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_1990-91_round1__Q06
 parent: src_bmo_1990-91_round1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1990-91 — Round 1 — Quesito 6
 
 *Show x is a perfect square if x²+y²−x is divisible by 2xy*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2013 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2013__Q04
 parent: src_inmo_2013
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2013 — Quesito 4
 
 *Good nonempty subsets of {1,2,...,n}; prove t_n and n are both odd or both even*
 

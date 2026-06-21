@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q13
 parent: src_kangourou_2018_squadre_a
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2018 Semifinale A — Quesito 13
 
 *Lunghezza corda AB con tre cerchi tangenti, area 18pi*
 

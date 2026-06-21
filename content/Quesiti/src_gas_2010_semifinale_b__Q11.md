@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale B — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_b__Q11
 parent: src_gas_2010_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale B — Quesito 11
 
 *Valore atteso righe sopra la tessera rossa nel triangolo*
 

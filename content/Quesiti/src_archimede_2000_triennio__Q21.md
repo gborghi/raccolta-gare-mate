@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q21
 parent: src_archimede_2000_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 21
 
 *Area dominio definito da disuguaglianza con parte intera*
 

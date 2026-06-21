@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier finale individuale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q03
 parent: src_kangourou_2022_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier finale individuale — Quesito 3
 
 *Spessore del libro (cifre e pagine teoria)*
 

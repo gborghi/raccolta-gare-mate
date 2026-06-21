@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q10
 parent: src_kangourou_2023_junior_squadre_f2
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 2 — Quesito 10
 
 *Minore di 6 consecutivi, prodotto forma data*
 

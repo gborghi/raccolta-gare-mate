@@ -1,11 +1,10 @@
 ---
+title: 'Combinatoria, Logica e Probabilita'
 tipo: cluster
 cluster: 'Combinatoria, Logica e Probabilita'
 tags:
   - graph/cluster
 ---
-
-# Combinatoria, Logica e Probabilita
 
 Macro-area. **3328** quesiti.
 

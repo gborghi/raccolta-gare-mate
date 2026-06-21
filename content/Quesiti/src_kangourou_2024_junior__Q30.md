@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q30
 parent: src_kangourou_2024_junior
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 30
 
 *Per quante coppie (m,n) l'area del triangolo OPQ vale 2024*
 

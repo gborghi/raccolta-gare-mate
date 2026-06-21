@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q08
 parent: src_archimede_2014_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 8
 
 *Zeri finali del prodotto n*m dati MCD e mcm*
 

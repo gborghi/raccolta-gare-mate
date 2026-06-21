@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f1__Q15
 parent: src_obm_2005_n3_f1
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 15
 
 *Sequence with a_{n+1}=a_{n+2}(a_{n+1}+a_n), given a_5=35 find a_4*
 

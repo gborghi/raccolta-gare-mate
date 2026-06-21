@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior_finale__QJ5
 parent: src_kangourou_2011_junior_finale
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J5
 
 *Quanti valori distinti somma perimetri di 4 triangoli area 1/4*
 

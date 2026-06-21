@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet__Q20
 parent: src_kangourou_2023_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Gara 16 marzo — Quesito 20
 
 *somma cifre maggiore*
 

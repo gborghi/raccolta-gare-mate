@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_tfjm_2024__Q01
 parent: src_tfjm_2024
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 1
 
 *Triominoes: triangular tiles bearing numbers from 1 to n on each side (then on vertices); count the tiles and find which n admit a matching configuration, a straight-line arrangement, or a full rhombus.*
 

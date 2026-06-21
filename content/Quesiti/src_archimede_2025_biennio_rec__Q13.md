@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q13
 parent: src_archimede_2025_biennio_rec
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 13
 
 *Probabilità MCD con 42 maggiore di 10*
 

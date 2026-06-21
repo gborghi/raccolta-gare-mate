@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Finale
 tipo: gara
 src_id: src_kangourou_2014_squadre_f
 competition: Kangourou Coppa Squadre 2014 Finale
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Finale
 
 Sorgente: `Kangaroo/kangourou_squadre/2014/SQ-F-14.pdf` · apri PDF
 

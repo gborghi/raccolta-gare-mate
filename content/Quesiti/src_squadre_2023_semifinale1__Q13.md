@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Semifinale 1 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_semifinale1__Q13
 parent: src_squadre_2023_semifinale1
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Semifinale 1 — Quesito 13
 
 *Triangolo isoscele con punti conciclici BEFM, angolo ACB*
 

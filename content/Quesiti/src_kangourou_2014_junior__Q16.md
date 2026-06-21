@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q16
 parent: src_kangourou_2014_junior
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 16
 
 *Minuti di corsa per velocità media 5 km/h*
 

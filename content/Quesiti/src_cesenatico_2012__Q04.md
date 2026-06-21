@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012__Q04
 parent: src_cesenatico_2012
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 4
 
 *coppie {a,b} con xa*xb quadrato perfetto*
 

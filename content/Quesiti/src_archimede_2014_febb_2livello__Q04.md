@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q04
 parent: src_archimede_2014_febb_2livello
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2014 - 2 livello — Quesito 4
 
 *Gioco con ultime due cifre di 51n+50, numeri ottenibili*
 

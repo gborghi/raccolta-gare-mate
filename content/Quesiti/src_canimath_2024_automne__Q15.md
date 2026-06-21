@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q15
 parent: src_canimath_2024_automne
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 15
 
 *Find largest α such that for all x_1,...,x_2024 some index i gives sum of fractional parts ≤ α*
 

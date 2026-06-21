@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q19
 parent: src_kangourou_2006_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 19
 
 *Somma mancante sui lati dell'esagono di sassolini*
 

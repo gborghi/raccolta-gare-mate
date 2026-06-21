@@ -1,4 +1,5 @@
 ---
+title: IMO 1983 (24th International Mathematical Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1983__Q01
 parent: src_imo_1983
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1983 (24th International Mathematical Olympiad) — Quesito 1
 
 *Find all positive functions with f(xf(y))=yf(x) tending to 0*
 

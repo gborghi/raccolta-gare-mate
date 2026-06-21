@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n3_f3__Q05
 parent: src_obm_2017_n3_f3
@@ -36,8 +37,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 5
 
 *Lines through midpoints perpendicular to internal bisectors; circumcenter of resulting triangle is midpoint of HI*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo24mq_honsen__Q01
 parent: src_jmo24mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 1
 
 *Find angle BAC from a perpendicular bisector condition*
 

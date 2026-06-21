@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q11
 parent: src_kangourou_2021_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 11
 
 *Relazione tra A e B con A-A/10 = B/10*
 

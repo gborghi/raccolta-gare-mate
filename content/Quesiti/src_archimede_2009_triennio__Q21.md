@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_triennio__Q21
 parent: src_archimede_2009_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio — Quesito 21
 
 *Numeri n con n e (n-6)^2+1 entrambi primi*
 

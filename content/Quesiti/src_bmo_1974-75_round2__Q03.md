@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1974-75 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1974-75_round2__Q03
 parent: src_bmo_1974-75_round2
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1974-75 — Round 2 — Quesito 3
 
 *Probability room A fills with n contestants before room B*
 

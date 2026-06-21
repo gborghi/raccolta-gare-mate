@@ -1,4 +1,5 @@
 ---
+title: IMO 2020 papers — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2020__Q05
 parent: src_imo_2020
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2020 papers — Quesito 5
 
 *n con media aritmetica=media geometrica forza uguali*
 

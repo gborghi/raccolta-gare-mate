@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_biennio__Q12
 parent: src_archimede_2005_biennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Biennio — Quesito 12
 
 *Triangolo con assi e bisettrice concorrenti*
 

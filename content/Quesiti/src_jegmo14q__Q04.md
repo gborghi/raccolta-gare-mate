@@ -1,4 +1,5 @@
 ---
+title: Japan EGMO Selection / Girls MO 2025 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jegmo14q__Q04
 parent: src_jegmo14q
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan EGMO Selection / Girls MO 2025 — Quesito 4
 
 *Minimum stones left in box 1 after stone-moving operations*
 

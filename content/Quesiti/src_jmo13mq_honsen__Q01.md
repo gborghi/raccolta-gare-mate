@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo13mq_honsen__Q01
 parent: src_jmo13mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 1
 
 *Find angle BRC in triangle ABC with equal-length conditions*
 

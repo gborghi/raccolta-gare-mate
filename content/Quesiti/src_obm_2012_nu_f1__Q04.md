@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 —
+  Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2012_nu_f1__Q04
 parent: src_obm_2012_nu_f1
@@ -35,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 — Quesito 4
 
 *Find smallest k with x_k > y_2012 for two sequences*
 

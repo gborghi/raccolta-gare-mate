@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q14
 parent: src_kangourou_2011_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 14
 
 *Probabilita due su tre nate stesso giorno settimana*
 

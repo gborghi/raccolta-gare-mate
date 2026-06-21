@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_benjamin__Q02
 parent: src_kangourou_2002_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2002 - Benjamin (21 marzo) — Quesito 2
 
 *Linea che non puo far parte del profilo*
 

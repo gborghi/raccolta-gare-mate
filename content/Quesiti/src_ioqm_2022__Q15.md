@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q15
 parent: src_ioqm_2022
@@ -33,8 +34,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 15
 
 *Real x,y with xy=1, find largest and smallest of a symmetric expression, compute T+t*
 

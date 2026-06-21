@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2021-22 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2021-22_round1__Q06
 parent: src_bmo_2021-22_round1
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2021-22 — Round 1 — Quesito 6
 
 *Count lists of 71 integers summing to 999,999 with given recurrence*
 

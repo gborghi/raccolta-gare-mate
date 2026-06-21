@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q19
 parent: src_kangourou_2024_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 19
 
 *Quanto pesa il cilindro (pesate a coppie)*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q01
 parent: src_kangourou_2005_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 1
 
 *Valore di 2005x100+2005*
 

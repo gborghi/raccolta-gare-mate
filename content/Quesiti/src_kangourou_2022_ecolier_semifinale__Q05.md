@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier semifinale individuale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q05
 parent: src_kangourou_2022_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier semifinale individuale — Quesito 5
 
 *Quali timbri forniscono la scritta corretta*
 

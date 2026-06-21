@@ -1,4 +1,5 @@
 ---
+title: IMO 2024 papers — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_2024__Q02
 parent: src_imo_2024
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2024 papers — Quesito 2
 
 *Coppie (a,b) con gcd(a^n+b,b^n+a) costante*
 

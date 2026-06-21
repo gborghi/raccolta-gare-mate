@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q12
 parent: src_kangourou_2001_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 12
 
 *Carrozze del treno dove si incontrano*
 

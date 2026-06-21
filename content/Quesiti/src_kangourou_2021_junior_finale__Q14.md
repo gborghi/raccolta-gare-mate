@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q14
 parent: src_kangourou_2021_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - finale — Quesito 14
 
 *Valore a+b cifre di 4^2021 e 25^2021*
 

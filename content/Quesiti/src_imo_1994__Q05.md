@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1994__Q05
 parent: src_imo_1994
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1994 (35th IMO, Hong Kong) — Quesito 5
 
 *Find all f on (-1,inf) with functional and monotonicity conditions*
 

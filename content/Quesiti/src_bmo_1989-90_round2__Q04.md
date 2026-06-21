@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1989-90 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1989-90_round2__Q04
 parent: src_bmo_1989-90_round2
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1989-90 — Round 2 — Quesito 4
 
 *Maximum area of triangles inscribed in T; prove AI^2 = AB·AC for incentre I*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q16
 parent: src_kangourou_2024_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 16
 
 *Interi di due cifre con quoziente 7 per somma cifre*
 

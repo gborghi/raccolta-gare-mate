@@ -1,4 +1,5 @@
 ---
+title: IMO 1974 (Sixteenth International Olympiad) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1974_all__Q02
 parent: src_imo_1974_all
@@ -25,8 +26,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# IMO 1974 (Sixteenth International Olympiad) — Quesito 2
 
 *Point D with CD geometric mean iff sinA sinB<=sin^2(C/2)*
 

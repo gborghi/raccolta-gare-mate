@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Triennio — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_triennio__Q02
 parent: src_archimede_2022_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Triennio — Quesito 2
 
 *Angolo al vertice con quattro punti su lati del triangolo*
 

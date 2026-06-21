@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005
 tipo: gara
 src_id: src_jjmo3q
 competition: Japan Junior Mathematical Olympiad 2005
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005
 
 Sorgente: apri PDF
 

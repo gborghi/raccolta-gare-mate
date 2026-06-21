@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q01
 parent: src_garaprime_2024
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 1
 
 *Differenza massima tra due angoli di triangolo scaleno intero*
 

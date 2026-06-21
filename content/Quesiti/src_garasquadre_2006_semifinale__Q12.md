@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q12
 parent: src_garasquadre_2006_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 12
 
 *Minimo intero 4 cifre distinte non nulle con cifre maggiori della media adiacenti*
 

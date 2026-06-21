@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q08
 parent: src_archimede_2001_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 8
 
 *Probabilità che Lorenzo sia sano dato il test positivo*
 

@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_finale__Q12
 parent: src_garasquadre_2006_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Finale — Quesito 12
 
 *Cubi con spigoli paralleli agli assi e vertici interi 0-10*
 

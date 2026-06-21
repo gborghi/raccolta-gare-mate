@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q25
 parent: src_kangourou_2006_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 25
 
 *Minimo calze da estrarre per 7 paia accoppiate*
 

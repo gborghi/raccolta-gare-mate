@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio__Q07
 parent: src_archimede_2025_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio — Quesito 7
 
 *Massima somma punteggi test vero/falso con risposte concordi note*
 

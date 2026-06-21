@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q14
 parent: src_kangourou_2017_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 14
 
 *Minimo numero di persone con 4 figli e 2 padri*
 

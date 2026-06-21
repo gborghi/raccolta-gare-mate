@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo)
 tipo: gara
 src_id: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2004
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2004/SMarzo-04.pdf` · apri PDF
 

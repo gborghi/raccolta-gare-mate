@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q02
 parent: src_cesenatico_2007_squadre_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 2
 
 *Volume solido al centro del cubo tagliato per terne colorate*
 

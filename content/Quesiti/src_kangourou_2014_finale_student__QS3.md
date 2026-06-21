@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale nazionale Student — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_finale_student__QS3
 parent: src_kangourou_2014_finale_student
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2014 finale nazionale Student — Quesito S3
 
 *strategia vincente*
 

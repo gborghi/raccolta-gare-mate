@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1977-78 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1977-78_round1__Q02
 parent: src_bmo_1977-78_round1
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1977-78 — Round 1 — Quesito 2
 
 *Prove no rational with denominator ≤100 has decimal block 167 in ten consecutive digits*
 

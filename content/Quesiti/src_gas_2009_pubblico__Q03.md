@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gas_2009_pubblico__Q03
 parent: src_gas_2009_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Gara del Pubblico — Quesito 3
 
 *Ultime 4 cifre minimo numero con cifre 2,3 divisibile per 2^2009*
 

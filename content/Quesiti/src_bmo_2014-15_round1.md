@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2014-15 — Round 1
 tipo: gara
 src_id: src_bmo_2014-15_round1
 competition: British Mathematical Olympiad 2014-15 — Round 1
@@ -15,8 +16,6 @@ tags:
   - anno/2014
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2014-15 — Round 1
 
 Sorgente: apri PDF
 

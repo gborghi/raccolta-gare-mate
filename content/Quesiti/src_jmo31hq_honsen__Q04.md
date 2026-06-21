@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo31hq_honsen__Q04
 parent: src_jmo31hq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 4
 
 *Integer sequence with a_{n+2}>a_{n+1}+a_n in [1,2016]; minimize max minus min*
 

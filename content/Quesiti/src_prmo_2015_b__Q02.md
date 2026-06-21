@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q02
 parent: src_prmo_2015_b
@@ -30,8 +31,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 2
 
 *Two quadratics share one common root; find k*
 

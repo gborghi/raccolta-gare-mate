@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q30
 parent: src_kangourou_2013_junior
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 30
 
 *Triangoli contenenti il centro in poligono di 13 lati*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q12
 parent: src_gs_2011_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 12
 
 *Estrazioni per certezza di 6 calzini stesso colore*
 

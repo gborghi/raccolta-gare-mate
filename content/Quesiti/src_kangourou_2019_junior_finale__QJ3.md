@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito J3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ3
 parent: src_kangourou_2019_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito J3
 
 *Possono Bruno e Carlo avere un giorno di riposo comune (programmi sportivi)*
 

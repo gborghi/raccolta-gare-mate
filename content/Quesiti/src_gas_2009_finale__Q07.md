@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Finale Nazionale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_gas_2009_finale__Q07
 parent: src_gas_2009_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Finale Nazionale — Quesito 7
 
 *Numero coefficienti possibili termine cubico, radici intere*
 

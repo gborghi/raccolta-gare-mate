@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1997 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_2livello__Q04
 parent: src_archimede_1997_2livello
@@ -22,8 +23,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1997 — Quesito 4
 
 *Quanti congressisti su 100 portano la cravatta*
 

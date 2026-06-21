@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q13
 parent: src_kangourou_2022_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale — Quesito 13
 
 *minimo passi da 1 a 2022*
 

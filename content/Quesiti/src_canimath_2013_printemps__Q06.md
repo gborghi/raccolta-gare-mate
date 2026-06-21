@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2013 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2013_printemps__Q06
 parent: src_canimath_2013_printemps
@@ -35,8 +36,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2013 — Quesito 6
 
 *7-digit safe combination: open in at most 6 tries; find minimum tries*
 

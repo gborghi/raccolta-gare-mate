@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q13
 parent: src_cesenatico_2005_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 13
 
 *Numero soluzioni reali di [x^2]+[x]^2=2x[x] in [1,100]*
 

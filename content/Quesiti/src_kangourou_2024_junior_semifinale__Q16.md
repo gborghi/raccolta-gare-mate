@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q16
 parent: src_kangourou_2024_junior_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 16
 
 *Piu piccolo n con S_n+S_{n-1}>2024 (diagonali poligono)*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2013 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2013__Q02
 parent: src_inmo_2013
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2013 — Quesito 2
 
 *Find all positive integers m, n and primes p ≥ 5 satisfying equation*
 

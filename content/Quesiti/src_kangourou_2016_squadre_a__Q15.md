@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q15
 parent: src_kangourou_2016_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Semifinale A — Quesito 15
 
 *Risultato massimo inserendo parentesi e segni in 1..5*
 

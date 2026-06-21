@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo33ya_yosen__Q04
 parent: src_jmo33ya_yosen
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 4
 
 *Problem statement not present in source (answer sheet only)*
 

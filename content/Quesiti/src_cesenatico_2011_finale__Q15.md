@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_finale__Q15
 parent: src_cesenatico_2011_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 15
 
 *Tempo minimo rotta a due tratti ortogonali*
 

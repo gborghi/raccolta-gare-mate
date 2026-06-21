@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q28
 parent: src_kangourou_2013_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 28
 
 *Quanti numeri strani n con n-297 inverso*
 

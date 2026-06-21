@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1990 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_1990__Q01
 parent: src_rmo_1990
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1990 — Quesito 1
 
 *Pigeonhole on balls of same colour and size in two boxes*
 

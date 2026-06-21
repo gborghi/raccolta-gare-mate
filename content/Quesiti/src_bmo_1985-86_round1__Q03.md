@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1985-86 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1985-86_round1__Q03
 parent: src_bmo_1985-86_round1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1985-86 — Round 1 — Quesito 3
 
 *Prove a radical equation in positive integers forces m to be a square*
 

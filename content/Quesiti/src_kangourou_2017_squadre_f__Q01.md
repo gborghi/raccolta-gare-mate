@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Finale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q01
 parent: src_kangourou_2017_squadre_f
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Finale — Quesito 1
 
 *Piu piccolo numero speciale (prodotto prime = somma ultime)*
 

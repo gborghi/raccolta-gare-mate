@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale A — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_a__Q15
 parent: src_gas_2010_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale A — Quesito 15
 
 *Massima area quadrilatero in semicerchio con angoli dati*
 

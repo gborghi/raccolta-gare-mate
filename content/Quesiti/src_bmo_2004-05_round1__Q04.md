@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2004-05 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2004-05_round1__Q04
 parent: src_bmo_2004-05_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2004-05 — Round 1 — Quesito 4
 
 *Least possible largest term in arithmetic progression of four distinct primes*
 

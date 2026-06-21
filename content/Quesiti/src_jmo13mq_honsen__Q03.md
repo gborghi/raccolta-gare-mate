@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo13mq_honsen__Q03
 parent: src_jmo13mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 3
 
 *Find the largest real k such that an inequality holds for all positive reals*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Biennio — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_biennio__Q12
 parent: src_archimede_2017_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Biennio — Quesito 12
 
 *Probabilita che Chiara vinca dopo 6 a 4-2*
 

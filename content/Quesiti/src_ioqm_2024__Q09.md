@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_ioqm_2024__Q09
 parent: src_ioqm_2024
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 9
 
 *Count knight-move pairs in 5x5 integer grid*
 

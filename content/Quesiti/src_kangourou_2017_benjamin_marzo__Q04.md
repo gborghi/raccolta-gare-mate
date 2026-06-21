@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q04
 parent: src_kangourou_2017_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 4
 
 *Valore di 1111x3333 dato 1111x1111*
 

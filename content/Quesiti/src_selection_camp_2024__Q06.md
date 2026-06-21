@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2024__Q06
 parent: src_selection_camp_2024
@@ -33,8 +34,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2024 — Selection Camp — Quesito 6
 
 *Find positive integer quadruples with 2^a 3^b + 4^c 5^d = 2^b 3^a + 4^d 5^c*
 

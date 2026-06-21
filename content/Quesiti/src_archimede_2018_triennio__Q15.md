@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2018_triennio__Q15
 parent: src_archimede_2018_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2018 - Triennio (T1) — Quesito 15
 
 *Casella del numero 2018 in griglia senza multipli di 11*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011__Q06
 parent: src_cesenatico_2011
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 6
 
 *4 colori bastano, 3 no*
 

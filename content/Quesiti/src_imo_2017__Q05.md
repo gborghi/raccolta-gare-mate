@@ -1,4 +1,5 @@
 ---
+title: IMO 2017 papers — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2017__Q05
 parent: src_imo_2017
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2017 papers — Quesito 5
 
 *Rimuovere giocatori lasciando 2N con condizioni altezza*
 

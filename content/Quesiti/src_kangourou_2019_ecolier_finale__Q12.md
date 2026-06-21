@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q12
 parent: src_kangourou_2019_ecolier_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale Nazionale Ecolier — Quesito 12
 
 *Somma dei numeri nei punti medi del triangolo*
 

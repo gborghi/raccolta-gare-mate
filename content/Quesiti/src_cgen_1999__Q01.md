@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1999 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_1999__Q01
 parent: src_cgen_1999
@@ -30,8 +31,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1999 — Matematica — Quesito 1
 
 *Maximize volume of cylinder and sphere inside a cone*
 

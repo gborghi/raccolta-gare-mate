@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1996 (37th IMO, Mumbai)'
 tipo: gara
 src_id: src_imo_1996
 competition: 'IMO 1996 (37th IMO, Mumbai)'
@@ -15,8 +16,6 @@ tags:
   - anno/1996
   - gara/individuale
 ---
-
-# IMO 1996 (37th IMO, Mumbai)
 
 Sorgente: `Archimede/individuale/imho/all/1996_eng.pdf` · apri PDF
 

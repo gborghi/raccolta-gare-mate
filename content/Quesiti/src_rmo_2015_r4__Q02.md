@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 4 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r4__Q02
 parent: src_rmo_2015_r4
@@ -34,8 +35,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 4 — Quesito 2
 
 *Quadratic with integer values at 0,1,2 implies integer coefficients*
 

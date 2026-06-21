@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q13
 parent: src_archimede_2001_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 13
 
 *Quanti pentagoni si vedono nella figura*
 

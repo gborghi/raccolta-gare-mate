@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q26
 parent: src_kangourou_2024_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 26
 
 *Quante uova ha comperato il cliente (gallina doppio piccione)*
 

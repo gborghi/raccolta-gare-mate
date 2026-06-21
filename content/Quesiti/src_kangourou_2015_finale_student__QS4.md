@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 finale nazionale Student — Quesito S4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_finale_student__QS4
 parent: src_kangourou_2015_finale_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2015 finale nazionale Student — Quesito S4
 
 *numero totale di gracchiate in un'ora*
 

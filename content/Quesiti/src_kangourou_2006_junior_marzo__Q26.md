@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Junior (marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q26
 parent: src_kangourou_2006_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 Junior (marzo) — Quesito 26
 
 *Numeri di 3 cifre distinte con inverso maggiore*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2023 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q08
 parent: src_kangourou_2023_junior_semifinale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2023 — Quesito 8
 
 *Segno di m e n affinche una espressione sia intera*
 

@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2019_nu_f2__Q05
 parent: src_obm_2019_nu_f2
@@ -37,8 +40,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 — Quesito 5
 
 *Determine the exponent beta(M,k) in the asymptotic count of multiples of k-prime powers with exponents >= k*
 

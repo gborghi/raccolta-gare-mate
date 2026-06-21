@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q15
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 15
 
 *Quale dei cinque percorsi X-Y e il piu breve*
 

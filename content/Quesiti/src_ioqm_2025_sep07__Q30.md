@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q30
 parent: src_ioqm_2025_sep07
@@ -34,8 +35,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 30
 
 *Circle S radius 10; S1 and S2 touch S internally and meet each other at two points A,B; angle OAB=90°; sum of radii*
 

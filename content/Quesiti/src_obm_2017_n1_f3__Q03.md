@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f3__Q03
 parent: src_obm_2017_n1_f3
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 3
 
 *Odd-digit-only 'Impas' number system: write 20 and 2017, and compute a multiplication*
 

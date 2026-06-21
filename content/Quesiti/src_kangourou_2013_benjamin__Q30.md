@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q30
 parent: src_kangourou_2013_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 30
 
 *Cubi distinti 2x2 con 4 cubetti bianchi e 4 neri*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_maggio__QC4
 parent: src_kangourou_2008_cadet_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C4
 
 *Trovare un insieme IMPERFETTO infinito*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2015
 tipo: gara
 src_id: src_canimath_2015_automne
 competition: Coupe Animath Automne 2015
@@ -17,8 +18,6 @@ tags:
   - gara/individuale
   - stagione/automne
 ---
-
-# Coupe Animath Automne 2015
 
 Sorgente: apri PDF
 

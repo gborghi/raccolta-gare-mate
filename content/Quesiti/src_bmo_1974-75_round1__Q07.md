@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_bmo_1974-75_round1__Q07
 parent: src_bmo_1974-75_round1
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1974-75 — Round 1 — Quesito 7
 
 *Prove uniqueness of reals satisfying a sum-of-squares identity*
 

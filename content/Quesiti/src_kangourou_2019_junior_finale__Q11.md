@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Junior — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q11
 parent: src_kangourou_2019_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Junior — Quesito 11
 
 *Lato incognito dei sei rettangoli nella circonferenza*
 

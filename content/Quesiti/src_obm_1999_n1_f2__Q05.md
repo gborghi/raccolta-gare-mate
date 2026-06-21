@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f2__Q05
 parent: src_obm_1999_n1_f2
@@ -39,8 +40,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2 — Quesito 5
 
 *Building with 1000 floors: find floors served by all four elevators, and by exactly four*
 

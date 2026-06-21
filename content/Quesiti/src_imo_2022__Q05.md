@@ -1,4 +1,5 @@
 ---
+title: IMO 2022 papers — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_2022__Q05
 parent: src_imo_2022
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2022 papers — Quesito 5
 
 *Triple (a,b,p) con a^p=b!+p, p primo*
 

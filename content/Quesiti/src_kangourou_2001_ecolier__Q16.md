@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q16
 parent: src_kangourou_2001_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 16
 
 *Fiammiferi minimi per 11 quadrati*
 

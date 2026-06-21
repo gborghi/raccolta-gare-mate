@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet gara individuale — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q22
 parent: src_kangourou_2022_cadet_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet gara individuale — Quesito 22
 
 *Rapporto AB/BC del rettangolo diviso in sette*
 

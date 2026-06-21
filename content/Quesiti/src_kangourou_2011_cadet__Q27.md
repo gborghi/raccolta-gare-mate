@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Cadet (gara marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_cadet__Q27
 parent: src_kangourou_2011_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Cadet (gara marzo) — Quesito 27
 
 *Affermazione vera sulle eta di Eva e Rita*
 

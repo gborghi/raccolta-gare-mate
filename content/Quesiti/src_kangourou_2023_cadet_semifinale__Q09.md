@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q09
 parent: src_kangourou_2023_cadet_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2023 Cadet — Semifinale individuale — Quesito 9
 
 *max parti con due piani*
 

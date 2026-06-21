@@ -1,4 +1,5 @@
 ---
+title: XXII Olimpiade Italiana Cesenatico 2006 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006__Q04
 parent: src_cesenatico_2006
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# XXII Olimpiade Italiana Cesenatico 2006 — Quesito 4
 
 *Scacchiera infinita e numeri interi positivi scritti in spirale*
 

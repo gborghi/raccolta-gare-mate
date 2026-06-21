@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q12
 parent: src_kangourou_2011_ecolier
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 12
 
 *Quale lettera non coperta piegando il foglio*
 

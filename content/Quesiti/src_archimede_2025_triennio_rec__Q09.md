@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q09
 parent: src_archimede_2025_triennio_rec
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 9
 
 *Valore di 4x-1 da (x-7)^8=(x+4)^8*
 

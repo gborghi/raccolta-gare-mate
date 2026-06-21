@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Semifinale B — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gas_2010_semifinale_b__Q06
 parent: src_gas_2010_semifinale_b
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Semifinale B — Quesito 6
 
 *Conteggio righe dispari nel triangolo di Tartaglia (1600-1726)*
 

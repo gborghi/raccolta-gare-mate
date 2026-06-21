@@ -1,4 +1,5 @@
 ---
+title: IMO 1964 (VI International Olympiad)
 tipo: gara
 src_id: src_imho_1964
 competition: IMO 1964 (VI International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1964
   - gara/individuale
 ---
-
-# IMO 1964 (VI International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1964_eng.pdf` · apri PDF
 

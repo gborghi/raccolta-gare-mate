@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_jmo14mq_honsen__Q02
 parent: src_jmo14mq_honsen
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 2
 
 *Find all real functions with f(xf(x)+f(y))=f(x)^2+y*
 

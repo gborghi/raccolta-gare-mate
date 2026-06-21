@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier (18 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier__Q12
 parent: src_kangourou_2004_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier (18 marzo) — Quesito 12
 
 *Quanti fogli mancanti tra pagina 24 e 45*
 

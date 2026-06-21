@@ -1,4 +1,5 @@
 ---
+title: Coppa/Gara di febbraio 2005
 tipo: gara
 src_id: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Coppa/Gara di febbraio 2005
 
 Sorgente: `Archimede/individuale/nazionale/2005/febb05.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2023__Q04
 parent: src_selection_camp_2023
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2023 — Selection Camp — Quesito 4
 
 *Four points concyclic via tangent-circle construction on altitude foot*
 

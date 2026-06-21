@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q19
 parent: src_kangourou_2008_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 19
 
 *Quale costruzione di cubetti non e realizzabile*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2000 - 3 maggio (individuale) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2000_studenti__Q04
 parent: src_kangourou_2000_studenti
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2000 - 3 maggio (individuale) — Quesito 4
 
 *Ora letta allo specchio*
 

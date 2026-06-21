@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2018 Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q12
 parent: src_kangourou_2018_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2018 Finale — Quesito 12
 
 *Quanti numeri riducono a zero moltiplicando le cifre*
 

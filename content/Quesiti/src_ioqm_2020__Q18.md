@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q18
 parent: src_ioqm_2020
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 18
 
 *Evaluate sum involving nested square roots; find a+b*
 

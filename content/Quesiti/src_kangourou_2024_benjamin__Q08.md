@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q08
 parent: src_kangourou_2024_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 8
 
 *Minimo numero di pesi per equilibrare 445 g*
 

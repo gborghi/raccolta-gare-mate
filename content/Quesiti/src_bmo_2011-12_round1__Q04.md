@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2011-12_round1__Q04
 parent: src_bmo_2011-12_round1
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 1 — Quesito 4
 
 *Bags with balls: decide if all n can be emptied with triple-and-subtract ops*
 

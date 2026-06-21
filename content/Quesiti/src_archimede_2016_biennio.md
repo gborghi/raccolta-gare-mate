@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Biennio
 tipo: gara
 src_id: src_archimede_2016_biennio
 competition: Giochi di Archimede 2016 - Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2016
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Biennio
 
 Sorgente: `Archimede/individuale/1livello/2016/GiochiArchimede2016/archimede_biennio_2016.pdf` · apri PDF
 

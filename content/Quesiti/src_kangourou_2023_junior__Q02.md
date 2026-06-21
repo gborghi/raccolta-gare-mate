@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior__Q02
 parent: src_kangourou_2023_junior
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2023 Junior — Gara 16 marzo — Quesito 2
 
 *che giorno fra 2023 giorni*
 

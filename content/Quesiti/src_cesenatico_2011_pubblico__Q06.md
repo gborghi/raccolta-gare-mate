@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q06
 parent: src_cesenatico_2011_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 6
 
 *Resto k della somma 1!+...+2011! diviso 4800*
 

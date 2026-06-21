@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Ecolier — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q06
 parent: src_kangourou_2019_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Ecolier — Quesito 6
 
 *Monete per sacco dati 42 sacchi divisi tra 41 persone*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q08
 parent: src_archimede_2025_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 8
 
 *Massimo numero 5 cifre distinte non nulle autodivisibile*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_finale__Q05
 parent: src_kangourou_2021_benjamin_finale
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - finale — Quesito 5
 
 *Rendere uguali 7 numeri aggiungendo 1 a coppie adiacenti*
 

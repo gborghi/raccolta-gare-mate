@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 —
+  Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2004_nu_f2__Q05
 parent: src_obm_2004_nu_f2
@@ -34,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 — Quesito 5
 
 *Compute limit of ratio of winning positions in floor-division game*
 

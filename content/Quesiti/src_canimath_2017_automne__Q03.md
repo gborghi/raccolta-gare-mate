@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2017 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_automne__Q03
 parent: src_canimath_2017_automne
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2017 — Quesito 3
 
 *Three-player goalkeeper game: count total phases and find who scored the 6th goal*
 

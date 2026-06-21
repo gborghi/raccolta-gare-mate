@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q06
 parent: src_kangourou_2019_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 6
 
 *Cifra delle centinaia di 2019xN dati divisori di 3N e 5N*
 

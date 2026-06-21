@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q15
 parent: src_archimede_2008_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 15
 
 *Case di partenza per percorso euleriano sulle strade*
 

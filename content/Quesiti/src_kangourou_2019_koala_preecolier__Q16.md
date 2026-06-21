@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q16
 parent: src_kangourou_2019_koala_preecolier
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 16
 
 *Quante ore dalla terza fermata ad Aroo (totale 17 ore)*
 

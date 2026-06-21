@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_obm_2000_n3_f1__Q20
 parent: src_obm_2000_n3_f1
@@ -36,8 +37,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 20
 
 *Position of glued flag on the rightmost gear in a meshing chain*
 

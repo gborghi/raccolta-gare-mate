@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2000 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_2000__Q01
 parent: src_cgen_2000
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2000 — Matematica — Quesito 1
 
 *Distribute b white and n black balls into two urns to maximize the probability of drawing a white ball*
 

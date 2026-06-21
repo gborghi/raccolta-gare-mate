@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q02
 parent: src_kangourou_2022_junior_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Junior Finale 2 — Quesito 2
 
 *Quanti divisori pari di 20^22*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q28
 parent: src_kangourou_2014_junior
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 28
 
 *Ultimo numero della prima metà delle permutazioni di 1..7*
 

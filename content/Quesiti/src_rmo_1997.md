@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1997
 tipo: gara
 src_id: src_rmo_1997
 competition: Regional Mathematical Olympiad 1997
@@ -15,8 +16,6 @@ tags:
   - anno/1997
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1997
 
 Sorgente: apri PDF
 

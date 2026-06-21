@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q19
 parent: src_kangourou_2021_preecolier_koala
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 19
 
 *Numero nella stessa scatola della carta 4*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q06
 parent: src_kangourou_2024_junior_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 6
 
 *Probabilita che il diamante sia nella scatola 9*
 

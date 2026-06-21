@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2006 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2006__Q04
 parent: src_rmo_2006
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2006 — Quesito 4
 
 *6×6 square dissected into 9 rectangles; always two congruent*
 

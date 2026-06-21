@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 4 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r4__Q06
 parent: src_rmo_2014_r4
@@ -35,8 +36,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 4 — Quesito 6
 
 *Place numbers 1 to 18 on segments so each vertex has sum divisible by 3*
 

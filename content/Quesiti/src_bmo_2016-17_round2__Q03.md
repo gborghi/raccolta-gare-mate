@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2016-17_round2__Q03
 parent: src_bmo_2016-17_round2
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 2 — Quesito 3
 
 *Cyclic quadrilateral ABCD: angle bisector of angle ADB meets AC at N; prove CD parallel to AB iff AN=NC*
 

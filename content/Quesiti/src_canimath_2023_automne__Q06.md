@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2023 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_automne__Q06
 parent: src_canimath_2023_automne
@@ -30,8 +31,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2023 — Quesito 6
 
 *Prove that if 2^n and 5^n have the same leading digit, that digit must be 3*
 

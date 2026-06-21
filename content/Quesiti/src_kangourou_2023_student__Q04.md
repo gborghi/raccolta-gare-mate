@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Student 2023 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student__Q04
 parent: src_kangourou_2023_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Student 2023 — Quesito 4
 
 *Colorazioni bandiera a 3 strisce con 4 colori, adiacenti diverse*
 

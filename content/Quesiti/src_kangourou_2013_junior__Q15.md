@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q15
 parent: src_kangourou_2013_junior
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 15
 
 *Vertice con rapporto y/x minimo nel rettangolo*
 

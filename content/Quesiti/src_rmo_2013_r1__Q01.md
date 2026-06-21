@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r1__Q01
 parent: src_rmo_2013_r1
@@ -30,8 +31,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 1 — Quesito 1
 
 *Acute triangle with circumcircle, find angle BAC*
 

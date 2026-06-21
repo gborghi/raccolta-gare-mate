@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2016-17 — Round 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_bmo_2016-17_round1__Q06
 parent: src_bmo_2016-17_round1
@@ -34,8 +35,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2016-17 — Round 1 — Quesito 6
 
 *Consecutive integers on (n+1)-gon; find minimum sum of all pairwise differences*
 

@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 4'
 tipo: quesito
 quesito_id: quesito_src_imo_1989__Q04
 parent: src_imo_1989
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1989 (30th IMO, Braunschweig) — Quesito 4
 
 *Convex quadrilateral distance inequality with interior point P*
 

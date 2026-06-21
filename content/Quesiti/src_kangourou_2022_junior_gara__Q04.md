@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q04
 parent: src_kangourou_2022_junior_gara
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 4
 
 *Quanti tavoli per una postazione di lato 9*
 

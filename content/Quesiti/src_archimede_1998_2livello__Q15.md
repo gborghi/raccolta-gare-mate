@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q15
 parent: src_archimede_1998_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 15
 
 *Minimo a+b con 21ab² e 15ab quadrati perfetti*
 

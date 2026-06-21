@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q20
 parent: src_archimede_2006_biennio
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 20
 
 *Volume intersezione tra cubo e sfera centrata in vertice*
 

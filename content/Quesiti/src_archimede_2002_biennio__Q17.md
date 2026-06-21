@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q17
 parent: src_archimede_2002_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 17
 
 *Modi di equilibrare 16 g con pesi da 1, 3, 9*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2020 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_2020__Q02
 parent: src_inmo_2020
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2020 — Quesito 2
 
 *Polynomial satisfying symmetry condition expressed in powers of (1-x^2)*
 

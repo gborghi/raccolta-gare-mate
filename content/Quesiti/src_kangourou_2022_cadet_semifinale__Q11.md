@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Cadet semifinale individuale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q11
 parent: src_kangourou_2022_cadet_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Cadet semifinale individuale — Quesito 11
 
 *Cifre del quoziente di 111...999 diviso 111*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2017 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2017_triennio__Q15
 parent: src_archimede_2017_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2017 - Triennio — Quesito 15
 
 *Primi che restano primi cancellando cifre*
 

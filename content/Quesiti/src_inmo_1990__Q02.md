@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1990 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_inmo_1990__Q02
 parent: src_inmo_1990
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1990 — Quesito 2
 
 *Find all nonneg integer pairs satisfying $(xy-7)^2 = x^2 + y^2$*
 

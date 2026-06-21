@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q24
 parent: src_gas_2010_finale
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 24
 
 *Rapporto altezza/raggio di quattro coni tangenti*
 

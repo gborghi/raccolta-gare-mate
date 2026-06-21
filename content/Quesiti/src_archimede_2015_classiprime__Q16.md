@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2015 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_classiprime__Q16
 parent: src_archimede_2015_classiprime
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2015 — Quesito 16
 
 *lista di interi con somma m e prodotto 720*
 

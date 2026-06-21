@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_gs_2011_squadre__Q24
 parent: src_gs_2011_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre — Quesito 24
 
 *Area triangolo sferico da ottavo di sfera*
 

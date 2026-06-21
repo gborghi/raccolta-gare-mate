@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q01
 parent: src_kangourou_2024_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 1
 
 *Quale uguaglianza tra aree e certamente vera (parco)*
 

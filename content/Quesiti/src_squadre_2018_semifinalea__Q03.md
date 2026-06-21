@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Semifinale A — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_semifinalea__Q03
 parent: src_squadre_2018_semifinalea
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Semifinale A — Quesito 3
 
 *Numero di somme b+c di 100 interi, Nmax-2Nmin*
 

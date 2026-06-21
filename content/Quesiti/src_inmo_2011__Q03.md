@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2011 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2011__Q03
 parent: src_inmo_2011
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2011 — Quesito 3
 
 *Rational root of P(r)=Q(r)=0 with integer-coefficient polynomials must be integer*
 

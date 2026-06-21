@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q12
 parent: src_kangourou_2023_kangourou_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 12
 
 *Costo corona più piccola proporzionale diametro*
 

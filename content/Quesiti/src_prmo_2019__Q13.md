@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_prmo_2019__Q13
 parent: src_prmo_2019
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 13
 
 *Minimum positive sum of products of pairs from ±1 sequence*
 

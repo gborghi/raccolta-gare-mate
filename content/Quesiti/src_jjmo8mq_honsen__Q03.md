@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo8mq_honsen__Q03
 parent: src_jjmo8mq_honsen
@@ -33,8 +34,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 3
 
 *Five segments: 9 acute triples force the 10th to be a triangle*
 

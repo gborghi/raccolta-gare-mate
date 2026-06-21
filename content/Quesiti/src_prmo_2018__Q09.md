@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q09
 parent: src_prmo_2018
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 9
 
 *Integers a,b where a+b is root of x^2+ax+b=0, maximum value of b^2*
 

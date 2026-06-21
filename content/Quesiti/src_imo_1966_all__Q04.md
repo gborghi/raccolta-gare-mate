@@ -1,4 +1,5 @@
 ---
+title: IMO 1966 (Eighth International Olympiad) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_imo_1966_all__Q04
 parent: src_imo_1966_all
@@ -24,8 +25,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# IMO 1966 (Eighth International Olympiad) — Quesito 4
 
 *Prove telescoping cosecant sum equals cot x minus cot 2^n x*
 

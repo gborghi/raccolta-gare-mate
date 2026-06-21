@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio
 tipo: gara
 src_id: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2005
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio
 
 Sorgente: `Archimede/individuale/1livello/2005/testo_triennio3.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2019
 tipo: gara
 src_id: src_rmo_2019
 competition: Regional Mathematical Olympiad 2019
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2019
 
 Sorgente: apri PDF
 

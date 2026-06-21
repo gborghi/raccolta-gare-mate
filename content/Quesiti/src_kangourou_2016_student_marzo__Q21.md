@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q21
 parent: src_kangourou_2016_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 21
 
 *Soluzioni reali di (x^2-4x+5)^{x^2+x-30}=1*
 

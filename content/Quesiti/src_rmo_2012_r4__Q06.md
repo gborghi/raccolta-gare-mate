@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r4__Q06
 parent: src_rmo_2012_r4
@@ -33,8 +34,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 4 — Quesito 6
 
 *Solve the symmetric system 1/(xy)=x/z+1, 1/(yz)=y/x+1, 1/(zx)=z/y+1 for positive reals*
 

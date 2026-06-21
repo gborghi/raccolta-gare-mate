@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q29
 parent: src_kangourou_2016_junior_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 29
 
 *Prossimo mese con data sorprendente (otto cifre distinte)*
 

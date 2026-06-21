@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q15
 parent: src_kangourou_2019_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Ecolier — Quesito 15
 
 *Quanti kang per mela, pera e banana insieme*
 

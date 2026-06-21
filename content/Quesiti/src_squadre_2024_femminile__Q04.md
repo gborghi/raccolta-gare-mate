@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q04
 parent: src_squadre_2024_femminile
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 4
 
 *Massimo intero che divide p(2024) con p(1)=7 p(2)=15*
 

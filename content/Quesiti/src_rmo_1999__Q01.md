@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1999 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_1999__Q01
 parent: src_rmo_1999
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1999 — Quesito 1
 
 *Inradius of right-angled triangle with integer sides is integer*
 

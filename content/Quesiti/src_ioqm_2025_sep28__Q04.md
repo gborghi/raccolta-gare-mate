@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q04
 parent: src_ioqm_2025_sep28
@@ -36,8 +37,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 4
 
 *Cubical dice faces 2^0,...,2^5; two stacked; max sum of 9 visible; sum of squares of digits*
 

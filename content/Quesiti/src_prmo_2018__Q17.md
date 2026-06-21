@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q17
 parent: src_prmo_2018
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 17
 
 *Two triangles sharing angle with given sides, find AC+DF*
 

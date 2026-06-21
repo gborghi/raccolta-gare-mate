@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q19
 parent: src_archimede_2007_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 19
 
 *Cavalieri tra quattro abitanti briganti e cavalieri*
 

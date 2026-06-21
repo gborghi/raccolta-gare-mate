@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2011 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo21mq_honsen__Q04
 parent: src_jmo21mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2011 — Honsen (Final) — Quesito 4
 
 *Find all real-valued functions satisfying a given functional equation*
 

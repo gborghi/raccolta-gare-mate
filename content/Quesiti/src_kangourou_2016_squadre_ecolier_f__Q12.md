@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q12
 parent: src_kangourou_2016_squadre_ecolier_f
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 12
 
 *Quanti euro ha Maria (Lucia, Maria, Nina = 31)*
 

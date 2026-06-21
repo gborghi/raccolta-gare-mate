@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q28
 parent: src_kangourou_2005_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 28
 
 *Coordinate particella dopo due ore di percorso*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_maggio__QC4
 parent: src_kangourou_2009_cadet_maggio
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C4
 
 *Quali fogli restano nella stessa posizione*
 

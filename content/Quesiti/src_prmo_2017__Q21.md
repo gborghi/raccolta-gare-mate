@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_prmo_2017__Q21
 parent: src_prmo_2017
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 21
 
 *Count ordered triples (a,b,c) of positive integers with abc=108*
 

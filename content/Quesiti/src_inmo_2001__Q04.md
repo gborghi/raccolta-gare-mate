@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2001 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2001__Q04
 parent: src_inmo_2001
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2001 — Quesito 4
 
 *From nine integers choose four with a+b-c-d divisible by 20; eight integers insufficient*
 

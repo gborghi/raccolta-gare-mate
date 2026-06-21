@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2022 - Gara Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2022_biennio__Q09
 parent: src_archimede_2022_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2022 - Gara Biennio — Quesito 9
 
 *Numero nella casella centrale-destra di tabella 3x3*
 

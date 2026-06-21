@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1999 - Triennio — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_archimede_1999_triennio__Q19
 parent: src_archimede_1999_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 1999 - Triennio — Quesito 19
 
 *In quanti modi disporre 3 ragazzi e 3 ragazze*
 

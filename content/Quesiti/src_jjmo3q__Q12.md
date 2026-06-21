@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q12
 parent: src_jjmo3q
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 12
 
 *Triples of distinct positives with product equal to 12 times the sum*
 

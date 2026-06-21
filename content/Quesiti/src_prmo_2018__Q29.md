@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q29
 parent: src_prmo_2018
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 29
 
 *Point D on BC, incentres I1 I2 of ABD ACD, angle BI1E=60, find angle CI2F*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n2_fx__Q05
 parent: src_obm_2021_n2_fx
@@ -36,8 +37,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 5
 
 *Triples (a,b,c) of positive integers with a|bc+1, b|ca+1, c|ab+1 (miranhas); determine all of them*
 

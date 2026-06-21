@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 2000
 tipo: gara
 src_id: src_cesenatico_2000
 competition: Gara Nazionale Cesenatico 2000
@@ -15,8 +16,6 @@ tags:
   - anno/2000
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 2000
 
 Sorgente: `Archimede/individuale/nazionale/2000/Cesenatico2000.pdf` · apri PDF
 

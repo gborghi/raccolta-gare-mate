@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1996 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_1996__Q07
 parent: src_rmo_1996
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1996 — Quesito 7
 
 *50-element subset of {1,...,100} with no two elements summing to 100 contains a square*
 

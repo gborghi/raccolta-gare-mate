@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Ecolier 2024 — Quesito E5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_finale__QE5
 parent: src_kangourou_2024_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Finale Ecolier 2024 — Quesito E5
 
 *Quali numeri puo aver scritto Bruno (somma massima)*
 

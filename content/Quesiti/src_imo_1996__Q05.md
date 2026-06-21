@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1996 (37th IMO, Mumbai) — Quesito 5'
 tipo: quesito
 quesito_id: quesito_src_imo_1996__Q05
 parent: src_imo_1996
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# IMO 1996 (37th IMO, Mumbai) — Quesito 5
 
 *circumradii sum at least half perimeter*
 

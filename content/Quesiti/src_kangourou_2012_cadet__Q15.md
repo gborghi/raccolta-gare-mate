@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q15
 parent: src_kangourou_2012_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 15
 
 *Quale numero sulla carta con maggiore di 100*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2004 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo2q__Q03
 parent: src_jjmo2q
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2004 — Quesito 3
 
 *Area outside unit hexagon within distance 1 of a vertex*
 

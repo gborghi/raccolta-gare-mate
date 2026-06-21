@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - gara marzo — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier__Q19
 parent: src_kangourou_2021_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - gara marzo — Quesito 19
 
 *Numero nel quadrato grigio dalle somme adiacenti*
 

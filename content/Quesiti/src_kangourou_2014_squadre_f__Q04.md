@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2014 Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q04
 parent: src_kangourou_2014_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2014 Finale — Quesito 4
 
 *Somma minima positiva con a^2+b^2=100*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f1__Q01
 parent: src_obm_2009_n1_f1
@@ -35,8 +36,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 1
 
 *Minimum of e^{x/e}-x; compare e^pi and pi^e*
 

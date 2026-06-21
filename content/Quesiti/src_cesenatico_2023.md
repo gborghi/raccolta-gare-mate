@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni
 tipo: gara
 src_id: src_cesenatico_2023
 competition: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni
@@ -15,8 +16,6 @@ tags:
   - anno/2023
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni
 
 Sorgente: `Archimede/individuale/nazionale/2023/cesenatico2023.pdf` · apri PDF
 

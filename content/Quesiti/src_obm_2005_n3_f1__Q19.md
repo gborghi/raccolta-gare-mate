@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f1__Q19
 parent: src_obm_2005_n3_f1
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 19
 
 *Angle of a parallelogram such that perpendiculars to its sides form another parallelogram with equal angles*
 

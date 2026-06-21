@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2025 Student finale — Quesito S6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2025_student_finale__QS6
 parent: src_kangourou_2025_student_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2025 Student finale — Quesito S6
 
 *Numero scelte di 10 elementi con distanze crescenti*
 

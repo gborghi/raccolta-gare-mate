@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n1_f2__Q08
 parent: src_obm_2016_n1_f2
@@ -39,8 +40,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 8
 
 *Perimeter segments vs interior segments quotient for n×n grid; pattern and extremal questions*
 

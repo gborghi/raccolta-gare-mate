@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale a Squadre Cesenatico 2001
 tipo: gara
 src_id: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -15,8 +16,6 @@ tags:
   - anno/2001
   - gara/squadre
 ---
-
-# Gara Nazionale a Squadre Cesenatico 2001
 
 Sorgente: `Archimede/squadre/nazionale/2001/gs cesenatico 2001.pdf` · apri PDF
 

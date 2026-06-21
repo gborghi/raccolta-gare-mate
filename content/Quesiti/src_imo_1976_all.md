@@ -1,4 +1,5 @@
 ---
+title: IMO 1976 (Eighteenth International Olympiad)
 tipo: gara
 src_id: src_imo_1976_all
 competition: IMO 1976 (Eighteenth International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1976
   - gara/individuale
 ---
-
-# IMO 1976 (Eighteenth International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1976_eng.pdf` · apri PDF
 

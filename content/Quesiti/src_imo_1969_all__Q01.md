@@ -1,4 +1,5 @@
 ---
+title: IMO 1969 (Eleventh International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imo_1969_all__Q01
 parent: src_imo_1969_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1969 (Eleventh International Olympiad) — Quesito 1
 
 *Infinitely many a making n^4+a never prime*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Junior (gara marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q10
 parent: src_kangourou_2016_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 Junior (gara marzo) — Quesito 10
 
 *Figura non inseribile in quadrato di lato 1 dm*
 

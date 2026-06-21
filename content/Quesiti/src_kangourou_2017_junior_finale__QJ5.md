@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_finale__QJ5
 parent: src_kangourou_2017_junior_finale
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J5
 
 *Coppia diametrale e cerchio minimo di un insieme*
 

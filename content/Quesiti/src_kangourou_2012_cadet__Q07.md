@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Cadet (gara marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_cadet__Q07
 parent: src_kangourou_2012_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Cadet (gara marzo) — Quesito 7
 
 *Percorso piu lungo da A a B senza ripetere vialetti*
 

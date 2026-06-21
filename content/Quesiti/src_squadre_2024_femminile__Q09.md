@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_femminile__Q09
 parent: src_squadre_2024_femminile
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 9
 
 *Ultime 4 cifre di c_2024 con tre successioni concatenate*
 

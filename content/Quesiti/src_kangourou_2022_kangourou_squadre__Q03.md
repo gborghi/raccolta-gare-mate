@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q03
 parent: src_kangourou_2022_kangourou_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 3
 
 *Numero 5 cifre con cifra 1 spostata, triplo*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 finale nazionale Student — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student_finale__Q06
 parent: src_kangourou_2012_student_finale
@@ -23,8 +24,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2012 finale nazionale Student — Quesito 6
 
 *Famiglia infinita di sottoinsiemi quasi-disgiunti non numerabile*
 

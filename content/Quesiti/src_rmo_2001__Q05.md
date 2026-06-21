@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2001 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_2001__Q05
 parent: src_rmo_2001
@@ -30,8 +31,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2001 — Quesito 5
 
 *Triangle ABC with angle bisector AD, angle B=2C, CD=AB implies angle A=72°*
 

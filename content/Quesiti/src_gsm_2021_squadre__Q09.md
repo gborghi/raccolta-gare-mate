@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q09
 parent: src_gsm_2021_squadre
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 9
 
 *Numeri sei cifre da tre coppie consecutive, non div 2/5/11*
 

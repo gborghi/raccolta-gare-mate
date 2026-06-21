@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior finale individuale — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_finale__QJ5
 parent: src_kangourou_2022_junior_finale
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior finale individuale — Quesito J5
 
 *Lati rossi e verdi dell'ottagono hanno somma uguale*
 

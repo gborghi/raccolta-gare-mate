@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2020__Q03
 parent: src_cesenatico_2020
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 3
 
 *soluzioni finite*
 

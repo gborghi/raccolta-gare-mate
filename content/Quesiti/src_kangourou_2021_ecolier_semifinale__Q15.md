@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - semifinale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q15
 parent: src_kangourou_2021_ecolier_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - semifinale — Quesito 15
 
 *Minuti minimi per attraversare il ponte tibetano*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Benjamin (marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q30
 parent: src_kangourou_2007_benjamin_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Benjamin (marzo) — Quesito 30
 
 *Proposizione falsa su somma di 4 dispari consecutivi*
 

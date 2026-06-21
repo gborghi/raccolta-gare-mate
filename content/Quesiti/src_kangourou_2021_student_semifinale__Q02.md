@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Student semifinale individuale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q02
 parent: src_kangourou_2021_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Student semifinale individuale — Quesito 2
 
 *2021 come somma di cinque interi con cifre 3 e 5*
 

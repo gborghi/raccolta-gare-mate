@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2006-07 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2006-07_round2__Q02
 parent: src_bmo_2006-07_round2
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2006-07 — Round 2 — Quesito 2
 
 *Show infinitely many positive integer pairs making fraction sum a positive integer*
 

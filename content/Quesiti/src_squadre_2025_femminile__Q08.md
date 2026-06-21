@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_squadre_2025_femminile__Q08
 parent: src_squadre_2025_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2025 - VIII Finale — Quesito 8
 
 *Triangoli rettangoli da 20 rette in 4 direzioni*
 

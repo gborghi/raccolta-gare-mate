@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q19
 parent: src_cesenatico_2006_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 19
 
 *Probabilita disposizione 4 persone su 2 file (vedono bene)*
 

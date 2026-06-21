@@ -1,4 +1,5 @@
 ---
+title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q01
 parent: src_garasquadre_2006_pubblico
@@ -22,8 +23,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 1
 
 *numero nella colonna grigia*
 

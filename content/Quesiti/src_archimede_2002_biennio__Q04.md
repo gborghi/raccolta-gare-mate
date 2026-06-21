@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2002 - Biennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_biennio__Q04
 parent: src_archimede_2002_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2002 - Biennio — Quesito 4
 
 *Rapporto perimetro figura ad archi su perimetro quadrato*
 

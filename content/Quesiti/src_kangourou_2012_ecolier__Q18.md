@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Ecolier (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_ecolier__Q18
 parent: src_kangourou_2012_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 Ecolier (gara marzo) — Quesito 18
 
 *Quanti punti nel quadrato con il punto di domanda del domino*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n1_f3__Q05
 parent: src_obm_2002_n1_f3
@@ -41,8 +42,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 5
 
 *On an 8x8 board two players alternately place 1x1 pawns on squares; the player who cannot move loses; determine which player has a winning strategy independent of the opponent's play*
 

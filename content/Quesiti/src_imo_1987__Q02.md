@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1987 (28th IMO, Havana) — Quesito 2'
 tipo: quesito
 quesito_id: quesito_src_imo_1987__Q02
 parent: src_imo_1987
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1987 (28th IMO, Havana) — Quesito 2
 
 *Quadrilateral AKNM and triangle ABC have equal areas*
 

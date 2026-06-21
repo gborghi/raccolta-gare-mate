@@ -1,4 +1,5 @@
 ---
+title: IMO 2024 papers
 tipo: gara
 src_id: src_imo_2024
 competition: IMO 2024 papers
@@ -15,8 +16,6 @@ tags:
   - anno/2024
   - gara/individuale
 ---
-
-# IMO 2024 papers
 
 Sorgente: `Archimede/individuale/imho/all/2024_eng.pdf` · apri PDF
 

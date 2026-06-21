@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2017 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_automne__Q05
 parent: src_canimath_2017_automne
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2017 — Quesito 5
 
 *Isosceles triangle, line (d) perpendicular to (BC) through C, parallelogram AEDB; prove M is midpoint of [AE]*
 

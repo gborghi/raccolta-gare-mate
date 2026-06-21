@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q01
 parent: src_squadre_2018_finale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 1
 
 *Anno x prima di 9613 con 9613^2-x^2 quadrato perfetto*
 

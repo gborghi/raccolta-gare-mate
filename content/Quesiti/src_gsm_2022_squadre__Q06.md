@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q06
 parent: src_gsm_2022_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 6
 
 *Minimo a con numero raddoppiato uguale a k volte a^2*
 

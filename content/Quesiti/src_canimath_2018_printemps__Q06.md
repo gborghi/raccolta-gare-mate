@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2018 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_printemps__Q06
 parent: src_canimath_2018_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2018 — Quesito 6
 
 *Find smallest N with 125 distinct elements satisfying two conditions*
 

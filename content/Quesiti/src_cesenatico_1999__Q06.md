@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1999 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1999__Q06
 parent: src_cesenatico_1999
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1999 — Quesito 6
 
 *Coppie (x,k) con 3^k-1=x^n*
 

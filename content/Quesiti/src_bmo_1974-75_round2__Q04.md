@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1974-75 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1974-75_round2__Q04
 parent: src_bmo_1974-75_round2
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1974-75 — Round 2 — Quesito 4
 
 *12 equal circles on a sphere: three groups touching 3, 4, or 5 others*
 

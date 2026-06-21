@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Junior (gara marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_junior__Q21
 parent: src_kangourou_2012_junior
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Junior (gara marzo) — Quesito 21
 
 *Valore di k se 2012 = m^m (m^k - k)*
 

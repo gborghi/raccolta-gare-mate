@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2004 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2004__Q02
 parent: src_rmo_2004
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2004 — Quesito 2
 
 *Positive integers on cube faces; find all possible values of face-sum T*
 

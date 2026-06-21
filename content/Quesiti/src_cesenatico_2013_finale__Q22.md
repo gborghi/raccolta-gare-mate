@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_finale__Q22
 parent: src_cesenatico_2013_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 22
 
 *Numeri primi distinti che dividono m (mescolate vincenti)*
 

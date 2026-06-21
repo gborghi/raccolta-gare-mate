@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2025 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2025__Q03
 parent: src_inmo_2025
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2025 — Quesito 3
 
 *Euclid uses a splitter to draw the circumcircle of triangle ABC*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 4 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r4__Q02
 parent: src_rmo_2013_r4
@@ -34,8 +35,6 @@ tags:
   - regione/r4
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 4 — Quesito 2
 
 *Smallest five-digit number with digits in strictly increasing order not divisible by 11*
 

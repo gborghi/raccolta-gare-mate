@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n2_f3__Q06
 parent: src_obm_2017_n2_f3
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3 — Quesito 6
 
 *For all positive integers n, a^n + 2017b^n has more distinct prime factors than n*
 

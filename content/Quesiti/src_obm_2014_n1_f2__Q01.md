@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f2__Q01
 parent: src_obm_2014_n1_f2
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 1
 
 *Positive integer sequence with even/odd rule; find 2014th term*
 

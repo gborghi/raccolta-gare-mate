@@ -1,4 +1,7 @@
 ---
+title: >-
+  Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x —
+  Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2024_nu_fx__Q03
 parent: src_obm_2024_nu_fx
@@ -35,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x — Quesito 3
 
 *Board game: moves on n×n grid preserving exactly one stone*
 

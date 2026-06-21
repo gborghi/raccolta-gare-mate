@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q23
 parent: src_prmo_2018
@@ -31,8 +32,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 23
 
 *Largest n for Cauchy-Schwarz-type inequality with denominators b/29+c/31 etc.*
 

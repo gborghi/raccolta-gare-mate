@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q29
 parent: src_kangourou_2013_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 29
 
 *Massima somma facce visibili del solido 2x2x1 di cubi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q12
 parent: src_kangourou_2013_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 12
 
 *La più giovane tra cinque ragazze da date di nascita*
 

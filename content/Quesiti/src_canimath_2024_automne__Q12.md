@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q12
 parent: src_canimath_2024_automne
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 12
 
 *Square ABCD, equilateral triangles ABP and DAQ exterior; compute NM/NC*
 

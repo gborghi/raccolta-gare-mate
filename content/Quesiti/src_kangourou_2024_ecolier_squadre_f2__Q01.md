@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q01
 parent: src_kangourou_2024_ecolier_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 1
 
 *Età di Adamo con cifre anno invertite*
 

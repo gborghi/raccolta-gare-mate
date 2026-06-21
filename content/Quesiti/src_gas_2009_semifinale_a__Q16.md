@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q16
 parent: src_gas_2009_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 16
 
 *Massima distanza tra due punti date somme quadrati ai vertici*
 

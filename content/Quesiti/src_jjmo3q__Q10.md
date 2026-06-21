@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2005 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_jjmo3q__Q10
 parent: src_jjmo3q
@@ -28,8 +29,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2005 — Quesito 10
 
 *Ratio AR:RC for interior point with given angles and ratios*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Cadet (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2012_cadet_finale
 competition: Kangourou 2012 Finale Cadet (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Cadet (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2012/CMaggio-12.pdf` · apri PDF
 

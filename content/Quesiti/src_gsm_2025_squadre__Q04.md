@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q04
 parent: src_gsm_2025_squadre
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 4
 
 *Conteggio triangoli in una costruzione su un rettangolo*
 

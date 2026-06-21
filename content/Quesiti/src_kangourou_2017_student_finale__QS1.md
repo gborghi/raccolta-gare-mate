@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Finale nazionale Cervia — Quesito S1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_finale__QS1
 parent: src_kangourou_2017_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Finale nazionale Cervia — Quesito S1
 
 *Cifra finale invariante sottraendo numero invertito*
 

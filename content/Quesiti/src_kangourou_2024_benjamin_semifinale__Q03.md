@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q03
 parent: src_kangourou_2024_benjamin_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 3
 
 *Numero al posto del punto interrogativo, consecutivi non connessi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q11
 parent: src_kangourou_2018_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2018 Semifinale A — Quesito 11
 
 *uno e 36 piu della media degli altri due*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Écolier (finale Cervia) — Quesito E6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_ecolier_finale__QE6
 parent: src_kangourou_2016_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2016 Écolier (finale Cervia) — Quesito E6
 
 *Busta A o B piu conveniente rispondendo a caso*
 

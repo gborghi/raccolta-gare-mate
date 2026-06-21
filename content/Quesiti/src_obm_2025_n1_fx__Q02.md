@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2025_n1_fx__Q02
 parent: src_obm_2025_n1_fx
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 2
 
 *Square of side x with diagonal 2 cm decomposed into four triangles; then area of quadrilateral IJKL formed by squares built inside a regular octagon.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q09
 parent: src_kangourou_2024_ecolier_squadre_f2
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 9
 
 *Massimo numeri scritti, somma ultimi due 2024*
 

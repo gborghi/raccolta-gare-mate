@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 1998 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_1998_2livello__Q04
 parent: src_archimede_1998_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 1998 — Quesito 4
 
 *Quantità di liquore in bicchiere conico con ciliegina*
 

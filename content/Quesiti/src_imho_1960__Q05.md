@@ -1,4 +1,5 @@
 ---
+title: IMO 1960 (II International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imho_1960__Q05
 parent: src_imho_1960
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# IMO 1960 (II International Olympiad) — Quesito 5
 
 *Luoghi di medi e di punti su segmenti del cubo*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q18
 parent: src_kangourou_2021_preecolier_koala
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 18
 
 *Frutti rimasti dopo le trasformazioni della maghetta*
 

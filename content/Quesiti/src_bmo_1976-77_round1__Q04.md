@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round1__Q04
 parent: src_bmo_1976-77_round1
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 1 — Quesito 4
 
 *Cubic with roots u,v,w; express roots of related cubic and exclude interval*
 

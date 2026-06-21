@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre finale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q13
 parent: src_kangourou_2009_squadre_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre finale — Quesito 13
 
 *Secondi in cui Anna e separata dal cane (pista 500m)*
 

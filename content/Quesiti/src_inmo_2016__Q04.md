@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2016 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_inmo_2016__Q04
 parent: src_inmo_2016
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2016 — Quesito 4
 
 *2016 red points on circle; any regular n-gon has an all-blue copy*
 

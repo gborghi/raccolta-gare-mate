@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2017-18_round1__Q04
 parent: src_bmo_2017-18_round1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2017-18 — Round 1 — Quesito 4
 
 *Count possible values of a_2017 for sequence with given recurrence*
 

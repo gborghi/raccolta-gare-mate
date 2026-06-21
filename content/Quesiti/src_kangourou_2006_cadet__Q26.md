@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 - Cadet (marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_cadet__Q26
 parent: src_kangourou_2006_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2006 - Cadet (marzo) — Quesito 26
 
 *Somma E(1)+...+E(99) delle cifre dispari*
 

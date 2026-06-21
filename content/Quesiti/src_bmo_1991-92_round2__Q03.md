@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1991-92 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1991-92_round2__Q03
 parent: src_bmo_1991-92_round2
@@ -29,8 +30,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1991-92 — Round 2 — Quesito 3
 
 *Triangle ABC, circumradius R with AB^2+AC^2=BC^2-R^2: find angles*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2020 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2020_n1_fx__Q02
 parent: src_obm_2020_n1_fx
@@ -38,8 +39,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2020 — Nível 1 — Fase x — Quesito 2
 
 *A standard die (opposite faces sum to 7) rolls across a 3x3 board from A to H; determine the top face and the two visible side faces*
 

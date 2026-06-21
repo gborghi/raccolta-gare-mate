@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q09
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 9
 
 *Quale prodotto fornisce il risultato maggiore*
 

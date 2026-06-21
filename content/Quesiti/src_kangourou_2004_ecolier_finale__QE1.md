@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Ecolier finale nazionale — Quesito E1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_ecolier_finale__QE1
 parent: src_kangourou_2004_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2004 Ecolier finale nazionale — Quesito E1
 
 *Mossa vincente nel TRIS*
 

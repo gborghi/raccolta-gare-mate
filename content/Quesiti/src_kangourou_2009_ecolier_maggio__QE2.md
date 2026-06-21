@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_ecolier_maggio__QE2
 parent: src_kangourou_2009_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E2
 
 *Minimo numero di carte rimaste levandone due*
 

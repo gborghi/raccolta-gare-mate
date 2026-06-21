@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q02
 parent: src_kangourou_2019_junior_semifinale_a
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 2
 
 *Raggio in decimetri di tre circonferenze nel triangolo*
 

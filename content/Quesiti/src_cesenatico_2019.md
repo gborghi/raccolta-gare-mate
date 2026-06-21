@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni
 tipo: gara
 src_id: src_cesenatico_2019
 competition: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni
 
 Sorgente: `Archimede/individuale/nazionale/2019/Cesenatico2019.pdf` · apri PDF
 

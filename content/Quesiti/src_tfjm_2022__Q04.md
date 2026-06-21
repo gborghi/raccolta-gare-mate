@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_tfjm_2022__Q04
 parent: src_tfjm_2022
@@ -36,8 +37,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 4
 
 *A memoryless gold-seeker uses three tools with limited lifetimes that goblins can repair overnight; he forgets everything daily, so find a strategy minimizing total cost c_n while never losing nuggets, then generalize to k tools, lucky charms, and rescuers.*
 

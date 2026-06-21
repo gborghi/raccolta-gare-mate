@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q09
 parent: src_cesenatico_2012_pubblico
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 9
 
 *Min c con d=(a^n-b^n)/(2^c), a,b,c,d dispari, n=2^2012*
 

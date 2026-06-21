@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Student — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_student__Q25
 parent: src_kangourou_2013_student
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Student — Quesito 25
 
 *Soluzioni di f^2013(n)=1 con f dimezzamento*
 

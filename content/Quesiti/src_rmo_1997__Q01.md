@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1997 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_rmo_1997__Q01
 parent: src_rmo_1997
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1997 — Quesito 1
 
 *Triangle area and quadrilateral area from cevians*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_2livello__Q12
 parent: src_archimede_2006_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 12
 
 *Numeri di 17 cifre (1 e 2) compatibili con max/min di colonna*
 

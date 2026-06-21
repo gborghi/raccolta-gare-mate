@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2009_n1_f2__Q01
 parent: src_obm_2009_n1_f2
@@ -35,8 +36,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 1
 
 *Cards needed to build a 5-tier house of cards given tiers 1,2,3 use 2,7,15 cards*
 

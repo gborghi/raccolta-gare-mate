@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q14
 parent: src_cesenatico_2012_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 14
 
 *Max h^2 tra 10 punti di contatto (cubo-sfera-tetraedro)*
 

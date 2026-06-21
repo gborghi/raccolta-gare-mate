@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q22
 parent: src_archimede_2001_triennio
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 22
 
 *Minimo mele divisibili tra 3, 4 e a meta dopo -2*
 

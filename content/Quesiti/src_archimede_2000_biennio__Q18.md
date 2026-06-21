@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q18
 parent: src_archimede_2000_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 18
 
 *Classifica gara di nuoto con una sola affermazione vera*
 

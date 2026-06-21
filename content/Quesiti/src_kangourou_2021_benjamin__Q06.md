@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - gara marzo — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin__Q06
 parent: src_kangourou_2021_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - gara marzo — Quesito 6
 
 *Lettera da estrarre dal vaso 4 per scrivere GENIO*
 

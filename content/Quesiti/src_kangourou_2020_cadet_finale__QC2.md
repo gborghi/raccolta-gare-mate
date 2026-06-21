@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Cadet — Quesito C2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC2
 parent: src_kangourou_2020_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Cadet — Quesito C2
 
 *Tragitto minimo tra due punti toccando l asse y*
 

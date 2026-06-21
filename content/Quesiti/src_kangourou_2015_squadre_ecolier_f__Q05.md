@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q05
 parent: src_kangourou_2015_squadre_ecolier_f
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 5
 
 *Quante case sullo stesso lato della mia*
 

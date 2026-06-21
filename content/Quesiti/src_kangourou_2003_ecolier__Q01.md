@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Ecolier (20 marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_ecolier__Q01
 parent: src_kangourou_2003_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Ecolier (20 marzo) — Quesito 1
 
 *Valore di 0+1+2+3+4-3-2-1-0*
 

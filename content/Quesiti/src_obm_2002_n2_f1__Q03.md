@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2002_n2_f1__Q03
 parent: src_obm_2002_n2_f1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 3
 
 *TV 'with 20 polygons' means 20 along diagonal; count along diagonal for 60-polygon TV*
 

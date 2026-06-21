@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n2_f2__Q03
 parent: src_obm_1999_n2_f2
@@ -35,8 +36,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 3
 
 *Square ABCD with points M,N,P,Q on the sides so the circumcircles of triangles MBN and PDQ are externally tangent; prove MN + PQ >= AC.*
 

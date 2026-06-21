@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q06
 parent: src_archimede_2001_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 6
 
 *Somma A+B+C+D con AC×BC=DDD*
 

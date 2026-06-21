@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin gara individuale — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q07
 parent: src_kangourou_2022_benjamin_gara
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin gara individuale — Quesito 7
 
 *Frazione di giro per portare in alto la cabina bianca*
 

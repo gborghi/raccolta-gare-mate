@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (finale Cervia) — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_finale__QS3
 parent: src_kangourou_2016_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (finale Cervia) — Quesito S3
 
 *Coordinate di un vertice del cubo dati tre vertici*
 

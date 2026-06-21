@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Junior — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q05
 parent: src_kangourou_2015_marzo_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Junior — Quesito 5
 
 *>=5m dal muro, <=5m dall’albero*
 

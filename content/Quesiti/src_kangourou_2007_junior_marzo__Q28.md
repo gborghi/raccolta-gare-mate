@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q28
 parent: src_kangourou_2007_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 28
 
 *Evento piu probabile (estrazione 3 carte)*
 

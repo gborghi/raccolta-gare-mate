@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q15
 parent: src_cesenatico_2007_squadre_pubblico
@@ -26,8 +27,6 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 15
 
 *Valore di 10000 volte prodotto di seni multipli di pi/5*
 

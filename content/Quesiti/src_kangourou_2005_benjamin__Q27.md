@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q27
 parent: src_kangourou_2005_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 27
 
 *Ore leggibili allo specchio sull'orologio digitale*
 

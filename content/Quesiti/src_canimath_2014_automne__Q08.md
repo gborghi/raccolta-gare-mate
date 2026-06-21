@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2014 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_canimath_2014_automne__Q08
 parent: src_canimath_2014_automne
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Coupe Animath Automne 2014 — Quesito 8
 
 *Triangle, M,N on BC with angle BAM = angle NAC; O1, O2, A are collinear*
 

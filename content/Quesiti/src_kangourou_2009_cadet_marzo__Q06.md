@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q06
 parent: src_kangourou_2009_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 6
 
 *Somma di quattro interi distinti con prodotto 100*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1959 (I International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imho_1959__Q03
 parent: src_imho_1959
@@ -27,8 +28,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1959 (I International Olympiad) — Quesito 3
 
 *Da equazione in cos x formare equazione in cos 2x*
 

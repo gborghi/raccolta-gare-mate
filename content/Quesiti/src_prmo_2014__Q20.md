@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_prmo_2014__Q20
 parent: src_prmo_2014
@@ -36,8 +37,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 20
 
 *Number of ordered pairs (A,B) with A,B subsets of {1,...,5}, neither A⊆B nor B⊆A*
 

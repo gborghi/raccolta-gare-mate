@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Ecolier (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q22
 parent: src_kangourou_2007_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Ecolier (marzo) — Quesito 22
 
 *Somma 2007+...+2016*
 

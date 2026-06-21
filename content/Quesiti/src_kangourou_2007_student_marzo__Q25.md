@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q25
 parent: src_kangourou_2007_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 25
 
 *Modi di scambio regali senza il proprio (5 amici)*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo36hq_honsen__Q01
 parent: src_jmo36hq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 1
 
 *Acute triangle, circumcenter, points on ray DO; find angle BAC*
 

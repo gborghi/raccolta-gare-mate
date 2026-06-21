@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2009-10 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2009-10_round2__Q02
 parent: src_bmo_2009-10_round2
@@ -31,8 +32,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# British Mathematical Olympiad 2009-10 — Round 2 — Quesito 2
 
 *Prove angle condition in triangle iff right angle at C*
 

@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 1997 — Matematica — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cgen_1997__Q05
 parent: src_cgen_1997
@@ -33,8 +34,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Concours Général des Lycées 1997 — Matematica — Quesito 5
 
 *For a fixed oriented angle alpha, find the locus Gamma of point C seeing AB under that angle, show the centroid G and incenter I describe arcs, then choose C minimizing GI and maximize that minimum over alpha*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Cadet — Quesito C5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC5
 parent: src_kangourou_2020_cadet_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Cadet — Quesito C5
 
 *Piu poligoni convessi che contengono p o che non lo contengono*
 

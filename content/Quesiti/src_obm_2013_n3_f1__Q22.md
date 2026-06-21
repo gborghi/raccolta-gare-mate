@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f1__Q22
 parent: src_obm_2013_n3_f1
@@ -35,8 +36,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 22
 
 *Count 4-digit numbers with distinct digits avoiding 1 in units, 2 in tens, 3 in hundreds, 4 in thousands*
 

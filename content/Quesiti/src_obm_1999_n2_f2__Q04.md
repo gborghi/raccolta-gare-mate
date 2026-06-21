@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n2_f2__Q04
 parent: src_obm_1999_n2_f2
@@ -38,8 +39,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 4
 
 *Find the largest natural number that, for some rearrangement (a,b,c,d) of (3,6,9,12), equals the integer cube root of 3^a 6^b 9^c 12^d.*
 

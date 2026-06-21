@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_biennio__Q16
 parent: src_archimede_2000_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio — Quesito 16
 
 *Acqua versata in parallelepipedo dato livello raggiunto*
 

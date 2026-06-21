@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Finale nazionale Cadet — Quesito C4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC4
 parent: src_kangourou_2020_cadet_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2020 Finale nazionale Cadet — Quesito C4
 
 *Verita affermazioni su numero in posizione speciale griglia 6x6*
 

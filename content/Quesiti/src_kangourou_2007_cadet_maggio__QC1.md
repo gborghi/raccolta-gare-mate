@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Cadet finale (maggio) — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_cadet_maggio__QC1
 parent: src_kangourou_2007_cadet_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Cadet finale (maggio) — Quesito C1
 
 *Numero allievi (77 strette di mano)*
 

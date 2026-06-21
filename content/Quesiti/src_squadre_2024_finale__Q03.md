@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2024 - Finale Nazionale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_squadre_2024_finale__Q03
 parent: src_squadre_2024_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2024 - Finale Nazionale — Quesito 3
 
 *Tassellazioni corridoio 2x6 con tessere 1x2 e 1x3*
 

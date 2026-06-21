@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1992 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_rmo_1992__Q08
 parent: src_rmo_1992
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1992 — Quesito 8
 
 *Solve the symmetric system (x+y)(x+y+z)=18, (y+z)(x+y+z)=30, (z+x)(x+y+z)=24 in terms of A.*
 

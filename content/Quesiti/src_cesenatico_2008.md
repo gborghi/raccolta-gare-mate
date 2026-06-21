@@ -1,4 +1,5 @@
 ---
+title: XXIV Olimpiade Italiana Cesenatico 2008
 tipo: gara
 src_id: src_cesenatico_2008
 competition: XXIV Olimpiade Italiana Cesenatico 2008
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# XXIV Olimpiade Italiana Cesenatico 2008
 
 Sorgente: `Archimede/individuale/nazionale/2008/ces2008-sol_new.pdf` · apri PDF
 

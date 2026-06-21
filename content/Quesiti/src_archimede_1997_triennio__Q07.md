@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Triennio — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_triennio__Q07
 parent: src_archimede_1997_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Triennio — Quesito 7
 
 *Quale fra alcuni numeri e il piu piccolo*
 

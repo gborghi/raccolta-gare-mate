@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Benjamin — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_benjamin__Q05
 parent: src_kangourou_2014_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Benjamin — Quesito 5
 
 *Differenza tra minimo a 5 cifre e massimo a 4 cifre*
 

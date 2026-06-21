@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q16
 parent: src_prmo_2012
@@ -33,8 +34,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 16
 
 *Sum of f(k) for k=1 to 20 given multiplicative-type function*
 

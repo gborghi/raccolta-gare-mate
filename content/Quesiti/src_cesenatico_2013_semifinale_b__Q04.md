@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q04
 parent: src_cesenatico_2013_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 4
 
 *Max lati poligono regolare in striscia larga 100*
 

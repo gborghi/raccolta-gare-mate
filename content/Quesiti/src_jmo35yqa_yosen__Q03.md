@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q03
 parent: src_jmo35yqa_yosen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 3
 
 *Place six bracket-shaped pieces P1,P2,P4,P5,P7,P8 on a 10x10 grid without overlap*
 

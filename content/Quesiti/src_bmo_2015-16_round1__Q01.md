@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2015-16 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2015-16_round1__Q01
 parent: src_bmo_2015-16_round1
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2015-16 — Round 1 — Quesito 1
 
 *Anna buys books and shelves; count dates where books is multiple of shelves.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Junior 2024 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q13
 parent: src_kangourou_2024_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Junior 2024 — Quesito 13
 
 *Quanti interi tra 0 e 10 esprimibili con quattro 4*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2024 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_canimath_2024_automne__Q11
 parent: src_canimath_2024_automne
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2024 — Quesito 11
 
 *2024×2024 grid, k colors; min k so any coloring has 3 cells with distinct colors in L-shape (lycéen version)*
 

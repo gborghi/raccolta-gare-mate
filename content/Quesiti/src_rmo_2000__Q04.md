@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2000 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2000__Q04
 parent: src_rmo_2000
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2000 — Quesito 4
 
 *7-digit numbers with digits 1-7 each once, not divisible by 5, find 2000th in order*
 

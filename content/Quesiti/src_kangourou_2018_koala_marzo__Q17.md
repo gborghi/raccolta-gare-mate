@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q17
 parent: src_kangourou_2018_koala_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2018 Gioco Koala (Marzo) — Quesito 17
 
 *Quanti gnomi si bagnano (capienza dei funghi)*
 

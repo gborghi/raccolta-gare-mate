@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_triennio__Q12
 parent: src_archimede_2014_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 12
 
 *Valore di x^3+1/x^3 dato x+1/x=5*
 

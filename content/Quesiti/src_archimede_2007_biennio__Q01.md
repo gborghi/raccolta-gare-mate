@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_biennio__Q01
 parent: src_archimede_2007_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Biennio — Quesito 1
 
 *Tempo per guadagnare 1000 Euro con stipendio annuale*
 

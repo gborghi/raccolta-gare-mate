@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2015 — Region 5 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2015_r5__Q02
 parent: src_rmo_2015_r5
@@ -34,8 +35,6 @@ tags:
   - regione/r5
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2015 — Region 5 — Quesito 2
 
 *Count 3-digit base-10 numbers with at least one 5 and at most one 2*
 

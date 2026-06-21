@@ -1,4 +1,5 @@
 ---
+title: IMO 2016 papers — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_2016__Q03
 parent: src_imo_2016
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 2016 papers — Quesito 3
 
 *2S divisibile per n in poligono ciclico intero*
 

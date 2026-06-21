@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q24
 parent: src_obm_2016_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 24
 
 *Showing a sequence of 2016 positive integers with a sum/product property has at least 2006 ones*
 

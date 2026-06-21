@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior finale nazionale — Quesito J5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior_finale__QJ5
 parent: src_kangourou_2003_junior_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior finale nazionale — Quesito J5
 
 *Area triangolo da tre triangoli interni paralleli*
 

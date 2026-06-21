@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2019_n3_fx__Q01
 parent: src_obm_2019_n3_fx
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x — Quesito 1
 
 *Q is incenter of triangle PAB via two intersecting circles*
 

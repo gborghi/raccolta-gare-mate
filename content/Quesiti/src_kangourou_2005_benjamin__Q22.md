@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Benjamin (marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_benjamin__Q22
 parent: src_kangourou_2005_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2005 - Benjamin (marzo) — Quesito 22
 
 *Per quante ore al giorno il cartello e vero*
 

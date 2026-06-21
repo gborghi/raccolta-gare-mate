@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_online__Q02
 parent: src_archimede_2021_biennio_online
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 2
 
 *Triangoli con due vertici dello stesso colore su circonferenza*
 

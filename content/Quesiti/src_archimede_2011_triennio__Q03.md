@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2011 - Triennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_triennio__Q03
 parent: src_archimede_2011_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2011 - Triennio — Quesito 3
 
 *Somma numeri vertici piramide ottagonale con facce div per 3*
 

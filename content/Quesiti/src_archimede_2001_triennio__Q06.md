@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Triennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_triennio__Q06
 parent: src_archimede_2001_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Triennio — Quesito 6
 
 *Valori di alpha per soluzione unica del sistema*
 

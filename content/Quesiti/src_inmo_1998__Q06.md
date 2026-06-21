@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1998 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_1998__Q06
 parent: src_inmo_1998
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1998 — Quesito 6
 
 *Choose n integers from 0..2n so average is integer, find minimum n*
 

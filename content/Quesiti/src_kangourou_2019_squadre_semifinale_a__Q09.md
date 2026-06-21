@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q09
 parent: src_kangourou_2019_squadre_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A — Quesito 9
 
 *Lati del poligono con probabilita diagonale 0,8*
 

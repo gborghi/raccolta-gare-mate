@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo35hq_honsen__Q04
 parent: src_jmo35hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 4
 
 *Find all integer-valued functions with f(n)>0 and f(n) divides n^{f(n)}-1*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_benjamin__Q01
 parent: src_kangourou_2023_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 1
 
 *quale pezzo ritagliabile*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_jmo26mq_honsen__Q04
 parent: src_jmo26mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 4
 
 *Find all real functions satisfying f(yf(x)-x)=f(x)f(y)+2x*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q07
 parent: src_kangourou_2008_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 7
 
 *Spigoli del cubo con vertici tagliati*
 

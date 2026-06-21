@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_prmo_2012__Q20
 parent: src_prmo_2012
@@ -30,8 +31,6 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 20
 
 *Area of region bounded by two semicircles*
 

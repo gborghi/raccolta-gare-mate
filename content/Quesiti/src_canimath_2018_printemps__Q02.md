@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2018 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_canimath_2018_printemps__Q02
 parent: src_canimath_2018_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2018 — Quesito 2
 
 *Compare two sums A and B involving reciprocals*
 

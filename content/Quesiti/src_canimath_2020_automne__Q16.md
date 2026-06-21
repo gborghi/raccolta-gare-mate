@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2020 — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_canimath_2020_automne__Q16
 parent: src_canimath_2020_automne
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2020 — Quesito 16
 
 *Find all values C that are products of integers differing by 5 and also by 8*
 

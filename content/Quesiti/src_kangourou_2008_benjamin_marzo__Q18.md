@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q18
 parent: src_kangourou_2008_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 18
 
 *Eta di Ada e Ivo da condizioni lineari*
 

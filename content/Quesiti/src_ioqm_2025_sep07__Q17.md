@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q17
 parent: src_ioqm_2025_sep07
@@ -35,8 +36,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 17
 
 *Parallelogram MTAI with area 40/41 and MI=1/MT; least diagonal MA squared equals a/b; find |a-b|*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Student - Gara 16 marzo — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q07
 parent: src_kangourou_2017_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Student - Gara 16 marzo — Quesito 7
 
 *Solido costruibile con 4 barrette bianco-nere*
 

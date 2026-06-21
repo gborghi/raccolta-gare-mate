@@ -1,4 +1,5 @@
 ---
+title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004__Q01
 parent: src_cesenatico_2004
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 1
 
 *trovare quella del 25 dicembre*
 

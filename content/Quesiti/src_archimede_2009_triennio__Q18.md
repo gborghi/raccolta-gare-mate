@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Triennio — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_triennio__Q18
 parent: src_archimede_2009_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Triennio — Quesito 18
 
 *Seconda cifra del prodotto (10^4+1)(10^2+1)(10+1)*
 

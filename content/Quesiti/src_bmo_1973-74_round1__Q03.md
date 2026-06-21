@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1973-74_round1__Q03
 parent: src_bmo_1973-74_round1
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1973-74 — Round 1 — Quesito 3
 
 *Prove no convex polyhedron can have all hexagonal faces*
 

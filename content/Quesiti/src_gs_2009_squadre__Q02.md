@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2009 - Gara a squadre — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gs_2009_squadre__Q02
 parent: src_gs_2009_squadre
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2009 - Gara a squadre — Quesito 2
 
 *Conteggio file di 4 pulsanti nella griglia*
 

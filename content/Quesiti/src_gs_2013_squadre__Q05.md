@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q05
 parent: src_gs_2013_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 5
 
 *Conteggio nomi PDOR con partizioni di 4*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q08
 parent: src_cesenatico_2007_squadre_finale
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 8
 
 *Combinazioni compatibili dello zodiaco amici/nemici*
 

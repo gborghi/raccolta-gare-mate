@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q06
 parent: src_kangourou_2003_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 6
 
 *Faccia opposta nel cubo piegato*
 

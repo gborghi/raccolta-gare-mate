@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2026 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_inmo_2026__Q05
 parent: src_inmo_2026
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2026 — Quesito 5
 
 *For an interior point P of an acute triangle T with successive reflections in its sides, prove the six triple-reflection images are concyclic iff P is the orthocentre.*
 

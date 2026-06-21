@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2004-05 — Round 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_2004-05_round2__Q04
 parent: src_bmo_2004-05_round2
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2004-05 — Round 2 — Quesito 4
 
 *3-element subsets of {1,...,36} pairwise intersecting but empty total intersection; show n≤100*
 

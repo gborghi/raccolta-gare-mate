@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Ecolier 2024 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_ecolier__Q15
 parent: src_kangourou_2024_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Categoria Ecolier 2024 — Quesito 15
 
 *Somma dei numeri al posto dei punti interrogativi (cartoncino)*
 

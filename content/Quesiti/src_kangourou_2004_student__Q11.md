@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 - Student (marzo) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_student__Q11
 parent: src_kangourou_2004_student
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2004 - Student (marzo) — Quesito 11
 
 *Quadrati con vertice in (-1,-1) e asse di simmetria*
 

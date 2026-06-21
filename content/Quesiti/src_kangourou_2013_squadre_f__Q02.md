@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q02
 parent: src_kangourou_2013_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Finale — Quesito 2
 
 *Numero in cima al triangolo di somme (riga base 1-10)*
 

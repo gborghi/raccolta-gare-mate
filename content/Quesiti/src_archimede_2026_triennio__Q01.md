@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q01
 parent: src_archimede_2026_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 1
 
 *Modi di scegliere quantita di problemi per materia con vincoli*
 

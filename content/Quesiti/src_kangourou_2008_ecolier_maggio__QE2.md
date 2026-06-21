@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_ecolier_maggio__QE2
 parent: src_kangourou_2008_ecolier_maggio
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E2
 
 *Eliminare due caselle per uguaglianza vera*
 

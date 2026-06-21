@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q07
 parent: src_kangourou_2005_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 7
 
 *Porzioni gelato con tre ragazze e due ragazzi*
 

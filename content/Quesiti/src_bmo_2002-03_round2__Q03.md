@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2002-03 — Round 2 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_2002-03_round2__Q03
 parent: src_bmo_2002-03_round2
@@ -33,8 +34,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2002-03 — Round 2 — Quesito 3
 
 *Permutation of positive integers and monotone arithmetic progressions*
 

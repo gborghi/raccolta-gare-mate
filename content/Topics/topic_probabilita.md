@@ -1,11 +1,10 @@
 ---
+title: Probabilita e statistica
 tipo: topic
 concept_id: topic_probabilita
 tags:
   - graph/topic
 ---
-
-# Probabilita e statistica
 
 *topic* — **314** quesiti (italiani).
 

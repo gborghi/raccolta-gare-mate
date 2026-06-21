@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n1_f1__Q14
 parent: src_obm_2007_n1_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 14
 
 *Bottle fills 3 large + half small, or 5 small + half large; ratio small:large*
 

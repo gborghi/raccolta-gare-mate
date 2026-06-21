@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q11
 parent: src_kangourou_2020_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 11
 
 *Differenza G-N nei quattro casi di rettangoli sovrapposti*
 

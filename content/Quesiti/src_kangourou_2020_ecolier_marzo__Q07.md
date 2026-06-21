@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Ecolier — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q07
 parent: src_kangourou_2020_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Ecolier — Quesito 7
 
 *Quale adesivo e opposto all anatroccolo sul cubo*
 

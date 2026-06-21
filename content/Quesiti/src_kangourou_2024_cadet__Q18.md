@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q18
 parent: src_kangourou_2024_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 18
 
 *Percentuale di diminuzione di massa del fungo essiccato*
 

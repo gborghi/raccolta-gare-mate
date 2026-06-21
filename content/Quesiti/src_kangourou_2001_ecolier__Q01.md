@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_ecolier__Q01
 parent: src_kangourou_2001_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Ecolier (15 marzo) — Quesito 1
 
 *Prossimo disegno della serie riflessa*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2005 - Gara Triennio — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2005_triennio__Q04
 parent: src_archimede_2005_triennio
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2005 - Gara Triennio — Quesito 4
 
 *Numeri di 4 cifre con iniziale 1 e tre cifre uguali*
 

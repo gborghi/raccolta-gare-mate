@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2013 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_2013__Q01
 parent: src_inmo_2013
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2013 — Quesito 1
 
 *Two circles tangent externally; prove triangle PQR is equilateral*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q12
 parent: src_archimede_2021_biennio_tradizionale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 12
 
 *Percorsi su cornice di tabellone 9x7 in 14 mosse*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Biennio
 tipo: gara
 src_id: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -15,8 +16,6 @@ tags:
   - anno/2000
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Biennio
 
 Sorgente: `Archimede/individuale/1livello/2000/Archimede2000/testibiennio.pdf` · apri PDF
 

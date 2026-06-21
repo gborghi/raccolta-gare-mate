@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q18
 parent: src_kangourou_2024_junior
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 18
 
 *Valore di n (cubetti con una faccia = senza facce dipinte)*
 

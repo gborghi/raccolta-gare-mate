@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Junior — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_junior__Q20
 parent: src_kangourou_2014_junior
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Junior — Quesito 20
 
 *Prodotto pqr con p+1/(q+1/r)=25/19*
 

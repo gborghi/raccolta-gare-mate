@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q15
 parent: src_prmo_2018
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 15
 
 *Natural numbers a,b with 2a-b, a-2b, a+b all distinct perfect squares, find minimum b*
 

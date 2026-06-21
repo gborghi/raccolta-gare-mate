@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2025 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2025_automne__Q01
 parent: src_canimath_2025_automne
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2025 — Quesito 1
 
 *Find central angle AOC from two given angles OBA and OBC on a circle*
 

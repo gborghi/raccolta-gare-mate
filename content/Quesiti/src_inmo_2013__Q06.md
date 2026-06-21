@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2013 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_inmo_2013__Q06
 parent: src_inmo_2013
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2013 — Quesito 6
 
 *Positive reals a,b,c,x,y,z; a+b+c=x+y+z=xyz; prove a=x,b=y,c=z*
 

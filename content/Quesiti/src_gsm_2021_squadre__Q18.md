@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q18
 parent: src_gsm_2021_squadre
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 18
 
 *Codici di cinque cifre con prodotto delle cifre 108*
 

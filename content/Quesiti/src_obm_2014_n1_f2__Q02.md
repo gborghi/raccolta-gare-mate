@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2014_n1_f2__Q02
 parent: src_obm_2014_n1_f2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 2
 
 *Ten children in line; minimum neighbor swaps to move tallest to position of shortest*
 

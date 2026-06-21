@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Student (marzo) — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q17
 parent: src_kangourou_2007_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2007 Student (marzo) — Quesito 17
 
 *Cavalieri e mentitori (almeno uno mentitore)*
 

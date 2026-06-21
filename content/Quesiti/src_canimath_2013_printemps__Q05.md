@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2013 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_canimath_2013_printemps__Q05
 parent: src_canimath_2013_printemps
@@ -36,8 +37,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2013 — Quesito 5
 
 *(m,n)-grasshopper on grid colored in (2,1)-pattern: find m,n so it always changes color*
 

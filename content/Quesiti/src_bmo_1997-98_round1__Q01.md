@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1997-98 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1997-98_round1__Q01
 parent: src_bmo_1997-98_round1
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1997-98 — Round 1 — Quesito 1
 
 *5x5 grid filled like Latin square; analyze score below diagonal*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Cadet (15 marzo) — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_cadet__Q10
 parent: src_kangourou_2001_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2001 - Cadet (15 marzo) — Quesito 10
 
 *Percorsi da A a B senza ripassare*
 

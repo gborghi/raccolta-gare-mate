@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep07__Q29
 parent: src_ioqm_2025_sep07
@@ -35,8 +36,6 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 29
 
 *Regular n-gon colourful iff 6 colours allow every 5 consecutive vertices different; largest non-colourful n*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n3_fx__Q05
 parent: src_obm_2021_n3_fx
@@ -36,8 +37,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 5
 
 *Find all triples of non-negative integers satisfying a²+b²+c²=abc+1*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
 tipo: gara
 src_id: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -15,8 +16,6 @@ tags:
   - anno/2020
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020
 
 Sorgente: apri PDF
 

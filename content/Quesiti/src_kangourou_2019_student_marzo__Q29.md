@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q29
 parent: src_kangourou_2019_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Student (triennio) — Quesito 29
 
 *Probabilita che uno dei tre sia media degli altri due*
 

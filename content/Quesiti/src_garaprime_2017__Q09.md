@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q09
 parent: src_garaprime_2017
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 9
 
 *Somma minima delle aree accoppiando dieci segmenti*
 

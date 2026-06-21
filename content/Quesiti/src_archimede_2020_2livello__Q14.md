@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2020_2livello__Q14
 parent: src_archimede_2020_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2020 - 2° livello — Quesito 14
 
 *Polinomi con p(x)^2=p(x^2)+alpha p(x), conteggio*
 

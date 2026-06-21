@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 1999 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_1999__Q05
 parent: src_cesenatico_1999
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 1999 — Quesito 5
 
 *Valori m,n,p per villaggio di capanne con ponti*
 

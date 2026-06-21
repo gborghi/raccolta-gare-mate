@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Finale Nazionale
 tipo: gara
 src_id: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Finale Nazionale
 
 Sorgente: `Archimede/squadre/nazionale/2011/Fgas11.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1979-80 — Round 2
 tipo: gara
 src_id: src_bmo_1979-80_round2
 competition: British Mathematical Olympiad 1979-80 — Round 2
@@ -15,8 +16,6 @@ tags:
   - anno/1980
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1979-80 — Round 2
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_gs_2010_squadre__Q22
 parent: src_gs_2010_squadre
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre — Quesito 22
 
 *Operazione stella come numero di suriezioni*
 

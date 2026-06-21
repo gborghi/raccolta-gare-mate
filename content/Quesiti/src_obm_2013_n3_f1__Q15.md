@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_obm_2013_n3_f1__Q15
 parent: src_obm_2013_n3_f1
@@ -36,8 +37,6 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 15
 
 *Probability that f(k), the largest perfect power not exceeding k, is a perfect square*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q03
 parent: src_kangourou_squadre_2010_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 3
 
 *Anni con prime due cifre multiplo delle ultime due*
 

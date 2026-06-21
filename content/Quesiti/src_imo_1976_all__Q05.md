@@ -1,4 +1,5 @@
 ---
+title: IMO 1976 (Eighteenth International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1976_all__Q05
 parent: src_imo_1976_all
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1976 (Eighteenth International Olympiad) — Quesito 5
 
 *System with +-1,0 coefficients has bounded nonzero integer solution*
 

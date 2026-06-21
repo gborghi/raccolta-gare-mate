@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gsm_2021_squadre__Q11
 parent: src_gsm_2021_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2021 — Quesito 11
 
 *Massimo valore intero di (x^2+xy+y^2)/10 sotto 9999*
 

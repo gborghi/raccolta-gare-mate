@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2009 - Biennio — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2009_biennio__Q11
 parent: src_archimede_2009_biennio
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Giochi di Archimede 2009 - Biennio — Quesito 11
 
 *Somma differenze cifre per numeri da 10 a 99*
 

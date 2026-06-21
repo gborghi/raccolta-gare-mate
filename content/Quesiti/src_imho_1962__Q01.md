@@ -1,4 +1,5 @@
 ---
+title: IMO 1962 (IV International Olympiad) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_imho_1962__Q01
 parent: src_imho_1962
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1962 (IV International Olympiad) — Quesito 1
 
 *Minimo n che termina con 6 e diventa quadruplo spostando il 6*
 

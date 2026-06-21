@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q14
 parent: src_ioqm_2020
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 14
 
 *55×60×65 as product of five distinct positive integers; minimize the largest*
 

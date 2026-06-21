@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_obm_2001_n2_f3__Q02
 parent: src_obm_2001_n2_f3
@@ -39,8 +40,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 2
 
 *42 children numbered in a line stand on a grid of square tiles, consecutive numbers on adjacent tiles; decide which inspector's drawing is wrong and complete the correct one*
 

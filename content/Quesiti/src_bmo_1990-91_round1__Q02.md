@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1990-91 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1990-91_round1__Q02
 parent: src_bmo_1990-91_round1
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1990-91 — Round 1 — Quesito 2
 
 *Find positive integers k such that x^(2k+1)+x+1 is divisible by x^k+x+1*
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2015 - Biennio — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_archimede_2015_biennio__Q08
 parent: src_archimede_2015_biennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2015 - Biennio — Quesito 8
 
 *2015a cifra decimale di 3/7*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Junior (20 marzo) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_junior__Q12
 parent: src_kangourou_2003_junior
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2003 Junior (20 marzo) — Quesito 12
 
 *Lunghezza andata con velocita diverse*
 

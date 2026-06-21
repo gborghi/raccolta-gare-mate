@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_prmo_2018__Q02
 parent: src_prmo_2018
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 2
 
 *Incircle radius in quadrilateral ABCD, find integer closest to r*
 

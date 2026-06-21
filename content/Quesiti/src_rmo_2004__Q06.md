@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2004 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2004__Q06
 parent: src_rmo_2004
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2004 — Quesito 6
 
 *Prime sequence p_{n+1} = largest prime factor of product+1; prove p_n ≠ 5*
 

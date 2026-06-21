@@ -1,4 +1,5 @@
 ---
+title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_archimede_2002_individuale__Q02
 parent: src_archimede_2002_individuale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 2
 
 *determinare il volume*
 

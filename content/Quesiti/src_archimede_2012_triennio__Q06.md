@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_triennio__Q06
 parent: src_archimede_2012_triennio
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio — Quesito 6
 
 *Area quadrato inscritto con similitudine in triangolo*
 

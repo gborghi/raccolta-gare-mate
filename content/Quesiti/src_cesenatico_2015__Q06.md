@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2015__Q06
 parent: src_cesenatico_2015
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 6
 
 *per quali n vince Charles*
 

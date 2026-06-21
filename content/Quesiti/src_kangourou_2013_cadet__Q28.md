@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q28
 parent: src_kangourou_2013_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 28
 
 *Relazione tra numero quadrati e cubi perfetti fino a 2013^6*
 

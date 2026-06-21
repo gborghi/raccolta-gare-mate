@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q06
 parent: src_gas_2009_semifinale_a
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 6
 
 *Successione con media variazioni, valore termine 1000*
 

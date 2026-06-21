@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2018_n3_fx__Q01
 parent: src_obm_2018_n3_fx
@@ -35,8 +36,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x — Quesito 1
 
 *Unit-cube coloring/numbering in n×n×n cube; count by day number*
 

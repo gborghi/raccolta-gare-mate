@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q03
 parent: src_kangourou_2009_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 3
 
 *Perimetro dell esagono ombreggiato (stella)*
 

@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n1_fx__Q04
 parent: src_obm_2021_n1_fx
@@ -37,8 +38,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 4
 
 *Students opening lockers: doublings mod 2021, count open lockers*
 

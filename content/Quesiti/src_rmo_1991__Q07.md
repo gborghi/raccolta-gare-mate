@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1991 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_1991__Q07
 parent: src_rmo_1991
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1991 — Quesito 7
 
 *Prove n^4 + 4^n composite for all integers n > 1*
 

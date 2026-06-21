@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2018 - Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_finale__Q14
 parent: src_squadre_2018_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2018 - Finale Nazionale — Quesito 14
 
 *Somma di N/s(N) per N da 1 a 1000*
 

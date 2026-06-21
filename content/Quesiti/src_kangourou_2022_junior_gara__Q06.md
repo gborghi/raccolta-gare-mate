@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior gara individuale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q06
 parent: src_kangourou_2022_junior_gara
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior gara individuale — Quesito 6
 
 *Numero con N<N/2, N>2N e N+N^2=0*
 

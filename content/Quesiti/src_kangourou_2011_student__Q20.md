@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q20
 parent: src_kangourou_2011_student
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 20
 
 *Numero di membri del club da due affermazioni*
 

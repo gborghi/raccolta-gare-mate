@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q29
 parent: src_kangourou_2008_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 29
 
 *Somma aree dei 27 triangoli equilateri*
 

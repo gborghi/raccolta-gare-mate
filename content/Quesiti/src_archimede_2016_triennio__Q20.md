@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2016 - Triennio — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_triennio__Q20
 parent: src_archimede_2016_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2016 - Triennio — Quesito 20
 
 *trovare n*
 

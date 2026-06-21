@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo14mq_honsen__Q03
 parent: src_jmo14mq_honsen
@@ -27,8 +28,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 3
 
 *Perpendicular planes; bisector meets circle, prove angle bisected*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28
 tipo: gara
 src_id: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/sep28
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28
 
 Sorgente: apri PDF
 

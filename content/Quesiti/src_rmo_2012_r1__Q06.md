@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2012 — Region 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2012_r1__Q06
 parent: src_rmo_2012_r1
@@ -32,8 +33,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2012 — Region 1 — Quesito 6
 
 *Prove not all roots of ax^4+bx^3+x^2+x+1=0 are real*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Junior squadre 2019 Semifinale A
 tipo: gara
 src_id: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/squadre
 ---
-
-# Kangourou Coppa Junior squadre 2019 Semifinale A
 
 Sorgente: `Kangaroo/kangourou_squadre/2019/SQJ-A-19.pdf` · apri PDF
 

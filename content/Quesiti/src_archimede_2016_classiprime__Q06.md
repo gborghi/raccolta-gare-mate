@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2016 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2016_classiprime__Q06
 parent: src_archimede_2016_classiprime
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2016 — Quesito 6
 
 *Casi per PIN 16_6_ divisibile per 15*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q06
 parent: src_kangourou_2017_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2017 Semifinale A — Quesito 6
 
 *Somma valori RETI in AMO+AMO+AMO=RETI (max e min)*
 

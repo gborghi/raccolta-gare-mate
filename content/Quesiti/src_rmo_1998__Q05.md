@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1998 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_rmo_1998__Q05
 parent: src_rmo_1998
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1998 — Quesito 5
 
 *Minimum lcm of twenty natural numbers summing to 801*
 

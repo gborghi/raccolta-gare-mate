@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin_finale__QB4
 parent: src_kangourou_2012_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B4
 
 *Minimo numero di triangoli per ritagliare il canguro*
 

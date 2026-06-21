@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1985-86 — Round 2
 tipo: gara
 src_id: src_bmo_1985-86_round2
 competition: British Mathematical Olympiad 1985-86 — Round 2
@@ -15,8 +16,6 @@ tags:
   - anno/1986
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1985-86 — Round 2
 
 Sorgente: apri PDF
 

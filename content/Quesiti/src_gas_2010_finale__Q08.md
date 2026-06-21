@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q08
 parent: src_gas_2010_finale
@@ -29,8 +30,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 8
 
 *Numero tavolate di 5 quadrati con 12 posti a meno di rotazioni*
 

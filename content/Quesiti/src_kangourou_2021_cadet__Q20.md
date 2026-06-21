@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Cadet - gara marzo — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_cadet__Q20
 parent: src_kangourou_2021_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Cadet - gara marzo — Quesito 20
 
 *Numero di esagoni dati 12 pentagoni del pallone*
 

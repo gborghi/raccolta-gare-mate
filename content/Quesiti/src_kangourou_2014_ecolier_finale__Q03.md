@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 finale Ecolier — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier_finale__Q03
 parent: src_kangourou_2014_ecolier_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2014 finale Ecolier — Quesito 3
 
 *Turni minimi perché ogni ragazzo balli con ogni ragazza*
 

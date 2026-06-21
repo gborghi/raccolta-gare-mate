@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1993-94 — Round 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_bmo_1993-94_round1__Q03
 parent: src_bmo_1993-94_round1
@@ -30,8 +31,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1993-94 — Round 1 — Quesito 3
 
 *Integer recurrence u_{n+1}u_{n-1}=k u_n; find all k given u_2000=2000*
 

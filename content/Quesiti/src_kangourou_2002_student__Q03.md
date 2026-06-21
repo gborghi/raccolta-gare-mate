@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Student (21 marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_student__Q03
 parent: src_kangourou_2002_student
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2002 - Student (21 marzo) — Quesito 3
 
 *Interi di 3 cifre con due almeno uguali*
 

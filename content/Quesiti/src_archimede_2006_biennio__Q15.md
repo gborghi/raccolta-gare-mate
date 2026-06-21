@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Biennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_biennio__Q15
 parent: src_archimede_2006_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Biennio — Quesito 15
 
 *Patrimonio dopo crescita del 50% per quattro ore*
 

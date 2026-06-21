@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q07
 parent: src_canimath_2019_automne
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 7
 
 *Does strict ordering of fractions imply ordering of their mediants?*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q15
 parent: src_kangourou_2009_squadre_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 15
 
 *Ultima cifra di 2^2009+3^2009+5^2009+7^2009*
 

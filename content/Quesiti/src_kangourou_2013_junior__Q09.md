@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q09
 parent: src_kangourou_2013_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 9
 
 *Risultato di rotazione e riflessione dell'arco*
 

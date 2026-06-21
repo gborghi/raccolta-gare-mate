@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_prmo_2015_b__Q08
 parent: src_prmo_2015_b
@@ -31,8 +32,6 @@ tags:
   - regione/b
   - gara/individuale
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 8
 
 *Circular plate broken piece; midpoint of chord and arc; find radius*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 28
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin__Q28
 parent: src_kangourou_2003_benjamin
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 - Benjamin (20 marzo) — Quesito 28
 
 *Numero delle matite blu*
 

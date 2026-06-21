@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2021 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_automne__Q06
 parent: src_canimath_2021_automne
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2021 — Quesito 6
 
 *Acute triangle, constructed circle intersections, show Z on perpendicular bisector of BC*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q22
 parent: src_kangourou_2008_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Student (gara 28 marzo) — Quesito 22
 
 *Prodotto dei due divisori di 3^32-1 tra 75 e 85*
 

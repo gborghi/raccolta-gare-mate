@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2022__Q02
 parent: src_selection_camp_2022
@@ -29,8 +30,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Japan IMO Selection Camp 2022 — Selection Camp — Quesito 2
 
 *Find all real functions satisfying a given functional equation*
 

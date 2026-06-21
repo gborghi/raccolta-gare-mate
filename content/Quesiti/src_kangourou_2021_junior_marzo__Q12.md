@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q12
 parent: src_kangourou_2021_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2021 Junior - gara marzo (biennio) — Quesito 12
 
 *Modi di salire 8 gradini saltando il 6*
 

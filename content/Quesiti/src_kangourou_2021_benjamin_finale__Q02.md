@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Benjamin - finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_benjamin_finale__Q02
 parent: src_kangourou_2021_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Benjamin - finale — Quesito 2
 
 *Correggere 25x2=211 con +1/-1 sulle cifre*
 

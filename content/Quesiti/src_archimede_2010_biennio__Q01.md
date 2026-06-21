@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2010 - Biennio — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2010_biennio__Q01
 parent: src_archimede_2010_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2010 - Biennio — Quesito 1
 
 *Massimo lunedi in 45 giorni consecutivi*
 

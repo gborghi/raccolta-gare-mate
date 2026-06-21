@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_biennio__Q03
 parent: src_archimede_1997_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Biennio — Quesito 3
 
 *Natura del triangolo ACV in una piramide a base quadrata*
 

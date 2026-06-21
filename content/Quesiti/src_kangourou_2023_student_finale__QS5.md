@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Student 2023 — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_finale__QS5
 parent: src_kangourou_2023_student_finale
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Finale Student 2023 — Quesito S5
 
 *Numero coppie di punti a distanza massima fra n punti*
 

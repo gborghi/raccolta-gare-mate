@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q13
 parent: src_kangourou_2017_ecolier_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2017 Ecolier - Semifinale individuale — Quesito 13
 
 *Costo minimo strisce per ricoprire figure*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q18
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 18
 
 *Quanti etti di vernice per il solido di quattro scatole*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2019 Semifinale A
 tipo: gara
 src_id: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2019 Semifinale A
 
 Sorgente: `Kangaroo/kangourou_squadre/2019/SQ-A-19.pdf` · apri PDF
 

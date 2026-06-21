@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2021 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_canimath_2021_printemps__Q17
 parent: src_canimath_2021_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2021 — Quesito 17
 
 *8 ants on the edges of a unit cube: two at geodesic distance at most 1 (lycee)*
 

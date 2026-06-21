@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2006 Ecolier (marzo) — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q14
 parent: src_kangourou_2006_ecolier_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2006 Ecolier (marzo) — Quesito 14
 
 *Pesi nella terza scatola*
 

@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1999 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_1999__Q03
 parent: src_rmo_1999
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1999 — Quesito 3
 
 *Square $ABCD$, midpoint $R$ of $MN$, show $RP=RQ$*
 

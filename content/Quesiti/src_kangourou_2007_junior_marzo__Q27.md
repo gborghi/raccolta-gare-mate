@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q27
 parent: src_kangourou_2007_junior_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 27
 
 *Quante collane rubate (diamanti tra 200 e 300)*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_gsm_2022_squadre__Q21
 parent: src_gsm_2022_squadre
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre GSM (locale Genova) 2022 — Quesito 21
 
 *Coppie (m,n) con numero di iniezioni quadrato perfetto*
 

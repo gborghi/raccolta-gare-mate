@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q02
 parent: src_kangourou_2010_squadre_finale
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre finale — Quesito 2
 
 *Septine intere con 2a^2+b^2+...+g^2=9*
 

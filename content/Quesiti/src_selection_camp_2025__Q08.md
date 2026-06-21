@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2025__Q08
 parent: src_selection_camp_2025
@@ -35,8 +36,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2025 — Selection Camp — Quesito 8
 
 *1000 points, triangle-with-interior-point sets, linear weights; max beautiful sets*
 

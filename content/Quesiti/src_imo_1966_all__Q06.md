@@ -1,4 +1,5 @@
 ---
+title: IMO 1966 (Eighth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1966_all__Q06
 parent: src_imo_1966_all
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1966 (Eighth International Olympiad) — Quesito 6
 
 *One sub-triangle has area at most quarter of ABC*
 

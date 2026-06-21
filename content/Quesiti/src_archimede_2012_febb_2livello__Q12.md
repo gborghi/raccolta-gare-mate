@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q12
 parent: src_archimede_2012_febb_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 12
 
 *Folletto dimezza x^2-y^2, numero massimo di scherzetti*
 

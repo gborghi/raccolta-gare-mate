@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Benjamin (gara marzo) — Quesito 19
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q19
 parent: src_kangourou_2017_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Benjamin (gara marzo) — Quesito 19
 
 *Ordine bacchette A,T,R per massima somma di denaro*
 

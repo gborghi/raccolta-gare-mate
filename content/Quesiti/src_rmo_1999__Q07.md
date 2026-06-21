@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1999 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_rmo_1999__Q07
 parent: src_rmo_1999
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1999 — Quesito 7
 
 *Count quadratic polynomials $ax^2+bx+c$ divisible by $x+1$*
 

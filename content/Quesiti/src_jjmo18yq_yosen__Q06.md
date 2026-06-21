@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jjmo18yq_yosen__Q06
 parent: src_jjmo18yq_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 6
 
 *Maximum number of L-shaped 4-unit blocks in 5x5x5 cube minus 8 corners*
 

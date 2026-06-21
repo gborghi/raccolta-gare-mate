@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q04
 parent: src_cesenatico_2007_squadre_pubblico
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 4
 
 *Piu grande N 4 cifre con penultima cifra 1 in basi 4,5,6,7*
 

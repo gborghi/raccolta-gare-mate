@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier semifinale individuale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q15
 parent: src_kangourou_2022_ecolier_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier semifinale individuale — Quesito 15
 
 *Cifre del quoziente di 111.222...555 diviso 111*
 

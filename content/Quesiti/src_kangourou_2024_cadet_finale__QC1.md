@@ -1,4 +1,5 @@
 ---
+title: Kangourou Finale Cadet 2024 — Quesito C1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC1
 parent: src_kangourou_2024_cadet_finale
@@ -23,8 +24,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Finale Cadet 2024 — Quesito C1
 
 *Si puo dedurre il significato di KAB dalla risposta*
 

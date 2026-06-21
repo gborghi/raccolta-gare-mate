@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1976-77 — Round 2 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1976-77_round2__Q01
 parent: src_bmo_1976-77_round2
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1976-77 — Round 2 — Quesito 1
 
 *Bound quadratic on interval given values at n points*
 

@@ -1,4 +1,5 @@
 ---
+title: IMO 1960 (II International Olympiad)
 tipo: gara
 src_id: src_imho_1960
 competition: IMO 1960 (II International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1960
   - gara/individuale
 ---
-
-# IMO 1960 (II International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1960_eng.pdf` · apri PDF
 

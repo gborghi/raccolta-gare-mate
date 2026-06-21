@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1990 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_1990__Q06
 parent: src_rmo_1990
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1990 — Quesito 6
 
 *50-digit number divisible by 13; find 26th digit given all others are 1*
 

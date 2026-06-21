@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q15
 parent: src_kangourou_2003_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 15
 
 *cerchio meno quadrato inscritto*
 

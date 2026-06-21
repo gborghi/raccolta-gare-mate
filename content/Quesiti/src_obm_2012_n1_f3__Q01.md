@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_obm_2012_n1_f3__Q01
 parent: src_obm_2012_n1_f3
@@ -39,8 +40,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 1
 
 *Form two 4-digit numbers using digits 1 to 8 once each; maximize the difference (find their sum) and minimize the sum (find the smallest possible difference).*
 

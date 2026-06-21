@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q17
 parent: src_archimede_2000_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 17
 
 *Divisori di 2^48-1 compresi tra 60 e 70*
 

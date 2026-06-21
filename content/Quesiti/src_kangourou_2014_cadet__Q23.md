@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q23
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 23
 
 *Area del trapezio dai triangoli delle diagonali*
 

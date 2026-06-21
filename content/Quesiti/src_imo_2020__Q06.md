@@ -1,4 +1,5 @@
 ---
+title: IMO 2020 papers — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_2020__Q06
 parent: src_imo_2020
@@ -27,8 +28,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 2020 papers — Quesito 6
 
 *Retta separante con distanza >=c·n^(-1/3)*
 

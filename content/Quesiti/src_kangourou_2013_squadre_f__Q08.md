@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q08
 parent: src_kangourou_2013_squadre_f
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Finale — Quesito 8
 
 *Quanti minuti ha camminato Emma (ora solare)*
 

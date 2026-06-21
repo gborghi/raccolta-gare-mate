@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Student — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_student_semif__Q10
 parent: src_kangourou_2018_student_semif
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Student — Quesito 10
 
 *Rapporto lunghezza fune / pezzo piu corto (dischi)*
 

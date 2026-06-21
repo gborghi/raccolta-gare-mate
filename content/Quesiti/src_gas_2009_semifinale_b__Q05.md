@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale B — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_b__Q05
 parent: src_gas_2009_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale B — Quesito 5
 
 *Prodotto (alpha-1)(beta-1) radici polinomio quadratico*
 

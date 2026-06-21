@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_ioqm_2022__Q06
 parent: src_ioqm_2022
@@ -31,8 +32,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 6
 
 *Positive integers a,b with a^3-b^3-ab=25, find largest a^2+b^3*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo10mq_honsen__Q05
 parent: src_jjmo10mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 5
 
 *Repeated card draws; find smallest n so k-th sum is always even*
 

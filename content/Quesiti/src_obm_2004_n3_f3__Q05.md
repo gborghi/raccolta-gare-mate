@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2004_n3_f3__Q05
 parent: src_obm_2004_n3_f3
@@ -37,8 +38,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 5
 
 *Sequence with a_n·a_{n+4}=a_{n+1}a_{n+3}+a_{n+2}^2 and initial 1s; show all terms are integers*
 

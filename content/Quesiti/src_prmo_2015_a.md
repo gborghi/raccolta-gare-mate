@@ -1,4 +1,5 @@
 ---
+title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A
 tipo: gara
 src_id: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A
@@ -16,8 +17,6 @@ tags:
   - gara/individuale
   - regione/a
 ---
-
-# Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A
 
 Sorgente: apri PDF
 

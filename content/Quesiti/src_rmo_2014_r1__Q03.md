@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2014 — Region 1 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2014_r1__Q03
 parent: src_rmo_2014_r1
@@ -31,8 +32,6 @@ tags:
   - regione/r1
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2014 — Region 1 — Quesito 3
 
 *Digits of 2^r permuted give 2^s; prove r=s*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q21
 parent: src_kangourou_2017_cadet_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 21
 
 *Affermazione vera sull'intersezione di due triangoli*
 

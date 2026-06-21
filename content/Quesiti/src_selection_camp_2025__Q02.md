@@ -1,4 +1,5 @@
 ---
+title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_selection_camp_2025__Q02
 parent: src_selection_camp_2025
@@ -29,8 +30,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Japan IMO Selection Camp 2025 — Selection Camp — Quesito 2
 
 *Triangle, incircle tangency construction; prove two lines parallel*
 

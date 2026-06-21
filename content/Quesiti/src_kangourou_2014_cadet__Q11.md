@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Cadet — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_cadet__Q11
 parent: src_kangourou_2014_cadet
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Cadet — Quesito 11
 
 *Settimane del periodo con 15 lezioni di differenza*
 

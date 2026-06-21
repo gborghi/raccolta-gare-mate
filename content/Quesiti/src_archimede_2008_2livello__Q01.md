@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_2livello__Q01
 parent: src_archimede_2008_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 1
 
 *Combinazioni di cassaforte a 5 cifre con vincoli di parità*
 

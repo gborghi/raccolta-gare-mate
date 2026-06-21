@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo22mq_honsen__Q05
 parent: src_jmo22mq_honsen
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 5
 
 *Grid game: find all k for which A wins in finitely many moves*
 

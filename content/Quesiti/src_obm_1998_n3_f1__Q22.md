@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
 quesito_id: quesito_src_obm_1998_n3_f1__Q22
 parent: src_obm_1998_n3_f1
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 22
 
 *Ferries take 25 min and launches 15 min from Rio to Niteroi; find when the ferry that left at 10h01 is overtaken by the launch that left at 10h07.*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q18
 parent: src_kangourou_2013_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 18
 
 *Numeri diversi nella griglia 4x4 con celle adiacenti che differiscono di 1*
 

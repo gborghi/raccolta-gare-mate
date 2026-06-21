@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Junior 2024 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_junior__Q13
 parent: src_kangourou_2024_junior
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou Categoria Junior 2024 — Quesito 13
 
 *Rapporto tra corona nera in fig1 e regione nera in fig2*
 

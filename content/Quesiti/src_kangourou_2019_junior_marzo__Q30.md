@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q30
 parent: src_kangourou_2019_junior_marzo
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara marzo Junior (biennio) — Quesito 30
 
 *Quanti N di 4 cifre con un numero di 3 cifre divisore di N*
 

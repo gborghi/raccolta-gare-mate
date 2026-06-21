@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Student (20 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_student__Q06
 parent: src_kangourou_2003_student
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2003 Student (20 marzo) — Quesito 6
 
 *Studenti promossi nel 2003 da medie*
 

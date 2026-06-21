@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 1997 - Biennio — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_1997_biennio__Q17
 parent: src_archimede_1997_biennio
@@ -27,8 +28,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Giochi di Archimede 1997 - Biennio — Quesito 17
 
 *Valore f(1) data una relazione funzionale*
 

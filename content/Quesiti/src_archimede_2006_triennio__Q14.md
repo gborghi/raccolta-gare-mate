@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Triennio — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_triennio__Q14
 parent: src_archimede_2006_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Triennio — Quesito 14
 
 *Raggio del gettone centrale tra sei gettoni esagonali*
 

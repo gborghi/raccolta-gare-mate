@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_1999_n1_f1__Q06
 parent: src_obm_1999_n1_f1
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 6
 
 *Count two-digit primes whose predecessor is a perfect square.*
 

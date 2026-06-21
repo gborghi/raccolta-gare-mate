@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2014 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_archimede_2014_classiprime__Q04
 parent: src_archimede_2014_classiprime
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2014 — Quesito 4
 
 *Minimo banane per pirata divisibili tra pirati e sirene (mcm)*
 

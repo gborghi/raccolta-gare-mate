@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_archimede_2021_2livello__Q17
 parent: src_archimede_2021_2livello
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Archimede Gara di Febbraio 2021 - 2° livello — Quesito 17
 
 *Griglia a spirale, forzieri raggiungibili, numero finito*
 

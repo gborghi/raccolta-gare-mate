@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q07
 parent: src_kangourou_2019_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 7
 
 *Cifra delle centinaia di 2019xN dati i divisori di 3N e 5N*
 

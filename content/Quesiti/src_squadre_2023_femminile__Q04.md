@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_femminile__Q04
 parent: src_squadre_2023_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2023 - VI Finale — Quesito 4
 
 *Angolo ABC con ortocentro su AC perpendicolare a BH*
 

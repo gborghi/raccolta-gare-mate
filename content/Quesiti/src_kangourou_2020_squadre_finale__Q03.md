@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa squadre 2020 Finale — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q03
 parent: src_kangourou_2020_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Kangourou Coppa squadre 2020 Finale — Quesito 3
 
 *Tra quanti numeri deve indovinare Dario la somma*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2010 squadre finale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q14
 parent: src_kangourou_2010_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2010 squadre finale — Quesito 14
 
 *Perimetro rettangoli in regione 2010 m2 con 7 quadrati*
 

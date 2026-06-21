@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Classi Prime 2017 — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_garaprime_2017__Q10
 parent: src_garaprime_2017
@@ -25,8 +26,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Gara Nazionale Classi Prime 2017 — Quesito 10
 
 *PIN 41a9b divisibile per 312, prodotto a*b*
 

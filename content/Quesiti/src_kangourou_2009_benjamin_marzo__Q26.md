@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 26
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q26
 parent: src_kangourou_2009_benjamin_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 26
 
 *Numero iniziale per arrivare a 2009 (cammini)*
 

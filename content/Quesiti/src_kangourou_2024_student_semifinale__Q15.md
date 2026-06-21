@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2024 Student semifinale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q15
 parent: src_kangourou_2024_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2024 Student semifinale — Quesito 15
 
 *Minimo n con area AnBnC < 10 in triangolo rettangolo*
 

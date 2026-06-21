@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
 tipo: gara
 src_id: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -15,8 +16,6 @@ tags:
   - anno/2018
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1986-87 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1986-87_round1__Q01
 parent: src_bmo_1986-87_round1
@@ -30,8 +31,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1986-87 — Round 1 — Quesito 1
 
 *Integer solutions of two Diophantine equations*
 

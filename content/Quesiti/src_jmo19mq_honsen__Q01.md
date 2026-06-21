@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_jmo19mq_honsen__Q01
 parent: src_jmo19mq_honsen
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 1
 
 *Find all positive integers n with 2^n+n dividing 8^n+n^n*
 

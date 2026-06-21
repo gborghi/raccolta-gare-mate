@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Finale nazionale Student
 tipo: gara
 src_id: src_kangourou_2019_student_finale
 competition: Kangourou 2019 Finale nazionale Student
@@ -15,8 +16,6 @@ tags:
   - anno/2019
   - gara/individuale
 ---
-
-# Kangourou 2019 Finale nazionale Student
 
 Sorgente: `Kangaroo/kangourou_individuali/2019/S-settembre19.pdf` · apri PDF
 

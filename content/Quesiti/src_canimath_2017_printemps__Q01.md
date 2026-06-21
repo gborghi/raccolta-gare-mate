@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2017 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_canimath_2017_printemps__Q01
 parent: src_canimath_2017_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2017 — Quesito 1
 
 *Find three positive integers satisfying two linear conditions*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2011 - Gara a squadre
 tipo: gara
 src_id: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/squadre
 ---
-
-# Coppa Fermat 2011 - Gara a squadre
 
 Sorgente: `Archimede/squadre/locale/soluzioni/GS_2011_soluzioni.pdf` · apri PDF
 

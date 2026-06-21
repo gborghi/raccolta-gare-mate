@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q15
 parent: src_kangourou_2024_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 15
 
 *Quanti numeri diversi coperti dai 16 cerchietti (5 e 13)*
 

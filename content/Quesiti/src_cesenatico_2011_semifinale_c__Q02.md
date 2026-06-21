@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q02
 parent: src_cesenatico_2011_semifinale_c
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 2
 
 *Galli colpiti in media (cerchi tangenti in ottagono)*
 

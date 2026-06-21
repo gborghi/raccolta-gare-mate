@@ -1,4 +1,5 @@
 ---
+title: IX Gara Nazionale Classi Prime 2024 — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_garaprime_2024__Q18
 parent: src_garaprime_2024
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IX Gara Nazionale Classi Prime 2024 — Quesito 18
 
 *Massimo dei tre numeri data la somma combinata 396*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2019 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_printemps__Q06
 parent: src_canimath_2019_printemps
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2019 — Quesito 6
 
 *Parallelogram; CP=CB; midpoints M of AP, N of CD; show BP perpendicular to MN*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Ecolier (gara marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_ecolier__Q04
 parent: src_kangourou_2011_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Ecolier (gara marzo) — Quesito 4
 
 *Minuti per decorare torte e panettoni con due persone*
 

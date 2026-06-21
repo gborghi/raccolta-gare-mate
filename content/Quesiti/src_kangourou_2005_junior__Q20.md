@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Junior (marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_junior__Q20
 parent: src_kangourou_2005_junior
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2005 - Junior (marzo) — Quesito 20
 
 *Valore a_2005 in successione a_n=a_{n-1}-a_{n-2}*
 

@@ -1,4 +1,5 @@
 ---
+title: Gara Nazionale Cesenatico 2000 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2000__Q03
 parent: src_cesenatico_2000
@@ -23,8 +24,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Gara Nazionale Cesenatico 2000 — Quesito 3
 
 *Sequenza geocaching Alberto e Barbara*
 

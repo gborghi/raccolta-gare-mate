@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni
 tipo: gara
 src_id: src_cesenatico_2012
 competition: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni
 
 Sorgente: `Archimede/individuale/nazionale/2012/Cesenatico2012.pdf` · apri PDF
 

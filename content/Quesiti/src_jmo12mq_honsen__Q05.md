@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jmo12mq_honsen__Q05
 parent: src_jmo12mq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 5
 
 *Max n guaranteeing a point-rich axis-aligned rectangle*
 

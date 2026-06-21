@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 1994 — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_rmo_1994__Q08
 parent: src_rmo_1994
@@ -27,8 +28,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 1994 — Quesito 8
 
 *Prove inequality (1+a)(1+b)(1+c) >= 8(1-a)(1-b)(1-c)*
 

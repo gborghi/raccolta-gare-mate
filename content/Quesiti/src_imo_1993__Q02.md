@@ -1,4 +1,5 @@
 ---
+title: IMO 1993 (34th IMO) — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_imo_1993__Q02
 parent: src_imo_1993
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# IMO 1993 (34th IMO) — Quesito 2
 
 *Compute ratio and prove tangents perpendicular for interior D*
 

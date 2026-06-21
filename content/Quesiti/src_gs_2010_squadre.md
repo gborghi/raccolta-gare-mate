@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2010 - Gara a squadre
 tipo: gara
 src_id: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -15,8 +16,6 @@ tags:
   - anno/2010
   - gara/squadre
 ---
-
-# Coppa Fermat 2010 - Gara a squadre
 
 Sorgente: `Archimede/squadre/locale/soluzioni/GS_2010_soluzioni.pdf` · apri PDF
 

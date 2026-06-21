@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2022_n2_fx__Q04
 parent: src_obm_2022_n2_fx
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 4
 
 *Parallel tangent line and inscribed circle in triangle; find perimeter given AQ=1*
 

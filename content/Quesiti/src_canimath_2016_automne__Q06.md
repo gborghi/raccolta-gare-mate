@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2016 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2016_automne__Q06
 parent: src_canimath_2016_automne
@@ -35,8 +36,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2016 — Quesito 6
 
 *Find all n≥3 integers placeable on a circle so each equals product of two neighbours*
 

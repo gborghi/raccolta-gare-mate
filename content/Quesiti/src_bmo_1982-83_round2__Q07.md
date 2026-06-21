@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1982-83 — Round 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_bmo_1982-83_round2__Q07
 parent: src_bmo_1982-83_round2
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1982-83 — Round 2 — Quesito 7
 
 *In a colony of mn+1 mice prove Dilworth-type antichain or chain exists*
 

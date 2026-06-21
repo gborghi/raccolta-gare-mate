@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q16
 parent: src_archimede_2024_biennio_rec
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 16
 
 *Lunghezza PC' da distanze di punto interno ai lati*
 

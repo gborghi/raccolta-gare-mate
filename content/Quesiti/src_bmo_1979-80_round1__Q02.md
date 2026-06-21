@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1979-80 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1979-80_round1__Q02
 parent: src_bmo_1979-80_round1
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1979-80 — Round 1 — Quesito 2
 
 *Find 7 consecutive integers with a degree-5 integer-coefficient polynomial vanishing on 5 of them*
 

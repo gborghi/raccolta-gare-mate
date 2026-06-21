@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Junior — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q04
 parent: src_kangourou_2019_junior_semifinale
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Junior — Quesito 4
 
 *Probabilita che un palindromo di 4 cifre sia divisibile per 7*
 

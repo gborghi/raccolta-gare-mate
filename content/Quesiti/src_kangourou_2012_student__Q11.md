@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 marzo Student — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student__Q11
 parent: src_kangourou_2012_student
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2012 marzo Student — Quesito 11
 
 *Angolo phi nella stella regolare a 5 punte*
 

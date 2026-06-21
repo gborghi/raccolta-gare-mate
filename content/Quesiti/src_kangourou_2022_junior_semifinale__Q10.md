@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Junior — Semifinale individuale — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q10
 parent: src_kangourou_2022_junior_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Junior — Semifinale individuale — Quesito 10
 
 *Cifre del quoziente di 111222...999 diviso 111*
 

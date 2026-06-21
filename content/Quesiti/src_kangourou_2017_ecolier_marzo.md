@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo)
 tipo: gara
 src_id: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -15,8 +16,6 @@ tags:
   - anno/2017
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo)
 
 Sorgente: `Kangaroo/kangourou_individuali/2017/EMarzo-17.pdf` · apri PDF
 

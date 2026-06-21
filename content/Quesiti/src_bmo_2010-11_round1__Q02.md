@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2010-11 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_2010-11_round1__Q02
 parent: src_bmo_2010-11_round1
@@ -31,8 +32,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2010-11 — Round 1 — Quesito 2
 
 *Cube side a with square hole; volume equals surface area numerically*
 

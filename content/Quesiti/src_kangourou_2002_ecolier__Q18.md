@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2002_ecolier__Q18
 parent: src_kangourou_2002_ecolier
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2002 - Ecolier (21 marzo) — Quesito 18
 
 *Cubetti del tunnel non usati nella piramide*
 

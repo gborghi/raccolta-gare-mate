@@ -1,4 +1,5 @@
 ---
+title: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2019__Q05
 parent: src_cesenatico_2019
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 5
 
 *AX perpendicolare a XC*
 

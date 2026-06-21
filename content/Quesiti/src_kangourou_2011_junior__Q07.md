@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Junior (gara marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_junior__Q07
 parent: src_kangourou_2011_junior
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Junior (gara marzo) — Quesito 7
 
 *Posizione di 2011 nella lista decrescente somma cifre 4*
 

@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1993 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_inmo_1993__Q01
 parent: src_inmo_1993
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1993 — Quesito 1
 
 *Diagonals of cyclic quadrilateral; circumcentre and orthocentre collinear*
 

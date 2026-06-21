@@ -1,4 +1,5 @@
 ---
+title: IMO compilation 1959-2013 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_compilation__Q05
 parent: src_imo_compilation
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO compilation 1959-2013 — Quesito 5
 
 *IMO 1997 problema 5*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 29
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_benjamin__Q29
 parent: src_kangourou_2003_benjamin
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2003 - Benjamin (20 marzo) — Quesito 29
 
 *Mentitori reali nel gruppo di 4*
 

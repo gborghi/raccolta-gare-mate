@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 Benjamin finale (maggio)
 tipo: gara
 src_id: src_kangourou_2008_benjamin_maggio
 competition: Kangourou 2008 Benjamin finale (maggio)
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Kangourou 2008 Benjamin finale (maggio)
 
 Sorgente: `Kangaroo/kangourou_individuali/2008/BMaggio-08.pdf` · apri PDF
 

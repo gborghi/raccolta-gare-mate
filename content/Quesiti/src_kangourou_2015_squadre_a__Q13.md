@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q13
 parent: src_kangourou_2015_squadre_a
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Semifinale A — Quesito 13
 
 *Somma cifre del quadrato di 99...9 (99 noni)*
 

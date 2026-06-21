@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2004 Benjamin finale nazionale — Quesito B3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB3
 parent: src_kangourou_2004_benjamin_finale
@@ -26,8 +27,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Kangourou 2004 Benjamin finale nazionale — Quesito B3
 
 *Inclusioni tra insiemi di quadrilateri*
 

@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1988 (29th IMO, Canberra)'
 tipo: gara
 src_id: src_imo_1988
 competition: 'IMO 1988 (29th IMO, Canberra)'
@@ -15,8 +16,6 @@ tags:
   - anno/1988
   - gara/individuale
 ---
-
-# IMO 1988 (29th IMO, Canberra)
 
 Sorgente: `Archimede/individuale/imho/all/1988_eng.pdf` · apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2012 - Triennio
 tipo: gara
 src_id: src_archimede_2012_triennio
 competition: Giochi di Archimede 2012 - Triennio
@@ -15,8 +16,6 @@ tags:
   - anno/2012
   - gara/individuale
 ---
-
-# Giochi di Archimede 2012 - Triennio
 
 Sorgente: `Archimede/individuale/1livello/2012/soluzioni-triennio.pdf` · apri PDF
 

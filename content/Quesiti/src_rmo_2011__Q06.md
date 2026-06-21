@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2011 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2011__Q06
 parent: src_rmo_2011
@@ -30,8 +31,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2011 — Quesito 6
 
 *Find all real pairs (x,y) satisfying an exponential equation*
 

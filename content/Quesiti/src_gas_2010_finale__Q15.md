@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2010 - Finale Nazionale — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_gas_2010_finale__Q15
 parent: src_gas_2010_finale
@@ -27,8 +28,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre 2010 - Finale Nazionale — Quesito 15
 
 *Conteggio interi esprimibili come [2x]+[4x]+[8x]+[12x]*
 

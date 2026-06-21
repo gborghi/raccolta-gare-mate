@@ -1,4 +1,5 @@
 ---
+title: 'IMO 1995 (36th IMO, Toronto) — Quesito 3'
 tipo: quesito
 quesito_id: quesito_src_imo_1995__Q03
 parent: src_imo_1995
@@ -25,8 +26,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# IMO 1995 (36th IMO, Toronto) — Quesito 3
 
 *Determine n with point areas equal to ri+rj+rk*
 

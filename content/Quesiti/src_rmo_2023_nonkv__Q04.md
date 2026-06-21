@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_rmo_2023_nonkv__Q04
 parent: src_rmo_2023_nonkv
@@ -34,8 +35,6 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2023 — Non-KV — Quesito 4
 
 *Two intersecting circles; perpendicular bisectors and collinearity of midpoints*
 

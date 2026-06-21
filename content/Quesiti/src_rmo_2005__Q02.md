@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2005 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_rmo_2005__Q02
 parent: src_rmo_2005
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2005 — Quesito 2
 
 *Integers x,y: 17 divides two expressions implies 17 divides third*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 squadre finale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q02
 parent: src_kangourou_2011_squadre_finale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou 2011 squadre finale — Quesito 2
 
 *Coppie di rette sghembe tra spigoli di un cubo*
 

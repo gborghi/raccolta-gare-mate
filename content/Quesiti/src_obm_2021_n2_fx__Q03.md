@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_obm_2021_n2_fx__Q03
 parent: src_obm_2021_n2_fx
@@ -38,8 +39,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 3
 
 *Round-robin with 2021 teams, 3/1/0 scoring; top two play the final, OBM has the tiebreak advantage and won its first match. Find the minimum final score giving a chance at the final*
 

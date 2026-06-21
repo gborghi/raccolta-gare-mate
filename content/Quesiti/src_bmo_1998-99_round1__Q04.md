@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1998-99 — Round 1 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_bmo_1998-99_round1__Q04
 parent: src_bmo_1998-99_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1998-99 — Round 1 — Quesito 4
 
 *Base-3 digit cube sum iteration eventually reaches 1, 2, or 17*
 

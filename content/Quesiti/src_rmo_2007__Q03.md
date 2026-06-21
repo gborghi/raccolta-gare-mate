@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2007 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_rmo_2007__Q03
 parent: src_rmo_2007
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2007 — Quesito 3
 
 *Find all real pairs (a,b) so a root of x^2+ax+b implies a^2-2 is also root*
 

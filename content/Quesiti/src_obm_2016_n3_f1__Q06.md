@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2016_n3_f1__Q06
 parent: src_obm_2016_n3_f1
@@ -37,8 +38,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 6
 
 *Maximizing x+9 where x,y count odd/even numbers in a 10-number list satisfying a parity-pair equation*
 

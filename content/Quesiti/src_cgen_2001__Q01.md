@@ -1,4 +1,5 @@
 ---
+title: Concours Général des Lycées 2001 — Matematica — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_cgen_2001__Q01
 parent: src_cgen_2001
@@ -46,8 +47,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Concours Général des Lycées 2001 — Matematica — Quesito 1
 
 *Single problem (Exercice 1) in four parts on 'trios' (a,b,c) with ab+bc+ca=0: geometric loci, integer/primitive trios and counting, a star-product of trios via complex numbers, and the arithmetic of integers represented by u^2+3v^2.*
 

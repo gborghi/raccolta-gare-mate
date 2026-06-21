@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Biennio — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_biennio__Q03
 parent: src_archimede_2026_biennio
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Biennio — Quesito 3
 
 *Biglie gialle minime per superare il 20%*
 

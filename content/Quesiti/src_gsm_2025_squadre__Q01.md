@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_gsm_2025_squadre__Q01
 parent: src_gsm_2025_squadre
@@ -30,8 +31,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 1
 
 *Probabilita di accendere la luce con otto interruttori*
 

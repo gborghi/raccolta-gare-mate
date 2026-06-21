@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_obm_2011_n3_f2__Q06
 parent: src_obm_2011_n3_f2
@@ -32,8 +33,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 6
 
 *Triangle ABC with angle A=45°; circle on diameter BC meets AB, AC at D, E; distance from midpoint of BC to line DE*
 

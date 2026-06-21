@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Ecolier — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_ecolier__Q06
 parent: src_kangourou_2013_ecolier
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Ecolier — Quesito 6
 
 *Quale numero di amici non divide 36*
 

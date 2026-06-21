@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2006 - Gara Triennio — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_archimede_2006_triennio__Q10
 parent: src_archimede_2006_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Giochi di Archimede 2006 - Gara Triennio — Quesito 10
 
 *Ordinare radici 2*2^(1/6), radice 5, 11^(1/3)*
 

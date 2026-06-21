@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 17
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q17
 parent: src_kangourou_2024_benjamin_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Benjamin 2024 — Quesito 17
 
 *Prodotto del primo e ultimo intero con cubi consecutivi = 2024*
 

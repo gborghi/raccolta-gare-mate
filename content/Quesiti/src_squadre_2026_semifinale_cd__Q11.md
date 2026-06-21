@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q11
 parent: src_squadre_2026_semifinale_cd
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
-
-# Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 11
 
 *Volume coppa da sviluppo con esagoni*
 

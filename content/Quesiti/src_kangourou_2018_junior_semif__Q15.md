@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2018 Semifinale Junior — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q15
 parent: src_kangourou_2018_junior_semif
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2018 Semifinale Junior — Quesito 15
 
 *Minimo valore tra quelli assegnati ai punti a media*
 

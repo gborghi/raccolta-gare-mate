@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2016 Student (gara marzo) — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q24
 parent: src_kangourou_2016_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2016 Student (gara marzo) — Quesito 24
 
 *Distanza di P da A, incentro di triangolo rettangolo*
 

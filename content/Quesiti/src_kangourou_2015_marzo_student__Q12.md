@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2015 gara 19 marzo Student — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q12
 parent: src_kangourou_2015_marzo_student
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
-
-# Kangourou 2015 gara 19 marzo Student — Quesito 12
 
 *Parti del piano divise da asse x e due parabole*
 

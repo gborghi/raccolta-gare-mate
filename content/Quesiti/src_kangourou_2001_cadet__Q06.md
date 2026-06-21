@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2001 - Cadet (15 marzo) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_kangourou_2001_cadet__Q06
 parent: src_kangourou_2001_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2001 - Cadet (15 marzo) — Quesito 6
 
 *Minimo prodotto di due numeri dell'insieme*
 

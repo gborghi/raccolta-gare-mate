@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q04
 parent: src_kangourou_2016_squadre_a
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2016 Semifinale A — Quesito 4
 
 *N con 6 divisori, prodotto di 5 = 5000*
 

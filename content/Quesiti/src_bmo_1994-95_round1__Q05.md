@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1994-95 — Round 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_bmo_1994-95_round1__Q05
 parent: src_bmo_1994-95_round1
@@ -32,8 +33,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1994-95 — Round 1 — Quesito 5
 
 *Seven dwarfs queue by height rule; count valid queues with and without Snow White*
 

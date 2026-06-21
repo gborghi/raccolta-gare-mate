@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2023 - Gara Triennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2023_triennio__Q09
 parent: src_archimede_2023_triennio
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Giochi di Archimede 2023 - Gara Triennio — Quesito 9
 
 *Sequenze di 5 interi con abcde+15=0*
 

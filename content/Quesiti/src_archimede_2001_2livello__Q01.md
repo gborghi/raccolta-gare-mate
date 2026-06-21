@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2º livello 2001 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_2livello__Q01
 parent: src_archimede_2001_2livello
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Archimede Gara 2º livello 2001 — Quesito 1
 
 *Viaggi uguali per due autocarri a trasportare la sabbia*
 

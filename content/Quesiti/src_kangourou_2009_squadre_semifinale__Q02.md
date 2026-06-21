@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2009 squadre semifinale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q02
 parent: src_kangourou_2009_squadre_semifinale
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Kangourou 2009 squadre semifinale — Quesito 2
 
 *Percentuale di quadrati perfetti da 1 a 10000*
 

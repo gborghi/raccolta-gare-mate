@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round2__Q07
 parent: src_bmo_1980-81_round2
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 2 — Quesito 7
 
 *8x>=7y for non-negative integers iff decomposition x=a+2b+3c+7d, y=b+2c+5d exists*
 

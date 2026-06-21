@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q20
 parent: src_kangourou_2008_cadet_marzo
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 20
 
 *Minimo punti su retta per realizzare 9 distanze*
 

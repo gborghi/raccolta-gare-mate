@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jjmo18hq_honsen__Q03
 parent: src_jjmo18hq_honsen
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 3
 
 *Triples with lcm equal to (ab+bc+ca)/4*
 

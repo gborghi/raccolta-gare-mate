@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2009 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2009_printemps__Q06
 parent: src_canimath_2009_printemps
@@ -32,8 +33,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2009 — Quesito 6
 
 *Prove chain of inequalities among four classical means of two positive reals*
 

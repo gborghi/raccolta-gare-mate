@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q02
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 2
 
 *Frazione area esagono accessibile al centro della moneta*
 

@@ -1,4 +1,5 @@
 ---
+title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_squadre__Q11
 parent: src_archimede_2001_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 11
 
 *raggio minimo cono*
 

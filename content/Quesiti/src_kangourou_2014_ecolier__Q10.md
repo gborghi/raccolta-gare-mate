@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2014 marzo Ecolier — Quesito 10
 tipo: quesito
 quesito_id: quesito_src_kangourou_2014_ecolier__Q10
 parent: src_kangourou_2014_ecolier
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2014 marzo Ecolier — Quesito 10
 
 *Vista dall'alto del solido di 8 cubi*
 

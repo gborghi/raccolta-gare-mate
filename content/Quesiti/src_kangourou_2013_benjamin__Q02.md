@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Benjamin — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_benjamin__Q02
 parent: src_kangourou_2013_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Benjamin — Quesito 2
 
 *Quanti cubetti mancano per costruire il cubo grande*
 

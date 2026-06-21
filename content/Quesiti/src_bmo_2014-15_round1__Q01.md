@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2014-15 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_2014-15_round1__Q01
 parent: src_bmo_2014-15_round1
@@ -29,8 +30,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2014-15 — Round 1 — Quesito 1
 
 *Order five tower-exponential numbers by size*
 

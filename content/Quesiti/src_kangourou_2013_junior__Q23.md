@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Junior — Quesito 23
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_junior__Q23
 parent: src_kangourou_2013_junior
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Junior — Quesito 23
 
 *Minimo m con angoli m,2m,3m... attorno a O*
 

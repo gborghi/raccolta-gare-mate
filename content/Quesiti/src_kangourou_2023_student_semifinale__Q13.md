@@ -1,4 +1,5 @@
 ---
+title: Kangourou Semifinale individuale Student 2023 — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q13
 parent: src_kangourou_2023_student_semifinale
@@ -25,8 +26,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Kangourou Semifinale individuale Student 2023 — Quesito 13
 
 *Minimo k con (x^2+y^2+z^2)^2 <= k(x^4+y^4+z^4)*
 

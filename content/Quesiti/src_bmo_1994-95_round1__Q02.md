@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1994-95 — Round 1 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1994-95_round1__Q02
 parent: src_bmo_1994-95_round1
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1994-95 — Round 1 — Quesito 2
 
 *Regular octagon with side 2; midpoints of two sides; find length XY*
 

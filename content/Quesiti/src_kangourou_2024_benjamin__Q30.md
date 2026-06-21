@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Benjamin 2024 — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_benjamin__Q30
 parent: src_kangourou_2024_benjamin
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou Categoria Benjamin 2024 — Quesito 30
 
 *Quale cifra ha aggiunto Biagio (aumento di 2024)*
 

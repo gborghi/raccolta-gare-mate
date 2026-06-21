@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Junior - Semifinale individuale — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q18
 parent: src_kangourou_2017_junior_semifinale
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2017 Junior - Semifinale individuale — Quesito 18
 
 *Probabilita derangement di 5 cappelli*
 

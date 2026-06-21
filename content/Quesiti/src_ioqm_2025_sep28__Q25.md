@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 25
 tipo: quesito
 quesito_id: quesito_src_ioqm_2025_sep28__Q25
 parent: src_ioqm_2025_sep28
@@ -33,8 +34,6 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 25
 
 *Count natural numbers n ≤ 10^5 with 7 | 2^n - n²*
 

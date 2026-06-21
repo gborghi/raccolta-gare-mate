@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2021 Ecolier - finale — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q08
 parent: src_kangourou_2021_ecolier_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2021 Ecolier - finale — Quesito 8
 
 *Minima somma di 100 interi con prodotto 100*
 

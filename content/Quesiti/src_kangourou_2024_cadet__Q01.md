@@ -1,4 +1,5 @@
 ---
+title: Kangourou Categoria Cadet 2024 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2024_cadet__Q01
 parent: src_kangourou_2024_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou Categoria Cadet 2024 — Quesito 1
 
 *Quale cordino chiuso non puo essere disposto a 8*
 

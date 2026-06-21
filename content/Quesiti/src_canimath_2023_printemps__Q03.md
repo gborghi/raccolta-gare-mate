@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2023 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_canimath_2023_printemps__Q03
 parent: src_canimath_2023_printemps
@@ -34,8 +35,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2023 — Quesito 3
 
 *In a 5x5 grid of 25 white cells, find the smallest number of cells to color red so that every 2x3 and 3x2 rectangle contains at least one red cell.*
 

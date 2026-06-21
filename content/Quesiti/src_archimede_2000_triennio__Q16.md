@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2000 - Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2000_triennio__Q16
 parent: src_archimede_2000_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2000 - Triennio — Quesito 16
 
 *Diametro cilindro misurato con calibro a becchi corti*
 

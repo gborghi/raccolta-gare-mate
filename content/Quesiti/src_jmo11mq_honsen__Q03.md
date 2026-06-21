@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_jmo11mq_honsen__Q03
 parent: src_jmo11mq_honsen
@@ -32,8 +33,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 3
 
 *For non-negative reals with a≥b≥c≥0, prove (a+b+c)(a³+b³+c³)≤4(a⁶+b⁶+c⁶); find equality cases*
 

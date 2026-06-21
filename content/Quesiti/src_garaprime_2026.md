@@ -1,4 +1,5 @@
 ---
+title: XI Gara Nazionale Classi Prime 2026
 tipo: gara
 src_id: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -15,8 +16,6 @@ tags:
   - anno/2026
   - gara/individuale
 ---
-
-# XI Gara Nazionale Classi Prime 2026
 
 Sorgente: `Archimede/individuale/classi prime/2026/Testo-gara-prime-2026.pdf` · apri PDF
 

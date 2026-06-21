@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q11
 parent: src_archimede_2025_squadre_finale
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 11
 
 *Da relazione su a calcolare (a^3+1)/(a+1)^3*
 

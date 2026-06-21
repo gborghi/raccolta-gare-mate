@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2013 Finale — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q05
 parent: src_kangourou_2013_squadre_f
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2013 Finale — Quesito 5
 
 *Area triangolo PQT in rettangolo con punti medi*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Pre - gara marzo — Quesito 8
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q08
 parent: src_kangourou_2020_pre_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2020 Pre - gara marzo — Quesito 8
 
 *Colori dei nastri della treccia per numeri 1,2,3*
 

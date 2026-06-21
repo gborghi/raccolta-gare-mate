@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Cadet (Mirabilandia)
 tipo: gara
 src_id: src_kangourou_2011_cadet_finale
 competition: Kangourou 2011 Finale Cadet (Mirabilandia)
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Cadet (Mirabilandia)
 
 Sorgente: `Kangaroo/kangourou_individuali/2011/CMaggio-11.pdf` · apri PDF
 

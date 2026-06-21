@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2026 - Triennio — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_archimede_2026_triennio__Q15
 parent: src_archimede_2026_triennio
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2026 - Triennio — Quesito 15
 
 *Triangolo isoscele con BC=BP, rapporto BC/AB e parallelogramma*
 

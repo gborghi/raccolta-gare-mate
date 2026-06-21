@@ -1,4 +1,5 @@
 ---
+title: IMO 1966 (Eighth International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1966_all__Q05
 parent: src_imo_1966_all
@@ -25,8 +26,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# IMO 1966 (Eighth International Olympiad) — Quesito 5
 
 *Solve linear system with absolute-value coefficients*
 

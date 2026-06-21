@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2007 - Gara Triennio — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2007_triennio__Q16
 parent: src_archimede_2007_triennio
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2007 - Gara Triennio — Quesito 16
 
 *Velocita di Marco da allineamento con palo e Andrea*
 

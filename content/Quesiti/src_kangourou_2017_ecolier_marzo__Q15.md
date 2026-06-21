@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Écolier (gara marzo) — Quesito 15
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q15
 parent: src_kangourou_2017_ecolier_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2017 Écolier (gara marzo) — Quesito 15
 
 *Numero nel cerchio col punto di domanda (catena operazioni)*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1985-86 — Round 2 — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_bmo_1985-86_round2__Q02
 parent: src_bmo_1985-86_round2
@@ -31,8 +32,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1985-86 — Round 2 — Quesito 2
 
 *Greatest value of $x^2y + y^2z + z^2x$ subject to two constraints*
 

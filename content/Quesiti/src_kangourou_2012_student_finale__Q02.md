@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 finale nazionale Student — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_student_finale__Q02
 parent: src_kangourou_2012_student_finale
@@ -25,8 +26,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2012 finale nazionale Student — Quesito 2
 
 *Fila di dadi con somma facce esposte uguale a 2012*
 

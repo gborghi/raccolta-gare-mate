@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2013 marzo Cadet — Quesito 27
 tipo: quesito
 quesito_id: quesito_src_kangourou_2013_cadet__Q27
 parent: src_kangourou_2013_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Kangourou 2013 marzo Cadet — Quesito 27
 
 *Somma primi 2013 termini di successione di prodotti*
 

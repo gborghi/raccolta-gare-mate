@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 1999
 tipo: gara
 src_id: src_inmo_1999
 competition: Indian National Mathematical Olympiad 1999
@@ -15,8 +16,6 @@ tags:
   - anno/1999
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 1999
 
 Sorgente: apri PDF
 

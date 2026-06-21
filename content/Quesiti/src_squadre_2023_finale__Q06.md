@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2023 - Finale Nazionale — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_squadre_2023_finale__Q06
 parent: src_squadre_2023_finale
@@ -24,8 +25,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2023 - Finale Nazionale — Quesito 6
 
 *Modi di distribuire 5+4+3 stuzzichini a 4 persone*
 

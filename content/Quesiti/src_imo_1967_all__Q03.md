@@ -1,4 +1,5 @@
 ---
+title: IMO 1967 (Ninth International Olympiad) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_imo_1967_all__Q03
 parent: src_imo_1967_all
@@ -23,8 +24,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# IMO 1967 (Ninth International Olympiad) — Quesito 3
 
 *Prove product of differences divisible by product of c_i*
 

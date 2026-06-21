@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_obm_2007_n3_f1__Q12
 parent: src_obm_2007_n3_f1
@@ -34,8 +35,6 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 12
 
 *Right-triangle road network; detour 24% longer; bound tan of smallest angle*
 

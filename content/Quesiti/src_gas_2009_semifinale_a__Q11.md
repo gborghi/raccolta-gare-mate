@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 11
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q11
 parent: src_gas_2009_semifinale_a
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 11
 
 *Numero di sovrapposizioni di tre sfere su circonferenza*
 

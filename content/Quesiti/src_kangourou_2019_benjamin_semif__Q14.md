@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Benjamin — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q14
 parent: src_kangourou_2019_benjamin_semif
@@ -24,8 +25,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Benjamin — Quesito 14
 
 *Piu piccolo intero non pari, non quadrato, non primo, non mult3*
 

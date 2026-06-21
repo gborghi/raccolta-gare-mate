@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q05
 parent: src_cesenatico_2013_semifinale_b
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 5
 
 *Percorsi Torre 6 mosse svoltando a sinistra*
 

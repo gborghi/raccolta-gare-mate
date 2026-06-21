@@ -1,4 +1,5 @@
 ---
+title: IMO 1967 (Ninth International Olympiad) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_imo_1967_all__Q06
 parent: src_imo_1967_all
@@ -27,8 +28,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# IMO 1967 (Ninth International Olympiad) — Quesito 6
 
 *find number of days and total medals*
 

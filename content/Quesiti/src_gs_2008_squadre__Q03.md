@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q03
 parent: src_gs_2008_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 3
 
 *Numero multiplo di un altro con stesse cifre*
 

@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo9mq_honsen__Q05
 parent: src_jjmo9mq_honsen
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 5
 
 *Arrange 1..n each n times; determine for which n an arrangement avoiding a remainder condition exists*
 

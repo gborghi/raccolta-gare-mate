@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_jjmo22hq_honsen__Q05
 parent: src_jjmo22hq_honsen
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 5
 
 *Similarity of triangles B'C'D' and BCD in acute triangle*
 

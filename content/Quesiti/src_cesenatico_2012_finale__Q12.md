@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2012_finale__Q12
 parent: src_cesenatico_2012_finale
@@ -26,8 +27,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 12
 
 *Le dieci domande autoreferenziali (risposte 2,4,9,10)*
 

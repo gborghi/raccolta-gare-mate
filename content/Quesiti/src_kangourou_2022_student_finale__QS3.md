@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Student — Finale (risposta aperta) — Quesito S3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_student_finale__QS3
 parent: src_kangourou_2022_student_finale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Student — Finale (risposta aperta) — Quesito S3
 
 *due cifre uguali*
 

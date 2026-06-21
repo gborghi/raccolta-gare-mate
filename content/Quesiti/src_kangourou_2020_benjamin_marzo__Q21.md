@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Gara marzo Benjamin — Quesito 21
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q21
 parent: src_kangourou_2020_benjamin_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2020 Gara marzo Benjamin — Quesito 21
 
 *Quale figura mostra il traliccio visto dall alto*
 

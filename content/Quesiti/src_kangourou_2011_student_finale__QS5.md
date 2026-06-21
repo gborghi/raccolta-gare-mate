@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Finale Student (Mirabilandia) — Quesito S5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student_finale__QS5
 parent: src_kangourou_2011_student_finale
@@ -28,8 +29,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2011 Finale Student (Mirabilandia) — Quesito S5
 
 *Per quali m la formica esce dalla scatola piastrellata*
 

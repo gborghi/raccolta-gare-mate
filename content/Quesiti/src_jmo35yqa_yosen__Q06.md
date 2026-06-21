@@ -1,4 +1,5 @@
 ---
+title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_jmo35yqa_yosen__Q06
 parent: src_jmo35yqa_yosen
@@ -34,8 +35,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 6
 
 *Two positive-integer sequences with coupled halving recurrence; count starting pairs (a1,b1) both at most 40*
 

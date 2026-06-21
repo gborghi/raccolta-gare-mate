@@ -1,4 +1,5 @@
 ---
+title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q02
 parent: src_kangourou_2015_squadre_a
@@ -29,8 +30,6 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
-
-# Kangourou Coppa Squadre 2015 Semifinale A — Quesito 2
 
 *Multipli di 9 con quattro cifre dispari distinte*
 

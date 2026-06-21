@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2012 Benjamin (gara marzo) — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_kangourou_2012_benjamin__Q03
 parent: src_kangourou_2012_benjamin
@@ -23,8 +24,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2012 Benjamin (gara marzo) — Quesito 3
 
 *Costo di una barra di cioccolato dato il totale*
 

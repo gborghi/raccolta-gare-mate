@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2001 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2001__Q03
 parent: src_inmo_2001
@@ -28,8 +29,6 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2001 — Quesito 3
 
 *If abc=1 with a,b,c positive reals, prove a^(b+c)·b^(c+a)·c^(a+b)≤1*
 

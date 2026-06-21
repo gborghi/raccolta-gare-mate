@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_obm_2005_n3_f1__Q05
 parent: src_obm_2005_n3_f1
@@ -32,8 +33,6 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
-
-# Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 5
 
 *Find digit n: a multiple of 7 flanked by 2004 and a number of 2005 digits*
 

@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 2011-12 — Round 1
 tipo: gara
 src_id: src_bmo_2011-12_round1
 competition: British Mathematical Olympiad 2011-12 — Round 1
@@ -15,8 +16,6 @@ tags:
   - anno/2011
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 2011-12 — Round 1
 
 Sorgente: apri PDF
 

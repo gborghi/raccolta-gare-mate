@@ -1,4 +1,5 @@
 ---
+title: Coppa Galileo 2013 - Gara a squadre — Quesito 2
 tipo: quesito
 quesito_id: quesito_src_gs_2013_squadre__Q02
 parent: src_gs_2013_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Coppa Galileo 2013 - Gara a squadre — Quesito 2
 
 *Massimo perimetro foglio piegato non quadrato*
 

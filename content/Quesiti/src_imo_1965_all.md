@@ -1,4 +1,5 @@
 ---
+title: IMO 1965 (Seventh International Olympiad)
 tipo: gara
 src_id: src_imo_1965_all
 competition: IMO 1965 (Seventh International Olympiad)
@@ -15,8 +16,6 @@ tags:
   - anno/1965
   - gara/individuale
 ---
-
-# IMO 1965 (Seventh International Olympiad)
 
 Sorgente: `Archimede/individuale/imho/all/1965_eng.pdf` · apri PDF
 

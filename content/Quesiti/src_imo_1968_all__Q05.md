@@ -1,4 +1,5 @@
 ---
+title: IMO 1968 (Tenth International Olympiad) — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_imo_1968_all__Q05
 parent: src_imo_1968_all
@@ -23,8 +24,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# IMO 1968 (Tenth International Olympiad) — Quesito 5
 
 *Prove functional equation implies f periodic; give example*
 

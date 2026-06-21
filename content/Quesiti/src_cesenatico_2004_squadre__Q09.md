@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004_squadre__Q09
 parent: src_cesenatico_2004_squadre
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
-
-# Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 9
 
 *Piu piccolo numero di 3 cifre distinte pari alla media delle permutazioni*
 

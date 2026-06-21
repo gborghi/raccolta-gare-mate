@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 16
 tipo: quesito
 quesito_id: quesito_src_archimede_2011_2livello__Q16
 parent: src_archimede_2011_2livello
@@ -26,8 +27,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 16
 
 *Circonferenza per A',B',X,Y nel triangolo acutangolo*
 

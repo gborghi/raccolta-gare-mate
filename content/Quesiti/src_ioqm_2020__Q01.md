@@ -1,4 +1,5 @@
 ---
+title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_ioqm_2020__Q01
 parent: src_ioqm_2020
@@ -28,8 +29,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 1
 
 *Trapezium ABCD, AB=3CD, E midpoint of BD; find n where [ABCD]=n[CDE]*
 

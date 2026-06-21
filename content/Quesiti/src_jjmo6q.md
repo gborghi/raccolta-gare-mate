@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2008
 tipo: gara
 src_id: src_jjmo6q
 competition: Japan Junior Mathematical Olympiad 2008
@@ -15,8 +16,6 @@ tags:
   - anno/2008
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2008
 
 Sorgente: apri PDF
 

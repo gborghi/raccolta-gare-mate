@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2011 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_canimath_2011_printemps__Q06
 parent: src_canimath_2011_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2011 — Quesito 6
 
 *Quadratic with small-coefficient perturbation and root gap exceeding 10000*
 

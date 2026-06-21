@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2007
 tipo: gara
 src_id: src_inmo_2007
 competition: Indian National Mathematical Olympiad 2007
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2007
 
 Sorgente: apri PDF
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2003 Cadet (20 marzo) — Quesito 7
 tipo: quesito
 quesito_id: quesito_src_kangourou_2003_cadet__Q07
 parent: src_kangourou_2003_cadet
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2003 Cadet (20 marzo) — Quesito 7
 
 *Max n con cifra eliminata che riduce n volte*
 

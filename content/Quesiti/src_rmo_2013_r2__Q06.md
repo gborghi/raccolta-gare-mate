@@ -1,4 +1,5 @@
 ---
+title: Regional Mathematical Olympiad 2013 — Region 2 — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_rmo_2013_r2__Q06
 parent: src_rmo_2013_r2
@@ -32,8 +33,6 @@ tags:
   - regione/r2
   - gara/individuale
 ---
-
-# Regional Mathematical Olympiad 2013 — Region 2 — Quesito 6
 
 *Weighing balance placements counting inequality T(100)>T(99)*
 

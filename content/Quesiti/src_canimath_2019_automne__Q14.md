@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Automne 2019 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_automne__Q14
 parent: src_canimath_2019_automne
@@ -31,8 +32,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Automne 2019 — Quesito 14
 
 *Ball-splitting game: prove Paul wins for N=2019 and loses for N=2020*
 

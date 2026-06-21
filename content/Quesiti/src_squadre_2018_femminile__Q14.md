@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_squadre_2018_femminile__Q14
 parent: src_squadre_2018_femminile
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/squadre
 ---
-
-# Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 14
 
 *Massimo numero di sinceri tra delegazioni con dichiarazioni*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 20
 tipo: quesito
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q20
 parent: src_kangourou_2020_student_marzo
@@ -26,8 +27,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2020 Student - gara marzo (triennio) — Quesito 20
 
 *Area della faccia col punto di domanda di parallelepipedi*
 

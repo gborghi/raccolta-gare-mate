@@ -1,4 +1,5 @@
 ---
+title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q14
 parent: src_kangourou_2023_junior_squadre_f2
@@ -28,8 +29,6 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
-
-# Kangourou Squadre 2023 Junior Finale 2 — Quesito 14
 
 *Somma secondi termini comuni progressioni*
 

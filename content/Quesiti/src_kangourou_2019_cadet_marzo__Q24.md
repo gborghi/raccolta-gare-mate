@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Gara di Marzo Cadet — Quesito 24
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q24
 parent: src_kangourou_2019_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2019 Gara di Marzo Cadet — Quesito 24
 
 *Quanti euro aveva Rita prima dell acquisto (rapporti)*
 

@@ -1,4 +1,5 @@
 ---
+title: Coppa Fermat 2008 - Gara a squadre — Quesito 12
 tipo: quesito
 quesito_id: quesito_src_gs_2008_squadre__Q12
 parent: src_gs_2008_squadre
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Coppa Fermat 2008 - Gara a squadre — Quesito 12
 
 *Esponente n che rende potenza di 2 un quadrato*
 

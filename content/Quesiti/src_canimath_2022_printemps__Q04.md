@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2022 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2022_printemps__Q04
 parent: src_canimath_2022_printemps
@@ -30,8 +31,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2022 — Quesito 4
 
 *Triangle with two equal-length points on the longest side, prove an angle identity*
 

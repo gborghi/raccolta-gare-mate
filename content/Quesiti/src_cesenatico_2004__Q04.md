@@ -1,4 +1,5 @@
 ---
+title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_cesenatico_2004__Q04
 parent: src_cesenatico_2004
@@ -24,8 +25,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 4
 
 *chi ha strategia vincente*
 

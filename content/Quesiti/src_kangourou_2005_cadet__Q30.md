@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2005 - Cadet (marzo) — Quesito 30
 tipo: quesito
 quesito_id: quesito_src_kangourou_2005_cadet__Q30
 parent: src_kangourou_2005_cadet
@@ -28,8 +29,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2005 - Cadet (marzo) — Quesito 30
 
 *Tentativi massimi per lucchetto a combinazione*
 

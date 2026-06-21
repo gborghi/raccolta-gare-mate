@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1993-94 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1993-94_round1__Q01
 parent: src_bmo_1993-94_round1
@@ -33,8 +34,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1993-94 — Round 1 — Quesito 1
 
 *Three-digit number ratio n/f(n) where f sums digits, pair products, full product*
 

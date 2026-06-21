@@ -1,4 +1,5 @@
 ---
+title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022
 tipo: gara
 src_id: src_tfjm_2022
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022
@@ -15,8 +16,6 @@ tags:
   - anno/2022
   - gara/squadre
 ---
-
-# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022
 
 Sorgente: apri PDF
 

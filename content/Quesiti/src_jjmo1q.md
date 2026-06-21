@@ -1,4 +1,5 @@
 ---
+title: Japan Junior Mathematical Olympiad 2003
 tipo: gara
 src_id: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -15,8 +16,6 @@ tags:
   - anno/2003
   - gara/individuale
 ---
-
-# Japan Junior Mathematical Olympiad 2003
 
 Sorgente: apri PDF
 

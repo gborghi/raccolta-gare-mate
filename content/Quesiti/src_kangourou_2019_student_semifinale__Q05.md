@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2019 Semifinale Student — Quesito 5
 tipo: quesito
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q05
 parent: src_kangourou_2019_student_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Kangourou 2019 Semifinale Student — Quesito 5
 
 *Numero centrale nell allineamento 1-17 con somme quadrati*
 

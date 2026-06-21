@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2007 Junior (marzo) — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q13
 parent: src_kangourou_2007_junior_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
-
-# Kangourou 2007 Junior (marzo) — Quesito 13
 
 *Come incernierare le due sezioni della porta*
 

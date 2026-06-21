@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2017 Cadet (gara marzo) — Quesito 18
 tipo: quesito
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q18
 parent: src_kangourou_2017_cadet_marzo
@@ -24,8 +25,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Kangourou 2017 Cadet (gara marzo) — Quesito 18
 
 *Percentuale nera della decorazione del tavolo quadrato*
 

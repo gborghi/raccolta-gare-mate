@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2001 - Biennio — Quesito 9
 tipo: quesito
 quesito_id: quesito_src_archimede_2001_biennio__Q09
 parent: src_archimede_2001_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
-
-# Giochi di Archimede 2001 - Biennio — Quesito 9
 
 *Soluzione equazione con somma di frazioni lineari*
 

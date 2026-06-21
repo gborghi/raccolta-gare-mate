@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Benjamin finale individuale — Quesito B1
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_benjamin_finale__QB1
 parent: src_kangourou_2022_benjamin_finale
@@ -24,8 +25,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Kangourou 2022 Benjamin finale individuale — Quesito B1
 
 *Tempo da A a B nuotando con stessa energia del controcorrente*
 

@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2022 Ecolier semifinale individuale — Quesito 14
 tipo: quesito
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q14
 parent: src_kangourou_2022_ecolier_semifinale
@@ -26,8 +27,6 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
-
-# Kangourou 2022 Ecolier semifinale individuale — Quesito 14
 
 *Massimo prodotto di due numeri di due cifre con 1,2,3,4*
 

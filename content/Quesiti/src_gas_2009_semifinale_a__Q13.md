@@ -1,4 +1,5 @@
 ---
+title: Gara a Squadre 2009 - Semifinale A — Quesito 13
 tipo: quesito
 quesito_id: quesito_src_gas_2009_semifinale_a__Q13
 parent: src_gas_2009_semifinale_a
@@ -29,8 +30,6 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
-
-# Gara a Squadre 2009 - Semifinale A — Quesito 13
 
 *Somma valori assoluti soluzioni intere equazione diofantea*
 

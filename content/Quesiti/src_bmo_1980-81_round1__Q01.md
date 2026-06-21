@@ -1,4 +1,5 @@
 ---
+title: British Mathematical Olympiad 1980-81 — Round 1 — Quesito 1
 tipo: quesito
 quesito_id: quesito_src_bmo_1980-81_round1__Q01
 parent: src_bmo_1980-81_round1
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# British Mathematical Olympiad 1980-81 — Round 1 — Quesito 1
 
 *Circle centred at orthocentre cuts midpoint-triangle sides equally*
 

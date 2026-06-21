@@ -1,4 +1,5 @@
 ---
+title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_obm_2017_n1_f2__Q04
 parent: src_obm_2017_n1_f2
@@ -37,8 +38,6 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
-
-# Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 4
 
 *Strictly positive sequence with controlled differences converging to 0 satisfies a_n ≥ d/n*
 

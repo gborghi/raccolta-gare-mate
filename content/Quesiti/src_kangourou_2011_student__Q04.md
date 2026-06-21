@@ -1,4 +1,5 @@
 ---
+title: Kangourou 2011 Student (gara marzo) — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_kangourou_2011_student__Q04
 parent: src_kangourou_2011_student
@@ -23,8 +24,6 @@ tags:
   - topic/logica
   - gara/individuale
 ---
-
-# Kangourou 2011 Student (gara marzo) — Quesito 4
 
 *Identificare la strada non rettilinea dalla mappa*
 

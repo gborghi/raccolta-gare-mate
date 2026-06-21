@@ -1,4 +1,5 @@
 ---
+title: Indian National Mathematical Olympiad 2010 — Quesito 3
 tipo: quesito
 quesito_id: quesito_src_inmo_2010__Q03
 parent: src_inmo_2010
@@ -28,8 +29,6 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
-
-# Indian National Mathematical Olympiad 2010 — Quesito 3
 
 *Find all non-zero reals x,y,z satisfying a system of equations*
 

@@ -1,4 +1,5 @@
 ---
+title: Coupe Animath Printemps 2019 — Quesito 4
 tipo: quesito
 quesito_id: quesito_src_canimath_2019_printemps__Q04
 parent: src_canimath_2019_printemps
@@ -33,8 +34,6 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
-
-# Coupe Animath Printemps 2019 — Quesito 4
 
 *Frogs on 10x10 grid; visible sums hit 10^1,...,10^10; find largest k*
 

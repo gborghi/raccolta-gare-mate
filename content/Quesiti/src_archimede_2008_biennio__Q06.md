@@ -1,4 +1,5 @@
 ---
+title: Giochi di Archimede 2008 - Biennio — Quesito 6
 tipo: quesito
 quesito_id: quesito_src_archimede_2008_biennio__Q06
 parent: src_archimede_2008_biennio
@@ -25,8 +26,6 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
-
-# Giochi di Archimede 2008 - Biennio — Quesito 6
 
 *Perimetro triangolo HBC simile in triangolo rettangolo*
 

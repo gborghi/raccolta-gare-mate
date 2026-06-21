@@ -1,4 +1,5 @@
 ---
+title: Archimede Gara 2° livello 2007 (biennio/triennio)
 tipo: gara
 src_id: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -15,8 +16,6 @@ tags:
   - anno/2007
   - gara/individuale
 ---
-
-# Archimede Gara 2° livello 2007 (biennio/triennio)
 
 Sorgente: `Archimede/individuale/2livello/2007/febb07.pdf` · apri PDF
 
