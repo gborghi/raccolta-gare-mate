@@ -1,0 +1,45 @@
+---
+title: IMO 2019 (LX International Mathematical Olympiad) — Quesito 1
+tipo: quesito
+quesito_id: quesito_src_imho_2019__Q01
+parent: src_imho_2019
+competition: IMO 2019 (LX International Mathematical Olympiad)
+family: imo
+year: '2019'
+level: IMO
+country: Italia
+modalita: individuale
+quesito: '1'
+summary: 'Find all functions f:Z->Z satisfying f(2a)+2f(b)=f(f(a+b))'
+qa_score: '5'
+topics:
+  - topic_algebra
+  - topic_funzionali
+methods:
+  - method_induzione
+  - method_simmetria
+skills:
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/imo
+  - anno/2019
+  - livello/IMO
+  - topic/algebra
+  - topic/funzionali
+  - gara/individuale
+---
+
+*Find all functions f:Z->Z satisfying f(2a)+2f(b)=f(f(a+b))*
+
+> Let $\mathbb{Z}$ be the set of integers. Determine all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a$ and $b$,
+> $$f(2a) + 2f(b) = f(f(a+b)).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** apri PDF p.1

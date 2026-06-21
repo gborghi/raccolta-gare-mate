@@ -1,0 +1,49 @@
+---
+title: IMO 1997 (XXXVIII International Mathematical Olympiad) — Quesito 6
+tipo: quesito
+quesito_id: quesito_src_imho_1997__Q06
+parent: src_imho_1997
+competition: IMO 1997 (XXXVIII International Mathematical Olympiad)
+family: imo
+year: '1997'
+level: IMO
+country: Italia
+modalita: individuale
+quesito: '6'
+summary: Count representations of n as sum of powers of 2; prove bounds on f(2^n)
+qa_score: '5'
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_induzione
+  - method_ricorsione
+  - method_stima
+skills:
+  - skill_riconoscimento_pattern
+  - skill_manipolazione_algebrica
+  - skill_stima
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/imo
+  - anno/1997
+  - livello/IMO
+  - topic/combinatoria
+  - topic/aritmetica
+  - gara/individuale
+---
+
+*Count representations of n as sum of powers of 2; prove bounds on f(2^n)*
+
+> For each positive integer $n$, let $f(n)$ denote the number of ways of representing $n$ as a sum of powers of $2$ with nonnegative integer exponents. Representations which differ only in the ordering of their summands are considered to be the same. For instance, $f(4) = 4$, because the number $4$ can be represented in the following four ways:
+> $$4;\; 2+2;\; 2+1+1;\; 1+1+1+1.$$
+> Prove that, for any integer $n \ge 3$,
+> $$2^{n^2/4} < f(2^n) < 2^{n^2/2}.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_stima|method_stima]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF p.1
