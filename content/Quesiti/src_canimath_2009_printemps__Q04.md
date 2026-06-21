@@ -1,0 +1,47 @@
+---
+tipo: quesito
+quesito_id: quesito_src_canimath_2009_printemps__Q04
+parent: src_canimath_2009_printemps
+competition: Coupe Animath Printemps 2009
+family: coupe_animath
+year: '2009'
+level: Coupe Animath Printemps
+country: Francia
+modalita: individuale
+stagione: printemps
+quesito: '4'
+summary: >-
+  At a party every guest shakes hands with exactly 7 others; prove even number
+  of guests
+qa_score: '3'
+topics:
+  - topic_combinatoria
+methods:
+  - method_doppio_conteggio
+  - method_invarianti
+skills:
+  - skill_ragionamento_geometrico
+  - skill_modellizzazione
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/francia
+  - comp/coupe-animath
+  - anno/2009
+  - livello/Coupe-Animath-Printemps
+  - stagione/printemps
+  - topic/combinatoria
+  - gara/individuale
+---
+
+# Coupe Animath Printemps 2009 — Quesito 4
+
+*At a party every guest shakes hands with exactly 7 others; prove even number of guests*
+
+> At a New Year's Eve party at my grandparents' home, every guest shook hands with exactly 7 other guests, and kissed all the others on the cheek. Prove that the number of guests is even.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

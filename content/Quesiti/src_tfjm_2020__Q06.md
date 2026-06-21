@@ -1,0 +1,77 @@
+---
+tipo: quesito
+quesito_id: quesito_src_tfjm_2020__Q06
+parent: src_tfjm_2020
+competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
+family: tfjm
+year: '2020'
+level: TFJM²
+country: Francia
+modalita: a squadre
+quesito: '6'
+summary: Drone police capture thief on city graph in minimum days
+qa_score: '2'
+topics:
+  - topic_combinatoria
+  - topic_logica
+methods:
+  - method_grafi
+  - method_casework
+  - method_induzione
+  - method_estremalita
+skills:
+  - skill_modellizzazione
+  - skill_ragionamento_geometrico
+  - skill_conteggio_sistematico
+  - skill_astrazione
+tags:
+  - kg/quesito
+  - paese/francia
+  - comp/tfjm
+  - anno/2020
+  - livello/TFJM²
+  - topic/combinatoria
+  - topic/logica
+  - gara/squadre
+  - qa/da-verificare
+---
+
+# Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 6
+
+*Drone police capture thief on city graph in minimum days*
+
+> Winston is a police commissioner. He tries to capture a thief using his new drones.
+> 
+> The city of Winston is made up of $N$ districts, and certain pairs of districts are connected by two-way roads. Winston has an unlimited number of drones and $n$ police officers.
+> 
+> Each day proceeds as follows:
+> - Each morning, Winston sends drones to as many districts as he wishes.
+> - At noon, his display shows whether one of his drones has been sent to the district where the thief is hiding.
+> - In the afternoon, Winston can send his officers to at most $n$ districts; if his officers go to the district where the thief is, the thief is arrested with certainty.
+> - Finally, each night (except the first), the thief moves from one district to a neighbouring district.
+> 
+> It is assumed that from the start the thief cannot stay more than one night in the same district.
+> 
+> **1.** The city of London is composed of $N$ districts $q_1, q_2, \ldots, q_N$ arranged in a circle, with roads connecting neighbours on the circle, as in Figure 12. As a function of $N$, how many police officers does Winston need to arrest the thief with certainty after a certain number of days?
+> 
+> **2.** Let $n$ and $N$ be two integers such that Winston can guarantee capturing the thief. What is the minimum number of days he needs to be certain of capturing him?
+> 
+> **3.** We say that a city has no **loop** if there is no cycle of $b \ge 3$ distinct districts. What is the minimum number of officers sufficient to capture the thief in any city without a loop?
+> 
+> **4.** The city of New York is a square grid of side $N$. How many officers does Winston need at a minimum to catch the thief?
+> 
+> **5.** A city is said to be **planar** if it can be drawn in the plane with no roads crossing. For example, Figure 13 shows a planar city. For any integer $n$, is there a planar city such that Winston cannot catch the thief with $n$ officers?
+> 
+> **6.** Following budget cuts, Winston can now only send between $1$ and $d$ drones each day, for a certain fixed integer $d$. Revisit the previous questions for this case.
+> 
+> **7.** Propose and study other avenues of research.
+
+![[src_tfjm_2020__Q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

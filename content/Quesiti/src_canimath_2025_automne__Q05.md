@@ -1,0 +1,49 @@
+---
+tipo: quesito
+quesito_id: quesito_src_canimath_2025_automne__Q05
+parent: src_canimath_2025_automne
+competition: Coupe Animath Automne 2025
+family: coupe_animath
+year: '2025'
+level: Coupe Animath Automne
+country: Francia
+modalita: individuale
+stagione: automne
+quesito: '5'
+summary: >-
+  Among four positive reals, a pair's difference is less than a third of the sum
+  of the other two
+qa_score: '4'
+topics:
+  - topic_disuguaglianze
+  - topic_algebra
+methods:
+  - method_estremalita
+  - method_casework
+skills:
+  - skill_stima
+  - skill_casework_accurato
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/francia
+  - comp/coupe-animath
+  - anno/2025
+  - livello/Coupe-Animath-Automne
+  - stagione/automne
+  - topic/disuguaglianze
+  - topic/algebra
+  - gara/individuale
+---
+
+# Coupe Animath Automne 2025 — Quesito 5
+
+*Among four positive reals, a pair's difference is less than a third of the sum of the other two*
+
+> Show that among four strictly positive real numbers, there always exist two of them whose difference (that is to say the larger of the two minus the smaller) is strictly less than one third of the sum of the other two.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** apri PDF

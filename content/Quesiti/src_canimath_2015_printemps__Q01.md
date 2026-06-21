@@ -1,0 +1,53 @@
+---
+tipo: quesito
+quesito_id: quesito_src_canimath_2015_printemps__Q01
+parent: src_canimath_2015_printemps
+competition: Coupe Animath Printemps 2015
+family: coupe_animath
+year: '2015'
+level: Coupe Animath Printemps
+country: Francia
+modalita: individuale
+stagione: printemps
+quesito: '1'
+summary: 'Three integer operations; find x giving 1945, all x giving 2015'
+qa_score: '4'
+topics:
+  - topic_algebra
+  - topic_aritmetica
+methods:
+  - method_casework
+skills:
+  - skill_manipolazione_algebrica
+  - skill_casework_accurato
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/francia
+  - comp/coupe-animath
+  - anno/2015
+  - livello/Coupe-Animath-Printemps
+  - stagione/printemps
+  - topic/algebra
+  - topic/aritmetica
+  - gara/individuale
+---
+
+# Coupe Animath Printemps 2015 — Quesito 1
+
+*Three integer operations; find x giving 1945, all x giving 2015*
+
+> Three operations on integers are defined:
+> - Operation $A$: multiply by $2$ and add $4$ to the result.
+> - Operation $B$: multiply by $1$ and add $16$ to the result.
+> - Operation $C$: multiply by $5$ and add $25$ to the result.
+> 
+> a) Find an integer $x$ such that, after applying operations $A$, $B$, and $C$ successively in that order, one obtains $1945$.
+> 
+> b) Find all integers $x$ such that, starting from $x$ and applying successively two different operations (among $A$, $B$, $C$), one obtains $2015$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF
