@@ -18,7 +18,7 @@ topics:
   - topic_insiemi_funzioni
   - topic_aritmetica
 methods:
-  - method_costruzione
+  - method_casework
   - method_induzione
   - method_ricorsione
 skills:
@@ -43,7 +43,7 @@ tags:
 > Prove that for any integers $a > 1$ and $b > 1$ there exists a function $f$ from the positive integers to the positive integers such that $f(a \cdot f(n)) = b \cdot n$ for every positive integer $n$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

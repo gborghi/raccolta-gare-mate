@@ -38,7 +38,7 @@ Sorgente: apri PDF
 - [[src_obm_2001_n2_f1__Q13|Quesito 13]] — Angle FCD in a regular pentagon with interior equilateral triangle ABF
 - [[src_obm_2001_n2_f1__Q14|Quesito 14]] — Number of boys in a class given division remainders and 15 girls
 - [[src_obm_2001_n2_f1__Q15|Quesito 15]] — Maximum number of regions of a circle divided by 2n+1 radii and one line
-- [[src_obm_2001_n2_f1__Q16|Quesito 16]] — Difference in initial amounts of Paulo and Cezar ending both with R$18
+- [[src_obm_2001_n2_f1__Q16|Quesito 16]] — Difference in initial amounts of Paulo and Cezar ending both with R\$18
 - [[src_obm_2001_n2_f1__Q17|Quesito 17]] — Days remaining rations feed cattle after buying and selling cows
 - [[src_obm_2001_n2_f1__Q18|Quesito 18]] — Sum of all numbers from 1 to 999 in which the digit 1 appears exactly twice
 - [[src_obm_2001_n2_f1__Q19|Quesito 19]] — Minimum corridor width to push a rectangular table around a right-angle turn

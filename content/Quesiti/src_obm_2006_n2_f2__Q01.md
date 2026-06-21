@@ -19,7 +19,7 @@ topics:
   - topic_combinatoria
 methods:
   - method_casework
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_conteggio_sistematico
@@ -50,7 +50,7 @@ tags:
 > On which floor will the number 2006 be found? (For example: the number 1 is on the first floor, 6 is on the second floor, and 23 is on the third floor.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_casework|Casework]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF

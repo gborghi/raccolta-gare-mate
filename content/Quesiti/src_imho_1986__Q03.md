@@ -17,7 +17,7 @@ topics:
   - topic_algebra
 methods:
   - method_invarianti
-  - method_monovariant
+  - method_invarianti
 skills:
   - skill_astrazione
   - skill_riconoscimento_pattern
@@ -38,7 +38,7 @@ tags:
 > To each vertex of a regular pentagon an integer is assigned in such a way that the sum of all five numbers is positive. If three consecutive vertices are assigned the numbers $x$, $y$, $z$ respectively and $y < 0$ then the following operation is allowed: the numbers $x$, $y$, $z$ are replaced by $x + y$, $-y$, $z + y$ respectively. Such an operation is performed repeatedly as long as at least one of the five numbers is negative. Determine whether this procedure necessarily comes to an end after a finite number of steps.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_monovariant|method_monovariant]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_invarianti|method_invarianti]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** apri PDF p.1

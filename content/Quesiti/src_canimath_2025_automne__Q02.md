@@ -15,7 +15,7 @@ summary: Maximum candies from 2-coloring 9 connected circles
 qa_score: '4'
 topics:
   - topic_combinatoria
-  - topic_grafi
+  - topic_combinatoria
 methods:
   - method_grafi
   - method_colorazione
@@ -43,7 +43,7 @@ tags:
 
 ![[src_canimath_2025_automne__Q02.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_grafi|topic_grafi]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]

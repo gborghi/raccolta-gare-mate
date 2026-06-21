@@ -32,7 +32,7 @@ Sorgente: apri PDF
 - [[src_obm_2011_n3_f1__Q07|Quesito 7]] — Greatest value of ab/(a+b) for reals with 0<a<=1 and 0<b<=1
 - [[src_obm_2011_n3_f1__Q08|Quesito 8]] — Percentage of total flights cancelled given volcano (10%) then rain (20% of rest)
 - [[src_obm_2011_n3_f1__Q09|Quesito 9]] — Value of 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2
-- [[src_obm_2011_n3_f1__Q10|Quesito 10]] — Number of distinct ways to give R$59.63... change in coins of 1,5,10,25 cents
+- [[src_obm_2011_n3_f1__Q10|Quesito 10]] — Number of distinct ways to give R\$59.63... change in coins of 1,5,10,25 cents
 - [[src_obm_2011_n3_f1__Q11|Quesito 11]] — How many positive integers smaller than 30 have exactly four divisors
 - [[src_obm_2011_n3_f1__Q12|Quesito 12]] — Measure of angle ADE in a triangle where angle B - angle C = 50 deg, with bisector and a right angle
 - [[src_obm_2011_n3_f1__Q13|Quesito 13]] — Minimum number of banknotes exchanged so three girls end with equal amounts of money

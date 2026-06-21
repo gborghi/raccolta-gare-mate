@@ -36,7 +36,7 @@ Sorgente: apri PDF
 - [[src_obm_2008_n2_f1__Q11|Quesito 11]] — Length MN from feet of perpendiculars, orthic triangle perimeter 10
 - [[src_obm_2008_n2_f1__Q12|Quesito 12]] — Count integers below 500 with exactly 15 divisors
 - [[src_obm_2008_n2_f1__Q13|Quesito 13]] — Sum of digit-sums P(1)+...+P(1000)
-- [[src_obm_2008_n2_f1__Q14|Quesito 14]] — Ways to make R$10.00 with 10c and 25c coins, at least one each
+- [[src_obm_2008_n2_f1__Q14|Quesito 14]] — Ways to make R\$10.00 with 10c and 25c coins, at least one each
 - [[src_obm_2008_n2_f1__Q15|Quesito 15]] — Largest possible a given chained inequalities and d<40
 - [[src_obm_2008_n2_f1__Q16|Quesito 16]] — Magic sum of an order-7 magic square with numbers 1 to 49
 - [[src_obm_2008_n2_f1__Q17|Quesito 17]] — Smallest x+y making a sum of powers a perfect square

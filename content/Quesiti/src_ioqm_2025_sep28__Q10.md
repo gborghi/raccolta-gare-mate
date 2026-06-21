@@ -19,7 +19,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_telescoping
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_riconoscimento_pattern
@@ -40,7 +40,7 @@ tags:
 > Find the largest positive integer $n$ for which the inequality $\sum_{k=1}^{2n}(-1)^k k^2 < 100$ holds.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_telescoping|Telescoping]], [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[method_telescoping|Telescoping]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

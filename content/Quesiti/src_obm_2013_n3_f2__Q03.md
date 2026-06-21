@@ -19,7 +19,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_telescoping
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_riconoscimento_pattern
@@ -48,7 +48,7 @@ tags:
 > is of the form $A - \dfrac{\pi^2}{B}$, where $A$ and $B$ are positive integers. Determine the value of $A + B$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_telescoping|Telescoping]], [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[method_telescoping|Telescoping]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

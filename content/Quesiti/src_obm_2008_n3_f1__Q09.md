@@ -12,7 +12,7 @@ modalita: individuale
 nivel: '3'
 fase: '1'
 quesito: '9'
-summary: 'Ways to make R$10.00 with 10-cent and 25-cent coins, at least one of each'
+summary: 'Ways to make R\$10.00 with 10-cent and 25-cent coins, at least one of each'
 qa_score: '4'
 topics:
   - topic_aritmetica
@@ -35,7 +35,7 @@ tags:
   - gara/individuale
 ---
 
-*Ways to make R$10.00 with 10-cent and 25-cent coins, at least one of each*
+*Ways to make R\$10.00 with 10-cent and 25-cent coins, at least one of each*
 
 > In how many ways can we give change for R\$ $10{,}00$ using coins of $10$ cents and $25$ cents, if at least one coin of each type must be used?
 > 

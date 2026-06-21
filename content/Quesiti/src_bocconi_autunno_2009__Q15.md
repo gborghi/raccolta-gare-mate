@@ -18,7 +18,7 @@ topics:
   - topic_geometria_analitica
 methods:
   - method_ricorsione
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_conteggio_sistematico
@@ -41,7 +41,7 @@ tags:
 ![[src_bocconi_autunno_2009__Q15.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** $(8;\ -22)$

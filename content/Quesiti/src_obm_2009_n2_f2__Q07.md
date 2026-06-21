@@ -18,7 +18,7 @@ topics:
   - topic_algebra
 methods:
   - method_ricorsione
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_riconoscimento_pattern
@@ -50,7 +50,7 @@ tags:
 > determine $S_7$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF

@@ -16,7 +16,7 @@ topics:
   - topic_combinatoria
   - topic_geometria_piana
 methods:
-  - method_costruzione
+  - method_casework
   - method_induzione
 skills:
   - skill_modellizzazione
@@ -38,7 +38,7 @@ tags:
 > Prove that for every natural number $m$, there exists a finite set $S$ of points in a plane with the following property: for every point $A$ in $S$, there are exactly $m$ points in $S$ which are at unit distance from $A$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** apri PDF p.1

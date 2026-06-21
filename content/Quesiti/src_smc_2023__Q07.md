@@ -17,7 +17,7 @@ topics:
   - topic_algebra
 methods:
   - method_ricorsione
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
 tags:
@@ -42,7 +42,7 @@ tags:
 > - **(E)** $2006$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (D)

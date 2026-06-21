@@ -19,7 +19,7 @@ topics:
   - topic_geometria_piana
   - topic_algebra
 methods:
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_ragionamento_geometrico
@@ -45,7 +45,7 @@ tags:
 *Appears in regions: Mumbai, Region 5.*
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** apri PDF

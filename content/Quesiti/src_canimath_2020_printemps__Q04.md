@@ -18,7 +18,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_ricorsione
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_manipolazione_algebrica
@@ -39,7 +39,7 @@ tags:
 > A number appears on a computer screen. We know that if $x$ appears on the screen, then the number $x^2 - 2x + 1$ appears just afterwards. If the first number to appear is $2$, what is the $2020$th number to appear?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

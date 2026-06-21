@@ -16,7 +16,7 @@ topics:
   - topic_algebra
   - topic_aritmetica
 methods:
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_riconoscimento_pattern
@@ -36,7 +36,7 @@ tags:
 > Consider a quadratic polynomial $P(x) = x^2 + ax + b$ with $a, b \in \mathbb{Z}$. Show that for any integer $n$ there is an integer $m$ such that $P(n)P(n+1) = P(m)$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

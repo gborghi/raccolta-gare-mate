@@ -16,7 +16,7 @@ topics:
   - topic_combinatoria
   - topic_aritmetica
 methods:
-  - method_costruzione
+  - method_casework
   - method_invarianti
 skills:
   - skill_modellizzazione
@@ -42,7 +42,7 @@ tags:
 > (ii) The sum of all the elements in each $A_i$ is the same.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|method_casework]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF p.1

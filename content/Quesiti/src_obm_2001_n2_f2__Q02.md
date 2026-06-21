@@ -19,7 +19,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_casework
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_conteggio_sistematico
   - skill_riconoscimento_pattern
@@ -44,7 +44,7 @@ tags:
 ![[src_obm_2001_n2_f2__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_casework|Casework]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

@@ -37,10 +37,8 @@ tags:
 > Risposta: 0009. Soluzione. Nelle nostre ipotesi, per 0 ≤ k ≤ n, gli elaborati ammissibili con esattamente k 
 > risposte corrette sono in numero di n – k + 1 (potrebbero non esserci risposte non date). La somma di tutti 
 > questi numeri al variare di k è la somma degli interi da 1 a n + 1 inclusi, cioè 
-> ("#$)("#&)
-> &
->  e questo valore deve 
-> essere almeno 50. Da n2 + 3n – 98 ≥ 0, con n intero, segue n ≥ 9.
+> $\frac{(n+1)(n+2)}{2}$ e questo valore deve 
+> essere almeno 50. Da $n^2 + 3n - 98 \ge 0$, con n intero, segue $n \ge 9$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

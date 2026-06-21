@@ -16,7 +16,7 @@ summary: Identify the figure not drawable in one stroke without retracing
 qa_score: '3'
 topics:
   - topic_combinatoria
-  - topic_grafi
+  - topic_combinatoria
   - topic_geometria_piana
 methods:
   - method_grafi
@@ -44,7 +44,7 @@ tags:
 
 ![[src_obm_2011_n2_f1__Q16.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_grafi|topic_grafi]], [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]

@@ -18,7 +18,7 @@ answer: E
 topics:
   - topic_aritmetica
 methods:
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_lettura_attenta
@@ -45,7 +45,7 @@ tags:
 > (A) $29$ \quad (B) $99$ \quad (C) $72$ \quad (D) $41$ \quad (E) $81$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E

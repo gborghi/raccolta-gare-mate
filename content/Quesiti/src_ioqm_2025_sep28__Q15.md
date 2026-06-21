@@ -19,7 +19,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_fattorizzazione
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_riconoscimento_pattern
@@ -42,7 +42,7 @@ tags:
 > find $a^2 + b^2 + c^2 + d^2$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

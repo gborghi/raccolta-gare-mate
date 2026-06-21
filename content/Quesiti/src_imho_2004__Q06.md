@@ -18,7 +18,7 @@ topics:
 methods:
   - method_congruenze
   - method_casework
-  - method_costruttivo
+  - method_casework
 skills:
   - skill_riconoscimento_pattern
   - skill_conteggio_sistematico
@@ -39,7 +39,7 @@ tags:
 > We call a positive integer *alternating* if every two consecutive digits in its decimal representation are of different parity. Find all positive integers $n$ such that $n$ has a multiple which is alternating.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_costruttivo|method_costruttivo]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_casework|method_casework]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF p.1

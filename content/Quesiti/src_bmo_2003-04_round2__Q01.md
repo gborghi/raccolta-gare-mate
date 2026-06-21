@@ -35,8 +35,6 @@ tags:
 > 
 > Show that $BD + AM + AN = CD + AP + AQ$.
 
-![[src_bmo_2003-04_round2__Q01.png]]
-
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

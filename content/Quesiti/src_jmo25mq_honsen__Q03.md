@@ -17,7 +17,7 @@ topics:
 methods:
   - method_induzione
   - method_congruenze
-  - method_costruzione
+  - method_casework
 skills:
   - skill_manipolazione_algebrica
   - skill_ragionamento_geometrico
@@ -43,7 +43,7 @@ tags:
 > (2) Let $p$ be an odd prime. Show that there exists an ascending sequence $\{a_n\}$ that contains no multiple of $p$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_costruzione|method_costruzione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_casework|method_casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

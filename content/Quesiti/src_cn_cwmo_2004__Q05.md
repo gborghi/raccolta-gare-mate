@@ -17,7 +17,7 @@ topics:
 methods:
   - method_ricorsione
   - method_telescoping
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_manipolazione_algebrica
@@ -37,7 +37,7 @@ tags:
 > The sequence $\{a_n\}$ satisfies $a_1 = a_2 = 1$ and $a_{n+2} = \dfrac{a_n + 1}{a_{n+1}}$, $n = 1, 2, \ldots$. Find $a_{2004}$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri libro PDF

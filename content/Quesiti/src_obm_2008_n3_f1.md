@@ -31,7 +31,7 @@ Sorgente: apri PDF
 - [[src_obm_2008_n3_f1__Q06|Quesito 6]] — Runners on a regular n-gon track meet at vertices; find n
 - [[src_obm_2008_n3_f1__Q07|Quesito 7]] — Nine ordered numbers: middle is the mean of all; find total sum
 - [[src_obm_2008_n3_f1__Q08|Quesito 8]] — OBM on 14 June 2008 (Saturday, leap year); when will 14 June again be Saturday
-- [[src_obm_2008_n3_f1__Q09|Quesito 9]] — Ways to make R$10.00 with 10-cent and 25-cent coins, at least one of each
+- [[src_obm_2008_n3_f1__Q09|Quesito 9]] — Ways to make R\$10.00 with 10-cent and 25-cent coins, at least one of each
 - [[src_obm_2008_n3_f1__Q10|Quesito 10]] — Integer n such that n*2^n has 2008 more divisors than n; find digit sum of n
 - [[src_obm_2008_n3_f1__Q11|Quesito 11]] — How many of 2,3,5,7,11 divide 371^4 - 41^4
 - [[src_obm_2008_n3_f1__Q12|Quesito 12]] — Wooden cube with 3 red and 3 blue faces cut into 27; count cubes with red and blue face

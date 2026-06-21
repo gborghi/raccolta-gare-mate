@@ -19,7 +19,7 @@ topics:
 methods:
   - method_ricorsione
   - method_invarianti
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_conteggio_sistematico
@@ -40,7 +40,7 @@ tags:
 > Carolina writes a sequence of positive integers in which: if a number is even, the next number is half of it; if it is odd, the next number is seven units greater. The first number of the sequence is 10, so the first three numbers of this sequence are 10, 5, 12, $\ldots$ What is the 2014th number in this sequence?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

@@ -17,7 +17,7 @@ topics:
   - topic_geometria_piana
 methods:
   - method_trigonometria
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_ragionamento_geometrico
@@ -39,7 +39,7 @@ tags:
 > the triangle is isosceles.
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** apri PDF p.1

@@ -24,7 +24,7 @@ methods:
   - method_trigonometria
 skills:
   - skill_ragionamento_geometrico
-  - skill_trigonometria
+  - skill_ragionamento_geometrico
 tags:
   - kg/quesito
   - paese/brasile
@@ -46,7 +46,7 @@ tags:
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_trigonometria|skill_trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|skill_ragionamento_geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** apri PDF

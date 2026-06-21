@@ -17,7 +17,7 @@ summary: >-
 qa_score: '2'
 topics:
   - topic_combinatoria
-  - topic_grafi
+  - topic_combinatoria
   - topic_aritmetica
 methods:
   - method_grafi
@@ -68,7 +68,7 @@ tags:
 
 ![[src_tfjm_2025__Q07.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_grafi|topic_grafi]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

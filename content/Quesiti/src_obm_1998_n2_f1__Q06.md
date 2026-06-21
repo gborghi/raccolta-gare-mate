@@ -19,7 +19,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_congruenze
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_manipolazione_algebrica
@@ -46,7 +46,7 @@ tags:
 > E) 9
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_congruenze|Congruenze]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E

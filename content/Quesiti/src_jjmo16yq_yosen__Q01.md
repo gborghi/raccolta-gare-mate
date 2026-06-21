@@ -17,7 +17,7 @@ topics:
   - topic_geometria_piana
 methods:
   - method_simmetria
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_ragionamento_geometrico
   - skill_manipolazione_algebrica
@@ -38,7 +38,7 @@ tags:
 ![[src_jjmo16yq_yosen__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 121

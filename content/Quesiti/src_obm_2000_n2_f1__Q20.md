@@ -19,7 +19,7 @@ topics:
   - topic_aritmetica
   - topic_combinatoria
 methods:
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
   - method_conteggio
 skills:
   - skill_riconoscimento_pattern
@@ -47,7 +47,7 @@ tags:
 ![[src_obm_2000_n2_f1__Q20.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_riconoscimento_pattern|method_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
+**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D

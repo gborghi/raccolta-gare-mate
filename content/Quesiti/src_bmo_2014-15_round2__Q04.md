@@ -17,7 +17,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_congruenze
-  - method_costruzione
+  - method_casework
   - method_casework
   - method_invarianti
 skills:
@@ -49,7 +49,7 @@ tags:
 > Does there exist a $100$-loop?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_costruzione|method_costruzione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|method_casework]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

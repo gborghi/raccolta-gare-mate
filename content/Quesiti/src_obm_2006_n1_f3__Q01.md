@@ -19,7 +19,7 @@ topics:
   - topic_combinatoria
 methods:
   - method_invarianti
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_conteggio_sistematico
@@ -52,7 +52,7 @@ tags:
 > (c) The sequence $S_3$ terminates when the first term repeats. How many terms does $S_3$ have?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF

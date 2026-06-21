@@ -12,7 +12,7 @@ modalita: individuale
 nivel: '2'
 fase: '1'
 quesito: '16'
-summary: Difference in initial amounts of Paulo and Cezar ending both with R$18
+summary: Difference in initial amounts of Paulo and Cezar ending both with R\$18
 qa_score: '2'
 answer: B
 topics:
@@ -35,7 +35,7 @@ tags:
   - qa/da-verificare
 ---
 
-*Difference in initial amounts of Paulo and Cezar ending both with R$18*
+*Difference in initial amounts of Paulo and Cezar ending both with R\$18*
 
 > Paulo and Cezar have some money. Paulo gives Cezar R\$$55{,}00$ and, next, Cezar gives Paulo $\frac{1}{3}$ of what he has. Thus, both end up with R\$$18{,}00$. The difference between the amounts each one had initially is:
 > 

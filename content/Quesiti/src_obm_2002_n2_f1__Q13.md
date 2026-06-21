@@ -12,7 +12,7 @@ modalita: individuale
 nivel: '2'
 fase: '1'
 quesito: '13'
-summary: 'Carwash promotion: two prices, total R$176; minimum number of customers'
+summary: 'Carwash promotion: two prices, total R\$176; minimum number of customers'
 qa_score: '3'
 answer: C
 topics:
@@ -37,7 +37,7 @@ tags:
   - gara/individuale
 ---
 
-*Carwash promotion: two prices, total R$176; minimum number of customers*
+*Carwash promotion: two prices, total R\$176; minimum number of customers*
 
 > The carwash 'Lave Bem' runs a promotion: a simple wash costs R$\$5.00$ and a complete wash costs R$\$7.00$. On the day of the promotion, the total revenue was R$\$176.00$. What is the minimum possible number of customers that were served?
 >

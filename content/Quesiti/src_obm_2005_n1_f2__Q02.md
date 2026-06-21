@@ -19,7 +19,7 @@ topics:
   - topic_algebra
 methods:
   - method_ricorsione
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_manipolazione_algebrica
@@ -41,7 +41,7 @@ tags:
 > In the sequence of numbers $1, a, 2, b, c, d, \ldots$ the first term is $1$, the second term is $a$, the third term is $2$, the fourth term is $b$, and so on. It is known that this sequence has 2005 terms and that each term, from the third onward, is the arithmetic mean of the two preceding terms. What is the last (2005th) term of this sequence?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** apri PDF

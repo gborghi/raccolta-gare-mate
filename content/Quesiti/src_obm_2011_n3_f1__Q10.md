@@ -12,7 +12,7 @@ modalita: individuale
 nivel: '3'
 fase: '1'
 quesito: '10'
-summary: 'Number of distinct ways to give R$59.63... change in coins of 1,5,10,25 cents'
+summary: 'Number of distinct ways to give R\$59.63... change in coins of 1,5,10,25 cents'
 qa_score: '2'
 topics:
   - topic_combinatoria
@@ -37,7 +37,7 @@ tags:
   - qa/da-verificare
 ---
 
-*Number of distinct ways to give R$59.63... change in coins of 1,5,10,25 cents*
+*Number of distinct ways to give R\$59.63... change in coins of 1,5,10,25 cents*
 
 > Luca bought a thing costing R\$59.63 and gave an R\$100.00 bill to pay. The cashier wants to give the change using as few $25$-cent coins as possible, having coins of 1, 5, 10 or 25 cents. In how many distinct ways can the cashier give the change using only coins of 1, 5, 10 or 25 cents?
 > 

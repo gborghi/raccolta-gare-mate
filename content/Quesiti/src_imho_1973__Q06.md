@@ -16,7 +16,7 @@ topics:
   - topic_algebra
   - topic_disuguaglianze
 methods:
-  - method_costruzione
+  - method_casework
   - method_disuguaglianze
   - method_induzione
 skills:
@@ -45,7 +45,7 @@ tags:
 > (c) $b_1 + b_2 + \cdots + b_n < \dfrac{1+q}{1-q}(a_1 + a_2 + \cdots + a_n)$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Metodo:** [[method_casework|method_casework]], [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF p.1

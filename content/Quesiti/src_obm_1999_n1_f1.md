@@ -32,7 +32,7 @@ Sorgente: apri PDF
 - [[src_obm_1999_n1_f1__Q07|Quesito 7]] — How many times per day do clock hands form a right angle?
 - [[src_obm_1999_n1_f1__Q08|Quesito 8]] — Marbles redistributed to boys and girls; find percentage of boys.
 - [[src_obm_1999_n1_f1__Q09|Quesito 9]] — Stack of blue plastic cubes exposed to air; count cubes with exactly 3 blue and 3 grey faces.
-- [[src_obm_1999_n1_f1__Q10|Quesito 10]] — 100 coins (50c and R$1) total 76 reais; find difference in count between the two types.
+- [[src_obm_1999_n1_f1__Q10|Quesito 10]] — 100 coins (50c and R\$1) total 76 reais; find difference in count between the two types.
 - [[src_obm_1999_n1_f1__Q11|Quesito 11]] — Count distinct figures formed by joining three congruent rhombuses side to side.
 - [[src_obm_1999_n1_f1__Q12|Quesito 12]] — Printer replaces zeros with blanks; find minimum number of pages to reprint.
 - [[src_obm_1999_n1_f1__Q13|Quesito 13]] — Letícia sells all CDs at same price to three friends; find minimum number of CDs.

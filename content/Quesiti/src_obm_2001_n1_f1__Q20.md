@@ -22,7 +22,7 @@ topics:
   - topic_geometria_piana
 methods:
   - method_conteggio
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_conteggio_sistematico
@@ -49,7 +49,7 @@ tags:
 ![[src_obm_2001_n1_f1__Q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_conteggio|Conteggio]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A

@@ -13,7 +13,7 @@ nivel: '3'
 fase: '1'
 quesito: '15'
 summary: >-
-  Pizza price is proportional to area; a 20cm-diameter pizza costs R$3.60. Find
+  Pizza price is proportional to area; a 20cm-diameter pizza costs R\$3.60. Find
   the price of a 30cm-diameter pizza.
 qa_score: '3'
 answer: E
@@ -36,7 +36,7 @@ tags:
   - gara/individuale
 ---
 
-*Pizza price is proportional to area; a 20cm-diameter pizza costs R$3.60. Find the price of a 30cm-diameter pizza.*
+*Pizza price is proportional to area; a 20cm-diameter pizza costs R\$3.60. Find the price of a 30cm-diameter pizza.*
 
 > You enter a restaurant to eat pizza and expect to pay an amount proportional to the quantity of food ordered. If a pizza of $20\,\text{cm}$ in diameter costs R\$ $3{,}60$, how much should you expect to pay for another one of the same flavor with $30\,\text{cm}$ in diameter?
 > 

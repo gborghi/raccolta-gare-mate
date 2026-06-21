@@ -19,7 +19,7 @@ topics:
   - topic_aritmetica
   - topic_combinatoria
 methods:
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
   - method_conteggio
 skills:
   - skill_riconoscimento_pattern
@@ -55,7 +55,7 @@ tags:
 > (A) $F$ \quad (B) $B$ \quad (C) $C$ \quad (D) $I$ \quad (E) $A$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_riconoscimento_pattern|method_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
+**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C

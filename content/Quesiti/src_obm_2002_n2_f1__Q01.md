@@ -13,7 +13,7 @@ nivel: '2'
 fase: '1'
 quesito: '1'
 summary: >-
-  Merchant sells two cars; total purchase R$27000, gain R$750; find individual
+  Merchant sells two cars; total purchase R\$27000, gain R\$750; find individual
   prices
 qa_score: '3'
 answer: C
@@ -38,7 +38,7 @@ tags:
   - gara/individuale
 ---
 
-*Merchant sells two cars; total purchase R$27000, gain R$750; find individual prices*
+*Merchant sells two cars; total purchase R\$27000, gain R\$750; find individual prices*
 
 > A merchant buys two cars for a total of R$\$27{,}000.00$. He sold the first one at a discount of $10\%$ and the second one at a markup of $5\%$. The overall gain was R$\$750.00$. The purchase prices of the two cars were, respectively:
 >

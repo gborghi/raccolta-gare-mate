@@ -18,7 +18,7 @@ topics:
 methods:
   - method_induzione
   - method_ricorsione
-  - method_stima
+  - skill_stima
 skills:
   - skill_riconoscimento_pattern
   - skill_manipolazione_algebrica
@@ -43,7 +43,7 @@ tags:
 > $$2^{n^2/4} < f(2^n) < 2^{n^2/2}.$$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_stima|method_stima]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[skill_stima|skill_stima]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF p.1

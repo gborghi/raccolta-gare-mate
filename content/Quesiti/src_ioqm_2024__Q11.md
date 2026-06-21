@@ -15,7 +15,7 @@ qa_score: '4'
 topics:
   - topic_algebra
 methods:
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
   - method_simmetria
 skills:
   - skill_manipolazione_algebrica
@@ -38,7 +38,7 @@ tags:
 > What is the value of $\frac{1}{a} + \frac{1}{b} + \frac{1}{c}$?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_manipolazione_algebrica|method_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF

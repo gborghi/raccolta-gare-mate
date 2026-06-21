@@ -18,7 +18,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_casework
-  - method_costruttivo
+  - method_casework
 skills:
   - skill_lettura_attenta
   - skill_casework_accurato
@@ -39,7 +39,7 @@ tags:
 > We say a positive integer $n$ is "good" if there is a permutation $(a_1, a_2, \ldots, a_n)$ of $1, 2, \ldots, n$ such that $a_k + k$ is a perfect square for all $1 \le k \le n$. Determine all the good numbers in the set $\{11, 13, 15, 17, 19\}$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_costruttivo|method_costruttivo]]
+**Metodo:** [[method_casework|Casework]], [[method_casework|method_casework]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 13, 15, 17, 19

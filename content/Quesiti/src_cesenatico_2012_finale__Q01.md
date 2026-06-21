@@ -33,7 +33,7 @@ tags:
 
 *Quanti anni del drago (somma cifre divisibile per 7)*
 
-> !#"!!" #$?
+> Dice la leggenda che chi trova le sette sfere del drago può evocare il drago Shannon, ed avere esaudito un desiderio. Però per evitare un uso troppo frequente, il Massimo, creatore delle sfere, ha imposto la condizione che ciò sia possibile solo negli anni del drago, ovvero quelli la cui somma delle cifre è divisibile per 7. Quanti anni del drago ci sono dall'anno 1 all'anno 7050?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

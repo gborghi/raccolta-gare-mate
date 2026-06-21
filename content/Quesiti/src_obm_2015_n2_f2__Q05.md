@@ -17,7 +17,7 @@ qa_score: '4'
 topics:
   - topic_algebra
 methods:
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_riconoscimento_pattern
@@ -40,7 +40,7 @@ tags:
 > Determine the integer closest to $\dfrac{z}{y}$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF

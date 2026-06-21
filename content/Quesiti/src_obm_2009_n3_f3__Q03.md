@@ -20,7 +20,7 @@ topics:
   - topic_combinatoria
 methods:
   - method_invarianti
-  - method_monovariant
+  - method_invarianti
 skills:
   - skill_modellizzazione
   - skill_astrazione
@@ -47,7 +47,7 @@ tags:
 > Show that, after a finite number of operations, every point will have at most three stones. Moreover, prove that the final configuration does not depend on the order in which the operations are performed.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_monovariant|method_monovariant]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_invarianti|method_invarianti]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF

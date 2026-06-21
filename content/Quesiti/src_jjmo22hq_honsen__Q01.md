@@ -16,7 +16,7 @@ topics:
   - topic_disuguaglianze
   - topic_algebra
 methods:
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
   - method_disuguaglianze
 skills:
   - skill_manipolazione_algebrica
@@ -38,7 +38,7 @@ tags:
 > $$( a+b)(c+d) \ge (a+c)(b+d).$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_manipolazione_algebrica|method_manipolazione_algebrica]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF

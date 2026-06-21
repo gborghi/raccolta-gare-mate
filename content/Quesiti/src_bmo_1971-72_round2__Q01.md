@@ -16,7 +16,7 @@ topics:
   - topic_combinatoria
   - topic_aritmetica
 methods:
-  - method_costruzione
+  - method_casework
   - method_casework
 skills:
   - skill_ragionamento_geometrico
@@ -42,7 +42,7 @@ tags:
 > (iv) neighbouring vertices have numbers differing in one and only one digit place.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_casework|Casework]]
+**Metodo:** [[method_casework|method_casework]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

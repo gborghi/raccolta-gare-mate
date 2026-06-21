@@ -17,7 +17,7 @@ qa_score: '2'
 topics:
   - topic_aritmetica
 methods:
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
   - method_induzione
 skills:
   - skill_riconoscimento_pattern
@@ -43,7 +43,7 @@ tags:
 > (A) none \quad (B) 11 \quad (C) 2010 \quad (D) 2011 \quad (E) 4022
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_riconoscimento_pattern|method_riconoscimento_pattern]], [[method_induzione|Induzione]]
+**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

@@ -36,25 +36,6 @@ tags:
 >  C) 1111	 	
 > D) 9000	 	
 > E) 9900
-> BENJAMIN
-> K
-> A
-> N
-> G
-> O
-> U
-> R
-> O
-> U
-> 1$2
-> + 1$3
-> + 1$4
-> ----------
-> = 309
-> 
-> Kangourou 2014
-> pagina 11
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

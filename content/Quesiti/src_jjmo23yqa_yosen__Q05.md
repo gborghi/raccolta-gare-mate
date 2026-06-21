@@ -21,7 +21,7 @@ topics:
 methods:
   - method_invarianti
   - method_ricorsione
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_modellizzazione
@@ -42,7 +42,7 @@ tags:
 > There is one box containing $50^{25}$ stones. The following operation is repeated: choose a non-empty box, remove its stones one by one, placing each stone into a newly created (empty) box; then discard the (now empty) original box. After performing this operation $50^{25}$ times in total, how many non-empty boxes remain?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $10 \cdot 50^{12} - 1$

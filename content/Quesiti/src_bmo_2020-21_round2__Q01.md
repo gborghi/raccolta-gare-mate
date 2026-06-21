@@ -15,7 +15,7 @@ qa_score: '5'
 topics:
   - topic_aritmetica
 methods:
-  - method_costruzione
+  - method_casework
   - method_induzione
 skills:
   - skill_ragionamento_geometrico
@@ -36,7 +36,7 @@ tags:
 > A positive integer $n$ is called $\textit{good}$ if there is a set of divisors of $n$ whose members sum to $n$ and include $1$. Prove that every positive integer has a multiple which is good.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

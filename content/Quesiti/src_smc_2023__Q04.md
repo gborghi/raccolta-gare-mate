@@ -16,7 +16,7 @@ answer: C
 topics:
   - topic_aritmetica
 methods:
-  - method_stima
+  - skill_stima
 skills:
   - skill_stima
 tags:
@@ -41,7 +41,7 @@ tags:
 > - **(E)** $25$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_stima|method_stima]]
+**Metodo:** [[skill_stima|skill_stima]]
 **Abilita:** [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)

@@ -12,7 +12,7 @@ modalita: individuale
 nivel: '2'
 fase: '1'
 quesito: '14'
-summary: 'Ways to make R$10.00 with 10c and 25c coins, at least one each'
+summary: 'Ways to make R\$10.00 with 10c and 25c coins, at least one each'
 qa_score: '3'
 topics:
   - topic_aritmetica
@@ -35,7 +35,7 @@ tags:
   - gara/individuale
 ---
 
-*Ways to make R$10.00 with 10c and 25c coins, at least one each*
+*Ways to make R\$10.00 with 10c and 25c coins, at least one each*
 
 > In how many ways can we divide R\$10.00 into coins of $10$ centavos and of $25$ centavos, using at least one coin of each type?
 > (A) $15$ \quad (B) $16$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$

@@ -19,7 +19,7 @@ topics:
   - topic_combinatoria
 methods:
   - method_conteggio
-  - method_riconoscimento_pattern
+  - skill_riconoscimento_pattern
 skills:
   - skill_riconoscimento_pattern
   - skill_manipolazione_algebrica
@@ -43,7 +43,7 @@ tags:
 > What is the remainder when $N$ is divided by 100?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_riconoscimento_pattern|method_riconoscimento_pattern]]
+**Metodo:** [[method_conteggio|Conteggio]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF

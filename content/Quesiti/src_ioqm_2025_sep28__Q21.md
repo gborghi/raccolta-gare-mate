@@ -18,7 +18,7 @@ topics:
   - topic_algebra
   - topic_insiemi_funzioni
 methods:
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
   - method_simmetria
 skills:
   - skill_manipolazione_algebrica
@@ -40,7 +40,7 @@ tags:
 > Let $f : \mathbb{R} \to \mathbb{R}$ be a function satisfying $4f(3-x) + 3f(x) = x^2$ for any real $x$. Find the value of $f(27) - f(25)$ to the nearest integer.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_manipolazione_algebrica|method_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF

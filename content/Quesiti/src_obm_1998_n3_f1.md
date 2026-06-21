@@ -37,7 +37,7 @@ Sorgente: apri PDF
 - [[src_obm_1998_n3_f1__Q12|Quesito 12]] — An integer n is 'good' when 4n+1 is a multiple of 5. Count the good numbers between 500 and 1000.
 - [[src_obm_1998_n3_f1__Q13|Quesito 13]] — In a set of points in space where any two distinct points are at distance 1, find the maximum number of points.
 - [[src_obm_1998_n3_f1__Q14|Quesito 14]] — If x men make x bundles in x seconds, how many seconds do y men take to make y bundles?
-- [[src_obm_1998_n3_f1__Q15|Quesito 15]] — Pizza price is proportional to area; a 20cm-diameter pizza costs R$3.60. Find the price of a 30cm-diameter pizza.
+- [[src_obm_1998_n3_f1__Q15|Quesito 15]] — Pizza price is proportional to area; a 20cm-diameter pizza costs R\$3.60. Find the price of a 30cm-diameter pizza.
 - [[src_obm_1998_n3_f1__Q16|Quesito 16]] — Function f assigns to each real x the smaller element of {x+1, (15-x)/2}. Find the maximum value of f(x).
 - [[src_obm_1998_n3_f1__Q17|Quesito 17]] — Two radios sold at equal prices, one with 25% profit and one with 25% loss; find the net result on invested capital.
 - [[src_obm_1998_n3_f1__Q18|Quesito 18]] — Four people make statements about a problem's answer; find the maximum number that can be simultaneously true.

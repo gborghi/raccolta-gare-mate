@@ -13,7 +13,7 @@ nivel: '1'
 fase: '1'
 quesito: '10'
 summary: >-
-  100 coins (50c and R$1) total 76 reais; find difference in count between the
+  100 coins (50c and R\$1) total 76 reais; find difference in count between the
   two types.
 qa_score: '3'
 answer: B
@@ -36,7 +36,7 @@ tags:
   - gara/individuale
 ---
 
-*100 coins (50c and R$1) total 76 reais; find difference in count between the two types.*
+*100 coins (50c and R\$1) total 76 reais; find difference in count between the two types.*
 
 > Ronaldo, whenever he can, saves coins of 50 centavos or 1 real. He currently has 100 coins totalling 76 reais. How many more coins of one denomination does he have than the other?
 > 

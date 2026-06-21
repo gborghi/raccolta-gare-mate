@@ -20,7 +20,7 @@ topics:
   - topic_algebra
 methods:
   - method_disuguaglianze
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_stima
@@ -46,7 +46,7 @@ tags:
 *Appears in regions: Mumbai, Region 5.*
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** apri PDF

@@ -16,7 +16,7 @@ topics:
   - topic_geometria_piana
   - topic_combinatoria
 methods:
-  - method_costruzione
+  - method_casework
   - method_simmetria
 skills:
   - skill_modellizzazione
@@ -40,7 +40,7 @@ tags:
 > (b) The lengths of the 1990 sides are the numbers $1^2$, $2^2$, $3^2$, $\ldots$, $1990^2$ in some order.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_casework|method_casework]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF p.1

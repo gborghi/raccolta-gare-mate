@@ -16,7 +16,7 @@ topics:
   - topic_combinatoria
   - topic_aritmetica
 methods:
-  - method_costruzione
+  - method_casework
   - method_invarianti
   - method_casework
 skills:
@@ -44,7 +44,7 @@ tags:
 ![[src_imho_2018__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_casework|method_casework]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF p.1

@@ -19,7 +19,7 @@ topics:
 methods:
   - method_congruenze
   - method_fattorizzazione
-  - method_costruzione
+  - method_casework
 skills:
   - skill_manipolazione_algebrica
   - skill_modellizzazione
@@ -43,7 +43,7 @@ tags:
 > where $p_i$ is the $i$-th prime (i.e., $p_1 = 2$, $p_2 = 3$, $p_3 = 5$, $\ldots$).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_costruzione|method_costruzione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|method_casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

@@ -19,7 +19,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_congruenze
-  - method_costruttivo
+  - method_casework
 skills:
   - skill_modellizzazione
   - skill_astrazione
@@ -43,7 +43,7 @@ tags:
 > In the Cartesian plane, all points with both integer coordinates are colored blue. Two blue points are said to be *mutually visible* if the line segment connecting them contains no other blue points. Prove that there exists a set of $2019$ blue points that are pairwise mutually visible.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_costruttivo|method_costruttivo]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|method_casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

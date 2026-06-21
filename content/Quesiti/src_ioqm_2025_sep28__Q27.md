@@ -20,7 +20,7 @@ topics:
 methods:
   - method_fattorizzazione
   - method_estremalita
-  - method_manipolazione_algebrica
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_conteggio_sistematico
@@ -44,7 +44,7 @@ tags:
 > What is the smallest possible value of $a + b$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_manipolazione_algebrica|method_manipolazione_algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** apri PDF

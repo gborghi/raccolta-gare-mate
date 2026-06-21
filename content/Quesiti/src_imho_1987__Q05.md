@@ -18,7 +18,7 @@ topics:
   - topic_geometria_piana
   - topic_combinatoria
 methods:
-  - method_costruzione
+  - method_casework
   - method_coordinate
 skills:
   - skill_modellizzazione
@@ -41,7 +41,7 @@ tags:
 > Let $n$ be an integer greater than or equal to $3$. Prove that there is a set of $n$ points in the plane such that the distance between any two points is irrational and each set of three points determines a non-degenerate triangle with rational area.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_casework|method_casework]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF p.1

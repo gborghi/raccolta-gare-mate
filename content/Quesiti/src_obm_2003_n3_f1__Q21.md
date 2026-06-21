@@ -20,7 +20,7 @@ topics:
   - topic_aritmetica
 methods:
   - method_disuguaglianze
-  - method_manipolazione
+  - skill_manipolazione_algebrica
 skills:
   - skill_manipolazione_algebrica
   - skill_stima
@@ -46,7 +46,7 @@ tags:
 > A) $4$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_manipolazione|method_manipolazione]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D

@@ -18,7 +18,7 @@ topics:
   - topic_combinatoria
   - topic_aritmetica
 methods:
-  - method_costruzione
+  - method_casework
   - method_casework
 skills:
   - skill_modellizzazione
@@ -42,7 +42,7 @@ tags:
 > Esmeralda writes $2009^2$ integers in a table with 2009 rows and 2009 columns, placing one number in each cell. She correctly sums the numbers in each row and in each column, obtaining 4018 results. She notices that all the results are distinct. Is it possible that all these results are perfect squares?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_costruzione|method_costruzione]], [[method_casework|Casework]]
+**Metodo:** [[method_casework|method_casework]], [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** apri PDF

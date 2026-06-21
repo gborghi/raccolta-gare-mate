@@ -14,7 +14,7 @@ summary: 'Airlines X and Y on n cities, travel m flights avoiding Y-after-X'
 qa_score: '4'
 topics:
   - topic_combinatoria
-  - topic_grafi
+  - topic_combinatoria
 methods:
   - method_grafi
   - method_estremalita
@@ -49,7 +49,7 @@ tags:
 > 
 > \textit{Condition: an $X$-flight is never immediately followed by a $Y$-flight.}
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_grafi|topic_grafi]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]

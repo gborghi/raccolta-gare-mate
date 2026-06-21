@@ -23,7 +23,7 @@ tags:
 
 Sorgente: apri PDF
 
-- [[src_obm_2002_n2_f1__Q01|Quesito 1]] — Merchant sells two cars; total purchase R$27000, gain R$750; find individual prices
+- [[src_obm_2002_n2_f1__Q01|Quesito 1]] — Merchant sells two cars; total purchase R\$27000, gain R\$750; find individual prices
 - [[src_obm_2002_n2_f1__Q02|Quesito 2]] — Billiard ball on 5×7 table shot at 45°; count side hits before corner pocket
 - [[src_obm_2002_n2_f1__Q03|Quesito 3]] — TV 'with 20 polygons' means 20 along diagonal; count along diagonal for 60-polygon TV
 - [[src_obm_2002_n2_f1__Q04|Quesito 4]] — Dilute 2000 L milk twice with water; find V so milk equals water volume
@@ -35,7 +35,7 @@ Sorgente: apri PDF
 - [[src_obm_2002_n2_f1__Q10|Quesito 10]] — Square divided into 4 congruent trapezoids rearranged into square with central hole; fraction of area removed
 - [[src_obm_2002_n2_f1__Q11|Quesito 11]] — Bar chart of company revenues; identify the true statement
 - [[src_obm_2002_n2_f1__Q12|Quesito 12]] — Product of one million natural numbers equals one million; find maximum sum
-- [[src_obm_2002_n2_f1__Q13|Quesito 13]] — Carwash promotion: two prices, total R$176; minimum number of customers
+- [[src_obm_2002_n2_f1__Q13|Quesito 13]] — Carwash promotion: two prices, total R\$176; minimum number of customers
 - [[src_obm_2002_n2_f1__Q14|Quesito 14]] — Square divided into 4 congruent trapezoids; rearranged into square with central hole; area of hole
 - [[src_obm_2002_n2_f1__Q15|Quesito 15]] — Count positive integers less than 900 that are multiples of 7 ending in digit 7
 - [[src_obm_2002_n2_f1__Q16|Quesito 16]] — Triangle with angles 80° and 40°; find acute angle between bisectors of A and B

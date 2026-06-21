@@ -21,7 +21,7 @@ topics:
   - topic_combinatoria
 methods:
   - method_induzione
-  - method_costruzione
+  - method_casework
 skills:
   - skill_modellizzazione
   - skill_ragionamento_geometrico
@@ -44,7 +44,7 @@ tags:
 > Show that there exists a positive integer $n_0$ with the following property: for any integer $n \ge n_0$, it is possible to partition a cube into $n$ smaller (not necessarily equal) cubes.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_costruzione|method_costruzione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|method_casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** apri PDF
