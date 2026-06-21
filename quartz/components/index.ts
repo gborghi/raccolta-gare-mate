@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import QuesitiTables from "./QuesitiTables"
 import CercaPage from "./CercaPage"
+import Navbar from "./Navbar"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   QuesitiTables,
   CercaPage,
+  Navbar,
 }
