@@ -1,0 +1,51 @@
+---
+title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 2
+tipo: quesito
+quesito_id: quesito_src_bocconi_semifinale_2013__Q02
+parent: src_bocconi_semifinale_2013
+competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
+family: bocconi
+year: '2013'
+level: Semifinale Campionati Internazionali di Giochi Matematici
+country: Italia
+modalita: individuale
+quesito: '2'
+summary: Modi di scegliere 5 dadi con somma pari
+qa_score: '3'
+answer: '4'
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_casework
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/semifinale-ci
+  - anno/2013
+  - livello/semifinale-ci
+  - topic/combinatoria
+  - topic/aritmetica
+  - gara/individuale
+---
+
+*Modi di scegliere 5 dadi con somma pari*
+
+> Jacob sceglie due gettoni, tra i cinque che vede in figura, con l'obiettivo che la somma dei loro numeri sia un numero pari.
+> 
+> In quanti modi può sceglierli indipendentemente dall'ordine in cui via via prende i due gettoni?
+> 
+> I gettoni mostrano i numeri 1, 2, 3, 4, 5.
+
+![[src_bocconi_semifinale_2013__Q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 4
+**Fonte:** apri PDF

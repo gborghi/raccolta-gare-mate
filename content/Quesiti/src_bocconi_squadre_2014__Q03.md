@@ -1,0 +1,44 @@
+---
+title: Gara a Squadre 2014 — Quesito 3
+tipo: quesito
+quesito_id: quesito_src_bocconi_squadre_2014__Q03
+parent: src_bocconi_squadre_2014
+competition: Gara a Squadre 2014
+family: bocconi
+year: '2014'
+level: Gara a Squadre
+country: Italia
+modalita: a squadre
+quesito: '3'
+summary: Fiammiferi per ricoprire pavimento 1 m × 1 m con quadratini 5 cm
+qa_score: '3'
+answer: '840'
+topics:
+  - topic_combinatoria
+  - topic_geometria_piana
+methods:
+  - method_conteggio
+skills:
+  - skill_conteggio_sistematico
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/gara-squadre
+  - anno/2014
+  - livello/gara-squadre
+  - topic/combinatoria
+  - topic/geometria_piana
+  - gara/squadre
+---
+
+*Fiammiferi per ricoprire pavimento 1 m × 1 m con quadratini 5 cm*
+
+> Quanti fiammiferi, lunghi $5$ cm, occorrono al minimo per ricoprire un pavimento quadrato ($1\text{ m} \times 1\text{ m}$) con un reticolato di quadratini di $5$ cm di lato?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** 840
+**Fonte:** apri PDF

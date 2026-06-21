@@ -1,0 +1,48 @@
+---
+title: >-
+  Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
+  7
+tipo: quesito
+quesito_id: quesito_src_bocconi_finalenaz_2007__Q07
+parent: src_bocconi_finalenaz_2007
+competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
+family: bocconi
+year: '2007'
+level: Finale Nazionale Campionati Internazionali di Giochi Matematici
+country: Italia
+modalita: individuale
+quesito: '7'
+summary: Quante caramelle verdi contiene la scatola?
+qa_score: '4'
+answer: 24 caramelle verdi
+topics:
+  - topic_algebra
+  - topic_aritmetica
+methods:
+  - method_backward
+skills:
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/finale-nazionale-ci
+  - anno/2007
+  - livello/finale-nazionale-ci
+  - topic/algebra
+  - topic/aritmetica
+  - gara/individuale
+---
+
+*Quante caramelle verdi contiene la scatola?*
+
+> LE CARAMELLE SONO GIALLE E VERDI
+> Una scatola contiene delle caramelle gialle (al limone) e delle caramelle verdi (alla menta). Se aggiungessimo una caramella gialla, le caramelle gialle rappresenterebbero un quarto del contenuto della scatola mentre, se ne togliessimo una, sarebbero solo il quinto del contenuto della scatola.
+> Quante caramelle verdi contiene la scatola?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 24 caramelle verdi
+**Fonte:** apri PDF

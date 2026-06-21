@@ -1,0 +1,40 @@
+---
+title: Giochi di Rosi 2011 — Quesito 9
+tipo: quesito
+quesito_id: quesito_src_bocconi_rosi_2011__Q09
+parent: src_bocconi_rosi_2011
+competition: Giochi di Rosi 2011
+family: bocconi
+year: '2011'
+level: Giochi di Rosi
+country: Italia
+modalita: individuale
+quesito: '9'
+summary: Litri nella botte che inizialmente ne conteneva di più
+qa_score: '3'
+answer: 205 litri
+topics:
+  - topic_algebra
+skills:
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/giochi-rosi
+  - anno/2011
+  - livello/giochi-rosi
+  - topic/algebra
+  - gara/individuale
+---
+
+*Litri nella botte che inizialmente ne conteneva di più*
+
+> Due (preziose) botti contengono, complessivamente, 350 litri di Brunello di Montalcino. Togliendo 20 litri dalla prima botte e 80 dalla seconda, il vino che resta nelle due botti è lo stesso (lo stesso numero di litri).
+> **Quanti litri c'erano nella botte che inizialmente ne conteneva di più?**
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 205 litri
+**Fonte:** apri PDF

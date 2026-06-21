@@ -1,0 +1,41 @@
+---
+title: Gara a Squadre 2008 — Quesito 17
+tipo: quesito
+quesito_id: quesito_src_bocconi_squadre_2008__Q17
+parent: src_bocconi_squadre_2008
+competition: Gara a Squadre 2008
+family: bocconi
+year: '2008'
+level: Gara a Squadre
+country: Italia
+modalita: a squadre
+quesito: '17'
+summary: Perimetro di un cerchio diviso in tre parti uguali
+qa_score: '3'
+answer: '4,094'
+topics:
+  - topic_geometria_piana
+skills:
+  - skill_manipolazione_algebrica
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/gara-squadre
+  - anno/2008
+  - livello/gara-squadre
+  - topic/geometria_piana
+  - gara/squadre
+---
+
+*Perimetro di un cerchio diviso in tre parti uguali*
+
+> Un cerchio è diviso in tre parti uguali dai raggi (di misura unitaria). Quanto misura il perimetro delle tre parti? (Si ponga $\pi = 3{,}141$ e si esprima il risultato con un numero decimale, con tre cifre dopo la virgola.)
+
+![[src_bocconi_squadre_2008__Q17.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Risposta:** 4,094
+**Fonte:** apri PDF

@@ -1,0 +1,48 @@
+---
+title: >-
+  Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
+  16
+tipo: quesito
+quesito_id: quesito_src_bocconi_finalenaz_2009__Q16
+parent: src_bocconi_finalenaz_2009
+competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
+family: bocconi
+year: '2009'
+level: Finale Nazionale Campionati Internazionali di Giochi Matematici
+country: Italia
+modalita: individuale
+quesito: '16'
+summary: 'Sette numeri positivi diversi con somma divisibile per ciascuno, somma minima'
+qa_score: '3'
+answer: 1-2-3-4-6-8-24 ; 1-2-3-6-8-12-16 (due soluzioni)
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_estremalita
+  - method_casework
+skills:
+  - skill_conteggio_sistematico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/finale-nazionale-ci
+  - anno/2009
+  - livello/finale-nazionale-ci
+  - topic/aritmetica
+  - topic/combinatoria
+  - gara/individuale
+---
+
+*Sette numeri positivi diversi con somma divisibile per ciascuno, somma minima*
+
+> W LA DIVISIBILITA'
+> Scrivete (in ordine crescente) 7 numeri positivi, tutti diversi tra loro e tali che la loro somma risulti divisibile per ognuno dei 7 numeri, essendo la più piccola possibile.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 1-2-3-4-6-8-24 ; 1-2-3-6-8-12-16 (due soluzioni)
+**Fonte:** apri PDF

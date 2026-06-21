@@ -1,0 +1,48 @@
+---
+title: Giochi d'Autunno 2009 — Quesito 17
+tipo: quesito
+quesito_id: quesito_src_bocconi_autunno_2009__Q17
+parent: src_bocconi_autunno_2009
+competition: Giochi d'Autunno 2009
+family: bocconi
+year: '2009'
+level: Giochi d'Autunno
+country: Italia
+modalita: individuale
+quesito: '17'
+summary: Lato massimo del quadrato intagliato in cartone
+qa_score: '3'
+answer: '$1 + \sqrt{2}$'
+topics:
+  - topic_geometria_piana
+  - topic_algebra
+methods:
+  - method_coordinate
+  - method_estremalita
+skills:
+  - skill_ragionamento_geometrico
+  - skill_manipolazione_algebrica
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/giochi-autunno
+  - anno/2009
+  - livello/giochi-autunno
+  - topic/geometria_piana
+  - topic/algebra
+  - gara/individuale
+---
+
+*Lato massimo del quadrato intagliato in cartone*
+
+> In un cartone quadrato di lato $x + 1$, è stato intagliato un quadrato di lato $x$ (come potete vedere in figura). Nel pezzo di cartone rimasto, si traccia un quarto di circonferenza con centro nel punto A. Quanto vale al massimo $x$ perché la costruzione sia possibile (l'intero quarto di circonferenza sta nel pezzo di cartone rimasto)? Si può sostituire $1{,}414$ a $\sqrt{2}$.
+
+![[src_bocconi_autunno_2009__Q17.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Risposta:** $1 + \sqrt{2}$
+**Fonte:** apri PDF

@@ -1,0 +1,51 @@
+---
+title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 9
+tipo: quesito
+quesito_id: quesito_src_bocconi_semifinale_2013__Q09
+parent: src_bocconi_semifinale_2013
+competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
+family: bocconi
+year: '2013'
+level: Semifinale Campionati Internazionali di Giochi Matematici
+country: Italia
+modalita: individuale
+quesito: '9'
+summary: Somma dei numeri interi da 1 a 7 disposti in una stella
+qa_score: '3'
+answer: 'tre soluzioni: 13, 14, 15'
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_casework
+  - method_simmetria
+skills:
+  - skill_manipolazione_algebrica
+  - skill_conteggio_sistematico
+tags:
+  - kg/quesito
+  - paese/italia
+  - comp/semifinale-ci
+  - anno/2013
+  - livello/semifinale-ci
+  - topic/aritmetica
+  - topic/combinatoria
+  - gara/individuale
+---
+
+*Somma dei numeri interi da 1 a 7 disposti in una stella*
+
+> I numeri interi da 1 a 7 vengono sistemati nelle caselle in modo che la somma dei tre numeri allineati siano uguali tra loro.
+> 
+> Quanto vale questa somma?
+> 
+> (In figura si vede una stella a 6 punte con un nodo centrale e nodi alle punte, dove ogni linea passante per il centro contiene 3 numeri.)
+
+![[src_bocconi_semifinale_2013__Q09.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** tre soluzioni: 13, 14, 15
+**Fonte:** apri PDF
