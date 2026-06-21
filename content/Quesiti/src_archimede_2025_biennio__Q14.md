@@ -34,11 +34,12 @@ tags:
 > In un grande lago ci sono 50 isole, numerate da 2 a 51. Due diverse isole sono
 > collegate da un ponte se e solo se uno dei rispettivi numeri divide l’altro.
 > Quante sono le isole con un solo ponte?
-> (A) 4
-> (B) 3
-> (C) 5
-> (D) 2
-> (E) 6
+>
+> - **(A)** 4
+> - **(B)** 3
+> - **(C)** 5
+> - **(D)** 2
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_grafi|Teoria dei grafi]]

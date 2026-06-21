@@ -40,13 +40,14 @@ tags:
 > domanda vi è una e una sola risposta corretta). Carlo viene a sapere che la lista
 > delle risposte corrette contiene tre lettere A, tre lettere B, due lettere C e due
 > lettere D. Qual è la probabilità che Carlo, scegliendo a caso una lista che abbia
-> 
+>
 > questa caratteristica, risponda correttamente a tutte le domande?
-> (A) 1/26500,
-> (B) 1/25200,
-> (C) 1/24600,
-> (D) 1/21200,
-> (E) 1/20800.
+>
+> - **(A)** 1/26500,
+> - **(B)** 1/25200,
+> - **(C)** 1/24600,
+> - **(D)** 1/21200,
+> - **(E)** 1/20800.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

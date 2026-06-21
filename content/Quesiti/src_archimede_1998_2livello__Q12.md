@@ -27,12 +27,12 @@ tags:
 *Quale unica affermazione su età e forza è falsa*
 
 > Una, ed una sola, delle seguenti affermazioni è falsa. Quale?
-> 
-> (A) Andrea è più giovane di Bruno, che è più forte di Carlo
-> (B) Andrea è più forte di Bruno, che è più giovane di Carlo
-> (C) Bruno è più vecchio di Andrea
-> (D) Bruno è più debole di Andrea
-> (E) Bruno è più vecchio e più debole di Carlo.
+>
+> - **(A)** Andrea è più giovane di Bruno, che è più forte di Carlo
+> - **(B)** Andrea è più forte di Bruno, che è più giovane di Carlo
+> - **(C)** Bruno è più vecchio di Andrea
+> - **(D)** Bruno è più debole di Andrea
+> - **(E)** Bruno è più vecchio e più debole di Carlo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]

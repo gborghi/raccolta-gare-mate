@@ -35,12 +35,12 @@ tags:
 *Area of metal piece made by cutting and welding triangles*
 
 > Geraldo, the locksmith, took a square metal plate, then cut it and welded right-angled triangles with legs of 5 cm, building the piece represented alongside. What is the area of this piece?
-> 
-> (A) $100\,\text{cm}^2$
-> (B) $125\,\text{cm}^2$
-> (C) $150\,\text{cm}^2$
-> (D) $200\,\text{cm}^2$
-> (E) $250\,\text{cm}^2$
+>
+> - **(A)** $100\,\text{cm}^2$
+> - **(B)** $125\,\text{cm}^2$
+> - **(C)** $150\,\text{cm}^2$
+> - **(D)** $200\,\text{cm}^2$
+> - **(E)** $250\,\text{cm}^2$
 
 ![[src_obm_2015_n1_f1__Q11.png]]
 

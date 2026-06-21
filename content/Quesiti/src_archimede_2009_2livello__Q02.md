@@ -32,17 +32,12 @@ tags:
 
 > Il perimetro di un rombo è 32 cm e ciascuno dei due angoli acuti misura 30°. Quanto vale il volume
 > del solido ottenuto facendo ruotare il rombo intorno a un suo lato?
-> (A) 128
-> √
-> 3π
-> (B) 128π
-> (C) 64(
-> √
-> 3 −1)π
-> (D) 64π
-> (E) 32
-> √
-> 3π.
+>
+> - **(A)** 128 √ 3π
+> - **(B)** 128π
+> - **(C)** 64( √ 3 −1)π
+> - **(D)** 64π
+> - **(E)** 32 √ 3π.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

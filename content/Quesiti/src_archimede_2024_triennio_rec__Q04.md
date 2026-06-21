@@ -35,11 +35,12 @@ tags:
 > 2 + 1
 > 4
 > 1013
-> (A) 1
-> (B) nessuno degli altri 4
-> (C) 1/9
-> (D) 1/3
-> (E) 2
+>
+> - **(A)** 1
+> - **(B)** nessuno degli altri 4
+> - **(C)** 1/9
+> - **(D)** 1/3
+> - **(E)** 2
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

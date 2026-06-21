@@ -30,14 +30,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob9.png]]
 
 > Se vuoi evitare che il topo raggiunga il formaggio, occorre e basta che tu chiuda due porte. Quali?
-> 
+>
 > (vedi figura)
-> 
-> (A) 1 e 2
-> (B) 2 e 3
-> (C) 3 e 4
-> (D) 4 e 5
-> (E) 3 e 5
+>
+> - **(A)** 1 e 2
+> - **(B)** 2 e 3
+> - **(C)** 3 e 4
+> - **(D)** 4 e 5
+> - **(E)** 3 e 5
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

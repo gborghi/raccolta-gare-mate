@@ -56,36 +56,12 @@ tags:
 > Il raggio della circonferenza a fianco è di 5 cm; inoltre i punti A, B e C dividono la circonferenza in tre archi di uguale
 > lunghezza. Calcolare l’area delimitata dalle corde AC e BC e
 > dall’arco di estremi A e B contenente D.
-> (A) 25( π
-> 3 +
-> √
-> 3
-> 2 ) cm2,
-> (B) 25( π
-> 6 +
-> √
-> 3) cm2,
-> (C) 15( π
-> 3 +
-> √
-> 3
-> 2 )
-> cm2,
-> (D) 25
-> √
-> 3
-> 2
-> cm2,
-> (E) 25
-> 2 ( π
-> 3 +
-> √
-> 3
-> 2 ) cm2.
-> C
-> A
-> B
-> D
+>
+> - **(A)** 25( π 3 + √ 3 2 ) cm2,
+> - **(B)** 25( π 6 + √ 3) cm2,
+> - **(C)** 15( π 3 + √ 3 2 ) cm2,
+> - **(D)** 25 √ 3 2 cm2,
+> - **(E)** 25 2 ( π 3 + √ 3 2 ) cm2. C A B D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

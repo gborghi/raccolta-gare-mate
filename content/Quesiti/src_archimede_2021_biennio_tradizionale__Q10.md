@@ -34,11 +34,12 @@ tags:
 > contenere almeno una delle lettere A, B, C, ma non tutte e tre; non può contenere più di una volta la B; non può
 > contenere più di una volta la C; non può contenere una sequenza AA (due A di seguito). Quante parole differenti
 > Emanuele potrà scrivere?
-> (A) 11
-> (B) 10
-> (C) 8
-> (D) 9
-> (E) 13
+>
+> - **(A)** 11
+> - **(B)** 10
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** 13
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]

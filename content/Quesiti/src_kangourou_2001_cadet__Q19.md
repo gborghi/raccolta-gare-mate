@@ -37,11 +37,12 @@ tags:
 > determinano un vertice del cubo, moltiplica tra loro i
 > numeri che compaiono sulle facce, ottenendo così 8
 > numeri.  Qual è il più grande di essi?
-> (A) 40
-> (B) 60
-> (C) 72 
-> (D) 90 
-> (E) 120.
+>
+> - **(A)** 40
+> - **(B)** 60
+> - **(C)** 72
+> - **(D)** 90
+> - **(E)** 120.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

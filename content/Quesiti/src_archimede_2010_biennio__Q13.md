@@ -34,11 +34,12 @@ tags:
 
 > Scriviamo tutti i numeri naturali da 1 a 2010 (compresi) uno di seguito all’altro in
 > modo da formare un nuovo numero naturale; quante cifre ha questo numero?
-> (A) 2010,
-> (B) 3540,
-> (C) 5225,
-> (D) 6933,
-> (E) 7253.
+>
+> - **(A)** 2010,
+> - **(B)** 3540,
+> - **(C)** 5225,
+> - **(D)** 6933,
+> - **(E)** 7253.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

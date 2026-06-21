@@ -33,14 +33,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob18.png]]
 
 > Due treni identici, ciascuno con $31$ carrozze, viaggiano in versi opposti. Quando le carrozze numero $19$ dei due treni sono affiancate, quale carrozza affianca la carrozza numero $12$ del primo treno?
-> 
+>
 > (vedi figura)
-> 
-> (A) $7$
-> (B) $12$
-> (C) $21$
-> (D) $26$
-> (E) $31$
+>
+> - **(A)** $7$
+> - **(B)** $12$
+> - **(C)** $21$
+> - **(D)** $26$
+> - **(E)** $31$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

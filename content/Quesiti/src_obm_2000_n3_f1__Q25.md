@@ -42,11 +42,12 @@ tags:
 *Count three-digit numbers with one digit equal to mean of the other two*
 
 > How many three-digit numbers (which do not start with 0) have a digit equal to the arithmetic mean of the other two?
-> (A) 121
-> (B) 117
-> (C) 112
-> (D) 115
-> (E) 105
+>
+> - **(A)** 121
+> - **(B)** 117
+> - **(C)** 112
+> - **(D)** 115
+> - **(E)** 105
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]

@@ -30,11 +30,12 @@ tags:
 
 > Supponiamo di scrivere in ordine alfabetico (in italiano) i nomi degli interi tra 1
 > e 100 (estremi compresi). Quanto fa la somma del primo e dell’ultimo?
-> (A) 6
-> (B) 70
-> (C) 71
-> (D) 101
-> (E) 121.
+>
+> - **(A)** 6
+> - **(B)** 70
+> - **(C)** 71
+> - **(D)** 101
+> - **(E)** 121.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

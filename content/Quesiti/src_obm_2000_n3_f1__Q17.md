@@ -40,11 +40,12 @@ tags:
 *Minimum sum of squares of two naturals whose difference is 29*
 
 > Of two natural numbers whose difference is 29, the minimum value of the sum of their squares is:
-> (A) 785
-> (B) 733
-> (C) 647
-> (D) 421
-> (E) 334
+>
+> - **(A)** 785
+> - **(B)** 733
+> - **(C)** 647
+> - **(D)** 421
+> - **(E)** 334
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]]

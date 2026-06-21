@@ -33,11 +33,12 @@ tags:
 > sarà maggiore di 100 anni della somma delle età dei tuoi figli, che pure sono 180!”.
 > Durante quale anno venusiano la somma delle età dei figli di Greta supererà quella
 > dei figli di Eva?
-> (A) 37,
-> (B) 38,
-> (C) 39,
-> (D) 40,
-> (E) 41.
+>
+> - **(A)** 37,
+> - **(B)** 38,
+> - **(C)** 39,
+> - **(D)** 40,
+> - **(E)** 41.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

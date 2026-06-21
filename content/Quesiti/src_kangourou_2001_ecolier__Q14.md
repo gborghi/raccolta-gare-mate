@@ -32,11 +32,12 @@ tags:
 > stesso numero di francobolli. Allora Adamo regala ad Arturo per il suo
 > compleanno la metà della propria collezione. A questo punto Arturo ha più
 > francobolli di Adamo. Precisamente, quanto di più?
-> (A) il doppio
-> (B) il triplo 
-> (C) il quadruplo
-> (D) il quintuplo
-> (E) dipende dal numero di francobolli che ciascuno possiede.
+>
+> - **(A)** il doppio
+> - **(B)** il triplo
+> - **(C)** il quadruplo
+> - **(D)** il quintuplo
+> - **(E)** dipende dal numero di francobolli che ciascuno possiede.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

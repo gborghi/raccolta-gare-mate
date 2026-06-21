@@ -31,12 +31,12 @@ tags:
 > Silvia ha 2006 tessere identiche a forma di triangolo equilatero e vuole disporle tutte sul tavolo senza
 > sovrapporle e in modo che ciascuna abbia esattamente due lati in comune con altre due tessere.
 > Può riuscire nel suo intento? Poteva riuscirci l’anno scorso, quando aveva 2005 tessere?
-> (A) È impossibile in entrambi i casi.
-> (B) È possibile con 2005 tessere, ma non con 2006.
-> (C) È possibile con 2006 tessere, ma non con 2005.
-> (D) In questi due casi è possibile, ma tra i numeri maggiori di 12 ce n’è almeno uno per cui non è
-> possibile.
-> (E) È possibile per tutti i numeri di tessere maggiori di 12.
+>
+> - **(A)** È impossibile in entrambi i casi.
+> - **(B)** È possibile con 2005 tessere, ma non con 2006.
+> - **(C)** È possibile con 2006 tessere, ma non con 2005.
+> - **(D)** In questi due casi è possibile, ma tra i numeri maggiori di 12 ce n’è almeno uno per cui non è possibile.
+> - **(E)** È possibile per tutti i numeri di tessere maggiori di 12.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

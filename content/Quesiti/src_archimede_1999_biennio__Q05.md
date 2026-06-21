@@ -31,11 +31,12 @@ tags:
 > Carlo e Ida hanno un appuntamento alle 7 del pomeriggio sotto la torre dell’orologio. Carlo arriva in orario e quando Ida arriva è la terza volta che Carlo vede
 > le lancette della torre dell orologio perpendicolari tra loro. Con che ritardo è
 > arrivata Ida?
-> (A) Meno di 1 ora e 10 minuti
-> (B) tra 1 ora e 10 e 1 ora e 15
-> (C) tra 1 ora e 15 e 1 ora e 20
-> (D) tra 1 ora e 20 e 1 ora e 25
-> (E) più di 1 ora e 25.
+>
+> - **(A)** Meno di 1 ora e 10 minuti
+> - **(B)** tra 1 ora e 10 e 1 ora e 15
+> - **(C)** tra 1 ora e 15 e 1 ora e 20
+> - **(D)** tra 1 ora e 20 e 1 ora e 25
+> - **(E)** più di 1 ora e 25.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

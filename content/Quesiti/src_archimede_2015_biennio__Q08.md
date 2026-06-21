@@ -31,11 +31,12 @@ tags:
 *2015a cifra decimale di 3/7*
 
 > Qual è la 2015a cifra dopo la virgola della scrittura decimale di 3/7?
-> (A) 7
-> (B) 1
-> (C) 5
-> (D) 2
-> (E) 4
+>
+> - **(A)** 7
+> - **(B)** 1
+> - **(C)** 5
+> - **(D)** 2
+> - **(E)** 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

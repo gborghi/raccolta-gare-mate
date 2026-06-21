@@ -35,11 +35,12 @@ tags:
 > Gabriele ha dieci cubi, di tre dimensioni: alcuni hanno lato di 3 cm, altri il lato di
 > 4 cm e altri ancora hanno il lato di 5 cm (ne ha almeno uno di ciascun tipo). La
 > somma dei volumi dei dieci cubi è 577 cm3. Quanti sono i cubi con il lato di 3 cm?
-> (A) 2,
-> (B) 3,
-> (C) 4,
-> (D) 5,
-> (E) 6.
+>
+> - **(A)** 2,
+> - **(B)** 3,
+> - **(C)** 4,
+> - **(D)** 5,
+> - **(E)** 6.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

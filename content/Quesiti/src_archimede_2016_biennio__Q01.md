@@ -28,11 +28,12 @@ tags:
 
 > Camilla è molto paziente e sta scrivendo, per esteso, l’intero numero 10001000.
 > Quante cifre deve scrivere in tutto?
-> (A) 1000
-> (B) 3001
-> (C) 1000001
-> (D) 1001
-> (E) 1004
+>
+> - **(A)** 1000
+> - **(B)** 3001
+> - **(C)** 1000001
+> - **(D)** 1001
+> - **(E)** 1004
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]

@@ -34,18 +34,12 @@ tags:
 > Sapendo
 > che l’arco PSQ è quattro volte l’arco PTQ allora l’angolo
 > P bRQ è
-> (A) 72°
-> (B) 90°
-> (C) 105°
-> (D) 108°
-> (E) 120°.
-> b
-> S
-> b
-> T
-> b P
-> b Q
-> b R
+>
+> - **(A)** 72°
+> - **(B)** 90°
+> - **(C)** 105°
+> - **(D)** 108°
+> - **(E)** 120°. b S b T b P b Q b R
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

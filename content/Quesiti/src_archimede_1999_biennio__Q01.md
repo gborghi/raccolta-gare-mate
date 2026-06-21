@@ -33,15 +33,12 @@ tags:
 > che gli alunni promossi con debito formativo sono 1
 > 6 dei promossi senza debiti, la
 > frazione dei non promossi (rispetto all’intera classe)
-> (A) è 1
-> 8
-> (B) è 1
-> 10
-> (C) è 1
-> 12
-> (D) è 1
-> 15
-> (E) non è determinabile.
+>
+> - **(A)** è 1 8
+> - **(B)** è 1 10
+> - **(C)** è 1 12
+> - **(D)** è 1 15
+> - **(E)** non è determinabile.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

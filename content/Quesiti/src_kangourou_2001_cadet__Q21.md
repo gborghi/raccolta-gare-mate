@@ -33,11 +33,12 @@ tags:
 > Quale tra i seguenti numeri non può essere in alcun caso il
 > numero di parti che si ottengono tagliando una torta rotonda
 > con 4 diversi tagli rettilinei di coltello?
-> (A) 5
-> (B) 7  
-> (C) 9
-> (D) 11
-> (E) 12.
+>
+> - **(A)** 5
+> - **(B)** 7
+> - **(C)** 9
+> - **(D)** 11
+> - **(E)** 12.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -30,11 +30,12 @@ tags:
 
 > Sapendo che k è un numero intero positivo fissato, per quante coppie (x, y) di
 > numeri reali maggiori o uguali a 0 vale l’uguaglianza x2k + y2k = (xy)k?
-> (A) 0
-> (B) 1
-> (C) 3
-> (D) infinite
-> (E) dipende da k
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** infinite
+> - **(E)** dipende da k
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

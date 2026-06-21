@@ -42,23 +42,12 @@ tags:
 > G
 > U
 > V
-> (A)
-> √
-> 3−1
-> (B)
-> √
-> 2
-> 2
-> (C)
-> √
-> 3
-> 2
-> (D)
-> √
-> 3
-> 3
-> (E) 3
-> 4
+>
+> - **(A)** √ 3−1
+> - **(B)** √ 2 2
+> - **(C)** √ 3 2
+> - **(D)** √ 3 3
+> - **(E)** 3 4
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

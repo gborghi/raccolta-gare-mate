@@ -35,11 +35,12 @@ tags:
 > strada. Inoltre il comune vuole che la distanza fra due lampioni consecutivi sia
 > la stessa in tutte e tre le strade, e che sia all’inizio sia alla fine di ogni strada ci
 > siano due lampioni (uno per lato). Il minimo numero di lampioni occorrenti è
-> (A) 25
-> (B) 44
-> (C) 50
-> (D) 80
-> (E) 94.
+>
+> - **(A)** 25
+> - **(B)** 44
+> - **(C)** 50
+> - **(D)** 80
+> - **(E)** 94.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

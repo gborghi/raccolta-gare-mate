@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob13.png]]
 
 > In quale delle seguenti figure è stata usata di più la matita grigia?
-> 
+>
 > (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

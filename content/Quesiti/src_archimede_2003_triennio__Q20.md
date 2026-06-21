@@ -35,11 +35,12 @@ tags:
 > b + 1
 > c + 1
 > d?
-> (A) −2
-> (B) 0
-> (C) −1
-> (D) 2
-> (E) nessuno dei valori precedenti.
+>
+> - **(A)** −2
+> - **(B)** 0
+> - **(C)** −1
+> - **(D)** 2
+> - **(E)** nessuno dei valori precedenti.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -31,11 +31,12 @@ tags:
 *Interi n con n^3+2n^2+n quadrato perfetto*
 
 > Quanti sono i numeri interi positivi n tali che n3+2n2+n sia un quadrato perfetto?
-> (A) Nessuno,
-> (B) almeno 1, ma non più di 4,
-> (C) almeno 5, ma non più di 9,
-> (D) almeno 10 ma non più di 20,
-> (E) nessuna delle precedenti.
+>
+> - **(A)** Nessuno,
+> - **(B)** almeno 1, ma non più di 4,
+> - **(C)** almeno 5, ma non più di 9,
+> - **(D)** almeno 10 ma non più di 20,
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

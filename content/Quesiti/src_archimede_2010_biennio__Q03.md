@@ -40,19 +40,12 @@ tags:
 > d
 > BCD (interno al triangolo BCD) è di 60°, quanto dista in
 > linea retta il bar dalla cuccia?
-> (A) 100 m,
-> (B) 100
-> √
-> 3 m,
-> (C) 200 m,
-> (D) 330 m,
-> (E) 200
-> √
-> 3 m.
-> A
-> B
-> C
-> D
+>
+> - **(A)** 100 m,
+> - **(B)** 100 √ 3 m,
+> - **(C)** 200 m,
+> - **(D)** 330 m,
+> - **(E)** 200 √ 3 m. A B C D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

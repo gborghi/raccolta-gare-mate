@@ -37,11 +37,12 @@ tags:
 > allineare nell’ordine giusto tre cifre, ciascuna delle quali può variare da 0 a 9. Fabio
 > non ricorda la combinazione corretta, ma è sicuro che la somma delle tre cifre sia
 > 10. Quanti tentativi dovrà fare, al massimo, per trovare la combinazione corretta?
-> (A) 61,
-> (B) 63,
-> (C) 65,
-> (D) 67,
-> (E) 69.
+>
+> - **(A)** 61,
+> - **(B)** 63,
+> - **(C)** 65,
+> - **(D)** 67,
+> - **(E)** 69.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

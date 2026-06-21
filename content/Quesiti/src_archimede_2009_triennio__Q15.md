@@ -33,11 +33,12 @@ tags:
 > Sulla mia lavagna sono scritti alcuni numeri interi positivi, non necessariamente
 > distinti. Se li sommo trovo 83, se li moltiplico trovo 1024. Qual è il più piccolo dei
 > numeri scritti sulla mia lavagna?
-> (A) 1,
-> (B) 2,
-> (C) 4,
-> (D) 8,
-> (E) 16.
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 4,
+> - **(D)** 8,
+> - **(E)** 16.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

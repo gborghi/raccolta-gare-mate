@@ -31,12 +31,12 @@ tags:
 > Sia ABC un triangolo e sia D il piede della bisettrice uscente dal vertice A. Sia ω la circonferenza
 > tangente ad AC in A e passante per D. Sia P la seconda intersezione di ω con la retta BC.
 > Sapendo che AC = 54, AD = 63 e CP = 108, trovare AB.
-> (A) 72
-> (B) 147
-> 2
-> (C) 98
-> (D) 99
-> (E) 102
+>
+> - **(A)** 72
+> - **(B)** 147 2
+> - **(C)** 98
+> - **(D)** 99
+> - **(E)** 102
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

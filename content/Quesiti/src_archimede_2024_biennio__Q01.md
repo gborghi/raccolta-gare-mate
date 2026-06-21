@@ -30,11 +30,12 @@ tags:
 
 > Quanti sono, tra i numeri interi che vanno da 1 a 1000, quelli che sono, al tempo
 > stesso, multipli sia di 5, sia di 6 e sia di 9?
-> (A) 10
-> (B) 9
-> (C) 15
-> (D) 11
-> (E) 16
+>
+> - **(A)** 10
+> - **(B)** 9
+> - **(C)** 15
+> - **(D)** 11
+> - **(E)** 16
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

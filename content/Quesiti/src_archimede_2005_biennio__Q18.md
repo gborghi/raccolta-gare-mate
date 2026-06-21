@@ -32,11 +32,12 @@ tags:
 > lingua tra l’inglese e il tedesco; inoltre, il 20% di coloro che parlano l’inglese parla
 > anche il tedesco, e l’80% di coloro che parlano il tedesco parla anche l’inglese.
 > Quanti sono gli impiegati di quell’ufficio che conoscono entrambe le lingue?
-> (A) 12,
-> (B) 14,
-> (C) 15,
-> (D) 16,
-> (E) 18.
+>
+> - **(A)** 12,
+> - **(B)** 14,
+> - **(C)** 15,
+> - **(D)** 16,
+> - **(E)** 18.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

@@ -33,11 +33,12 @@ tags:
 > Il quadrilatero ABCD è inscritto in una circonferenza. Si sa che l’angolo in A è
 > retto e che AB = 24, BC = 20, CD = 15.
 > Qual è la misura di DA?
-> (A) 11
-> (B) 27
-> (C) 10
-> (D) 19
-> (E) 7
+>
+> - **(A)** 11
+> - **(B)** 27
+> - **(C)** 10
+> - **(D)** 19
+> - **(E)** 7
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

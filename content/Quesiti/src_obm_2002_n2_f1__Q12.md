@@ -41,12 +41,12 @@ tags:
 *Product of one million natural numbers equals one million; find maximum sum*
 
 > The product of one million natural numbers equals one million. What is the largest possible value of the sum of these numbers?
-> 
-> (A) $1{,}000{,}000$
-> (B) $1{,}250{,}002$
-> (C) $1{,}501{,}999$
-> (D) $1{,}999{,}999$
-> (E) $13{,}999{,}432$
+>
+> - **(A)** $1{,}000{,}000$
+> - **(B)** $1{,}250{,}002$
+> - **(C)** $1{,}501{,}999$
+> - **(D)** $1{,}999{,}999$
+> - **(E)** $13{,}999{,}432$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]

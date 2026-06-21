@@ -37,12 +37,12 @@ tags:
 *Find Neto's age in 2006 from sum of birth years*
 
 > At the end of 1994, Neto was half the age of his grandmother. The sum of their birth years is 3844. How old does Neto turn in 2006?
-> 
-> (A) 55
-> (B) 56
-> (C) 60
-> (D) 62
-> (E) 108
+>
+> - **(A)** 55
+> - **(B)** 56
+> - **(C)** 60
+> - **(D)** 62
+> - **(E)** 108
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]

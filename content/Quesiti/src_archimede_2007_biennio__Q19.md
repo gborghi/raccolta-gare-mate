@@ -35,11 +35,12 @@ tags:
 > Carlo e Dario, che fanno le seguenti dichiarazioni. Arturo: “Bernardo è un brigante”; Bernardo: “Io sono l’unico cavaliere tra noi quattro”; Carlo: “Almeno uno tra
 > Arturo e Dario è un brigante”; Dario: “Siamo 4 cavalieri”. Quanti tra i quattro
 > sono cavalieri?
-> (A) Nessuno,
-> (B) uno,
-> (C) due,
-> (D) tre,
-> (E) quattro.
+>
+> - **(A)** Nessuno,
+> - **(B)** uno,
+> - **(C)** due,
+> - **(D)** tre,
+> - **(E)** quattro.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -31,11 +31,12 @@ tags:
 *Quante cifre ha il numero 2^3*5^4*10^5*
 
 > Quante cifre ha il numero 23 · 54 · 105?
-> (A) Sei,
-> (B) sette,
-> (C) otto,
-> (D) nove,
-> (E) nessuna delle precedenti.
+>
+> - **(A)** Sei,
+> - **(B)** sette,
+> - **(C)** otto,
+> - **(D)** nove,
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

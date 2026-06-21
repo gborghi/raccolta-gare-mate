@@ -35,11 +35,12 @@ tags:
 > • Se una delle soluzioni è 9 volte l’altra, allora b > 3a.
 > • Qualunque siano a e b, non possono esserci due soluzioni intere distinte.
 > • Se ci sono due soluzioni reali, il loro prodotto è 1.
-> (A) solo 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) tutte e 5
+>
+> - **(A)** solo 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** tutte e 5
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

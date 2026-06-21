@@ -29,11 +29,12 @@ tags:
 *Media aritmetica dei numeri da 1 a 2000*
 
 > Qual è la media (aritmetica) dei numeri 1, 2, 3, . . . , 1999, 2000?
-> (A) 999
-> (B) 999,5
-> (C) 1000
-> (D) 1000,5
-> (E) 1001.
+>
+> - **(A)** 999
+> - **(B)** 999,5
+> - **(C)** 1000
+> - **(D)** 1000,5
+> - **(E)** 1001.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

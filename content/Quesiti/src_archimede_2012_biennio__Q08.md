@@ -39,11 +39,12 @@ tags:
 > possibile colorare le mattonelle esagonali di blu, rosso e nero
 > in modo che due mattonelle esagonali con un lato in comune
 > non abbiano mai lo stesso colore?
-> (A) nessuno
-> (B) 2
-> (C) 3
-> (D) 6
-> (E) infiniti
+>
+> - **(A)** nessuno
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 6
+> - **(E)** infiniti
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

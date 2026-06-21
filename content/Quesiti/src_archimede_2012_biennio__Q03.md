@@ -30,14 +30,12 @@ tags:
 
 > È dato un esagono regolare di lato 2 m. Calcolare l’area della corona circolare
 > delimitata dal cerchio inscritto e dal cerchio circoscritto all’esagono.
-> (A) π
-> 2 m2
-> (B) π m2
-> (C) 4π
-> 3 m2
-> (D) 2π m2
-> (E) π
-> 9 m2
+>
+> - **(A)** π 2 m2
+> - **(B)** π m2
+> - **(C)** 4π 3 m2
+> - **(D)** 2π m2
+> - **(E)** π 9 m2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

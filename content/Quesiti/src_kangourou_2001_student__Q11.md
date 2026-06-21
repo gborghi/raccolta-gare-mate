@@ -37,12 +37,12 @@ tags:
 > Due circonferenze C1 e C2 di raggio diverso sono
 > tangenti esternamente e tangono entrambe la stessa retta r
 > (v. figura). Quale delle seguenti affermazioni è vera?
-> (A) Non esiste alcuna circonferenza tangente a C1,
-> C2 ed a r
-> (B) Esiste una ed una sola circonferenza tangente a C1, C2 ed a r
-> (C) Esistono esattamente due circonferenze tangenti a C1, C2 ed a r
-> (D) Esistono esattamente quattro circonferenze tangenti a C1, C2 ed a r
-> (E) Nessuna delle affermazioni (A), (B), (C), (D) è vera.
+>
+> - **(A)** Non esiste alcuna circonferenza tangente a C1, C2 ed a r
+> - **(B)** Esiste una ed una sola circonferenza tangente a C1, C2 ed a r
+> - **(C)** Esistono esattamente due circonferenze tangenti a C1, C2 ed a r
+> - **(D)** Esistono esattamente quattro circonferenze tangenti a C1, C2 ed a r
+> - **(E)** Nessuna delle affermazioni (A), (B), (C), (D) è vera.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_casework|Analisi per casi]]

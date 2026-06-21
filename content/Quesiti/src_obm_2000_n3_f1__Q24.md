@@ -38,11 +38,12 @@ tags:
 *Express sum of even-indexed coefficients of a degree-2000 polynomial*
 
 > Let $P(x)=a_{2000}x^{2000}+a_{1999}x^{1999}+a_{1998}x^{1998}+\ldots+a_1x+a_0$. Then $a_{2000}+a_{1998}+a_{1996}+\ldots+a_2+a_0$ is equal to:
-> (A) $\dfrac{P(1)-P(-1)}{2}$
-> (B) $\dfrac{P(1)+P(-1)}{2}$
-> (C) $P(2000)+P(1998)+\ldots+P(0)$
-> (D) $P(0)\cdot P(1)$
-> (E) $P(-1)\cdot P(1)$
+>
+> - **(A)** $\dfrac{P(1)-P(-1)}{2}$
+> - **(B)** $\dfrac{P(1)+P(-1)}{2}$
+> - **(C)** $P(2000)+P(1998)+\ldots+P(0)$
+> - **(D)** $P(0)\cdot P(1)$
+> - **(E)** $P(-1)\cdot P(1)$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]]

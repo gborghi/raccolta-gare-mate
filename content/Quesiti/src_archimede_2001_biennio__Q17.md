@@ -30,11 +30,12 @@ tags:
 > Un foglio di carta di forma quadrata viene piegato in due parti uguali in modo da
 > formare un rettangolo. Sapendo che il perimetro del rettangolo è di 18 cm, qual
 > è l’area, in cm2, del quadrato originario?
-> (A) 9
-> (B) 12
-> (C) 18
-> (D) 24
-> (E) 36.
+>
+> - **(A)** 9
+> - **(B)** 12
+> - **(C)** 18
+> - **(D)** 24
+> - **(E)** 36.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

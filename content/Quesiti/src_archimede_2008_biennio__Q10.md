@@ -33,21 +33,12 @@ tags:
 > In un quadrato ABCD di lato 1 cm, sono dati un punto M sul lato BC e un punto
 > N sul lato CD tali che BM = ND. Si sa inoltre che l’area del triangolo AMN è
 > pari a 4/9 cm2. Quanto vale la lunghezza del segmento ND?
-> (A) 1
-> 4 cm,
-> (B) 1
-> 3 cm,
-> (C) 1
-> 2 cm,
-> (D)
-> √
-> 5−1
-> 2
-> cm,
-> (E)
-> √
-> 3
-> 2 cm.
+>
+> - **(A)** 1 4 cm,
+> - **(B)** 1 3 cm,
+> - **(C)** 1 2 cm,
+> - **(D)** √ 5−1 2 cm,
+> - **(E)** √ 3 2 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

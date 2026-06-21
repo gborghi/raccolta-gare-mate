@@ -31,12 +31,12 @@ tags:
 *quante soluzioni intere positive*
 
 > Quante sono le coppie ordinate di numeri naturali $(x, y)$, $x > 0$ e $y > 0$, tali che $5 < x + y \leq 10$? (Attenzione: si considerano coppie ordinate, quindi, ad esempio, $(1, 2)$ e $(2, 1)$ sono coppie distinte).
-> 
-> (A) 20
-> (B) 25
-> (C) 30
-> (D) 35
-> (E) nessuna delle precedenti
+>
+> - **(A)** 20
+> - **(B)** 25
+> - **(C)** 30
+> - **(D)** 35
+> - **(E)** nessuna delle precedenti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

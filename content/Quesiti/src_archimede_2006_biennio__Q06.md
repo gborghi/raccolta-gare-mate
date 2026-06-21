@@ -28,11 +28,12 @@ tags:
 
 > In un rettangolo di area 150 m2 la misura della base è uguale ai 3
 > 2 di quella dell’altezza. Quanto misura il perimetro del rettangolo?
-> (A) 50 m,
-> (B) 54 m,
-> (C) 60 m,
-> (D) 64 m,
-> (E) 70 m.
+>
+> - **(A)** 50 m,
+> - **(B)** 54 m,
+> - **(C)** 60 m,
+> - **(D)** 64 m,
+> - **(E)** 70 m.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]

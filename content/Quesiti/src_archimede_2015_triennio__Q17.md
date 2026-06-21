@@ -32,11 +32,12 @@ tags:
 
 > Un triangolo possiede una bisettrice e una mediana tra loro perpendicolari, di
 > lunghezze, rispettivamente, 7 e 8. Qual è l’area del triangolo?
-> (A) 36
-> (B) 35
-> (C) 42
-> (D) 48
-> (E) 28
+>
+> - **(A)** 36
+> - **(B)** 35
+> - **(C)** 42
+> - **(D)** 48
+> - **(E)** 28
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

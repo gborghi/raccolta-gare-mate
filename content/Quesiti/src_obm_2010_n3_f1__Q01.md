@@ -38,12 +38,12 @@ tags:
 *Divide a power tower by 4 to a power.*
 
 > Dividing the number $4^{(4^4)}$ by $4^4$ we obtain the number:
-> 
-> (A) $2$
-> (B) $4^4$
-> (C) $4^8$
-> (D) $4^{48}$
-> (E) $4^{52}$
+>
+> - **(A)** $2$
+> - **(B)** $4^4$
+> - **(C)** $4^8$
+> - **(D)** $4^{48}$
+> - **(E)** $4^{52}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

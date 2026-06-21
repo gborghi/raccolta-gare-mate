@@ -31,13 +31,12 @@ tags:
 > Da un mazzo di 40 carte se ne estrae una, che subito viene reinserita nel mazzo; il
 > mazzo viene poi mescolato, e successivamente si estrae una nuova carta. Qual è la
 > probabilità che la nuova carta sia la stessa carta estratta in precedenza?
-> (A) 1/1600
-> (B) 1/40
-> (C) 1/80
-> (D) 1/20
-> (E)
-> 1
-> 40·39
+>
+> - **(A)** 1/1600
+> - **(B)** 1/40
+> - **(C)** 1/80
+> - **(D)** 1/20
+> - **(E)** 1 40·39
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

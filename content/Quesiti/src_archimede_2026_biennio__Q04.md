@@ -30,11 +30,12 @@ tags:
 
 > Roberta scrive per esteso il numero n = 102025 + 10803 + 34 + 25.
 > Qual è la somma di tutte le cifre di n?
-> (A) 7
-> (B) 2837
-> (C) 2025
-> (D) 9
-> (E) 115
+>
+> - **(A)** 7
+> - **(B)** 2837
+> - **(C)** 2025
+> - **(D)** 9
+> - **(E)** 115
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

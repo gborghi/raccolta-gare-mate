@@ -33,11 +33,12 @@ tags:
 > il primo pesa 242 g più del secondo. Sapendo che il materiale di cui è fatto il
 > primo oggetto ha densità 8,9 g/cm3 e quello di cui è fatto il secondo oggetto ha
 > densità 7,8 g/cm3, qual è il volume di ciascuno degli oggetti?
-> (A) 120 cm3
-> (B) 150 cm3
-> (C) 220 cm3
-> (D) 300 cm3
-> (E) i dati forniti sono insufficienti.
+>
+> - **(A)** 120 cm3
+> - **(B)** 150 cm3
+> - **(C)** 220 cm3
+> - **(D)** 300 cm3
+> - **(E)** i dati forniti sono insufficienti.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

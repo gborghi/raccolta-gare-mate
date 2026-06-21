@@ -32,11 +32,12 @@ tags:
 > I punti C, D, M, N appartengono a una stessa circonferenza. Qual è l’ampiezza
 > dell’angolo \
 > ADM ?
-> (A) 38°
-> (B) 30°
-> (C) 27°
-> (D) 36°
-> (E) 33°
+>
+> - **(A)** 38°
+> - **(B)** 30°
+> - **(C)** 27°
+> - **(D)** 36°
+> - **(E)** 33°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

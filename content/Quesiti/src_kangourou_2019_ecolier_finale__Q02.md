@@ -32,14 +32,12 @@ tags:
 *Colorazioni distinte di un cubo (rotazioni)*
 
 > Tre persone hanno attraversato un prato innevato con le scarpe infangate, lasciando le impronte che vedi in figura. In che ordine sono passate?
-> 
-> (A) 
-> (B) 
-> (C) 
-> (D) 
-> (E) 
-> 
-> (vedi figura)
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)** (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]

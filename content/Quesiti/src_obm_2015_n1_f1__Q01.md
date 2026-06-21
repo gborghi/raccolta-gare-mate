@@ -38,12 +38,12 @@ tags:
 *Order of toy cars arriving from clue constraints*
 
 > Juquinha and his friends organized a race with their toy cars. The white car (B) arrived before the red one (V) and before the brown one (M); the blue car (A) arrived after the brown one and before the red one. What was the order in which the cars arrived?
-> 
-> (A) B-A-V-M
-> (B) B-V-A-M
-> (C) B-M-A-V
-> (D) B-M-V-A
-> (E) B-A-M-V
+>
+> - **(A)** B-A-V-M
+> - **(B)** B-V-A-M
+> - **(C)** B-M-A-V
+> - **(D)** B-M-V-A
+> - **(E)** B-A-M-V
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]

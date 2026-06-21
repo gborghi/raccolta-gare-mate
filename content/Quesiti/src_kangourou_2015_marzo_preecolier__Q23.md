@@ -29,12 +29,12 @@ tags:
 *32, arrivo 6:11: ore di viaggio*
 
 > Siamo partiti per il Campo Scout ieri pomeriggio alle $16{:}32$ e siamo arrivati a destinazione questa mattina alle $6{:}11$. Per quante ore abbiamo viaggiato?
-> 
-> (A) $13$ ore e $39$ minuti
-> (B) $13$ ore e $21$ minuti
-> (C) $2$ ore e $21$ minuti
-> (D) $14$ ore e $39$ minuti
-> (E) $14$ ore e $21$ minuti
+>
+> - **(A)** $13$ ore e $39$ minuti
+> - **(B)** $13$ ore e $21$ minuti
+> - **(C)** $2$ ore e $21$ minuti
+> - **(D)** $14$ ore e $39$ minuti
+> - **(E)** $14$ ore e $21$ minuti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

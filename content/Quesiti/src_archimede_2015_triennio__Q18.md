@@ -36,11 +36,12 @@ tags:
 > 3 × 3 usando tutti i numeri da 1 a 9, in modo che la somma dei numeri
 > su ciascuna riga e su ciascuna colonna sia sempre la stessa. In quanti
 > modi Tommaso può riempire la griglia?
-> (A) 72
-> (B) 69
-> (C) 64
-> (D) 70
-> (E) 75
+>
+> - **(A)** 72
+> - **(B)** 69
+> - **(C)** 64
+> - **(D)** 70
+> - **(E)** 75
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

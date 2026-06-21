@@ -30,14 +30,12 @@ tags:
 
 > Roberta è nata esattamente il giorno del terzo compleanno di Cristina. Quanti anni
 > avrà Roberta quando Cristina avrà il doppio dell’età di Roberta?
-> (A) 1 anno
-> (B) 2 anni
-> (C) 3 anni
-> (D) 4 anni
-> (E) 10 anni.
-> 
-> Kangourou 15 marzo 2001, categoria Ecolier.     Pagina N.
-> 4
+>
+> - **(A)** 1 anno
+> - **(B)** 2 anni
+> - **(C)** 3 anni
+> - **(D)** 4 anni
+> - **(E)** 10 anni. Kangourou 15 marzo 2001, categoria Ecolier. Pagina N. 4
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -36,15 +36,12 @@ tags:
 > 2MC, CN = 1
 > 2NA. Qual è il
 > rapporto fra l’area del triangolo LMN e quella del triangolo ABC?
-> (A) 1
-> 4
-> (B) 1
-> 3
-> (C) 5
-> 12
-> (D) 1
-> 2
-> (E) dipende dal particolare triangolo considerato.
+>
+> - **(A)** 1 4
+> - **(B)** 1 3
+> - **(C)** 5 12
+> - **(D)** 1 2
+> - **(E)** dipende dal particolare triangolo considerato.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

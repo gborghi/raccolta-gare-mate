@@ -66,19 +66,12 @@ tags:
 > Sapendo che i verdi
 > riescono a colpire un bersaglio fino ad una distanza massima di 1 metro, quanto è grande (in metri
 > quadrati) la zona all’interno della base dei rossi al sicuro dalla portata di tiro dei verdi?
-> (A) 19
-> √
-> 3 −24
-> (B) 4
-> √
-> 3
-> (C) 3
-> √
-> 3
-> (D) 19 −8
-> √
-> 3
-> (E) ogni punto dell’area rossa è a portata di tiro dei verdi.
+>
+> - **(A)** 19 √ 3 −24
+> - **(B)** 4 √ 3
+> - **(C)** 3 √ 3
+> - **(D)** 19 −8 √ 3
+> - **(E)** ogni punto dell’area rossa è a portata di tiro dei verdi.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

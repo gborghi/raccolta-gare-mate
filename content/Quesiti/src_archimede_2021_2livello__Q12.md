@@ -36,12 +36,12 @@ tags:
 > Sia N il numero di sestuple ordinate di interi (a,b,c,d,e,f) tali che a3+b3+c3+d3+e3+f3 = 168
 > e −2021202120219 < abcdef < 2021202120219, dove abcdef è il prodotto dei sei interi. Quale
 > dei seguenti è il resto di N nella divisione per 6?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 4
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4 Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_simmetria|Sfruttamento della simmetria]]

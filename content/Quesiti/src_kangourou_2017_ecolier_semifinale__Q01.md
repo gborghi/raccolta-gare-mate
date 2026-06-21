@@ -28,16 +28,14 @@ tags:
 
 *Ordine di arrivo di una gara da indizi*
 
-> (Punti 2) Andrea, Bruno, Carlo e Davide hanno partecipato a una gara. Carlo è arrivato secondo; 
-> Bruno non è arrivato primo né quarto e anche Andrea non è arrivato quarto. Chi è arrivato primo? 
-> (A) Andrea 
->  
-> (B) Bruno 
->  
-> (C) Carlo 
->  
-> (D) Davide 
-> (E) Non ci sono dati sufficienti per stabilirlo.
+> (Punti 2) Andrea, Bruno, Carlo e Davide hanno partecipato a una gara. Carlo è arrivato secondo;
+> Bruno non è arrivato primo né quarto e anche Andrea non è arrivato quarto. Chi è arrivato primo?
+>
+> - **(A)** Andrea
+> - **(B)** Bruno
+> - **(C)** Carlo
+> - **(D)** Davide
+> - **(E)** Non ci sono dati sufficienti per stabilirlo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

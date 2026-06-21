@@ -34,11 +34,12 @@ tags:
 > sua scrittura in base dieci da destra verso sinistra (ad esempio, 68386 e 44 sono palindromi, 220
 > non lo è). Sappiamo che il numero naturale x e il numero x + 312 sono entrambi palindromi; x
 > ha quattro cifre, mentre x + 312 ne ha cinque. Quanto vale la somma delle cifre di x?
-> (A) 30
-> (B) 31
-> (C) 32
-> (D) 33
-> (E) 34
+>
+> - **(A)** 30
+> - **(B)** 31
+> - **(C)** 32
+> - **(D)** 33
+> - **(E)** 34
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

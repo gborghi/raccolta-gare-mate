@@ -38,11 +38,12 @@ tags:
 > dice: “c’è esattamente un cavaliere sull’isola”; il secondo dice: “ci sono esattamente due cavalieri
 > sull’isola”. . . l’ultimo dice: “ci sono esattamente 2008 cavalieri sull’isola”.
 > Quanti paggi ci sono sull’isola?
-> (A) 0
-> (B) 1
-> (C) 1004
-> (D) 2006
-> (E) non è possibile determinarlo con i dati del problema.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 1004
+> - **(D)** 2006
+> - **(E)** non è possibile determinarlo con i dati del problema.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

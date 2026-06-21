@@ -33,11 +33,12 @@ tags:
 > Trova il minimo numero di fiammiferi che bisogna
 > aggiungere alla figura in modo da ottenere esattamente
 > 11 quadrati.
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

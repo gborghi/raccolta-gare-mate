@@ -34,11 +34,12 @@ tags:
 > e gli altri dicono sempre la verità. Anna afferma: “Il colpevole è un maschio!”.
 > Cecilia dice: “È stata Anna oppure è stato Enrico”. Infine Enrico dice: “Se Bruno
 > è colpevole allora Anna è innocente”. Chi ha commesso l’omicidio?
-> (A) Anna,
-> (B) Bruno,
-> (C) Cecilia,
-> (D) Dario,
-> (E) Enrico.
+>
+> - **(A)** Anna,
+> - **(B)** Bruno,
+> - **(C)** Cecilia,
+> - **(D)** Dario,
+> - **(E)** Enrico.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

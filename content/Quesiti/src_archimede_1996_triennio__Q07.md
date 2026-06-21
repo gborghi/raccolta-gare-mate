@@ -29,17 +29,12 @@ tags:
 *Somma dei reciproci delle radici di una quadratica*
 
 > La somma dei reciproci delle radici di ax2 + bx + c = 0 (ove a, b, c ̸= 0) è
-> (A) 1
-> a + 1
-> b
-> (B) b
-> c
-> (C) −c
-> b
-> (D) −a
-> b
-> (E) −b
-> c.
+>
+> - **(A)** 1 a + 1 b
+> - **(B)** b c
+> - **(C)** −c b
+> - **(D)** −a b
+> - **(E)** −b c.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

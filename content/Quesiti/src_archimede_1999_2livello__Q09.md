@@ -29,12 +29,12 @@ tags:
 *Soluzioni intere positive di x^x - 2^x - x² = 10*
 
 > Quante sono le soluzioni intere positive dell'equazione $x^x - 2x - x^2 = 0$?
-> 
-> (A) Nessuna
-> (B) una
-> (C) due
-> (D) più di due, ma un numero finito
-> (E) infinite.
+>
+> - **(A)** Nessuna
+> - **(B)** una
+> - **(C)** due
+> - **(D)** più di due, ma un numero finito
+> - **(E)** infinite.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

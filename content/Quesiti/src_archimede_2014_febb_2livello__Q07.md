@@ -39,23 +39,12 @@ tags:
 > rappresentata in grigio nella figura a lato. Se i
 > quadrati tratteggiati hanno i lati di lunghezza 1,
 > qual è la superficie di una pedina?
-> (A) 2
-> 3
-> (B)
-> √
-> 3
-> 6
-> (C) 1
-> 6
-> (D)
-> √
-> 2
-> 8
-> (E) 1
-> 8 +
-> √
-> 2
-> 12
+>
+> - **(A)** 2 3
+> - **(B)** √ 3 6
+> - **(C)** 1 6
+> - **(D)** √ 2 8
+> - **(E)** 1 8 + √ 2 12
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -32,11 +32,12 @@ tags:
 > fila per 2, per 3, per 4, 5, 6, 7, ma ogni volta ne avanza uno. Se li vuole disporre
 > tutti in varie file della stessa lunghezza (maggiore di 1), quale dovrà essere come
 > minimo tale lunghezza?
-> (A) 19
-> (B) 23
-> (C) 11
-> (D) 17
-> (E) 13
+>
+> - **(A)** 19
+> - **(B)** 23
+> - **(C)** 11
+> - **(D)** 17
+> - **(E)** 13
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

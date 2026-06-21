@@ -34,11 +34,12 @@ tags:
 > Marco distribuisce 1260 figurine tra tutti i suoi amici, che sono meno di 100, dando
 > a ciascuno di loro lo stesso numero di figurine e in modo da distribuirle tutte. Qual
 > è il massimo numero di amici che Marco può avere?
-> (A) 70
-> (B) 84
-> (C) 90
-> (D) 94
-> (E) nessuno dei precedenti
+>
+> - **(A)** 70
+> - **(B)** 84
+> - **(C)** 90
+> - **(D)** 94
+> - **(E)** nessuno dei precedenti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -34,15 +34,12 @@ tags:
 > comune formando un nuovo quadrato EFGH. Ripetiamo la stessa operazione per
 > EFGH e otteniamo un nuovo quadrato A′B′C′D′. Quanto vale il rapporto tra
 > l’area di ABCD e l’area di A′B′C′D′?
-> (A) 2,
-> (B) 2
-> √
-> 2,
-> (C) 4,
-> (D) 4
-> √
-> 2,
-> (E) 8.
+>
+> - **(A)** 2,
+> - **(B)** 2 √ 2,
+> - **(C)** 4,
+> - **(D)** 4 √ 2,
+> - **(E)** 8.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

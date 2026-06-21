@@ -33,17 +33,12 @@ tags:
 
 > Il quadrato ABCD disegnato a fianco ha il lato lungo 3 m. Il segmento EF è lungo 1 m ed
 > è parallelo ad AB. Quanto vale l’area dell’esagono ABFCDE?
-> (A) 5 m2,
-> (B) 5, 5 m2,
-> (C) 6 m2,
-> (D) 7 m2,
-> (E) 7, 5 m2.
-> A
-> B
-> C
-> D
-> E
-> F
+>
+> - **(A)** 5 m2,
+> - **(B)** 5, 5 m2,
+> - **(C)** 6 m2,
+> - **(D)** 7 m2,
+> - **(E)** 7, 5 m2. A B C D E F
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

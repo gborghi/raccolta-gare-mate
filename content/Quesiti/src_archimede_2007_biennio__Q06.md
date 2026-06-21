@@ -29,11 +29,12 @@ tags:
 *Semplificare 10^100+100^10*
 
 > Il numero 10100 + 10010 è uguale a:
-> (A) 10020,
-> (B) 1020(1 + 1080),
-> (C) 10100(1010 + 1),
-> (D) 10120,
-> (E) 110110.
+>
+> - **(A)** 10020,
+> - **(B)** 1020(1 + 1080),
+> - **(C)** 10100(1010 + 1),
+> - **(D)** 10120,
+> - **(E)** 110110.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

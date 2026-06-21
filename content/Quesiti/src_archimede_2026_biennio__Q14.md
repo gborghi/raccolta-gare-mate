@@ -32,11 +32,12 @@ tags:
 
 > Giacomo sta scrivendo, in ordine alfabetico, tutti i possibili anagrammi della parola
 > PUNTO. Quale posizione occupa la parola PUNTO in questo elenco?
-> (A) la 57a
-> (B) la 56a
-> (C) la 65a
-> (D) la 66a
-> (E) la 68a
+>
+> - **(A)** la 57a
+> - **(B)** la 56a
+> - **(C)** la 65a
+> - **(D)** la 66a
+> - **(E)** la 68a
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

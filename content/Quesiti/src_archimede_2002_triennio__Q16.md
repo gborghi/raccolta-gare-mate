@@ -36,11 +36,12 @@ tags:
 > (ii) Presi tre numeri dispari consecutivi qualsiasi, almeno due sono primi.
 > (iii) Presi quattro numeri dispari consecutivi qualsiasi, almeno uno non è primo.
 > (iv) Presi cinque numeri dispari consecutivi qualsiasi, almeno due non sono primi.
-> (A) Nessuna
-> (B) una
-> (C) due
-> (D) tre
-> (E) quattro.
+>
+> - **(A)** Nessuna
+> - **(B)** una
+> - **(C)** due
+> - **(D)** tre
+> - **(E)** quattro.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

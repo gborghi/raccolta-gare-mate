@@ -38,11 +38,12 @@ tags:
 > latte 6%. Sapendo che gli ingredienti sono disposti in ordine (nessun ingrediente può essere presente in quantità
 > maggiore di un altro elencato in precedenza), qual è la percentuale massima di olio
 > di palma che il dolciume potrebbe contenere?
-> (A) 21%
-> (B) 14%
-> (C) 80%
-> (D) 40%
-> (E) 37%
+>
+> - **(A)** 21%
+> - **(B)** 14%
+> - **(C)** 80%
+> - **(D)** 40%
+> - **(E)** 37%
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

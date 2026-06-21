@@ -33,14 +33,12 @@ tags:
 > Un ciclista percorre una salita con velocità v costante e ridiscende per la stessa
 > strada con velocità ancora costante ma pari al triplo della precedente. La velocità
 > media nell’intero percorso di andata e ritorno è. . .
-> (A) 3
-> 4v
-> (B) 4
-> 3v
-> (C) 3
-> 2v
-> (D) 2v
-> (E) dipende dalla lunghezza della strada.
+>
+> - **(A)** 3 4v
+> - **(B)** 4 3v
+> - **(C)** 3 2v
+> - **(D)** 2v
+> - **(E)** dipende dalla lunghezza della strada.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

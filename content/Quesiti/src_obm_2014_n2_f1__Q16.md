@@ -39,12 +39,12 @@ tags:
 *Shortest path A to D choosing circular arc trails with given angles*
 
 > In the game Lento e Calmo (Slow and Calm), a racing game, there are trails on some stretches of the tracks. The trails are always arcs of a circle with the center given in the figure. The trails are not the same as the straight stretches of the path. Given the data of the figure — trail 1 subtends an arc of $100^\circ$ and trail 2 subtends an arc of $120^\circ$ at their respective centers — in which circumstance does the player cover the shortest distance from point $A$ to point $D$?
-> 
-> (A) Use trail 1, not trail 2.\\
-> (B) Use trail 2, not trail 1.\\
-> (C) Use both trails.\\
-> (D) Use neither trail.\\
-> (E) There is not enough information to determine.
+>
+> - **(A)** Use trail 1, not trail 2.\\
+> - **(B)** Use trail 2, not trail 1.\\
+> - **(C)** Use both trails.\\
+> - **(D)** Use neither trail.\\
+> - **(E)** There is not enough information to determine.
 
 ![[src_obm_2014_n2_f1__Q16.png]]
 

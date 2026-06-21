@@ -28,12 +28,12 @@ tags:
 *quanti diversi da zero*
 
 > $a$, $b$ e $c$ sono tre numeri naturali. Sappiamo che $a$ è divisibile per 15 e $b$ è divisibile per 21. Quale delle seguenti affermazioni è certamente vera?
-> 
-> (A) $a^2 + b^2 + c^2$ è divisibile per 2
-> (B) $a + b + c$ è divisibile per 18
-> (C) $a + b + c$ è divisibile per 9
-> (D) $(a + b + c)^2$ è divisibile per 9
-> (E) $a^2 + b^2 + c^2$ è divisibile per 9
+>
+> - **(A)** $a^2 + b^2 + c^2$ è divisibile per 2
+> - **(B)** $a + b + c$ è divisibile per 18
+> - **(C)** $a + b + c$ è divisibile per 9
+> - **(D)** $(a + b + c)^2$ è divisibile per 9
+> - **(E)** $a^2 + b^2 + c^2$ è divisibile per 9
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

@@ -34,11 +34,12 @@ tags:
 > Cecilia ha un dado a sei facce (numerate da 1 a 6) e 4 colori a disposizione. In quanti modi può
 > colorare le sei facce del dado usando in totale almeno tre colori diversi e facendo in modo che
 > facce opposte siano di colori diversi?
-> (A) 43 · 33
-> (B) 36 −26
-> (C) 26 · 32
-> (D) 24 · 3 · 5 · 7
-> (E) Nessuna delle precedenti
+>
+> - **(A)** 43 · 33
+> - **(B)** 36 −26
+> - **(C)** 26 · 32
+> - **(D)** 24 · 3 · 5 · 7
+> - **(E)** Nessuna delle precedenti
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]

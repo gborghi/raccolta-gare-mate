@@ -40,14 +40,15 @@ tags:
 > Nodi
 > maglia
 > Piombini
-> 
+>
 > Kangourou 15 marzo 2001, categoria Cadet.     Pagina N.
 > 6
-> (A) 95
-> (B) 102
-> (C) 105
-> (D) 112
-> (E) 126.
+>
+> - **(A)** 95
+> - **(B)** 102
+> - **(C)** 105
+> - **(D)** 112
+> - **(E)** 126.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

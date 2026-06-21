@@ -34,11 +34,12 @@ tags:
 > Dall’insieme {1, 2, . . . , 100} scegliamo 50 numeri distinti, la cui somma è 3000.
 > Come minimo,
 > quanti numeri pari abbiamo scelto?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalita]]

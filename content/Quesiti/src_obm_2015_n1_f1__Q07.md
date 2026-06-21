@@ -36,12 +36,12 @@ tags:
 *Sum of digits of 10^15 - 15*
 
 > By performing the operations indicated in the expression $10^{15} - 15$, we obtain a very large number. What is the sum of all the digits of this number?
-> 
-> (A) 85
-> (B) 105
-> (C) 130
-> (D) 132
-> (E) 202
+>
+> - **(A)** 85
+> - **(B)** 105
+> - **(C)** 130
+> - **(D)** 132
+> - **(E)** 202
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]

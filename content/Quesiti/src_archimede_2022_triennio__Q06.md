@@ -81,11 +81,12 @@ tags:
 > 31
 > 49
 > 42
-> (A) 24
-> (B) 22
-> (C) 26
-> (D) 28
-> (E) 27
+>
+> - **(A)** 24
+> - **(B)** 22
+> - **(C)** 26
+> - **(D)** 28
+> - **(E)** 27
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

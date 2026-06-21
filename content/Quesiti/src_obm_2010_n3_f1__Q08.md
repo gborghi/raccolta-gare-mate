@@ -40,12 +40,12 @@ tags:
 *Greatest common divisor of all products of three consecutive odd positive numbers.*
 
 > The greatest common divisor of all numbers that are the product of three consecutive odd positive numbers is
-> 
-> (A) $1$
-> (B) $3$
-> (C) $5$
-> (D) $15$
-> (E) $105$
+>
+> - **(A)** $1$
+> - **(B)** $3$
+> - **(C)** $5$
+> - **(D)** $15$
+> - **(E)** $105$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]

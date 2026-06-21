@@ -37,11 +37,12 @@ tags:
 > n + 1 < 6024
 > 6027 .
 > Qual è la somma delle cifre di N?
-> (A) 6,
-> (B) 7,
-> (C) 8,
-> (D) 9,
-> (E) 10.
+>
+> - **(A)** 6,
+> - **(B)** 7,
+> - **(C)** 8,
+> - **(D)** 9,
+> - **(E)** 10.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

@@ -58,15 +58,15 @@ tags:
 \end{document}
 ```
 
-> (Punti 4) Osserva la figura. Il rettangolo ABCD è suddiviso in otto quadrati 
-> di tre taglie diverse: il lato di ogni quadrato ombreggiato è lungo 16 cm. Quanti 
-> centimetri quadrati misura l’area di ciascuno dei quadretti più piccoli? 
-> (A) 72  
-> (B) 192 
-> (C) 256 
-> (D) 108 
->  
-> (E) 144
+> (Punti 4) Osserva la figura. Il rettangolo ABCD è suddiviso in otto quadrati
+> di tre taglie diverse: il lato di ogni quadrato ombreggiato è lungo 16 cm. Quanti
+> centimetri quadrati misura l’area di ciascuno dei quadretti più piccoli?
+>
+> - **(A)** 72
+> - **(B)** 192
+> - **(C)** 256
+> - **(D)** 108
+> - **(E)** 144
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -36,11 +36,12 @@ tags:
 > sono colorate con 4 colori 1, 2, 3, 4 come mostrato
 > nella figura. Quale colore è usato più spesso rispetto
 > ad ognuno degli altri tre?
-> (A) colore 1
-> (B) colore 2
-> (C) colore 3
-> (D) colore 4
-> (E) nessuno.
+>
+> - **(A)** colore 1
+> - **(B)** colore 2
+> - **(C)** colore 3
+> - **(D)** colore 4
+> - **(E)** nessuno.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

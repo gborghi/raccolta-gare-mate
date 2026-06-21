@@ -33,15 +33,12 @@ tags:
 
 > Qual è la probabilità che, estratti due numeri interi a caso (anche uguali) compresi
 > fra 1 e 12 (estremi inclusi), il loro prodotto sia multiplo di 5?
-> (A) 1
-> 5
-> (B) 11
-> 36
-> (C) 5
-> 24
-> (D) 1
-> 4
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 1 5
+> - **(B)** 11 36
+> - **(C)** 5 24
+> - **(D)** 1 4
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

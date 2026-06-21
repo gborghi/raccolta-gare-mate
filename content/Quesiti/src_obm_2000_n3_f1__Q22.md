@@ -41,11 +41,12 @@ tags:
 *Count emir's children given nested 'except 39' twin/triplet conditions*
 
 > The emir Abdel Azir became famous for his many children. He had more than 39 children, including triplet boys, the twin sons of historian Ahmed Aab who affirms, moreover, that among all of these the emir had only two sets of triplets, except 39; he had only twins, except 39; he had only single births, except 39; all twin pairs are quadruples, except 39. How many children did the emir have?
-> (A) 75
-> (B) 48
-> (C) 51
-> (D) 78
-> (E) 111
+>
+> - **(A)** 75
+> - **(B)** 48
+> - **(C)** 51
+> - **(D)** 78
+> - **(E)** 111
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]

@@ -41,11 +41,12 @@ tags:
 *Max numbers kept so none is the difference of two others*
 
 > We write the whole numbers from 1 to 30 inclusive. Then we erase some of these numbers so that, among those that remain, no number is the difference of two others on the list. What is the maximum quantity of whole numbers that can remain on the list?
-> (A) 15
-> (B) 18
-> (C) 19
-> (D) 20
-> (E) 21
+>
+> - **(A)** 15
+> - **(B)** 18
+> - **(C)** 19
+> - **(D)** 20
+> - **(E)** 21
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]

@@ -35,11 +35,12 @@ tags:
 
 > Per quante quaterne (a, b, c, d) di numeri interi non negativi le tre espressioni a2 −c2, b2 −d2 e
 > ab + bc + cd + da sono tutte uguali a 1024?
-> (A) 0
-> (B) 1
-> (C) 4
-> (D) 9
-> (E) 11
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 4
+> - **(D)** 9
+> - **(E)** 11
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

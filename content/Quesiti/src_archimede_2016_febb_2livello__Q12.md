@@ -34,17 +34,12 @@ tags:
 > appena uno dei due avrà fatto 3 gol più dell’altro. Sapendo che, per ogni pallina giocata, sia
 > Alberto che Barbara hanno il 50% di probabilità di segnare, qual è la probabilità che la partita
 > non termini prima del ventunesimo gol?
-> (A) 39
-> 218
-> (B) 310
-> 220
-> (C) 320
-> 240
-> (D) 13 · 17 · 19 · 31
-> 218
-> (E) 3 · 7 · 13 · 17 · 19
-> 218
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 39 218
+> - **(B)** 310 220
+> - **(C)** 320 240
+> - **(D)** 13 · 17 · 19 · 31 218
+> - **(E)** 3 · 7 · 13 · 17 · 19 218 Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

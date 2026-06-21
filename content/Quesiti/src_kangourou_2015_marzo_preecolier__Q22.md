@@ -31,12 +31,12 @@ tags:
 *affermazione vera*
 
 > Chiara costruisce un cubo usando cubetti grigi e bianchi (vedi la figura). Due cubetti dello stesso colore non hanno alcuna faccia in comune. Quale delle seguenti affermazioni, riguardante il numero di cubetti usati, è vera?
-> 
-> (A) i cubetti grigi sono $1$ in più dei cubetti bianchi
-> (B) i cubetti bianchi sono $1$ in più dei cubetti grigi
-> (C) i cubetti grigi sono tanti quanti quelli bianchi
-> (D) i cubetti bianchi sono $2$ in più dei cubetti grigi
-> (E) i cubetti grigi sono $2$ in più dei cubetti bianchi
+>
+> - **(A)** i cubetti grigi sono $1$ in più dei cubetti bianchi
+> - **(B)** i cubetti bianchi sono $1$ in più dei cubetti grigi
+> - **(C)** i cubetti grigi sono tanti quanti quelli bianchi
+> - **(D)** i cubetti bianchi sono $2$ in più dei cubetti grigi
+> - **(E)** i cubetti grigi sono $2$ in più dei cubetti bianchi
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

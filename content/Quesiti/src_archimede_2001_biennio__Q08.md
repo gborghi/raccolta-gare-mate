@@ -30,11 +30,12 @@ tags:
 > Si costruisce una scatola aperta incollando tra loro dei cubi di legno aventi spigolo
 > 1 cm, le dimensioni esterne della scatola finita sono 10 cm × 10 cm × 10 cm. Qual
 > è il numero minimo di cubi necessari per costruire la scatola?
-> (A) 400
-> (B) 412
-> (C) 424
-> (D) 440
-> (E) 500.
+>
+> - **(A)** 400
+> - **(B)** 412
+> - **(C)** 424
+> - **(D)** 440
+> - **(E)** 500.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

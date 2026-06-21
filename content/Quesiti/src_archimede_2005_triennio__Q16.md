@@ -34,11 +34,12 @@ tags:
 > compito quello di scrivere sul quaderno tutti i numeri compresi tra 1 e 2005, estremi
 > inclusi (ogni numero deve essere scritto una sola volta). Quante volte Andrea dovrà
 > scrivere la cifra 1?
-> (A) 1490,
-> (B) 1491,
-> (C) 1600,
-> (D) 1601,
-> (E) 1610.
+>
+> - **(A)** 1490,
+> - **(B)** 1491,
+> - **(C)** 1600,
+> - **(D)** 1601,
+> - **(E)** 1610.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

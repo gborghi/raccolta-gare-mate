@@ -36,11 +36,12 @@ tags:
 > oppure una colonna e invertire il colore di tutte le caselle in essa
 > presenti. Facendo 10 mosse, quale, tra le seguenti configurazioni,
 > non è possibile ottenere?
-> (A)
-> (B)
-> (C)
-> (D)
-> (E)
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)**
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_invarianti|Invarianti / monovarianti]]

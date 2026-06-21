@@ -30,11 +30,12 @@ tags:
 *Somma cifre del quadrato di un grande numero*
 
 > La somma delle cifre del quadrato di 999 999 999 999 999 995 è:
-> (A) 150
-> (B) 160
-> (C) 170
-> (D) 180
-> (E) 190.
+>
+> - **(A)** 150
+> - **(B)** 160
+> - **(C)** 170
+> - **(D)** 180
+> - **(E)** 190.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

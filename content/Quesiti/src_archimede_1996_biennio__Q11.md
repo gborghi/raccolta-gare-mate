@@ -35,11 +35,12 @@ tags:
 > All’inizio la percentuale di acqua contenuta nelle angurie è
 > il 99% del loro peso, alla fine dello stoccaggio, a causa dell’evaporazione, tale
 > percentuale è scesa al 98%. Quanto pesano alla fine le angurie?
-> (A) 250 kg
-> (B) 400 kg
-> (C) 480 kg
-> (D) 490 kg
-> (E) 495 kg.
+>
+> - **(A)** 250 kg
+> - **(B)** 400 kg
+> - **(C)** 480 kg
+> - **(D)** 490 kg
+> - **(E)** 495 kg.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

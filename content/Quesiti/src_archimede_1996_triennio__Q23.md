@@ -31,11 +31,12 @@ tags:
 > Consideriamo le frazioni con numeratore e denominatore positivi.
 > Quale dei
 > seguenti insiemi è finito?
-> (A) l’insieme delle frazioni minori di 100 con numeratore minore di 100
-> (B) l’insieme delle frazioni maggiori di 100 con denominatore maggiore di 100
-> (C) l’insieme delle frazioni minori di 100 con denominatore minore di 100
-> (D) l’insieme delle frazioni minori di 100 con numeratore maggiore di 100
-> (E) l’insieme delle frazioni maggiori di 100 con denominatore minore di 100.
+>
+> - **(A)** l’insieme delle frazioni minori di 100 con numeratore minore di 100
+> - **(B)** l’insieme delle frazioni maggiori di 100 con denominatore maggiore di 100
+> - **(C)** l’insieme delle frazioni minori di 100 con denominatore minore di 100
+> - **(D)** l’insieme delle frazioni minori di 100 con numeratore maggiore di 100
+> - **(E)** l’insieme delle frazioni maggiori di 100 con denominatore minore di 100.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]

@@ -35,11 +35,12 @@ tags:
 > 2
 > e tale che f(2) = 2, quanto vale
 > f(1)?
-> (A) 0
-> (B) 1/2
-> (C) 1
-> (D) 3/2
-> (E) 2.
+>
+> - **(A)** 0
+> - **(B)** 1/2
+> - **(C)** 1
+> - **(D)** 3/2
+> - **(E)** 2.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

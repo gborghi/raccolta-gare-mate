@@ -32,16 +32,12 @@ tags:
 > Marco estrae una pallina e la rimette
 > nella scatola aggiungendo un’altra pallina dello stesso colore. A questo punto egli estrae una nuova
 > pallina dalla scatola. Qual è la probabilità che quest’ultima sia bianca?
-> (A) 1
-> 2
-> (B) 7
-> 12
-> (C) 3
-> 5
-> (D) 2
-> 3
-> (E) nessuna delle precedenti.
-> Problemi a risposta numerica – 8 punti
+>
+> - **(A)** 1 2
+> - **(B)** 7 12
+> - **(C)** 3 5
+> - **(D)** 2 3
+> - **(E)** nessuna delle precedenti. Problemi a risposta numerica – 8 punti
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casework|Analisi per casi]]

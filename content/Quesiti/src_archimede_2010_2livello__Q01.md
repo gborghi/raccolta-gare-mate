@@ -32,11 +32,12 @@ tags:
 > sulla strada una linea continua che vada dal primo all’ultimo cono. Sapendo che per dipingere 100
 > metri di linea continua sono necessari 6 litri di vernice, quanti litri di vernice sono necessari per
 > completare questo lavoro?
-> (A) 8,4
-> (B) 9
-> (C) 9,6
-> (D) 10
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 8,4
+> - **(B)** 9
+> - **(C)** 9,6
+> - **(D)** 10
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

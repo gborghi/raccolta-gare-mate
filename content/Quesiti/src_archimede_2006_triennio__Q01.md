@@ -30,11 +30,12 @@ tags:
 
 > Laura sta leggendo un libro e nota che il numero della pagina a cui è arrivata è
 > divisibile per 3, 4 e 5. Qual è la cifra delle unità del numero della pagina successiva?
-> (A) 1,
-> (B) 3,
-> (C) 5,
-> (D) 6,
-> (E) 9.
+>
+> - **(A)** 1,
+> - **(B)** 3,
+> - **(C)** 5,
+> - **(D)** 6,
+> - **(E)** 9.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

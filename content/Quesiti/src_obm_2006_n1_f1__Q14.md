@@ -43,12 +43,12 @@ tags:
 > Sara was writing in the boxes of a table the positive multiples of 4, in increasing order, as shown below:
 > $$\begin{array}{ccccccc} 4 & 8 & 12 & 16 & 20 & \cdots & 376 & 380 \\ 760 & 756 & 752 & 748 & 744 & \cdots & 388 & 384 \\ 764 & \to & \to & \to & \to & \cdots & \to & \to \\ \leftarrow & \leftarrow & \leftarrow & \leftarrow & \leftarrow & \cdots & \leftarrow & \leftarrow \end{array}$$
 > The number that Sara wrote in the box at position $U$ is:
-> 
-> (A) 35192
-> (B) 35196
-> (C) 36100
-> (D) 36104
-> (E) 36108
+>
+> - **(A)** 35192
+> - **(B)** 35196
+> - **(C)** 36100
+> - **(D)** 36104
+> - **(E)** 36108
 
 ![[src_obm_2006_n1_f1__Q14.png]]
 

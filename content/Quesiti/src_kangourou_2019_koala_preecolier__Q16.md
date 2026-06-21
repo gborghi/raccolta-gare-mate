@@ -30,14 +30,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob16.png]]
 
 > Un treno è partito da Kang alle 6 precise di mattina, diretto a Aroo (un posto molto lontano da Kang) dove è arrivato alle 11 di sera. Lungo il percorso ha fatto tre fermate intermedie: i numeri che vedi in figura indicano, nell'ordine, le ore di viaggio fra Kang e la prima fermata, quelle fra la prima fermata e la seconda, quelle fra la seconda e la terza. Quante ore ha impiegato per andare dalla terza fermata ad Aroo?
-> 
+>
 > (vedi figura)
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

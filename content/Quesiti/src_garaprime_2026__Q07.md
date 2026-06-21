@@ -28,12 +28,12 @@ tags:
 *Valore di x^(x^2x+1) dato x^x=2*
 
 > Sapendo che xx = 2, allora x(x2x+1) è uguale a:
-> (A) 8
-> (B) 12
-> (C)
-> 16
-> (D) 20
-> (E) 32
+>
+> - **(A)** 8
+> - **(B)** 12
+> - **(C)** 16
+> - **(D)** 20
+> - **(E)** 32
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

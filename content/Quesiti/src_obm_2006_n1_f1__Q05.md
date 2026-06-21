@@ -40,12 +40,12 @@ tags:
 *Count three-digit odd numbers with distinct digits divisible by 3*
 
 > How many three-digit odd numbers with three distinct digits are divisible by 3?
-> 
-> (A) 18
-> (B) 24
-> (C) 28
-> (D) 36
-> (E) 48
+>
+> - **(A)** 18
+> - **(B)** 24
+> - **(C)** 28
+> - **(D)** 36
+> - **(E)** 48
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

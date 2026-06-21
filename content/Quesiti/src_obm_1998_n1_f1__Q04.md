@@ -35,12 +35,12 @@ tags:
 *Lap count for slower cyclist when faster completes lap 80*
 
 > In a cycling competition, Carlinho completes one full lap of the track in $30$ seconds, while Paulinho takes $32$ seconds to complete one lap. When Carlinho completes lap number $80$, Paulinho will be completing lap number:
-> 
-> (A) $79$
-> (B) $78$
-> (C) $76$
-> (D) $77$
-> (E) $75$
+>
+> - **(A)** $79$
+> - **(B)** $78$
+> - **(C)** $76$
+> - **(D)** $77$
+> - **(E)** $75$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

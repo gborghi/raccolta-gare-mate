@@ -34,11 +34,12 @@ tags:
 > Sofia sta facendo l’elenco di tutti i numeri naturali minori di 1000 che si possono
 > scrivere con le sole cifre 1, 3, 4, 5, 7 (anche ripetute). Quanti tra questi saranno
 > numeri dispari?
-> (A) 108
-> (B) 104
-> (C) 112
-> (D) 96
-> (E) 124
+>
+> - **(A)** 108
+> - **(B)** 104
+> - **(C)** 112
+> - **(D)** 96
+> - **(E)** 124
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]

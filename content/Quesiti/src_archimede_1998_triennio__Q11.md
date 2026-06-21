@@ -30,11 +30,12 @@ tags:
 
 > Qual è la negazione di “tutti i numeri perfetti sono pari”? (Non è necessario
 > sapere cos’è un numero perfetto.)
-> (A) Tutti i numeri perfetti sono dispari
-> (B) c’è almeno un numero perfetto dispari
-> (C) c’è almeno un numero pari che non è perfetto
-> (D) nessun numero dispari è perfetto
-> (E) nessun numero pari è perfetto.
+>
+> - **(A)** Tutti i numeri perfetti sono dispari
+> - **(B)** c’è almeno un numero perfetto dispari
+> - **(C)** c’è almeno un numero pari che non è perfetto
+> - **(D)** nessun numero dispari è perfetto
+> - **(E)** nessun numero pari è perfetto.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

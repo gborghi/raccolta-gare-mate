@@ -31,11 +31,12 @@ tags:
 
 > Preso un poligono convesso, si prolungano illimitatamente tutti e 18 i suoi lati in entrambe le direzioni, suddividendo
 > il piano in varie regioni. Quante di queste regioni sono illimitate?
-> (A) 18
-> (B) 48
-> (C) 24
-> (D) 27
-> (E) 36
+>
+> - **(A)** 18
+> - **(B)** 48
+> - **(C)** 24
+> - **(D)** 27
+> - **(E)** 36
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

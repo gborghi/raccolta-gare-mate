@@ -37,11 +37,12 @@ tags:
 > 1
 > 2
 > 3
-> (A) La prima area è maggiore delle altre due
-> (B) la seconda area è maggiore delle altre due
-> (C) la terza area è maggiore delle altre due
-> (D) la prima area è uguale alla seconda, ed entrambe sono maggiori della terza
-> (E) le tre aree sono uguali.
+>
+> - **(A)** La prima area è maggiore delle altre due
+> - **(B)** la seconda area è maggiore delle altre due
+> - **(C)** la terza area è maggiore delle altre due
+> - **(D)** la prima area è uguale alla seconda, ed entrambe sono maggiori della terza
+> - **(E)** le tre aree sono uguali.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

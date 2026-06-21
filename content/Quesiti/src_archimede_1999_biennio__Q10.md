@@ -31,12 +31,12 @@ tags:
 > Attorno a una villa a pianta quadrata di 30 metri di lato posta al centro di una
 > vasta radura si estende un giardino che è composto da tutti i punti che distano
 > meno di 100 metri dalla villa. L’estensione del giardino è
-> (A) inferiore a 2 ettari
-> (B) fra 2 e 3 ettari
-> (C) fra 3 e 4 ettari
-> (D) fra 4 e 5 ettari
-> (E) superiore a 5 ettari.
-> (si ricorda che 1 ettaro corrisponde a 10 000 m2)
+>
+> - **(A)** inferiore a 2 ettari
+> - **(B)** fra 2 e 3 ettari
+> - **(C)** fra 3 e 4 ettari
+> - **(D)** fra 4 e 5 ettari
+> - **(E)** superiore a 5 ettari. (si ricorda che 1 ettaro corrisponde a 10 000 m2)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

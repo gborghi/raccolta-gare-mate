@@ -27,11 +27,12 @@ tags:
 
 > Una scatola ha sei facce rettangolari, tre delle quali hanno aree, rispettivamente, 8 dm2, 40 dm2, 20 dm2. Quanti
 > dm3 misura il volume della scatola?
-> (A) 40
-> (B) 60
-> (C) 32
-> (D) 64
-> (E) 80
+>
+> - **(A)** 40
+> - **(B)** 60
+> - **(C)** 32
+> - **(D)** 64
+> - **(E)** 80
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]

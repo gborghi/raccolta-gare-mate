@@ -37,15 +37,16 @@ tags:
 > regolare di 41 lati, e comiciano a fare dei salti. La rana salta sempre da un vertice
 > a quello adiacente, in senso antiorario, mentre il canguro salta dal vertice in cui
 > si trova a quello in cui c’è la rana. La sequenza dei salti è questa: la rana fa un
-> 
+>
 > salto, il canguro fa un salto; la rana fa due salti, il canguro fa un salto; la rana fa
 > tre salti, il canguro fa un salto, e così via. Dopo che il canguro ha fatto 40 salti,
 > quante volte è tornato sul vertice di partenza?
-> (A) 0,
-> (B) 1,
-> (C) 2,
-> (D) 3,
-> (E) 4.
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

@@ -32,11 +32,12 @@ tags:
 
 > Consideriamo i numeri 2025, 20252, 20253, . . . , 20252025, ossia tutte le potenze
 > del tipo 2025n con 1 ⩽n ⩽2025. Quanti di essi sono quadrati di numeri interi?
-> (A) 2025
-> (B) 45
-> (C) nessuno
-> (D) 1012
-> (E) 145
+>
+> - **(A)** 2025
+> - **(B)** 45
+> - **(C)** nessuno
+> - **(D)** 1012
+> - **(E)** 145
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

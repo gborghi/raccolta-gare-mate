@@ -38,11 +38,12 @@ tags:
 > a ripercorrere la riga alternativamente nei due sensi, cancellando ogni volta un
 > numero sì e un numero no, fino a quando sulla lavagna resta un solo numero. Qual
 > è quest’ultimo numero rimasto?
-> (A) 22
-> (B) 14
-> (C) 6
-> (D) 54
-> (E) 38
+>
+> - **(A)** 22
+> - **(B)** 14
+> - **(C)** 6
+> - **(D)** 54
+> - **(E)** 38
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

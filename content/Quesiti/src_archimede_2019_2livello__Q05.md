@@ -38,11 +38,12 @@ tags:
 > studente seduto di fronte comprende tutti e quattro i tipi di allievi. Quanti possono essere gli
 > immatricolati nella classe di Scienze, opportunamente divisi tra i quattro tipi, sapendo che sono
 > tra 30 e 50 (estremi inclusi)? Si dia come risultato la somma di tutte le possibili risposte.
-> (A) 40
-> (B) 80
-> (C) 120
-> (D) 200
-> (E) 440
+>
+> - **(A)** 40
+> - **(B)** 80
+> - **(C)** 120
+> - **(D)** 200
+> - **(E)** 440
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

@@ -30,11 +30,12 @@ tags:
 
 > Qual è il valore di 102025 + 102026 + 102027
 > 102025 + 102025 + 102025 ?
-> (A) 100/3
-> (B) 100
-> (C) 111
-> (D) 101
-> (E) 37
+>
+> - **(A)** 100/3
+> - **(B)** 100
+> - **(C)** 111
+> - **(D)** 101
+> - **(E)** 37
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

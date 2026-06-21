@@ -31,11 +31,12 @@ tags:
 
 > Sapendo che a e b sono dei numeri naturali il cui prodotto è uguale a 12, quale può
 > essere, come minimo, il valore di a + 5b?
-> (A) 17
-> (B) 16
-> (C) 19
-> (D) 15
-> (E) 23
+>
+> - **(A)** 17
+> - **(B)** 16
+> - **(C)** 19
+> - **(D)** 15
+> - **(E)** 23
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

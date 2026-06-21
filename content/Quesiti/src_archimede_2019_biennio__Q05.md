@@ -33,11 +33,12 @@ tags:
 > LMN e sia O il punto d’intersezione tra r e la retta LN.
 > Qual è l’ampiezza dell’angolo \
 > MON?
-> (A) 17°
-> (B) 15°
-> (C) 18°
-> (D) 21°
-> (E) 19°
+>
+> - **(A)** 17°
+> - **(B)** 15°
+> - **(C)** 18°
+> - **(D)** 21°
+> - **(E)** 19°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

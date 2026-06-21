@@ -31,11 +31,12 @@ tags:
 > Ieri non ho fatto colazione e sono andato a scuola, mentre l’altro ieri ho fatto
 > colazione e sono andato a scuola. Quali delle frasi seguenti posso pronunciare
 > senza essere bugiardo?
-> (A) Quando faccio colazione non vado mai a scuola
-> (B) tutte le volte che vado a scuola non faccio colazione
-> (C) ogni volta che vado a scuola faccio colazione
-> (D) talvolta vado a scuola senza fare colazione
-> (E) quando non faccio colazione non vado mai a scuola.
+>
+> - **(A)** Quando faccio colazione non vado mai a scuola
+> - **(B)** tutte le volte che vado a scuola non faccio colazione
+> - **(C)** ogni volta che vado a scuola faccio colazione
+> - **(D)** talvolta vado a scuola senza fare colazione
+> - **(E)** quando non faccio colazione non vado mai a scuola.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

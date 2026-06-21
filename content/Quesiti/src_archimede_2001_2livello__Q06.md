@@ -30,11 +30,12 @@ tags:
 
 > Se A, B, C, D rappresentano cifre distinte e, impiegando l’usuale scrittura decimale, si ha AC ×
 > BC = DDD, quanto vale la somma A + B + C + D?
-> (A) 9
-> (B) 13
-> (C) 18
-> (D) 19
-> (E) 21.
+>
+> - **(A)** 9
+> - **(B)** 13
+> - **(C)** 18
+> - **(D)** 19
+> - **(E)** 21.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

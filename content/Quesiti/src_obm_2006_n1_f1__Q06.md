@@ -38,12 +38,12 @@ tags:
 *Cell phone plan: minutes needed to save money*
 
 > A mobile phone company offers monthly plans of 60 minutes at a cost of R\$52.00, that is, your phone is free for up to 60 minutes per month and you pay R\$52.00 for that. For any excess, a fee of R\$1.20 per minute is charged. The same fee applies to the plan of 100 minutes, offered at a monthly cost of R\$87.00. A user on the 60-minute plan and who talks for 60 minutes per day, was charged 140 minutes in the previous month. If he had instead opted for the 100-minute plan, how many reais would he have saved?
-> 
-> (A) 10
-> (B) 11
-> (C) 12
-> (D) 13
-> (E) 14
+>
+> - **(A)** 10
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 13
+> - **(E)** 14
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]

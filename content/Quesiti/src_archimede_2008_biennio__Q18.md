@@ -34,11 +34,12 @@ tags:
 > Sapendo che l’area del
 > triangolo ADE è un quinto dell’area del trapezio ABCE, calcolare il rapporto tra
 > la lunghezza del segmento DC e quella del segmento DE.
-> (A) 2,
-> (B) 3,
-> (C) 4,
-> (D) 5,
-> (E) 6.
+>
+> - **(A)** 2,
+> - **(B)** 3,
+> - **(C)** 4,
+> - **(D)** 5,
+> - **(E)** 6.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

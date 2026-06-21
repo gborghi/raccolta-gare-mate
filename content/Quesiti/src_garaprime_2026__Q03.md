@@ -28,12 +28,12 @@ tags:
 *Lati del poligono con angolo interno 11 volte l'esterno*
 
 > In un poligono regolare l’angolo interno è undici volte quello esterno. Quanti lati ha il poligono?
-> (A) 11
-> (B) 12
-> (C) 22
-> (D)
-> 24
-> (E) Non esiste alcun poligono con questa proprietà
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 22
+> - **(D)** 24
+> - **(E)** Non esiste alcun poligono con questa proprietà
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

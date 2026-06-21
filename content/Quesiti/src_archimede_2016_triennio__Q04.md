@@ -36,11 +36,12 @@ tags:
 > turni: in ogni turno, ciascun giocatore dimezza il proprio numero (se esso è pari),
 > oppure esce dal gioco (se è dispari). Vince chi esce per ultimo dal gioco (può darsi
 > che più giocatori vincano ex aequo). Chi vincerà la sfida?
-> (A) solo Alberto
-> (B) Alberto e Carlo
-> (C) solo Barbara
-> (D) Carlo e Daria
-> (E) Barbara e Daria
+>
+> - **(A)** solo Alberto
+> - **(B)** Alberto e Carlo
+> - **(C)** solo Barbara
+> - **(D)** Carlo e Daria
+> - **(E)** Barbara e Daria
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

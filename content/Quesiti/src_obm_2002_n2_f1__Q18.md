@@ -43,12 +43,12 @@ tags:
 *Polygonal line AB with repeating staircase pattern; total length with 6 segments*
 
 > The polygonal line $AB$ is drawn always maintaining the same repeating pattern shown in the figure. It has $6$ segments and its total length equals:
-> 
-> (A) $31$
-> (B) $88$
-> (C) $90$
-> (D) $97$
-> (E) $105$
+>
+> - **(A)** $31$
+> - **(B)** $88$
+> - **(C)** $90$
+> - **(D)** $97$
+> - **(E)** $105$
 
 ![[src_obm_2002_n2_f1__Q18.png]]
 

@@ -34,11 +34,12 @@ tags:
 > si organizza un rinfresco in un enorme salone a cui partecipano tutti i concorrenti.
 > Ciascuno fa la conoscenza di tutti gli altri (ad eccezione dei suoi connazionali che
 > conosce già) stringendo loro la mano. Quante sono le strette di mano?
-> (A) 89100
-> (B) 178200
-> (C) 179700
-> (D) 356400
-> (E) 360000.
+>
+> - **(A)** 89100
+> - **(B)** 178200
+> - **(C)** 179700
+> - **(D)** 356400
+> - **(E)** 360000.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -31,11 +31,12 @@ tags:
 > ABC è un triangolo isoscele con AC = BC. Si scelgono due punti A′, A′′ sul lato
 > AC e un punto B′ sul lato BC in modo tale che AB = BA′ = A′B′ = B′A′′ = A′′C.
 > Qual è l’ampiezza dell’angolo A bCB?
-> (A) 18°
-> (B) 15°
-> (C) 24°
-> (D) 20°
-> (E) 30°
+>
+> - **(A)** 18°
+> - **(B)** 15°
+> - **(C)** 24°
+> - **(D)** 20°
+> - **(E)** 30°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

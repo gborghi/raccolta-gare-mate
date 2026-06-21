@@ -33,11 +33,12 @@ tags:
 > Due numeri a e b sono tali che 3a + b
 > a −b = 2. Quanto vale a3
 > b3 ?
-> (A) −27
-> (B) −8
-> (C) 1
-> (D) 8
-> (E) 27.
+>
+> - **(A)** −27
+> - **(B)** −8
+> - **(C)** 1
+> - **(D)** 8
+> - **(E)** 27.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

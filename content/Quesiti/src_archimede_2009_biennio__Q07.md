@@ -33,11 +33,12 @@ tags:
 > latterie cosicchè ora le tabaccherie sono solo i 9/16 delle latterie (dall’anno scorso
 > a quest’anno il numero complessivo dei negozi di Nonfumo è rimasto lo stesso).
 > Quante latterie c’erano l’anno scorso a Nonfumo?
-> (A) 12,
-> (B) 16,
-> (C) 20,
-> (D) 30,
-> (E) 60.
+>
+> - **(A)** 12,
+> - **(B)** 16,
+> - **(C)** 20,
+> - **(D)** 30,
+> - **(E)** 60.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

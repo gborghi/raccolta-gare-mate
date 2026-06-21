@@ -31,11 +31,12 @@ tags:
 > Qual è il più grande degli interi positivi n tali che la media aritmetica dei numeri
 > da 1 a n sia < 2003 ?
 > (Nota: la media aritmetica di n numeri è uguale alla loro somma divisa per n.)
-> (A) 2002
-> (B) 2003
-> (C) 4003
-> (D) 4004
-> (E) 4005.
+>
+> - **(A)** 2002
+> - **(B)** 2003
+> - **(C)** 4003
+> - **(D)** 4004
+> - **(E)** 4005.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

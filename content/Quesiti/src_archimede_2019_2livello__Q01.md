@@ -34,11 +34,12 @@ tags:
 > in P, si è accorto che la circonferenza per B, P, C passava anche per il punto medio di AB. Si
 > è allora domandato quale fosse il valore dell’angolo \
 > BAC. Qual è la risposta corretta?
-> (A) 30°
-> (B) 45°
-> (C) 60°
-> (D) 90°
-> (E) 105°
+>
+> - **(A)** 30°
+> - **(B)** 45°
+> - **(C)** 60°
+> - **(D)** 90°
+> - **(E)** 105°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

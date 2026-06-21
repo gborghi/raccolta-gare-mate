@@ -32,12 +32,12 @@ tags:
 *Naturali tra 10 e 2026 con somma cifre 3*
 
 > Quanti sono i numeri naturali maggiori di 10 e minori di 2026 la cui somma delle cifre è 3?
-> (A) 13
-> (B) 14
-> (C) 15
-> (D) 16
-> (E)
-> 17
+>
+> - **(A)** 13
+> - **(B)** 14
+> - **(C)** 15
+> - **(D)** 16
+> - **(E)** 17
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -46,15 +46,12 @@ tags:
 > Nel quadrato a fianco, gli archi sono tutti dei quarti di circonferenze e hanno, a due a due, gli estremi in comune. Il
 > rapporto fra il perimetro della figura in grigio e il perimetro
 > del quadrato
-> (A) è 1
-> 4
-> (B) è 1
-> π
-> (C) è π
-> 4
-> (D) è 1
-> 2
-> (E) non può essere determinato con le informazioni date.
+>
+> - **(A)** è 1 4
+> - **(B)** è 1 π
+> - **(C)** è π 4
+> - **(D)** è 1 2
+> - **(E)** non può essere determinato con le informazioni date.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

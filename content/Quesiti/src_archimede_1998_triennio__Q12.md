@@ -33,11 +33,12 @@ tags:
 > paralleli alle facce. Lavorando con la sega si può solo garantire che le dimensioni
 > reali si discosteranno di al più 1 mm da quelle desiderate. Quanto si può discostare, al più, il volume del parallelepipedo costruito da quello del parallelepipedo
 > desiderato?
-> (A) Circa 0,5 cm3
-> (B) circa 1,2 cm3
-> (C) circa 2 cm3
-> (D) circa 2,4 cm3
-> (E) circa 4,8 cm3.
+>
+> - **(A)** Circa 0,5 cm3
+> - **(B)** circa 1,2 cm3
+> - **(C)** circa 2 cm3
+> - **(D)** circa 2,4 cm3
+> - **(E)** circa 4,8 cm3.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

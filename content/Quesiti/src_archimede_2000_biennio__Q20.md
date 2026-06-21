@@ -36,11 +36,12 @@ tags:
 > In una scuola il 60% degli studenti è di sesso maschile, il 90% è minorenne ed
 > il 60% ha i capelli castani. Quale delle seguenti affermazioni e necessariamente
 > vera?
-> (A) C’è almeno una ragazza maggiorenne.
-> (B) C’è almeno una ragazza con i capelli castani.
-> (C) C’è almeno un ragazzo minorenne e castano.
-> (D) Non ci sono ragazzi maggiorenni e castani.
-> (E) C’è almeno un ragazzo biondo.
+>
+> - **(A)** C’è almeno una ragazza maggiorenne.
+> - **(B)** C’è almeno una ragazza con i capelli castani.
+> - **(C)** C’è almeno un ragazzo minorenne e castano.
+> - **(D)** Non ci sono ragazzi maggiorenni e castani.
+> - **(E)** C’è almeno un ragazzo biondo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

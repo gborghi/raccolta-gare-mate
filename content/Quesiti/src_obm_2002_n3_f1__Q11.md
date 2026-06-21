@@ -40,11 +40,12 @@ tags:
 *Group of doctors and lawyers: deduce relation from given arithmetic means of ages*
 
 > The arithmetic mean of the ages of a group of doctors and lawyers is 40 years. The arithmetic mean of the ages of the doctors is 35 years and that of the lawyers is 50 years. We can then state:
-> (A) The number of lawyers is double the number of doctors in the group.
-> (B) The number of doctors is double the number of lawyers in the group.
-> (C) There are 2 more doctors than lawyers in the group.
-> (D) There are 2 more lawyers than doctors in the group.
-> (E) There are equal quantities of doctors and lawyers in the group.
+>
+> - **(A)** The number of lawyers is double the number of doctors in the group.
+> - **(B)** The number of doctors is double the number of lawyers in the group.
+> - **(C)** There are 2 more doctors than lawyers in the group.
+> - **(D)** There are 2 more lawyers than doctors in the group.
+> - **(E)** There are equal quantities of doctors and lawyers in the group.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

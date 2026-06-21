@@ -35,12 +35,12 @@ tags:
 *Tangram area of shaded region given total area 64 cm²*
 
 > The figure below represents a Tangram, a Chinese puzzle formed by 5 triangles, 1 parallelogram, and 1 square. Knowing that the area of the Tangram shown is $64\text{ cm}^2$, what is the area, in $\text{cm}^2$, of the shaded region?
-> 
-> (A) 7.6
-> (B) 8
-> (C) 10.6
-> (D) 12
-> (E) 21.3
+>
+> - **(A)** 7.6
+> - **(B)** 8
+> - **(C)** 10.6
+> - **(D)** 12
+> - **(E)** 21.3
 
 ![[src_obm_2006_n1_f1__Q18.png]]
 

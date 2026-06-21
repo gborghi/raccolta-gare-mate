@@ -33,14 +33,12 @@ tags:
 *Minimo numero di punti medi distinti per 2019 punti*
 
 > Un quadrato è stato parzialmente ombreggiato nei cinque diversi modi elencati nelle figure. In quale dei disegni l'area della parte ombreggiata è massima?
-> 
-> (A) (vedi figura A)
-> (B) (vedi figura B)
-> (C) (vedi figura C)
-> (D) (vedi figura D)
-> (E) (vedi figura E)
-> 
-> (vedi figura)
+>
+> - **(A)** (vedi figura A)
+> - **(B)** (vedi figura B)
+> - **(C)** (vedi figura C)
+> - **(D)** (vedi figura D)
+> - **(E)** (vedi figura E) (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

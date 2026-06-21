@@ -37,12 +37,12 @@ tags:
 *Four integers a<b<c<d pairwise gcd>1 but overall gcd 1; min d*
 
 > Four positive integers $a < b < c < d$ are such that the gcd between any two of them is greater than $1$, but $\mathrm{mdc}(a, b, c, d) = 1$. What is the smallest possible value for $d$?
-> 
-> (A) $10$
-> (B) $12$
-> (C) $15$
-> (D) $30$
-> (E) $105$
+>
+> - **(A)** $10$
+> - **(B)** $12$
+> - **(C)** $15$
+> - **(D)** $30$
+> - **(E)** $105$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]

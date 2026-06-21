@@ -38,11 +38,12 @@ tags:
 *Ratio of horizontal to vertical distances in a dot figure*
 
 > In the figure, the distances between two consecutive horizontal dots are all equal to 1. The region has a triangle inscribed and a square; the ratio of horizontal distances to vertical distances such that the figure closes has value:
-> (A) $\dfrac{9}{10}$
-> (B) $\dfrac{15}{16}$
-> (C) $\dfrac{8}{9}$
-> (D) $\dfrac{11}{12}$
-> (E) $\dfrac{14}{15}$
+>
+> - **(A)** $\dfrac{9}{10}$
+> - **(B)** $\dfrac{15}{16}$
+> - **(C)** $\dfrac{8}{9}$
+> - **(D)** $\dfrac{11}{12}$
+> - **(E)** $\dfrac{14}{15}$
 
 ![[src_obm_2000_n3_f1__Q03.png]]
 

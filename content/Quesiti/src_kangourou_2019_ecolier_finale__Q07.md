@@ -33,14 +33,12 @@ tags:
 *Numeri pari con ultime sei cifre uguali in intervallo*
 
 > Linda ha appeso in una bacheca $3$ fotografie usando $8$ puntine da disegno, come ti mostra la figura. Se ne avesse appese $7$ operando alla stessa maniera, quante puntine avrebbe dovuto usare?
-> 
-> (A) $14$
-> (B) $16$
-> (C) $18$
-> (D) $22$
-> (E) $26$
-> 
-> (vedi figura)
+>
+> - **(A)** $14$
+> - **(B)** $16$
+> - **(C)** $18$
+> - **(D)** $22$
+> - **(E)** $26$ (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -34,11 +34,12 @@ tags:
 > il falso). Ad un banchetto, ci sono 9 tavoli con 3 persone sedute, 8 tavoli con 4 persone, 5 tavoli con 5 persone e 10
 > tavoli con 6 (tutti tavoli circolari). Ciascuno dei presenti afferma: “le due persone accanto a me sono di due categorie
 > diverse”. Quanti possono essere, come minimo, i furfanti presenti al banchetto?
-> (A) 144
-> (B) 86
-> (C) 48
-> (D) 88
-> (E) 72
+>
+> - **(A)** 144
+> - **(B)** 86
+> - **(C)** 48
+> - **(D)** 88
+> - **(E)** 72
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]

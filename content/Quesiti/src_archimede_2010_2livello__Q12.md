@@ -32,12 +32,12 @@ tags:
 
 > Sia p(x) un polinomio di grado 2010. Qual è il massimo grado che può avere il polinomio
 > p(x −1) −3p(x) + 3p(x + 1) −p(x + 2)?
-> (A) È sempre il polinomio nullo
-> (B) 0
-> (C) 1
-> (D) 2007
-> (E) 2010
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** È sempre il polinomio nullo
+> - **(B)** 0
+> - **(C)** 1
+> - **(D)** 2007
+> - **(E)** 2010 Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

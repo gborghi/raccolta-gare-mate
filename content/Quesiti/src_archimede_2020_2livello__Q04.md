@@ -34,25 +34,12 @@ tags:
 > centro C e raggio uguale al lato del quadrato. Indica poi con X l’intersezione tra la diagonale
 > AC e la circonferenza, e con Y l’intersezione della retta DX con il lato AB. Quanto vale la
 > lunghezza del segmento AY ?
-> (A)
-> √
-> 2+1
-> 6
-> (B)
-> √
-> 2 −1
-> (C)
-> √
-> 2
-> 3
-> (D) 3 +
-> √
-> 2
-> 8
-> (E)
-> √
-> 2
-> 2
+>
+> - **(A)** √ 2+1 6
+> - **(B)** √ 2 −1
+> - **(C)** √ 2 3
+> - **(D)** 3 + √ 2 8
+> - **(E)** √ 2 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

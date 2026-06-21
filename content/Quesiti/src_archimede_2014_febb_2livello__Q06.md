@@ -32,11 +32,12 @@ tags:
 
 > Quanti interi positivi sono una potenza di 4 e si scrivono in base 3 usando solo le cifre 0 e 1, lo
 > 0 quante volte si vuole (anche nessuna) e l’1 al più due volte?
-> (A) 4
-> (B) 2
-> (C) 1
-> (D) 0
-> (E) Infiniti.
+>
+> - **(A)** 4
+> - **(B)** 2
+> - **(C)** 1
+> - **(D)** 0
+> - **(E)** Infiniti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

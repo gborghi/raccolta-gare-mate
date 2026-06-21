@@ -34,12 +34,12 @@ tags:
 > dal quarto e infine cinque persone dal quinto. Poi si ricomincia procedendo allo
 > stesso modo e si va avanti finchè non sono entrati tutti. Sapendo che Raffaele sarà
 > la 2007-esima persona ad entrare, da quale cancello entrerà?
-> (A) Dal primo,
-> (B) dal secondo,
-> (C) dal terzo,
-> (D) dal quarto,
-> (E) dal
-> quinto.
+>
+> - **(A)** Dal primo,
+> - **(B)** dal secondo,
+> - **(C)** dal terzo,
+> - **(D)** dal quarto,
+> - **(E)** dal quinto.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

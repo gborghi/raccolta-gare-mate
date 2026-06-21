@@ -31,11 +31,12 @@ tags:
 
 > Consideriamo i numeri interi positivi n tali che n6 + 3n5 sia multiplo di 49. Supponendo di aver disposto tali valori
 > n in ordine crescente, indicare la somma tra il 4°e il 7°di questi numeri.
-> (A) 77
-> (B) 74
-> (C) 88
-> (D) 70
-> (E) 81
+>
+> - **(A)** 77
+> - **(B)** 74
+> - **(C)** 88
+> - **(D)** 70
+> - **(E)** 81
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

@@ -33,11 +33,12 @@ tags:
 > Sia ABCD un trapezio di basi AB e CD inscritto in una circonferenza Γ, tale che le diagonali
 > AC e BD siano perpendicolari. Detto P il punto d’incontro delle diagonali AC e BD, quanto
 > vale il rapporto fra l’area di Γ e la somma delle aree dei triangoli APB e CPD?
-> (A) 1
-> (B) π/2
-> (C) π
-> (D) 2π
-> (E) I dati non sono sono sufficienti per determinarlo
+>
+> - **(A)** 1
+> - **(B)** π/2
+> - **(C)** π
+> - **(D)** 2π
+> - **(E)** I dati non sono sono sufficienti per determinarlo
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

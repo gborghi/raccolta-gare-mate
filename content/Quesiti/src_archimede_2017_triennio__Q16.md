@@ -36,11 +36,12 @@ tags:
 > a 7 × 7) ottenuti dall’unione di una o più caselle della griglia.
 > Quanti tra questi quadrati contengono la casella centrale della
 > griglia?
-> (A) 50
-> (B) 30
-> (C) 44
-> (D) 42
-> (E) 28
+>
+> - **(A)** 50
+> - **(B)** 30
+> - **(C)** 44
+> - **(D)** 42
+> - **(E)** 28
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

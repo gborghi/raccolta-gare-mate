@@ -33,11 +33,12 @@ tags:
 > Un pasticcere ha in negozio confetti di 12 gusti diversi e vuole confezionare bomboniere contenenti ciascuna 3 confetti, non necessariamente di gusti differenti. Quante
 > bomboniere diverse può realizzare al massimo?
 > (due bomboniere sono da considerare uguali se contengono confetti degli stessi gusti e nelle stesse quantità)
-> (A) 364
-> (B) 320
-> (C) 324
-> (D) 360
-> (E) 348
+>
+> - **(A)** 364
+> - **(B)** 320
+> - **(C)** 324
+> - **(D)** 360
+> - **(E)** 348
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

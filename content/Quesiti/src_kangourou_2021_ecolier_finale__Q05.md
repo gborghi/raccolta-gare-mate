@@ -31,12 +31,12 @@ tags:
 *Zeri finali del prodotto dei pari tra 1 e 101*
 
 > Utilizzando ciascuna delle cifre 1, 2, 3, 4, ognuna una e una sola volta, si possono costruire 24 numeri diversi (tutti di 4 cifre). Se si mettono in ordine questi 24 numeri dal più piccolo al più grande (e quindi il più piccolo è in posizione 1, il più grande in posizione 24) in quale posizione si trova il numero $3142$?
-> 
-> (A) 12
-> (B) 13
-> (C) 14
-> (D) 16
-> (E) 17
+>
+> - **(A)** 12
+> - **(B)** 13
+> - **(C)** 14
+> - **(D)** 16
+> - **(E)** 17
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

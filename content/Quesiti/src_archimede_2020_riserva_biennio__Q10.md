@@ -29,11 +29,12 @@ tags:
 
 > Nella vasca di una fontana ci sono due diversi rubinetti, A e B, collegati a tubature indipendenti. Lasciando tutto
 > aperto il rubinetto A occorrono 6 minuti per riempire la vasca. Aprendo il rubinetto B, che ha portata minore, ci vogliono invece 9 minuti. In quanti secondi si riempie la vasca lasciando aperti tutti e due i rubinetti simultaneamente?
-> (A) 252
-> (B) 288
-> (C) 175
-> (D) 216
-> (E) 273
+>
+> - **(A)** 252
+> - **(B)** 288
+> - **(C)** 175
+> - **(D)** 216
+> - **(E)** 273
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

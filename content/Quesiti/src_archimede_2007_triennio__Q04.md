@@ -28,13 +28,12 @@ tags:
 
 > Se a e b sono due numeri tali che a + b > 0 e a · b < 0, quale delle affermazioni
 > seguenti è certamente vera?
-> (A) a > 0 e b < 0,
-> (B) a < 0 e b < 0,
-> (C) a > 0 e b > 0,
-> (D) a e b hanno
-> segno diverso e tra i due quello positivo ha valore assoluto maggiore,
-> (E) a e b
-> hanno segno diverso e tra i due quello negativo ha valore assoluto maggiore.
+>
+> - **(A)** a > 0 e b < 0,
+> - **(B)** a < 0 e b < 0,
+> - **(C)** a > 0 e b > 0,
+> - **(D)** a e b hanno segno diverso e tra i due quello positivo ha valore assoluto maggiore,
+> - **(E)** a e b hanno segno diverso e tra i due quello negativo ha valore assoluto maggiore.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

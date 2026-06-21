@@ -34,24 +34,12 @@ tags:
 > √
 > 2 e taglia lungo la
 > linea tracciata. Quanto vale l’area della falce di luna che ottiene?
-> (A) r2
-> (B)
-> √
-> 2
-> 2 πr2
-> (C) 1
-> 3πr2
-> (D)
-> π
-> 4 + 1
-> 2
-> 
-> r2
-> (E)
-> π
-> 4 + 1
-> 
-> r2
+>
+> - **(A)** r2
+> - **(B)** √ 2 2 πr2
+> - **(C)** 1 3πr2
+> - **(D)** π 4 + 1 2  r2
+> - **(E)** π 4 + 1  r2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

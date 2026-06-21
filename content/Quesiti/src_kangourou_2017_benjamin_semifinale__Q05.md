@@ -32,9 +32,9 @@ tags:
 
 *Collezioni di figurine ottenibili nel gioco JUMP*
 
-> (Punti 4) Nel gioco da tavola JUMP ogni giocatore parte dalla casella con la scritta INIZIO e a ogni mossa 
-> può saltare una o due caselle muovendosi sempre in avanti e con l’ultimo salto deve arrivare esattamente 
-> nella casella FINE, altrimenti perde. In ogni casella c’è una figurina e il giocatore raccoglie tutte le figurine 
+> (Punti 4) Nel gioco da tavola JUMP ogni giocatore parte dalla casella con la scritta INIZIO e a ogni mossa
+> può saltare una o due caselle muovendosi sempre in avanti e con l’ultimo salto deve arrivare esattamente
+> nella casella FINE, altrimenti perde. In ogni casella c’è una figurina e il giocatore raccoglie tutte le figurine
 > su cui atterra.
 > INIZIO
 > a
@@ -49,18 +49,19 @@ tags:
 > n
 > a
 > FINE
-> Tra le seguenti collezioni di figurine quali può ottenere? 
-> 	
-> (1) n n s s s         	 (2) a n n s         	
-> (3)  n n s       
-> 	
-> (4) a a n s         	
-> (5) n n s s  
+> Tra le seguenti collezioni di figurine quali può ottenere?
+>
+> (1) n n s s s         	 (2) a n n s
+> (3)  n n s
+>
+> (4) a a n s
+> (5) n n s s
 > (Attenzione: le figurine nelle collezioni non sono ordinate secondo l’ordine con cui sono collezionate.)
-> (A) Solo 1 e 3         	
-> (B) Solo 2 e 5      	
-> (C) Solo 1, 4 e 5      	
-> (D) Tutte tranne la 4     (E) Tutte
+>
+> - **(A)** Solo 1 e 3
+> - **(B)** Solo 2 e 5
+> - **(C)** Solo 1, 4 e 5
+> - **(D)** Tutte tranne la 4 (E) Tutte
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

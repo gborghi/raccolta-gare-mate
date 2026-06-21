@@ -52,11 +52,12 @@ tags:
 
 > Il perimetro del poligono raffigurato a lato (i tre
 > angoli indicati sono retti) vale
-> (A) 38 cm
-> (B) 41 cm
-> (C) 46 cm
-> (D) 50 cm
-> (E) 59 cm.
+>
+> - **(A)** 38 cm
+> - **(B)** 41 cm
+> - **(C)** 46 cm
+> - **(D)** 50 cm
+> - **(E)** 59 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

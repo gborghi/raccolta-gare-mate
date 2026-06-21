@@ -31,12 +31,12 @@ tags:
 *Quanti bambini dietro a Guglielmo nella fila*
 
 > 25 bambini sono in fila e 16 di questi sono davanti a Paolo. Se Paolo è proprio davanti a Guglielmo, quanti bambini sono in fila dietro a Guglielmo?
-> 
-> (A) 6
-> (B) 7
-> (C) 8
-> (D) 9
-> (E) un numero diverso dai precedenti
+>
+> - **(A)** 6
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** un numero diverso dai precedenti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

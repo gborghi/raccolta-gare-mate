@@ -31,12 +31,12 @@ tags:
 ![[src_kangourou_2018_koala_marzo__prob12.png]]
 
 > Lisa ha quattro pezzi, ciascuno dei quali potrebbe entrare nella sua cornicetta per puzzle, ma gliene bastano tre per riempire la cornicetta. Quale scarterà? (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) C o D
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** C o D
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

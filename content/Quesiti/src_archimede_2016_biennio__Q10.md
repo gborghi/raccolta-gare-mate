@@ -35,11 +35,12 @@ tags:
 > libero prima di imbarcarsi di nuovo per altri 9 giorni, e così via. Oggi, mercoledì 23
 > novembre 2016, Romeo è a terra e s’imbarcherà domani. Quante giornate potranno
 > trascorrere insieme Giulietta e Romeo fino al 23 novembre 2017?
-> (A) 8
-> (B) 5
-> (C) 7
-> (D) 6
-> (E) 4
+>
+> - **(A)** 8
+> - **(B)** 5
+> - **(C)** 7
+> - **(D)** 6
+> - **(E)** 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

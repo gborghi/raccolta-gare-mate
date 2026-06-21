@@ -29,11 +29,12 @@ tags:
 *Numero cifre di 112233445566778899 diviso 11*
 
 > Quante cifre ha il numero (112233445566778899)/11?
-> (A) 9,
-> (B) 13,
-> (C) 17,
-> (D) 19,
-> (E) 23.
+>
+> - **(A)** 9,
+> - **(B)** 13,
+> - **(C)** 17,
+> - **(D)** 19,
+> - **(E)** 23.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

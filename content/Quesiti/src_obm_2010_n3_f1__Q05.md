@@ -39,12 +39,12 @@ tags:
 *Square PQRS, T midpoint of QR, U foot of perpendicular from Q onto line PT; find TU.*
 
 > A square $PQRS$ has sides measuring $x$. $T$ is the midpoint of $QR$ and $U$ is the foot of the perpendicular drawn from $Q$ onto the line $PT$ (the line $PT$ passing through $T$). What is the measure of $TU$?
-> 
-> (A) $\frac{x}{2}$
-> (B) $\frac{x}{3}$
-> (C) $\frac{x}{\sqrt{2}}$
-> (D) $\frac{x}{2\sqrt{2}}$
-> (E) $\frac{x}{4}$
+>
+> - **(A)** $\frac{x}{2}$
+> - **(B)** $\frac{x}{3}$
+> - **(C)** $\frac{x}{\sqrt{2}}$
+> - **(D)** $\frac{x}{2\sqrt{2}}$
+> - **(E)** $\frac{x}{4}$
 
 ![[src_obm_2010_n3_f1__Q05.png]]
 

@@ -29,11 +29,12 @@ tags:
 *Quante cifre ha il numero (123456789) alla sesta*
 
 > Quante cifre ha il numero (123456789)6 ?
-> (A) 16
-> (B) 48
-> (C) 49
-> (D) 50
-> (E) 54.
+>
+> - **(A)** 16
+> - **(B)** 48
+> - **(C)** 49
+> - **(D)** 50
+> - **(E)** 54.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

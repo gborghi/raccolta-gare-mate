@@ -31,11 +31,12 @@ tags:
 ![[src_kangourou_2001_benjamin__prob14.png]]
 
 > Qual è il numero dell'ultimo vagone del trenino del kangourou?
-> (A) 52
-> (B) 64
-> (C) 66
-> (D) 72
-> (E) 88.
+>
+> - **(A)** 52
+> - **(B)** 64
+> - **(C)** 66
+> - **(D)** 72
+> - **(E)** 88.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

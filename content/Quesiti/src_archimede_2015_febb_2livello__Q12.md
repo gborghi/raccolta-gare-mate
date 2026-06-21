@@ -34,14 +34,12 @@ tags:
 
 > Sia ABCD un quadrilatero tale che AB = 24, BC = 20, CD = 15, DA = 7, BD = 25. Quanto
 > è lungo AC?
-> (A) 18
-> (B) 14
-> √
-> 2
-> (C) 20
-> (D) 21
-> (E) 24
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 18
+> - **(B)** 14 √ 2
+> - **(C)** 20
+> - **(D)** 21
+> - **(E)** 24 Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

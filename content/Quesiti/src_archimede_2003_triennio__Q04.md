@@ -32,16 +32,12 @@ tags:
 
 > In un’urna ci sono 9 palline, 3 bianche, 3 rosse e 3 blu. Tullio estrae contemporaneamente 3 palline. Qual è la probabilità che ne estragga una bianca, una rossa e
 > una blu?
-> (A) 1
-> 27
-> (B) 1
-> 9
-> (C) 9
-> 28
-> (D) 6
-> 27
-> (E) 3
-> 14.
+>
+> - **(A)** 1 27
+> - **(B)** 1 9
+> - **(C)** 9 28
+> - **(D)** 6 27
+> - **(E)** 3 14.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

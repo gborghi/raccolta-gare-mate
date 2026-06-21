@@ -37,11 +37,12 @@ tags:
 > Barbara dice: “Chiara è arrivata prima di Anna”;
 > Chiara dice: “Io sono arrivata seconda”.
 > Sapendo che una sola di esse ha detto la verità,
-> (A) si può dire solo chi ha vinto
-> (B) si può dire solo chi è arrivata seconda
-> (C) si può dire solo chi è arrivata terza
-> (D) si può dire solo chi è arrivata ultima
-> (E) non si può stabilire la posizione in classifica di nessuna.
+>
+> - **(A)** si può dire solo chi ha vinto
+> - **(B)** si può dire solo chi è arrivata seconda
+> - **(C)** si può dire solo chi è arrivata terza
+> - **(D)** si può dire solo chi è arrivata ultima
+> - **(E)** non si può stabilire la posizione in classifica di nessuna.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -36,11 +36,12 @@ tags:
 > può sceglierlo, arbitrariamente, di colore bianco oppure nero. Quanti modi distinti
 > ha Alberto di apparecchiare la tavola? (Due tavole apparecchiate che differiscono
 > solo per una rotazione non sono da considerarsi distinte).
-> (A) 12,
-> (B) 13,
-> (C) 14,
-> (D) 16,
-> (E) 18.
+>
+> - **(A)** 12,
+> - **(B)** 13,
+> - **(C)** 14,
+> - **(D)** 16,
+> - **(E)** 18.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]

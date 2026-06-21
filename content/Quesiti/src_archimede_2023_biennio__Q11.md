@@ -35,11 +35,12 @@ tags:
 > con −20 ⩽x ⩽20 e
 > −20 ⩽y ⩽20, tali che
 > x2y3 = 7xy ?
-> (A) 82
-> (B) 81
-> (C) 83
-> (D) 80
-> (E) 84
+>
+> - **(A)** 82
+> - **(B)** 81
+> - **(C)** 83
+> - **(D)** 80
+> - **(E)** 84
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

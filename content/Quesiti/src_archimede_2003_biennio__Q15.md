@@ -31,11 +31,12 @@ tags:
 *Quanti n con 8n+50 multiplo di 2n+1*
 
 > Quanti sono i numeri interi positivi n per i quali 8n + 50 è un multiplo di 2n + 1?
-> (A) Nessuno
-> (B) 1
-> (C) 2
-> (D) 5
-> (E) 10.
+>
+> - **(A)** Nessuno
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 5
+> - **(E)** 10.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

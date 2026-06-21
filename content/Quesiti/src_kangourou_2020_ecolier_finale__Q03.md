@@ -31,16 +31,14 @@ tags:
 *Schemi diversi per salire 8 gradini (1 o 2)*
 
 > In ogni cella della griglia che vedi qui a fianco è indicata un'operazione. Antonio ombreggia tutte le celle contenenti un'operazione il cui risultato è $20$. Quale delle seguenti forme ottiene?
-> 
+>
 > Le operazioni nella griglia sono: $16 + 4$, $2 \times 10$, $40 : 2$, $16 - 4$, $28 - 8$, $7 \times 3$.
-> 
-> (A) (forma A)
-> (B) (forma B)
-> (C) (forma C)
-> (D) (forma D)
-> (E) (forma E)
-> 
-> (vedi figura)
+>
+> - **(A)** (forma A)
+> - **(B)** (forma B)
+> - **(C)** (forma C)
+> - **(D)** (forma D)
+> - **(E)** (forma E) (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

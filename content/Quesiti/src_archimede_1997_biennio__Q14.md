@@ -33,19 +33,12 @@ tags:
 
 > Dati due reali x e y tali che 0 < x < y < 1, in
 > quale intervallo si trova x√y?
-> (A) Fra 0 e x
-> (B) fra x e y
-> (C) fra y e 1
-> (D) dopo 1
-> (E) dipende dai valori di x e y.
-> |
-> 0
-> |
-> x
-> |
-> y
-> |
-> 1
+>
+> - **(A)** Fra 0 e x
+> - **(B)** fra x e y
+> - **(C)** fra y e 1
+> - **(D)** dopo 1
+> - **(E)** dipende dai valori di x e y. | 0 | x | y | 1
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

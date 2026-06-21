@@ -42,11 +42,12 @@ tags:
 > B
 > C
 > D
-> (A) 56
-> (B) 64
-> (C) 63
-> (D) 70
-> (E) 42
+>
+> - **(A)** 56
+> - **(B)** 64
+> - **(C)** 63
+> - **(D)** 70
+> - **(E)** 42
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

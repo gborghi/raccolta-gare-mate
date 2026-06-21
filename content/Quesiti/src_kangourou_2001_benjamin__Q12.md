@@ -31,14 +31,12 @@ tags:
 > Edoardo ha 201 monete. Un terzo di queste sono monete da 1 Euro, un terzo sono
 > monete da 5 Euro ed il resto sono monete da 10 Euro. Quanti Euro possiede
 > Edoardo?
-> (A) 1072
-> (B) 201
-> (C) 972
-> (D) 1062
-> (E) 2001.
-> 
-> Kangourou 15 marzo 2001, categoria Benjamin.     Pagina N.
-> 4
+>
+> - **(A)** 1072
+> - **(B)** 201
+> - **(C)** 972
+> - **(D)** 1062
+> - **(E)** 2001. Kangourou 15 marzo 2001, categoria Benjamin. Pagina N. 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

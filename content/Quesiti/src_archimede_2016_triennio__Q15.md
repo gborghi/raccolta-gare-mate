@@ -32,11 +32,12 @@ tags:
 > è multiplo di 2, x + 3 è multiplo di 3 e x + 4 è multiplo di 4, ma x + 5 non è
 > multiplo di 5. Quanti altri numeri interi positivi, minori di 2016, hanno la stessa
 > particolarità?
-> (A) 141
-> (B) 83
-> (C) 167
-> (D) 134
-> (E) 149
+>
+> - **(A)** 141
+> - **(B)** 83
+> - **(C)** 167
+> - **(D)** 134
+> - **(E)** 149
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

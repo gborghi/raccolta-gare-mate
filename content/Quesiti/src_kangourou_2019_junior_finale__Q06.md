@@ -33,12 +33,12 @@ tags:
 *Quanti n con [n/20]=[n/17]*
 
 > Tre oggetti pesano ciascuno un numero intero di chili, ma hanno pesi a due a due diversi. Complessivamente pesano 97 chili. Quanti chili può pesare al massimo l'oggetto più leggero?
-> 
-> (A) 1
-> (B) 30
-> (C) 31
-> (D) 32
-> (E) 33
+>
+> - **(A)** 1
+> - **(B)** 30
+> - **(C)** 31
+> - **(D)** 32
+> - **(E)** 33
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_casework|Analisi per casi]]

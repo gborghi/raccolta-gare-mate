@@ -30,11 +30,12 @@ tags:
 
 > Siano A e B due punti nello spazio. L’insieme dei punti dello spazio la cui distanza da B è doppia
 > di quella da A è
-> (A) un piano
-> (B) una circonferenza
-> (C) una superficie sferica
-> (D) la superficie laterale di un cono
-> (E) la superficie laterale di un cilindro.
+>
+> - **(A)** un piano
+> - **(B)** una circonferenza
+> - **(C)** una superficie sferica
+> - **(D)** la superficie laterale di un cono
+> - **(E)** la superficie laterale di un cilindro.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -34,13 +34,12 @@ tags:
 
 > Nel triangolo rettangolo isoscele disegnato a fianco, ogni lato è stato diviso in cinque parti uguali. Determinare l’area della regione
 > evidenziata in grigio sapendo che ciascun cateto è lungo 50 cm.
-> (A) 9 cm2
-> (B) 50 cm2
-> (C) 90 cm2
-> (D) 18
-> √
-> 26 cm2
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 9 cm2
+> - **(B)** 50 cm2
+> - **(C)** 90 cm2
+> - **(D)** 18 √ 26 cm2
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

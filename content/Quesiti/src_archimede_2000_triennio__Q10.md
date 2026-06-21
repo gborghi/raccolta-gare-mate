@@ -37,16 +37,12 @@ tags:
 > b = b + 1
 > c = c + 1
 > d = 2 quanto vale il prodotto abcd?
-> (A) 5
-> 16
-> (B) 1
-> 5
-> (C) 3
-> 7
-> (D) 9
-> 16
-> (E) 5
-> 4.
+>
+> - **(A)** 5 16
+> - **(B)** 1 5
+> - **(C)** 3 7
+> - **(D)** 9 16
+> - **(E)** 5 4.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

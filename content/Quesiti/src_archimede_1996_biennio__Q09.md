@@ -32,11 +32,12 @@ tags:
 > primi 20 metri e corre i restanti 80 m a velocità costante, concludendo la gara in
 > 10 secondi netti. Se proseguisse per altri 100 m senza modificare la sua velocità
 > che tempo otterrebbe sui 200 m?
-> (A) 18,8 s
-> (B) 19 s
-> (C) 19,5 s
-> (D) 19,6 s
-> (E) 20 s.
+>
+> - **(A)** 18,8 s
+> - **(B)** 19 s
+> - **(C)** 19,5 s
+> - **(D)** 19,6 s
+> - **(E)** 20 s.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

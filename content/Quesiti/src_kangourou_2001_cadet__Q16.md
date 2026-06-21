@@ -32,11 +32,12 @@ tags:
 > corpo è costituito da acqua. Dopo aver bevuto, il suo peso
 > raggiunge gli 800 kg e l'acqua costituisce l'85% del suo peso.
 > Qual è il peso del cammello Desirée quando ha sete?
-> (A) 672 kg
-> (B) 680 kg
-> (C) 715 kg
-> (D) 720 kg
-> (E) 750 kg.
+>
+> - **(A)** 672 kg
+> - **(B)** 680 kg
+> - **(C)** 715 kg
+> - **(D)** 720 kg
+> - **(E)** 750 kg.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

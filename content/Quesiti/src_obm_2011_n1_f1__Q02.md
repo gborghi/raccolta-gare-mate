@@ -39,12 +39,12 @@ tags:
 *Cheapest way to buy 1.2 kg of CHOCOBM*
 
 > In a bakery, a 200 g can of cocoa powder CHOCOBM costs R\$3.00, a 400 g can costs R\$5.00, and an 800 g can costs R\$9.00. Lara needs $1.2$ kg of CHOCOBM to make a cake. Among the options below, which is the most economical way to buy $1.2$ kg of CHOCOBM in that bakery?
-> 
-> (A) 6 cans of 200 g
-> (B) 1 can of 400 g and 1 can of 800 g
-> (C) 4 cans of 200 g and 1 can of 400 g
-> (D) 2 cans of 200 g and 1 can of 800 g
-> (E) 2 cans of 200 g and 2 cans of 400 g
+>
+> - **(A)** 6 cans of 200 g
+> - **(B)** 1 can of 400 g and 1 can of 800 g
+> - **(C)** 4 cans of 200 g and 1 can of 400 g
+> - **(D)** 2 cans of 200 g and 1 can of 800 g
+> - **(E)** 2 cans of 200 g and 2 cans of 400 g
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]

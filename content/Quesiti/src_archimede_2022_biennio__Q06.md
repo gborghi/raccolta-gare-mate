@@ -32,11 +32,12 @@ tags:
 
 > Sapendo che il minimo comune multiplo tra due numeri naturali è uguale a 240,
 > qual è il più piccolo valore possibile della loro somma?
-> (A) 34
-> (B) 32
-> (C) 31
-> (D) 30
-> (E) 38
+>
+> - **(A)** 34
+> - **(B)** 32
+> - **(C)** 31
+> - **(D)** 30
+> - **(E)** 38
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

@@ -34,11 +34,12 @@ tags:
 > giorno. Ogni mattina ha tessuto 20 cm di tela e ogni pomeriggio ne ha disfatta
 > un po’, precisamente 20 cm nei giorni pari del mese e 19 cm nei giorni dispari.
 > Quanto era lunga la tela alla fine?
-> (A) 140 cm
-> (B) 172 cm
-> (C) 186 cm
-> (D) 200 cm
-> (E) 210 cm.
+>
+> - **(A)** 140 cm
+> - **(B)** 172 cm
+> - **(C)** 186 cm
+> - **(D)** 200 cm
+> - **(E)** 210 cm.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

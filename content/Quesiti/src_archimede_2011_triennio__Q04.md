@@ -34,11 +34,12 @@ tags:
 
 > m e n sono due numeri interi positivi, tali che m −n = 7. Quanti sono i valori
 > compresi tra 0 e 2011 (estremi inclusi) che possono essere assunti da m + 5n?
-> (A) 6,
-> (B) 334,
-> (C) 670,
-> (D) 1005,
-> (E) 2012.
+>
+> - **(A)** 6,
+> - **(B)** 334,
+> - **(C)** 670,
+> - **(D)** 1005,
+> - **(E)** 2012.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

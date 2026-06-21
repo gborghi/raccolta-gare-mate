@@ -31,11 +31,12 @@ tags:
 > −1) e il terzo
 > vertice nel punto di coordinate (1, k). Per quanti valori reali di k tale triangolo
 > risulta isoscele?
-> (A) Nessuno
-> (B) 1
-> (C) 4
-> (D) 5
-> (E) infiniti.
+>
+> - **(A)** Nessuno
+> - **(B)** 1
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** infiniti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

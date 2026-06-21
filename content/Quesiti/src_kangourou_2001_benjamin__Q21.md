@@ -35,11 +35,12 @@ tags:
 > I sette bastoncini grigi nella figura hanno la stessa lunghezza; lo spazio libero tra
 > uno loro ed il successivo sulla stessa riga è sempre lo stesso. Qual è la lunghezza
 > di ognuna delle due parti uguali segnate con un punto interrogativo?
-> (A) 1 cm
-> (B) 2 cm
-> (C) 3 cm
-> (D) 5 cm
-> (E) 8 cm.
+>
+> - **(A)** 1 cm
+> - **(B)** 2 cm
+> - **(C)** 3 cm
+> - **(D)** 5 cm
+> - **(E)** 8 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

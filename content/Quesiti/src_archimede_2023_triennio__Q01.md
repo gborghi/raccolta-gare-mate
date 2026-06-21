@@ -32,15 +32,12 @@ tags:
 > a2 −a1 = a3 −a2 = a4 −a3 = a5 −a4 = a6 −a5.
 > Sapendo che a1 +a2 +a3 = 11 e
 > a4+a5+a6 =32, indicare qual è il valore di a2 −a1.
-> (A) 8
-> 3
-> (B) 5
-> 3
-> (C) 2
-> (D) 7
-> 3
-> (E) 4
-> 3
+>
+> - **(A)** 8 3
+> - **(B)** 5 3
+> - **(C)** 2
+> - **(D)** 7 3
+> - **(E)** 4 3
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

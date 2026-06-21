@@ -37,12 +37,12 @@ tags:
 *Find cinema ticket price given equal total expenses*
 
 > Carlos and his friends, Danilo and Edson, went to the cinema. Carlos paid the entrance tickets for everyone, Danilo paid for the popcorn and Edson paid for the car parking. To settle the accounts, Danilo paid Carlos R\$8.00 and Edson paid Carlos R\$14.00, so that the total expense of each one came to R\$32.00. What was the price of one cinema ticket?
-> 
-> (A) R\$10.00
-> (B) R\$12.00
-> (C) R\$15.00
-> (D) R\$18.00
-> (E) R\$20.00
+>
+> - **(A)** R\$10.00
+> - **(B)** R\$12.00
+> - **(C)** R\$15.00
+> - **(D)** R\$18.00
+> - **(E)** R\$20.00
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

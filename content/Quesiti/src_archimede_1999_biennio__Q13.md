@@ -33,11 +33,12 @@ tags:
 > decide di dividere il campo in parti uguali tra i suoi due figli.
 > Ciascun figlio
 > riceverà un numero di metri quadri compreso tra
-> (A) 950 e 960
-> (B) 960 e 970
-> (C) 970 e 980
-> (D) 980 e 990
-> (E) 990 e 1000.
+>
+> - **(A)** 950 e 960
+> - **(B)** 960 e 970
+> - **(C)** 970 e 980
+> - **(D)** 980 e 990
+> - **(E)** 990 e 1000.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

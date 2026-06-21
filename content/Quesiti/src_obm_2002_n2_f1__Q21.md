@@ -43,12 +43,12 @@ tags:
 *School trip to zoo; two bus companies; find minimum number of children N to prefer company 2*
 
 > A school wants to organize a trip to the zoo. There are two transport options: option 1 is to hire vans that hold up to $6$ children each at R$\$60.00$ per van; option 2 is to hire a bus company with buses holding up to $48$ children each, charging R$\$237.00$ plus R$\$120.00$ per bus used. The school should prefer the option that uses buses when the number of children $N$ is such that using buses is cheaper than using vans (assuming no fewer than $5$ vans would otherwise be needed). The value of $N$ is:
-> 
-> (A) $28$
-> (B) $31$
-> (C) $32$
-> (D) $33$
-> (E) $36$
+>
+> - **(A)** $28$
+> - **(B)** $31$
+> - **(C)** $32$
+> - **(D)** $33$
+> - **(E)** $36$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]

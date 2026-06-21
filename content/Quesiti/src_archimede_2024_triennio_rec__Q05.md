@@ -53,11 +53,12 @@ tags:
 > B
 > C
 > D
-> (A) 14
-> (B) 15
-> (C) 18
-> (D) 16
-> (E) 12
+>
+> - **(A)** 14
+> - **(B)** 15
+> - **(C)** 18
+> - **(D)** 16
+> - **(E)** 12
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

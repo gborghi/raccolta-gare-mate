@@ -33,12 +33,12 @@ tags:
 *Numeri di 6 cifre con 1 e 2 multipli di 3*
 
 > Quanti numeri di 6 cifre che sono multipli di 3 posso scrivere utilizzando solo le cifre 1 e 2?
-> (A) 2
-> (B) 12
-> (C)
-> 22
-> (D) 32
-> (E) 64
+>
+> - **(A)** 2
+> - **(B)** 12
+> - **(C)** 22
+> - **(D)** 32
+> - **(E)** 64
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

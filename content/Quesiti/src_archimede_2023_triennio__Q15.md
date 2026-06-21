@@ -35,11 +35,12 @@ tags:
 > Dopo aver disegnato un rettangolo di dimensioni 78 × 114 cm, Chiara lo suddivide
 > in 78·114 = 8892 quadratini di 1 cm2, poi traccia una diagonale del rettangolo.
 > Quanti quadratini vengono attraversati dalla diagonale?
-> (A) 114
-> (B) 186
-> (C) 191
-> (D) 162
-> (E) 192
+>
+> - **(A)** 114
+> - **(B)** 186
+> - **(C)** 191
+> - **(D)** 162
+> - **(E)** 192
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

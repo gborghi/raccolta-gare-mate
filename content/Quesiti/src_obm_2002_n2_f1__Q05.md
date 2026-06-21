@@ -39,12 +39,12 @@ tags:
 *Pedro and João race; 2 João steps = 3 Pedro steps; João has 60-step head start; how many steps for Pedro to catch up*
 
 > Two brothers, Pedro and João, decided to play a racing game. Since Pedro is older, every $2$ steps of João cover the same distance as $3$ steps of Pedro. To start the race, João is given a $60$-step head start before Pedro begins. After how many steps does Pedro catch up with João?
-> 
-> (A) $90$ steps
-> (B) $120$ steps
-> (C) $150$ steps
-> (D) $180$ steps
-> (E) $200$ steps
+>
+> - **(A)** $90$ steps
+> - **(B)** $120$ steps
+> - **(C)** $150$ steps
+> - **(D)** $180$ steps
+> - **(E)** $200$ steps
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

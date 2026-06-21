@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob6.png]]
 
 > Mario ha fatto una costruzione usando alcuni cubetti bianchi e $14$ cubetti grigi, tutti della stessa misura. Quanti dei cubetti grigi non puoi vedere in questa immagine della costruzione di Mario?
-> 
+>
 > (vedi figura)
-> 
-> (A) $1$
-> (B) $3$
-> (C) $5$
-> (D) $6$
-> (E) $8$
+>
+> - **(A)** $1$
+> - **(B)** $3$
+> - **(C)** $5$
+> - **(D)** $6$
+> - **(E)** $8$
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

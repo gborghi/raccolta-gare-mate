@@ -33,23 +33,12 @@ tags:
 > √
 > 3 volte l’area del rettangolo. Quanto vale b
 > h?
-> (A)
-> √
-> 3
-> (B) 2
-> (C) 3 +
-> √
-> 3
-> 2
-> (D) 3 +
-> √
-> 5
-> 2
-> (E) 7 + 3
-> √
-> 5
-> 2
-> .
+>
+> - **(A)** √ 3
+> - **(B)** 2
+> - **(C)** 3 + √ 3 2
+> - **(D)** 3 + √ 5 2
+> - **(E)** 7 + 3 √ 5 2 .
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

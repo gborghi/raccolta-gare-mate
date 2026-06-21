@@ -34,17 +34,12 @@ tags:
 > con centro in A e raggio pari al lato del cubo su ciascuna
 > delle tre facce aventi un vertice in A. Qual è la frazione della
 > superficie del cubo ombreggiata?
-> (A) 1
-> 4
-> (B) 3
-> 8
-> (C) π
-> 8
-> (D) π
-> 6
-> (E) dipende dal lato del cubo.
-> b
-> A
+>
+> - **(A)** 1 4
+> - **(B)** 3 8
+> - **(C)** π 8
+> - **(D)** π 6
+> - **(E)** dipende dal lato del cubo. b A
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

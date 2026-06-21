@@ -40,12 +40,12 @@ tags:
 *Billiard ball on 5×7 table shot at 45°; count side hits before corner pocket*
 
 > If you were to play billiards on a rectangular table whose width-to-length ratio is $5:7$, and you shoot a ball from a corner at $45^\circ$ to the sides, how many times does the ball hit the sides before falling into a pocket at a corner?
-> 
-> (A) $10$ times
-> (B) $12$ times
-> (C) $14$ times
-> (D) $16$ times
-> (E) $15$ times
+>
+> - **(A)** $10$ times
+> - **(B)** $12$ times
+> - **(C)** $14$ times
+> - **(D)** $16$ times
+> - **(E)** $15$ times
 
 ![[src_obm_2002_n2_f1__Q02.png]]
 

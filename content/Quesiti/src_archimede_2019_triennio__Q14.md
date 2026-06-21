@@ -35,11 +35,12 @@ tags:
 > pagina rispettano questa regola: se in un post è presente l’hashtag “#ItaMO”, deve
 > esserci anche “#cese2020”(sono due dei 10 hashtag). In quanti modi può essere
 > scelto l’insieme di hashtag da inserire in un post?
-> (A) 120
-> (B) 93
-> (C) 165
-> (D) 90
-> (E) 129
+>
+> - **(A)** 120
+> - **(B)** 93
+> - **(C)** 165
+> - **(D)** 90
+> - **(E)** 129
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

@@ -33,11 +33,12 @@ tags:
 > Sapendo che sono partiti assieme dalla linea di partenza, dopo quanti giri essi
 > tagliano ancora assieme per la prima volta la linea di partenza? Si chiede il totale
 > dei giri percorsi dai due.
-> (A) 3
-> (B) 43
-> (C) 86
-> (D) 90
-> (E) 135.
+>
+> - **(A)** 3
+> - **(B)** 43
+> - **(C)** 86
+> - **(D)** 90
+> - **(E)** 135.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

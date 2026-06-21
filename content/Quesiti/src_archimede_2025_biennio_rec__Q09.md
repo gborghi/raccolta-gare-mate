@@ -32,11 +32,12 @@ tags:
 
 > Tra tutti i numeri interi che vanno da 1000 a 3000, quanti sono quelli nei quali la
 > cifra 7 compare esattamente una volta?
-> (A) 600
-> (B) 486
-> (C) 512
-> (D) 450
-> (E) 576
+>
+> - **(A)** 600
+> - **(B)** 486
+> - **(C)** 512
+> - **(D)** 450
+> - **(E)** 576
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

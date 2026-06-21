@@ -35,11 +35,12 @@ tags:
 > la cui somma è 2016 · 2017 · 2018. Fatto ciò, sostituisce ognuna di tali sequenze con il massimo
 > comun divisore dei suoi elementi. Quando questa lunga operazione è terminata, quanto vale il
 > massimo dei numeri scritti alla lavagna?
-> (A) 2
-> (B) 2 · 2016
-> (C) 2 · 2017
-> (D) 2 · 2018
-> (E) 2016 · 2018
+>
+> - **(A)** 2
+> - **(B)** 2 · 2016
+> - **(C)** 2 · 2017
+> - **(D)** 2 · 2018
+> - **(E)** 2016 · 2018
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalita]]

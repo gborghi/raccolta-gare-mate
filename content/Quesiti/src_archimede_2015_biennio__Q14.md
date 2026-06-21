@@ -31,11 +31,12 @@ tags:
 > Nel pentagono ABCDE, gli angoli nei vertici A, C, E sono retti. Si sa inoltre
 > che AB = 15 m, BC = 12 m, CD = 5 m, DE = 20 m. Di quanti m2 è l’area del
 > pentagono?
-> (A) 180
-> (B) 210
-> (C) 240
-> (D) 200
-> (E) 270
+>
+> - **(A)** 180
+> - **(B)** 210
+> - **(C)** 240
+> - **(D)** 200
+> - **(E)** 270
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

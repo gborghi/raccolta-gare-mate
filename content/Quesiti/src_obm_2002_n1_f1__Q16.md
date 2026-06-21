@@ -38,11 +38,12 @@ tags:
 *Fraction of larger circle's area covered by the black region*
 
 > In the squared mesh below, all the circumferences have center $M$. Then one can conclude that the black area is:
-> (A) two fifths of the area of the larger circle.
-> (B) three sevenths of the area of the larger circle.
-> (C) half of the area of the larger circle.
-> (D) four sixths of the area of the larger circle.
-> (E) three eighths of the area of the larger circle.
+>
+> - **(A)** two fifths of the area of the larger circle.
+> - **(B)** three sevenths of the area of the larger circle.
+> - **(C)** half of the area of the larger circle.
+> - **(D)** four sixths of the area of the larger circle.
+> - **(E)** three eighths of the area of the larger circle.
 
 ![[src_obm_2002_n1_f1__Q16.png]]
 

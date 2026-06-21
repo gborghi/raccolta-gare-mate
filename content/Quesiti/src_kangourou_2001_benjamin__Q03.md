@@ -30,11 +30,12 @@ tags:
 
 > Il vecchio orologio del nonno ritarda di 20 secondi ogni ora. Quale sarà il
 > ritardo dell'orologio dopo 24 ore?
-> (A) 7 minuti
-> (B) 8 minuti
-> (C) 9 minuti
-> (D) 10 minuti 
-> (E) 11 minuti.
+>
+> - **(A)** 7 minuti
+> - **(B)** 8 minuti
+> - **(C)** 9 minuti
+> - **(D)** 10 minuti
+> - **(E)** 11 minuti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

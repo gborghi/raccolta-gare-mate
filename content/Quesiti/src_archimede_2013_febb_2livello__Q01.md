@@ -34,18 +34,12 @@ tags:
 > giusta. La prima domanda ha 2 possibili risposte (A e B), la seconda domanda ha 3 possibili
 > risposte (A, B, C), e così via, fino all’undicesima domanda che ha 12 possibili risposte. Qual è
 > la probabilità che facendo a caso il test Matteo dia almeno una risposta giusta?
-> (A)
-> 1
-> 12!
-> (B)
-> 1
-> 144
-> (C) 1
-> 2
-> (D) 11
-> 12
-> (E) 121
-> 144
+>
+> - **(A)** 1 12!
+> - **(B)** 1 144
+> - **(C)** 1 2
+> - **(D)** 11 12
+> - **(E)** 121 144
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

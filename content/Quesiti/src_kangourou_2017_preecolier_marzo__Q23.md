@@ -32,16 +32,14 @@ tags:
 > - nello scomparto centrale del ripiano su cui stanno il mostro blu e il pollo si trova l'orsetto.
 > - il pollo è proprio sopra il trenino colorato.
 > - la bambola è a sinistra del trenino colorato e a destra del trenino verde.
-> 
+>
 > Quale giocattolo sta nello scomparto grigio?
-> 
-> (A) il trenino verde
-> (B) il pollo
-> (C) la bambola
-> (D) il trenino colorato
-> (E) il mostro blu
-> 
-> (vedi figura)
+>
+> - **(A)** il trenino verde
+> - **(B)** il pollo
+> - **(C)** la bambola
+> - **(D)** il trenino colorato
+> - **(E)** il mostro blu (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

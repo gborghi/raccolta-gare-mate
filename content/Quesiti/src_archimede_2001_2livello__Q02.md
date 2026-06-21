@@ -31,11 +31,12 @@ tags:
 > Si vuole misurare la lunghezza di un circuito automobilistico usando un’auto che ha il contachilometri inizialmente azzerato e che misura solo i chilometri e non le centinaia di metri. Qual è il
 > minimo n tale che, guardando solamente quanto segna il contachilometri alla fine dell’n-esimo giro,
 > il pilota possa conoscere la lunghezza del circuito con un errore inferiore a 30 metri?
-> (A) 0 < n ≤10
-> (B) 10 < n ≤20
-> (C) 20 < n ≤30
-> (D) 30 < n ≤40
-> (E) 40 < n ≤50.
+>
+> - **(A)** 0 < n ≤10
+> - **(B)** 10 < n ≤20
+> - **(C)** 20 < n ≤30
+> - **(D)** 30 < n ≤40
+> - **(E)** 40 < n ≤50.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

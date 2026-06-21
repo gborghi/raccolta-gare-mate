@@ -34,11 +34,12 @@ tags:
 
 > Quante coppie (x, y), formate da numeri interi strettamente maggiori di 1, sono
 > tali che: x2 + y = xy + 1?
-> (A) Nessuna,
-> (B) una,
-> (C) due,
-> (D) tre,
-> (E) più di quattro.
+>
+> - **(A)** Nessuna,
+> - **(B)** una,
+> - **(C)** due,
+> - **(D)** tre,
+> - **(E)** più di quattro.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

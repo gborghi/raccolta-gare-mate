@@ -37,12 +37,12 @@ tags:
 *Remainder when sqrt(1111111111 - 22222) is divided by 9*
 
 > The remainder of the division by $9$ of $\sqrt{1111111111 - 22222}$ is:
-> 
-> (A) $0$
-> (B) $1$
-> (C) $3$
-> (D) $6$
-> (E) $8$
+>
+> - **(A)** $0$
+> - **(B)** $1$
+> - **(C)** $3$
+> - **(D)** $6$
+> - **(E)** $8$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]

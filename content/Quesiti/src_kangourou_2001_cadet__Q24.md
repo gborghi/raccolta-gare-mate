@@ -32,11 +32,12 @@ tags:
 
 > Qual è la prima cifra del più piccolo numero naturale la somma delle cui cifre sia
 > 2001?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

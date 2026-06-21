@@ -30,11 +30,12 @@ tags:
 
 > Quale angolo convesso formano le due lancette di un orologio alle ore 12 : 30
 > (supponendo si muovano entrambe a velocità costante)?
-> (A) 165°
-> (B) 180°
-> (C) 168°
-> (D) 172°
-> (E) 150°
+>
+> - **(A)** 165°
+> - **(B)** 180°
+> - **(C)** 168°
+> - **(D)** 172°
+> - **(E)** 150°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -38,12 +38,12 @@ tags:
 *Reading a food-price variation graph*
 
 > The graph shows a variation in the prices of some food products in the first semester of a certain year. Based on the graph, which alternative can be stated with certainty?
-> 
-> (A) corn was always cheaper than rice or beans
-> (B) the price of beans only fell during the period
-> (C) beans were always more expensive than coffee
-> (D) no two products ever had the same price
-> (E) the product with the smallest price variation was beans
+>
+> - **(A)** corn was always cheaper than rice or beans
+> - **(B)** the price of beans only fell during the period
+> - **(C)** beans were always more expensive than coffee
+> - **(D)** no two products ever had the same price
+> - **(E)** the product with the smallest price variation was beans
 
 ![[src_obm_2011_n1_f1__Q03.png]]
 

@@ -32,11 +32,12 @@ tags:
 *Quanti multipli di 3 tra 2000 e 4000*
 
 > Quanti sono i multipli di 3 maggiori o uguali di 2000 e minori o uguali di 4000?
-> (A) 666,
-> (B) 667,
-> (C) 668,
-> (D) 669,
-> (E) 670.
+>
+> - **(A)** 666,
+> - **(B)** 667,
+> - **(C)** 668,
+> - **(D)** 669,
+> - **(E)** 670.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

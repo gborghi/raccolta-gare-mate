@@ -40,12 +40,12 @@ tags:
 *Largest value of x^2+x+1 (or similar) under a condition on real x (statement garbled).*
 
 > What is the largest value of $xy^2$ where $x$ and $y$ are positive reals with $x+y=3$?
-> 
-> (A) $3$
-> (B) $4$
-> (C) $5$
-> (D) $6$
-> (E) $7$
+>
+> - **(A)** $3$
+> - **(B)** $4$
+> - **(C)** $5$
+> - **(D)** $6$
+> - **(E)** $7$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]

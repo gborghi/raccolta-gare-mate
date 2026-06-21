@@ -36,11 +36,12 @@ tags:
 > secondi (chi ha già sbadigliato non lo fa più). Ieri la Bella Addormentata (una
 > studentessa) era lì e, essendo molto stanca, ha sbadigliato per prima! In quanti
 > (inclusa la Bella Addormentata) avevano sbadigliato dopo 57 secondi?
-> (A) 2047,
-> (B) 3024,
-> (C) 3625,
-> (D) 4095,
-> (E) 8192.
+>
+> - **(A)** 2047,
+> - **(B)** 3024,
+> - **(C)** 3625,
+> - **(D)** 4095,
+> - **(E)** 8192.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

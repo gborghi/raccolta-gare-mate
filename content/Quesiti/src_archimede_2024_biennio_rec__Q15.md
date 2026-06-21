@@ -31,11 +31,12 @@ tags:
 
 > Tre coppie di fratelli si siedono su una panchina. Ciascuno vuole stare accanto al
 > proprio fratello. In quanti modi possono disporsi da sinistra verso destra?
-> (A) 48
-> (B) 45
-> (C) 50
-> (D) 36
-> (E) 42
+>
+> - **(A)** 48
+> - **(B)** 45
+> - **(C)** 50
+> - **(D)** 36
+> - **(E)** 42
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

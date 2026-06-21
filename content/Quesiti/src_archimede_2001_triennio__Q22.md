@@ -35,11 +35,12 @@ tags:
 > le mele. Uno dei 4 va a casa e lungo la strada mangia 2 mele. Arrivato a casa
 > si accorge di poter dividere le mele rimaste a metà con la propria ragazza senza
 > tagliarle. Quante potevano essere al minimo le mele originarie?
-> (A) 12
-> (B) 16
-> (C) 24
-> (D) 36
-> (E) 50.
+>
+> - **(A)** 12
+> - **(B)** 16
+> - **(C)** 24
+> - **(D)** 36
+> - **(E)** 50.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

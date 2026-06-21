@@ -31,12 +31,12 @@ tags:
 *Numeri di 3 cifre con somma 4*
 
 > Quanti sono i numeri di tre cifre significative la somma delle cui cifre vale 4?
-> (A) 10
->  
-> (B) 9
-> (C) 8
-> (D) 7
-> (E) 6.
+>
+> - **(A)** 10
+> - **(B)** 9
+> - **(C)** 8
+> - **(D)** 7
+> - **(E)** 6.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

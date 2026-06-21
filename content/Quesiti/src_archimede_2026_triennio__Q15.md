@@ -38,11 +38,12 @@ tags:
 > uguali se, muovendoli in qualsiasi maniera, essi non appaiono distinguibili dai colori
 > delle facce)
 > 
-> (A) 630
-> (B) 840
-> (C) 420
-> (D) 1050
-> (E) 210
+>
+> - **(A)** 630
+> - **(B)** 840
+> - **(C)** 420
+> - **(D)** 1050
+> - **(E)** 210
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]

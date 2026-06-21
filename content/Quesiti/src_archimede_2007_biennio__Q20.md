@@ -40,16 +40,12 @@ tags:
 > in due parti. Qual è il rapporto tra il volume
 > della parte che contiene B e quello della parte
 > che contiene C?
-> (A) 1/2,
-> (B) 1,
-> (C) 3/2,
-> (D) 2,
-> (E) 3.
-> D
-> B
-> A
-> C
-> P
+>
+> - **(A)** 1/2,
+> - **(B)** 1,
+> - **(C)** 3/2,
+> - **(D)** 2,
+> - **(E)** 3. D B A C P
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -33,14 +33,12 @@ tags:
 > Consideriamo un puzzle di forma quadrata, con n pezzi per lato. Ogni pezzo ha
 > 4 lati e su ciascun lato può esserci o un buco o una sporgenza, oppure può essere
 > piatto (quando si trova sul bordo). Quale tra le seguenti affermazioni è falsa?
-> (A) Se il numero complessivo di pezzi è multiplo di 21, anche il numero di buchi
-> deve essere multiplo di 21.
-> (B) Il numero complessivo di buchi è uguale al numero di sporgenze.
-> (C) Se il numero complessivo di pezzi è multiplo di 25, anche il numero di buchi
-> deve essere multiplo di 25.
-> (D) Il numero complessivo di sporgenze è multiplo di 4.
-> (E) Se il numero complessivo di pezzi è dispari, anche il numero di pezzi che non
-> hanno lati piatti deve essere dispari.
+>
+> - **(A)** Se il numero complessivo di pezzi è multiplo di 21, anche il numero di buchi deve essere multiplo di 21.
+> - **(B)** Il numero complessivo di buchi è uguale al numero di sporgenze.
+> - **(C)** Se il numero complessivo di pezzi è multiplo di 25, anche il numero di buchi deve essere multiplo di 25.
+> - **(D)** Il numero complessivo di sporgenze è multiplo di 4.
+> - **(E)** Se il numero complessivo di pezzi è dispari, anche il numero di pezzi che non hanno lati piatti deve essere dispari.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

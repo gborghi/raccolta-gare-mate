@@ -28,22 +28,15 @@ tags:
 
 *prezzo di 9 pezzi 3_72,98*
 
-> (Punti 2) Ho acquistato 9 pezzi di uno stesso prodotto, ma non so che cosa devo pagare perché una delle 
-> cifre sul foglio con la richiesta di pagamento è macchiata e si vede solo la scritta 3    72,98. Qual è la cifra sotto 
+> (Punti 2) Ho acquistato 9 pezzi di uno stesso prodotto, ma non so che cosa devo pagare perché una delle
+> cifre sul foglio con la richiesta di pagamento è macchiata e si vede solo la scritta 3    72,98. Qual è la cifra sotto
 > la macchia nera?
-> (A) 3	
-> 	
-> 	
-> (B) 4	
-> 	
-> 	
-> (C) 5	
-> 	
-> 	
-> (D) 6	
-> 	
-> 	
-> (E) 7
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

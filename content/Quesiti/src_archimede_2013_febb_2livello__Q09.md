@@ -31,11 +31,12 @@ tags:
 *Polinomio con p(5n-1)=5^(5n)-1, calcolare p(3)*
 
 > Sapendo che il polinomio p è tale che, per ogni intero n, p(5n −1) = 55n −1, quanto varrà p(3)?
-> (A) 1023
-> (B) 999
-> (C) 874
-> (D) 242
-> (E) 0
+>
+> - **(A)** 1023
+> - **(B)** 999
+> - **(C)** 874
+> - **(D)** 242
+> - **(E)** 0
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

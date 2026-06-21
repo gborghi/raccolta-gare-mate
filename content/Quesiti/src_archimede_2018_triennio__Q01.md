@@ -29,16 +29,12 @@ tags:
 *Indicare la piu grande tra cinque frazioni*
 
 > Indicare la più grande tra queste frazioni.
-> (A) 2018
-> 2011
-> (B) 2016
-> 2009
-> (C) 2020
-> 2013
-> (D) 2019
-> 2012
-> (E) 2025
-> 2018
+>
+> - **(A)** 2018 2011
+> - **(B)** 2016 2009
+> - **(C)** 2020 2013
+> - **(D)** 2019 2012
+> - **(E)** 2025 2018
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

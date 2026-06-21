@@ -28,11 +28,12 @@ tags:
 *Numero di cifre di 2001 in base due*
 
 > Quante cifre ha, in base due, il numero 2001?
-> (A) 8
-> (B) 9
-> (C) 10
-> (D) 11
-> (E) 12.
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 11
+> - **(E)** 12.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

@@ -31,14 +31,12 @@ tags:
 *Quanti mattoncini per completare l'igloo*
 
 > In figura vedi l'immagine di un igloo. Ogni mattoncino completo è stato realizzato con un adesivo e questi adesivi sono tutti uguali fra loro. Quanti devo incollarne ancora per completare il disegno?
-> 
-> (A) 6
-> (B) 7
-> (C) 8
-> (D) 9
-> (E) 10
-> 
-> (vedi figura)
+>
+> - **(A)** 6
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** 10 (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob11.png]]
 
 > Le cinque costruzioni che vedi qui sotto sono state ottenute accostando dei cubetti uguali «faccia contro faccia». In quale di esse abbiamo usato più cubetti?
-> 
+>
 > (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

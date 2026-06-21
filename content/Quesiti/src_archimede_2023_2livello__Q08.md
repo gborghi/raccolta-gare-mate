@@ -33,13 +33,12 @@ tags:
 > Dato un cubo di lato 10, consideriamo un piano che passi per esattamente 6 dei punti medi dei suoi spigoli; chiamiamo tali punti A, B, C, D, E, F e supponiamo che i lati dell’esagono
 > ABCDEF giacciano ciascuno su una faccia del cubo. Consideriamo poi un secondo piano contenente il segmento AB e perpendicolare alla faccia contenente AB. Quanto vale il volume della
 > porzione del cubo contenuta fra i due piani?
-> (A) 250
-> (B) 1000
-> 3
-> (C) 375
-> (D) 1625
-> 3
-> (E) Non esiste un piano con le proprietà richieste
+>
+> - **(A)** 250
+> - **(B)** 1000 3
+> - **(C)** 375
+> - **(D)** 1625 3
+> - **(E)** Non esiste un piano con le proprietà richieste
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -31,14 +31,12 @@ tags:
 *Modi di programmare gli inviti a tre feste*
 
 > Un rettangolo $3 \times 2$ può essere piastrellato con piastrelle a forma di "L" nei due diversi modi mostrati. In quanti diversi modi può essere piastrellata, con piastrelle dello stesso tipo, la figura indicata?
-> 
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 48
-> 
-> (vedi figura)
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 48 (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

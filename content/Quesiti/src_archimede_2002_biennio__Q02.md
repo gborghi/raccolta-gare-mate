@@ -33,11 +33,12 @@ tags:
 > Un numero di due cifre viene sommato al numero ottenuto invertendo le sue cifre.
 > Si divide quindi la somma ottenuta per la somma delle cifre del numero dato e si
 > eleva al quadrato il risultato. Che numero si ottiene?
-> (A) 36
-> (B) 49
-> (C) 100
-> (D) 121
-> (E) dipende dalle cifre del numero dato.
+>
+> - **(A)** 36
+> - **(B)** 49
+> - **(C)** 100
+> - **(D)** 121
+> - **(E)** dipende dalle cifre del numero dato.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

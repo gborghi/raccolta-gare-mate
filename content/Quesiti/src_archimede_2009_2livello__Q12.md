@@ -33,12 +33,12 @@ tags:
 > Francesco vuole scrivere il polinomio x16 + x come prodotto di più polinomi a coefficienti interi,
 > ognuno di grado almeno 1. Quanti fattori potrà¨ı¿1
 > 2 ottenere al massimo?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5.
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5. Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

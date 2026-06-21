@@ -37,11 +37,12 @@ tags:
 > Dopo aver camminato un po’,
 > percorrendo almeno una volta tutti i lati dei quadratini, la formica torna al punto
 > iniziale. Quanti metri avrà percorso come minimo?
-> (A) 14
-> (B) 16
-> (C) 15
-> (D) 12
-> (E) 18
+>
+> - **(A)** 14
+> - **(B)** 16
+> - **(C)** 15
+> - **(D)** 12
+> - **(E)** 18
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

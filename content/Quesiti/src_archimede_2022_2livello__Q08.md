@@ -35,15 +35,16 @@ tags:
 > squadre; inoltre, ciascuna squadra può effettuare un numero arbitrario di sostituzioni prima che
 > abbia inizio l’azione successiva. Alice e Barbara fanno parte della squadra delle Geodetiche. Alla
 > fine della partita di oggi, Alice osserva che, mentre lei era in campo, le Geodetiche hanno vinto
-> 
+>
 > 7 azioni in più di quante ne abbiano perse. Quando Barbara era in campo, invece, hanno perso
 > 2 azioni in più di quante ne abbiano vinte. Ciascuna delle altre giocatrici delle Geodetiche ha
 > partecipato a tante azioni vincenti quante perdenti. Quanto vale k?
-> (A) 3
-> (B) 5
-> (C) 6
-> (D) 9
-> (E) I dati non sono sufficienti per determinarlo.
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 9
+> - **(E)** I dati non sono sufficienti per determinarlo.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

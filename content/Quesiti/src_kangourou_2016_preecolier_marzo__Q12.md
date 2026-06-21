@@ -29,12 +29,12 @@ tags:
 *In quante stanze la luce era spenta, 18 finestre illuminate*
 
 > In un piano di un edificio ci sono dodici stanze: ogni stanza ha due finestre e un lampadario. Ieri sera tutte le tapparelle erano alzate ed apparivano illuminate diciotto finestre. In quante stanze di quel piano la luce era spenta?
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -31,11 +31,12 @@ tags:
 > Il numero reale a è tale che l’equazione
 > x2 + 2ax + 1 = 0
 > ha due soluzioni reali coincidenti. Quanti sono i possibili valori di a?
-> (A) Nessuno,
-> (B) uno,
-> (C) due,
-> (D) tre,
-> (E) quattro.
+>
+> - **(A)** Nessuno,
+> - **(B)** uno,
+> - **(C)** due,
+> - **(D)** tre,
+> - **(E)** quattro.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

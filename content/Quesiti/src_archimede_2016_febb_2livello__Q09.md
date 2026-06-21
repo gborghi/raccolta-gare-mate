@@ -36,11 +36,12 @@ tags:
 > termine (con n ≥3) sia la somma dei due precedenti (i primi termini della successione sono
 > quindi F1 = 1, F2 = 1, F3 = 2 = 1 + 1, F4 = 3 = 2 + 1, F5 = 5 = 3 + 2). Quanti sono i numeri
 > di Fibonacci che hanno esattamente 2016 cifre nella loro scrittura decimale?
-> (A) Almeno 2 e al massimo 3
-> (B) Almeno 4 e al massimo 5
-> (C) Almeno 6 e al massimo 7
-> (D) Almeno 8 e al massimo 9
-> (E) 10 o più
+>
+> - **(A)** Almeno 2 e al massimo 3
+> - **(B)** Almeno 4 e al massimo 5
+> - **(C)** Almeno 6 e al massimo 7
+> - **(D)** Almeno 8 e al massimo 9
+> - **(E)** 10 o più
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

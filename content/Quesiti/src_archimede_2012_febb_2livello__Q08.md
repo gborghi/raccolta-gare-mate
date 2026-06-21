@@ -32,11 +32,12 @@ tags:
 > 0, 5% rispetto all’anno precedente. In che anno le spese saranno esattamente il doppio rispetto a
 > quelle del 2012?
 > Nota: nel 2012 le spese non sono nulle.
-> (A) 2023
-> (B) 2150
-> (C) 2151
-> (D) 2212
-> (E) mai.
+>
+> - **(A)** 2023
+> - **(B)** 2150
+> - **(C)** 2151
+> - **(D)** 2212
+> - **(E)** mai.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

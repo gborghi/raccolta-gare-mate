@@ -39,16 +39,12 @@ tags:
 > dalle frecce. Quanti punti potremo vedere sulla faccia superiore del dado, quando
 > il dado occuperà la casella indicata con " * " ? (In un dado la somma dei punti su
 > facce opposte vale sempre 7).
-> (A) 5
-> (B) 4
-> (C) 3
-> (D) 1
-> (E) nessuno dei punteggi precedenti.
-> 
-> Risposte categoria Ecolier, 15 marzo 2001. Pagina N.
-> 1
-> Risposte Categoria Ecolier
-> Gara del 15 marzo 2001
+>
+> - **(A)** 5
+> - **(B)** 4
+> - **(C)** 3
+> - **(D)** 1
+> - **(E)** nessuno dei punteggi precedenti. Risposte categoria Ecolier, 15 marzo 2001. Pagina N. 1 Risposte Categoria Ecolier Gara del 15 marzo 2001
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

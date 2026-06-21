@@ -32,13 +32,12 @@ tags:
 
 > Abbiamo un quadrilatero i cui lati misurano, nell’ordine, 1,7,5,5. Quanto vale al massimo la sua
 > area?
-> (A) 12
-> (B) 6
-> √
-> 6
-> (C) 16
-> (D) 20
-> (E) Un siffatto quadrilatero non esiste.
+>
+> - **(A)** 12
+> - **(B)** 6 √ 6
+> - **(C)** 16
+> - **(D)** 20
+> - **(E)** Un siffatto quadrilatero non esiste.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

@@ -36,11 +36,12 @@ tags:
 > p√
 > 123.456.789
 > affinch´e il risultato sia minore di 2?
-> (A) 5
-> (B) 6
-> (C) 7
-> (D) 8
-> (E) 9.
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

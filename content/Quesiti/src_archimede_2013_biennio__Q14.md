@@ -37,17 +37,12 @@ tags:
 > e Maria si trovano rispettivamente a 10 metri e 8 metri dalla porta
 > a loro più vicina, quale delle due porte deve attraversare Salvo per
 > raggiungere Maria percorrendo il cammino più breve possibile?
-> (A) la porta P1
-> (B) la porta P2
-> (C) è indifferente
-> (D) dipende dalla distanza d tra le porte
-> (E) dipende dall’inclinazione α del muro
-> P1
-> P2
-> S
-> M
-> d
-> _
+>
+> - **(A)** la porta P1
+> - **(B)** la porta P2
+> - **(C)** è indifferente
+> - **(D)** dipende dalla distanza d tra le porte
+> - **(E)** dipende dall’inclinazione α del muro P1 P2 S M d _
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

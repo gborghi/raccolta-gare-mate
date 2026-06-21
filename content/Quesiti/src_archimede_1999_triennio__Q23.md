@@ -34,11 +34,12 @@ tags:
 > mentono sempre. Supponi di incontrarvi Andrea che dice “Bruno afferma che
 > Carlo è un furfante, ma Carlo afferma che Diego è un furfante e Diego afferma
 > che Bruno è un furfante”. Che cosa puoi dedurne?
-> (A) Bruno, Carlo e Diego sono tutti furfanti
-> (B) Bruno, Carlo e Diego sono tutti cavalieri
-> (C) tra Bruno, Carlo e Diego ci sono due furfanti e un cavaliere
-> (D) tra Bruno, Carlo e Diego ci sono due cavalieri e un furfante
-> (E) Andrea è un furfante.
+>
+> - **(A)** Bruno, Carlo e Diego sono tutti furfanti
+> - **(B)** Bruno, Carlo e Diego sono tutti cavalieri
+> - **(C)** tra Bruno, Carlo e Diego ci sono due furfanti e un cavaliere
+> - **(D)** tra Bruno, Carlo e Diego ci sono due cavalieri e un furfante
+> - **(E)** Andrea è un furfante.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

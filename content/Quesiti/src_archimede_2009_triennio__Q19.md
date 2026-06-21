@@ -35,11 +35,12 @@ tags:
 > che hanno per diametro i lati del rettangolo e sono
 > esterne ad esso, come indicato nella figura a fianco.
 > Qual è l’area della parte ombreggiata?
-> (A) 45 cm2,
-> (B) 13π cm2,
-> (C) 19π cm2,
-> (D) 60 cm2,
-> (E) 20π cm2.
+>
+> - **(A)** 45 cm2,
+> - **(B)** 13π cm2,
+> - **(C)** 19π cm2,
+> - **(D)** 60 cm2,
+> - **(E)** 20π cm2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

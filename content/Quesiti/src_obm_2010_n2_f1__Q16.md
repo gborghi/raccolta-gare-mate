@@ -40,12 +40,12 @@ tags:
 *Ways to draw three-triangle figure without lifting pencil from P*
 
 > In how many ways is it possible to draw the figure below without lifting the pencil from the paper (or any other utensil, if you prefer!) starting from $P$ and without passing over the same point more than once, with the exception of the point common to the three triangles?
-> 
-> (A) $48$
-> (B) $24$
-> (C) $16$
-> (D) $108$
-> (E) $27$
+>
+> - **(A)** $48$
+> - **(B)** $24$
+> - **(C)** $16$
+> - **(D)** $108$
+> - **(E)** $27$
 
 ![[src_obm_2010_n2_f1__Q16.png]]
 

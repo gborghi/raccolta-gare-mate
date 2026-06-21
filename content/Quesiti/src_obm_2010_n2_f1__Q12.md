@@ -38,12 +38,12 @@ tags:
 *Ana descends 24-step stair, crosses Beatriz at 3/4 down; steps Beatriz still climbs*
 
 > Ana begins to descend a staircase of $24$ steps at the same instant that Beatriz begins to climb it. Ana had descended $\dfrac{3}{4}$ of the staircase when she crossed Beatriz. At the moment when Ana finishes descending, how many steps will Beatriz still have to climb?
-> 
-> (A) $2$
-> (B) $6$
-> (C) $8$
-> (D) $10$
-> (E) $16$
+>
+> - **(A)** $2$
+> - **(B)** $6$
+> - **(C)** $8$
+> - **(D)** $10$
+> - **(E)** $16$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]

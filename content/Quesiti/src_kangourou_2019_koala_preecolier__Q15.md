@@ -30,14 +30,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob15.png]]
 
 > La figura ti mostra un pavimento rettangolare ottenuto accostando alcune lastre anch'esse rettangolari, tutte uguali fra loro. Il lato più corto di ciascuna lastra è lungo un metro. Quanti metri è lungo il lato più lungo del pavimento?
-> 
+>
 > (vedi figura)
-> 
-> (A) 6
-> (B) 8
-> (C) 10
-> (D) 11
-> (E) 12
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 10
+> - **(D)** 11
+> - **(E)** 12
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

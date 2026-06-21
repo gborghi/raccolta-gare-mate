@@ -31,11 +31,12 @@ tags:
 *Quante soluzioni intere positive di x quadro meno y quadro = 60*
 
 > Quante soluzioni intere positive ha l’equazione x2 −y2 = 60?
-> (A) Una
-> (B) due
-> (C) quattro
-> (D) sei
-> (E) infinite.
+>
+> - **(A)** Una
+> - **(B)** due
+> - **(C)** quattro
+> - **(D)** sei
+> - **(E)** infinite.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

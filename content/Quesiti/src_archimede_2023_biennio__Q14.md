@@ -35,11 +35,12 @@ tags:
 > Dopo aver disegnato un rettangolo di dimensioni 83×120 cm, Riccardo lo suddivide
 > in 83·120 = 9960 quadratini di 1 cm2, poi traccia una diagonale del rettangolo.
 > Quanti quadratini vengono attraversati dalla diagonale?
-> (A) 120
-> (B) 181
-> (C) 183
-> (D) 202
-> (E) 193
+>
+> - **(A)** 120
+> - **(B)** 181
+> - **(C)** 183
+> - **(D)** 202
+> - **(E)** 193
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

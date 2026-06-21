@@ -34,11 +34,12 @@ tags:
 > la giornata di lavoro. Barbara fa 110 ravioli all’ora durante la mattina, ma al pomeriggio è più
 > distratta e prepara 70 ravioli all’ora. Ciro fa 2/3 dei suoi ravioli a un ritmo di 140 ravioli l’ora
 > e l’ultimo terzo a soli 50 ravioli l’ora. Chi ha fatto più ravioli a fine giornata?
-> (A) Alberto
-> (B) Barbara
-> (C) Ciro
-> (D) Alberto e Barbara, in ugual numero.
-> (E) Alberto e Ciro, in ugual numero.
+>
+> - **(A)** Alberto
+> - **(B)** Barbara
+> - **(C)** Ciro
+> - **(D)** Alberto e Barbara, in ugual numero.
+> - **(E)** Alberto e Ciro, in ugual numero.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

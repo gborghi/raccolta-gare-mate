@@ -45,11 +45,12 @@ tags:
 > 8
 > 9
 > 11 12 13 14 16 17
-> (A) 876
-> (B) 874
-> (C) 877
-> (D) 701
-> (E) 699
+>
+> - **(A)** 876
+> - **(B)** 874
+> - **(C)** 877
+> - **(D)** 701
+> - **(E)** 699
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

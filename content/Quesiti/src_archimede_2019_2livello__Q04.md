@@ -35,11 +35,12 @@ tags:
 > la loro differenza in valore assoluto è costante (cioè |a1 −a2| = |a2 −a3| = |a3 −a4| = . . .).
 > Si sa inoltre che a1 < a2 < a3 e che a2 = 6. Quanto vale la somma di tutti i numeri della
 > sequenza?
-> (A) 2019
-> (B) 2020
-> (C) 4038
-> (D) 12114
-> (E) I dati non sono sufficienti per determinarlo
+>
+> - **(A)** 2019
+> - **(B)** 2020
+> - **(C)** 4038
+> - **(D)** 12114
+> - **(E)** I dati non sono sufficienti per determinarlo
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

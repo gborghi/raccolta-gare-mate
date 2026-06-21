@@ -33,11 +33,12 @@ tags:
 
 > Lungo una circonferenza sono segnati tre punti rossi, due punti verdi, due punti gialli, due punti blu. Quanti triangoli
 > si possono ottenere scegliendo due vertici dello stesso colore ed il terzo di un altro colore?
-> (A) 44
-> (B) 27
-> (C) 43
-> (D) 39
-> (E) 41
+>
+> - **(A)** 44
+> - **(B)** 27
+> - **(C)** 43
+> - **(D)** 39
+> - **(E)** 41
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]

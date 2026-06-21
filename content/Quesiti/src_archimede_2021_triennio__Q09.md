@@ -31,11 +31,12 @@ tags:
 
 > Consideriamo i valori reali k tali che il polinomio p(x) = x2 −(k + 1)x + (3k + 1) abbia una radice che è doppia
 > dell’altra. Indicare la somma di tutti questi valori k.
-> (A) 19/2
-> (B) 9
-> (C) 17/4
-> (D) 23/2
-> (E) 19/4
+>
+> - **(A)** 19/2
+> - **(B)** 9
+> - **(C)** 17/4
+> - **(D)** 23/2
+> - **(E)** 19/4
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

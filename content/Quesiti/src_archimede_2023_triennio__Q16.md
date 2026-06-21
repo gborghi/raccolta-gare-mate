@@ -49,26 +49,12 @@ tags:
 > F
 > G
 > H
-> (A) 3π−
-> √
-> 3
-> 16
-> (B) π−
-> √
-> 3
-> 4
-> (C)
-> √
-> 3
-> 6
-> (D) 1+ π
-> 3 −
-> √
-> 3
-> (E) 2 −
-> √
-> 3
-> 311
+>
+> - **(A)** 3π− √ 3 16
+> - **(B)** π− √ 3 4
+> - **(C)** √ 3 6
+> - **(D)** 1+ π 3 − √ 3
+> - **(E)** 2 − √ 3 311
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

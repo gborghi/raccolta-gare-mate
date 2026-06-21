@@ -40,12 +40,12 @@ tags:
 *Isosceles triangles with vertices of regular pentagon*
 
 > How many isosceles triangles have their vertices at the vertices of the regular pentagon drawn to the side?
-> 
-> (A) 5
-> (B) 10
-> (C) 15
-> (D) 20
-> (E) 25
+>
+> - **(A)** 5
+> - **(B)** 10
+> - **(C)** 15
+> - **(D)** 20
+> - **(E)** 25
 
 ![[src_obm_2006_n1_f1__Q07.png]]
 

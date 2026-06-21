@@ -34,11 +34,12 @@ tags:
 > DA, che sono, nell’ordine, 5, 8, 7 e 12 cm. Indicati con E e F i punti medi dei lati
 > AB e CD, si sa inoltre che l’area del quadrilatero BEDF è di 24 cm2. Di quanti
 > cm2 è l’area del quadrilatero ABCD?
-> (A) 32
-> (B) 36
-> (C) 48
-> (D) un valore tra 50 e 60
-> (E) più di 60
+>
+> - **(A)** 32
+> - **(B)** 36
+> - **(C)** 48
+> - **(D)** un valore tra 50 e 60
+> - **(E)** più di 60
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

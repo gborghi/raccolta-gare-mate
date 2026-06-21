@@ -44,11 +44,12 @@ tags:
 > A′
 > B′
 > C′
-> (A) 5
-> (B) 75/17
-> (C) 21/4
-> (D) 4
-> (E) 9/2
+>
+> - **(A)** 5
+> - **(B)** 75/17
+> - **(C)** 21/4
+> - **(D)** 4
+> - **(E)** 9/2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

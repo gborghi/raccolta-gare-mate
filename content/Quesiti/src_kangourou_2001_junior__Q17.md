@@ -32,11 +32,12 @@ tags:
 
 > Il prodotto delle età dei miei figli (in anni) è 1664. Il più giovane ha la metà degli
 > anni del più anziano e non vi sono gemelli. Quanti figli ho?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

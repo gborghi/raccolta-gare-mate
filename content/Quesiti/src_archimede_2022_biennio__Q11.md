@@ -31,11 +31,12 @@ tags:
 *Numeri di 3 cifre con almeno una cifra uguale a 4*
 
 > Quanti sono i numeri naturali di 3 cifre dove almeno una delle cifre è uguale a 4?
-> (A) 252
-> (B) 196
-> (C) 180
-> (D) 225
-> (E) 216
+>
+> - **(A)** 252
+> - **(B)** 196
+> - **(C)** 180
+> - **(D)** 225
+> - **(E)** 216
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

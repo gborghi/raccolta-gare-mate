@@ -34,11 +34,12 @@ tags:
 > sono orientati in modo che le somme dei valori leggibili su ciascuna faccia del cubo siano, in un
 > qualche ordine, 14, 22, 30, 38, 46, 54. Quanto vale la somma di tutte le facce dei dadi che, essendo
 > state incollate tra loro, non si leggono più?
-> (A) 189
-> (B) 204
-> (C) 261
-> (D) 333
-> (E) 363
+>
+> - **(A)** 189
+> - **(B)** 204
+> - **(C)** 261
+> - **(D)** 333
+> - **(E)** 363
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

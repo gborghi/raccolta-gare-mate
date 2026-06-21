@@ -30,11 +30,12 @@ tags:
 
 > Nel triangolo XY Z l’angolo b
 > X misura 36°e bZ è il triplo di bY . Qual è l’ampiezza di bY ?
-> (A) 12°
-> (B) 48°
-> (C) 18°
-> (D) 32°
-> (E) 36°
+>
+> - **(A)** 12°
+> - **(B)** 48°
+> - **(C)** 18°
+> - **(D)** 32°
+> - **(E)** 36°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

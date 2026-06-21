@@ -45,39 +45,12 @@ tags:
 > DA di γ rispetto ai lati AB, BC, CD,
 > DA rispettivamente. Indichiamo con L, M, N, O i punti medi degli archi così
 > ottenuti; quanto vale l’area di LMNO?
-> (A)
-> √
-> 2
-> 4
-> (B)
-> √
-> 2 −1
-> (C) 1 −
-> √
-> 2
-> 2
-> (D) 1
-> 4
-> (E) 3 −2
-> √
-> 2.
-> b
-> c
-> b
-> c
-> b
-> c
-> b
-> c
-> A
-> B
-> C
-> D
-> L
-> M
-> N
-> O
-> γ
+>
+> - **(A)** √ 2 4
+> - **(B)** √ 2 −1
+> - **(C)** 1 − √ 2 2
+> - **(D)** 1 4
+> - **(E)** 3 −2 √ 2. b c b c b c b c A B C D L M N O γ
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]

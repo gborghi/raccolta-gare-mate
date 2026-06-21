@@ -32,12 +32,12 @@ tags:
 
 > Determinare l'area della parte di piano definita da
 > $$\begin{cases} x^2 + y^2 - 4y \leq 0 \\ x^2 - 4x + 3 \geq 0 \end{cases}$$
-> 
-> (A) $\dfrac{2\pi}{3} - 2$
-> (B) $\pi - \sqrt{3}$
-> (C) $\dfrac{\pi}{2} - \dfrac{\sqrt{3}}{2}$
-> (D) $\dfrac{4\pi}{3} - \sqrt{3}$
-> (E) nessuna delle precedenti.
+>
+> - **(A)** $\dfrac{2\pi}{3} - 2$
+> - **(B)** $\pi - \sqrt{3}$
+> - **(C)** $\dfrac{\pi}{2} - \dfrac{\sqrt{3}}{2}$
+> - **(D)** $\dfrac{4\pi}{3} - \sqrt{3}$
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

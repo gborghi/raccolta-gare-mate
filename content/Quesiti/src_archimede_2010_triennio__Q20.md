@@ -34,11 +34,12 @@ tags:
 
 > Valeria deve scegliere la combinazione della sua cassaforte, che deve essere un numero di cinque cifre, tutte diverse da zero, divisibile per tre, e tale che delle prime
 > quattro cifre (da sinistra) due siano pari e due dispari. Quante possibilità ha?
-> (A) 25 · 52,
-> (B) 25 · 52 · 32,
-> (C) 22 · 53 · 32,
-> (D) 52 · 34,
-> (E) 210 · 5 · 3.
+>
+> - **(A)** 25 · 52,
+> - **(B)** 25 · 52 · 32,
+> - **(C)** 22 · 53 · 32,
+> - **(D)** 52 · 34,
+> - **(E)** 210 · 5 · 3.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

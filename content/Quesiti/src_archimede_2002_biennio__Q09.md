@@ -30,11 +30,12 @@ tags:
 > In una squadra di calcio vi sono 11 giocatori. L’età media è 22 anni. Durante
 > una partita un giocatore viene espulso; l’età media dei giocatori rimasti diviene
 > allora 21 anni. Che età ha il giocatore che è stato espulso?
-> (A) 22 anni
-> (B) 23 anni
-> (C) 28 anni
-> (D) 32 anni
-> (E) 33 anni.
+>
+> - **(A)** 22 anni
+> - **(B)** 23 anni
+> - **(C)** 28 anni
+> - **(D)** 32 anni
+> - **(E)** 33 anni.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

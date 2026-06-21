@@ -50,12 +50,12 @@ tags:
 > ancora tasselli di lato 1 cm e mantenendo la stessa struttura romboidale
 > di Raffaella, ma con le diagonali di 35 quadretti anzich´e di 7. Qual è la
 > differenza, in cm2, tra le aree delle figure di Claudia e Luca?
-> (A)
-> 12
-> (B) 0
-> (C) 24
-> (D) 25
-> (E) 13
+>
+> - **(A)** 12
+> - **(B)** 0
+> - **(C)** 24
+> - **(D)** 25
+> - **(E)** 13
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

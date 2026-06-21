@@ -40,12 +40,12 @@ tags:
 > Evaluating the operations indicated in the expression
 > $$\left(\frac{2^{2007}+2^{2005}}{2^{2006}+2^{2004}}\right)\times 2006$$
 > we obtain the sum of the digits of that number. What is that sum?
-> 
-> (A) 4
-> (B) 5
-> (C) 6
-> (D) 7
-> (E) 8
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 8
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

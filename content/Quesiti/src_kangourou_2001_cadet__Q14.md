@@ -50,11 +50,12 @@ tags:
 > è scelto nello stesso piano in modo che DE  =
 > AB. Si sa che la distanza tra C ed E è la massima possibile. Quanto misura
 > l'angolo BED?
-> (A) 45°
-> (B) 30°
-> (C) 20°
-> (D) 15°
-> (E) 10°.
+>
+> - **(A)** 45°
+> - **(B)** 30°
+> - **(C)** 20°
+> - **(D)** 15°
+> - **(E)** 10°.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

@@ -30,22 +30,17 @@ tags:
 
 *Minimo treni per il servizio ferroviario settimanale*
 
-> (Punti 6) Due città A e B (che stanno entro lo stesso fuso orario) sono collegate da una ferrovia. Il percorso 
-> in treno tra le due città dura 5 ore. Ogni giorno, i treni partono da A per B ogni ora a partire dalle 6:00 fino 
-> alle 18:00 comprese; partono da B verso A ogni ora a partire dalle 6:30 fino alle 18:30 comprese. Supponi che i 
-> treni siano sempre in orario e che non subiscano guasti: qual è il minimo numero di treni che rende possibile 
+> (Punti 6) Due città A e B (che stanno entro lo stesso fuso orario) sono collegate da una ferrovia. Il percorso
+> in treno tra le due città dura 5 ore. Ogni giorno, i treni partono da A per B ogni ora a partire dalle 6:00 fino
+> alle 18:00 comprese; partono da B verso A ogni ora a partire dalle 6:30 fino alle 18:30 comprese. Supponi che i
+> treni siano sempre in orario e che non subiscano guasti: qual è il minimo numero di treni che rende possibile
 > attuare il servizio settimanale?
-> (A) 26 		
-> 	
-> (B) 13	 	
-> 	
-> (C) 6	
-> 	
-> 	
-> (D) 24	 	
-> 	
-> (E) 11
-> Quesiti a risposta aperta
+>
+> - **(A)** 26
+> - **(B)** 13
+> - **(C)** 6
+> - **(D)** 24
+> - **(E)** 11 Quesiti a risposta aperta
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

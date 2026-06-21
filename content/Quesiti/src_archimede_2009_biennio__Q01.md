@@ -30,11 +30,12 @@ tags:
 *Divisore di 3^5*4^4*5^3 tra opzioni date*
 
 > Quale dei seguenti numeri è un divisore di 35 · 44 · 53?
-> (A) 42,
-> (B) 45,
-> (C) 52,
-> (D) 85,
-> (E) 105.
+>
+> - **(A)** 42,
+> - **(B)** 45,
+> - **(C)** 52,
+> - **(D)** 85,
+> - **(E)** 105.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

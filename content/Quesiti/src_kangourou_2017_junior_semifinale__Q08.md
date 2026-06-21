@@ -56,17 +56,16 @@ tags:
 \end{document}
 ```
 
-> (Punti 5) Osserva la figura: ABC è un triangolo, M è il punto medio 
-> del lato AB e N è il punto medio del segmento MC. Qual è il rapporto fra 
-> l’area del quadrilatero AMNP (colorato in grigio) e l’area della rimanente 
-> parte del triangolo ABC? 
-> (A) 5 : 12    	
-> 	
-> (B) 1 : 2    	
-> 	
-> (C) 2 : 3         
-> (D) 3 : 5        	 	
-> (E) 5 : 7
+> (Punti 5) Osserva la figura: ABC è un triangolo, M è il punto medio
+> del lato AB e N è il punto medio del segmento MC. Qual è il rapporto fra
+> l’area del quadrilatero AMNP (colorato in grigio) e l’area della rimanente
+> parte del triangolo ABC?
+>
+> - **(A)** 5 : 12
+> - **(B)** 1 : 2
+> - **(C)** 2 : 3
+> - **(D)** 3 : 5
+> - **(E)** 5 : 7
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

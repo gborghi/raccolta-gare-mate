@@ -31,11 +31,12 @@ tags:
 > Consideriamo il numero N = 2000! = 1 · 2 · 3 · . . . · 1999 · 2000. Indichiamo con X il
 > numero di zeri con cui termina N quando è scritto in base 10, e con Y il numero
 > di zeri con cui termina N quando è scritto in base 5. Allora X −Y vale:
-> (A) −2
-> (B) 0
-> (C) 3
-> (D) 2013
-> (E) 2014
+>
+> - **(A)** −2
+> - **(B)** 0
+> - **(C)** 3
+> - **(D)** 2013
+> - **(E)** 2014
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

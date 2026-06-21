@@ -41,12 +41,12 @@ tags:
 > T
 > 6
 > 4
-> (A) 30
-> (B) 35
-> (C) 32
-> (D) 36
-> (E) 27
-> 311
+>
+> - **(A)** 30
+> - **(B)** 35
+> - **(C)** 32
+> - **(D)** 36
+> - **(E)** 27 311
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

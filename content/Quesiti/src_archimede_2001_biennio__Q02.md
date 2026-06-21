@@ -30,11 +30,12 @@ tags:
 > Un cassetto contiene, alla rinfusa, 3 paia di calzini beige, 5 paia di calzini blu e 6
 > paia di calzini neri. Siete al buio. Quanti calzini al minimo dovete prendere per
 > essere certi di averne una coppia dello stesso colore?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 14.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 14.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

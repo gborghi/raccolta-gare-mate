@@ -28,11 +28,12 @@ tags:
 
 > Aumentando la base di un rettangolo del 20% e la sua altezza del 50%, di quanto
 > aumenta la sua area?
-> (A) Del 70%,
-> (B) del 72%,
-> (C) del 75%,
-> (D) del 78%,
-> (E) dell’80%.
+>
+> - **(A)** Del 70%,
+> - **(B)** del 72%,
+> - **(C)** del 75%,
+> - **(D)** del 78%,
+> - **(E)** dell’80%.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]

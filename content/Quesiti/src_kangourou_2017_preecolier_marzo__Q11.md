@@ -33,14 +33,12 @@ tags:
 *Quanti triangoli nella figura*
 
 > Quanti triangoli ci sono in questa figura?
-> 
-> (A) 8
-> (B) 9
-> (C) 10
-> (D) 11
-> (E) 12
-> 
-> (vedi figura)
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 11
+> - **(E)** 12 (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

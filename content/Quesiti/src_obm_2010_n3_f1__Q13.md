@@ -36,12 +36,12 @@ tags:
 *Triangle ABC with angle BAC=140; M midpoint of BC, P on AC with MP perpendicular to AC; find an angle.*
 
 > In triangle $ABC$, $m(B\hat{A}C)=140^\circ$. With $M$ the midpoint of $BC$ and $P$ a point on side $AC$ such that $MP$ is perpendicular to $AC$, what is the measure of the angle $N\hat{M}P$?
-> 
-> (A) $40^\circ$
-> (B) $50^\circ$
-> (C) $70^\circ$
-> (D) $90^\circ$
-> (E) $100^\circ$
+>
+> - **(A)** $40^\circ$
+> - **(B)** $50^\circ$
+> - **(C)** $70^\circ$
+> - **(D)** $90^\circ$
+> - **(E)** $100^\circ$
 
 ![[src_obm_2010_n3_f1__Q13.png]]
 

@@ -31,11 +31,12 @@ tags:
 > Andrea, Beatrice, Chiara, Davide, Enea e Federico sono molto amici. La loro età
 > media è di 14 anni. Se a loro si uniscono tre amici di Enea, l’età media dell’intero
 > gruppo diventa di 16 anni. Qual è l’età media dei tre amici di Enea?
-> (A) 16
-> (B) 20
-> (C) 19
-> (D) 17
-> (E) 18
+>
+> - **(A)** 16
+> - **(B)** 20
+> - **(C)** 19
+> - **(D)** 17
+> - **(E)** 18
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

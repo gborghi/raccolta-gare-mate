@@ -32,40 +32,12 @@ tags:
 
 > Qual è la somma dei numeri contenuti
 > nella tabella a fianco?
-> (A)
-> n(n + 1)
-> 2
-> 2
-> (B) n + n(n + 1)2
-> 2
-> (C) n3+n2+n+1
-> (D) n(2n−1)(n+1)
-> (E) n3.
-> 1
-> 2
-> 3
-> · ·
-> n
-> 2
-> 3
-> 4
-> · ·
-> n + 1
-> 3
-> 4
-> 5
-> · ·
-> n + 2
-> · ·
-> · ·
-> · ·
-> · ·
-> · ·
-> n
-> n + 1
-> n + 2
-> · ·
-> 2n −1
+>
+> - **(A)** n(n + 1) 2 2
+> - **(B)** n + n(n + 1)2 2
+> - **(C)** n3+n2+n+1
+> - **(D)** n(2n−1)(n+1)
+> - **(E)** n3. 1 2 3 · · · n 2 3 4 · · · n + 1 3 4 5 · · · n + 2 · · · · · · · · · · · · · · · n n + 1 n + 2 · · · 2n −1
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

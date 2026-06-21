@@ -61,11 +61,12 @@ tags:
 > r
 > r
 > r
-> (A)
-> (B)
-> (C)
-> (D)
-> (E)
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)**
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

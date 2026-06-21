@@ -31,14 +31,12 @@ tags:
 ![[src_kangourou_2017_preecolier_marzo__prob3.png]]
 
 > Questa è una torta di ciliegie. L'ho divisa tra i bambini presenti e ora ogni bambino ha una fetta di torta con sopra tre ciliegie e non ci sono avanzi. Quanti sono i bambini presenti?
-> 
-> (A) 3
-> (B) 4
-> (C) 5
-> (D) 6
-> (E) 8
-> 
-> (vedi figura)
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 8 (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

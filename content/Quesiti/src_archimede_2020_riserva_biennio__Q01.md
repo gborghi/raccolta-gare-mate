@@ -28,11 +28,12 @@ tags:
 > Per dipingere la sua cameretta, Maria ha creato una tinta mescolando 1896 grammi di vernice gialla e 120 grammi di
 > bianco. Suo cugino Giulio vuole dipengerla dello stesso colore. Con quanti grammi di bianco dovrà mescolare 2212
 > grammi di vernice gialla per ottenere lo stesso colore?
-> (A) 133
-> (B) 140
-> (C) 144
-> (D) 147
-> (E) 146
+>
+> - **(A)** 133
+> - **(B)** 140
+> - **(C)** 144
+> - **(D)** 147
+> - **(E)** 146
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

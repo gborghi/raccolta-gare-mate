@@ -32,11 +32,12 @@ tags:
 > seconda ogni 15 e la terza ogni 14 giorni. Una domenica si trovano a correre
 > insieme. Dopo quante domeniche si ritroveranno al parco per la prima volta a
 > correre insieme?
-> (A) 22
-> (B) 25
-> (C) 30
-> (D) 70
-> (E) mai.
+>
+> - **(A)** 22
+> - **(B)** 25
+> - **(C)** 30
+> - **(D)** 70
+> - **(E)** mai.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

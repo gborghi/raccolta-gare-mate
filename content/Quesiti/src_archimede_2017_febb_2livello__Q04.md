@@ -32,16 +32,12 @@ tags:
 
 > Il quadrilatero ABCD ha le diagonali perpendicolari. Si sa inoltre che AB = 100, BC = 120,
 > CD = 75. Determinare la lunghezza di AD.
-> (A) 30
-> (B) 24
-> √
-> 2
-> (C) 20
-> √
-> 3
-> (D) 35
-> (E) 125
-> 2
+>
+> - **(A)** 30
+> - **(B)** 24 √ 2
+> - **(C)** 20 √ 3
+> - **(D)** 35
+> - **(E)** 125 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

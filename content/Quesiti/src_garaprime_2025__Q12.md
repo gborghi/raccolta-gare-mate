@@ -28,12 +28,12 @@ tags:
 *Prodotto xy dato (x+y)^2=100x+y=2025*
 
 > I due numeri reali positivi x e y sono tali che (x + y)2 = 100x + y = 2025. Quanto vale il prodotto xy?
-> (A) 250
-> (B) 400
-> (C) 450
-> (D) 480
-> (E)
-> 500
+>
+> - **(A)** 250
+> - **(B)** 400
+> - **(C)** 450
+> - **(D)** 480
+> - **(E)** 500
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

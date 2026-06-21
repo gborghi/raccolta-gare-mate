@@ -31,14 +31,12 @@ tags:
 ![[src_kangourou_2021_preecolier_koala__prob2.png]]
 
 > L'immagine mostra 2 funghi. Qual è la differenza tra le loro altezze?
-> 
-> (A) 4
-> (B) 5
-> (C) 6
-> (D) 11
-> (E) 17
-> 
-> (vedi figura)
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 11
+> - **(E)** 17 (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

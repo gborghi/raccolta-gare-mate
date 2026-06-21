@@ -33,11 +33,12 @@ tags:
 > Clara vuole prestare due dei suoi libri al cugino Luca. Possiede 9 libri gialli, 7 libri
 > di viaggi, 4 libri di poesie. In quanti modi può essere scelta la coppia di libri da
 > prestare, tenendo conto che devono essere di due generi diversi?
-> (A) 40
-> (B) 121
-> (C) 118
-> (D) 120
-> (E) 127
+>
+> - **(A)** 40
+> - **(B)** 121
+> - **(C)** 118
+> - **(D)** 120
+> - **(E)** 127
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

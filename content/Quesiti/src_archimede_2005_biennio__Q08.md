@@ -56,17 +56,12 @@ tags:
 > Il triangolo ABC è rettangolo ed i cateti AB e AC misurano 3 m e 4 m rispettivamente. Siano B′ e C′ punti appartenenti ai lati AB e AC rispettivamente, tali che la retta
 > contenente il segmento B′C′ sia parallela a quella contenente il segmento BC e distante 1 m da essa (vedi figura).
 > Calcolare l’area del triangolo AB′C′.
-> (A) 49
-> 24 m2,
-> (B) 2 m2,
-> (C) 65
-> 24 m2,
-> (D) 7
-> 2 m2,
-> (E) nessuna delle precedenti.
-> A               B’          B
-> C’
-> C
+>
+> - **(A)** 49 24 m2,
+> - **(B)** 2 m2,
+> - **(C)** 65 24 m2,
+> - **(D)** 7 2 m2,
+> - **(E)** nessuna delle precedenti. A B’ B C’ C
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]

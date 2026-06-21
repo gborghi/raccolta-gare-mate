@@ -32,11 +32,12 @@ tags:
 
 > Il lato dell’esagono più piccolo in figura vale 1 e quello dell’esagono più grande vale 2. Qual è la somma delle lunghezze
 > di tutti i tratti disegnati?
-> (A) 18
-> (B) 24
-> (C) 30
-> (D) 36
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 18
+> - **(B)** 24
+> - **(C)** 30
+> - **(D)** 36
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -30,16 +30,16 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob18.png]]
 
 > Tagliando una figura, Mauro ha ottenuto i tre pezzi che vedi.
-> 
+>
 > (vedi figura)
-> 
+>
 > Quale fra le seguenti è la figura che Mauro ha tagliato?
-> 
-> (A) nuvola
-> (B) cerchio
-> (C) forma a U
-> (D) rettangolo
-> (E) cuore
+>
+> - **(A)** nuvola
+> - **(B)** cerchio
+> - **(C)** forma a U
+> - **(D)** rettangolo
+> - **(E)** cuore
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

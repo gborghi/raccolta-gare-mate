@@ -31,18 +31,12 @@ tags:
 > Un cono circolare retto ha volume 1 m3. Si taglia il cono parallelamente alla base,
 > a una distanza dal vertice pari a un quarto dell’altezza del cono. Si ottiene così un
 > nuovo cono; qual è il suo volume?
-> (A)
-> 1
-> 64 m3,
-> (B)
-> 3
-> 64 m3,
-> (C) 27
-> 64 m3,
-> (D) 48
-> 64 m3,
-> (E) 63
-> 64 m3.
+>
+> - **(A)** 1 64 m3,
+> - **(B)** 3 64 m3,
+> - **(C)** 27 64 m3,
+> - **(D)** 48 64 m3,
+> - **(E)** 63 64 m3.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

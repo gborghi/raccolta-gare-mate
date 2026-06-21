@@ -32,11 +32,12 @@ tags:
 
 > Nella figura a fianco i rettangoli (tutti uguali) hanno
 > altezza a e base b. Il perimetro della figura
-> (A) è 15a+15b
-> (B) è 10a+10b
-> (C) è 15a+30b
-> (D) è 30a + 30b
-> (E) nessuno dei precedenti.
+>
+> - **(A)** è 15a+15b
+> - **(B)** è 10a+10b
+> - **(C)** è 15a+30b
+> - **(D)** è 30a + 30b
+> - **(E)** nessuno dei precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -31,12 +31,12 @@ tags:
 *Massimo uova bianche non a contatto nella scatola*
 
 > Lisa ha alcune galline che hanno fatto uova bianche e uova marroni. Ha messo sei uova nella scatola porta-uova che vedi in figura in modo che due uova bianche non siano mai a contatto fra loro. Quante uova bianche può avere messo al massimo nella scatola? (vedi figura)
-> 
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

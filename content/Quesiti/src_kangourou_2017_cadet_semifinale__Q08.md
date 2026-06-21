@@ -30,11 +30,12 @@ tags:
 
 > (Punti 5) Una spugna è formata al 90% di acqua e pesa 2 kg. Dopo che una parte dell’acqua è evaporata, la
 > spugna è formata all’80% di acqua.  Qual è ora il suo peso in chilogrammi?
-> (A) 1,00
-> (B) 1,10
-> (C) 1,70
-> (D) 1,80
-> (E) 1,90
+>
+> - **(A)** 1,00
+> - **(B)** 1,10
+> - **(C)** 1,70
+> - **(D)** 1,80
+> - **(E)** 1,90
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

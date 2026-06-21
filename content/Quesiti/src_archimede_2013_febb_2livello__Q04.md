@@ -33,11 +33,12 @@ tags:
 > Ker disegna lo stemma della sua città, Mathlandia, su un foglio a quadretti con
 > quadretti di lato 1 ottenendo la figura a fianco. Sapendo che i tratti curvi sono
 > tutti formati da semicirconferenze, quanto misura l’area colorata di grigio?
-> (A) 12π
-> (B) 8π + 2
-> (C) 12
-> (D) 8
-> (E) Nessuna delle precedenti.
+>
+> - **(A)** 12π
+> - **(B)** 8π + 2
+> - **(C)** 12
+> - **(D)** 8
+> - **(E)** Nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

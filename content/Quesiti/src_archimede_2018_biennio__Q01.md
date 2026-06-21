@@ -29,16 +29,12 @@ tags:
 *Indicare la piu piccola tra cinque frazioni n+1/n*
 
 > Indicare la più piccola tra queste frazioni.
-> (A) 2016
-> 2015
-> (B) 2015
-> 2014
-> (C) 2017
-> 2016
-> (D) 2019
-> 2018
-> (E) 2018
-> 2017
+>
+> - **(A)** 2016 2015
+> - **(B)** 2015 2014
+> - **(C)** 2017 2016
+> - **(D)** 2019 2018
+> - **(E)** 2018 2017
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

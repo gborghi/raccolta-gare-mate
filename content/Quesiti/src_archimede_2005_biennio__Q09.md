@@ -32,11 +32,12 @@ tags:
 
 > Comunque si prenda un numero naturale n, il numero (n + 2)(n + 3)(2n + 5) è
 > divisibile per:
-> (A) 4,
-> (B) 6,
-> (C) 9,
-> (D) 10,
-> (E) 15.
+>
+> - **(A)** 4,
+> - **(B)** 6,
+> - **(C)** 9,
+> - **(D)** 10,
+> - **(E)** 15.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

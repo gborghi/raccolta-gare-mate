@@ -29,11 +29,12 @@ tags:
 *Modi di scegliere quantita di problemi per materia con vincoli*
 
 > Sapendo che (2h −1)2 = h(4h + 1), qual è il valore di 3h + 1 ?
-> (A) 4/3
-> (B) 3/2
-> (C) 8/5
-> (D) 4/5
-> (E) 5/2
+>
+> - **(A)** 4/3
+> - **(B)** 3/2
+> - **(C)** 8/5
+> - **(D)** 4/5
+> - **(E)** 5/2
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

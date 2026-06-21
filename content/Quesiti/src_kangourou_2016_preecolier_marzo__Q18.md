@@ -29,12 +29,12 @@ tags:
 *Quale mattonella centrale e stata tolta*
 
 > Su una composizione formata da sette mattonelle sono state tracciate delle linee, poi è stata tolta quella centrale. Quale tra le seguenti mattonelle è stata tolta? (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

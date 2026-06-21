@@ -31,11 +31,12 @@ tags:
 *Somma delle seste potenze delle soluzioni dell'equazione*
 
 > Quanto vale la somma delle seste potenze delle soluzioni dell’equazione x6 −16x4 + 16x2 −1 = 0 ?
-> (A) 6375
-> (B) 6482
-> (C) 6515
-> (D) 6660
-> (E) 6662.
+>
+> - **(A)** 6375
+> - **(B)** 6482
+> - **(C)** 6515
+> - **(D)** 6660
+> - **(E)** 6662.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

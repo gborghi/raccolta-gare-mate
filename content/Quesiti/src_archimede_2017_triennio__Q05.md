@@ -59,32 +59,12 @@ tags:
 > Nella figura qui a fianco, ABCD è un quadrato di lato pari
 > a 2 cm ed i triangoli ABE e CDF sono equilateri. Quanti
 > cm2 misura l’area del quadrilatero FGEH?
-> (A) 8
-> √
-> 3
-> 4
-> (B) 2
-> √
-> 3
-> 3
-> (C) 8
-> √
-> 3
-> 3 −4
-> (D) 2
-> √
-> 3
-> 3 −1
-> (E) 1
-> 2
-> A
-> B
-> C
-> D
-> E
-> F
-> G
-> H
+>
+> - **(A)** 8 √ 3 4
+> - **(B)** 2 √ 3 3
+> - **(C)** 8 √ 3 3 −4
+> - **(D)** 2 √ 3 3 −1
+> - **(E)** 1 2 A B C D E F G H
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

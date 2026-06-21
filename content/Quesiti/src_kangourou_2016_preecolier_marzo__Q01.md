@@ -31,12 +31,12 @@ tags:
 ![[src_kangourou_2016_preecolier_marzo__prob1.png]]
 
 > Una sola delle lettere scritte su questa lavagnetta non è presente nella parola KOALA. Quale? (vedi figura)
-> 
-> (A) R
-> (B) L
-> (C) K
-> (D) N
-> (E) O
+>
+> - **(A)** R
+> - **(B)** L
+> - **(C)** K
+> - **(D)** N
+> - **(E)** O
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

@@ -35,11 +35,12 @@ tags:
 
 > Quale numero si ottiene sommando tutti i numeri formati da quattro cifre distinte,
 > in cui ciascuna cifra può essere solo 1, 2, 3 oppure 6?
-> (A) 79992,
-> (B) 13332,
-> (C) 123456,
-> (D) 100000,
-> (E) 63210.
+>
+> - **(A)** 79992,
+> - **(B)** 13332,
+> - **(C)** 123456,
+> - **(D)** 100000,
+> - **(E)** 63210.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]

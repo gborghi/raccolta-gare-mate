@@ -35,13 +35,12 @@ tags:
 > b + c
 > d = a + c
 > b + d?
-> (A) Quando a
-> b = c
-> d
-> (B) quando ad2 = cb2
-> (C) quando b · d = b + d
-> (D) mai
-> (E) sempre.
+>
+> - **(A)** Quando a b = c d
+> - **(B)** quando ad2 = cb2
+> - **(C)** quando b · d = b + d
+> - **(D)** mai
+> - **(E)** sempre.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

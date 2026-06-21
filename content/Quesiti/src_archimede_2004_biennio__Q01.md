@@ -29,12 +29,12 @@ tags:
 *Gioco con cavalli/scimmia e calcoli sui giri di pista*
 
 > Secondo una recente statistica, ogni italiano mangia in media 30 kg di pasta all'anno. Sapendo che la popolazione italiana è di 57 milioni di abitanti, quante tonnellate di pasta si consumano in Italia ogni anno?
-> 
-> (A) meno di 1000
-> (B) più di 1000, ma meno di 10 mila
-> (C) più di 10 mila, ma meno di 100 mila
-> (D) più di 100 mila, ma meno di 1 milione
-> (E) più di 1 milione
+>
+> - **(A)** meno di 1000
+> - **(B)** più di 1000, ma meno di 10 mila
+> - **(C)** più di 10 mila, ma meno di 100 mila
+> - **(D)** più di 100 mila, ma meno di 1 milione
+> - **(E)** più di 1 milione
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

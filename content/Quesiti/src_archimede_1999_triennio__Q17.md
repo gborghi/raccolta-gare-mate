@@ -34,11 +34,12 @@ tags:
 
 > Nel mio cassetto ci sono 8 calze blu e 8 calze nere, alla rinfusa. Pesco al buio 8
 > calze a caso. Quale tra le seguenti è l’eventualità più probabile?
-> (A) Pescare 4 calze di un colore e 4 di un altro
-> (B) pescare 5 calze di un colore e 3 di un altro
-> (C) pescare 6 calze di un colore e 2 di un altro
-> (D) pescare 7 calze di un colore e 1 di un altro
-> (E) pescare 8 calze di un colore e 0 di un altro.
+>
+> - **(A)** Pescare 4 calze di un colore e 4 di un altro
+> - **(B)** pescare 5 calze di un colore e 3 di un altro
+> - **(C)** pescare 6 calze di un colore e 2 di un altro
+> - **(D)** pescare 7 calze di un colore e 1 di un altro
+> - **(E)** pescare 8 calze di un colore e 0 di un altro.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

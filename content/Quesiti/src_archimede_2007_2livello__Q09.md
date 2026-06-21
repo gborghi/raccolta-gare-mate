@@ -34,18 +34,12 @@ tags:
 > testa. Alberto guarda le sue ed esclama: “Che strano, non ho nessuna carta di picche”. Sapendo
 > questa informazione, qual è la probabilità che anche Barbara non abbia nessuna carta di picche?
 > (nota: le carte di picche sono 10).
-> (A)
-> 30!
-> 20! 40!
-> (B)
-> 20!
-> 10! 30!
-> (C) 30! 30!
-> 20! 40!
-> (D) 20! 20!
-> 10! 30!
-> (E) 30! 10!
-> 40!
+>
+> - **(A)** 30! 20! 40!
+> - **(B)** 20! 10! 30!
+> - **(C)** 30! 30! 20! 40!
+> - **(D)** 20! 20! 10! 30!
+> - **(E)** 30! 10! 40!
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -31,11 +31,12 @@ tags:
 
 > La città del mistero dista 500 km da Topolinia e 1200 km da Paperopoli. Qual è
 > il minimo valore possibile per la distanza tra Topolinia e Paperopoli?
-> (A) 500 km
-> (B) 700 km
-> (C) 1200 km
-> (D) 1300 km
-> (E) 1700 km.
+>
+> - **(A)** 500 km
+> - **(B)** 700 km
+> - **(C)** 1200 km
+> - **(D)** 1300 km
+> - **(E)** 1700 km.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -33,12 +33,12 @@ tags:
 *Coppie intere ordinate con xy=4(y^2+x)*
 
 > Quante sono le coppie di interi ordinate (x, y) tali che xy = 4(y2 + x)?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 7
-> (E) 14
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 7
+> - **(E)** 14 Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

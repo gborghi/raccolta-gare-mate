@@ -31,12 +31,12 @@ tags:
 ![[src_kangourou_2021_preecolier_koala__prob6.png]]
 
 > La torre rosa è più alta della torre blu ma più bassa della torre verde. La torre d'argento è più alta della torre verde. Qual è la torre più alta?
-> 
-> (A) La torre rosa.
-> (B) La torre verde.
-> (C) La torre blu.
-> (D) La torre d'argento.
-> (E) È impossibile decidere.
+>
+> - **(A)** La torre rosa.
+> - **(B)** La torre verde.
+> - **(C)** La torre blu.
+> - **(D)** La torre d'argento.
+> - **(E)** È impossibile decidere.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

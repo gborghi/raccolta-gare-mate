@@ -32,11 +32,12 @@ tags:
 
 > a, b e c sono tre numeri reali, tutti diversi tra loro. Per quanti numeri reali x, al
 > massimo, possono valere le uguaglianze: ax + b = bx + c = cx + a?
-> (A) Nessuno,
-> (B) 1,
-> (C) 3,
-> (D) 4,
-> (E) almeno 5.
+>
+> - **(A)** Nessuno,
+> - **(B)** 1,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** almeno 5.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

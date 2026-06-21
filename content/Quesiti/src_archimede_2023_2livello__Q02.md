@@ -32,11 +32,12 @@ tags:
 > tutte le biglie tranne 7 sono rosse, tutte le biglie tranne 10 sono blu. Inoltre, c’è almeno una
 > biglia blu e potrebbero esserci anche biglie di colori diversi da giallo, rosso e blu. Quante biglie
 > contiene il sacchetto?
-> (A) Non è possibile determinarlo
-> (B) 11
-> (C) 12
-> (D) 20
-> (E) 23
+>
+> - **(A)** Non è possibile determinarlo
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 20
+> - **(E)** 23
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

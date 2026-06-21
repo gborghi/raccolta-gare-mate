@@ -34,53 +34,12 @@ tags:
 > tanti dollari quanti sono i pacchetti che si riescono a
 > comperare con un dollaro. Quanti centesimi costa un
 > pacchetto? (1 dollaro = 100 centesimi).
-> (A) 4
-> (B) 8
-> (C) 12
-> (D) 16
-> (E) 25.
->   .
-> cm
->  
-> 64
->  
-> (E)
->       
-> cm
->  3
->  
-> 32
->  
-> (D)
->       
-> cm
->  
-> 3
-> 64
->  
-> (C)
->       
-> cm
->  
-> 32
->  
-> (B)
->       
-> cm
->  3
->  
-> 16
->  )
-> A
-> (
-> 3
-> 3
-> 3
-> 3
-> 3
-> 
-> Kangourou  15 marzo 2001. Categoria Student. Pagina N.
-> 4
+>
+> - **(A)** 4
+> - **(B)** 8
+> - **(C)** 12
+> - **(D)** 16
+> - **(E)** 25. . cm 64 (E) cm 3 32 (D) cm 3 64 (C) cm 32 (B) cm 3 16 ) A ( 3 3 3 3 3 Kangourou 15 marzo 2001. Categoria Student. Pagina N. 4
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

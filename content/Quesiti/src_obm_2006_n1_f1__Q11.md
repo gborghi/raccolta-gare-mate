@@ -35,12 +35,12 @@ tags:
 *Perimeter of L-shape formed by two overlapping paper strips*
 
 > Two rectangular paper strips, each 20 cm long, one 5 cm wide and the other 11 cm wide, are glued together perpendicularly to form the figure illustrated to the side. What is the perimeter of this figure, in centimetres?
-> 
-> (A) 50
-> (B) 60
-> (C) 80
-> (D) 100
-> (E) 120
+>
+> - **(A)** 50
+> - **(B)** 60
+> - **(C)** 80
+> - **(D)** 100
+> - **(E)** 120
 
 ![[src_obm_2006_n1_f1__Q11.png]]
 

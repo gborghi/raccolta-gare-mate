@@ -31,14 +31,12 @@ tags:
 *Modi di scrivere 546 come somma di multipli di 3*
 
 > Sonia traccia col gesso sul pavimento la grande tabella che vedi a lato, poi incomincia a saltare da una cella all'altra. Parte dalla cella numero $1$ e segue questa regola: a ogni nuovo salto, atterra in una cella con un numero che è di $3$ unità maggiore di quello della cella da cui ha spiccato il salto. Qual è il numero presente nell'ultima cella su cui potrà atterrare?
-> 
-> (A) $11$
-> (B) $13$
-> (C) $18$
-> (D) $19$
-> (E) $22$
-> 
-> (vedi figura)
+>
+> - **(A)** $11$
+> - **(B)** $13$
+> - **(C)** $18$
+> - **(D)** $19$
+> - **(E)** $22$ (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

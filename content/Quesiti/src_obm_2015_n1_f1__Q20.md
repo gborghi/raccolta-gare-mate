@@ -40,18 +40,18 @@ tags:
 *Maximum balls moved to green urn under divisor rule*
 
 > A red urn contains 20 balls, numbered from 1 to 20, and a green urn is empty.
-> 
+>
 > i) Maria takes a ball, shows its number to João and places it in the green urn.
-> 
+>
 > ii) João takes from the red urn all the balls whose numbers are divisors of the number shown by Maria and places them in the green urn.
-> 
+>
 > Steps i) and ii) are repeated in sequence, until the moment when step ii) can no longer be carried out. At most, how many balls can be placed in the green urn?
-> 
-> (A) 12
-> (B) 14
-> (C) 15
-> (D) 16
-> (E) 17
+>
+> - **(A)** 12
+> - **(B)** 14
+> - **(C)** 15
+> - **(D)** 16
+> - **(E)** 17
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]

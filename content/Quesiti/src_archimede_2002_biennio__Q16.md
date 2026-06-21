@@ -31,13 +31,12 @@ tags:
 
 > Le tre linee tracciate dividono, ciascuna, l’intera figura
 > in due parti di ugual area. Si considerino le aree tratteggiate A e B. Quale delle seguenti affermazioni è vera?
-> (A) area(A) > area(B)
-> (B) area(A) = area(B)
-> (C) area(A) < area(B)
-> (D) la figura è impossibile
-> (E) non si può trarre alcuna conclusione.
-> A
-> B
+>
+> - **(A)** area(A) > area(B)
+> - **(B)** area(A) = area(B)
+> - **(C)** area(A) < area(B)
+> - **(D)** la figura è impossibile
+> - **(E)** non si può trarre alcuna conclusione. A B
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

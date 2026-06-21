@@ -47,23 +47,12 @@ tags:
 > Sapendo che il triangolo equilatero in figura ha lato 3 e che l’arco
 > di circonferenza è tangente a due lati, qual è l’area della figura
 > in grigio?
-> (A)
-> √
-> 3 −π
-> 6
-> (B) π −
-> √
-> 3
-> (C) 2
-> √
-> 3 −π
-> (D)
-> √
-> 3 + π
-> 6
-> (E) 3
-> √
-> 3 −π.
+>
+> - **(A)** √ 3 −π 6
+> - **(B)** π − √ 3
+> - **(C)** 2 √ 3 −π
+> - **(D)** √ 3 + π 6
+> - **(E)** 3 √ 3 −π.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

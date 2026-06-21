@@ -28,11 +28,12 @@ tags:
 *Grado di un polinomio composto da potenze*
 
 > Che grado ha il polinomio p(x) = (9x5 −x2 +1)10 ·(x7 +8x3 −10)+(x6 −7x+6)7 ?
-> (A) 10
-> (B) 57
-> (C) 99
-> (D) 50
-> (E) 42
+>
+> - **(A)** 10
+> - **(B)** 57
+> - **(C)** 99
+> - **(D)** 50
+> - **(E)** 42
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

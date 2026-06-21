@@ -33,12 +33,12 @@ tags:
 > I seguenti quattro disegni rappresentano i numeri da 1 a 4. In ogni disegno, la metà
 > di destra è il numero rappresentato, mentre la metà di sinistra è l’immagine di quel
 > numero riflessa in uno specchio. Quale disegno sarà il prossimo della serie?
-> (A) 
-> (B)
->  
-> (C) 
-> (D) 
-> (E)
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)**
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

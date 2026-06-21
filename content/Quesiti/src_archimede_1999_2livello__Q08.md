@@ -29,12 +29,12 @@ tags:
 *Quale numero è divisore di mcm degli interi 1..100*
 
 > Sia $M$ il minimo comune multiplo di tutti gli interi compresi fra 1 e 100. Quale dei seguenti numeri è un divisore di $M$?
-> 
-> (A) 1990
-> (B) 2000
-> (C) 2002
-> (D) 2001
-> (E) 2020.
+>
+> - **(A)** 1990
+> - **(B)** 2000
+> - **(C)** 2002
+> - **(D)** 2001
+> - **(E)** 2020.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

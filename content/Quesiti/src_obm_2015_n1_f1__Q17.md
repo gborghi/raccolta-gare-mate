@@ -40,12 +40,12 @@ tags:
 *Volume of a box from areas of its three pairs of faces*
 
 > Juliana made the planification (net) of a cardboard box with two white faces, two black faces and two grey ones. The white faces have area $35\,\text{cm}^2$ each, the black faces have area $21\,\text{cm}^2$ each, and the grey ones $15\,\text{cm}^2$ each. What is the volume of the box?
-> 
-> (A) $25\,\text{cm}^3$
-> (B) $60\,\text{cm}^3$
-> (C) $71\,\text{cm}^3$
-> (D) $105\,\text{cm}^3$
-> (E) $220\,\text{cm}^3$
+>
+> - **(A)** $25\,\text{cm}^3$
+> - **(B)** $60\,\text{cm}^3$
+> - **(C)** $71\,\text{cm}^3$
+> - **(D)** $105\,\text{cm}^3$
+> - **(E)** $220\,\text{cm}^3$
 
 ![[src_obm_2015_n1_f1__Q17.png]]
 

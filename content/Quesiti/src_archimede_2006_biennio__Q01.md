@@ -30,11 +30,12 @@ tags:
 > tale che a = c
 > 2 e b = −c
 > 3, dire quanto vale a.
-> (A) −6,
-> (B) −3,
-> (C) −2,
-> (D) 0,
-> (E) 2.
+>
+> - **(A)** −6,
+> - **(B)** −3,
+> - **(C)** −2,
+> - **(D)** 0,
+> - **(E)** 2.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

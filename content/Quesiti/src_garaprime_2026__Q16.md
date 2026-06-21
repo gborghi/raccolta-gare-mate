@@ -32,12 +32,12 @@ tags:
 > Se un triangolo rettangolo viene ruotato intorno ad un suo cateto, compiendo una rotazione completa, si
 > ottiene un volume di 1500π cm3. Se invece viene ruotato intorno all’altro cateto si ottiene un volume di
 > 2000π cm3. Quanto è lunga l’ipotenusa?
-> (A) 15 cm
-> (B)
-> 25 cm
-> (C) 20 cm
-> (D) 16 cm
-> (E) 36 cm
+>
+> - **(A)** 15 cm
+> - **(B)** 25 cm
+> - **(C)** 20 cm
+> - **(D)** 16 cm
+> - **(E)** 36 cm
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

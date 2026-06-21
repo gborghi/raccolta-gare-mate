@@ -32,13 +32,12 @@ tags:
 *Condizione su x per disuguaglianza radice di x < 3x*
 
 > Un numero positivo x soddisfa la disuguaglianza √x < 3x se e solo se:
-> (A) x > 1
-> 9
-> (B) x > 3
-> (C) x > 9
-> (D) x < 1
-> 9
-> (E) x < 9.
+>
+> - **(A)** x > 1 9
+> - **(B)** x > 3
+> - **(C)** x > 9
+> - **(D)** x < 1 9
+> - **(E)** x < 9.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

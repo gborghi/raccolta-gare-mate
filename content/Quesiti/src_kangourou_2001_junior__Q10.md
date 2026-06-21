@@ -32,12 +32,12 @@ tags:
 
 > Tagliando un solo anello, è possibile
 > liberarli tutti?
-> (A) sì, tagliando A
-> (B) sì, tagliando B
-> (C) sì, tagliando C
-> (D) sì, tagliando  D 
-> (E) no.
-> I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
+>
+> - **(A)** sì, tagliando A
+> - **(B)** sì, tagliando B
+> - **(C)** sì, tagliando C
+> - **(D)** sì, tagliando D
+> - **(E)** no. I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

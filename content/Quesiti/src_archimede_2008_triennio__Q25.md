@@ -34,11 +34,12 @@ tags:
 > e scrivere in ogni casella un numero a scelta tra 0, 1, 2, 3, 4, in modo che fissata
 > comunque una riga, una colonna o una diagonale del quadrato, la somma dei numeri presenti nelle sue caselle sia sempre uguale a 4. Quanti diversi quadrati può
 > costruire?
-> (A) Nessuno,
-> (B) 1,
-> (C) 2,
-> (D) 3,
-> (E) 4.
+>
+> - **(A)** Nessuno,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -32,12 +32,12 @@ tags:
 
 > m è un intero positivo tale che MCD (m, 35) > 10. Quale delle seguenti
 > affermazioni è certamente vera?
-> (A)  la rappresentazione decimale di m ha almeno tre cifre
-> (B) m è un multiplo di 35
-> (C) m è divisibile per 15
-> (D) 35 è un multiplo di m
-> (E) m è divisibile per 5 o per 7, ma non per entrambi
-> Nota: MCD (a, b) indica il massimo comune divisore tra a e b.
+>
+> - **(A)** la rappresentazione decimale di m ha almeno tre cifre
+> - **(B)** m è un multiplo di 35
+> - **(C)** m è divisibile per 15
+> - **(D)** 35 è un multiplo di m
+> - **(E)** m è divisibile per 5 o per 7, ma non per entrambi Nota: MCD (a, b) indica il massimo comune divisore tra a e b.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

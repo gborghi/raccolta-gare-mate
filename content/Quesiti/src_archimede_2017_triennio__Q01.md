@@ -29,11 +29,12 @@ tags:
 *Coppie (m,n) con m^n = 2^24*
 
 > Quante sono le coppie di numeri interi positivi (m, n) tali che mn = 224?
-> (A) 2
-> (B) 8
-> (C) 1
-> (D) 6
-> (E) 4
+>
+> - **(A)** 2
+> - **(B)** 8
+> - **(C)** 1
+> - **(D)** 6
+> - **(E)** 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

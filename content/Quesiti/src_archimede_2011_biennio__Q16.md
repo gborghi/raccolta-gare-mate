@@ -34,16 +34,12 @@ tags:
 > ABC è un triangolo isoscele, con AB = AC = 10 cm. D ed E sono due punti su
 > AB e AC rispettivamente, entrambi distanti 6 cm da A, e H è il piede dell’altezza
 > di ABC relativa a BC. Calcolare il rapporto tra le aree di ABC e di DHE.
-> (A) 25
-> 9 ,
-> (B) 25
-> 12,
-> (C) 10
-> 6 ,
-> (D) 25
-> 6 ,
-> (E) 9
-> 4.
+>
+> - **(A)** 25 9 ,
+> - **(B)** 25 12,
+> - **(C)** 10 6 ,
+> - **(D)** 25 6 ,
+> - **(E)** 9 4.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -30,12 +30,12 @@ tags:
 
 > 35/2
 > 32/3 =. . .
-> (A) 1
-> 3
-> (B) 3
-> (C) 315/4
-> (D) 311/6
-> (E) 319/6.
+>
+> - **(A)** 1 3
+> - **(B)** 3
+> - **(C)** 315/4
+> - **(D)** 311/6
+> - **(E)** 319/6.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

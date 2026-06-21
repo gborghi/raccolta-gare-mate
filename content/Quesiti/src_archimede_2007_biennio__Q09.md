@@ -32,16 +32,12 @@ tags:
 > a = 2 e c
 > b = 3, quanto vale a + b
 > b + c ?
-> (A) 3
-> 8,
-> (B) 3
-> 5,
-> (C) 3
-> 4,
-> (D) 1
-> 3,
-> (E) 2
-> 3.
+>
+> - **(A)** 3 8,
+> - **(B)** 3 5,
+> - **(C)** 3 4,
+> - **(D)** 1 3,
+> - **(E)** 2 3.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

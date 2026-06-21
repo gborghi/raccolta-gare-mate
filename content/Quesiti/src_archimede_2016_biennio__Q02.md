@@ -34,11 +34,12 @@ tags:
 > a 1000 (inclusi). Giovanna cancella dall’elenco i numeri pari e sostituisce ciascuno
 > di essi con la sua metà. Quanti numeri diversi saranno scritti nel quaderno di Carlo
 > dopo l’intervento di Giovanna?
-> (A) 650
-> (B) 900
-> (C) 500
-> (D) 600
-> (E) 750
+>
+> - **(A)** 650
+> - **(B)** 900
+> - **(C)** 500
+> - **(D)** 600
+> - **(E)** 750
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

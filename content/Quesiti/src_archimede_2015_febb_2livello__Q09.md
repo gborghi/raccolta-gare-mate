@@ -36,16 +36,12 @@ tags:
 > pedina consiste nello spostarsi in una casella scelta a caso fra quelle che hanno esattamente un
 > vertice in comune con la casella su cui si trova. Qual è la probabilità che dopo 12 passi la pedina
 > si trovi in uno qualunque degli angoli della scacchiera?
-> (A) 1
-> 3
-> (B) 4
-> 25
-> (C) 1
-> 6
-> (D) 4
-> 13
-> (E) 1
-> 4
+>
+> - **(A)** 1 3
+> - **(B)** 4 25
+> - **(C)** 1 6
+> - **(D)** 4 13
+> - **(E)** 1 4
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

@@ -37,12 +37,12 @@ tags:
 *Number to add to numerator and subtract from denominator to invert a fraction*
 
 > The number that we must add to the numerator and subtract from the denominator of the fraction $\dfrac{1478}{5394}$ in order to transform it into its reciprocal (inverse) is:
-> 
-> (A) $3{,}916$
-> (B) $3{,}913$
-> (C) $3{,}915$
-> (D) $3{,}912$
-> (E) $3{,}917$
+>
+> - **(A)** $3{,}916$
+> - **(B)** $3{,}913$
+> - **(C)** $3{,}915$
+> - **(D)** $3{,}912$
+> - **(E)** $3{,}917$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

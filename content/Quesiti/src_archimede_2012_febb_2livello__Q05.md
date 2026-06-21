@@ -35,11 +35,12 @@ tags:
 > termine di primo grado.
 > Nota: un polinomio è monico se il coefficiente del suo termine di grado più alto (nel nostro caso: quello di
 > quinto grado) è 1.
-> (A) −32
-> (B) 16
-> (C) 32
-> (D) 64
-> (E) Può assumere valori arbitrariamente grandi.
+>
+> - **(A)** −32
+> - **(B)** 16
+> - **(C)** 32
+> - **(D)** 64
+> - **(E)** Può assumere valori arbitrariamente grandi.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

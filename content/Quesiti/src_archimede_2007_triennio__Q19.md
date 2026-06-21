@@ -34,14 +34,12 @@ tags:
 > sue pedine sulla propria scacchiera (ciascuna in una casella) in modo che 12 righe
 > restino completamente vuote e ciascuna delle altre righe abbia esattamente 6 caselle vuote. Quanto vale C
 > R?
-> (A) 3
-> 4,
-> (B) 1,
-> (C) 4
-> 3,
-> (D) 5
-> 4,
-> (E) 2.
+>
+> - **(A)** 3 4,
+> - **(B)** 1,
+> - **(C)** 4 3,
+> - **(D)** 5 4,
+> - **(E)** 2.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -38,16 +38,12 @@ tags:
 *Marcelo walks to school; what fraction of path done when he spots magazine*
 
 > Marcelo takes exactly $20$ minutes to walk from his house to school. One day, while walking, he noticed the magazine Eureka! had been delivered to his house; if he continued walking he would arrive at school $8$ minutes later than the time he usually leaves, and if he turned back to pick up the magazine at the same pace, he would arrive at school $10$ minutes late. What fraction of the path had Marcelo covered at that moment?
-> 
-> (A) $\dfrac{2}{5}$
-> 
-> (B) $\dfrac{9}{20}$
-> 
-> (C) $\dfrac{1}{2}$
-> 
-> (D) $\dfrac{2}{3}$
-> 
-> (E) $\dfrac{9}{10}$
+>
+> - **(A)** $\dfrac{2}{5}$
+> - **(B)** $\dfrac{9}{20}$
+> - **(C)** $\dfrac{1}{2}$
+> - **(D)** $\dfrac{2}{3}$
+> - **(E)** $\dfrac{9}{10}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

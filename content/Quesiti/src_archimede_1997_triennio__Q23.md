@@ -37,11 +37,12 @@ tags:
 > ancora lo stesso numero. Detto p5 il numero di palindromi di 5 cifre, p6 il numero
 > di palindromi di 6 cifre, p7 il numero di palindromi di 7 cifre, quale delle seguenti
 > affermazioni è corretta?
-> (A) 10p5 = p6 e 10p6 = p7
-> (B) p5 = p6 e 10p6 = p7
-> (C) 10p5 = p6 e p6 = p7
-> (D) p5 = p6 = p7
-> (E) nessuna delle precedenti affermazioni è vera.
+>
+> - **(A)** 10p5 = p6 e 10p6 = p7
+> - **(B)** p5 = p6 e 10p6 = p7
+> - **(C)** 10p5 = p6 e p6 = p7
+> - **(D)** p5 = p6 = p7
+> - **(E)** nessuna delle precedenti affermazioni è vera.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

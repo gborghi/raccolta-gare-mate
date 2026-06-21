@@ -58,11 +58,12 @@ tags:
 > 39
 > 
 > ?
-> (A) 15/4
-> (B) 7/2
-> (C) 4
-> (D) 17/4
-> (E) 9/2
+>
+> - **(A)** 15/4
+> - **(B)** 7/2
+> - **(C)** 4
+> - **(D)** 17/4
+> - **(E)** 9/2
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]

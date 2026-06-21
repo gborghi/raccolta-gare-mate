@@ -30,19 +30,12 @@ tags:
 *Rapporto aree triangolo equilatero ed esagono inscritti*
 
 > Disegno un triangolo equilatero e un esagono regolare inscritti nella stessa circonferenza. Qual è il rapporto tra l’area del triangolo e quella dell’esagono?
-> (A) 1
-> 2,
-> (B) 1
-> 3,
-> (C)
-> √
-> 3
-> 2 ,
-> (D)
-> √
-> 3
-> 3 ,
-> (E) 1
+>
+> - **(A)** 1 2,
+> - **(B)** 1 3,
+> - **(C)** √ 3 2 ,
+> - **(D)** √ 3 3 ,
+> - **(E)** 1
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

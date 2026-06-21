@@ -30,11 +30,12 @@ tags:
 
 > Emanuele soffre d’insonnia. Un giorno alle 11:11 precise egli afferma: “non dormo
 > da 53 ore e 53 minuti”. A che ora si e svegliato l’ultima volta?
-> (A) 5:04
-> (B) 5:18
-> (C) 5:58
-> (D) 6:04
-> (E) 6:18.
+>
+> - **(A)** 5:04
+> - **(B)** 5:18
+> - **(C)** 5:58
+> - **(D)** 6:04
+> - **(E)** 6:18.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

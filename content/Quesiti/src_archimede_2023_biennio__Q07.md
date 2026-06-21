@@ -40,11 +40,12 @@ tags:
 > D
 > E
 > F
-> (A) 83°
-> (B) 80°
-> (C) 82°
-> (D) 81°
-> (E) 84°
+>
+> - **(A)** 83°
+> - **(B)** 80°
+> - **(C)** 82°
+> - **(D)** 81°
+> - **(E)** 84°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

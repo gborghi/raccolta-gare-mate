@@ -38,12 +38,12 @@ tags:
 *Smallest n with 2n a perfect square and 3n a perfect cube*
 
 > The number $5^2 = 25$ is a perfect square and the number $4^3 = 64$ is a perfect cube. What is the smallest positive integer $n$ whose double is a perfect square and whose triple is a perfect cube?
-> 
-> (A) 72
-> (B) 98
-> (C) 144
-> (D) 216
-> (E) 256
+>
+> - **(A)** 72
+> - **(B)** 98
+> - **(C)** 144
+> - **(D)** 216
+> - **(E)** 256
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

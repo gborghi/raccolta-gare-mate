@@ -35,13 +35,12 @@ tags:
 
 > a, b e c sono numeri reali tali che comunque se ne scelgano due la loro somma è
 > maggiore o uguale a zero. Quale delle seguenti affermazioni è certamente vera?
-> (A) a · b · c ≥0,
-> (B) almeno uno dei tre numeri è zero,
-> (C) almeno uno dei tre
-> numeri è strettamente minore di zero,
-> (D) a, b e c sono tutti maggiori o uguali a
-> zero,
-> (E) a + b + c ≥0.
+>
+> - **(A)** a · b · c ≥0,
+> - **(B)** almeno uno dei tre numeri è zero,
+> - **(C)** almeno uno dei tre numeri è strettamente minore di zero,
+> - **(D)** a, b e c sono tutti maggiori o uguali a zero,
+> - **(E)** a + b + c ≥0.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

@@ -29,11 +29,12 @@ tags:
 *Cifra delle unita di 17 elevato 17*
 
 > Qual è la cifra delle unità di 1717?
-> (A) 1,
-> (B) 3,
-> (C) 5,
-> (D) 7,
-> (E) 9.
+>
+> - **(A)** 1,
+> - **(B)** 3,
+> - **(C)** 5,
+> - **(D)** 7,
+> - **(E)** 9.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

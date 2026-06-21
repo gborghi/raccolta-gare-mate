@@ -42,18 +42,12 @@ tags:
 > O1
 > O2
 > P
-> (A) 2
-> √
-> 3 + 4
-> 3π
-> (B)
-> √
-> 3 + π
-> (C) 7
-> 3π
-> (D) 3
-> 2 + 2π
-> (E) Nessuna delle precedenti
+>
+> - **(A)** 2 √ 3 + 4 3π
+> - **(B)** √ 3 + π
+> - **(C)** 7 3π
+> - **(D)** 3 2 + 2π
+> - **(E)** Nessuna delle precedenti
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

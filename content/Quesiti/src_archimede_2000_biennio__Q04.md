@@ -29,11 +29,12 @@ tags:
 *Valore di 6a data relazione lineare in a e b*
 
 > Quanto vale 6a se 3a −2 = 2b −1?
-> (A) 4b + 1
-> (B) 4b + 2
-> (C) 4b + 3
-> (D) 4b + 4
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 4b + 1
+> - **(B)** 4b + 2
+> - **(C)** 4b + 3
+> - **(D)** 4b + 4
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

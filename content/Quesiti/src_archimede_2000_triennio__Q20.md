@@ -35,11 +35,12 @@ tags:
 
 > Quante sono le coppie ordinate di interi (a, b), con 1 < a < 2000, 1 < b < 2000
 > tali che il minimo comune multiplo fra a e b è uguale a 2000?
-> (A) 14
-> (B) 20
-> (C) 24
-> (D) 40
-> (E) 48.
+>
+> - **(A)** 14
+> - **(B)** 20
+> - **(C)** 24
+> - **(D)** 40
+> - **(E)** 48.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

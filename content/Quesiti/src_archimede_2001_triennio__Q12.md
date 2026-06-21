@@ -30,11 +30,12 @@ tags:
 *Interi uguali al triplo della somma delle loro cifre*
 
 > Quanti numeri interi positivi sono uguali al triplo della somma delle loro cifre?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 4
-> (E) infiniti.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 4
+> - **(E)** infiniti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

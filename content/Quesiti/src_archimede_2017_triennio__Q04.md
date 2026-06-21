@@ -35,11 +35,12 @@ tags:
 > Ognuno dei presenti afferma: “Considerando i miei due vicini e la persona che
 > è seduta proprio di fronte a me, esattamente due di queste tre persone sono
 > furfanti”. Quanti sono, in tutto, i cavalieri seduti al tavolo?
-> (A) nessuno
-> (B) 1
-> (C) 3
-> (D) 4
-> (E) gli elementi forniti non sono sufficienti per stabilirlo
+>
+> - **(A)** nessuno
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** gli elementi forniti non sono sufficienti per stabilirlo
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -37,11 +37,12 @@ tags:
 > Nord, Sud, Ovest, Est. Quando cambia direzione, può ruotare solo di 90°(non può
 > voltarsi ed invertire la marcia). Quante sono le possibili passeggiate di 6 metri, al
 > termine delle quali la tartaruga si trova di nuovo nella tana?
-> (A) 40
-> (B) 54
-> (C) 36
-> (D) 32
-> (E) 48
+>
+> - **(A)** 40
+> - **(B)** 54
+> - **(C)** 36
+> - **(D)** 32
+> - **(E)** 48
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]

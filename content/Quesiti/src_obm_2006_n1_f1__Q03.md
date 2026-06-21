@@ -35,12 +35,12 @@ tags:
 *Football team: wins/draws from 31 matches*
 
 > A football team won 8 more matches than it lost, and drew 3 matches fewer than it won. How many matches did it win, if it played 31 matches in total?
-> 
-> (A) 11
-> (B) 14
-> (C) 15
-> (D) 17
-> (E) 23
+>
+> - **(A)** 11
+> - **(B)** 14
+> - **(C)** 15
+> - **(D)** 17
+> - **(E)** 23
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]

@@ -30,11 +30,12 @@ tags:
 
 > Maddalena scrive su un foglio tutte le potenze di 2 da 1 a 2100 (estremi inclusi). Quanti dei
 > numeri che ha scritto iniziano per 1?
-> (A) 28 o meno
-> (B) 29
-> (C) 30
-> (D) 31
-> (E) 32 o più.
+>
+> - **(A)** 28 o meno
+> - **(B)** 29
+> - **(C)** 30
+> - **(D)** 31
+> - **(E)** 32 o più.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

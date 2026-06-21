@@ -33,11 +33,12 @@ tags:
 > cioccolato che aveva nel carrello, una nuova tavoletta veniva aggiunta
 > gratuitamente alla cassa. Quanti franchi sono rimasti a Gaspare all'uscita dal
 > supermercato, sapendo che oltre al cioccolato non ha acquistato altro?
-> (A) 52
-> (B) 56
-> (C) 60
-> (D) 64
-> (E) 68.
+>
+> - **(A)** 52
+> - **(B)** 56
+> - **(C)** 60
+> - **(D)** 64
+> - **(E)** 68.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

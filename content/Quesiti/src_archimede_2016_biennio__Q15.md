@@ -31,11 +31,12 @@ tags:
 > Osservando il calendario, Chiara si è accorta che l’anno corrente 2016 ha una particolarità: posto x = 2016 il numero dell’anno, allora x + 1 è multiplo di 1, x + 2
 > è multiplo di 2, x + 3 è multiplo di 3 e x + 4 è multiplo di 4. Quanti altri numeri
 > interi positivi, minori di 2016, hanno la stessa particolarità?
-> (A) 154
-> (B) 83
-> (C) 167
-> (D) 24
-> (E) 162
+>
+> - **(A)** 154
+> - **(B)** 83
+> - **(C)** 167
+> - **(D)** 24
+> - **(E)** 162
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

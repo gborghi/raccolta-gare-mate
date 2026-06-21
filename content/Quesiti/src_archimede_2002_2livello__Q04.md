@@ -34,12 +34,12 @@ tags:
 > Ark: "Bark è maschile".
 > Bark: "Ark è femminile".
 > Sulla base di tali dichiarazioni l'impiegato può determinare:
-> 
-> (A) pianeta e sesso di Ark, ma non di Bark
-> (B) pianeta e sesso di Bark, ma non di Ark
-> (C) solo il pianeta di entrambi, ma non il sesso
-> (D) solo il sesso di entrambi, ma non il pianeta
-> (E) pianeta e sesso di entrambi
+>
+> - **(A)** pianeta e sesso di Ark, ma non di Bark
+> - **(B)** pianeta e sesso di Bark, ma non di Ark
+> - **(C)** solo il pianeta di entrambi, ma non il sesso
+> - **(D)** solo il sesso di entrambi, ma non il pianeta
+> - **(E)** pianeta e sesso di entrambi
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

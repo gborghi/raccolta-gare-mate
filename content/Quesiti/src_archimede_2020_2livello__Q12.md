@@ -36,12 +36,12 @@ tags:
 > M = a0 −a1 + 4a2 −9a3 + 16a4 −81a5 + 64a6 −729a7 + · · · + 298a98 −398a99 + 2100a100,
 > in cui il coefficiente di a2k è 22k e il coefficiente di a2k+1 è −32k. Qual è la massima potenza di
 > 5 che divide M?
-> (A) 50
-> (B) 51
-> (C) 55
-> (D) 550
-> (E) 5100
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 50
+> - **(B)** 51
+> - **(C)** 55
+> - **(D)** 550
+> - **(E)** 5100 Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

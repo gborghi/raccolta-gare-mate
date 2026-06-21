@@ -37,11 +37,12 @@ tags:
 > n sia ridotta ai minimi termini e
 > strettamente minore di 1, e che il prodotto mn sia uguale a 1 · 2 · 3 · · · · · 24 · 25 (ovvero al prodotto
 > dei primi 25 interi positivi)?
-> (A) 27
-> (B) 28 −1
-> (C) 28
-> (D) 29 −1
-> (E) 29.
+>
+> - **(A)** 27
+> - **(B)** 28 −1
+> - **(C)** 28
+> - **(D)** 29 −1
+> - **(E)** 29.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -33,11 +33,12 @@ tags:
 > da A 13 km, con l’accordo di fare la spola fra A e B senza fermarsi mai. Sapendo
 > che ogni ora il podista percorre 9 km mentre il ciclista ne percorre 25, quale
 > distanza separerà i due sportivi dopo tre ore dall’inizio della competizione?
-> (A) 1 km
-> (B) 2 km
-> (C) 3 km
-> (D) 4 km
-> (E) 5 km.
+>
+> - **(A)** 1 km
+> - **(B)** 2 km
+> - **(C)** 3 km
+> - **(D)** 4 km
+> - **(E)** 5 km.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

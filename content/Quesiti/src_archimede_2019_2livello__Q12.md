@@ -37,12 +37,12 @@ tags:
 > propri studenti da 1 a 75 e l’arbitro impone la regola che due ragazzi non si possono scontrare
 > se la differenza tra i loro numeri è un multiplo di 3. Se n è il numero di possibili accoppiamenti
 > che soddisfano questa regola, con quanti zeri termina n?
-> (A) 6
-> (B) 12
-> (C) 15
-> (D) 18
-> (E) 21
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 6
+> - **(B)** 12
+> - **(C)** 15
+> - **(D)** 18
+> - **(E)** 21 Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

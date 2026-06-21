@@ -37,11 +37,12 @@ tags:
 > Quanta colla occorre per costruire un cubo 5 × 5 × 5 a partire da 125
 > cubetti unitari? (N.B. per garantire maggiore solidità si incollano tutte le coppie
 > di facce a contatto)
-> (A) 180 g
-> (B) 150 g
-> (C) 90 g
-> (D) 75 g
-> (E) 125 g.
+>
+> - **(A)** 180 g
+> - **(B)** 150 g
+> - **(C)** 90 g
+> - **(D)** 75 g
+> - **(E)** 125 g.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

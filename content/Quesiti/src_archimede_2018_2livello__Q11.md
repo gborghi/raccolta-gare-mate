@@ -33,21 +33,12 @@ tags:
 > Sono date tre circonferenze Γ, Γ1, Γ2 di raggi rispettivamente 6, 3, 2. Γ1 e Γ2 sono tangenti
 > esternamente in A, mentre Γ tange entrambe le altre circonferenze internamente, rispettivamente
 > in A1 ed A2. Determinare il raggio della circonferenza circoscritta ad AA1A2.
-> (A) 2
-> √
-> 6
-> (B) 5
-> (C)
-> √
-> 2 +
-> √
-> 3 +
-> √
-> 6
-> (D) 4 +
-> √
-> 3
-> (E) 6
+>
+> - **(A)** 2 √ 6
+> - **(B)** 5
+> - **(C)** √ 2 + √ 3 + √ 6
+> - **(D)** 4 + √ 3
+> - **(E)** 6
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

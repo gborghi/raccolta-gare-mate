@@ -33,11 +33,12 @@ tags:
 > e 9 nere, il quarto 5 palline bianche e 10 nere. Si estrae un sacchetto a caso, e
 > da questo, sempre a caso, si estrae una pallina. Sapendo che è stata estratta una
 > pallina bianca, quale sacchetto è più probabile che sia stato scelto?
-> (A) Il primo
-> (B) il secondo
-> (C) il terzo
-> (D) il quarto
-> (E) tutti i sacchetti hanno la stessa probabilità di essere stati estratti.
+>
+> - **(A)** Il primo
+> - **(B)** il secondo
+> - **(C)** il terzo
+> - **(D)** il quarto
+> - **(E)** tutti i sacchetti hanno la stessa probabilità di essere stati estratti.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

@@ -31,11 +31,12 @@ tags:
 > Carla, con molta pazienza, sta scrivendo per esteso il numero
 > 1000300 + 759.
 > Quante cifre dovrà scrivere in tutto?
-> (A) 959
-> (B) 300
-> (C) 30059
-> (D) 3059
-> (E) 901
+>
+> - **(A)** 959
+> - **(B)** 300
+> - **(C)** 30059
+> - **(D)** 3059
+> - **(E)** 901
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

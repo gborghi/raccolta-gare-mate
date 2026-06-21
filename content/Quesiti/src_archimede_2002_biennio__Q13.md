@@ -29,11 +29,12 @@ tags:
 
 > In una vasca a forma di parallelepipedo con base quadrata di lato 40 cm viene immessa dell’acqua fino a raggiungere un livello di 30 cm. Poi viene completamente
 > immerso nella vasca un cubo pieno di lato 20 cm. Qual è ora il livello dell’acqua?
-> (A) 32 cm
-> (B) 32,5 cm
-> (C) 35 cm
-> (D) 40 cm
-> (E) 50 cm.
+>
+> - **(A)** 32 cm
+> - **(B)** 32,5 cm
+> - **(C)** 35 cm
+> - **(D)** 40 cm
+> - **(E)** 50 cm.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

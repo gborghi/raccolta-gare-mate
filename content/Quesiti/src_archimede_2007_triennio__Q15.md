@@ -33,11 +33,12 @@ tags:
 > Il professor Victor tiene un corso a 10 studenti e all’inizio di ogni lezione compila
 > il foglio del presenze scrivendo “presente” oppure “assente” a fianco del nome di
 > ciascuno studente. Quanti sono i possibili fogli delle presenze distinti?
-> (A) 102,
-> (B) 22 + 23 + 24,
-> (C) 103,
-> (D) 210,
-> (E) 104.
+>
+> - **(A)** 102,
+> - **(B)** 22 + 23 + 24,
+> - **(C)** 103,
+> - **(D)** 210,
+> - **(E)** 104.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

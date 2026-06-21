@@ -41,12 +41,12 @@ tags:
 > A′
 > B′
 > C′
-> (A) 4
-> (B) 21/5
-> (C) 39/10
-> (D) 18/5
-> (E) 5
-> 411
+>
+> - **(A)** 4
+> - **(B)** 21/5
+> - **(C)** 39/10
+> - **(D)** 18/5
+> - **(E)** 5 411
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

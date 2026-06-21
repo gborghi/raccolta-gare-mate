@@ -33,11 +33,12 @@ tags:
 *Massimo numero di venerdi 13 in un anno non bisestile*
 
 > Quanti venerdì 13 ci possono essere al massimo in un anno non bisestile?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) più di 4.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** più di 4.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -41,12 +41,12 @@ tags:
 *Deduce maximum number of cars from total legs and wheels on planet Z*
 
 > On planet Z, every inhabitant has $3$ legs and every car has $5$ wheels. In a small city on this planet, there are in total $97$ legs and wheels. We can therefore affirm:
-> 
-> (A) It is possible that there are $19$ cars in this city
-> (B) There are at most $16$ cars in this city
-> (C) This city has $9$ inhabitants and $14$ cars
-> (D) There are at most $17$ cars in this city
-> (E) In this city there are more cars than people
+>
+> - **(A)** It is possible that there are $19$ cars in this city
+> - **(B)** There are at most $16$ cars in this city
+> - **(C)** This city has $9$ inhabitants and $14$ cars
+> - **(D)** There are at most $17$ cars in this city
+> - **(E)** In this city there are more cars than people
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]

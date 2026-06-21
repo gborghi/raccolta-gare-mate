@@ -38,12 +38,12 @@ tags:
 > D
 > E
 > F
-> (A)
-> 17°
-> (B) 18°
-> (C) 16°
-> (D) 22°
-> (E) 21°
+>
+> - **(A)** 17°
+> - **(B)** 18°
+> - **(C)** 16°
+> - **(D)** 22°
+> - **(E)** 21°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

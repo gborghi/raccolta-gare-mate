@@ -31,11 +31,12 @@ tags:
 > Un vespista oculato, in un suo viaggio di 900 km, usa anche la ruota di scorta in
 > modo che alla fine le tre ruote subiscano la stessa usura. Quanti km avrà percorso
 > ogni ruota alla fine del viaggio?
-> (A) 300
-> (B) 450
-> (C) 500
-> (D) 600
-> (E) 750.
+>
+> - **(A)** 300
+> - **(B)** 450
+> - **(C)** 500
+> - **(D)** 600
+> - **(E)** 750.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

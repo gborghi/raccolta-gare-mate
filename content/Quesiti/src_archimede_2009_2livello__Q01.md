@@ -31,11 +31,12 @@ tags:
 > Quanti interi n sono tali che √n differisce da
 > √
 > 101 per meno di 1?
-> (A) 19
-> (B) 21
-> (C) 40
-> (D) 41
-> (E) 42.
+>
+> - **(A)** 19
+> - **(B)** 21
+> - **(C)** 40
+> - **(D)** 41
+> - **(E)** 42.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

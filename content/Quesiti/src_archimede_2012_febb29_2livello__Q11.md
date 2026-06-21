@@ -38,11 +38,12 @@ tags:
 > questo risultato al posto del numero che era sulla lavagna; se non è intero, cancella tutto e si
 > trasferisce nel mondo degli umani a fare scherzetti. Per quanti giorni (escluso quello iniziale in cui
 > il folletto sceglie i numeri) siamo sicuri che non avremo problemi nel nostro mondo?
-> (A) 4
-> (B) 5
-> (C) 6
-> (D) 8
-> (E) 12.
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 8
+> - **(E)** 12.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

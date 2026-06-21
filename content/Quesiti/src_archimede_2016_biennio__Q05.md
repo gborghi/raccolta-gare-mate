@@ -35,11 +35,12 @@ tags:
 > 6 pantaloni. Per risparmiare comprerà solo due capi, di tipo diverso (ossia non due
 > camicette o due maglioni o due pantaloni). In quanti modi Laura potrà fare i suoi
 > acquisti?
-> (A) 114
-> (B) 128
-> (C) 342
-> (D) 171
-> (E) 118
+>
+> - **(A)** 114
+> - **(B)** 128
+> - **(C)** 342
+> - **(D)** 171
+> - **(E)** 118
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]]

@@ -30,11 +30,12 @@ tags:
 
 > Stefano ha 7 bastoncini di varie lunghezze. Ne spezza uno a metà. Quanti
 > bastoncini ha Stefano adesso?
-> (A) 5
-> (B) 6
-> (C) 7
-> (D) 8
-> (E) 9
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

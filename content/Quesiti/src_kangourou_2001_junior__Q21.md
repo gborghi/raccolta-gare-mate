@@ -36,11 +36,12 @@ tags:
 > appena  mangiate da Paolo nel secondo giorno (sempre prelevate dalla stessa
 > scatola). Alla fine del secondo giorno la scatola era vuota. Quante caramelle ha
 > mangiato Cristina da quella scatola?
-> (A) 9
-> (B) 10
-> (C) 12
-> (D) 13
-> (E) 15.
+>
+> - **(A)** 9
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 13
+> - **(E)** 15.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

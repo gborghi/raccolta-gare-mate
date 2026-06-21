@@ -34,16 +34,12 @@ tags:
 > unico all’italiana (ogni squadra incontra ogni altra squadra una sola volta). Qual
 > è la probabilità che ci sia una squadra che alla fine del torneo ha vinto tutte le
 > sue partite? (le partite di pallacanestro non possono finire con un pareggio).
-> (A) 1
-> 6
-> (B) 1
-> π
-> (C) 1
-> 3
-> (D) 1
-> 2
-> (E) 2
-> 3.
+>
+> - **(A)** 1 6
+> - **(B)** 1 π
+> - **(C)** 1 3
+> - **(D)** 1 2
+> - **(E)** 2 3.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -31,12 +31,12 @@ tags:
 *Area di trapezio isoscele con diagonale e angolo dati*
 
 > In un trapezio isoscele, una diagonale è lunga 22 cm; si sa inoltre che tale diagonale forma con la base maggiore un angolo di $45°$. Quanto vale l'area del trapezio?
-> 
-> (A) $121\text{ cm}^2$
-> (B) $242\text{ cm}^2$
-> (C) $484\text{ cm}^2$
-> (D) i dati sono insufficienti
-> (E) nessuna delle precedenti.
+>
+> - **(A)** $121\text{ cm}^2$
+> - **(B)** $242\text{ cm}^2$
+> - **(C)** $484\text{ cm}^2$
+> - **(D)** i dati sono insufficienti
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

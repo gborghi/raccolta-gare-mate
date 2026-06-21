@@ -40,12 +40,12 @@ tags:
 *How many years after 2015 this century have digit mean 2*
 
 > The arithmetic mean of the digits of the year 2015 is equal to 2, since $\frac{2+0+1+5}{4} = \frac{8}{4} = 2$. How many times in our century will it happen, after 2015, that the arithmetic mean of the digits of a year equals 2?
-> 
-> (A) 3
-> (B) 5
-> (C) 6
-> (D) 7
-> (E) 9
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 9
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

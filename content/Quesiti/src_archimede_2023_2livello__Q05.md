@@ -33,11 +33,12 @@ tags:
 > Lucio ha due carte identiche di forma rettangolare con lati lunghi 6 e 9; le appoggia sul tavolo
 > in modo che abbiano una diagonale in comune ma non risultino precisamente sovrapposte. Qual
 > è l’area della porzione della prima carta che è coperta dalla seconda?
-> (A) 27
-> (B) 36
-> (C) 37
-> (D) 38
-> (E) 39
+>
+> - **(A)** 27
+> - **(B)** 36
+> - **(C)** 37
+> - **(D)** 38
+> - **(E)** 39
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -39,11 +39,12 @@ tags:
 > è in accordo con le al­
 > tre tre e quindi certa­
 > mente non rappresenta il cubo rivestito da Rita?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) Nessuna
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** Nessuna
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

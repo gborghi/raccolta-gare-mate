@@ -31,12 +31,12 @@ tags:
 *Composizione non ottenibile coi tasselli di Luisa*
 
 > Luisa ha alcuni tasselli come quello mostrato nella figura. Li può ruotare, ma non spezzare o sovrapporre. Se li accosta in base a queste regole, può ottenere quattro delle cinque composizioni qui sotto. Quale di esse non può ottenere? (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

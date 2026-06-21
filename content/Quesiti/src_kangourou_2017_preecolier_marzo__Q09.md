@@ -29,12 +29,12 @@ tags:
 *Quanti orsetti per due trenini con i baratti*
 
 > Nel paese dei Giocattoli puoi avere tre bambole in cambio di un trenino, e puoi avere una bambola in cambio di due orsetti. Quanti orsetti puoi avere in cambio di due trenini?
-> 
-> (A) 6
-> (B) 8
-> (C) 10
-> (D) 12
-> (E) 14
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 10
+> - **(D)** 12
+> - **(E)** 14
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

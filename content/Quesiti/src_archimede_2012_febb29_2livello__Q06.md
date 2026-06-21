@@ -36,21 +36,12 @@ tags:
 > a quelli del primo e tangenti ai quattro archi di circonferenza.
 > Quanto vale l’area
 > colorata?
-> (A) π
-> 16
-> (B) 2(8
-> √
-> 2 −8 −π)
-> (C) 4 −π −
->  √
-> 2
-> 2
-> !2
-> (D) 2π −4
-> √
-> 2 −1
-> 4
-> (E) non è univocamente determinata.
+>
+> - **(A)** π 16
+> - **(B)** 2(8 √ 2 −8 −π)
+> - **(C)** 4 −π − √ 2 2 !2
+> - **(D)** 2π −4 √ 2 −1 4
+> - **(E)** non è univocamente determinata.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

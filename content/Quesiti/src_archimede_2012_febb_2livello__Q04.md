@@ -30,11 +30,12 @@ tags:
 
 > Quanti sono i numeri di 2 cifre tali che, se si sottrae la somma delle cifre dal numero di partenza,
 > si ottiene 45?
-> (A) 0
-> (B) 1
-> (C) 9
-> (D) 10
-> (E) 20.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 9
+> - **(D)** 10
+> - **(E)** 20.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

@@ -33,19 +33,12 @@ tags:
 > Sia ABCD un rettangolo e siano M, N punti interni, rispettivamente, ai lati AB e BC. Supponiamo che MC = CD, MD = MN e che i punti C, D, M, N appartengano a una stessa
 > circonferenza.
 > Quanto vale il rapporto AB/BC?
-> (A) 1+
-> √
-> 3
-> 2
-> (B)
-> √
-> 2
-> (C) 3
-> 2
-> (D)
-> √
-> 3
-> (E) 2
+>
+> - **(A)** 1+ √ 3 2
+> - **(B)** √ 2
+> - **(C)** 3 2
+> - **(D)** √ 3
+> - **(E)** 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

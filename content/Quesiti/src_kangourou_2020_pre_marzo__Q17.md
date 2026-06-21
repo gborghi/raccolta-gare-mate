@@ -35,14 +35,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob17.png]]
 
 > Luigi vuole disporre su una tabella $3 \times 3$ queste nove carte. Vuole che le carte poste in ogni riga e in ogni colonna mostrino le tre diverse forme e i tre diversi numeri di forme. Come vedi ne ha già messe tre. Quale delle seguenti carte deve mettere nella casella grigia?
-> 
+>
 > (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

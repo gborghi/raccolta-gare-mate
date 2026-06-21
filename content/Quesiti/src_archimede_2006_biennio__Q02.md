@@ -32,11 +32,12 @@ tags:
 > Claudia ha disegnato sul quaderno l’iniziale del suo nome, una C. Il disegno è stato
 > fatto tagliando esattamente a metà una corona circolare con raggio interno 1 cm e
 > raggio esterno 4 cm. Quanto misura il perimetro della C?
-> (A) 5 cm,
-> (B) 5π cm,
-> (C) (6+5π) cm,
-> (D) (5+6π) cm,
-> (E) (6+10π) cm.
+>
+> - **(A)** 5 cm,
+> - **(B)** 5π cm,
+> - **(C)** (6+5π) cm,
+> - **(D)** (5+6π) cm,
+> - **(E)** (6+10π) cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

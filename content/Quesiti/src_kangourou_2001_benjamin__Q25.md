@@ -39,11 +39,12 @@ tags:
 > le facce come mostrato nella figura. Qual è il massimo numero di punti
 > che Cecilia può ottenere sommando i valori ottenuti sulla superficie della
 > torre?
-> (A) 106
-> (B) 91
-> (C) 95
-> (D) 84
-> (E) 96.
+>
+> - **(A)** 106
+> - **(B)** 91
+> - **(C)** 95
+> - **(D)** 84
+> - **(E)** 96.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

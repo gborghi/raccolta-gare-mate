@@ -32,11 +32,12 @@ tags:
 *Quanti angoli maggiori di 90 gradi in un quadrilatero*
 
 > Quanti angoli maggiori di 90°può avere un quadrilatero (non intrecciato)?
-> (A) Ne ha sempre almeno uno
-> (B) ne ha al più uno
-> (C) ne ha al più due
-> (D) ne ha al più tre
-> (E) può averne quattro.
+>
+> - **(A)** Ne ha sempre almeno uno
+> - **(B)** ne ha al più uno
+> - **(C)** ne ha al più due
+> - **(D)** ne ha al più tre
+> - **(E)** può averne quattro.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]

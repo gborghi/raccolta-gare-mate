@@ -38,11 +38,12 @@ tags:
 *Average speed over a 60 km trip with a slow traffic-jam stretch*
 
 > Itacimirim is a town on the coast of Coco, located 60 km from Salvador. Of these, 15 km from Salvador, there is an accident that causes a traffic jam. In the rest of the highway the speed is 60 km/h, except in the zone of the traffic jam, where the velocity is 6 km/h. What is the average speed, in km/h?
-> (A) 10h47min
-> (B) 10h17min
-> (C) 9h00min
-> (D) 10h53min
-> (E) 11h01min
+>
+> - **(A)** 10h47min
+> - **(B)** 10h17min
+> - **(C)** 9h00min
+> - **(D)** 10h53min
+> - **(E)** 11h01min
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]

@@ -39,11 +39,12 @@ tags:
 > Uno ha ragione, ma nessuno ha “completamente” torto, nel senso che ciascuno
 > dice correttamente almeno una cosa (o il giorno della settimana, o il giorno del
 > mese, o il mese). Chi ha ragione?
-> (A) Carlo
-> (B) Franco
-> (C) Marco
-> (D) Roberto
-> (E) Tullio.
+>
+> - **(A)** Carlo
+> - **(B)** Franco
+> - **(C)** Marco
+> - **(D)** Roberto
+> - **(E)** Tullio.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

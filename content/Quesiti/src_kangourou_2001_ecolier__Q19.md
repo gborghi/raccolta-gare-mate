@@ -38,14 +38,12 @@ tags:
 > delle bacchette di plastica e dei giunti (vedi la figura). Quanti
 > giunti (nella figura sono rappresentati dalle piccole palline
 > nere) sono stati usati per la costruzione?
-> (A) 16
-> (B) 18
-> (C) 20
-> (D) 21
-> (E) 22.
-> 
-> Kangourou 15 marzo 2001, categoria Ecolier.     Pagina N.
-> 6
+>
+> - **(A)** 16
+> - **(B)** 18
+> - **(C)** 20
+> - **(D)** 21
+> - **(E)** 22. Kangourou 15 marzo 2001, categoria Ecolier. Pagina N. 6
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

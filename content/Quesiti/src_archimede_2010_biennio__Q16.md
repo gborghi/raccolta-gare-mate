@@ -34,11 +34,12 @@ tags:
 
 > Quanti sono i numeri naturali di quattro cifre, tali che la cifra delle unità sia la
 > somma della cifra delle decine e di quella delle centinaia?
-> (A) 315,
-> (B) 495,
-> (C) 540,
-> (D) 720,
-> (E) 900.
+>
+> - **(A)** 315,
+> - **(B)** 495,
+> - **(C)** 540,
+> - **(D)** 720,
+> - **(E)** 900.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

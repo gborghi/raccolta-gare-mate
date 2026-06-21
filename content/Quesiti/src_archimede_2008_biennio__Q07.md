@@ -33,11 +33,12 @@ tags:
 > in cui Pietro esce da scuola e si dirige verso casa. La mamma di Pietro cammina a
 > velocità doppia rispetto a Pietro. Quanta parte del cammino da casa a scuola avrà
 > percorso la mamma di Pietro nel momento in cui lo incontra?
-> (A) 1/3,
-> (B) 2/5,
-> (C) 1/2,
-> (D) 2/3,
-> (E) 3/4.
+>
+> - **(A)** 1/3,
+> - **(B)** 2/5,
+> - **(C)** 1/2,
+> - **(D)** 2/3,
+> - **(E)** 3/4.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

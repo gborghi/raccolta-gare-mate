@@ -35,11 +35,12 @@ tags:
 > il numero di sei cifre ottenuto giustapponendo x e y. L’insegnante, passando fra i banchi, fa
 > notare a Nicolò che il numero da lui scritto è uguale a 7 volte il prodotto xy. Quanto vale la
 > somma x + y?
-> (A) 125
-> (B) 286
-> (C) 312
-> (D) 487
-> (E) 513
+>
+> - **(A)** 125
+> - **(B)** 286
+> - **(C)** 312
+> - **(D)** 487
+> - **(E)** 513
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

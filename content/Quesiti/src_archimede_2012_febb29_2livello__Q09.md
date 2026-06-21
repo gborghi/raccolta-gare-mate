@@ -32,10 +32,11 @@ tags:
 
 > In un trapezio isoscele il punto d’incontro delle diagonali vede la base minore sotto un angolo di
 > 150°e ciascuna diagonale è lunga 6 cm. Qual è l’area del trapezio?
-> (A) 9 cm2
-> (B) 16 cm2
-> (C) 24 cm2
-> (D) i dati sono insufficienti (E) nessuna delle precedenti.
+>
+> - **(A)** 9 cm2
+> - **(B)** 16 cm2
+> - **(C)** 24 cm2
+> - **(D)** i dati sono insufficienti (E) nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

@@ -34,11 +34,12 @@ tags:
 > Ad ogni mese, Massimo sceglie il foglio opportuno e vi appoggia sopra un’etichetta
 > (removibile) con il nome del mese. Quanti fogli deve aver stampato come minimo,
 > se vuole che il calendario possa essere usato per tutto il terzo millennio?
-> (A) 12
-> (B) 24
-> (C) 28
-> (D) 30
-> (E) 32.
+>
+> - **(A)** 12
+> - **(B)** 24
+> - **(C)** 28
+> - **(D)** 30
+> - **(E)** 32.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

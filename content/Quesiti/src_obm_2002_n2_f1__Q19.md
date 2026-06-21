@@ -39,12 +39,12 @@ tags:
 *Count occurrences of digit 5 in all integers from 100 to 999*
 
 > When writing all the integers from $100$ to $999$, how many times does the digit $5$ appear?
-> 
-> (A) $250$
-> (B) $270$
-> (C) $271$
-> (D) $280$
-> (E) $292$
+>
+> - **(A)** $250$
+> - **(B)** $270$
+> - **(C)** $271$
+> - **(D)** $280$
+> - **(E)** $292$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

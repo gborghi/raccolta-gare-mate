@@ -37,12 +37,12 @@ tags:
 *Distinct x and y satisfy x - 1/x = y - 1/y; find xy.*
 
 > The numbers $x$ and $y$ are distinct and satisfy $x-\frac{1}{x}=y-\frac{1}{y}$. Then $xy$ is equal to
-> 
-> (A) $4$
-> (B) $1$
-> (C) $-1$
-> (D) $-4$
-> (E) it is necessary to have more data
+>
+> - **(A)** $4$
+> - **(B)** $1$
+> - **(C)** $-1$
+> - **(D)** $-4$
+> - **(E)** it is necessary to have more data
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

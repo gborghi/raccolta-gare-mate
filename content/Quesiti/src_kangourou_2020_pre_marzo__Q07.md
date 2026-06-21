@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob7.png]]
 
 > Anna ha disegnato alcune forme geometriche: $3$ triangoli neri e meno di $4$ quadrati. Quale tra i seguenti può essere il disegno di Anna?
-> 
+>
 > (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

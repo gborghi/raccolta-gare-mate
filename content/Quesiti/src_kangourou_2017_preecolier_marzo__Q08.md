@@ -31,16 +31,16 @@ tags:
 *Quale numero non e stato usato nell'uguaglianza*
 
 > Ho scelto quattro tra i numeri $1, 3, 4, 5$ e $7$ e ne ho inserito uno in ciascun quadrato in modo da avere un'uguaglianza corretta:
-> 
+>
 > $$\square + \square = \square + \square$$
-> 
+>
 > Quale numero non ho usato?
-> 
-> (A) 1
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 7
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 7
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

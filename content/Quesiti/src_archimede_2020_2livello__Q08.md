@@ -32,11 +32,12 @@ tags:
 
 > Aisha scrive su un foglio tutti i numeri da 1 a 2020. Quanto vale la differenza tra il numero di
 > cifre “1” e il numero di cifre “0” che ha scritto?
-> (A) 78
-> (B) 1010
-> (C) 1089
-> (D) 2020
-> (E) 5005
+>
+> - **(A)** 78
+> - **(B)** 1010
+> - **(C)** 1089
+> - **(D)** 2020
+> - **(E)** 5005
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

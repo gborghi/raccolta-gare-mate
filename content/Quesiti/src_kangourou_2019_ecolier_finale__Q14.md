@@ -33,14 +33,12 @@ tags:
 *Cubetti da aggiungere per inscatolare il cubo*
 
 > Un bicchiere pieno d'acqua pesa $400$ grammi. Lo stesso bicchiere vuoto pesa $100$ grammi. Quanti grammi pesa un bicchiere riempito d'acqua a metà?
-> 
-> (A) $150$
-> (B) $200$
-> (C) $225$
-> (D) $300$
-> (E) Un numero diverso dai precedenti
-> 
-> (vedi figura)
+>
+> - **(A)** $150$
+> - **(B)** $200$
+> - **(C)** $225$
+> - **(D)** $300$
+> - **(E)** Un numero diverso dai precedenti (vedi figura)
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

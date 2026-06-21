@@ -32,11 +32,12 @@ tags:
 
 > In una classe di 20 persone, 15 giocano a calcio, 14 a basket, 13 a pallavolo.
 > Quanti sono, al minimo, coloro che praticano tutti e tre gli sport?
-> (A) 0
-> (B) 2
-> (C) 7
-> (D) 9
-> (E) 13.
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 7
+> - **(D)** 9
+> - **(E)** 13.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

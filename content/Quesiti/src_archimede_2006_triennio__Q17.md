@@ -43,18 +43,12 @@ tags:
 > Nella figura a fianco, chiamiamo Q il quadrato circoscritto alla circonferenza e Q′ il quadrato inscritto nella
 > circonferenza. Quanto vale il rapporto tra l’area di Q e
 > quella di Q′?
-> (A)
-> √
-> 2
-> 2 ,
-> (B)
-> √
-> 2,
-> (C) 2,
-> (D) 2
-> √
-> 2,
-> (E) 4.
+>
+> - **(A)** √ 2 2 ,
+> - **(B)** √ 2,
+> - **(C)** 2,
+> - **(D)** 2 √ 2,
+> - **(E)** 4.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

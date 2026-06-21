@@ -30,14 +30,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob21.png]]
 
 > Giocando sulla spiaggia, Tim e Tom hanno formato un mucchio di sabbia e hanno piantato una bandiera sulla sua cima. Esattamente metà dell'asta della bandiera è conficcata nella sabbia; dalla cima dell'asta alla base del mucchio di sabbia ci sono 80 centimetri, dalla base dell'asta alla base del mucchio ci sono 20 centimetri. Quanto è alto il mucchio di sabbia?
-> 
+>
 > (vedi figura)
-> 
-> (A) 40 cm
-> (B) 45 cm
-> (C) 50 cm
-> (D) 55 cm
-> (E) 60 cm
+>
+> - **(A)** 40 cm
+> - **(B)** 45 cm
+> - **(C)** 50 cm
+> - **(D)** 55 cm
+> - **(E)** 60 cm
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

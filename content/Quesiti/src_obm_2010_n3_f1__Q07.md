@@ -42,12 +42,12 @@ tags:
 *Count three-digit numbers, distinct digits from {0,1,2,3}, that are multiples of 6.*
 
 > Consider all three-digit numbers with $distinct$ digits, each one equal to $0$, $1$, $2$ or $3$. How many of these numbers are multiples of $6$?
-> 
-> (A) $4$
-> (B) $7$
-> (C) $10$
-> (D) $15$
-> (E) $20$
+>
+> - **(A)** $4$
+> - **(B)** $7$
+> - **(C)** $10$
+> - **(D)** $15$
+> - **(E)** $20$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

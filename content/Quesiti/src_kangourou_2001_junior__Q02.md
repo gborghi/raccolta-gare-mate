@@ -31,15 +31,15 @@ tags:
 > Gli studenti A, B, C, D, E ed F sono disposti in fila indiana. Si sa che: 1) D si
 > trova tra E ed F; 2) C tra D ed E; 3) B tra C e D; 4) A tra B e C. Quale delle
 > seguenti affermazioni è vera?
-> 
+>
 > Kangourou  15 marzo 2001. Categoria Junior. Pagina N.
 > 2
-> (A) A si trova ad un'estremità (destra o sinistra) della fila
-> (B) A è il secondo a partire da una delle estremità
-> (C) A è il terzo a partire da una delle estremità
-> (D) una tale disposizione non è possibile
-> (E) una tale disposizione è possibile, ma non si può determinare in modo univoco
-> la posizione di A.
+>
+> - **(A)** A si trova ad un'estremità (destra o sinistra) della fila
+> - **(B)** A è il secondo a partire da una delle estremità
+> - **(C)** A è il terzo a partire da una delle estremità
+> - **(D)** una tale disposizione non è possibile
+> - **(E)** una tale disposizione è possibile, ma non si può determinare in modo univoco la posizione di A.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -33,11 +33,12 @@ tags:
 > Vi sono cinque sagome di cartoncino identiche che sono bianche da un lato e nere dall’altro lato.
 > Poste su un tavolo esse si trovano nelle posizioni in figura, quattro mostrano la faccia nera e una
 > quella bianca. Qual è la sagoma bianca?
-> (A)
-> (B)
-> (C)
-> (D)
-> (E)
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)**
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

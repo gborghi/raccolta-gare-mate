@@ -38,14 +38,12 @@ tags:
 > a < 1
 > d .
 > Quale delle seguenti quantità è sicuramente positiva?
-> (A) −2a −3b −c + d
-> (B)
-> 2a −3b −c + 2d
-> (C) −a + 4b −c + 3d
-> (D)
-> 4a + 2b + 3c −d
-> (E)
-> 3a + 2b + c + 4d
+>
+> - **(A)** −2a −3b −c + d
+> - **(B)** 2a −3b −c + 2d
+> - **(C)** −a + 4b −c + 3d
+> - **(D)** 4a + 2b + 3c −d
+> - **(E)** 3a + 2b + c + 4d
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]

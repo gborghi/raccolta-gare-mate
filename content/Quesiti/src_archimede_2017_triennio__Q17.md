@@ -32,11 +32,12 @@ tags:
 
 > Carolina inizia a scrivere tutti gli interi positivi pari, uno di seguito all’altro:
 > 246810121416... Quale cifra occuperà la 2017a posizione?
-> (A) 8
-> (B) 7
-> (C) 2
-> (D) 5
-> (E) 1
+>
+> - **(A)** 8
+> - **(B)** 7
+> - **(C)** 2
+> - **(D)** 5
+> - **(E)** 1
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

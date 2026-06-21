@@ -35,11 +35,12 @@ tags:
 > ha l’avversario in quel momento, mentre chi perde mantiene il punteggio che aveva.
 > Dopo un certo numero di sfide, Alberto ha 66 punti.
 > Quale, tra i seguenti, potrebbe essere il punteggio di Barbara?
-> (A) 75
-> (B) 55
-> (C) 49
-> (D) 44
-> (E) 52
+>
+> - **(A)** 75
+> - **(B)** 55
+> - **(C)** 49
+> - **(D)** 44
+> - **(E)** 52
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

@@ -30,15 +30,12 @@ tags:
 
 > Sia b un numero intero diverso da 0. Se a è il triplo di b e c è il doppio di b, qual
 > è il rapporto tra 2a e 3c?
-> (A) 1
-> (B) 2
-> 3
-> (C) 3
-> 2
-> (D) 1
-> 9
-> (E) 4
-> 9.
+>
+> - **(A)** 1
+> - **(B)** 2 3
+> - **(C)** 3 2
+> - **(D)** 1 9
+> - **(E)** 4 9.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

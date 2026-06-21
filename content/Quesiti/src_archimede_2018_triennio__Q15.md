@@ -40,24 +40,12 @@ tags:
 > n (contando da sinistra): ad esempio, la casella (2; 4)
 > contiene il numero 12. In quale casella sarà contenuto il
 > numero 2018?
-> (A) (289; 2)
-> (B) (263; 1)
-> (C) (278; 5)
-> (D) (262; 4)
-> (E) (288; 2)
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9 10 12 13 14 15
-> 16 17 18 19 20 21 23
-> 24 25 ... ... ... ... ...
-> ... ... ... ...
-> ...
+>
+> - **(A)** (289; 2)
+> - **(B)** (263; 1)
+> - **(C)** (278; 5)
+> - **(D)** (262; 4)
+> - **(E)** (288; 2) 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 23 24 25 ... ... ... ... ... ... ... ... ... ...
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

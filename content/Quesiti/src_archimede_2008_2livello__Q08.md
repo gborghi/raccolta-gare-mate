@@ -35,23 +35,12 @@ tags:
 > All’interno di un cerchio di raggio 1 si tracciano 3 archi di circonferenza,
 > anch’essi di raggio 1, centrando nei vertici di un triangolo equilatero inscritto
 > nella circonferenza. Quanto vale l’area della zona ombreggiata?
-> (A)
-> √
-> 3
-> 4 π
-> (B) π −3
-> √
-> 3
-> 4
-> (C) π −3
-> √
-> 3
-> 2
-> (D) 3
-> √
-> 3
-> 2
-> (E) 6 −π.
+>
+> - **(A)** √ 3 4 π
+> - **(B)** π −3 √ 3 4
+> - **(C)** π −3 √ 3 2
+> - **(D)** 3 √ 3 2
+> - **(E)** 6 −π.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

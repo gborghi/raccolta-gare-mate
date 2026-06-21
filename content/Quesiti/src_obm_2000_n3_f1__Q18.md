@@ -39,11 +39,12 @@ tags:
 *Count positive integers below 1000000 whose cubes end in 1*
 
 > How many positive whole numbers smaller than $1{.}000{.}000$ are there whose cubes end in 1?
-> (A) 1.000
-> (B) 10.000
-> (C) 50.000
-> (D) 100.000
-> (E) 500.000
+>
+> - **(A)** 1.000
+> - **(B)** 10.000
+> - **(C)** 50.000
+> - **(D)** 100.000
+> - **(E)** 500.000
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]

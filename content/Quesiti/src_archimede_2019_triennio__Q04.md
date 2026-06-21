@@ -31,11 +31,12 @@ tags:
 > allora ne avrebbe tante quante ne resterebbero al secondo. Se, invece, il secondo ne
 > prendesse 1 al primo, allora ne avrebbe il triplo di quante ne resterebbero al primo.
 > Quante monete possiedono i due uomini in totale?
-> (A) 14
-> (B) 18
-> (C) 12
-> (D) 13
-> (E) 16
+>
+> - **(A)** 14
+> - **(B)** 18
+> - **(C)** 12
+> - **(D)** 13
+> - **(E)** 16
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

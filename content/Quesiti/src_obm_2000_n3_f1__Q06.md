@@ -41,11 +41,12 @@ tags:
 > (i) For all reals $x,y$, $f(x+y)=x+f(y)$;
 > (ii) $f(0)=2$.
 > What is $f(2000)$?
-> (A) 0
-> (B) 2
-> (C) 1998
-> (D) 2000
-> (E) 2002
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 1998
+> - **(D)** 2000
+> - **(E)** 2002
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]

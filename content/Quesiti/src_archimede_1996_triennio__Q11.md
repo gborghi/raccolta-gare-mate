@@ -31,11 +31,12 @@ tags:
 *Cifra delle unita di una somma di quadrati*
 
 > Qual è la cifra delle unità di 12 + 22 + 32 + . . . + 19962?
-> (A) 1
-> (B) 2
-> (C) 4
-> (D) 6
-> (E) 8.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 8.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

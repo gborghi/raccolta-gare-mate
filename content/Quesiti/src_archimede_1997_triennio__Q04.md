@@ -35,11 +35,12 @@ tags:
 > Sulla lavagna si trova scritto il numero 1. La sola mossa permessa è cancellare il
 > numero scritto sulla lavagna e sostituirlo o con il suo doppio o con il suo quadrato.
 > Qual è il numero più grande che si può ottenere in 8 mosse?
-> (A) 28
-> (B) 47
-> (C) 88
-> (D) 264
-> (E) 2128.
+>
+> - **(A)** 28
+> - **(B)** 47
+> - **(C)** 88
+> - **(D)** 264
+> - **(E)** 2128.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

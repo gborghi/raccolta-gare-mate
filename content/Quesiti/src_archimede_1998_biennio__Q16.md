@@ -31,11 +31,12 @@ tags:
 > Platone amava particolarmente il dodecaedro regolare, che è un poliedro le cui
 > facce sono 12 pentagoni regolari uguali. Quanti spigoli e quanti vertici ha tale
 > poliedro?
-> (A) 20 spigoli e 20 vertici
-> (B) 30 spigoli e 20 vertici
-> (C) 20 spigoli e 30 vertici
-> (D) 30 spigoli e 60 vertici
-> (E) 60 spigoli e 60 vertici.
+>
+> - **(A)** 20 spigoli e 20 vertici
+> - **(B)** 30 spigoli e 20 vertici
+> - **(C)** 20 spigoli e 30 vertici
+> - **(D)** 30 spigoli e 60 vertici
+> - **(E)** 60 spigoli e 60 vertici.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

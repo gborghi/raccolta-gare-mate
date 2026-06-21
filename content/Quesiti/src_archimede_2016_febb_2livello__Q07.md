@@ -33,11 +33,12 @@ tags:
 > Un poligono si dice convesso se tutti i suoi angoli interni hanno ampiezza strettamente minore
 > di 180°. Quanti angoli di ampiezza minore di 150°può avere al massimo un poligono convesso
 > di 2016 lati?
-> (A) 11
-> (B) 12
-> (C) 13
-> (D) 17
-> (E) 2016
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 13
+> - **(D)** 17
+> - **(E)** 2016
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

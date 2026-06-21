@@ -35,15 +35,12 @@ tags:
 > 1
 > 0, 3 vengono messi in ordine crescente, il terzo
 > numero è
-> (A) 0, 3
-> (B) 0, 3
-> (C) (0, 3)2
-> (D)
-> 1
-> 0, 3
-> (E)
-> 1
-> 0, 3.
+>
+> - **(A)** 0, 3
+> - **(B)** 0, 3
+> - **(C)** (0, 3)2
+> - **(D)** 1 0, 3
+> - **(E)** 1 0, 3.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

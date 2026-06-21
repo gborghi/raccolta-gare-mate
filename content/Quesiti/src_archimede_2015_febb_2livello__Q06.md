@@ -34,15 +34,12 @@ tags:
 > B, B′ il simmetrico di B rispetto a A, B′′ il simmetrico di B rispetto a C, C′ il simmetrico di C
 > rispetto a B e C′′ il simmetrico di C rispetto a A. Determinare il rapporto tra l’area di A′B′C′
 > e quella dell’esagono A′A′′C′C′′B′B′′.
-> (A) 6
-> 13
-> (B) 7
-> 13
-> (C) 3
-> 7
-> (D) 1
-> 2
-> (E) Dipende dal triangolo iniziale.
+>
+> - **(A)** 6 13
+> - **(B)** 7 13
+> - **(C)** 3 7
+> - **(D)** 1 2
+> - **(E)** Dipende dal triangolo iniziale.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

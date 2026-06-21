@@ -32,17 +32,12 @@ tags:
 ![[src_archimede_2005_biennio__prob19.png]]
 
 > Nella figura qui a fianco, quanto misura l’angolo α?
-> (A) 70°,
-> (B) 75°,
-> (C) 80°,
-> (D) 90°,
-> (E) non
-> può essere determinato coi soli dati forniti.
-> 20°
-> 60°
-> 50°
-> 10°
-> α
+>
+> - **(A)** 70°,
+> - **(B)** 75°,
+> - **(C)** 80°,
+> - **(D)** 90°,
+> - **(E)** non può essere determinato coi soli dati forniti. 20° 60° 50° 10° α
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

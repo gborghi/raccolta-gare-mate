@@ -34,11 +34,12 @@ tags:
 > Un numero viene prima raddoppiato e poi diminuito di un’unità. Applicando
 > questo procedimento 2000 volte di seguito si perviene al risultato 22001 + 1. Qual
 > è il numero di partenza?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

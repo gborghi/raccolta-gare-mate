@@ -31,11 +31,12 @@ tags:
 > Un faggio vecchio di 100 anni produce 1,7 kg di ossigeno in un'ora. Quanti faggi
 > di questo tipo sono necessari per fornire ossigeno per un'ora a 34 studenti, sapendo
 > che ogni studente consuma in un'ora 0,7 kg di ossigeno?
-> (A) 10
-> (B) 12
-> (C) 14
-> (D) 15
-> (E) 21.
+>
+> - **(A)** 10
+> - **(B)** 12
+> - **(C)** 14
+> - **(D)** 15
+> - **(E)** 21.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

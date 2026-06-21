@@ -31,11 +31,12 @@ tags:
 > Un quadrilatero ABCD ha le diagonali perpendicolari tra loro ed è inscritto in
 > una circonferenza c di diametro AC. L’area e il perimetro del quadrilatero sono
 > rispettivamente 48 cm2 e 28 cm. Quanto misura il raggio della circonferenza c?
-> (A) 4 cm,
-> (B) 5 cm,
-> (C) 6 cm,
-> (D) 7 cm,
-> (E) 8 cm.
+>
+> - **(A)** 4 cm,
+> - **(B)** 5 cm,
+> - **(C)** 6 cm,
+> - **(D)** 7 cm,
+> - **(E)** 8 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

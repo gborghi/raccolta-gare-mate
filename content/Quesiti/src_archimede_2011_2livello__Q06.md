@@ -43,21 +43,12 @@ tags:
 > 3 cm dalla retta (tratteggiata in figura) che passa per le estremità
 > superiori di tutte le sbarre, e che è perpendicolare alle sbarre stesse.
 > Quanto è lunga ciascuna delle barrette utilizzate per costruire gli archi?
-> (A) 8π(
-> √
-> 3 −1) cm
-> (B) 6π
-> √
-> 3 cm
-> (C) 12π(
-> √
-> 3 −1) cm
-> (D) 4π
-> √
-> 3 cm
-> (E) 8π
-> √
-> 3 cm.
+>
+> - **(A)** 8π( √ 3 −1) cm
+> - **(B)** 6π √ 3 cm
+> - **(C)** 12π( √ 3 −1) cm
+> - **(D)** 4π √ 3 cm
+> - **(E)** 8π √ 3 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

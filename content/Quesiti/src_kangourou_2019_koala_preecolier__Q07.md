@@ -30,14 +30,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob7.png]]
 
 > Due mele e una pera costano insieme 6 centesimi. Due pere e una mela costano insieme 8 centesimi. Quanti centesimi costano una mela e una pera insieme?
-> 
+>
 > (vedi figura)
-> 
-> (A) 5
-> (B) 6
-> (C) 7
-> (D) 8
-> (E) 9
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

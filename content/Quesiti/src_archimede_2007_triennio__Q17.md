@@ -30,11 +30,12 @@ tags:
 *Quanti tra 2,3,5,7,11 dividono 371^4-41^4*
 
 > Quanti tra i numeri 2, 3, 5, 7 e 11 dividono 3714 −414?
-> (A) uno,
-> (B) due,
-> (C) tre,
-> (D) quattro,
-> (E) cinque.
+>
+> - **(A)** uno,
+> - **(B)** due,
+> - **(C)** tre,
+> - **(D)** quattro,
+> - **(E)** cinque.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

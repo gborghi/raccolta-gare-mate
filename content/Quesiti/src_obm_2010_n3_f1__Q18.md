@@ -43,12 +43,12 @@ tags:
 *Chocolate bar game; choose Elias's first cut so Fabio ends with the peanut piece.*
 
 > The figure represents a chocolate bar that has a peanut in only one piece. Elias and Fábio are going to share the chocolate, but neither wants the peanut. They decide to divide the chocolate by breaking it along its straight lines, horizontally or vertically, each time breaking off and throwing away one piece and keeping the rest, alternating who breaks; whoever leaves the other with only the piece containing the peanut loses (i.e. the loser is the one left with the peanut). Elias begins the division. What should be Elias's first division to guarantee that Fábio ends up with the peanut at the end?
-> 
-> (A) Choose the first column on the left.
-> (B) Choose the first two rows from the top.
-> (C) Choose the third row, from the top down.
-> (D) Choose the last two rows from the bottom.
-> (E) Any cut, since Fábio will inevitably end up with the peanut.
+>
+> - **(A)** Choose the first column on the left.
+> - **(B)** Choose the first two rows from the top.
+> - **(C)** Choose the third row, from the top down.
+> - **(D)** Choose the last two rows from the bottom.
+> - **(E)** Any cut, since Fábio will inevitably end up with the peanut.
 
 ![[src_obm_2010_n3_f1__Q18.png]]
 

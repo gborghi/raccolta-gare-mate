@@ -33,11 +33,12 @@ tags:
 
 > Quanti sono i numeri di tre cifre, tutte diverse da 0, tali che comunque si permutino
 > le loro cifre il numero che si ottiene è divisibile per quattro?
-> (A) 8
-> (B) 12
-> (C) 16
-> (D) 24
-> (E) 48
+>
+> - **(A)** 8
+> - **(B)** 12
+> - **(C)** 16
+> - **(D)** 24
+> - **(E)** 48
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

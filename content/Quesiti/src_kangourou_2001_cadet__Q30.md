@@ -36,15 +36,12 @@ tags:
 > non può più muovere. Partendo da un mucchietto di 20 sassolini, quanti sassolini
 > deve prendere Andrea alla prima mossa se vuole essere certo della vittoria,
 > sapendo che lui e Nicola giocheranno il meglio possibile?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5.
-> 
-> 1
-> Risposte Categoria Cadet
-> Gara del 15 marzo 2001
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5. 1 Risposte Categoria Cadet Gara del 15 marzo 2001
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

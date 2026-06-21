@@ -29,12 +29,12 @@ tags:
 *Parola letta da Maria lungo il percorso*
 
 > La figura ti mostra lo schema del percorso che Maria compie per andare dal punto 1 al punto 2. Se, camminando, Maria vede solo le lettere che compaiono alla sua destra, quale parola avrà letto quando sarà arrivata? (vedi figura)
-> 
-> (A) KNAO
-> (B) KNGO
-> (C) KNR
-> (D) AGRO
-> (E) KAO
+>
+> - **(A)** KNAO
+> - **(B)** KNGO
+> - **(C)** KNR
+> - **(D)** AGRO
+> - **(E)** KAO
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

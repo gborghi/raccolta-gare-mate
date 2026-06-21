@@ -34,13 +34,12 @@ tags:
 > retta) in modo che B vada a coincidere con il punto medio di DC. Il lato BC viene
 > diviso dalla piegatura in due segmenti di lunghezze a e b, con a ≤b. Quanto vale
 > b/a?
-> (A) 2,
-> (B) 1,
-> (C) 5/3,
-> (D) 25/9,
-> (E)
-> √
-> 5/2.
+>
+> - **(A)** 2,
+> - **(B)** 1,
+> - **(C)** 5/3,
+> - **(D)** 25/9,
+> - **(E)** √ 5/2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

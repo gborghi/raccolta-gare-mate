@@ -34,12 +34,12 @@ tags:
 > velocità media di 100 km/h. A causa di alcuni problemi tecnici impiega 40 minuti
 > per percorrere i primi 25 km. A quale velocità deve percorrere il resto del percorso
 > (andando a velocità costante) per riuscire nel suo intento?
-> (A) Nessuna velocità glielo consente,
-> (B) 50 km/h,
-> (C) 100 km/h,
-> (D) 150
-> km/h,
-> (E) 200 km/h.
+>
+> - **(A)** Nessuna velocità glielo consente,
+> - **(B)** 50 km/h,
+> - **(C)** 100 km/h,
+> - **(D)** 150 km/h,
+> - **(E)** 200 km/h.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]

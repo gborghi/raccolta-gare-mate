@@ -37,11 +37,12 @@ tags:
 > rimanenti; inoltre, se si iscrivessero ancora 10 alunni alla prima, allora gli studenti
 > di prima diventerebbero i 2
 > 5 del totale. Il numero di alunni della scuola è:
-> (A) 500
-> (B) 590
-> (C) 625
-> (D) 700
-> (E) 825.
+>
+> - **(A)** 500
+> - **(B)** 590
+> - **(C)** 625
+> - **(D)** 700
+> - **(E)** 825.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

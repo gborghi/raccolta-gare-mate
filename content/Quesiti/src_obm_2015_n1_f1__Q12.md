@@ -40,12 +40,12 @@ tags:
 *How many of 1-9 can occupy the centre square of an X*
 
 > Julieta made an X with nine small squares forming the figure shown. She wants to write the numbers 1 to 9 in these squares, without repeating them, so that the numbers in each of the four 'arms' of the X have the same sum. How many of the numbers from 1 to 9 can occupy the central square of the X?
-> 
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
 
 ![[src_obm_2015_n1_f1__Q12.png]]
 

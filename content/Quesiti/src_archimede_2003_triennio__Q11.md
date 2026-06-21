@@ -33,38 +33,12 @@ tags:
 > trova in A ed avvista un insetto in B. Per catturarlo, compie una
 > traiettoria di 6 balzi (senza mai passare due volte sulla stessa foglia)
 > che termina in B. Quante traiettorie diverse può aver compiuto?
-> (A) 24
-> (B) 26
-> (C) 28
-> (D) 32
-> (E) nessuna delle precedenti.
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> A
-> B
+>
+> - **(A)** 24
+> - **(B)** 26
+> - **(C)** 28
+> - **(D)** 32
+> - **(E)** nessuna delle precedenti.                          A B
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

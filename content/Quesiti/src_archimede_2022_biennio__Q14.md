@@ -34,26 +34,12 @@ tags:
 > piacere, tracciare le tre altezze AA′, BB′, CC′ e misurarne le rispettive lunghezze.
 > Cinque alunni hanno trovato le misure riportate nelle risposte sottostanti. Chi di
 > loro ha sicuramente sbagliato qualcosa?
-> (A)
-> AA′ = 4 cm
-> BB′ = 6 cm
-> CC′ = 8 cm
-> (B)
-> AA′ = 3 cm
-> BB′ = 4 cm
-> CC′ = 6 cm
-> (C)
-> AA′ = 3 cm
-> BB′ = 4 cm
-> CC′ = 8 cm
-> (D)
-> AA′ = 4 cm
-> BB′ = 6 cm
-> CC′ = 9 cm
-> (E)
-> AA′ = 3 cm
-> BB′ = 6 cm
-> CC′ = 8 cm
+>
+> - **(A)** AA′ = 4 cm BB′ = 6 cm CC′ = 8 cm
+> - **(B)** AA′ = 3 cm BB′ = 4 cm CC′ = 6 cm
+> - **(C)** AA′ = 3 cm BB′ = 4 cm CC′ = 8 cm
+> - **(D)** AA′ = 4 cm BB′ = 6 cm CC′ = 9 cm
+> - **(E)** AA′ = 3 cm BB′ = 6 cm CC′ = 8 cm
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

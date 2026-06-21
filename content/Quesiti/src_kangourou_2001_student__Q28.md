@@ -33,11 +33,12 @@ tags:
 > Sommando numeratore e denominatore, quando essi siano ridotti ai minimi
 > termini, del risultato della seguente espressione
 > si ottiene
-> (A) 2001
-> (B) 3002
-> (C) 4003
-> (D) 5002
-> (E) 6001.
+>
+> - **(A)** 2001
+> - **(B)** 3002
+> - **(C)** 4003
+> - **(D)** 5002
+> - **(E)** 6001.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

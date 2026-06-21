@@ -50,12 +50,12 @@ tags:
 ```
 
 > Quanto è lunga la corda $AB$ sapendo che $AB = 2CD$ e che i raggi dei due cerchi concentrici sono 5 metri e 4 metri? (vedi figura)
-> 
-> (A) $2\sqrt{2}$ m
-> (B) $2\sqrt{3}$ m
-> (C) $3\sqrt{3}$ m
-> (D) $4\sqrt{3}$ m
-> (E) dipende dall'inclinazione della corda
+>
+> - **(A)** $2\sqrt{2}$ m
+> - **(B)** $2\sqrt{3}$ m
+> - **(C)** $3\sqrt{3}$ m
+> - **(D)** $4\sqrt{3}$ m
+> - **(E)** dipende dall'inclinazione della corda
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

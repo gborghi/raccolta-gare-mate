@@ -33,11 +33,12 @@ tags:
 > questa bottiglia con del succo d’arancia, in modo da ottenere una nuova bibita che
 > sia costituita per il 50% da succo d’arancia. Quanti cl della bibita iniziale Enrica
 > deve sostituire con del succo d’arancia?
-> (A) 8,25
-> (B) 10
-> (C) 9, 75
-> (D) 12
-> (E) 11
+>
+> - **(A)** 8,25
+> - **(B)** 10
+> - **(C)** 9, 75
+> - **(D)** 12
+> - **(E)** 11
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

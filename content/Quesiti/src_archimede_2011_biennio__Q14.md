@@ -37,12 +37,12 @@ tags:
 > caselle bianche è 28, mentre la somma dei numeri scritti nelle colonne dispari è 47.
 > Se cambiamo il segno a tutti i numeri che si trovano nelle caselle bianche, quanto
 > diventa la somma dei numeri che si trovano nelle righe dispari?
-> (A) −14,
-> (B) 19,
-> (C) 33,
-> (D) 75,
-> (E) i dati non sono sufficienti a
-> determinarlo.
+>
+> - **(A)** −14,
+> - **(B)** 19,
+> - **(C)** 33,
+> - **(D)** 75,
+> - **(E)** i dati non sono sufficienti a determinarlo.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

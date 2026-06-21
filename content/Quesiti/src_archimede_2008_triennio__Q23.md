@@ -32,11 +32,12 @@ tags:
 > due lati rossi di 36 cm. Carlo colora ogni punto del rettangolo dello stesso colore
 > del lato più vicino al punto stesso. Quale sarà l’area della parte del rettangolo
 > colorata di giallo?
-> (A) 144 cm2,
-> (B) 288 cm2,
-> (C) 364 cm2,
-> (D) 442 cm2,
-> (E) 524 cm2.
+>
+> - **(A)** 144 cm2,
+> - **(B)** 288 cm2,
+> - **(C)** 364 cm2,
+> - **(D)** 442 cm2,
+> - **(E)** 524 cm2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

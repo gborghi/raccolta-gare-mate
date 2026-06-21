@@ -32,11 +32,12 @@ tags:
 
 > Il risultato della divisione di 57 per 111 è un numero della forma 0, . . . con infinite cifre dopo la
 > virgola. Quanto vale la somma delle prime 2022 cifre dopo la virgola?
-> (A) 3033
-> (B) 4044
-> (C) 5055
-> (D) 6066
-> (E) 7077
+>
+> - **(A)** 3033
+> - **(B)** 4044
+> - **(C)** 5055
+> - **(D)** 6066
+> - **(E)** 7077
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

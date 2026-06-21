@@ -56,33 +56,12 @@ tags:
 > ABCDEF è un esagono regolare di lato 1 cm. G è il punto di
 > intersezione tra le diagonali AC e BE. Quanto vale l’area del
 > triangolo ABG?
-> (A)
-> √
-> 3−1
-> 2
-> cm2,
-> (B)
-> √
-> 3
-> 8 cm2,
-> (C)
-> 9
-> 40 cm2,
-> (D) 1+
-> √
-> 3
-> 12
-> cm2,
-> (E)
-> √
-> 3
-> 4 cm2.
-> A
-> B
-> C
-> D
-> E
-> F
+>
+> - **(A)** √ 3−1 2 cm2,
+> - **(B)** √ 3 8 cm2,
+> - **(C)** 9 40 cm2,
+> - **(D)** 1+ √ 3 12 cm2,
+> - **(E)** √ 3 4 cm2. A B C D E F
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

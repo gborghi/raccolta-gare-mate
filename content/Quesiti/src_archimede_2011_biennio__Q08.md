@@ -36,11 +36,12 @@ tags:
 > che ciascun numero della successione, dal terzo in poi, sia la somma dei due che
 > lo precedono. Il primo numero della successione è 34 mentre l’ultimo è 0. Quanto
 > vale la somma di tutti i numeri della successione?
-> (A) −34,
-> (B) 0,
-> (C) 22,
-> (D) 68,
-> (E) 88.
+>
+> - **(A)** −34,
+> - **(B)** 0,
+> - **(C)** 22,
+> - **(D)** 68,
+> - **(E)** 88.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

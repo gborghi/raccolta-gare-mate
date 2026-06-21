@@ -35,11 +35,12 @@ tags:
 > dei suoi 4 pennarelli colorati (rosso, giallo, verde e blu). Farà in modo che i multipli
 > di 4, incluso 0, siano tutti segnati di blu e che non ci siano tacche vicine dello stesso
 > colore. In quanti diversi modi Gabriele potrà realizzare la colorazione?
-> (A) 27 · 21505
-> (B) 27 · 25505
-> (C) 27 · 16505
-> (D) 27 · 18505
-> (E) 27 · 36505
+>
+> - **(A)** 27 · 21505
+> - **(B)** 27 · 25505
+> - **(C)** 27 · 16505
+> - **(D)** 27 · 18505
+> - **(E)** 27 · 36505
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

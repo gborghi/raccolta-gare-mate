@@ -31,17 +31,12 @@ tags:
 > Sia ABC un triangolo acutangolo e sia D il piede della bisettrice uscente da A. Sia ω la circonferenza per A tangente a BC in D, e siano E, F le intersezioni di ω con AB, AC rispettivamente.
 > Le tangenti a ω in E e F si intersecano in P. Sapendo che PE = 3 e che il raggio di ω è 4,
 > quanto misura il segmento PD?
-> (A) 3
-> 4
-> (B) 1
-> (C) 1+
-> √
-> 2
-> 2
-> (D)
-> √
-> 2
-> (E) I dati non sono sufficienti per determinarlo
+>
+> - **(A)** 3 4
+> - **(B)** 1
+> - **(C)** 1+ √ 2 2
+> - **(D)** √ 2
+> - **(E)** I dati non sono sufficienti per determinarlo
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

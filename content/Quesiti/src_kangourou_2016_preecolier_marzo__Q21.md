@@ -31,12 +31,12 @@ tags:
 *Fiore su cui non si posa alcuna coccinella*
 
 > In figura vedi quattro coccinelle: per ognuna il numero di puntini sull'ala destra è diverso da quello sull'ala sinistra. Ognuna di esse si poserà su un fiore che ha tante foglie quante la differenza fra i numeri di puntini sulle sue ali e ha tanti petali quanti la somma di questi due numeri. Su quale dei fiori che vedi in figura non si poserà alcuna coccinella? (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

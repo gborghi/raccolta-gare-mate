@@ -35,25 +35,12 @@ tags:
 
 > In un triangolo due angoli misurano rispettivamente 30°e 105°ed il lato tra essi
 > compreso è lungo 2 cm. Qual è la misura del perimetro del triangolo?
-> (A) (5 +
-> √
-> 3) cm,
-> (B) (2 + 2
-> √
-> 3 +
-> √
-> 2) cm,
-> (C) (3 +
-> √
-> 3 +
-> √
-> 2) cm,
-> (D) (5 +
-> √
-> 2) cm,
-> (E) (2 + 3
-> √
-> 3) cm.
+>
+> - **(A)** (5 + √ 3) cm,
+> - **(B)** (2 + 2 √ 3 + √ 2) cm,
+> - **(C)** (3 + √ 3 + √ 2) cm,
+> - **(D)** (5 + √ 2) cm,
+> - **(E)** (2 + 3 √ 3) cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

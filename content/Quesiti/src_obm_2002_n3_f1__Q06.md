@@ -36,11 +36,12 @@ tags:
 *Alice undergoes four successive percentage height changes; find net effect*
 
 > During her trip to the land of the Marvels, Alice underwent four successive changes in height, in the following way: first she took a sip from a bottle on which there was a sticker with the message "drink me, I am 50% lower", then she took a sip from another bottle whose label was stamped with the message "drink me a sip 50% taller". Finally, she ate a piece of one tart on which it was written "eat me, piece of tart 20% taller", and a piece of yet another tart whose label said "taste me, piece of tart 20% lower". After Alice's trip, we can state that she:
-> (A) ended up 1% lower
-> (B) ended up 1% taller
-> (C) ended up 5% lower
-> (D) ended up 5% taller
-> (E) ended up 10% lower
+>
+> - **(A)** ended up 1% lower
+> - **(B)** ended up 1% taller
+> - **(C)** ended up 5% lower
+> - **(D)** ended up 5% taller
+> - **(E)** ended up 10% lower
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

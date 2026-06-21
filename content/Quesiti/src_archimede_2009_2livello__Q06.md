@@ -32,11 +32,12 @@ tags:
 > recanti numeri non multipli di 3 e una recante un multiplo di 3, la probabilità di ottenere un
 > multiplo di 3 estraendo una singola pallina risulta minore di quanto era con l’urna completa. Cosa
 > si può dedurre riguardo a N?
-> (A) N è certamente multiplo di 3
-> (B) N non è multiplo di 3
-> (C) N è certamente dispari
-> (D) N è certamente pari
-> (E) nessuna delle affermazioni precedenti può essere dedotta.
+>
+> - **(A)** N è certamente multiplo di 3
+> - **(B)** N non è multiplo di 3
+> - **(C)** N è certamente dispari
+> - **(D)** N è certamente pari
+> - **(E)** nessuna delle affermazioni precedenti può essere dedotta.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

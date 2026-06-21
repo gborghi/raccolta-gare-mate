@@ -33,11 +33,12 @@ tags:
 > Anna, Bianca, Carla e Diana sono quattro donne di età (in anni) diverse. Le loro età sono
 > numeri primi la cui somma è 240. Sapendo che nessuna di loro ha più di 70 anni, qual è l’età
 > della più giovane?
-> (A) 47
-> (B) 53
-> (C) 57
-> (D) 61
-> (E) 67
+>
+> - **(A)** 47
+> - **(B)** 53
+> - **(C)** 57
+> - **(D)** 61
+> - **(E)** 67
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

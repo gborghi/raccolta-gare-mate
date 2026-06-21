@@ -38,11 +38,12 @@ tags:
 > in cui sono state pronunciate. Il giorno dopo interrogo allo stesso modo tutti gli abitanti (non
 > necessariamente nello stesso ordine), ed ottengo una lista delle risposte identica a quella del giorno
 > precedente. Sapendo che c’è un solo cavaliere sull’isola, quanti paggi ci sono?
-> (A) Nessuno
-> (B) 670
-> (C) 1004
-> (D) 1338
-> (E) 1339.
+>
+> - **(A)** Nessuno
+> - **(B)** 670
+> - **(C)** 1004
+> - **(D)** 1338
+> - **(E)** 1339.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

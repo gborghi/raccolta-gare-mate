@@ -82,11 +82,12 @@ tags:
 > 29
 > 47
 > 38
-> (A) 78
-> (B) 63
-> (C) 72
-> (D) 114
-> (E) 67
+>
+> - **(A)** 78
+> - **(B)** 63
+> - **(C)** 72
+> - **(D)** 114
+> - **(E)** 67
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

@@ -42,12 +42,12 @@ tags:
 *Sum of products p(A) over all subsets A of {1,...,10}.*
 
 > For each subset $A$ of $\{1,2,3,4,5,6,7,8,9,10\}$, let $p(A)$ be the product of its elements. For example, $p(\{1,2,4,5\})=40$ and $p(A)=10!=1\cdot 2\cdot 3\cdots 10$ (when $A$ is the whole set). By convention, $p(\varnothing)=1$. The sum of all $2^{10}$ products $p(A)$ is equal to
-> 
-> (A) $2^{11}$
-> (B) $11!$
-> (C) $11^{11}$
-> (D) $2^{11}!$
-> (E) $11^{11!}$
+>
+> - **(A)** $2^{11}$
+> - **(B)** $11!$
+> - **(C)** $11^{11}$
+> - **(D)** $2^{11}!$
+> - **(E)** $11^{11!}$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

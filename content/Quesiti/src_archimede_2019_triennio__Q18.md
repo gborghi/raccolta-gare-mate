@@ -38,25 +38,12 @@ tags:
 > e due semicerchi costruiti su lati consecutivi. La figura è inscrivibile in un rettangolo con i lati paralleli alle diagonali del
 > quadrato, come qui a fianco. Sapendo che il quadrato ha lato
 > 1 cm, quanti cm2 misura l’area del rettangolo?
-> (A) 3
-> √
-> 2 −2
-> (B) 3+
-> √
-> 2
-> 2
-> (C) 7
-> 8(1 +
-> √
-> 2)
-> (D) 3+2
-> √
-> 2
-> 4
-> (E) 5
-> 4 +
-> √
-> 2
+>
+> - **(A)** 3 √ 2 −2
+> - **(B)** 3+ √ 2 2
+> - **(C)** 7 8(1 + √ 2)
+> - **(D)** 3+2 √ 2 4
+> - **(E)** 5 4 + √ 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -33,11 +33,12 @@ tags:
 > L’intero n > 0 in base dieci si scrive solo con le cifre 3 e 5 ed ha un numero dispari
 > di cifre. Inoltre è divisibile per 11. Qual è il minimo numero di cifre che può avere
 > n?
-> (A) 5
-> (B) 7
-> (C) 11
-> (D) 15
-> (E) non esiste un tale n.
+>
+> - **(A)** 5
+> - **(B)** 7
+> - **(C)** 11
+> - **(D)** 15
+> - **(E)** non esiste un tale n.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

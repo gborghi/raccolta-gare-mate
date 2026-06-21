@@ -36,16 +36,12 @@ tags:
 > questo modo, il quadrilatero viene suddiviso in quattro regioni.
 > Nella figura sono indicate le aree di tre di queste regioni. Qual
 > è l’area della quarta?
-> (A) 32
-> (B) 30
-> (C) 27
-> (D) 31
-> (E) 29
-> 24
-> 33
-> ?
-> 22
-> P
+>
+> - **(A)** 32
+> - **(B)** 30
+> - **(C)** 27
+> - **(D)** 31
+> - **(E)** 29 24 33 ? 22 P
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

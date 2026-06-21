@@ -33,11 +33,12 @@ tags:
 > Si considerino tutti i numeri di 8 cifre formati utilizzando una e una sola volta
 > ognuna delle cifre 1, 2, 3, 4, 6, 7, 8, 9. Supponendo di farne il prodotto, qual è la
 > cifra delle unità di quest’ultimo?
-> (A) 0
-> (B) 1
-> (C) 4
-> (D) 6
-> (E) 8.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 8.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

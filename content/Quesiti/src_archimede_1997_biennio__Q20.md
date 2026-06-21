@@ -34,18 +34,12 @@ tags:
 > presenti. I sorteggi sono indipendenti, ossia tutti i ragazzi partecipano a tutti i
 > sorteggi. Qual è la probabilità p che vi sia almeno un ragazzo che resta privo di
 > giocattoli?
-> (A) p = 4
-> 9
-> (B) 4
-> 9 < p < 1
-> 2
-> (C) p = 1
-> 2
-> (D) 1
-> 2 < p < 5
-> 9
-> (E) p = 5
-> 9.
+>
+> - **(A)** p = 4 9
+> - **(B)** 4 9 < p < 1 2
+> - **(C)** p = 1 2
+> - **(D)** 1 2 < p < 5 9
+> - **(E)** p = 5 9.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

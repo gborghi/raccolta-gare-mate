@@ -36,19 +36,12 @@ tags:
 > b ≤c
 > d ≤1. Quale delle
 > seguenti disuguaglianze è certamente vera?
-> (A) a + c
-> b + d ≥a
-> b + c
-> d
-> (B) a + c
-> b + d < a
-> b
-> (C) a + c
-> b + d ≤c
-> d
-> (D) a + c
-> b + d > 1
-> (E) nessuna delle precedenti
+>
+> - **(A)** a + c b + d ≥a b + c d
+> - **(B)** a + c b + d < a b
+> - **(C)** a + c b + d ≤c d
+> - **(D)** a + c b + d > 1
+> - **(E)** nessuna delle precedenti
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

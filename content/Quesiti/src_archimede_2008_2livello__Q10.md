@@ -40,12 +40,12 @@ tags:
 > + 1
 > x4
 > ?
-> (A) 1
-> (B) 1
-> 2
-> (C) 2
-> (D) 4
-> (E) 7.
+>
+> - **(A)** 1
+> - **(B)** 1 2
+> - **(C)** 2
+> - **(D)** 4
+> - **(E)** 7.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

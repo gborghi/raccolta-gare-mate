@@ -33,12 +33,12 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob21.png]]
 
 > In un cestino ci sono alcune mele e $8$ pere. Ogni frutto è o giallo o verde. Il numero delle mele supera di $3$ il numero totale di frutti verdi. Ci sono $6$ pere gialle. Quante mele gialle ci sono nel cestino?
-> 
-> (A) $4$
-> (B) $5$
-> (C) $6$
-> (D) $7$
-> (E) $8$
+>
+> - **(A)** $4$
+> - **(B)** $5$
+> - **(C)** $6$
+> - **(D)** $7$
+> - **(E)** $8$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

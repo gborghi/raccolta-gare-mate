@@ -32,11 +32,12 @@ tags:
 
 > Tre paia di calzini, uno rosso, uno blu e uno verde, sono stesi in fila. Sapendo che due calzini
 > dello stesso colore non sono vicini uno all’altro, quante successioni di colori si possono avere?
-> (A) 15
-> (B) 24
-> (C) 30
-> (D) 36
-> (E) Nessuna delle precedenti
+>
+> - **(A)** 15
+> - **(B)** 24
+> - **(C)** 30
+> - **(D)** 36
+> - **(E)** Nessuna delle precedenti
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

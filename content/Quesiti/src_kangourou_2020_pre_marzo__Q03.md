@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob3.png]]
 
 > Bianca ha composto il puzzle del canguro in modo errato. Quale dei seguenti è il modo corretto di accostare i pezzi del puzzle?
-> 
+>
 > (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

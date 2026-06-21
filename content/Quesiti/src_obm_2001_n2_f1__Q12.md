@@ -40,12 +40,12 @@ tags:
 *Which statement is true for a 6-row 9-column board with 32 occupied cells*
 
 > On a rectangular board with $6$ rows and $9$ columns, $32$ cells are occupied. We can state that:
-> 
-> (A) All the columns have at least $3$ occupied cells.
-> (B) No column has more than $3$ occupied cells.
-> (C) Some column has no occupied cell.
-> (D) Some row has at least $6$ occupied cells.
-> (E) All the rows have $5$ occupied cells.
+>
+> - **(A)** All the columns have at least $3$ occupied cells.
+> - **(B)** No column has more than $3$ occupied cells.
+> - **(C)** Some column has no occupied cell.
+> - **(D)** Some row has at least $6$ occupied cells.
+> - **(E)** All the rows have $5$ occupied cells.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

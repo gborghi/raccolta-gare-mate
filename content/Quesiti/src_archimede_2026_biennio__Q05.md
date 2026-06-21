@@ -32,11 +32,12 @@ tags:
 
 > Nel triangolo ABC, gli angoli bA e bB sono uguali, mentre bC è il quadruplo di bA.
 > Sapendo che l’altezza uscente da C è di 24 cm, quanti cm misura il lato BC?
-> (A) 36
-> (B) 40
-> (C) 48
-> (D) 45
-> (E) 60
+>
+> - **(A)** 36
+> - **(B)** 40
+> - **(C)** 48
+> - **(D)** 45
+> - **(E)** 60
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

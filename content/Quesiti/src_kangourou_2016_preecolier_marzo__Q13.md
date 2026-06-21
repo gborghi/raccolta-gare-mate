@@ -29,12 +29,12 @@ tags:
 *Coppie con differenza minore di 15 tra 7,13,20,30*
 
 > Angela vuole scegliere due fra i numeri 7, 13, 20 e 30 in modo che la differenza fra il più grande e il più piccolo di quelli che ha scelto sia più piccola di 15. Quante diverse coppie di numeri può scegliere?
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

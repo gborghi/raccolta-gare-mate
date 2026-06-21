@@ -33,11 +33,12 @@ tags:
 > Emanuela scrive delle parole usando solo le lettere A e B, rispettando queste condizioni: ciascuna parola non può
 > contenere nessuna delle sequenze di tre lettere consecutive AAA, BBB, ABA, BBA. Quante sono le parole di lunghezza
 > infinita (ossia che proseguono illimitatamente verso destra) che Emanuela potrebbe scrivere?
-> (A) nessuna
-> (B) 4
-> (C) 2
-> (D) 3
-> (E) infinite
+>
+> - **(A)** nessuna
+> - **(B)** 4
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** infinite
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

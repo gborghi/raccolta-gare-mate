@@ -39,11 +39,12 @@ tags:
 > α
 > β
 > γ
-> (A) 7/6
-> (B) 1
-> (C) 5/4
-> (D) 9/8
-> (E) 10/9
+>
+> - **(A)** 7/6
+> - **(B)** 1
+> - **(C)** 5/4
+> - **(D)** 9/8
+> - **(E)** 10/9
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

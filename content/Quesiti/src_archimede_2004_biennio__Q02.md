@@ -30,12 +30,12 @@ tags:
 *classificazione enunciati*
 
 > Luigi ha 4 anni più di Silvio che, a sua volta, ha 3 anni più di Carlo. Se complessivamente hanno 34 anni, quanti anni ha il più grande?
-> 
-> (A) 12
-> (B) 15
-> (C) 17
-> (D) 18
-> (E) 20
+>
+> - **(A)** 12
+> - **(B)** 15
+> - **(C)** 17
+> - **(D)** 18
+> - **(E)** 20
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

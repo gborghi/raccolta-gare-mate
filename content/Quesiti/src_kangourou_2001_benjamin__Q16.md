@@ -31,11 +31,12 @@ tags:
 > La lunghezza di un campo rettangolare è di 80 m e l'area è di 3 200 m². Trova la
 > lunghezza di un altro campo rettangolare la cui area e la cui larghezza sono
 > entrambe la metà delle corrispondenti del primo campo.
-> (A) 20 m
-> (B) 40 m
-> (C) 60 m
-> (D) 80 m
-> (E) 100 m.
+>
+> - **(A)** 20 m
+> - **(B)** 40 m
+> - **(C)** 60 m
+> - **(D)** 80 m
+> - **(E)** 100 m.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

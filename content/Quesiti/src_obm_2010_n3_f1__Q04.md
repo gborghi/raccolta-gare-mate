@@ -39,12 +39,12 @@ tags:
 *Ana descends and Beatriz climbs a staircase; find remaining fractions on crossing/finishing.*
 
 > Ana started to descend a staircase one instant after Beatriz started to climb it. Beatriz had climbed $\frac{3}{4}$ of the staircase when she crossed Ana. At that moment, what fraction did Ana still have to descend? Knowing that Ana's speed is double Beatriz's speed, what fraction of the staircase will Ana still have to descend when Beatriz finishes?
-> 
-> (A) $\frac{1}{4}$
-> (B) $\frac{1}{3}$
-> (C) $\frac{1}{12}$
-> (D) $\frac{5}{12}$
-> (E) $\frac{2}{3}$
+>
+> - **(A)** $\frac{1}{4}$
+> - **(B)** $\frac{1}{3}$
+> - **(C)** $\frac{1}{12}$
+> - **(D)** $\frac{5}{12}$
+> - **(E)** $\frac{2}{3}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

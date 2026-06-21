@@ -28,11 +28,12 @@ tags:
 
 > Sapendo che f è una funzione dispari, cioè tale che f(x) = −f(−x) per ogni x,
 > quale delle seguenti è sicuramente una funzione dispari?
-> (A) f(x)−1
-> (B) (f(x))2
-> (C) (f(x))2+f(x)
-> (D) (f(x))3+1
-> (E) (f(x))3+f(x)
+>
+> - **(A)** f(x)−1
+> - **(B)** (f(x))2
+> - **(C)** (f(x))2+f(x)
+> - **(D)** (f(x))3+1
+> - **(E)** (f(x))3+f(x)
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Area:** [[Algebra e Analisi]]

@@ -39,12 +39,12 @@ tags:
 *Minimum colours to paint faces of a pentagonal prism*
 
 > A block of wood has pentagonal and rectangular faces. Two faces are neighbours when they have a common border, that is, a side, as with the two faces highlighted in the figure. Wagner is going to paint the faces of this block, so that any two neighbouring faces have different colours, using one colour for each. What is the smallest possible number of colours?
-> 
-> (A) 3
-> (B) 4
-> (C) 5
-> (D) 6
-> (E) 7
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
 
 ![[src_obm_2015_n1_f1__Q09.png]]
 

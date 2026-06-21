@@ -33,14 +33,12 @@ tags:
 *Numeri di 2 cifre con una pari e una dispari*
 
 > In figura vedi un triangolo grande ripartito in 9 triangoli piccoli. Immagina che ogni triangolo piccolo rappresenti una stanza e che le sbarrette sui suoi lati rappresentino altrettante porte che permettono di passare da una stanza a quelle adiacenti. Partendo dalla stanza in alto, quante stanze puoi visitare al massimo passando una sola volta da ogni stanza che visiti?
-> 
-> (A) 3
-> (B) 4
-> (C) 5
-> (D) 6
-> (E) 7
-> 
-> (vedi figura)
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7 (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -37,14 +37,14 @@ tags:
 *Bar chart of company revenues; identify the true statement*
 
 > The bar chart below shows the monthly revenue (in millions of reais) of companies $A$ and $B$ during the second semester of $2001$.
-> 
+>
 > Based on this chart, we can affirm that:
-> 
-> (A) There was a month in which company $A$'s revenue was twice that of company $B$.
-> (B) In the month of July, the difference in revenues was greater than in all other months.
-> (C) Company $B$ had a greater drop in revenue than company $A$ in two consecutive months.
-> (D) In the semester, the total revenue of $A$ was greater than that of $B$.
-> (E) The difference between the total semester revenues did not exceed $20$ million reais.
+>
+> - **(A)** There was a month in which company $A$'s revenue was twice that of company $B$.
+> - **(B)** In the month of July, the difference in revenues was greater than in all other months.
+> - **(C)** Company $B$ had a greater drop in revenue than company $A$ in two consecutive months.
+> - **(D)** In the semester, the total revenue of $A$ was greater than that of $B$.
+> - **(E)** The difference between the total semester revenues did not exceed $20$ million reais.
 
 ![[src_obm_2002_n2_f1__Q11.png]]
 

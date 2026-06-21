@@ -31,11 +31,12 @@ tags:
 *Numero soluzioni reali distinte del polinomio di grado 6*
 
 > Quante sono le soluzioni reali distinte dell’equazione x6 + 2x5 + 2x4 + 2x3 + 2x2 + 2x + 1 = 0 ?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 4
-> (E) 6.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 4
+> - **(E)** 6.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

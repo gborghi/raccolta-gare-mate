@@ -33,11 +33,12 @@ tags:
 > Una gara di matematica consta di 90 domande a risposta multipla. Camilla ha risposto a tutte
 > le domande: quale dei seguenti non può essere il punteggio totalizzato da Camilla, sapendo che
 > una risposta corretta vale 5 punti e una risposta sbagliata vale −1 punto?
-> (A) −78
-> (B) 116
-> (C) 204
-> (D) 318
-> (E) 402
+>
+> - **(A)** −78
+> - **(B)** 116
+> - **(C)** 204
+> - **(D)** 318
+> - **(E)** 402
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

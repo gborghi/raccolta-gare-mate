@@ -39,11 +39,12 @@ tags:
 > dal numero di vittorie, pareggi e sconfitte rispettivamente, ottenuti nel campionato.
 > Per quante terne distinte può accadere che v = n + p? (Attenzione: le terne sono
 > ordinate, quindi, ad esempio, (19, 12, 7) e (19, 7, 12) sono da considerarsi distinte).
-> (A) 19,
-> (B) 20,
-> (C) 38,
-> (D) 40,
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 19,
+> - **(B)** 20,
+> - **(C)** 38,
+> - **(D)** 40,
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

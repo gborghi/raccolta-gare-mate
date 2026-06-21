@@ -37,15 +37,12 @@ tags:
 > è possibile scrivere un numero in ogni cella vuota della griglia in
 > modo che la somma dei tre numeri che si trovano su qualunque
 > riga, colonna o diagonale, sia sempre la stessa. Allora x vale:
-> (A) 0,
-> (B) 1,
-> (C) 3,
-> (D) 6,
-> (E) 9.
-> 6
-> x
-> 4
-> 5
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 3,
+> - **(D)** 6,
+> - **(E)** 9. 6 x 4 5
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

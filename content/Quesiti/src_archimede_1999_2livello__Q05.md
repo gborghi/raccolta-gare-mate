@@ -29,12 +29,12 @@ tags:
 *Identificare il parente nella relazione familiare di Alberto*
 
 > Una delle seguenti persone è "zio del fratello della figlia della nuora del padre di Alberto". Si tratta di:
-> 
-> (A) Alberto stesso
-> (B) suo padre
-> (C) suo nonno
-> (D) suo figlio
-> (E) suo suocero.
+>
+> - **(A)** Alberto stesso
+> - **(B)** suo padre
+> - **(C)** suo nonno
+> - **(D)** suo figlio
+> - **(E)** suo suocero.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

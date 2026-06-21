@@ -34,16 +34,12 @@ tags:
 
 > I numeri 1, 2, 3 e 4 vengono estratti da un’urna in un ordine qualsiasi. Qual è la
 > probabilità che i primi 3 numeri estratti siano in ordine crescente?
-> (A) 1
-> 3
-> (B) 1
-> 4
-> (C) 1
-> 6
-> (D) 1
-> 8
-> (E) 1
-> 12.
+>
+> - **(A)** 1 3
+> - **(B)** 1 4
+> - **(C)** 1 6
+> - **(D)** 1 8
+> - **(E)** 1 12.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

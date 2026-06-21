@@ -30,11 +30,12 @@ tags:
 
 > Alle 12 : 00 : 00 le lancette delle ore e dei minuti di un orologio sono sovrapposte.
 > Dopo quanti minuti, per la prima volta, esse saranno allineate ed opposte?
-> (A) circa 30
-> (B) circa 98
-> (C) circa 100
-> (D) circa 33
-> (E) circa 34
+>
+> - **(A)** circa 30
+> - **(B)** circa 98
+> - **(C)** circa 100
+> - **(D)** circa 33
+> - **(E)** circa 34
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

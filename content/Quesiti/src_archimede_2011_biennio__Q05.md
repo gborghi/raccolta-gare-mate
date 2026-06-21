@@ -38,11 +38,12 @@ tags:
 > dei primi, e ci saranno 68 modi di scegliere un pasto. Quanti primi c’erano, come
 > minimo, lo scorso anno? [Nello scegliere un pasto è possibile abbinare qualsiasi
 > primo a qualsiasi secondo.]
-> (A) 4,
-> (B) 8,
-> (C) 10,
-> (D) 12,
-> (E) 15.
+>
+> - **(A)** 4,
+> - **(B)** 8,
+> - **(C)** 10,
+> - **(D)** 12,
+> - **(E)** 15.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

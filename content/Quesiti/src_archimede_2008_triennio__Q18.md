@@ -33,11 +33,12 @@ tags:
 *Somma di tutti i numeri di due cifre distinte*
 
 > La somma di tutti i numeri naturali formati da due cifre distinte è:
-> (A) 3840,
-> (B) 3960,
-> (C) 4140,
-> (D) 4260,
-> (E) 4410.
+>
+> - **(A)** 3840,
+> - **(B)** 3960,
+> - **(C)** 4140,
+> - **(D)** 4260,
+> - **(E)** 4410.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

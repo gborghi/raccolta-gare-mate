@@ -34,14 +34,12 @@ tags:
 > “contemporaneo” se, tagliandolo in 2020 parti uguali ottenute con tagli paralleli al suo lato più
 > corto, si ottengono 2020 rettangoli che hanno la stessa forma di quello iniziale. Se il lato corto
 > di un foglio contemporaneo misura 1, quanto è lungo l’altro lato?
-> (A)
-> √
-> 2020
-> (B) 20203/2
-> (C) 2021
-> 2
-> (D) 2020
-> (E) Nessuna delle precedenti
+>
+> - **(A)** √ 2020
+> - **(B)** 20203/2
+> - **(C)** 2021 2
+> - **(D)** 2020
+> - **(E)** Nessuna delle precedenti
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

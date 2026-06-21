@@ -32,11 +32,12 @@ tags:
 > relativa all’anno in corso. Se la dichiarazione è vera, deve pagare le tasse; se è falsa,
 > non le paga. Un giovane matematico, che ritiene il sistema iniquo, trova il modo
 > di bloccarlo, con una delle seguenti dichiarazioni: quale?
-> (A) “I pesci vivono in acqua”
-> (B) “Io vivo in acqua”
-> (C) “I pesci non pagano le tasse”
-> (D) “Io non pago le tasse”
-> (E) “Io pago le tasse”.
+>
+> - **(A)** “I pesci vivono in acqua”
+> - **(B)** “Io vivo in acqua”
+> - **(C)** “I pesci non pagano le tasse”
+> - **(D)** “Io non pago le tasse”
+> - **(E)** “Io pago le tasse”.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

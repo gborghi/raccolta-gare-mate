@@ -40,11 +40,12 @@ tags:
 > √
 > 2. Quanto
 > vale m + n?
-> (A) 3,
-> (B) 4,
-> (C) 5,
-> (D) 6,
-> (E) 7.
+>
+> - **(A)** 3,
+> - **(B)** 4,
+> - **(C)** 5,
+> - **(D)** 6,
+> - **(E)** 7.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -34,11 +34,12 @@ tags:
 > si volta ancora e, con salti di 5 mattonelle arriva di nuovo all’ultima mattonella; si
 > volta di nuovo e, con salti di 6 mattonelle torna di nuovo alla prima. Quale tra i
 > seguenti potrebbe essere il numero di mattonelle della fila?
-> (A) 391
-> (B) 271
-> (C) 301
-> (D) 270
-> (E) 360
+>
+> - **(A)** 391
+> - **(B)** 271
+> - **(C)** 301
+> - **(D)** 270
+> - **(E)** 360
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

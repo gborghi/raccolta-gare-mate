@@ -57,16 +57,12 @@ tags:
 > minore CD. Indicato con E il punto medio della diagonale
 > BD, qual è il rapporto fra l’area del triangolo CDE e l’area
 > del trapezio?
-> (A) 1/3
-> (B) 1/6
-> (C) 1/8
-> (D) 1/12
-> (E) non può essere determinata dai dati forniti
-> C
-> E
-> B
-> A
-> D
+>
+> - **(A)** 1/3
+> - **(B)** 1/6
+> - **(C)** 1/8
+> - **(D)** 1/12
+> - **(E)** non può essere determinata dai dati forniti C E B A D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

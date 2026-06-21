@@ -37,12 +37,12 @@ tags:
 > NLP = \
 > LMP.
 > Quale tra le seguenti affermazioni è falsa?
-> (A) LN > LP
-> (B) MN · LP > LM · LN
-> (C) LP ≤MN
-> 2
-> (D) LM < MN
-> (E) MP · NP = LP 2
+>
+> - **(A)** LN > LP
+> - **(B)** MN · LP > LM · LN
+> - **(C)** LP ≤MN 2
+> - **(D)** LM < MN
+> - **(E)** MP · NP = LP 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -33,11 +33,12 @@ tags:
 > Il cane galoppa con falcate di 2 m, mentre la lepre fugge
 > compiendo falcate di 1 m. Ogni 2 falcate del cane, la lepre ne compie 3. Dove il
 > cane raggiungerà la lepre?
-> (A) A 30 m dal punto A
-> (B) a 60 m dal punto A
-> (C) a 120 m dal punto A
-> (D) a 600 m dal punto A
-> (E) il cane non raggiungerà mai la lepre.
+>
+> - **(A)** A 30 m dal punto A
+> - **(B)** a 60 m dal punto A
+> - **(C)** a 120 m dal punto A
+> - **(D)** a 600 m dal punto A
+> - **(E)** il cane non raggiungerà mai la lepre.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

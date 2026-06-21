@@ -31,11 +31,12 @@ tags:
 > La media aritmetica di 11 numeri è 4850.
 > Se ciascuno degli 11 numeri viene
 > diminuito di 10 la loro media diventa:
-> (A) 4740
-> (B) 4840
-> (C) 4830
-> (D) 4850
-> (E) i dati del problema non sono sufficienti a determinarla
+>
+> - **(A)** 4740
+> - **(B)** 4840
+> - **(C)** 4830
+> - **(D)** 4850
+> - **(E)** i dati del problema non sono sufficienti a determinarla
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

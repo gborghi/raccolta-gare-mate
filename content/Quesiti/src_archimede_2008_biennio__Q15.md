@@ -40,15 +40,12 @@ tags:
 > case è possibile partire per fare un percorso che passi una e una sola
 > volta da ogni strada (passando eventualmente più di una volta per
 > una stessa casa)?
-> (A) 0,
-> (B) 1,
-> (C) 2,
-> (D) 3,
-> (E) 4.
-> A
-> C
-> B
-> D
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4. A C B D
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

@@ -40,12 +40,12 @@ tags:
 *Find value of a purchase given a change error*
 
 > Joana went to a store, chose a product and gave the cashier a single banknote, telling the cashier no change was owed. She then realised the note was either a 50-real note or a 20-real note. The cashier gave back 27 reais. Joana correctly claimed she had been given 9 reais less change than she should have. What was the value of the purchase?
-> 
-> (A) 52
-> (B) 53
-> (C) 57
-> (D) 63
-> (E) 64
+>
+> - **(A)** 52
+> - **(B)** 53
+> - **(C)** 57
+> - **(D)** 63
+> - **(E)** 64
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]

@@ -37,11 +37,12 @@ tags:
 > p
 > 9 + √4 + x
 > quanto vale x?
-> (A) 36
-> (B) 46
-> (C) 56
-> (D) 68
-> (E) 5180.
+>
+> - **(A)** 36
+> - **(B)** 46
+> - **(C)** 56
+> - **(D)** 68
+> - **(E)** 5180.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

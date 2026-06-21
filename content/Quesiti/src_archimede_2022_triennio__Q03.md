@@ -33,11 +33,12 @@ tags:
 > Gabriele nota che il numero 2022 si scrive con 3 cifre uguali e una quarta cifra
 > differente dalle altre 3. Quanti sono in tutto i numeri naturali di 4 cifre che si
 > scrivono con 3 cifre uguali e una quarta cifra differente dalle altre 3?
-> (A) 324
-> (B) 315
-> (C) 243
-> (D) 216
-> (E) 288
+>
+> - **(A)** 324
+> - **(B)** 315
+> - **(C)** 243
+> - **(D)** 216
+> - **(E)** 288
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

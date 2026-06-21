@@ -31,11 +31,12 @@ tags:
 > Carlo, con molta pazienza, sta scrivendo per esteso il numero
 > 100200 + 738.
 > Quante cifre dovrà scrivere in tutto?
-> (A) 2000
-> (B) 438
-> (C) 401
-> (D) 238
-> (E) 2038
+>
+> - **(A)** 2000
+> - **(B)** 438
+> - **(C)** 401
+> - **(D)** 238
+> - **(E)** 2038
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

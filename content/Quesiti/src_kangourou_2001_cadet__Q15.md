@@ -35,11 +35,12 @@ tags:
 > minuto prima della mezzanotte successiva (23:59) l'orologio digitale mostra lo
 > stesso orario sia leggendo da sinistra a destra sia viceversa (per esempio, alle
 > 15:51)?
-> (A) 10
-> (B) 13
-> (C) 15
-> (D) 18
-> (E) 24.
+>
+> - **(A)** 10
+> - **(B)** 13
+> - **(C)** 15
+> - **(D)** 18
+> - **(E)** 24.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

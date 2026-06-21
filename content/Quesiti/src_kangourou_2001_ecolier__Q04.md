@@ -30,7 +30,7 @@ tags:
 
 > Il numero che si deve porre al posto di "X" nella tabella
 > 1
-> 1 
+> 1
 > 1
 > 1
 > 2
@@ -51,14 +51,12 @@ tags:
 > 5
 > 1
 > è
-> (A) 4
-> (B) 5
-> (C) 6
-> (D) 7
-> (E) 8
-> 
-> Kangourou 15 marzo 2001, categoria Ecolier.     Pagina N.
-> 3
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 8 Kangourou 15 marzo 2001, categoria Ecolier. Pagina N. 3
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

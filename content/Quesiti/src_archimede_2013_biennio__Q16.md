@@ -33,14 +33,12 @@ tags:
 > Calcolare l’area della parte ombreggiata in figura sapendo che
 > il lato del quadrato è lungo 2 m e che le punte della stella
 > cadono nei punti medi dei lati del quadrato.
-> (A) 1 m2
-> (B) 2 m2
-> (C) 1
-> 2 m2
-> (D) π m2
-> (E) 2
-> √
-> 2 m2
+>
+> - **(A)** 1 m2
+> - **(B)** 2 m2
+> - **(C)** 1 2 m2
+> - **(D)** π m2
+> - **(E)** 2 √ 2 m2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

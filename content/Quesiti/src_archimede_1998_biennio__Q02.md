@@ -49,15 +49,12 @@ tags:
 
 > ABCD è un rettangolo con AB = 8 cm e BC = 6 cm.
 > Quanto vale l’area del cerchio circoscritto?
-> (A) 25π cm2
-> (B) 24 cm2
-> (C) 24π cm2
-> (D) 50π cm2
-> (E) nessuna delle precedenti.
-> A
-> B
-> C
-> D
+>
+> - **(A)** 25π cm2
+> - **(B)** 24 cm2
+> - **(C)** 24π cm2
+> - **(D)** 50π cm2
+> - **(E)** nessuna delle precedenti. A B C D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

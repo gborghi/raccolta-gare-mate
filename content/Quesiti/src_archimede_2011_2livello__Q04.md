@@ -31,11 +31,12 @@ tags:
 *Quanti primi della forma n^(n+1) + 1*
 
 > Quanti sono i numeri primi che possono essere espressi nella forma nn+1 + 1, con n intero positivo?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) più di 2, ma in numero finito
-> (E) infiniti.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** più di 2, ma in numero finito
+> - **(E)** infiniti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

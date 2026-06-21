@@ -33,11 +33,11 @@ tags:
 *Cube cross-section perpendicular to space diagonal: fixed perimeter or area?*
 
 > As shown in the diagram, $ABCD$-$A'B'C'D'$ is a cube. Construct an arbitrary plane $\alpha$ perpendicular to the diagonal $AC'$ such that $\alpha$ has common points with each face of the cube. Let $S$ and $L$ denote the area and the perimeter of the cross-section of $\alpha$ respectively. Then ( ).
-> 
-> (A) $S$ is a fixed number and $L$ is not
-> (B) $L$ is fixed and $S$ is not
-> (C) Both $S$ and $L$ are fixed
-> (D) Neither $S$ nor $L$ is fixed
+>
+> - **(A)** $S$ is a fixed number and $L$ is not
+> - **(B)** $L$ is fixed and $S$ is not
+> - **(C)** Both $S$ and $L$ are fixed
+> - **(D)** Neither $S$ nor $L$ is fixed
 
 ![[src_cn_cmc_2005__Q04.png]]
 

@@ -35,11 +35,12 @@ tags:
 > coincidente con uno dei vertici del cubo di cioccolato comprato e le facce parallele a quelle del cubo
 > comprato. Alla fine, cede ai due amici il cioccolato rimasto. Indichiamo con S la superficie totale
 > del blocco di cioccolato ceduto, espressa in cm2. Allora si ha. . .
-> (A) 300≤S ≤350
-> (B) 350<S ≤450
-> (C) 450<S ≤550
-> (D) 550<S ≤650
-> (E) 650<S ≤750.
+>
+> - **(A)** 300≤S ≤350
+> - **(B)** 350<S ≤450
+> - **(C)** 450<S ≤550
+> - **(D)** 550<S ≤650
+> - **(E)** 650<S ≤750.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

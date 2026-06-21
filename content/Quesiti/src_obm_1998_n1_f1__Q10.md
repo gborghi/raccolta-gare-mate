@@ -35,12 +35,12 @@ tags:
 *Area per family after dividing a rectangular farm among 200 families*
 
 > A rectangular farm measuring $10\,\text{km}$ in width and $20\,\text{km}$ in length was expropriated for agrarian reform. The farm must be divided among $200$ families so that each family receives the same area. Each family should receive:
-> 
-> (A) $1{,}000{,}000\,\text{m}^2$
-> (B) $100{,}000\,\text{m}^2$
-> (C) $5{,}000\,\text{m}^2$
-> (D) $1{,}000\,\text{m}^2$
-> (E) $10{,}000\,\text{m}^2$
+>
+> - **(A)** $1{,}000{,}000\,\text{m}^2$
+> - **(B)** $100{,}000\,\text{m}^2$
+> - **(C)** $5{,}000\,\text{m}^2$
+> - **(D)** $1{,}000\,\text{m}^2$
+> - **(E)** $10{,}000\,\text{m}^2$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

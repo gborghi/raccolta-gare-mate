@@ -65,12 +65,12 @@ tags:
 > A′
 > B′
 > C′
-> (A) 315/2
-> (B) 280/3
-> (C) 140
-> (D) 105
-> (E) 126
-> 311
+>
+> - **(A)** 315/2
+> - **(B)** 280/3
+> - **(C)** 140
+> - **(D)** 105
+> - **(E)** 126 311
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

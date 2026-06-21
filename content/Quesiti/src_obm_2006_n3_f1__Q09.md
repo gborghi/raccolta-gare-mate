@@ -42,16 +42,12 @@ tags:
 *Positive reals a,b,c summing to 1 and being sides of a triangle; pick correct set of inequalities.*
 
 > Let $a$, $b$ and $c$ be positive real numbers whose sum is 1. Suppose that $a$, $b$ and $c$ are the measures of the sides of a triangle. Then
-> 
-> (A) $0 < |a - b| < \dfrac{1}{2}$ and $0 < |b - c| < \dfrac{1}{2}$ and $0 < |c - a| < \dfrac{1}{2}$
-> 
-> (B) $a < \dfrac{1}{2}$ and $b < \dfrac{1}{2}$ and $c < \dfrac{1}{2}$
-> 
-> (C) $a + b < \dfrac{1}{2}$ and $b + c < \dfrac{1}{2}$ and $c + a < \dfrac{1}{2}$
-> 
-> (D) $a \le \dfrac{1}{3}$ and $b \le \dfrac{1}{3}$ and $c \le \dfrac{1}{3}$
-> 
-> (E) $a \ge \dfrac{1}{3}$ and $b \ge \dfrac{1}{3}$ and $c \ge \dfrac{1}{3}$
+>
+> - **(A)** $0 < |a - b| < \dfrac{1}{2}$ and $0 < |b - c| < \dfrac{1}{2}$ and $0 < |c - a| < \dfrac{1}{2}$
+> - **(B)** $a < \dfrac{1}{2}$ and $b < \dfrac{1}{2}$ and $c < \dfrac{1}{2}$
+> - **(C)** $a + b < \dfrac{1}{2}$ and $b + c < \dfrac{1}{2}$ and $c + a < \dfrac{1}{2}$
+> - **(D)** $a \le \dfrac{1}{3}$ and $b \le \dfrac{1}{3}$ and $c \le \dfrac{1}{3}$
+> - **(E)** $a \ge \dfrac{1}{3}$ and $b \ge \dfrac{1}{3}$ and $c \ge \dfrac{1}{3}$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]

@@ -37,11 +37,12 @@ tags:
 > essere 1, 2 oppure 3, in modo che per ogni faccia (inclusa la base) la somma dei
 > numeri scritti sui suoi vertici sia divisibile per tre. Sapendo che i numeri non sono
 > tutti uguali a 3, quanto vale la somma di tutti i numeri scritti sui vertici?
-> (A) 12,
-> (B) 14,
-> (C) 15,
-> (D) 18,
-> (E) 21.
+>
+> - **(A)** 12,
+> - **(B)** 14,
+> - **(C)** 15,
+> - **(D)** 18,
+> - **(E)** 21.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

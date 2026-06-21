@@ -35,11 +35,12 @@ tags:
 > ricorda però che è una sequenza di 4 vocali, non necessariamente distinte, di cui
 > due sono maiuscole e due sono minuscole. Quante password diverse deve provare
 > Carla, al massimo, per accendere il computer?
-> (A) 3 · 54,
-> (B) 55,
-> (C) 6 · 54,
-> (D) 56,
-> (E) 3 · 56.
+>
+> - **(A)** 3 · 54,
+> - **(B)** 55,
+> - **(C)** 6 · 54,
+> - **(D)** 56,
+> - **(E)** 3 · 56.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -33,12 +33,12 @@ tags:
 *Somma dei numeri nei punti medi del triangolo*
 
 > Alcuni amici hanno delle biglie colorate e possono scambiarle secondo queste regole: per $3$ biglie blu si può ottenere una biglia rossa, per $2$ biglie rosse se ne possono ottenere $5$ verdi. Sara ha $16$ biglie blu. Quante biglie verdi potrebbe ottenere al massimo?
-> 
-> (A) $5$
-> (B) $10$
-> (C) $13$
-> (D) $15$
-> (E) $20$
+>
+> - **(A)** $5$
+> - **(B)** $10$
+> - **(C)** $13$
+> - **(D)** $15$
+> - **(E)** $20$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

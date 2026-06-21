@@ -33,11 +33,12 @@ tags:
 
 > Per ogni numero reale x, sia m(x) il minimo tra i numeri 2x, x + 1, 10 −2x. Il
 > massimo valore di m(x) è:
-> (A) 0
-> (B) 2
-> (C) 4
-> (D) 6
-> (E) 8.
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 8.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

@@ -40,12 +40,12 @@ tags:
 *Maximum non-square integer rectangular tiles covering a 7x7 wall*
 
 > The artist Juliana wants to cover a square mural of 7 metres on each side with rectangular plates, with no overlapping of the plates. She does not want to use any square plate. Moreover, the measures of the plates are whole numbers of metres (in the figure, a model of what could be done). She wants to do the covering with the largest possible number of plates. How many plates will she use?
-> 
-> (A) 10
-> (B) 14
-> (C) 18
-> (D) 20
-> (E) 24
+>
+> - **(A)** 10
+> - **(B)** 14
+> - **(C)** 18
+> - **(D)** 20
+> - **(E)** 24
 
 ![[src_obm_2015_n1_f1__Q13.png]]
 

@@ -42,11 +42,12 @@ tags:
 
 > Il quadrato più grande ha area 16, il più piccolo ha area 4.
 > Qual è l'area del quadrato posto in posizione obliqua?
-> (A) 8
-> (B) 8,5
-> (C) 10
-> (D) 10,5
-> (E) 12.
+>
+> - **(A)** 8
+> - **(B)** 8,5
+> - **(C)** 10
+> - **(D)** 10,5
+> - **(E)** 12.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

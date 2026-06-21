@@ -39,11 +39,12 @@ tags:
 > P
 > Q
 > ω
-> (A) 72
-> (B) 75
-> (C) 80
-> (D) 84
-> (E) 81
+>
+> - **(A)** 72
+> - **(B)** 75
+> - **(C)** 80
+> - **(D)** 84
+> - **(E)** 81
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

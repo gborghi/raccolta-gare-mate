@@ -37,12 +37,12 @@ tags:
 *Two cyclists on opposite sides of a 45 km loop, find meeting time*
 
 > Around a large lake there is a cycling track of 45 kilometres in length, which always returns to the starting point after being ridden in one direction. Two friends set off from the same point with constant velocities of 20 km per hour and 25 km per hour respectively, in opposite directions. When they meet for the first time, one was running at 20 km per hour and it increased to 25 km per hour, while the one who was at 25 km per hour decreased to 20 km per hour. How long does the friend who arrives first at the starting point have to wait for the other?
-> 
-> (A) none
-> (B) 10 min
-> (C) 12 min
-> (D) 15 min
-> (E) 18 min
+>
+> - **(A)** none
+> - **(B)** 10 min
+> - **(C)** 12 min
+> - **(D)** 15 min
+> - **(E)** 18 min
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]

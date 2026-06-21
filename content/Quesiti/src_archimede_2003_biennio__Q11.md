@@ -29,13 +29,12 @@ tags:
 > 4
 > dell’altezza, quanto vale il rapporto tra la superficie della sfera e la superficie totale
 > del parallelepipedo?
-> (A) π
-> (B) π
-> 4
-> (C) 2π
-> (D) π
-> 2
-> (E) dipende dal raggio della sfera.
+>
+> - **(A)** π
+> - **(B)** π 4
+> - **(C)** 2π
+> - **(D)** π 2
+> - **(E)** dipende dal raggio della sfera.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]

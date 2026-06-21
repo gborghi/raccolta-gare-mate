@@ -33,11 +33,12 @@ tags:
 > Una scatola contiene 40 biglie rosse. Andrea aggiunge altre biglie nella scatola, di
 > colore blu. Quante biglie blu deve aggiungere, come minimo, perch´e le biglie blu
 > siano più del 25% del totale?
-> (A) 10
-> (B) 14
-> (C) 13
-> (D) 12
-> (E) 11
+>
+> - **(A)** 10
+> - **(B)** 14
+> - **(C)** 13
+> - **(D)** 12
+> - **(E)** 11
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

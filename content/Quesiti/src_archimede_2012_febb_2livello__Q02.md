@@ -36,11 +36,12 @@ tags:
 > e in totale il torneo dura ben 24 ore (senza pause). Quanto tempo gioca Marco in difesa?
 > Si noti che, ad esempio, vi saranno due incontri diversi di Marco e Fabrizio contro un certo attaccante
 > e un certo difensore fra i fisici: uno con Marco attaccante e Fabrizio difensore, uno viceversa.
-> (A) 2 ore e 24 minuti
-> (B) 4 ore e 48 minuti
-> (C) 6 ore
-> (D) 8 ore
-> (E) 12 ore.
+>
+> - **(A)** 2 ore e 24 minuti
+> - **(B)** 4 ore e 48 minuti
+> - **(C)** 6 ore
+> - **(D)** 8 ore
+> - **(E)** 12 ore.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

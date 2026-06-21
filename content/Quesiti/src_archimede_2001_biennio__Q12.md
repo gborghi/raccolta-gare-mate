@@ -31,11 +31,12 @@ tags:
 
 > Se x, y, z sono interi positivi diversi fra loro tali che (xy)2 = xyz, quale fra i
 > seguenti è un possibile valore per z?
-> (A) 1
-> (B) 5
-> (C) 9
-> (D) 11
-> (E) 16.
+>
+> - **(A)** 1
+> - **(B)** 5
+> - **(C)** 9
+> - **(D)** 11
+> - **(E)** 16.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -32,11 +32,12 @@ tags:
 > magazzino. Perciò Tullio ne ha comprato uno nuovo, sempre di forma cubica,
 > che, sostituito al precedente, gli ha permesso di guadagnare 218 m3 di spazio. Di
 > quanti metri il lato del nuovo deposito e più lungo di quello vecchio?
-> (A) 1 m
-> (B) 2 m
-> (C) 3 m
-> (D) 4 m
-> (E) 5 m.
+>
+> - **(A)** 1 m
+> - **(B)** 2 m
+> - **(C)** 3 m
+> - **(D)** 4 m
+> - **(E)** 5 m.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

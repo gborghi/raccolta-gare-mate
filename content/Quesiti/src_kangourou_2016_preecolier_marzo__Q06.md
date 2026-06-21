@@ -29,12 +29,12 @@ tags:
 *Quanti bambini in giardino, dieci compagni di cui 5 bambine*
 
 > Alla festa in giardino organizzata per il compleanno di Giacomo partecipano solo dieci suoi compagni di scuola. Cinque di essi sono bambine. Quanti bambini ci sono in giardino?
-> 
-> (A) 4
-> (B) 5
-> (C) 6
-> (D) 7
-> (E) 8
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 8
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -33,14 +33,12 @@ tags:
 > Sia ABC un triangolo isoscele con base BC = 10 e AB = AC. Si costruiscano esternamente
 > sui suoi due lati obliqui altri due triangoli isosceli DAB e EAC, entrambi simili ad ABC, con
 > DA = DB e EA = EC. Sapendo che DE = 45, trovare la lunghezza di AB.
-> (A) 15
-> (B) 20
-> (C) 9
-> √
-> 5
-> (D) 22.5
-> (E) Non è possibile determinarlo con i soli dati
-> forniti.
+>
+> - **(A)** 15
+> - **(B)** 20
+> - **(C)** 9 √ 5
+> - **(D)** 22.5
+> - **(E)** Non è possibile determinarlo con i soli dati forniti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

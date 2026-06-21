@@ -34,11 +34,12 @@ tags:
 > si volta ancora e, con salti di 4 mattonelle arriva di nuovo all’ultima mattonella; si
 > volta di nuovo e, con salti di 5 mattonelle torna di nuovo alla prima. Quale tra i
 > seguenti potrebbe essere il numero di mattonelle della fila?
-> (A) 121
-> (B) 91
-> (C) 90
-> (D) 60
-> (E) 31
+>
+> - **(A)** 121
+> - **(B)** 91
+> - **(C)** 90
+> - **(D)** 60
+> - **(E)** 31
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

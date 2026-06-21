@@ -29,12 +29,12 @@ tags:
 *Cifra delle unità di somma di torri di potenze di 2*
 
 > Qual è la cifra delle unità del numero $2^{2^1} + 2^{2^2} + 2^{2^3} + 2^{2^4} + \ldots + 2^{2^{100}}$?
-> 
-> (A) 0
-> (B) 2
-> (C) 4
-> (D) 6
-> (E) 8.
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 8.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

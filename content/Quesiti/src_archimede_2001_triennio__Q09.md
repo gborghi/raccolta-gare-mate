@@ -35,13 +35,12 @@ tags:
 > la cerimonia della preghiera a Manitù. Qual è la minima distanza del percorso
 > che deve compiere, sapendo che la capanna e il villaggio sono equidistanti dai due
 > fiumi e distano fra loro 48 km?
-> (A) 48
-> (B) 52
-> (C) 53
-> (D) 58
-> (E)
-> √
-> 482 + 102.
+>
+> - **(A)** 48
+> - **(B)** 52
+> - **(C)** 53
+> - **(D)** 58
+> - **(E)** √ 482 + 102.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

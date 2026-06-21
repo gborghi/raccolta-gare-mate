@@ -32,11 +32,12 @@ tags:
 > Consideriamo tutti i numeri di quattro cifre formati dalle cifre 3, 4, 6, 7, disposte
 > in un ordine qualsiasi e senza che nessuna cifra sia ripetuta. Quanti di questi sono
 > divisibili per 44?
-> (A) 0,
-> (B) 1,
-> (C) 2,
-> (D) 3,
-> (E) 4.
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

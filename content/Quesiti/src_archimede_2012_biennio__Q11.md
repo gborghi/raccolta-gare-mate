@@ -33,11 +33,12 @@ tags:
 
 > Carlo ha sei mele e sei pere: in quanti modi può mettere in fila 6 frutti, in modo
 > tale che tra due mele non ci sia mai nessuna pera?
-> (A) 16
-> (B) 22
-> (C) 32
-> (D) 35
-> (E) 39
+>
+> - **(A)** 16
+> - **(B)** 22
+> - **(C)** 32
+> - **(D)** 35
+> - **(E)** 39
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

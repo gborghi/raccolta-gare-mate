@@ -53,17 +53,12 @@ tags:
 > dell’altezza dal vertice C. Supponiamo che l’area del triangolo
 > AHC stia a quella del triangolo ABC come AC sta a 2AB.
 > Quale delle seguenti affermazioni è sicuramente vera?
-> (A) ABC è rettangolo
-> (B)
-> d
-> CAB = 60°
-> (C) AB = 2AH
-> (D) AB = AC
-> (E) ABC è equilatero
-> A
-> B
-> C
-> H
+>
+> - **(A)** ABC è rettangolo
+> - **(B)** d CAB = 60°
+> - **(C)** AB = 2AH
+> - **(D)** AB = AC
+> - **(E)** ABC è equilatero A B C H
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

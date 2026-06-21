@@ -33,11 +33,12 @@ tags:
 > Romeo, Giuletta, Elena, Paride, Ulisse si siedono su una panchina. Giulietta vuole
 > stare accanto a Romeo, Elena accanto a Paride. In quanti modi possono disporsi i
 > cinque da sinistra verso destra, in modo da accontentarle?
-> (A) 24
-> (B) 20
-> (C) 18
-> (D) 16
-> (E) 30
+>
+> - **(A)** 24
+> - **(B)** 20
+> - **(C)** 18
+> - **(D)** 16
+> - **(E)** 30
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

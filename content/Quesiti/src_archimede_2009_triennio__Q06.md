@@ -33,11 +33,12 @@ tags:
 > la scuola e un altro 3% degli studenti si è trasferito in altre scuole. Quest’anno si
 > sono iscritti alla scuola 84 nuovi studenti e ora il numero di studenti è uguale a
 > quello delle scorso anno. Quanti studenti ha la scuola?
-> (A) 324,
-> (B) 400,
-> (C) 500,
-> (D) 525,
-> (E) 600.
+>
+> - **(A)** 324,
+> - **(B)** 400,
+> - **(C)** 500,
+> - **(D)** 525,
+> - **(E)** 600.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

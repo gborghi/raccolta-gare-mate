@@ -53,11 +53,12 @@ tags:
 > 15
 > 13
 > ?
-> (A) 7
-> (B) 6
-> (C) 5
-> (D) 8
-> (E) 9
+>
+> - **(A)** 7
+> - **(B)** 6
+> - **(C)** 5
+> - **(D)** 8
+> - **(E)** 9
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

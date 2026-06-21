@@ -29,11 +29,12 @@ tags:
 *Natura del numero 100020001*
 
 > Il numero 100020001 è:
-> (A) un numero primo,
-> (B) un quadrato perfetto,
-> (C) un multiplo di tre,
-> (D) un cubo perfetto,
-> (E) un multiplo di undici.
+>
+> - **(A)** un numero primo,
+> - **(B)** un quadrato perfetto,
+> - **(C)** un multiplo di tre,
+> - **(D)** un cubo perfetto,
+> - **(E)** un multiplo di undici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

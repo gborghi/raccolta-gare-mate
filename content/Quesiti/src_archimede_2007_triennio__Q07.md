@@ -32,11 +32,12 @@ tags:
 > minuti per concludere la prova. Paolo, 57°classificato, ha impiegato 1 ora e 18
 > minuti. Ammettendo che Paolo abbia corso con velocità costante, a quale distanza
 > dall’arrivo si trovava mentre il vincitore tagliava il traguardo?
-> (A) 3750 m,
-> (B) 4000 m,
-> (C) 4250 m,
-> (D) 4500 m,
-> (E) 4750 m.
+>
+> - **(A)** 3750 m,
+> - **(B)** 4000 m,
+> - **(C)** 4250 m,
+> - **(D)** 4500 m,
+> - **(E)** 4750 m.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

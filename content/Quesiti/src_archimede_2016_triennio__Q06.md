@@ -36,11 +36,12 @@ tags:
 > partecipanti aumenta esattamente di 1. Indicando con x il numero complessivo di
 > persone partecipanti alla gara del 2016 e con y il numero di persone partecipanti
 > alla gara del 2000, cosa si può affermare con sicurezza riguardo al valore di x −y?
-> (A) che è divisibile per 32
-> (B) che è un quadrato perfetto
-> (C) che è un numero primo
-> (D) che è divisible per 101
-> (E) che è dispari
+>
+> - **(A)** che è divisibile per 32
+> - **(B)** che è un quadrato perfetto
+> - **(C)** che è un numero primo
+> - **(D)** che è divisible per 101
+> - **(E)** che è dispari
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

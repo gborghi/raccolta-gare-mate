@@ -37,11 +37,12 @@ tags:
 > pari (cioè multiplo di 2), poi quelle contrassegnate con i multipli di 3, successivamente si cambiano
 > di stato quelle relative ai multipli di 4 e così via, sino ai multipli di 10000. Quale delle seguenti
 > lampadine rimane accesa al termine delle operazioni?
-> (A) La numero 9405
-> (B) la numero 9406
-> (C) la numero 9407
-> (D) la numero 9408
-> (E) la numero 9409.
+>
+> - **(A)** La numero 9405
+> - **(B)** la numero 9406
+> - **(C)** la numero 9407
+> - **(D)** la numero 9408
+> - **(E)** la numero 9409.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

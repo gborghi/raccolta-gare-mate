@@ -34,11 +34,12 @@ tags:
 > ha l’avversario in quel momento, mentre chi perde mantiene il punteggio che aveva.
 > Dopo un certo numero di sfide, Barbara ha 9000 punti.
 > Quale, tra i seguenti, potrebbe essere il punteggio di Alberto?
-> (A) 5005
-> (B) 4114
-> (C) 3130
-> (D) 3003
-> (E) 7117
+>
+> - **(A)** 5005
+> - **(B)** 4114
+> - **(C)** 3130
+> - **(D)** 3003
+> - **(E)** 7117
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

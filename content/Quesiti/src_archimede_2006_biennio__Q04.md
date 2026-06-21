@@ -30,11 +30,12 @@ tags:
 
 > Paolo ha acquistato un oggetto ottenendo lo sconto del 15% sul prezzo originale e
 > lo ha pagato 106,25 Euro. Qual era il prezzo originale?
-> (A) Meno di 123 Euro,
-> (B) 124 Euro,
-> (C) 125 Euro,
-> (D) 127 Euro,
-> (E) più di 128 Euro.
+>
+> - **(A)** Meno di 123 Euro,
+> - **(B)** 124 Euro,
+> - **(C)** 125 Euro,
+> - **(D)** 127 Euro,
+> - **(E)** più di 128 Euro.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

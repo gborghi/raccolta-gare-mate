@@ -32,11 +32,12 @@ tags:
 > Una scatola contiene 20 foglietti, numerati da 1 a 20. Dario ne estrae alcuni a caso,
 > contemporaneamente. Quanti ne deve estrarre, come minimo, per essere certo di
 > trovare almeno una coppia di numeri la cui somma faccia 22?
-> (A) 9
-> (B) 11
-> (C) 12
-> (D) 13
-> (E) 10
+>
+> - **(A)** 9
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 13
+> - **(E)** 10
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

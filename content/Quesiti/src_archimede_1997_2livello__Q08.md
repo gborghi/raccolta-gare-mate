@@ -36,11 +36,12 @@ tags:
 > direzioni parallele alle linee come Nord, Sud, Est, Ovest (il Nord in alto). Muoviamoci, partendo
 > da O di un quadretto verso Est, poi due verso Nord, tre verso Ovest, quattro verso Sud, cinque
 > verso Est e così via. Dopo 1997 passi, in che punto ci troviamo rispetto al punto iniziale O?
-> (A) 1996 quadretti a Nord di O
-> (B) 998 quadretti a Sud e 999 quadretti a Est di O
-> (C) 999 quadretti a Ovest e 998 quadretti a Nord di O
-> (D) 999 quadretti a Nord e 999 quadretti a Ovest di O
-> (E) 998 quadretti a Est e 998 quadretti a Sud di O
+>
+> - **(A)** 1996 quadretti a Nord di O
+> - **(B)** 998 quadretti a Sud e 999 quadretti a Est di O
+> - **(C)** 999 quadretti a Ovest e 998 quadretti a Nord di O
+> - **(D)** 999 quadretti a Nord e 999 quadretti a Ovest di O
+> - **(E)** 998 quadretti a Est e 998 quadretti a Sud di O
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

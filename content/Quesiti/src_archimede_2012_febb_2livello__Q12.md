@@ -37,12 +37,12 @@ tags:
 > Il giorno in cui per la prima volta legge un numero dispari, scompare ritornando nel mondo delle
 > fate.
 > Quanti scherzetti fa al massimo il folletto?
-> (A) 11
-> (B) 12
-> (C) 14
-> (D) 21
-> (E) 22.
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 14
+> - **(D)** 21
+> - **(E)** 22. Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

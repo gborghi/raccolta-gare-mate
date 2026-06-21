@@ -33,11 +33,12 @@ tags:
 > cestino al centro, cestino a sinistra, cestino al centro, cestino a destra, cestino al
 > centro, e così via. Quando il cestino centrale sarà vuoto, quante caramelle saranno
 > ancora nel cestino che ne contiene il maggior numero?
-> (A) 1
-> (B) 2 
-> (C) 5
-> (D) 6
-> (E) 11.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 11.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

@@ -63,11 +63,12 @@ tags:
 > S
 > T
 > I
-> (A) 36 mm2
-> (B) 30 mm2
-> (C) 24 mm2
-> (D) 27 mm2
-> (E) 32 mm2
+>
+> - **(A)** 36 mm2
+> - **(B)** 30 mm2
+> - **(C)** 24 mm2
+> - **(D)** 27 mm2
+> - **(E)** 32 mm2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

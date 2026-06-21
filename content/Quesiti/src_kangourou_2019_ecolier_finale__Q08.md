@@ -29,14 +29,12 @@ tags:
 *Quante figurine quadrate (653 figure 2019 lati)*
 
 > Nella prima figura vedi cinque piastrelle quadrate, tutte uguali fra loro, accostate in un certo modo. Levandone una opportunamente scelta e lasciando le altre nella posizione in cui si trovano, quante delle seguenti forme puoi ottenere?
-> 
-> (A) $1$
-> (B) $2$
-> (C) $3$
-> (D) $4$
-> (E) $5$
-> 
-> (vedi figura)
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** $5$ (vedi figura)
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

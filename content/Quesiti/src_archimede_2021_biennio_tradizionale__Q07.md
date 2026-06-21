@@ -29,16 +29,12 @@ tags:
 
 > Le altezze uscenti dai vertici A, B e C del triangolo ABC misurano, rispettivamente, 6 m, 8 m e 4 m. Indicata con ℓ
 > la lunghezza del lato AB, quanto misura il perimetro del triangolo?
-> (A) 17
-> 8 ℓ
-> (B) 13
-> 6 ℓ
-> (C) 25
-> 12ℓ
-> (D) 15
-> 7 ℓ
-> (E) 32
-> 15ℓ
+>
+> - **(A)** 17 8 ℓ
+> - **(B)** 13 6 ℓ
+> - **(C)** 25 12ℓ
+> - **(D)** 15 7 ℓ
+> - **(E)** 32 15ℓ
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -30,11 +30,12 @@ tags:
 > Sapendo che (3x + 2)(7 −4x)(4x + 7) = 0, quale può essere, al massimo, il valore di
 > 5 −3
 > x ?
-> (A) 23/7
-> (B) 35/4
-> (C) 22/3
-> (D) 19/2
-> (E) 47/7
+>
+> - **(A)** 23/7
+> - **(B)** 35/4
+> - **(C)** 22/3
+> - **(D)** 19/2
+> - **(E)** 47/7
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

@@ -33,11 +33,12 @@ tags:
 
 > Per quante coppie ordinate (a, b) di numeri interi accade che il loro prodotto sia
 > uguale alla loro somma?
-> (A) Nessuna,
-> (B) una,
-> (C) due,
-> (D) quattro,
-> (E) più di quattro.
+>
+> - **(A)** Nessuna,
+> - **(B)** una,
+> - **(C)** due,
+> - **(D)** quattro,
+> - **(E)** più di quattro.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

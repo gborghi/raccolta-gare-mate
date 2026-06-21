@@ -31,11 +31,12 @@ tags:
 
 > Martina compra dei libri, che costano in tutto 141 euro. Ha in tasca 30 banconote da 5 euro e 160 monete da 1 euro.
 > In quanti modi diversi Martina potrà pagare i libri in maniera precisa (senza ricevere alcun resto)?
-> (A) 28
-> (B) 27
-> (C) 26
-> (D) 29
-> (E) 25
+>
+> - **(A)** 28
+> - **(B)** 27
+> - **(C)** 26
+> - **(D)** 29
+> - **(E)** 25
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

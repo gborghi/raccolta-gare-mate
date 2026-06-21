@@ -34,25 +34,12 @@ tags:
 
 > Tre circonferenze di raggio unitario sono tangenti tra loro e una quarta circonferenza è tangente
 > a tutte e tre, e non le racchiude. Quanto vale il raggio della quarta circonferenza?
-> (A)
-> √
-> 3+1
-> 24
-> (B) 1
-> 8
-> (C)
-> √
-> 3
-> 12
-> (D) 2
-> √
-> 3
-> 3
-> −1
-> (E)
-> √
-> 3−1
-> 4
+>
+> - **(A)** √ 3+1 24
+> - **(B)** 1 8
+> - **(C)** √ 3 12
+> - **(D)** 2 √ 3 3 −1
+> - **(E)** √ 3−1 4
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -36,11 +36,12 @@ tags:
 > supponiamo di svolgere il prodotto, ottenendo quindi un’espressione del tipo a0 + a1x + a2x2 +
 > . . . + a402x402, dove ad esempio a0 = a402 = 1. Quanti dei coefficienti a0, . . . , a402 sono diversi
 > da zero?
-> (A) 52
-> (B) 56
-> (C) 60
-> (D) 64
-> (E) 376
+>
+> - **(A)** 52
+> - **(B)** 56
+> - **(C)** 60
+> - **(D)** 64
+> - **(E)** 376
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

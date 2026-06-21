@@ -30,16 +30,12 @@ tags:
 
 > Quale delle seguenti espressioni è equivalente all’affermazione “Fra tutti gli
 > insegnanti, solo quelli con un coniuge ricco possiedono un’auto di lusso”?
-> (A) Se una persona possiede un’auto di lusso, allora essa è insegnante o ha un
-> coniuge ricco.
-> (B) Se una persona è insegnante e ha un coniuge ricco, allora essa possiede
-> un’auto di lusso.
-> (C) Se una persona è insegnante e possiede un’auto di lusso, allora essa ha un
-> coniuge ricco.
-> (D) Se una persona ha un’auto di lusso, allora essa è un insegnante e ha un
-> coniuge ricco.
-> (E) Se una persona ha un coniuge ricco, allora essa è un insegnante e possiede
-> un’auto di lusso.
+>
+> - **(A)** Se una persona possiede un’auto di lusso, allora essa è insegnante o ha un coniuge ricco.
+> - **(B)** Se una persona è insegnante e ha un coniuge ricco, allora essa possiede un’auto di lusso.
+> - **(C)** Se una persona è insegnante e possiede un’auto di lusso, allora essa ha un coniuge ricco.
+> - **(D)** Se una persona ha un’auto di lusso, allora essa è un insegnante e ha un coniuge ricco.
+> - **(E)** Se una persona ha un coniuge ricco, allora essa è un insegnante e possiede un’auto di lusso.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

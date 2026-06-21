@@ -28,12 +28,12 @@ tags:
 *Somma cifre di 10^2026 - 2026*
 
 > Nicolò si diverte a calcolare la somma delle cifre del numero 102026 −2026. Che numero ottiene?
-> (A)
-> 18225
-> (B) 18205
-> (C) 18234
-> (D) 18243
-> (E) 18218
+>
+> - **(A)** 18225
+> - **(B)** 18205
+> - **(C)** 18234
+> - **(D)** 18243
+> - **(E)** 18218
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

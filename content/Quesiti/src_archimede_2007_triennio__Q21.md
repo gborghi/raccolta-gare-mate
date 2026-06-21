@@ -33,11 +33,12 @@ tags:
 > 3
 > 105
 > ?
-> (A) 0,
-> (B) 3,
-> (C) 6,
-> (D) 7,
-> (E) 8.
+>
+> - **(A)** 0,
+> - **(B)** 3,
+> - **(C)** 6,
+> - **(D)** 7,
+> - **(E)** 8.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

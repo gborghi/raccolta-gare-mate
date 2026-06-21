@@ -32,11 +32,12 @@ tags:
 > numero dispari fa un punto Andrea, quando esce un numero pari fa un punto
 > Chiara. Vince la partita chi arriva per primo a 5 punti. Dopo 6 lanci, Andrea è in
 > vantaggio per 4 a 2. Qual è la probabilità che sia Chiara a vincere la partita?
-> (A) 1/8
-> (B) 1/3
-> (C) 1/6
-> (D) 1/4
-> (E) 1/5
+>
+> - **(A)** 1/8
+> - **(B)** 1/3
+> - **(C)** 1/6
+> - **(D)** 1/4
+> - **(E)** 1/5
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

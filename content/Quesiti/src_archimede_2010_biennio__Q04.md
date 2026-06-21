@@ -30,51 +30,12 @@ tags:
 *Ordinamento corretto di radici 2rad2, rad10, rad5+rad3*
 
 > Quale fra queste serie di disuguaglianze è corretta?
-> (A) 2
-> √
-> 2 <
-> √
-> 10 <
-> √
-> 5 +
-> √
-> 3,
-> (B)
-> √
-> 5 +
-> √
-> 3 < 2
-> √
-> 2 <
-> √
-> 10,
-> (C) 2
-> √
-> 2 <
-> √
-> 5 +
-> √
-> 3 <
-> √
-> 10,
-> (D)
-> √
-> 10 < 2
-> √
-> 2 <
-> √
-> 5 +
-> √
-> 3,
-> (E)
-> √
-> 5 +
-> √
-> 3 <
-> √
-> 10 < 2
-> √
-> 2.
+>
+> - **(A)** 2 √ 2 < √ 10 < √ 5 + √ 3,
+> - **(B)** √ 5 + √ 3 < 2 √ 2 < √ 10,
+> - **(C)** 2 √ 2 < √ 5 + √ 3 < √ 10,
+> - **(D)** √ 10 < 2 √ 2 < √ 5 + √ 3,
+> - **(E)** √ 5 + √ 3 < √ 10 < 2 √ 2.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

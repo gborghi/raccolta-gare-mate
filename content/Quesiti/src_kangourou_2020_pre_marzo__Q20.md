@@ -35,14 +35,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob20.png]]
 
 > Osserva la figura: ogni cerchietto rappresenta un uomo e ogni freccia diretta da un uomo a un altro indica che il primo uomo è più alto del secondo. Ad esempio l'uomo B è più alto dell'uomo A. Chi è il più basso?
-> 
+>
 > (vedi figura)
-> 
-> (A) L'uomo A
-> (B) L'uomo B
-> (C) L'uomo C
-> (D) L'uomo D
-> (E) L'uomo E
+>
+> - **(A)** L'uomo A
+> - **(B)** L'uomo B
+> - **(C)** L'uomo C
+> - **(D)** L'uomo D
+> - **(E)** L'uomo E
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

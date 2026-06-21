@@ -55,11 +55,12 @@ tags:
 > del segmento AB, mentre D è il punto medio dell’arco
 > AB. Sapendo che AB misura 24 cm e CD misura 6 cm, di
 > quanti cm era il raggio del piatto originale?
-> (A) 16
-> (B) 12
-> (C) 18
-> (D) 20
-> (E) 15
+>
+> - **(A)** 16
+> - **(B)** 12
+> - **(C)** 18
+> - **(D)** 20
+> - **(E)** 15
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

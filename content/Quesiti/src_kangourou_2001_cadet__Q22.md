@@ -36,11 +36,12 @@ tags:
 > uno) non viene contato nel punteggio finale. Prima di scartare il salto con il
 > punteggio inferiore, la somma dei punteggi relativi ai 5 salti di
 > Joey era di 72. Allora il punteggio finale è almeno
-> (A) 52
-> (B) 54
-> (C) 57
-> (D) 58
-> (E) 72.
+>
+> - **(A)** 52
+> - **(B)** 54
+> - **(C)** 57
+> - **(D)** 58
+> - **(E)** 72.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

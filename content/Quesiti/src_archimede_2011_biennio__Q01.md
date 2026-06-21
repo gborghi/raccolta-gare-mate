@@ -31,11 +31,12 @@ tags:
 
 > Quanti sono i numeri di 6 cifre, formati dalle cifre 1, 2, 3, 4, 5, 6, divisibili per 1,
 > 2, 3, 4, 5, 6?
-> (A) Nessuno,
-> (B) 1,
-> (C) 18,
-> (D) 120,
-> (E) 360.
+>
+> - **(A)** Nessuno,
+> - **(B)** 1,
+> - **(C)** 18,
+> - **(D)** 120,
+> - **(E)** 360.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

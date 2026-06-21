@@ -32,12 +32,12 @@ tags:
 
 > Sia n un intero positivo tale che la rappresentazione decimale di 2n inizia con la cifra 7 (ovvero
 > la cifra non nulla più a sinistra è 7). Con che cifra inizia la rappresentazione decimale di 5n?
-> (A) 1
-> (B) 2
-> (C) 5
-> (D) 7
-> (E) Dipende da n
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 5
+> - **(D)** 7
+> - **(E)** Dipende da n Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

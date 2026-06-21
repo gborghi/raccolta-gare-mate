@@ -28,13 +28,12 @@ tags:
 *Quale dei numeri dati non e razionale*
 
 > Quale dei numeri seguenti non è razionale?
-> (A) −2002
-> (B) 8
-> 2
-> 3
-> (C) √0, 49
-> (D) 1000,5
-> (E) 10000,1.
+>
+> - **(A)** −2002
+> - **(B)** 8 2 3
+> - **(C)** √0, 49
+> - **(D)** 1000,5
+> - **(E)** 10000,1.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

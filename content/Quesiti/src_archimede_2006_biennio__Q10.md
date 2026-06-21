@@ -32,12 +32,12 @@ tags:
 > tre biglie e sono nere”. Luca dice: “Nel sacchetto ci sono due biglie nere e due
 > biglie rosse”. Giorgio dice: “Nel sacchetto ci sono solo biglie nere”. Sapendo che
 > uno solo dei tre ha mentito, quante biglie ci sono nel sacchetto?
-> (A) una,
-> (B) due,
-> (C) tre,
-> (D) quattro,
-> (E) non è possibile determinarne
-> il numero in base ai dati del problema.
+>
+> - **(A)** una,
+> - **(B)** due,
+> - **(C)** tre,
+> - **(D)** quattro,
+> - **(E)** non è possibile determinarne il numero in base ai dati del problema.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -33,11 +33,12 @@ tags:
 
 > In un gruppo di 100 persone 70 parlano inglese, 45 spagnolo, 23 sia inglese che
 > spagnolo. Quante di loro non parlano n´e inglese, n´e spagnolo?
-> (A) 8
-> (B) 25
-> (C) 30
-> (D) 55
-> (E) 77.
+>
+> - **(A)** 8
+> - **(B)** 25
+> - **(C)** 30
+> - **(D)** 55
+> - **(E)** 77.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

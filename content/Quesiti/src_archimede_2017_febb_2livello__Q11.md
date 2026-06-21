@@ -34,18 +34,12 @@ tags:
 > palline nell’urna (ad esempio, se Federica ha pescato le palline 3 e 7 in quest’ordine, reinserirà
 > nell’urna due palline con i numeri 6 e 28). Infine, estrae nuovamente una pallina: qual è la
 > probabilità che la pallina estratta abbia il numero 8?
-> (A) 1
-> 8
-> (B) 1
-> 7
-> (C)
-> 7
-> 44
-> (D)
-> 9
-> 56
-> (E) 1
-> 6
+>
+> - **(A)** 1 8
+> - **(B)** 1 7
+> - **(C)** 7 44
+> - **(D)** 9 56
+> - **(E)** 1 6
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

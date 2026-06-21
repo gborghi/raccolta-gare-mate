@@ -32,11 +32,12 @@ tags:
 
 > Se n è un numero naturale con 6 divisori interi positivi, quanti divisori interi positivi
 > ha n2? N.B.: tra i divisori di un numero contiamo anche 1 ed il numero stesso.
-> (A) 11
-> (B) 12
-> (C) 15
-> (D) 36
-> (E) la risposta dipende da n
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 15
+> - **(D)** 36
+> - **(E)** la risposta dipende da n
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

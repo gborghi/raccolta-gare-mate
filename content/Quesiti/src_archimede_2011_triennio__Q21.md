@@ -36,11 +36,12 @@ tags:
 > partecipanti ancora in gara, e questi disputano una partita. Ogni partecipante che
 > sia stato sconfitto due volte viene eliminato e l’ultimo concorrente che resta vince.
 > Sapendo che il vincitore non ha mai perso, quante partite si sono disputate in tutto?
-> (A) 19,
-> (B) 38,
-> (C) 40,
-> (D) 380,
-> (E) non ci sono dati sufficienti.
+>
+> - **(A)** 19,
+> - **(B)** 38,
+> - **(C)** 40,
+> - **(D)** 380,
+> - **(E)** non ci sono dati sufficienti.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

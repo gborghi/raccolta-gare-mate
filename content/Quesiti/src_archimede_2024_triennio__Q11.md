@@ -49,11 +49,12 @@ tags:
 > 17
 > 11
 > ?
-> (A) 8
-> (B) 12
-> (C) 9
-> (D) 11
-> (E) 10
+>
+> - **(A)** 8
+> - **(B)** 12
+> - **(C)** 9
+> - **(D)** 11
+> - **(E)** 10
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

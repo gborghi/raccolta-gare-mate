@@ -46,11 +46,12 @@ tags:
 > (ii) their sum is 13;
 > (iii) they are in increasing order, from left to right.
 > First, Samuel looks at the number on the card on the far left and says: "I do not have enough information to determine the other numbers." Then, Tomas looks at the number on the card on the far right and says: "I do not have enough information to determine the other numbers." Then Samuel looks again at the leftmost card and says: "I still do not have enough information to determine the other numbers." Knowing that both are intelligent and listen to each other's comments, what is the number on the card in the middle?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) There is no information sufficient to determine the number.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** There is no information sufficient to determine the number.
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]

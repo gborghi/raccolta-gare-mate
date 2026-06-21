@@ -34,11 +34,12 @@ tags:
 > che volendole sistemare in tavoli da 3 ne restava fuori esattamente una, e lo stessa
 > cosa accadeva sistemandoli in tavoli da 4, da 5 o da 6. Invece, sistemandoli in
 > tavoli da 7 non ne rimaneva fuori nessuna. Quanti erano i commensali?
-> (A) 61
-> (B) 121
-> (C) 175
-> (D) 301
-> (E) 574.
+>
+> - **(A)** 61
+> - **(B)** 121
+> - **(C)** 175
+> - **(D)** 301
+> - **(E)** 574.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

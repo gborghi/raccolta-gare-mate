@@ -33,11 +33,12 @@ tags:
 > minuti”. A che ora si à svegliato l’ultima volta, sapendo che in quel momento si
 > trovava in Corea e ora si trova in Italia (ricordiamo che la differenza di fuso orario
 > fra l’Italia e la Corea è di di 7 ore in avanti)?
-> (A) 12:04
-> (B) 12:18
-> (C) 12:58
-> (D) 13:04
-> (E) 13:18.
+>
+> - **(A)** 12:04
+> - **(B)** 12:18
+> - **(C)** 12:58
+> - **(D)** 13:04
+> - **(E)** 13:18.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -31,11 +31,12 @@ tags:
 
 > Quante sono le coppie di interi positivi (a, b), con a < b, tali che MCD(a, b) = 2 e
 > mcm(a, b) = 60?
-> (A) 0
-> (B) 4
-> (C) 3
-> (D) 2
-> (E) 6
+>
+> - **(A)** 0
+> - **(B)** 4
+> - **(C)** 3
+> - **(D)** 2
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

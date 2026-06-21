@@ -33,11 +33,12 @@ tags:
 > Veronica osserva che 81·3 = 243 e 81·4 = 324 e si chiede quanti siano i numeri m con 10 ≤m ≤99
 > e tali che 3m = ABC e 4m = CAB, con A, B e C cifre decimali (si considerano validi anche i
 > casi in cui una o più delle cifre A, B, C siano uguali a zero).
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 6
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

@@ -33,11 +33,12 @@ tags:
 > BFC, DHA di lato 15 e basi BC, DA.
 > Quanto vale l’area del quadrilatero
 > EFGH?
-> (A) 357
-> (B) 714
-> (C) 912
-> (D) 952
-> (E) 1428.
+>
+> - **(A)** 357
+> - **(B)** 714
+> - **(C)** 912
+> - **(D)** 952
+> - **(E)** 1428.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -36,12 +36,12 @@ tags:
 *Area of shaded quadrilateral in an equilateral triangle*
 
 > In the equilateral triangle $ABC$ of the figure, the segment $DA$ is the double of the segment $DB$ and the segment $EC$ is the double of $EA$. Knowing that the area of triangle $ABC$ is equal to $162\,\text{cm}^2$, what is the area, in $\text{cm}^2$, of the shaded quadrilateral?
-> 
-> (A) 126
-> (B) 132
-> (C) 135
-> (D) 140
-> (E) 144
+>
+> - **(A)** 126
+> - **(B)** 132
+> - **(C)** 135
+> - **(D)** 140
+> - **(E)** 144
 
 ![[src_obm_2015_n1_f1__Q19.png]]
 

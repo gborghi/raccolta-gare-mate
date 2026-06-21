@@ -31,16 +31,12 @@ tags:
 
 > Lanciando due dadi regolari con dodici facce, numerate da 1 a 12, la probabilità
 > che la somma dei valori delle facce sia 13 è:
-> (A) 1
-> 24
-> (B) 1
-> 12
-> (C) 13
-> 144
-> (D) 1
-> 6
-> (E) 13
-> 72.
+>
+> - **(A)** 1 24
+> - **(B)** 1 12
+> - **(C)** 13 144
+> - **(D)** 1 6
+> - **(E)** 13 72.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

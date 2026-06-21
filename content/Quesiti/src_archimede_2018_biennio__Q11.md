@@ -34,11 +34,12 @@ tags:
 
 > Quanti sono i diversi triangoli isosceli, con tutti i lati di lunghezze intere, aventi
 > un lato di lunghezza 2018 che è maggiore degli altri due?
-> (A) 1007
-> (B) 1006
-> (C) 1010
-> (D) 1008
-> (E) 1011
+>
+> - **(A)** 1007
+> - **(B)** 1006
+> - **(C)** 1010
+> - **(D)** 1008
+> - **(E)** 1011
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

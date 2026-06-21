@@ -30,11 +30,12 @@ tags:
 
 > Sappiamo che una sola delle tre seguenti relazioni è vera: x = 5, x > 5, x ≤5.
 > Quale delle seguenti affermazioni è sicuramente vera?
-> (A) x = 5
-> (B) x ̸= 5
-> (C) x > 5
-> (D) x < 5
-> (E) x ≥5.
+>
+> - **(A)** x = 5
+> - **(B)** x ̸= 5
+> - **(C)** x > 5
+> - **(D)** x < 5
+> - **(E)** x ≥5.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

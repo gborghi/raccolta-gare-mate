@@ -32,11 +32,12 @@ tags:
 > progressivamente la sua velocità, in modo che ogni chilometro viene coperto in 5
 > secondi in meno del precedente. Quanto tempo impiega per percorrere l’ultimo
 > chilometro?
-> (A) 2 minuti e 55 secondi,
-> (B) 3 minuti,
-> (C) 3 minuti e 5 secondi,
-> (D) 3 minuti e 10 secondi,
-> (E) 3 minuti e 15 secondi.
+>
+> - **(A)** 2 minuti e 55 secondi,
+> - **(B)** 3 minuti,
+> - **(C)** 3 minuti e 5 secondi,
+> - **(D)** 3 minuti e 10 secondi,
+> - **(E)** 3 minuti e 15 secondi.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

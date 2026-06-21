@@ -29,12 +29,12 @@ tags:
 *Prodotto dei primi due numeri somma di due quadrati*
 
 > Sommando il $25\%$ di $2018$ al $2018\%$ di $25$ quanto si ottiene?
-> 
-> (A) $1009$
-> (B) $2016$
-> (C) $2018$
-> (D) $3027$
-> (E) $5045$
+>
+> - **(A)** $1009$
+> - **(B)** $2016$
+> - **(C)** $2018$
+> - **(D)** $3027$
+> - **(E)** $5045$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

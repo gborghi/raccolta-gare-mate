@@ -31,14 +31,12 @@ tags:
 ![[src_kangourou_2021_preecolier_koala__prob19.png]]
 
 > Abbiamo posto nelle due scatole le cinque carte numerate che vedi qui sotto. La somma dei numeri delle carte nella prima scatola è uguale a quella dei numeri delle carte nella seconda. Quale può essere il numero di una carta che sta nella stessa scatola della carta 4?
-> 
-> (A) Solo il 3
-> (B) Solo il 5
-> (C) Solo il 6
-> (D) Solo il 5 o il 6
-> (E) È impossibile determinarlo
-> 
-> (vedi figura)
+>
+> - **(A)** Solo il 3
+> - **(B)** Solo il 5
+> - **(C)** Solo il 6
+> - **(D)** Solo il 5 o il 6
+> - **(E)** È impossibile determinarlo (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

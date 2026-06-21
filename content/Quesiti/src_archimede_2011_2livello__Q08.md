@@ -33,11 +33,12 @@ tags:
 > Quanti sono i numeri interi positivi di 10 cifre abcdefghij, con tutte le cifre diverse e che verificano
 > le condizioni a + j = b + i = c + h = d + g = e + f = 9 ?
 > Nota: un numero non può iniziare con 0.
-> (A) 3456
-> (B) 3528
-> (C) 3645
-> (D) 3840
-> (E) 5040.
+>
+> - **(A)** 3456
+> - **(B)** 3528
+> - **(C)** 3645
+> - **(D)** 3840
+> - **(E)** 5040.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

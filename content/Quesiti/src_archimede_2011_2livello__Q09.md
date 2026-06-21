@@ -34,11 +34,12 @@ tags:
 > strade ci sono due lampioni, posizionati in P e Q, tali che LP = 40 m e LQ = 90 m. Eva si trova
 > in E sull’altra strada, e vede i due lampioni sotto un angolo P bEQ. A che distanza da L si trova
 > Eva, se P bEQ ha la massima ampiezza possibile?
-> (A) 40 m
-> (B) 60 m
-> (C) 65 m
-> (D) 90 m
-> (E) la distanza dipende da α.
+>
+> - **(A)** 40 m
+> - **(B)** 60 m
+> - **(C)** 65 m
+> - **(D)** 90 m
+> - **(E)** la distanza dipende da α.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

@@ -31,7 +31,7 @@ tags:
 *Numero nascosto dalla macchia nelle addizioni*
 
 > Francesca doveva svolgere quattro addizioni e riportarle nella tabella sottostante, secondo lo schema suggerito dalla prima riga. Sul lavoro correttamente eseguito è caduta una macchia nera. Quale numero si trovava nel posto indicato dal punto di domanda?
-> 
+>
 > La tabella mostra:
 > $$\begin{array}{c|c|c}
 > + & 10 & 7 \\
@@ -40,14 +40,12 @@ tags:
 > \hline
 > \text{?} & 14 & ? \\
 > \end{array}$$
-> 
-> (A) 10
-> (B) 11
-> (C) 12
-> (D) 13
-> (E) 15
-> 
-> (vedi figura)
+>
+> - **(A)** 10
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 13
+> - **(E)** 15 (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

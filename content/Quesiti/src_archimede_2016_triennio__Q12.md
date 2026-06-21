@@ -30,11 +30,12 @@ tags:
 
 > Si lanciano due dadi da gioco di colore rosso e un dado azzurro. Qual è la probabilità
 > che la somma dei punteggi dei dadi rossi sia uguale al punteggio del dado azzurro?
-> (A) 1/12
-> (B) 2/27
-> (C) 1/15
-> (D) 1/18
-> (E) 5/72
+>
+> - **(A)** 1/12
+> - **(B)** 2/27
+> - **(C)** 1/15
+> - **(D)** 1/18
+> - **(E)** 5/72
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

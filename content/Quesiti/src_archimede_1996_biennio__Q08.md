@@ -31,17 +31,12 @@ tags:
 > Nel rettangolo ABCD (vertici indicati in senso antiorario), E ed F sono i punti
 > medi dei lati maggiori AD e BC rispettivamente. Sapendo che ABFE è simile a
 > ABCD, quanto vale AD/AB?
-> (A) 7
-> 5
-> (B) 3
-> 2
-> (C)
-> √
-> 3
-> (D) 2
-> √
-> 2
-> (E) le precedenti risposte sono tutte sbagliate.
+>
+> - **(A)** 7 5
+> - **(B)** 3 2
+> - **(C)** √ 3
+> - **(D)** 2 √ 2
+> - **(E)** le precedenti risposte sono tutte sbagliate.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

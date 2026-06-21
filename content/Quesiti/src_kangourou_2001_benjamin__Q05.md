@@ -30,11 +30,12 @@ tags:
 
 > Vi sono 108 poltrone in un aereo passeggeri. Vi è una poltrona
 > vuota ogni due passeggeri. Quanti sono i passeggeri su quell'aereo?
-> (A) 36
-> (B) 42
-> (C) 56
-> (D) 64
-> (E) 72.
+>
+> - **(A)** 36
+> - **(B)** 42
+> - **(C)** 56
+> - **(D)** 64
+> - **(E)** 72.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

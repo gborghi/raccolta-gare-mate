@@ -32,14 +32,12 @@ tags:
 
 > Determinare il volume della regione di spazio attraversata dalla superficie nel corso di una rotazione di 180°attorno alla retta
 > tratteggiata.
-> (A) 2
-> 3π
-> (B) 4π
-> (C) 16π
-> 3
-> (D) 35π
-> 6
-> (E) 6π
+>
+> - **(A)** 2 3π
+> - **(B)** 4π
+> - **(C)** 16π 3
+> - **(D)** 35π 6
+> - **(E)** 6π
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

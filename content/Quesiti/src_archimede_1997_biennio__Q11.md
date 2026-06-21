@@ -31,11 +31,12 @@ tags:
 > Da una lamiera di forma quadrata si taglia un cerchio del diametro massimo
 > possibile, successivamente da tale cerchio si taglia un quadrato di lato massimo
 > possibile. La percentuale di lamiera sprecata è
-> (A) 1/4 della lamiera originale
-> (B) 1/2 della lamiera originale
-> (C) 1/2 della lamiera circolare
-> (D) 1/4 della lamiera circolare
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 1/4 della lamiera originale
+> - **(B)** 1/2 della lamiera originale
+> - **(C)** 1/2 della lamiera circolare
+> - **(D)** 1/4 della lamiera circolare
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

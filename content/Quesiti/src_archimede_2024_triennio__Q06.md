@@ -36,15 +36,12 @@ tags:
 > (x3 −2)4 + 1
 > 
 > = 0
-> (A) 0
-> (B) 5
-> 4
-> (C) 7
-> 2
-> (D) 9
-> 4
-> (E) −1
-> 2
+>
+> - **(A)** 0
+> - **(B)** 5 4
+> - **(C)** 7 2
+> - **(D)** 9 4
+> - **(E)** −1 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

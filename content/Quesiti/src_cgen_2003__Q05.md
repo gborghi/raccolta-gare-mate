@@ -1,0 +1,77 @@
+---
+title: Concours Général des Lycées 2003 — Matematica — Quesito 5
+tipo: quesito
+quesito_id: quesito_src_cgen_2003__Q05
+parent: src_cgen_2003
+competition: Concours Général des Lycées 2003 — Matematica
+family: concours_generale
+year: '2003'
+level: Concours Général
+country: Francia
+modalita: individuale
+quesito: '5'
+summary: >-
+  Fourth part: construction of remarkable orthocentric sets on the hyperbola
+  $xy=k$; orthocentre conditions for points on the hyperbola; a quadratic with
+  irrational roots and a similitude $z\mapsto(1-ri)z$; and that the
+  integer-coordinate points of $X$ form an infinite orthocentric set.
+qa_score: '4'
+topics:
+  - topic_geometria_analitica
+  - topic_aritmetica
+  - topic_algebra
+  - topic_insiemi_funzioni
+methods:
+  - method_coordinate
+  - method_fattorizzazione
+  - method_congruenze
+  - method_induzione
+skills:
+  - skill_manipolazione_algebrica
+  - skill_ragionamento_geometrico
+  - skill_astrazione
+  - skill_riconoscimento_pattern
+tags:
+  - kg/quesito
+  - paese/francia
+  - comp/concours-generale
+  - anno/2003
+  - livello/Concours-Général
+  - topic/geometria_analitica
+  - topic/aritmetica
+  - topic/algebra
+  - topic/insiemi_funzioni
+  - gara/individuale
+---
+
+*Fourth part: construction of remarkable orthocentric sets on the hyperbola $xy=k$; orthocentre conditions for points on the hyperbola; a quadratic with irrational roots and a similitude $z\mapsto(1-ri)z$; and that the integer-coordinate points of $X$ form an infinite orthocentric set.*
+
+> Quatrieme partie.
+> 
+> The objective of this part is the construction of remarkable orthocentric sets.
+> 
+> 1. Let $k$ be a nonzero real and let $Y$ be the hyperbola of equation $xy=k$.
+>    a. Let $A$, $B$, $C$, $D$ be four distinct points of $Y$, with respective abscissae $a$, $b$, $c$, $d$. Show that $\overrightarrow{AB}$ and $\overrightarrow{CD}$ are orthogonal if and only if $abcd=-k^2$.
+>    b. Let $A$, $B$, $C$ be three distinct points of $Y$, with respective abscissae $a$, $b$, $c$. Determine the orthocentre of $ABC$.
+>    c. Show that $Y$ is orthocentric.
+> 
+> In the whole of the remainder of the fourth part, one considers a nonzero relative integer $q$ and one denotes by $X$ the set of points of equation $x^2+qxy-y^2=1$.
+> 
+> 2.
+>    a. Show that the equation $t^2-qt-1$ has two distinct real roots. Show that these roots are irrational.
+> 
+> In the whole of the remainder of the fourth part, one denotes by $r$ and $r'$ these two roots and by $s$ the similitude defined by the complex representation $z\mapsto(1-ri)z$.
+>    b. Show that $s(X)$ is a hyperbola, of equation $xy=k$, where $k$ is a real number to be determined. Deduce that $X$ is an orthocentric set.
+> 
+> 3. Let $G$ be the set of points of $X$ with integer coordinates and $\Gamma$ the set of abscissae of the elements of $s(G)$.
+>    a. Verify that $\Gamma$ is the set of real numbers of the form $x+ry$, where $x$ and $y$ are two integers such that $(x+ry)(x+r'y)=1$.
+>    b. Show that $-1\in\Gamma$; show that $r^2\in\Gamma$.
+>    c. Show that the product of two elements of $\Gamma$ is an element of $\Gamma$ and that the inverse of an element of $\Gamma$ is an element of $\Gamma$. Show that $\Gamma$ possesses infinitely many elements.
+> 
+> 4. Deduce from the above that the set $G$ of integer-coordinate points of $X$ is an infinite orthocentric set.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** apri PDF

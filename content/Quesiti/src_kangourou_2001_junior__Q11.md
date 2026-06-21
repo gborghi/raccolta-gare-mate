@@ -32,12 +32,12 @@ tags:
 
 > a, b, c e d sono interi positivi tali che a + b = c d e che a + b + c = 12. Quanti
 > sono i possibili diversi valori che può assumere  d ?
-> (A) 2
-> (B) 3 
-> (C) 4
-> (D) 5
-> (E)
-> 6.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

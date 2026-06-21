@@ -31,12 +31,12 @@ tags:
 *Allineamenti di sei cifre monotoni non tutti uguali*
 
 > Una sala ha cinque porte: da ognuna di esse si può sia entrare sia uscire. Se vuoi entrare e uscire da due porte diverse, in quanti modi puoi farlo?
-> 
-> (A) 25
-> (B) 20
-> (C) 16
-> (D) 15
-> (E) 10
+>
+> - **(A)** 25
+> - **(B)** 20
+> - **(C)** 16
+> - **(D)** 15
+> - **(E)** 10
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

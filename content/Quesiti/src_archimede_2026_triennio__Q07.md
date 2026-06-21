@@ -39,16 +39,12 @@ tags:
 > F
 > G
 > H
-> (A) 25/3
-> (B) 9
-> (C) 8
-> (D) 16
-> 3
-> √
-> 2
-> (E) 6
-> √
-> 2
+>
+> - **(A)** 25/3
+> - **(B)** 9
+> - **(C)** 8
+> - **(D)** 16 3 √ 2
+> - **(E)** 6 √ 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

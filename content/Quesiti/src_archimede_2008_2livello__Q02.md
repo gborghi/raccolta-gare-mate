@@ -36,11 +36,12 @@ tags:
 > di lato 203 caselle. Le caselle sono colorate di bianco e di nero a cornici
 > concentriche alternate; la cornice più esterna è nera, mentre la casella centrale è bianca (vedi a fianco un esempio 7 × 7). Qual è la differenza tra il
 > numero di caselle nere e il numero di caselle bianche presenti nello schema?
-> (A) 103
-> (B) 203
-> (C) 207
-> (D) 303
-> (E) 407.
+>
+> - **(A)** 103
+> - **(B)** 203
+> - **(C)** 207
+> - **(D)** 303
+> - **(E)** 407.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

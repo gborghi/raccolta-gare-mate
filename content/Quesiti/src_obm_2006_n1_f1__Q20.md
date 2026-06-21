@@ -39,12 +39,12 @@ tags:
 *Planet POT: weeks per month given unusual time units*
 
 > On the planet POT, the number of hours per day equals the number of days per week, which equals the number of weeks per month, which equals the number of months per year. Knowing that on POT there are 4096 hours per year, how many weeks are there in a month?
-> 
-> (A) 8
-> (B) 12
-> (C) 64
-> (D) 128
-> (E) 256
+>
+> - **(A)** 8
+> - **(B)** 12
+> - **(C)** 64
+> - **(D)** 128
+> - **(E)** 256
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

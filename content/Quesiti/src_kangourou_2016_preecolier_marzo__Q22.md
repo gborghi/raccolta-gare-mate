@@ -29,12 +29,12 @@ tags:
 *Disegno ottenibile sovrapponendo cartoncini colorati*
 
 > Gloria ha i cinque cartoncini colorati (non trasparenti) che vedi in figura. Quale dei cinque disegni rappresentati sotto può ottenere, eventualmente sovrapponendo in tutto o in parte i cartoncini, ma senza tagliarli? (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

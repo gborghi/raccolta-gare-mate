@@ -35,17 +35,12 @@ tags:
 > a p. Il tetraedro viene ruotato di 90°mediante una rotazione che ha per asse la
 > retta che contiene uno degli spigoli che poggiano su p. Calcolare a quale distanza
 > dal piano p si trova il vertice V dopo la rotazione.
-> (A)
-> 1
-> √
-> 3 cm,
-> (B) 2
-> 3 cm,
-> (C) 3 cm,
-> (D) 3
-> √
-> 3 cm,
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 1 √ 3 cm,
+> - **(B)** 2 3 cm,
+> - **(C)** 3 cm,
+> - **(D)** 3 √ 3 cm,
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

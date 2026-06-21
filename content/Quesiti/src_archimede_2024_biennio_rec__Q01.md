@@ -30,11 +30,12 @@ tags:
 *Numeri naturali sotto 1000 con somma delle cifre 3*
 
 > Quanti sono i numeri naturali minori di 1000 nei quali la somma delle cifre è 3?
-> (A) 10
-> (B) 9
-> (C) 8
-> (D) 7
-> (E) 6
+>
+> - **(A)** 10
+> - **(B)** 9
+> - **(C)** 8
+> - **(D)** 7
+> - **(E)** 6
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

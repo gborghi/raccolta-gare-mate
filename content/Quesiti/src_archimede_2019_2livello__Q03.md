@@ -35,11 +35,12 @@ tags:
 > di tre colori diversi. Ora Alice deve andare a Cesenatico e dovrà avere in valigia almeno tre paia
 > di calzini di tre colori diversi (i due calzini di ogni paio devono essere dello stesso colore). Quante
 > buste deve prendere Alice, come minimo, per essere sicura di avere tutti i calzini che le servono?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

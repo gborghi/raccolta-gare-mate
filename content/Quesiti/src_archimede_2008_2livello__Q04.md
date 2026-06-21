@@ -38,11 +38,12 @@ tags:
 > .
 > Il responso dell’oracolo è che Andrea non ha nessuna coppia di numeri fortunati, mentre le coppie
 > di numeri fortunati di Francesco sono infinite. Quale delle affermazioni seguenti è corretta?
-> (A) Francesco e Andrea sono entrambi nati in primavera
-> (B) Francesco e Andrea sono entrambi nati in estate
-> (C) Francesco e Andrea sono entrambi nati in autunno
-> (D) Francesco e Andrea sono entrambi nati in inverno
-> (E) Francesco e Andrea sono nati in stagioni diverse.
+>
+> - **(A)** Francesco e Andrea sono entrambi nati in primavera
+> - **(B)** Francesco e Andrea sono entrambi nati in estate
+> - **(C)** Francesco e Andrea sono entrambi nati in autunno
+> - **(D)** Francesco e Andrea sono entrambi nati in inverno
+> - **(E)** Francesco e Andrea sono nati in stagioni diverse.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

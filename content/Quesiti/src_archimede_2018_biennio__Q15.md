@@ -35,11 +35,12 @@ tags:
 > disporre 99 monete, ciascuna in una casella della tabella, in modo che non vi siano
 > coppie di caselle con un lato in comune entrambe occupate da una moneta. In
 > quanti modi diversi Michela potrà collocare le 99 monete?
-> (A) 200
-> (B) 396
-> (C) 402
-> (D) 400
-> (E) 202
+>
+> - **(A)** 200
+> - **(B)** 396
+> - **(C)** 402
+> - **(D)** 400
+> - **(E)** 202
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

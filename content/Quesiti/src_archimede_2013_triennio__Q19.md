@@ -32,11 +32,12 @@ tags:
 > non nulli di gradi diversi tra loro (ad esempio −x5 + 3x2 + 2x è un trinomio).
 > Facciamo il prodotto p(x)q(x): da quanti monomi non nulli è composto, come
 > minimo, tale prodotto?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

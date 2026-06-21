@@ -30,11 +30,12 @@ tags:
 
 > Uno studente he avuto una media di 6 e 1/2 nei primi quattro compiti. Quale
 > voto deve prendere nel quinto per ottenere la media del 7?
-> (A) 7 e 1/2
-> (B) 8 e 1/2
-> (C) 9
-> (D) 10
-> (E) non ce la può fare.
+>
+> - **(A)** 7 e 1/2
+> - **(B)** 8 e 1/2
+> - **(C)** 9
+> - **(D)** 10
+> - **(E)** non ce la può fare.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

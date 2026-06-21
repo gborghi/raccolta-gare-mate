@@ -29,12 +29,12 @@ tags:
 *Affermazione vera con quantificatori nei razionali*
 
 > Quale delle seguenti affermazioni è vera nell'insieme dei numeri razionali?
-> 
-> (A) Per ogni $x$ c'è un $y$ tale che per ogni $z$ si ha $x + y + z = x$
-> (B) per ogni $x$ c'è un $y$ tale che per ogni $z$ si ha $x + y + z = z$
-> (C) per ogni $x$ c'è un $y$ tale che per ogni $z$ si ha $xyz = x$
-> (D) per ogni $x$ c'è un $y$ tale che per ogni $z$ si ha $xyz = z$
-> (E) nessuna delle affermazioni precedenti è corretta.
+>
+> - **(A)** Per ogni $x$ c'è un $y$ tale che per ogni $z$ si ha $x + y + z = x$
+> - **(B)** per ogni $x$ c'è un $y$ tale che per ogni $z$ si ha $x + y + z = z$
+> - **(C)** per ogni $x$ c'è un $y$ tale che per ogni $z$ si ha $xyz = x$
+> - **(D)** per ogni $x$ c'è un $y$ tale che per ogni $z$ si ha $xyz = z$
+> - **(E)** nessuna delle affermazioni precedenti è corretta.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]

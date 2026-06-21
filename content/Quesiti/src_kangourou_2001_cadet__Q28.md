@@ -32,11 +32,12 @@ tags:
 
 > Il prodotto delle età dei miei figli (in anni) vale 1664. Il minore ha la metà degli
 > anni del maggiore e non vi sono gemelli. Quanti figli ho?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

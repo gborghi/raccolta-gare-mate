@@ -34,11 +34,12 @@ tags:
 > Nella tomba del faraone Tetrankamon è stato ritrovato uno smeraldo, lavorato a
 > forma di tetraedro (piramide a base triangolare) i cui spigoli misurano in millimetri 54, 32, 32, 29, 27, 20. Indicando con A, B, C, D i vertici del tetraedro e
 > sapendo che AB è lungo 54, quanti millimetri è lungo CD?
-> (A) 32
-> (B) 29
-> (C) 27
-> (D) 20
-> (E) non si può determinare.
+>
+> - **(A)** 32
+> - **(B)** 29
+> - **(C)** 27
+> - **(D)** 20
+> - **(E)** non si può determinare.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Analisi per casi]]

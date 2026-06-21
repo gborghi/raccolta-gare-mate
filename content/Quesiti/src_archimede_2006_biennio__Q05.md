@@ -34,11 +34,12 @@ tags:
 > quadrato, 9, poi cancella il 9 e lo sostituisce con il suo quadrato, 81. Ripete questa
 > operazione per 2006 volte in totale: ogni volta sostituisce il numero scritto con il
 > suo quadrato. Qual è la cifra delle unità dell’ultimo numero scritto?
-> (A) 1,
-> (B) 3,
-> (C) 5,
-> (D) 7,
-> (E) 9.
+>
+> - **(A)** 1,
+> - **(B)** 3,
+> - **(C)** 5,
+> - **(D)** 7,
+> - **(E)** 9.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

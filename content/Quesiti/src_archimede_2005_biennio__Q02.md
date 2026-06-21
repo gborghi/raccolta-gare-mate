@@ -33,13 +33,12 @@ tags:
 
 > √
 > 1212 è uguale a:
-> (A) 66,
-> (B) 122
-> √
-> 3,
-> (C) 212 36,
-> (D) 612,
-> (E) nessuno dei numeri precedenti.
+>
+> - **(A)** 66,
+> - **(B)** 122 √ 3,
+> - **(C)** 212 36,
+> - **(D)** 612,
+> - **(E)** nessuno dei numeri precedenti.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]

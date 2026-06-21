@@ -33,11 +33,12 @@ tags:
 > ACB. Sapendo che CB = CD, quanto misura l’angolo
 > d
 > ADC?
-> (A) 90°,
-> (B) 108°,
-> (C) 120°,
-> (D) 144°,
-> (E) 155°.
+>
+> - **(A)** 90°,
+> - **(B)** 108°,
+> - **(C)** 120°,
+> - **(D)** 144°,
+> - **(E)** 155°.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

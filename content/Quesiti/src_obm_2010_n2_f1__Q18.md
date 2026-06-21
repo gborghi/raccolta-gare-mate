@@ -38,12 +38,12 @@ tags:
 *Icosahedron net, faces 1-5 around each vertex, find number at question mark*
 
 > The figure below was cut from cartolina and then folded to form an icosahedron. The blank faces were numbered so that around each vertex (points of the solid) the numbers from $1$ to $5$ appear. Which number is on the face with the question mark?
-> 
-> (A) $1$
-> (B) $2$
-> (C) $3$
-> (D) $4$
-> (E) $5$
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** $5$
 
 ![[src_obm_2010_n2_f1__Q18.png]]
 

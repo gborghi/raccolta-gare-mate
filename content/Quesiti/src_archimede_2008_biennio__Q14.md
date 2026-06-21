@@ -37,12 +37,12 @@ tags:
 > tra 0 e 10 (0 e 10 inclusi). Il numero scritto su ogni pallina se non è zero è la somma
 > dei numeri scritti su tutte le altre palline. Allora le palline su cui è scritto zero
 > sono:
-> (A) non più di cinque,
-> (B) dieci,
-> (C) tredici,
-> (D) sedici,
-> (E) almeno
-> diciotto.
+>
+> - **(A)** non più di cinque,
+> - **(B)** dieci,
+> - **(C)** tredici,
+> - **(D)** sedici,
+> - **(E)** almeno diciotto.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

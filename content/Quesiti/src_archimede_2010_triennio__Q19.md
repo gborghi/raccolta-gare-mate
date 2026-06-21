@@ -37,11 +37,12 @@ tags:
 > viola”; secondo gatto: “Almeno 3 di noi sono viola”, terzo gatto: “Il primo gatto è
 > nero”, quarto gatto: “Almeno 3 di noi sono neri”, quinto gatto: “Siamo tutti neri”.
 > Quanti dei 5 gatti sono viola?
-> (A) nessuno,
-> (B) 1,
-> (C) 2,
-> (D) 3,
-> (E) 4.
+>
+> - **(A)** nessuno,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

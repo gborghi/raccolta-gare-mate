@@ -38,11 +38,12 @@ tags:
 > Sapendo che \
 > SKR = \
 > PQR, quale sarà la misura di KQ ?
-> (A) 17
-> (B) 13
-> (C) 15
-> (D) 16
-> (E) 20
+>
+> - **(A)** 17
+> - **(B)** 13
+> - **(C)** 15
+> - **(D)** 16
+> - **(E)** 20
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

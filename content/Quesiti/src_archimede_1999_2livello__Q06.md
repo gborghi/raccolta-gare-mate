@@ -31,12 +31,12 @@ tags:
 ![[src_archimede_1999_2livello__prob6.png]]
 
 > Determinare l'area della parte ombreggiata, sapendo che la circonferenza più grande ha raggio 1. (vedi figura)
-> 
-> (A) $(2 + \pi)(1 + \sqrt{2})$
-> (B) $(2 + \pi)(2 - \sqrt{2})$
-> (C) $(1 - \pi)(1 + \sqrt{2})$
-> (D) $(1 - \pi)(3 - 2\sqrt{2})$
-> (E) $(\sqrt{2} + \pi)(1 + 2\sqrt{2})$.
+>
+> - **(A)** $(2 + \pi)(1 + \sqrt{2})$
+> - **(B)** $(2 + \pi)(2 - \sqrt{2})$
+> - **(C)** $(1 - \pi)(1 + \sqrt{2})$
+> - **(D)** $(1 - \pi)(3 - 2\sqrt{2})$
+> - **(E)** $(\sqrt{2} + \pi)(1 + 2\sqrt{2})$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

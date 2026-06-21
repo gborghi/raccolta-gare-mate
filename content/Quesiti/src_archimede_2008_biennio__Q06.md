@@ -31,16 +31,12 @@ tags:
 
 > In un triangolo rettangolo ABC i cateti BC e CA misurano 7 cm e 24 cm rispettivamente. Sia H la proiezione di C sull’ipotenusa AB. Quanto vale il perimetro
 > del triangolo HBC?
-> (A) 262
-> 25 cm,
-> (B) 501
-> 49 cm,
-> (C) 392
-> 25 cm,
-> (D) 801
-> 49 cm,
-> (E) 412
-> 25 cm.
+>
+> - **(A)** 262 25 cm,
+> - **(B)** 501 49 cm,
+> - **(C)** 392 25 cm,
+> - **(D)** 801 49 cm,
+> - **(E)** 412 25 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -32,11 +32,12 @@ tags:
 > Ogni ora il patrimonio di zio Paperone aumenta del 50%. Se alle 12 di un certo
 > giorno Paperone possiede 64 fantastiliardi, quale sarà il suo patrimonio alle 16 dello
 > stesso giorno?
-> (A) 192 fantastiliardi,
-> (B) 256 fantastiliardi,
-> (C) 324 fantastiliardi,
-> (D) 486 fantastiliardi,
-> (E) 1024 fantastiliardi.
+>
+> - **(A)** 192 fantastiliardi,
+> - **(B)** 256 fantastiliardi,
+> - **(C)** 324 fantastiliardi,
+> - **(D)** 486 fantastiliardi,
+> - **(E)** 1024 fantastiliardi.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

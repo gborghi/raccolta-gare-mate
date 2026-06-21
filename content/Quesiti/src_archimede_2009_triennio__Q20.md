@@ -32,11 +32,12 @@ tags:
 
 > Qual è la cifra delle unità del numero: 6666
 > 2 ?
-> (A) 1,
-> (B) 3,
-> (C) 6,
-> (D) 8,
-> (E) 9.
+>
+> - **(A)** 1,
+> - **(B)** 3,
+> - **(C)** 6,
+> - **(D)** 8,
+> - **(E)** 9.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob15.png]]
 
 > Sul tavolo c'è questa carta. Essa viene capovolta lungo il suo lato superiore e poi lungo il lato sinistro, come indica il disegno. Quale di questi è l'aspetto della carta dopo i due movimenti?
-> 
+>
 > (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

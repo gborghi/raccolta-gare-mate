@@ -33,11 +33,12 @@ tags:
 *Segno (cavaliere/furfante/normale) di un abitante che afferma di essere cavaliere*
 
 > Quanto fa 0, 032/0, 8?
-> (A) 0, 0004
-> (B) 0, 004
-> (C) 0, 04
-> (D) 0, 4
-> (E) 400.
+>
+> - **(A)** 0, 0004
+> - **(B)** 0, 004
+> - **(C)** 0, 04
+> - **(D)** 0, 4
+> - **(E)** 400.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

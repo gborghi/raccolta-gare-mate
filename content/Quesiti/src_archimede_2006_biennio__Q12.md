@@ -32,11 +32,12 @@ tags:
 
 > In quanti modi distinti si possono ordinare le lettere L, A, P, I, S, in modo che la
 > prima e l’ultima lettera siano vocali?
-> (A) 6,
-> (B) 8,
-> (C) 10,
-> (D) 12,
-> (E) 24.
+>
+> - **(A)** 6,
+> - **(B)** 8,
+> - **(C)** 10,
+> - **(D)** 12,
+> - **(E)** 24.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

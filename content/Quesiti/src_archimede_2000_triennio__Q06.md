@@ -33,11 +33,12 @@ tags:
 > Si considerino i numeri naturali n di tre cifre che verificano la seguente proprietà:
 > le cifre di n sono tre numeri consecutivi in ordine qualsiasi (esempio 645). Quanti
 > fra questi numeri sono primi?
-> (A) Nessuno
-> (B) 1
-> (C) 2
-> (D) più di 2, ma meno di 10
-> (E) più di 10.
+>
+> - **(A)** Nessuno
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** più di 2, ma meno di 10
+> - **(E)** più di 10.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

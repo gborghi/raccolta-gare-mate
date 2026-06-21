@@ -32,11 +32,12 @@ tags:
 
 > Quanti sono i numeri naturali di quattro cifre in cui compare una e una sola volta
 > la cifra 5 ed essa è la cifra più grande presente nel numero?
-> (A) 225,
-> (B) 400,
-> (C) 425,
-> (D) 525,
-> (E) 600.
+>
+> - **(A)** 225,
+> - **(B)** 400,
+> - **(C)** 425,
+> - **(D)** 525,
+> - **(E)** 600.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

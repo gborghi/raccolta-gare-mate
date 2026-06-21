@@ -31,11 +31,12 @@ tags:
 
 > La percentuale di femmine che nascono nei parti gemellari è del 48,5%. Supponendo che nei parti gemellari la probabilità che i due nati siano di sesso differente
 > sia del 33%, qual è la probabilità che in un parto gemellare nascano due femmine?
-> (A) 32%
-> (B) 33%
-> (C) 33,33%
-> (D) 35%
-> (E) 50%.
+>
+> - **(A)** 32%
+> - **(B)** 33%
+> - **(C)** 33,33%
+> - **(D)** 35%
+> - **(E)** 50%.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casework|Analisi per casi]]

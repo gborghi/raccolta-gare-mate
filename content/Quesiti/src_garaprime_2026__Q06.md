@@ -31,12 +31,12 @@ tags:
 
 > Sia N il prodotto di tutti gli interi positivi, minori o uguali a 100, che hanno esattamente 3 divisori. Qual
 > è il più piccolo valore di M tale che N risulti divisibile per M, ma non per M2 ?
-> (A) M = 2
-> (B) M = 8
-> (C)
-> M = 4
-> (D) M = 10
-> (E) M = 6
+>
+> - **(A)** M = 2
+> - **(B)** M = 8
+> - **(C)** M = 4
+> - **(D)** M = 10
+> - **(E)** M = 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

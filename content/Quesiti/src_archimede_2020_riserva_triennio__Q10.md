@@ -29,18 +29,12 @@ tags:
 
 > I lati CD, DE, EC di un triangolo CDE misurano, rispettivamente, 13 m, 17 m, 21 m. Le bisettrici uscenti dai
 > vertici C e D intersecano i lati opposti nei punti F e G. Detta A l’area di CDE, qual è l’area del triangolo EFG?
-> (A) 4
-> 9A
-> (B)
-> 7
-> 20A
-> (C) 1
-> 3A
-> (D) 1
-> 4A
-> (E)
-> 5
-> 14A
+>
+> - **(A)** 4 9A
+> - **(B)** 7 20A
+> - **(C)** 1 3A
+> - **(D)** 1 4A
+> - **(E)** 5 14A
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

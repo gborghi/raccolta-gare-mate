@@ -31,11 +31,12 @@ tags:
 *Cifra delle unita di 2023^(2022^2021)*
 
 > Qual è la cifra delle unità del numero 2023(20222021)?
-> (A) 3
-> (B) 9
-> (C) 7
-> (D) 1
-> (E) 5
+>
+> - **(A)** 3
+> - **(B)** 9
+> - **(C)** 7
+> - **(D)** 1
+> - **(E)** 5
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

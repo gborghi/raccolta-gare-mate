@@ -45,11 +45,12 @@ tags:
 > quadro all’interno della cornice (rappresentato con un rettangolo grigio), il lato maggiore misura 32 cm e il lato minore
 > 24. Di quanti cm2 è l’area del rettangolo delimitato dal bordo
 > esterno della cornice?
-> (A) 1440
-> (B) 1200
-> (C) 1280
-> (D) 1600
-> (E) 1500
+>
+> - **(A)** 1440
+> - **(B)** 1200
+> - **(C)** 1280
+> - **(D)** 1600
+> - **(E)** 1500
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

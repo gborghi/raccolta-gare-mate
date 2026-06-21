@@ -35,11 +35,12 @@ tags:
 > Alberto un quarto delle ciliegie che hanno ricevuto. Alberto, con uno stomaco di
 > ferro, oltre alle sue divora anche quelle; alla fine, si accorge di aver mangiato non
 > meno di 150 ciliegie. Quante ne ha mangiate esattamente?
-> (A) 150
-> (B) 189
-> (C) 210
-> (D) 231
-> (E) 270
+>
+> - **(A)** 150
+> - **(B)** 189
+> - **(C)** 210
+> - **(D)** 231
+> - **(E)** 270
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

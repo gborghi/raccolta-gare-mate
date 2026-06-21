@@ -35,12 +35,12 @@ tags:
 *Order of cars arriving in a race from clues*
 
 > Juquinha and his friends organized a race with their cars. The white car (B) arrived before the red one (V) and after the maroon one (M). The yellow car (A) arrived after the maroon one and before the red one. From first to last, what is the order of the cars?
-> 
-> (A) $B - A - V - M$
-> (B) $B - V - A - M$
-> (C) $B - M - A - V$
-> (D) $B - M - V - A$
-> (E) $B - A - M - V$
+>
+> - **(A)** $B - A - V - M$
+> - **(B)** $B - V - A - M$
+> - **(C)** $B - M - A - V$
+> - **(D)** $B - M - V - A$
+> - **(E)** $B - A - M - V$
 
 ![[src_obm_2015_n2_f1__Q01.png]]
 

@@ -34,32 +34,12 @@ tags:
 > avente la diagonale lunga 2 cm e AEC è equilatero.
 > Quanto vale l’area del quadrilatero
 > AECB?
-> (A) (
-> √
-> 2
-> √
-> 3 −2)cm2,
-> (B) (
-> √
-> 3 −1)cm2,
-> (C) (2
-> √
-> 3 −
-> √
-> 2)cm2,
-> (D) (
-> √
-> 2 +
-> √
-> 3)cm2,
-> (E) (2 +
-> √
-> 3)cm2.
-> E
-> B
-> A
-> D
-> C
+>
+> - **(A)** ( √ 2 √ 3 −2)cm2,
+> - **(B)** ( √ 3 −1)cm2,
+> - **(C)** (2 √ 3 − √ 2)cm2,
+> - **(D)** ( √ 2 + √ 3)cm2,
+> - **(E)** (2 + √ 3)cm2. E B A D C
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

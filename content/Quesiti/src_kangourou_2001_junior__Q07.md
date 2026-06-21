@@ -31,14 +31,12 @@ tags:
 *Primi minori di 2001 con somma cifre 2*
 
 > Quanti sono i numeri primi minori di 2001 la somma delle cui cifre è uguale a 2?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) più di quattro.
-> 
-> Kangourou  15 marzo 2001. Categoria Junior. Pagina N.
-> 3
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** più di quattro. Kangourou 15 marzo 2001. Categoria Junior. Pagina N. 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -31,11 +31,12 @@ tags:
 > In una classe si è svolta una verifica di matematica e il voto medio è stato 7. Inoltre
 > il voto medio dei maschi è stato 6,5 mentre quello delle femmine è stato 8. Se i
 > maschi della classe sono 10, quante sono le femmine?
-> (A) 4,
-> (B) 5,
-> (C) 7,
-> (D) 9,
-> (E) 11.
+>
+> - **(A)** 4,
+> - **(B)** 5,
+> - **(C)** 7,
+> - **(D)** 9,
+> - **(E)** 11.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -33,17 +33,12 @@ tags:
 *Minimo di |x|+2|y| con x^2+4y^2=1*
 
 > Siano x e y numeri reali tali che si abbia x2 + 4y2 = 1; quanto vale come minimo |x| + 2|y|?
-> (A) 1
-> 2
-> (B) 1
-> (C)
-> √
-> 2
-> (D) 1 +
-> √
-> 2
-> 2
-> (E) 2
+>
+> - **(A)** 1 2
+> - **(B)** 1
+> - **(C)** √ 2
+> - **(D)** 1 + √ 2 2
+> - **(E)** 2
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

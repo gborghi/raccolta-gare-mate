@@ -31,11 +31,12 @@ tags:
 > Piero costruisce un cubo incollando 1000 piccoli cubetti tutti uguali (con 10 cubetti
 > lungo ogni spigolo). Dipinge quindi di verde tutte le facce del cubo che ha costruito.
 > Quanti dei cubetti iniziali avranno almeno una faccia colorata di verde?
-> (A) 600
-> (B) 384
-> (C) 504
-> (D) 488
-> (E) 592
+>
+> - **(A)** 600
+> - **(B)** 384
+> - **(C)** 504
+> - **(D)** 488
+> - **(E)** 592
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

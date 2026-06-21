@@ -31,11 +31,12 @@ tags:
 > Lancio simultaneamente tre dadi e sommo i punti che appaino
 > sulle loro facce superiori. Quanti sono i diversi valori possibili di
 > tale somma?
-> (A) 18
-> (B) 17
-> (C) 16
-> (D) 15
-> (E) 14.
+>
+> - **(A)** 18
+> - **(B)** 17
+> - **(C)** 16
+> - **(D)** 15
+> - **(E)** 14.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

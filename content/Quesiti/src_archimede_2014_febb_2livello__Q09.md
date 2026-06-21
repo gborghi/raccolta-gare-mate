@@ -40,16 +40,12 @@ tags:
 > destra e qualcuno alla mia destra va dritto (o a sinistra); se invece qualcuno va nella mia stessa
 > direzione non ci scontriamo; e così via. Se ciascuno dei cinque amici sceglie a caso dove andare,
 > con probabilità 1/3 per ciascuna direzione, qual è la probabilità che non ci siano scontri?
-> (A) 25
-> 27
-> (B) 3
-> 5
-> (C) 40
-> 81
-> (D) 1
-> 3
-> (E) 7
-> 81
+>
+> - **(A)** 25 27
+> - **(B)** 3 5
+> - **(C)** 40 81
+> - **(D)** 1 3
+> - **(E)** 7 81
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

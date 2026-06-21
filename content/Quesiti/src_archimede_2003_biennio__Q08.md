@@ -45,11 +45,12 @@ tags:
 > √
 > 3
 >  è:
-> (A) Intero
-> (B) razionale positivo, ma non intero
-> (C) razionale negativo, ma non intero
-> (D) irrazionale positivo
-> (E) irrazionale negativo.
+>
+> - **(A)** Intero
+> - **(B)** razionale positivo, ma non intero
+> - **(C)** razionale negativo, ma non intero
+> - **(D)** irrazionale positivo
+> - **(E)** irrazionale negativo.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

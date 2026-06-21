@@ -30,11 +30,12 @@ tags:
 
 > Sia n un numero intero che è multiplo di 1000 ma non di 10000.
 > Quale di queste affermazioni è sicuramente vera?
-> (A) n/3 è un numero la cui parte intera termina con le cifre 333 o 666.
-> (B) n/8 è un numero intero che termina con le cifre 25 o 75.
-> (C) n/125 è un numero intero che termina con le cifre 8 o 6.
-> (D) n è divisibile per 16.
-> (E) Nessuna delle precedenti.
+>
+> - **(A)** n/3 è un numero la cui parte intera termina con le cifre 333 o 666.
+> - **(B)** n/8 è un numero intero che termina con le cifre 25 o 75.
+> - **(C)** n/125 è un numero intero che termina con le cifre 8 o 6.
+> - **(D)** n è divisibile per 16.
+> - **(E)** Nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

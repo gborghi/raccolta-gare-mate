@@ -30,11 +30,12 @@ tags:
 
 > Il polinomio p è definito da p(x) = ax2005 + x + b, con a e b numeri reali. Per quali
 > valori di a e b si ha che p(x + 1) −p(x −1) = p(x) per ogni valore reale di x?
-> (A) a = 0, b = 2,
-> (B) a qualunque e b = 0,
-> (C) a = 1 e b qualunque,
-> (D) a = b = 0,
-> (E) per nessun valore di a e b.
+>
+> - **(A)** a = 0, b = 2,
+> - **(B)** a qualunque e b = 0,
+> - **(C)** a = 1 e b qualunque,
+> - **(D)** a = b = 0,
+> - **(E)** per nessun valore di a e b.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

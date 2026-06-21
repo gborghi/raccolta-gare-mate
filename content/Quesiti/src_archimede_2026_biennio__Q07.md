@@ -35,11 +35,12 @@ tags:
 > almeno una caramella; inoltre, per non creare malumori, i tre amici di Marco
 > dovranno ricevere lo stesso numero di caramelle. In quanti modi Marco potrà fare
 > la suddivisione?
-> (A) 27
-> (B) 32
-> (C) 26
-> (D) 30
-> (E) 28
+>
+> - **(A)** 27
+> - **(B)** 32
+> - **(C)** 26
+> - **(D)** 30
+> - **(E)** 28
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

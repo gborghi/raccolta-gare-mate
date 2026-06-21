@@ -38,11 +38,12 @@ tags:
 > (d) nella combinazione compaiono quattro cifre diverse, la cifra ripetuta è pari e compare in due
 > posizioni non consecutive.
 > Quante sono le combinazioni possibili in base a tali informazioni?
-> (A) 3150
-> (B) 4500
-> (C) 5400
-> (D) 7200
-> (E) 9000.
+>
+> - **(A)** 3150
+> - **(B)** 4500
+> - **(C)** 5400
+> - **(D)** 7200
+> - **(E)** 9000.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

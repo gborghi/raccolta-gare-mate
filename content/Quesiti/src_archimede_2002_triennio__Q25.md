@@ -31,11 +31,12 @@ tags:
 
 > L’Orue è una valuta che dispone di due sole monete, da 8 e da 11 centesimi. Qual
 > è la massima cifra che non può essere pagata esattamente?
-> (A) 58 centesimi
-> (B) 61 centesimi
-> (C) 87 centesimi
-> (D) esistono cifre arbitrariamente grandi che non sono pagabili esattamente
-> (E) nessuna delle precedenti risposte è corretta.
+>
+> - **(A)** 58 centesimi
+> - **(B)** 61 centesimi
+> - **(C)** 87 centesimi
+> - **(D)** esistono cifre arbitrariamente grandi che non sono pagabili esattamente
+> - **(E)** nessuna delle precedenti risposte è corretta.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

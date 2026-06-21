@@ -31,11 +31,12 @@ tags:
 *Numeri naturali n tali che 2n divide n+30*
 
 > Quanti sono i numeri naturali n tali che 2n divide n + 30?
-> (A) uno,
-> (B) due,
-> (C) tre,
-> (D) quattro,
-> (E) più di quattro.
+>
+> - **(A)** uno,
+> - **(B)** due,
+> - **(C)** tre,
+> - **(D)** quattro,
+> - **(E)** più di quattro.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

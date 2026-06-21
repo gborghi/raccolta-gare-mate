@@ -36,14 +36,12 @@ tags:
 > 2, 3, … . Nel momento in cui la cabina n. 25 è nella
 > posizione più bassa la cabina n. 8 è nella posizione più
 > alta. Quante cabine vi sono su quella ruota panoramica?
-> (A) 33
-> (B) 34
-> (C) 35
-> (D) 36
-> (E) 37.
-> 
-> Kangourou 15 marzo 2001, categoria Benjamin.     Pagina N.
-> 6
+>
+> - **(A)** 33
+> - **(B)** 34
+> - **(C)** 35
+> - **(D)** 36
+> - **(E)** 37. Kangourou 15 marzo 2001, categoria Benjamin. Pagina N. 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

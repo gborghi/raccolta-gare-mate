@@ -40,12 +40,12 @@ tags:
 *Value of an expression with powers of 2015 and 2014*
 
 > What is the value of the expression $2015^2 - 2015 \times 2014 - 2014^2 + 2014 \times 2015$?
-> 
-> (A) 0
-> (B) 1
-> (C) 2015
-> (D) 2029
-> (E) 4029
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2015
+> - **(D)** 2029
+> - **(E)** 4029
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

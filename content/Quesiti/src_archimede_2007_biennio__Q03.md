@@ -33,11 +33,12 @@ tags:
 > Un giornale costa 0,90 Euro; a chi lo acquista viene offerto un supplemento facoltativo del costo di 1,50 Euro. A fine giornata sono state vendute 333 copie del
 > giornale e l’incasso complessivo della vendita del giornale e dei relativi supplementi
 > è stato di 539,70 Euro. Quanti supplementi sono stati acquistati?
-> (A) Meno di 66,
-> (B) più di 67 e meno di 132,
-> (C) più di 133 e meno di 200,
-> (D) più di 201 e meno di 266,
-> (E) più di 266.
+>
+> - **(A)** Meno di 66,
+> - **(B)** più di 67 e meno di 132,
+> - **(C)** più di 133 e meno di 200,
+> - **(D)** più di 201 e meno di 266,
+> - **(E)** più di 266.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

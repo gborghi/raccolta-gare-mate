@@ -37,11 +37,12 @@ tags:
 > Con che punteggio è terminata Austria-Danimarca?
 > Nota: Si ricorda che, in ogni partita disputata nel girone, la squadra vincitrice guadagna 3 punti, quella
 > perdente 0 punti; in caso di pareggio ciascuna delle due squadre guadagna 1 punto.
-> (A) 1–0
-> (B) 2–1
-> (C) 2–0
-> (D) 0–0
-> (E) non può essere determinata coi soli dati forniti.
+>
+> - **(A)** 1–0
+> - **(B)** 2–1
+> - **(C)** 2–0
+> - **(D)** 0–0
+> - **(E)** non può essere determinata coi soli dati forniti.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

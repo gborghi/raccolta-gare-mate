@@ -30,12 +30,12 @@ tags:
 *Area intersezione di due cerchi l'occhio*
 
 > Immagina di avere scritto in ordine crescente ogni numero naturale $n$ esattamente $n$ volte: $1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \ldots$ e così via. Dal primo al $10^5$-esimo numero della lista, quanti dei numeri scritti sono divisibili per $3$?
-> 
-> (A) $4$
-> (B) $12$
-> (C) $21$
-> (D) $30$
-> (E) $45$
+>
+> - **(A)** $4$
+> - **(B)** $12$
+> - **(C)** $21$
+> - **(D)** $30$
+> - **(E)** $45$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]

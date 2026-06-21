@@ -34,11 +34,12 @@ tags:
 ![[src_archimede_2001_biennio__prob13.png]]
 
 > Quanti pentagoni si vedono nella figura a fianco?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

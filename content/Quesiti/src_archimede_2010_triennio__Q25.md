@@ -35,18 +35,12 @@ tags:
 > sceglie una maglia a caso, tranne Danilo che preferisce la maglia numero 8 e, se è
 > disponibile, sceglie quella. Qual è la probabilità che Danilo riesca ad ottenere il suo
 > numero di maglia preferito?
-> (A) 4
-> 9,
-> (B)
-> 5
-> 11,
-> (C) 1
-> 2,
-> (D)
-> 6
-> 11,
-> (E) 5
-> 9.
+>
+> - **(A)** 4 9,
+> - **(B)** 5 11,
+> - **(C)** 1 2,
+> - **(D)** 6 11,
+> - **(E)** 5 9.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

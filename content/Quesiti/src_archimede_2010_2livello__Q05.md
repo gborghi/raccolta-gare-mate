@@ -33,11 +33,12 @@ tags:
 > Per quanti interi relativi n si ha che
 > 3n
 > n + 5 è intero e divisibile per 4?
-> (A) 1
-> (B) 2
-> (C) 4
-> (D) 8
-> (E) più di 8.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 4
+> - **(D)** 8
+> - **(E)** più di 8.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

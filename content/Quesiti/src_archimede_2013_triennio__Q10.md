@@ -30,16 +30,12 @@ tags:
 
 > I lati di un triangolo misurano rispettivamente 2 cm, 3 cm e 4 cm. Calcolare l’area
 > del cerchio inscritto nel triangolo.
-> (A)
-> 5
-> 12 cm2
-> (B) 5π
-> 36 cm2
-> (C) 5π
-> 12 cm2
-> (D) 2π
-> 3 cm2
-> (E) π cm2
+>
+> - **(A)** 5 12 cm2
+> - **(B)** 5π 36 cm2
+> - **(C)** 5π 12 cm2
+> - **(D)** 2π 3 cm2
+> - **(E)** π cm2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

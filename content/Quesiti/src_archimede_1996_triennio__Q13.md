@@ -37,12 +37,12 @@ tags:
 > elemento maggiore di 1 e che, tutte le volte che contiene un certo numero n,
 > contiene anche tutti i numeri maggiori di n ad eccezione, eventualmente, dei
 > multipli di n. Quale delle seguenti affermazioni è certamente corretta?
-> (A) X è un insieme finito
-> (B) l’insieme X e l’insieme degli interi positivi che non appartengono ad X sono
-> entrambi infiniti
-> (C) X contiene tutti i numeri primi
-> (D) esiste un numero m tale che X contiene tutti gli interi maggiori di m
-> (E) X è uguale all’insieme di tutti gli interi positivi.
+>
+> - **(A)** X è un insieme finito
+> - **(B)** l’insieme X e l’insieme degli interi positivi che non appartengono ad X sono entrambi infiniti
+> - **(C)** X contiene tutti i numeri primi
+> - **(D)** esiste un numero m tale che X contiene tutti gli interi maggiori di m
+> - **(E)** X è uguale all’insieme di tutti gli interi positivi.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_induzione|Induzione]]

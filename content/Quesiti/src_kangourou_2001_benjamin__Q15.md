@@ -31,11 +31,12 @@ tags:
 > Se il drago rosso avesse 6 teste in più del drago verde, essi
 > avrebbero in totale 34 teste. Ma il drago rosso ha 6 teste meno del
 > drago verde. Quante teste ha il drago rosso?
-> (A) 6
-> (B) 8
-> (C) 12
-> (D) 14 
-> (E) 16.
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 12
+> - **(D)** 14
+> - **(E)** 16.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

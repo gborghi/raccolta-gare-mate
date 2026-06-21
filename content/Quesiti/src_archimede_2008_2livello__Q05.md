@@ -33,11 +33,12 @@ tags:
 
 > Siano a0, a1, a2, . . . numeri interi tali che a0 = 19, a1 = 25, e per ogni n ≥0 valga an+2 = 2an+1−an.
 > Qual è il più piccolo i > 0 per cui ai è multiplo di 19?
-> (A) 19
-> (B) 25
-> (C) 38
-> (D) 44
-> (E) 50.
+>
+> - **(A)** 19
+> - **(B)** 25
+> - **(C)** 38
+> - **(D)** 44
+> - **(E)** 50.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]

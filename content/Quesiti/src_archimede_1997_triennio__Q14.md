@@ -31,11 +31,12 @@ tags:
 > In una prima ci sono 3 ragazzi per ogni 2 ragazze. L’età media dei ragazzi è 14
 > anni e 2 mesi, quella delle ragazze 13 anni e 4 mesi. Qual è l’età media della
 > classe?
-> (A) 13 anni e 6 mesi
-> (B) 13 anni e 8 mesi
-> (C) 13 anni e 10 mesi
-> (D) 14 anni
-> (E) il risultato dipende dal numero di alunni della classe.
+>
+> - **(A)** 13 anni e 6 mesi
+> - **(B)** 13 anni e 8 mesi
+> - **(C)** 13 anni e 10 mesi
+> - **(D)** 14 anni
+> - **(E)** il risultato dipende dal numero di alunni della classe.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

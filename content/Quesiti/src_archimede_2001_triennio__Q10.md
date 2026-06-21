@@ -42,11 +42,12 @@ tags:
 > Si sa che le due affermazioni del colpevole sono false, mentre una sola affermazione
 > del complice è falsa. Gli altri hanno detto la verità. Chi sono il colpevole e il suo
 > complice?
-> (A) Aldo e Carlo
-> (B) Baldo e Carlo
-> (C) Baldo e Dario
-> (D) Aldo e Dario
-> (E) non è possibile dedurlo.
+>
+> - **(A)** Aldo e Carlo
+> - **(B)** Baldo e Carlo
+> - **(C)** Baldo e Dario
+> - **(D)** Aldo e Dario
+> - **(E)** non è possibile dedurlo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

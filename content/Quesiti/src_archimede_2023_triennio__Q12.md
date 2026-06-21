@@ -51,11 +51,12 @@ tags:
 > C
 > T
 > t
-> (A) 6°
-> (B) 8°
-> (C) 7°
-> (D) 10°
-> (E) 9°
+>
+> - **(A)** 6°
+> - **(B)** 8°
+> - **(C)** 7°
+> - **(D)** 10°
+> - **(E)** 9°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

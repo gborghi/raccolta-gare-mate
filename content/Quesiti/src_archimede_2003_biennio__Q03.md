@@ -30,15 +30,12 @@ tags:
 
 > Sia dato un quadrato ABCD di lato unitario e sia P un punto interno ad esso tale
 > che l’angolo A ˆP B misuri 75°. La somma delle aree dei triangoli ABP e CDP è:
-> (A) 1
-> (B)
-> √
-> 2
-> 2
-> (C) 1
-> 2
-> (D) non si può determinare
-> (E) nessuna delle precedenti è corretta.
+>
+> - **(A)** 1
+> - **(B)** √ 2 2
+> - **(C)** 1 2
+> - **(D)** non si può determinare
+> - **(E)** nessuna delle precedenti è corretta.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

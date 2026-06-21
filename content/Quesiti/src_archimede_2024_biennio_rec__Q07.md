@@ -32,11 +32,12 @@ tags:
 > Maria disegna 3 diverse circonferenze e 3 diverse linee rette. Complessivamente,
 > quanti punti d’intersezione ci possono essere, al massimo, tra le varie linee che ha
 > tracciato?
-> (A) 24
-> (B) 18
-> (C) 27
-> (D) 22
-> (E) 21
+>
+> - **(A)** 24
+> - **(B)** 18
+> - **(C)** 27
+> - **(D)** 22
+> - **(E)** 21
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

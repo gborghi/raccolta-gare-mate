@@ -28,12 +28,12 @@ tags:
 
 > Quante soluzioni reali ha il sistema
 > $$\begin{cases} x^2 y = 150 \\ x y^2 = 1500 \end{cases}$$
-> 
-> (A) Nessuna
-> (B) una
-> (C) più di una, ma meno di cinque
-> (D) un numero finito, ma almeno cinque
-> (E) infinite.
+>
+> - **(A)** Nessuna
+> - **(B)** una
+> - **(C)** più di una, ma meno di cinque
+> - **(D)** un numero finito, ma almeno cinque
+> - **(E)** infinite.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

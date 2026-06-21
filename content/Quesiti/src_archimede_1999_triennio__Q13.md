@@ -35,17 +35,12 @@ tags:
 > Sia x = 99 −70
 > √
 > 2. Allora
-> (A) x ≤−1
-> 100
-> (B) −1
-> 100 < x < 0
-> (C) x = 0
-> (D) 0 < x <
-> 1
-> 100
-> (E) x ≥
-> 1
-> 100.
+>
+> - **(A)** x ≤−1 100
+> - **(B)** −1 100 < x < 0
+> - **(C)** x = 0
+> - **(D)** 0 < x < 1 100
+> - **(E)** x ≥ 1 100.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

@@ -31,11 +31,12 @@ tags:
 
 > Quanti divisori positivi ha 6! = 1·2·3·4·5·6 ? (Tra i divisori di un numero devono
 > essere contati anche 1 e il numero stesso.)
-> (A) 5,
-> (B) 6,
-> (C) 10,
-> (D) 24,
-> (E) 30.
+>
+> - **(A)** 5,
+> - **(B)** 6,
+> - **(C)** 10,
+> - **(D)** 24,
+> - **(E)** 30.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

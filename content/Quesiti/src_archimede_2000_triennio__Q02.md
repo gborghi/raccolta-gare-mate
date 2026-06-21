@@ -29,28 +29,12 @@ tags:
 *Quale tra le potenze date e maggiore dell'unita*
 
 > Quale fra i seguenti numeri è superiore all’unità?
-> (A)
-> 3
-> 4
->  3
-> 4
-> (B) (1, 1)−1,1
-> (C)
->  1
-> √
-> 2
-> −1
-> √
-> 2
-> (D) (
-> √
-> 2 −1)
-> √
-> 2−1
-> (E) (2 −
-> √
-> 3)2−
-> √
+>
+> - **(A)** 3 4  3 4
+> - **(B)** (1, 1)−1,1
+> - **(C)**  1 √ 2 −1 √ 2
+> - **(D)** ( √ 2 −1) √ 2−1
+> - **(E)** (2 − √ 3)2− √
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

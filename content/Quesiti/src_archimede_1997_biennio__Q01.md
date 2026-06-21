@@ -30,11 +30,12 @@ tags:
 
 > Quanti alberi ci stanno al massimo su due lati di un largo viale lungo 180 metri,
 > posti a 15 metri di distanza l’uno dall’altro?
-> (A) 20
-> (B) 22
-> (C) 24
-> (D) 26
-> (E) 28.
+>
+> - **(A)** 20
+> - **(B)** 22
+> - **(C)** 24
+> - **(D)** 26
+> - **(E)** 28.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

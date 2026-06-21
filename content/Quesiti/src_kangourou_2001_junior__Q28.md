@@ -32,11 +32,12 @@ tags:
 
 > Se A è l'area del quadrato (di lato 4) e B è l'area totale dei
 > sei semicerchi come in figura, allora il valore di A – B è
-> (A) 8
-> (B) 16 – 3π
-> (C) 16 – 4π
-> (D) 16 – 8π + 2√5 π
-> (E) 16 – 4π + √5 π.
+>
+> - **(A)** 8
+> - **(B)** 16 – 3π
+> - **(C)** 16 – 4π
+> - **(D)** 16 – 8π + 2√5 π
+> - **(E)** 16 – 4π + √5 π.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -38,11 +38,12 @@ tags:
 > su un foglio (ad esempio per 21 scrive 1, cioè 2 −1, mentre per 37 scrive −4, cioè
 > 3 −7). Alla fine somma tutti i numeri che ha scritto sul foglio; quale risultato
 > trova?
-> (A) 0,
-> (B) −30,
-> (C) 45,
-> (D) −50,
-> (E) 100.
+>
+> - **(A)** 0,
+> - **(B)** −30,
+> - **(C)** 45,
+> - **(D)** −50,
+> - **(E)** 100.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

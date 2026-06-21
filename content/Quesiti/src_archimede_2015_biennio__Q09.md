@@ -31,11 +31,12 @@ tags:
 > Carlo ha dimenticato il codice di sblocco del suo telefono. Tutto ciò che ricorda è
 > che il codice è composto di 4 cifre ed il prodotto di tali cifre è 18. Quanti sono i
 > possibili codici che rispettano queste condizioni?
-> (A) 32
-> (B) 36
-> (C) 40
-> (D) 60
-> (E) 24
+>
+> - **(A)** 32
+> - **(B)** 36
+> - **(C)** 40
+> - **(D)** 60
+> - **(E)** 24
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

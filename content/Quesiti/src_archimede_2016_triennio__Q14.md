@@ -39,19 +39,12 @@ tags:
 > parte di B, tale che OD = DP (dove D è il punto d’intersezione tra PC e γ compreso tra C e P). Qual è l’ampiezza
 > dell’angolo A“
 > PC?
-> (A) 15°
-> (B) 45°
-> 2
-> (C) 20°
-> (D) 18°
-> (E) 24°
-> O
-> A
-> B
-> 60°
-> C
-> D
-> P
+>
+> - **(A)** 15°
+> - **(B)** 45° 2
+> - **(C)** 20°
+> - **(D)** 18°
+> - **(E)** 24° O A B 60° C D P
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

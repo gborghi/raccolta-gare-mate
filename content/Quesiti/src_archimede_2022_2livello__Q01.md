@@ -37,13 +37,12 @@ tags:
 > infine ritornare alla macchina. Inoltre è pigro e quindi vuole camminare il meno possibile; dove
 > deve parcheggiare per farlo? Indicare l’insieme dei punti del viale che minimizzano la distanza
 > che Astolfo deve percorrere a piedi.
-> (A) Il punto davanti al parchimetro
-> (B) Il punto davanti al negozio
-> (C) Il punto medio tra
-> il parchimetro e il negozio
-> (D) Tutti i punti del viale
-> (E) Tutti i punti del tratto di viale
-> compreso tra il parchimetro e il negozio.
+>
+> - **(A)** Il punto davanti al parchimetro
+> - **(B)** Il punto davanti al negozio
+> - **(C)** Il punto medio tra il parchimetro e il negozio
+> - **(D)** Tutti i punti del viale
+> - **(E)** Tutti i punti del tratto di viale compreso tra il parchimetro e il negozio.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

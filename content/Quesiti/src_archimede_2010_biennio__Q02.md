@@ -34,11 +34,12 @@ tags:
 > Emilio prende al buio dei calzini da una cesta in cui ci sono: 6 calzini neri, 14
 > calzini blu e 8 calzini verdi. Per essere sicuro che tra i calzini che ha preso ce ne
 > siano due dello stesso colore, il numero minimo di calzini che deve prendere è:
-> (A) 3,
-> (B) 4,
-> (C) 9,
-> (D) 15,
-> (E) 21.
+>
+> - **(A)** 3,
+> - **(B)** 4,
+> - **(C)** 9,
+> - **(D)** 15,
+> - **(E)** 21.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

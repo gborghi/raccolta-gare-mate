@@ -34,11 +34,12 @@ tags:
 > sono inizialmente vuote. Ogni minuto, se una stanza contiene più di una persona,
 > una persona a caso che si trova in quella stanza si sposta nella stanza successiva.
 > Dopo 1001 minuti, quante sono le stanze vuote?
-> (A) 1017
-> (B) 1515
-> (C) 1016
-> (D) 1517
-> (E) 1015
+>
+> - **(A)** 1017
+> - **(B)** 1515
+> - **(C)** 1016
+> - **(D)** 1517
+> - **(E)** 1015
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

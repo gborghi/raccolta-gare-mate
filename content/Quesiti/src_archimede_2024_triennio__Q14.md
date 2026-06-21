@@ -39,11 +39,12 @@ tags:
 > direzione.
 > Se la camminata sarà di 4 km, qual è la probabilità che si concluda
 > proprio nel vertice V da cui era partita?
-> (A) 5/16
-> (B) 1/8
-> (C) 1/2
-> (D) 1/4
-> (E) 3/8
+>
+> - **(A)** 5/16
+> - **(B)** 1/8
+> - **(C)** 1/2
+> - **(D)** 1/4
+> - **(E)** 3/8
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

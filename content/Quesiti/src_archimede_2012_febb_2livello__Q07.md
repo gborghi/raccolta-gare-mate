@@ -32,17 +32,12 @@ tags:
 
 > Sia ABC un triangolo isoscele con base BC, sia D il punto medio di AC. Sapendo che BCD è a
 > sua volta isoscele con base CD e che BC = 2, quanto misura l’area di ABC?
-> (A) 2
-> (B)
-> √
-> 5
-> (C)
-> √
-> 6
-> (D)
-> √
-> 7
-> (E) 3.
+>
+> - **(A)** 2
+> - **(B)** √ 5
+> - **(C)** √ 6
+> - **(D)** √ 7
+> - **(E)** 3.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

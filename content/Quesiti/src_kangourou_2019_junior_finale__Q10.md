@@ -33,14 +33,12 @@ tags:
 *Coppie di numeri (3 decimali) con somma = prodotto*
 
 > Tre numeri di cinque cifre sono stati scritti ciascuno su una targa. La figura mostra come sono sovrapposte le targhe e le cifre rimaste visibili. Si sa che la somma dei tre numeri vale 57263. Quali sono le cifre nascoste?
-> 
-> (A) 0, 2 e 2.
-> (B) 2, 4 e 9.
-> (C) 2, 7 e 8.
-> (D) 5, 7 e 8.
-> (E) Nessuna delle terne precedenti.
-> 
-> (vedi figura)
+>
+> - **(A)** 0, 2 e 2.
+> - **(B)** 2, 4 e 9.
+> - **(C)** 2, 7 e 8.
+> - **(D)** 5, 7 e 8.
+> - **(E)** Nessuna delle terne precedenti. (vedi figura)
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

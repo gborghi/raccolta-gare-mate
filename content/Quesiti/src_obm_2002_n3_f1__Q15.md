@@ -45,11 +45,12 @@ tags:
 > ii) It is necessarily a multiple of 3.
 > iii) It is necessarily a multiple of 5.
 > We can state that:
-> (A) only i) is correct.
-> (B) only ii) is correct.
-> (C) only i) and ii) are correct.
-> (D) only i) and iii) are correct.
-> (E) i), ii) and iii) are correct.
+>
+> - **(A)** only i) is correct.
+> - **(B)** only ii) is correct.
+> - **(C)** only i) and ii) are correct.
+> - **(D)** only i) and iii) are correct.
+> - **(E)** i), ii) and iii) are correct.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]

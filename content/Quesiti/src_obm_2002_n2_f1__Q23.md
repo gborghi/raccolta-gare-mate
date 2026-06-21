@@ -38,7 +38,7 @@ tags:
 *False proof that 4>4 using square roots; identify step with the error*
 
 > Consider the following argument which purports to prove that $4 > 4$. Choose $a = b$ with $a > 4$.
-> 
+>
 > 1) Subtract $4$ from both sides of $a = b$:
 > $$a - 4 = b - 4$$
 > 2) Factor $-1$ on the right-hand side:
@@ -51,14 +51,14 @@ tags:
 > $$a - 4 = 4 - a$$
 > 6) Solve the equation:
 > $$2a = 8 \implies a = 4$$
-> 
+>
 > Since we chose $a > 4$, we reach the absurd conclusion $4 > 4$. Where is the error?
-> 
-> (A) In step 2.
-> (B) In step 3.
-> (C) In step 4.
-> (D) In step 5.
-> (E) In step 6.
+>
+> - **(A)** In step 2.
+> - **(B)** In step 3.
+> - **(C)** In step 4.
+> - **(D)** In step 5.
+> - **(E)** In step 6.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]

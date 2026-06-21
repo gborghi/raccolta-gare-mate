@@ -34,22 +34,12 @@ tags:
 > avente come base un triangolo equilatero di lato 1 e come
 > facce laterali tre triangoli rettangoli isosceli uguali. Il
 > volume della piramide è
-> (A) 1
-> 24
-> (B)
-> √
-> 2
-> 24
-> (C)
-> √
-> 3
-> 24
-> (D) 1
-> 12
-> (E)
-> √
-> 5
-> 24 .
+>
+> - **(A)** 1 24
+> - **(B)** √ 2 24
+> - **(C)** √ 3 24
+> - **(D)** 1 12
+> - **(E)** √ 5 24 .
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

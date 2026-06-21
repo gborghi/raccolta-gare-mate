@@ -34,16 +34,12 @@ tags:
 
 > Qual è la probabilità che, presi a caso tre vertici distinti di un esagono regolare,
 > essi siano i vertici di un triangolo equilatero?
-> (A) 1
-> 4
-> (B) 1
-> 8
-> (C) 1
-> 9
-> (D) 1
-> 10
-> (E) 1
-> 20.
+>
+> - **(A)** 1 4
+> - **(B)** 1 8
+> - **(C)** 1 9
+> - **(D)** 1 10
+> - **(E)** 1 20.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

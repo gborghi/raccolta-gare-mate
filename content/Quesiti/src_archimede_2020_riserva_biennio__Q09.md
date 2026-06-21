@@ -34,11 +34,12 @@ tags:
 > falso). Ad un banchetto, ci sono 10 tavoli con 3 persone sedute, 7 tavoli con 4 persone, 8 tavoli con 5 persone e 13
 > tavoli con 6 (tutti tavoli circolari). Ciascuno dei presenti afferma: “nessuna delle due persone accanto a me è della
 > mia stessa categoria”. Quanti possono essere, al massimo, i cavalieri presenti al banchetto?
-> (A) 47
-> (B) 0
-> (C) 41
-> (D) 51
-> (E) 39
+>
+> - **(A)** 47
+> - **(B)** 0
+> - **(C)** 41
+> - **(D)** 51
+> - **(E)** 39
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]

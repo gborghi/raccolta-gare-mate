@@ -33,12 +33,12 @@ tags:
 
 > Quanti punti si possono disegnare, al massimo, all’interno di un cerchio di area 4π cm2 (si può usare anche
 > il bordo) in modo che ciascun punto disti almeno 1 cm da ciascuno degli altri punti?
-> (A) 7
-> (B) 10
-> (C) 12
-> (D) 16
-> (E)
-> 19
+>
+> - **(A)** 7
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 16
+> - **(E)** 19
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

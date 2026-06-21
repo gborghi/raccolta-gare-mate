@@ -35,11 +35,12 @@ tags:
 > da zero, sono servite 2 ore e mezza, stabilire per quanti minuti il cellulare è stato
 > utlizzato durante la ricarica (si suppone, che si usi o meno il telefono, che l’energia
 > immagazzinata in un intervallo di tempo sia proporzionale alla sua durata).
-> (A) 75
-> (B) 60
-> (C) 54
-> (D) 70
-> (E) 72
+>
+> - **(A)** 75
+> - **(B)** 60
+> - **(C)** 54
+> - **(D)** 70
+> - **(E)** 72
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

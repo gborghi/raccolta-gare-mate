@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob5.png]]
 
 > Lilly ha due cartoncini della stessa misura. Nel cartoncino A ci sono quattro buchi. Lilly pone il cartoncino A esattamente sopra il cartoncino B. Quale delle seguenti immagini vede?
-> 
+>
 > (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

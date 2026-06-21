@@ -40,12 +40,12 @@ tags:
 *Carnival cards 1–2014 painted yellow/green/black in cycle; parity claims*
 
 > Ana has 2014 carnival cards numbered 1 to 2014. She then paints them, starting from the first, with colors yellow, green, and black, one of each color, always in this order. What can be stated about these cards?
-> 
-> (A) The number of yellow cards equals the number of green cards.\\
-> (B) There are more odd-numbered yellow cards than odd-numbered green cards.\\
-> (C) There are more odd-numbered black cards than odd-numbered yellow cards.\\
-> (D) There are more green cards than yellow cards.\\
-> (E) There are more odd-numbered black cards than odd-numbered green cards.
+>
+> - **(A)** The number of yellow cards equals the number of green cards.\\
+> - **(B)** There are more odd-numbered yellow cards than odd-numbered green cards.\\
+> - **(C)** There are more odd-numbered black cards than odd-numbered yellow cards.\\
+> - **(D)** There are more green cards than yellow cards.\\
+> - **(E)** There are more odd-numbered black cards than odd-numbered green cards.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

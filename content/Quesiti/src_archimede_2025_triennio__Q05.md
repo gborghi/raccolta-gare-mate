@@ -33,11 +33,12 @@ tags:
 > Filippo vorrebbe scrivere sotto forma di numero decimale la frazione 8
 > 13 .
 > Quale cifra occuperà il millesimo posto dopo la virgola?
-> (A) 6
-> (B) 1
-> (C) 3
-> (D) 5
-> (E) 8
+>
+> - **(A)** 6
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 5
+> - **(E)** 8
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

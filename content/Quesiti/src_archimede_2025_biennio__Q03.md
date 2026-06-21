@@ -34,11 +34,12 @@ tags:
 > 30 sono rossi, 25 verdi, 33 gialli, 21 azzurri. Prende alcune bustine a caso, senza
 > aprirle (i colori dei biglietti non si vedono dall’esterno). Quante deve prenderne,
 > come minimo, per essere certa di trovare almeno 3 biglietti aventi 3 diversi colori?
-> (A) 56
-> (B) 88
-> (C) 79
-> (D) 47
-> (E) 64
+>
+> - **(A)** 56
+> - **(B)** 88
+> - **(C)** 79
+> - **(D)** 47
+> - **(E)** 64
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

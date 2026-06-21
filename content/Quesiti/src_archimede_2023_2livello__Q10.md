@@ -33,19 +33,12 @@ tags:
 > Sia ABCD un parallelogramma tale che la bisettrice uscente da B interseca il lato CD nel suo
 > punto medio M. Il lato BC è lungo 6, e la diagonale AC è lunga 14. Determinare la lunghezza
 > di AM.
-> (A) 2
-> √
-> 19
-> (B) 14 −3
-> √
-> 3
-> (C) 4
-> √
-> 5
-> (D) 9
-> (E) 2
-> √
-> 22
+>
+> - **(A)** 2 √ 19
+> - **(B)** 14 −3 √ 3
+> - **(C)** 4 √ 5
+> - **(D)** 9
+> - **(E)** 2 √ 22
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

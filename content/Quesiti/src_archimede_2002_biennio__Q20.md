@@ -34,11 +34,12 @@ tags:
 > Si hanno a disposizione sei pesi da 2, 3, 5, 7, 9, 10 ettogrammi. Cinque di essi
 > vengono posti sui due piatti di una bilancia in modo che essa si trovi in equilibrio.
 > Qual è il peso escluso?
-> (A) 2
-> (B) 3
-> (C) 5
-> (D) 10
-> (E) non si può determinare.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 5
+> - **(D)** 10
+> - **(E)** non si può determinare.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

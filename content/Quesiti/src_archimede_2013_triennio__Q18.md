@@ -30,11 +30,12 @@ tags:
 > un certo numero di banane radioattive. Si sa che scegliendo a caso due delle cinque
 > casse e scegliendo a caso da ciascuna di esse una banana, la probabilità che una delle
 > due banane scelte sia radioattiva è del 5 %. Quante sono le banane radioattive?
-> (A) 6
-> (B) 9
-> (C) 10
-> (D) 12
-> (E) nessuna delle precedenti
+>
+> - **(A)** 6
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 12
+> - **(E)** nessuna delle precedenti
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]

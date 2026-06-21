@@ -34,11 +34,12 @@ tags:
 > avente grado strettamente maggiore del precedente. Eseguendo la divisione di P2(x) per P1(x), si
 > ottiene resto 0. Indicando con Q(x) il quoziente di tale divisione, quale delle seguenti affermazioni
 > è sempre vera?
-> (A) Q(x) può essere una costante
-> (B) Se P2(a) = 0, allora Q(a) = 0
-> (C) Esiste un numero reale a tale che P2(a) = Q(a) = 0
-> (D) Q(x) ha certamente grado minore di P1(x)
-> (E) Se P1(a) = 0, allora Q(a) = 0.
+>
+> - **(A)** Q(x) può essere una costante
+> - **(B)** Se P2(a) = 0, allora Q(a) = 0
+> - **(C)** Esiste un numero reale a tale che P2(a) = Q(a) = 0
+> - **(D)** Q(x) ha certamente grado minore di P1(x)
+> - **(E)** Se P1(a) = 0, allora Q(a) = 0.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -34,11 +34,12 @@ tags:
 > Quanti sono i possibili percorsi distinti di 3 mosse che Re Tal dei Tali può effettuare
 > all’interno della scacchiera ? [Quando fa una mossa, il re si sposta in una qualsiasi
 > delle caselle che hanno in comune almeno un vertice con la casella in cui si trova.]
-> (A) 36,
-> (B) 54,
-> (C) 84,
-> (D) 121,
-> (E) 168.
+>
+> - **(A)** 36,
+> - **(B)** 54,
+> - **(C)** 84,
+> - **(D)** 121,
+> - **(E)** 168.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

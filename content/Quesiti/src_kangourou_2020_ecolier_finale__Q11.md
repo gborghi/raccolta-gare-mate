@@ -31,14 +31,12 @@ tags:
 *Somma dei due numeri scambiati nel quadrato magico*
 
 > Osserva la figura: Daniele ha legato il suo cane a un metro dall'angolo di un'edicola con pianta rettangolare i cui lati misurano $7$ m e $5$ m. Il guinzaglio è lungo $11$ m. Ci sono $5$ giochini a forma di osso nelle posizioni che vedi in figura: quanti di essi possono essere raggiunti dal cane?
-> 
-> (A) $1$
-> (B) $2$
-> (C) $3$
-> (D) $4$
-> (E) $5$
-> 
-> (vedi figura)
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** $5$ (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -29,14 +29,12 @@ tags:
 *Eta di Alda (mesi anni doppio Carlo)*
 
 > Con i sei adesivi che vedi a lato si possono comporre diverse figure, ma una sola di quelle che vedi qui sotto. Quale?
-> 
-> (A) (figura A)
-> (B) (figura B)
-> (C) (figura C)
-> (D) (figura D)
-> (E) (figura E)
-> 
-> (vedi figura)
+>
+> - **(A)** (figura A)
+> - **(B)** (figura B)
+> - **(C)** (figura C)
+> - **(D)** (figura D)
+> - **(E)** (figura E) (vedi figura)
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

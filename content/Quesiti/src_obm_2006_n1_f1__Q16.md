@@ -37,12 +37,12 @@ tags:
 *Positive integer: sum of digits of remainder-3 and remainder-5 divisors*
 
 > A certain positive integer, when divided by 15, has remainder 7. What is the sum of the remainders of this number when divided by 3 and by 5?
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]

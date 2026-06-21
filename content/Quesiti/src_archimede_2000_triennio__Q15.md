@@ -33,11 +33,12 @@ tags:
 *Valore di f(x+1)-f(x) per funzione esponenziale 4^x*
 
 > Si ha, per ogni x, f(x) = 4x. Allora f(x + 1) −f(x) vale:
-> (A) f(x)
-> (B) 2f(x)
-> (C) 3f(x)
-> (D) 4
-> (E) 1.
+>
+> - **(A)** f(x)
+> - **(B)** 2f(x)
+> - **(C)** 3f(x)
+> - **(D)** 4
+> - **(E)** 1.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

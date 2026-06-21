@@ -29,12 +29,12 @@ tags:
 *Prodotto di numeri periodici (1,3)·(0,3)*
 
 > Quanto fa (1, ¯3) · (0, ¯3)?
-> (A) 0, 4
-> (B) 0, 4¯3
-> (C) 0, ¯4
-> (D) 13
-> 33
-> (E) nessuno dei precedenti.
+>
+> - **(A)** 0, 4
+> - **(B)** 0, 4¯3
+> - **(C)** 0, ¯4
+> - **(D)** 13 33
+> - **(E)** nessuno dei precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

@@ -30,12 +30,12 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob20.png]]
 
 > Tre scoiattoli insieme hanno trovato 7 noci. Ognuno ha trovato un numero di noci diverso da ciascuno degli altri, e tutti hanno trovato almeno una noce. Quante noci ha trovato lo scoiattolo che ne ha trovate di più?
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

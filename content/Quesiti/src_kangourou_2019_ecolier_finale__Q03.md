@@ -31,14 +31,12 @@ tags:
 *Distanza del canguro dopo 2019 salti 3 avanti 1 indietro*
 
 > Nella copertina di un libro per bambini sui mezzi di trasporto ci sono due finestre. Quando si apre la copertina, appare quello che mostra la figura. Quali mezzi si vedono quando il libro è chiuso?
-> 
-> (A) 
-> (B) 
-> (C) 
-> (D) 
-> (E) 
-> 
-> (vedi figura)
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)** (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

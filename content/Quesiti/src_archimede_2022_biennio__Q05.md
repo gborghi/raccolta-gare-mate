@@ -33,11 +33,12 @@ tags:
 > via. Nel momento in cui, per la prima volta, gli capita di fare 100 passi consecutivi
 > in avanti, finalmente risolve il problema. A quanti metri distanza si troverà dal
 > punto di partenza (tenuto conto che ogni passo è di 60 cm)?
-> (A) 29,40
-> (B) 30
-> (C) 30,60
-> (D) 31,20
-> (E) 31,80
+>
+> - **(A)** 29,40
+> - **(B)** 30
+> - **(C)** 30,60
+> - **(D)** 31,20
+> - **(E)** 31,80
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

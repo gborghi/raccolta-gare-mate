@@ -35,11 +35,12 @@ tags:
 *Angle of square built outside a regular pentagon*
 
 > $DEFG$ is a square built on the exterior of the regular pentagon $ABCDE$. What is the angle $E\widehat{A}F$?
-> (A) $9^\circ$
-> (B) $12^\circ$
-> (C) $15^\circ$
-> (D) $18^\circ$
-> (E) $21^\circ$
+>
+> - **(A)** $9^\circ$
+> - **(B)** $12^\circ$
+> - **(C)** $15^\circ$
+> - **(D)** $18^\circ$
+> - **(E)** $21^\circ$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

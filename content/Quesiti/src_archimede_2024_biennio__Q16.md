@@ -36,12 +36,12 @@ tags:
 > raggiunge un vertice, fa un nuovo lancio di moneta per scegliere la direzione. Se la
 > camminata sarà di 3km, qual è la probabilità che si concluda proprio nel vertice V
 > da cui era partito?
-> (A) 1/6
-> (B) 1/8
-> (C) 1/2
-> (D) 1/3
-> (E) 1/4
-> 211
+>
+> - **(A)** 1/6
+> - **(B)** 1/8
+> - **(C)** 1/2
+> - **(D)** 1/3
+> - **(E)** 1/4 211
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casework|Analisi per casi]]

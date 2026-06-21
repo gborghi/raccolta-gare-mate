@@ -32,11 +32,12 @@ tags:
 > 34 giorni e in un anno ci sono 14 mesi. Quando il primo giorno dell’anno cade di
 > domenica (ultimo giorno della settimana) si celebra la Festa del Pianeta. Sapendo
 > che oggi su Uru è la Festa del Pianeta, tra quanti giorni sarà la prossima?
-> (A) 238,
-> (B) 476,
-> (C) 952,
-> (D) 1428,
-> (E) 1904.
+>
+> - **(A)** 238,
+> - **(B)** 476,
+> - **(C)** 952,
+> - **(D)** 1428,
+> - **(E)** 1904.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

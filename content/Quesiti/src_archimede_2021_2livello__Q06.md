@@ -35,11 +35,12 @@ tags:
 > di partecipanti di cui io faccia parte e che contengano esattamente due cavalieri”, dove i è il
 > numero assegnato alla persona che parla. Quanti sono i valori possibili per il numero di furfanti
 > presenti al convegno?
-> (A) 1
-> (B) 3
-> (C) 4
-> (D) 2021
-> (E) 2022
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 2021
+> - **(E)** 2022
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

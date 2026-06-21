@@ -40,12 +40,12 @@ tags:
 *Count 3-digit numbers whose digit sum is 25*
 
 > How many $3$-digit numbers are there whose digit sum equals $25$?
-> 
-> (A) $2$
-> (B) $4$
-> (C) $6$
-> (D) $8$
-> (E) $10$
+>
+> - **(A)** $2$
+> - **(B)** $4$
+> - **(C)** $6$
+> - **(D)** $8$
+> - **(E)** $10$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]

@@ -33,11 +33,12 @@ tags:
 > casella Mauro appoggia dei gettoni secondo questa regola: guarda il numero di riga
 > e di colonna corrispondenti alla casella, li somma e mette sulla casella tanti gettoni
 > quanto è il risultato della somma. Quanti gettoni appoggia in tutto?
-> (A) 482,
-> (B) 576,
-> (C) 768,
-> (D) 1024,
-> (E) 1152.
+>
+> - **(A)** 482,
+> - **(B)** 576,
+> - **(C)** 768,
+> - **(D)** 1024,
+> - **(E)** 1152.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

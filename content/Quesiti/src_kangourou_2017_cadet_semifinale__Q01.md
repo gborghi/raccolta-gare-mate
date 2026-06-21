@@ -33,11 +33,12 @@ tags:
 *Numeri di 3 cifre con prodotto cifre minore di 2*
 
 > (Punti 2) Quanti numeri di 3 cifre hanno come prodotto delle cifre un numero più piccolo di 2?
-> (A) 1
-> (B) 172
-> (C) 90
-> (D) 171
-> (E) 81
+>
+> - **(A)** 1
+> - **(B)** 172
+> - **(C)** 90
+> - **(D)** 171
+> - **(E)** 81
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

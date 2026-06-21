@@ -65,11 +65,12 @@ tags:
 > alternandoli, 4 triangoli equilateri e 4 triangoli isosceli non equilateri, come indica
 > la figura. La distanza del punto centrale da ognuno dei vertici è di 10 metri. Quale
 > è, in metri quadrati, l’area del cortile?
-> (A) 100 (√2 + 1)
-> (B) 125 (√3 + 1)
-> (C) 100 (√3 + 1)
-> (D) 125 (√2 + √3)    	
-> (E) 100 (√2 + √3)
+>
+> - **(A)** 100 (√2 + 1)
+> - **(B)** 125 (√3 + 1)
+> - **(C)** 100 (√3 + 1)
+> - **(D)** 125 (√2 + √3)
+> - **(E)** 100 (√2 + √3)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

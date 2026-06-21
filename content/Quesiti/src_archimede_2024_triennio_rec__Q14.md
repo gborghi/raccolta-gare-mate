@@ -39,11 +39,12 @@ tags:
 > E
 > G
 > ω
-> (A) 75°
-> (B) 81°
-> (C) 78°
-> (D) 77°
-> (E) 72°
+>
+> - **(A)** 75°
+> - **(B)** 81°
+> - **(C)** 78°
+> - **(D)** 77°
+> - **(E)** 72°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

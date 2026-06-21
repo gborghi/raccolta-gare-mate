@@ -34,11 +34,12 @@ tags:
 
 > Scegliendo a caso due diversi vertici di un cubo, qual è la probabilità che il segmento
 > che li unisce passi per il centro del cubo?
-> (A) 1/8
-> (B) 1/4
-> (C) 1/7
-> (D) 1/56
-> (E) 1/64
+>
+> - **(A)** 1/8
+> - **(B)** 1/4
+> - **(C)** 1/7
+> - **(D)** 1/56
+> - **(E)** 1/64
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

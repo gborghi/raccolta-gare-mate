@@ -57,25 +57,12 @@ tags:
 > Due circonferenze con lo stesso raggio si intersecano in X e Y . Sia P un punto su un arco XY
 > di una circonferenza interno all’altra. Sapendo che il segmento XY è lungo 3 e che l’angolo X bPY
 > misura 120°, qual è l’area dell’intersezione tra i due cerchi?
-> (A) 2(π −1
-> 4
-> √
-> 3)
-> (B) 3(π −
-> √
-> 3)
-> (C) 1
-> 2(3π −
-> √
-> 3)
-> (D) 2(π −2
-> 3
-> √
-> 3)
-> (E) 2(π −3
-> 4
-> √
-> 3).
+>
+> - **(A)** 2(π −1 4 √ 3)
+> - **(B)** 3(π − √ 3)
+> - **(C)** 1 2(3π − √ 3)
+> - **(D)** 2(π −2 3 √ 3)
+> - **(E)** 2(π −3 4 √ 3).
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

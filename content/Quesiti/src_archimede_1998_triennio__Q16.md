@@ -42,18 +42,12 @@ tags:
 > facendo 4 tagli rettilinei, ma sa che il prossimo anno 4
 > tagli non basteranno più, comunque siano disposte le
 > candeline. Quanti anni compie Barbara?
-> (A) 9
-> (B) 10
-> (C) 11
-> (D) 14
-> (E) 16.
-> b
-> b
-> b
-> b
-> b
-> b
-> b
+>
+> - **(A)** 9
+> - **(B)** 10
+> - **(C)** 11
+> - **(D)** 14
+> - **(E)** 16. b b b b b b b
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

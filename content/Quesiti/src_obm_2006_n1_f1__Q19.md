@@ -38,12 +38,12 @@ tags:
 *Alphabetical permutations of BRASIL: position of 361st word*
 
 > The permutations of the word BRASIL were listed in alphabetical order, as if they were words in a dictionary. The 361st word on this list is:
-> 
-> (A) BRISAL
-> (B) SIRBAL
-> (C) RASBIL
-> (D) SABRIL
-> (E) LABIRS
+>
+> - **(A)** BRISAL
+> - **(B)** SIRBAL
+> - **(C)** RASBIL
+> - **(D)** SABRIL
+> - **(E)** LABIRS
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

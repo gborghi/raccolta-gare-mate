@@ -40,12 +40,12 @@ tags:
 *Smallest positive value of 21 m^2 - n^2 for positive integers m, n.*
 
 > What is the smallest positive value of $21m^2-n^2$ with $m$ and $n$ positive integers?
-> 
-> (A) $1$
-> (B) $2$
-> (C) $3$
-> (D) $5$
-> (E) $7$
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $5$
+> - **(E)** $7$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]

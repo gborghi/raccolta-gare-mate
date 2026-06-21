@@ -31,11 +31,12 @@ tags:
 > Siano x, y numeri reali positivi.
 > Quale delle seguenti condizioni è sufficiente per garantire che
 > xy > yx?
-> (A) 1 < x < y
-> (B) 1 < y < x
-> (C) x < 1 < y
-> (D) x < y < 1
-> (E) y < x < 1.
+>
+> - **(A)** 1 < x < y
+> - **(B)** 1 < y < x
+> - **(C)** x < 1 < y
+> - **(D)** x < y < 1
+> - **(E)** y < x < 1.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

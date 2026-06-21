@@ -36,20 +36,12 @@ tags:
 > è 2 cm, sono disegnati due cerchi come nella figura
 > a fianco. La misura della minima distanza tra i due
 > cerchi è:
-> (A)
-> √
-> 10 cm,
-> (B) 3 cm,
-> (C) (
-> √
-> 10+3) cm,
-> (D)
-> (
-> √
-> 10 −2) cm,
-> (E) (
-> √
-> 10 −3) cm.
+>
+> - **(A)** √ 10 cm,
+> - **(B)** 3 cm,
+> - **(C)** ( √ 10+3) cm,
+> - **(D)** ( √ 10 −2) cm,
+> - **(E)** ( √ 10 −3) cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

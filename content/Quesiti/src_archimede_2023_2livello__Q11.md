@@ -37,11 +37,12 @@ tags:
 > Per quante coppie di interi (m, n), con 1 < n < 100, si ha che la scrittura decimale della frazione
 > m
 > n inizia proprio con 3,14?
-> (A) 14
-> (B) 21
-> (C) 48
-> (D) 50
-> (E) Nessuna delle precedenti
+>
+> - **(A)** 14
+> - **(B)** 21
+> - **(C)** 48
+> - **(D)** 50
+> - **(E)** Nessuna delle precedenti
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

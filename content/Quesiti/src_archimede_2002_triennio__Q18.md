@@ -34,12 +34,12 @@ tags:
 > Nella lista che segue, una sola terna di numeri non può rappresentare termini
 > di una progressione geometrica (i termini non sono necessariamente consecutivi).
 > Qual è questa terna?
-> (A) 3; 6; 96
-> (B) 3; 1; 1
-> 81
-> (C) 3; 3,3; 3,993
-> (D) 3; 6; 48
-> (E) 3; 5; 9.
+>
+> - **(A)** 3; 6; 96
+> - **(B)** 3; 1; 1 81
+> - **(C)** 3; 3,3; 3,993
+> - **(D)** 3; 6; 48
+> - **(E)** 3; 5; 9.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

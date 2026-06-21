@@ -32,11 +32,12 @@ tags:
 
 > I tre vertici di un triangolo rettangolo avente un angolo di 54°sono anche vertici
 > di un poligono regolare avente...
-> (A) 12 lati
-> (B) 25 lati
-> (C) 30 lati
-> (D) 24 lati
-> (E) 16 lati
+>
+> - **(A)** 12 lati
+> - **(B)** 25 lati
+> - **(C)** 30 lati
+> - **(D)** 24 lati
+> - **(E)** 16 lati
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

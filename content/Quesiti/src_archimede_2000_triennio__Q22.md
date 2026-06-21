@@ -33,17 +33,12 @@ tags:
 > Un comune dado con le facce numerate da 1 a 6 viene lanciato tre volte e ogni
 > volta si prende un bastoncino di lunghezza pari al risultato del lancio. Qual è la
 > probabilità che i tre bastoncini costituiscano i lati di un triangolo rettangolo?
-> (A) 1
-> 6
-> (B) 1
-> 36
-> (C)
-> 1
-> 216
-> (D) 5
-> 18
-> (E) 1
-> 72.
+>
+> - **(A)** 1 6
+> - **(B)** 1 36
+> - **(C)** 1 216
+> - **(D)** 5 18
+> - **(E)** 1 72.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

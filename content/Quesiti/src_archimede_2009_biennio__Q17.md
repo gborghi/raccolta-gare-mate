@@ -35,11 +35,12 @@ tags:
 
 > a e b sono due numeri maggiori o uguali a zero. Sappiamo che: a3 + a < b −b3.
 > Qual è l’ordine corretto tra i tre numeri a, b e 1?
-> (A) b < a < 1,
-> (B) a = b = 1,
-> (C) a < 1 < b,
-> (D) a < b < 1,
-> (E) 1 < a < b.
+>
+> - **(A)** b < a < 1,
+> - **(B)** a = b = 1,
+> - **(C)** a < 1 < b,
+> - **(D)** a < b < 1,
+> - **(E)** 1 < a < b.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

@@ -32,11 +32,12 @@ tags:
 > una pista circolare lunga 400 m. Essi girano nello stesso senso a velocità costante
 > di 35 km/h e 40 km/h rispettivamente. Dopo quanti giri il ciclista più veloce
 > raggiungerà l’altro?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 6
-> (E) 8.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 8.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

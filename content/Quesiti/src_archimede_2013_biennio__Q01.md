@@ -30,11 +30,12 @@ tags:
 
 > Federico ha una collezione di soldatini; sa di averne un po’ meno di 100, ma certamente almeno 30. Li dispone in fila per 7 e gli avanza un soldatino; poi li dispone
 > in fila per 10 e stavolta gli avanzano 2 soldatini. Quanti soldatini ha in tutto?
-> (A) 32
-> (B) 50
-> (C) 62
-> (D) 71
-> (E) 92
+>
+> - **(A)** 32
+> - **(B)** 50
+> - **(C)** 62
+> - **(D)** 71
+> - **(E)** 92
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

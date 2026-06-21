@@ -32,11 +32,12 @@ tags:
 
 > Immaginando di prolungare tutte le facce di un cubo, in quante regioni viene
 > diviso tutto lo spazio (compreso l’interno del cubo)?
-> (A) 9
-> (B) 16
-> (C) 24
-> (D) 27
-> (E) 32.
+>
+> - **(A)** 9
+> - **(B)** 16
+> - **(C)** 24
+> - **(D)** 27
+> - **(E)** 32.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

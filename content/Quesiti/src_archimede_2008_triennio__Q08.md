@@ -35,11 +35,12 @@ tags:
 > Per ogni numero naturale n indichiamo con Sn la somma dei primi dieci multipli
 > di n: ad esempio S2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20. Quanto vale
 > S1 + S2 + S3 + . . . + S10?
-> (A) 2925,
-> (B) 3025,
-> (C) 3125,
-> (D) 3225,
-> (E) 3325.
+>
+> - **(A)** 2925,
+> - **(B)** 3025,
+> - **(C)** 3125,
+> - **(D)** 3225,
+> - **(E)** 3325.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]

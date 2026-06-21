@@ -37,12 +37,12 @@ tags:
 *Largest among five exponential expressions in base 3*
 
 > Which of the following numbers is the largest?
-> 
-> (A) $3^{10}$
-> (B) $9^{10}$
-> (C) $27^{11}$
-> (D) $243^{8}$
-> (E) $81^{11}$
+>
+> - **(A)** $3^{10}$
+> - **(B)** $9^{10}$
+> - **(C)** $27^{11}$
+> - **(D)** $243^{8}$
+> - **(E)** $81^{11}$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

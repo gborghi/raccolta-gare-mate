@@ -34,12 +34,12 @@ tags:
 > ciascuno dei quali il primo classificato riceve a1 punti, il secondo a2 e il terzo a3, con a1 > a2 >
 > a3 > 0 tutti interi. I punteggi finali di Alberto, Barbara e Carlo sono rispettivamente 22, 9, 9.
 > Sapendo che Barbara ha vinto il primo turno, chi è arrivato secondo nel secondo turno?
-> (A) Necessariamente Alberto
-> (B) Necessariamente Barbara
-> (C) Necessariamente Carlo
-> (D) Possono essere arrivati secondi sia Alberto sia Barbara
-> (E) Possono essere arrivati secondi
-> sia Carlo sia Barbara
+>
+> - **(A)** Necessariamente Alberto
+> - **(B)** Necessariamente Barbara
+> - **(C)** Necessariamente Carlo
+> - **(D)** Possono essere arrivati secondi sia Alberto sia Barbara
+> - **(E)** Possono essere arrivati secondi sia Carlo sia Barbara
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

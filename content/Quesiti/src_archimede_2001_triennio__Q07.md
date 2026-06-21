@@ -34,11 +34,12 @@ tags:
 > i ragazzi riceveranno lo stesso ammontare e così le ragazze.
 > Ma ogni ragazza
 > riceverà 600 Euro più dei ragazzi. Quanto ricevono a testa i ragazzi?
-> (A) 600
-> (B) 800
-> (C) 1400
-> (D) 1600
-> (E) solo le ragazze ricevono una borsa.
+>
+> - **(A)** 600
+> - **(B)** 800
+> - **(C)** 1400
+> - **(D)** 1600
+> - **(E)** solo le ragazze ricevono una borsa.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

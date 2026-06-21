@@ -33,12 +33,12 @@ tags:
 
 > In una griglia rettangolare 20 × 25 vengono tracciate le due diagonali. Quanti quadretti della griglia non
 > vengono tagliati, al loro interno, dalle diagonali?
-> (A) 320
-> (B) 326
-> (C) 400
-> (D) 418
-> (E)
-> 422
+>
+> - **(A)** 320
+> - **(B)** 326
+> - **(C)** 400
+> - **(D)** 418
+> - **(E)** 422
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

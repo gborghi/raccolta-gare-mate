@@ -34,11 +34,12 @@ tags:
 > (3) y è un quadrato perfetto;
 > (4) y è un cubo perfetto.
 > Tra le 4 affermazioni precedenti, quante sono quelle vere?
-> (A) solo 3
-> (B) tutte e 4
-> (C) solo 2
-> (D) solo 1
-> (E) nessuna
+>
+> - **(A)** solo 3
+> - **(B)** tutte e 4
+> - **(C)** solo 2
+> - **(D)** solo 1
+> - **(E)** nessuna
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

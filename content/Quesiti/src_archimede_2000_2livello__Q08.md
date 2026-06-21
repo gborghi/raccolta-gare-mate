@@ -31,12 +31,12 @@ tags:
 *Numero biglietti lotteria con 999 cifre 9*
 
 > In una lotteria viene usata la cifra 9 esattamente 999 volte per numerare i biglietti (numerati dal numero 1 in poi). Quanti biglietti sono stati emessi per la lotteria?
-> 
-> (A) Meno di 2000
-> (B) tra 2001 e 3000
-> (C) tra 3001 e 4000
-> (D) più di 4001
-> (E) non può esistere una siffatta lotteria.
+>
+> - **(A)** Meno di 2000
+> - **(B)** tra 2001 e 3000
+> - **(C)** tra 3001 e 4000
+> - **(D)** più di 4001
+> - **(E)** non può esistere una siffatta lotteria.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

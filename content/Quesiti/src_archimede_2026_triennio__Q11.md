@@ -33,11 +33,12 @@ tags:
 
 > I numeri naturali a, b, c sono primi e soddisfano la relazione abc = 3 (a+b+c)+1.
 > Quale può essere, al massimo, il valore della quantità 5a + 3b + c ?
-> (A) 79
-> (B) 73
-> (C) 75
-> (D) 71
-> (E) 77
+>
+> - **(A)** 79
+> - **(B)** 73
+> - **(C)** 75
+> - **(D)** 71
+> - **(E)** 77
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalita]]

@@ -48,12 +48,12 @@ tags:
 > N
 > I
 > T
-> (A) 48
-> (B) 45
-> (C) 52
-> (D) 54
-> (E) 42
-> 211
+>
+> - **(A)** 48
+> - **(B)** 45
+> - **(C)** 52
+> - **(D)** 54
+> - **(E)** 42 211
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -30,11 +30,12 @@ tags:
 
 > Il numero 2101 + 293
 > 286 + 278 è uguale a:
-> (A) 27 · 5,
-> (B) 213,
-> (C) 213 · 3,
-> (D) 215,
-> (E) 215 · 17.
+>
+> - **(A)** 27 · 5,
+> - **(B)** 213,
+> - **(C)** 213 · 3,
+> - **(D)** 215,
+> - **(E)** 215 · 17.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

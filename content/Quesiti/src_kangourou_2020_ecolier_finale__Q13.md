@@ -29,14 +29,12 @@ tags:
 *Area della stella grigia al centro degli esagoni*
 
 > Osserva la scala in figura: ogni volta che il coniglio scende di $3$ gradini, il canguro sale di $7$ gradini. Qual è il numero del gradino sul quale si incontreranno?
-> 
-> (A) $53$
-> (B) $60$
-> (C) $63$
-> (D) $70$
-> (E) $73$
-> 
-> (vedi figura)
+>
+> - **(A)** $53$
+> - **(B)** $60$
+> - **(C)** $63$
+> - **(D)** $70$
+> - **(E)** $73$ (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

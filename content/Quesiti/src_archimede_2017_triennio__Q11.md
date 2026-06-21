@@ -32,11 +32,12 @@ tags:
 > pari fa un punto Silvia, quando esce un numero dispari fa un punto Luigi. Vince
 > la partita chi arriva per primo a 5 punti. Dopo 5 lanci, Silvia è in vantaggio per 4
 > a 1. Qual è la probabilità che sia Silvia a vincere la partita?
-> (A) 4/5
-> (B) 5/6
-> (C) 7/8
-> (D) 3/4
-> (E) 15/16
+>
+> - **(A)** 4/5
+> - **(B)** 5/6
+> - **(C)** 7/8
+> - **(D)** 3/4
+> - **(E)** 15/16
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

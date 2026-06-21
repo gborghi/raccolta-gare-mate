@@ -34,13 +34,12 @@ tags:
 > “Io lo comprerò dello stesso colore di Bianca”. Daniela dice: “Se Alice lo comprerà
 > blu, io lo comprerò dello stesso colore di Cecilia”. Quale delle seguenti affermazioni
 > è sicuramente vera?
-> (A) È impossibile che quattro bambine comprino un palloncino rosso,
-> (B) almeno tre bambine compreranno un palloncino dello stesso colore,
-> (C) Daniela
-> e Bianca compreranno un palloncino dello stesso colore,
-> (D) almeno due bambine compreranno un palloncino rosso,
-> (E) nessuna delle precedenti affermazioni
-> è sicuramente vera.
+>
+> - **(A)** È impossibile che quattro bambine comprino un palloncino rosso,
+> - **(B)** almeno tre bambine compreranno un palloncino dello stesso colore,
+> - **(C)** Daniela e Bianca compreranno un palloncino dello stesso colore,
+> - **(D)** almeno due bambine compreranno un palloncino rosso,
+> - **(E)** nessuna delle precedenti affermazioni è sicuramente vera.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

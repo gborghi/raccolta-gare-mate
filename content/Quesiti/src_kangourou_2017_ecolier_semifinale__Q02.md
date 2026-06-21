@@ -28,13 +28,14 @@ tags:
 
 *Cifra diversa in numero a cinque cifre con somma 42*
 
-> (Punti 3) Un numero di cinque cifre ha quattro cifre uguali e la somma delle cinque cifre è 42. 
-> Qual è la cifra diversa dalle altre? 
-> (A) 5  
-> (B) 6  
-> (C) 7  
-> (D) 8  
-> (E) 9
+> (Punti 3) Un numero di cinque cifre ha quattro cifre uguali e la somma delle cinque cifre è 42.
+> Qual è la cifra diversa dalle altre?
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

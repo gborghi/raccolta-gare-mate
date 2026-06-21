@@ -32,11 +32,12 @@ tags:
 > L’area di un triangolo ABC è di 648 m2. Preso un punto F sul lato AB, siano D, E i punti she suddividono il
 > segmento CF in tre parti uguali CD = DE = EF. Se M e N sono i punti medi dei lati AC e BC, quanti m2 misura
 > l’area del quadrilatero EMDN?
-> (A) i dati forniti non sono sufficienti
-> (B) 162
-> (C) 96
-> (D) 108
-> (E) 72
+>
+> - **(A)** i dati forniti non sono sufficienti
+> - **(B)** 162
+> - **(C)** 96
+> - **(D)** 108
+> - **(E)** 72
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

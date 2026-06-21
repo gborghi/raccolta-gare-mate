@@ -33,11 +33,12 @@ tags:
 
 > Sia n il più piccolo numero intero positivo divisibile per 20 e tale che la somma
 > delle sue cifre sia divisibile per 1999. Quante cifre ha n?
-> (A) Meno di 222
-> (B) 222
-> (C) 223
-> (D) 224
-> (E) più di 224.
+>
+> - **(A)** Meno di 222
+> - **(B)** 222
+> - **(C)** 223
+> - **(D)** 224
+> - **(E)** più di 224.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

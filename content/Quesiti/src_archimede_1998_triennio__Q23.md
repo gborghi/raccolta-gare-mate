@@ -29,11 +29,12 @@ tags:
 *Quale espressione e la meta di 4 alla 1998*
 
 > Quale fra le seguenti espressioni rappresenta la metà di 41998?
-> (A) 21998
-> (B) 41997
-> (C) 2999
-> (D) 4999
-> (E) 23995.
+>
+> - **(A)** 21998
+> - **(B)** 41997
+> - **(C)** 2999
+> - **(D)** 4999
+> - **(E)** 23995.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

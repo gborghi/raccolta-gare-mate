@@ -37,12 +37,12 @@ tags:
 *Integer operations leading to 220; identify property of x*
 
 > Consider a positive integer $x$ and perform the following successive operations: multiply by 2, then add 1, then multiply by 3, then subtract 5. If the result is 220, then $x$ is:
-> 
-> (A) a prime number.
-> (B) an even number.
-> (C) a number between 40 and 50.
-> (D) a multiple of 3.
-> (E) a number whose digit sum is 9.
+>
+> - **(A)** a prime number.
+> - **(B)** an even number.
+> - **(C)** a number between 40 and 50.
+> - **(D)** a multiple of 3.
+> - **(E)** a number whose digit sum is 9.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

@@ -30,11 +30,12 @@ tags:
 
 > In un triangolo ABC, sia D un punto sul lato BC tale che AC = CD. Sapendo
 > che AD = DB e che bC = 16°, qual è l’ampiezza dell’angolo bB?
-> (A) 32°
-> (B) 40°
-> (C) 36°
-> (D) 38°
-> (E) 41°
+>
+> - **(A)** 32°
+> - **(B)** 40°
+> - **(C)** 36°
+> - **(D)** 38°
+> - **(E)** 41°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

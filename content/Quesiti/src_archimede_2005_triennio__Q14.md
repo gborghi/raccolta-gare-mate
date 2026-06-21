@@ -34,11 +34,12 @@ tags:
 *Soluzioni reali di |x-2|-4=1/|x-3|*
 
 > Quanti numeri reali x risolvono l’equazione |x −2| −4 = 1/|x −3| ?
-> (A) nessuno,
-> (B) 2,
-> (C) 3,
-> (D) 4,
-> (E) più di quattro.
+>
+> - **(A)** nessuno,
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** più di quattro.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]

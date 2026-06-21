@@ -33,14 +33,12 @@ tags:
 *Codice lucchetto (cifre pari somma 4x6)*
 
 > Francesco ha le seguenti tessere. Ne userà alcune per coprire, completamente e senza sovrapposizioni, la griglia che vedi qui sotto. Se vuole usare il maggior numero possibile di tessere di misure differenti, quante tessere userà in tutto Francesco?
-> 
-> (A) $3$
-> (B) $4$
-> (C) $5$
-> (D) $6$
-> (E) $7$
-> 
-> (vedi figura)
+>
+> - **(A)** $3$
+> - **(B)** $4$
+> - **(C)** $5$
+> - **(D)** $6$
+> - **(E)** $7$ (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

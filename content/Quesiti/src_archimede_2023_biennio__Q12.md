@@ -64,11 +64,12 @@ tags:
 > C
 > D
 > P
-> (A) 120
-> (B) 128
-> (C) 124
-> (D) 130
-> (E) 126
+>
+> - **(A)** 120
+> - **(B)** 128
+> - **(C)** 124
+> - **(D)** 130
+> - **(E)** 126
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

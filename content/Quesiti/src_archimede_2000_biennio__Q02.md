@@ -46,11 +46,12 @@ tags:
 > Quanto vale il rapporto fra
 > l’area della regione ombreggiata e quella della regione bianca
 > all’interno?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) dipende dalla posizione del cerchio
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** dipende dalla posizione del cerchio
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

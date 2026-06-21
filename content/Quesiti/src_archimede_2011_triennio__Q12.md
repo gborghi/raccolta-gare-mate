@@ -33,11 +33,12 @@ tags:
 > Diciamo che una coppia di numeri naturali (a, b) è bella se comunque si scelga una
 > coppia di numeri naturali (c, d) tali che ab = cd, vale a + b = c + d. Quante sono
 > le coppie belle?
-> (A) Nessuna,
-> (B) una,
-> (C) cinque,
-> (D) sette,
-> (E) più di otto.
+>
+> - **(A)** Nessuna,
+> - **(B)** una,
+> - **(C)** cinque,
+> - **(D)** sette,
+> - **(E)** più di otto.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

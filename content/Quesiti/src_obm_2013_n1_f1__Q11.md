@@ -38,12 +38,12 @@ tags:
 *Which statement about prime numbers is true*
 
 > Every prime number is an integer that has exactly two positive divisors: the number $1$ and the number itself. For example, $2$ and $5$ are primes, but $1$ (which has only one divisor) and $4$ (whose positive divisors are $1$, $2$ and $4$) are not primes. Which of the statements below is true?
-> 
-> (A) The sum of any two primes is a prime number.
-> (B) The sum of the squares of any two prime numbers is a prime number.
-> (C) The product of two consecutive natural numbers can be a prime number.
-> (D) The sum of any three primes is never a prime number.
-> (E) The product of any two primes can be a prime number.
+>
+> - **(A)** The sum of any two primes is a prime number.
+> - **(B)** The sum of the squares of any two prime numbers is a prime number.
+> - **(C)** The product of two consecutive natural numbers can be a prime number.
+> - **(D)** The sum of any three primes is never a prime number.
+> - **(E)** The product of any two primes can be a prime number.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]

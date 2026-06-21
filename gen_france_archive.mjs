@@ -66,6 +66,11 @@ const FAM = {
     title: (y) => `Concours Général des Lycées ${y} — Matematica`,
     level: () => "Concours Général",
   },
+  olympiades_premiere: {
+    compSlug: "olimpiadi-premiere", modalita: "individuale", garaTag: "gara/individuale",
+    title: (y) => `Olympiades Nationales de Mathématiques (Première) ${y}`,
+    level: () => "Olympiades Première",
+  },
 }
 
 const manifest = JSON.parse(await fs.readFile(MANIFEST, "utf8"))

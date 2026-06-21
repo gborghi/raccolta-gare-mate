@@ -41,11 +41,12 @@ tags:
 *Count rectangles with vertices A,B among 9x9 grid line intersections*
 
 > How many rectangles are there having the points $A$ and $B$ as vertices, and whose vertices are among the intersection points of the 9 horizontal lines with the 9 vertical lines of the figure below?
-> (A) 3
-> (B) 4
-> (C) 7
-> (D) 2
-> (E) 5
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 7
+> - **(D)** 2
+> - **(E)** 5
 
 ![[src_obm_2000_n3_f1__Q19.png]]
 

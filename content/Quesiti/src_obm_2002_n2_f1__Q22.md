@@ -37,12 +37,12 @@ tags:
 *Alice grows and shrinks successively; net height change after four steps*
 
 > During a trip to the country of Wonders, Alice experienced the following four changes in succession: first, she grew $25\%$ taller; next, she became $10\%$ shorter; then she became $10\%$ taller; finally, she became $25\%$ shorter. After all four changes, we can say that Alice:
-> 
-> (A) was $1\%$ taller.
-> (B) was $1\%$ taller.
-> (C) was $1\%$ shorter.
-> (D) was $5\%$ shorter.
-> (E) was $5\%$ taller.
+>
+> - **(A)** was $1\%$ taller.
+> - **(B)** was $1\%$ taller.
+> - **(C)** was $1\%$ shorter.
+> - **(D)** was $5\%$ shorter.
+> - **(E)** was $5\%$ taller.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

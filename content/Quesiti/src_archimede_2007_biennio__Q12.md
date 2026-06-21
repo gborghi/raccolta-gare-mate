@@ -34,11 +34,12 @@ tags:
 > Quanti sono i percorsi distinti che, partendo da un vertice fissato di un quadrato e
 > movendosi solo lungo i suoi lati e le sue diagonali, passano per ogni vertice una e
 > una sola volta?
-> (A) Due,
-> (B) tre,
-> (C) quattro,
-> (D) sei,
-> (E) otto.
+>
+> - **(A)** Due,
+> - **(B)** tre,
+> - **(C)** quattro,
+> - **(D)** sei,
+> - **(E)** otto.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]]

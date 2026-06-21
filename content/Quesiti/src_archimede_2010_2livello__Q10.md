@@ -34,11 +34,12 @@ tags:
 > comun divisore è maggiore di 1, ma mcd(a1, a2, a3, a4) = 1.
 > Qual è il minimo valore che può
 > assumere a4?
-> (A) 10
-> (B) 12
-> (C) 15
-> (D) 30
-> (E) 105.
+>
+> - **(A)** 10
+> - **(B)** 12
+> - **(C)** 15
+> - **(D)** 30
+> - **(E)** 105.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

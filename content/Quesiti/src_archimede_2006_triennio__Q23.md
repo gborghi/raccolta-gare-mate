@@ -59,18 +59,12 @@ tags:
 > Nel quadrato ABCD, avente il lato lungo 12 m, il lato AB
 > viene diviso in tre segmenti AE, EF e FB di uguale lunghezza. Si tracciano i segmenti EC e FD che si intersecano
 > nel punto H. Quanto è l’area del triangolo HCD?
-> (A) 36 m2,
-> (B) 48 m2,
-> (C) 54 m2,
-> (D) 60 m2,
-> (E) 72 m2.
-> C
-> D
-> E
-> F
-> A
-> B
-> H
+>
+> - **(A)** 36 m2,
+> - **(B)** 48 m2,
+> - **(C)** 54 m2,
+> - **(D)** 60 m2,
+> - **(E)** 72 m2. C D E F A B H
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

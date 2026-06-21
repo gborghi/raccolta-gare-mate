@@ -33,12 +33,12 @@ tags:
 > abbastanza lungo da riempire tutta l’ora: trovare il prodotto di tutti i divisori di 10243, compresi 1 e 10243.
 > Con suo grande stupore, dopo pochi minuti, il suo alunno più bravo le porta la lavagnetta con il risultato
 > corretto scritto sopra. Qual è il risultato?
-> (A) 291
-> (B)
-> 2465
-> (C) 2990
-> (D) 2900
-> (E) 2450
+>
+> - **(A)** 291
+> - **(B)** 2465
+> - **(C)** 2990
+> - **(D)** 2900
+> - **(E)** 2450
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

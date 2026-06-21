@@ -41,11 +41,12 @@ tags:
 > 2
 > = x −5
 > 2
-> (A) (I), (II) e (III) sono vere per ogni x reale
-> (B) (I), (II) e (III) sono false per ogni x reale
-> (C) per ogni x reale, se (II) è vera lo è anche (III)
-> (D) per ogni x reale, se (II) è vera lo è anche (I)
-> (E) per ogni x reale, se (I) è vera allora (III) è falsa.
+>
+> - **(A)** (I), (II) e (III) sono vere per ogni x reale
+> - **(B)** (I), (II) e (III) sono false per ogni x reale
+> - **(C)** per ogni x reale, se (II) è vera lo è anche (III)
+> - **(D)** per ogni x reale, se (II) è vera lo è anche (I)
+> - **(E)** per ogni x reale, se (I) è vera allora (III) è falsa.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

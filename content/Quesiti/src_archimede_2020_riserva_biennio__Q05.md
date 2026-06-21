@@ -30,11 +30,12 @@ tags:
 > Gli angoli del triangolo DEF hanno ampiezze: bD = 71°, bE = 56°, bF = 53°. Dal vertice E si tracciano l’altezza EH
 > e la bisettrice EB. Qual è l’ampiezza dell’angolo \
 > BEH?
-> (A) 7°
-> (B) 5°
-> (C) 9°
-> (D) 6°
-> (E) 8°
+>
+> - **(A)** 7°
+> - **(B)** 5°
+> - **(C)** 9°
+> - **(D)** 6°
+> - **(E)** 8°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

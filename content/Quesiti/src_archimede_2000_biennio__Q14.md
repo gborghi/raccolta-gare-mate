@@ -34,11 +34,12 @@ tags:
 > ma è riuscito a capire che due cifre consecutive sono uguali e la terza è diversa.
 > Qual è il numero massimo di combinazioni che il ladro dovrà provare per aprire
 > la valigia di Marco?
-> (A) 180
-> (B) 190
-> (C) 200
-> (D) 210
-> (E) 220.
+>
+> - **(A)** 180
+> - **(B)** 190
+> - **(C)** 200
+> - **(D)** 210
+> - **(E)** 220.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

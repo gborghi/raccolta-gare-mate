@@ -33,21 +33,12 @@ tags:
 > Alberto, Barbara e Carlo stanno giocando a carte. Ad ogni mano, il vincitore guadagna 2 punti,
 > mentre gli altri due giocatori perdono un punto a testa. Inizialmente, tutti hanno 0 punti. Qual è
 > la probabilità che, dopo 10 mani, siano nuovamente tutti a zero punti?
-> (A) 0
-> (B) 1
-> 5
-> (C) 1
-> 3
-> (D)
-> 10
-> 6
-> 
-> 310
-> (E) 1 −
-> 2
-> 3
-> 10
-> .
+>
+> - **(A)** 0
+> - **(B)** 1 5
+> - **(C)** 1 3
+> - **(D)** 10 6  310
+> - **(E)** 1 − 2 3 10 .
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

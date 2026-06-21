@@ -34,11 +34,12 @@ tags:
 
 > Sapendo che l’equazione ax2 −bx + c = 0, con a > 1, ha due soluzioni positive
 > strettamente minori di 1, possiamo affermare sicuramente che:
-> (A) c + b < 3a,
-> (B) c ≤b < a,
-> (C) b ≤c,
-> (D) c ≤b < 2,
-> (E) b < 2 e c < a.
+>
+> - **(A)** c + b < 3a,
+> - **(B)** c ≤b < a,
+> - **(C)** b ≤c,
+> - **(D)** c ≤b < 2,
+> - **(E)** b < 2 e c < a.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

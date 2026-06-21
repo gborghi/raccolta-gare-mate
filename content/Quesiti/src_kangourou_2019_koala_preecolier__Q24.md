@@ -32,16 +32,16 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob24.png]]
 
 > Una strana macchina cambia-gettoni ti dà tre gettoni bianchi se ne inserisci uno rosso, ti dà due gettoni rossi se ne inserisci uno bianco.
-> 
+>
 > (vedi figura)
-> 
+>
 > All'inizio del gioco hai a disposizione tre gettoni rossi e uno bianco. Dopo avere giocato tre volte, inserendo un gettone alla volta, quale è il minimo numero possibile di gettoni, tra bianchi e rossi, che puoi trovarti ad avere?
-> 
-> (A) 7
-> (B) 6
-> (C) 8
-> (D) 5
-> (E) 9
+>
+> - **(A)** 7
+> - **(B)** 6
+> - **(C)** 8
+> - **(D)** 5
+> - **(E)** 9
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

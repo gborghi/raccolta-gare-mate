@@ -33,28 +33,12 @@ tags:
 > È dato un esagono regolare di lato di lunghezza 1 m, i cui vertici, elencati in senso
 > orario, sono A, B, C, D, E, F. Siano X e Y le intersezioni del segmento AC con i
 > segmenti BF e BD rispettivamente. Calcolare la distanza tra X e Y .
-> (A) 1
-> 2 m
-> (B)
-> √
-> 3
-> 3
-> m
-> (C)
-> √
-> 3
-> 6
-> m
-> (D) 2
-> √
-> 3
-> 3
-> m
-> (E)
-> √
-> 3
-> 2
-> m
+>
+> - **(A)** 1 2 m
+> - **(B)** √ 3 3 m
+> - **(C)** √ 3 6 m
+> - **(D)** 2 √ 3 3 m
+> - **(E)** √ 3 2 m
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

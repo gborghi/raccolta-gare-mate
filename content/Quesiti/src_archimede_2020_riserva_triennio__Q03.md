@@ -31,11 +31,12 @@ tags:
 
 > Quanti sono i possibili triangoli non degeneri (ossia di area non nulla), tra loro non congruenti, in cui la lunghezza
 > di ciascun lato è una tra le misure 2, 3, 4, 5 ?
-> (A) 17
-> (B) 12
-> (C) 13
-> (D) 14
-> (E) 16
+>
+> - **(A)** 17
+> - **(B)** 12
+> - **(C)** 13
+> - **(D)** 14
+> - **(E)** 16
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

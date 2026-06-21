@@ -35,11 +35,12 @@ tags:
 > Poich´e è buio e non distingue i colori, prende un mucchio di calzini alla rinfusa.
 > Quanti calzini dovrà mettere in valigia, come minimo, per avere la certezza di
 > portarne almeno due paia ben abbinati di due diversi colori?
-> (A) 77
-> (B) 6
-> (C) 68
-> (D) 48
-> (E) 24
+>
+> - **(A)** 77
+> - **(B)** 6
+> - **(C)** 68
+> - **(D)** 48
+> - **(E)** 24
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

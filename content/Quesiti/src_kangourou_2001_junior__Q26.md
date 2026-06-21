@@ -50,11 +50,12 @@ tags:
 > cm sia in orizzontale sia in verticale. Congiungete due punti
 > in modo da formare un segmento lungo 5 cm. Quanti di questi
 > segmenti possono essere tracciati nella griglia?
-> (A) 10
-> (B) 12
-> (C) 24
-> (D) 34
-> (E) 36.
+>
+> - **(A)** 10
+> - **(B)** 12
+> - **(C)** 24
+> - **(D)** 34
+> - **(E)** 36.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

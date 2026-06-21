@@ -57,18 +57,12 @@ tags:
 
 > Sia ABCDE un pentagono regolare di lato 1 e sia P l’intersezione tra le diagonali AC e BE.
 > Quanto misura il segmento PC?
-> (A) 1
-> (B)
-> √
-> 5
-> 2
-> (C)
-> √
-> 5 −1
-> (D) 4(
-> √
-> 5 −2)
-> (E) Nessuna delle precedenti.
+>
+> - **(A)** 1
+> - **(B)** √ 5 2
+> - **(C)** √ 5 −1
+> - **(D)** 4( √ 5 −2)
+> - **(E)** Nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

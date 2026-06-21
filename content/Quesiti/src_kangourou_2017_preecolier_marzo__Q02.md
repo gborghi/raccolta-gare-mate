@@ -31,14 +31,12 @@ tags:
 ![[src_kangourou_2017_preecolier_marzo__prob2.png]]
 
 > Nella figura alcune stelle sono a cinque punte, altre a sei punte e altre ancora a sette punte. Quante sono le stelle a cinque punte?
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 9
-> 
-> (vedi figura)
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 9 (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

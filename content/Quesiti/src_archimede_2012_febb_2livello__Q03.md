@@ -33,23 +33,12 @@ tags:
 > Alice, Berto e Carlo stanno cercando un tesoro. Sapendo che i tre amici si trovano sui vertici di un
 > triangolo equilatero e che il tesoro si trova in un punto al di fuori del triangolo, a 1 metro di distanza
 > da Alice e da Berto e 2 metri di distanza da Carlo, quanti metri misura il lato del triangolo?
-> (A)
-> 2
-> √
-> 3
-> (B) 3
-> √
-> 3
-> 4
-> (C)
-> √
-> 3
-> 2
-> (D) 3
-> 2
-> (E)
-> √
-> 3.
+>
+> - **(A)** 2 √ 3
+> - **(B)** 3 √ 3 4
+> - **(C)** √ 3 2
+> - **(D)** 3 2
+> - **(E)** √ 3.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

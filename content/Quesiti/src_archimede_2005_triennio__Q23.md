@@ -34,11 +34,12 @@ tags:
 > utilizzando solo le lettere A, B, E, M, O in modo che nessuna delle lettere successive
 > ad una B (andando da sinistra verso destra) sia una M? (Quindi, ad esempio,
 > ABEB deve essere contata ma OBAM no).
-> (A) 43 · 5,
-> (B) 42 · 52,
-> (C) 4 · 53,
-> (D) 29,
-> (E) 54.
+>
+> - **(A)** 43 · 5,
+> - **(B)** 42 · 52,
+> - **(C)** 4 · 53,
+> - **(D)** 29,
+> - **(E)** 54.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

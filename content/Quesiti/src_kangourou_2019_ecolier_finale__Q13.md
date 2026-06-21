@@ -31,14 +31,12 @@ tags:
 *Ruggiti non in risposta (tre leoni)*
 
 > Stefano ha a disposizione le cifre $2$, $0$, $1$ e $9$. In ognuna delle caselle in figura ne deve inserire una e le deve usare tutte. Se vuole che la somma indicata fornisca il risultato più grande possibile, che cifra dovrà inserire nella casella indicata con il punto di domanda?
-> 
-> (A) $0$ oppure $1$.
-> (B) $0$ oppure $2$.
-> (C) Necessariamente $0$.
-> (D) Necessariamente $1$.
-> (E) Necessariamente $2$.
-> 
-> (vedi figura)
+>
+> - **(A)** $0$ oppure $1$.
+> - **(B)** $0$ oppure $2$.
+> - **(C)** Necessariamente $0$.
+> - **(D)** Necessariamente $1$.
+> - **(E)** Necessariamente $2$. (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

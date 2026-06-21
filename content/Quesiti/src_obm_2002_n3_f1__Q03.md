@@ -40,11 +40,12 @@ tags:
 *A merchant sells two articles and computes total gain given percentage profit and loss*
 
 > A merchant buys two articles for a total of R\$ 27.000,00. He sold the first one at a profit of $10\%$ and the second one at a loss of $5\%$. The total gain was R\$ 750,00. The two purchase prices were, respectively:
-> (A) R\$ 10.000,00 and R\$ 17.000,00
-> (B) R\$ 13.000,00 and R\$ 14.000,00
-> (C) R\$ 14.000,00 and R\$ 13.000,00
-> (D) R\$ 15.000,00 and R\$ 12.000,00
-> (E) R\$ 18.000,00 and R\$ 9.000,00
+>
+> - **(A)** R\$ 10.000,00 and R\$ 17.000,00
+> - **(B)** R\$ 13.000,00 and R\$ 14.000,00
+> - **(C)** R\$ 14.000,00 and R\$ 13.000,00
+> - **(D)** R\$ 15.000,00 and R\$ 12.000,00
+> - **(E)** R\$ 18.000,00 and R\$ 9.000,00
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]

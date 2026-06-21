@@ -29,12 +29,12 @@ tags:
 *Quante case dal numero 25 al 57 compresi*
 
 > In Via Lunga le case sono numerate: 1, 2, 3, e così via. Il postino deve consegnare almeno una lettera in ogni casa dal numero 25 al numero 57 compresi. Quante case deve visitare?
-> 
-> (A) 31
-> (B) 32
-> (C) 33
-> (D) 34
-> (E) 35
+>
+> - **(A)** 31
+> - **(B)** 32
+> - **(C)** 33
+> - **(D)** 34
+> - **(E)** 35
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

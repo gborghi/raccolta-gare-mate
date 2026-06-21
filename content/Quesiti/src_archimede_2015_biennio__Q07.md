@@ -30,11 +30,12 @@ tags:
 > L’area di un triangolo ABC è di 832 cm2. Indichiamo con D il punto medio del
 > lato AB, con E il punto medio di BC e con F il punto medio del segmento AE.
 > Di quanti cm2 è l’area del triangolo DEF?
-> (A) 78
-> (B) 156
-> (C) 104
-> (D) 124
-> (E) i dati non bastano a determinarlo
+>
+> - **(A)** 78
+> - **(B)** 156
+> - **(C)** 104
+> - **(D)** 124
+> - **(E)** i dati non bastano a determinarlo
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

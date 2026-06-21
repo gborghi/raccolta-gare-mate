@@ -29,11 +29,12 @@ tags:
 *Valore x+y dato un sistema di equazioni esponenziali*
 
 > Se 2x = 4y+1 e 27y = 3x+1, quanto vale x + y?
-> (A) −3
-> (B) 3
-> (C) 5
-> (D) 11
-> (E) non esistono coppie di numeri (x, y) che verificano le condizioni date.
+>
+> - **(A)** −3
+> - **(B)** 3
+> - **(C)** 5
+> - **(D)** 11
+> - **(E)** non esistono coppie di numeri (x, y) che verificano le condizioni date.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

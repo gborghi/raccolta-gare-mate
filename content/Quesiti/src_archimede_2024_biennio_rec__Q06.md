@@ -40,11 +40,12 @@ tags:
 > D
 > E
 > ?
-> (A) 48
-> (B) 36
-> (C) 54
-> (D) 45
-> (E) 60
+>
+> - **(A)** 48
+> - **(B)** 36
+> - **(C)** 54
+> - **(D)** 45
+> - **(E)** 60
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

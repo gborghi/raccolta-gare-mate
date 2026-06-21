@@ -31,13 +31,12 @@ tags:
 
 > Un calciatore riceve un compenso annuale di 6.000.000 Euro per il 2007. La durata
 > di tempo in cui egli guadagna 1000 Euro è:
-> (A) minore di mezz’ora,
-> (B) compresa tra mezz’ora e un’ora,
-> (C) compresa
-> tra un’ora e due ore,
-> (D) compresa tra due ore e quattro ore,
-> (E) maggiore di
-> quattro ore.
+>
+> - **(A)** minore di mezz’ora,
+> - **(B)** compresa tra mezz’ora e un’ora,
+> - **(C)** compresa tra un’ora e due ore,
+> - **(D)** compresa tra due ore e quattro ore,
+> - **(E)** maggiore di quattro ore.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

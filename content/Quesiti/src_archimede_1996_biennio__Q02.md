@@ -30,11 +30,12 @@ tags:
 
 > Se in una città c’è un matematico ogni 320 abitanti, qual è la percentuale di
 > matematici?
-> (A) 3,2%
-> (B) 0,32%
-> (C) 3,125%
-> (D) 0,3125%
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 3,2%
+> - **(B)** 0,32%
+> - **(C)** 3,125%
+> - **(D)** 0,3125%
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

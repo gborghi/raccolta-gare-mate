@@ -34,41 +34,12 @@ tags:
 > canoa che può portare al massimo o due ragazzi o solo un adulto. Qual è il minimo
 > numero di traversate necessario per trasportare dall'altra parte del fiume tutte le
 > persone?
-> (A) 3
-> (B) 5
-> (C) 9
-> (D) 11
-> (E) 13.
->  .5
-> 2 
-> (E)
->       
-> 5
->  
-> (D)
->       
-> 2.5
->  
-> (C)
->      
-> 2
-> 5
-> 2
->  
-> (B)
->      
-> 5
-> 2
->  )
-> A
-> (
-> +
-> −
-> +
-> −
-> 
-> Kangourou  15 marzo 2001. Categoria Student. Pagina N.
-> 6
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 9
+> - **(D)** 11
+> - **(E)** 13. .5 2 (E) 5 (D) 2.5 (C) 2 5 2 (B) 5 2 ) A ( + − + − Kangourou 15 marzo 2001. Categoria Student. Pagina N. 6
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

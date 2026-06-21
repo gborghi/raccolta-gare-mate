@@ -29,12 +29,12 @@ tags:
 *Tempo perché il raggio del nastro raddoppi di nuovo*
 
 > La parte di nastro di un registratore avvolta su una bobina forma una corona circolare. Sapendo che dopo venti minuti di funzionamento il raggio maggiore della corona circolare è raddoppiato, quanto tempo dovrà continuare a funzionare il registratore affinché il raggio maggiore raddoppi nuovamente? Il nastro scorre con velocità costante.
-> 
-> (A) Venti minuti
-> (B) quaranta minuti
-> (C) un'ora
-> (D) un'ora e venti minuti
-> (E) dipende dal raggio interno della corona circolare.
+>
+> - **(A)** Venti minuti
+> - **(B)** quaranta minuti
+> - **(C)** un'ora
+> - **(D)** un'ora e venti minuti
+> - **(E)** dipende dal raggio interno della corona circolare.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -34,11 +34,12 @@ tags:
 > Mentre ogni cavaliere fornisce la risposta esatta, il primo furfante fornisce il numero esatto aumentato di 1, il secondo furfante il numero esatto aumentato di 2,
 > e così progressivamente. Sapendo che la somma di tutte le risposte è 1140, quanti
 > sono gli abitanti dell’isola?
-> (A) 30
-> (B) 45
-> (C) 60
-> (D) 90
-> (E) 99.
+>
+> - **(A)** 30
+> - **(B)** 45
+> - **(C)** 60
+> - **(D)** 90
+> - **(E)** 99.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

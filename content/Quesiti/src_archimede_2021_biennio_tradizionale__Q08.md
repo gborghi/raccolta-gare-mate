@@ -30,11 +30,12 @@ tags:
 > Paola ha preparato una bevanda mescolando 800 ml di succo di pera con 200 ml di succo di banana, ne beve 300 ml
 > e lascia in una brocca la parte rimanente. Francesco mescola la bevanda nella brocca con 200 ml di succo di fragola
 > e ne beve 180 ml. Quanto succo di pera c’è adesso nella brocca?
-> (A) 432 ml
-> (B) 442 ml
-> (C) 425 ml
-> (D) 415 ml
-> (E) 448 ml
+>
+> - **(A)** 432 ml
+> - **(B)** 442 ml
+> - **(C)** 425 ml
+> - **(D)** 415 ml
+> - **(E)** 448 ml
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -36,11 +36,12 @@ tags:
 > orario. Il lato del tracciato misura 90 km. Il motorino viaggia alla velocità costante
 > di 65 km orari, la bicicletta a 30 km orari. Dopo quante ore i due si incontreranno
 > di nuovo in uno dei quattro vertici del tracciato?
-> (A) 7
-> (B) 72/7
-> (C) 30/7
-> (D) 72
-> (E) non accadrà mai più
+>
+> - **(A)** 7
+> - **(B)** 72/7
+> - **(C)** 30/7
+> - **(D)** 72
+> - **(E)** non accadrà mai più
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

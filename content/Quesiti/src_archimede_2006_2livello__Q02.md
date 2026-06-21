@@ -36,11 +36,12 @@ tags:
 > Se Manuela ha un cane, allora ha anche un gatto.
 > Manuela non ha un cane, ma ha un gatto.
 > Quante di esse, al massimo, possono essere false contemporaneamente?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 4.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

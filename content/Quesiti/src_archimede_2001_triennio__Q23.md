@@ -36,11 +36,12 @@ tags:
 > 23 e r = 2 −
 > √
 > 2, verificano:
-> (A) r < q < p
-> (B) r < p < q
-> (C) p < q < r
-> (D) q < p < r
-> (E) q < r < p.
+>
+> - **(A)** r < q < p
+> - **(B)** r < p < q
+> - **(C)** p < q < r
+> - **(D)** q < p < r
+> - **(E)** q < r < p.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

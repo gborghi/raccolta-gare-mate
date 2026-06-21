@@ -31,12 +31,12 @@ tags:
 *Numero di gettoni di Alessio (resti 1 2 3)*
 
 > La somma di tre numeri è $50$. Cristina sottrae uno stesso numero segreto da ciascuno dei tre numeri e ottiene come risultati i numeri $24$, $13$ e $7$. Uno solo dei seguenti è uno dei tre numeri iniziali. Quale?
-> 
-> (A) $9$
-> (B) $11$
-> (C) $13$
-> (D) $17$
-> (E) $23$
+>
+> - **(A)** $9$
+> - **(B)** $11$
+> - **(C)** $13$
+> - **(D)** $17$
+> - **(E)** $23$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

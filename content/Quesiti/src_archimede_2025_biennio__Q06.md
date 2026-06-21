@@ -33,11 +33,12 @@ tags:
 > Per il compleanno di Riccardo, gli amici hanno deciso di regalargli due libri di
 > generi differenti. Sono incerti fra 3 libri di poesie, 5 fantasy e 6 horror.
 > In quanti modo possono scegliere il loro regalo di compleanno?
-> (A) 33
-> (B) 45
-> (C) 60
-> (D) 63
-> (E) 48
+>
+> - **(A)** 33
+> - **(B)** 45
+> - **(C)** 60
+> - **(D)** 63
+> - **(E)** 48
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -31,11 +31,12 @@ tags:
 *Affermazioni autoreferenziali, individuare quella falsa*
 
 > 5. Una ed una sola delle seguenti affermazioni è falsa. Quale?
-> (A) “La (B) è falsa”
-> (B) “La (C) è falsa”
-> (C) “La (E) è vera”
-> (D) “La (A) è vera”
-> (E) “Tre delle precedenti sono vere”.
+>
+> - **(A)** “La (B) è falsa”
+> - **(B)** “La (C) è falsa”
+> - **(C)** “La (E) è vera”
+> - **(D)** “La (A) è vera”
+> - **(E)** “Tre delle precedenti sono vere”.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

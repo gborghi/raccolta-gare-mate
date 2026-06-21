@@ -32,11 +32,12 @@ tags:
 
 > Ho a disposizione cinque cifre uguali a 1 ed una cifra uguale a 2. Usando tutte o
 > alcune di queste cifre, quanti numeri diversi posso costruire?
-> (A) 15
-> (B) 21
-> (C) 24
-> (D) 26
-> (E) 27.
+>
+> - **(A)** 15
+> - **(B)** 21
+> - **(C)** 24
+> - **(D)** 26
+> - **(E)** 27.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

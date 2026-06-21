@@ -36,11 +36,12 @@ tags:
 > pennarelli di colori diversi. Vuole colorare tutti i vertici del pentagono usando solo
 > i due pennarelli che ha, in modo che la colorazione finale non abbia nessun asse di
 > simmetria. In quanti modi distinti può farlo?
-> (A) Uno,
-> (B) due,
-> (C) quattro,
-> (D) cinque,
-> (E) nessuno.
+>
+> - **(A)** Uno,
+> - **(B)** due,
+> - **(C)** quattro,
+> - **(D)** cinque,
+> - **(E)** nessuno.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

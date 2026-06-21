@@ -32,11 +32,12 @@ tags:
 > che AD = DB e che l’angolo “
 > B è 11 volte “
 > C, l’ampiezza dell’angolo bA è . . .
-> (A) 128°
-> (B) 129°
-> (C) 131°
-> (D) 130°
-> (E) 132°
+>
+> - **(A)** 128°
+> - **(B)** 129°
+> - **(C)** 131°
+> - **(D)** 130°
+> - **(E)** 132°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

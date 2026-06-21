@@ -30,11 +30,12 @@ tags:
 
 > La rappresentazione in base 2 di un numero a è 1110000100111010101110100001. Qual è la settima
 > cifra da sinistra della rappresentazione di a in base 8?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

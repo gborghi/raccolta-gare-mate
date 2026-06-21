@@ -35,11 +35,12 @@ tags:
 > ricevere almeno una caramella; inoltre, per non creare malumori, le tre amiche di
 > Giulia dovranno ricevere lo stesso numero di caramelle. In quanti modi Giulia potrà
 > fare la suddivisione?
-> (A) 33
-> (B) 36
-> (C) 32
-> (D) 30
-> (E) 35
+>
+> - **(A)** 33
+> - **(B)** 36
+> - **(C)** 32
+> - **(D)** 30
+> - **(E)** 35
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

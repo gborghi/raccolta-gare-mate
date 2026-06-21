@@ -31,14 +31,12 @@ tags:
 *Numeri 4 cifre con cifra migliaia 1 e tre cifre uguali*
 
 > Martino costruisce uno steccato usando pali, ciascuno lungo un metro. In figura vedi uno steccato lungo $4$ metri. Quanti pali utilizzerà Martino per costruire uno steccato lungo $10$ metri?
-> 
-> (A) $22$
-> (B) $30$
-> (C) $33$
-> (D) $40$
-> (E) $42$
-> 
-> (vedi figura)
+>
+> - **(A)** $22$
+> - **(B)** $30$
+> - **(C)** $33$
+> - **(D)** $40$
+> - **(E)** $42$ (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

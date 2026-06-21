@@ -28,12 +28,12 @@ tags:
 *lato del segmento*
 
 > Michele si prepara all'ultimo compito in classe di matematica dell'anno; lo affronta con tranquillità, sapendo che se prende 10 avrà già fatto quest'anno la media del 9, mentre prendendo 5 la media diventerà 8. Quanti compiti ha fatto quest'anno Michele?
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) i dati non sono sufficienti per dare la risposta
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** i dati non sono sufficienti per dare la risposta
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

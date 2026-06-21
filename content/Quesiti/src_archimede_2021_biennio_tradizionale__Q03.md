@@ -31,11 +31,12 @@ tags:
 
 > Dal momento che 2021 = 43 · 47, prodotto di due numeri primi differenti, possiamo dire che 2021 è un numero
 > secondo. Quanti sono i numeri secondi compresi tra 40 e 70 ?
-> (A) 7
-> (B) 6
-> (C) 11
-> (D) 8
-> (E) 10
+>
+> - **(A)** 7
+> - **(B)** 6
+> - **(C)** 11
+> - **(D)** 8
+> - **(E)** 10
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

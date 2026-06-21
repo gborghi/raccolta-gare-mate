@@ -46,23 +46,12 @@ tags:
 > √
 > 6 m. Quanto vale l’area della parte del cerchio non coperta dal
 > triangolo ?
-> (A) ( 3
-> 2π−8
-> √
-> 3) m2
-> (B) π
-> 2 m2
-> (C) (π−3
-> √
-> 3
-> 4 ) m2
-> (D) ( 3
-> 2π−9
-> √
-> 3
-> 8 ) m2
-> (E) 3
-> 2π m2
+>
+> - **(A)** ( 3 2π−8 √ 3) m2
+> - **(B)** π 2 m2
+> - **(C)** (π−3 √ 3 4 ) m2
+> - **(D)** ( 3 2π−9 √ 3 8 ) m2
+> - **(E)** 3 2π m2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]

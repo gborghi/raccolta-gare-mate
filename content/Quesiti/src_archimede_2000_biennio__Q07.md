@@ -32,11 +32,12 @@ tags:
 > varietà diverse di vino utilizzando il minimo numero possibile di recipienti tutti
 > uguali e completamente riempiti, ovviamente senza mescolare qualità diverse di
 > vino nello stesso recipiente. Quanti recipienti riceverà quel negoziante in un anno?
-> (A) 36
-> (B) 72
-> (C) 144
-> (D) 288
-> (E) i dati sono insufficienti.
+>
+> - **(A)** 36
+> - **(B)** 72
+> - **(C)** 144
+> - **(D)** 288
+> - **(E)** i dati sono insufficienti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

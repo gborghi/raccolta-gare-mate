@@ -33,11 +33,12 @@ tags:
 > Quattro amici si sono stancati dei loro portachiavi e decidono di ridistribuirseli, in
 > modo tale che ciascuno di loro ne abbia uno differente da quello che aveva prima.
 > In quanti modi diversi possono scambiarsi i portachiavi?
-> (A) 6
-> (B) 9
-> (C) 7
-> (D) 8
-> (E) 10
+>
+> - **(A)** 6
+> - **(B)** 9
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 10
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

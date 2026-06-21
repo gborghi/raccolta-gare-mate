@@ -34,11 +34,12 @@ tags:
 > (in senso anti-orario). Quante volte le due lancette si incroceranno nell’arco di una
 > giornata (ossia da mezzanotte alla mezzanotte successiva, considerando sia l’istante
 > iniziale sia l’istante finale)?
-> (A) 27
-> (B) 26
-> (C) 25
-> (D) 24
-> (E) 23
+>
+> - **(A)** 27
+> - **(B)** 26
+> - **(C)** 25
+> - **(D)** 24
+> - **(E)** 23
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

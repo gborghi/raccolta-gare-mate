@@ -33,11 +33,12 @@ tags:
 > Elena sta giocando a tombola ed estrae un numero dal sacchetto (i numeri vanno
 > da 1 a 90). Qual è la probabilità che il Massimo Comune Divisore tra il numero
 > estratto ed il numero 42 risulti maggiore di 10?
-> (A) 7/90
-> (B) 1/9
-> (C) 1/15
-> (D) 4/45
-> (E) 1/10
+>
+> - **(A)** 7/90
+> - **(B)** 1/9
+> - **(C)** 1/15
+> - **(D)** 4/45
+> - **(E)** 1/10
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

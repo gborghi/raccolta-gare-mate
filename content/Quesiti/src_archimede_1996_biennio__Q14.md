@@ -30,11 +30,12 @@ tags:
 
 > Sia m = 999 . . . 99 il numero formato da 77 cifre tutte uguali a 9 e sia n = 777 . . . 77
 > il numero formato da 99 cifre tutte uguali a 7. Il numero delle cifre di m · n è
-> (A) 175
-> (B) 176
-> (C) 177
-> (D) 7692
-> (E) 7693.
+>
+> - **(A)** 175
+> - **(B)** 176
+> - **(C)** 177
+> - **(D)** 7692
+> - **(E)** 7693.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

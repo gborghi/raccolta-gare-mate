@@ -37,12 +37,12 @@ tags:
 *Ping-pong balls tank: time to reach 2000 balls*
 
 > In a tank there are 4000 ping-pong balls. A boy began to remove the balls at exactly 10:00 a.m., at a constant velocity. After 6 hours, there were 3520 balls in the tank. If the boy continued at the same rate, at what time would the tank have 2000 balls?
-> 
-> (A) at 11:00 the next day
-> (B) at 23:00 the same day
-> (C) at 4:00 the next day
-> (D) at 7:00 the next day
-> (E) at 9:00 the next day
+>
+> - **(A)** at 11:00 the next day
+> - **(B)** at 23:00 the same day
+> - **(C)** at 4:00 the next day
+> - **(D)** at 7:00 the next day
+> - **(E)** at 9:00 the next day
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]

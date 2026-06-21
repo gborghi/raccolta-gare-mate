@@ -26,11 +26,12 @@ tags:
 *Quanti multipli di 79 tra 15000 e 36000*
 
 > Quanti sono i multipli di 79 compresi tra 15000 e 36000?
-> (A) 270
-> (B) 279
-> (C) 261
-> (D) 266
-> (E) 268
+>
+> - **(A)** 270
+> - **(B)** 279
+> - **(C)** 261
+> - **(D)** 266
+> - **(E)** 268
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]

@@ -34,16 +34,12 @@ tags:
 > e del terzo ciclista è 2
 > 3. Quanto vale il rapporto fra la velocità del primo e quella
 > del terzo?
-> (A) 1
-> 4
-> (B) 1
-> 3
-> (C) 2
-> 5
-> (D) 1
-> 2
-> (E) 2
-> 3.
+>
+> - **(A)** 1 4
+> - **(B)** 1 3
+> - **(C)** 2 5
+> - **(D)** 1 2
+> - **(E)** 2 3.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

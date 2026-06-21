@@ -31,26 +31,12 @@ tags:
 *Confronto di radici n/(n-1) minimo*
 
 > Quale tra questi numeri è il più piccolo?
-> (A)
-> √
-> 2018
-> 2017
-> (B)
-> √
-> 2016
-> 2015
-> (C)
-> √
-> 2019
-> 2018
-> (D)
-> √
-> 2017
-> 2016
-> (E)
-> √
-> 2020
-> 2019
+>
+> - **(A)** √ 2018 2017
+> - **(B)** √ 2016 2015
+> - **(C)** √ 2019 2018
+> - **(D)** √ 2017 2016
+> - **(E)** √ 2020 2019
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

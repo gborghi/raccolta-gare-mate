@@ -33,11 +33,12 @@ tags:
 > In una scatola ci sono venti palline numerate da 1 a 20. Ciascun numero è presente in una e una
 > sola di queste palline. Quante palline diverse dobbiamo estrarre come minimo, per essere sicuri che
 > il prodotto dei loro numeri sia un multiplo di 12?
-> (A) 7
-> (B) 11
-> (C) 12
-> (D) 15
-> (E) 18.
+>
+> - **(A)** 7
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 15
+> - **(E)** 18.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

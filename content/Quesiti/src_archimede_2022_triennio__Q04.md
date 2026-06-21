@@ -32,11 +32,12 @@ tags:
 > i voti ricevuti è uguale a 6; il voto medio dei compiti che hanno preso almeno 6
 > è uguale a 7, mentre il voto medio degli altri è uguale a 4. Quale porzione della
 > classe ha preso meno di 6?
-> (A) 1/4
-> (B) 1/3
-> (C) 2/5
-> (D) 3/8
-> (E) 2/7
+>
+> - **(A)** 1/4
+> - **(B)** 1/3
+> - **(C)** 2/5
+> - **(D)** 3/8
+> - **(E)** 2/7
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

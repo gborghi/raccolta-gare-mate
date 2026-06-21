@@ -40,12 +40,12 @@ tags:
 *Count tiles in wall decoration using black ceramic tiles*
 
 > Using black ceramic tiles in the shape of squares, a decoration was composed on a wall, as shown partially below. How many tiles were used in the entire decoration, given that the last piece to be assembled used 40 tiles?
-> 
-> (A) 60
-> (B) 68
-> (C) 81
-> (D) 100
-> (E) 121
+>
+> - **(A)** 60
+> - **(B)** 68
+> - **(C)** 81
+> - **(D)** 100
+> - **(E)** 121
 
 ![[src_obm_2006_n1_f1__Q13.png]]
 

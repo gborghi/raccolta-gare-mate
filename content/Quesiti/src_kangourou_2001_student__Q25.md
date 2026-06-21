@@ -30,11 +30,12 @@ tags:
 
 > Siano m e n due numeri interi positivi tali che  log 10 m = 12.3… e  log 10 =15.4…
 > . Quante cifre ha il prodotto m⋅ n?
-> (A) 15
-> (B) 16
-> (C) 27
-> (D) 28
-> (E) 189.
+>
+> - **(A)** 15
+> - **(B)** 16
+> - **(C)** 27
+> - **(D)** 28
+> - **(E)** 189.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

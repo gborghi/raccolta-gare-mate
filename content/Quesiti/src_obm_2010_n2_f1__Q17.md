@@ -33,12 +33,12 @@ tags:
 *Regular polygon, sides PQ and TS extended meet at X with angle 140, find sides*
 
 > The points $P$, $Q$, $R$, $S$ and $T$ are vertices of a regular polygon. The sides $PQ$ and $TS$ are extended until they meet at $X$, as the figure shows, and $Q\hat{X}S$ measures $140^\circ$. How many sides does the polygon have?
-> 
-> (A) $9$
-> (B) $18$
-> (C) $24$
-> (D) $27$
-> (E) $40$
+>
+> - **(A)** $9$
+> - **(B)** $18$
+> - **(C)** $24$
+> - **(D)** $27$
+> - **(E)** $40$
 
 ![[src_obm_2010_n2_f1__Q17.png]]
 

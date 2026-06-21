@@ -32,12 +32,12 @@ tags:
 *Interi n che soddisfano la catena di disuguaglianze*
 
 > Quanti sono i numeri interi positivi n che soddisfano le disuguaglianze (15n)20 > n40 > 280 ?
-> (A) 0
-> (B)
-> 10
-> (C) 50
-> (D) 100
-> (E) infiniti
+>
+> - **(A)** 0
+> - **(B)** 10
+> - **(C)** 50
+> - **(D)** 100
+> - **(E)** infiniti
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

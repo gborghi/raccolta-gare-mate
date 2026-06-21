@@ -40,12 +40,12 @@ tags:
 *Largest sum in white squares of a numbered board (even neighbour sums)*
 
 > Violeta wants to number from 1 to 9 the squares of the board shown, in such a way that the sum of two numbers in neighbouring squares (those sharing a side) is always even. Among the squares some are coloured and some are white. What is the sum of the numbers written in the white squares?
-> 
-> (A) 15
-> (B) 16
-> (C) 22
-> (D) 29
-> (E) 30
+>
+> - **(A)** 15
+> - **(B)** 16
+> - **(C)** 22
+> - **(D)** 29
+> - **(E)** 30
 
 ![[src_obm_2015_n1_f1__Q05.png]]
 

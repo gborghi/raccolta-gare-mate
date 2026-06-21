@@ -33,11 +33,12 @@ tags:
 > Determinare l’area della figura tratteggiata, sapendo che ciascuno
 > degli archi (una semicirconferenza e due quarti di circonferenza) è
 > ottenuto da una circonferenza di raggio 1 cm.
-> (A) π/2 cm2
-> (B) 2 cm2
-> (C) π cm2
-> (D) 4 cm2
-> (E) 2π cm2.
+>
+> - **(A)** π/2 cm2
+> - **(B)** 2 cm2
+> - **(C)** π cm2
+> - **(D)** 4 cm2
+> - **(E)** 2π cm2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

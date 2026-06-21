@@ -33,11 +33,12 @@ tags:
 > Le sei semicirconferenze presenti nella figura a lato hanno
 > tutte raggio 1 cm. Quanti cm2 misura l’area della regione
 > ombreggiata?
-> (A) 8 + 3π/4
-> (B) 9 + π/2
-> (C) 9 + π/3
-> (D) 6 + 3π/2
-> (E) 10 + π/6
+>
+> - **(A)** 8 + 3π/4
+> - **(B)** 9 + π/2
+> - **(C)** 9 + π/3
+> - **(D)** 6 + 3π/2
+> - **(E)** 10 + π/6
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

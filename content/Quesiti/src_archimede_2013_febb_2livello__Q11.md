@@ -35,19 +35,12 @@ tags:
 > Agnese e Bruno sfidano Viviana e Zenone a biliardino; le squadre sono molto equilibrate, per
 > cui per ogni pallina giocata entrambe le squadre hanno probabilità 1/2 di segnare un gol. Qual
 > è la probabilità che si arrivi a 5 pari?
-> (A)
-> 1
-> 512
-> (B)
-> 252
-> 1024
-> (C) 252
-> 512
-> (D) 169
-> 512
-> (E)
-> 169
-> 1024
+>
+> - **(A)** 1 512
+> - **(B)** 252 1024
+> - **(C)** 252 512
+> - **(D)** 169 512
+> - **(E)** 169 1024
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

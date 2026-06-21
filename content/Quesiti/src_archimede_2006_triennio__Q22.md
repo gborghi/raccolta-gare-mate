@@ -32,11 +32,12 @@ tags:
 > lungo una strada. La polizia lo arresta e rileva che i veicoli danneggiati sono 44. Il
 > responsabile viene condannato a pagare le spese di sostituzione dei 144 copertoni
 > da lui tagliati. Quante motociclette erano parcheggiate in quella strada?
-> (A) Meno di 9,
-> (B) più di 10 e meno di 14,
-> (C) più di 15 e meno di 19,
-> (D) più di 20 e meno di 24,
-> (E) più di 25.
+>
+> - **(A)** Meno di 9,
+> - **(B)** più di 10 e meno di 14,
+> - **(C)** più di 15 e meno di 19,
+> - **(D)** più di 20 e meno di 24,
+> - **(E)** più di 25.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

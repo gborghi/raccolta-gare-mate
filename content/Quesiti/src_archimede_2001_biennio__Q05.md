@@ -30,11 +30,12 @@ tags:
 > Archimede è nato nell’anno x avanti Cristo. Sapendo che a = b, c = b
 > 3, b = e,
 > d = 49, e = a, a = 2001, x = c −380, quando è nato Archimede?
-> (A) 287 a.C.
-> (B) 289 a.C.
-> (C) 387 a.C.
-> (D) 667 a.C.
-> (E) 285 a.C.
+>
+> - **(A)** 287 a.C.
+> - **(B)** 289 a.C.
+> - **(C)** 387 a.C.
+> - **(D)** 667 a.C.
+> - **(E)** 285 a.C.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

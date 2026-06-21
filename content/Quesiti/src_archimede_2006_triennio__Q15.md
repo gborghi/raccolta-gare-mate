@@ -29,15 +29,16 @@ tags:
 *Soluzioni reali di una equazione con valori assoluti*
 
 > Quante soluzioni reali ha l’equazione
-> 
+>
 > |a| + 3
 >  −2
 >  = 1 ?
-> (A) Nessuna,
-> (B) una,
-> (C) due,
-> (D) tre,
-> (E) otto.
+>
+> - **(A)** Nessuna,
+> - **(B)** una,
+> - **(C)** due,
+> - **(D)** tre,
+> - **(E)** otto.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

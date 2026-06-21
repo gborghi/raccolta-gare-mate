@@ -35,11 +35,12 @@ tags:
 > 5 + 2
 > √
 > 5 −2 ?
-> (A) 2
-> (B) 7
-> (C) 14
-> (D) 18
-> (E) 29.
+>
+> - **(A)** 2
+> - **(B)** 7
+> - **(C)** 14
+> - **(D)** 18
+> - **(E)** 29.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

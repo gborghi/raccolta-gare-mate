@@ -35,12 +35,12 @@ tags:
 *Two faulty 24h clocks, one double speed one backwards, next time they agree*
 
 > Professor Piraldo has two clocks, both digital and of $24$ hours. Neither of the two works: one changes time at double the normal speed and the other goes from back to front at normal speed. Both correctly show $13{:}00$. What is the correct time at the next moment when the two clocks show the same time?
-> 
-> (A) $05{:}00$
-> (B) $09{:}00$
-> (C) $13{:}00$
-> (D) $17{:}00$
-> (E) $21{:}00$
+>
+> - **(A)** $05{:}00$
+> - **(B)** $09{:}00$
+> - **(C)** $13{:}00$
+> - **(D)** $17{:}00$
+> - **(E)** $21{:}00$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]

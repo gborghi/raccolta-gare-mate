@@ -29,14 +29,12 @@ tags:
 *Perimetro del poligono ortogonale di area 200*
 
 > In figura vedi un percorso ad ostacoli: gli ostacoli sono i quadrati grigi che rappresentano altrettante pozze d'acqua. Per raggiungere l'ultima casella, quella indicata con $X$, il canguro Jump deve compiere dei salti in avanti: quando atterra su una casella, deve ripartire con un salto lungo tante caselle quante sono indicate nella casella da cui parte (ad esempio: $1$ significa che deve atterrare sulla casella successiva, $2$ che deve saltare una casella e così via). Quante caselle deve essere lungo il suo primo salto, se vuole atterrare in $X$ evitando tutte le pozze d'acqua?
-> 
-> (A) $1$
-> (B) $2$
-> (C) $3$
-> (D) $5$
-> (E) Non può riuscire ad evitare tutte le pozze.
-> 
-> (vedi figura)
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $5$
+> - **(E)** Non può riuscire ad evitare tutte le pozze. (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -34,11 +34,12 @@ tags:
 
 > Su di un tavolo vi sono triangoli e rettangoli che non si toccano tra loro. In totale
 > si contano esattamente 17 vertici. Quanti sono i triangoli su quel tavolo?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]

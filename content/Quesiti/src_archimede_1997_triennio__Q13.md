@@ -33,12 +33,12 @@ tags:
 > suo punteggio, ma non vince nulla se il suo punteggio supera 10. Un giocatore
 > ha già un punteggio di sei. Gli conviene tirare un altro dado (sommando a sei il
 > punteggio ottenuto) o ritirarsi dal gioco vincendo i sei gettoni?
-> (A) Conviene tirare: infatti in quattro casi si guadagna, in due casi soli si perde
-> (B) conviene fermarsi: infatti se si perde si perdono i sei gettoni, e se si vince se
-> ne guadagnano al massimo quattro
-> (C) conviene tirare, ma con una motivazione differente da (A)
-> (D) conviene fermarsi, ma con una motivazione differente da (B)
-> (E) è solo questione di fortuna.
+>
+> - **(A)** Conviene tirare: infatti in quattro casi si guadagna, in due casi soli si perde
+> - **(B)** conviene fermarsi: infatti se si perde si perdono i sei gettoni, e se si vince se ne guadagnano al massimo quattro
+> - **(C)** conviene tirare, ma con una motivazione differente da (A)
+> - **(D)** conviene fermarsi, ma con una motivazione differente da (B)
+> - **(E)** è solo questione di fortuna.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

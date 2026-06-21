@@ -33,11 +33,12 @@ tags:
 > Sia K = 31 · 32 · 33 · · · · · 50 · 51 il prodotto dei numeri interi da 31 a 51.
 > Quanti sono i numeri primi il cui quadrato divide K?
 > ((tenere presente che il numero 1 non è primo))
-> (A) 10
-> (B) 8
-> (C) 7
-> (D) 5
-> (E) 6
+>
+> - **(A)** 10
+> - **(B)** 8
+> - **(C)** 7
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

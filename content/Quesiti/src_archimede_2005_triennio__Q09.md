@@ -34,11 +34,12 @@ tags:
 *Interi n con n-52 e n+53 quadrati perfetti*
 
 > Quanti sono i numeri interi n tali che n −52 e n + 53 siano due quadrati perfetti?
-> (A) 1,
-> (B) 2,
-> (C) 3,
-> (D) 4,
-> (E) 8.
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** 8.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

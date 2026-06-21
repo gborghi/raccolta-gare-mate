@@ -32,11 +32,12 @@ tags:
 
 > Quante cifre contiene la rappresentazione decimale del più piccolo intero positivo
 > che può essere scritto usando le sole cifre 0 e 1, e che sia divisibile per 225?
-> (A) 10
-> (B) 11
-> (C) 12
-> (D) 13
-> (E) 14.
+>
+> - **(A)** 10
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 13
+> - **(E)** 14.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

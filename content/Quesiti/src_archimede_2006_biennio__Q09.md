@@ -56,31 +56,12 @@ tags:
 > Sapendo che l’area di DEC è uguale ai 3
 > 4 di quella di ABC
 > e che AC misura 1 m, quanto misura DC?
-> (A) 2 −
-> √
-> 3
-> 2
-> m,
-> (B) (2 −
-> √
-> 3) m,
-> (C)
-> √
-> 3
-> 3
-> m,
-> (D) 3
-> 4 m,
-> (E)
-> √
-> 3
-> 2
-> m.
-> C
-> D
-> E
-> A
-> B
+>
+> - **(A)** 2 − √ 3 2 m,
+> - **(B)** (2 − √ 3) m,
+> - **(C)** √ 3 3 m,
+> - **(D)** 3 4 m,
+> - **(E)** √ 3 2 m. C D E A B
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

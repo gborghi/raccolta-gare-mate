@@ -29,11 +29,12 @@ tags:
 *Quale espressione è certamente dispari*
 
 > Se n è un qualsiasi numero intero, quale tra i seguenti è certamente dispari?
-> (A) 7n3+34
-> (B) 5n4+35
-> (C) 7n3+45
-> (D) 5n4+84
-> (E) 8n3+75
+>
+> - **(A)** 7n3+34
+> - **(B)** 5n4+35
+> - **(C)** 7n3+45
+> - **(D)** 5n4+84
+> - **(E)** 8n3+75
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

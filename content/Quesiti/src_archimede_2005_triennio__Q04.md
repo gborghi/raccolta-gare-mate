@@ -34,11 +34,12 @@ tags:
 
 > Quanti sono i numeri di 4 cifre la cui cifra iniziale è 1 e che hanno almeno 3 cifre
 > uguali tra loro?
-> (A) 36,
-> (B) 37,
-> (C) 39,
-> (D) 40,
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 36,
+> - **(B)** 37,
+> - **(C)** 39,
+> - **(D)** 40,
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

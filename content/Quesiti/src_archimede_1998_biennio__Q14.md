@@ -48,17 +48,12 @@ tags:
 
 > Sette cerchi di raggio unitario sono disposti come nella fiura a
 > fianco. La distanza fra i due centri indicati con un punto è
-> (A) 2
-> (B)
-> √
-> 3
-> (C) 3
-> (D) 2
-> √
-> 3
-> (E) nessuna delle precedenti.
-> b
-> b
+>
+> - **(A)** 2
+> - **(B)** √ 3
+> - **(C)** 3
+> - **(D)** 2 √ 3
+> - **(E)** nessuna delle precedenti. b b
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

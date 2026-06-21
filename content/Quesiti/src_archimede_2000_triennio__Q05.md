@@ -30,11 +30,12 @@ tags:
 
 > Nel triangolo ABC le semirette AN e CM sono le bisettrici di B bAC e B bCA e si
 > intersecano in P. Sapendo che A bPC = 140°, quanto misura l’angolo in B?
-> (A) 90°
-> (B) 100°
-> (C) 110°
-> (D) 120°
-> (E) 130°.
+>
+> - **(A)** 90°
+> - **(B)** 100°
+> - **(C)** 110°
+> - **(D)** 120°
+> - **(E)** 130°.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

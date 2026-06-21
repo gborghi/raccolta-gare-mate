@@ -32,11 +32,12 @@ tags:
 > turno partecipino 4 concorrenti: il vincitore passa al turno successivo mentre gli
 > altri 3 concorrenti vengono eliminati. Quanti turni sono necessari per determinare
 > il vincitore assoluto del torneo?
-> (A) 16
-> (B) 64
-> (C) 65
-> (D) 85
-> (E) 128.
+>
+> - **(A)** 16
+> - **(B)** 64
+> - **(C)** 65
+> - **(D)** 85
+> - **(E)** 128.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

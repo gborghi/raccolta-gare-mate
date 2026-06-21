@@ -34,12 +34,12 @@ tags:
 > x2 + ax + 3b = 0
 > x2 + bx + 3a = 0
 > hanno una soluzione in comune: quali sono i possibili valori per la somma a + b?
-> (A) 0 o −3
-> (B) 0 o 3
-> (C) Soltanto 0
-> (D) Soltanto −3
-> (E) Esistono infiniti valori
-> possibili
+>
+> - **(A)** 0 o −3
+> - **(B)** 0 o 3
+> - **(C)** Soltanto 0
+> - **(D)** Soltanto −3
+> - **(E)** Esistono infiniti valori possibili
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

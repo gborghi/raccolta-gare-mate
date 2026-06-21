@@ -30,11 +30,12 @@ tags:
 
 > Un padre ha 46 anni e la somma delle età dei suoi tre figli è 22. Entro quanti
 > anni l’età del padre sarà uguale alla somma delle età dei figli?
-> (A) 6
-> (B) 8
-> (C) 10
-> (D) 12
-> (E) mai.
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 10
+> - **(D)** 12
+> - **(E)** mai.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -31,17 +31,12 @@ tags:
 
 > Nella figura a fianco, A bBE = E bBC e A bCE = E bCD.
 > Sapendo che C bEB = y, allora l’angolo B bAC è uguale a
-> (A) 90°−y
-> (B) 90°−y
-> 2
-> (C) 2y
-> (D) 180°−2y
-> (E) y.
-> B
-> C
-> D
-> A
-> E
+>
+> - **(A)** 90°−y
+> - **(B)** 90°−y 2
+> - **(C)** 2y
+> - **(D)** 180°−2y
+> - **(E)** y. B C D A E
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

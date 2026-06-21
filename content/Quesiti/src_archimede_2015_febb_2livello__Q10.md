@@ -41,11 +41,12 @@ tags:
 > gradino pi, poi sul 2pi, e così via finch´e non raggiunge il gradino N). Ogni volta che un canguro
 > salta su un gradino speciale, questo cambia colore: da verde diventa rosso, da rosso verde.
 > Quanti saranno i gradini speciali illuminati di verde alla fine dell’esibizione?
-> (A) 22015 −21008
-> (B) 22014
-> (C) 22014 −21007
-> (D) 22013
-> (E) 2015 · 21008
+>
+> - **(A)** 22015 −21008
+> - **(B)** 22014
+> - **(C)** 22014 −21007
+> - **(D)** 22013
+> - **(E)** 2015 · 21008
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

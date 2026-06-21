@@ -31,12 +31,12 @@ tags:
 *Quanti paletti (due numerazioni rossa e verde)*
 
 > Devi sommare alcuni degli otto numeri naturali da 1 a 8 in modo da ottenere come somma 30. Se ogni numero non può essere utilizzato più di una volta, in quanti modi diversi puoi soddisfare la richiesta? (Sommare gli stessi addendi in ordine diverso non deve essere considerato un modo diverso).
-> 
-> (A) 4
-> (B) 6
-> (C) 8
-> (D) 10
-> (E) 12
+>
+> - **(A)** 4
+> - **(B)** 6
+> - **(C)** 8
+> - **(D)** 10
+> - **(E)** 12
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

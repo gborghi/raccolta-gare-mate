@@ -34,12 +34,12 @@ tags:
 > Tra i 200 alunni di una scuola, 150 hanno partecipato ad una gara di chimica e
 > 130 hanno partecipato ad una gara di fisica. Quanti studenti hanno partecipato ad
 > entrambe le gare?
-> (A) 70,
-> (B) 80,
-> (C) 120,
-> (D) 130,
-> (E) non è possibile determinarne il
-> numero in base ai dati del problema.
+>
+> - **(A)** 70,
+> - **(B)** 80,
+> - **(C)** 120,
+> - **(D)** 130,
+> - **(E)** non è possibile determinarne il numero in base ai dati del problema.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

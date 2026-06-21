@@ -35,11 +35,12 @@ tags:
 > quaderni è una potenza di 2, diversa da colore a colore.
 > Quanti quaderni può
 > comprare al massimo Alberto?
-> (A) 7
-> (B) 8
-> (C) 9
-> (D) 10
-> (E) 11.
+>
+> - **(A)** 7
+> - **(B)** 8
+> - **(C)** 9
+> - **(D)** 10
+> - **(E)** 11.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

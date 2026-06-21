@@ -31,11 +31,12 @@ tags:
 
 > Sia K = 50 · 51 · 52 · · · · · 79 · 80 il prodotto dei numeri interi da 50 a 80.
 > Quanti sono i numeri interi da 1 a 100 (estremi inclusi) che non dividono K?
-> (A) 6
-> (B) 9
-> (C) 3
-> (D) nessuno
-> (E) 68
+>
+> - **(A)** 6
+> - **(B)** 9
+> - **(C)** 3
+> - **(D)** nessuno
+> - **(E)** 68
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

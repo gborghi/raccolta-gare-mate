@@ -36,12 +36,12 @@ tags:
 *Compute parking fee for a given time interval*
 
 > A parking lot charges $1$ real for the first hour and $75$ centavos for each subsequent hour or fraction thereof. André parked his car at $11$h$20$min and left at $15$h$40$min. How many reais must he pay for the parking?
-> 
-> (A) $2.50$
-> (B) $4.00$
-> (C) $5.00$
-> (D) $4.75$
-> (E) $3.75$
+>
+> - **(A)** $2.50$
+> - **(B)** $4.00$
+> - **(C)** $5.00$
+> - **(D)** $4.75$
+> - **(E)** $3.75$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

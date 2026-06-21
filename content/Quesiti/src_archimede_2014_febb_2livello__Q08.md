@@ -40,11 +40,12 @@ tags:
 > x2 + y2 + z2 = 27
 > xyz = 5,
 > quante terne ordinate di numeri reali (x, y, z) ne sono soluzione?
-> (A) 6
-> (B) 3
-> (C) 2
-> (D) 0
-> (E) Infinite.
+>
+> - **(A)** 6
+> - **(B)** 3
+> - **(C)** 2
+> - **(D)** 0
+> - **(E)** Infinite.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

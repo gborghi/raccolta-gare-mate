@@ -29,11 +29,12 @@ tags:
 *Valore di 1-6x da equazione lineare*
 
 > Sapendo che 2x + 1 = 5x + 6, qual è il valore di 1 −6x ?
-> (A) 8
-> (B) 11
-> (C) 9
-> (D) 10
-> (E) 7
+>
+> - **(A)** 8
+> - **(B)** 11
+> - **(C)** 9
+> - **(D)** 10
+> - **(E)** 7
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

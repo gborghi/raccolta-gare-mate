@@ -34,11 +34,12 @@ tags:
 > rappresentazione decimale), poi la somma delle cifre del numero ottenuto e così
 > via, fino ad ottenere un numero di una sola cifra che viene denotato con w(n). Il
 > numero  w (2001 2001) è uguale a
-> (A) 1
-> (B) 3
-> (C) 5
-> (D) 7
-> (E) 9.
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 5
+> - **(D)** 7
+> - **(E)** 9.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

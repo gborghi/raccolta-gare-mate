@@ -32,15 +32,12 @@ tags:
 
 > Sia ABC un triangolo isoscele con AB = AC. L’altezza uscente da A misura 15 mentre l’altezza
 > uscente da B misura 24. Quanto vale l’area di ABC?
-> (A) 180
-> (B) 300
-> (C) 240
-> √
-> 2
-> (D) 200
-> √
-> 3
-> (E) 320
+>
+> - **(A)** 180
+> - **(B)** 300
+> - **(C)** 240 √ 2
+> - **(D)** 200 √ 3
+> - **(E)** 320
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

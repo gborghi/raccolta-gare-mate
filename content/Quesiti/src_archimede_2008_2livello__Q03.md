@@ -55,16 +55,12 @@ tags:
 > divise dal loro punto di incontro O in parti proporzionali ai numeri 1
 > e 3. Sapendo che l’area del triangolo BOC è 15, quanto misura l’area
 > dell’intero trapezio?
-> (A) 60
-> (B) 75
-> (C) 80
-> (D) 90
-> (E) 105.
-> A
-> B
-> C
-> D
-> O
+>
+> - **(A)** 60
+> - **(B)** 75
+> - **(C)** 80
+> - **(D)** 90
+> - **(E)** 105. A B C D O
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

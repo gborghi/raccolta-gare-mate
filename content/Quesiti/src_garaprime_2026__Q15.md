@@ -32,12 +32,12 @@ tags:
 > Un lago è popolato da 800 anatre con piume rosse o blu e teste rosse o blu. Se 430 anatre hanno piume
 > rosse, 290 anatre hanno teste blu e 160 anatre hanno sia testa blu sia piume blu, quante anatre hanno sia
 > testa rossa sia piume rosse?
-> (A) 370
-> (B) 350
-> (C) 240
-> (D)
-> 300
-> (E) Le informazioni sono insufficienti
+>
+> - **(A)** 370
+> - **(B)** 350
+> - **(C)** 240
+> - **(D)** 300
+> - **(E)** Le informazioni sono insufficienti
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

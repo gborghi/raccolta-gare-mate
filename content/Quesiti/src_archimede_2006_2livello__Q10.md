@@ -39,21 +39,12 @@ tags:
 > 2 −
 > √
 > 5 ?
-> (A)
-> 3p
-> 9 −4
-> √
-> 5
-> (B) 1
-> (C) 3
-> 2
-> (D)
-> 3√
-> 4
-> (E) 2
-> 3√
-> 2.
-> Problemi a risposta numerica – 8 punti
+>
+> - **(A)** 3p 9 −4 √ 5
+> - **(B)** 1
+> - **(C)** 3 2
+> - **(D)** 3√ 4
+> - **(E)** 2 3√ 2. Problemi a risposta numerica – 8 punti
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

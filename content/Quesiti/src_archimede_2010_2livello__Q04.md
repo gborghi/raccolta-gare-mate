@@ -31,11 +31,12 @@ tags:
 > Antonio, Beppe, Carlo e Duccio si distribuiscono casualmente le 40 carte di un mazzo, 10 a testa.
 > Antonio ha l’asso, il due e il tre di denari. Beppe ha l’asso di spade e l’asso di bastoni. Carlo ha
 > l’asso di coppe. Chi è più probabile che abbia il 7 di denari?
-> (A) Antonio
-> (B) Beppe
-> (C) Carlo
-> (D) Duccio
-> (E) due o più giocatori hanno la stessa probabilità di averlo.
+>
+> - **(A)** Antonio
+> - **(B)** Beppe
+> - **(C)** Carlo
+> - **(D)** Duccio
+> - **(E)** due o più giocatori hanno la stessa probabilità di averlo.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

@@ -35,11 +35,12 @@ tags:
 
 > Il numero delle diverse quaterne di interi positivi (x, y, z, t)  tali che  x < y < z < t
 > e  xyzt - 1 = 2001, è uguale a
-> (A) 10
-> (B) 7
-> (C) 6
-> (D) 4
-> (E) 1.
+>
+> - **(A)** 10
+> - **(B)** 7
+> - **(C)** 6
+> - **(D)** 4
+> - **(E)** 1.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

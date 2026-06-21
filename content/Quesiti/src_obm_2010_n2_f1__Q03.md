@@ -36,12 +36,12 @@ tags:
 *Divide 4^(4^2) by 4^4*
 
 > Dividing the number $4^{(4^2)}$ by $4^4$ we obtain the number:
-> 
-> (A) $2$
-> (B) $4^3$
-> (C) $4^4$
-> (D) $4^8$
-> (E) $4^{12}$
+>
+> - **(A)** $2$
+> - **(B)** $4^3$
+> - **(C)** $4^4$
+> - **(D)** $4^8$
+> - **(E)** $4^{12}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

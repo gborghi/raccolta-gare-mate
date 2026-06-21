@@ -36,41 +36,12 @@ tags:
 > ottenuta accostando piccoli cubi. Quanti cubetti sono stati
 > usati? Vengono richiesti il numero minimo ed il numero
 > massimo di cubetti compatibili con le raffigurazioni mostrate.
-> (A) 7 e 13
-> (B) 8 e 13
-> (C) 7 e 15
-> (D) 7 e 16
-> (E) 8 e 16.
-> AF
-> AD
-> BC
-> ⋅
-> +
-> −
-> 2
->   .
-> CE
->  
-> (E)
->         
-> FB
->  
-> (D)
->         
-> FD
->  
-> (C)
->          
-> CA
->  
-> (B)
->         
-> AA
->  )
-> (A
-> 
-> Kangourou  15 marzo 2001. Categoria Student. Pagina N.
-> 5
+>
+> - **(A)** 7 e 13
+> - **(B)** 8 e 13
+> - **(C)** 7 e 15
+> - **(D)** 7 e 16
+> - **(E)** 8 e 16. AF AD BC ⋅ + − 2 . CE (E) FB (D) FD (C) CA (B) AA ) (A Kangourou 15 marzo 2001. Categoria Student. Pagina N. 5
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Analisi per casi]]

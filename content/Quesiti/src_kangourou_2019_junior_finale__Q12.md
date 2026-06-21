@@ -33,12 +33,12 @@ tags:
 *Prime quattro cifre decimali di (sqrt50+7)^4*
 
 > I numeri $a$, $b$, $c$ e $d$ sono quattro diversi interi fra 1 e 10, estremi inclusi. Qual è il più piccolo valore possibile per l'espressione $\dfrac{a}{b} + \dfrac{c}{d}$?
-> 
-> (A) $\dfrac{2}{10}$
-> (B) $\dfrac{3}{19}$
-> (C) $\dfrac{14}{45}$
-> (D) $\dfrac{29}{90}$
-> (E) $\dfrac{25}{72}$
+>
+> - **(A)** $\dfrac{2}{10}$
+> - **(B)** $\dfrac{3}{19}$
+> - **(C)** $\dfrac{14}{45}$
+> - **(D)** $\dfrac{29}{90}$
+> - **(E)** $\dfrac{25}{72}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

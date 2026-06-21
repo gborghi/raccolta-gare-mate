@@ -33,11 +33,12 @@ tags:
 > Gabriele nota che il numero 2022 si scrive con 3 cifre uguali (diverse da 0) e una
 > cifra 0. Quanti sono in tutto i numeri naturali di 4 cifre che si scrivono con 3 cifre
 > uguali (diverse da 0) e una cifra 0?
-> (A) 21
-> (B) 22
-> (C) 24
-> (D) 25
-> (E) 27
+>
+> - **(A)** 21
+> - **(B)** 22
+> - **(C)** 24
+> - **(D)** 25
+> - **(E)** 27
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

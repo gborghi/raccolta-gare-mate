@@ -36,11 +36,12 @@ tags:
 > abbiano la proprietà seguente: ogni qual volta una A o una B ha una certa lettera X adiacente in
 > orizzontale o verticale (X può essere A, B, C o D), allora dal lato opposto c’è un’altra X (a meno
 > che non ci sia il bordo). In quanti modi è possibile sistemare tali lettere nella scacchiera?
-> (A) 136
-> (B) 144
-> (C) 168
-> (D) 328
-> (E) 360.
+>
+> - **(A)** 136
+> - **(B)** 144
+> - **(C)** 168
+> - **(D)** 328
+> - **(E)** 360.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_conteggio|Conteggio combinatorio]]

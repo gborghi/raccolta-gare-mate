@@ -37,11 +37,12 @@ tags:
 > completa 70 vasche, Veronica smette di nuotare ed esce dall’acqua; nello stesso momento, anche
 > Zanobi arriva sul bordo della piscina, smette di nuotare ed esce dall’acqua accanto a Veronica.
 > Zanobi, che è più lento di Veronica, ha fatto m vasche; quanti diversi valori può assumere m?
-> (A) 1
-> (B) 3
-> (C) 6
-> (D) 35
-> (E) 69
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 6
+> - **(D)** 35
+> - **(E)** 69
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

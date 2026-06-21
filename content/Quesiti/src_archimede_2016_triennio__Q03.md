@@ -30,11 +30,12 @@ tags:
 
 > Il prodotto di due numeri naturali è 600000. Quale può essere, al massimo, il loro
 > Massimo Comune Divisore?
-> (A) 100
-> (B) 3000
-> (C) 1
-> (D) 200
-> (E) 600
+>
+> - **(A)** 100
+> - **(B)** 3000
+> - **(C)** 1
+> - **(D)** 200
+> - **(E)** 600
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -32,19 +32,12 @@ tags:
 
 > Consideriamo i valori reali k tali che il polinomio p(x) = x2 −(k + 1)x + (k + 2) abbia una radice che è doppia
 > dell’altra. Indicare la somma di tutti questi valori k.
-> (A) 1/2
-> (B) 7/4
-> (C) 5/2
-> (D) 23/2
-> (E) 19/2
-> 
-> Giochi di Archimede 2021
-> -
-> GARA TRIENNIO
-> CODICE PROVA
-> 1021
-> -
-> RISPOSTE ESATTE
+>
+> - **(A)** 1/2
+> - **(B)** 7/4
+> - **(C)** 5/2
+> - **(D)** 23/2
+> - **(E)** 19/2 Giochi di Archimede 2021 - GARA TRIENNIO CODICE PROVA 1021 - RISPOSTE ESATTE
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

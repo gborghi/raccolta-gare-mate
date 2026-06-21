@@ -31,12 +31,12 @@ tags:
 *Minima somma di 100 interi con prodotto 100*
 
 > Ada ha 10.000 cartoncini, su ciascuno dei quali è riportato un diverso numero da 1 a 10.000 inclusi. Li allinea (non necessariamente in un ordine prestabilito) e poi legge le prime 15 cifre dell'allineamento come se fossero un unico numero $N$. Quante cifre 1 può contenere al massimo tale numero $N$?
-> 
-> (A) 11
-> (B) 12
-> (C) 13
-> (D) 14
-> (E) 15
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 13
+> - **(D)** 14
+> - **(E)** 15
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

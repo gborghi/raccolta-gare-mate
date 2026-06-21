@@ -29,12 +29,12 @@ tags:
 *Quale costruzione e ottenuta con 10 cubi*
 
 > Una sola di queste costruzioni è ottenuta accostando 10 cubi. Quale? (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

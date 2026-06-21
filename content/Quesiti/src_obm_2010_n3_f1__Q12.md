@@ -35,12 +35,12 @@ tags:
 *Which fraction is closest to the square root of 7.*
 
 > Which of the following fractions is closest to $\sqrt{7}$?
-> 
-> (A) $\frac{3}{1}$
-> (B) $\frac{5}{2}$
-> (C) $\frac{8}{3}$
-> (D) $\frac{13}{5}$
-> (E) $\frac{18}{7}$
+>
+> - **(A)** $\frac{3}{1}$
+> - **(B)** $\frac{5}{2}$
+> - **(C)** $\frac{8}{3}$
+> - **(D)** $\frac{13}{5}$
+> - **(E)** $\frac{18}{7}$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima]]

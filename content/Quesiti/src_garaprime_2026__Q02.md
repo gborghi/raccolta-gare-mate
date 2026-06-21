@@ -28,12 +28,12 @@ tags:
 *Somma di cinque consecutivi con prodotto 6720*
 
 > Il prodotto di cinque numeri interi positivi consecutivi è 6720. Quanto vale la loro somma?
-> (A) 20
-> (B) 25
-> (C)
-> 30
-> (D) 35
-> (E) 40
+>
+> - **(A)** 20
+> - **(B)** 25
+> - **(C)** 30
+> - **(D)** 35
+> - **(E)** 40
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

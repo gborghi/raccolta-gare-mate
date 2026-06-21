@@ -40,12 +40,12 @@ tags:
 *100 buildings, floors = digit sum; which statement is true*
 
 > An avenue has $100$ buildings numbered from $1$ to $100$, where buildings with even numbering are on the right side of the street and buildings with odd numbering are on the left side. The number of floors of each building is equal to the sum of the digits of the number corresponding to the building. Thus, we can affirm that:
-> 
-> (A) The quantity of buildings with more than $10$ floors is greater on the right side of the street.
-> (B) The quantity of buildings with fewer than $5$ floors is greater on the right side of the street.
-> (C) At least half of the buildings have $10$ or more floors.
-> (D) On both sides of the street there is the same quantity of buildings with exactly $8$ floors.
-> (E) At least $25\%$ of the buildings have fewer than $5$ floors.
+>
+> - **(A)** The quantity of buildings with more than $10$ floors is greater on the right side of the street.
+> - **(B)** The quantity of buildings with fewer than $5$ floors is greater on the right side of the street.
+> - **(C)** At least half of the buildings have $10$ or more floors.
+> - **(D)** On both sides of the street there is the same quantity of buildings with exactly $8$ floors.
+> - **(E)** At least $25\%$ of the buildings have fewer than $5$ floors.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

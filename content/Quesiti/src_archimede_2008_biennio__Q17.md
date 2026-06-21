@@ -37,13 +37,12 @@ tags:
 > come illustrato nella figura a fianco. Nella seconda
 > colonna si trova la casella numero 38 e la casella della
 > terza colonna che sta sulla sua stessa riga ha il numero 43. Quante caselle ha la scacchiera?
-> (A) 144,
-> (B) 160,
-> (C) 225,
-> (D) 400,
-> (E) 625.
-> 1
-> 2
+>
+> - **(A)** 144,
+> - **(B)** 160,
+> - **(C)** 225,
+> - **(D)** 400,
+> - **(E)** 625. 1 2
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

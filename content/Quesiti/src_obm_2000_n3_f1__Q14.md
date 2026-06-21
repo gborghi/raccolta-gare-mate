@@ -38,11 +38,12 @@ tags:
 *Runners on circular track; when does Alberto first meet Beatriz*
 
 > Alberto, Beatriz and Carlos run on a circular track. They all start at the same time and from the same point, each at a constant speed. Running in the same direction, Carlos meets Alberto, for the first time, exactly 90 seconds after the start of the race, and meets Beatriz exactly 15 seconds later. Alberto, running in the opposite direction, meets Beatriz, for the first time, 20 seconds after the start of the race. How many seconds are needed for Alberto to meet Beatriz running in the same direction (for the first time)?
-> (A) 105
-> (B) 630
-> (C) 900
-> (D) 1050
-> (E) it cannot be determined
+>
+> - **(A)** 105
+> - **(B)** 630
+> - **(C)** 900
+> - **(D)** 1050
+> - **(E)** it cannot be determined
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

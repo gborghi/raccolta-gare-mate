@@ -39,11 +39,12 @@ tags:
 > (le colorazioni di due cubi vanno considerate uguali se, muovendoli in qualsiasi
 > maniera, essi non appaiono distinguibili dai colori delle facce)
 > 
-> (A) 90
-> (B) 180
-> (C) 200
-> (D) 360
-> (E) 100
+>
+> - **(A)** 90
+> - **(B)** 180
+> - **(C)** 200
+> - **(D)** 360
+> - **(E)** 100
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]

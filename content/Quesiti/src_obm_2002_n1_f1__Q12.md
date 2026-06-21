@@ -36,11 +36,12 @@ tags:
 *Compare car trip cost (gasoline plus toll) versus bus*
 
 > Patricia lives in Sao Paulo and wants to visit Rio de Janeiro on a prolonged holiday. The trip there and back, by car, is $800$ km, and Patricia is sure that with the car she will spend on fuel, doing $12$ kilometers with one litre of gasoline. The litre of gasoline costs, on average, R\$$1{,}60$. She figures the car will run about $900$ kilometers and she will pay $48$ reais of toll. Going by car she will spend on these expenses; but as friends who already went by car for the same trip told her of their expenses, this way, going by car instead of by bus, Patricia will:
-> (A) economize R\$$20{,}00$.
-> (B) spend only R\$$2{,}00$ more.
-> (C) economize R\$$24{,}00$.
-> (D) spend the same as if she went by bus.
-> (E) spend R\$$14{,}00$ more.
+>
+> - **(A)** economize R\$$20{,}00$.
+> - **(B)** spend only R\$$2{,}00$ more.
+> - **(C)** economize R\$$24{,}00$.
+> - **(D)** spend the same as if she went by bus.
+> - **(E)** spend R\$$14{,}00$ more.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]

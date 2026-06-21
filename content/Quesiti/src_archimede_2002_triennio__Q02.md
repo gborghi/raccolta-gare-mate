@@ -29,11 +29,12 @@ tags:
 
 > Una merce è stata scontata del 20% del suo prezzo originario. Di quale percentuale
 > deve essere aumentata per riottenere il prezzo originario?
-> (A) 16%
-> (B) 20%
-> (C) 25%
-> (D) 50%
-> (E) 60%.
+>
+> - **(A)** 16%
+> - **(B)** 20%
+> - **(C)** 25%
+> - **(D)** 50%
+> - **(E)** 60%.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

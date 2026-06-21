@@ -37,12 +37,12 @@ tags:
 *Triangle with angles 80° and 40°; find acute angle between bisectors of A and B*
 
 > In triangle $ABC$ with $\widehat{A} = 80^\circ$ and $\widehat{C} = 40^\circ$, the measure of the acute angle formed by the bisectors of angles $\widehat{A}$ and $\widehat{B}$ is:
-> 
-> (A) $40^\circ$
-> (B) $60^\circ$
-> (C) $70^\circ$
-> (D) $80^\circ$
-> (E) $110^\circ$
+>
+> - **(A)** $40^\circ$
+> - **(B)** $60^\circ$
+> - **(C)** $70^\circ$
+> - **(D)** $80^\circ$
+> - **(E)** $110^\circ$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

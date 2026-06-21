@@ -36,11 +36,12 @@ tags:
 > Quanti punti ha ognuna delle due squadre al termine della quarta giornata? (Si
 > assegnano 3 punti alla squadra che vince, 0 punti a quella che perde, 1 punto a
 > ciascuna squadra in caso di pareggio).
-> (A) 7
-> (B) 6
-> (C) 5
-> (D) 4
-> (E) i dati sono insufficienti.
+>
+> - **(A)** 7
+> - **(B)** 6
+> - **(C)** 5
+> - **(D)** 4
+> - **(E)** i dati sono insufficienti.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

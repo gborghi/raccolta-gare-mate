@@ -31,11 +31,12 @@ tags:
 > minimi termini) della forma a
 > b tali che 1 ≤a
 > b ≤2 è
-> (A) 4
-> (B) 5
-> (C) 6
-> (D) 8
-> (E) infinito.
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 8
+> - **(E)** infinito.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

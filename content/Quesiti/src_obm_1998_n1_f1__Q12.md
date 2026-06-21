@@ -38,12 +38,12 @@ tags:
 *Maximum rolls made from limited ingredient quantities*
 
 > To make $12$ rolls, one needs exactly $100\,\text{g}$ of sugar, $50\,\text{g}$ of butter, half a litre of milk, and $400\,\text{g}$ of flour. The greatest number of rolls one can make with $500\,\text{g}$ of sugar, $300\,\text{g}$ of butter, $4$ litres of milk, and $5$ kilograms of flour is:
-> 
-> (A) $48$
-> (B) $60$
-> (C) $72$
-> (D) $54$
-> (E) $42$
+>
+> - **(A)** $48$
+> - **(B)** $60$
+> - **(C)** $72$
+> - **(D)** $54$
+> - **(E)** $42$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]]

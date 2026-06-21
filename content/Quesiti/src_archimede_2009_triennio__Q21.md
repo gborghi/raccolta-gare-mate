@@ -31,11 +31,12 @@ tags:
 *Numeri n con n e (n-6)^2+1 entrambi primi*
 
 > Per quanti numeri naturali n, sia n che (n −6)2 + 1 sono primi?
-> (A) 1,
-> (B) 3,
-> (C) 4,
-> (D) 7,
-> (E) più di 8.
+>
+> - **(A)** 1,
+> - **(B)** 3,
+> - **(C)** 4,
+> - **(D)** 7,
+> - **(E)** più di 8.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

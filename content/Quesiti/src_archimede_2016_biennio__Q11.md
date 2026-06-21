@@ -64,17 +64,12 @@ tags:
 > inoltre, che si abbia OD = DP e A bPC = 18°.
 > Qual è
 > l’ampiezza dell’angolo A bOC?
-> (A) 48°
-> (B) 54°
-> (C) 60°
-> (D) 45°
-> (E) 72°
-> O
-> A
-> B
-> C
-> D
-> P
+>
+> - **(A)** 48°
+> - **(B)** 54°
+> - **(C)** 60°
+> - **(D)** 45°
+> - **(E)** 72° O A B C D P
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

@@ -32,18 +32,12 @@ tags:
 > Una moneta d’oro è circondata da quattro monete d’argento uguali tra loro. Ogni
 > moneta d’argento è tangente alla moneta d’oro e a due monete d’argento. Trovare
 > il rapporto tra il raggio della moneta d’oro e quello delle monete d’argento.
-> (A) 1
-> 4,
-> (B)
-> √
-> 2 −1,
-> (C) 1
-> 2,
-> (D)
-> √
-> 2
-> 2 ,
-> (E) 1.
+>
+> - **(A)** 1 4,
+> - **(B)** √ 2 −1,
+> - **(C)** 1 2,
+> - **(D)** √ 2 2 ,
+> - **(E)** 1.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

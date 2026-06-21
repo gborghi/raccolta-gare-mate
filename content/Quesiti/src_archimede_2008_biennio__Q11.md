@@ -37,11 +37,12 @@ tags:
 > Quante sono le terne ordinate distinte (x, y, z) formate da numeri interi positivi
 > (strettamente maggiori di zero) tali che
 > x2 + 2xy + y2 −z2 = 9 ?
-> (A) Nessuna,
-> (B) due,
-> (C) tre,
-> (D) quattro,
-> (E) più di sei.
+>
+> - **(A)** Nessuna,
+> - **(B)** due,
+> - **(C)** tre,
+> - **(D)** quattro,
+> - **(E)** più di sei.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

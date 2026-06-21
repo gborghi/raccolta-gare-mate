@@ -35,11 +35,12 @@ tags:
 > passaggiata è formata da tratti rettilinei di un metro, ogni volta in una direzione
 > a caso tra Nord, Sud, Ovest, Est. Qual è la probabilità che, dopo una passeggiata
 > di 6 metri, la tartaruga si trovi di nuovo nella tana?
-> (A) 1/8
-> (B) 13/128
-> (C) 9/64
-> (D) 9/128
-> (E) 25/256
+>
+> - **(A)** 1/8
+> - **(B)** 13/128
+> - **(C)** 9/64
+> - **(D)** 9/128
+> - **(E)** 25/256
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -32,11 +32,12 @@ tags:
 > Quanti sono i numeri interi maggiori o uguali a 1 e minori o uguali a 100 che
 > sono uguali al quadrato del numero dei propri divisori positivi? (Attenzione: tra i
 > divisori di un numero vi sono anche 1 ed il numero stesso).
-> (A) 0,
-> (B) 1,
-> (C) 2,
-> (D) 3,
-> (E) 4.
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]

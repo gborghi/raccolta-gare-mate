@@ -31,12 +31,12 @@ tags:
 *Massimo primo 3 cifre con cascata di somme prime*
 
 > Si lanciano due dadi regolari (facce numerate da uno a sei) non truccati. Quale tra i numeri $7$, $8$, $9$ e $10$ ha la probabilità più alta di essere la somma dei due punteggi ottenuti?
-> 
-> (A) $7$
-> (B) $8$
-> (C) $9$
-> (D) $10$
-> (E) $7$ e $8$ hanno la stessa probabilità.
+>
+> - **(A)** $7$
+> - **(B)** $8$
+> - **(C)** $9$
+> - **(D)** $10$
+> - **(E)** $7$ e $8$ hanno la stessa probabilità.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

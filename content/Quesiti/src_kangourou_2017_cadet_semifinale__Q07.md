@@ -31,16 +31,12 @@ tags:
 *Resto della divisione di 97531x1468 per 15*
 
 > (Punti 5) Denota con N il prodotto di  97531 per 1468. Qual è il resto della divisione di N per  15?
-> (A) 1
-> (B) 3
-> (C) 8
-> (D) 13
-> (E) 14
-> 1
-> 2
-> 3
-> 4
-> 10 m
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 8
+> - **(D)** 13
+> - **(E)** 14 1 2 3 4 10 m
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

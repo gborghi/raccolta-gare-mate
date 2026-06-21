@@ -34,19 +34,12 @@ tags:
 > viene trisecato dalle semirette OR, OS.
 > Quanto
 > vale l’angolo Q bOR?
-> (A) 45°
-> (B) 60°
-> (C) 90°
-> (D) dipende dall’angolo A bOB
-> (E) la costruzione non si può fare.
-> C
-> O
-> A
-> P
-> Q
-> B
-> R
-> S
+>
+> - **(A)** 45°
+> - **(B)** 60°
+> - **(C)** 90°
+> - **(D)** dipende dall’angolo A bOB
+> - **(E)** la costruzione non si può fare. C O A P Q B R S
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

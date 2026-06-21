@@ -34,11 +34,12 @@ tags:
 > verdi, 2 blu e 2 rossi. Li vuole disporre in modo che i quaderni dello stesso colore
 > stiano tutti vicini tra loro, senza altri colori in mezzo. In quanti modi Alberto può
 > disporre in fila, da sinistra verso destra, i suoi 7 quaderni sullo scaffale?
-> (A) 36
-> (B) 144
-> (C) 48
-> (D) 96
-> (E) 576
+>
+> - **(A)** 36
+> - **(B)** 144
+> - **(C)** 48
+> - **(D)** 96
+> - **(E)** 576
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -31,11 +31,12 @@ tags:
 
 > Sia P(x) un polinomio i cui coefficienti sono o 0 o 1. Dire quale delle seguenti
 > affermazioni è vera.
-> (A) P(2) non può valere 51
-> (B) P(3) non può valere 37
-> (C) P(3) non può valere 92
-> (D) P(4) non può valere 20
-> (E) P(5) non può valere 150.
+>
+> - **(A)** P(2) non può valere 51
+> - **(B)** P(3) non può valere 37
+> - **(C)** P(3) non può valere 92
+> - **(D)** P(4) non può valere 20
+> - **(E)** P(5) non può valere 150.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

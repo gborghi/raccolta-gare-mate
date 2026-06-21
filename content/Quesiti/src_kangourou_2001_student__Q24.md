@@ -32,11 +32,12 @@ tags:
 
 > Quante fra le coppie di cifre 00, 11, 22, 33, 44, 55, 66, 77, 88, 99 possono essere
 > la coppia delle ultime due cifre del quadrato perfetto di un numero intero?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) più di 4.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** più di 4.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

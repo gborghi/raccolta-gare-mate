@@ -38,11 +38,12 @@ tags:
 > sequenza
 > CCCCCCTT.
 > Che cosa si può concludere?
-> (A) Ci può riuscire con un minimo di 3 mosse.
-> (B) Ci può riuscire con un minimo di 5 mosse.
-> (C) Ci può riuscire con un minimo di 7 mosse.
-> (D) Ci può riuscire con un numero pari di mosse.
-> (E) Non ci può riuscire.
+>
+> - **(A)** Ci può riuscire con un minimo di 3 mosse.
+> - **(B)** Ci può riuscire con un minimo di 5 mosse.
+> - **(C)** Ci può riuscire con un minimo di 7 mosse.
+> - **(D)** Ci può riuscire con un numero pari di mosse.
+> - **(E)** Non ci può riuscire.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

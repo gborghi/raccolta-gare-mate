@@ -42,11 +42,12 @@ tags:
 *Triangular reading of odd numbers in white cells; find 2000th term*
 
 > We place in increasing order the odd numbers in the white cells of a board following the order shown (the numbers in parentheses indicate the lines). Thus, for example, the ninth number of our list is 14. What is the 2000th number of our list?
-> (A) 3931
-> (B) 3933
-> (C) 3935
-> (D) 3937
-> (E) 3939
+>
+> - **(A)** 3931
+> - **(B)** 3933
+> - **(C)** 3935
+> - **(D)** 3937
+> - **(E)** 3939
 
 ![[src_obm_2000_n3_f1__Q11.png]]
 

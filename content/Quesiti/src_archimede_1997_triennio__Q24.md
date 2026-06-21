@@ -32,11 +32,12 @@ tags:
 
 > Se a, b sono numeri reali positivi tali che a + b = 1, il minimo valore possibile per
 > il prodotto (1 + 1/a) · (1 + 1/b) è
-> (A) 16
-> (B) 9
-> (C) 4
-> (D) non c’è un valore minimo
-> (E) c’è un valore minimo, ma non è fra quelli citati.
+>
+> - **(A)** 16
+> - **(B)** 9
+> - **(C)** 4
+> - **(D)** non c’è un valore minimo
+> - **(E)** c’è un valore minimo, ma non è fra quelli citati.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

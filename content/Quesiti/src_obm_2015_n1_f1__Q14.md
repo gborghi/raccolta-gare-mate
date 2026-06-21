@@ -39,12 +39,12 @@ tags:
 *Maximum cubes stacked so neighbours differ in colour*
 
 > Fabiana has 55 cubes of the same size, namely 10 red ones, 15 blue ones and 30 green ones. She wants to build a tower by stacking these cubes in such a way that two neighbouring cubes have different colours. At most, how many cubes can she stack?
-> 
-> (A) 39
-> (B) 51
-> (C) 52
-> (D) 54
-> (E) 55
+>
+> - **(A)** 39
+> - **(B)** 51
+> - **(C)** 52
+> - **(D)** 54
+> - **(E)** 55
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]

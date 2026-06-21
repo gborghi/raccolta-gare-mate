@@ -37,11 +37,12 @@ tags:
 > In ogni gara il primo classificato conquista 10 punti, il secondo 8 e il terzo 5, mentre dal quarto
 > posto in poi non vengono assegnati punti. Con quanti punteggi diversi può aver concluso il
 > campionato?
-> (A) 153
-> (B) 80
-> (C) 78
-> (D) 75
-> (E) Nessuna delle precedenti.
+>
+> - **(A)** 153
+> - **(B)** 80
+> - **(C)** 78
+> - **(D)** 75
+> - **(E)** Nessuna delle precedenti.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]

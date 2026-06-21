@@ -31,11 +31,12 @@ tags:
 *Quale prodotto di potenze e quadrato di un intero*
 
 > Quale tra i seguenti è il quadrato di un numero intero?
-> (A) 334 · 779 · 217
-> (B) 337 · 775 · 2111
-> (C) 334 · 779 · 2116
-> (D) 3316 · 779 · 218
-> (E) 3311 · 7716 · 219
+>
+> - **(A)** 334 · 779 · 217
+> - **(B)** 337 · 775 · 2111
+> - **(C)** 334 · 779 · 2116
+> - **(D)** 3316 · 779 · 218
+> - **(E)** 3311 · 7716 · 219
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

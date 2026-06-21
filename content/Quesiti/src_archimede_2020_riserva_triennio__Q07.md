@@ -34,11 +34,12 @@ tags:
 > Francesco prende il sole su una piattaforma quadrata ABCD di lato di 4 metri, circondata dall’acqua. Per una
 > scommessa, si mette in piedi nel punto della piattaforma distante 1 metro dai lati AB e BC. Poi, bendato, cammina
 > in una direzione a caso per 2 metri. Qual è la probabilità che Francesco finisca in acqua?
-> (A) 1/2
-> (B) 3/4
-> (C) 2/3
-> (D) 7/12
-> (E) 9/16
+>
+> - **(A)** 1/2
+> - **(B)** 3/4
+> - **(C)** 2/3
+> - **(D)** 7/12
+> - **(E)** 9/16
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

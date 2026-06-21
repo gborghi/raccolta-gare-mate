@@ -31,11 +31,12 @@ tags:
 *Naturali < 1000 con somma cifre 4*
 
 > Quanti sono i numeri naturali minori di 1000 nei quali la somma delle cifre è 4?
-> (A) 15
-> (B) 10
-> (C) 9
-> (D) 12
-> (E) 11
+>
+> - **(A)** 15
+> - **(B)** 10
+> - **(C)** 9
+> - **(D)** 12
+> - **(E)** 11
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

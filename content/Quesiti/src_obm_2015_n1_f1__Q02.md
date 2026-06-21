@@ -36,12 +36,12 @@ tags:
 *Time to cut a log into 9 pieces given cost of 5 cuts*
 
 > To cut a straight eucalyptus trunk into 6 parts, the woodsman Josué makes 5 cuts. He takes half an hour to make these cuts, which are always made in the same way. How long will Josué take to cut another identical trunk into 9 pieces?
-> 
-> (A) 40 min
-> (B) 44 min
-> (C) 45 min
-> (D) 48 min
-> (E) 54 min
+>
+> - **(A)** 40 min
+> - **(B)** 44 min
+> - **(C)** 45 min
+> - **(D)** 48 min
+> - **(E)** 54 min
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]

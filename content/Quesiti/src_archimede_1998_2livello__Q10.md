@@ -31,12 +31,12 @@ tags:
 *Area del triangolo dei simmetrici rispetto all'area di ABC*
 
 > Dato un triangolo $ABC$, siano $A'$ il simmetrico di $A$ rispetto a $BC$, $B'$ il simmetrico di $B$ rispetto ad $CA$, $C'$ il simmetrico di $C$ rispetto ad $AB$. Quanto vale l'area di $A'B'C'$?
-> 
-> (A) 3 volte l'area di $ABC$
-> (B) 4 volte l'area di $ABC$
-> (C) 5 volte l'area di $ABC$
-> (D) 6 volte l'area di $ABC$
-> (E) 7 volte l'area di $ABC$.
+>
+> - **(A)** 3 volte l'area di $ABC$
+> - **(B)** 4 volte l'area di $ABC$
+> - **(C)** 5 volte l'area di $ABC$
+> - **(D)** 6 volte l'area di $ABC$
+> - **(E)** 7 volte l'area di $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

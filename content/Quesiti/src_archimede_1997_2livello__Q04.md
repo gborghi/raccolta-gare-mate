@@ -27,12 +27,12 @@ tags:
 *Quanti congressisti su 100 portano la cravatta*
 
 > Una striscia è costituita da un cilindro interno di acciaio di raggio $1$ cm rivestito da uno strato di gomma leggera di spessore costante. Sapendo che invertendo i materiali il peso della striscia resta invariato, determinare lo spessore del rivestimento.
-> 
-> (A) $1$ cm
-> (B) $\sqrt{2}$ cm
-> (C) $(\sqrt{2}-1)$ cm
-> (D) Dipende dalla lunghezza della striscia
-> (E) Nessuna delle precedenti
+>
+> - **(A)** $1$ cm
+> - **(B)** $\sqrt{2}$ cm
+> - **(C)** $(\sqrt{2}-1)$ cm
+> - **(D)** Dipende dalla lunghezza della striscia
+> - **(E)** Nessuna delle precedenti
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]

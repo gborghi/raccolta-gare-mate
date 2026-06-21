@@ -29,12 +29,12 @@ tags:
 *Per quanti secondi funziona il contatore del treno*
 
 > Supponi che la terra sia una sfera perfetta e immagina di stendere un filo, della stessa lunghezza dell'equatore, in modo da coprire esattamente l'equatore. Ora allunga il filo di 10 metri e immagina che possa essere collocato attorno all'equatore in modo da avere distanza uniforme da esso, cioè in modo che tutti i punti del filo abbiano dall'equatore la stessa distanza $d$ (misurata in metri). Allora si ha:
-> 
-> (A) $d < 0{,}001$
-> (B) $0{,}001 \leq d < 0{,}01$
-> (C) $0{,}01 \leq d < 0{,}1$
-> (D) $0{,}1 \leq d \leq 1$
-> (E) $d > 1$
+>
+> - **(A)** $d < 0{,}001$
+> - **(B)** $0{,}001 \leq d < 0{,}01$
+> - **(C)** $0{,}01 \leq d < 0{,}1$
+> - **(D)** $0{,}1 \leq d \leq 1$
+> - **(E)** $d > 1$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

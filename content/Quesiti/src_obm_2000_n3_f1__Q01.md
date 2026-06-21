@@ -40,11 +40,12 @@ tags:
 *Largest expression for positive reals x,y*
 
 > If $x$ and $y$ are positive real numbers, which of the following numbers is the largest?
-> (A) $xy$
-> (B) $x^2+y^2$
-> (C) $(x+y)^2$
-> (D) $x^2+y(x+y)$
-> (E) $\dfrac{x^3+y^3}{x+y}$
+>
+> - **(A)** $xy$
+> - **(B)** $x^2+y^2$
+> - **(C)** $(x+y)^2$
+> - **(D)** $x^2+y(x+y)$
+> - **(E)** $\dfrac{x^3+y^3}{x+y}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]

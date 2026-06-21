@@ -38,11 +38,12 @@ tags:
 > Il ragazzo dice: “Io sono cavaliere”; “La ragazza è paggio”.
 > La ragazza afferma infine: “Io sono furfante”; “Il vecchio è paggio”.
 > Si può allora affermare che tra i tre:
-> (A) c’è esattamente un paggio
-> (B) ci sono esattamente due paggi
-> (C) ci sono esattamente tre paggi
-> (D) non c’è alcun paggio
-> (E) il numero dei paggi non è sicuro.
+>
+> - **(A)** c’è esattamente un paggio
+> - **(B)** ci sono esattamente due paggi
+> - **(C)** ci sono esattamente tre paggi
+> - **(D)** non c’è alcun paggio
+> - **(E)** il numero dei paggi non è sicuro.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

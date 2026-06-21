@@ -31,12 +31,12 @@ tags:
 *X+Y se 24X8Y divisibile per 4,5,9*
 
 > Il numero di cinque cifre $24X8Y$ è divisibile per $4$, $5$ e $9$. Quanto vale $X + Y$?
-> 
-> (A) 13
-> (B) 10
-> (C) 9
-> (D) 5
-> (E) 4
+>
+> - **(A)** 13
+> - **(B)** 10
+> - **(C)** 9
+> - **(D)** 5
+> - **(E)** 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

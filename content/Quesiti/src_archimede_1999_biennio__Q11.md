@@ -36,11 +36,12 @@ tags:
 > Un orologio digitale a 4 cifre indica l’ora da 00:00 a 23:59. Per quanti minuti
 > durante la giornata il numero che indica le ore ed il numero che indica i minuti
 > sono entrambi quadrati perfetti (si ricorda che 0 è un quadrato perfetto)?
-> (A) 25
-> (B) 28
-> (C) 32
-> (D) 35
-> (E) 40.
+>
+> - **(A)** 25
+> - **(B)** 28
+> - **(C)** 32
+> - **(D)** 35
+> - **(E)** 40.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

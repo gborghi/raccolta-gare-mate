@@ -31,11 +31,12 @@ tags:
 ![[src_archimede_2002_biennio__prob19.png]]
 
 > Quanti degli sviluppi disegnati sotto possono essere richiusi (effettuando le piegature lungo le linee segnate) in modo da ottenere delle scatole chiuse?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

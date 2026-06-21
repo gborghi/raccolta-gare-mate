@@ -34,11 +34,12 @@ tags:
 
 > Siano x e y due numeri reali tali che x > y. Quali delle seguenti disuguaglianze
 > è sempre verificata?
-> (A) x2 > xy
-> (B) x2 > y2
-> (C) x/y > 1
-> (D) x3 > y3
-> (E) x4 > y4.
+>
+> - **(A)** x2 > xy
+> - **(B)** x2 > y2
+> - **(C)** x/y > 1
+> - **(D)** x3 > y3
+> - **(E)** x4 > y4.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

@@ -31,24 +31,12 @@ tags:
 > Ciro taglia un triangolo equilatero fatto di carta, di lato 20 cm, in alcuni pezzi che
 > poi dispone sul suo tavolo in modo che non si sovrappongano e che formino un
 > quadrato. Quanto è lungo il lato del quadrato?
-> (A) 20 cm,
-> (B) 10
-> 4√
-> 3 cm,
-> (C) 15 cm,
-> (D) 8
-> 4√
-> 2 cm,
-> (E) 10
-> √
-> 3 cm.
-> 
-> PROGETTO OLIMPIADI DI MATEMATICA
-> U.M.I. UNIONE MATEMATICA ITALIANA
-> MINISTERO DELLA PUBBLICA ISTRUZIONE
-> SCUOLA NORMALE SUPERIORE
-> I Giochi di Archimede - Gara Triennio
-> 17 novembre 2010
+>
+> - **(A)** 20 cm,
+> - **(B)** 10 4√ 3 cm,
+> - **(C)** 15 cm,
+> - **(D)** 8 4√ 2 cm,
+> - **(E)** 10 √ 3 cm. PROGETTO OLIMPIADI DI MATEMATICA U.M.I. UNIONE MATEMATICA ITALIANA MINISTERO DELLA PUBBLICA ISTRUZIONE SCUOLA NORMALE SUPERIORE I Giochi di Archimede - Gara Triennio 17 novembre 2010
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

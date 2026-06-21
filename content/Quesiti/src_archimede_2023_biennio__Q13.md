@@ -34,11 +34,12 @@ tags:
 
 > Considerato un poligono regolare P di 25 lati, stabilire quanti sono i triangoli
 > isosceli che si possono costruire usando tre vertici del poligono P.
-> (A) 285
-> (B) 275
-> (C) 250
-> (D) 225
-> (E) 300
+>
+> - **(A)** 285
+> - **(B)** 275
+> - **(C)** 250
+> - **(D)** 225
+> - **(E)** 300
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

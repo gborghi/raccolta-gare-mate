@@ -32,12 +32,12 @@ tags:
 
 > Due triangoli equilateri hanno il baricentro in comune e l’uno si ottiene dall’altro
 > con una rotazione di 30 gradi. L’area della loro intersezione rappresenta una percentuale dell’area di uno dei triangoli che è:
-> (A) compresa tra il 50% e il 60%,
-> (B) compresa tra il 60% e il 70%,
-> (C) compresa tra il 70% e l’80%,
-> (D) compresa tra l’80% e il 90%,
-> (E) compresa tra il
-> 90% e il 100%.
+>
+> - **(A)** compresa tra il 50% e il 60%,
+> - **(B)** compresa tra il 60% e il 70%,
+> - **(C)** compresa tra il 70% e l’80%,
+> - **(D)** compresa tra l’80% e il 90%,
+> - **(E)** compresa tra il 90% e il 100%.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

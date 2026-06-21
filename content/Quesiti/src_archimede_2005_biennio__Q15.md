@@ -35,23 +35,12 @@ tags:
 > Due cerchi hanno raggi lunghi 1 m e 3 m rispettivamente. Sapendo che esistono due
 > rette ortogonali tra loro, ciascuna tangente ad entrambi i cerchi, qual è il minimo
 > valore possibile della distanza tra i due centri?
-> (A)
-> √
-> 2 m,
-> (B) 2
-> √
-> 2 m,
-> (C) (
-> √
-> 2 +
-> √
-> 5) m,
-> (D) 2
-> √
-> 5 m,
-> (E) 4
-> √
-> 2 m.
+>
+> - **(A)** √ 2 m,
+> - **(B)** 2 √ 2 m,
+> - **(C)** ( √ 2 + √ 5) m,
+> - **(D)** 2 √ 5 m,
+> - **(E)** 4 √ 2 m.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

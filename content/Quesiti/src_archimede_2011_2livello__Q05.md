@@ -35,27 +35,12 @@ tags:
 > monete. Nicola ad ogni partita ha probabilità 2
 > 3 di vincere il premio e decide di giocare 5 partite.
 > Qual è la probabilità che Nicola vinca almeno 4 monete?
-> (A) 5
-> 2
-> 3
-> 5
-> (B) 4
-> 2
-> 3
-> 5
-> (C) 3
-> 2
-> 3
-> 5
-> (D) 2
-> 2
-> 3
-> 5
-> (E)
-> 2
-> 3
-> 5
-> .
+>
+> - **(A)** 5 2 3 5
+> - **(B)** 4 2 3 5
+> - **(C)** 3 2 3 5
+> - **(D)** 2 2 3 5
+> - **(E)** 2 3 5 .
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

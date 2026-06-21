@@ -31,12 +31,12 @@ tags:
 *Quanti cinguettii complessivi tra cinque passeri*
 
 > In figura vedi cinque passeri posati su un filo: alcuni guardano a destra, altri a sinistra. Ogni passero cinguetta una volta verso ogni altro passero che sta dalla parte dove guarda: ad esempio il secondo passero cinguetta una volta sola. Quanti cinguettii si possono udire complessivamente? (vedi figura)
-> 
-> (A) 6
-> (B) 12
-> (C) 9
-> (D) 10
-> (E) 12
+>
+> - **(A)** 6
+> - **(B)** 12
+> - **(C)** 9
+> - **(D)** 10
+> - **(E)** 12
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

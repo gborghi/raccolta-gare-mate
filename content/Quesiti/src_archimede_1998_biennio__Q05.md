@@ -43,17 +43,12 @@ tags:
 > Si consideri un quadrato di lato unitario; inscriviamo al suo
 > interno una circonferenza e, all’interno di questa, un esagono
 > regolare. Quanto misura il lato dell’esagono?
-> (A) 1/2
-> (B)
-> √
-> 3/2
-> (C)
-> √
-> 3/3
-> (D) (4
-> √
-> 2 −2)/7
-> (E) π/6.
+>
+> - **(A)** 1/2
+> - **(B)** √ 3/2
+> - **(C)** √ 3/3
+> - **(D)** (4 √ 2 −2)/7
+> - **(E)** π/6.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

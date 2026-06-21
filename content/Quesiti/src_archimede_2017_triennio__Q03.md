@@ -31,11 +31,12 @@ tags:
 > Con il simbolo n! si indica il prodotto dei numeri interi positivi da 1 a n, ad esempio:
 > 4! = 1 · 2 · 3 · 4. Consideriamo il numero H = 1! + 2! + 3! + 4! + ... + 2016! + 2017!
 > (una somma con 2017 addendi). Qual è la cifra delle decine di H?
-> (A) 5
-> (B) 7
-> (C) 1
-> (D) 3
-> (E) 6
+>
+> - **(A)** 5
+> - **(B)** 7
+> - **(C)** 1
+> - **(D)** 3
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

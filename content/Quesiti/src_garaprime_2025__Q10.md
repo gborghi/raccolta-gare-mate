@@ -35,12 +35,12 @@ tags:
 > Prendo i 90 numeri della tombola e voglio metterne alcuni all’interno del sacchetto in modo che, se ne
 > estraggo due qualsiasi tra questi, sono sicuro che la loro somma sarà minore o uguale a 25 e il loro prodotto
 > sarà maggiore o uguale a 50. Quanti numeri, al massimo, posso scegliere?
-> (A) 5
-> (B)
-> 7
-> (C) 9
-> (D) 11
-> (E) 6
+>
+> - **(A)** 5
+> - **(B)** 7
+> - **(C)** 9
+> - **(D)** 11
+> - **(E)** 6
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]

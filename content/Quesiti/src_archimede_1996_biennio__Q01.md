@@ -30,11 +30,12 @@ tags:
 
 > Un ciclista che viaggia alla velocità costante di 5 m/s quanti chilometri percorre
 > in 3 ore?
-> (A) 15 km
-> (B) 18 km
-> (C) 50 km
-> (D) 54 km
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 15 km
+> - **(B)** 18 km
+> - **(C)** 50 km
+> - **(D)** 54 km
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

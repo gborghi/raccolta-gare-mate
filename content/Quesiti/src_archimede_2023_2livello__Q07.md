@@ -33,11 +33,12 @@ tags:
 > Per esattamente quattro valori interi di n compresi fra 1 e 10, estremi inclusi, l’espressione
 > n9 + 3n+1n6 + 33n rappresenta un numero primo. Quanto vale la somma di questi quattro valori
 > di n?
-> (A) 12
-> (B) 16
-> (C) 18
-> (D) 22
-> (E) 25
+>
+> - **(A)** 12
+> - **(B)** 16
+> - **(C)** 18
+> - **(D)** 22
+> - **(E)** 25
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

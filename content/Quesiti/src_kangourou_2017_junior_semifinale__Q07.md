@@ -31,16 +31,17 @@ tags:
 *Numero possibile di partite del torneo a batterie*
 
 > (Punti 5) Il numero di adesioni ad un mega torneo di tennis è stato fissato in modo da poter or­
-> ganizzare il torneo come segue. L’insieme dei partecipanti viene ripartito in batterie di 5 giocatori 
-> ciascuna. L’insieme dei vincitori delle singole batterie viene ancora ripartito in batterie di 5 giocatori 
-> ciascuna e così via fino ad avere solo 2 batterie da 5 giocatori ciascuna i cui vincitori si affrontano 
+> ganizzare il torneo come segue. L’insieme dei partecipanti viene ripartito in batterie di 5 giocatori
+> ciascuna. L’insieme dei vincitori delle singole batterie viene ancora ripartito in batterie di 5 giocatori
+> ciascuna e così via fino ad avere solo 2 batterie da 5 giocatori ciascuna i cui vincitori si affrontano
 > nella finale. In ogni batteria ogni giocatore affronta ogni altro una e una sola volta. Quale fra i se­
 > guenti può essere il numero delle partite da disputare complessivamente nel torneo?
-> (A) 501              	
-> (B) 601           		
-> (C)  3021             	
-> (D) 3101              
-> (E) Nessuno dei precedenti
+>
+> - **(A)** 501
+> - **(B)** 601
+> - **(C)** 3021
+> - **(D)** 3101
+> - **(E)** Nessuno dei precedenti
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

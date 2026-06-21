@@ -30,11 +30,12 @@ tags:
 *Numeri pari di tre cifre distinte contenenti 0 e 7*
 
 > Quanti sono i numeri pari di tre cifre tutte diverse tra loro, dove sono presenti sia la cifra 0 che la cifra 7?
-> (A) 18
-> (B) 20
-> (C) 22
-> (D) 23
-> (E) 19
+>
+> - **(A)** 18
+> - **(B)** 20
+> - **(C)** 22
+> - **(D)** 23
+> - **(E)** 19
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

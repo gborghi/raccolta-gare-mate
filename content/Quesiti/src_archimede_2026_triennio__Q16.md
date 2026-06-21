@@ -30,12 +30,12 @@ tags:
 > Il quadrilatero ABCD è inscritto in una circonferenza. Indicato con E il punto
 > d’intersezione tra le diagonali AC e BD, si sa che AC = 10 AE e BD = 5 BE.
 > Qual è il rapporto tra la diagonale maggiore e quella minore?
-> (A) 2
-> (B) 4/3
-> (C) 3/2
-> (D) 5/4
-> (E) 8/5
-> 311
+>
+> - **(A)** 2
+> - **(B)** 4/3
+> - **(C)** 3/2
+> - **(D)** 5/4
+> - **(E)** 8/5 311
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

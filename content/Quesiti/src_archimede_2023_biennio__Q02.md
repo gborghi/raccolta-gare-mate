@@ -32,11 +32,12 @@ tags:
 
 > Quanti numeri di 3 cifre sono multipli di 4 e si possono scrivere senza usare altre
 > cifre al di fuori di 1, 2, 5, 8?
-> (A) 16
-> (B) 18
-> (C) 12
-> (D) 10
-> (E) 14
+>
+> - **(A)** 16
+> - **(B)** 18
+> - **(C)** 12
+> - **(D)** 10
+> - **(E)** 14
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

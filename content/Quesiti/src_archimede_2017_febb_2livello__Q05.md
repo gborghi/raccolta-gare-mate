@@ -33,11 +33,12 @@ tags:
 > Il polinomio P(x), di grado 42, assume il valore 0 nei primi 21 numeri primi dispari e nei loro
 > reciproci (si ricorda che il reciproco di un intero positivo n è il numero razionale 1/n). Quanto
 > vale il rapporto P(2)/P(1/2)?
-> (A) 0
-> (B) 1
-> (C) 221
-> (D) 321
-> (E) 421
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 221
+> - **(D)** 321
+> - **(E)** 421
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

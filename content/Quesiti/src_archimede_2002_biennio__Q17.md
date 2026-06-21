@@ -34,11 +34,12 @@ tags:
 > Alberto ha a disposizione un gran numero di pesi da 1, 3 e 9 grammi. Volendo
 > usarli per equilibrare una catenella da 16 grammi ponendoli solo su uno dei due
 > piatti di una bilancia a bracci uguali, in quanti modi diversi può scegliere i pesi?
-> (A) 1
-> (B) 3
-> (C) 7
-> (D) 9
-> (E) 16.
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 7
+> - **(D)** 9
+> - **(E)** 16.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

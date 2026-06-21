@@ -32,11 +32,12 @@ tags:
 
 > Quanti interi positivi n hanno la proprietà che la loro rappresentazione in base 2 coincide con la
 > rappresentazione in base 3 di 2n?
-> (A) Nessuno
-> (B)1
-> (C) 2
-> (D) più di 2, ma in numero finito
-> (E) infiniti.
+>
+> - **(A)** Nessuno
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** più di 2, ma in numero finito
+> - **(E)** infiniti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

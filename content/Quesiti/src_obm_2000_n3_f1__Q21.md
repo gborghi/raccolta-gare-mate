@@ -37,11 +37,12 @@ tags:
 *Ratio of regular hexagon area to area of equilateral triangle ABC*
 
 > The figure shows two triangles $ABC$ and $A'B'C'$, both equilateral, and the highlighted region is a regular hexagon. The ratio between the area of the highlighted region and the area of triangle $ABC$ is equal to:
-> (A) 1
-> (B) $\dfrac{2}{3}$
-> (C) $\dfrac{4}{5}$
-> (D) $\dfrac{\sqrt{2}}{2}$
-> (E) $\dfrac{\sqrt{3}}{2}$
+>
+> - **(A)** 1
+> - **(B)** $\dfrac{2}{3}$
+> - **(C)** $\dfrac{4}{5}$
+> - **(D)** $\dfrac{\sqrt{2}}{2}$
+> - **(E)** $\dfrac{\sqrt{3}}{2}$
 
 ![[src_obm_2000_n3_f1__Q21.png]]
 

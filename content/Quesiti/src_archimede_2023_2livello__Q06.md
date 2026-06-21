@@ -34,11 +34,12 @@ tags:
 > volta seguiti dalla cifra uno. Quanti sono i divisori propri di N (ovvero, i divisori strettamente
 > compresi fra 1 ed N) che si scrivono anch’essi come una cifra 1 seguita da un qualche numero
 > positivo di zeri, seguiti a loro volta da una cifra 1?
-> (A) 3
-> (B) 5
-> (C) 12
-> (D) 14
-> (E) 16
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 12
+> - **(D)** 14
+> - **(E)** 16
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

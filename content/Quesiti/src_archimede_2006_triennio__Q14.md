@@ -33,17 +33,12 @@ tags:
 > disposti sui vertici di un esagono regolare. Poi nota che in mezzo c’è ancora spazio
 > per appoggiare un gettone blu, tondo, in modo che tocchi tutti e sei i gettoni rossi
 > senza sovrapporvisi. Qual è il raggio del gettone blu?
-> (A) 5
-> √
-> 3 cm,
-> (B) 10 cm,
-> (C) 10
-> √
-> 3 cm,
-> (D) 15
-> √
-> 3 cm,
-> (E) 20 cm.
+>
+> - **(A)** 5 √ 3 cm,
+> - **(B)** 10 cm,
+> - **(C)** 10 √ 3 cm,
+> - **(D)** 15 √ 3 cm,
+> - **(E)** 20 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

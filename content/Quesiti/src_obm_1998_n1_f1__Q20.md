@@ -40,12 +40,12 @@ tags:
 *Determine the day when both a liar and a truth-teller say 'Tomorrow is a lying day'*
 
 > Pedro and Maria form a peculiar couple. Pedro lies on Wednesdays, Thursdays, and Fridays, and tells the truth on the rest of the week. Maria lies on Sundays, Mondays, and Tuesdays, and tells the truth on the rest of the week. One day, both say: "Tomorrow is a lying day." The day on which this statement was made was:
-> 
-> (A) Monday
-> (B) Tuesday
-> (C) Friday
-> (D) Saturday
-> (E) Sunday
+>
+> - **(A)** Monday
+> - **(B)** Tuesday
+> - **(C)** Friday
+> - **(D)** Saturday
+> - **(E)** Sunday
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]

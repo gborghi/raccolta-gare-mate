@@ -40,11 +40,12 @@ tags:
 > B
 > C
 > D
-> (A) 61°
-> (B) 60°
-> (C) 59°
-> (D) 62°
-> (E) 58°
+>
+> - **(A)** 61°
+> - **(B)** 60°
+> - **(C)** 59°
+> - **(D)** 62°
+> - **(E)** 58°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -38,11 +38,12 @@ tags:
 > compresi fra 1 e 60 esattamente 30 sono tali che p(m) sia multiplo di 4. Quanti sono gli interi
 > m compresi tra 1 e 60 tali che p(m) sia multiplo di 6? Nota: tutti gli intervalli che compaiono
 > in questo problema sono da considerarsi con gli estremi inclusi.
-> (A) 10
-> (B) 20
-> (C) 25
-> (D) 30
-> (E) 40
+>
+> - **(A)** 10
+> - **(B)** 20
+> - **(C)** 25
+> - **(D)** 30
+> - **(E)** 40
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_inclusione_esclusione|Inclusione-esclusione]]

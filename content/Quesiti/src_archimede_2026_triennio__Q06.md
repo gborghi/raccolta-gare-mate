@@ -36,11 +36,12 @@ tags:
 > ci sono precisamente 13 furfanti”. Altri 10 compagni affermano poi: “Dino è un
 > cavaliere”, gli altri 11 dicono invece: “Dino è un furfante”. Dino preferisce non
 > sbilanciarsi e resta in silenzio. Quanti sono i cavalieri presenti nella classe?
-> (A) 12
-> (B) non si può stabilire
-> (C) 13
-> (D) 10
-> (E) 11
+>
+> - **(A)** 12
+> - **(B)** non si può stabilire
+> - **(C)** 13
+> - **(D)** 10
+> - **(E)** 11
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

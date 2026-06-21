@@ -33,17 +33,12 @@ tags:
 
 > Determinare tutti i numeri primi p tali che il polinomio P(x) = x2 −(43 −p)x + 5p abbia due radici intere positive.
 > Indicare come risposta la somma dei suddetti numeri p.
-> (A) 20
-> (B) 26
-> (C) 42
-> (D) 19
-> (E) 31
-> 
-> I Giochi di Archimede 2020/2021
-> GARA DI RISERVA TRIENNIO
-> – –
-> CODICE PROVA:
-> TT02
+>
+> - **(A)** 20
+> - **(B)** 26
+> - **(C)** 42
+> - **(D)** 19
+> - **(E)** 31 I Giochi di Archimede 2020/2021 GARA DI RISERVA TRIENNIO – – CODICE PROVA: TT02
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

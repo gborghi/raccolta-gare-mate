@@ -34,25 +34,12 @@ tags:
 > degli angoli di vertici A, B, D, F, G. Gli angoli di
 > vertici C e E hanno la stessa ampiezza, indicata
 > con x. Qual è il valore di tale ampiezza x?
-> (A) 41°
-> (B) 39°
-> (C) 40°
-> (D) 37°
-> (E) 38°
-> A
-> B
-> C
-> D
-> E
-> F
-> G
-> 60°
-> 47°
-> x
-> 50°
-> x
-> 48°
-> 57°
+>
+> - **(A)** 41°
+> - **(B)** 39°
+> - **(C)** 40°
+> - **(D)** 37°
+> - **(E)** 38° A B C D E F G 60° 47° x 50° x 48° 57°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

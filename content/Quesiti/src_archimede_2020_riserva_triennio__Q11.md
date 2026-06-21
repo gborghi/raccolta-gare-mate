@@ -29,11 +29,12 @@ tags:
 
 > Nel trapezio PQRS, di basi PQ e RS, sia T il punto d’intersezione delle diagonali PR e QS. Le aree dei triangoli
 > RST e PST sono, rispettivamente, 12 mm2 e 24 mm2. Quanti mm2 misura l’area del trapezio PQRS?
-> (A) 105
-> (B) 108
-> (C) 100
-> (D) 104
-> (E) 102
+>
+> - **(A)** 105
+> - **(B)** 108
+> - **(C)** 100
+> - **(D)** 104
+> - **(E)** 102
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

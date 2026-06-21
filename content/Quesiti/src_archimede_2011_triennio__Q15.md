@@ -35,11 +35,12 @@ tags:
 > sempre il vero”; Giuseppe dice: “Anna mente sempre”; infine Lorenzo dice: “Anna,
 > Erica e Giuseppe mentono sempre”. Quanti sono, al massimo, quelli che mentono
 > sempre?
-> (A) 1,
-> (B) 2,
-> (C) 3,
-> (D) 4,
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

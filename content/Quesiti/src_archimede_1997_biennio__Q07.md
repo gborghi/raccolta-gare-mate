@@ -29,11 +29,12 @@ tags:
 *Quanti n positivi con n+30 maggiore di n quadrato*
 
 > Quanti sono i numeri positivi n tali che n + 30 > n2?
-> (A) infiniti
-> (B) 30
-> (C) 6
-> (D) 5
-> (E) nessuna delle precedenti risposte è corretta.
+>
+> - **(A)** infiniti
+> - **(B)** 30
+> - **(C)** 6
+> - **(D)** 5
+> - **(E)** nessuna delle precedenti risposte è corretta.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

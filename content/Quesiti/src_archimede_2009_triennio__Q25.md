@@ -31,13 +31,12 @@ tags:
 > Un cubo di lato 1 m e una sfera hanno lo stesso centro e la superficie della sfera
 > passa per i punti medi di tutti i lati del cubo. Quanto misura l’area della superficie
 > del cubo esterna alla sfera?
-> (A) (6 −3π
-> 2 ) m2,
-> (B) (8 −2π) m2,
-> (C) (6 −4π
-> 3 ) m2,
-> (D) (12 −3π) m2,
-> (E) π m2.
+>
+> - **(A)** (6 −3π 2 ) m2,
+> - **(B)** (8 −2π) m2,
+> - **(C)** (6 −4π 3 ) m2,
+> - **(D)** (12 −3π) m2,
+> - **(E)** π m2.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

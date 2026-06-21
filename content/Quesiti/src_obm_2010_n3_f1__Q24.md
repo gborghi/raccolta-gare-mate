@@ -40,12 +40,12 @@ tags:
 *Random point P in square QRST; probability that angle RPQ is acute.*
 
 > A point $P$ is chosen in the interior of the square $QRST$. What is the probability that the angle $R\hat{P}Q$ is acute?
-> 
-> (A) $\frac{3}{4}$
-> (B) $\sqrt{2}-1$
-> (C) $\frac{1}{2}$
-> (D) $\frac{\pi}{4}$
-> (E) $1-\frac{\pi}{8}$
+>
+> - **(A)** $\frac{3}{4}$
+> - **(B)** $\sqrt{2}-1$
+> - **(C)** $\frac{1}{2}$
+> - **(D)** $\frac{\pi}{4}$
+> - **(E)** $1-\frac{\pi}{8}$
 
 ![[src_obm_2010_n3_f1__Q24.png]]
 

@@ -31,11 +31,12 @@ tags:
 > Nel piano ci sono due file di 14 punti ciascuna, disposte su due rette parallele tra
 > loro e distinte. Se tracci un segmento da ogni punto della prima fila ad ogni punto
 > della seconda fila, quanti segmenti hai tracciato?
-> (A) 140,
-> (B) 196,
-> (C) 210,
-> (D) 280,
-> (E) 392.
+>
+> - **(A)** 140,
+> - **(B)** 196,
+> - **(C)** 210,
+> - **(D)** 280,
+> - **(E)** 392.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

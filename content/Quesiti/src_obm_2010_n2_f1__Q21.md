@@ -37,12 +37,12 @@ tags:
 *Count pairs (x,y) of positive integers with x^2-y^2=2^2010*
 
 > How many are the pairs $(x, y)$ of positive integers such that $x^2 - y^2 = 2^{2010}$?
-> 
-> (A) $1000$
-> (B) $1001$
-> (C) $1002$
-> (D) $1003$
-> (E) $1004$
+>
+> - **(A)** $1000$
+> - **(B)** $1001$
+> - **(C)** $1002$
+> - **(D)** $1003$
+> - **(E)** $1004$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]

@@ -41,11 +41,12 @@ tags:
 > cade all’interno della griglia si sovrapponga precisamente a
 > 1, 2, 3 o 4 quadratini). Quante tessere ci vogliono, come
 > minimo?
-> (A) 6
-> (B) 7
-> (C) 8
-> (D) 9
-> (E) 10
+>
+> - **(A)** 6
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** 10
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

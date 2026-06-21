@@ -29,11 +29,12 @@ tags:
 
 > L’esagono ABCDEF è circoscritto a una circonferenza. I suoi lati AB, BC, CD, EF misurano, rispettivamente,
 > 27 m, 25 m, 19 m, 29 m. Qual è il perimetro dell’esagono?
-> (A) 150 m
-> (B) 146 m
-> (C) 148 m
-> (D) 152 m
-> (E) 154 m
+>
+> - **(A)** 150 m
+> - **(B)** 146 m
+> - **(C)** 148 m
+> - **(D)** 152 m
+> - **(E)** 154 m
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -30,11 +30,12 @@ tags:
 *Quale prodotto di potenze e un quadrato perfetto*
 
 > Quale tra i seguenti è il quadrato di un numero intero?
-> (A) 7716 · 149 · 2215
-> (B) 779 · 1416 · 2225
-> (C) 777 · 1417 · 2213
-> (D) 779 · 1416 · 2213
-> (E) 779 · 1412 · 2216
+>
+> - **(A)** 7716 · 149 · 2215
+> - **(B)** 779 · 1416 · 2225
+> - **(C)** 777 · 1417 · 2213
+> - **(D)** 779 · 1416 · 2213
+> - **(E)** 779 · 1412 · 2216
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

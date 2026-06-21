@@ -29,12 +29,12 @@ tags:
 *Durata dell'esibizione di ballo a coppie*
 
 > Tre ragazze e due ragazzi partecipano ad una esibizione di ballo. Ogni ragazza balla con ogni ragazzo esattamente per un minuto e mezzo e in ogni istante sulla pista da ballo c'è una coppia e una sola. Quanti minuti dura la loro esibizione?
-> 
-> (A) 6
-> (B) 8
-> (C) 5
-> (D) 9
-> (E) 10
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 5
+> - **(D)** 9
+> - **(E)** 10
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

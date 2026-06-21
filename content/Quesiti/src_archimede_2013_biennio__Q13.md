@@ -31,11 +31,12 @@ tags:
 > In un’urna ci sono 8 palline blu e 7 palline rosse. Mirco estrae due palline, una
 > dopo l’altra (senza rimettere nell’urna la prima pallina estratta, prima di estrarre la
 > seconda). Qual è la probabilità che le due palline estratte siano dello stesso colore?
-> (A) 1/4
-> (B) 1/2
-> (C) 7/15
-> (D) 8/15
-> (E) nessuna delle precedenti
+>
+> - **(A)** 1/4
+> - **(B)** 1/2
+> - **(C)** 7/15
+> - **(D)** 8/15
+> - **(E)** nessuna delle precedenti
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

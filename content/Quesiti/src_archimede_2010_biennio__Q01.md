@@ -32,11 +32,12 @@ tags:
 *Massimo lunedi in 45 giorni consecutivi*
 
 > Quanti lunedì possono esserci al massimo in 45 giorni consecutivi?
-> (A) 5,
-> (B) 6,
-> (C) 7,
-> (D) 8,
-> (E) 9.
+>
+> - **(A)** 5,
+> - **(B)** 6,
+> - **(C)** 7,
+> - **(D)** 8,
+> - **(E)** 9.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

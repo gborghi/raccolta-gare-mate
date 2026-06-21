@@ -29,15 +29,12 @@ tags:
 > Sia P1 un esagono regolare. Sia P2 il nuovo esagono ottenuto congiungendo i punti medi dei lati
 > consecutivi di P1. Allo stesso modo si proceda a partire da P2 ottenendo un nuovo esagono P3.
 > Quanto vale il rapporto tra l’area di P3 e quella di P1?
-> (A) 1
-> 4
-> (B) 7
-> 16
-> (C) 9
-> 16
-> (D) 3
-> 4
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 1 4
+> - **(B)** 7 16
+> - **(C)** 9 16
+> - **(D)** 3 4
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]

@@ -29,12 +29,12 @@ tags:
 *Quadratini da aggiungere per il piu piccolo quadrato*
 
 > Aldo ha molti quadratini tutti uguali fra loro. Accostandone sei, ha costruito il tassello che vedi in figura. Quanti quadratini deve aggiungere, se vuole completare il tassello in modo da ottenere il più piccolo quadrato possibile? (vedi figura)
-> 
-> (A) 6
-> (B) 8
-> (C) 9
-> (D) 10
-> (E) 12
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 9
+> - **(D)** 10
+> - **(E)** 12
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

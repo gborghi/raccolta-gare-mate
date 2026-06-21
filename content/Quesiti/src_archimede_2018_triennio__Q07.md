@@ -35,11 +35,12 @@ tags:
 > così realizzato un punto in meno di quanto avrebbe ottenuto rispondendo a tutte
 > le domande e sbagliandone precisamente la metà. Circa il numero di quesiti della
 > raccolta, si può concludere che esso è...
-> (A) minore di 30
-> (B) fra 30 e 33 (inclusi)
-> (C) fra 34 e 36 (inclusi)
-> (D) fra 37 e 40 (inclusi)
-> (E) maggiore di 40
+>
+> - **(A)** minore di 30
+> - **(B)** fra 30 e 33 (inclusi)
+> - **(C)** fra 34 e 36 (inclusi)
+> - **(D)** fra 37 e 40 (inclusi)
+> - **(E)** maggiore di 40
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

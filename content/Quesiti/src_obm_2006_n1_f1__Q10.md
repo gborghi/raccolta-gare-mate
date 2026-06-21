@@ -40,12 +40,12 @@ tags:
 *Digital clock: pairs of digits that always show on all four digits*
 
 > On a digital clock, the time is shown by means of four digits. For example, at 00:00 we know it is midnight and at 23:59 we know there is one minute to midnight. How many times per day are all four digits shown equal in pairs?
-> 
-> (A) 60
-> (B) 90
-> (C) 105
-> (D) 180
-> (E) 240
+>
+> - **(A)** 60
+> - **(B)** 90
+> - **(C)** 105
+> - **(D)** 180
+> - **(E)** 240
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

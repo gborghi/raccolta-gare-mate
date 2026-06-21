@@ -32,11 +32,12 @@ tags:
 
 > Scrivendo per esteso il numero intero (102018 +2018)2 si utilizzano 4037 cifre. Qual
 > è la somma di tutte queste cifre?
-> (A) 36
-> (B) 31
-> (C) 42
-> (D) 51
-> (E) 43
+>
+> - **(A)** 36
+> - **(B)** 31
+> - **(C)** 42
+> - **(D)** 51
+> - **(E)** 43
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

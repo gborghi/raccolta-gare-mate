@@ -32,21 +32,12 @@ tags:
 
 > Sia ABC un triangolo equilatero di centro O e area 1. Siano D, E, F i punti simmetrici di O rispetto
 > ai tre lati del triangolo. Quanto vale l’area in comune ai triangoli ABC e DEF?
-> (A) 1
-> 3
-> (B) 2
-> √
-> 3
-> 9
-> (C)
-> √
-> 2
-> 3
-> (D)
-> √
-> 3
-> 3
-> (E) 2
+>
+> - **(A)** 1 3
+> - **(B)** 2 √ 3 9
+> - **(C)** √ 2 3
+> - **(D)** √ 3 3
+> - **(E)** 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

@@ -29,11 +29,12 @@ tags:
 *Piu grande fattore primo di 3^12-1*
 
 > Qual è il più grande fattore primo di 312 −1?
-> (A) 73
-> (B) 36 + 1
-> (C) 107
-> (D) 13
-> (E) 949
+>
+> - **(A)** 73
+> - **(B)** 36 + 1
+> - **(C)** 107
+> - **(D)** 13
+> - **(E)** 949
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

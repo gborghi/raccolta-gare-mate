@@ -33,11 +33,12 @@ tags:
 
 > Consideriamo i numeri interi positivi n tali che n6 + 2n5 sia multiplo di 49. Supponendo di aver disposto tali valori
 > n in ordine crescente, indicare la somma tra il 2°e il 7°di questi numeri.
-> (A) 53
-> (B) 59
-> (C) 81
-> (D) 61
-> (E) 74
+>
+> - **(A)** 53
+> - **(B)** 59
+> - **(C)** 81
+> - **(D)** 61
+> - **(E)** 74
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

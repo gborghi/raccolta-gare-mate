@@ -36,19 +36,12 @@ tags:
 > la fionda di David, esce dal portone, percorre non più di 20 metri (senza rientrare
 > nel palazzo) e lascia la fionda per terra. Quanto misura la superficie in cui David
 > dovrà cercare, al massimo, prima di ritrovare la sua fionda?
-> (A) 320π m2,
-> (B) 160π m2,
-> (C) 100(4π −
-> √
-> 5−1
-> 2
-> ) m2,
-> (D) 100(2π +
-> √
-> 5−1
-> 2
-> ) m2,
-> (E) 280π m2.
+>
+> - **(A)** 320π m2,
+> - **(B)** 160π m2,
+> - **(C)** 100(4π − √ 5−1 2 ) m2,
+> - **(D)** 100(2π + √ 5−1 2 ) m2,
+> - **(E)** 280π m2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -33,12 +33,12 @@ tags:
 > a e b sono due numeri reali tali che
 > 2a4 −4ab + b2 + 2 = 0 .
 > Quanti valori distinti può assumere a?
-> (A) 1,
-> (B) 2,
-> (C) 3,
-> (D) 4,
-> (E) non esiste alcuna coppia (a, b) che verifica
-> la condizione.
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** non esiste alcuna coppia (a, b) che verifica la condizione.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

@@ -35,12 +35,12 @@ tags:
 > lunedì, il martedì e il mercoledì (e solo in questi giorni), mentre l’altro mente il
 > giovedì, il venerdì e il sabato (e solo in questi giorni), in quale giorno della settimana
 > è avvenuta la conversazione?
-> (A) lunedì
-> (B) giovedì
-> (C) domenica
-> (D) una tale conversazione non può
-> essere avvenuta
-> (E) non è possibile determinare il giorno in modo univoco.
+>
+> - **(A)** lunedì
+> - **(B)** giovedì
+> - **(C)** domenica
+> - **(D)** una tale conversazione non può essere avvenuta
+> - **(E)** non è possibile determinare il giorno in modo univoco.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

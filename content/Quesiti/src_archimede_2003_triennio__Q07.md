@@ -27,15 +27,12 @@ tags:
 
 > Quali delle diseguaglianze a fianco sono verificate per ogni
 > valore reale positivo di x?
-> (A) Tutte e tre
-> (B) solo a) e b)
-> (C) solo b) e c)
-> (D) solo a)
-> (E) solo c).
-> a) x2 + 1
-> x2 ≥2
-> b) x2 ≥2x −2
-> c) x4−2x3+x2 ≥0.
+>
+> - **(A)** Tutte e tre
+> - **(B)** solo a) e b)
+> - **(C)** solo b) e c)
+> - **(D)** solo a)
+> - **(E)** solo c). a) x2 + 1 x2 ≥2 b) x2 ≥2x −2 c) x4−2x3+x2 ≥0.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]

@@ -33,11 +33,12 @@ tags:
 
 > Il polinomio p(x) ha grado maggiore o uguale a 2 ed i suoi coefficienti sono tutti
 > numeri interi. Quale dei seguenti numeri divide certamente p(169) −p(1)?
-> (A) 25
-> (B) 32
-> (C) 36
-> (D) 49
-> (E) 56
+>
+> - **(A)** 25
+> - **(B)** 32
+> - **(C)** 36
+> - **(D)** 49
+> - **(E)** 56
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

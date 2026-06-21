@@ -30,12 +30,12 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob17.png]]
 
 > In una fattoria ci sono solo pecore e mucche. Il fattore munge insieme una mucca e una pecora alla volta: così facendo, quando le mucche sono tutte munte, rimangono da mungere 8 pecore. Il numero complessivo delle pecore è il doppio di quello delle mucche. Quanti animali ci sono in tutto nella fattoria?
-> 
-> (A) 16
-> (B) 18
-> (C) 20
-> (D) 24
-> (E) 28
+>
+> - **(A)** 16
+> - **(B)** 18
+> - **(C)** 20
+> - **(D)** 24
+> - **(E)** 28
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

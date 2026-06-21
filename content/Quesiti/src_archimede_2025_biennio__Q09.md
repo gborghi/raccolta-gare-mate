@@ -32,11 +32,12 @@ tags:
 > L’altezza uscente da R e la bisettrice uscente da T si intersecano nel punto O.
 > Qual è l’ampiezza dell’angolo convesso [
 > ROT ?
-> (A) 129°
-> (B) 126°
-> (C) 125°
-> (D) 128°
-> (E) 127°
+>
+> - **(A)** 129°
+> - **(B)** 126°
+> - **(C)** 125°
+> - **(D)** 128°
+> - **(E)** 127°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

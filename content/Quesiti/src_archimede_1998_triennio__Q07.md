@@ -33,20 +33,12 @@ tags:
 > Due cerchi complanari di raggio 1 sono disposti in modo tale che la circonferenza
 > di ognuno passa per il centro dell’altro. Qual è l’area dell’intersezione dei due
 > cerchi?
-> (A)
-> √
-> 3
-> 2
-> (B)
-> √
-> 3 + π
-> 2
-> (C) π
-> 2
-> (D)
-> √
-> 3
-> (E) nessuna delle precedenti.
+>
+> - **(A)** √ 3 2
+> - **(B)** √ 3 + π 2
+> - **(C)** π 2
+> - **(D)** √ 3
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

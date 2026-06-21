@@ -33,17 +33,12 @@ tags:
 > Supponiamo che, nel cerchio in figura, l’angolo
 > B bAC sia di 35°. Sia CD il diametro passante per
 > C, quanto vale B bCD?
-> (A) 35°
-> (B) 45°
-> (C) 50°
-> (D) 55°
-> (E) nessuna delle precedenti.
-> C
-> A
-> B
-> b
-> O
-> D
+>
+> - **(A)** 35°
+> - **(B)** 45°
+> - **(C)** 50°
+> - **(D)** 55°
+> - **(E)** nessuna delle precedenti. C A B b O D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -35,11 +35,12 @@ tags:
 > Contando sia gli attraversamenti in un senso che quelli nell’altro, qual è il numero
 > minimo di attraversamenti che la barchetta deve fare? (ovviamente la barca non
 > può attraversare il fiume senza essere condotta).
-> (A) 5
-> (B) 6
-> (C) 7
-> (D) 8
-> (E) 9.
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

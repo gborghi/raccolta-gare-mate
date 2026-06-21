@@ -40,18 +40,12 @@ tags:
 > ciascuno stato di rosso, oppure di verde, oppure di giallo, in
 > modo che due stati confinanti non abbiano lo stesso colore.
 > In quanti modi diversi può farlo?
-> (A) Nessuno,
-> (B) 2,
-> (C) 4,
-> (D) 5,
-> (E) 6.
-> A
-> B
-> C
-> D
-> E
-> F
-> G
+>
+> - **(A)** Nessuno,
+> - **(B)** 2,
+> - **(C)** 4,
+> - **(D)** 5,
+> - **(E)** 6. A B C D E F G
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_conteggio|Conteggio combinatorio]]

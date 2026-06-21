@@ -31,11 +31,12 @@ tags:
 *Piu piccolo intero di cinque cifre divisibile per 3 e 13*
 
 > Qual è il più piccolo intero di cinque cifre divisibile per 3 e per 13?
-> (A) 10011
-> (B) 10020
-> (C) 10036
-> (D) 10062
-> (E) nessuno dei precedenti.
+>
+> - **(A)** 10011
+> - **(B)** 10020
+> - **(C)** 10036
+> - **(D)** 10062
+> - **(E)** nessuno dei precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

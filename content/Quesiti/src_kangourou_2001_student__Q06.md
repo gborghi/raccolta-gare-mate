@@ -28,11 +28,11 @@ tags:
 
 *Valore dell'espressione con 9 e 10*
 
-> (A) 9 9
-> (B) 9 9 - 1
-> (C) 9 10
-> (D) 10 9 
-> (E) 10 10.
+> - **(A)** 9 9
+> - **(B)** 9 9 - 1
+> - **(C)** 9 10
+> - **(D)** 10 9
+> - **(E)** 10 10.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

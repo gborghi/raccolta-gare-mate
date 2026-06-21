@@ -30,13 +30,12 @@ tags:
 > È ben noto che l’area di un triangolo equilatero di lato unitario non può essere
 > espressa come numero razionale (cioè come rapporto di interi). Esistono tetraedri che hanno come base tale triangolo e il cui volume si esprime come numero
 > razionale?
-> (A) Non ne esistono
-> (B) ne esistono infiniti
-> (C) solo il tetraedro regolare
-> (D) solo i tetraedri con altezza pari a 6
-> √
-> 3
-> (E) solo se il tetraedro è retto.
+>
+> - **(A)** Non ne esistono
+> - **(B)** ne esistono infiniti
+> - **(C)** solo il tetraedro regolare
+> - **(D)** solo i tetraedri con altezza pari a 6 √ 3
+> - **(E)** solo se il tetraedro è retto.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]

@@ -40,12 +40,12 @@ tags:
 *Carwash promotion: two prices, total R$176; minimum number of customers*
 
 > The carwash 'Lave Bem' runs a promotion: a simple wash costs R$\$5.00$ and a complete wash costs R$\$7.00$. On the day of the promotion, the total revenue was R$\$176.00$. What is the minimum possible number of customers that were served?
-> 
-> (A) $23$
-> (B) $24$
-> (C) $26$
-> (D) $28$
-> (E) $30$
+>
+> - **(A)** $23$
+> - **(B)** $24$
+> - **(C)** $26$
+> - **(D)** $28$
+> - **(E)** $30$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]

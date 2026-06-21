@@ -35,11 +35,12 @@ tags:
 > Abbiamo una sequenza di 2011 numeri, di cui indichiamo con an il termine n-esimo.
 > Sapendo che a1 = 1, e che per ogni n ≥2, an = an−1(3n + 1), trovare le ultime
 > quattro cifre del termine a2011.
-> (A) 0000,
-> (B) 3400,
-> (C) 6000,
-> (D) 6031,
-> (E) 6034.
+>
+> - **(A)** 0000,
+> - **(B)** 3400,
+> - **(C)** 6000,
+> - **(D)** 6031,
+> - **(E)** 6034.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

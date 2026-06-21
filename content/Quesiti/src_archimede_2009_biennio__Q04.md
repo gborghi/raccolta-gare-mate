@@ -36,11 +36,12 @@ tags:
 > sul quadrante, in senso orario (se ad esempio n = 3, dopo il primo salto è sul 3,
 > dopo il secondo è sul 6 e così via). Dopo 12 salti, per la prima volta si ritrova sul
 > numero 12 del quadrante. In quanti modi distinti può aver scelto n?
-> (A) 1,
-> (B) 2,
-> (C) 4,
-> (D) 6,
-> (E) 12.
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 4,
+> - **(D)** 6,
+> - **(E)** 12.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

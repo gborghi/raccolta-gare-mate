@@ -38,11 +38,12 @@ tags:
 *Radius of external circle in logo of tangent circles, inner r=1*
 
 > The figure below shows the logo of a company, formed by two concentric circles and four small interior circles, each of which is tangent to two others and to the two concentric circles. The radius of the inner circle measures 1 cm. Then the radius of the external circle must measure, in cm:
-> (A) $2\sqrt{2}+3$
-> (B) $\sqrt{2}+2$
-> (C) $4\sqrt{2}+1$
-> (D) $3\sqrt{2}$
-> (E) $\sqrt{2}+1$
+>
+> - **(A)** $2\sqrt{2}+3$
+> - **(B)** $\sqrt{2}+2$
+> - **(C)** $4\sqrt{2}+1$
+> - **(D)** $3\sqrt{2}$
+> - **(E)** $\sqrt{2}+1$
 
 ![[src_obm_2000_n3_f1__Q13.png]]
 

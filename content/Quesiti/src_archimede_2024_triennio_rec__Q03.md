@@ -32,11 +32,12 @@ tags:
 
 > Quanti sono i multipli di 3, compresi tra 1000 e 100 000, che si possono scrivere
 > utilizzando le sole cifre 1, 4 e 7 ?
-> (A) 99
-> (B) 27
-> (C) 9
-> (D) nessuno
-> (E) 36
+>
+> - **(A)** 99
+> - **(B)** 27
+> - **(C)** 9
+> - **(D)** nessuno
+> - **(E)** 36
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

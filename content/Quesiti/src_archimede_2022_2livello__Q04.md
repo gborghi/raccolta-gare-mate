@@ -32,12 +32,12 @@ tags:
 
 > Il polinomio p(x) ha la seguente proprietà: per ogni terna di interi a, b, c tali che a+b+c = 2022
 > si ha che p(a) + p(b) + p(c) = p(674). Si sa inoltre che p(0) = −2696. Quanto vale p(2022)?
-> (A) −2696
-> (B) 674
-> (C) 5392
-> (D) 8088
-> (E) Non è possibile determinarlo con i dati
-> forniti.
+>
+> - **(A)** −2696
+> - **(B)** 674
+> - **(C)** 5392
+> - **(D)** 8088
+> - **(E)** Non è possibile determinarlo con i dati forniti.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

@@ -33,11 +33,12 @@ tags:
 > Giulio sta cercando i numeri interi n tali che il valore assoluto di
 > (n −2)(n −20)
 > sia un numero primo. Qual è la somma di tutti questi numeri n?
-> (A) 36
-> (B) 40
-> (C) 32
-> (D) 21
-> (E) 44
+>
+> - **(A)** 36
+> - **(B)** 40
+> - **(C)** 32
+> - **(D)** 21
+> - **(E)** 44
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

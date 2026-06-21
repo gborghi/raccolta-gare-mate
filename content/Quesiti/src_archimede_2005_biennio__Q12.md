@@ -34,12 +34,12 @@ tags:
 
 > In un triangolo, per ogni coppia di lati consecutivi, i due assi dei lati e la bisettrice
 > dell’angolo formato dai due lati si incontrano in uno stesso punto. Possiamo affermare che:
-> (A) non esiste un triangolo con questa proprietà,
-> (B) il triangolo è equilatero,
-> (C) il triangolo ha un angolo di 30°,
-> (D) il triangolo è rettangolo,
-> (E) il
-> triangolo ha un angolo di 45°.
+>
+> - **(A)** non esiste un triangolo con questa proprietà,
+> - **(B)** il triangolo è equilatero,
+> - **(C)** il triangolo ha un angolo di 30°,
+> - **(D)** il triangolo è rettangolo,
+> - **(E)** il triangolo ha un angolo di 45°.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]

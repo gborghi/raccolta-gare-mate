@@ -30,11 +30,12 @@ tags:
 
 > Il contachilometri di una bicicletta segna 3733 km. La prima volta in cui segnerà
 > nuovamente un numero con tre cifre uguali avverrà
-> (A) prima di 50 km
-> (B) tra 50 km e 100 km
-> (C) tra 100 km e 500 km
-> (D) fra 500 km e 1000 km
-> (E) fra 1000 km e 5000 km.
+>
+> - **(A)** prima di 50 km
+> - **(B)** tra 50 km e 100 km
+> - **(C)** tra 100 km e 500 km
+> - **(D)** fra 500 km e 1000 km
+> - **(E)** fra 1000 km e 5000 km.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

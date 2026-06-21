@@ -34,11 +34,12 @@ tags:
 
 > Antonio è nato il 1°marzo di un anno che aveva 53 sabati e 53 domeniche. In
 > che giorno della settimana è nato?
-> (A) lunedì
-> (B) mercoledì
-> (C) venerdì
-> (D) in un giorno diverso dai precedenti
-> (E) non si può determinare con certezza.
+>
+> - **(A)** lunedì
+> - **(B)** mercoledì
+> - **(C)** venerdì
+> - **(D)** in un giorno diverso dai precedenti
+> - **(E)** non si può determinare con certezza.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

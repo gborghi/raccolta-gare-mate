@@ -39,12 +39,12 @@ tags:
 *Find minimum remainder after distributing marbles to 10 children in arithmetic sequence*
 
 > João wants to get rid of his collection of $1{,}000$ marbles. To do so he chooses $10$ boys from his street. He gives the first boy $x$ marbles, the second boy $x + 1$ marbles, and so on, always giving one more marble to the next boy than to the previous one, until he reaches the tenth boy. In the end, João is left with the smallest possible remainder $x$. The value of $x$ is:
-> 
-> (A) $94$
-> (B) $95$
-> (C) $96$
-> (D) $97$
-> (E) $98$
+>
+> - **(A)** $94$
+> - **(B)** $95$
+> - **(C)** $96$
+> - **(D)** $97$
+> - **(E)** $98$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]

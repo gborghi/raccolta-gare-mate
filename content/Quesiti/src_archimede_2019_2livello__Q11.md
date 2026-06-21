@@ -35,12 +35,12 @@ tags:
 > da 1 a 2019 in senso orario si traccino delle circonferenze di lunghezza 2019m centrate in ogni
 > punto numerato con un quadrato perfetto. La pianta del castello consiste nell’unione di tutti i
 > cerchi disegnati. Quanti metri misura il perimetro del castello?
-> (A) 2692
-> (B) 4038
-> (C) 4627
-> (D) 29370
-> 2π
-> (E) 2019π
+>
+> - **(A)** 2692
+> - **(B)** 4038
+> - **(C)** 4627
+> - **(D)** 29370 2π
+> - **(E)** 2019π
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

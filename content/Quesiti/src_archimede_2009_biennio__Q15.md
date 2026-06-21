@@ -34,11 +34,12 @@ tags:
 > un’ora di interrogazione. Decide di interrogare gli studenti a cui corrisponde sul
 > registro un numero n che sia primo e tale che anche n3 + 3 sia primo. Quanti
 > studenti interroga?
-> (A) Uno,
-> (B) tre,
-> (C) quattro,
-> (D) sette,
-> (E) nove.
+>
+> - **(A)** Uno,
+> - **(B)** tre,
+> - **(C)** quattro,
+> - **(D)** sette,
+> - **(E)** nove.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

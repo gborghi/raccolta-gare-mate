@@ -36,11 +36,12 @@ tags:
 > che Andrea ribatte “sì, ma fra due anni le nostre somme saranno nuovamente
 > uguali”. Tenuto conto che nessuno dei due ha ancora raggiunto i 100 anni, quanti
 > anni ha Sara?
-> (A) Meno di 20
-> (B) tra 21 e 30
-> (C) tra 31 e 40
-> (D) più di 40
-> (E) non si può stabilire univocamente.
+>
+> - **(A)** Meno di 20
+> - **(B)** tra 21 e 30
+> - **(C)** tra 31 e 40
+> - **(D)** più di 40
+> - **(E)** non si può stabilire univocamente.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

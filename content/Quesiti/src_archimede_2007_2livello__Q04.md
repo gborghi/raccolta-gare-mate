@@ -31,11 +31,12 @@ tags:
 > Uno studente universitario ha superato un certo numero di esami, riportando la media di 23. Dopo
 > aver superato un altro esame, la sua media scende a 22,25. Sapendo che il voto di ciascun esame è
 > un numero intero compreso fra 18 e 30 inclusi, che voto ha riportato lo studente all’ultimo esame?
-> (A) 18
-> (B) 19
-> (C) 20
-> (D) 21
-> (E) 22.
+>
+> - **(A)** 18
+> - **(B)** 19
+> - **(C)** 20
+> - **(D)** 21
+> - **(E)** 22.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

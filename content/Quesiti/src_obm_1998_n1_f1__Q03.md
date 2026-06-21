@@ -37,12 +37,12 @@ tags:
 *Recover input number from a sequence of operations*
 
 > Renata typed a number on her calculator, multiplied it by $3$, added $12$, divided the result by $7$, and obtained the number $15$. The number she typed was:
-> 
-> (A) $31$
-> (B) $7$
-> (C) $39$
-> (D) $279$
-> (E) $27$
+>
+> - **(A)** $31$
+> - **(B)** $7$
+> - **(C)** $39$
+> - **(D)** $279$
+> - **(E)** $27$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]

@@ -32,11 +32,12 @@ tags:
 
 > Sia P(x) = x3 + ax2 + bx + c. Sapendo che la somma di due delle radici del polinomio vale zero,
 > quale fra le seguenti relazioni tra i coefficienti di P(x) è sempre vera?
-> (A) abc = 0
-> (B) c = ab
-> (C) c = a + b
-> (D) b2 = ac
-> (E) nessuna delle risposte precedenti è corretta.
+>
+> - **(A)** abc = 0
+> - **(B)** c = ab
+> - **(C)** c = a + b
+> - **(D)** b2 = ac
+> - **(E)** nessuna delle risposte precedenti è corretta.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -42,12 +42,12 @@ tags:
 *Smallest largest element among distinct positive integers with a divisibility/difference condition.*
 
 > Among distinct positive integers $a<b<c<d$ satisfying a stated condition relating their pairwise differences, what is the smallest possible value of the largest, $d$?
-> 
-> (A) $10$
-> (B) $12$
-> (C) $15$
-> (D) $30$
-> (E) $105$
+>
+> - **(A)** $10$
+> - **(B)** $12$
+> - **(C)** $15$
+> - **(D)** $30$
+> - **(E)** $105$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]

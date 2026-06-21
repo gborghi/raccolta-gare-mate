@@ -34,12 +34,12 @@ tags:
 > AH misura 8 m e l’angolo bA è ottuso. Indicando con D il punto medio di AB, con
 > E il punto medio di BD, con F il punto medio di AC e con G il punto medio di
 > AF, quanti m2 misura l’area del triangolo DEG?
-> (A) 9/2
-> (B) 19/4
-> (C) 21/4
-> (D) 25/4
-> (E) 11/2
-> 211
+>
+> - **(A)** 9/2
+> - **(B)** 19/4
+> - **(C)** 21/4
+> - **(D)** 25/4
+> - **(E)** 11/2 211
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

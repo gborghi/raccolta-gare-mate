@@ -30,11 +30,12 @@ tags:
 
 > Il prodotto di due numeri naturali è 14000. Quale può essere, al massimo, il loro
 > Massimo Comune Divisore?
-> (A) 10
-> (B) 20
-> (C) 400
-> (D) 70
-> (E) 140
+>
+> - **(A)** 10
+> - **(B)** 20
+> - **(C)** 400
+> - **(D)** 70
+> - **(E)** 140
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

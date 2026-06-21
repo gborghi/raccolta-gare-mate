@@ -36,11 +36,12 @@ tags:
 > partono nello stesso istante, il ciclista da A e il podista da B; il primo procede a
 > una velocità tripla del secondo. Si incontrano per la prima volta a 12 km da B. A
 > quanti km di distanza da A si incontreranno la seconda volta?
-> (A) 24
-> (B) 18
-> (C) 36
-> (D) 27
-> (E) i dati non bastano a determinarlo
+>
+> - **(A)** 24
+> - **(B)** 18
+> - **(C)** 36
+> - **(D)** 27
+> - **(E)** i dati non bastano a determinarlo
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

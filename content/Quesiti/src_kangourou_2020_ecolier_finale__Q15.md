@@ -31,14 +31,12 @@ tags:
 *Euro di Alfonso prima del primo viaggio (traghetto magico)*
 
 > Amalia vuol costruire una coroncina usando $10$ copie del gettone che vedi a destra e vuole che quando due gettoni condividono un lato i numeri corrispondenti coincidano. Ha già disposto $3$ gettoni con questo criterio. Quale numero si troverà alla fine nel triangolo denotato con $X$?
-> 
-> (A) $1$
-> (B) $2$
-> (C) $3$
-> (D) $4$
-> (E) $5$
-> 
-> (vedi figura)
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** $5$ (vedi figura)
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

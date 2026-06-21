@@ -31,14 +31,12 @@ tags:
 ![[src_kangourou_2021_preecolier_koala__prob9.png]]
 
 > Edoardo ha tagliato un nastro come mostrato nella figura. Alla fine, quanti pezzi di nastro ha ottenuto?
-> 
-> (A) 9
-> (B) 10
-> (C) 11
-> (D) 12
-> (E) 13
-> 
-> (vedi figura)
+>
+> - **(A)** 9
+> - **(B)** 10
+> - **(C)** 11
+> - **(D)** 12
+> - **(E)** 13 (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

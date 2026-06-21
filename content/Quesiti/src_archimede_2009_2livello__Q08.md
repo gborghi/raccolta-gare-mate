@@ -40,21 +40,12 @@ tags:
 > altezza da terra costante lungo le quattro pareti perimetrali della stanza. Quanti metri è lungo il
 > percorso più breve che deve compiere per raggiungere prima un punto qualsiasi di una delle pareti,
 > e poi il Diamante Dodecaedrico?
-> (A) 3 +
-> √
-> 2
-> (B) 2 +
-> √
-> 5
-> (C)
-> √
-> 17
-> (D)
-> √
-> 13
-> (E) 2
-> √
-> 2.
+>
+> - **(A)** 3 + √ 2
+> - **(B)** 2 + √ 5
+> - **(C)** √ 17
+> - **(D)** √ 13
+> - **(E)** 2 √ 2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -34,11 +34,12 @@ tags:
 > Le caselle di una scacchiera 9 × 10 sono colorate di rosso, verde o blu. Ogni quadrato 3 × 3 della
 > scacchiera contiene esattamente tre caselle rosse, tre verdi e tre blu. Quante sono al massimo le
 > caselle rosse?
-> (A) 32
-> (B) 34
-> (C) 36
-> (D) 39
-> (E) 40
+>
+> - **(A)** 32
+> - **(B)** 34
+> - **(C)** 36
+> - **(D)** 39
+> - **(E)** 40
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_estremalita|Principio di estremalita]]

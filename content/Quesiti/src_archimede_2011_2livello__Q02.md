@@ -39,11 +39,12 @@ tags:
 > C: “Oggi è sereno.”
 > D: “Quello che ha parlato prima di me mente o io sono una volpe.”
 > Con quante tartarughe al massimo ha parlato Berny?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) Non è possibile determinarlo.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** Non è possibile determinarlo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -34,20 +34,12 @@ tags:
 > Dato il cubo in figura, con gli spigoli di lato 1, lo si tagli lungo
 > il piano ABC. Qual è il volume della parte più piccola così
 > ottenuta?
-> (A) 1
-> 3
-> (B) 1
-> 4
-> (C) 1
-> 6
-> (D) 1
-> 8
-> (E) 1
-> 12.
-> b
-> B
-> bA
-> b C
+>
+> - **(A)** 1 3
+> - **(B)** 1 4
+> - **(C)** 1 6
+> - **(D)** 1 8
+> - **(E)** 1 12. b B bA b C
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

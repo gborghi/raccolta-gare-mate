@@ -35,11 +35,12 @@ tags:
 > (i) “siamo tutti e quattro dei furfanti”; (ii) “no, fra noi c’è un solo cavaliere”;
 > (iii) “no, ce ne sono esattamente due”; (iv) “io sono un cavaliere”. Quanti dei
 > quattro sono cavalieri?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) non è possibile dedurlo.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** non è possibile dedurlo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

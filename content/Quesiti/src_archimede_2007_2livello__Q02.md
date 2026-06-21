@@ -35,11 +35,12 @@ tags:
 > a due persone diverse, senza frazionarne il contenuto. Se uno dei due acquirenti ha comprato una
 > quantità di vino esattamente doppia di quella acquistata dall’altro, quanti litri contiene il barile di
 > birra?
-> (A) 16
-> (B) 18
-> (C) 19
-> (D) 20
-> (E) 31.
+>
+> - **(A)** 16
+> - **(B)** 18
+> - **(C)** 19
+> - **(D)** 20
+> - **(E)** 31.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

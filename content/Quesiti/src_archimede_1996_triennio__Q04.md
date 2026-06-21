@@ -31,11 +31,12 @@ tags:
 > Lunedì ho acquistato delle azioni che martedì hanno perso il 10% del loro valore
 > e mercoledì hanno guadagnato il 10% rispetto a martedì. Immediatamente ho
 > venduto le mie azioni. Rispetto al prezzo iniziale il prezzo finale è
-> (A) lo stesso
-> (B) diminuito dell’1%
-> (C) aumentato dell’1%
-> (D) diminuito del 10%
-> (E) aumentato del 10%.
+>
+> - **(A)** lo stesso
+> - **(B)** diminuito dell’1%
+> - **(C)** aumentato dell’1%
+> - **(D)** diminuito del 10%
+> - **(E)** aumentato del 10%.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

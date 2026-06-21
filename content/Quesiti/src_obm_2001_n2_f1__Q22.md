@@ -41,12 +41,12 @@ tags:
 *Bound on average race speed of Papa-Leguas given first-lap speed 200 km/h*
 
 > Papa-Leguas participated in a race (together with Coyote and Flash) consisting of $100$ laps on a circuit. As always, Coyote tried to catch Papa-Leguas and placed several traps along the way. On the first lap Coyote caught Papa-Leguas, but Papa-Leguas's average speed on the first lap was only $200$ km/h. Knowing this, the average speed of Papa-Leguas over the race:
-> 
-> (A) Cannot exceed $200$ km/h.
-> (B) Cannot exceed $250$ km/h, but can exceed $200$ km/h.
-> (C) Cannot exceed $2000$ km/h, but can exceed $250$ km/h.
-> (D) Cannot exceed $20000$ km/h, but can exceed $2000$ km/h.
-> (E) Can exceed $20000$ km/h.
+>
+> - **(A)** Cannot exceed $200$ km/h.
+> - **(B)** Cannot exceed $250$ km/h, but can exceed $200$ km/h.
+> - **(C)** Cannot exceed $2000$ km/h, but can exceed $250$ km/h.
+> - **(D)** Cannot exceed $20000$ km/h, but can exceed $2000$ km/h.
+> - **(E)** Can exceed $20000$ km/h.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]]

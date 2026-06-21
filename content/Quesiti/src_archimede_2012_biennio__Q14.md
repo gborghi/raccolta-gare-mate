@@ -36,11 +36,12 @@ tags:
 > Sapendo che il primo gennaio 2013 il prezzo del petrolio aumenterà
 > del 10% e gli altri costi rimarranno invariati, di quanto aumenterà il prezzo della
 > benzina in tale data?
-> (A) 10%
-> (B) 2,4%
-> (C) 3,5%
-> (D) 0,84 %
-> (E) nessuna delle precedenti
+>
+> - **(A)** 10%
+> - **(B)** 2,4%
+> - **(C)** 3,5%
+> - **(D)** 0,84 %
+> - **(E)** nessuna delle precedenti
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

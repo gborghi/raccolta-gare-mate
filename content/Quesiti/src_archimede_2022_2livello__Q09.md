@@ -34,11 +34,12 @@ tags:
 > Poniamo a1 = 1 e, per ogni n ≥2,
 > an = n(a1 + a2 + · · · + an−1).
 > Qual è il più piccolo valore di n per cui an è divisibile per 2022?
-> (A) 47
-> (B) 289
-> (C) 337
-> (D) 2022
-> (E) 2023
+>
+> - **(A)** 47
+> - **(B)** 289
+> - **(C)** 337
+> - **(D)** 2022
+> - **(E)** 2023
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]

@@ -34,11 +34,12 @@ tags:
 > sempre in ordine crescente. Guardiamo ora la tabella come 1007 coppie di numeri
 > sovrapposti in verticale: in quante di esse il numero che compare nella seconda riga
 > è un multiplo di quello che gli sta sopra?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

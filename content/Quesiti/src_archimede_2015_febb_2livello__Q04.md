@@ -47,11 +47,12 @@ tags:
 > - “n non è multiplo di 8”;
 > - “n è composto da un numero dispari di cifre”;
 > - “n non è un quadrato”.
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 4
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_congruenze|Aritmetica modulare / congruenze]]

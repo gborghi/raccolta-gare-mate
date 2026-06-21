@@ -33,20 +33,12 @@ tags:
 > Un quadrato ABCD è inscritto in una circonferenza di raggio unitario. Qual è
 > la lunghezza del raggio della circonferenza che passa per A ed è tangente ai lati
 > BC e CD?
-> (A) 1
-> 2
-> (B) 2(
-> √
-> 2 −1)
-> (C) 3
-> 4
-> (D)
-> √
-> 2
-> (E)
-> √
-> 2
-> 2 .
+>
+> - **(A)** 1 2
+> - **(B)** 2( √ 2 −1)
+> - **(C)** 3 4
+> - **(D)** √ 2
+> - **(E)** √ 2 2 .
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

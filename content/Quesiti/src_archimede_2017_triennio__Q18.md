@@ -33,11 +33,12 @@ tags:
 > In un polinomio di 5°grado p(x) = ax5 + bx4 + cx3 + dx2 + ex + f, ciascuno dei
 > coefficienti a, b, c, d, e, f è 1 oppure −1. Sapendo che si ha p(2) = 11, qual è il
 > valore di p(3)?
-> (A) 178
-> (B) 244
-> (C) 126
-> (D) 142
-> (E) 196
+>
+> - **(A)** 178
+> - **(B)** 244
+> - **(C)** 126
+> - **(D)** 142
+> - **(E)** 196
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

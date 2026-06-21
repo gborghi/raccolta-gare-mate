@@ -34,11 +34,12 @@ tags:
 > casette in fila sulla via principale della città. Siccome non si sopportano, vogliono assolutamente
 > evitare di essere vicini di casa: desiderano perciò che le case che acquistano siano due a due non
 > adiacenti. In quanti modi possono comprare casa in modo da soddisfare questa condizione?
-> (A) 56
-> (B) 120
-> (C) 336
-> (D) 480
-> (E) 504
+>
+> - **(A)** 56
+> - **(B)** 120
+> - **(C)** 336
+> - **(D)** 480
+> - **(E)** 504
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

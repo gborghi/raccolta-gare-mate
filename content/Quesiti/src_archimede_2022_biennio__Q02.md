@@ -34,11 +34,12 @@ tags:
 > nella scatolina gialla, 2 nella scatolina blu, poi 3 in quella rossa, 3 in quella verde e
 > 3 in quella bianca, dopo di che ricomincia con la stessa regola. Com’è la scatolina
 > dove metterà la 2022-esima perlina?
-> (A) gialla
-> (B) blu
-> (C) rossa
-> (D) verde
-> (E) bianca
+>
+> - **(A)** gialla
+> - **(B)** blu
+> - **(C)** rossa
+> - **(D)** verde
+> - **(E)** bianca
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

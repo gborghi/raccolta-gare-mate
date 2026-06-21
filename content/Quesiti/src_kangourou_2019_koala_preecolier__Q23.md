@@ -32,16 +32,16 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob23.png]]
 
 > Dalla griglia numerata che vedi qui sotto
-> 
+>
 > $$\begin{array}{|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 \\ \hline 6 & 7 & 8 & 9 & 10 \\ \hline 11 & 12 & 13 & 14 & 15 \\ \hline 16 & 17 & 18 & 19 & 20 \\ \hline \end{array}$$
-> 
+>
 > Pietro ha ritagliato un quadrato di quattro celle, ha sommato i quattro numeri che compaiono in queste quattro celle e ti ha comunicato di avere ottenuto un numero più grande di 63. Poi ti ha detto che almeno uno dei seguenti cinque numeri compare nel quadrato che lui ha ritagliato e ti ha chiesto di indovinarlo. Quale di questi cinque numeri devi indicare, se vuoi essere sicuro di non sbagliare?
-> 
-> (A) 8
-> (B) 10
-> (C) 14
-> (D) 15
-> (E) 18
+>
+> - **(A)** 8
+> - **(B)** 10
+> - **(C)** 14
+> - **(D)** 15
+> - **(E)** 18
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

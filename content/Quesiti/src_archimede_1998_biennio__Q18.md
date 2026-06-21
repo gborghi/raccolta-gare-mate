@@ -35,11 +35,12 @@ tags:
 > gratuito, ove nuovamente raddoppia il suo denaro. Dopo aver pagato nuovamente
 > il parcheggio con 6000 lire, si accorge che non gli rimane più nulla nel portafogli.
 > Quanti soldi aveva inizialmente il giocatore?
-> (A) 10 000
-> (B) 12 000
-> (C) 15 000
-> (D) i dati sono insufficienti
-> (E) le risposte precedenti sono tutte errate.
+>
+> - **(A)** 10 000
+> - **(B)** 12 000
+> - **(C)** 15 000
+> - **(D)** i dati sono insufficienti
+> - **(E)** le risposte precedenti sono tutte errate.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

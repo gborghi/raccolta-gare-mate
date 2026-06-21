@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob2.png]]
 
 > Il palloncino Tommy è stato fotografato davanti a questo castello. Quale delle seguenti immagini può corrispondere alla fotografia di Tommy?
-> 
+>
 > (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

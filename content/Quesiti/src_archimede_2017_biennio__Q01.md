@@ -31,11 +31,12 @@ tags:
 *Cifra delle centinaia di 5^2017*
 
 > Qual è la cifra delle centinaia di 52017?
-> (A) 5
-> (B) 2
-> (C) 1
-> (D) 3
-> (E) 6
+>
+> - **(A)** 5
+> - **(B)** 2
+> - **(C)** 1
+> - **(D)** 3
+> - **(E)** 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

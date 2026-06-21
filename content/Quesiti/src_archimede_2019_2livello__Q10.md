@@ -35,11 +35,12 @@ tags:
 > rispettare però queste condizioni: n e n + 5 devono avere lo stesso colore per ogni n intero e
 > inoltre se ab è bianco, allora almeno uno tra a e b deve essere bianco. In quanti modi Jacopo
 > può colorare gli interi?
-> (A) 156
-> (B) 656
-> (C) 3181
-> (D) 3906
-> (E) 3936
+>
+> - **(A)** 156
+> - **(B)** 656
+> - **(C)** 3181
+> - **(D)** 3906
+> - **(E)** 3936
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

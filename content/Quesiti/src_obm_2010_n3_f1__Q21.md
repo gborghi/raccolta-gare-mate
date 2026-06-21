@@ -41,12 +41,12 @@ tags:
 *With n=2010^2010 and log n defined, order the three quantities n!, n^{log n}, (log n)^n.*
 
 > Let $n=2010^{2010}$ and let $\log n$ be the number $m$ such that $10^m=n$. Then
-> 
-> (A) $n!<n^{\log n}<(\log n)^n$
-> (B) $n^{\log n}<n!<(\log n)^n$
-> (C) $(\log n)^n<n^{\log n}<n!$
-> (D) $(\log n)^n<n!<n^{\log n}$
-> (E) $n^{\log n}<(\log n)^n<n!$
+>
+> - **(A)** $n!<n^{\log n}<(\log n)^n$
+> - **(B)** $n^{\log n}<n!<(\log n)^n$
+> - **(C)** $(\log n)^n<n^{\log n}<n!$
+> - **(D)** $(\log n)^n<n!<n^{\log n}$
+> - **(E)** $n^{\log n}<(\log n)^n<n!$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]

@@ -39,25 +39,12 @@ tags:
 > abitanti dell’atollo; dopo un temporale che ha distrutto le loro capanne, essi decidono di ricostruirle il più lontano possibile l’una dall’altra, in modo però che esista
 > un percorso rettilineo che le congiunge e che giace interamente sull’atollo. Quanto
 > disteranno tra loro le capanne di Giovanni e Marco? (Supponete che le due circonferenze che delimitano l’atollo facciano parte di esso).
-> (A)
-> √
-> 35
-> 2
-> km,
-> (B)
-> √
-> 37
-> 2
-> km,
-> (C)
-> √
-> 37 km,
-> (D) 2
-> √
-> 35 km,
-> (E) 2
-> √
-> 37 km.
+>
+> - **(A)** √ 35 2 km,
+> - **(B)** √ 37 2 km,
+> - **(C)** √ 37 km,
+> - **(D)** 2 √ 35 km,
+> - **(E)** 2 √ 37 km.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]]

@@ -41,12 +41,12 @@ tags:
 *Write 1–9 in 3×3 grid so four-number propeller arm sums are equal and maximal*
 
 > Write the integers from $1$ to $9$ in a $3 \times 3$ grid so that the sums of the four numbers along each arm of the 'propeller' (as illustrated) are equal and as large as possible. What is this maximum equal sum?
-> 
-> (A) $23$
-> (B) $22$
-> (C) $21$
-> (D) $20$
-> (E) $19$
+>
+> - **(A)** $23$
+> - **(B)** $22$
+> - **(C)** $21$
+> - **(D)** $20$
+> - **(E)** $19$
 
 ![[src_obm_2002_n2_f1__Q08.png]]
 

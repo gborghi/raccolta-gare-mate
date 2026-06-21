@@ -32,14 +32,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob12.png]]
 
 > La figura ti mostra un pavimento quadrato di 9 piastrelle, un gatto e una tazza di latte che occupano piastrelle poste in due angoli opposti del quadrato. Il gatto può muoversi solo nelle direzioni indicate dalle frecce, cioè da sinistra a destra o dall'alto in basso e, se vuole cambiare direzione, lo può fare solo quando si trova al centro di una piastrella. Quanti sono i percorsi diversi che gli permettono di raggiungere la tazza di latte?
-> 
+>
 > (vedi figura)
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

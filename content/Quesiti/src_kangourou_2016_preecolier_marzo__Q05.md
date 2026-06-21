@@ -31,12 +31,12 @@ tags:
 *Quale punto Gianni puo raggiungere nel labirinto*
 
 > In figura vedi un labirinto. Gianni si trova nel punto O. Da lì può raggiungere solo uno dei punti A, B, C, D o E. Quale? (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

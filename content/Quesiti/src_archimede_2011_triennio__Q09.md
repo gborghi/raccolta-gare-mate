@@ -32,11 +32,12 @@ tags:
 
 > La media delle ampiezze degli angoli interni di un poligono è 175°. Quanti lati ha
 > il poligono?
-> (A) 18,
-> (B) 25,
-> (C) 60,
-> (D) 72,
-> (E) 80.
+>
+> - **(A)** 18,
+> - **(B)** 25,
+> - **(C)** 60,
+> - **(D)** 72,
+> - **(E)** 80.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

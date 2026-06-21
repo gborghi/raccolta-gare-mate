@@ -33,12 +33,12 @@ tags:
 *Coppie intere con 2|x|+3|y|<23*
 
 > Presso un centro di formazione si possono studiare le lingue straniere, la programmazione e la contabilità. Il $35\%$ di chi studia una lingua studia inglese; il $13\%$ degli studenti del centro studia una lingua diversa dall'inglese. Nessuno studente studia più di una lingua. Quale percentuale degli studenti del centro studia una lingua?
-> 
-> (A) $13\%$
-> (B) $20\%$
-> (C) $22\%$
-> (D) $48\%$
-> (E) $65\%$
+>
+> - **(A)** $13\%$
+> - **(B)** $20\%$
+> - **(C)** $22\%$
+> - **(D)** $48\%$
+> - **(E)** $65\%$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

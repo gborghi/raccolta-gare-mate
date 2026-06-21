@@ -32,19 +32,12 @@ tags:
 
 > Di un triangolo di vertici A, B, C sappiamo che AB = 5, BC = 4 e AC = AM, dove M è il
 > punto medio del lato BC. Quanto vale la lunghezza del lato AC?
-> (A) 4
-> (B)
-> √
-> 17
-> (C) 3
-> √
-> 2
-> (D) 2
-> √
-> 5
-> (E)
-> √
-> 21
+>
+> - **(A)** 4
+> - **(B)** √ 17
+> - **(C)** 3 √ 2
+> - **(D)** 2 √ 5
+> - **(E)** √ 21
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -31,11 +31,12 @@ tags:
 > I numeri reali x e y verificano l’uguaglianza
 > (6x −5y)4 + (4y −3)6 = 0.
 > Qual è il valore di x + y?
-> (A) 1
-> (B) 10/7
-> (C) 4/3
-> (D) 13/9
-> (E) 11/8
+>
+> - **(A)** 1
+> - **(B)** 10/7
+> - **(C)** 4/3
+> - **(D)** 13/9
+> - **(E)** 11/8
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

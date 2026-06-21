@@ -33,11 +33,12 @@ tags:
 *Terne interi 0-100 con identita tra quadrati*
 
 > Quante terne distinte (x, y, z), formate da numeri interi compresi tra 0 e 100 (estremi inclusi), soddisfano (x −y)2 + (y + z)2 = (x + y)2 + (y −z)2?
-> (A) 101 · 201,
-> (B) 106,
-> (C) 1012,
-> (D) 104,
-> (E) 51 · 301.
+>
+> - **(A)** 101 · 201,
+> - **(B)** 106,
+> - **(C)** 1012,
+> - **(D)** 104,
+> - **(E)** 51 · 301.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

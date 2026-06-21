@@ -28,12 +28,12 @@ tags:
 *Numeri sommati su forma con due cifre, somma in base*
 
 > Il trapezio rettangolo $ABCD$ contiene una circonferenza di raggio 1 metro, tangente a tutti i suoi lati. Sapendo che il lato obliquo $BC$ è lungo 7 metri, trovare l'area del trapezio. (vedi figura)
-> 
-> (A) 8 metri quadrati
-> (B) 9 metri quadrati
-> (C) 10 metri quadrati
-> (D) 11 metri quadrati
-> (E) non si può ricavare dai dati del problema
+>
+> - **(A)** 8 metri quadrati
+> - **(B)** 9 metri quadrati
+> - **(C)** 10 metri quadrati
+> - **(D)** 11 metri quadrati
+> - **(E)** non si può ricavare dai dati del problema
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

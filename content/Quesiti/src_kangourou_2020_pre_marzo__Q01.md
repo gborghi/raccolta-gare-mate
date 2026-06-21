@@ -33,14 +33,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob1.png]]
 
 > Il canguro sale tre gradini alla volta, il coniglio scende due gradini alla volta: su quale gradino si incontrano?
-> 
+>
 > (vedi figura)
-> 
-> (A) 3
-> (B) 4
-> (C) 5
-> (D) 6
-> (E) 7
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

@@ -31,11 +31,12 @@ tags:
 > Alessandro ha la stessa somma di denaro che hanno insieme Billy e Carlo. Billy
 > ha 10 dollari in più di Carlo. In totale i tre ragazzi dispongono di 40 dollari.
 > Quanti dollari ha Carlo?
-> (A) 4
-> (B) 5
-> (C) 10
-> (D) 15
-> (E) 20.
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 10
+> - **(D)** 15
+> - **(E)** 20.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

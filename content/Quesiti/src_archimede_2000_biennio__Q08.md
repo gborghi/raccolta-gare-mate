@@ -33,13 +33,12 @@ tags:
 
 > Quanto vale l’area della regione delimitata dalle quattro
 > semicirconferenze di diametro 10 cm mostrate in figura?
-> (A) 100 cm2
-> (B) 100π
-> √
-> 2 cm2
-> (C) 50π cm2
-> (D) 100π cm2
-> (E) 25π cm2.
+>
+> - **(A)** 100 cm2
+> - **(B)** 100π √ 2 cm2
+> - **(C)** 50π cm2
+> - **(D)** 100π cm2
+> - **(E)** 25π cm2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

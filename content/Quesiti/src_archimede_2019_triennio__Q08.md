@@ -30,11 +30,12 @@ tags:
 
 > Un decagono convesso possiede 10 angoli interni.
 > Quanti di essi, al massimo, possono essere retti?
-> (A) 5
-> (B) 3
-> (C) 4
-> (D) 2
-> (E) 6
+>
+> - **(A)** 5
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 2
+> - **(E)** 6
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

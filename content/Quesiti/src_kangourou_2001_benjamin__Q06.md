@@ -30,11 +30,12 @@ tags:
 
 > Enrico ha tre sorelle e cinque fratelli. Sua sorella Sabina ha "S" sorelle e "F"
 > fratelli. Quanto vale il prodotto di S per F?
-> (A) 8
-> (B) 10
-> (C) 12
-> (D) 15
-> (E) 18.
+>
+> - **(A)** 8
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 15
+> - **(E)** 18.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

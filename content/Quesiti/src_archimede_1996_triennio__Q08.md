@@ -33,11 +33,12 @@ tags:
 > Vicino ad una fonte vi è una cisterna di capacità superiore a 30 ettolitri, inizialmente vuota. Sono disponibili solo due recipienti calibrati, uno da 15 ed uno da
 > 21 litri, con i quali è possibile aggiungere e togliere acqua dalla cisterna. Quale
 > dei seguenti volumi di acqua non posso mettere esattamente nella cisterna?
-> (A) 3 litri
-> (B) 5 litri
-> (C) 6 litri
-> (D) 645 litri
-> (E) posso ottenere tutti i precedenti.
+>
+> - **(A)** 3 litri
+> - **(B)** 5 litri
+> - **(C)** 6 litri
+> - **(D)** 645 litri
+> - **(E)** posso ottenere tutti i precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

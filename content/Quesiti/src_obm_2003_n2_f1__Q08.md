@@ -37,12 +37,12 @@ tags:
 *Find x: multiply by 2, add 1, multiply by 3, subtract 5 gives 220*
 
 > Consider a positive integer $x$ and apply the following successive operations: multiply by 2, add 1, multiply by 3, subtract 5. If the final result is 220, then $x$ is:
-> 
-> (A) an odd number.
-> (B) an even number.
-> (C) a number between 40 and 50.
-> (D) a multiple of 5.
-> (E) a number whose digit sum is 9.
+>
+> - **(A)** an odd number.
+> - **(B)** an even number.
+> - **(C)** a number between 40 and 50.
+> - **(D)** a multiple of 5.
+> - **(E)** a number whose digit sum is 9.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

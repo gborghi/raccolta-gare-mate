@@ -33,11 +33,12 @@ tags:
 > Considerato che da gonfii palloncini grandi
 > hanno la stessa forma e la stessa pressione dei piccoli, ma una superficie 4 volte più
 > grande, quanti palloncini grandi può riempire con la seconda bombola?
-> (A) 10
-> (B) 16
-> (C) 20
-> (D) 24
-> (E) 40.
+>
+> - **(A)** 10
+> - **(B)** 16
+> - **(C)** 20
+> - **(D)** 24
+> - **(E)** 40.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

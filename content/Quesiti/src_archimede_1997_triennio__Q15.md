@@ -33,21 +33,12 @@ tags:
 > 2
 > 4√
 > 2 ?
-> (A)
-> 20√
-> 2
-> (B)
-> 9√
-> 2
-> (C)
-> 4√
-> 2
-> (D)
-> 20√
-> 29
-> (E)
-> 20√
-> 4.
+>
+> - **(A)** 20√ 2
+> - **(B)** 9√ 2
+> - **(C)** 4√ 2
+> - **(D)** 20√ 29
+> - **(E)** 20√ 4.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

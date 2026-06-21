@@ -34,21 +34,12 @@ tags:
 > sfera raggiunge la distanza di 10 metri dal punto in cui la sfera tocca il terreno. Nello stesso istante
 > un’asta di lunghezza 1 metro posta verticalmente al terreno getta un’ombra lunga 2 metri. Qual è
 > il raggio della sfera in metri?
-> (A) 5
-> 2
-> (B) 9 −4
-> √
-> 5
-> (C) 10
-> √
-> 5 −20
-> (D) 8
-> √
-> 10 −23
-> (E) 6 −
-> √
-> 15.
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 5 2
+> - **(B)** 9 −4 √ 5
+> - **(C)** 10 √ 5 −20
+> - **(D)** 8 √ 10 −23
+> - **(E)** 6 − √ 15. Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

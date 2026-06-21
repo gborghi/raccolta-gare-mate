@@ -33,11 +33,12 @@ tags:
 > Il trapezio isoscele ABCD, di basi AB e CD, è inscritto in una circonferenza di
 > raggio 13 m. Si sa che il centro della circonferenza è interno al trapezio ABCD ed
 > inoltre AB = 24 m, CD = 10 m. Qual è l’area di ABCD?
-> (A) 272 m2
-> (B) 289 m2
-> (C) 170 m2
-> (D) 306 m2
-> (E) 340 m2
+>
+> - **(A)** 272 m2
+> - **(B)** 289 m2
+> - **(C)** 170 m2
+> - **(D)** 306 m2
+> - **(E)** 340 m2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

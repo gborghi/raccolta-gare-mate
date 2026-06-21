@@ -32,11 +32,12 @@ tags:
 > Andrea sta provando dei vestiti in un negozio. È indeciso tra 4 camicie, 5 maglioni, 4 felpe e 3 pantaloni. Per non
 > spendere troppo comprerà precisamente due capi, di tipo diverso (ossia non due camicie o due pantaloni, etc.). In
 > quanti modi Andrea potrà fare i suoi acquisti?
-> (A) 95
-> (B) 119
-> (C) 117
-> (D) 127
-> (E) 126
+>
+> - **(A)** 95
+> - **(B)** 119
+> - **(C)** 117
+> - **(D)** 127
+> - **(E)** 126
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

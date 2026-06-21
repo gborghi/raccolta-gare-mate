@@ -32,11 +32,12 @@ tags:
 > 1 , c =
 > 1
 > 0, 5; allora
-> (A) a > b > c
-> (B) b > a > c
-> (C) c > a > b
-> (D) a > c > b
-> (E) c > b > a.
+>
+> - **(A)** a > b > c
+> - **(B)** b > a > c
+> - **(C)** c > a > b
+> - **(D)** a > c > b
+> - **(E)** c > b > a.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

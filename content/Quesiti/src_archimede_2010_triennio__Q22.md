@@ -37,13 +37,12 @@ tags:
 > solo se ci sono almeno 3 palline nere); il secondo fa sparire 4 palline bianche e ne
 > fa comparire 9 nere (Merlino lo può fare solo se ci sono almeno 4 palline bianche).
 > Dopo aver lanciato varie volte questi incantesimi è possibile che si trovi con...
-> (A) 2 palline bianche e 15 nere,
-> (B) 4 palline bianche e 14 nere,
-> (C) 3 palline
-> bianche e 11 nere,
-> (D) 7 palline bianche e 13 nere,
-> (E) 10 palline bianche e 10
-> nere.
+>
+> - **(A)** 2 palline bianche e 15 nere,
+> - **(B)** 4 palline bianche e 14 nere,
+> - **(C)** 3 palline bianche e 11 nere,
+> - **(D)** 7 palline bianche e 13 nere,
+> - **(E)** 10 palline bianche e 10 nere.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

@@ -29,12 +29,12 @@ tags:
 *Rapporto superfici laterali di cilindro e cono uguali*
 
 > Un cilindro retto $X$ ed un cono retto $Y$ hanno lo stesso raggio di base e la stessa altezza. Allora il rapporto fra le superfici laterali di $X$ e $Y$:
-> 
-> (A) è sempre uguale al rapporto dei loro volumi
-> (B) può essere uguale al rapporto dei loro volumi (dipende dalle altezze)
-> (C) è sempre $\frac{2}{3}$ del rapporto dei loro volumi
-> (D) è sempre maggiore del rapporto dei loro volumi
-> (E) è sempre minore del rapporto dei loro volumi.
+>
+> - **(A)** è sempre uguale al rapporto dei loro volumi
+> - **(B)** può essere uguale al rapporto dei loro volumi (dipende dalle altezze)
+> - **(C)** è sempre $\frac{2}{3}$ del rapporto dei loro volumi
+> - **(D)** è sempre maggiore del rapporto dei loro volumi
+> - **(E)** è sempre minore del rapporto dei loro volumi.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

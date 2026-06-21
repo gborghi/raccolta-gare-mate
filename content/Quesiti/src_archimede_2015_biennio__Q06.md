@@ -30,11 +30,12 @@ tags:
 > Ad una festa, ogni ragazzo ha danzato con 4 ragazze diverse ed ogni ragazza ha
 > danzato con 3 ragazzi diversi. Sapendo che alla festa c’erano 9 ragazzi, quante
 > erano le ragazze?
-> (A) 6
-> (B) 10
-> (C) 12
-> (D) 8
-> (E) 16
+>
+> - **(A)** 6
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 8
+> - **(E)** 16
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

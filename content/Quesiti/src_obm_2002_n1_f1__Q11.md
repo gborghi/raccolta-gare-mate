@@ -40,13 +40,14 @@ tags:
 *Interpret a bar graph of monthly revenue of two companies*
 
 > The graph below shows the monthly revenue (in millions of reais) of companies A and B in the second semester of $2001$.
-> 
+>
 > Based on this graph, we can affirm that:
-> (A) in only one month was the revenue of company A double that of company B.
-> (B) in the month of July, the difference of revenues was greater than in all the other months.
-> (C) company B had a fall greater than that of company A between two consecutive months.
-> (D) in no semester was the total revenue of A greater than that of B.
-> (E) in only one semester did the total revenues of the semester exceed $20$ million reais.
+>
+> - **(A)** in only one month was the revenue of company A double that of company B.
+> - **(B)** in the month of July, the difference of revenues was greater than in all the other months.
+> - **(C)** company B had a fall greater than that of company A between two consecutive months.
+> - **(D)** in no semester was the total revenue of A greater than that of B.
+> - **(E)** in only one semester did the total revenues of the semester exceed $20$ million reais.
 
 ![[src_obm_2002_n1_f1__Q11.png]]
 

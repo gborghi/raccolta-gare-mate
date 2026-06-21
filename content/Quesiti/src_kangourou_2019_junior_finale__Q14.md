@@ -33,12 +33,12 @@ tags:
 *Punti raggiungibili con tre mosse (invariante MCD)*
 
 > Il triathlon è una disciplina che richiede di svolgere tre prove: nuoto, corsa a piedi e corsa in bicicletta. Si deve pedalare per tre quarti della distanza totale da percorrere, correre a piedi per un quinto della distanza totale e il percorso da coprire a nuoto è lungo 2 km. Quanti chilometri è lungo l'intero percorso?
-> 
-> (A) 10
-> (B) 20
-> (C) 38
-> (D) 40
-> (E) 60
+>
+> - **(A)** 10
+> - **(B)** 20
+> - **(C)** 38
+> - **(D)** 40
+> - **(E)** 60
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

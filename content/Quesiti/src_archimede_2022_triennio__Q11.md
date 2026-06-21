@@ -35,11 +35,12 @@ tags:
 > A bBC = 48°, B bCA = 75°. In caso di emergenza, i soccorsi all’interno del lago
 > vengono prestati dal porto più vicino. Quale porzione del lago è assistita dal porto
 > che deve soccorrere la superficie più estesa?
-> (A) 5/12
-> (B) 11/30
-> (C) 41/120
-> (D) 7/18
-> (E) 9/25
+>
+> - **(A)** 5/12
+> - **(B)** 11/30
+> - **(C)** 41/120
+> - **(D)** 7/18
+> - **(E)** 9/25
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

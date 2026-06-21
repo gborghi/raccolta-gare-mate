@@ -30,14 +30,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob10.png]]
 
 > Patrizia aveva un foglio di carta. Lo ha piegato una prima volta e poi una seconda lungo i segmenti tratteggiati e infine lo ha tagliato lungo il segmento non tratteggiato: queste tre operazioni ti sono suggerite nell'ordine dalla figura. Alla fine, quanti pezzi di carta ha ottenuto?
-> 
+>
 > (vedi figura)
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

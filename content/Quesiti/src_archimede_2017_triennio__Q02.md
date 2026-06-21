@@ -32,11 +32,12 @@ tags:
 > Adesso,
 > invece, è il triplo dell’età di Mario. Tra quanti anni l’età di Anna sarà il doppio
 > dell’età di Mario?
-> (A) 8
-> (B) 6
-> (C) 10
-> (D) 9
-> (E) 12
+>
+> - **(A)** 8
+> - **(B)** 6
+> - **(C)** 10
+> - **(D)** 9
+> - **(E)** 12
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

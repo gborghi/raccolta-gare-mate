@@ -40,11 +40,12 @@ tags:
 > 213x1 + 223x2 + 233x3 + · · · + 503x30 = 1
 > 223x1 + 233x2 + 243x3 + · · · + 513x30 = 19.
 > Quanto vale 21x1 + 22x2 + 23x3 + · · · + 50x30?
-> (A) Ci sono più valori accettabili
-> (B) Il sistema non ha soluzione
-> (C) 1065
-> (D) 7
-> (E) 5
+>
+> - **(A)** Ci sono più valori accettabili
+> - **(B)** Il sistema non ha soluzione
+> - **(C)** 1065
+> - **(D)** 7
+> - **(E)** 5
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]

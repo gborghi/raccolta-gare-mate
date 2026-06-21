@@ -35,11 +35,12 @@ tags:
 > E: “A era uno dei complici. C è il colpevole.” Sapendo che il colpevole mente
 > su tutto, gli eventuali complici, per paura, rendono una dichiarazione vera ed una
 > falsa e le persone innocenti, infine, dicono sempre la verità, quanti sono i complici?
-> (A) 0,
-> (B) 1,
-> (C) 2,
-> (D) 3,
-> (E) è impossibile determinarlo.
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** è impossibile determinarlo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

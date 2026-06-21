@@ -38,12 +38,12 @@ tags:
 > cerchio giallo e al primo petalo, e così via fino a completare il giro con l’ultimo
 > petalo che è tangente al penultimo e al primo petalo, e al cerchio giallo. Quanti
 > petali ha la margherita?
-> (A) 3,
-> (B) 4,
-> (C) 5,
-> (D) 6,
-> (E) questa disposizione è impossibile: l’ultimo
-> petalo si sovrappone necessariamente al primo.
+>
+> - **(A)** 3,
+> - **(B)** 4,
+> - **(C)** 5,
+> - **(D)** 6,
+> - **(E)** questa disposizione è impossibile: l’ultimo petalo si sovrappone necessariamente al primo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

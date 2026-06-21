@@ -34,11 +34,12 @@ tags:
 
 > Si consideri l’insieme {1, 2, . . ., 2003}. Quanti sono i suoi sottoinsiemi B tali che la
 > somma degli elementi di B è uguale a 2 007 000?
-> (A) Non ne esistono
-> (B) 3
-> (C) 4
-> (D) 1002
-> (E) 2003.
+>
+> - **(A)** Non ne esistono
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 1002
+> - **(E)** 2003.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

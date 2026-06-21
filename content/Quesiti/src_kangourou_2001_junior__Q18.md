@@ -56,44 +56,12 @@ tags:
 > in quattro triangoli di area S 1, S2, S 3,
 > S 4 (si veda la figura). Se S 2 = 3 ⋅ S 1,
 > allora
-> (A) S 4 = 3 ⋅ S 1 
-> (B) S 4 = 4 ⋅ S 1
-> (C) S 4 = 6 ⋅ S 1
-> (D) S 4 = 9 ⋅ S 1
->  (E) S 4 = 12 ⋅ S 1 .
->    
-> .
-> Y
-> 168X
->   
-> (E)
->     
->           
-> 14X
-> 5Y
->  
-> (D)
->     
->           
-> 5Y
-> 14X
->  
-> (C)
->           
-> 2X
-> 5Y
->  
-> (B)
->   
->           
-> 5Y
-> 2X
->  )
-> A
-> (
-> 
-> Kangourou  15 marzo 2001. Categoria Junior. Pagina N.
-> 5
+>
+> - **(A)** S 4 = 3 ⋅ S 1
+> - **(B)** S 4 = 4 ⋅ S 1
+> - **(C)** S 4 = 6 ⋅ S 1
+> - **(D)** S 4 = 9 ⋅ S 1
+> - **(E)** S 4 = 12 ⋅ S 1 . . Y 168X (E) 14X 5Y (D) 5Y 14X (C) 2X 5Y (B) 5Y 2X ) A ( Kangourou 15 marzo 2001. Categoria Junior. Pagina N. 5
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

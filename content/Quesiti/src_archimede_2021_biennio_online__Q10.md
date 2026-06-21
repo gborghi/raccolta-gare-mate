@@ -32,11 +32,12 @@ tags:
 
 > Nel trapezio ABCD, di basi AB e CD, le diagonali AC e BD sono tra loro perpendicolari. I segmenti AB e BD
 > misurano, nell’ordine, 15 m e 18 m; l’area del triangolo ABD è di 81 m2. Quanti metri misura il lato CD?
-> (A) 35/6
-> (B) 5/4
-> (C) 15/2
-> (D) 28/3
-> (E) 25/3
+>
+> - **(A)** 35/6
+> - **(B)** 5/4
+> - **(C)** 15/2
+> - **(D)** 28/3
+> - **(E)** 25/3
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -30,25 +30,20 @@ tags:
 
 ![[src_kangourou_2017_benjamin_semifinale__prob8.png]]
 
-> (Punti 5) Rita ha rivestito 
-> ognuna delle sei facce di un 
-> cubo con carte di colori tutti 
+> (Punti 5) Rita ha rivestito
+> ognuna delle sei facce di un
+> cubo con carte di colori tutti
 > diversi. Quale tra le imma­
 > gini a fianco non è in accor­
-> do con le altre tre e quindi 
-> certamente non rappresenta 
-> il cubo rivestito da Rita? 
-> (A) 1	
->  	
-> 	
-> (B) 2	
-> 	
-> 	
-> (C) 3 	 	
-> 	
-> (D) 4 	 	
-> 	
-> (E) Nessuna
+> do con le altre tre e quindi
+> certamente non rappresenta
+> il cubo rivestito da Rita?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** Nessuna
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -35,12 +35,12 @@ tags:
 > palcoscenico il segmento che unisce la posizione di ciascuna ballerina a quella dei ballerini a lei
 > assegnati, non vi siano segmenti che si intersecano se non negli estremi. Vuole inoltre che il numero totale di segmenti tracciati sia 13. Quanti sono i possibili modi di effettuare le assegnazioni
 > che soddisfano queste proprietà?
-> (A) 128
-> (B) 343
-> (C) 486
-> (D) 924
-> (E) 1716
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 128
+> - **(B)** 343
+> - **(C)** 486
+> - **(D)** 924
+> - **(E)** 1716 Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

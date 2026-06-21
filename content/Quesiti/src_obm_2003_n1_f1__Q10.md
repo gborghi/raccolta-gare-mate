@@ -36,12 +36,12 @@ tags:
 *Tables and chairs needed for a school refectory with 3 sectors*
 
 > A school needs to buy tables and chairs for its new refectory. The refectory is distributed across 3 sectors. In each sector, the tables are arranged in 8 rows, and each row has 14 tables. Each table seats 4 chairs. How many tables and chairs should be bought?
-> 
-> (A) 112 tables and 448 chairs
-> (B) 112 tables and 1344 chairs
-> (C) 336 tables and 448 chairs
-> (D) 336 tables and 896 chairs
-> (E) 336 tables and 1344 chairs
+>
+> - **(A)** 112 tables and 448 chairs
+> - **(B)** 112 tables and 1344 chairs
+> - **(C)** 336 tables and 448 chairs
+> - **(D)** 336 tables and 896 chairs
+> - **(E)** 336 tables and 1344 chairs
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

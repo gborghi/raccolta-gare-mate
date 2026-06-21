@@ -29,11 +29,12 @@ tags:
 *Quadrati perfetti multipli di 7 tra 1 e 5000*
 
 > Quanti multipli di 7, compresi tra 1 e 5000, sono quadrati di numeri interi?
-> (A) 10
-> (B) 26
-> (C) 12
-> (D) 102
-> (E) 70
+>
+> - **(A)** 10
+> - **(B)** 26
+> - **(C)** 12
+> - **(D)** 102
+> - **(E)** 70
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

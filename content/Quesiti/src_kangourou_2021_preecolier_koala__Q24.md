@@ -31,12 +31,12 @@ tags:
 ![[src_kangourou_2021_preecolier_koala__prob24.png]]
 
 > Saverio ha cinque giocattoli: una palla, un orsacchiotto, un trenino, un puzzle e un'automobilina. Li ha messi, uno per ogni ripiano, in uno scaffale con cinque ripiani. La palla è più in alto dell'orsacchiotto e più in basso dell'automobilina. Il trenino è sullo scaffale subito sopra la palla. Su quale ripiano sicuramente non ha posizionato il puzzle?
-> 
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -30,11 +30,12 @@ tags:
 
 > La media aritmetica di ventisette numeri naturali consecutivi è 2008. Quanto vale
 > il più piccolo tra essi?
-> (A) 1995,
-> (B) 1997,
-> (C) 1999,
-> (D) 2001,
-> (E) 2004.
+>
+> - **(A)** 1995,
+> - **(B)** 1997,
+> - **(C)** 1999,
+> - **(D)** 2001,
+> - **(E)** 2004.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

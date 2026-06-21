@@ -35,11 +35,12 @@ tags:
 > Li vuole disporre in modo che i quaderni dello
 > stesso colore stiano tutti vicini tra loro, senza altri colori in mezzo. In quanti modi
 > Barbara può disporre in fila, da sinistra verso destra, i suoi 8 quaderni sullo scaffale?
-> (A) 360
-> (B) 144
-> (C) 432
-> (D) 96
-> (E) 576
+>
+> - **(A)** 360
+> - **(B)** 144
+> - **(C)** 432
+> - **(D)** 96
+> - **(E)** 576
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -31,11 +31,12 @@ tags:
 > In una associazione ogni socio ha diritto a votare il presidente. L’attuale presidente
 > è stato eletto con un numero di voti doppio di quelli ottenuti dal suo unico avversario. Sapendo che tre soci non hanno votato e che il presidente eletto ha ottenuto
 > il 64% dei voti degli aventi diritto, stabilire quanti sono in tutto i soci.
-> (A) 69,
-> (B) 75,
-> (C) 81,
-> (D) 87,
-> (E) 99.
+>
+> - **(A)** 69,
+> - **(B)** 75,
+> - **(C)** 81,
+> - **(D)** 87,
+> - **(E)** 99.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

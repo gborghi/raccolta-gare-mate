@@ -30,30 +30,12 @@ tags:
 
 > Qual è il massimo numero di palline di legno di raggio 1 cm che e’ possibile
 > inserire in una scatola di forma cubica di volume 64 cm³ ?
-> (A) 8
-> (B) 16
-> (C) 32
-> (D) 64
-> (E) 128.
-> 
-> Kangourou  15 marzo 2001. Categoria Student. Pagina N.
-> 2
-> =
-> −1
-> 999999999
-> 9999
->  
-> ...
->  
-> 9999
-> cifre
->  
-> 18
-> 4
-> 48
-> 4
-> 47
-> 6
+>
+> - **(A)** 8
+> - **(B)** 16
+> - **(C)** 32
+> - **(D)** 64
+> - **(E)** 128. Kangourou 15 marzo 2001. Categoria Student. Pagina N. 2 = −1 999999999 9999 ... 9999 cifre 18 4 48 4 47 6
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

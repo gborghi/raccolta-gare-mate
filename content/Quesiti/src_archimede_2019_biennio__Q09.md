@@ -34,11 +34,12 @@ tags:
 > BAC è di 28°, quale sarà
 > l’ampiezza dell’angolo \
 > DAE?
-> (A) 24°
-> (B) 36°
-> (C) 32°
-> (D) 28°
-> (E) 30°
+>
+> - **(A)** 24°
+> - **(B)** 36°
+> - **(C)** 32°
+> - **(D)** 28°
+> - **(E)** 30°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

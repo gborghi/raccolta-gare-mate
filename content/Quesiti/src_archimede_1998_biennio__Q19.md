@@ -32,11 +32,12 @@ tags:
 > Sappiamo che x = 0, 9 . . . e che 1/x = 1, 1 . . . (i puntini indicano che le ulteriori
 > cifre decimali sono state omesse). Qual è la cifra che viene subito dopo il 9 nello
 > sviluppo decimale di x?
-> (A) 0
-> (B) 1
-> (C) 9
-> (D) non si può determinare univocamente
-> (E) nessuno dei precedenti.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 9
+> - **(D)** non si può determinare univocamente
+> - **(E)** nessuno dei precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

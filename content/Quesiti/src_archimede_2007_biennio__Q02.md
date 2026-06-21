@@ -29,14 +29,12 @@ tags:
 
 > Un triangolo equilatero e un quadrato hanno lo stesso perimetro. Quanto vale il
 > rapporto tra la lunghezza di un lato del quadrato e quella di un lato del triangolo?
-> (A) 1
-> 2,
-> (B) 2
-> 3,
-> (C) 3
-> 4,
-> (D) 1,
-> (E) 8
+>
+> - **(A)** 1 2,
+> - **(B)** 2 3,
+> - **(C)** 3 4,
+> - **(D)** 1,
+> - **(E)** 8
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]

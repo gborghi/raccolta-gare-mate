@@ -34,20 +34,12 @@ tags:
 > In un quadrato magico, la somma dei numeri di ogni riga, di
 > ogni colonna e delle due diagonali è costante. Nel quadrato
 > magico a fianco quanto vale a + b + c?
-> (A) 20
-> (B) 22
-> (C) 26
-> (D) 44
-> (E) 48.
-> 16
-> 2
-> a
-> c
-> 10
-> d
-> b
-> e
-> 4
+>
+> - **(A)** 20
+> - **(B)** 22
+> - **(C)** 26
+> - **(D)** 44
+> - **(E)** 48. 16 2 a c 10 d b e 4
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

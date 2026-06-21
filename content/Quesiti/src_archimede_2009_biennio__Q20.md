@@ -38,11 +38,12 @@ tags:
 > dice: “Io ho cinque carte rosse”. Infine Dino dice: “Io ho tre carte di uno stesso
 > valore e anche le altre due hanno tra loro lo stesso valore”. Sappiamo che una e
 > una sola delle affermazioni è falsa; chi sta mentendo?
-> (A) Anna,
-> (B) Bea,
-> (C) Caio,
-> (D) Dino,
-> (E) non è possibile determinarlo.
+>
+> - **(A)** Anna,
+> - **(B)** Bea,
+> - **(C)** Caio,
+> - **(D)** Dino,
+> - **(E)** non è possibile determinarlo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

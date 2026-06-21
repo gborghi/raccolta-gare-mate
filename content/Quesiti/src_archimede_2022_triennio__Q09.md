@@ -34,11 +34,12 @@ tags:
 > avanti e indietro, facendo 1 passo in avanti, 2 indietro, 3 in avanti, 4 indietro e così
 > via (con passi tutti di 60 cm). Appena raggiunge i 30 metri di distanza dal punto
 > di partenza, finalmente risolve il problema. Quanti passi avrà fatto in tutto?
-> (A) 50
-> (B) 5150
-> (C) 1275
-> (D) 5050
-> (E) 4950
+>
+> - **(A)** 50
+> - **(B)** 5150
+> - **(C)** 1275
+> - **(D)** 5050
+> - **(E)** 4950
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]

@@ -30,17 +30,12 @@ tags:
 
 > Le superfici totali di due cubi sono l’una doppia dell’altra. Qual è il rapporto fra
 > i volumi dei due cubi?
-> (A) 2
-> (B)
-> √
-> 2
-> (C) 2
-> √
-> 2
-> (D)
-> 3√
-> 2
-> (E) 4.
+>
+> - **(A)** 2
+> - **(B)** √ 2
+> - **(C)** 2 √ 2
+> - **(D)** 3√ 2
+> - **(E)** 4.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

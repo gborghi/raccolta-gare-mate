@@ -32,11 +32,12 @@ tags:
 
 > Dati cinque interi consecutivi, cosa si può dire della cifra delle unità del loro
 > prodotto?
-> (A) può essere qualunque cifra
-> (B) può essere qualunque cifra pari
-> (C) può essere 0 oppure 5
-> (D) è sempre 0
-> (E) nessuna delle precedenti.
+>
+> - **(A)** può essere qualunque cifra
+> - **(B)** può essere qualunque cifra pari
+> - **(C)** può essere 0 oppure 5
+> - **(D)** è sempre 0
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

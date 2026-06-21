@@ -30,11 +30,12 @@ tags:
 
 > Un secchio pieno di sabbia pesa complessivamente 9 kg, riempito per metà di
 > sabbia pesa 5 kg. Quanto pesa il secchio vuoto?
-> (A) 0,5 kg
-> (B) 1 kg
-> (C) 2 kg
-> (D) 2,5 kg
-> (E) il peso del secchio non può essere determinato.
+>
+> - **(A)** 0,5 kg
+> - **(B)** 1 kg
+> - **(C)** 2 kg
+> - **(D)** 2,5 kg
+> - **(E)** il peso del secchio non può essere determinato.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

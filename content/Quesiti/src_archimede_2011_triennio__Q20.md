@@ -31,15 +31,12 @@ tags:
 > Nel quadrilatero ABCD le diagonali sono ortogonali tra loro e gli angoli in B e in
 > D sono retti. Inoltre AB = AD = 20 cm, BC = CD = 30 cm. Calcolare il raggio
 > della circonferenza inscritta in ABCD.
-> (A) 15 cm,
-> (B) 5
-> √
-> 13 cm,
-> (C) 10 cm,
-> (D) 6
-> √
-> 5 cm,
-> (E) 12 cm.
+>
+> - **(A)** 15 cm,
+> - **(B)** 5 √ 13 cm,
+> - **(C)** 10 cm,
+> - **(D)** 6 √ 5 cm,
+> - **(E)** 12 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

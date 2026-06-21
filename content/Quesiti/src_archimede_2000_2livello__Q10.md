@@ -29,14 +29,12 @@ tags:
 ![[src_archimede_2000_2livello__prob10.png]]
 
 > La tela di un dipinto rettangolare è circondata da un passepartout (cioè un riquadro) largo 10 cm. Attorno a quest'ultimo vi è poi una cornice, anch'essa larga 10 cm (il rettangolo bianco rappresenta la tela, la superficie tratteggiata il passepartout, la superficie nera la cornice). Si sa che l'area dell'intero quadro (compresa la cornice) è uguale al doppio della somma di quelle del passepartout e della tela. Si può allora concludere che:
-> 
-> (A) sono determinate sia l'area della cornice che quelle del passepartout e della tela
-> (B) è determinata solo l'area della cornice
-> (C) è determinata solo l'area del passepartout
-> (D) è determinata solo l'area della tela
-> (E) non è determinata nessuna delle grandezze precedenti.
-> 
-> (vedi figura)
+>
+> - **(A)** sono determinate sia l'area della cornice che quelle del passepartout e della tela
+> - **(B)** è determinata solo l'area della cornice
+> - **(C)** è determinata solo l'area del passepartout
+> - **(D)** è determinata solo l'area della tela
+> - **(E)** non è determinata nessuna delle grandezze precedenti. (vedi figura)
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

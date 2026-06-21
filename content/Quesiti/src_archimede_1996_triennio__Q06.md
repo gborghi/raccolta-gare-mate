@@ -29,11 +29,12 @@ tags:
 *Quadrato del quadrato del quadrato di 8*
 
 > Quanto vale il quadrato del quadrato del quadrato di 8?
-> (A) 28
-> (B) 84
-> (C) 86
-> (D) 88
-> (E) 264.
+>
+> - **(A)** 28
+> - **(B)** 84
+> - **(C)** 86
+> - **(D)** 88
+> - **(E)** 264.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

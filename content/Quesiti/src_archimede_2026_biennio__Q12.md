@@ -36,11 +36,12 @@ tags:
 > classe ci sono precisamente 12 cavalieri”. Altri 9 compagni affermano poi: “Luigi è
 > un cavaliere”, gli altri 10 dicono invece: “Luigi è un furfante”. Luigi preferisce non
 > sbilanciarsi e resta in silenzio. Quanti sono i cavalieri presenti nella classe?
-> (A) non si può stabilire
-> (B) 9
-> (C) 12
-> (D) 10
-> (E) 11
+>
+> - **(A)** non si può stabilire
+> - **(B)** 9
+> - **(C)** 12
+> - **(D)** 10
+> - **(E)** 11
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

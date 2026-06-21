@@ -29,12 +29,12 @@ tags:
 
 > Se p, q, r sono tre numeri reali, p × (q + r) = (p × q) + (p × r) è sempre vero. In
 > quali casi si ha anche p + (q × r) = (p + q) × (p + r)?
-> (A) Se e solo se p = q = r = 1
-> 3 oppure p = 0
-> (B) se e solo se p = q = r
-> (C) mai
-> (D) se e solo se p + q + r = 1 oppure p = 0
-> (E) se e solo se p = q = r = 0.
+>
+> - **(A)** Se e solo se p = q = r = 1 3 oppure p = 0
+> - **(B)** se e solo se p = q = r
+> - **(C)** mai
+> - **(D)** se e solo se p + q + r = 1 oppure p = 0
+> - **(E)** se e solo se p = q = r = 0.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

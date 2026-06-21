@@ -40,12 +40,12 @@ tags:
 *Count distinct sums when three dice are thrown*
 
 > A boy throws three dice and adds the numbers that appear on the top faces. The number of different possible results of this sum is:
-> 
-> (A) $112$
-> (B) $18$
-> (C) $216$
-> (D) $16$
-> (E) $15$
+>
+> - **(A)** $112$
+> - **(B)** $18$
+> - **(C)** $216$
+> - **(D)** $16$
+> - **(E)** $15$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]

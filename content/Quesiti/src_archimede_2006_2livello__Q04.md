@@ -35,11 +35,12 @@ tags:
 > tre cavalieri” (in quel momento passa un camion e non si capisce se Bruno ha detto “Siamo tutti. . . ”
 > o “Non siamo tutti. . . ”); Carlo dice: “Bruno ha detto che non siamo tutti e tre cavalieri”. Quanti
 > di loro sono cavalieri?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) non è possibile determinarlo.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** non è possibile determinarlo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

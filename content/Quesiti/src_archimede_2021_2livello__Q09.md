@@ -34,11 +34,12 @@ tags:
 > intero minore o uguale di x, e {x} = x −⌊x⌋come la parte frazionaria di x.
 > Sia p una soluzione reale positiva non intera dell’equazione {z⌊z⌋} = 2021{z}. Qual è il secondo
 > più piccolo valore possibile di ⌊p⌋?
-> (A) 2021
-> (B) 2022
-> (C) 3033
-> (D) 4042
-> (E) 4043
+>
+> - **(A)** 2021
+> - **(B)** 2022
+> - **(C)** 3033
+> - **(D)** 4042
+> - **(E)** 4043
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -34,11 +34,12 @@ tags:
 > alunni erano stati presenti, la media aritmetica delle insufficienze è risultata 4,6, mentre la media
 > aritmetica delle sufficienze è risultata 7,1. Sapendo che il professore ha dato soltanto voti interi,
 > quanti alunni ci sono al minimo nella classe di Sergio?
-> (A) 10
-> (B) 12
-> (C) 15
-> (D) 24
-> (E) 30.
+>
+> - **(A)** 10
+> - **(B)** 12
+> - **(C)** 15
+> - **(D)** 24
+> - **(E)** 30.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

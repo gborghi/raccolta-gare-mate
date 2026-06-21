@@ -29,14 +29,12 @@ tags:
 *Lunghezza del tragitto della formica sulla scatola*
 
 > Quale dei seguenti tasselli completa il mosaico a lato?
-> 
-> (A) (immagine A)
-> (B) (immagine B)
-> (C) (immagine C)
-> (D) (immagine D)
-> (E) (immagine E)
-> 
-> (vedi figura)
+>
+> - **(A)** (immagine A)
+> - **(B)** (immagine B)
+> - **(C)** (immagine C)
+> - **(D)** (immagine D)
+> - **(E)** (immagine E) (vedi figura)
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

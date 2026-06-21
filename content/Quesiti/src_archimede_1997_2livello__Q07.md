@@ -29,11 +29,12 @@ tags:
 *Quale numero non è prodotto di quadrato per cubo*
 
 > Quale fra questi numeri non è il prodotto di un quadrato perfetto per un cubo perfetto?
-> (A) 900
-> (B) 961
-> (C) 968
-> (D) 972
-> (E) 980
+>
+> - **(A)** 900
+> - **(B)** 961
+> - **(C)** 968
+> - **(D)** 972
+> - **(E)** 980
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

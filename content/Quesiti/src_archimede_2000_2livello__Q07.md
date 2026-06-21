@@ -29,18 +29,18 @@ tags:
 *Chi è il colpevole dalle dichiarazioni degli imputati*
 
 > Nel registrare le dichiarazioni dei tre imputati ad un processo, il cancelliere è stato piuttosto trascurato, e dal verbale risulta quanto segue:
-> 
+>
 > - Carlo: «il colpevole è $\ldots$ario».
 > - Dario: «il colpevole è Dario».
 > - Mario: «il colpevole è $\ldots$ario».
-> 
+>
 > Sapendo che il colpevole ha mentito e almeno uno degli innocenti ha detto la verità, che cosa si può concludere?
-> 
-> (A) Il colpevole è Dario
-> (B) non si può determinare il colpevole
-> (C) Carlo ha accusato Dario
-> (D) Mario ha accusato Dario
-> (E) Mario ha accusato Mario.
+>
+> - **(A)** Il colpevole è Dario
+> - **(B)** non si può determinare il colpevole
+> - **(C)** Carlo ha accusato Dario
+> - **(D)** Mario ha accusato Dario
+> - **(E)** Mario ha accusato Mario.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -26,12 +26,12 @@ tags:
 *valori del parametro a*
 
 > Se $a + 1 = b - 2 = c + 3 = d - 4$, qual è il più piccolo dei numeri $a, b, c, d$?
-> 
-> (A) $a$
-> (B) $b$
-> (C) $c$
-> (D) $d$
-> (E) non si può stabilire in base ai dati del problema
+>
+> - **(A)** $a$
+> - **(B)** $b$
+> - **(C)** $c$
+> - **(D)** $d$
+> - **(E)** non si può stabilire in base ai dati del problema
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]

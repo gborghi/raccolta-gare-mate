@@ -39,12 +39,12 @@ tags:
 *Which sequence does NOT describe itself*
 
 > The sequence "22" describes itself because it is formed by exactly two 2s. Similarly, the sequence "31 12 33 15" is formed by exactly three 1s, one 2, three 3s, one 5. Which of the following sequences does NOT describe itself?
-> 
-> (A) 21 32 33 16
-> (B) 31 12 33 18
-> (C) 31 22 33 17 19
-> (D) 21 32 33 24 15
-> (E) 41 32 33 24 15 16 18
+>
+> - **(A)** 21 32 33 16
+> - **(B)** 31 12 33 18
+> - **(C)** 31 22 33 17 19
+> - **(D)** 21 32 33 24 15
+> - **(E)** 41 32 33 24 15 16 18
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]

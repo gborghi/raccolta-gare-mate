@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob14.png]]
 
 > Anna vuole scrivere i numeri $1, 2, 3, 4, 5$ e $6$, ciascuno in uno dei sei quadretti in figura. Vuole che risulti uguale a $10$ sia la somma dei numeri scritti nei quadretti azzurri, sia la somma dei numeri scritti nei quadretti gialli. Che numero deve scrivere nel quadretto con il punto interrogativo?
-> 
+>
 > (vedi figura)
-> 
-> (A) $1$
-> (B) $2$
-> (C) $3$
-> (D) $4$
-> (E) $5$
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** $5$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

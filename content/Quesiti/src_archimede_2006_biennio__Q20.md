@@ -29,11 +29,12 @@ tags:
 
 > Sia Q un cubo e sia S una sfera che ha centro in uno dei vertici di Q e raggio uguale
 > al lato di Q. Il volume dell’intersezione tra Q e S è:
-> (A) un ottavo del volume della sfera,
-> (B) un quarto del volume della sfera,
-> (C) un sesto del volume del cubo,
-> (D) un quarto del volume del cubo,
-> (E) metà del volume del cubo.
+>
+> - **(A)** un ottavo del volume della sfera,
+> - **(B)** un quarto del volume della sfera,
+> - **(C)** un sesto del volume del cubo,
+> - **(D)** un quarto del volume del cubo,
+> - **(E)** metà del volume del cubo.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]

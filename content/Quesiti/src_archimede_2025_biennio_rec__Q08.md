@@ -38,11 +38,12 @@ tags:
 > 3 + 1
 > 9
 > 2025
-> (A) 28
-> (B) 1
-> (C) nessuno degli altri 4
-> (D) 24
-> (E) 1/3
+>
+> - **(A)** 28
+> - **(B)** 1
+> - **(C)** nessuno degli altri 4
+> - **(D)** 24
+> - **(E)** 1/3
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

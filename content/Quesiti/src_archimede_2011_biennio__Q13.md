@@ -34,11 +34,12 @@ tags:
 > il numero scritto sulla lavagna con il suo quadrato aumentato di 5. Con quali cifre
 > può terminare il numero che si trova scritto sulla lavagna alla fine dei calcoli di
 > Marta?
-> (A) 0 oppure 4,
-> (B) 0, 4 oppure 6,
-> (C) 0 oppure 6,
-> (D) 4 oppure 6,
-> (E) può terminare con una qualsiasi cifra pari.
+>
+> - **(A)** 0 oppure 4,
+> - **(B)** 0, 4 oppure 6,
+> - **(C)** 0 oppure 6,
+> - **(D)** 4 oppure 6,
+> - **(E)** può terminare con una qualsiasi cifra pari.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

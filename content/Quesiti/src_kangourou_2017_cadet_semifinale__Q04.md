@@ -32,11 +32,12 @@ tags:
 > lunga 400 m, partendo nello stesso istante dallo stesso punto. Entrambi per tutta la corsa vanno a velocità
 > costante; intanto che Daria percorre 20 m, Baldo ne percorre 17. Quante volte durante la corsa Daria sorpassa
 > Baldo?
->  (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

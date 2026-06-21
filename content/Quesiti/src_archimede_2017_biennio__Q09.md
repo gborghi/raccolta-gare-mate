@@ -39,11 +39,12 @@ tags:
 > CAD = \
 > ABD. Quale tra le seguenti affermazioni è certamente
 > vera?
-> (A) ABC è un triangolo equilatero
-> (B) ABC è un triangolo ottusangolo
-> (C) ABC è un triangolo isoscele
-> (D) ABC è un triangolo scaleno
-> (E) ABC è un triangolo rettangolo
+>
+> - **(A)** ABC è un triangolo equilatero
+> - **(B)** ABC è un triangolo ottusangolo
+> - **(C)** ABC è un triangolo isoscele
+> - **(D)** ABC è un triangolo scaleno
+> - **(E)** ABC è un triangolo rettangolo
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

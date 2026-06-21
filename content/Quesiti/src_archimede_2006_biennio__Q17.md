@@ -56,28 +56,12 @@ tags:
 
 > Nella figura a fianco il triangolo ABC è equilatero e ha lato
 > 1 m e DEFG è un quadrato. Quanto misura il lato DE?
-> (A) 1
-> 3 m,
-> (B) (2
-> √
-> 3 −3) m,
-> (C) 1
-> 2 m,
-> (D) 1 +
-> √
-> 3
-> 4
-> m,
-> (E) (
-> √
-> 3 −1) m.
-> A
-> D
-> E
-> B
-> C
-> F
-> G
+>
+> - **(A)** 1 3 m,
+> - **(B)** (2 √ 3 −3) m,
+> - **(C)** 1 2 m,
+> - **(D)** 1 + √ 3 4 m,
+> - **(E)** ( √ 3 −1) m. A D E B C F G
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -38,18 +38,12 @@ tags:
 > come in figura, i segmenti AB e CD. Detto E il
 > loro punto di intersezione, quanto vale il rappporto
 > fra la lunghezza di AE e la lunghezza di EB?
-> (A) Un numero razionale minore di 2
-> (B) un numero irrazionale minore di 2
-> (C) esattamente 2
-> (D) un numero razionale maggiore di 2
-> (E) un numero irrazionale maggiore di 2.
-> b
-> A
-> b B
-> b
-> C
-> bD
-> bE
+>
+> - **(A)** Un numero razionale minore di 2
+> - **(B)** un numero irrazionale minore di 2
+> - **(C)** esattamente 2
+> - **(D)** un numero razionale maggiore di 2
+> - **(E)** un numero irrazionale maggiore di 2. b A b B b C bD bE
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

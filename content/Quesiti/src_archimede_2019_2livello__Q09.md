@@ -34,13 +34,12 @@ tags:
 > interi, verificanti la relazione:
 > p(q(x + 1)) = p(x3)q(x + 1)5 .
 > Che cosa possiamo affermare con certezza dei due polinomi trovati da Marcella?
-> (A) Il coefficiente direttore di p(x)q(x) è positivo
-> (B) Il polinomio q(x) non possiede radici
-> intere
-> (C) Il grado di q(x) non supera quello di p(x)
-> (D) La somma dei coefficienti di p(x)
-> è dispari
-> (E) Il grado di p(x)q(x) è multiplo di 8
+>
+> - **(A)** Il coefficiente direttore di p(x)q(x) è positivo
+> - **(B)** Il polinomio q(x) non possiede radici intere
+> - **(C)** Il grado di q(x) non supera quello di p(x)
+> - **(D)** La somma dei coefficienti di p(x) è dispari
+> - **(E)** Il grado di p(x)q(x) è multiplo di 8
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

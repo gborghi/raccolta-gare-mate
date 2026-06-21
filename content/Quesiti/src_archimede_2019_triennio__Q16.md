@@ -34,35 +34,12 @@ tags:
 
 > Sui lati del triangolo equilatero ABC, che hanno lunghezza 1, sono costruiti tre quadrati, come in figura.
 > Qual è il perimetro del triangolo A′B′C′ ?
-> (A) 3
-> p
-> 4 +
-> √
-> 3
-> (B) 6
-> (C) 3
-> p
-> 1 + 2
-> √
-> 3
-> (D) 3
-> 2
-> √
-> 3
-> (E) 3
-> 2 + 3
-> 4
-> √
-> 3
-> A
-> A′
-> A′′
-> B
-> B′
-> B′′
-> C
-> C′
-> C′′
+>
+> - **(A)** 3 p 4 + √ 3
+> - **(B)** 6
+> - **(C)** 3 p 1 + 2 √ 3
+> - **(D)** 3 2 √ 3
+> - **(E)** 3 2 + 3 4 √ 3 A A′ A′′ B B′ B′′ C C′ C′′
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

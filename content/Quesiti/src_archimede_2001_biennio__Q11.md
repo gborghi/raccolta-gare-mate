@@ -36,14 +36,12 @@ tags:
 > A a B che giace interamente sulle circonferenze e tale che nessun arco di circonferenza
 > sia coperto più di una volta. Quanti sono i
 > cammini possibili?
-> (A) 2
-> (B) 6
-> (C) 12
-> (D) 24
-> (E) 64.
-> b
-> A
-> b B
+>
+> - **(A)** 2
+> - **(B)** 6
+> - **(C)** 12
+> - **(D)** 24
+> - **(E)** 64. b A b B
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

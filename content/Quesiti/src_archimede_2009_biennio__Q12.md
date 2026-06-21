@@ -36,12 +36,12 @@ tags:
 > partendo da P, senza mai staccare la penna dal foglio e
 > senza passare più di una volta da nessun punto eccettuato
 > il vertice comune ai tre triangoli?
-> (A) 24 3,
-> (B) 23 3,
-> (C) 24,
-> (D) 22 33,
-> (E) 33.
-> P
+>
+> - **(A)** 24 3,
+> - **(B)** 23 3,
+> - **(C)** 24,
+> - **(D)** 22 33,
+> - **(E)** 33. P
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

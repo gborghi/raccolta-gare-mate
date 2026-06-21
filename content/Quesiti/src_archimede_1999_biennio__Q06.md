@@ -31,11 +31,12 @@ tags:
 
 > Sia MNOPQ un pentagono in cui QM = NO = 8 cm, PQ = 5 cm, OP = 12 cm
 > e gli angoli in M, N e P sono retti. Quanto vale il perimetro del pentagono?
-> (A) 33 cm
-> (B) 40 cm
-> (C) 46 cm
-> (D) 47 cm
-> (E) 50 cm.
+>
+> - **(A)** 33 cm
+> - **(B)** 40 cm
+> - **(C)** 46 cm
+> - **(D)** 47 cm
+> - **(E)** 50 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

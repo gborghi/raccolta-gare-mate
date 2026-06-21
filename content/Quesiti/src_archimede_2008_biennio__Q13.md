@@ -33,11 +33,12 @@ tags:
 
 > Quanti sono i numeri interi positivi multipli di almeno uno tra 5 e 7 e minori o
 > uguali a 1000?
-> (A) 288,
-> (B) 302,
-> (C) 314,
-> (D) 342,
-> (E) 382.
+>
+> - **(A)** 288,
+> - **(B)** 302,
+> - **(C)** 314,
+> - **(D)** 342,
+> - **(E)** 382.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

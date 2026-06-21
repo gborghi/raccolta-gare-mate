@@ -34,11 +34,12 @@ tags:
 > Clara li vuole impilare uno sull’altro, facendo in modo che le due facce a contatto
 > siano tra loro differenti. Così facendo, l’altezza complessiva della pila può essere o
 > 22 cm o 30 cm o 32 cm. Quanti cm3 misura il volume di un mattoncino?
-> (A) 2400
-> (B) 2700
-> (C) 3000
-> (D) 2800
-> (E) 1800
+>
+> - **(A)** 2400
+> - **(B)** 2700
+> - **(C)** 3000
+> - **(D)** 2800
+> - **(E)** 1800
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

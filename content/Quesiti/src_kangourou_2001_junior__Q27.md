@@ -30,11 +30,12 @@ tags:
 
 > Cancelliamo la cifra delle unità di un intero positivo e notiamo che il numero
 > diminuisce di 14 volte. Quanti numeri interi possiedono questa proprietà?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 4.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

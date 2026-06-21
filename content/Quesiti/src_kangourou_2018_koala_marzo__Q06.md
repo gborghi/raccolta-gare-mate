@@ -33,12 +33,12 @@ tags:
 ![[src_kangourou_2018_koala_marzo__prob6.png]]
 
 > Una di queste coccinelle vola via: le coccinelle che restano hanno in tutto 20 puntini. Quale coccinella è volata via? (vedi figura)
-> 
-> (A) Quella più a sinistra.
-> (B) La seconda da destra.
-> (C) Quella più a destra.
-> (D) La seconda da sinistra.
-> (E) Quella al centro.
+>
+> - **(A)** Quella più a sinistra.
+> - **(B)** La seconda da destra.
+> - **(C)** Quella più a destra.
+> - **(D)** La seconda da sinistra.
+> - **(E)** Quella al centro.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

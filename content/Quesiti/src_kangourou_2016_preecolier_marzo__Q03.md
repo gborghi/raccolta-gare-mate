@@ -29,12 +29,12 @@ tags:
 *Quanti fiammiferi nella casetta di Michele*
 
 > Michele ha costruito una casetta con alcuni fiammiferi: la vedi in figura. Quanti ne ha usati? (vedi figura)
-> 
-> (A) 19
-> (B) 18
-> (C) 17
-> (D) 15
-> (E) 13
+>
+> - **(A)** 19
+> - **(B)** 18
+> - **(C)** 17
+> - **(D)** 15
+> - **(E)** 13
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

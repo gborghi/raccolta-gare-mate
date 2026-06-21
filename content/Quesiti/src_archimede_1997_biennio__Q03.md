@@ -32,16 +32,12 @@ tags:
 
 > In una piramide ABCDV la base ABCD è un quadrato
 > e le facce laterali triangoli equilateri. Il triangolo ACV è
-> (A) rettangolo
-> (B) ottusangolo
-> (C) equilatero
-> (D) equivalente alla base ABCD
-> (E) equivalente ad una faccia laterale.
-> D
-> A
-> B
-> C
-> V
+>
+> - **(A)** rettangolo
+> - **(B)** ottusangolo
+> - **(C)** equilatero
+> - **(D)** equivalente alla base ABCD
+> - **(E)** equivalente ad una faccia laterale. D A B C V
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

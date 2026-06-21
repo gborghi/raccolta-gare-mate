@@ -31,11 +31,12 @@ tags:
 > Quante volte, nell’arco di una giornata (da mezzanotte alla mezzanotte successiva),
 > la lancetta delle ore e la lancetta dei minuti di un orologio (con un comune quadrante
 > a 12 ore) si trovano disposte perpendicolarmente?
-> (A) 44
-> (B) 48
-> (C) 24
-> (D) 22
-> (E) 46
+>
+> - **(A)** 44
+> - **(B)** 48
+> - **(C)** 24
+> - **(D)** 22
+> - **(E)** 46
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

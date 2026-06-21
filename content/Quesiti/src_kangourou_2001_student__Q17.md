@@ -32,11 +32,12 @@ tags:
 
 > Quanto vale l'area della figura in grigio,
 > formata da due triangoli e da un cerchio?
-> (A) 1
-> (B) π + 1
-> (C) π / 4 + 1
-> (D) π (3 - 2√2) + 1
-> (E) π √2 / 2 + 1.
+>
+> - **(A)** 1
+> - **(B)** π + 1
+> - **(C)** π / 4 + 1
+> - **(D)** π (3 - 2√2) + 1
+> - **(E)** π √2 / 2 + 1.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

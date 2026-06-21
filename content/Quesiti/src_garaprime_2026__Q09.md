@@ -30,12 +30,12 @@ tags:
 > L’area di un triangolo ABC misura 360 cm2. Siano D, E due punti interni al lato AB tali che AD = DE =
 > EB e siano F, G, H tre punti interni ad AC tali che AF = FG = GH = HC. Qual è l’area del triangolo
 > AEH in cm2 ?
-> (A) 120
-> (B)
-> 180
-> (C) 60
-> (D) 270
-> (E) 240
+>
+> - **(A)** 120
+> - **(B)** 180
+> - **(C)** 60
+> - **(D)** 270
+> - **(E)** 240
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

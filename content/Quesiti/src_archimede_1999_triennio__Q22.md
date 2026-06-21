@@ -36,16 +36,12 @@ tags:
 > b + b
 > a con a e b
 > interi positivi?
-> (A) 25
-> 12
-> (B) 10
-> 3
-> (C) 7
-> 3
-> (D) 17
-> 4
-> (E) 29
-> 10.
+>
+> - **(A)** 25 12
+> - **(B)** 10 3
+> - **(C)** 7 3
+> - **(D)** 17 4
+> - **(E)** 29 10.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

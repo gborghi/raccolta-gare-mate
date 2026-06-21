@@ -32,11 +32,12 @@ tags:
 
 > Luca scrive sulla lavagna tutti i numeri pari consecutivi da 2 e 2010 (compresi). Poi
 > Giovanni cancella tutti i numeri che sono multipli di tre. Quanti numeri rimangono?
-> (A) 670,
-> (B) 710,
-> (C) 840,
-> (D) 905,
-> (E) 1005.
+>
+> - **(A)** 670,
+> - **(B)** 710,
+> - **(C)** 840,
+> - **(D)** 905,
+> - **(E)** 1005.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

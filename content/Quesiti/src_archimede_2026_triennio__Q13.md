@@ -35,11 +35,12 @@ tags:
 > monete su alcune caselle (non più di una per casella), in modo che ciascuna riga e
 > ciascuna colonna contengano un numero dispari di monete.
 > Quante sono le possibili configurazioni?
-> (A) 450
-> (B) 441
-> (C) 576
-> (D) 480
-> (E) 512
+>
+> - **(A)** 450
+> - **(B)** 441
+> - **(C)** 576
+> - **(D)** 480
+> - **(E)** 512
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

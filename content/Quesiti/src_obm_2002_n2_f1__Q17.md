@@ -37,12 +37,12 @@ tags:
 *Triangle ABC on 30 cm square grid; find its area*
 
 > In the square grid below with side length $30\,\text{cm}$, the area of triangle $ABC$ is:
-> 
-> (A) $150\,\text{cm}^2$
-> (B) $100\,\text{cm}^2$
-> (C) $75\,\text{cm}^2$
-> (D) $50\,\text{cm}^2$
-> (E) $25\,\text{cm}^2$
+>
+> - **(A)** $150\,\text{cm}^2$
+> - **(B)** $100\,\text{cm}^2$
+> - **(C)** $75\,\text{cm}^2$
+> - **(D)** $50\,\text{cm}^2$
+> - **(E)** $25\,\text{cm}^2$
 
 ![[src_obm_2002_n2_f1__Q17.png]]
 

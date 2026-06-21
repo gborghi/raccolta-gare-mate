@@ -32,12 +32,12 @@ tags:
 > 280 Euro. Alberto ha lavorato il doppio del tempo di Brenda e quattro volte il
 > tempo di Cristina. Essi decidono di dividere i loro guadagni in modo imparziale.
 > Quanti Euro toccano a Cristina?
-> (A) 30
-> (B) 40
-> (C) 50
-> (D) 60
-> (E) 70.
-> I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
+>
+> - **(A)** 30
+> - **(B)** 40
+> - **(C)** 50
+> - **(D)** 60
+> - **(E)** 70. I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

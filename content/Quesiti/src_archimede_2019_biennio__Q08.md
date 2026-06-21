@@ -33,11 +33,12 @@ tags:
 > In un negozio,
 > il prezzo di vendita di un maglione è di 61, 00 e, comprensivo di IVA al 22%. Se
 > l’IVA passasse al 24%, quale diventerebbe il prezzo di vendita del maglione?
-> (A) 62, 25 e
-> (B) 62, 22 e
-> (C) 63, 00 e
-> (D) 62, 00 e
-> (E) 61, 50 e
+>
+> - **(A)** 62, 25 e
+> - **(B)** 62, 22 e
+> - **(C)** 63, 00 e
+> - **(D)** 62, 00 e
+> - **(E)** 61, 50 e
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

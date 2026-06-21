@@ -27,11 +27,12 @@ tags:
 *Catena di disuguaglianze tra potenze 2 e 3*
 
 > In ciascuna delle seguenti catene di disuguaglianze compaiono gli stessi cinque numeri; quale di esse è completamente vera?
-> (A) 232 < 233 < 322 < 323 < 332,
-> (B) 322 < 323 < 232 < 233 < 332,
-> (C) 322 < 323 < 232 < 332 < 233,
-> (D) 322 < 232 < 323 < 233 < 332,
-> (E) 322 < 232 < 323 < 332 < 233.
+>
+> - **(A)** 232 < 233 < 322 < 323 < 332,
+> - **(B)** 322 < 323 < 232 < 233 < 332,
+> - **(C)** 322 < 323 < 232 < 332 < 233,
+> - **(D)** 322 < 232 < 323 < 233 < 332,
+> - **(E)** 322 < 232 < 323 < 332 < 233.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Area:** [[Algebra e Analisi]]

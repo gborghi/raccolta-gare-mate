@@ -36,11 +36,12 @@ tags:
 > Claudia pesca una carta dalla mano di Luca. Qual è la probabilità che ciascuno dei
 > due venga a trovarsi con due carte in mano dello stesso colore (uno con due carte
 > rosse, uno con due carte nere)?
-> (A) 3/4
-> (B) 1/4
-> (C) 1/3
-> (D) 1/2
-> (E) 1/6
+>
+> - **(A)** 3/4
+> - **(B)** 1/4
+> - **(C)** 1/3
+> - **(D)** 1/2
+> - **(E)** 1/6
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

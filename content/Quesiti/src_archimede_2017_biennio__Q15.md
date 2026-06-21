@@ -32,11 +32,12 @@ tags:
 
 > Caterina inizia a scrivere tutti i numeri interi positivi, uno di seguito all’altro:
 > 12345678910111213... Quale cifra occuperà la 2017a posizione?
-> (A) 8
-> (B) 5
-> (C) 1
-> (D) 7
-> (E) 2
+>
+> - **(A)** 8
+> - **(B)** 5
+> - **(C)** 1
+> - **(D)** 7
+> - **(E)** 2
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

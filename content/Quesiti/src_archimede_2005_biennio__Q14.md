@@ -31,11 +31,12 @@ tags:
 > Per ogni numero intero n compreso tra 10 e 99, estremi inclusi, si sommano il
 > prodotto delle sue cifre e la somma delle sue cifre, ottenendo così un nuovo numero
 > S(n). Per quanti n accade che S(n) = n?
-> (A) 8,
-> (B) 9,
-> (C) 10,
-> (D) 11,
-> (E) 12.
+>
+> - **(A)** 8,
+> - **(B)** 9,
+> - **(C)** 10,
+> - **(D)** 11,
+> - **(E)** 12.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]

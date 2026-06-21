@@ -33,14 +33,12 @@ tags:
 *Massimo euro di Marta con 20 banconote*
 
 > Giorgio incolla sei adesivi con immagini di animali, ciascuno su una faccia di un cubo. La figura qui a lato mostra il cubo in due posizioni differenti. Quale adesivo sta sulla faccia opposta a quella con l'anatroccolo?
-> 
-> (A) (immagine A)
-> (B) (immagine B)
-> (C) (immagine C)
-> (D) (immagine D)
-> (E) (immagine E)
-> 
-> (vedi figura)
+>
+> - **(A)** (immagine A)
+> - **(B)** (immagine B)
+> - **(C)** (immagine C)
+> - **(D)** (immagine D)
+> - **(E)** (immagine E) (vedi figura)
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

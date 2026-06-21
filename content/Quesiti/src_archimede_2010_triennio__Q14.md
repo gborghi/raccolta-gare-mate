@@ -31,11 +31,12 @@ tags:
 *Numero cifre di 111222...888999 diviso 111*
 
 > Quante cifre ha il numero (111222333444555666777888999)/111?
-> (A) 13,
-> (B) 21,
-> (C) 25,
-> (D) 27,
-> (E) 29.
+>
+> - **(A)** 13,
+> - **(B)** 21,
+> - **(C)** 25,
+> - **(D)** 27,
+> - **(E)** 29.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

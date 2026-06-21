@@ -36,11 +36,12 @@ tags:
 > Sapendo che la
 > filettatura compie precisamente 30 giri attorno alla vite, quanti
 > centimetri percorrerà l’insetto per spostarsi da una estremità della vite all’altra?
-> (A) 32
-> (B) 30
-> (C) 33
-> (D) 36
-> (E) 31
+>
+> - **(A)** 32
+> - **(B)** 30
+> - **(C)** 33
+> - **(D)** 36
+> - **(E)** 31
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

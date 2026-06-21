@@ -32,11 +32,12 @@ tags:
 > numerate da 1 a 5. Per decidere il proprio posto, ciascuno dei quattro estrae a sorte
 > uno tra cinque foglietti (numerati da 1 a 5). Qual è la probabilità che la sedia che
 > rimane vuota venga a trovarsi tra due ragazze?
-> (A) 3/5
-> (B) 2/5
-> (C) 2/3
-> (D) 3/4
-> (E) 1/2
+>
+> - **(A)** 3/5
+> - **(B)** 2/5
+> - **(C)** 2/3
+> - **(D)** 3/4
+> - **(E)** 1/2
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

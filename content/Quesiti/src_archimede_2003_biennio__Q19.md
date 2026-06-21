@@ -38,13 +38,12 @@ tags:
 > – dopo di che ricomincia da capo.
 > Ogni passo è di 1 metro. Dopo 186 passi cade a terra svenuto. A quanti metri da
 > dove era partito finisce la passeggiata di Giovanni?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D)
-> √
-> 5
-> (E) 4.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** √ 5
+> - **(E)** 4.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

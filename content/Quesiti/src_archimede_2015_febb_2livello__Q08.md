@@ -35,15 +35,12 @@ tags:
 > Dato il triangolo ABC rettangolo in A costruiamo sull’ipotenusa il quadrato BCDE (con D, E
 > dalla parte opposta di A rispetto a BC). Sapendo che le aree dei triangoli ABE e ACD valgono
 > rispettivamente 6 m2 e 27 m2, quanto vale l’area del triangolo ABC?
-> (A) 3
-> √
-> 2 m2
-> (B) 6 m2
-> (C) 12 m2
-> (D) 9
-> √
-> 2 m2
-> (E) 18 m2
+>
+> - **(A)** 3 √ 2 m2
+> - **(B)** 6 m2
+> - **(C)** 12 m2
+> - **(D)** 9 √ 2 m2
+> - **(E)** 18 m2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

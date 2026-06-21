@@ -33,11 +33,12 @@ tags:
 > La figura qui a lato è formata da 4 archi tra loro congruenti
 > di circonferenze aventi raggio 2. Qual è l’area della regione
 > ombreggiata?
-> (A) 8 + π
-> (B) 8 + π/2
-> (C) 9 + π/4
-> (D) 16 −2π
-> (E) 4 + 2π
+>
+> - **(A)** 8 + π
+> - **(B)** 8 + π/2
+> - **(C)** 9 + π/4
+> - **(D)** 16 −2π
+> - **(E)** 4 + 2π
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

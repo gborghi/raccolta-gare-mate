@@ -29,14 +29,12 @@ tags:
 *Quanti talleri valeva il paiolo (contratto)*
 
 > Luca guarda dall'alto la piramide che vedi qui sotto. Quale delle immagini qui a lato vede?
-> 
-> (A) (immagine A)
-> (B) (immagine B)
-> (C) (immagine C)
-> (D) (immagine D)
-> (E) (immagine E)
-> 
-> (vedi figura)
+>
+> - **(A)** (immagine A)
+> - **(B)** (immagine B)
+> - **(C)** (immagine C)
+> - **(D)** (immagine D)
+> - **(E)** (immagine E) (vedi figura)
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

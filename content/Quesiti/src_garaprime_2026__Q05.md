@@ -61,18 +61,12 @@ tags:
 > area 1, ciascuno dei quali abbia come vertici 3 dei punti A, B, C, D, E, F
 > (come ad esempio i triangoli AEF, ABE, BCE, CDE mostrati nella figura
 > qui accanto). In quanti modi si può fare?
-> (A) 5
-> (B)
-> 6
-> (C) 4
-> (D) 8
-> (E) 2
-> A
-> B
-> C
-> D
-> E
-> F
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** 4
+> - **(D)** 8
+> - **(E)** 2 A B C D E F
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

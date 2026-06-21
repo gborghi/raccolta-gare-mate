@@ -39,12 +39,12 @@ tags:
 *Difference of squares of two consecutive integers is always equal to their sum*
 
 > The difference between the squares of two consecutive positive integers is always:
-> 
-> (A) a prime number.
-> (B) a multiple of $4$.
-> (C) equal to the sum of those two numbers.
-> (D) an even number.
-> (E) a perfect square.
+>
+> - **(A)** a prime number.
+> - **(B)** a multiple of $4$.
+> - **(C)** equal to the sum of those two numbers.
+> - **(D)** an even number.
+> - **(E)** a perfect square.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

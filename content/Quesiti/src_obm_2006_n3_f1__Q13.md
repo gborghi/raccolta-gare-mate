@@ -39,16 +39,12 @@ tags:
 *x,y rational; given (x - y√2006)/(4 - y√2006) is rational, determine product xy.*
 
 > Let $x$ and $y$ be rational numbers. Knowing that $\dfrac{x - y\sqrt{2006}}{4 - y\sqrt{2006}}$ is also a rational number, how much can the product $xy$ be?
-> 
-> (A) Can be equal to 20, but can also assume other values.
-> 
-> (B) Pode ser igual a 20, mas também pode assumir outros valores. (Can be equal to 20, but can also assume other values.)
-> 
-> (C) 1
-> 
-> (D) 6
-> 
-> (E) Cannot be determined.
+>
+> - **(A)** Can be equal to 20, but can also assume other values.
+> - **(B)** Pode ser igual a 20, mas também pode assumir outros valores. (Can be equal to 20, but can also assume other values.)
+> - **(C)** 1
+> - **(D)** 6
+> - **(E)** Cannot be determined.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

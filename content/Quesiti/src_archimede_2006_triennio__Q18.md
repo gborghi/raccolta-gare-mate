@@ -30,11 +30,12 @@ tags:
 
 > In quanti modi distinti si possono ordinare le lettere I, S, O, L, A, in modo che non
 > vi siano due consonanti consecutive?
-> (A) 60,
-> (B) 72,
-> (C) 84,
-> (D) 96,
-> (E) 120.
+>
+> - **(A)** 60,
+> - **(B)** 72,
+> - **(C)** 84,
+> - **(D)** 96,
+> - **(E)** 120.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

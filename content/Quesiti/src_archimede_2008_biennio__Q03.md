@@ -37,11 +37,12 @@ tags:
 > Alberto butta giù il triplo dei birilli buttati giù da Barbara, che a sua volta butta
 > giù il doppio dei birilli buttati giù da Clara. Quanti birilli al massimo può aver
 > buttato giù Alberto?
-> (A) 1321,
-> (B) 1338,
-> (C) 1342,
-> (D) 1353,
-> (E) 1362.
+>
+> - **(A)** 1321,
+> - **(B)** 1338,
+> - **(C)** 1342,
+> - **(D)** 1353,
+> - **(E)** 1362.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

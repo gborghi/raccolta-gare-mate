@@ -31,14 +31,12 @@ tags:
 > Ogni volta che Agilulfo torna a casa da scuola dopo aver preso un brutto voto, se la
 > sua mamma è in casa lo mette in punizione. Sapendo che ieri pomeriggio Agilulfo
 > non è stato messo in punizione, quale delle seguenti affermazioni è certamente vera?
-> (A) ieri Agilulfo ha preso un brutto voto,
-> (B) ieri Agilulfo non ha preso un brutto
-> voto,
-> (C) ieri pomeriggio la sua mamma era in casa,
-> (D) ieri pomeriggio la sua
-> mamma non era in casa,
-> (E) nessuna delle precedenti affermazioni è certamente
-> vera.
+>
+> - **(A)** ieri Agilulfo ha preso un brutto voto,
+> - **(B)** ieri Agilulfo non ha preso un brutto voto,
+> - **(C)** ieri pomeriggio la sua mamma era in casa,
+> - **(D)** ieri pomeriggio la sua mamma non era in casa,
+> - **(E)** nessuna delle precedenti affermazioni è certamente vera.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

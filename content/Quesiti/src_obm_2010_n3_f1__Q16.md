@@ -39,12 +39,12 @@ tags:
 *Non-negative reals a, b with a^3 + a < b - b^3; deduce the ordering.*
 
 > The numbers $a$ and $b$ are non-negative reals such that $a^3+a<b-b^3$. Then
-> 
-> (A) $b<a<1$
-> (B) $a=b=1$
-> (C) $a<1<b$
-> (D) $a<b<1$
-> (E) $1<a<b$
+>
+> - **(A)** $b<a<1$
+> - **(B)** $a=b=1$
+> - **(C)** $a<1<b$
+> - **(D)** $a<b<1$
+> - **(E)** $1<a<b$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]

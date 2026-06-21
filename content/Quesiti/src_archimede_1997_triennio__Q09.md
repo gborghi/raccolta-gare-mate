@@ -30,12 +30,12 @@ tags:
 
 > Se il pomeriggio ho giocato a tennis, la sera ho fame e se la sera ho fame, allora mangio troppo. Quale delle seguenti conclusioni non posso trarre da queste
 > premesse?
-> (A) Se gioco a tennis il pomeriggio, allora la sera ho fame e mangio troppo
-> (B) se la sera ho fame, allora mangio troppo, oppure ho giocato a tennis il
-> pomeriggio
-> (C) se la sera non ho fame, allora non ho giocato a tennis il pomeriggio
-> (D) se la sera non ho fame, allora non mangio troppo
-> (E) se la sera non mangio troppo, allora non ho giocato a tennis il pomeriggio.
+>
+> - **(A)** Se gioco a tennis il pomeriggio, allora la sera ho fame e mangio troppo
+> - **(B)** se la sera ho fame, allora mangio troppo, oppure ho giocato a tennis il pomeriggio
+> - **(C)** se la sera non ho fame, allora non ho giocato a tennis il pomeriggio
+> - **(D)** se la sera non ho fame, allora non mangio troppo
+> - **(E)** se la sera non mangio troppo, allora non ho giocato a tennis il pomeriggio.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

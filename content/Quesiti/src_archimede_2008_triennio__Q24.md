@@ -33,15 +33,12 @@ tags:
 > questo piano). L’area di base di C misura 400 π cm2 mentre il raggio di base di
 > T misura 10 cm. Inoltre le altezze di C e T misurano entrambe 20 cm. Quale
 > percentuale del volume di C è contenuta dall’intersezione tra C e T ?
-> (A) 20
-> √
-> 2 %,
-> (B) 40 %,
-> (C) 50 %,
-> (D) 60 %,
-> (E) 50
-> √
-> 2 %.
+>
+> - **(A)** 20 √ 2 %,
+> - **(B)** 40 %,
+> - **(C)** 50 %,
+> - **(D)** 60 %,
+> - **(E)** 50 √ 2 %.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

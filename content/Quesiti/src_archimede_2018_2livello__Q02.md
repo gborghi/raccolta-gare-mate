@@ -32,11 +32,12 @@ tags:
 *Sequenze binarie di lunghezza 8 contenenti 01*
 
 > Quante sono le sequenze di numeri di lunghezza otto composte unicamente da 0 e 1 che contengono il codice 01?
-> (A) 64
-> (B) 128
-> (C) 192
-> (D) 247
-> (E) 255
+>
+> - **(A)** 64
+> - **(B)** 128
+> - **(C)** 192
+> - **(D)** 247
+> - **(E)** 255
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]]

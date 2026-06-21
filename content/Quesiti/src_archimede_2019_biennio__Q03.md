@@ -35,11 +35,12 @@ tags:
 > della domenica. Supponendo che Barbara abbia ragione e tenendo conto che ha
 > intenzione di iniziare a lavorare il più tardi possibile, che giorno della settimana è
 > quello in cui deve cominciare per essere sicura della propria vittoria?
-> (A) lunedì
-> (B) martedì
-> (C) mercoledì
-> (D) giovedì
-> (E) venerdì
+>
+> - **(A)** lunedì
+> - **(B)** martedì
+> - **(C)** mercoledì
+> - **(D)** giovedì
+> - **(E)** venerdì
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

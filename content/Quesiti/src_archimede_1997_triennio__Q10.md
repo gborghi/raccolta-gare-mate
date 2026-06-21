@@ -36,11 +36,12 @@ tags:
 > C = (0, 0). Qual è la larghezza minima di una striscia rettilinea che contiene
 > tutti e tre i punti? [Chiamiamo striscia rettilinea la porzione di piano compresa
 > tra due rette parallele, comprese le due rette.]
-> (A) 8
-> (B) 10
-> (C) 12
-> (D) 15
-> (E) 20.
+>
+> - **(A)** 8
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 15
+> - **(E)** 20.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

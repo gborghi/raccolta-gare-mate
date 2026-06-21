@@ -38,50 +38,12 @@ tags:
 > sulla cornice avente spessore di 2 caselle). Quanti sono i percorsi possibili?
 > A
 > B
-> (A) 98
-> (B) 108
-> (C) 100
-> (D) 112
-> (E) 104
-> 
-> 2042
-> Unione Matematica Italiana
-> PROGETTO OLIMPIADI DI MATEMATICA
-> Ministero dell’Istruzione
-> I Giochi di Archimede - Gara Biennio
-> 2 dicembre 2021
->  La prova è costituita da 12 problemi. Ogni domanda è seguita da 5 risposte indicate con le lettere (A), (B), (C),
-> (D), (E). Una sola di queste risposte è corretta, le altre 4 sono errate.
->  Ciascuna risposta corretta vale 5 punti, ciascuna risposta errata vale 0 punti. Per ogni risposta lasciata in bianco
-> oppure illeggibile verrà assegnato 1 punto.
->  Per ognuno dei problemi, occorre trascrivere la lettera corrispondente alla risposta ritenuta corretta nella griglia
-> riportata qui sotto. Non sono ammesse cancellature o correzioni sulla griglia. Non è permesso l’uso di alcun tipo di
-> calcolatrice o di qualsiasi strumento di comunicazione durante la prova.
-> Il tempo che hai a disposizione è di 60 minuti. Buon lavoro e buon divertimento!
-> NOME
-> COGNOME
-> CLASSE
-> data di nascita:
-> indirizzo mail:
-> RISPOSTE AI PROBLEMI:
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 
-> I Giochi di Archimede 2021
-> GARA BIENNIO
-> – –
-> CODICE PROVA:
-> 2042
+>
+> - **(A)** 98
+> - **(B)** 108
+> - **(C)** 100
+> - **(D)** 112
+> - **(E)** 104 2042 Unione Matematica Italiana PROGETTO OLIMPIADI DI MATEMATICA Ministero dell’Istruzione I Giochi di Archimede - Gara Biennio 2 dicembre 2021  La prova è costituita da 12 problemi. Ogni domanda è seguita da 5 risposte indicate con le lettere (A), (B), (C), (D), (E). Una sola di queste risposte è corretta, le altre 4 sono errate.  Ciascuna risposta corretta vale 5 punti, ciascuna risposta errata vale 0 punti. Per ogni risposta lasciata in bianco oppure illeggibile verrà assegnato 1 punto.  Per ognuno dei problemi, occorre trascrivere la lettera corrispondente alla risposta ritenuta corretta nella griglia riportata qui sotto. Non sono ammesse cancellature o correzioni sulla griglia. Non è permesso l’uso di alcun tipo di calcolatrice o di qualsiasi strumento di comunicazione durante la prova. Il tempo che hai a disposizione è di 60 minuti. Buon lavoro e buon divertimento! NOME COGNOME CLASSE data di nascita: indirizzo mail: RISPOSTE AI PROBLEMI: 1 2 3 4 5 6 7 8 9 10 11 12 I Giochi di Archimede 2021 GARA BIENNIO – – CODICE PROVA: 2042
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]

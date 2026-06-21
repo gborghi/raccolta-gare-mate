@@ -41,11 +41,12 @@ tags:
 > un cavaliere e alla mia destra siede un furfante”.
 > Si può concludere che, tra le 10
 > persone presenti, il numero complessivo di cavalieri...
-> (A) è possibile che sia 0, 2, 4, 6 o anche 8, ma non 10
-> (B) è possibile che sia 0, 2 o 4, ma non 6, 8 o 10
-> (C) è possibile che sia 0, 2, 4 o anche 6, ma non 8 o 10
-> (D) è possibile che sia 2, 4 o 6, ma non 0, 8 o 10
-> (E) è sicuramente 5
+>
+> - **(A)** è possibile che sia 0, 2, 4, 6 o anche 8, ma non 10
+> - **(B)** è possibile che sia 0, 2 o 4, ma non 6, 8 o 10
+> - **(C)** è possibile che sia 0, 2, 4 o anche 6, ma non 8 o 10
+> - **(D)** è possibile che sia 2, 4 o 6, ma non 0, 8 o 10
+> - **(E)** è sicuramente 5
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

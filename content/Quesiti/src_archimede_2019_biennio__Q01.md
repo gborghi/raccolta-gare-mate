@@ -30,11 +30,12 @@ tags:
 
 > Per quanti numeri reali x vale la catena di disuguaglianze 0 ≤x ≤1
 > x ≤1?
-> (A) infiniti
-> (B) 3
-> (C) nessuno
-> (D) solo 1
-> (E) 2
+>
+> - **(A)** infiniti
+> - **(B)** 3
+> - **(C)** nessuno
+> - **(D)** solo 1
+> - **(E)** 2
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_casework|Analisi per casi]]

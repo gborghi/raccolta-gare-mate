@@ -38,15 +38,12 @@ tags:
 > m2.
 > Quanto vale l’area del quadrato
 > ABCD?
-> (A) 19 m2,
-> (B) 24 m2,
-> (C) 25 m2,
-> (D) 32 m2,
-> (E) 36 m2.
-> A
-> B
-> C
-> D
+>
+> - **(A)** 19 m2,
+> - **(B)** 24 m2,
+> - **(C)** 25 m2,
+> - **(D)** 32 m2,
+> - **(E)** 36 m2. A B C D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

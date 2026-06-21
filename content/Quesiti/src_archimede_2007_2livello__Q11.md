@@ -35,11 +35,12 @@ tags:
 > ulteriore quarto vince una medaglia di bronzo e la restante metà vince una stretta di mano.
 > Se incontriamo un gruppo di sei partecipanti scelti a caso, qual è la probabilità che esso sia composto
 > da due medaglie d’oro, due medaglie d’argento e due vincitori di strette di mano?
-> (A) Circa il 40%
-> (B) Circa il 4%
-> (C) Circa lo 0,4%
-> (D) Circa lo 0,04%
-> (E) Circa lo 0,004%.
+>
+> - **(A)** Circa il 40%
+> - **(B)** Circa il 4%
+> - **(C)** Circa lo 0,4%
+> - **(D)** Circa lo 0,04%
+> - **(E)** Circa lo 0,004%.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

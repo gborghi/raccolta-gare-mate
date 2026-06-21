@@ -42,11 +42,12 @@ tags:
 > A
 > A′
 > B′
-> (A) 85
-> (B) 75
-> (C) 72
-> (D) 80
-> (E) 84
+>
+> - **(A)** 85
+> - **(B)** 75
+> - **(C)** 72
+> - **(D)** 80
+> - **(E)** 84
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

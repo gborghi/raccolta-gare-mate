@@ -31,17 +31,12 @@ tags:
 > In ogni ruota del lotto ci sono 90 numeri. Cinque di essi vengono estratti, uno
 > alla volta, senza rimettere i numeri estratti nell’urna. In una certa ruota viene
 > estratto per primo il numero 27. La probabilità che il secondo estratto sia 28
-> (A) è 1
-> 90
-> (B) è 1
-> 89
-> (C) è 1
-> 18
-> (D) è minore di
-> 1
-> 100 perch´e è improbabile che vengano estratti due numeri
-> consecutivi
-> (E) non si può determinare perch´e occorre calcolare la probabilità della cinquina.
+>
+> - **(A)** è 1 90
+> - **(B)** è 1 89
+> - **(C)** è 1 18
+> - **(D)** è minore di 1 100 perch´e è improbabile che vengano estratti due numeri consecutivi
+> - **(E)** non si può determinare perch´e occorre calcolare la probabilità della cinquina.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

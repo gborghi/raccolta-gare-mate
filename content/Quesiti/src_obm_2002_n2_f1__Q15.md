@@ -42,12 +42,12 @@ tags:
 *Count positive integers less than 900 that are multiples of 7 ending in digit 7*
 
 > How many positive integers less than $900$ are multiples of $7$ and end in the digit $7$?
-> 
-> (A) $10$
-> (B) $11$
-> (C) $12$
-> (D) $13$
-> (E) $14$
+>
+> - **(A)** $10$
+> - **(B)** $11$
+> - **(C)** $12$
+> - **(D)** $13$
+> - **(E)** $14$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]

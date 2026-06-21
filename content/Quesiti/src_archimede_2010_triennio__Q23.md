@@ -55,26 +55,12 @@ tags:
 > Nella figura a fianco, AC misura 2 cm, B è il punto
 > medio di AC e i triangoli ABD e BCE sono equilateri. Se P e Q sono i centri di ABD e BCE rispettivamente, quanto misura il raggio della circonferenza
 > passante per P, Q e B?
-> (A)
-> √
-> 3
-> 6 cm,
-> (B) 1
-> 2 cm,
-> (C) 1 cm,
-> (D)
-> √
-> 3
-> 3 cm,
-> (E)
-> √
-> 3
-> 2 cm.
-> A
-> B
-> C
-> D
-> E
+>
+> - **(A)** √ 3 6 cm,
+> - **(B)** 1 2 cm,
+> - **(C)** 1 cm,
+> - **(D)** √ 3 3 cm,
+> - **(E)** √ 3 2 cm. A B C D E
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

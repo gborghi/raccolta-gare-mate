@@ -30,12 +30,12 @@ tags:
 *Quanti numeri naturali B in prodotto, scelta multipla*
 
 > Ad una gara matematica partecipano 1200 candidati. Il 40% di essi riceve una medaglia (d'oro, d'argento o di bronzo). Il numero di medaglie di bronzo è triplo di quello di medaglie d'argento e doppio di quello di oro. Quante sono le medaglie d'oro?
-> 
-> (A) 120
-> (B) 144
-> (C) 160
-> (D) 180
-> (E) nessuna delle precedenti
+>
+> - **(A)** 120
+> - **(B)** 144
+> - **(C)** 160
+> - **(D)** 180
+> - **(E)** nessuna delle precedenti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

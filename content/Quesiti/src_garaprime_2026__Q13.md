@@ -31,12 +31,12 @@ tags:
 
 > Indichiamo con S(n) la somma delle cifre di un intero positivo n (ad esempio S(574) = 16). Se S(n) = 2026,
 > quale può essere il più piccolo valore di S(n + 1)?
-> (A) 1
-> (B)
-> 2
-> (C) 3
-> (D) 4
-> (E) 2027
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 2027
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

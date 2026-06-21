@@ -31,12 +31,12 @@ tags:
 > Nikita e Sasha corrono sulla pista dello stadio. Nikita impiega 3 minuti per ogni
 > giro, mentre Sasha impiega 4 minuti per ogni giro. Partono allo stesso momento.
 > Dopo quanti minuti essi passeranno ancora la linea di partenza insieme?
-> (A) dopo 6 minuti
-> (B) dopo 8 minuti
-> (C) dopo 10 minuti
-> (D) dopo 12 minuti
-> (E) non è possibile rispondere, perchè dipende dalla
-> lunghezza della pista.
+>
+> - **(A)** dopo 6 minuti
+> - **(B)** dopo 8 minuti
+> - **(C)** dopo 10 minuti
+> - **(D)** dopo 12 minuti
+> - **(E)** non è possibile rispondere, perchè dipende dalla lunghezza della pista.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

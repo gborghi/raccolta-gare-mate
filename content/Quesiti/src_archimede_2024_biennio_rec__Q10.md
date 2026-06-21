@@ -41,21 +41,12 @@ tags:
 > G
 > U
 > V
-> (A)
-> √
-> 2
-> 2
-> (B)
-> √
-> 2−3
-> 4
-> (C) 9
-> 16
-> (D) 2−
-> √
-> 2
-> (E) 1
-> 2
+>
+> - **(A)** √ 2 2
+> - **(B)** √ 2−3 4
+> - **(C)** 9 16
+> - **(D)** 2− √ 2
+> - **(E)** 1 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

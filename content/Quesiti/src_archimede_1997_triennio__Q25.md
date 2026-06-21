@@ -37,11 +37,12 @@ tags:
 > In quale delle seguenti figure, che rappresentano gli spigoli dei 5 solidi platonici,
 > è possibile percorrere tutti i lati disegnati senza tornare mai sui propri passi?
 > (naturalmente è possibile passare più di una volta sullo stesso vertice).
-> (A)
-> (B)
-> (C)
-> (D)
-> (E)
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)**
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

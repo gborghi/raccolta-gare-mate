@@ -29,12 +29,12 @@ tags:
 *Velocità del treno che attraversa la galleria*
 
 > Un treno lungo 500 metri attraversa a velocità costante una galleria lunga 3 chilometri. Sapendo che sono passati 50 secondi dal momento in cui l'ultima carrozza del treno è entrata nella galleria a quando il locomotore emerge dall'altra uscita, si può affermare che la velocità del treno è:
-> 
-> (A) 50 km/h
-> (B) 216 km/h
-> (C) 252 km/h
-> (D) 300 km/h
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 50 km/h
+> - **(B)** 216 km/h
+> - **(C)** 252 km/h
+> - **(D)** 300 km/h
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

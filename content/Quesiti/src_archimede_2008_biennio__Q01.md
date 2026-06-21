@@ -31,11 +31,12 @@ tags:
 > Su Giove si corre oggi la Grande Maratona, lunga 2008 chilometri, a cui partecipa
 > l’80% degli abitanti del pianeta. Dopo due chilometri il 95% dei partecipanti si
 > ritira; i restanti 2000 corridori arrivano al traguardo. Quanti abitanti ha Giove?
-> (A) 20 000,
-> (B) 40 000,
-> (C) 50 000,
-> (D) 80 000,
-> (E) 100 000.
+>
+> - **(A)** 20 000,
+> - **(B)** 40 000,
+> - **(C)** 50 000,
+> - **(D)** 80 000,
+> - **(E)** 100 000.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

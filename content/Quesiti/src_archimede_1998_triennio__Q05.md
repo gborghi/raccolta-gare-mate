@@ -29,11 +29,12 @@ tags:
 *Valore di n con n lati e 4n diagonali*
 
 > Un poligono regolare ha n lati e 4n diagonali. Quanto vale n?
-> (A) 8
-> (B) 9
-> (C) 10
-> (D) 11
-> (E) 12.
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 11
+> - **(E)** 12.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

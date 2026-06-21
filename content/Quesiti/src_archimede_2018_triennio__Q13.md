@@ -35,11 +35,12 @@ tags:
 > esternamente a β. I tre centri A, B, C sono allineati. Sapendo che le rette passanti
 > per A e tangenti a β sono tangenti anche a γ, che cosa si può affermare a proposito
 > del raggio r?
-> (A) r < 72
-> (B) 72 ≤r < 75
-> (C) 75 ≤r < 78
-> (D) 78 ≤r < 81
-> (E) r ≥81
+>
+> - **(A)** r < 72
+> - **(B)** 72 ≤r < 75
+> - **(C)** 75 ≤r < 78
+> - **(D)** 78 ≤r < 81
+> - **(E)** r ≥81
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

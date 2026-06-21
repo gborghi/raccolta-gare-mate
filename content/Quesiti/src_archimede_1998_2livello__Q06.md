@@ -27,12 +27,12 @@ tags:
 *Affermazione non deducibile su polinomio a valori interi*
 
 > Il polinomio $ax^2 + bx + c$ assume valori interi per ogni valore intero della variabile $x$. Quale delle seguenti affermazioni non può essere dedotta?
-> 
-> (A) $c$ è intero
-> (B) $a + b + c$ è intero
-> (C) $a$, $b$, $c$ sono interi
-> (D) se $a$ è intero anche $b$ è intero
-> (E) $2a$ è intero.
+>
+> - **(A)** $c$ è intero
+> - **(B)** $a + b + c$ è intero
+> - **(C)** $a$, $b$, $c$ sono interi
+> - **(D)** se $a$ è intero anche $b$ è intero
+> - **(E)** $2a$ è intero.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

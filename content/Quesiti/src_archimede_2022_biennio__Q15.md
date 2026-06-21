@@ -35,11 +35,12 @@ tags:
 > comune.
 > Qual è la probabilità che, dopo 89 numeri estratti, nessuna delle due
 > abbia ancora fatto tombola?
-> (A) 2/45
-> (B) 3/89
-> (C) 1/15
-> (D) 1/30
-> (E) 1/90
+>
+> - **(A)** 2/45
+> - **(B)** 3/89
+> - **(C)** 1/15
+> - **(D)** 1/30
+> - **(E)** 1/90
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -32,11 +32,12 @@ tags:
 > un fisico, o un chimico o un biologo. I fisici e i biologi, insieme, sono la metà dei
 > matematici; i fisici e i chimici, insieme, sono il doppio dei biologi. Inoltre, di fisici
 > ce n’è almeno uno. Quanti sono i matematici?
-> (A) 6
-> (B) 10
-> (C) 12
-> (D) 15
-> (E) 18
+>
+> - **(A)** 6
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 15
+> - **(E)** 18
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

@@ -33,19 +33,12 @@ tags:
 > Considerando le estrazioni che riguardano le 3 città di Milano, Roma e Napoli,
 > qual è la probabilità che il numero 13 venga estratto in una e una sola di queste
 > 3 città?
-> (A) p < 1
-> 18
-> (B) 1
-> 18 ≤p < 1
-> 9
-> (C) 1
-> 9 ≤p < 1
-> 6
-> (D) 1
-> 6 ≤p < 1
-> 4
-> (E) p ≥1
-> 4.
+>
+> - **(A)** p < 1 18
+> - **(B)** 1 18 ≤p < 1 9
+> - **(C)** 1 9 ≤p < 1 6
+> - **(D)** 1 6 ≤p < 1 4
+> - **(E)** p ≥1 4.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

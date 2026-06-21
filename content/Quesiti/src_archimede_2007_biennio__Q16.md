@@ -33,11 +33,12 @@ tags:
 > dentifricio e ne lascia invariato il prezzo. Egli calcola che in questo modo il prezzo
 > di un chilo di dentifricio aumenterà del 25%. Quanto dentifricio conteneva ciascun
 > tubetto prima della riduzione?
-> (A) 100 g,
-> (B) 120 g,
-> (C) 125 g,
-> (D) 150 g,
-> (E) 160 g.
+>
+> - **(A)** 100 g,
+> - **(B)** 120 g,
+> - **(C)** 125 g,
+> - **(D)** 150 g,
+> - **(E)** 160 g.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

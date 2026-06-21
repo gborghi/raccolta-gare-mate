@@ -37,12 +37,12 @@ tags:
 > 3 caselle e continua a spostarsi a mosse alterne come un Alfiere e come una Torre, aumentando a ogni mossa
 > la lunghezza del suo percorso di una casella. Qual è il minimo numero di mosse che permette alla Donna di
 > tornare nella casella iniziale?
-> (A) 4
-> (B) 7
-> (C) 8
-> (D) 12
-> (E) il ritorno è impossibile
-> Quesiti a risposta aperta
+>
+> - **(A)** 4
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 12
+> - **(E)** il ritorno è impossibile Quesiti a risposta aperta
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

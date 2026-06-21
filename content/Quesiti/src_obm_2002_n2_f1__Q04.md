@@ -39,12 +39,12 @@ tags:
 *Dilute 2000 L milk twice with water; find V so milk equals water volume*
 
 > A factory buys $2000$ litres of pure milk and then removes a volume $V$ of milk. It then refills the container to $2000$ litres with water, removes the same volume $V$ of the mixture, and refills again to $2000$ litres with water. In the final mixture, the volume of milk equals the volume of water. The volume $V$ (in litres) is:
-> 
-> (A) $500$ litres
-> (B) $600$ litres
-> (C) $700$ litres
-> (D) $800$ litres
-> (E) $875$ litres
+>
+> - **(A)** $500$ litres
+> - **(B)** $600$ litres
+> - **(C)** $700$ litres
+> - **(D)** $800$ litres
+> - **(E)** $875$ litres
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

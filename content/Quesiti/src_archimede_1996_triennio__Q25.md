@@ -47,11 +47,12 @@ tags:
 > Dai due tronconi
 > rimasti si ritagliano due cerchi di diametro massimo.
 > Qual è la percentuale di cartoncino sprecata?
-> (A) 10%
-> (B) 20%
-> (C) 25%
-> (D) 30%
-> (E) 50%.
+>
+> - **(A)** 10%
+> - **(B)** 20%
+> - **(C)** 25%
+> - **(D)** 30%
+> - **(E)** 50%.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

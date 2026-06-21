@@ -29,11 +29,12 @@ tags:
 *Somma cifre di 2021+(10^2021+21)^2*
 
 > Quanto vale la somma delle cifre del numero 2021 + (102021 + 21)2?
-> (A) 21
-> (B) 30
-> (C) 37
-> (D) 42
-> (E) Un numero maggiore di 100.
+>
+> - **(A)** 21
+> - **(B)** 30
+> - **(C)** 37
+> - **(D)** 42
+> - **(E)** Un numero maggiore di 100.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

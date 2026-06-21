@@ -29,11 +29,12 @@ tags:
 *Quale fra alcuni numeri e il piu piccolo*
 
 > Quale dei seguenti numeri è il più piccolo?
-> (A) 0,0000001
-> (B) 9−8
-> (C) (0, 1)0,1
-> (D) √0, 00001
-> (E) (0, 0001)2.
+>
+> - **(A)** 0,0000001
+> - **(B)** 9−8
+> - **(C)** (0, 1)0,1
+> - **(D)** √0, 00001
+> - **(E)** (0, 0001)2.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

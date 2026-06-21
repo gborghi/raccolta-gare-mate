@@ -35,11 +35,12 @@ tags:
 
 > Indicare quante sono le sequenze ordinate di 5 numeri interi (a, b, c, d, e) tali che
 > a b c d e + 15 = 0.
-> (A) 375
-> (B) 400
-> (C) 125
-> (D) 320
-> (E) 250
+>
+> - **(A)** 375
+> - **(B)** 400
+> - **(C)** 125
+> - **(D)** 320
+> - **(E)** 250
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]

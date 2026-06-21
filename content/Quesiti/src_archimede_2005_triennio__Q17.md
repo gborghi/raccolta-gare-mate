@@ -32,12 +32,12 @@ tags:
 > tutti intorno ad un tavolo rotondo. Ogni ragazza dice: “Seduto al mio fianco c’è
 > un ragazzo”. Sapendo che il numero di ragazze è il doppio di quello dei ragazzi,
 > quante ragazze hanno certamente mentito?
-> (A) 0,
-> (B) 4,
-> (C) 8,
-> (D) 16,
-> (E) non è possibile rispondere in base ai soli
-> dati forniti.
+>
+> - **(A)** 0,
+> - **(B)** 4,
+> - **(C)** 8,
+> - **(D)** 16,
+> - **(E)** non è possibile rispondere in base ai soli dati forniti.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

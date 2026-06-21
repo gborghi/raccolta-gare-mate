@@ -33,11 +33,12 @@ tags:
 > b = 0,987 = 0,987987987 . . .
 > Scriviamo la loro somma a+b come frazione X/Y
 > ridotta ai minimi termini. Qual è il valore di X + Y ?
-> (A) 9
-> (B) 10
-> (C) 19
-> (D) 11
-> (E) 13
+>
+> - **(A)** 9
+> - **(B)** 10
+> - **(C)** 19
+> - **(D)** 11
+> - **(E)** 13
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

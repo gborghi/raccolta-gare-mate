@@ -34,11 +34,12 @@ tags:
 > una strana legge: negli anni dispari aumenta del 50% rispetto all’anno precedente, negli anni pari
 > diminuisce di un sesto (sempre rispetto all’anno precedente). Tra quanti anni per la prima volta
 > sarà almeno il triplo che nel 2012?
-> (A) 5
-> (B) 6
-> (C) 7
-> (D) 8
-> (E) 9.
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

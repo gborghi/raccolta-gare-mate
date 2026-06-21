@@ -39,11 +39,12 @@ tags:
 *Comparison of (a+1)/(b+1) with a/b when a/b<1*
 
 > Let $a$ and $b$ be positive numbers with $\dfrac{a}{b}<1$. Then $\dfrac{a+1}{b+1}$:
-> (A) is equal to $\dfrac{a}{b}+1$.
-> (B) is equal to $\dfrac{a}{b}$.
-> (C) is smaller than $\dfrac{a}{b}$.
-> (D) is larger than $\dfrac{a}{b}$ but smaller than 1.
-> (E) can be larger than 1.
+>
+> - **(A)** is equal to $\dfrac{a}{b}+1$.
+> - **(B)** is equal to $\dfrac{a}{b}$.
+> - **(C)** is smaller than $\dfrac{a}{b}$.
+> - **(D)** is larger than $\dfrac{a}{b}$ but smaller than 1.
+> - **(E)** can be larger than 1.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]

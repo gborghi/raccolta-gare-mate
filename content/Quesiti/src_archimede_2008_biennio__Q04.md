@@ -36,11 +36,12 @@ tags:
 > la cena a Pietro e Paolo; il conto viene nuovamente diviso in parti uguali tra gli
 > amici di Pietro e Paolo (cioè tutti i presenti esclusi Pietro e Paolo), e ciascuno di
 > loro paga 16 Euro. Quanti sono gli amici di Pietro e Paolo?
-> (A) 6,
-> (B) 8,
-> (C) 10,
-> (D) 12,
-> (E) 16.
+>
+> - **(A)** 6,
+> - **(B)** 8,
+> - **(C)** 10,
+> - **(D)** 12,
+> - **(E)** 16.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

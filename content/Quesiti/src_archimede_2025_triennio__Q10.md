@@ -34,11 +34,12 @@ tags:
 > (ciascuna delle quali può essere una qualsiasi cifra da 0 a 9). Per memorizzarlo,
 > farà in modo che vi compaiano esattamente due diverse cifre.
 > Quanti sono i possibili pin che Paola ha a sua disposizione?
-> (A) 480
-> (B) 560
-> (C) 540
-> (D) 630
-> (E) 720
+>
+> - **(A)** 480
+> - **(B)** 560
+> - **(C)** 540
+> - **(D)** 630
+> - **(E)** 720
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

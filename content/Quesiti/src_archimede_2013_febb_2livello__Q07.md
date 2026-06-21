@@ -33,21 +33,12 @@ tags:
 > Sia ABCD un quadrato all’interno del quale vengono tracciati due segmenti che dividono l’angolo
 > in A in tre angoli uguali e il quadrato in due triangoli uguali e un quadrilatero. Qual è il rapporto
 > tra l’area del quadrilatero e quella di uno dei due triangoli?
-> (A)
-> √
-> 3 −
-> 1
-> √
-> 3
-> (B) 2
-> √
-> 3 −1
-> (C) 3
-> 2
-> (D) 2
-> (E) 2
-> √
-> 3 −2
+>
+> - **(A)** √ 3 − 1 √ 3
+> - **(B)** 2 √ 3 −1
+> - **(C)** 3 2
+> - **(D)** 2
+> - **(E)** 2 √ 3 −2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

@@ -34,11 +34,12 @@ tags:
 > riceva almeno una caramella e che mai due kangourou abbiano un numero uguale
 > di caramelle. Quanti kangourou al massimo sono presenti alla distribuzione delle
 > caramelle?
-> (A) 20
-> (B) 10
-> (C) 8
-> (D) 6
-> (E) 5.
+>
+> - **(A)** 20
+> - **(B)** 10
+> - **(C)** 8
+> - **(D)** 6
+> - **(E)** 5.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

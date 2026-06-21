@@ -35,22 +35,12 @@ tags:
 > Sia ABC un triangolo rettangolo in B. Sia H il piede dell’altezza uscente da B e sia D l’intersezione fra la bisettrice dell’angolo in A e il lato BC. Supponiamo che HD sia perpendicolare a
 > BC. Quanto vale ( AB
 > BC )2?
-> (A)
-> √
-> 5
-> 2
-> (B)
-> √
-> 5−1
-> 2
-> (C)
-> √
-> 5
-> (D)
-> √
-> 5+1
-> 2
-> (E) Una tale configurazione non si può realizzare.
+>
+> - **(A)** √ 5 2
+> - **(B)** √ 5−1 2
+> - **(C)** √ 5
+> - **(D)** √ 5+1 2
+> - **(E)** Una tale configurazione non si può realizzare.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

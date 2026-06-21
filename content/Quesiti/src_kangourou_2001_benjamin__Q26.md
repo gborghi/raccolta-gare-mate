@@ -34,11 +34,12 @@ tags:
 > sia esatto.
 > 45 × A3 = 3BCD
 > La somma delle quattro cifre inserite vale:
-> (A) 20
-> (B) 21
-> (C) 17
-> (D) più di 21
-> (E) meno di 17.
+>
+> - **(A)** 20
+> - **(B)** 21
+> - **(C)** 17
+> - **(D)** più di 21
+> - **(E)** meno di 17.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

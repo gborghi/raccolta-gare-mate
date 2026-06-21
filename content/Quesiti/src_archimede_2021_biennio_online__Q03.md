@@ -29,11 +29,12 @@ tags:
 *Massimo valore di 7-4x dato (2x-3)(5-3x)=0*
 
 > Sapendo che (2x −3)(5 −3x) = 0, quale può essere, al massimo, il valore di 7 −4x?
-> (A) 1
-> (B) 7/5
-> (C) 5/3
-> (D) 1/3
-> (E) 3/5
+>
+> - **(A)** 1
+> - **(B)** 7/5
+> - **(C)** 5/3
+> - **(D)** 1/3
+> - **(E)** 3/5
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

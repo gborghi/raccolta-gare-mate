@@ -48,12 +48,12 @@ tags:
 ```
 
 > Bianca ha 20 conigli: a 9 dà da mangiare carote tutti i giorni, agli altri solo un giorno sì e uno no, non necessariamente a tutti lo stesso giorno. Ieri hanno mangiato carote 16 conigli. Quanti conigli mangeranno carote oggi?
-> 
-> (A) 9
-> (B) 13
-> (C) 14
-> (D) 15
-> (E) Le informazioni sono insufficienti.
+>
+> - **(A)** 9
+> - **(B)** 13
+> - **(C)** 14
+> - **(D)** 15
+> - **(E)** Le informazioni sono insufficienti.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

@@ -45,19 +45,16 @@ tags:
 \end{document}
 ```
 
-> (Punti 3) In figura è rappresentato un foglio quadrato su cui sono disegnati 16 puntini 
+> (Punti 3) In figura è rappresentato un foglio quadrato su cui sono disegnati 16 puntini
 > che sono vertici di 9 quadratini congruenti di lato 1 cm. Puoi tracciare vari triangoli usan­
-> do i puntini come vertici. Quanti centimetri quadrati misura la superficie del più esteso 
+> do i puntini come vertici. Quanti centimetri quadrati misura la superficie del più esteso
 > triangolo che puoi tracciare in questo modo?
-> (A) 3         	
-> 	
-> (B) 3,5	 	
-> 	
-> (C) 4	
-> 	
-> 	
-> (D) 6
-> (E) Nessuna delle precedenti misure è corretta
+>
+> - **(A)** 3
+> - **(B)** 3,5
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** Nessuna delle precedenti misure è corretta
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

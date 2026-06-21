@@ -31,14 +31,12 @@ tags:
 ![[src_kangourou_2021_preecolier_koala__prob22.png]]
 
 > Ogni partecipante a un concorso di cucina ha preparato un vassoio di biscotti come quello mostrato. Qual è il minimo numero di vassoi di biscotti che permette di realizzare il piatto qui sotto?
-> 
-> (A) 5
-> (B) 1
-> (C) 3
-> (D) 2
-> (E) 4
-> 
-> (vedi figura)
+>
+> - **(A)** 5
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 2
+> - **(E)** 4 (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

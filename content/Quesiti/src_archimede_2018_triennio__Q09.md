@@ -33,11 +33,12 @@ tags:
 > con un rettangolo grigio), il lato maggiore è doppio del
 > lato minore. Qual è il rapporto tra l’area del rettangolo delimitato dal bordo esterno della cornice e l’area del
 > quadro all’interno della cornice?
-> (A) 7/3
-> (B) 20/9
-> (C) 8/5
-> (D) 12/5
-> (E) 64/25
+>
+> - **(A)** 7/3
+> - **(B)** 20/9
+> - **(C)** 8/5
+> - **(D)** 12/5
+> - **(E)** 64/25
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]

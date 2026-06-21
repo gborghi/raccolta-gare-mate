@@ -29,14 +29,12 @@ tags:
 *Angolo convesso P'OQ' dopo tre ore di corsa*
 
 > Il quadrato nella figura a lato è ottenuto accostando 9 quadratini identici ed è ripartito in tre settori angolari. $\alpha$ e $\beta$ sono le misure in gradi di due dei tre angoli che vengono così individuati. Quale delle seguenti uguaglianze è vera?
-> 
-> (A) $\alpha = \beta$
-> (B) $\beta = 30°$
-> (C) $\alpha + \beta = 60°$
-> (D) $2\beta + \alpha = 90°$
-> (E) Nessuna.
-> 
-> (vedi figura)
+>
+> - **(A)** $\alpha = \beta$
+> - **(B)** $\beta = 30°$
+> - **(C)** $\alpha + \beta = 60°$
+> - **(D)** $2\beta + \alpha = 90°$
+> - **(E)** Nessuna. (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

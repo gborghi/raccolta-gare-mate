@@ -33,11 +33,12 @@ tags:
 > Un unico pezzo di corda passa attraverso i fori di un foglio di cartone,
 > come mostra la figura a fianco. Quale dei seguenti disegni non può
 > essere ciò che si vede sull’altra faccia del cartone?
-> (A)
-> (B)
-> (C)
-> (D)
-> (E)
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)**
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -35,11 +35,12 @@ tags:
 > Giuseppe ha 100 topolini ognuno dei quali è o bianco o grigio. Comunque si
 > scelga un gruppo di sette topolini, almeno quattro sono bianchi. Qual è il massimo
 > numero di topolini grigi che Giuseppe può avere?
-> (A) 1
-> (B) 3
-> (C) 4
-> (D) 93
-> (E) 99.
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 93
+> - **(E)** 99.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

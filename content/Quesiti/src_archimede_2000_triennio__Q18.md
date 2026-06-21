@@ -32,11 +32,12 @@ tags:
 
 > Siano a, b, c le soluzioni dell’equazione x3 −3x2 −18x + 40 = 0. Sapendo che
 > ab = 10, calcolare c(a + b).
-> (A) −28
-> (B) −18
-> (C) 21
-> (D) 22
-> (E) non si può determinare.
+>
+> - **(A)** −28
+> - **(B)** −18
+> - **(C)** 21
+> - **(D)** 22
+> - **(E)** non si può determinare.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

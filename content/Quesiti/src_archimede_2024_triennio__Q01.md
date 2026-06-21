@@ -28,11 +28,12 @@ tags:
 
 > Quale angolo convesso formano le due lancette di un orologio alle ore 1 : 20
 > (supponendo che si muovano entrambe a velocità costante)?
-> (A) 75°
-> (B) 80°
-> (C) 90°
-> (D) 72°
-> (E) 84°
+>
+> - **(A)** 75°
+> - **(B)** 80°
+> - **(C)** 90°
+> - **(D)** 72°
+> - **(E)** 84°
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]

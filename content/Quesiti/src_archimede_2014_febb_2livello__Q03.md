@@ -36,19 +36,12 @@ tags:
 > avventore in modo che sia tangente al suo lato del tavolo nel punto medio e le pizze degli altri
 > due in modo che siano tangenti ai rispettivi lati del tavolo e alla prima pizza. Qual è il minimo
 > valore di l (in centimetri) per cui le tre pizze possano stare interamente sul tavolo?
-> (A) 10
-> √
-> 5
-> (B) 20 + 5
-> √
-> 5
-> (C) 15 + 10
-> √
-> 5
-> (D) 30 + 10
-> √
-> 5
-> (E) 60
+>
+> - **(A)** 10 √ 5
+> - **(B)** 20 + 5 √ 5
+> - **(C)** 15 + 10 √ 5
+> - **(D)** 30 + 10 √ 5
+> - **(E)** 60
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

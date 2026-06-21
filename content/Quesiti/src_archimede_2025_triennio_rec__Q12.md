@@ -35,11 +35,12 @@ tags:
 > C. Si ritiene inoltre che A sia più bravo anche di D. Se tutte le previsioni venissero
 > rispettate, supponendo non possano esservi cuochi a pari merito, quanti sarebbero
 > i possibili ordini d’arrivo della gara?
-> (A) 88
-> (B) 96
-> (C) 75
-> (D) 90
-> (E) 81
+>
+> - **(A)** 88
+> - **(B)** 96
+> - **(C)** 75
+> - **(D)** 90
+> - **(E)** 81
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

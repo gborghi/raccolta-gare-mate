@@ -31,18 +31,16 @@ tags:
 
 *Minimo numero di adulti dato incasso a teatro*
 
-> (Punti 5) Oggi a teatro c’erano adulti e bambini. Il teatro ha 100 posti ma non tutti erano 
-> occupati. Il prezzo del biglietto per gli adulti è 20 euro, per i bambini è 10 euro e a fine spettacolo 
-> l’incasso è stato di 1200 euro. Qual è il minimo numero di adulti che può essere stato presente allo 
-> spettacolo? 
-> (A) 20   
-> (B) 21  
->  (C) 25  
-> (D) 30   
-> (E) 50 
->         D                      C 
->  
->       A                          B
+> (Punti 5) Oggi a teatro c’erano adulti e bambini. Il teatro ha 100 posti ma non tutti erano
+> occupati. Il prezzo del biglietto per gli adulti è 20 euro, per i bambini è 10 euro e a fine spettacolo
+> l’incasso è stato di 1200 euro. Qual è il minimo numero di adulti che può essere stato presente allo
+> spettacolo?
+>
+> - **(A)** 20
+> - **(B)** 21
+> - **(C)** 25
+> - **(D)** 30
+> - **(E)** 50 D C A B
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

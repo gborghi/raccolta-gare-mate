@@ -33,13 +33,12 @@ tags:
 > avviene questa conversazione: Andrea dice: “Barbara è sincera”, Barbara dice:
 > “Andrea e Ciro sono sinceri”, Ciro dice: “Andrea è bugiardo”. Possiamo concludere
 > che
-> (A) sono tutti e tre sinceri,
-> (B) sono tutti e tre bugiardi,
-> (C) Andrea e Barbara
-> sono sinceri e Ciro è bugiardo,
-> (D) Andrea e Barbara sono bugiardi e Ciro è
-> sincero,
-> (E) Andrea è sincero e Ciro e Barbara sono bugiardi.
+>
+> - **(A)** sono tutti e tre sinceri,
+> - **(B)** sono tutti e tre bugiardi,
+> - **(C)** Andrea e Barbara sono sinceri e Ciro è bugiardo,
+> - **(D)** Andrea e Barbara sono bugiardi e Ciro è sincero,
+> - **(E)** Andrea è sincero e Ciro e Barbara sono bugiardi.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

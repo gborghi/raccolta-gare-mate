@@ -31,19 +31,12 @@ tags:
 > In un paese l’uno per cento della popolazione è affetto da una certa malattia. Il test per sapere
 > se si è contagiati sbaglia nell’uno per cento dei casi. Lorenzo si sottopone al test e risulta malato.
 > Qual è la probabilità che egli sia sano?
-> (A)
-> 99
-> 10000
-> (B)
-> 1
-> 100
-> (C)
-> 99
-> 5000
-> (D) 1
-> 2
-> (E) 99
-> 100.
+>
+> - **(A)** 99 10000
+> - **(B)** 1 100
+> - **(C)** 99 5000
+> - **(D)** 1 2
+> - **(E)** 99 100.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -31,11 +31,12 @@ tags:
 > conto di aver viaggiato solo alla media di 15 km/h; decide quindi di accelerare in
 > modo da poter percorrere l’intero tragitto alla media più dignitosa di 30 km/h.
 > A quale velocità deve percorrere la seconda metà del percorso?
-> (A) a 40 km/h
-> (B) a 45 km/h
-> (C) a 60 km/h
-> (D) non può farcela
-> (E) dipende dalla lunghezza del tratto di strada.
+>
+> - **(A)** a 40 km/h
+> - **(B)** a 45 km/h
+> - **(C)** a 60 km/h
+> - **(D)** non può farcela
+> - **(E)** dipende dalla lunghezza del tratto di strada.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

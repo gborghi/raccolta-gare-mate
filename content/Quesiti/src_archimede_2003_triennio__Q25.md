@@ -35,11 +35,12 @@ tags:
 > altezze rispettivamente dei triangoli BAV e CAV . Sapendo che P divide V A in
 > due segmenti di lunghezza 1 cm e 2 cm e che le altezze BP e CP sono lunghe
 > rispettivamente 3 cm e 4 cm, determinare il volume (in cm3) della piramide.
-> (A) I dati non sono sufficienti per calcolare il volume
-> (B) 6
-> (C) 9
-> (D) 12
-> (E) non esiste una piramide siffatta.
+>
+> - **(A)** I dati non sono sufficienti per calcolare il volume
+> - **(B)** 6
+> - **(C)** 9
+> - **(D)** 12
+> - **(E)** non esiste una piramide siffatta.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

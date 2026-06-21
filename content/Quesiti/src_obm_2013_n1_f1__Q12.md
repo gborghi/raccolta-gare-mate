@@ -34,12 +34,12 @@ tags:
 *Discount now vs discount plus 5% price increase next month*
 
 > If Joana buys a computer of $2000$ reais today, she will get a discount of $5\%$. If she leaves it for tomorrow, she will get the same discount of $5\%$, but the computer will increase by $5\%$. If she waits, what will happen?
-> 
-> (A) Nothing, she will pay the same amount.
-> (B) She will lose $100$ reais.
-> (C) She will gain $105$ reais.
-> (D) She will lose $95$ reais.
-> (E) She will lose $105$ reais.
+>
+> - **(A)** Nothing, she will pay the same amount.
+> - **(B)** She will lose $100$ reais.
+> - **(C)** She will gain $105$ reais.
+> - **(D)** She will lose $95$ reais.
+> - **(E)** She will lose $105$ reais.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]

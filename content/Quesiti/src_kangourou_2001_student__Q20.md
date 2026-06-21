@@ -30,12 +30,12 @@ tags:
 
 > Un triangolo equilatero CDE viene costruito esternamente ad un quadrato ABCD
 > sul lato CD. Quanti gradi misura l'angolo AEC?
-> (A) 30°
-> (B) 36°
-> (C) 45°
-> (D) 54°
-> (E) 60°.
-> I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
+>
+> - **(A)** 30°
+> - **(B)** 36°
+> - **(C)** 45°
+> - **(D)** 54°
+> - **(E)** 60°. I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

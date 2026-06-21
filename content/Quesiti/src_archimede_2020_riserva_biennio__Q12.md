@@ -28,17 +28,12 @@ tags:
 *Perimetro quadrilatero con diagonali perpendicolari*
 
 > Nel quadrilatero convesso ABCD le diagonali AC e BD sono perpendicolari. I lati AB, BC, CD misurano, nell’ordine, 4 cm, 1 cm, 7 cm. Quanti cm misura il perimetro del quadrilatero ABCD?
-> (A) 22
-> (B) 20
-> (C) 19
-> (D) 18
-> (E) 24
-> 
-> I Giochi di Archimede 2020/2021
-> GARA DI RISERVA BIENNIO
-> – –
-> CODICE PROVA:
-> BB02
+>
+> - **(A)** 22
+> - **(B)** 20
+> - **(C)** 19
+> - **(D)** 18
+> - **(E)** 24 I Giochi di Archimede 2020/2021 GARA DI RISERVA BIENNIO – – CODICE PROVA: BB02
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

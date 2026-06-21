@@ -41,11 +41,12 @@ tags:
 *Nim-style game removing 1-5 sticks from 1000, last takes wins*
 
 > In a game between two people, the players alternately remove 1, 2, 3, 4 or 5 sticks from a pile that initially contains 1000 sticks. The player who takes the last stick wins. How many sticks must the first player remove on the initial move so as to assure his victory?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]

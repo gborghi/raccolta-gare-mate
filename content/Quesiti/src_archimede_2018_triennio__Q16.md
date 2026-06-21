@@ -33,15 +33,12 @@ tags:
 > Nel triangolo isoscele ABC, dove AB = AC = 5 cm e BC = 8 cm, la mediana
 > uscente dal vertice B e la bisettrice uscente dal vertice C si intersecano nel punto
 > D. Di quanti cm2 è l’area del triangolo BCD?
-> (A) 32
-> 7
-> (B) 21
-> 5
-> (C) 17
-> 4
-> (D) 4
-> (E) 14
-> 3
+>
+> - **(A)** 32 7
+> - **(B)** 21 5
+> - **(C)** 17 4
+> - **(D)** 4
+> - **(E)** 14 3
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

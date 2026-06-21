@@ -34,11 +34,12 @@ tags:
 > Marina riempie le caselle di una griglia 4 × 4 scrivendo dentro ciascuna il numero 1, il numero
 > 2 o il numero 3. Quanti sono i modi di riempire la griglia tali che la somma di ogni riga e la
 > somma di ogni colonna siano divisibili per 3?
-> (A) 38 −1
-> (B) 38
-> (C) 2 · 38
-> (D) 39
-> (E) Nessuna delle precedenti
+>
+> - **(A)** 38 −1
+> - **(B)** 38
+> - **(C)** 2 · 38
+> - **(D)** 39
+> - **(E)** Nessuna delle precedenti
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

@@ -60,20 +60,12 @@ tags:
 
 > Nel disegno, l’intersezione dei quadrati ABCD e EFGH, entrambi di area 12,
 > è un quadrato di area 3. Quanto vale l’area dell’esagono ABFGHD?
-> (A)
-> 24
-> (B) 36
-> (C) 28
-> (D) 22
-> (E) 26
-> A
-> B
-> C
-> D
-> E
-> F
-> G
-> H
+>
+> - **(A)** 24
+> - **(B)** 36
+> - **(C)** 28
+> - **(D)** 22
+> - **(E)** 26 A B C D E F G H
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

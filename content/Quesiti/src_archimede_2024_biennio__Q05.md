@@ -33,11 +33,12 @@ tags:
 > Michela vorrebbe scrivere sotto forma di numero decimale la frazione 3
 > 7 .
 > Quale cifra occuperà il millesimo posto dopo la virgola?
-> (A) 4
-> (B) 5
-> (C) 2
-> (D) 7
-> (E) 8
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 2
+> - **(D)** 7
+> - **(E)** 8
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

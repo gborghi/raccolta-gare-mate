@@ -29,14 +29,12 @@ tags:
 *Numero pensato per comporre il braccialetto*
 
 > Come mostra la figura, la mamma ha tagliato a metà una torta, poi ha tagliato a metà una delle due metà, ancora ha tagliato a metà una delle due parti ottenute e infine ha tagliato a metà una delle due ultime fette ottenute. Le fette più piccole che ha ottenuto pesano un etto. Quanti etti pesava l'intera torta?
-> 
-> (A) $6$
-> (B) $8$
-> (C) $12$
-> (D) $16$
-> (E) $20$
-> 
-> (vedi figura)
+>
+> - **(A)** $6$
+> - **(B)** $8$
+> - **(C)** $12$
+> - **(D)** $16$
+> - **(E)** $20$ (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

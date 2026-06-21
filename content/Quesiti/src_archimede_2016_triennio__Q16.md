@@ -36,11 +36,12 @@ tags:
 > circonferenza C e con Y il punto medio dell’arco ˜
 > EG contenente F. Sapendo che
 > FX = 12 e FY = 5, quanto misura il raggio della circonferenza C?
-> (A) 9
-> (B) 13/2
-> (C) 7
-> (D) 8
-> (E) 11/2
+>
+> - **(A)** 9
+> - **(B)** 13/2
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 11/2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

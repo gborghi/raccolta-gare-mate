@@ -45,11 +45,12 @@ tags:
 > cm² e la sua base maggiore è doppia della
 > minore. Qual è la somma delle aree dei due
 > triangoli che sono stati tolti?
-> (A) 10 cm²
-> (B) 12 cm²
-> (C) 15 cm²
-> (D) 18 cm²  
-> (E) 20 cm².
+>
+> - **(A)** 10 cm²
+> - **(B)** 12 cm²
+> - **(C)** 15 cm²
+> - **(D)** 18 cm²
+> - **(E)** 20 cm².
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

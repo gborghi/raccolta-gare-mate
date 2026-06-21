@@ -31,11 +31,12 @@ tags:
 > Indichiamo con 40! il numero ottenuto moltiplicando tutti i numeri interi da 1 a
 > 40, vale a dire 40! = 1 · 2 · 3 · 4 · ... · 38 · 39 · 40. Tra i numeri interi maggiori di 40
 > che sono divisori di 40!, trovare i cinque più piccoli ed indicare la loro somma.
-> (A) 225
-> (B) 215
-> (C) 219
-> (D) 217
-> (E) 223
+>
+> - **(A)** 225
+> - **(B)** 215
+> - **(C)** 219
+> - **(D)** 217
+> - **(E)** 223
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

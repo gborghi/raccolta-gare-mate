@@ -30,11 +30,12 @@ tags:
 
 > “In ogni scuola c’è almeno una classe in cui sono tutti promossi”. Volendo negare
 > questa affermazione, quale dei seguenti enunciati sceglieresti?
-> (A) “In ogni scuola c’è almeno una classe in cui sono tutti bocciati”
-> (B) “In ogni scuola c’è almeno un bocciato in tutte le classi”
-> (C) “C’è almeno una scuola che ha almeno un bocciato in ogni classe”
-> (D) “C’è almeno una scuola che ha dei promossi in ogni classe”
-> (E) “C’è almeno una scuola in cui c’è una classe che ha almeno un bocciato”.
+>
+> - **(A)** “In ogni scuola c’è almeno una classe in cui sono tutti bocciati”
+> - **(B)** “In ogni scuola c’è almeno un bocciato in tutte le classi”
+> - **(C)** “C’è almeno una scuola che ha almeno un bocciato in ogni classe”
+> - **(D)** “C’è almeno una scuola che ha dei promossi in ogni classe”
+> - **(E)** “C’è almeno una scuola in cui c’è una classe che ha almeno un bocciato”.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

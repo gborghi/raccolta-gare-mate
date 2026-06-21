@@ -53,11 +53,12 @@ tags:
 > cattivo. Vince chi lascia all’avversario il solo quadretto cattivo.
 > Sapendo che Roberto è il primo a giocare, cosa deve mangiare
 > per essere sicuro della vittoria?
-> (A) i due quadretti più a destra
-> (B) i quattro quadretti più a destra
-> (C) i sei quadretti più a destra
-> (D) i quattro quadretti in basso
-> (E) qualunque mossa faccia, Roberto perde!.
+>
+> - **(A)** i due quadretti più a destra
+> - **(B)** i quattro quadretti più a destra
+> - **(C)** i sei quadretti più a destra
+> - **(D)** i quattro quadretti in basso
+> - **(E)** qualunque mossa faccia, Roberto perde!.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

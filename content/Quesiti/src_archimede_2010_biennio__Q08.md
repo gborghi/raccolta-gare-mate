@@ -34,12 +34,12 @@ tags:
 > uguali). Partono nello stesso istante, e si incontrano una prima volta, all’andata,
 > a 700 metri da B, e una seconda volta, mentre Alberto sta andando da B ad A e
 > Barbara da A a B, a 400 metri da A. Quanto dista A da B?
-> (A) 900 metri,
-> (B) 1100 metri,
-> (C) 1700 metri,
-> (D) 2000 metri,
-> (E) non
-> si può determinare.
+>
+> - **(A)** 900 metri,
+> - **(B)** 1100 metri,
+> - **(C)** 1700 metri,
+> - **(D)** 2000 metri,
+> - **(E)** non si può determinare.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

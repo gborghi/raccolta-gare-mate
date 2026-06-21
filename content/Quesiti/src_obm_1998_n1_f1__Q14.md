@@ -38,12 +38,12 @@ tags:
 *Difference between sum of all odd and all even two-digit numbers*
 
 > The sum of all odd two-digit numbers minus the sum of all even two-digit numbers equals:
-> 
-> (A) $50$
-> (B) $46$
-> (C) $45$
-> (D) $49$
-> (E) $48$
+>
+> - **(A)** $50$
+> - **(B)** $46$
+> - **(C)** $45$
+> - **(D)** $49$
+> - **(E)** $48$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_simmetria|Simmetria]]

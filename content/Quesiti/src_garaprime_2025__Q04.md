@@ -34,12 +34,12 @@ tags:
 > Cecilia, usando solo le cifre 2, 5, x, y, con x ̸= 0 ̸= y e tale che ciascuna delle quattro cifre sia diversa dalle
 > altre, ha scritto alla lavagna tutti i possibili numeri interi di due cifre distinte. Se si vuole che la somma
 > totale dei numeri scritti sia uguale a 396, quanto deve valere x + y?
-> (A) 4
-> (B)
-> 5
-> (C) 8
-> (D) 9
-> (E) 12
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** 12
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

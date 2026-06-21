@@ -38,11 +38,12 @@ tags:
 > Nicola: “c’è una ragazza che mente sempre,l’altra è sempre sincera”
 > Paola: “uno dei ragazzi è sempre sincero, l’altro mai”.
 > Sapreste dire quanti al tavolo sono sempre sinceri?
-> (A) Nessuno
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) tutti.
+>
+> - **(A)** Nessuno
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** tutti.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

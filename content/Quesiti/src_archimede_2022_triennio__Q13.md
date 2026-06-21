@@ -36,11 +36,12 @@ tags:
 > che, in tal caso, regali un’altra caramella all’altra persona, che la mette nel proprio
 > sacchetto. Dopo un po’ di tempo, nessuno dei due può più mangiare caramelle. Si
 > può affermare che, a questo punto, . . .
-> (A) sono rimasti entrambi senza caramelle
-> (B) Alberto ha una caramella, Barbara nessuna
-> (C) Barbara ha una caramella, Alberto nessuna
-> (D) hanno entrambi una caramella
-> (E) uno dei due (non si può prevedere chi) ha una caramella, l’altro nessuna
+>
+> - **(A)** sono rimasti entrambi senza caramelle
+> - **(B)** Alberto ha una caramella, Barbara nessuna
+> - **(C)** Barbara ha una caramella, Alberto nessuna
+> - **(D)** hanno entrambi una caramella
+> - **(E)** uno dei due (non si può prevedere chi) ha una caramella, l’altro nessuna
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

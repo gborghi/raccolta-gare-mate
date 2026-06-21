@@ -35,11 +35,12 @@ tags:
 > aprirle (i colori dei biglietti non si vedono dall’esterno). Quante deve prenderne,
 > come minimo, per essere certa di trovare almeno 3 biglietti di un colore ed altri 3
 > di un altro colore (diverso dal primo)?
-> (A) 29
-> (B) 16
-> (C) 26
-> (D) 25
-> (E) 27
+>
+> - **(A)** 29
+> - **(B)** 16
+> - **(C)** 26
+> - **(D)** 25
+> - **(E)** 27
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

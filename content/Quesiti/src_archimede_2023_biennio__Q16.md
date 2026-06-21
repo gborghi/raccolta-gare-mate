@@ -41,12 +41,12 @@ tags:
 > A′
 > C′
 > B′
-> (A) 75
-> (B) 70
-> (C) 80
-> (D) 90
-> (E) 72
-> 211
+>
+> - **(A)** 75
+> - **(B)** 70
+> - **(C)** 80
+> - **(D)** 90
+> - **(E)** 72 211
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

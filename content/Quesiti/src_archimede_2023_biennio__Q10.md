@@ -36,11 +36,12 @@ tags:
 > un cavaliere. Un giorno, 11 abitanti sono disposti in cerchio ed ognuno esclama:
 > ”vicino a me ci sono un cavaliere ed un furfante”. Quanti sono, come minimo, i
 > paggi tra le 11 persone in cerchio?
-> (A) 4
-> (B) 0
-> (C) 3
-> (D) 2
-> (E) 1
+>
+> - **(A)** 4
+> - **(B)** 0
+> - **(C)** 3
+> - **(D)** 2
+> - **(E)** 1
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

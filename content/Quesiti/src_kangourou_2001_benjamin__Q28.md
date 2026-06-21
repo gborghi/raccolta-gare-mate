@@ -47,14 +47,12 @@ tags:
 > La stella mostrata nella figura è stata realizzata toccando i punti
 > medi dei lati di un esagono regolare. Se l'area della stella è 6, quale
 > è l'area dell'esagono?
-> (A) 8
-> (B) 9
-> (C) 12
-> (D) 15 
-> (E) 18.
-> 
-> Kangourou 15 marzo 2001, categoria Benjamin.     Pagina N.
-> 7
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 12
+> - **(D)** 15
+> - **(E)** 18. Kangourou 15 marzo 2001, categoria Benjamin. Pagina N. 7
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

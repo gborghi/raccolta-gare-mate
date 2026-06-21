@@ -29,11 +29,12 @@ tags:
 *Valore di 0,3 al cubo*
 
 > 0, 3 × 0, 3 × 0, 3 è uguale a
-> (A) 0,9
-> (B) 0,27
-> (C) 0,027
-> (D) 0,009
-> (E) 0,0027.
+>
+> - **(A)** 0,9
+> - **(B)** 0,27
+> - **(C)** 0,027
+> - **(D)** 0,009
+> - **(E)** 0,0027.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

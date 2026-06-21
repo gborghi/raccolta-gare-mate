@@ -37,12 +37,12 @@ tags:
 *For how many integers n is n/(100-n) also an integer*
 
 > For how many integers $n$ is the number $\dfrac{n}{100-n}$ also an integer?
-> 
-> (A) $1$
-> (B) $6$
-> (C) $10$
-> (D) $18$
-> (E) $100$
+>
+> - **(A)** $1$
+> - **(B)** $6$
+> - **(C)** $10$
+> - **(D)** $18$
+> - **(E)** $100$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]

@@ -34,11 +34,12 @@ tags:
 > dado ha quattro facce con il numero 2 e due facce con il 5. Laura sta per lanciare
 > i 200 dadi tutti assieme, poi farà la somma dei 200 numeri usciti. Quanti sono i
 > possibili valori che può assumere questa somma?
-> (A) 201
-> (B) 1000
-> (C) 601
-> (D) 600
-> (E) 1001
+>
+> - **(A)** 201
+> - **(B)** 1000
+> - **(C)** 601
+> - **(D)** 600
+> - **(E)** 1001
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

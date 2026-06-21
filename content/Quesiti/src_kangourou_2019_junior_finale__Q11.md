@@ -30,12 +30,12 @@ tags:
 *Lato incognito dei sei rettangoli nella circonferenza*
 
 > I vertici di un quadrato sono, in senso orario, $A$, $B$, $C$ e $D$. I vertici di un triangolo equilatero sono, in senso orario, $A$, $B$ e $E$, dove $A$ e $B$ sono gli stessi vertici del quadrato. Qual è la misura in gradi dell'angolo $\angle CBE$?
-> 
-> (A) 30
-> (B) 45
-> (C) 135
-> (D) 145
-> (E) 150
+>
+> - **(A)** 30
+> - **(B)** 45
+> - **(C)** 135
+> - **(D)** 145
+> - **(E)** 150
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]

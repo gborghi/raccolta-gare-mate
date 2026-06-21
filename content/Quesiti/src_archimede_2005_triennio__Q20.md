@@ -33,11 +33,12 @@ tags:
 > termini sono uguali a 1: a0 = a1 = 1, e, per ogni n maggiore o uguale a uno,
 > an+1 = n(an + an−1) (quindi, ad esempio, a2 = 1(a1 + a0) = 1 · 2 = 2). Con quale
 > cifra termina a2005?
-> (A) 0,
-> (B) 2,
-> (C) 4,
-> (D) 6,
-> (E) 8.
+>
+> - **(A)** 0,
+> - **(B)** 2,
+> - **(C)** 4,
+> - **(D)** 6,
+> - **(E)** 8.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]

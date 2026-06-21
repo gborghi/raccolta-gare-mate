@@ -28,12 +28,12 @@ tags:
 *valore N*
 
 > Sulla lavagna è scritto inizialmente il numero 1. Successivamente, dieci studenti a turno cancellano il numero che trovano sulla lavagna e lo sostituiscono con il suo doppio. Qual è il numero che resta sulla lavagna alla fine?
-> 
-> (A) $2^{10} - 1$
-> (B) $2^{10} + 1$
-> (C) $2^{11} - 1$
-> (D) $3^{10}$
-> (E) $2^{10}$
+>
+> - **(A)** $2^{10} - 1$
+> - **(B)** $2^{10} + 1$
+> - **(C)** $2^{11} - 1$
+> - **(D)** $3^{10}$
+> - **(E)** $2^{10}$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

@@ -36,11 +36,12 @@ tags:
 > ai nipoti secondo questo criterio: dà a ciascun nipote un numero di ciliege ottenuto
 > moltiplicando l’età del nipote per un certo fattore, e questo fattore è lo stesso per
 > tutti e tre i nipoti. Quante ciliege vengono date a Jacopo?
-> (A) 20,
-> (B) 21,
-> (C) 22,
-> (D) 23,
-> (E) 24.
+>
+> - **(A)** 20,
+> - **(B)** 21,
+> - **(C)** 22,
+> - **(D)** 23,
+> - **(E)** 24.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

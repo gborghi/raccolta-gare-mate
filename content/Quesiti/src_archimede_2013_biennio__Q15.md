@@ -29,11 +29,12 @@ tags:
 *Coefficiente di x^199 in (x^2+x+1)^100*
 
 > Qual è il coefficiente di x199 in (x2 + x + 1)100?
-> (A) 100
-> (B) 298
-> (C) 4950
-> (D) 5050
-> (E) 992
+>
+> - **(A)** 100
+> - **(B)** 298
+> - **(C)** 4950
+> - **(D)** 5050
+> - **(E)** 992
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

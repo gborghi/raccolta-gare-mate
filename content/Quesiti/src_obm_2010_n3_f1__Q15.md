@@ -43,12 +43,12 @@ tags:
 *Net of an icosahedron with vertex constraints; find the number on the question-marked face.*
 
 > The figure below was cut from cardboard and then folded to form an icosahedron. The faces have numbers from $1$ to $5$ such that at each vertex (point) of the solid the numbers $1$ to $5$ all appear. Which number is on the face with the question mark?
-> 
-> (A) $1$
-> (B) $2$
-> (C) $3$
-> (D) $4$
-> (E) $5$
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** $5$
 
 ![[src_obm_2010_n3_f1__Q15.png]]
 

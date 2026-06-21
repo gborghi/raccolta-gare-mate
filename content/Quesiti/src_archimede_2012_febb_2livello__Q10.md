@@ -36,18 +36,12 @@ tags:
 > due pali piantati nel terreno nei punti D ed E, che distano tra loro esattamente un metro. A, B e
 > C vedono tutti il lato frontale del cartellone. Sapendo che gli angoli D bAE, D bBE e D bCE misurano
 > tutti 30 gradi, qual è la distanza (in linea d’aria) tra B e C?
-> (A) 3
-> 2 m
-> (B) 1 +
-> √
-> 5
-> 2
-> m
-> (C)
-> √
-> 3 m
-> (D) 2 m
-> (E) Non è possibile determinarlo.
+>
+> - **(A)** 3 2 m
+> - **(B)** 1 + √ 5 2 m
+> - **(C)** √ 3 m
+> - **(D)** 2 m
+> - **(E)** Non è possibile determinarlo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

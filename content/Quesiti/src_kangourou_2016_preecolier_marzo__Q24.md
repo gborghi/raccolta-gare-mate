@@ -33,12 +33,12 @@ tags:
 *Massimo scatole con uguale somma, numeri dati*
 
 > Silvia ha scritto ognuno dei numeri 1, 5, 8, 9, 10, 12 e 15 su un foglietto (un foglietto per ogni numero). Ha quindi messo i foglietti in alcune scatole (almeno uno per scatola): la somma dei numeri scritti sui foglietti contenuti nelle singole scatole è uguale per tutte le scatole. Quante possono essere, al massimo, le scatole?
-> 
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

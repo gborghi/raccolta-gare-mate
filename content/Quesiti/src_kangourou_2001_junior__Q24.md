@@ -31,11 +31,12 @@ tags:
 *Cifra delle unita della somma di potenze*
 
 > Sia a = 1997 1998 + 1998 1999 + 1999 2000 + 2000 2001. La cifra delle unità di a è
-> (A) 0
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5.
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

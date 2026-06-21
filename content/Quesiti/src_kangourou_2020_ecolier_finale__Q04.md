@@ -33,14 +33,12 @@ tags:
 *Quadratini bianchi nel decimo quadrato*
 
 > I quadrati nelle risposte sono stati parzialmente colorati di grigio. In quale di essi la parte colorata è maggiore?
-> 
-> (A) (immagine A)
-> (B) (immagine B)
-> (C) (immagine C)
-> (D) (immagine D)
-> (E) (immagine E)
-> 
-> (vedi figura)
+>
+> - **(A)** (immagine A)
+> - **(B)** (immagine B)
+> - **(C)** (immagine C)
+> - **(D)** (immagine D)
+> - **(E)** (immagine E) (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

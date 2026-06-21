@@ -34,11 +34,12 @@ tags:
 
 > Per quanti valori distinti del numero naturale n l’equazione 3x2 + 2nx + 3 = 0 ha
 > due soluzioni reali distinte, e queste sono entrambe numeri interi?
-> (A) Nessuno,
-> (B) 1,
-> (C) 2,
-> (D) 4,
-> (E) più di 5.
+>
+> - **(A)** Nessuno,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 4,
+> - **(E)** più di 5.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

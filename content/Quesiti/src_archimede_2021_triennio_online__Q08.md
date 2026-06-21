@@ -64,11 +64,12 @@ tags:
 > S
 > T
 > I
-> (A) 18 mm2
-> (B) 27 mm2
-> (C) 24 mm2
-> (D) 21 mm2
-> (E) 20 mm2
+>
+> - **(A)** 18 mm2
+> - **(B)** 27 mm2
+> - **(C)** 24 mm2
+> - **(D)** 21 mm2
+> - **(E)** 20 mm2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

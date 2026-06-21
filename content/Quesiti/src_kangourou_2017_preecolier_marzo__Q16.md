@@ -29,14 +29,12 @@ tags:
 *Minimo fogli per fare tre corone*
 
 > Lisa sta disegnando delle corone come quella a fianco usando adesivi con queste forme: una croce ($+$), un cerchio ($\bullet$), una striscia orizzontale ($-$). Gli adesivi si possono staccare da fogli separati che presentano queste due composizioni: il foglio 1 contiene 2 strisce e 1 cerchio e 1 croce; il foglio 2 contiene 4 cerchi, 2 croci e 2 croci. Qual è il minimo numero di fogli che Lisa dovrà usare, se vuol fare 3 corone?
-> 
-> (A) 3
-> (B) 4
-> (C) 5
-> (D) 6
-> (E) 7
-> 
-> (vedi figura)
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7 (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

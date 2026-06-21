@@ -31,12 +31,12 @@ tags:
 *Minimo numero di porte da A a B nella casa delle bambole*
 
 > La figura rappresenta una casa delle bambole vista dall'alto (dopo averle tolto il tetto) con le stanze e le porte che si aprono in ciascuna stanza: si può andare da ogni stanza a ogni altra stanza. La bambola Emma deve andare dalla stanza indicata con A a quella indicata con B: qual è il più piccolo numero di porte che le basterà attraversare? (vedi figura)
-> 
-> (A) 3
-> (B) 4
-> (C) 5
-> (D) 6
-> (E) 7
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

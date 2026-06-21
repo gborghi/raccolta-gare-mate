@@ -31,14 +31,12 @@ tags:
 ![[src_kangourou_2021_preecolier_koala__prob7.png]]
 
 > Questi bambini sono in fila. Alcuni sono rivolti verso di te e altri ti danno le spalle. Quanti tra bambini e bambine tengono la mano di un altro bambino con la mano destra?
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
-> 
-> (vedi figura)
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6 (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

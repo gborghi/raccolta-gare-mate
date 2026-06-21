@@ -31,11 +31,12 @@ tags:
 > Una ruota avente diametro 5 cm è connessa ad un’altra ruota tramite una cinghia
 > di trasmissione. La prima ruota a 1000 giri al minuto. Che diametro dovrà avere
 > la seconda ruota per ruotare a 200 giri al minuto?
-> (A) 20 cm
-> (B) 25 cm
-> (C) 27 cm
-> (D) 50 cm
-> (E) dipende dalla distanza fra gli assi delle ruote.
+>
+> - **(A)** 20 cm
+> - **(B)** 25 cm
+> - **(C)** 27 cm
+> - **(D)** 50 cm
+> - **(E)** dipende dalla distanza fra gli assi delle ruote.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

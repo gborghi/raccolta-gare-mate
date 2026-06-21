@@ -34,11 +34,12 @@ tags:
 > caratteri; inoltre un carattere non si può mai ripetere due o più volte consecutivamente, e una coppia
 > di caratteri consecutivi non può comparire in un altro punto della parola chiave. Sul tastierino
 > funzionano ormai solo le lettere E, N e V : quante parole chiave diverse si possono tentare?
-> (A) 6
-> (B) 18
-> (C) 62
-> (D) 26
-> (E) infinite.
+>
+> - **(A)** 6
+> - **(B)** 18
+> - **(C)** 62
+> - **(D)** 26
+> - **(E)** infinite.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

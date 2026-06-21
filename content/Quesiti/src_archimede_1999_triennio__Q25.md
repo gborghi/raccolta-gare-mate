@@ -51,20 +51,12 @@ tags:
 > che distanza da O deve essere il punto P affinch´e le
 > corde intercettate dalla perpendicolare in P ad OA
 > siano di lunghezza una il doppio dell’altra?
-> (A) 1
-> 6
-> (B) 1
-> 3
-> (C) 1
-> 2
-> (D) 2
-> 3
-> (E) 3
-> 4.
-> O
-> b
-> P
-> A
+>
+> - **(A)** 1 6
+> - **(B)** 1 3
+> - **(C)** 1 2
+> - **(D)** 2 3
+> - **(E)** 3 4. O b P A
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

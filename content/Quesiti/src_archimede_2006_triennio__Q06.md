@@ -31,11 +31,12 @@ tags:
 > Francesco è interessato a un modello di televisore che viene venduto nei supermercati Landscape a 800 Euro. Si accorge poi che nei negozi Ipersfera vendono lo stesso
 > modello al 15% in meno e praticano uno sconto del 10% a tutti i clienti di nome
 > Francesco. Quanto spende acquistando il televisore nei negozi Ipersfera?
-> (A) 600 Euro,
-> (B) 612 Euro,
-> (C) 680 Euro,
-> (D) 720 Euro,
-> (E) 790 Euro.
+>
+> - **(A)** 600 Euro,
+> - **(B)** 612 Euro,
+> - **(C)** 680 Euro,
+> - **(D)** 720 Euro,
+> - **(E)** 790 Euro.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

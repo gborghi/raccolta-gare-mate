@@ -30,16 +30,16 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob3.png]]
 
 > Caterina ha ritagliato un pezzo di questa griglia.
-> 
+>
 > (vedi figura)
-> 
+>
 > Quale di questi può essere il pezzo che ha ritagliato?
-> 
-> (A) triangolo e quadrato
-> (B) triangolo rovesciato e cerchio
-> (C) stella e triangolo rivolto a sinistra
-> (D) stella e rombo
-> (E) quadrato e cerchio
+>
+> - **(A)** triangolo e quadrato
+> - **(B)** triangolo rovesciato e cerchio
+> - **(C)** stella e triangolo rivolto a sinistra
+> - **(D)** stella e rombo
+> - **(E)** quadrato e cerchio
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

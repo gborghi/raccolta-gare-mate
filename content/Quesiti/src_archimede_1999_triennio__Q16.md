@@ -29,11 +29,12 @@ tags:
 *Quante radici reali di una equazione esponenziale*
 
 > Quante radici reali possiede l’equazione 9 −2x = 23−x?
-> (A) Due
-> (B) più di due, ma un numero finito
-> (C) nessuna
-> (D) infinite
-> (E) una.
+>
+> - **(A)** Due
+> - **(B)** più di due, ma un numero finito
+> - **(C)** nessuna
+> - **(D)** infinite
+> - **(E)** una.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

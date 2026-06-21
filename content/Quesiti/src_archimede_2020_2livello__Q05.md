@@ -33,11 +33,12 @@ tags:
 > Attorno a un tavolo rotondo sono sedute, a distanza costante l’una dalla successiva, 32 persone.
 > In quanti modi è possibile scegliere 3 di loro in modo che a coppie non siano n´e adiacenti n´e
 > diametralmente opposte?
-> (A) 2246
-> (B) 2480
-> (C) 3616
-> (D) 24128
-> (E) Nessuna delle precedenti
+>
+> - **(A)** 2246
+> - **(B)** 2480
+> - **(C)** 3616
+> - **(D)** 24128
+> - **(E)** Nessuna delle precedenti
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

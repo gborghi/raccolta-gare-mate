@@ -35,11 +35,12 @@ tags:
 > Un giardino quadrato di 20 metri di lato viene innaffiato con irrigatori puntiformi.
 > Ciascun irrigatore innaffia tutti i punti che distano da esso al più 10 metri. Qual
 > è il minimo numero di irrigatori necessario per innaffiare tutto il giardino?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

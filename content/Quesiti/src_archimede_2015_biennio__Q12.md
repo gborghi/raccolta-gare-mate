@@ -33,11 +33,12 @@ tags:
 > tavolo e ciascuno dice: “la persona alla mia destra è un furfante”. Sapendo che
 > tra i presenti ci sono meno di 100 cavalieri, quale dei seguenti potrebbe essere il
 > numero dei partecipanti alla riunione?
-> (A) 208
-> (B) 85
-> (C) 153
-> (D) 168
-> (E) 205
+>
+> - **(A)** 208
+> - **(B)** 85
+> - **(C)** 153
+> - **(D)** 168
+> - **(E)** 205
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

@@ -33,11 +33,12 @@ tags:
 > Sapendo che (4x + 5)(7x + 4)(4x −5) = 0, quale può essere, al massimo, il valore di
 > 4 −3
 > x ?
-> (A) 37/4
-> (B) 19/2
-> (C) 32/5
-> (D) 8/5
-> (E) 44/5
+>
+> - **(A)** 37/4
+> - **(B)** 19/2
+> - **(C)** 32/5
+> - **(D)** 8/5
+> - **(E)** 44/5
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

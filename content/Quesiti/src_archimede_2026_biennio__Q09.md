@@ -31,11 +31,12 @@ tags:
 > Un uomo e i suoi due figli hanno in tutto 96 anni. Quattro anni fa, il figlio maggiore
 > aveva la metà degli anni del padre e il doppio degli anni del fratello. Che numero
 > si ottiene se si moltiplicano le età attuali dei due figli?
-> (A) 384
-> (B) 288
-> (C) 480
-> (D) 432
-> (E) 448
+>
+> - **(A)** 384
+> - **(B)** 288
+> - **(C)** 480
+> - **(D)** 432
+> - **(E)** 448
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

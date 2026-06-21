@@ -34,13 +34,12 @@ tags:
 > seguenti relazioni è valida (tutti i cerchi piccoli hanno lo
 > stesso raggio r, e i 4 tangenti a quello grande hanno i centri
 > sui vertici di un quadrato).
-> (A) a < b, qualunque sia r
-> (B) a = b, qualunque sia r
-> (C) a > b, qualunque sia r
-> (D) a < b oppure a = b, dipende dal valore di r
-> (E) a > b oppure a = b, dipende dal valore di r.
-> a
-> b
+>
+> - **(A)** a < b, qualunque sia r
+> - **(B)** a = b, qualunque sia r
+> - **(C)** a > b, qualunque sia r
+> - **(D)** a < b oppure a = b, dipende dal valore di r
+> - **(E)** a > b oppure a = b, dipende dal valore di r. a b
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

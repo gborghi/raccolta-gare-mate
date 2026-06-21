@@ -31,15 +31,12 @@ tags:
 
 > Quanto è lungo il percorso più corto che passa per tutti i vertici di un cubo di lato
 > 1 m? N.B. il percorso può anche passare all’interno del cubo.
-> (A) 6 m
-> (B) 7 m
-> (C) (6 +
-> √
-> 2) m
-> (D) (6 +
-> √
-> 3) m
-> (E) 8 m
+>
+> - **(A)** 6 m
+> - **(B)** 7 m
+> - **(C)** (6 + √ 2) m
+> - **(D)** (6 + √ 3) m
+> - **(E)** 8 m
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

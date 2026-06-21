@@ -29,11 +29,12 @@ tags:
 
 > L’area del triangolo DEF è di 8 m2. Si prolunga il lato DE di un segmento EE′ = DE; si prolunga il lato EF di
 > un segmento FF ′ = EF; si prolunga il lato FD di un segmento DD′ = 2 FD. Quale sarà l’area di D′E′F ′?
-> (A) 88 m2
-> (B) 72 m2
-> (C) 64 m2
-> (D) 80 m2
-> (E) 84 m2
+>
+> - **(A)** 88 m2
+> - **(B)** 72 m2
+> - **(C)** 64 m2
+> - **(D)** 80 m2
+> - **(E)** 84 m2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

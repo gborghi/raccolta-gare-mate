@@ -35,12 +35,12 @@ tags:
 > Trova il minimo numero di fiammiferi che bisogna
 > aggiungere alla figura in modo da ottenere esattamente
 > 11 quadrati.
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6.
-> I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6. I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

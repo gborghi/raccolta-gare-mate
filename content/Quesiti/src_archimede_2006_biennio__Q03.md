@@ -30,11 +30,12 @@ tags:
 
 > Quanti divisori positivi ha il numero 5·4·3·2? (Tra i divisori di un numero devono
 > essere contati anche 1 e il numero stesso.)
-> (A) 4,
-> (B) 8,
-> (C) 10,
-> (D) 12,
-> (E) 16.
+>
+> - **(A)** 4,
+> - **(B)** 8,
+> - **(C)** 10,
+> - **(D)** 12,
+> - **(E)** 16.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

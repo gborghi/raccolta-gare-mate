@@ -33,12 +33,12 @@ tags:
 > Nella figura a fianco BC è parallelo ad AE e BD è
 > parallelo a CE. Se x è l'area del quadrilatero ABCD
 > e y l'area del triangolo ACE, allora
-> (A) x = y 
-> (B) x = 2 y
-> (C) 2 x = y
-> (D) e’ vera una diversa relazione tra  x e y
-> (E) e’ impossibile determinare con questi soli 
-> dati, quale relazione valga tra x e y.
+>
+> - **(A)** x = y
+> - **(B)** x = 2 y
+> - **(C)** 2 x = y
+> - **(D)** e’ vera una diversa relazione tra x e y
+> - **(E)** e’ impossibile determinare con questi soli dati, quale relazione valga tra x e y.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

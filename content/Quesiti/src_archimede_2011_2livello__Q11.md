@@ -34,11 +34,12 @@ tags:
 > x e y sono due interi positivi tali che x2 −y2 è positivo, multiplo di 2011 e ha esattamente 2011
 > divisori positivi. Quante sono le coppie ordinate (x, y) che verificano tali condizioni?
 > Nota: 2011 è un numero primo
-> (A) 2010
-> (B) 2011
-> (C) 1005
-> (D) 0
-> (E) Ne esistono infinite.
+>
+> - **(A)** 2010
+> - **(B)** 2011
+> - **(C)** 1005
+> - **(D)** 0
+> - **(E)** Ne esistono infinite.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

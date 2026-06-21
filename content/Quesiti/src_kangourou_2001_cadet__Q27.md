@@ -34,11 +34,12 @@ tags:
 > esagono regolare. Ogni pentagono è circondato da 5 esagoni e ogni esagono è
 > circondato da 3 pentagoni e da 3 esagoni. Il pallone ha 12 pentagoni. Quanti
 > esagoni deve avere?
-> (A) 60
-> (B) 30
-> (C) 20
-> (D) 15
-> (E) 10.
+>
+> - **(A)** 60
+> - **(B)** 30
+> - **(C)** 20
+> - **(D)** 15
+> - **(E)** 10.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

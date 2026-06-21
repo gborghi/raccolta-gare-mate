@@ -29,11 +29,12 @@ tags:
 *Cifra delle unita di 3^(8^7)*
 
 > Qual è la cifra delle unità di 3(87)?
-> (A) 1
-> (B) 7
-> (C) 3
-> (D) 9
-> (E) 5
+>
+> - **(A)** 1
+> - **(B)** 7
+> - **(C)** 3
+> - **(D)** 9
+> - **(E)** 5
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

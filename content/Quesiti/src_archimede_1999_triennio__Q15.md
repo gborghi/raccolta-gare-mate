@@ -32,13 +32,12 @@ tags:
 
 > Sia N la somma dei 25 numeri primi più piccoli. La cifra delle unità di N è uguale
 > a
-> (A) 1
-> (B) 3
-> (C) 7
-> (D) 9
-> (E) 0.
-> NOTA. Si ricorda che il numero 1 non è considerato primo e che quindi il numero
-> primo più piccolo è 2.
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 7
+> - **(D)** 9
+> - **(E)** 0. NOTA. Si ricorda che il numero 1 non è considerato primo e che quindi il numero primo più piccolo è 2.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

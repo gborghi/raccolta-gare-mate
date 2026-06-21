@@ -33,11 +33,12 @@ tags:
 
 > Quante sono le coppie di interi positivi (a, b) tali che a sia un divisore di b ed inoltre
 > si abbia a + 2b = 1010 ?
-> (A) 503
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 504
+>
+> - **(A)** 503
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 504
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

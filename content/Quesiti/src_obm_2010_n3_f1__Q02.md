@@ -37,12 +37,12 @@ tags:
 *Which of the given numbers divides a product of powers.*
 
 > Which of the following numbers is a divisor of $3^5\cdot 4^4\cdot 5^3$?
-> 
-> (A) $42$
-> (B) $45$
-> (C) $52$
-> (D) $85$
-> (E) $105$
+>
+> - **(A)** $42$
+> - **(B)** $45$
+> - **(C)** $52$
+> - **(D)** $85$
+> - **(E)** $105$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

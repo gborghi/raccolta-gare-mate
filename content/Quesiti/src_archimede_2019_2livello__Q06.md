@@ -38,11 +38,12 @@ tags:
 > sul display per 3. Se si preme il tasto +1 per due volte consecutive, la calcolatrice esplode. Se
 > il display della calcolatrice tiene al più 5 cifre, quanti sono i numeri che Pierino può ottenere con
 > un’opportuna sequenza di tasti (senza far esplodere la calcolatrice)?
-> (A) 2048
-> (B) 2187
-> (C) 4096
-> (D) 6561
-> (E) 66666
+>
+> - **(A)** 2048
+> - **(B)** 2187
+> - **(C)** 4096
+> - **(D)** 6561
+> - **(E)** 66666
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]

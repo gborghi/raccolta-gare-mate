@@ -35,12 +35,12 @@ tags:
 *Triangle with cevian, angle 80 at B, angle 30 at C, right angle at H, BC=2BH, find x*
 
 > In the figure, $BC = 2BH$. The angle at $H$ is a right angle, the angle at $B$ adjacent to side $BC$ measures $80^\circ$, the part above it measures $x$, and the angle at $C$ measures $30^\circ$. Find $x$.
-> 
-> (A) $10^\circ$
-> (B) $15^\circ$
-> (C) $16^\circ$
-> (D) $20^\circ$
-> (E) $25^\circ$
+>
+> - **(A)** $10^\circ$
+> - **(B)** $15^\circ$
+> - **(C)** $16^\circ$
+> - **(D)** $20^\circ$
+> - **(E)** $25^\circ$
 
 ![[src_obm_2010_n2_f1__Q24.png]]
 

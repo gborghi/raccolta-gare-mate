@@ -32,11 +32,12 @@ tags:
 
 > La funzione a valori reali f soddisfa le uguaglianze f(x) = f(2021 −x) e f(x + 10) = f(2010 −x), per qualsiasi
 > numero reale x. Sapendo che f(2) + f(3) + f(4) = 4, qual è il valore di f(16) + f(17) + f(18) + f(19) ?
-> (A) non si può stabilire
-> (B) 19
-> (C) 15/4
-> (D) 9/2
-> (E) 16/3
+>
+> - **(A)** non si può stabilire
+> - **(B)** 19
+> - **(C)** 15/4
+> - **(D)** 9/2
+> - **(E)** 16/3
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

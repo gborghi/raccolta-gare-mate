@@ -29,12 +29,12 @@ tags:
 *Foglie totali rimaste sui due ramoscelli*
 
 > Un canguro aveva staccato due ramoscelli per fare colazione. Su ogni ramoscello c'erano 10 foglie. Il canguro mangiò solo alcune foglie del primo ramoscello; del secondo ramoscello mangiò tante foglie quante ne erano rimaste sul primo. Quante foglie, in totale, rimasero sui due ramoscelli?
-> 
-> (A) 15
-> (B) 5
-> (C) 6
-> (D) 8
-> (E) 10
+>
+> - **(A)** 15
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 8
+> - **(E)** 10
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

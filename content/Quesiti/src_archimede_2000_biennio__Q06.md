@@ -33,11 +33,12 @@ tags:
 ![[src_archimede_2000_biennio__prob6.png]]
 
 > Quanti assi di simmetria possiede la figura a lato?
-> (A) 2
-> (B) 4
-> (C) 6
-> (D) 8
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 2
+> - **(B)** 4
+> - **(C)** 6
+> - **(D)** 8
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

@@ -33,11 +33,12 @@ tags:
 > Alessandra scrive sul quaderno (di Luigi) tutti i numeri naturali n che hanno entrambe le seguenti
 > proprietà: n ha esattamente 4 divisori positivi (compresi 1 e n stesso), e la somma dei divisori
 > positivi di n fa 42. Quanto vale la somma di tutti i numeri scritti da Alessandra?
-> (A) 0
-> (B) 12
-> (C) 20
-> (D) 26
-> (E) 42
+>
+> - **(A)** 0
+> - **(B)** 12
+> - **(C)** 20
+> - **(D)** 26
+> - **(E)** 42
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

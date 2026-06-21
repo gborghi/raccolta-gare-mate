@@ -32,11 +32,12 @@ tags:
 
 > In quanti modi si possono disporre 3 ragazzi e 3 ragazze per una foto di gruppo,
 > sistemando i 3 ragazzi accovacciati e le 3 ragazze in piedi dietro di loro?
-> (A) 9
-> (B) 24
-> (C) 36
-> (D) 54
-> (E) 81.
+>
+> - **(A)** 9
+> - **(B)** 24
+> - **(C)** 36
+> - **(D)** 54
+> - **(E)** 81.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

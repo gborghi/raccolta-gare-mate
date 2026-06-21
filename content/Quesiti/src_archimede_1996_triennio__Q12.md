@@ -32,24 +32,12 @@ tags:
 
 > Sia D il dominio del piano cartesiano determinato dal
 > sistema di disequazioni a fianco. Qual è l’area di D?
-> (A)
-> √
-> 2π
-> (B) π
-> 2
-> (C) 2
-> (D)
-> √
-> 2
-> (E) 4 −π.
-> 
-> 
-> 
-> 
-> 
-> x2 + y2 ≤1
-> (x −1)2 + (y −1)2 ≥1
-> (x + 1)2 + (y + 1)2 ≥1
+>
+> - **(A)** √ 2π
+> - **(B)** π 2
+> - **(C)** 2
+> - **(D)** √ 2
+> - **(E)** 4 −π.      x2 + y2 ≤1 (x −1)2 + (y −1)2 ≥1 (x + 1)2 + (y + 1)2 ≥1
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

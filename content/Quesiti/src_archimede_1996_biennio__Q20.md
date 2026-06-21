@@ -52,16 +52,12 @@ tags:
 
 > Nel pentagono regolare disegnato a fianco, il triangolo ABC
 > è equilatero. Quanto vale l’angolo convesso E bCD?
-> (A) 120°
-> (B) 144°
-> (C) 150°
-> (D) 168°
-> (E) 170°.
-> D
-> E
-> B
-> A
-> C
+>
+> - **(A)** 120°
+> - **(B)** 144°
+> - **(C)** 150°
+> - **(D)** 168°
+> - **(E)** 170°. D E B A C
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

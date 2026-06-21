@@ -34,11 +34,12 @@ tags:
 > esce testa fa un punto Tommaso, quando esce croce fa un punto Claudia. Appena
 > uno dei due arriva a 4, la partita finisce. Qual è la probabilità che la partita termini
 > sul punteggio di 4 a 2 (per uno qualsiasi dei due)?
-> (A) 15/32
-> (B) 11/32
-> (C) 25/64
-> (D) 3/8
-> (E) 5/16
+>
+> - **(A)** 15/32
+> - **(B)** 11/32
+> - **(C)** 25/64
+> - **(D)** 3/8
+> - **(E)** 5/16
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

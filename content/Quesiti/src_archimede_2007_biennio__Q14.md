@@ -33,11 +33,12 @@ tags:
 > che la lunghezza di AD sia un terzo di quella di AB e la lunghezza di AE sia un
 > terzo di quella di AC. Sapendo che l’area del triangolo ADE è 5 m2, determinare
 > l’area del quadrilatero BCED.
-> (A) 10 m2,
-> (B) 20 m2,
-> (C) 25 m2,
-> (D) 30 m2,
-> (E) 40 m2.
+>
+> - **(A)** 10 m2,
+> - **(B)** 20 m2,
+> - **(C)** 25 m2,
+> - **(D)** 30 m2,
+> - **(E)** 40 m2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

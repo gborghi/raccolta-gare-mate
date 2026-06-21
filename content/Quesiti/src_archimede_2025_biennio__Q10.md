@@ -33,11 +33,12 @@ tags:
 > Silvia deve reimpostare il pin della sua carta di credito, costituito da 5 cifre (ciascuna delle quali può essere una qualsiasi cifra da 0 a 9). Per ricordarlo facilmente,
 > farà in modo che ci siano 4 cifre tra loro uguali ed una cifra diversa dalle altre 4.
 > Quanti sono i possibili pin che rispettano queste condizioni?
-> (A) 90
-> (B) 500
-> (C) 450
-> (D) 45
-> (E) 400
+>
+> - **(A)** 90
+> - **(B)** 500
+> - **(C)** 450
+> - **(D)** 45
+> - **(E)** 400
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

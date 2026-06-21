@@ -37,11 +37,12 @@ tags:
 > legga da sinistra a destra o da destra a sinistra; ad esempio 36563 è palindromo.
 > Quanti sono i numeri palindromi di 5 cifre tali che la somma delle loro cifre sia
 > pari?
-> (A) 450,
-> (B) 550,
-> (C) 700,
-> (D) 900,
-> (E) 1000.
+>
+> - **(A)** 450,
+> - **(B)** 550,
+> - **(C)** 700,
+> - **(D)** 900,
+> - **(E)** 1000.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

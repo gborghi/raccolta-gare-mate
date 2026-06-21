@@ -32,15 +32,12 @@ tags:
 
 > (Punti 4) Una somma di cubi di numeri interi positivi vale 2017.  Quale dei seguenti non può es­
 > sere il numero degli addendi?
-> (A) 3	      	
-> 	
-> (B) 4 	 	
-> 	
-> (C) 2000	
-> 	
-> (D) 2010           	
-> 	
-> (E) 2017
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 2000
+> - **(D)** 2010
+> - **(E)** 2017
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

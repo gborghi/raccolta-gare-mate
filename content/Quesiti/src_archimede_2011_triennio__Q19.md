@@ -33,11 +33,12 @@ tags:
 
 > Quante terne ordinate (p, q, r), formate da numeri primi minori di 100, verificano
 > p2 + q2 = r? [1 non è un numero primo.]
-> (A) 2,
-> (B) 4,
-> (C) 6,
-> (D) 8,
-> (E) 16.
+>
+> - **(A)** 2,
+> - **(B)** 4,
+> - **(C)** 6,
+> - **(D)** 8,
+> - **(E)** 16.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

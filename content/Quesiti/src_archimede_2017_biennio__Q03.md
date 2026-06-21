@@ -29,11 +29,12 @@ tags:
 *Coppie (m,n) con m^n = 2^12*
 
 > Quante sono le coppie di numeri interi positivi (m, n) tali che mn = 212?
-> (A) 2
-> (B) 1
-> (C) 3
-> (D) 6
-> (E) 4
+>
+> - **(A)** 2
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 6
+> - **(E)** 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

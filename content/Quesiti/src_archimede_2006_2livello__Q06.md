@@ -37,11 +37,12 @@ tags:
 > un vertice), F2 è il poligono che si ottiene aggiungendo ad F1 la cornice formata dai triangoli
 > che toccano F1, e analogamente si costruiscono i successivi sino ad F10. Da quanti triangoli della
 > tassellazione è composto quest’ultimo poligono?
-> (A) 541
-> (B) 661
-> (C) 691
-> (D) 721
-> (E) 841.
+>
+> - **(A)** 541
+> - **(B)** 661
+> - **(C)** 691
+> - **(D)** 721
+> - **(E)** 841.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]

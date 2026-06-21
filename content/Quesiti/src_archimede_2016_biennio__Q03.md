@@ -31,11 +31,12 @@ tags:
 > In un’isola vivono due tipi di persone: i cavalieri che dicono sempre la verità ed i
 > furfanti che mentono sempre. Durante una festa di compleanno, alla quale partecipano 450 persone, ciascuno dei presenti afferma: “tutti coloro che, oltre a me, sono
 > presenti alla festa sono dei furfanti”. Quanti sono i furfanti alla festa?
-> (A) nessuno
-> (B) 450
-> (C) 449
-> (D) 224
-> (E) 225
+>
+> - **(A)** nessuno
+> - **(B)** 450
+> - **(C)** 449
+> - **(D)** 224
+> - **(E)** 225
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

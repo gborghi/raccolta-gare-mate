@@ -39,12 +39,12 @@ tags:
 *Count 3-digit integers with no digit equal to 2,5,7,8*
 
 > How many integers in the list $100, 101, 102, \ldots, 999$ do not have digits equal to $2$, $5$, $7$ or $8$?
-> 
-> (A) $160$
-> (B) $170$
-> (C) $180$
-> (D) $190$
-> (E) $200$
+>
+> - **(A)** $160$
+> - **(B)** $170$
+> - **(C)** $180$
+> - **(D)** $190$
+> - **(E)** $200$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

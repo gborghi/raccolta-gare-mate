@@ -31,12 +31,12 @@ tags:
 *Quante mucche per raddoppiare il rapporto animali*
 
 > Nella vecchia fattoria di Gino ci sono un cavallo, due mucche e tre porcelli. Quante altre mucche deve acquistare Gino se vuole che il numero di tutti gli animali della fattoria sia il doppio del numero delle mucche?
-> 
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 4
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

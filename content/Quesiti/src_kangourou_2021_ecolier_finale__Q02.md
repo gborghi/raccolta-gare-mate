@@ -29,12 +29,12 @@ tags:
 *Tra quanti giorni si allenano di nuovo insieme*
 
 > Un pavimento quadrato è piastrellato con piastrelle quadrate tutte della stessa misura. Le 9 piastrelle lungo le diagonali sono rosse, le altre gialle. Quante sono le piastrelle gialle?
-> 
-> (A) 10
-> (B) 12
-> (C) 14
-> (D) 16
-> (E) 18
+>
+> - **(A)** 10
+> - **(B)** 12
+> - **(C)** 14
+> - **(D)** 16
+> - **(E)** 18
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

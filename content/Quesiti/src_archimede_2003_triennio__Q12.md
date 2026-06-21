@@ -33,11 +33,12 @@ tags:
 > accuratezza l’angolo sotto il quale è visto l’asteroide. Vengono effettuati alcuni
 > rilevamenti a intervalli di tempo regolari. Qual è il minimo numero di rilevamenti
 > necessari per ricostruire la traiettoria dell’asteroide?
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) un numero finito maggiore di 4
-> (E) nessun numero di rilevamenti è sufficiente.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** un numero finito maggiore di 4
+> - **(E)** nessun numero di rilevamenti è sufficiente.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

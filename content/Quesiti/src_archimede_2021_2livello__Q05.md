@@ -32,13 +32,12 @@ tags:
 
 > Nello studiare il polinomio p(x) = x2 + 2x −6, Enrica ha scoperto due numeri reali distinti α e
 > β tali che p(α) = β e p(β) = α. Quanto vale α + β?
-> (A) −3
-> (B) −2
-> √
-> 2
-> (C) 0
-> (D) 2
-> (E) 6
+>
+> - **(A)** −3
+> - **(B)** −2 √ 2
+> - **(C)** 0
+> - **(D)** 2
+> - **(E)** 6
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

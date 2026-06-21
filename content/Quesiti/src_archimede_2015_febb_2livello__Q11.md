@@ -36,11 +36,12 @@ tags:
 > abbia esattamente un lato ripassato a penna. In quanti modi Giovanni può scegliere l’insieme
 > dei segmenti da ripassare? (Nota: due insiemi di segmenti che si ottengano l’uno dall’altro per
 > rotazione o per simmetria sono da considerarsi distinti.)
-> (A) 49
-> (B) 65
-> (C) 74
-> (D) 76
-> (E) 85
+>
+> - **(A)** 49
+> - **(B)** 65
+> - **(C)** 74
+> - **(D)** 76
+> - **(E)** 85
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

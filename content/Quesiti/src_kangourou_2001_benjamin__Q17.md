@@ -32,11 +32,12 @@ tags:
 > casa. Impiega un terzo del suo tempo con la matematica e due quinti del
 > rimanente con geografia. Quanto tempo impiega per fare i compiti delle
 > altre materie?
-> (A) 12 minuti
-> (B) 20 minuti
-> (C) 24 minuti
-> (D) 36 minuti
-> (E) 40 minuti.
+>
+> - **(A)** 12 minuti
+> - **(B)** 20 minuti
+> - **(C)** 24 minuti
+> - **(D)** 36 minuti
+> - **(E)** 40 minuti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

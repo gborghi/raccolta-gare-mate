@@ -33,11 +33,12 @@ tags:
 > questa bottiglia con del succo d’arancia, in modo da ottenere una nuova bibita che
 > sia costituita per il 50% da succo d’arancia. Quanti ml della bibita iniziale Gianni
 > deve sostituire con del succo d’arancia?
-> (A) 300
-> (B) 400
-> (C) 375
-> (D) 320
-> (E) 350
+>
+> - **(A)** 300
+> - **(B)** 400
+> - **(C)** 375
+> - **(D)** 320
+> - **(E)** 350
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

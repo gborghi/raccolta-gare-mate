@@ -31,11 +31,12 @@ tags:
 *Quadrati perfetti di almeno tre cifre fino a 2010*2011*
 
 > Quanti sono i quadrati perfetti di almeno tre cifre, minori o uguali di 2010 · 2011?
-> (A) 1890,
-> (B) 1910,
-> (C) 2001,
-> (D) 2011,
-> (E) 2110.
+>
+> - **(A)** 1890,
+> - **(B)** 1910,
+> - **(C)** 2001,
+> - **(D)** 2011,
+> - **(E)** 2110.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -37,12 +37,12 @@ tags:
 *Count distinct 4-letter surnames with a 2-letter alphabet*
 
 > The alphabet used on planet X has only two letters: X and x. A surname (family name) of each of its inhabitants is a sequence of $4$ letters. The maximum number of different surnames that can be given on planet X is:
-> 
-> (A) $12$
-> (B) $14$
-> (C) $15$
-> (D) $16$
-> (E) $18$
+>
+> - **(A)** $12$
+> - **(B)** $14$
+> - **(C)** $15$
+> - **(D)** $16$
+> - **(E)** $18$
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]

@@ -35,11 +35,12 @@ tags:
 > costa il doppio di quella che ha il numero precedente. Dopo un rapido conto, Ziggy
 > calcola che dovrà spendere 158 Sterline Marziane per comprare le corde nuove.
 > Quante sono le corde rotte?
-> (A) Una,
-> (B) tre,
-> (C) quattro,
-> (D) cinque,
-> (E) sette.
+>
+> - **(A)** Una,
+> - **(B)** tre,
+> - **(C)** quattro,
+> - **(D)** cinque,
+> - **(E)** sette.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

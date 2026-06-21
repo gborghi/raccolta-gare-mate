@@ -31,14 +31,12 @@ tags:
 *Massimo intero 4 cifre distinte divisibile per ogni cifra*
 
 > Osserva le bilance in figura dove compaiono tre cani identici e due pesi, uno da $12$ e l'altro da $20$ chili. Il peso in chili di ognuno dei cani è espresso da un numero intero. Quale?
-> 
-> (A) $7$
-> (B) $8$
-> (C) $9$
-> (D) $10$
-> (E) $11$
-> 
-> (vedi figura)
+>
+> - **(A)** $7$
+> - **(B)** $8$
+> - **(C)** $9$
+> - **(D)** $10$
+> - **(E)** $11$ (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

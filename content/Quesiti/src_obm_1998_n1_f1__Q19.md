@@ -41,12 +41,12 @@ tags:
 *Count ways to place an L-shaped piece on a grid to cover exactly 3 squares*
 
 > A board and a piece are shown in the figure. In how many different ways can we place the piece on the board so that it covers exactly $3$ squares of the board completely?
-> 
-> (A) $16$
-> (B) $24$
-> (C) $36$
-> (D) $48$
-> (E) $60$
+>
+> - **(A)** $16$
+> - **(B)** $24$
+> - **(C)** $36$
+> - **(D)** $48$
+> - **(E)** $60$
 
 ![[src_obm_1998_n1_f1__Q19.png]]
 

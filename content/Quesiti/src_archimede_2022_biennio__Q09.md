@@ -38,11 +38,12 @@ tags:
 > il prodotto dei numeri in una delle due diagonali è dispari. Quale
 > numero è scritto nella casella di destra della riga centrale?
 > ?
-> (A) 5
-> (B) 4
-> (C) 9
-> (D) 6
-> (E) 3
+>
+> - **(A)** 5
+> - **(B)** 4
+> - **(C)** 9
+> - **(D)** 6
+> - **(E)** 3
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

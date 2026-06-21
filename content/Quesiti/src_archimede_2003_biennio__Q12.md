@@ -33,18 +33,12 @@ tags:
 > si attivano sulla stessa frequenza la comunicazione cade. Se ogni ragazzo non sa
 > che frequenza scelgono gli altri tre, qual è la probabilità che tutti e quattro riescano
 > a parlare con le loro ragazze?
-> (A) 3
-> 32
-> (B) 3
-> 64
-> (C)
-> 1
-> 256
-> (D) 1
-> 16
-> (E)
-> 9
-> 128.
+>
+> - **(A)** 3 32
+> - **(B)** 3 64
+> - **(C)** 1 256
+> - **(D)** 1 16
+> - **(E)** 9 128.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

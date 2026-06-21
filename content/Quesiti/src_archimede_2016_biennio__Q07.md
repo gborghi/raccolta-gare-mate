@@ -34,11 +34,12 @@ tags:
 > maglia grigia), per giocare a briscola, vogliono suddividersi in tre squadre di due
 > persone ciascuna. In quanti modi possono effettuare la suddivisione, facendo sì che
 > i due di ciascuna squadra abbiano maglie di colori differenti?
-> (A) 4
-> (B) 11
-> (C) 8
-> (D) 24
-> (E) 15
+>
+> - **(A)** 4
+> - **(B)** 11
+> - **(C)** 8
+> - **(D)** 24
+> - **(E)** 15
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

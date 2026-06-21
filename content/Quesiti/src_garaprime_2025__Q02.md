@@ -36,12 +36,12 @@ tags:
 > che ne contiene 100. Puoi riempire il tuo forziere vuotando, uno dopo l’altro, alcuni sacchetti nel forziere,
 > ma quando il numero di monete del tuo tesoro sarà pari e non nullo ti dovrai fermare. Quante monete, al
 > massimo, potrai inserire nel forziere?
-> (A) 5050
-> (B) 3080
-> (C)
-> 2746
-> (D) 2649
-> (E) 2048
+>
+> - **(A)** 5050
+> - **(B)** 3080
+> - **(C)** 2746
+> - **(D)** 2649
+> - **(E)** 2048
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_invarianti|Invarianti / monovarianti]]

@@ -27,11 +27,12 @@ tags:
 *Natura radici di x^2+bx+c=0 con c<0*
 
 > Nell’equazione x2 + bx + c = 0 si sa che c < 0. Allora certamente:
-> (A) l’equazione non ha radici reali,
-> (B) l’equazione ha due radici reali coincidenti,
-> (C) l’equazione ha una radice reale positiva e una radice reale negativa,
-> (D) l’equazione ha due radici reali positive,
-> (E) l’equazione ha due radici reali negative.
+>
+> - **(A)** l’equazione non ha radici reali,
+> - **(B)** l’equazione ha due radici reali coincidenti,
+> - **(C)** l’equazione ha una radice reale positiva e una radice reale negativa,
+> - **(D)** l’equazione ha due radici reali positive,
+> - **(E)** l’equazione ha due radici reali negative.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

@@ -32,11 +32,12 @@ tags:
 
 > Quanti sono, tra i numeri interi che vanno da 1 a 2024, quelli che sono, al tempo
 > stesso, multipli sia di 21 che di 28, ma non sono multipli di 15?
-> (A) 20
-> (B) 23
-> (C) 24
-> (D) 21
-> (E) 19
+>
+> - **(A)** 20
+> - **(B)** 23
+> - **(C)** 24
+> - **(D)** 21
+> - **(E)** 19
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

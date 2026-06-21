@@ -29,11 +29,12 @@ tags:
 
 > Due interi hanno somma −4 e prodotto −21. Quanto vale il maggiore di tali
 > interi?
-> (A) −7
-> (B) −3
-> (C) −1
-> (D) 3
-> (E) 7.
+>
+> - **(A)** −7
+> - **(B)** −3
+> - **(C)** −1
+> - **(D)** 3
+> - **(E)** 7.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

@@ -37,12 +37,12 @@ tags:
 *Max chips on 5x5 board, counts per row/column multiple of 3*
 
 > What is the greatest number of chips that we can place on a $5 \times 5$ board, at most one per cell, so that the number of chips in each row and each column is a multiple of $3$?
-> 
-> (A) $6$
-> (B) $9$
-> (C) $12$
-> (D) $15$
-> (E) $24$
+>
+> - **(A)** $6$
+> - **(B)** $9$
+> - **(C)** $12$
+> - **(D)** $15$
+> - **(E)** $24$
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]

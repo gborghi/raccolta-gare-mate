@@ -36,16 +36,12 @@ tags:
 > le cifre 1, 2, 3 e 4. Sapendo che nessuna cifra occupa il posto che corrisponde al
 > proprio valore (cioè la prima cifra non è 1, la seconda non è 2, e così via), quale
 > probabilità ho di indovinare il numero al primo tentativo?
-> (A) 1
-> 24
-> (B) 1
-> 9
-> (C) 1
-> 8
-> (D) 1
-> 81
-> (E) 1
-> 6.
+>
+> - **(A)** 1 24
+> - **(B)** 1 9
+> - **(C)** 1 8
+> - **(D)** 1 81
+> - **(E)** 1 6.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

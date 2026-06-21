@@ -37,12 +37,12 @@ tags:
 > 100
 > = 100
 > allora:
-> (A) x = −2,
-> (B) −1 ≤x ≤1,
-> (C) x = 3
-> 2,
-> (D) x = 2,
-> (E) x ≥3.
+>
+> - **(A)** x = −2,
+> - **(B)** −1 ≤x ≤1,
+> - **(C)** x = 3 2,
+> - **(D)** x = 2,
+> - **(E)** x ≥3.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

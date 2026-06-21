@@ -33,11 +33,12 @@ tags:
 > diametralmente opposto a D rispetto alla base della montagna, la porta dell’Inferno si trova a 3/4
 > del segmento CP, più vicino a P. Quale distanza deve percorrere Dante al minimo (camminando
 > sulle pendici della montagna) per poter raggiungere la porta dell’Inferno da casa sua?
-> (A) π + 1 km
-> (B) 5 km
-> (C) 2π km
-> (D) 7 km
-> (E) 2π + 1 km.
+>
+> - **(A)** π + 1 km
+> - **(B)** 5 km
+> - **(C)** 2π km
+> - **(D)** 7 km
+> - **(E)** 2π + 1 km.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

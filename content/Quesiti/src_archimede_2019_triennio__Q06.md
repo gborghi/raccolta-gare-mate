@@ -32,11 +32,12 @@ tags:
 > dispari e maggiore di 1.
 > Indicando con m il minimo comune multiplo dei due
 > numeri, si ha:
-> (A) m < 200
-> (B) 200 < m < 400
-> (C) 400 < m < 600
-> (D) 600 < m < 800
-> (E) m > 800
+>
+> - **(A)** m < 200
+> - **(B)** 200 < m < 400
+> - **(C)** 400 < m < 600
+> - **(D)** 600 < m < 800
+> - **(E)** m > 800
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

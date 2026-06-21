@@ -30,11 +30,12 @@ tags:
 > In alcuni casi, coppie di numeri di due cifre hanno lo stesso prodotto dei due
 > numeri letti al contrario (ad esempio 13 × 62 = 31 × 26). Quanti sono i numeri
 > di due cifre AB (A e B sono le cifre decimali) tali che 12 × AB = 21 × BA?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 9.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 9.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

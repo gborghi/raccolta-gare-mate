@@ -30,11 +30,12 @@ tags:
 *Probabilita prodotto 36 lanciando 4 dadi*
 
 > Lanciando 4 dadi da gioco, con facce da 1 a 6, qual è la probabilità che il prodotto dei numeri usciti sia 36?
-> (A) 1/27
-> (B) 5/108
-> (C) 5/36
-> (D) 7/216
-> (E) 7/144
+>
+> - **(A)** 1/27
+> - **(B)** 5/108
+> - **(C)** 5/36
+> - **(D)** 7/216
+> - **(E)** 7/144
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

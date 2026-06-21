@@ -34,11 +34,12 @@ tags:
 > Determinare il più grande intero n con questa proprietà: esistono n interi positivi distinti a1, . . . an
 > tali che, comunque se ne scelgano fra essi due distinti, n´e la loro somma n´e la loro differenza siano
 > divisibili per 100.
-> (A) 49
-> (B) 50
-> (C) 51
-> (D) 99
-> (E) 100.
+>
+> - **(A)** 49
+> - **(B)** 50
+> - **(C)** 51
+> - **(D)** 99
+> - **(E)** 100.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Aritmetica modulare / congruenze]]

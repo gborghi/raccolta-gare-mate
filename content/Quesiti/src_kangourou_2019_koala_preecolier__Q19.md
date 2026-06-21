@@ -30,12 +30,12 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob19.png]]
 
 > Nello zoo ci sono alcuni cammelli con due gobbe e alcuni dromedari con una gobba, 10 animali in tutto. Complessivamente ci sono 14 gobbe. Quanti sono i dromedari?
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 6
-> (E) 7
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 7
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

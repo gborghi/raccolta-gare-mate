@@ -37,11 +37,12 @@ tags:
 > in fila davanti a me è pari”. Oltre a questo, i primi tre abitanti nella fila affermano, in ordine,
 > quanto segue: “Nel villaggio ci sono 999 abitanti”, “I Cavalieri sono esattamente 666”, “Ci sono
 > almeno tre Furfanti ad Asip”. Quanti sono i Cavalieri ad Asip?
-> (A) 0
-> (B) 1
-> (C) 501
-> (D) 666
-> (E) 997
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 501
+> - **(D)** 666
+> - **(E)** 997
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

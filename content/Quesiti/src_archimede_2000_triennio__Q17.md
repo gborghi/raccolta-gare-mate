@@ -32,11 +32,12 @@ tags:
 
 > Si sa che il numero 248 −1 possiede esattamente due divisori compresi fra 60 e
 > 70. Quali sono?
-> (A) 61 e 63
-> (B) 61 e 65
-> (C) 63 e 65
-> (D) 61 e 67
-> (E) 63 e 69.
+>
+> - **(A)** 61 e 63
+> - **(B)** 61 e 65
+> - **(C)** 63 e 65
+> - **(D)** 61 e 67
+> - **(E)** 63 e 69.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

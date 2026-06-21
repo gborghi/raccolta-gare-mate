@@ -30,16 +30,12 @@ tags:
 *Probabilita primo dado minore del secondo*
 
 > Si lanciano due dadi; la probabilità che il punteggio del primo dado sia strettamente minore di quello del secondo è:
-> (A) 1
-> 6
-> (B) 1
-> 3
-> (C) 5
-> 12
-> (D) 1
-> 2
-> (E) 7
-> 12.
+>
+> - **(A)** 1 6
+> - **(B)** 1 3
+> - **(C)** 5 12
+> - **(D)** 1 2
+> - **(E)** 7 12.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

@@ -33,11 +33,12 @@ tags:
 
 > Quante sono le coppie di numeri reali (x,y) che soddisfano entrambe le equazioni x + y2 = y3 e
 > y + x2 = x3?
-> (A) 1
-> (B) 3
-> (C) 5
-> (D) 9
-> (E) Infinite
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 5
+> - **(D)** 9
+> - **(E)** Infinite
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]

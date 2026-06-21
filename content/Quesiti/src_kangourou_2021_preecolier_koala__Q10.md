@@ -31,14 +31,12 @@ tags:
 ![[src_kangourou_2021_preecolier_koala__prob10.png]]
 
 > Il gatto Ronron cammina sopra un muro. Parte dal punto B e segue la direzione delle frecce mostrate nell'immagine. In quale punto arriva dopo aver percorso esattamente 20 metri?
-> 
-> (A) In A
-> (B) In B
-> (C) In C
-> (D) In D
-> (E) In E
-> 
-> (vedi figura)
+>
+> - **(A)** In A
+> - **(B)** In B
+> - **(C)** In C
+> - **(D)** In D
+> - **(E)** In E (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -38,21 +38,12 @@ tags:
 > archi di circonferenza, ciascuno avente centro in uno
 > dei vertici del quadrato e raggio pari al lato del quadrato, che misura 10 m. Quanto vale la distanza tra
 > i punti A e B?
-> (A) 3(
-> √
-> 6 −1) m,
-> (B) 5 m,
-> (C) 5(
-> √
-> 6 −
-> √
-> 2) m,
-> (D) 8(
-> √
-> 3 −1) m,
-> (E) nessuna delle precedenti.
-> B
-> A
+>
+> - **(A)** 3( √ 6 −1) m,
+> - **(B)** 5 m,
+> - **(C)** 5( √ 6 − √ 2) m,
+> - **(D)** 8( √ 3 −1) m,
+> - **(E)** nessuna delle precedenti. B A
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]

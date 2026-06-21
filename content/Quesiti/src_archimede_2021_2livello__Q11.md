@@ -40,25 +40,12 @@ tags:
 > dell’angolo \
 > APB intersechi i segmenti AB e AC nei punti X e Y , rispettivamente. Qual è il
 > minimo valore possibile per l’area del triangolo AXY ?
-> (A)
-> 1
-> 3
-> √
-> 3
-> (B)
-> 1
-> 2
-> √
-> 3
-> (C)
-> √
-> 3
-> 12
-> (D)
-> √
-> 3
-> 8
-> (E) Nessuna delle precedenti.
+>
+> - **(A)** 1 3 √ 3
+> - **(B)** 1 2 √ 3
+> - **(C)** √ 3 12
+> - **(D)** √ 3 8
+> - **(E)** Nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_trigonometria|Tecniche trigonometriche]]

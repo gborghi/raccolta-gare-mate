@@ -38,15 +38,12 @@ tags:
 > 120°verso sinistra e raddoppia ancora una volta il numero dei salti. Sapendo che
 > inizia compiendo un solo salto in una data direzione, a quale distanza dal punto
 > iniziale si troverà dopo 17 salti?
-> (A) 20 cm
-> (B) 20
-> √
-> 3 cm
-> (C) 40 cm
-> (D) 40
-> √
-> 3 cm
-> (E) 50 cm
+>
+> - **(A)** 20 cm
+> - **(B)** 20 √ 3 cm
+> - **(C)** 40 cm
+> - **(D)** 40 √ 3 cm
+> - **(E)** 50 cm
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

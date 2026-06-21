@@ -34,11 +34,12 @@ tags:
 > un elenco di alcuni numeri di due cifre e gli dice di sceglierne uno. Giulio chiede
 > a Damiano la somma delle cifre del numero, ed è così sicuro di poterlo indovinare.
 > Al massimo da quanti numeri era composto l’elenco iniziale?
-> (A) 9
-> (B) 10
-> (C) 11
-> (D) 17
-> (E) 18.
+>
+> - **(A)** 9
+> - **(B)** 10
+> - **(C)** 11
+> - **(D)** 17
+> - **(E)** 18.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

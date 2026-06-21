@@ -33,16 +33,12 @@ tags:
 
 > Per quali valori reali di α esiste una ed un’unica coppia di numeri
 > reali (x, y) che è soluzione del sistema a fianco?
-> (A) α = 0
-> (B) α = 3
-> (C) α > 0
-> (D) α =
-> √
-> 3
-> (E) α ̸= 0.
-> (
-> x2 + y2 = α
-> x = 3y
+>
+> - **(A)** α = 0
+> - **(B)** α = 3
+> - **(C)** α > 0
+> - **(D)** α = √ 3
+> - **(E)** α ̸= 0. ( x2 + y2 = α x = 3y
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

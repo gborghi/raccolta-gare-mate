@@ -37,12 +37,12 @@ tags:
 *Unique number expressible as product of four consecutive naturals*
 
 > Among the following numbers, which is the only one that can be written as a product of four consecutive natural numbers?
-> 
-> (A) 712
-> (B) 548
-> (C) 1026
-> (D) 1456
-> (E) 1680
+>
+> - **(A)** 712
+> - **(B)** 548
+> - **(C)** 1026
+> - **(D)** 1456
+> - **(E)** 1680
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]

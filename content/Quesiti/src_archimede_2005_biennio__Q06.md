@@ -38,13 +38,12 @@ tags:
 > Seconda persona: “Ci sono porte solo sulla parete Nord”. Terza persona: “Su ogni
 > parete c’è al massimo una porta”. Che cosa si può dire per certo delle affermazioni
 > fatte?
-> (A) L’affermazione fatta dalla prima persona è vera,
-> (B) l’affermazione fatta
-> dalla seconda persona è vera,
-> (C) l’affermazione fatta dalla terza persona è vera,
-> (D) almeno una affermazione è falsa,
-> (E) non si può dire niente di certo sulle
-> affermazioni fatte.
+>
+> - **(A)** L’affermazione fatta dalla prima persona è vera,
+> - **(B)** l’affermazione fatta dalla seconda persona è vera,
+> - **(C)** l’affermazione fatta dalla terza persona è vera,
+> - **(D)** almeno una affermazione è falsa,
+> - **(E)** non si può dire niente di certo sulle affermazioni fatte.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casework|Analisi per casi]]

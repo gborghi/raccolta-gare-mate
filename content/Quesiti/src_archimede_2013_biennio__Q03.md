@@ -31,16 +31,12 @@ tags:
 
 > Leo lancia 7 volte una moneta (non truccata) ottenendo due volte testa e cinque
 > volte croce. Se la lancia ancora una volta, con quale probabilità otterrà testa?
-> (A) 1
-> 8
-> (B) 1
-> 7
-> (C) 1 −1
-> 27
-> (D) 35
-> 27
-> (E) 1
-> 2
+>
+> - **(A)** 1 8
+> - **(B)** 1 7
+> - **(C)** 1 −1 27
+> - **(D)** 35 27
+> - **(E)** 1 2
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

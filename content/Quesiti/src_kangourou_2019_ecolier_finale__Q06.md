@@ -31,12 +31,12 @@ tags:
 *Numero ABC con A AB BC tutti quadrati perfetti*
 
 > In una classe il numero delle ragazze è il doppio del numero dei ragazzi e lo supera di $8$. Quanti studenti ci sono in quella classe?
-> 
-> (A) $16$
-> (B) $18$
-> (C) $20$
-> (D) $24$
-> (E) $28$
+>
+> - **(A)** $16$
+> - **(B)** $18$
+> - **(C)** $20$
+> - **(D)** $24$
+> - **(E)** $28$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

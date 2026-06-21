@@ -45,15 +45,12 @@ tags:
 > Da un quadrato di lato 10 cm si tagliano i quattro angoli in
 > modo da ottenere un ottagono regolare. Il lato dell’ottagono
 > è lungo
-> (A) 4 cm
-> (B) 10 · (
-> √
-> 2 −1) cm
-> (C) 3
-> √
-> 2 cm
-> (D) 5 cm
-> (E) le precedenti risposte sono tutte sbagliate.
+>
+> - **(A)** 4 cm
+> - **(B)** 10 · ( √ 2 −1) cm
+> - **(C)** 3 √ 2 cm
+> - **(D)** 5 cm
+> - **(E)** le precedenti risposte sono tutte sbagliate.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -33,18 +33,12 @@ tags:
 > Un oblò circolare di raggio 20 cm viene grigliato con delle sbarre
 > in modo che i quattro quadrati al centro siano di lato 10 cm. La
 > lunghezza complessiva delle sbarre è
-> (A) 80
-> √
-> 3 cm
-> (B) 80(
-> √
-> 2 + 1) cm
-> (C) 200 cm
-> (D) 80(
-> √
-> 3 + 1) cm
-> (E) 210 cm.
-> b
+>
+> - **(A)** 80 √ 3 cm
+> - **(B)** 80( √ 2 + 1) cm
+> - **(C)** 200 cm
+> - **(D)** 80( √ 3 + 1) cm
+> - **(E)** 210 cm. b
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

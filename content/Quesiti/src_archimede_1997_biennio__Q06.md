@@ -32,11 +32,12 @@ tags:
 ![[src_archimede_1997_biennio__prob6.png]]
 
 > Qual è la percentuale del quadrato ombreggiata in figura?
-> (A) 12,5%
-> (B) 16,66%
-> (C) 18,75%
-> (D) 20%
-> (E) 25%.
+>
+> - **(A)** 12,5%
+> - **(B)** 16,66%
+> - **(C)** 18,75%
+> - **(D)** 20%
+> - **(E)** 25%.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

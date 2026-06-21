@@ -30,14 +30,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob6.png]]
 
 > Per formare un mazzo di fiori, Gaia deve usare tutti i fiori che stanno nel rettangolo, ma fuori dal triangolo, e soltanto quelli. Da quanti fiori sarà composto il mazzo di Gaia?
-> 
+>
 > (vedi figura)
-> 
-> (A) 26
-> (B) 22
-> (C) 19
-> (D) 14
-> (E) 13
+>
+> - **(A)** 26
+> - **(B)** 22
+> - **(C)** 19
+> - **(D)** 14
+> - **(E)** 13
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

@@ -32,11 +32,12 @@ tags:
 *Quaterne interi positivi con x+y=ab e a+b=xy*
 
 > Quante sono le quaterne di interi positivi (a, b, x, y) tali che x + y = a · b e a + b = x · y?
-> (A) 1
-> (B) 5
-> (C) 9
-> (D) 17
-> (E) Infinite
+>
+> - **(A)** 1
+> - **(B)** 5
+> - **(C)** 9
+> - **(D)** 17
+> - **(E)** Infinite
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

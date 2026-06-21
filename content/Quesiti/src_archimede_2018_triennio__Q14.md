@@ -31,11 +31,12 @@ tags:
 > Tre ragazzi e due ragazze debbono sedersi attorno a un tavolo con sei sedie, numerate da 1 a 6. Per decidere il proprio posto, ciascuno dei cinque estrae a sorte uno
 > tra sei foglietti (numerati da 1 a 6). Qual è la probabilità che la sedia che rimane
 > vuota venga a trovarsi tra un ragazzo e una ragazza?
-> (A) 2/5
-> (B) 1/2
-> (C) 3/5
-> (D) 1/3
-> (E) 3/4
+>
+> - **(A)** 2/5
+> - **(B)** 1/2
+> - **(C)** 3/5
+> - **(D)** 1/3
+> - **(E)** 3/4
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

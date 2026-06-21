@@ -45,11 +45,12 @@ tags:
 > Q
 > R
 > S
-> (A) 64/3
-> (B) 24
-> (C) 20
-> (D) 18
-> (E) 81/4
+>
+> - **(A)** 64/3
+> - **(B)** 24
+> - **(C)** 20
+> - **(D)** 18
+> - **(E)** 81/4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

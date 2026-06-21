@@ -49,11 +49,12 @@ tags:
 > sempre sulla cornice avente spessore di 2 caselle). Quanti sono i percorsi possibili?
 > A
 > B
-> (A) 98
-> (B) 128
-> (C) 104
-> (D) 96
-> (E) 114
+>
+> - **(A)** 98
+> - **(B)** 128
+> - **(C)** 104
+> - **(D)** 96
+> - **(E)** 114
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]

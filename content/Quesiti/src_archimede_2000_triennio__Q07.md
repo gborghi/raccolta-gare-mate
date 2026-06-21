@@ -34,15 +34,12 @@ tags:
 
 > Fra tutti i triangoli i cui lati misurano 4, 5, x, quello di area massima avrà x pari
 > a
-> (A) 4
-> (B) 5
-> (C) 4,5
-> (D)
-> √
-> 20
-> (E)
-> √
-> 41.
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 4,5
+> - **(D)** √ 20
+> - **(E)** √ 41.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

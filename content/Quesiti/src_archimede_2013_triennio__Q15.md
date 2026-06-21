@@ -34,11 +34,12 @@ tags:
 > dx2 + exy
 > =
 > f
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) infinite
-> (E) nessuna delle precedenti
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** infinite
+> - **(E)** nessuna delle precedenti
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

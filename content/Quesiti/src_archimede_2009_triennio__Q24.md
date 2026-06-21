@@ -35,11 +35,12 @@ tags:
 > Una formica si trova su un vertice di un cubo. Si muove percorrendo gli spigoli del
 > cubo in modo da passare una e una sola volta da ciascun vertice del cubo. Quanti
 > sono i possibili percorsi distinti che può seguire?
-> (A) 10,
-> (B) 18,
-> (C) 22,
-> (D) 26,
-> (E) 30.
+>
+> - **(A)** 10,
+> - **(B)** 18,
+> - **(C)** 22,
+> - **(D)** 26,
+> - **(E)** 30.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

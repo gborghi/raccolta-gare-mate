@@ -33,11 +33,12 @@ tags:
 > Siano D, E i punti interni al lato
 > AB tali che AD = DE = EB e siano F, G, H i punti interni ad AC tali che
 > AF = FG = GH = HC. Qual è l’area del triangolo AEH?
-> (A) 20 m2
-> (B) 45 m2
-> (C) 30 m2
-> (D) 40 m2
-> (E) 24 m2
+>
+> - **(A)** 20 m2
+> - **(B)** 45 m2
+> - **(C)** 30 m2
+> - **(D)** 40 m2
+> - **(E)** 24 m2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -41,7 +41,7 @@ tags:
 *Election deduction across two rounds from partial percentages*
 
 > In the table below we see part of the results of the elections in a certain country, in which the percentages refer to the total number of voters.
-> 
+>
 > \[
 > \begin{array}{|l|c|c|c|c|}
 > \hline
@@ -53,14 +53,14 @@ tags:
 > \hline
 > \end{array}
 > \]
-> 
+>
 > In the second round, all the voters who voted for party AA kept their votes, and the same happened with the voters of party BB. Of those who voted for party CC in the first round, $40\%$ voted for party AA and the rest for party BB. Of those who had voted for other parties or cast null votes, $60\%$ continued without voting for AA or BB and the rest voted partly for AA and partly for BB. From this, it is correct to state that:
-> 
-> (A) AA won with more than $47\%$ of the votes.
-> (B) BB won with $47\%$ of the votes.
-> (C) AA won with $51\%$ of the votes.
-> (D) BB won with more than $43\%$ of the votes.
-> (E) The previous statements do not follow from the given information.
+>
+> - **(A)** AA won with more than $47\%$ of the votes.
+> - **(B)** BB won with $47\%$ of the votes.
+> - **(C)** AA won with $51\%$ of the votes.
+> - **(D)** BB won with more than $43\%$ of the votes.
+> - **(E)** The previous statements do not follow from the given information.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]

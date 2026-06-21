@@ -35,11 +35,12 @@ tags:
 > Michela mette in fila, su un ripiano della sua libreria, 5 libri di narrativa, 3 di poesia
 > e 2 libri fotografici, in maniera del tutto casuale. Qual è la probabilità che i libri
 > di poesia vengano a trovarsi tutti e 3 vicini (senza altri libri in mezzo a loro)?
-> (A) 1/24
-> (B) 1/72
-> (C) 1/120
-> (D) 3/10
-> (E) 1/15
+>
+> - **(A)** 1/24
+> - **(B)** 1/72
+> - **(C)** 1/120
+> - **(D)** 3/10
+> - **(E)** 1/15
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -41,11 +41,12 @@ tags:
 *Two two-digit numbers whose sum is twice the product of their digits*
 
 > How many two-digit numbers are there that are equal to twice the product of their digits?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 4
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]

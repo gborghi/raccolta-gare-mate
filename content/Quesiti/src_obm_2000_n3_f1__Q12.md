@@ -40,11 +40,12 @@ tags:
 *Averages of two classes after moving the last of class A to class B*
 
 > The 61 candidates approved in a contest, whose grades were all distinct, were distributed into two classes, in such a way that, according to a previously obtained ranking, the 31 best-placed went to class A and the next 30 went to class B. The averages of the two classes in the contest were calculated. Then, by mistake, it was decided to move the candidate placed last in class A to class B. Then:
-> (A) The average of class A improved, but that of B worsened.
-> (B) The average of class A worsened, but that of B improved.
-> (C) The averages of both classes worsened.
-> (D) The averages of both classes improved.
-> (E) The averages of the two classes can worsen or improve, depending on the grades of the candidates.
+>
+> - **(A)** The average of class A improved, but that of B worsened.
+> - **(B)** The average of class A worsened, but that of B improved.
+> - **(C)** The averages of both classes worsened.
+> - **(D)** The averages of both classes improved.
+> - **(E)** The averages of the two classes can worsen or improve, depending on the grades of the candidates.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]

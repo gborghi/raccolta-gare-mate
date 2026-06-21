@@ -33,11 +33,12 @@ tags:
 > è piuttosto affollato. Ci sono quattro file agli sportelli: una con 12 persone, una con 11, una con 15 e una con 14
 > persone. Ognuno dei presenti (tranne i primi due di ciascuna fila) dice questa frase: “tra le persone davanti a me
 > nella mia fila ci sono almeno due furfanti”. Quanti sono in tutto i cavalieri all’ufficio postale?
-> (A) 36
-> (B) 26
-> (C) 44
-> (D) non si può stabilire
-> (E) 40
+>
+> - **(A)** 36
+> - **(B)** 26
+> - **(C)** 44
+> - **(D)** non si può stabilire
+> - **(E)** 40
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

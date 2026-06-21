@@ -30,11 +30,12 @@ tags:
 *Valore di un prodotto in notazione scientifica*
 
 > Quanto vale (12, 5 · 10−3) · (8 · 10111) ?
-> (A) 10110
-> (B) 1110
-> (C) 1037
-> (D) 100 · 10−333
-> (E) 1000108.
+>
+> - **(A)** 10110
+> - **(B)** 1110
+> - **(C)** 1037
+> - **(D)** 100 · 10−333
+> - **(E)** 1000108.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

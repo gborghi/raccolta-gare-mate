@@ -36,11 +36,12 @@ tags:
 > occorrono 5.
 > Disponendo di 10 anelli concatenati a due a due, quanti minuti
 > occorrono (al minimo) per formare una catena aperta di 10 anelli?
-> (A) 30
-> (B) 26
-> (C) 24
-> (D) 18
-> (E) 12.
+>
+> - **(A)** 30
+> - **(B)** 26
+> - **(C)** 24
+> - **(D)** 18
+> - **(E)** 12.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

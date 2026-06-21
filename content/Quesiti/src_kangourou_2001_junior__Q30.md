@@ -33,53 +33,12 @@ tags:
 > In quanti modi differenti si può scomporre il numero 30 come somma di tre interi
 > strettamente positivi? (Due scomposizioni sono uguali se differiscono solo per
 > l'ordine degli addendi.)
-> (A) 105
-> (B) 75
-> (C) 81
-> (D) 362
-> (E) 101.
->  .
-> cm
->  
-> 3
-> 2
-> (E)
->   
->           
-> cm
->  3
-> 2 
-> (D)
-> cm
->  
-> 2
-> 3
-> 3 
-> (C)
->    
->           
-> cm
->  3
-> 3 
-> (B)
->   
->           
-> cm
->  
-> 2
-> 3
->  
-> A)
-> (
-> 2
-> 2
-> 2
-> 2
-> 2
-> 
-> 1
-> Risposte Categoria Junior
-> Gara del 15 marzo 2001
+>
+> - **(A)** 105
+> - **(B)** 75
+> - **(C)** 81
+> - **(D)** 362
+> - **(E)** 101. . cm 3 2 (E) cm 3 2 (D) cm 2 3 3 (C) cm 3 3 (B) cm 2 3 A) ( 2 2 2 2 2 1 Risposte Categoria Junior Gara del 15 marzo 2001
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

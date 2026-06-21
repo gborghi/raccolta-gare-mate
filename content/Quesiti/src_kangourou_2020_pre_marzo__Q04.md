@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob4.png]]
 
 > Un mago ha estratto dal suo cappello a cilindro dei pupazzi nell'ordine indicato da questa figura. Prosegue nell'estrazione secondo lo schema iniziale, che si ripete ogni cinque giocattoli. Quali sono, nell'ordine, i prossimi due pupazzi?
-> 
+>
 > (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

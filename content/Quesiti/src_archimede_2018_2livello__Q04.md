@@ -34,11 +34,12 @@ tags:
 > a ⋆b = ab + 1
 > a + b .
 > Quanto vale 1 ⋆(2 ⋆(3 ⋆(· · · (2017 ⋆2018))))?
-> (A) 1/2018
-> (B) 1
-> (C) 2018/2017
-> (D) 1009
-> (E) 2018
+>
+> - **(A)** 1/2018
+> - **(B)** 1
+> - **(C)** 2018/2017
+> - **(D)** 1009
+> - **(E)** 2018
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]]

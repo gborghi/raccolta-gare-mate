@@ -30,12 +30,12 @@ tags:
 > Tutti i 180 studenti delle classi prime di un liceo amano la matematica e/o la fisica. Il numero di allievi che
 > amano solo la matematica è il doppio di quelli che amano solo la fisica; il 20% del totale ama entrambe le
 > materie. Quanti sono gli studenti che amano la matematica?
-> (A) 108
-> (B) 144
-> (C) 120
-> (D)
-> 132
-> (E) 96
+>
+> - **(A)** 108
+> - **(B)** 144
+> - **(C)** 120
+> - **(D)** 132
+> - **(E)** 96
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

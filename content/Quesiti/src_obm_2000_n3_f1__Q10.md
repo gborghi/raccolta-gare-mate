@@ -42,11 +42,12 @@ tags:
 *Count positive integers x with floor(x/3)+floor(x/5)... =10*
 
 > The notation $\lfloor x \rfloor$ means the largest whole number that does not exceed $x$. For example, $\lfloor 3{,}5 \rfloor = 3$ and $\lfloor 5 \rfloor = 5$. How many positive integers $x$ are there for which $\left\lfloor \dfrac{x}{3} \right\rfloor + \left\lfloor \dfrac{x}{5} \right\rfloor = 10$?
-> (A) 11
-> (B) 12
-> (C) 13
-> (D) 14
-> (E) 15
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 13
+> - **(D)** 14
+> - **(E)** 15
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]

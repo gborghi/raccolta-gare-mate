@@ -42,12 +42,12 @@ tags:
 *Which first break guarantees Fabio gets the almond square*
 
 > The figure represents a chocolate bar that has a single chocolate-covered almond in one square. Neither Elias nor F\'{a}bio likes almonds. They decide to share the chocolate by breaking it along the vertical or horizontal lines, one piece at a time, taking turns; by lottery, Elias goes first, and it is forbidden to take more than half the chocolate. Which choice guarantees that F\'{a}bio will end up with the almond chocolate square?
-> 
-> (A) Choose the first column on the left.
-> (B) Choose the first two columns on the left.
-> (C) Choose the third line from the top, counting downward.
-> (D) Choose the last two lines from the bottom, counting upward.
-> (E) Any break, since F\'{a}bio will forcibly end up with the almond square.
+>
+> - **(A)** Choose the first column on the left.
+> - **(B)** Choose the first two columns on the left.
+> - **(C)** Choose the third line from the top, counting downward.
+> - **(D)** Choose the last two lines from the bottom, counting upward.
+> - **(E)** Any break, since F\'{a}bio will forcibly end up with the almond square.
 
 ![[src_obm_2010_n1_f1__Q18.png]]
 

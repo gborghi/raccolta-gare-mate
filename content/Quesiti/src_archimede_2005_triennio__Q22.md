@@ -30,17 +30,12 @@ tags:
 
 > Tra i triangoli rettangoli di area 6 m2 quello di perimetro minimo ha l’ipotenusa di
 > lunghezza
-> (A) 3 m,
-> (B) 3
-> √
-> 3 m,
-> (C) 2
-> √
-> 6 m,
-> (D) 4
-> √
-> 3 m,
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 3 m,
+> - **(B)** 3 √ 3 m,
+> - **(C)** 2 √ 6 m,
+> - **(D)** 4 √ 3 m,
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

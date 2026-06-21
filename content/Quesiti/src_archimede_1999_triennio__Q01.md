@@ -53,41 +53,12 @@ tags:
 > in figura). Sapendo che ci sono 35 alberi, quanto misura il
 > perimetro del rettangolo che ha per vertici i punti in cui ci
 > sono gli alberi A, B, C, D?
-> (A) 70
-> (B) 80
-> (C) 96
-> (D) 140
-> (E) non si può determinare univocamente.
-> b
-> A
-> b
-> b
-> b
-> b
-> b
-> B
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> b
-> D
-> b
-> b C
-> b
-> b
-> b
+>
+> - **(A)** 70
+> - **(B)** 80
+> - **(C)** 96
+> - **(D)** 140
+> - **(E)** non si può determinare univocamente. b A b b b b b B b b b b b b b b b b b b b b b b D b b C b b b
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

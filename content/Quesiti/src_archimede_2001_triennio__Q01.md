@@ -28,11 +28,12 @@ tags:
 *Quanti interi hanno media 6 e somma 18*
 
 > Dei numeri interi hanno media 6 e somma 18. Quanti sono gli interi?
-> (A) 3
-> (B) 6
-> (C) 12
-> (D) 108
-> (E) non si può determinare.
+>
+> - **(A)** 3
+> - **(B)** 6
+> - **(C)** 12
+> - **(D)** 108
+> - **(E)** non si può determinare.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

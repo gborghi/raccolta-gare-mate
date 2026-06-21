@@ -33,11 +33,12 @@ tags:
 > Tra tutti gli alunni biondi, il 75% sono femmine. Sapendo che nella classe il numero
 > di femmine è uguale al numero di maschi, qual è la percentuale di maschi castani
 > sul totale degli alunni della classe?
-> (A) 20%
-> (B) 25%
-> (C) 30%
-> (D) 40%
-> (E) 50%
+>
+> - **(A)** 20%
+> - **(B)** 25%
+> - **(C)** 30%
+> - **(D)** 40%
+> - **(E)** 50%
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

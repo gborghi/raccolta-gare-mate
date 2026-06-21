@@ -32,11 +32,12 @@ tags:
 
 > Indicare quanti sono i valori k ∈R per i quali il polinomio p(x) = x2 −kx + 36
 > ha almeno una radice intera positiva che sia minore di 1000.
-> (A) 3
-> (B) 1
-> (C) 2
-> (D) 999
-> (E) 995
+>
+> - **(A)** 3
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 999
+> - **(E)** 995
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

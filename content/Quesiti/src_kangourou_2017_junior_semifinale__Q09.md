@@ -33,17 +33,16 @@ tags:
 *Minimo partite giocate da Carlo*
 
 > (Punti 9) Arturo, Bruno e Carlo giocano a carte. Due di loro iniziano a giocare una partita; il vin­
-> citore gioca poi una partita con il compagno che è rimasto a guardare, e così proseguono per un po’ 
-> di tempo: il gioco è tale che nessuna partita può terminare in parità. Quando smettono, risulta che 
-> Arturo ha giocato 17 partite e Bruno ne ha giocate 23. Qual è il minimo numero di partite che deve 
-> avere giocato Carlo? 
-> (A) 12              	
-> (B) 14              	
-> (C) 16            		
-> 	
-> (D) 18               	
-> (E) 20 
-> Quesiti a risposta aperta
+> citore gioca poi una partita con il compagno che è rimasto a guardare, e così proseguono per un po’
+> di tempo: il gioco è tale che nessuna partita può terminare in parità. Quando smettono, risulta che
+> Arturo ha giocato 17 partite e Bruno ne ha giocate 23. Qual è il minimo numero di partite che deve
+> avere giocato Carlo?
+>
+> - **(A)** 12
+> - **(B)** 14
+> - **(C)** 16
+> - **(D)** 18
+> - **(E)** 20 Quesiti a risposta aperta
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -52,17 +52,12 @@ tags:
 > ed hanno lato di lunghezza 1 m. Se ruotiamo il rombo di 60°
 > rispetto al vertice A, qual è l’area della superficie coperta
 > dal rombo nella rotazione?
-> (A) π
-> 2 m2,
-> (B) 1 m2,
-> (C) π m2,
-> (D) π
-> 3 m2,
-> (E) 2 m2.
-> A
-> B
-> C
-> D
+>
+> - **(A)** π 2 m2,
+> - **(B)** 1 m2,
+> - **(C)** π m2,
+> - **(D)** π 3 m2,
+> - **(E)** 2 m2. A B C D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

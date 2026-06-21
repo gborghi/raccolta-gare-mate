@@ -35,11 +35,12 @@ tags:
 > La famiglia Pagaia (padre, madre ed il loro figlio Beniamino)
 > noleggia una canoa a tre posti. In quanti differenti modi possono
 > sedersi nella canoa?
-> (A) 9
-> (B) 8
-> (C) 6
-> (D) 4
-> (E) 3
+>
+> - **(A)** 9
+> - **(B)** 8
+> - **(C)** 6
+> - **(D)** 4
+> - **(E)** 3
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

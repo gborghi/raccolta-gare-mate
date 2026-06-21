@@ -33,11 +33,12 @@ tags:
 > nota che il numero delle cartoline meno 3 è multiplo di 8. Marco invece nota che il
 > numero di cartoline meno 1 è multiplo di 5. Quante cartoline hanno in totale Anna
 > e Marco?
-> (A) Tra 40 e 49
-> (B) tra 50 e 59
-> (C) tra 60 e 69
-> (D) tra 70 e 79
-> (E) è impossibile: hanno sbagliato a contare.
+>
+> - **(A)** Tra 40 e 49
+> - **(B)** tra 50 e 59
+> - **(C)** tra 60 e 69
+> - **(D)** tra 70 e 79
+> - **(E)** è impossibile: hanno sbagliato a contare.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

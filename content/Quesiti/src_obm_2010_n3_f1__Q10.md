@@ -39,19 +39,19 @@ tags:
 *Four friends make statements about their cards; determine the false statement.*
 
 > Four friends, Arnaldo, Bernaldo, Cernaldo and Dernaldo distribute cards. There are $20$ different cards, each card has one among four colours (yellow, green, red and another) and a number from $1$ to $5$. Each friend receives five cards. They make the following statements:
-> 
+>
 > Arnaldo: "I have no card with a number equal to that of another of my cards."
 > Bernaldo: "My five cards have five consecutive numbers."
 > Cernaldo: "My five cards are of colours that begin with the letter V."
 > Dernaldo: "My five cards are all of an odd number."
-> 
+>
 > It is known that only one of the statements is false. Who made the false statement?
-> 
-> (A) Arnaldo
-> (B) Bernaldo
-> (C) Cernaldo
-> (D) Dernaldo
-> (E) It is not possible to determine.
+>
+> - **(A)** Arnaldo
+> - **(B)** Bernaldo
+> - **(C)** Cernaldo
+> - **(D)** Dernaldo
+> - **(E)** It is not possible to determine.
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]

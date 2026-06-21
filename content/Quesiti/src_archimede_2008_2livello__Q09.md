@@ -33,17 +33,12 @@ tags:
 > Eleonora gioca con un dado e un orologio (fermo) che all’inizio segna le 12. Per 2008 volte tira il
 > dado e porta le lancette avanti di tante ore quanto è il risultato. Qual è alla fine la probabilità che
 > la lancetta delle ore sia orizzontale?
-> (A) 0
-> (B)
-> 1
-> 2008
-> (C)
-> 1
-> 1004
-> (D) 1
-> 12
-> (E) 1
-> 6.
+>
+> - **(A)** 0
+> - **(B)** 1 2008
+> - **(C)** 1 1004
+> - **(D)** 1 12
+> - **(E)** 1 6.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

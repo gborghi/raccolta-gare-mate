@@ -48,11 +48,12 @@ tags:
 
 > Sia data una stella a cinque punte inscritta in una circonferenza.
 > Quanto vale la somma degli angoli con vertice nelle punte della stella?
-> (A) 100°
-> (B) 150°
-> (C) 180°
-> (D) 200°
-> (E) i dati a disposizione sono insufficienti.
+>
+> - **(A)** 100°
+> - **(B)** 150°
+> - **(C)** 180°
+> - **(D)** 200°
+> - **(E)** i dati a disposizione sono insufficienti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

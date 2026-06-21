@@ -32,11 +32,12 @@ tags:
 > dei buoni supera il prezzo del prodotto, la differenza non viene rimborsata. Quanti
 > euro del valore dei buoni andranno perduti, come minimo, per pagare interamente
 > le scarpe con i suoi buoni acquisto?
-> (A) 0
-> (B) 1
-> (C) 4
-> (D) 3
-> (E) 2
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 4
+> - **(D)** 3
+> - **(E)** 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

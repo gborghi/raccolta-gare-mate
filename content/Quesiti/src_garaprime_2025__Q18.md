@@ -31,52 +31,12 @@ tags:
 
 > Lisa vuole moltiplicare 18 per un numero, in modo che il risultato sia contemporaneamente un quadrato
 > perfetto e un cubo perfetto. Qual è il più piccolo numero che può usare Lisa?
-> (A) 12
-> (B) 72
-> (C) 1728
-> (D)
-> 2592
-> (E) 46656
-> Test n. 1
-> 
-> Unione Matematica Italiana
-> Progetto Olimpiadi della Matematica
-> X Gara Nazionale per le Classi Prime
-> Mercoledì 5 febbraio 2025
-> Nome:
-> Cognome:
-> Sesso:
-> M
-> F
-> Data di nascita:
-> Città:
-> Scuola:
-> La gara dura 2 ore e 30 minuti e consiste di 18 problemi.
-> Una sola delle risposte è corretta.
-> La lettera
-> corrispondente alla risposta corretta dovrà essere riportata, per ogni quesito, in questa pagina nella finestrella
-> più in basso. Ogni risposta giusta vale 5 punti, ogni risposta errata vale 0 punti e ogni problema lasciato
-> senza risposta vale 1 punto. Non sono ammesse cancellature sulla griglia. Non è ammesso l’uso di dispositivi
-> elettronici, compasso e goniometro. I problemi non sono in ordine di difficoltà, ma permutati in modo casuale.
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> Test n. 2
+>
+> - **(A)** 12
+> - **(B)** 72
+> - **(C)** 1728
+> - **(D)** 2592
+> - **(E)** 46656 Test n. 1 Unione Matematica Italiana Progetto Olimpiadi della Matematica X Gara Nazionale per le Classi Prime Mercoledì 5 febbraio 2025 Nome: Cognome: Sesso: M F Data di nascita: Città: Scuola: La gara dura 2 ore e 30 minuti e consiste di 18 problemi. Una sola delle risposte è corretta. La lettera corrispondente alla risposta corretta dovrà essere riportata, per ogni quesito, in questa pagina nella finestrella più in basso. Ogni risposta giusta vale 5 punti, ogni risposta errata vale 0 punti e ogni problema lasciato senza risposta vale 1 punto. Non sono ammesse cancellature sulla griglia. Non è ammesso l’uso di dispositivi elettronici, compasso e goniometro. I problemi non sono in ordine di difficoltà, ma permutati in modo casuale. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Test n. 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

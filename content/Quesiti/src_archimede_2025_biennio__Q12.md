@@ -33,11 +33,12 @@ tags:
 > Lucia lancia 5 dadi a 12 facce, ciascuna delle quali numerata da 1 a 12, poi moltiplica
 > i 5 numeri usciti. Si accorge che il prodotto ottenuto è un numero primo.
 > Quale potrebbe essere, al massimo, la somma dei 5 numeri usciti?
-> (A) 13
-> (B) 5
-> (C) 60
-> (D) 12
-> (E) 15
+>
+> - **(A)** 13
+> - **(B)** 5
+> - **(C)** 60
+> - **(D)** 12
+> - **(E)** 15
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

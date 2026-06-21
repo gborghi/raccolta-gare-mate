@@ -35,11 +35,12 @@ tags:
 > Per
 > ogni isola, il relativo distretto è costituito dall’isola stessa e tutte quelle da essa
 > raggiungibili tramite una sequenza di ponti. Quanti sono in tutto i distretti?
-> (A) 6
-> (B) 7
-> (C) 1
-> (D) 2
-> (E) 5
+>
+> - **(A)** 6
+> - **(B)** 7
+> - **(C)** 1
+> - **(D)** 2
+> - **(E)** 5
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

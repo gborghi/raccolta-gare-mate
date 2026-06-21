@@ -33,11 +33,12 @@ tags:
 
 > Quanti quadrati perfetti dividono 1600? [Un quadrato perfetto è un numero del
 > tipo n2, con n numero naturale. 1, 4, 9, 16, sono esempi di quadrati perfetti.]
-> (A) 2,
-> (B) 4,
-> (C) 8,
-> (D) 10,
-> (E) 12.
+>
+> - **(A)** 2,
+> - **(B)** 4,
+> - **(C)** 8,
+> - **(D)** 10,
+> - **(E)** 12.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

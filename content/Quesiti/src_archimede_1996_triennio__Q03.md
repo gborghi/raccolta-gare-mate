@@ -35,11 +35,12 @@ tags:
 > Sono dati due quadrati di lato 10 cm, uno dei quali ha un
 > vertice nel centro dell’altro. L’area della parte comune ai
 > due quadrati misura
-> (A) 20 cm2
-> (B) 25 cm2
-> (C) 40 cm2
-> (D) 50 cm2
-> (E) dipende dalla posizione.
+>
+> - **(A)** 20 cm2
+> - **(B)** 25 cm2
+> - **(C)** 40 cm2
+> - **(D)** 50 cm2
+> - **(E)** dipende dalla posizione.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

@@ -33,14 +33,12 @@ tags:
 *Sequenze vincenti testa o croce sei lanci*
 
 > Dalla griglia che vedi nella figura a fianco, Caterina ritaglia una tessera formata da due quadretti accostati. Quale delle seguenti tessere può ottenere?
-> 
-> (A) 
-> (B) 
-> (C) 
-> (D) 
-> (E) 
-> 
-> (vedi figura)
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)** (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

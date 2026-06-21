@@ -32,11 +32,12 @@ tags:
 *Cifra delle unita di 1999 alla 1999*
 
 > Qual è la cifra delle unità di 19991999?
-> (A) 1
-> (B) 3
-> (C) 7
-> (D) 9
-> (E) nessuna delle precedenti.
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 7
+> - **(D)** 9
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

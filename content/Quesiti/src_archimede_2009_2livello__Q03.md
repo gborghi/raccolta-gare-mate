@@ -34,11 +34,12 @@ tags:
 > lenti al posto dei due zeri. Per fabbricare occhiali simili, è necessario che nel numero che rappresenta
 > l’anno vi siano due o più zeri consecutivi (per esempio 3500 va bene, 2010 no). Quanti anni compresi
 > tra l’anno 999 e l’anno 9999 contengono due o più zeri consecutivi nella loro scrittura?
-> (A) 171
-> (B) 180
-> (C) 190
-> (D) 191
-> (E) 200.
+>
+> - **(A)** 171
+> - **(B)** 180
+> - **(C)** 190
+> - **(D)** 191
+> - **(E)** 200.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

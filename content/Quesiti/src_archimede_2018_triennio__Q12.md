@@ -30,11 +30,12 @@ tags:
 
 > Anna ha riscritto per tre volte di fila un numero intero di due cifre, ottenendo così
 > un numero S di sei cifre. Il numero S è sicuramente divisibile per...
-> (A) 1111
-> (B) 101
-> (C) 11
-> (D) 111
-> (E) 1001
+>
+> - **(A)** 1111
+> - **(B)** 101
+> - **(C)** 11
+> - **(D)** 111
+> - **(E)** 1001
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

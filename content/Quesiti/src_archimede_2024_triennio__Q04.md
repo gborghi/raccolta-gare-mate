@@ -33,11 +33,12 @@ tags:
 > L’altezza uscente da D e la bisettrice uscente da F si intersecano nel punto I.
 > Qual è l’ampiezza dell’angolo convesso ’
 > DIF ?
-> (A) 129°
-> (B) 126°
-> (C) 128°
-> (D) 127°
-> (E) 130°
+>
+> - **(A)** 129°
+> - **(B)** 126°
+> - **(C)** 128°
+> - **(D)** 127°
+> - **(E)** 130°
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -42,11 +42,12 @@ tags:
 > percentuale di androidi di vigilanza sul totale della popolazione in quell’ anno.
 > Nel 2014 la popolazione aumentò del 10% per l’arrivo di N umani esiliati.
 > Di quanto diminuì la percentuale di androidi di vigilanza sulla popolazione totale?
-> (A) non cambiò
-> (B) di meno di un decimo di q
-> (C) di più di un decimo di q
-> (D) dipende da N
-> (E) dipende da quanto era numerosa la popolazione iniziale.
+>
+> - **(A)** non cambiò
+> - **(B)** di meno di un decimo di q
+> - **(C)** di più di un decimo di q
+> - **(D)** dipende da N
+> - **(E)** dipende da quanto era numerosa la popolazione iniziale.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

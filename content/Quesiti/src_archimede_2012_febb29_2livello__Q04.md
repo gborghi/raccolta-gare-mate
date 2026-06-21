@@ -32,16 +32,12 @@ tags:
 
 > Delle tre radici a, b, c del polinomio 2x3 −7x2 −2x + 12 sappiamo che 4a = 3(b + c). Quanto vale
 > a + bc?
-> (A) −5
-> 2
-> (B) 1 −
-> √
-> 3
-> (C) 0
-> (D) 7
-> 4
-> (E) 2 +
-> √
+>
+> - **(A)** −5 2
+> - **(B)** 1 − √ 3
+> - **(C)** 0
+> - **(D)** 7 4
+> - **(E)** 2 + √
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

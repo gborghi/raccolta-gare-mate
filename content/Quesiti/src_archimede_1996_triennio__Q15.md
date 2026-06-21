@@ -35,19 +35,12 @@ tags:
 > Se si sviluppa la superficie laterale di un cilindro retto si ottiene un rettangolo le
 > cui diagonali sono lunghe l e formano un angolo di 30°con la base del rettangolo.
 > Il volume del cilindro è
-> (A) 1
-> 16
-> l3
-> π
-> (B) 3
-> 8l3
-> (C) 3
-> 4l3
-> (D) 3
-> 32
-> l3
-> π
-> (E) le risposte precedenti sono tutte sbagliate.
+>
+> - **(A)** 1 16 l3 π
+> - **(B)** 3 8l3
+> - **(C)** 3 4l3
+> - **(D)** 3 32 l3 π
+> - **(E)** le risposte precedenti sono tutte sbagliate.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

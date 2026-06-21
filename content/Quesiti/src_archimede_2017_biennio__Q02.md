@@ -35,11 +35,12 @@ tags:
 > presenti afferma: “Delle altre tre persone sedute a questo tavolo insieme a me, i
 > furfanti sono esattamente due”. Qual è il numero complessivo di furfanti che sono
 > seduti al tavolo?
-> (A) nessuno
-> (B) sicuramente 2
-> (C) sicuramente tutti e 4
-> (D) sicuramente 1
-> (E) gli elementi forniti non sono sufficienti per stabilirlo
+>
+> - **(A)** nessuno
+> - **(B)** sicuramente 2
+> - **(C)** sicuramente tutti e 4
+> - **(D)** sicuramente 1
+> - **(E)** gli elementi forniti non sono sufficienti per stabilirlo
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

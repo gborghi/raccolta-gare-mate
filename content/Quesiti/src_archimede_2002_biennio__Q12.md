@@ -32,11 +32,12 @@ tags:
 > (ii) 310 è dispari;
 > (iii) 310 è un quadrato;
 > quali sono quelle corrette?
-> (A) Solo (i)
-> (B) solo (ii)
-> (C) solo (iii)
-> (D) (ii) e (iii)
-> (E) tutte e tre.
+>
+> - **(A)** Solo (i)
+> - **(B)** solo (ii)
+> - **(C)** solo (iii)
+> - **(D)** (ii) e (iii)
+> - **(E)** tutte e tre.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

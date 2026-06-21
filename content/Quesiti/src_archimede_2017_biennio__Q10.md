@@ -34,11 +34,12 @@ tags:
 > anche non consecutive (senza però cancellarle tutte) e si leggono le cifre rimanenti
 > nell’ordine in cui si trovano, si ottiene ancora un numero primo?
 > (Si ricorda che 1 non è un numero primo.)
-> (A) 7
-> (B) 3
-> (C) 5
-> (D) 8
-> (E) 10
+>
+> - **(A)** 7
+> - **(B)** 3
+> - **(C)** 5
+> - **(D)** 8
+> - **(E)** 10
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

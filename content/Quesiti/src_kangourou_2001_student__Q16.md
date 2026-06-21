@@ -37,12 +37,12 @@ tags:
 > punti, squadra B  4 punti, squadra C  3 punti, squadra D  3 punti. (Nelle partite di
 > calcio una squadra ottiene 3 punti quando vince, 1 punto quando pareggia, 0 punti
 > in caso di sconfitta). Come è finito l'incontro tra la squadra A e la D?
-> (A) A ha necessariamente vinto
-> (B) hanno pareggiato
-> (C) D ha
-> necessariamente vinto
-> (D) dipende dal risultato della sfida tra A e B
-> (E) dipende dal risultato della sfida tra A e C.
+>
+> - **(A)** A ha necessariamente vinto
+> - **(B)** hanno pareggiato
+> - **(C)** D ha necessariamente vinto
+> - **(D)** dipende dal risultato della sfida tra A e B
+> - **(E)** dipende dal risultato della sfida tra A e C.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

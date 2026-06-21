@@ -30,11 +30,12 @@ tags:
 
 > Quale dei seguenti numeri si può ottenere sommando i quadrati di due numeri interi
 > multipli di 3?
-> (A) 459
-> (B) 363
-> (C) 633
-> (D) 495
-> (E) 549
+>
+> - **(A)** 459
+> - **(B)** 363
+> - **(C)** 633
+> - **(D)** 495
+> - **(E)** 549
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

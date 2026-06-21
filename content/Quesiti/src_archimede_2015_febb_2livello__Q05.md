@@ -34,11 +34,12 @@ tags:
 > e q(x) sono tali che il loro massimo comun divisore sia (x −1)(x −2), il loro minimo comune
 > multiplo sia (x −1)2(x −2)3(x −3)(x + 1) e il grado di p(x) sia minore o uguale al grado di q(x).
 > In quanti modi può essere scelto p(x)?
-> (A) 4
-> (B) 5
-> (C) 8
-> (D) 10
-> (E) 12
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 8
+> - **(D)** 10
+> - **(E)** 12
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

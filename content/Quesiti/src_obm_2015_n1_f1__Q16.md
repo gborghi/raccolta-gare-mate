@@ -40,12 +40,12 @@ tags:
 *Count summands appearing in writing 2015 as sum of three numbers*
 
 > Esmeralda plays at writing the number 2015 as the sum of three numbers, in non-decreasing order, using three summands. For example, $670 + 671 + 674 = 2015$ and $175 + 920 + 920 = 2015$. Note that in the second example the number 920 appears twice as a summand. If she writes all the possible sums, how many numbers would appear as a summand?
-> 
-> (A) 100
-> (B) 449
-> (C) 450
-> (D) 570
-> (E) 999
+>
+> - **(A)** 100
+> - **(B)** 449
+> - **(C)** 450
+> - **(D)** 570
+> - **(E)** 999
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]

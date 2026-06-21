@@ -33,11 +33,12 @@ tags:
 > In questo rettangolo ci sono esattamente tre affermazioni false.
 > In questo rettangolo ci sono esattamente quattro affermazioni false.
 > Quante affermazioni vere ci sono nel rettangolo?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 4.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

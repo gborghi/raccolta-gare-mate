@@ -33,11 +33,12 @@ tags:
 > Luca e Carlo giocano uno contro l’altro a tombola (senza altri avversari). Ciascuno
 > ha una cartella con 15 numeri; le due cartelle non hanno numeri in comune. Qual
 > è la probabilità che la partita si concluda proprio all’89-esimo numero estratto?
-> (A) 9/178
-> (B) 5/178
-> (C) 5/89
-> (D) 1/18
-> (E) 1/36
+>
+> - **(A)** 9/178
+> - **(B)** 5/178
+> - **(C)** 5/89
+> - **(D)** 1/18
+> - **(E)** 1/36
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

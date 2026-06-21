@@ -33,12 +33,12 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob16.png]]
 
 > La nonna ha infornato $12$ biscotti. Vuole dare tutti i biscotti che cuocerà ai suoi $5$ nipotini e vuole dare a ciascun nipotino lo stesso numero di biscotti. Qual è il minimo numero di biscotti che dovrà infornare ancora?
-> 
-> (A) $0$
-> (B) $1$
-> (C) $2$
-> (D) $3$
-> (E) $4$
+>
+> - **(A)** $0$
+> - **(B)** $1$
+> - **(C)** $2$
+> - **(D)** $3$
+> - **(E)** $4$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

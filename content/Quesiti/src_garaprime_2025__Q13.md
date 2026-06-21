@@ -31,12 +31,12 @@ tags:
 > P il punto di intersezione tra AM e BD.
 > Sapendo che l’area di APO è 24 cm2, quanto vale l’area del
 > parallelogramma ABCD?
-> (A)
-> 288 cm2
-> (B) 240 cm2
-> (C) 336 cm2
-> (D) 192 cm2
-> (E) 216 cm2
+>
+> - **(A)** 288 cm2
+> - **(B)** 240 cm2
+> - **(C)** 336 cm2
+> - **(D)** 192 cm2
+> - **(E)** 216 cm2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

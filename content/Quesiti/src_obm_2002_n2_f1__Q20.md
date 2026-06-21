@@ -36,16 +36,12 @@ tags:
 *Given xy=2 and x²+y²+x²y²=5, find x²/y²+2+y²/x²*
 
 > If $xy = 2$ and $x^2 + y^2 + x^2 y^2 = 5$, then $\dfrac{x^2}{y^2} + 2 + \dfrac{y^2}{x^2}$ equals:
-> 
-> (A) $\dfrac{5}{2}$
-> 
-> (B) $\dfrac{25}{4}$
-> 
-> (C) $\dfrac{5}{4}$
-> 
-> (D) $\dfrac{1}{4}$
-> 
-> (E) $1$
+>
+> - **(A)** $\dfrac{5}{2}$
+> - **(B)** $\dfrac{25}{4}$
+> - **(C)** $\dfrac{5}{4}$
+> - **(D)** $\dfrac{1}{4}$
+> - **(E)** $1$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

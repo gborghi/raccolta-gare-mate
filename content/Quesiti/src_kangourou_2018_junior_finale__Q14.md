@@ -33,19 +33,19 @@ tags:
 *Minimo k per gioco infinito sui gettoni 50x50*
 
 > In un certo giorno $40$ treni hanno viaggiato tra due delle città $S$, $T$, $U$, $V$ e $Z$.
-> 
+>
 > - Dieci treni hanno viaggiato o da o per $S$.
 > - Dieci treni hanno viaggiato o da o per $T$.
 > - Dieci treni hanno viaggiato o da o per $U$.
 > - Dieci treni hanno viaggiato o da o per $V$.
-> 
+>
 > Quanti treni hanno viaggiato o da o per $Z$?
-> 
-> (A) $0$
-> (B) $10$
-> (C) $20$
-> (D) $30$
-> (E) $40$
+>
+> - **(A)** $0$
+> - **(B)** $10$
+> - **(C)** $20$
+> - **(D)** $30$
+> - **(E)** $40$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

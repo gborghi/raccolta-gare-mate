@@ -38,12 +38,12 @@ tags:
 *Tetrahedral die faces 1-4 glued; which sum of visible faces is impossible*
 
 > A special die has equilateral-triangle faces, numbered from $1$ to $4$, as in the drawing. Gluing two dice, we make two faces coincide, with the same number or not. Which of the following numbers cannot be the sum of the visible faces?
-> 
-> (A) $12$
-> (B) $14$
-> (C) $17$
-> (D) $18$
-> (E) $19$
+>
+> - **(A)** $12$
+> - **(B)** $14$
+> - **(C)** $17$
+> - **(D)** $18$
+> - **(E)** $19$
 
 ![[src_obm_2010_n2_f1__Q23.png]]
 

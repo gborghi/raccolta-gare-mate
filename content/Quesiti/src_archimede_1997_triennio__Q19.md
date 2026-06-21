@@ -32,11 +32,12 @@ tags:
 
 > Nella somma 1 + 2 + 3 + · · · + 100, quanti segni + devono essere cambiati in −al
 > minimo per poter ottenere 1997?
-> (A) Meno di 10
-> (B) tra 10 e 19
-> (C) tra 20 e 29
-> (D) più di 30
-> (E) non è possibile ottenere 1997.
+>
+> - **(A)** Meno di 10
+> - **(B)** tra 10 e 19
+> - **(C)** tra 20 e 29
+> - **(D)** più di 30
+> - **(E)** non è possibile ottenere 1997.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

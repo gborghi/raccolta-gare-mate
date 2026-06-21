@@ -29,12 +29,12 @@ tags:
 *Gruppo di sassolini sul gradino indicato*
 
 > Sofia vuole mettere alcuni sassolini su ogni gradino di una scala. I sassolini possono essere bianchi o neri. La figura ti mostra con quale criterio ha sistemato i sassolini sui primi cinque gradini. Quale gruppo di sassolini metterà sul gradino indicato dal punto di domanda? (vedi figura)
-> 
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

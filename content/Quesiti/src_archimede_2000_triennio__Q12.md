@@ -30,15 +30,16 @@ tags:
 
 > Il prezzo della mascotte delle olimpiadi di matematica è dato dalla somma del
 > prezzo delle materie prime e del prezzo della lavorazione. L’anno scorso la mascotte costava 10 Euro. Quest’anno il costo delle materie prime è raddoppiato,
-> 
+>
 > mentre il costo della lavorazione è aumentato del 10%; di conseguenza quest’anno
 > la mascotte costa 12 Euro. Quanto incide quest’anno il prezzo delle materie prime
 > sul prezzo finale del prodotto?
-> (A) Meno di 1 Euro
-> (B) tra 1 e 2 Euro
-> (C) tra 2 e 3 Euro
-> (D) tra 3 e 4 Euro
-> (E) più di 4 Euro.
+>
+> - **(A)** Meno di 1 Euro
+> - **(B)** tra 1 e 2 Euro
+> - **(C)** tra 2 e 3 Euro
+> - **(D)** tra 3 e 4 Euro
+> - **(E)** più di 4 Euro.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

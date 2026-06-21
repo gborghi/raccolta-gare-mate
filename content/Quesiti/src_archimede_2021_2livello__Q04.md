@@ -39,11 +39,12 @@ tags:
 > √
 > b.
 > Quanti sono i possibili valori distinti di c?
-> (A) 130
-> (B) 132
-> (C) 133
-> (D) 1936
-> (E) 2025
+>
+> - **(A)** 130
+> - **(B)** 132
+> - **(C)** 133
+> - **(D)** 1936
+> - **(E)** 2025
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

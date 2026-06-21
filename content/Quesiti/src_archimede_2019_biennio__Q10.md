@@ -30,11 +30,12 @@ tags:
 
 > Un ottagono convesso possiede 8 angoli interni.
 > Quanti di essi, al massimo, possono essere retti?
-> (A) 4
-> (B) 2
-> (C) 3
-> (D) 5
-> (E) 1
+>
+> - **(A)** 4
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 5
+> - **(E)** 1
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]

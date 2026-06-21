@@ -39,12 +39,12 @@ tags:
 *Logic puzzle: six friends travelling in pairs by different transports*
 
 > Six friends plan to travel in pairs, each pair using a different means of transport from among the following: aeroplane, train, and car. Alexandre accompanies Bento. André travels by aeroplane. Carlos does not accompany Dário. Tomás never uses a train. Which of the following statements is correct?
-> 
-> (A) Bento goes by car and Carlos goes by aeroplane.
-> (B) Dário goes by train and André goes by car.
-> (C) Tomás goes by train and Bento goes by aeroplane.
-> (D) Alexandre goes by train and Tomás goes by car.
-> (E) André goes by train and Alexandre goes by car.
+>
+> - **(A)** Bento goes by car and Carlos goes by aeroplane.
+> - **(B)** Dário goes by train and André goes by car.
+> - **(C)** Tomás goes by train and Bento goes by aeroplane.
+> - **(D)** Alexandre goes by train and Tomás goes by car.
+> - **(E)** André goes by train and Alexandre goes by car.
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]

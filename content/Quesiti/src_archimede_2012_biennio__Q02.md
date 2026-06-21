@@ -30,15 +30,12 @@ tags:
 
 > Il cortile della casa di Luigi ha la forma di un triangolo rettangolo isoscele. Sapendo
 > che l’area del cortile è 16 m2, quanto misura il lato più lungo del cortile?
-> (A) 2 m
-> (B) 4 m
-> (C) 4
-> √
-> 2 m
-> (D) 8 m
-> (E) 8
-> √
-> 2 m
+>
+> - **(A)** 2 m
+> - **(B)** 4 m
+> - **(C)** 4 √ 2 m
+> - **(D)** 8 m
+> - **(E)** 8 √ 2 m
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

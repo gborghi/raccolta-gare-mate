@@ -29,11 +29,12 @@ tags:
 
 > Ieri Pierino si è dilettato a fare la somma dei numeri dispari da 1 fino ad un certo
 > valore. Quali delle seguenti somme è sicuramente errata?
-> (A) 625
-> (B) 1225
-> (C) 2025
-> (D) 3025
-> (E) 4525.
+>
+> - **(A)** 625
+> - **(B)** 1225
+> - **(C)** 2025
+> - **(D)** 3025
+> - **(E)** 4525.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

@@ -31,14 +31,14 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob8.png]]
 
 > La treccia in figura è composta usando tre nastri: uno giallo, uno azzurro e uno rosso. Quali colori corrispondono ai numeri 1, 2, 3 che vedi in figura?
-> 
+>
 > (vedi figura)
-> 
-> (A) 1 è azzurro, 2 è giallo e 3 è rosso
-> (B) 1 è giallo, 2 è rosso e 3 è azzurro
-> (C) 1 è rosso, 2 è azzurro e 3 è giallo
-> (D) 1 è giallo, 2 è azzurro e 3 è rosso
-> (E) 1 è azzurro, 2 è rosso e 3 è giallo
+>
+> - **(A)** 1 è azzurro, 2 è giallo e 3 è rosso
+> - **(B)** 1 è giallo, 2 è rosso e 3 è azzurro
+> - **(C)** 1 è rosso, 2 è azzurro e 3 è giallo
+> - **(D)** 1 è giallo, 2 è azzurro e 3 è rosso
+> - **(E)** 1 è azzurro, 2 è rosso e 3 è giallo
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -30,15 +30,12 @@ tags:
 
 > Quale numero diverso da 0 è tale che la sua decima parte eguagli dieci volte il
 > quadrato del numero stesso?
-> (A)
-> 1
-> 100
-> (B) 1
-> 10
-> (C) 1
-> 2
-> (D) 1
-> (E) 10.
+>
+> - **(A)** 1 100
+> - **(B)** 1 10
+> - **(C)** 1 2
+> - **(D)** 1
+> - **(E)** 10.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

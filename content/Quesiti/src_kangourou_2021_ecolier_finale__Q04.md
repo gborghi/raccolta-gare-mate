@@ -31,12 +31,12 @@ tags:
 *Correggere 25x2=211 con +1/-1 sulle cifre*
 
 > Quanti numeri diversi di quattro cifre si possono ottenere da $337337$ cancellandone due cifre?
-> 
-> (A) 6
-> (B) 7
-> (C) 8
-> (D) 9
-> (E) 10
+>
+> - **(A)** 6
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** 10
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

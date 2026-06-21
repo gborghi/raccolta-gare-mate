@@ -30,11 +30,12 @@ tags:
 
 > Un orologio analogico ha perso la lancetta dei minuti, ma funziona ancora correttamente. La lancetta delle ore è in corrispondenza del minuto 23. Sapendo che è
 > pomeriggio, che ore sono?
-> (A) Le 15:23
-> (B) le 16:23
-> (C) le 16:30
-> (D) le 16:36
-> (E) le 16:40.
+>
+> - **(A)** Le 15:23
+> - **(B)** le 16:23
+> - **(C)** le 16:30
+> - **(D)** le 16:36
+> - **(E)** le 16:40.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

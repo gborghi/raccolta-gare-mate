@@ -42,12 +42,12 @@ tags:
 *Self-referential: total number of letters in all wrong answers to this question*
 
 > What is the total number of letters in all the wrong answers to this question?
-> 
-> (A) Forty-eight.
-> (B) Forty-nine.
-> (C) Fifty.
-> (D) Fifty-one.
-> (E) Fifty-four.
+>
+> - **(A)** Forty-eight.
+> - **(B)** Forty-nine.
+> - **(C)** Fifty.
+> - **(D)** Fifty-one.
+> - **(E)** Fifty-four.
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]

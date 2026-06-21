@@ -41,12 +41,12 @@ tags:
 *Matchsticks needed for 100 squares in a row*
 
 > Joãozinho makes a row of squares using matchsticks, as shown in the figure. The number of matchsticks needed to make a row of $100$ squares is:
-> 
-> (A) $296$
-> (B) $293$
-> (C) $297$
-> (D) $301$
-> (E) $28$
+>
+> - **(A)** $296$
+> - **(B)** $293$
+> - **(C)** $297$
+> - **(D)** $301$
+> - **(E)** $28$
 
 ![[src_obm_1998_n1_f1__Q13.png]]
 

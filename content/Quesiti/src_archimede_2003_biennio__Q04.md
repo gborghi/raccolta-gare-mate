@@ -31,11 +31,12 @@ tags:
 > Si vogliono colorare le nove caselle di una scacchiera 3 × 3 in modo tale che ogni
 > riga, ogni colonna e ognuna delle due diagonali non contengano più caselle dello
 > stesso colore. Qual è il minimo numero di colori necessario?
-> (A) 3
-> (B) 4
-> (C) 5
-> (D) 6
-> (E) 7.
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

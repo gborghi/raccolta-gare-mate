@@ -42,12 +42,12 @@ tags:
 *Numbered triangular faces of a solid; count placements with distinct visible faces.*
 
 > The four faces of a solid are equilateral triangles, numbered from $1$ to $4$, as in the figure. Colouring two of the faces blue and another two yellow, in how many different ways can the faces be coloured so that no two faces with the same colour have a common edge? (The solid may be turned so that one of the numbers stays underneath, i.e. one face is not visible.) In how many ways is this possible?
-> 
-> (A) $12$
-> (B) $14$
-> (C) $17$
-> (D) $18$
-> (E) $19$
+>
+> - **(A)** $12$
+> - **(B)** $14$
+> - **(C)** $17$
+> - **(D)** $18$
+> - **(E)** $19$
 
 ![[src_obm_2010_n3_f1__Q03.png]]
 

@@ -43,11 +43,12 @@ tags:
 > P
 > Q
 > ω
-> (A) 72
-> (B) 75
-> (C) 80
-> (D) 84
-> (E) 81
+>
+> - **(A)** 72
+> - **(B)** 75
+> - **(C)** 80
+> - **(D)** 84
+> - **(E)** 81
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

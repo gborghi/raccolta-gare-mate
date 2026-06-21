@@ -45,11 +45,12 @@ tags:
 > Il giovedì, e solo il giovedì, nell’ambulatorio presta servizio Franco, l’infermiere
 > preferito di Loretta. Sapendo che oggi, giovedì, Loretta è andata all’ambulatorio,
 > tra quanti giorni rivedrà Franco?
-> (A) 14
-> (B) 35
-> (C) 53
-> (D) 65
-> (E) 91
+>
+> - **(A)** 14
+> - **(B)** 35
+> - **(C)** 53
+> - **(D)** 65
+> - **(E)** 91
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

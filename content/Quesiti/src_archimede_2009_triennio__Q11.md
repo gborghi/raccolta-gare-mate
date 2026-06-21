@@ -36,12 +36,12 @@ tags:
 > affermazioni. Drago: “Io sono un paggio. Ludovico è un cavaliere”. Ludovico:
 > “Orlando è un paggio. Io sono un furfante”. Orlando: “Io sono un paggio. Siamo
 > tutti paggi!”. Quanti di loro sono effettivamente paggi?
-> (A) 0,
-> (B) 1,
-> (C) 2,
-> (D) 3,
-> (E) non si può determinare con i dati a
-> disposizione.
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** non si può determinare con i dati a disposizione.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

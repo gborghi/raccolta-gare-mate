@@ -29,11 +29,12 @@ tags:
 *Uguaglianza corretta tra le operazioni*
 
 > Solo una delle uguaglianze seguenti è corretta. Quale?
-> (A) 12 : (4 + 8) = 11
-> (B) 8 ⋅ 2 + 3 = 40
-> (C) 2 ⋅ 3 + 4 ⋅ 5 = 50
-> (D) (10 + 8) : 2 = 14
-> (E) 18 – 6 : 3 = 16
+>
+> - **(A)** 12 : (4 + 8) = 11
+> - **(B)** 8 ⋅ 2 + 3 = 40
+> - **(C)** 2 ⋅ 3 + 4 ⋅ 5 = 50
+> - **(D)** (10 + 8) : 2 = 14
+> - **(E)** 18 – 6 : 3 = 16
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

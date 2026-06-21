@@ -35,12 +35,12 @@ tags:
 *Arithmetic mean of two distinct two-digit numbers is 98; find difference*
 
 > Sonia calculates the arithmetic mean of two different two-digit numbers and obtains $98$. What is the difference between these numbers?
-> 
-> (A) $1$
-> (B) $2$
-> (C) $3$
-> (D) $4$
-> (E) a number greater than $4$
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** a number greater than $4$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]

@@ -33,11 +33,12 @@ tags:
 > Le misure dei lati di un triangolo ABC sono: AC = BC = 10 cm, AB = 12 cm.
 > Quanti cm misura la parte di perimetro di ABC formata dai punti per i quali la
 > distanza da A è minore della distanza da C?
-> (A) 27/2
-> (B) 16
-> (C) 12
-> (D) 25/2
-> (E) 40/3
+>
+> - **(A)** 27/2
+> - **(B)** 16
+> - **(C)** 12
+> - **(D)** 25/2
+> - **(E)** 40/3
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

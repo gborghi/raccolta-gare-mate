@@ -35,11 +35,12 @@ tags:
 > stati 5 millepiedi. Tre di loro hanno acquistato 30 paia di scarpe
 > ciascuno; gli altri due solo 5 paia ciascuno. Quante paia di scarpe
 > sono rimaste sugli scaffali dopo la visita dei 5 millepiedi?
-> (A) 10
-> (B) 15
-> (C) 20
-> (D) 25
-> (E) 30.
+>
+> - **(A)** 10
+> - **(B)** 15
+> - **(C)** 20
+> - **(D)** 25
+> - **(E)** 30.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

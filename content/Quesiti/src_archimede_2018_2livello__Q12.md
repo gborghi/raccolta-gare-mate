@@ -35,12 +35,12 @@ tags:
 > n
 > f(n). Cosa si può dire
 > della somma S = g(1) + g(2) + · · · + g(30)?
-> (A) S ≤0.35
-> (B) 0.35 < S ≤0.49
-> (C) 0.49 < S ≤0.50
-> (D) 0.50 < S ≤0.51
-> (E) S > 0.51
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** S ≤0.35
+> - **(B)** 0.35 < S ≤0.49
+> - **(C)** 0.49 < S ≤0.50
+> - **(D)** 0.50 < S ≤0.51
+> - **(E)** S > 0.51 Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]

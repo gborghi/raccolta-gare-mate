@@ -34,11 +34,12 @@ tags:
 
 > Enrico sta scrivendo, in ordine alfabetico, tutti i possibili anagrammi della parola
 > NUMERO. Quale posizione occupa la parola NUMERO in questo elenco?
-> (A) la 341a
-> (B) la 344a
-> (C) la 361a
-> (D) la 337a
-> (E) la 336a
+>
+> - **(A)** la 341a
+> - **(B)** la 344a
+> - **(C)** la 361a
+> - **(D)** la 337a
+> - **(E)** la 336a
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

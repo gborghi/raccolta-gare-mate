@@ -30,11 +30,12 @@ tags:
 
 > Consideriamo i numeri 20253, 20259, 202527, . . . , 2025(32025), ossia tutte le potenze
 > del tipo 2025(3n) con 1 ⩽n ⩽2025. Quanti di essi sono quadrati di numeri interi?
-> (A) 2025
-> (B) nessuno
-> (C) 150
-> (D) 1012
-> (E) 75
+>
+> - **(A)** 2025
+> - **(B)** nessuno
+> - **(C)** 150
+> - **(D)** 1012
+> - **(E)** 75
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

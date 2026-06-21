@@ -33,12 +33,12 @@ tags:
 ![[src_kangourou_2020_pre_marzo__prob24.png]]
 
 > Giovanni e Stefano si scambiano delle biglie. Prima Giovanni dà a Stefano tante biglie quante ne ha Stefano; poi Stefano dà a Giovanni tante biglie quante ne ha Giovanni dopo il primo scambio. Dopo questi due scambi entrambi hanno $4$ biglie. Quante biglie aveva Giovanni all'inizio?
-> 
-> (A) $2$
-> (B) $3$
-> (C) $4$
-> (D) $5$
-> (E) $6$
+>
+> - **(A)** $2$
+> - **(B)** $3$
+> - **(C)** $4$
+> - **(D)** $5$
+> - **(E)** $6$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

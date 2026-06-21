@@ -33,11 +33,12 @@ tags:
 > Un numero si dice “moderno” se, in base 10, può essere espresso concantenando “un po’” di scritture
 > decimali di 2006: ad esempio 200620062006 è moderno, mentre 20200606 e 2006200 non lo sono.
 > Quante cifre ha il più piccolo quadrato perfetto moderno positivo?
-> (A) 32
-> (B) 64
-> (C) 100
-> (D) 1000
-> (E) non esiste un tale numero.
+>
+> - **(A)** 32
+> - **(B)** 64
+> - **(C)** 100
+> - **(D)** 1000
+> - **(E)** non esiste un tale numero.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

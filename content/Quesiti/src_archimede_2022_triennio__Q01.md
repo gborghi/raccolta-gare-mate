@@ -32,12 +32,12 @@ tags:
 > n + 3
 > 2
 > 2 ?
-> (A) (n + 2)2
-> (B) (n + 1)2
-> (C) (n + 1)(n + 2)
-> (D) n2 + 2
-> (E) n2 + 9
-> 4
+>
+> - **(A)** (n + 2)2
+> - **(B)** (n + 1)2
+> - **(C)** (n + 1)(n + 2)
+> - **(D)** n2 + 2
+> - **(E)** n2 + 9 4
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

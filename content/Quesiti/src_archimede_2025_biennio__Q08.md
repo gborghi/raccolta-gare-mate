@@ -39,11 +39,12 @@ tags:
 > dei due numeri sottostanti. Qual è la differenza tra il numero
 > più grande ed il numero più piccolo che Matteo potrebbe
 > scrivere nella casella in cima alla piramide?
-> (A) 13
-> (B) 12
-> (C) 16
-> (D) 20
-> (E) 14
+>
+> - **(A)** 13
+> - **(B)** 12
+> - **(C)** 16
+> - **(D)** 20
+> - **(E)** 14
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

@@ -37,12 +37,12 @@ tags:
 *Estimate height of a stack of 100 million sheets of paper*
 
 > Imagine a stack of one hundred million sheets of sulfite paper, each $0.1\ \text{mm}$ thick. The closest alternative to the height of the stack is:
-> 
-> (A) your height.
-> (B) the height of the tallest animal in the world, the blue whale, which is about 29 metres.
-> (C) the height of the tallest building in the world, the Petronas Tower, which has 88 floors.
-> (D) the height of the highest peak in the world, Mount Everest, which is 8848 metres.
-> (E) the distance from Earth to the Moon, which is much greater than all the previous alternatives.
+>
+> - **(A)** your height.
+> - **(B)** the height of the tallest animal in the world, the blue whale, which is about 29 metres.
+> - **(C)** the height of the tallest building in the world, the Petronas Tower, which has 88 floors.
+> - **(D)** the height of the highest peak in the world, Mount Everest, which is 8848 metres.
+> - **(E)** the distance from Earth to the Moon, which is much greater than all the previous alternatives.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]]

@@ -32,12 +32,12 @@ tags:
 *Maggiore raggio di tre cerchi tangenti a una retta*
 
 > Si può andare dal punto $A$ al punto $B$ in figura solo rispettando le direzioni e i versi indicati dalle frecce. Quanti percorsi diversi sono possibili? (vedi figura)
-> 
-> (A) $20$
-> (B) $16$
-> (C) $12$
-> (D) $9$
-> (E) $8$
+>
+> - **(A)** $20$
+> - **(B)** $16$
+> - **(C)** $12$
+> - **(D)** $9$
+> - **(E)** $8$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

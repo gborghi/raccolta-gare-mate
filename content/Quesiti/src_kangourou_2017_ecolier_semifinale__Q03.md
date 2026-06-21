@@ -30,15 +30,16 @@ tags:
 
 *Palloncini di Francesca da somme parziali*
 
-> (Punti 3) Cinque bambini sono in fila e ciascuno di loro ha legati alla mano sinistra diversi 
-> palloncini colorati: in tutto 37. A destra di Andrea ci sono 14 palloncini; a destra di Caterina ce ne 
-> sono 32; a destra di Eva ce ne sono 20 e a destra di Daniele ce ne sono 8. Quanti palloncini ha 
-> Francesca? 
-> (A) 4 
-> (B) 6 
-> (C) 8 
-> (D) 10 
-> (E) 12
+> (Punti 3) Cinque bambini sono in fila e ciascuno di loro ha legati alla mano sinistra diversi
+> palloncini colorati: in tutto 37. A destra di Andrea ci sono 14 palloncini; a destra di Caterina ce ne
+> sono 32; a destra di Eva ce ne sono 20 e a destra di Daniele ce ne sono 8. Quanti palloncini ha
+> Francesca?
+>
+> - **(A)** 4
+> - **(B)** 6
+> - **(C)** 8
+> - **(D)** 10
+> - **(E)** 12
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

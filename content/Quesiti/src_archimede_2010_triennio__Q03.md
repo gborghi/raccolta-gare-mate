@@ -29,11 +29,12 @@ tags:
 *Numero cifre del quadrato di un numero di 10 cifre*
 
 > Quante cifre ha il quadrato di un numero naturale di 10 cifre?
-> (A) meno di 25,
-> (B) 40,
-> (C) 50,
-> (D) 60,
-> (E) almeno 100.
+>
+> - **(A)** meno di 25,
+> - **(B)** 40,
+> - **(C)** 50,
+> - **(D)** 60,
+> - **(E)** almeno 100.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

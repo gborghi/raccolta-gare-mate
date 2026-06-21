@@ -31,13 +31,12 @@ tags:
 *Da |3a-b+1|=|b|, quale relazione vale necessariamente*
 
 > Sono dati due numeri reali a e b tali che |3a −b + 1| = |b|. Allora necessariamente si ha. . .
-> (A) b = 0
-> (B) a = −1
-> 3
-> (C) a < 0
-> (D) b = 3a + 1
-> 2
-> (E) nessuna delle precedenti.
+>
+> - **(A)** b = 0
+> - **(B)** a = −1 3
+> - **(C)** a < 0
+> - **(D)** b = 3a + 1 2
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

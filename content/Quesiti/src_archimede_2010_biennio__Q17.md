@@ -36,34 +36,12 @@ tags:
 > prendiamo i punti D, E e F sui lati AC, AB e BC rispettivamente, in modo che i segmenti AD e FC misurino 1 m
 > e il segmento DE sia perpendicolare a AC. Quanto misura
 > l’area del triangolo DEF?
-> (A)
-> 3
-> √
-> 3
-> 4
-> m2,
-> (B)
-> √
-> 3
-> 2 m2,
-> (C)
-> 3
-> √
-> 3 m2,
-> (D)
-> 3
-> 2 m2,
-> (E) 4
-> √
-> 3
-> 3
-> m2.
-> A
-> B
-> C
-> D
-> E
-> F
+>
+> - **(A)** 3 √ 3 4 m2,
+> - **(B)** √ 3 2 m2,
+> - **(C)** 3 √ 3 m2,
+> - **(D)** 3 2 m2,
+> - **(E)** 4 √ 3 3 m2. A B C D E F
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

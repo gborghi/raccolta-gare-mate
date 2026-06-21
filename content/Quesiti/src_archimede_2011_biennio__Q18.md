@@ -36,11 +36,12 @@ tags:
 > usando il rosso, il blu, il verde e il giallo, in modo che non ci siano due facce adiacenti
 > (cioè con un lato in comune) con lo stesso colore e ogni vertice abbia colore diverso
 > da tutte le facce a cui appartiene. In quanti modi diversi lo può fare?
-> (A) 24
-> (B) 48,
-> (C) 96,
-> (D) 264,
-> (E) 46.
+>
+> - **(A)** 24
+> - **(B)** 48,
+> - **(C)** 96,
+> - **(D)** 264,
+> - **(E)** 46.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_conteggio|Conteggio combinatorio]]

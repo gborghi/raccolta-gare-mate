@@ -33,16 +33,12 @@ tags:
 > Usando una sola volta le cifre da 1 a 6, tu puoi formare due numeri di tre cifre
 > (per esempio 645 e 321, che differiscono di 324). Cerca i due numeri di tre cifre
 > la cui differenza sia la più piccola possibile. La più piccola differenza è:
-> (A) 69
-> (B) 56
-> (C) 49
-> (D) 47
-> (E) 38.
-> 
-> Risposte categoria Benjamin, 15 marzo 2001. Pagina N.
-> 1
-> Risposte Categoria Benjamin
-> Gara del 15 marzo 2001
+>
+> - **(A)** 69
+> - **(B)** 56
+> - **(C)** 49
+> - **(D)** 47
+> - **(E)** 38. Risposte categoria Benjamin, 15 marzo 2001. Pagina N. 1 Risposte Categoria Benjamin Gara del 15 marzo 2001
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

@@ -32,11 +32,12 @@ tags:
 
 > I numeri a, b sono interi positivi. Qual è il minimo valore di a + b affinch´e 21ab2 e 15ab siano
 > entrambi cubi perfetti?
-> (A) 160
-> (B) 260
-> (C) 360
-> (D) 460
-> (E) 560.
+>
+> - **(A)** 160
+> - **(B)** 260
+> - **(C)** 360
+> - **(D)** 460
+> - **(E)** 560.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

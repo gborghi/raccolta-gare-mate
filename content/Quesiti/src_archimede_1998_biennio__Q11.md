@@ -32,11 +32,12 @@ tags:
 
 > Se ordiniamo le cifre seguenti secondo la somma delle lunghezze dei segmenti di
 > cui sono composte, quale cifra occupa la posizione centrale?
-> (A) Il 3
-> (B) il 2
-> (C) il 4
-> (D) ce n’è più di una
-> (E) nessuna delle precedenti.
+>
+> - **(A)** Il 3
+> - **(B)** il 2
+> - **(C)** il 4
+> - **(D)** ce n’è più di una
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

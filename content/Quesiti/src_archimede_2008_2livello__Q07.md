@@ -35,11 +35,12 @@ tags:
 
 > In quanti modi si possono ordinare le cifre 1, 2, 4, 7 e 9 affinch´e formino un numero di cinque cifre
 > divisibile per 11?
-> (A) 0
-> (B) 1
-> (C) 10
-> (D) 12
-> (E) 24.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 10
+> - **(D)** 12
+> - **(E)** 24.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

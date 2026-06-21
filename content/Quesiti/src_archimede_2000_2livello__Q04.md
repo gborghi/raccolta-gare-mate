@@ -29,12 +29,12 @@ tags:
 *Carte minime per 50% di pescare almeno un cuori*
 
 > Qual è il numero minimo di carte che bisogna pescare da un ordinario mazzo di 52 per avere almeno il 50% di probabilità di estrarre una o più carte di cuori?
-> 
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -29,12 +29,12 @@ tags:
 *Somma eta di Gino e Gina fra quattro anni*
 
 > Sommando oggi le età di Gino e Gina si ottengono dodici anni. Quale sarà la somma delle loro età fra quattro anni?
-> 
-> (A) 16
-> (B) 17
-> (C) 18
-> (D) 19
-> (E) 20
+>
+> - **(A)** 16
+> - **(B)** 17
+> - **(C)** 18
+> - **(D)** 19
+> - **(E)** 20
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

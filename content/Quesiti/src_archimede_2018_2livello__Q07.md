@@ -36,29 +36,12 @@ tags:
 > BC = DA = 5, CD = 7. Sui lati di ABCD, esternamente ad
 > ABCD, vengono costruiti quattro quadrati. Con riferimento
 > alla figura, qual è l’area del poligono A1A2B1B2C1C2D1D2?
-> (A) 297 + 35
-> √
-> 5
-> (B) 396
-> (C) 423
-> (D) 105 + 144
-> √
-> 5
-> (E) 200
-> √
-> 5
-> A
-> B
-> C
-> D
-> D2
-> A1
-> C2
-> D1
-> B2
-> C1
-> A2
-> B1
+>
+> - **(A)** 297 + 35 √ 5
+> - **(B)** 396
+> - **(C)** 423
+> - **(D)** 105 + 144 √ 5
+> - **(E)** 200 √ 5 A B C D D2 A1 C2 D1 B2 C1 A2 B1
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

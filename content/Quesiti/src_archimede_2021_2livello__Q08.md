@@ -36,11 +36,12 @@ tags:
 > (a) sostituisce ogni 0 con un 1 e ogni 1 con uno 0;
 > (b) sceglie tre caselle consecutive e solo in queste sostituisce ogni 0 con un 1 e viceversa.
 > Quante diverse combinazioni di 0 e 1 può ottenere Boole?
-> (A) 25
-> (B) 26
-> (C) 27
-> (D) 28 −2
-> (E) 28
+>
+> - **(A)** 25
+> - **(B)** 26
+> - **(C)** 27
+> - **(D)** 28 −2
+> - **(E)** 28
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

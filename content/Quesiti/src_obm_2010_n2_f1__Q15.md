@@ -39,12 +39,12 @@ tags:
 *Positive integers sum 83 product 1024; find the smallest*
 
 > Some positive integers, not necessarily distinct, are written on the blackboard. Their sum is $83$ and their product is $1024$. The smallest number is equal to
-> 
-> (A) $1$
-> (B) $2$
-> (C) $4$
-> (D) $8$
-> (E) $16$
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $4$
+> - **(D)** $8$
+> - **(E)** $16$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]

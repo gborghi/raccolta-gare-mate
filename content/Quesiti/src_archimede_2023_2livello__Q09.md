@@ -35,11 +35,12 @@ tags:
 > valore di an; se invece an−1 + an−2 ha più di una cifra, la somma delle sue cifre sarà il valore di
 > an (ad esempio, se a4 = 7 e a5 = 8, allora a6 = 6 in quanto 7 + 8 = 15 e 1 + 5 = 6). Quante
 > sono le scelte possibili della coppia (a1, a2) tali che si abbia a2023 = 9?
-> (A) 1
-> (B) 3
-> (C) 9
-> (D) 27
-> (E) 81
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 9
+> - **(D)** 27
+> - **(E)** 81
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

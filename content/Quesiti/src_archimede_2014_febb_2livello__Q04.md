@@ -35,11 +35,12 @@ tags:
 > sostituisce il numero n che ha al momento con il numero formato dalle ultime due cifre di 51n+50
 > (o solo dall’ultima cifra, se la penultima è 0). Quanti numeri diversi può ottenere al massimo
 > nel corso delle prime 100 mosse di una singola partita?
-> (A) 2
-> (B) 4
-> (C) 51
-> (D) 99
-> (E) 100
+>
+> - **(A)** 2
+> - **(B)** 4
+> - **(C)** 51
+> - **(D)** 99
+> - **(E)** 100
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]]

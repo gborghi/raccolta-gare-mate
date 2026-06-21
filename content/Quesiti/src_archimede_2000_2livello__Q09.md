@@ -30,14 +30,12 @@ tags:
 
 > Quante sono le terne $(a, b, c)$ di numeri reali che verificano il seguente sistema?
 > $$\begin{cases} a^2 + b^2 + c^2 = 1 \\ a^3 + b^3 + c^3 = 1 \end{cases}$$
-> 
-> (A) Nessuna
-> (B) 1
-> (C) 3
-> (D) 6
-> (E) infinite.
-> 
-> Nota: la terna $(2, 3, 8)$ è differente dalla terna $(3, 2, 8)$.
+>
+> - **(A)** Nessuna
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 6
+> - **(E)** infinite. Nota: la terna $(2, 3, 8)$ è differente dalla terna $(3, 2, 8)$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

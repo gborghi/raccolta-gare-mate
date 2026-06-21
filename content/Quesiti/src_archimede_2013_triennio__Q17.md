@@ -29,11 +29,12 @@ tags:
 *Ordinamento crescente di 3^33, 4^30, 5^25*
 
 > Come si ordinano in ordine crescente di grandezza i tre numeri 333, 430, 525 ?
-> (A) 333 < 430 < 525
-> (B) 333 < 525 < 430
-> (C) 430 < 333 < 525
-> (D) 430 < 525 < 333
-> (E) 525 < 430 < 333
+>
+> - **(A)** 333 < 430 < 525
+> - **(B)** 333 < 525 < 430
+> - **(C)** 430 < 333 < 525
+> - **(D)** 430 < 525 < 333
+> - **(E)** 525 < 430 < 333
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

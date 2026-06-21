@@ -40,11 +40,12 @@ tags:
 > 2001
 > = 2001
 > è
-> (A) Qualunque numero x
-> (B) 1001
-> (C) 10
-> (D) 1
-> (E) nessuna delle precedenti.
+>
+> - **(A)** Qualunque numero x
+> - **(B)** 1001
+> - **(C)** 10
+> - **(D)** 1
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

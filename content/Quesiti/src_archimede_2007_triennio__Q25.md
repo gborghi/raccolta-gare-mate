@@ -33,11 +33,12 @@ tags:
 > gruppo diverso di compagni di classe e ogni volta che esce ciascuno dei componenti
 > del gruppo con cui si trova gli dà un Euro. Quanti Euro avrà guadagnato Antonio
 > al termine di tutte le possibili scelte distinte di gruppi con cui uscire?
-> (A) 27 · 7,
-> (B) 23 · 53,
-> (C) 210,
-> (D) 211,
-> (E) 28 · 32.
+>
+> - **(A)** 27 · 7,
+> - **(B)** 23 · 53,
+> - **(C)** 210,
+> - **(D)** 211,
+> - **(E)** 28 · 32.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]

@@ -31,11 +31,12 @@ tags:
 > Le misure delle diagonali di un rombo sono l’una i 3
 > 4 dell’altra e la loro somma è
 > 56 m. Calcolare il perimetro del rombo.
-> (A) 60 m,
-> (B) 80 m,
-> (C) 96 m,
-> (D) 100 m,
-> (E) 108 m.
+>
+> - **(A)** 60 m,
+> - **(B)** 80 m,
+> - **(C)** 96 m,
+> - **(D)** 100 m,
+> - **(E)** 108 m.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

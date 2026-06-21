@@ -34,11 +34,12 @@ tags:
 > il primo e il secondo numero della sequenza sono 0 e 1 rispettivamente; ogni numero
 > della sequenza, dal terzo in poi, è pari alla somma di tutti i numeri che lo precedono
 > (lui escluso!). Qual è il quindicesimo numero della sequenza?
-> (A) 377,
-> (B) 2084,
-> (C) 2584,
-> (D) 3012,
-> (E) 4096.
+>
+> - **(A)** 377,
+> - **(B)** 2084,
+> - **(C)** 2584,
+> - **(D)** 3012,
+> - **(E)** 4096.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

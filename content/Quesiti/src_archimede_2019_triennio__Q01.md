@@ -30,11 +30,12 @@ tags:
 
 > Nel triangolo DEF, le altezze (uscenti, rispettivamente, dai vertici D, E e F)
 > misurano, nell’ordine, 84, 80 e 81 metri. Indicando con d, e, f le lunghezze, rispettivamente, dei lati EF, FD, DE, quale di queste disuguaglianze è corretta?
-> (A) e < f < d
-> (B) d < f < e
-> (C) d < e < f
-> (D) f < e < d
-> (E) e < d < f
+>
+> - **(A)** e < f < d
+> - **(B)** d < f < e
+> - **(C)** d < e < f
+> - **(D)** f < e < d
+> - **(E)** e < d < f
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

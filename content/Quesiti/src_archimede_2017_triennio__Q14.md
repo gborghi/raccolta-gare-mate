@@ -36,17 +36,12 @@ tags:
 > circonferenza. Nei segmenti circolari delimitati dai lati del
 > quadrato vengono inscritti 4 rettangoli. Quanti cm deve misurare ciascun lato di tali rettangoli, affinch´e essi siano dei
 > quadrati?
-> (A)
-> √
-> 2/4
-> (B) 1/3
-> (C) 3/8
-> (D) 2/5
-> (E) 1/4
-> A
-> B
-> C
-> D
+>
+> - **(A)** √ 2/4
+> - **(B)** 1/3
+> - **(C)** 3/8
+> - **(D)** 2/5
+> - **(E)** 1/4 A B C D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

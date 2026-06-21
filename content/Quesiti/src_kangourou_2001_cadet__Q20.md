@@ -33,22 +33,21 @@ tags:
 ![[src_kangourou_2001_cadet__prob20.png]]
 
 > Un pescatore costruisce da solo una rete a
-> maglie 
-> quadrate. 
-> Cucendola 
-> ha 
+> maglie
+> quadrate.
+> Cucendola
+> ha
 > fatto
 > esattamente 32 nodi all'interno e ha messo 28
 > piombini sul perimetro della rete. Quante maglie
 > ha quella rete? (nel disegno vi sono 6 nodi, 14 piombini e 12
 > maglie)
-> (A) 40
-> (B) 45
-> (C) 54
-> (D) 60
-> (E)
-> 64.
-> I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
+>
+> - **(A)** 40
+> - **(B)** 45
+> - **(C)** 54
+> - **(D)** 60
+> - **(E)** 64. I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

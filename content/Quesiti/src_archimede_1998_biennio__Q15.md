@@ -32,11 +32,12 @@ tags:
 *Quale numero termina con piu zeri*
 
 > Quale dei seguenti numeri termina con il maggior numero di zeri?
-> (A) 22 · 33 · 55
-> (B) 23 · 35 · 52
-> (C) 25 · 53 · 32
-> (D) 44 · 56 · 64
-> (E) 46 · 65 · 54.
+>
+> - **(A)** 22 · 33 · 55
+> - **(B)** 23 · 35 · 52
+> - **(C)** 25 · 53 · 32
+> - **(D)** 44 · 56 · 64
+> - **(E)** 46 · 65 · 54.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

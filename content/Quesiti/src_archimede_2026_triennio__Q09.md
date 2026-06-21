@@ -33,26 +33,12 @@ tags:
 *Coppie di palindromi di 4 cifre con differenza palindroma*
 
 > Il numero reale k soddisfa la relazione −1 < k < 0. Si può concludere che . . .
-> (A) 1
-> k < k2 < k3 <
-> 1
-> k2
-> (B) k < 1
-> k < k2 <
-> 1
-> k2
-> (C) 1
-> k < k3 <
-> 1
-> k2 < k2
-> (D) 1
-> k < k3 < k2 <
-> 1
-> k2
-> (E) k3 < 1
-> k < k2 <
-> 1
-> k2
+>
+> - **(A)** 1 k < k2 < k3 < 1 k2
+> - **(B)** k < 1 k < k2 < 1 k2
+> - **(C)** 1 k < k3 < 1 k2 < k2
+> - **(D)** 1 k < k3 < k2 < 1 k2
+> - **(E)** k3 < 1 k < k2 < 1 k2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

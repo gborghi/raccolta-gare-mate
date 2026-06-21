@@ -40,11 +40,12 @@ tags:
 > 1 punto per ogni pareggio e nessun punto in caso di sconfitta, indicare quanti punti
 > hanno realizzato, rispettivamente, le squadre A, B, C, D (in questo ordine) nelle
 > prime due giornate.
-> (A) 4, 0, 3, 4
-> (B) 4, 0, 4, 2
-> (C) 4, 0, 3, 2
-> (D) 4, 1, 3, 2
-> (E) 3, 1, 4, 2
+>
+> - **(A)** 4, 0, 3, 4
+> - **(B)** 4, 0, 4, 2
+> - **(C)** 4, 0, 3, 2
+> - **(D)** 4, 1, 3, 2
+> - **(E)** 3, 1, 4, 2
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

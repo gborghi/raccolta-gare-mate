@@ -32,11 +32,12 @@ tags:
 
 > Se si conviene che la figura 1 rappresenti il numero 14 e la figura 2 il numero 123,
 > quale numero rappresenta la figura 3?
-> (A) 1246
-> (B) 2461
-> (C) 2641
-> (D) 1462
-> (E) nessuno dei precedenti.
+>
+> - **(A)** 1246
+> - **(B)** 2461
+> - **(C)** 2641
+> - **(D)** 1462
+> - **(E)** nessuno dei precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

@@ -37,11 +37,12 @@ tags:
 > regione cancellata e aggiungere 1 byte per esaurire esattamente la memoria del
 > computer, che ammonta a 2.5 Gb = 2.5 · 230 byte. Quanto era grande la regione
 > cancellata 14 minuti fa?
-> (A) 1 byte
-> (B) 2 byte
-> (C) 3 byte
-> (D) 4 byte
-> (E) 16 byte.
+>
+> - **(A)** 1 byte
+> - **(B)** 2 byte
+> - **(C)** 3 byte
+> - **(D)** 4 byte
+> - **(E)** 16 byte.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

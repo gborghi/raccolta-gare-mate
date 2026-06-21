@@ -35,11 +35,12 @@ tags:
 > quelle rettangolari sono nere e misurano cm 30×40. Quanto
 > vale il rapporto Sb/Sn fra la superficie totale bianca e quella
 > nera?
-> (A) Sb/Sn < 95%
-> (B) 95% ≤Sb/Sn < 100%
-> (C) Sb/Sn = 100%
-> (D) 100% < Sb/Sn ≤105%
-> (E) Sb/Sn > 105%.
+>
+> - **(A)** Sb/Sn < 95%
+> - **(B)** 95% ≤Sb/Sn < 100%
+> - **(C)** Sb/Sn = 100%
+> - **(D)** 100% < Sb/Sn ≤105%
+> - **(E)** Sb/Sn > 105%.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

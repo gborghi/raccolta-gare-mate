@@ -32,11 +32,12 @@ tags:
 
 > Vi sono tre circonferenze tangenti esternamente a due a due. Esse hanno raggio
 > uguale rispettivamente a 1, 2, 3. Il raggio della circonferenza circoscritta al triangolo che ha per vertici i tre centri delle circonferenze è allora uguale a
-> (A) 2
-> (B) 2,5
-> (C) 3
-> (D) π
-> (E) non è possibile determinarlo.
+>
+> - **(A)** 2
+> - **(B)** 2,5
+> - **(C)** 3
+> - **(D)** π
+> - **(E)** non è possibile determinarlo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

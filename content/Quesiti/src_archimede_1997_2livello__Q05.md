@@ -34,18 +34,12 @@ tags:
 > mezzo.
 > L’antiquario riesce a riacquistare i comodini da Aldo e Berto, pagandoli 1 milione e mezzo l’uno
 > e li rivende a Carlo. Alla fine dei conti l’antiquario:
-> (A) Ha perso mezzo milione
-> (B) Ha fatto pari
-> (C) Ha guadagnato mezzo milione
-> (D) Ha guadagnato un milione
-> (E) Nessuna delle precedenti
-> 100 delegati sono riuniti in congresso. Non tutti portano la cravatta, ma si sa che comunque se
-> ne scelgano due, almeno uno dei due la porta. Quanti sono i congressisti con cravatta?
-> (A) Almeno 2, ma possono essere meno di 50
-> (B) Esattamente 50
-> (C) Più di 50, ma non si può dire esattamente quanti
-> (D) La situazione descritta è impossible
-> (E) Nessuna delle precedenti
+>
+> - **(A)** Ha perso mezzo milione
+> - **(B)** Ha fatto pari
+> - **(C)** Ha guadagnato mezzo milione
+> - **(D)** Ha guadagnato un milione
+> - **(E)** Nessuna delle precedenti 100 delegati sono riuniti in congresso. Non tutti portano la cravatta, ma si sa che comunque se ne scelgano due, almeno uno dei due la porta. Quanti sono i congressisti con cravatta? (A) Almeno 2, ma possono essere meno di 50 (B) Esattamente 50 (C) Più di 50, ma non si può dire esattamente quanti (D) La situazione descritta è impossible (E) Nessuna delle precedenti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

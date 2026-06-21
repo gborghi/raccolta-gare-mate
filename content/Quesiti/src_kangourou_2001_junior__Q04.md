@@ -34,12 +34,12 @@ tags:
 > è il minimo numero di cubetti di lato unitario  che occorre
 > aggiungere per formare un cubo che contenga il solido
 > iniziale? (I cubetti esistenti non possono essere spostati).
-> (A) 49
-> (B) 60
-> (C) 65
-> (D) 110
-> (E)
-> 125.
+>
+> - **(A)** 49
+> - **(B)** 60
+> - **(C)** 65
+> - **(D)** 110
+> - **(E)** 125.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

@@ -30,14 +30,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob5.png]]
 
 > Incollando su un cartoncino un triangolo e dei dischetti tutti uguali fra loro, eventualmente spezzati a metà, Marco ha realizzato l'immagine di una casetta. Per fargli uno scherzo, Anna ha portato via alcuni dei dischetti interi; la figura ti mostra quello che rimane dell'opera di Marco. Quanti dischetti ha portato via Anna?
-> 
+>
 > (vedi figura)
-> 
-> (A) 8
-> (B) 7
-> (C) 6
-> (D) 5
-> (E) 4
+>
+> - **(A)** 8
+> - **(B)** 7
+> - **(C)** 6
+> - **(D)** 5
+> - **(E)** 4
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

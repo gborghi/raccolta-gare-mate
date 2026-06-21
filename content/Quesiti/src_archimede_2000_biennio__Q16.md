@@ -32,12 +32,12 @@ tags:
 > avente un lato della base lungo 4 cm il livello del liquido raggiunge 5 cm. Versandone una quantità incognita in un altro recipiente parallelepipedo rettangolo
 > che ha quel lato della base lungo 6 cm e l’altro inalterato, il liquido raggiunge un
 > livello di 15 cm. Quanti cm3 di acqua sono stati versati la seconda volta?
-> (A) 180
-> (B) 80
-> (C) 40
-> (D) 20
-> (E) 80
-> 9 .
+>
+> - **(A)** 180
+> - **(B)** 80
+> - **(C)** 40
+> - **(D)** 20
+> - **(E)** 80 9 .
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

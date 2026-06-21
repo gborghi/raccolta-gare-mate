@@ -35,12 +35,12 @@ tags:
 *Result of squaring, subtracting, and dividing a positive number by itself*
 
 > I raised a positive number to the square, subtracted the result from the same number, and then divided what remained by the same number. The result I obtained was equal to:
-> 
-> (A) The number itself
-> (B) Double the number
-> (C) The number plus $1$
-> (D) The square root of the number
-> (E) The number minus $1$
+>
+> - **(A)** The number itself
+> - **(B)** Double the number
+> - **(C)** The number plus $1$
+> - **(D)** The square root of the number
+> - **(E)** The number minus $1$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]

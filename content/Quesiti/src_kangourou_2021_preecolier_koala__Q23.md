@@ -29,12 +29,12 @@ tags:
 *Pezzi di frutta mangiati da Kangie in due settimane*
 
 > Al lunedì, al mercoledì e al venerdì il canguro Kangie mangia solo mele. Al martedì e al giovedì mangia solo manghi. Mangia o 2 mele o 3 manghi al giorno. Al sabato e alla domenica non mangia frutta. Quanti pezzi di frutta mangia Kangie in due settimane?
-> 
-> (A) 16
-> (B) 18
-> (C) 20
-> (D) 12
-> (E) 24
+>
+> - **(A)** 16
+> - **(B)** 18
+> - **(C)** 20
+> - **(D)** 12
+> - **(E)** 24
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

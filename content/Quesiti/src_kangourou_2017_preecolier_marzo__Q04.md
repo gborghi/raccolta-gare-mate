@@ -33,14 +33,12 @@ tags:
 ![[src_kangourou_2017_preecolier_marzo__prob4.png]]
 
 > Se segue la linea tratteggiata, in quante parti la forbice taglierà il filo?
-> 
-> (A) 6
-> (B) 8
-> (C) 9
-> (D) 7
-> (E) 5
-> 
-> (vedi figura)
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 9
+> - **(D)** 7
+> - **(E)** 5 (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

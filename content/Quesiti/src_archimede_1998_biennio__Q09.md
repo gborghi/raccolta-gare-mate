@@ -29,11 +29,12 @@ tags:
 *Piu piccolo intero di tre cifre divisibile per 3 e 13*
 
 > Qual è il più piccolo intero di tre cifre divisibile per 3 e per 13?
-> (A) 102
-> (B) 104
-> (C) 117
-> (D) 139
-> (E) nessuno dei precedenti.
+>
+> - **(A)** 102
+> - **(B)** 104
+> - **(C)** 117
+> - **(D)** 139
+> - **(E)** nessuno dei precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

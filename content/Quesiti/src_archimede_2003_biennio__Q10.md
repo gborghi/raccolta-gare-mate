@@ -29,14 +29,12 @@ tags:
 *Numero minimo per ottenere un valore con cifre, base 10*
 
 > Il più grande numero primo palindromo con un numero pari di cifre ha
-> (A) 2 cifre
-> (B) 4 cifre
-> (C) 10 cifre
-> (D) non esistono numeri con queste proprietà
-> (E) esistono numeri grandi a piacere con queste proprietà.
-> Nota: un numero si dice palindromo se può essere letto indifferentemente da sinistra a
-> destra o da destra a sinistra. Per esempio, 141 e 2552 sono palindromi, mentre 1231 non
-> lo è.
+>
+> - **(A)** 2 cifre
+> - **(B)** 4 cifre
+> - **(C)** 10 cifre
+> - **(D)** non esistono numeri con queste proprietà
+> - **(E)** esistono numeri grandi a piacere con queste proprietà. Nota: un numero si dice palindromo se può essere letto indifferentemente da sinistra a destra o da destra a sinistra. Per esempio, 141 e 2552 sono palindromi, mentre 1231 non lo è.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

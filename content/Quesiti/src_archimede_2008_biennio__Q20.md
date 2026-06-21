@@ -38,11 +38,12 @@ tags:
 > scegliendo un giocatore per squadra in modo che non ci siano due giocatori con lo
 > stesso numero di maglia. In quanti modi diversi può essere formato il gruppo degli
 > spalatori?
-> (A) 48,
-> (B) 455,
-> (C) 1125,
-> (D) 2730,
-> (E) 3375.
+>
+> - **(A)** 48,
+> - **(B)** 455,
+> - **(C)** 1125,
+> - **(D)** 2730,
+> - **(E)** 3375.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

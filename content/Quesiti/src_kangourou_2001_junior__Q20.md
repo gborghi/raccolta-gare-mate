@@ -32,12 +32,12 @@ tags:
 
 > Nella divisione 999 : n, dove n è un numero naturale di due cifre (significative),
 > il resto vale 3. Allora il resto della divisione 2001 : n vale
-> (A) 3
-> (B) 5
-> (C) 6
-> (D) 7
-> (E) 9.
-> I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 9. I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

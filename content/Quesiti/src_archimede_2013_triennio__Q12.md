@@ -51,15 +51,12 @@ tags:
 > incontra il lato BC nel punto D. Se CD + CA = 12 m, e CD =
 > 1
 > 3BC, quanto misura il perimetro del triangolo?
-> (A) meno di 32 m
-> (B) 32 m
-> (C) 36 m
-> (D) più di 36 m
-> (E) non si può determinare dai dati forniti
-> B
-> A
-> C
-> D
+>
+> - **(A)** meno di 32 m
+> - **(B)** 32 m
+> - **(C)** 36 m
+> - **(D)** più di 36 m
+> - **(E)** non si può determinare dai dati forniti B A C D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

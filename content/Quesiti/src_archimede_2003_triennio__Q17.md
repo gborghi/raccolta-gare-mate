@@ -46,18 +46,12 @@ tags:
 > Sono dati 9 punti disposti a quadrato come nella figura a fianco.
 > Quanti sono i possibili triangoli non degeneri che hanno i vertici in
 > tre dei punti dati?
-> (A) 27
-> (B) 56
-> (C) 60
-> (D) 76
-> (E) 84.
-> 
-> 
-> 
-> 
-> 
-> 
-> 
+>
+> - **(A)** 27
+> - **(B)** 56
+> - **(C)** 60
+> - **(D)** 76
+> - **(E)** 84.       
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

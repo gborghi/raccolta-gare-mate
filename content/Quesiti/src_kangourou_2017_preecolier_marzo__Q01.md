@@ -31,16 +31,14 @@ tags:
 ![[src_kangourou_2017_preecolier_marzo__prob1.png]]
 
 > Chi ha preso il pesce?
-> 
+>
 > Cinque gatti (Aldo, Bruno, Carlo, Davide, Enrico) tengono ciascuno una canna da pesca. I fili si intrecciano in modo aggrovigliato e terminano con degli ami, uno dei quali ha preso un pesce. Seguendo il filo, chi ha preso il pesce?
-> 
-> (A) Aldo
-> (B) Bruno
-> (C) Carlo
-> (D) Davide
-> (E) Enrico
-> 
-> (vedi figura)
+>
+> - **(A)** Aldo
+> - **(B)** Bruno
+> - **(C)** Carlo
+> - **(D)** Davide
+> - **(E)** Enrico (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

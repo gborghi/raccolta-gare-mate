@@ -35,11 +35,12 @@ tags:
 > 0, 1
 > 2
 > ?
-> (A) 0,0121
-> (B) 1,21
-> (C) 100,01
-> (D) 102,01
-> (E) 121.
+>
+> - **(A)** 0,0121
+> - **(B)** 1,21
+> - **(C)** 100,01
+> - **(D)** 102,01
+> - **(E)** 121.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

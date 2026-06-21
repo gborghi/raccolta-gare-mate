@@ -34,11 +34,12 @@ tags:
 
 > Considerato un poligono regolare P di 21 lati, stabilire quanti sono i triangoli non
 > scaleni che si possono costruire usando tre vertici del poligono P.
-> (A) 210
-> (B) 231
-> (C) 196
-> (D) 189
-> (E) 203
+>
+> - **(A)** 210
+> - **(B)** 231
+> - **(C)** 196
+> - **(D)** 189
+> - **(E)** 203
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

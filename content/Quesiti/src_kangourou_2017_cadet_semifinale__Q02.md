@@ -31,12 +31,13 @@ tags:
 > (Punti 3)   Su tre numeri A, B e C si hanno le seguenti informazioni:
 > - se C non è il più grande dei tre, allora il più grande è A;
 > - se A non è il più piccolo dei tre, allora il più grande è B.
-> Quali sono, nell’ordine, il più grande e il più piccolo? 
-> (A) B e C
-> (B) A e C
-> (C) C e B
-> (D) B e A
-> (E) C e A
+> Quali sono, nell’ordine, il più grande e il più piccolo?
+>
+> - **(A)** B e C
+> - **(B)** A e C
+> - **(C)** C e B
+> - **(D)** B e A
+> - **(E)** C e A
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -33,11 +33,12 @@ tags:
 > spegne una, e ancora un'ora dopo, un altro soffio di vento spegne anche l'altra.
 > Zita decide allora di accendere tutte le quattro candele. Quanto tempo dopo tutte le
 > candele saranno spente, se nessun colpo di vento interviene?
-> (A) un'ora e mezza
-> (B) due ore
-> (C) tre ore
-> (D) sette ore e mezza
-> (E) otto ore.
+>
+> - **(A)** un'ora e mezza
+> - **(B)** due ore
+> - **(C)** tre ore
+> - **(D)** sette ore e mezza
+> - **(E)** otto ore.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

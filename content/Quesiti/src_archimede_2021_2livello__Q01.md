@@ -32,11 +32,12 @@ tags:
 
 > Quanti sono i numeri di 6 cifre divisibili per 33 che siano palindromi, cioè che rimangano uguali
 > se letti da destra verso sinistra?
-> (A) 30
-> (B) 33
-> (C) 300
-> (D) 333
-> (E) Nessuna delle precedenti.
+>
+> - **(A)** 30
+> - **(B)** 33
+> - **(C)** 300
+> - **(D)** 333
+> - **(E)** Nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

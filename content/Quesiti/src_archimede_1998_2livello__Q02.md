@@ -31,16 +31,16 @@ tags:
 ![[src_archimede_1998_2livello__prob2.png]]
 
 > $D$ è il dominio del piano cartesiano costituito dai punti $(x,\, y)$ tali che
-> 
+>
 > $$|x| + |y| + |x+y| + |x-y| \leq 3.$$
-> 
+>
 > La forma del dominio $D$ è (vedi figura).
-> 
-> (A) Un quadrato con lati paralleli agli assi
-> (B) Un quadrato ruotato di 45° (rombo)
-> (C) Un ottagono regolare
-> (D) Un quadrilatero con lati obliqui
-> (E) nessuna delle precedenti.
+>
+> - **(A)** Un quadrato con lati paralleli agli assi
+> - **(B)** Un quadrato ruotato di 45° (rombo)
+> - **(C)** Un ottagono regolare
+> - **(D)** Un quadrilatero con lati obliqui
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

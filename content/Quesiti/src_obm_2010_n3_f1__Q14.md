@@ -39,12 +39,12 @@ tags:
 *Count ways to draw a figure in one stroke from P without retracing edges.*
 
 > In how many ways is it possible to draw the figure below without lifting the pencil from the paper (or any other utensil you prefer), starting at $P$ and passing over the same point more than once only at the common point of the three triangles?
-> 
-> (A) $48$
-> (B) $24$
-> (C) $16$
-> (D) $108$
-> (E) $27$
+>
+> - **(A)** $48$
+> - **(B)** $24$
+> - **(C)** $16$
+> - **(D)** $108$
+> - **(E)** $27$
 
 ![[src_obm_2010_n3_f1__Q14.png]]
 

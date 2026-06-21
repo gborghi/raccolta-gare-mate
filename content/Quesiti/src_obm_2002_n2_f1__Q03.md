@@ -39,12 +39,12 @@ tags:
 *TV 'with 20 polygons' means 20 along diagonal; count along diagonal for 60-polygon TV*
 
 > Saying that a television set 'has 20 polygons' means that $20$ small polygonal tiles fit along the diagonal of the screen. How many polygons fit along the diagonal of a television set that 'has 60 polygons', if each tile is the same size?
-> 
-> (A) $9$
-> (B) $10$
-> (C) $18$
-> (D) $20$
-> (E) $30$
+>
+> - **(A)** $9$
+> - **(B)** $10$
+> - **(C)** $18$
+> - **(D)** $20$
+> - **(E)** $30$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]

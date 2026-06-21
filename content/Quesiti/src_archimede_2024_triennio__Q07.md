@@ -38,11 +38,12 @@ tags:
 > Qual è la
 > differenza tra il numero più grande ed il numero più piccolo
 > che Elisa potrebbe scrivere nella casella in cima alla piramide?
-> (A) 48
-> (B) 36
-> (C) 32
-> (D) 42
-> (E) 52
+>
+> - **(A)** 48
+> - **(B)** 36
+> - **(C)** 32
+> - **(D)** 42
+> - **(E)** 52
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

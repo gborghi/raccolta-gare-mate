@@ -35,11 +35,12 @@ tags:
 > dei suoi tre pennarelli colorati (rosso, giallo e blu). Farà in modo che i multipli di
 > 3, incluso 0, siano tutti segnati di blu e che non ci siano tacche vicine dello stesso
 > colore. In quanti diversi modi Martina potrà realizzare la colorazione?
-> (A) 21349
-> (B) 32023
-> (C) 2675
-> (D) 32024
-> (E) 2674
+>
+> - **(A)** 21349
+> - **(B)** 32023
+> - **(C)** 2675
+> - **(D)** 32024
+> - **(E)** 2674
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

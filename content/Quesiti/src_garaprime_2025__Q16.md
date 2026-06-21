@@ -30,12 +30,12 @@ tags:
 *Massimo mcm di interi positivi con somma 10*
 
 > La somma di alcuni numeri interi positivi è 10. Quanto vale al massimo il loro minimo comune multiplo?
-> (A) meno di 16
-> (B) tra 16 e 28
-> (C)
-> tra 29 e 39
-> (D) tra 40 e 49
-> (E) più di 49
+>
+> - **(A)** meno di 16
+> - **(B)** tra 16 e 28
+> - **(C)** tra 29 e 39
+> - **(D)** tra 40 e 49
+> - **(E)** più di 49
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

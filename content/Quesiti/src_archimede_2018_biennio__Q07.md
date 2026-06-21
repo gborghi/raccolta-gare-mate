@@ -38,22 +38,12 @@ tags:
 > Il terzo è A3A4A5, rettangolo in A3, con A3A5 ancora di
 > 1 cm. La costruzione va avanti così: in ciascun triangolo
 > AnAn+1An+2, rettangolo in An, il cateto AnAn+2 è sempre di 1 cm. Quanti cm misurerà il segmento A100A101 ?
-> (A) 20
-> (B) 50
-> (C) 25
-> (D) 10
-> (E) 16
-> A1
-> A2
-> A3
-> A4
-> A5
-> A6
-> A7
-> A8
-> A9
-> A10
-> A11
+>
+> - **(A)** 20
+> - **(B)** 50
+> - **(C)** 25
+> - **(D)** 10
+> - **(E)** 16 A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

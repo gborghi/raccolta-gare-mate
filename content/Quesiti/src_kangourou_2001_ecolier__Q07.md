@@ -33,11 +33,12 @@ tags:
 > Vi sono 19 ragazze e 12 ragazzi in una classe. Qual è il numero minimo di allievi
 > che devono aggiungersi a loro, perché possano essere ripartiti in 6 gruppi, con
 > esattamente lo stesso numero di allievi (non importa se ragazzi o ragazze)?
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 5
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

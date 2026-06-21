@@ -39,11 +39,12 @@ tags:
 > da 1 goal nella prima. Sapendo che il totale dei goal segnati da fisici e matematici è 330 e che sono
 > i matematici ad aggiudicarsi la vittoria nel torneo, determinare lo scarto minimo di goal che può
 > essersi verificato.
-> (A) 1 goal
-> (B) 2 goal
-> (C) 24 goal
-> (D) 42 goal
-> (E) 48 goal.
+>
+> - **(A)** 1 goal
+> - **(B)** 2 goal
+> - **(C)** 24 goal
+> - **(D)** 42 goal
+> - **(E)** 48 goal.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

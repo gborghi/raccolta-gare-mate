@@ -31,11 +31,12 @@ tags:
 
 > Su Marte, il Gran Ciambellano dell’Istruzione Marziana ha dichiarato che il prossimo anno scolastico ridurrà del 30% il numero dei maestri di scuola e che a coloro
 > che rimarranno in servizio lo stipendio sarà aumentato del 35%. La spesa complessiva per gli stipendi dei maestri quindi:
-> (A) si ridurrà del 5,5%,
-> (B) si ridurrà del 5%,
-> (C) aumenterà del 5%,
-> (D) resterà invariata,
-> (E) aumenterà del 7%.
+>
+> - **(A)** si ridurrà del 5,5%,
+> - **(B)** si ridurrà del 5%,
+> - **(C)** aumenterà del 5%,
+> - **(D)** resterà invariata,
+> - **(E)** aumenterà del 7%.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

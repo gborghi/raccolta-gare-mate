@@ -35,16 +35,12 @@ tags:
 > Il rapporto fra l’area dell’esagono regolare e quella del
 > poligono stellato rappresentato in figura, che ha tutti i
 > lati giacenti su 6 delle diagonali dell’esagono, è
-> (A) 4
-> 3
-> (B) 3
-> 2
-> (C) 5
-> 3
-> (D) 6
-> 5
-> (E) 5
-> 4.
+>
+> - **(A)** 4 3
+> - **(B)** 3 2
+> - **(C)** 5 3
+> - **(D)** 6 5
+> - **(E)** 5 4.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

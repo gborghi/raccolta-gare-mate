@@ -34,11 +34,12 @@ tags:
 > Sia D il dominio del piano cartesiano costituito dai punti (x, y) tali che x −[x] ≤
 > y −[y], 0 ≤x ≤2, 0 ≤y ≤3 (ricordiamo che [a] indica la parte intera di a ossia
 > il più grande intero minore o uguale ad a). L’area di D è
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) 4
-> (E) 6.
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 6.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_coordinate|Metodo delle coordinate]]

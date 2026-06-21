@@ -42,15 +42,16 @@ tags:
 \end{document}
 ```
 
-> (Punti 3) Per ottenere il logo in figura ho diviso in 4 parti uguali un lato di un triangolo 
-> equilatero, poi ho tracciato quattro rette parallele agli altri lati passanti  per i tre punti di 
-> divisione e infine ho annerito il rombo e i triangolini che vedi in figura. Quale frazione del 
-> triangolo iniziale è occupata dalla M bianca? 
-> (A) 7/11               	
-> (B) 2/3           	 	
-> (C) 3/4           	 	
-> (D) 3/5                	
-> (E) 5/7
+> (Punti 3) Per ottenere il logo in figura ho diviso in 4 parti uguali un lato di un triangolo
+> equilatero, poi ho tracciato quattro rette parallele agli altri lati passanti  per i tre punti di
+> divisione e infine ho annerito il rombo e i triangolini che vedi in figura. Quale frazione del
+> triangolo iniziale è occupata dalla M bianca?
+>
+> - **(A)** 7/11
+> - **(B)** 2/3
+> - **(C)** 3/4
+> - **(D)** 3/5
+> - **(E)** 5/7
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

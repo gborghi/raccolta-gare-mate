@@ -36,11 +36,12 @@ tags:
 > ottenuta accostando piccoli cubi. Quanti cubetti sono stati
 > usati? Vengono richiesti il numero minimo ed il massimo
 > di cubetti compatibili con le raffigurazioni mostrate.
-> (A) 7 e 13
-> (B) 8 e 13
-> (C) 7 e 15
-> (D) 7 e 16
-> (E) 8 e 16.
+>
+> - **(A)** 7 e 13
+> - **(B)** 8 e 13
+> - **(C)** 7 e 15
+> - **(D)** 7 e 16
+> - **(E)** 8 e 16.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -33,16 +33,12 @@ tags:
 > Si sa che nella figura a fianco C bAE = 60°,
 > A bEB = 20°, A bCD = 25°. I punti E, D, B
 > sono allineati. Qual è la misura di B bDC?
-> (A) 75°
-> (B) 85°
-> (C) 90°
-> (D) 105°
-> (E) le informazioni sono insufficienti.
-> A
-> C
-> E
-> D
-> B
+>
+> - **(A)** 75°
+> - **(B)** 85°
+> - **(C)** 90°
+> - **(D)** 105°
+> - **(E)** le informazioni sono insufficienti. A C E D B
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

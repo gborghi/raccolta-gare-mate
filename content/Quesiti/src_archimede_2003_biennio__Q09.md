@@ -33,22 +33,12 @@ tags:
 > Un parallelogramma di lati 1 e 2 ha un angolo di 60°.
 > Quanto misura la sua
 > diagonale minore?
-> (A)
-> √
-> 2
-> (B)
-> √
-> 3
-> (C) 2
-> √
-> 2
-> (D) 2
-> √
-> 3
-> (E)
-> √
-> 10
-> 2 .
+>
+> - **(A)** √ 2
+> - **(B)** √ 3
+> - **(C)** 2 √ 2
+> - **(D)** 2 √ 3
+> - **(E)** √ 10 2 .
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

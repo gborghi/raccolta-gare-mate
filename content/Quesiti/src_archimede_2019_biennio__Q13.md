@@ -33,11 +33,12 @@ tags:
 > numerate da 1 a 6. L’altro è invece un dado speciale, che possiede due facce con
 > il numero 3, una faccia con il 4 e tre facce con il 6. Lanciando insieme i due dadi,
 > qual è la probabilità che la somma dei due numeri usciti sia uguale a 8?
-> (A) 2/9
-> (B) 1/6
-> (C) 1/9
-> (D) 1/12
-> (E) 1/8
+>
+> - **(A)** 2/9
+> - **(B)** 1/6
+> - **(C)** 1/9
+> - **(D)** 1/12
+> - **(E)** 1/8
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

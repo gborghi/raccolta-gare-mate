@@ -58,22 +58,12 @@ tags:
 > m. Sapendo che AP = 4 m, BQ = 4 m, CR = 3 m,
 > calcolare il rapporto tra l’area del triangolo PQR e
 > l’area del triangolo ABC.
-> (A) 2
-> 5,
-> (B) 9
-> 25,
-> (C) 11
-> 20,
-> (D) 3
-> 7,
-> (E) nessuna
-> delle precedenti.
-> C
-> R
-> A
-> P
-> B
-> Q
+>
+> - **(A)** 2 5,
+> - **(B)** 9 25,
+> - **(C)** 11 20,
+> - **(D)** 3 7,
+> - **(E)** nessuna delle precedenti. C R A P B Q
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

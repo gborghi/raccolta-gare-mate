@@ -31,14 +31,12 @@ tags:
 ![[src_kangourou_2001_junior__prob12.png]]
 
 > Qual è la misura dell'angolo "x" nella figura?
-> (A) 30°
-> (B) 35°
-> (C) 40°
-> (D) 45°
-> (E) 50°.
-> 
-> Kangourou  15 marzo 2001. Categoria Junior. Pagina N.
-> 4
+>
+> - **(A)** 30°
+> - **(B)** 35°
+> - **(C)** 40°
+> - **(D)** 45°
+> - **(E)** 50°. Kangourou 15 marzo 2001. Categoria Junior. Pagina N. 4
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -31,16 +31,12 @@ tags:
 ![[src_kangourou_2022_student__prob15.png]]
 
 > Il solido in figura può essere ottenuto assemblando opportunamente i due solidi che formano una delle coppie elencate nelle risposte. Quale? (vedi figura)
-> 
-> (A) (vedi figura)
-> 
-> (B) (vedi figura)
-> 
-> (C) (vedi figura)
-> 
-> (D) (vedi figura)
-> 
-> (E) (vedi figura)
+>
+> - **(A)** (vedi figura)
+> - **(B)** (vedi figura)
+> - **(C)** (vedi figura)
+> - **(D)** (vedi figura)
+> - **(E)** (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

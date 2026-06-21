@@ -36,11 +36,12 @@ tags:
 > meno di sette. Allora Ada, Bice e Clelia danno alcune delle loro caramelle a Delia
 > (ciascuna lo stesso numero) in modo che tutte e quattro abbiano lo stesso numero
 > di caramelle. Quante caramelle riceve Delia da ciascuna delle altre tre?
-> (A) 1,
-> (B) 2,
-> (C) 3,
-> (D) 4,
-> (E) 5.
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** 5.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -29,11 +29,12 @@ tags:
 *Prodotto telescopico di logaritmi a base crescente*
 
 > Quanto vale log2(3) · log3(4) · log4(5) · . . . · log126(127) · log127(128)?
-> (A) 1
-> (B) 4
-> (C) 6
-> (D) 7
-> (E) nessuna delle precedenti
+>
+> - **(A)** 1
+> - **(B)** 4
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** nessuna delle precedenti
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]

@@ -28,11 +28,12 @@ tags:
 *Massimo n con 24^n divisore di 60^100*
 
 > Indicare il massimo numero intero n tale che 24n sia un divisore di 60100.
-> (A) 73
-> (B) 76
-> (C) 66
-> (D) 80
-> (E) 83
+>
+> - **(A)** 73
+> - **(B)** 76
+> - **(C)** 66
+> - **(D)** 80
+> - **(E)** 83
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

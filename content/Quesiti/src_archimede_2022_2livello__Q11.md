@@ -39,12 +39,12 @@ tags:
 > per forza sette πcchi, che potrebbero essere divisi in tre famiglie di due e una di uno, o in una
 > di tre e due di due, o in sette di uno, eccetera. Quante sono le possibilità per il numero totale
 > di πcchi dopo la settima nidiata?
-> (A) 129
-> (B) 253
-> (C) 27
-> (D) 27+37+1
-> 2
-> (E) 37
+>
+> - **(A)** 129
+> - **(B)** 253
+> - **(C)** 27
+> - **(D)** 27+37+1 2
+> - **(E)** 37
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]

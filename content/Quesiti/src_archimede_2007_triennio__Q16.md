@@ -33,11 +33,12 @@ tags:
 > essa 12 m, in direzione opposta. Tra le due strade si trova un palo che dista 3 m
 > dalla strada su cui è Andrea. Sapendo che in ogni istante il palo è allineato con le
 > posizioni di Andrea e Marco, a che velocità si sta muovendo Marco?
-> (A) 2 km/h,
-> (B) 3 km/h,
-> (C) 12 km/h,
-> (D) 18 km/h,
-> (E) 20 km/h.
+>
+> - **(A)** 2 km/h,
+> - **(B)** 3 km/h,
+> - **(C)** 12 km/h,
+> - **(D)** 18 km/h,
+> - **(E)** 20 km/h.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

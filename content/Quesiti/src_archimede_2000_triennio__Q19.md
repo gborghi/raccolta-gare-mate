@@ -30,24 +30,12 @@ tags:
 
 > Una piramide retta a base quadrata ha tutti gli spigoli di lunghezza unitaria. Il
 > suo volume è
-> (A) 1
-> 3
-> (B)
-> √
-> 2
-> 6
-> (C)
-> √
-> 3
-> 6
-> (D)
-> √
-> 2
-> 2
-> (E)
-> √
-> 3
-> 3 .
+>
+> - **(A)** 1 3
+> - **(B)** √ 2 6
+> - **(C)** √ 3 6
+> - **(D)** √ 2 2
+> - **(E)** √ 3 3 .
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -36,11 +36,12 @@ tags:
 > Al termine di una gita in bicicletta la ruota
 > anteriore ha fatto 10000 giri; quanti ne ha fatti la ruota posteriore nella stessa
 > gita?
-> (A) 12000,
-> (B) 14500,
-> (C) 17500,
-> (D) 19000,
-> (E) 21000.
+>
+> - **(A)** 12000,
+> - **(B)** 14500,
+> - **(C)** 17500,
+> - **(D)** 19000,
+> - **(E)** 21000.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

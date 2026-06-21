@@ -31,11 +31,12 @@ tags:
 > Al mercato delle pulci un venditore vende per 80 Euro uno scaffaletto che aveva
 > acquistato per 70 Euro. Poi ci ripensa, riacquista lo scaffaletto per 90 Euro e lo
 > rivende per 100 Euro. Quanto ha guadagnato alla fine?
-> (A) Nulla
-> (B) 10 Euro
-> (C) 20 Euro
-> (D) ha perso 10 Euro
-> (E) nessuna delle precedenti.
+>
+> - **(A)** Nulla
+> - **(B)** 10 Euro
+> - **(C)** 20 Euro
+> - **(D)** ha perso 10 Euro
+> - **(E)** nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

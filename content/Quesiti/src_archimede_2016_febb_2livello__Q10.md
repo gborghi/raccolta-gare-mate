@@ -38,11 +38,12 @@ tags:
 > Sia ABCDEF un esagono regolare di area 1.
 > Si considerino tutti i triangoli i cui vertici
 > appartengono all’insieme {A,B,C,D,E,F}: quanto vale la somma delle loro aree?
-> (A) 3
-> (B) 4
-> (C) 5
-> (D) 6
-> (E) 7
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Sfruttamento della simmetria]]

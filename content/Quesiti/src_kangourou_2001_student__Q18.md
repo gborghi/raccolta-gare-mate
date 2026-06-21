@@ -32,11 +32,12 @@ tags:
 
 > L'ipotenusa di un triangolo rettangolo è lunga 0,9 cm mentre le lunghezze dei
 > cateti sono  a cm e b cm. Qual è il più piccolo tra i seguenti numeri?
-> (A) a² + b² 
-> (B) (a + b)²  
-> (C) 0,9
-> (D) a + b
-> (E) ab.
+>
+> - **(A)** a² + b²
+> - **(B)** (a + b)²
+> - **(C)** 0,9
+> - **(D)** a + b
+> - **(E)** ab.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

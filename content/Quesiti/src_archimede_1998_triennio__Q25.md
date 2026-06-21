@@ -32,11 +32,12 @@ tags:
 
 > Quale dei seguenti numeri NON divide 100! (ricordiamo che 100! = 100 · 99
 > 98 · · · 3 · 2 · 1)?
-> (A) 1968
-> (B) 1988
-> (C) 1998
-> (D) 2008
-> (E) 2048.
+>
+> - **(A)** 1968
+> - **(B)** 1988
+> - **(C)** 1998
+> - **(D)** 2008
+> - **(E)** 2048.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

@@ -30,11 +30,12 @@ tags:
 
 > Sia G il baricentro del triangolo ABC. Sapendo che AB < AC < BC, quale fra
 > i triangoli GAB, GAC, GBC ha area massima?
-> (A) GAB
-> (B) GAC
-> (C) GBC
-> (D) hanno tutti la stessa area
-> (E) dipende dalle lunghezze dei lati di ABC.
+>
+> - **(A)** GAB
+> - **(B)** GAC
+> - **(C)** GBC
+> - **(D)** hanno tutti la stessa area
+> - **(E)** dipende dalle lunghezze dei lati di ABC.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

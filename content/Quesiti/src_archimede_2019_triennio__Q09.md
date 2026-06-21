@@ -29,11 +29,12 @@ tags:
 *Quadrati perfetti multipli di 7 tra 1 e 6000*
 
 > Quanti multipli di 7, compresi tra 1 e 6000, sono quadrati di numeri interi?
-> (A) 9
-> (B) 20
-> (C) 77
-> (D) 11
-> (E) 122
+>
+> - **(A)** 9
+> - **(B)** 20
+> - **(C)** 77
+> - **(D)** 11
+> - **(E)** 122
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

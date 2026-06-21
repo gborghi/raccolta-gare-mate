@@ -53,22 +53,12 @@ tags:
 > Sia ABC un triangolo equilatero e DEF un altro triangolo
 > equilatero in esso inscritto con AB perpendicolare a ED. Il
 > rapporto fra le aree di ABC e di DEF è
-> (A)
-> √
-> 3
-> (B) 2
-> (C) 5
-> 2
-> (D) 3
-> (E) 3
-> √
-> 2.
-> A
-> E
-> B
-> C
-> F
-> D
+>
+> - **(A)** √ 3
+> - **(B)** 2
+> - **(C)** 5 2
+> - **(D)** 3
+> - **(E)** 3 √ 2. A E B C F D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

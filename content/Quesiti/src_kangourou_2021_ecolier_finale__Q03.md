@@ -31,14 +31,12 @@ tags:
 *Minuti per riempire il primo recipiente di amebe*
 
 > In questo diagramma ogni quadrato contiene un numero intero diverso da tutti quelli contenuti negli altri, ma in quattro quadrati il numero è invisibile. Le frecce presenti tra due quadrati sono dirette dal quadrato contenente il numero più grande a quello contenente il più piccolo. Qual è la somma dei numeri invisibili?
-> 
-> (A) 30
-> (B) 28
-> (C) 22
-> (D) 16
-> (E) 14
-> 
-> (vedi figura)
+>
+> - **(A)** 30
+> - **(B)** 28
+> - **(C)** 22
+> - **(D)** 16
+> - **(E)** 14 (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

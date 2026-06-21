@@ -43,12 +43,12 @@ tags:
 *Count unit cubes with exactly 2 painted faces after separating a painted rectangular solid*
 
 > Sixteen unit cubes (each with $1\,\text{cm}$ side) are placed together forming the rectangular solid (cuboid) shown above. The surface of the solid was painted green; then the cubes were separated. The number of cubes that have exactly two green faces is:
-> 
-> (A) $2$
-> (B) $6$
-> (C) $4$
-> (D) $8$
-> (E) $10$
+>
+> - **(A)** $2$
+> - **(B)** $6$
+> - **(C)** $4$
+> - **(D)** $8$
+> - **(E)** $10$
 
 ![[src_obm_1998_n1_f1__Q09.png]]
 

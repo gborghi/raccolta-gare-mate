@@ -38,11 +38,12 @@ tags:
 > C: “Ci sono almeno tre furfanti tra noi.”
 > D: “Non ci sono cavalieri tra noi.”
 > Quanti cavalieri ci sono in questo insieme di quattro abitanti?
-> (A) Nessuno
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) tutti.
+>
+> - **(A)** Nessuno
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** tutti.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

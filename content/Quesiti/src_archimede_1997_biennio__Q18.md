@@ -33,11 +33,12 @@ tags:
 > Sono state istituite 3 commissioni parlamentari formate da 10 membri ciascuna.
 > Sappiamo che nessun parlamentare è membro simultaneamente di tutte e tre le
 > commissioni. Dire qual è il minimo numero di persone coinvolte nelle 3 commissioni
-> (A) 10
-> (B) 15
-> (C) 20
-> (D) 25
-> (E) 29.
+>
+> - **(A)** 10
+> - **(B)** 15
+> - **(C)** 20
+> - **(D)** 25
+> - **(E)** 29.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

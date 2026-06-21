@@ -32,11 +32,12 @@ tags:
 
 > Sapendo che per il numero reale x vale l’uguaglianza (x −7)8 = (x + 4)8, qual è il
 > valore di 4x −1 ?
-> (A) 4
-> (B) 3
-> (C) 2
-> (D) 7
-> (E) 5
+>
+> - **(A)** 4
+> - **(B)** 3
+> - **(C)** 2
+> - **(D)** 7
+> - **(E)** 5
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

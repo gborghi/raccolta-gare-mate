@@ -42,11 +42,12 @@ tags:
 *Reading a bar chart of monthly billing of companies A and B in the second half of 2001*
 
 > The graph below shows the monthly billing (in millions of reais) of companies A and B during the second half of 2001. Based on this graph, we can state that:
-> (A) In no month was company A's billing double the billing of company B.
-> (B) In the month of July, the difference between the billings was greater than in the other months.
-> (C) Company B was the one that suffered the greatest drop in billing between two consecutive months (100 million between the months of August and September).
-> (D) In no semester (six-month period) was company B's total billing greater than company A's.
-> (E) The difference between the total billings of the semester exceeded 20 million reais.
+>
+> - **(A)** In no month was company A's billing double the billing of company B.
+> - **(B)** In the month of July, the difference between the billings was greater than in the other months.
+> - **(C)** Company B was the one that suffered the greatest drop in billing between two consecutive months (100 million between the months of August and September).
+> - **(D)** In no semester (six-month period) was company B's total billing greater than company A's.
+> - **(E)** The difference between the total billings of the semester exceeded 20 million reais.
 
 ![[src_obm_2002_n3_f1__Q01.png]]
 

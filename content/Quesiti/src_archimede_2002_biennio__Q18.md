@@ -36,11 +36,12 @@ tags:
 > scalino, poi indietro di 1, poi su di 5, indietro di 3, avanti di 7, giù di 5 e così via.
 > Purtroppo uno scalino è pericolante e se il canguro vi saltasse sopra cadrebbe a
 > terra. Il canguro riuscirà a salire fino in cima se lo scalino pericolante è:
-> (A) il 200°
-> (B) il 201°
-> (C) il 202°
-> (D) il 203°
-> (E) il canguro cadrà comunque.
+>
+> - **(A)** il 200°
+> - **(B)** il 201°
+> - **(C)** il 202°
+> - **(D)** il 203°
+> - **(E)** il canguro cadrà comunque.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

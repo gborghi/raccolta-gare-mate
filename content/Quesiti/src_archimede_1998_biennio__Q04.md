@@ -35,11 +35,12 @@ tags:
 > riceva il doppio di caramelle rispetto agli alunni delle rimanenti squadre. Sapendo
 > che in tutto la maestra distribuisce 540 caramelle, quante caramelle riceve ogni
 > vincitore?
-> (A) 15
-> (B) 18
-> (C) 27
-> (D) 30
-> (E) 36.
+>
+> - **(A)** 15
+> - **(B)** 18
+> - **(C)** 27
+> - **(D)** 30
+> - **(E)** 36.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -42,11 +42,12 @@ tags:
 > e conclude che, se tutto dovesse andare ancora come nella precedente edizione, egli
 > potrebbe al massimo arrivare in semifinale. Se ne deduce che, tra i partecipanti al
 > torneo, il punteggio di Gerardo...
-> (A) può trovarsi in qualsiasi posizione successiva alla 32a
-> (B) può trovarsi in qualsiasi posizione dalla 32a alla 48a (incluse)
-> (C) può trovarsi in qualsiasi posizione precedente alla 50a
-> (D) può trovarsi in qualsiasi posizione precedente alla 49a
-> (E) può trovarsi in qualsiasi posizione dalla 34a alla 49a (incluse)
+>
+> - **(A)** può trovarsi in qualsiasi posizione successiva alla 32a
+> - **(B)** può trovarsi in qualsiasi posizione dalla 32a alla 48a (incluse)
+> - **(C)** può trovarsi in qualsiasi posizione precedente alla 50a
+> - **(D)** può trovarsi in qualsiasi posizione precedente alla 49a
+> - **(E)** può trovarsi in qualsiasi posizione dalla 34a alla 49a (incluse)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

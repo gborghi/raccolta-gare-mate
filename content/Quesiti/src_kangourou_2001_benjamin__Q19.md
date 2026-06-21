@@ -35,11 +35,12 @@ tags:
 > retti (90°), e le lunghezze dei singoli lati sono
 > espresse in metri. Allora l'area del giardino,
 > in metri quadrati, vale
-> (A) 700
-> (B) 750
-> (C) 800
-> (D) 850
-> (E) 900.
+>
+> - **(A)** 700
+> - **(B)** 750
+> - **(C)** 800
+> - **(D)** 850
+> - **(E)** 900.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

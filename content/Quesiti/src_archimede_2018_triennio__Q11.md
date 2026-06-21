@@ -34,11 +34,12 @@ tags:
 > diviso in due quadrati uguali. Il lato di ciascuno dei due
 > quadrati è pari a 6 cm. Di quanti cm2 è l’area complessiva
 > della regione ombreggiata?
-> (A) 33
-> (B) 30
-> (C) 24
-> (D) 27
-> (E) 21
+>
+> - **(A)** 33
+> - **(B)** 30
+> - **(C)** 24
+> - **(D)** 27
+> - **(E)** 21
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

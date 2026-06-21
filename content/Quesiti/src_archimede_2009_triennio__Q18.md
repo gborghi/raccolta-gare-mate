@@ -31,11 +31,12 @@ tags:
 *Seconda cifra del prodotto (10^4+1)(10^2+1)(10+1)*
 
 > Qual è la seconda cifra, partendo da sinistra, del numero (104 +1)(102+1)(10+1)?
-> (A) 0,
-> (B) 1,
-> (C) 2,
-> (D) 3,
-> (E) 4.
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]

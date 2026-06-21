@@ -35,12 +35,12 @@ tags:
 *Triangle, angle BAC=140, midpoints M,N, P foot of perpendicular, find angle NMP*
 
 > In triangle $ABC$, $m(B\hat{A}C) = 140^\circ$. Let $M$ be the midpoint of $BC$, $N$ the midpoint of $AB$ and $P$ the point on side $AC$ such that $MP$ is perpendicular to $AC$. What is the measure of angle $N\hat{M}P$?
-> 
-> (A) $40^\circ$
-> (B) $50^\circ$
-> (C) $70^\circ$
-> (D) $90^\circ$
-> (E) $100^\circ$
+>
+> - **(A)** $40^\circ$
+> - **(B)** $50^\circ$
+> - **(C)** $70^\circ$
+> - **(D)** $90^\circ$
+> - **(E)** $100^\circ$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

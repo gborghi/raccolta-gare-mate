@@ -30,11 +30,12 @@ tags:
 
 > Esternamente a un triangolo isoscele ABC (con AC = BC), si costruisce un rombo
 > BCDE, dove C bDE = 96°. Qual è l’ampiezza dell’angolo B bAD?
-> (A) 54°
-> (B) 36°
-> (C) 42°
-> (D) 48°
-> (E) i dati forniti non sono sufficienti
+>
+> - **(A)** 54°
+> - **(B)** 36°
+> - **(C)** 42°
+> - **(D)** 48°
+> - **(E)** i dati forniti non sono sufficienti
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

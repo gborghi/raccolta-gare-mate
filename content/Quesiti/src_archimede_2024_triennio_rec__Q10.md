@@ -31,11 +31,12 @@ tags:
 
 > Quattro coppie di sorelle vogliono sedersi su una panchina. Ciascuna vuole stare
 > accanto a sua sorella. In quanti modi possono disporsi da sinistra verso destra?
-> (A) 480
-> (B) 384
-> (C) 360
-> (D) 432
-> (E) 420
+>
+> - **(A)** 480
+> - **(B)** 384
+> - **(C)** 360
+> - **(D)** 432
+> - **(E)** 420
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -31,12 +31,12 @@ tags:
 
 > Se la media aritmetica di quattro numeri interi positivi distinti è 2026, qual è il valore massimo possibile del
 > più grande di questi numeri?
-> (A) 8078
-> (B) 8104
-> (C)
-> 8098
-> (D) 7592
-> (E) 8101
+>
+> - **(A)** 8078
+> - **(B)** 8104
+> - **(C)** 8098
+> - **(D)** 7592
+> - **(E)** 8101
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

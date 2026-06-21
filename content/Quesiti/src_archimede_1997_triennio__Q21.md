@@ -34,21 +34,12 @@ tags:
 > costruisce un triangolo equilatero ABD avente il vertice D dalla parte opposta
 > di C rispetto alla retta AB. Detto G il baricentro del triangolo equilatero, dire
 > quanto misura il segmento CG.
-> (A)
-> √
-> 3 cm
-> (B)
-> r
-> 1
-> 3 cm
-> (C)
-> √
-> 2 cm
-> (D)
-> r
-> 1
-> 2 cm
-> (E) i dati del problema sono insufficienti.
+>
+> - **(A)** √ 3 cm
+> - **(B)** r 1 3 cm
+> - **(C)** √ 2 cm
+> - **(D)** r 1 2 cm
+> - **(E)** i dati del problema sono insufficienti.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

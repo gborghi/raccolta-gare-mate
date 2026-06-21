@@ -55,11 +55,12 @@ tags:
 ```
 
 > Quanti triangoli equilateri sono presenti in questa figura?
-> (A) 16
-> (B) 20
-> (C) 25
-> (D) 26
-> (E) 27.
+>
+> - **(A)** 16
+> - **(B)** 20
+> - **(C)** 25
+> - **(D)** 26
+> - **(E)** 27.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -29,12 +29,12 @@ tags:
 *Fra quanti mesi Sara compira due anni*
 
 > Sara oggi compie un anno e 3 mesi. Fra quanti mesi compirà due anni?
-> 
-> (A) 3
-> (B) 5
-> (C) 7
-> (D) 8
-> (E) 9
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

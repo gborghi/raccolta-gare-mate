@@ -30,16 +30,12 @@ tags:
 > Sapendo che 9a2 + 1
 > a2 = 19, con a numero reale positivo, quanto vale 3a + 1
 > a?
-> (A)
-> 5
-> (B)
-> √
-> 13
-> (C) 13
-> (D)
-> √
-> 19
-> (E) 9
+>
+> - **(A)** 5
+> - **(B)** √ 13
+> - **(C)** 13
+> - **(D)** √ 19
+> - **(E)** 9
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

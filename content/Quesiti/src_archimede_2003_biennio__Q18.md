@@ -49,17 +49,12 @@ tags:
 > Sono dati 6 punti disposti come nella figura a fianco.
 > Quanti sono i
 > possibili triangoli non degeneri che hanno i vertici in tre dei punti dati?
-> (A) 12
-> (B) 15
-> (C) 16
-> (D) 18
-> (E) 24.
-> 
-> 
-> 
-> 
-> 
-> 
+>
+> - **(A)** 12
+> - **(B)** 15
+> - **(C)** 16
+> - **(D)** 18
+> - **(E)** 24.      
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

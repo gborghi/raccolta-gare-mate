@@ -41,11 +41,12 @@ tags:
 *Min cards drawn from 100-999 to guarantee three equal digit sums*
 
 > A box contains 900 cards, numbered from 100 to 999. Cards are taken out at random, without replacement, and the sum of their digits is noted. What is the least quantity of cards that must be taken out in order to guarantee that at least three of these sums are equal?
-> (A) 51
-> (B) 52
-> (C) 53
-> (D) 54
-> (E) 55
+>
+> - **(A)** 51
+> - **(B)** 52
+> - **(C)** 53
+> - **(D)** 54
+> - **(E)** 55
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]

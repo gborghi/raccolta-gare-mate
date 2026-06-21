@@ -37,11 +37,12 @@ tags:
 > In un cubo di lato 5, costruito accostando cubi di lato 1,
 > sono stati effettuati dei fori (da una parte all'altra) come
 > mostrato nella figura. Quanti cubi di lato 1 sono rimasti?
-> (A) 88
-> (B) 80
-> (C) 70
-> (D) 96
-> (E) 85.
+>
+> - **(A)** 88
+> - **(B)** 80
+> - **(C)** 70
+> - **(D)** 96
+> - **(E)** 85.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

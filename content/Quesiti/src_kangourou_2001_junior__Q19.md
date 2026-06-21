@@ -33,11 +33,12 @@ tags:
 > Nell'espressione 2 * 4 * 6 * 8 * 10 * 12 * 14 ad ogni asterisco può essere
 > sostituito il segno " + " o il segno " – ". Quale numero non può essere il risultato
 > di alcuna di queste espressioni ?
-> (A) 0
-> (B) 4
-> (C) – 4
-> (D) 48
-> (E) 30.
+>
+> - **(A)** 0
+> - **(B)** 4
+> - **(C)** – 4
+> - **(D)** 48
+> - **(E)** 30.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

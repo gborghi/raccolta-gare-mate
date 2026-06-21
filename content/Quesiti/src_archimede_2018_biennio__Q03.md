@@ -33,11 +33,12 @@ tags:
 > Carla costruisce un cubo incollando 1000 piccoli cubetti tutti uguali (con 10 cubetti
 > lungo ogni spigolo). Dipinge quindi di rosso tutte le facce del cubo che ha costruito.
 > Quanti dei cubetti iniziali avranno precisamente due facce colorate di rosso?
-> (A) 60
-> (B) 120
-> (C) 104
-> (D) 90
-> (E) 96
+>
+> - **(A)** 60
+> - **(B)** 120
+> - **(C)** 104
+> - **(D)** 90
+> - **(E)** 96
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

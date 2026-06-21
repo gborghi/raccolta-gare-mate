@@ -36,11 +36,11 @@ tags:
 > The curve represented by the equation
 > $$\frac{x^2}{\sin\sqrt{2}-\cos\sqrt{3}}+\frac{y^2}{\cos\sqrt{2}-\sin\sqrt{3}}=1$$
 > is ( ).
-> 
-> (A) An ellipse with the foci on the $x$-axis
-> (B) A hyperbola with the foci on the $x$-axis
-> (C) An ellipse with the foci on the $y$-axis
-> (D) A hyperbola with the foci on the $y$-axis
+>
+> - **(A)** An ellipse with the foci on the $x$-axis
+> - **(B)** A hyperbola with the foci on the $x$-axis
+> - **(C)** An ellipse with the foci on the $y$-axis
+> - **(D)** A hyperbola with the foci on the $y$-axis
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]

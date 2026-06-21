@@ -30,18 +30,12 @@ tags:
 > Determinare l’area del poligono ottenuto come unione di
 > due quadrati entrambi aventi lato di lunghezza 1, aventi lo
 > stesso centro e ruotati di 45°l’uno rispetto all’altro.
-> (A) 4 −2
-> √
-> 2
-> (B) 9
-> 8
-> (C) 2 −
-> √
-> 3
-> 2
-> (D) 5
-> 4
-> (E) le precedenti risposte sono sbagliate.
+>
+> - **(A)** 4 −2 √ 2
+> - **(B)** 9 8
+> - **(C)** 2 − √ 3 2
+> - **(D)** 5 4
+> - **(E)** le precedenti risposte sono sbagliate.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

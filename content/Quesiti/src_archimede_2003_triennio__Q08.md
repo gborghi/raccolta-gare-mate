@@ -30,11 +30,12 @@ tags:
 > 42 punti e da Kimi con 40. In ognuna delle 5 gare disputate, il primo classificato
 > guadagnava 10 punti, il secondo 8, il terzo 7, dal quarto posto in poi non si guadagnavano punti. Basandovi su queste informazioni, sapreste dire chi si è piazzato al
 > secondo posto per il maggior numero di volte?
-> (A) Michael
-> (B) Juan Pablo
-> (C) Kimi
-> (D) Michael e Juan Pablo
-> (E) Michael e Kimi.
+>
+> - **(A)** Michael
+> - **(B)** Juan Pablo
+> - **(C)** Kimi
+> - **(D)** Michael e Juan Pablo
+> - **(E)** Michael e Kimi.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]

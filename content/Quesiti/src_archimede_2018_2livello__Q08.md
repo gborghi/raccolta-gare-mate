@@ -34,11 +34,12 @@ tags:
 > rimane in campo, mentre chi non ha segnato si scambia con il portiere. Sapendo che Annalisa è
 > stata in campo per 12 turni e Bruna per 21 turni, mentre Cecilia è stata in porta 8 volte, chi ha
 > cominciato in porta?
-> (A) Annalisa
-> (B) Bruna
-> (C) Cecilia
-> (D) Annalisa o Bruna (ma sicuramente non Cecilia)
-> (E) Può essere una qualunque delle tre amiche.
+>
+> - **(A)** Annalisa
+> - **(B)** Bruna
+> - **(C)** Cecilia
+> - **(D)** Annalisa o Bruna (ma sicuramente non Cecilia)
+> - **(E)** Può essere una qualunque delle tre amiche.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

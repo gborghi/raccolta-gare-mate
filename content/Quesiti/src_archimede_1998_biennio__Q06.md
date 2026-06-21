@@ -31,11 +31,12 @@ tags:
 > La produzione vinicola italiana rappresenta il 25% di quella mondiale ed il 38%
 > di quella europea. Quale percentuale della produzione mondiale è rappresentata
 > dalla produzione europea?
-> (A) Meno del 50%
-> (B) fra il 50% e il 60%
-> (C) fra il 60% e il 70%
-> (D) più del 70%
-> (E) non si può determinare.
+>
+> - **(A)** Meno del 50%
+> - **(B)** fra il 50% e il 60%
+> - **(C)** fra il 60% e il 70%
+> - **(D)** più del 70%
+> - **(E)** non si può determinare.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

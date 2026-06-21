@@ -32,11 +32,12 @@ tags:
 
 > Qual è la probabilità che lanciando tre volte un dado la somma dei valori ottenuti
 > sia minore o uguale a 5?
-> (A) Meno del 3%
-> (B) tra 3% e 5%
-> (C) tra 5% e 7%
-> (D) tra 7% e 9%
-> (E) più del 9%.
+>
+> - **(A)** Meno del 3%
+> - **(B)** tra 3% e 5%
+> - **(C)** tra 5% e 7%
+> - **(D)** tra 7% e 9%
+> - **(E)** più del 9%.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

@@ -35,16 +35,12 @@ tags:
 > Sia ABC un triangolo e sia A′ il simmetrico di A rispetto a BC; sia poi DAA′ simile ad ABC e sia
 > D′ il simmetrico di D rispetto a AA′. Sapendo che il prodotto delle aree dei quadrilateri ABA′C e
 > ADA′D′ è 16, si può dire che AA′ . . .
-> (A) è 1
-> (B) è 2
-> 4√
-> 2
-> (C) è 2
-> (D) è 2
-> √
-> 2
-> (E) non è univocamente determinato dai dati.
-> (Nota: la similitudine tra DAA′ e ABC va intesa in modo ordinato : DA/AB = AA′/BC = A′D/CA)
+>
+> - **(A)** è 1
+> - **(B)** è 2 4√ 2
+> - **(C)** è 2
+> - **(D)** è 2 √ 2
+> - **(E)** non è univocamente determinato dai dati. (Nota: la similitudine tra DAA′ e ABC va intesa in modo ordinato : DA/AB = AA′/BC = A′D/CA)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

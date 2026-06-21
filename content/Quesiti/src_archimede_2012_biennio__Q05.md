@@ -36,13 +36,12 @@ tags:
 > Sapendo che il rettangolo in figura viene diviso dalla linea
 > inclinata in due parti di aree una quadrupla dell’altra, calcolare
 > il rapporto tra le misure dei segmenti a e b.
-> (A) 2/3
-> (B) 1/4
-> (C) 1/5
-> (D) 1/2
-> (E) 2/5
-> a
-> b
+>
+> - **(A)** 2/3
+> - **(B)** 1/4
+> - **(C)** 1/5
+> - **(D)** 1/2
+> - **(E)** 2/5 a b
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

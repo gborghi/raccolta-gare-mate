@@ -40,12 +40,12 @@ tags:
 *Corner of conventional checkerboard with 17 white squares; find area*
 
 > The drawing represents a corner of a conventional rectangular board, formed by little squares of side $1$ cm. In this board, $17$ little squares are white. What is the area of the board, in square centimeters?
-> 
-> (A) $29$
-> (B) $34$
-> (C) $35$
-> (D) $40$
-> (E) $150$
+>
+> - **(A)** $29$
+> - **(B)** $34$
+> - **(C)** $35$
+> - **(D)** $40$
+> - **(E)** $150$
 
 ![[src_obm_2010_n2_f1__Q07.png]]
 

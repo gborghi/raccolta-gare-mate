@@ -32,11 +32,12 @@ tags:
 
 > Mira e Dino, compagni di banco, sono iscritti ai Giochi di Archimede. I 50 partecipanti, con un sorteggio, vengono
 > sistemati 35 in un’aula e 15 in un’altra. Qual è la probabilità che Mira e Dino finiscano nella stessa aula?
-> (A) 3/5
-> (B) 5/8
-> (C) 1/2
-> (D) 4/7
-> (E) 7/12
+>
+> - **(A)** 3/5
+> - **(B)** 5/8
+> - **(C)** 1/2
+> - **(D)** 4/7
+> - **(E)** 7/12
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

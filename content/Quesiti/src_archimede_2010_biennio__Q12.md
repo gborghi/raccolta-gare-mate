@@ -30,11 +30,12 @@ tags:
 *Somma 1+2+2+3+3+...+35+35+36*
 
 > Quanto vale la somma: 1 + 2 + 2 + 3 + 3 + 4 + 4 + . . . + 35 + 35 + 36?
-> (A) 990,
-> (B) 1105,
-> (C) 1295,
-> (D) 1395,
-> (E) 1505.
+>
+> - **(A)** 990,
+> - **(B)** 1105,
+> - **(C)** 1295,
+> - **(D)** 1395,
+> - **(E)** 1505.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

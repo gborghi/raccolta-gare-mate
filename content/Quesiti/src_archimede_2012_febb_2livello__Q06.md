@@ -40,11 +40,12 @@ tags:
 > Umberto: “Il mio cavallo non ha vinto ma è arrivato subito dopo quello di Alex e subito prima di
 > quello di Enrica.”
 > Chi ha puntato sul cavallo classificatosi terzo?
-> (A) Alex
-> (B) Igor
-> (C) Osvaldo
-> (D) Umberto
-> (E) Non è possibile determinarlo.
+>
+> - **(A)** Alex
+> - **(B)** Igor
+> - **(C)** Osvaldo
+> - **(D)** Umberto
+> - **(E)** Non è possibile determinarlo.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

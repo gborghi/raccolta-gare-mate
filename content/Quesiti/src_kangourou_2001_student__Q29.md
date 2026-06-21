@@ -34,12 +34,12 @@ tags:
 > il peso totale rimanente dei 5 / 13. La famiglia mangia i
 > restanti pesci per cena. Quanti pesci ha catturato lo zio
 > Marco?
-> (A) 8
->  
-> (B) 9
-> (C) 10
-> (D) 11
-> (E) 12.
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 11
+> - **(E)** 12.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

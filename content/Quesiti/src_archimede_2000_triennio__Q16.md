@@ -44,23 +44,12 @@ tags:
 > regolo, si ha che il diametro vale
 > a
 > d
-> (A)
-> √
-> a2 + d2
-> (B) a+ d2
-> 4a
-> (C) a+ 1
-> 2
-> q
-> a2 + d2
-> 4
-> (D) d+ a2
-> 4d
-> (E) d+ 1
-> 2
-> q
-> d2 + a2
-> 4 .
+>
+> - **(A)** √ a2 + d2
+> - **(B)** a+ d2 4a
+> - **(C)** a+ 1 2 q a2 + d2 4
+> - **(D)** d+ a2 4d
+> - **(E)** d+ 1 2 q d2 + a2 4 .
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

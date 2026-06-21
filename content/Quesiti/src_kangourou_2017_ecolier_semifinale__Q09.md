@@ -33,21 +33,19 @@ tags:
 
 ![[src_kangourou_2017_ecolier_semifinale__prob9.png]]
 
-> (Punti 6)  Il gioco del Tris si gioca a mosse alterne e vince il primo dei due giocatori che riesce a 
-> mettere in fila, su una griglia 3×3, tre simboli uguali in orizzontale, verticale o diagonale. Otto 
-> giocatori sono impegnati in quattro partite e in ciascuna partita uno dei 
-> giocatori ha fatto 3 mosse e l’altro 2: nel disegno vedi la 
-> foto delle quattro griglie. Avvolgiamo ora ciascuna 
-> delle quattro griglie su un tubo (come mostra l’altra 
-> figura) in modo che i suoi lati opposti verticali si uniscano. Se le regole rimangono 
-> le stesse, quante delle quattro partite con griglia avvolta sul tubo sono già concluse? 
-> (A) 0 
-> (B) 1 
-> (C) 2 
-> (D) 3               (E) 4 
->  
->  
-> Quesiti a risposta aperta
+> (Punti 6)  Il gioco del Tris si gioca a mosse alterne e vince il primo dei due giocatori che riesce a
+> mettere in fila, su una griglia 3×3, tre simboli uguali in orizzontale, verticale o diagonale. Otto
+> giocatori sono impegnati in quattro partite e in ciascuna partita uno dei
+> giocatori ha fatto 3 mosse e l’altro 2: nel disegno vedi la
+> foto delle quattro griglie. Avvolgiamo ora ciascuna
+> delle quattro griglie su un tubo (come mostra l’altra
+> figura) in modo che i suoi lati opposti verticali si uniscano. Se le regole rimangono
+> le stesse, quante delle quattro partite con griglia avvolta sul tubo sono già concluse?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3 (E) 4 Quesiti a risposta aperta
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

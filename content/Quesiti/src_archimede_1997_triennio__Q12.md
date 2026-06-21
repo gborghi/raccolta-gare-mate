@@ -32,11 +32,12 @@ tags:
 
 > Determinare l’area della figura tratteggiata, sapendo
 > che ogni circonferenza ha raggio 1 cm.
-> (A) π cm2
-> (B) (π −2) cm2
-> (C) 2(π −1) cm2
-> (D) 2(π −2) cm2
-> (E) 4(π −1) cm2.
+>
+> - **(A)** π cm2
+> - **(B)** (π −2) cm2
+> - **(C)** 2(π −1) cm2
+> - **(D)** 2(π −2) cm2
+> - **(E)** 4(π −1) cm2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

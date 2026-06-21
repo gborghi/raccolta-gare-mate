@@ -32,12 +32,12 @@ tags:
 
 > Consideriamo un qualsiasi insieme di 20 numeri interi consecutivi, tutti maggiori di 50. Quanti di
 > essi al massimo possono essere numeri primi?
-> (A) 4
-> (B) 5
-> (C) 6
-> (D) 7
-> (E) 8.
-> Problemi a risposta numerica – 8 punti
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 8. Problemi a risposta numerica – 8 punti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

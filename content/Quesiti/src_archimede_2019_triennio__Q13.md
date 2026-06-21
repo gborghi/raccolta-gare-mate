@@ -32,11 +32,12 @@ tags:
 
 > Romeo, Giuletta, Elena, Paride, Achille, Ulisse si siedono su una panchina. Giulietta vuole sedere accanto a Romeo ed Elena accanto a Paride. In quanti modi
 > possono disporsi i sei da destra verso sinistra, in modo da accontentarle?
-> (A) 720
-> (B) 120
-> (C) 24
-> (D) 96
-> (E) 180
+>
+> - **(A)** 720
+> - **(B)** 120
+> - **(C)** 24
+> - **(D)** 96
+> - **(E)** 180
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

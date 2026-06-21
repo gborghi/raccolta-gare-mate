@@ -33,11 +33,12 @@ tags:
 > mentre Caterina è entrata nella 34-sima carrozza partendo dalla
 > “coda” del treno. Sorpresa! Si incontrano nella stessa carrozza. Da quante
 > carrozze è formato il treno?
-> (A) 48
-> (B) 49
-> (C) 50
-> (D) 51
-> (E) 52.
+>
+> - **(A)** 48
+> - **(B)** 49
+> - **(C)** 50
+> - **(D)** 51
+> - **(E)** 52.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

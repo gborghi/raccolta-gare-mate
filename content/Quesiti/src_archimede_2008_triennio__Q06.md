@@ -34,11 +34,12 @@ tags:
 > x2 + bx −16 = 0 ,
 > ha due soluzioni reali (eventualmente coincidenti) e queste sono entrambe numeri
 > interi?
-> (A) Due,
-> (B) tre,
-> (C) quattro,
-> (D) cinque,
-> (E) sei.
+>
+> - **(A)** Due,
+> - **(B)** tre,
+> - **(C)** quattro,
+> - **(D)** cinque,
+> - **(E)** sei.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

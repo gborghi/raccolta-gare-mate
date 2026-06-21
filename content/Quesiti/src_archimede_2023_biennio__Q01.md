@@ -30,11 +30,12 @@ tags:
 
 > Dario lancia un dado a 6 facce, numerate da 1 a 6, mentre Silvia lancia un dado a
 > 20 facce, numerate da 1 a 20. Qual è la probabilità che facciano lo stesso numero?
-> (A) 1/120
-> (B) 1/6
-> (C) 1/20
-> (D) 3/10
-> (E) 1/14
+>
+> - **(A)** 1/120
+> - **(B)** 1/6
+> - **(C)** 1/20
+> - **(D)** 3/10
+> - **(E)** 1/14
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

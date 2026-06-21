@@ -29,14 +29,12 @@ tags:
 *Cosa c'e scritto sull'ultimo lucchetto*
 
 > Osserva la figura: ognuna delle quattro chiavi apre un solo lucchetto e i numeri sulle chiavi corrispondono alle lettere sui lucchetti. I lucchetti mostrano le scritte ADA, DGA, DAG e ?, mentre le chiavi mostrano i numeri 141, 471, 417 e 717. Che cosa c'è scritto sull'ultimo lucchetto?
-> 
-> (A) GDA
-> (B) ADG
-> (C) GAD
-> (D) GAG
-> (E) DAD
-> 
-> (vedi figura)
+>
+> - **(A)** GDA
+> - **(B)** ADG
+> - **(C)** GAD
+> - **(D)** GAG
+> - **(E)** DAD (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

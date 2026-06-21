@@ -32,11 +32,12 @@ tags:
 > Il prezzo delle caramelle però è sceso a dieci centesimi l’una e Andrea compra sei
 > caramelle in più del previsto, finendo il denaro che aveva. Quanti sono i compagni
 > di classe di Andrea?
-> (A) 18,
-> (B) 20,
-> (C) 21,
-> (D) 23,
-> (E) 24.
+>
+> - **(A)** 18,
+> - **(B)** 20,
+> - **(C)** 21,
+> - **(D)** 23,
+> - **(E)** 24.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

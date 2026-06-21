@@ -41,12 +41,12 @@ tags:
 *Merchant sells two cars; total purchase R$27000, gain R$750; find individual prices*
 
 > A merchant buys two cars for a total of R$\$27{,}000.00$. He sold the first one at a discount of $10\%$ and the second one at a markup of $5\%$. The overall gain was R$\$750.00$. The purchase prices of the two cars were, respectively:
-> 
-> (A) R$\$18{,}000.00$ and R$\$12{,}000.00$
-> (B) R$\$13{,}000.00$ and R$\$14{,}000.00$
-> (C) R$\$14{,}000.00$ and R$\$13{,}000.00$
-> (D) R$\$15{,}000.00$ and R$\$12{,}000.00$
-> (E) R$\$18{,}000.00$ and R$\$9{,}000.00$
+>
+> - **(A)** R$\$18{,}000.00$ and R$\$12{,}000.00$
+> - **(B)** R$\$13{,}000.00$ and R$\$14{,}000.00$
+> - **(C)** R$\$14{,}000.00$ and R$\$13{,}000.00$
+> - **(D)** R$\$15{,}000.00$ and R$\$12{,}000.00$
+> - **(E)** R$\$18{,}000.00$ and R$\$9{,}000.00$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]

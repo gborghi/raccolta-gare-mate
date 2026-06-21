@@ -35,19 +35,12 @@ tags:
 > Sia dato un esagono regolare di lato 1. Consideriamo un triangolo equilatero di lato 1 dentro
 > all’esagono, con due vertici vincolati al perimetro dell’esagono. Muoviamo il triangolo equilatero in modo che uno dei due vertici vincolati compia esattamente un giro lungo il perimetro
 > dell’esagono. Quant’è la lunghezza percorsa dal vertice non vincolato?
-> (A) π/2
-> (B) π
-> √
-> 3
-> 3
-> (C) 8
-> √
-> 3 −12
-> (D) (4
-> √
-> 3 −6)π
-> (E) Nessuna delle precedenti.
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** π/2
+> - **(B)** π √ 3 3
+> - **(C)** 8 √ 3 −12
+> - **(D)** (4 √ 3 −6)π
+> - **(E)** Nessuna delle precedenti. Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

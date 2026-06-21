@@ -37,11 +37,12 @@ tags:
 > a forma esagonale e 12 pezzi di cuoio a forma pentagonale.
 > Una cucitura unisce i lati di due pezzi adiacenti. Allora il
 > numero totale delle cuciture è
-> (A) 90
-> (B) 172
-> (C) 176
-> (D) 180
-> (E) i dati del problema sono insufficienti.
+>
+> - **(A)** 90
+> - **(B)** 172
+> - **(C)** 176
+> - **(D)** 180
+> - **(E)** i dati del problema sono insufficienti.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

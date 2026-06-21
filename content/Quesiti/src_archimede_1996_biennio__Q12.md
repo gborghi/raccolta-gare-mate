@@ -30,13 +30,12 @@ tags:
 
 > In un rombo di area 80 cm2, una diagonale è lunga il doppio dell’altra. Quanto è
 > lungo il lato del rombo?
-> (A) 8 cm
-> (B)
-> √
-> 80 cm
-> (C) 10 cm
-> (D) 20 cm
-> (E) non si può determinare.
+>
+> - **(A)** 8 cm
+> - **(B)** √ 80 cm
+> - **(C)** 10 cm
+> - **(D)** 20 cm
+> - **(E)** non si può determinare.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

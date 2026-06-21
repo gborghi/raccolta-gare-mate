@@ -36,28 +36,12 @@ tags:
 > lato 1 m e i triangoli: ABG, BCH, CDE e
 > DAF sono equilateri. Quanto vale l’area di
 > EFGH?
-> (A)
-> 1
-> 6 m2,
-> (B)
-> 1
-> 4 m2,
-> (C) (2 −
-> √
-> 3) m2,
-> (D) (3
-> √
-> 3 −5) m2,
-> (E) 1
-> 3 m2.
-> C
-> D
-> F
-> G
-> H
-> E
-> A
-> B
+>
+> - **(A)** 1 6 m2,
+> - **(B)** 1 4 m2,
+> - **(C)** (2 − √ 3) m2,
+> - **(D)** (3 √ 3 −5) m2,
+> - **(E)** 1 3 m2. C D F G H E A B
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

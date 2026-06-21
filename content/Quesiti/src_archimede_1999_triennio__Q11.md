@@ -32,11 +32,12 @@ tags:
 
 > Scriviamo in ordine crescente tutti i numeri interi positivi che non sono n´e multipli
 > di 2 n´e multipli di 3. Quale numero si trova in 1999–esima posizione?
-> (A) 1999
-> (B) 3997
-> (C) 5995
-> (D) 11989
-> (E) nessuno dei precedenti.
+>
+> - **(A)** 1999
+> - **(B)** 3997
+> - **(C)** 5995
+> - **(D)** 11989
+> - **(E)** nessuno dei precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -26,12 +26,12 @@ tags:
 *Determinare cifra/pari più piccolo intero B con somma*
 
 > Tre amici stanno conversando. Uno di loro afferma: «Non è vero che almeno due di noi sono bugiardi.» Quanti di loro sono bugiardi?
-> 
-> (A) 1
-> (B) 2
-> (C) 3
-> (D) i dati sono insufficienti per determinare in modo univoco
-> (E) non si può stabilire
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** i dati sono insufficienti per determinare in modo univoco
+> - **(E)** non si può stabilire
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]

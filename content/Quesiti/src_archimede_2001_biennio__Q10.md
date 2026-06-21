@@ -37,11 +37,12 @@ tags:
 > Marito: siamo entrambi laureati.
 > Moglie: siamo entrambi furfanti.
 > Quante caselle può riempire con sicurezza l’impiegato?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 4.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -34,11 +34,12 @@ tags:
 > Emanuele scrive delle parole usando solo le lettere A e B (almeno una delle due, non necessariamente entrambe),
 > in modo da rispettare queste condizioni: ciascuna parola non può contenere più di due volte la lettera A; ciascuna
 > parola non può contenere alcuna sequenza BB (due B di seguito). Quante parole differenti Emanuele potrà scrivere?
-> (A) 8
-> (B) 12
-> (C) 13
-> (D) 9
-> (E) 11
+>
+> - **(A)** 8
+> - **(B)** 12
+> - **(C)** 13
+> - **(D)** 9
+> - **(E)** 11
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]

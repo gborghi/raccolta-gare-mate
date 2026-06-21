@@ -31,11 +31,12 @@ tags:
 
 > Quanto vale il resto della divisione di 10(2007)4 −8(2007)3 + 12(2007)2 + 721 per
 > 669?
-> (A) 0,
-> (B) 52,
-> (C) 104,
-> (D) 223,
-> (E) 446.
+>
+> - **(A)** 0,
+> - **(B)** 52,
+> - **(C)** 104,
+> - **(D)** 223,
+> - **(E)** 446.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

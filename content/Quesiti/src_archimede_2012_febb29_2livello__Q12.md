@@ -34,14 +34,12 @@ tags:
 > ferme le monete rosse, fa ruotare quella blu in modo che rimanga sempre aderente ad almeno una
 > delle monete rosse e i bordi gommati non scivolino. Dopo un percorso completo attorno al gruppo
 > delle tre monete rosse la moneta blu torna al punto di partenza; quanti giri ha fatto su se stessa?
-> (A) 3
-> (B) 1
-> (C) π
-> (D) 3π
-> 4
-> (E) 9
-> 2.
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** 3
+> - **(B)** 1
+> - **(C)** π
+> - **(D)** 3π 4
+> - **(E)** 9 2. Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

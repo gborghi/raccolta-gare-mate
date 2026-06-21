@@ -34,12 +34,12 @@ tags:
 > i) la somma di 7 suoi termini consecutivi sia sempre strettamente positiva;
 > ii) la somma di 13 suoi elementi consecutivi sia sempre strettamente negativa.
 > Quale delle seguenti affermazioni è vera?
-> (A) La sequenza ha al più 18 termini
-> (B) La sequenza può avere 19 termini
-> (C) La sequenza ha esattamente 21 termini
-> (D) La sequenza ha almeno 18 termini
-> (E) Esistono sequenze di lunghezza arbitraria che soddisfano i) e ii) .
-> Problemi a risposta numerica – 5 punti
+>
+> - **(A)** La sequenza ha al più 18 termini
+> - **(B)** La sequenza può avere 19 termini
+> - **(C)** La sequenza ha esattamente 21 termini
+> - **(D)** La sequenza ha almeno 18 termini
+> - **(E)** Esistono sequenze di lunghezza arbitraria che soddisfano i) e ii) . Problemi a risposta numerica – 5 punti
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

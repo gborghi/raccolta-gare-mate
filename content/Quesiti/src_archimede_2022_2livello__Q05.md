@@ -35,11 +35,12 @@ tags:
 > Lucia vuole scrivere tre interi positivi a, b, c in modo che ognuno di essi sia un divisore di 30 e
 > che i massimi comuni divisori fra due termini consecutivi (cioè MCD(a, b) e MCD(b, c)) siano
 > numeri primi. In quanti modi può farlo?
-> (A) 69
-> (B) 72
-> (C) 105
-> (D) 27
-> (E) Nessuna delle precedenti.
+>
+> - **(A)** 69
+> - **(B)** 72
+> - **(C)** 105
+> - **(D)** 27
+> - **(E)** Nessuna delle precedenti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

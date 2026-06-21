@@ -36,12 +36,12 @@ tags:
 *Cross of unit squares inscribed in larger square; find area of larger square*
 
 > A figure in the shape of a cross, formed by squares of side $1$, is inscribed in a larger square, whose sides are parallel to the sides of the dashed square, whose vertices are vertices of the cross. What is the area of the larger square?
-> 
-> (A) $9$
-> (B) $\dfrac{49}{5}$
-> (C) $10$
-> (D) $\dfrac{81}{8}$
-> (E) $\dfrac{32}{3}$
+>
+> - **(A)** $9$
+> - **(B)** $\dfrac{49}{5}$
+> - **(C)** $10$
+> - **(D)** $\dfrac{81}{8}$
+> - **(E)** $\dfrac{32}{3}$
 
 ![[src_obm_2010_n2_f1__Q20.png]]
 

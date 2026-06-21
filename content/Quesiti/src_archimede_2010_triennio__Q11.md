@@ -32,11 +32,12 @@ tags:
 > punti, ogni pareggio 1 punto e ogni sconfitta 0 punti. Dopo le prime 13 partite
 > la squadra ha 29 punti e ha perso tante partite quante ne ha pareggiate. Quante
 > partite ha vinto finora?
-> (A) 4,
-> (B) 6,
-> (C) 8,
-> (D) 9,
-> (E) 11.
+>
+> - **(A)** 4,
+> - **(B)** 6,
+> - **(C)** 8,
+> - **(D)** 9,
+> - **(E)** 11.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

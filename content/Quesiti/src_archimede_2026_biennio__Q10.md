@@ -66,11 +66,12 @@ tags:
 > 20
 > 14
 > 25
-> (A) 324
-> (B) 318
-> (C) 306
-> (D) 308
-> (E) 304
+>
+> - **(A)** 324
+> - **(B)** 318
+> - **(C)** 306
+> - **(D)** 308
+> - **(E)** 304
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

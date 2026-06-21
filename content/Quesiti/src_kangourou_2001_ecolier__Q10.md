@@ -33,11 +33,12 @@ tags:
 > Margherita si è messa un grande nastro nei capelli, precisamente a destra. Ora sta
 > davanti ad uno specchio. Quante delle immagini presentate sotto possono essere
 > viste da lei nello specchio?
-> (A) 0
-> (B) 1
-> (C) 2
-> (D) 3
-> (E) 4.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

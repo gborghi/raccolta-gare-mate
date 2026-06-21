@@ -41,16 +41,12 @@ tags:
 *Square divided into 4 congruent trapezoids rearranged into square with central hole; fraction of area removed*
 
 > By drawing lines, a square can be divided into $4$ congruent trapezoids, as shown on the left. These $4$ trapezoids are rearranged to form a square with a square hole in the centre, as shown on the right. What fraction of the area of the original square is the area of the hole?
-> 
-> (A) $\dfrac{1}{9}$
-> 
-> (B) $\dfrac{2}{9}$
-> 
-> (C) $\dfrac{1}{4}$
-> 
-> (D) $\dfrac{1}{3}$
-> 
-> (E) $\dfrac{3}{8}$
+>
+> - **(A)** $\dfrac{1}{9}$
+> - **(B)** $\dfrac{2}{9}$
+> - **(C)** $\dfrac{1}{4}$
+> - **(D)** $\dfrac{1}{3}$
+> - **(E)** $\dfrac{3}{8}$
 
 ![[src_obm_2002_n2_f1__Q10.png]]
 

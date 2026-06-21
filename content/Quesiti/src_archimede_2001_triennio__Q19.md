@@ -52,21 +52,12 @@ tags:
 
 > Sapendo che il perimetro del parallelogramma FECD è 4,
 > l’area del triangolo equilatero ABC risulta uguale a:
-> (A) 8
-> (B)
-> √
-> 3
-> (C) 4
-> (D) 6
-> (E) 2
-> √
-> 3.
-> A
-> B
-> C
-> F
-> E
-> D
+>
+> - **(A)** 8
+> - **(B)** √ 3
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 2 √ 3. A B C F E D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -39,12 +39,12 @@ tags:
 *Choose 3 of 8 polyomino pieces to assemble a 3x3 square*
 
 > Cecilia took a sheet of cartolina and cut out the $8$ pieces shown on the right, formed by little squares of the same size. In how many different ways can she choose $3$ of these pieces to assemble the $3 \times 3$ square on the left?
-> 
-> (A) $3$
-> (B) $4$
-> (C) $5$
-> (D) $6$
-> (E) $7$
+>
+> - **(A)** $3$
+> - **(B)** $4$
+> - **(C)** $5$
+> - **(D)** $6$
+> - **(E)** $7$
 
 ![[src_obm_2010_n2_f1__Q04.png]]
 

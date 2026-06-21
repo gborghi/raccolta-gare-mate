@@ -44,11 +44,12 @@ tags:
 > 8
 > 9
 > 11 12 13 14 16 17
-> (A) 1049
-> (B) 1051
-> (C) 1052
-> (D) 839
-> (E) 841
+>
+> - **(A)** 1049
+> - **(B)** 1051
+> - **(C)** 1052
+> - **(D)** 839
+> - **(E)** 841
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

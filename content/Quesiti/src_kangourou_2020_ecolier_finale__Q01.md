@@ -31,14 +31,12 @@ tags:
 *Tra quanti anni un anno con due cifre ripetute*
 
 > Un fungo cresce di giorno in giorno. Licia lo ha fotografato ogni giorno da lunedì a venerdì. Quale di queste sue foto è stata scattata martedì?
-> 
-> (A) (immagine A)
-> (B) (immagine B)
-> (C) (immagine C)
-> (D) (immagine D)
-> (E) (immagine E)
-> 
-> (vedi figura)
+>
+> - **(A)** (immagine A)
+> - **(B)** (immagine B)
+> - **(C)** (immagine C)
+> - **(D)** (immagine D)
+> - **(E)** (immagine E) (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

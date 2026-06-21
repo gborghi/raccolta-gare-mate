@@ -32,12 +32,12 @@ tags:
 *Numeri di tre cifre con la cifra 3 ma non la 4*
 
 > Quanti sono i numeri interi di tre cifre (tra 100 e 999) che contengono la cifra 3 ma non la cifra 4?
-> (A) 162
-> (B)
-> 200
-> (C) 216
-> (D) 243
-> (E) 450
+>
+> - **(A)** 162
+> - **(B)** 200
+> - **(C)** 216
+> - **(D)** 243
+> - **(E)** 450
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

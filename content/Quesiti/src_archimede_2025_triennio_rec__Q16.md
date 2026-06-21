@@ -34,12 +34,12 @@ tags:
 > naturali che sono divisori di 18000 (uno per bigliettino). Luca ne sorteggia uno a
 > caso, poi lo rimette insieme agli altri, Giulia esegue quindi un nuovo sorteggio.
 > Qual è la probabilità che i numeri estratti siano primi tra loro?
-> (A) 9/100
-> (B) 5/54
-> (C) 1/12
-> (D) 1/10
-> (E) 7/80
-> 511
+>
+> - **(A)** 9/100
+> - **(B)** 5/54
+> - **(C)** 1/12
+> - **(D)** 1/10
+> - **(E)** 7/80 511
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

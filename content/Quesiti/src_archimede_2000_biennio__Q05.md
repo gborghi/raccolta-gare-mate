@@ -29,11 +29,12 @@ tags:
 *Aumento percentuale area rettangolo con base e altezza*
 
 > Se aumentiamo la lunghezza della base di un rettangolo del 30% e quella dell’altezza del 50%, l’area aumenta del
-> (A) 195%
-> (B) 115%
-> (C) 150%
-> (D) 95%
-> (E) 80%.
+>
+> - **(A)** 195%
+> - **(B)** 115%
+> - **(C)** 150%
+> - **(D)** 95%
+> - **(E)** 80%.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

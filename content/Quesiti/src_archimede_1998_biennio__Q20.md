@@ -29,11 +29,12 @@ tags:
 *Valore di n con 13 multipli fra 200 e 300*
 
 > Sapendo che tra 200 e 300 (estremi inclusi) ci sono esattamente 13 multipli dell’intero n, quanto vale n?
-> (A) ≤6
-> (B) 7
-> (C) 8
-> (D) 9
-> (E) ≥10.
+>
+> - **(A)** ≤6
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** ≥10.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

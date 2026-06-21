@@ -37,12 +37,12 @@ tags:
 *2% increase of smaller of two consecutive numbers gives the larger; find sum*
 
 > Increasing by $2\%$ the value of the smaller of two consecutive numbers, we obtain the larger of them. What is the sum of these numbers?
-> 
-> (A) $43$
-> (B) $53$
-> (C) $97$
-> (D) $101$
-> (E) $115$
+>
+> - **(A)** $43$
+> - **(B)** $53$
+> - **(C)** $97$
+> - **(D)** $101$
+> - **(E)** $115$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]

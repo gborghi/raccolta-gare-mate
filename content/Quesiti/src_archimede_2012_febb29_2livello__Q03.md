@@ -33,14 +33,12 @@ tags:
 > Alice, Berto e Carlo devono seppellire un tesoro e decidono di seppellirlo in un punto equidistante
 > da tutti e tre. Sapendo che si trovano ai vertici di un triangolo rettangolo con un angolo di 30°e
 > di perimetro 6 m, quale sarà la distanza del tesoro da ciascuno?
-> (A) 1 m
-> (B) 3
-> 2 m
-> (C) 2 m
-> (D) 3 −
-> √
-> 3 m
-> (E) 3 m.
+>
+> - **(A)** 1 m
+> - **(B)** 3 2 m
+> - **(C)** 2 m
+> - **(D)** 3 − √ 3 m
+> - **(E)** 3 m.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

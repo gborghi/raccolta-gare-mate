@@ -30,11 +30,12 @@ tags:
 
 > In un triangolo rettangolo le proiezioni dei cateti sull’ipotenusa misurano 3 m e 12
 > m rispettivamente. Quanto misura l’area del triangolo?
-> (A) 45 m2,
-> (B) 60 m2,
-> (C) 72 m2,
-> (D) 84 m2,
-> (E) 90 m2.
+>
+> - **(A)** 45 m2,
+> - **(B)** 60 m2,
+> - **(C)** 72 m2,
+> - **(D)** 84 m2,
+> - **(E)** 90 m2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

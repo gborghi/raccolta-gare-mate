@@ -29,12 +29,12 @@ tags:
 
 > Un triangolo equilatero ha il lato che misura il doppio di quello di un esagono regolare. Qual è il rapporto
 > tra l’area del triangolo e quella dell’esagono?
-> (A) 2
-> (B) 1
-> (C) 3/2
-> (D) 1/2
-> (E)
-> 2/3
+>
+> - **(A)** 2
+> - **(B)** 1
+> - **(C)** 3/2
+> - **(D)** 1/2
+> - **(E)** 2/3
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

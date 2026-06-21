@@ -33,16 +33,12 @@ tags:
 > Qual è la probabilità che il primo numero estratto sulla ruota di Firenze sia
 > minore del primo numero estratto sulla ruota di Napoli? (Ricordiamo che al lotto
 > si estraggono i numeri da 1 al 90).
-> (A) 44
-> 90
-> (B) 88
-> 179
-> (C) 44
-> 89
-> (D) 89
-> 180
-> (E) 1
-> 2.
+>
+> - **(A)** 44 90
+> - **(B)** 88 179
+> - **(C)** 44 89
+> - **(D)** 89 180
+> - **(E)** 1 2.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

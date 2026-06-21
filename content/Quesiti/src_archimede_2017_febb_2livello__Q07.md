@@ -30,17 +30,12 @@ tags:
 
 > Un trapezio rettangolo con base maggiore AB e base minore CD è circoscritto ad una circonferenza di raggio 10. Si sa che il lato obliquo BC misura 24. Qual è la distanza tra i punti medi
 > di BC e AD?
-> (A) 21
-> (B) 13
-> 2
-> √
-> 11
-> (C) 33
-> 5
-> √
-> 11
-> (D) 22
-> (E) 23
+>
+> - **(A)** 21
+> - **(B)** 13 2 √ 11
+> - **(C)** 33 5 √ 11
+> - **(D)** 22
+> - **(E)** 23
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

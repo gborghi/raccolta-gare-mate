@@ -32,17 +32,12 @@ tags:
 > Un tale ha 60 aste lunghe, 60 aste corte e 60 viti.
 > Quanti oggetti identici a quello raffigurato a lato
 > può costruire?
-> (A) 4
-> (B) 10
-> (C) 12
-> (D) 15
-> (E) 20.
-> b
-> b
-> b
-> b
-> b
-> b
+>
+> - **(A)** 4
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 15
+> - **(E)** 20. b b b b b b
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

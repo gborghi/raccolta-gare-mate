@@ -40,11 +40,12 @@ tags:
 > punto per ogni pareggio e nessun punto in caso di sconfitta, indicare quanti punti
 > hanno realizzato, rispettivamente, le squadre A, B, C, D (in questo ordine) nelle
 > prime due giornate.
-> (A) 4, 6, 1, 0
-> (B) 4, 4, 2, 0
-> (C) 4, 3, 2, 1
-> (D) 1, 6, 4, 0
-> (E) 3, 4, 4, 0
+>
+> - **(A)** 4, 6, 1, 0
+> - **(B)** 4, 4, 2, 0
+> - **(C)** 4, 3, 2, 1
+> - **(D)** 1, 6, 4, 0
+> - **(E)** 3, 4, 4, 0
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

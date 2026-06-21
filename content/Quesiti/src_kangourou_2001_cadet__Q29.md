@@ -34,11 +34,12 @@ tags:
 > rock in un locale della città. Quanti differenti gruppi i ragazzi possono formare,
 > per assistere al concerto, se Federico andrà al concerto solo nel caso ci vada anche
 > il suo compagno Daniele?
-> (A) 512
-> (B) 640
-> (C) 724
-> (D) 768
-> (E) 1024.
+>
+> - **(A)** 512
+> - **(B)** 640
+> - **(C)** 724
+> - **(D)** 768
+> - **(E)** 1024.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

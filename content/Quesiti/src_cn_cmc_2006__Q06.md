@@ -36,10 +36,11 @@ tags:
 *Count 2007-digit decimal integers with no digit equal to 9*
 
 > Let $S$ be the set of all those 2007-place decimal integers $\overline{a_1 a_2 a_3 \cdots a_{2006}}$ which contain no digit of value '9' in each sequence $a_1, a_2, a_3, \cdots, a_{2006}$. The cardinal number of $S$ is
-> (A) $\dfrac{1}{2}(10^{2006} + 8^{2006})$
-> (B) $\dfrac{1}{2}(10^{2006} - 8^{2006})$
-> (C) $10^{2006} + 8^{2006}$
-> (D) $10^{2006} - 8^{2006}$
+>
+> - **(A)** $\dfrac{1}{2}(10^{2006} + 8^{2006})$
+> - **(B)** $\dfrac{1}{2}(10^{2006} - 8^{2006})$
+> - **(C)** $10^{2006} + 8^{2006}$
+> - **(D)** $10^{2006} - 8^{2006}$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]

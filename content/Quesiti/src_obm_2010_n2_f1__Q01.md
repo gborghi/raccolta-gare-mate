@@ -37,12 +37,12 @@ tags:
 *Which option is a divisor of 3^5*4^4*5^3*
 
 > Which of the alternatives is a divisor of $3^5 \cdot 4^4 \cdot 5^3$?
-> 
-> (A) $42$
-> (B) $45$
-> (C) $52$
-> (D) $85$
-> (E) $105$
+>
+> - **(A)** $42$
+> - **(B)** $45$
+> - **(C)** $52$
+> - **(D)** $85$
+> - **(E)** $105$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]

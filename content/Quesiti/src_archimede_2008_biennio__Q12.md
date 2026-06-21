@@ -29,11 +29,12 @@ tags:
 *Somma numeri decimali periodici 0,60 e 0,70*
 
 > Quanto fa 0, 60 + 0, 70?
-> (A) 1, 3,
-> (B) 1, 30,
-> (C) 1, 31,
-> (D) 1, 4,
-> (E) 1, 40.
+>
+> - **(A)** 1, 3,
+> - **(B)** 1, 30,
+> - **(C)** 1, 31,
+> - **(D)** 1, 4,
+> - **(E)** 1, 40.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

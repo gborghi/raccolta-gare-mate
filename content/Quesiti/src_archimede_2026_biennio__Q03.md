@@ -31,11 +31,12 @@ tags:
 > Una scatola contiene 30 biglie rosse. Laura aggiunge altre biglie nella scatola, di
 > colore giallo. Quante biglie gialle deve aggiungere, come minimo, perch´e le biglie
 > gialle siano più del 20% del totale?
-> (A) 10
-> (B) 9
-> (C) 7
-> (D) 8
-> (E) 6
+>
+> - **(A)** 10
+> - **(B)** 9
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 6
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

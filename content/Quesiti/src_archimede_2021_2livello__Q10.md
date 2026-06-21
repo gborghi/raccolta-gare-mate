@@ -33,11 +33,12 @@ tags:
 
 > Determinare il numero di terne ordinate (a,b,c) di interi non negativi tali che ciascuno dei numeri
 > 2a, 2b, 2c sia minore di 10000 e che il numero 2a + 2b + 2c sia un divisore di 8a + 8b + 8c.
-> (A) 14
-> (B) 50
-> (C) 53
-> (D) 72
-> (E) 86
+>
+> - **(A)** 14
+> - **(B)** 50
+> - **(C)** 53
+> - **(D)** 72
+> - **(E)** 86
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]

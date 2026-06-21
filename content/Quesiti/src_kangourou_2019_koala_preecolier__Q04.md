@@ -30,14 +30,14 @@ tags:
 ![[src_kangourou_2019_koala_preecolier__prob4.png]]
 
 > In figura vedi delle calze, su ognuna delle quali è riportato un numero. Per comporre un paio, si devono usare due calze che riportino lo stesso numero. Quante paia di calze si possono comporre?
-> 
+>
 > (vedi figura)
-> 
-> (A) 8
-> (B) 6
-> (C) 5
-> (D) 4
-> (E) 3
+>
+> - **(A)** 8
+> - **(B)** 6
+> - **(C)** 5
+> - **(D)** 4
+> - **(E)** 3
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

@@ -37,11 +37,12 @@ tags:
 > sequenza
 > TCTCTCTCT.
 > Che cosa si può concludere?
-> (A) Non ci può riuscire.
-> (B) Ci può riuscire con un minimo di 4 mosse.
-> (C) Ci può riuscire con un minimo di 6 mosse.
-> (D) Ci può riuscire con un minimo di 8 mosse.
-> (E) Ci può riuscire con un numero dispari di mosse.
+>
+> - **(A)** Non ci può riuscire.
+> - **(B)** Ci può riuscire con un minimo di 4 mosse.
+> - **(C)** Ci può riuscire con un minimo di 6 mosse.
+> - **(D)** Ci può riuscire con un minimo di 8 mosse.
+> - **(E)** Ci può riuscire con un numero dispari di mosse.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
