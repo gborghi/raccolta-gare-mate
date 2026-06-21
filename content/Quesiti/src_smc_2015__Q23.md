@@ -1,0 +1,54 @@
+---
+title: Senior Mathematical Challenge 2015 — Quesito 23
+tipo: quesito
+quesito_id: quesito_src_smc_2015__Q23
+parent: src_smc_2015
+competition: Senior Mathematical Challenge 2015
+family: smc
+year: '2015'
+level: Senior Mathematical Challenge
+country: Regno Unito
+modalita: scelta multipla
+quesito: '23'
+summary: >-
+  Largest prime factor of the sum of all 24 four-digit numbers formed from four
+  different non-zero digits
+qa_score: '4'
+answer: D
+topics:
+  - topic_aritmetica
+  - topic_combinatoria
+methods:
+  - method_conteggio
+  - method_fattorizzazione
+skills:
+  - skill_conteggio_sistematico
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/regno-unito
+  - comp/smc
+  - anno/2015
+  - livello/senior-mathematical-challenge
+  - modalita/scelta-multipla
+  - topic/aritmetica
+  - topic/combinatoria
+  - gara/individuale
+---
+
+*Largest prime factor of the sum of all 24 four-digit numbers formed from four different non-zero digits*
+
+> Given four different non-zero digits, it is possible to form $24$ different four-digit numbers containing each of these four digits. What is the largest prime factor of the sum of the $24$ numbers?
+>
+> - **(A)** $23$
+> - **(B)** $93$
+> - **(C)** $97$
+> - **(D)** $101$
+> - **(E)** $113$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** (D)
+**Fonte:** apri PDF
