@@ -12,3 +12,37 @@
   --navbar-bg: linear-gradient(100deg, #1d6147 0%, #0f3b29 100%);
   --navbar-fg: #f3fbf5;
 }
+
+// --- Navbar offset / search popout (mirrors maturità) -------------------------
+// Don't add the 6rem ($topSpacing) gap above the centre content under the masthead.
+.page-header { margin-top: 0 !important; }
+
+// The sticky side rails are height:100vh; top:0 but start BELOW the sticky navbar,
+// so they spill ~navbar-height past the viewport (left Explorer overflowed). Offset
+// them under the navbar and shrink to remaining height. Desktop/tablet only.
+:root { --navbar-h: 80px; } // pre-JS fallback; Navbar.afterDOMLoaded sets exact px
+@media all and (min-width: 800px) {
+  #quartz-root .sidebar {
+    top: var(--navbar-h) !important;
+    height: calc(100vh - var(--navbar-h)) !important;
+    padding-top: 1.5rem !important;
+  }
+  #quartz-root .sidebar.right { overflow-y: auto; overflow-x: hidden; }
+  // LEFT rail holds the position:fixed search popout. Keep it overflow:visible (a
+  // scroll-container ancestor would clip the popout) and lift its z-index ABOVE the
+  // navbar (1000) so the popout — z-index:1100, relative to this rail's stacking
+  // context — escapes on top instead of being trapped under the masthead.
+  #quartz-root .sidebar.left { overflow: visible; z-index: 1001 !important; }
+  #quartz-root .sidebar.left .explorer {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+}
+
+// Search popout must sit ABOVE the sticky navbar (z-index 1000), else the modal
+// overlay + results get clipped behind the masthead.
+.search > .search-container { z-index: 1100 !important; }
+// Drop the search box clearly BELOW the masthead (replaces the fixed 12vh top margin).
+.search > .search-container > .search-space { margin-top: calc(var(--navbar-h) + 2.5rem) !important; }

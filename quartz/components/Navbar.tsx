@@ -1,13 +1,13 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-// Sticky top navbar (mirrors the maturità site, which positions the search popout
-// and content spacing correctly): an inline flex bar inside the page flow with a
-// modest z-index, a negative top margin and a bottom margin so the content below
-// is not glued under it and the fixed search popout (z-index 999) stays on top.
-// Links are ABSOLUTE, built from the configured baseUrl's path (e.g.
-// "/raccolta-gare-mate"), so they carry the GitHub Pages project base regardless
-// of SPA navigation. Folder targets keep a trailing slash; "cerca" is a leaf page.
+// Full-width masthead navbar (rendered at <body> level by renderPage.tsx), mirroring
+// the maturità/physics site: a viewport-spanning bar with a centered max-width inner
+// grid — brand on the left, links centered. Links are ABSOLUTE, built from the
+// configured baseUrl's path so they carry the GitHub Pages project base on every page.
+// Navbar.afterDOMLoaded measures the real bar height into --navbar-h, which custom.scss
+// uses to offset the sticky sidebars (so content isn't pushed too low) and to place the
+// search popout below the masthead.
 const LINKS: [string, string][] = [
   ["Aree", "Clusters"],
   ["Argomenti", "Topics"],
@@ -28,14 +28,16 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
   const bp = basePathOf(cfg?.baseUrl)
   return (
     <nav class={classNames(displayClass, "navbar")}>
-      <a class="navbar-brand" href={`${bp}/`}>
-        <img class="navbar-logo" src={`${bp}/static/logo.svg`} alt="" aria-hidden="true" />
-        Raccolta Gare di Matematica
-      </a>
-      <div class="navbar-links">
-        {LINKS.map(([label, slug]) => (
-          <a href={`${bp}/${slug}${slug === "cerca" ? "" : "/"}`}>{label}</a>
-        ))}
+      <div class="navbar-inner">
+        <a class="navbar-brand" href={`${bp}/`}>
+          <img class="navbar-logo" src={`${bp}/static/logo.svg`} alt="" aria-hidden="true" />
+          Raccolta Gare di Matematica
+        </a>
+        <div class="navbar-links">
+          {LINKS.map(([label, slug]) => (
+            <a href={`${bp}/${slug}${slug === "cerca" ? "" : "/"}`}>{label}</a>
+          ))}
+        </div>
       </div>
     </nav>
   )
@@ -43,35 +45,60 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
 
 Navbar.css = `
 .navbar {
-  position: sticky; top: 0; z-index: 100;
-  display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
-  margin: -0.5rem 0 1.4rem 0; padding: 0.5rem 1.1rem;
+  position: sticky; top: 0; z-index: 1000;
+  width: 100%; margin: 0; padding: 0.4rem 2rem;
   background: var(--navbar-bg);
-  border-radius: 0 0 14px 14px;
-  box-shadow: 0 3px 14px rgba(18, 90, 60, 0.22);
+  box-shadow: 0 2px 14px rgba(18, 90, 60, 0.22);
+}
+.navbar-inner {
+  display: grid; grid-template-columns: 1fr auto 1fr;
+  align-items: center; gap: 1rem;
+  /* match the page grid width (.page is max-width: desktop+300 = 1500px) */
+  max-width: 1500px; margin: 0 auto;
 }
 .navbar-brand {
+  grid-column: 1; justify-self: start;
   display: inline-flex; align-items: center; gap: 0.55rem;
   font-family: var(--titleFont); font-weight: 800; font-size: 1.2rem;
-  letter-spacing: -0.01em; color: var(--navbar-fg) !important;
-  background: none; text-decoration: none !important;
+  letter-spacing: -0.01em;
+  color: var(--navbar-fg) !important; background: none; text-decoration: none !important;
 }
+/* Brand emblem spans (nearly) the full navbar height; height drives the bar height. */
 .navbar-logo {
-  height: 40px; width: auto; flex: 0 0 auto; display: block;
-  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.25));
+  height: 3rem; width: auto; flex: 0 0 auto; display: block;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.3));
 }
-.navbar-links { display: flex; gap: 0.35rem; flex-wrap: wrap; margin-left: auto; }
+.navbar-links {
+  grid-column: 2; justify-self: center;
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4rem;
+}
 .navbar-links a {
-  font-family: var(--titleFont); font-weight: 600; font-size: 0.92rem;
-  color: var(--navbar-fg) !important; background: rgba(255,255,255,0.0);
-  padding: 0.32rem 0.7rem; border-radius: 999px; text-decoration: none !important;
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.95rem;
+  color: var(--navbar-fg) !important; background-image: none;
+  padding: 0.38rem 0.85rem; border-radius: 999px; text-decoration: none !important;
   transition: background 0.15s ease, color 0.15s ease;
 }
 .navbar-links a:hover { background: var(--accent-lime); color: #10241a !important; }
-@media all and (max-width: 800px) {
-  .navbar-logo { height: 32px; }
-  .navbar-links a { font-size: 0.85rem; padding: 0.28rem 0.55rem; }
+@media (max-width: 800px) {
+  .navbar { padding: 0.4rem 1rem; }
+  .navbar-inner { grid-template-columns: 1fr; justify-items: center; gap: 0.5rem; }
+  .navbar-brand { justify-self: center; }
+  .navbar-logo { height: 2.5rem; }
+  .navbar-links a { padding: 0.3rem 0.6rem; font-size: 0.85rem; }
 }
+`
+
+// The masthead height varies with viewport width (the nav links wrap), so a fixed
+// magic number for the sidebar offset is fragile. Measure the real height and
+// publish it as --navbar-h; the sidebar/search CSS uses it for top + height.
+Navbar.afterDOMLoaded = `
+function __setNavH(){
+  var n = document.querySelector('.navbar');
+  if (n) document.documentElement.style.setProperty('--navbar-h', n.offsetHeight + 'px');
+}
+__setNavH();
+window.addEventListener('resize', __setNavH);
+document.addEventListener('nav', __setNavH);
 `
 
 export default (() => Navbar) satisfies QuartzComponentConstructor
