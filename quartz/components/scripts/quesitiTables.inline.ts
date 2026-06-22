@@ -29,13 +29,22 @@ function esc(s: string): string {
   )
 }
 
-const PAGE_SIZE = 50
+// pagination (maturità "PagedList" style): per-page selector + windowed numbers
+const PER_PAGE_OPTS = [25, 50, 100, 250, 0] // 0 = Tutti
+const LS_KEY = "rgm-qtable-perpage"
+function getPerPage(): number {
+  const raw = localStorage.getItem(LS_KEY)
+  if (raw == null) return 50
+  const v = Number(raw)
+  return PER_PAGE_OPTS.includes(v) ? v : 50
+}
 
 function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   let sortKey: keyof Quesito = "competition"
   let sortDir = 1
   let filter = ""
   let page = 1
+  let perPage = getPerPage()
 
   const search = document.createElement("input")
   search.type = "search"
@@ -44,6 +53,26 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
 
   const count = document.createElement("div")
   count.className = "qtable-count"
+
+  // items-per-page selector
+  const perPageSel = document.createElement("select")
+  perPageSel.className = "paged-perpage"
+  for (const n of PER_PAGE_OPTS) {
+    const o = document.createElement("option")
+    o.value = String(n)
+    o.textContent = n === 0 ? "Tutti" : String(n)
+    if (n === perPage) o.selected = true
+    perPageSel.appendChild(o)
+  }
+  const perPageLbl = document.createElement("label")
+  perPageLbl.className = "paged-perpage-label"
+  perPageLbl.append("mostra ", perPageSel, " per pagina")
+  perPageSel.addEventListener("change", () => {
+    perPage = Number(perPageSel.value)
+    localStorage.setItem(LS_KEY, String(perPage))
+    page = 1
+    render()
+  })
 
   const table = document.createElement("table")
   table.className = "qtable-table"
@@ -81,13 +110,13 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
           r.competition.toLowerCase().includes(q),
       )
       .sort(cmp)
-    const pages = Math.max(1, Math.ceil(shown.length / PAGE_SIZE))
+    const pages = perPage === 0 ? 1 : Math.max(1, Math.ceil(shown.length / perPage))
     if (page > pages) page = pages
     if (page < 1) page = 1
-    const start = (page - 1) * PAGE_SIZE
-    const pageRows = shown.slice(start, start + PAGE_SIZE)
+    const start = perPage === 0 ? 0 : (page - 1) * perPage
+    const pageRows = perPage === 0 ? shown : shown.slice(start, start + perPage)
     count.textContent =
-      shown.length > PAGE_SIZE
+      pages > 1
         ? `${shown.length} quesiti — ${start + 1}–${start + pageRows.length} (pag. ${page}/${pages})`
         : `${shown.length} quesiti`
     const head =
@@ -126,24 +155,36 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
         render()
       })
     })
-    pager.innerHTML =
-      pages > 1
-        ? `<button class="qtable-pg" data-act="first" ${page <= 1 ? "disabled" : ""}>«</button>` +
-          `<button class="qtable-pg" data-act="prev" ${page <= 1 ? "disabled" : ""}>‹ Prec.</button>` +
-          `<span class="qtable-pginfo">${page} / ${pages}</span>` +
-          `<button class="qtable-pg" data-act="next" ${page >= pages ? "disabled" : ""}>Succ. ›</button>` +
-          `<button class="qtable-pg" data-act="last" ${page >= pages ? "disabled" : ""}>»</button>`
-        : ""
+    // windowed numbered pager (maturità style)
+    if (pages <= 1) {
+      pager.innerHTML = ""
+    } else {
+      const btn = (label: string, target: number, disabled: boolean, cur = false) =>
+        `<button class="paged-btn${cur ? " current" : ""}" data-p="${target}" ${disabled ? "disabled" : ""}>${label}</button>`
+      const nums: string[] = []
+      const win = 2
+      const lo = Math.max(1, page - win)
+      const hi = Math.min(pages, page + win)
+      if (lo > 1) {
+        nums.push(btn("1", 1, false))
+        if (lo > 2) nums.push(`<span class="paged-ellip">…</span>`)
+      }
+      for (let i = lo; i <= hi; i++) nums.push(btn(String(i), i, false, i === page))
+      if (hi < pages) {
+        if (hi < pages - 1) nums.push(`<span class="paged-ellip">…</span>`)
+        nums.push(btn(String(pages), pages, false))
+      }
+      pager.innerHTML =
+        btn("‹ Prec", page - 1, page === 1) + nums.join("") + btn("Succ ›", page + 1, page >= pages)
+    }
   }
 
   pager.addEventListener("click", (e) => {
-    const act = (e.target as HTMLElement).dataset?.act
-    if (!act) return
-    if (act === "first") page = 1
-    else if (act === "prev") page -= 1
-    else if (act === "next") page += 1
-    else if (act === "last") page = Infinity
+    const t = (e.target as HTMLElement).closest("button[data-p]") as HTMLElement | null
+    if (!t) return
+    page = Number(t.dataset.p)
     render()
+    el.scrollIntoView({ block: "start", behavior: "smooth" })
   })
 
   search.addEventListener("input", () => {
@@ -152,7 +193,10 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
     render()
   })
 
-  el.replaceChildren(search, count, table, pager)
+  const controls = document.createElement("div")
+  controls.className = "qtable-controls"
+  controls.append(count, perPageLbl)
+  el.replaceChildren(search, controls, table, pager)
   render()
 }
 
