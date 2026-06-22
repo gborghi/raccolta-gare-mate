@@ -31,13 +31,11 @@ tags:
   - gara/squadre
 ---
 
-*Numero radici reali del polinomio p22*
+*Numero radici reali del polinomio $p_{22}$*
 
-> Mettere le radici [⋆]
-> Denis Tusca
-> Hardy, per comunicare in segreto con il suo padrino Sirius Schwarz, ha convenuto di mettere una password agli
-> specchi gemelli. Preso p0(x) = x e pn+1(x) = 1−pn(x)2 per ogni n naturale, la password è il numero di radici reali,
-> contate con molteplicità, del polinomio p22(x). Qual è la password?
+> **Mettere le radici** [⋆] — Denis Tusca
+>
+> Hardy, per comunicare in segreto con il suo padrino Sirius Schwarz, ha convenuto di mettere una password agli specchi gemelli. Preso $p_0(x) = x$ e $p_{n+1}(x) = 1 - p_n(x)^2$ per ogni $n$ naturale, la password è il numero di radici reali, contate con molteplicità, del polinomio $p_{22}(x)$. Qual è la password?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
