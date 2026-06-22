@@ -1,0 +1,47 @@
+---
+title: Olimpiade Matematica Polacca 1997 — Round 1 — Quesito 12
+tipo: quesito
+quesito_id: quesito_src_pol_1997_r1__Q12
+parent: src_pol_1997_r1
+competition: Olimpiade Matematica Polacca 1997 — Round 1
+family: pol
+year: '1997'
+level: Olimpiade Polacca Round 1
+round: '1'
+country: Polonia
+modalita: individuale
+quesito: '12'
+summary: >-
+  For n people dining three at a time with each pair meeting exactly once, prove
+  n is congruent to 1 or 3 mod 6.
+qa_score: '3'
+topics:
+  - topic_combinatoria
+  - topic_aritmetica
+methods:
+  - method_doppio_conteggio
+  - method_congruenze
+skills:
+  - skill_conteggio_sistematico
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/1997
+  - livello/olimpiade-polacca-round-1
+  - round/1
+  - topic/combinatoria
+  - topic/aritmetica
+  - gara/individuale
+---
+
+*For n people dining three at a time with each pair meeting exactly once, prove n is congruent to 1 or 3 mod 6.*
+
+> A group of $n$ people noticed that, for some period of time, three of them might be going for a dinner together, each pair meeting at exactly one dinner. Prove that $n \equiv 1$ or $n \equiv 3 \pmod{6}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF

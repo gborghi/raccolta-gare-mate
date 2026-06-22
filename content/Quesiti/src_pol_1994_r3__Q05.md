@@ -1,0 +1,47 @@
+---
+title: Olimpiade Matematica Polacca 1994 — Round 3 — Quesito 5
+tipo: quesito
+quesito_id: quesito_src_pol_1994_r3__Q05
+parent: src_pol_1994_r3
+competition: Olimpiade Matematica Polacca 1994 — Round 3
+family: pol
+year: '1994'
+level: Olimpiade Polacca Round 3
+round: '3'
+country: Polonia
+modalita: individuale
+quesito: '5'
+summary: 'Parallelepiped center, weighted sum of squared distances inequality'
+qa_score: '5'
+topics:
+  - topic_geometria_solida
+  - topic_disuguaglianze
+methods:
+  - method_disuguaglianze
+  - method_coordinate
+skills:
+  - skill_manipolazione_algebrica
+  - skill_ragionamento_geometrico
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/1994
+  - livello/olimpiade-polacca-round-3
+  - round/3
+  - topic/geometria_solida
+  - topic/disuguaglianze
+  - gara/individuale
+---
+
+*Parallelepiped center, weighted sum of squared distances inequality*
+
+> Let $O$ be the center of a parallelopiped $A_1 A_2 \cdots A_8$. Prove that
+> $$4 \sum_{i=1}^{8} OA_i^2 \le \left( \sum_{i=1}^{8} OA_i \right)^2.$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Fonte:** apri PDF

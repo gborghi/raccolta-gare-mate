@@ -1,0 +1,46 @@
+---
+title: Olimpiade Matematica Polacca 1990 — Round 3 — Quesito 5
+tipo: quesito
+quesito_id: quesito_src_pol_1990_r3__Q05
+parent: src_pol_1990_r3
+competition: Olimpiade Matematica Polacca 1990 — Round 3
+family: pol
+year: '1990'
+level: Olimpiade Polacca Round 3
+round: '3'
+country: Polonia
+modalita: individuale
+quesito: '5'
+summary: >-
+  For a sequence of positive integers with n/a_n -> 0, prove existence of k with
+  at least 1990 perfect squares between consecutive partial sums.
+qa_score: '5'
+topics:
+  - topic_aritmetica
+  - topic_algebra
+methods:
+  - method_estremalita
+skills:
+  - skill_stima
+  - skill_manipolazione_algebrica
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/1990
+  - livello/olimpiade-polacca-round-3
+  - round/3
+  - topic/aritmetica
+  - topic/algebra
+  - gara/individuale
+---
+
+*For a sequence of positive integers with n/a_n -> 0, prove existence of k with at least 1990 perfect squares between consecutive partial sums.*
+
+> Suppose that $(a_n)$ is a sequence of positive integers such that $\lim_{n \to \infty} \frac{n}{a_n} = 0$. Prove that there exists $k$ such that there are at least 1990 perfect squares between $a_1 + a_2 + \cdots + a_k$ and $a_1 + a_2 + \cdots + a_{k+1}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** apri PDF

@@ -1,0 +1,46 @@
+---
+title: Olimpiade Matematica Polacca 2002 — Round 1 — Quesito 10
+tipo: quesito
+quesito_id: quesito_src_pol_2002_r1__Q10
+parent: src_pol_2002_r1
+competition: Olimpiade Matematica Polacca 2002 — Round 1
+family: pol
+year: '2002'
+level: Olimpiade Polacca Round 1
+round: '1'
+country: Polonia
+modalita: individuale
+quesito: '10'
+summary: >-
+  On a 2000x2000 board with a stone on each field, moves merge two stones
+  three-apart onto the middle; decide whether all stones can end on one field.
+qa_score: '4'
+topics:
+  - topic_combinatoria
+methods:
+  - method_invarianti
+  - method_colorazione
+skills:
+  - skill_astrazione
+  - skill_riconoscimento_pattern
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/2002
+  - livello/olimpiade-polacca-round-1
+  - round/1
+  - topic/combinatoria
+  - gara/individuale
+---
+
+*On a 2000x2000 board with a stone on each field, moves merge two stones three-apart onto the middle; decide whether all stones can end on one field.*
+
+> On each field of a $2000 \times 2000$ chessboard lies a stone. The stones can be moved in the following manner: Thake three successive fields lying in a row or in a column. If on the first and on the third field lies a stone then these two stones can be moved on the second field. (Note that a movement can be executed independent of the number of stones lying on the middle filed.) Prove or disprove: There exists a sequence of movements such that at the end all the stones lie on one field of the chessboard.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

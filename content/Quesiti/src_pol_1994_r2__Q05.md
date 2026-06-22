@@ -1,0 +1,43 @@
+---
+title: Olimpiade Matematica Polacca 1994 — Round 2 — Quesito 5
+tipo: quesito
+quesito_id: quesito_src_pol_1994_r2__Q05
+parent: src_pol_1994_r2
+competition: Olimpiade Matematica Polacca 1994 — Round 2
+family: pol
+year: '1994'
+level: Olimpiade Polacca Round 2
+round: '2'
+country: Polonia
+modalita: individuale
+quesito: '5'
+summary: >-
+  Incircle of triangle ABC touches AB and BC at P and Q; the bisector from A
+  meets PQ at S; prove angle ASC is 90 degrees.
+qa_score: '5'
+topics:
+  - topic_geometria_piana
+methods:
+  - method_simmetria
+skills:
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/1994
+  - livello/olimpiade-polacca-round-2
+  - round/2
+  - topic/geometria_piana
+  - gara/individuale
+---
+
+*Incircle of triangle ABC touches AB and BC at P and Q; the bisector from A meets PQ at S; prove angle ASC is 90 degrees.*
+
+> The incircle $o$ of a triangle $ABC$ is tangent to the sides $AB$ and $BC$ at $P$ and $Q$ respectively. The angle bisector at $A$ meets $PQ$ at point $S$. Prove $\angle ASC = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Fonte:** apri PDF

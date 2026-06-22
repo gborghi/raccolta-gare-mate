@@ -1,0 +1,46 @@
+---
+title: Olimpiade Matematica Polacca 1995 — Round 2 — Quesito 1
+tipo: quesito
+quesito_id: quesito_src_pol_1995_r2__Q01
+parent: src_pol_1995_r2
+competition: Olimpiade Matematica Polacca 1995 — Round 2
+family: pol
+year: '1995'
+level: Olimpiade Polacca Round 2
+round: '2'
+country: Polonia
+modalita: individuale
+quesito: '1'
+summary: >-
+  Polynomial with integer coefficients: P(5) divisible by 2 and P(2) divisible
+  by 5 imply P(7) divisible by 10.
+qa_score: '5'
+topics:
+  - topic_algebra
+  - topic_aritmetica
+methods:
+  - method_congruenze
+skills:
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/1995
+  - livello/olimpiade-polacca-round-2
+  - round/2
+  - topic/algebra
+  - topic/aritmetica
+  - gara/individuale
+---
+
+*Polynomial with integer coefficients: P(5) divisible by 2 and P(2) divisible by 5 imply P(7) divisible by 10.*
+
+> For a polynomial $P$ with integer coefficients, $P(5)$ is divisible by 2 and $P(2)$ is divisible by 5. Prove that $P(7)$ is divisible by 10.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** apri PDF

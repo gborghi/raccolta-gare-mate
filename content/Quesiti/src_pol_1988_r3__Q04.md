@@ -1,0 +1,43 @@
+---
+title: Olimpiade Matematica Polacca 1988 — Round 3 — Quesito 4
+tipo: quesito
+quesito_id: quesito_src_pol_1988_r3__Q04
+parent: src_pol_1988_r3
+competition: Olimpiade Matematica Polacca 1988 — Round 3
+family: pol
+year: '1988'
+level: Olimpiade Polacca Round 3
+round: '3'
+country: Polonia
+modalita: individuale
+quesito: '4'
+summary: Continuous function on reals with period d satisfying functional equation
+qa_score: '4'
+topics:
+  - topic_insiemi_funzioni
+methods:
+  - method_invarianti
+skills:
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/1988
+  - livello/olimpiade-polacca-round-3
+  - round/3
+  - topic/insiemi_funzioni
+  - gara/individuale
+---
+
+*Continuous function on reals with period d satisfying functional equation*
+
+> Let $d$ be a positive integer and let $f : [0, d] \to \mathbb{R}$ be a continuous function with $f(0) = f(d)$. Prove that there exists $c \in [0, d)$ such that $f(c) = f(c + 1)$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** apri PDF

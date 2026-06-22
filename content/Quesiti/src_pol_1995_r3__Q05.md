@@ -1,0 +1,46 @@
+---
+title: Olimpiade Matematica Polacca 1995 — Round 3 — Quesito 5
+tipo: quesito
+quesito_id: quesito_src_pol_1995_r3__Q05
+parent: src_pol_1995_r3
+competition: Olimpiade Matematica Polacca 1995 — Round 3
+family: pol
+year: '1995'
+level: Olimpiade Polacca Round 3
+round: '3'
+country: Polonia
+modalita: individuale
+quesito: '5'
+summary: Urn with n sheets labelled 1..n; expected number of drawings divisible by 4
+qa_score: '3'
+topics:
+  - topic_probabilita
+  - topic_combinatoria
+methods:
+  - method_conteggio
+  - method_doppio_conteggio
+skills:
+  - skill_conteggio_sistematico
+  - skill_manipolazione_algebrica
+  - skill_modellizzazione
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/1995
+  - livello/olimpiade-polacca-round-3
+  - round/3
+  - topic/probabilita
+  - topic/combinatoria
+  - gara/individuale
+---
+
+*Urn with n sheets labelled 1..n; expected number of drawings divisible by 4*
+
+> An urn contains $n$ sheets of papers labelled $1, 2, \ldots, n$. We draw the sheets one by one without putting them back into the urn until we obtain a sheet with a number divisible by $4$. For a fixed $n$, determine all values of $k$ for which the expected value of the number of drawings is equal to $k$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

@@ -1,0 +1,45 @@
+---
+title: Olimpiade Matematica Polacca 2004 — Round 2 — Quesito 6
+tipo: quesito
+quesito_id: quesito_src_pol_2004_r2__Q06
+parent: src_pol_2004_r2
+competition: Olimpiade Matematica Polacca 2004 — Round 2
+family: pol
+year: '2004'
+level: Olimpiade Polacca Round 2
+round: '2'
+country: Polonia
+modalita: individuale
+quesito: '6'
+summary: 'Select n/2 persons at round table, each between two acquaintances'
+qa_score: '3'
+topics:
+  - topic_combinatoria
+methods:
+  - method_grafi
+  - method_estremalita
+  - method_induzione
+skills:
+  - skill_modellizzazione
+  - skill_conteggio_sistematico
+  - skill_ragionamento_geometrico
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/2004
+  - livello/olimpiade-polacca-round-2
+  - round/2
+  - topic/combinatoria
+  - gara/individuale
+---
+
+*Select n/2 persons at round table, each between two acquaintances*
+
+> There are $n \geq 5$ persons at a party. Assume that among any three of them some two know each other. Show that one can select at least $n/2$ of the persons and arrange them at a round table so that each person sits between two of his/her acquaintances.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** apri PDF

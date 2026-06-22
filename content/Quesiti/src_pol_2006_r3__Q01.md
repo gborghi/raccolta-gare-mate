@@ -1,0 +1,50 @@
+---
+title: Olimpiade Matematica Polacca 2006 — Round 3 — Quesito 1
+tipo: quesito
+quesito_id: quesito_src_pol_2006_r3__Q01
+parent: src_pol_2006_r3
+competition: Olimpiade Matematica Polacca 2006 — Round 3
+family: pol
+year: '2006'
+level: Olimpiade Polacca Round 3
+round: '3'
+country: Polonia
+modalita: individuale
+quesito: '1'
+summary: >-
+  Solve a cyclic system of five real equations relating squares to sums of two
+  cubes.
+qa_score: '5'
+topics:
+  - topic_algebra
+methods:
+  - method_simmetria
+  - method_casework
+skills:
+  - skill_manipolazione_algebrica
+  - skill_lettura_attenta
+tags:
+  - kg/quesito
+  - paese/polonia
+  - comp/pol
+  - anno/2006
+  - livello/olimpiade-polacca-round-3
+  - round/3
+  - topic/algebra
+  - gara/individuale
+---
+
+*Solve a cyclic system of five real equations relating squares to sums of two cubes.*
+
+> Solve in real numbers $a, b, c, d, e$ the system of equations:
+> $$a^2 = b^3 + c^3,$$
+> $$b^2 = c^3 + d^3,$$
+> $$c^2 = d^3 + e^3,$$
+> $$d^2 = e^3 + a^3,$$
+> $$e^2 = a^3 + b^3.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** apri PDF
