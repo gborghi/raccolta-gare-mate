@@ -27,7 +27,7 @@ const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) =>
     <nav class={classNames(displayClass, "navbar")}>
       <div class="navbar-inner">
         <a class="navbar-brand" href={`${bp}/`}>
-          <span class="navbar-dot" aria-hidden="true"></span>
+          <img class="navbar-logo" src={`${bp}/static/logo.svg`} alt="" aria-hidden="true" />
           Raccolta Gare di Matematica
         </a>
         <div class="navbar-links">
@@ -57,10 +57,9 @@ Navbar.css = `
   letter-spacing: -0.01em; color: var(--navbar-fg) !important;
   background: none; text-decoration: none !important;
 }
-.navbar-dot {
-  width: 16px; height: 16px; border-radius: 50%; flex: none;
-  background: conic-gradient(var(--accent-lime), var(--accent-mint), var(--accent-teal), var(--accent-lime));
-  box-shadow: 0 0 0 3px rgba(255,255,255,0.18);
+.navbar-logo {
+  height: 40px; width: auto; flex: none; display: block;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.25));
 }
 .navbar-links { grid-column: 2; display: flex; flex-wrap: wrap; gap: 0.4rem; justify-content: center; justify-self: center; }
 .navbar-links a {
@@ -74,6 +73,7 @@ Navbar.css = `
   .navbar { padding: 0.6rem 1rem; }
   .navbar-inner { grid-template-columns: 1fr; justify-items: center; gap: 0.5rem; }
   .navbar-brand { justify-self: center; }
+  .navbar-logo { height: 32px; }
   .navbar-links a { padding: 0.3rem 0.6rem; font-size: 0.85rem; }
 }
 `
