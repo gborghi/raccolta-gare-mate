@@ -585,9 +585,36 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
   }
 
-  await renderLocalGraph()
+  // Lazy load: the graph data fetch + pixi scene is too heavy for low-RAM phones,
+  // so we do NOT render on page load. Instead show a button; the local graph is
+  // built only when the user asks for it.
+  function showGraphLoader() {
+    const localGraphContainers = document.getElementsByClassName("graph-container")
+    for (const container of localGraphContainers) {
+      const el = container as HTMLElement
+      if (el.dataset.loaded === "1") continue
+      removeAllChildren(el)
+      const btn = document.createElement("button")
+      btn.className = "graph-load-btn"
+      btn.textContent = "Mostra grafo"
+      btn.addEventListener("click", async () => {
+        el.dataset.loaded = "1"
+        removeAllChildren(el)
+        cleanupLocalGraphs()
+        localGraphCleanups.push(await renderGraph(el, slug))
+      })
+      el.appendChild(btn)
+    }
+  }
+
+  showGraphLoader()
   const handleThemeChange = () => {
-    void renderLocalGraph()
+    const localGraphContainers = document.getElementsByClassName("graph-container")
+    let anyLoaded = false
+    for (const container of localGraphContainers) {
+      if ((container as HTMLElement).dataset.loaded === "1") anyLoaded = true
+    }
+    if (anyLoaded) void renderLocalGraph()
   }
 
   document.addEventListener("themechange", handleThemeChange)
