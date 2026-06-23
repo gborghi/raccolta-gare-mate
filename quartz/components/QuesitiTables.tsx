@@ -4,11 +4,27 @@ import script from "./scripts/quesitiTables.inline"
 
 const style = `
 div.qtable { margin: 1rem 0; overflow-x: auto; }
+.qtable-searchrow {
+  display: flex; gap: 0.5rem; align-items: stretch; margin-bottom: 0.4rem; flex-wrap: wrap;
+}
+.qtable-searchrow .qtable-search { flex: 1 1 16rem; margin-bottom: 0; }
 .qtable-search {
   width: 100%; box-sizing: border-box; padding: 0.5rem 0.7rem; margin-bottom: 0.4rem;
   border: 1px solid var(--lightgray); border-radius: 6px; background: var(--light);
   color: var(--dark); font-size: 0.95rem;
 }
+.qtable-modebtn {
+  flex: 0 0 auto; cursor: pointer; white-space: nowrap;
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.8rem;
+  padding: 0.3rem 0.7rem; border-radius: 999px;
+  border: 1.5px solid var(--lightgray); background: var(--light); color: var(--darkgray);
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+.qtable-modebtn:hover { border-color: var(--secondary); color: var(--dark); }
+.qtable-modebtn[aria-pressed="true"] {
+  background: var(--secondary); color: var(--light); border-color: var(--secondary);
+}
+.qtable-modebtn:disabled { opacity: 0.6; cursor: progress; }
 .qtable-controls {
   display: flex; align-items: center; justify-content: space-between; gap: 0.6rem;
   flex-wrap: wrap; margin-bottom: 0.4rem;

@@ -31,6 +31,40 @@ details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.2r
 }
 .cerca-count { font-size: 0.9rem; margin: 0.5rem 0; }
 .cerca-hint { color: var(--gray); }
+/* free-text search box + table/content toggle + pagination (shared look w/ in-body tables) */
+.qtable-searchrow { display: flex; gap: 0.5rem; align-items: stretch; margin: 0.4rem 0; flex-wrap: wrap; }
+.qtable-searchrow .qtable-search { flex: 1 1 16rem; margin: 0; }
+.qtable-search {
+  width: 100%; box-sizing: border-box; padding: 0.5rem 0.7rem;
+  border: 1px solid var(--lightgray); border-radius: 6px; background: var(--light);
+  color: var(--dark); font-size: 0.95rem;
+}
+.qtable-modebtn {
+  flex: 0 0 auto; cursor: pointer; white-space: nowrap;
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.8rem;
+  padding: 0.3rem 0.7rem; border-radius: 999px;
+  border: 1.5px solid var(--lightgray); background: var(--light); color: var(--darkgray);
+}
+.qtable-modebtn:hover { border-color: var(--secondary); color: var(--dark); }
+.qtable-modebtn[aria-pressed="true"] { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
+.qtable-modebtn:disabled { opacity: 0.6; cursor: progress; }
+.qtable-controls { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.4rem; }
+.paged-perpage-label { font-size: 0.85rem; color: var(--darkgray); display: inline-flex; align-items: center; gap: 0.4rem; }
+.paged-perpage {
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.85rem;
+  padding: 0.2rem 0.45rem; border-radius: 8px; border: 1.5px solid var(--lightgray);
+  background: var(--light); color: var(--dark); cursor: pointer;
+}
+.qtable-pager { display: flex; flex-wrap: wrap; gap: 0.25rem; justify-content: center; margin-top: 0.8rem; }
+.paged-btn {
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.85rem;
+  min-width: 2rem; padding: 0.25rem 0.5rem; border-radius: 8px;
+  border: 1.5px solid var(--lightgray); background: var(--light); color: var(--dark); cursor: pointer;
+}
+.paged-btn:hover:not(:disabled) { border-color: var(--secondary); }
+.paged-btn.current { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
+.paged-btn:disabled { opacity: 0.4; cursor: default; }
+.paged-ellip { padding: 0.25rem 0.2rem; color: var(--gray); }
 .cerca-results table.qtable-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
 .cerca-results th, .cerca-results td {
   text-align: left; padding: 0.35rem 0.55rem; border-bottom: 1px solid var(--lightgray); vertical-align: top;

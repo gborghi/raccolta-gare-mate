@@ -45,6 +45,21 @@ function esc(s: string): string {
   )
 }
 
+// Hidden full-text keyword index (href -> deduped keywords). Lazy-loaded only the
+// first time a user flips a table search into "full content" mode, so the default
+// page weight is unchanged. Never rendered — only matched against.
+let kwCache: Record<string, string> | null = null
+let kwPromise: Promise<Record<string, string>> | null = null
+function loadKw(prefix: string): Promise<Record<string, string>> {
+  if (kwCache) return Promise.resolve(kwCache)
+  if (!kwPromise) {
+    kwPromise = fetch(prefix + "static/quesiti_kw.json")
+      .then((r) => r.json())
+      .then((j) => (kwCache = j as Record<string, string>))
+  }
+  return kwPromise
+}
+
 // pagination (maturità "PagedList" style): per-page selector + windowed numbers
 const PER_PAGE_OPTS = [25, 50, 100, 250, 0] // 0 = Tutti
 const LS_KEY = "rgm-qtable-perpage"
@@ -61,11 +76,46 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   let filter = ""
   let page = 1
   let perPage = getPerPage()
+  let mode: "table" | "content" = "table"
 
   const search = document.createElement("input")
   search.type = "search"
-  search.placeholder = `Cerca tra ${rows.length} quesiti…`
   search.className = "qtable-search"
+  const setPlaceholder = () => {
+    search.placeholder =
+      mode === "content"
+        ? `Cerca nel testo completo dei ${rows.length} quesiti…`
+        : `Cerca tra ${rows.length} quesiti (titolo/gara)…`
+  }
+  setPlaceholder()
+
+  // toggle: filter table entries (title/gara) vs. full atomized-note content
+  const modeBtn = document.createElement("button")
+  modeBtn.className = "qtable-modebtn"
+  modeBtn.type = "button"
+  const syncModeBtn = () => {
+    modeBtn.textContent = mode === "content" ? "Ricerca: contenuto completo" : "Ricerca: titolo/gara"
+    modeBtn.setAttribute("aria-pressed", String(mode === "content"))
+  }
+  syncModeBtn()
+  modeBtn.addEventListener("click", async () => {
+    mode = mode === "table" ? "content" : "table"
+    syncModeBtn()
+    setPlaceholder()
+    page = 1
+    if (mode === "content" && !kwCache) {
+      modeBtn.textContent = "Caricamento indice…"
+      modeBtn.disabled = true
+      try {
+        await loadKw(prefix)
+      } catch {
+        /* leave kwCache null; content mode will match nothing */
+      }
+      modeBtn.disabled = false
+      syncModeBtn()
+    }
+    render()
+  })
 
   const count = document.createElement("div")
   count.className = "qtable-count"
@@ -120,12 +170,16 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   function render() {
     const q = filter.toLowerCase()
     const shown = rows
-      .filter(
-        (r) =>
-          !q ||
-          r.summary.toLowerCase().includes(q) ||
-          r.competition.toLowerCase().includes(q),
-      )
+      .filter((r) => {
+        if (!q) return true
+        if (mode === "content") {
+          const kw = kwCache?.[r.href]
+          return kw ? kw.includes(q) : false
+        }
+        return (
+          r.summary.toLowerCase().includes(q) || r.competition.toLowerCase().includes(q)
+        )
+      })
       .sort(cmp)
     const pages = perPage === 0 ? 1 : Math.max(1, Math.ceil(shown.length / perPage))
     if (page > pages) page = pages
@@ -211,10 +265,14 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
     render()
   })
 
+  const searchRow = document.createElement("div")
+  searchRow.className = "qtable-searchrow"
+  searchRow.append(search, modeBtn)
+
   const controls = document.createElement("div")
   controls.className = "qtable-controls"
   controls.append(count, perPageLbl)
-  el.replaceChildren(search, controls, table, pager)
+  el.replaceChildren(searchRow, controls, table, pager)
   render()
 }
 

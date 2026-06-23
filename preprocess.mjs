@@ -77,6 +77,40 @@ const VAULT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiMatematica/ra
 const ROOT = path.resolve(".")
 const CONTENT = path.join(ROOT, "content")
 const STATIC_JSON = path.join(ROOT, "quartz", "static", "quesiti.json")
+const KW_JSON = path.join(ROOT, "quartz", "static", "quesiti_kw.json")
+
+// --- Hidden full-text keyword index --------------------------------------------
+// For each quesito we extract the meaningful words of its statement (and any
+// solution) so the table search can offer a "search full content" mode without
+// shipping whole notes. Stopwords (it/en/pt/fr) + domain boilerplate are removed;
+// the result is a deduped, space-joined keyword string per note href. Never shown.
+const STOPWORDS = new Set((
+  // Italian
+  "ad ai al alla alle allo agli anche ancora avere aveva avevano che chi ci coi col come con cosa cui da dai dal dalla dalle dallo degli dei del della delle dello di dove due ecco ed era erano essere fa fare fino fra gli ha hai hanno ho il in io la le lei li lo loro ma me mentre mi mia mie miei mio ne negli nei nel nella nelle nello no noi non nostra nostre nostri nostro o od ogni ognuno oppure per perche perché piu più po poi puo può qual quale quali quando quanta quante quanti quanto quasi quel quella quelle quelli quello questa queste questi questo qui se sei senza si sia siamo siete solo sono sopra sotto sta stata state stati stato su sua sue sui sul sulla sulle sullo suo suoi tra tre tu tua tue tuo tuoi tutta tutte tutti tutto un una uno vi voi " +
+  // English
+  "a об an and are as at be been but by can did do does each for from had has have he her here him his how i if in into is it its no not of on one or our so that the their them then there these they this to too two up was we were what when where which who will with you your " +
+  // Portuguese / French common
+  "as os um uma para com que dos das nao não por mais como ou se da de do em no na os un une le la les des du dans et est il elle pour qui que pas sur au aux ce " +
+  // domain boilerplate that appears in every note
+  "apri pdf fonte sorgente risposta topic area abilita abilità metodo metodi skill quesito problema gara testo soluzione soluzioni pag pagina prove prova"
+).split(/\s+/).filter(Boolean))
+
+function keywords(content) {
+  // keep only the statement: drop the metadata footer (Topic/Area/Risposta/Fonte…)
+  const body = content.split(/\n\*\*(?:Topic|Area|Abilit|Risposta|Fonte|Metod|Skill)/)[0]
+  const cleaned = body
+    .replace(/\[\[[^\]]*\]\]/g, " ")          // wikilinks
+    .replace(/\[[^\]]*\]\([^)]*\)/g, " ")      // md links
+    .replace(/[`*_>#|]/g, " ")                  // md syntax
+    .toLowerCase()
+    .replace(/[^a-zà-ÿ\s]/g, " ")               // letters only (drop digits/punct/symbols)
+  const seen = new Set()
+  for (const w of cleaned.split(/\s+/)) {
+    if (w.length < 3 || STOPWORDS.has(w)) continue
+    seen.add(w)
+  }
+  return [...seen].join(" ")
+}
 
 // Replicate Quartz's slugifyFilePath (quartz/util/path.ts: sluggify)
 function sluggify(s) {
@@ -137,6 +171,7 @@ async function main() {
   await fs.mkdir(CONTENT, { recursive: true })
   const files = await walk(VAULT)
   const quesiti = []
+  const kwIndex = {}
   let written = 0
   for (const rel of files) {
     const raw = await fs.readFile(path.join(VAULT, rel), "utf8")
@@ -147,8 +182,11 @@ async function main() {
     await fs.writeFile(dest, matter.stringify(newContent, data))
     written++
     if (data.tipo === "quesito") {
+      const href = slugFromRel(rel)
+      const kw = keywords(content)
+      if (kw) kwIndex[href] = kw
       quesiti.push({
-        href: slugFromRel(rel),
+        href,
         competition: data.competition ?? "",
         quesito: data.quesito ?? "",
         summary: data.summary ?? "",
@@ -166,6 +204,8 @@ async function main() {
   }
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(quesiti))
+  await fs.writeFile(KW_JSON, JSON.stringify(kwIndex))
+  console.log(`keyword index: ${Object.keys(kwIndex).length} notes, ${(JSON.stringify(kwIndex).length / 1e6).toFixed(1)}MB`)
 
   // copy attachments so ![[img]] embeds render on the published site too
   try {

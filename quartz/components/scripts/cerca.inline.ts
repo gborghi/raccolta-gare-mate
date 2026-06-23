@@ -67,6 +67,20 @@ function esc(s: unknown): string {
     c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : "&quot;",
   )
 }
+// Hidden full-text keyword index (href -> deduped keywords), lazy-loaded only when
+// the user switches the text box into "full content" mode. Never rendered.
+let kwCache: Record<string, string> | null = null
+let kwPromise: Promise<Record<string, string>> | null = null
+function loadKw(prefix: string): Promise<Record<string, string>> {
+  if (kwCache) return Promise.resolve(kwCache)
+  if (!kwPromise) {
+    kwPromise = fetch(prefix + "static/quesiti_kw.json")
+      .then((r) => r.json())
+      .then((j) => (kwCache = j as Record<string, string>))
+  }
+  return kwPromise
+}
+
 function pretty(strip: string | undefined, v: string): string {
   let s = strip ? v.replace(strip, "") : v
   s = s.replace(/_/g, " ")
@@ -135,6 +149,7 @@ async function init() {
   let filter = ""
   let page = 1
   let perPage = getPerPage()
+  let searchMode: "table" | "content" = "table"
 
   const hint = document.createElement("p")
   hint.className = "cerca-hint"
@@ -143,10 +158,37 @@ async function init() {
   const search = document.createElement("input")
   search.type = "search"
   search.className = "qtable-search"
-  search.placeholder = "Filtra i risultati per testo…"
+  const setPlaceholder = () => {
+    search.placeholder =
+      searchMode === "content" ? "Filtra nel testo completo dei quesiti…" : "Filtra i risultati (titolo/gara)…"
+  }
+  setPlaceholder()
   search.addEventListener("input", () => {
     filter = search.value
     page = 1
+    renderResults()
+  })
+
+  const modeBtn = document.createElement("button")
+  modeBtn.type = "button"
+  modeBtn.className = "qtable-modebtn"
+  const syncModeBtn = () => {
+    modeBtn.textContent = searchMode === "content" ? "Ricerca: contenuto completo" : "Ricerca: titolo/gara"
+    modeBtn.setAttribute("aria-pressed", String(searchMode === "content"))
+  }
+  syncModeBtn()
+  modeBtn.addEventListener("click", async () => {
+    searchMode = searchMode === "table" ? "content" : "table"
+    syncModeBtn()
+    setPlaceholder()
+    page = 1
+    if (searchMode === "content" && !kwCache) {
+      modeBtn.textContent = "Caricamento indice…"
+      modeBtn.disabled = true
+      try { await loadKw(prefix) } catch {}
+      modeBtn.disabled = false
+      syncModeBtn()
+    }
     renderResults()
   })
 
@@ -172,6 +214,10 @@ async function init() {
   perPageLbl.className = "paged-perpage-label"
   perPageLbl.append("mostra ", perPageSel, " per pagina")
 
+  const searchRow = document.createElement("div")
+  searchRow.className = "qtable-searchrow"
+  searchRow.append(search, modeBtn)
+
   const resControls = document.createElement("div")
   resControls.className = "qtable-controls"
   resControls.append(count, perPageLbl)
@@ -189,7 +235,7 @@ async function init() {
     resultsBox.scrollIntoView({ block: "start", behavior: "smooth" })
   })
 
-  resultsBox.replaceChildren(hint, search, resControls, table, pager)
+  resultsBox.replaceChildren(hint, searchRow, resControls, table, pager)
 
   // AND/OR toggle
   const toggle = document.createElement("button")
@@ -247,13 +293,18 @@ async function init() {
     const q = filter.trim().toLowerCase()
     let rows = data.filter(matches)
     if (q) {
-      rows = rows.filter(
-        (r) =>
+      rows = rows.filter((r) => {
+        if (searchMode === "content") {
+          const kw = kwCache?.[r.href]
+          return kw ? kw.includes(q) : false
+        }
+        return (
           String(r.summary).toLowerCase().includes(q) ||
           String(r.competition).toLowerCase().includes(q) ||
           String(r.level).toLowerCase().includes(q) ||
-          String(r.country).toLowerCase().includes(q),
-      )
+          String(r.country).toLowerCase().includes(q)
+        )
+      })
     }
     rows.sort((a, b) => {
       let av: any = a[sortKey],
