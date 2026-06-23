@@ -12,6 +12,22 @@ interface Quesito {
   methods: string[]
   skills: string[]
   level: string
+  country: string
+}
+
+// Country (Italian name) -> flag emoji. Unknown/empty -> globe.
+const FLAGS: Record<string, string> = {
+  Italia: "🇮🇹",
+  Brasile: "🇧🇷",
+  "Regno Unito": "🇬🇧",
+  Giappone: "🇯🇵",
+  India: "🇮🇳",
+  Cina: "🇨🇳",
+  Francia: "🇫🇷",
+  Polonia: "🇵🇱",
+}
+function flag(country: string): string {
+  return FLAGS[country] || "🌐"
 }
 
 let cache: Quesito[] | null = null
@@ -83,7 +99,8 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
     ["summary", "Quesito"],
     ["competition", "Gara"],
     ["quesito", "N."],
-    ["answer", "Risp."],
+    ["country", "Nazione"],
+    ["level", "Livello"],
   ]
 
   function cmp(a: Quesito, b: Quesito): number {
@@ -138,7 +155,8 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
             `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
             `<td>${esc(r.competition)}</td>` +
             `<td>${esc(String(r.quesito))}</td>` +
-            `<td>${esc(r.answer)}</td></tr>`,
+            `<td class="qt-flag" title="${esc(r.country)}">${flag(r.country)} ${esc(r.country)}</td>` +
+            `<td>${esc(r.level)}</td></tr>`,
         )
         .join("") +
       "</tbody>"

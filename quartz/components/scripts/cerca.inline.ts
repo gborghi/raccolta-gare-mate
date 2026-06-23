@@ -39,6 +39,21 @@ const FACETS: Facet[] = [
 
 const MAX_ROWS = 1000
 
+// Country (Italian name) -> flag emoji. Unknown/empty -> globe.
+const FLAGS: Record<string, string> = {
+  Italia: "🇮🇹",
+  Brasile: "🇧🇷",
+  "Regno Unito": "🇬🇧",
+  Giappone: "🇯🇵",
+  India: "🇮🇳",
+  Cina: "🇨🇳",
+  Francia: "🇫🇷",
+  Polonia: "🇵🇱",
+}
+function flag(country: string): string {
+  return FLAGS[country] || "🌐"
+}
+
 function esc(s: unknown): string {
   return String(s).replace(/[&<>"]/g, (c) =>
     c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : "&quot;",
@@ -174,7 +189,8 @@ async function init() {
       ["summary", "Quesito"],
       ["competition", "Gara"],
       ["quesito", "N."],
-      ["answer", "Risp."],
+      ["country", "Nazione"],
+      ["level", "Livello"],
     ]
     const head = cols
       .map(
@@ -186,7 +202,9 @@ async function init() {
       .map(
         (r) =>
           `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
-          `<td>${esc(r.competition)}</td><td>${esc(r.quesito)}</td><td>${esc(r.answer)}</td></tr>`,
+          `<td>${esc(r.competition)}</td><td>${esc(r.quesito)}</td>` +
+          `<td class="qt-flag" title="${esc(r.country)}">${flag(r.country)} ${esc(r.country)}</td>` +
+          `<td>${esc(r.level)}</td></tr>`,
       )
       .join("")
     const note = total > MAX_ROWS ? ` (mostrati i primi ${MAX_ROWS})` : ""
