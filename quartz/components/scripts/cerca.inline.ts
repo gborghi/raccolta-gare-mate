@@ -37,7 +37,15 @@ const FACETS: Facet[] = [
   { key: "country", label: "Paese" },
 ]
 
-const MAX_ROWS = 1000
+// pagination (same model + storage key as the in-body quesiti tables)
+const PER_PAGE_OPTS = [25, 50, 100, 250, 0] // 0 = Tutti
+const LS_KEY = "rgm-qtable-perpage"
+function getPerPage(): number {
+  const raw = localStorage.getItem(LS_KEY)
+  if (raw == null) return 50
+  const v = Number(raw)
+  return PER_PAGE_OPTS.includes(v) ? v : 50
+}
 
 // Country (Italian name) -> flag emoji. Unknown/empty -> globe.
 const FLAGS: Record<string, string> = {
@@ -122,6 +130,67 @@ async function init() {
   resultsBox.className = "cerca-results"
   root.replaceChildren(controls, facetsBox, selectedBar, resultsBox)
 
+  // ---- results scaffold: free-text search + pagination (mirrors the in-body
+  // quesiti tables). Built once so the search box keeps focus across renders. ----
+  let filter = ""
+  let page = 1
+  let perPage = getPerPage()
+
+  const hint = document.createElement("p")
+  hint.className = "cerca-hint"
+  hint.textContent = "Seleziona dei tag qui sopra per vedere i quesiti."
+
+  const search = document.createElement("input")
+  search.type = "search"
+  search.className = "qtable-search"
+  search.placeholder = "Filtra i risultati per testo…"
+  search.addEventListener("input", () => {
+    filter = search.value
+    page = 1
+    renderResults()
+  })
+
+  const count = document.createElement("div")
+  count.className = "qtable-count"
+
+  const perPageSel = document.createElement("select")
+  perPageSel.className = "paged-perpage"
+  for (const n of PER_PAGE_OPTS) {
+    const o = document.createElement("option")
+    o.value = String(n)
+    o.textContent = n === 0 ? "Tutti" : String(n)
+    if (n === perPage) o.selected = true
+    perPageSel.appendChild(o)
+  }
+  perPageSel.addEventListener("change", () => {
+    perPage = Number(perPageSel.value)
+    localStorage.setItem(LS_KEY, String(perPage))
+    page = 1
+    renderResults()
+  })
+  const perPageLbl = document.createElement("label")
+  perPageLbl.className = "paged-perpage-label"
+  perPageLbl.append("mostra ", perPageSel, " per pagina")
+
+  const resControls = document.createElement("div")
+  resControls.className = "qtable-controls"
+  resControls.append(count, perPageLbl)
+
+  const table = document.createElement("table")
+  table.className = "qtable-table"
+
+  const pager = document.createElement("div")
+  pager.className = "qtable-pager"
+  pager.addEventListener("click", (e) => {
+    const t = (e.target as HTMLElement).closest("button[data-p]") as HTMLElement | null
+    if (!t) return
+    page = Number(t.dataset.p)
+    renderResults()
+    resultsBox.scrollIntoView({ block: "start", behavior: "smooth" })
+  })
+
+  resultsBox.replaceChildren(hint, search, resControls, table, pager)
+
   // AND/OR toggle
   const toggle = document.createElement("button")
   toggle.className = "cerca-toggle"
@@ -166,11 +235,26 @@ async function init() {
   let sortKey: keyof Q = "competition"
   let sortDir = 1
   function renderResults() {
-    if (selected.size === 0) {
-      resultsBox.innerHTML = `<p class="cerca-hint">Seleziona dei tag qui sopra per vedere i quesiti.</p>`
+    const active = selected.size > 0
+    hint.style.display = active ? "none" : ""
+    search.style.display = active ? "" : "none"
+    resControls.style.display = active ? "" : "none"
+    table.style.display = active ? "" : "none"
+    if (!active) {
+      pager.innerHTML = ""
       return
     }
+    const q = filter.trim().toLowerCase()
     let rows = data.filter(matches)
+    if (q) {
+      rows = rows.filter(
+        (r) =>
+          String(r.summary).toLowerCase().includes(q) ||
+          String(r.competition).toLowerCase().includes(q) ||
+          String(r.level).toLowerCase().includes(q) ||
+          String(r.country).toLowerCase().includes(q),
+      )
+    }
     rows.sort((a, b) => {
       let av: any = a[sortKey],
         bv: any = b[sortKey]
@@ -184,7 +268,15 @@ async function init() {
       return Number(a.quesito) - Number(b.quesito)
     })
     const total = rows.length
-    const shown = rows.slice(0, MAX_ROWS)
+    const pages = perPage === 0 ? 1 : Math.max(1, Math.ceil(total / perPage))
+    if (page > pages) page = pages
+    if (page < 1) page = 1
+    const start = perPage === 0 ? 0 : (page - 1) * perPage
+    const pageRows = perPage === 0 ? rows : rows.slice(start, start + perPage)
+    count.innerHTML =
+      pages > 1
+        ? `<strong>${total}</strong> quesiti — ${start + 1}–${start + pageRows.length} (pag. ${page}/${pages})`
+        : `<strong>${total}</strong> quesiti`
     const cols: [keyof Q, string][] = [
       ["summary", "Quesito"],
       ["competition", "Gara"],
@@ -192,26 +284,29 @@ async function init() {
       ["country", "Nazione"],
       ["level", "Livello"],
     ]
-    const head = cols
-      .map(
-        ([k, l]) =>
-          `<th data-k="${k}" class="qtable-th${sortKey === k ? " sorted-" + (sortDir > 0 ? "asc" : "desc") : ""}">${l}</th>`,
-      )
-      .join("")
-    const body = shown
-      .map(
-        (r) =>
-          `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
-          `<td>${esc(r.competition)}</td><td>${esc(r.quesito)}</td>` +
-          `<td class="qt-flag" title="${esc(r.country)}">${flag(r.country)} ${esc(r.country)}</td>` +
-          `<td>${esc(r.level)}</td></tr>`,
-      )
-      .join("")
-    const note = total > MAX_ROWS ? ` (mostrati i primi ${MAX_ROWS})` : ""
-    resultsBox.innerHTML =
-      `<div class="cerca-count"><strong>${total}</strong> quesiti${note}</div>` +
-      `<table class="qtable-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`
-    resultsBox.querySelectorAll<HTMLElement>("th.qtable-th").forEach((th) =>
+    const head =
+      "<thead><tr>" +
+      cols
+        .map(
+          ([k, l]) =>
+            `<th data-k="${k}" class="qtable-th${sortKey === k ? " sorted-" + (sortDir > 0 ? "asc" : "desc") : ""}">${l}</th>`,
+        )
+        .join("") +
+      "</tr></thead>"
+    const body =
+      "<tbody>" +
+      pageRows
+        .map(
+          (r) =>
+            `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
+            `<td>${esc(r.competition)}</td><td>${esc(r.quesito)}</td>` +
+            `<td class="qt-flag" title="${esc(r.country)}">${flag(r.country)} ${esc(r.country)}</td>` +
+            `<td>${esc(r.level)}</td></tr>`,
+        )
+        .join("") +
+      "</tbody>"
+    table.innerHTML = head + body
+    table.querySelectorAll<HTMLElement>("th.qtable-th").forEach((th) =>
       th.addEventListener("click", () => {
         const k = th.dataset.k as keyof Q
         if (sortKey === k) sortDir *= -1
@@ -219,9 +314,32 @@ async function init() {
           sortKey = k
           sortDir = 1
         }
+        page = 1
         renderResults()
       }),
     )
+    // windowed numbered pager (same style as the in-body tables)
+    if (pages <= 1) {
+      pager.innerHTML = ""
+    } else {
+      const btn = (label: string, target: number, disabled: boolean, cur = false) =>
+        `<button class="paged-btn${cur ? " current" : ""}" data-p="${target}" ${disabled ? "disabled" : ""}>${label}</button>`
+      const nums: string[] = []
+      const win = 2
+      const lo = Math.max(1, page - win)
+      const hi = Math.min(pages, page + win)
+      if (lo > 1) {
+        nums.push(btn("1", 1, false))
+        if (lo > 2) nums.push(`<span class="paged-ellip">…</span>`)
+      }
+      for (let i = lo; i <= hi; i++) nums.push(btn(String(i), i, false, i === page))
+      if (hi < pages) {
+        if (hi < pages - 1) nums.push(`<span class="paged-ellip">…</span>`)
+        nums.push(btn(String(pages), pages, false))
+      }
+      pager.innerHTML =
+        btn("‹ Prec", page - 1, page === 1) + nums.join("") + btn("Succ ›", page + 1, page >= pages)
+    }
   }
 
   function renderSelected() {
@@ -258,6 +376,7 @@ async function init() {
   }
 
   function render() {
+    page = 1
     syncChipStates()
     renderSelected()
     renderResults()

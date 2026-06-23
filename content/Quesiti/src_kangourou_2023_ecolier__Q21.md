@@ -11,7 +11,7 @@ country: Italia
 modalita: individuale
 quesito: '21'
 summary: biglie blu di Adamo
-answer: D
+answer: B
 topics:
   - topic_aritmetica
 skills:
@@ -28,36 +28,16 @@ tags:
 
 *biglie blu di Adamo*
 
-> Adamo ed Eva hanno 9 biglie a testa: alcune sono rosse, le altre sono blu e, com­
-> plessivamente, le biglie rosse sono 8. Eva ha un numero di biglie blu che è doppio del 
-> numero delle sue biglie rosse. Quante biglie blu ha Adamo?
-> A) 3	
-> 	
-> B) 4	
-> 	
-> C) 5	
-> 	
-> D) 6	
-> 	
-> E) 0
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 3
-> 6
-> ✂
-> 
-> Kangourou 2023
-> pagina 9
-> ECOLIER
+> Adamo ed Eva hanno 9 biglie a testa: alcune sono rosse, le altre sono blu e, complessivamente, le biglie rosse sono 8. Eva ha un numero di biglie blu che è doppio del numero delle sue biglie rosse. Quante biglie blu ha Adamo?
+
+- A) 3
+- B) 4
+- C) 5
+- D) 6
+- E) 0
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** D
+**Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
