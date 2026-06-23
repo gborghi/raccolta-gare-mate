@@ -65,9 +65,6 @@ tags:
 > B
 > ?
 > 
-> Kangourou 2023
-> pagina 25
-> JUNIOR
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]

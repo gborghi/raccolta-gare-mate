@@ -47,13 +47,11 @@ tags:
 > C) 120
 > D) 35
 > E) 18 
-> Gara_20Marzo_ec.qxd  29/03/2003  8.20  Pagina  7
 > 
 > Pag. 
 > Pag. 8
 > Kang 2003
 > Kang 2003
-> Ecolier
 > I quesiti dal N. 17 al N. 24 valgono 5 punti ciascuno
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

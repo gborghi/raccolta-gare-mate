@@ -47,8 +47,6 @@ tags:
 > 4 
 > 5 
 > 
->  
-> Kangourou 2022
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

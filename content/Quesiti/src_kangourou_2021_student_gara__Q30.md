@@ -56,27 +56,6 @@ tags:
 > 
 > Risposte STUDENT 
 >  
-> E A D E A B E C C D 
-> D 
-> D 
-> D 
-> A 
-> B 
-> A 
-> B 
-> B 
-> C 
-> E 
-> E 
-> B 
-> E 
-> D 
-> B 
-> A 
-> A 
-> C 
-> B 
-> B
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

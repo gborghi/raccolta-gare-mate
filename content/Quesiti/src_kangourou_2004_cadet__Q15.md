@@ -42,14 +42,12 @@ tags:
 > B
 > C
 > D
-> 15-20-Cadet.qxd  22/02/2004  22.51  Pagina  18
 > 
 > Pag. 
 > Pag. 19
 > 19
 > Kang 2004
 > Kang 2004
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

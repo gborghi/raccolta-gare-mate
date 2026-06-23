@@ -57,14 +57,12 @@ tags:
 > C
 > D
 > C
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:29  Pagina 29
 > 
 > Pag. 
 > Pag. 30
 > 30
 > Kang 2012
 > Kang 2012
-> Student
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

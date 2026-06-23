@@ -35,16 +35,11 @@ tags:
 > 	
 > A) Per ogni x pari, f (x) è dispari.	
 > 	
-> 	
 > B) Per ogni x dispari, f (x) è pari.	
 >  n 
 > {{{ 	
 >  3
 > 
-> Kangourou 2013
-> pagina 29
-> STUDENT
-> 	
 > C) Per ogni x dispari, f (x) è dispari.	  
 > 	
 > D) Esiste un numero x pari tale che f (x) è dispari     

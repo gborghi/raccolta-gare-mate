@@ -58,14 +58,12 @@ tags:
 > P
 > Q
 > C
-> 15-20-Cadet.qxd  22/02/2004  22.51  Pagina  16
 > 
 > Pag. 
 > Pag. 17
 > 17
 > Kang 2004
 > Kang 2004
-> Cadet
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

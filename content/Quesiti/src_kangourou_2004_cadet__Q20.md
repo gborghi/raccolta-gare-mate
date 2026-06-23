@@ -48,14 +48,12 @@ tags:
 > A
 > ?
 > 6 cm
-> 15-20-Cadet.qxd  22/02/2004  22.51  Pagina  19
 > 
 > Pag. 
 > Pag. 20
 > 20
 > Kang 2004
 > Kang 2004
-> Cadet
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

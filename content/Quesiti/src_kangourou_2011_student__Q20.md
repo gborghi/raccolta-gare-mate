@@ -75,7 +75,6 @@ tags:
 > 31
 > Kang 201
 > Kang 2011
-> Student
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

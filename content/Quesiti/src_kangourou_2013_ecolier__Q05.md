@@ -42,11 +42,7 @@ tags:
 > D) 24	
 >  	
 > E) 26
-> ECOLIER
 > 
-> Kangourou 2013
-> pagina 6
-> ECOLIER
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

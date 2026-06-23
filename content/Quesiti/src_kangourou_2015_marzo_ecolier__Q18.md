@@ -45,9 +45,6 @@ tags:
 > 6
 > 7
 > 
-> Kangourou 2015
-> pagina 9
-> ECOLIER
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

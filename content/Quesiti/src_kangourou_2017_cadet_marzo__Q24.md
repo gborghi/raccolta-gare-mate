@@ -45,9 +45,6 @@ tags:
 > 	
 > E) 9
 > 
-> Kangourou 2017
-> pagina 20
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

@@ -38,15 +38,6 @@ tags:
 > Basandosi solo sui rintocchi, quanti minuti occorre aspettare al massimo per sapere con certezza che 
 > ore sono?
 > 
-> C
-> A
-> E
-> E
-> B
-> D
-> B
-> C
-> B
 > 0012
 > 1293
 > 0003

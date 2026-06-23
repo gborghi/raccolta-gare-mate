@@ -75,7 +75,6 @@ tags:
 > 19
 > Kang 2009
 > Kang 2009
-> Cadet
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

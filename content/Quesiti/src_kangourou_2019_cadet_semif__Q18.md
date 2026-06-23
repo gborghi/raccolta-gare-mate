@@ -31,23 +31,6 @@ tags:
 > (Punti 8) In un poligono convesso gli angoli misurano, alternatamente, 120 gradi e 150 gradi. Quanti ver­
 > tici ha il poligono?	
 > 	
-> 	
-> 	
-> 	
-> 	
-> 	
-> 	
-> 	
-> 
-> D
-> E
-> A
-> D
-> B
-> E
-> B
-> A
-> A
 > 0063
 > 0048
 > 0004

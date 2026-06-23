@@ -56,7 +56,6 @@ tags:
 > 	
 > E) E
 >       
->                    
 >                     10 
 >  11 
 >       12 
@@ -102,8 +101,6 @@ tags:
 > E
 > START
 > 
-> Kangourou 2023
-> pagina 30
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

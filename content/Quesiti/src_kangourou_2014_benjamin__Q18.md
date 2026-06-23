@@ -48,9 +48,6 @@ tags:
 > B
 > A
 > 
-> Kangourou 2014
-> pagina 13
-> BENJAMIN
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

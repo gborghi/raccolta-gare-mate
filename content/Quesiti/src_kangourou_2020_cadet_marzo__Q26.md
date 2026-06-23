@@ -58,9 +58,6 @@ tags:
 > Somma
 > Clara
 > 
-> Kangourou 2020
-> pagina 20
-> CADET
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

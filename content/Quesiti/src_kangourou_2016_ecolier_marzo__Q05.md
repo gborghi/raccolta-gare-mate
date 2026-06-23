@@ -39,14 +39,11 @@ tags:
 > D) Un cerchio	
 > 	
 > E) Un pentagono
-> ECOLIER
 > 17 + 3
 > 20 - 16
 > ?
 > +
 > 
-> Kangourou 2016
-> pagina 6
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -58,7 +58,6 @@ tags:
 > Pag. 7
 > Kang 201
 > Kang 2011
-> Ecolier
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

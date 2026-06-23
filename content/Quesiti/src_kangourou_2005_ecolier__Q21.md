@@ -36,7 +36,6 @@ tags:
 > Pag. 8
 > Kang 2005
 > Kang 2005
-> Ecolier
 > 28 m
 > 24 m
 > Ecolier_05_D.qxp  21/02/2005  15.54  Pagina 8
@@ -45,7 +44,6 @@ tags:
 > Pag. 9
 > Kang 2005
 > Kang 2005
-> Ecolier
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

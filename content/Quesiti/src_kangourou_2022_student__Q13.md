@@ -43,9 +43,6 @@ tags:
 > m
 > 3
 > 
->  
-> Kangourou 2022 
-> pagina  29
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

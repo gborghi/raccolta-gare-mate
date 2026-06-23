@@ -42,9 +42,6 @@ tags:
 > D
 > 1 cm
 > 
-> Kangourou 2015
-> pagina 13
-> BENJAMIN
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

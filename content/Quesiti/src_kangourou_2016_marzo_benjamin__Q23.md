@@ -59,9 +59,6 @@ tags:
 > 	
 > E) 7
 > 
-> Kangourou 2016
-> pagina 14
-> BENJAMIN
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

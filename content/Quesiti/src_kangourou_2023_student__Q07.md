@@ -45,9 +45,6 @@ tags:
 > D)  70	     	
 > E) 72
 > 
-> Kangourou 2023
-> pagina 27
-> STUDENT
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

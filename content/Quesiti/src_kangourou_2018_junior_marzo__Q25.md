@@ -56,9 +56,6 @@ tags:
 > 	
 > E) 5
 > 
-> Kangourou 2018
-> pagina 25
-> JUNIOR
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

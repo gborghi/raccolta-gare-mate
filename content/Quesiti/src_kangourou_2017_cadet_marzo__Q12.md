@@ -37,9 +37,6 @@ tags:
 > D) 1/5	 	
 > E) 2/5
 > 
-> Kangourou 2017
-> pagina 18
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

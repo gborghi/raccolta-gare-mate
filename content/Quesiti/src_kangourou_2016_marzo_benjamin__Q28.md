@@ -42,9 +42,6 @@ tags:
 > 	
 > E) 9
 > 
-> Kangourou 2016
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

@@ -36,24 +36,16 @@ tags:
 > 	
 >   B) 	
 > 	
-> 	
-> 	
 > C)	
 > D)	
 > 	
-> 	
-> 	
 > E) 
-> ECOLIER
 > 17 13
 > 8
 > 11
 >   +   11    7    2
 >   6
 > 
-> Kangourou 2017
-> pagina 7
-> ECOLIER
 > I quesiti dal N. 9 al N. 16 valgono 4 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

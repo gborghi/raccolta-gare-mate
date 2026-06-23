@@ -34,29 +34,20 @@ tags:
 >  
 > Quale dei seguenti sviluppi piani, se riavvolto, non produce un solido che, da un opA)   
 >   
->   
->   
 > D) 4  
 >   
 > E) 5 
 >   
 > portuno punto di vista, abbia tale aspetto? 
 >   
->   
 > B)   
->   
 >   
 > C)  
 >   
 > D)   
 >   
->   
->   
 >       E)  
 > 
->  
-> pagina 16 
-> Kangourou 2022
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

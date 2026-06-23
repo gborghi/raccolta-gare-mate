@@ -47,9 +47,6 @@ tags:
 > 03 HNH 30
 > 08 XBX 80
 > 
-> Kangourou 2022
-> pagina 17
-> CADET
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

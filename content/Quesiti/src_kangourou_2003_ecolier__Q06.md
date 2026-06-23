@@ -54,13 +54,11 @@ tags:
 > 13
 > 11
 > ?
-> Gara_20Marzo_ec.qxd  29/03/2003  8.20  Pagina  5
 > 
 > Pag. 
 > Pag. 6
 > Kang 2003
 > Kang 2003
-> Ecolier
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

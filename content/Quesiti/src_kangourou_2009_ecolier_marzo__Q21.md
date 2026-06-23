@@ -46,7 +46,6 @@ tags:
 > Pag. 8
 > Kang 2009
 > Kang 2009
-> Ecolier
 > Gino
 > 27
 > 13
@@ -56,7 +55,6 @@ tags:
 > Pag. 9
 > Kang 2009
 > Kang 2009
-> Ecolier
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_ricorsione|Ricorsione]]

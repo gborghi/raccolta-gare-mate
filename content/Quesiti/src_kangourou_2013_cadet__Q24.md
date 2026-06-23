@@ -42,9 +42,6 @@ tags:
 > 	
 > E) 81
 > 
-> Kangourou 2013
-> pagina 20
-> CADET
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

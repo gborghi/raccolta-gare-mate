@@ -33,38 +33,7 @@ tags:
 > (8 punti) Se moltiplichi tra loro tutti i numeri interi positivi di 5 cifre non divisibili per 5 e dividi 
 > per 5 il risultato, che resto ottieni? 
 >  
->  
->  
->  
->  
 > Risposte 
-> 1 
-> 2 
-> 3 
-> 4 
-> 5 
-> 6 
-> 7 
-> 8 
-> 9 
-> 10 
-> 11 
-> 12 
-> 13 
-> 14 
-> 15 
-> 16 
-> 17 
-> 18 
-> B 
-> B 
-> D 
-> C 
-> D 
-> A 
-> B 
-> B 
-> E 
 > 0013 0101 4578 0356 0033 0040 0038 9901 0001
 >  
 > P 

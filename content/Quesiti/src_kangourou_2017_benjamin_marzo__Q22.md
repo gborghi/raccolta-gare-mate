@@ -63,9 +63,6 @@ tags:
 > 	
 > E) 8
 > 
-> Kangourou 2017
-> pagina 14
-> BENJAMIN
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -56,8 +56,6 @@ tags:
 > 14
 > Kang 2006
 > Kang 2006
-> Benjamin
-> Benjamin
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]

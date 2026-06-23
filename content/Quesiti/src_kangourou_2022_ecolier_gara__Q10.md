@@ -37,7 +37,6 @@ tags:
 > regola: se due celle hanno un lato in comune non contengono lo 
 > stesso numero. Quale dei seguenti pezzi, inserito nella griglia, 
 > consente di continuare a rispettare la regola? A)   
-> pagina 6
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

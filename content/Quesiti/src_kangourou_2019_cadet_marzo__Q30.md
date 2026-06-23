@@ -41,14 +41,6 @@ tags:
 > C) 5/12	 	
 > D) 2/3	     	
 > E) Non è possibile stabilirlo
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
 > A
 > P
 > D
@@ -57,36 +49,6 @@ tags:
 > C
 > R
 > 
-> A
-> C
-> D
-> D
-> D
-> B
-> D
-> B
-> E
-> E
-> D
-> B
-> D
-> B
-> B
-> C
-> C
-> B
-> E
-> B
-> C
-> C
-> C
-> A
-> E
-> D
-> A
-> E
-> E
-> E
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

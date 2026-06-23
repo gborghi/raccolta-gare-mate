@@ -38,7 +38,6 @@ tags:
 > 2
 > 3
 > 4
-> Gara_20Marzo_ec.qxd  29/03/2003  8.20  Pagina  9
 > 
 > Risposte commentate livello Ecolier 
 > IV e V elementare

@@ -66,7 +66,6 @@ tags:
 > Pag. 7
 > Kang 2007
 > Kang 2007
-> Ecolier
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

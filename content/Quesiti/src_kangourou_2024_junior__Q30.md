@@ -62,46 +62,11 @@ tags:
 > x
 > y
 > 
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
 > 9 10 11
 > 12
 > 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 > A
 > A D
-> D
-> B
-> B
-> C
-> A
-> E
-> A
-> B
-> B
-> D
-> C
-> C
-> B
-> C
-> D
-> E
-> B
-> C
-> C
-> B
-> D
-> A
-> A
-> B
-> C
-> B
-> B
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

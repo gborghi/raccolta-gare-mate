@@ -30,16 +30,12 @@ tags:
 
 > Anna ha scelto un numero A e gli ha sottratto 1/10, Beatrice ha scelto un numero B 
 > e lo ha moltiplicato per 1/10. Anna e Beatrice hanno ottenuto lo stesso risultato. Allora
-> JUNIOR
 > 9 cm2
 > A
 > B
 > C
 > D
 > 
-> Kangourou 2021
-> pagina 23
-> JUNIOR
 > A) certamente A < B.	
 > B) certamente A > B.	
 > C) certamente A × B > 0. 

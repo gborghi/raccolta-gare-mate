@@ -51,9 +51,6 @@ tags:
 > 2
 > 0
 > 
-> Kangourou 2021
-> pagina 11
-> BENJAMIN
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

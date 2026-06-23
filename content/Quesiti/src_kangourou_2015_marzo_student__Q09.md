@@ -47,9 +47,6 @@ tags:
 > Y
 > Z
 > 
-> Kangourou 2015
-> pagina 28
-> STUDENT
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

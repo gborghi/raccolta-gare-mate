@@ -46,7 +46,6 @@ tags:
 > 30
 > Kang 2007
 > Kang 2007
-> Student
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

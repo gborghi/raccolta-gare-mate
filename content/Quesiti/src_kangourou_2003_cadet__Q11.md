@@ -47,14 +47,12 @@ tags:
 > Y
 > y
 > Y
-> 15-20-Cadet.qxd  29/03/2003  8.22  Pagina  17
 > 
 > Pag. 
 > Pag. 18
 > 18
 > Kang 2003
 > Kang 2003
-> Cadet
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

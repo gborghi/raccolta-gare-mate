@@ -43,9 +43,6 @@ tags:
 > 11
 > 4 metri
 > 
-> Kangourou 2020
-> pagina 8
-> ECOLIER
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -61,8 +61,6 @@ tags:
 > 12
 > Kang 2006
 > Kang 2006
-> Benjamin
-> Benjamin
 > I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]

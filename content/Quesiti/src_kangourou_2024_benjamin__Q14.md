@@ -90,9 +90,6 @@ tags:
 > 2
 > 1
 > 
-> Kangourou 2024
-> pagina 13
-> BENJAMIN
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

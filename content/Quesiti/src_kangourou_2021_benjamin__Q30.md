@@ -51,27 +51,6 @@ tags:
 > 
 > Risposte BENJAMIN 
 >  
-> D A B E C D B E D D 
-> B 
-> B 
-> D 
-> B 
-> C 
-> A 
-> E 
-> C 
-> C 
-> B 
-> A 
-> B 
-> A 
-> C 
-> E 
-> C 
-> D 
-> B 
-> A 
-> B
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

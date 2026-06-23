@@ -51,9 +51,6 @@ tags:
 > Betown
 > Betown
 > 
-> Kangourou 2020
-> pagina 18
-> CADET
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

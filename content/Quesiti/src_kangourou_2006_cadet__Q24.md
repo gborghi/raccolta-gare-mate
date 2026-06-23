@@ -79,26 +79,6 @@ tags:
 > P 
 > I 
 >  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
 > A
 > B
 > Cadet_06bis.qxp  20/02/2006  23.52  Pagina 20
@@ -108,7 +88,6 @@ tags:
 > 21
 > Kang 2006
 > Kang 2006
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

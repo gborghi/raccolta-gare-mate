@@ -48,9 +48,6 @@ tags:
 > 1
 > 2
 > 
-> Kangourou 2019
-> pagina 31
-> STUDENT
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

@@ -47,13 +47,11 @@ tags:
 > B
 > C
 > D
-> 5-8-Ecolier.qxd  22/02/2004  14.55  Pagina  8
 > 
 > Pag. 
 > Pag. 9
 > Kang 2004
 > Kang 2004
-> Ecolier
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

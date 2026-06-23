@@ -51,9 +51,6 @@ tags:
 > 30°
 > 40°
 > 
-> Kangourou 2018
-> pagina 28
-> STUDENT
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

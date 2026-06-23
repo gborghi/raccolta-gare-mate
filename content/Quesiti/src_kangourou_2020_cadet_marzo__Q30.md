@@ -47,68 +47,7 @@ tags:
 > 	
 > E) 9
 > 
-> Quesito
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
 > Risposte
-> B
-> A
-> E
-> C
-> E
-> D
-> B
-> D
-> D
-> B
-> A
-> C
-> B
-> C
-> D
-> C
-> C
-> C
-> B
-> E
-> D
-> A
-> D
-> B
-> C
-> D
-> E
-> D
-> D
-> C
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

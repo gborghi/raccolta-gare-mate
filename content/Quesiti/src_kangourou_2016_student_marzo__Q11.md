@@ -47,9 +47,6 @@ tags:
 >  --- 
 > x
 > 
-> Kangourou 2016
-> pagina 28
-> STUDENT
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

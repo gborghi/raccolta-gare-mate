@@ -47,8 +47,6 @@ tags:
 >  1{{{ 
 >  3
 > 
-> Kangourou 2013
-> pagina 22
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

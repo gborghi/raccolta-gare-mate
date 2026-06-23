@@ -37,22 +37,11 @@ tags:
 > C) 441 	 	
 > D) 557 	 	
 > E) 606
-> STUDENT
 > a
 > b
 > c
-> A
-> B
-> C
-> A
-> B
-> C
-> D
 > X
 > 
-> Kangourou 2024
-> pagina 29
-> STUDENT
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

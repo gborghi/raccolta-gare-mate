@@ -53,7 +53,6 @@ tags:
 > 24
 > Kang 2007
 > Kang 2007
-> Junior
 > I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_combinatoria|Combinatoria]]

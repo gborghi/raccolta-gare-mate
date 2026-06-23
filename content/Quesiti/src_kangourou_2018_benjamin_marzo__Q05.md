@@ -40,7 +40,6 @@ tags:
 > C) Giovedì
 > D) Sabato	
 > E) Domenica
-> BENJAMIN
 > Veloce
 > Lento
 > L
@@ -51,9 +50,6 @@ tags:
 > V
 > D
 > 
-> Kangourou 2018
-> pagina 11
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

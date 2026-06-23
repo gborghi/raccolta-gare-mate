@@ -42,15 +42,12 @@ tags:
 > C)
 > D)
 > E)
-> 9-14-Benjamin.qxd  22/02/2004  16.53  Pagina  11
 > 
 > Pag. 
 > Pag. 12
 > 12
 > Kang 2004
 > Kang 2004
-> Benjamin
-> Benjamin
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

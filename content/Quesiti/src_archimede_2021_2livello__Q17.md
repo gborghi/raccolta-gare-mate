@@ -32,18 +32,6 @@ tags:
 ![[src_archimede_2021_2livello__prob17.png]]
 
 > ESERCIZIO DIMOSTRATIVO
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
 > . . .
 > Una mappa del tesoro è costituita dalla cartina di un’isola
 > (infinitamente estesa in tutte le direzioni) a cui è sovrapposta una griglia quadrata. Le caselle della griglia sono

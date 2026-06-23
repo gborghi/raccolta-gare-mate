@@ -43,14 +43,12 @@ tags:
 > D
 > M
 > N
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:27  Pagina 20
 > 
 > Pag. 
 > Pag. 21
 > 21
 > Kang 2012
 > Kang 2012
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

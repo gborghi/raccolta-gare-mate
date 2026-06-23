@@ -65,7 +65,6 @@ tags:
 > 32
 > Kang 2007
 > Kang 2007
-> Student
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

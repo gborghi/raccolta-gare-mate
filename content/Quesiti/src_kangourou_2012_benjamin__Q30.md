@@ -65,68 +65,8 @@ tags:
 > 3
 > 1
 > 0 3 1 3
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:27  Pagina 15
 > 
 > RISPOSTE BENJAMIN 2012
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
-> E
-> E
-> A
-> B,E
-> E
-> D
-> C
-> A
-> B
-> B
-> C
-> D
-> B
-> D
-> D
-> B
-> D
-> D
-> A
-> D
-> C
-> C
-> B
-> B
-> D
-> B
-> D
-> D
-> A
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

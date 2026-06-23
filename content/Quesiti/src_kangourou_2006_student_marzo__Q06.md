@@ -54,7 +54,6 @@ tags:
 > 29
 > Kang 2006
 > Kang 2006
-> Student
 > tudent
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]

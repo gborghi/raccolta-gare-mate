@@ -74,8 +74,6 @@ tags:
 > 27
 > Kang 2005
 > Kang 2005
-> Junior
-> Junior
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

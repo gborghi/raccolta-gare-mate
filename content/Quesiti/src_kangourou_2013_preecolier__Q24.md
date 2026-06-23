@@ -31,72 +31,15 @@ tags:
 > Una scatola quadrata è riempita da due strati di quadratini di cioccolato tutti uguali fra loro. Isabella ha mangiato tutti i 20 quadratini dello strato superiore che si trovavano lungo il bordo della scatola. Quanti quadratini di cioccolato sono rimasti nella scatola?
 > A) 16	
 > 	
-> 	
 > B) 30	
-> 	
 > 	
 > C) 50	
 > 	
-> 	
 > D) 52	
-> 	
 > 	
 > E) 70
 > 
 > STRINGA PRE-ECOLIER 2013
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
-> D
-> B
-> A
-> D
-> C
-> E
-> C
-> D
-> E
-> C
-> A
-> B
-> D
-> E
-> C
-> A
-> E
-> C
-> C
-> B
-> D
-> D
-> D
 > Il quesito 21 preécolier è stato annullato in quanto manca la risposta corretta, per un errore di stampa di cui chiediamo scusa.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]

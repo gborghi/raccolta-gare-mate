@@ -65,9 +65,6 @@ tags:
 > X
 > Y
 > 
-> Kangourou 2016
-> pagina 8
-> ECOLIER
 > I quesiti dal N. 17 al N. 24 valgono 5 punti ciascuno
 
 **Topic:** [[topic_combinatoria|Combinatoria]]

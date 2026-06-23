@@ -69,8 +69,6 @@ tags:
 > 12
 > Kang 2005
 > Kang 2005
-> Benjamin
-> Benjamin
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

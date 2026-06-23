@@ -41,7 +41,6 @@ tags:
 > D)	
 > 	
 > E)
-> BENJAMIN
 > Atown 2 km
 > Betown 9 km
 > 
@@ -54,9 +53,6 @@ tags:
 > Atown 9 km
 > Betown 4 km
 > 
-> Kangourou 2020
-> pagina 11
-> BENJAMIN
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -34,15 +34,6 @@ tags:
 > Mara e un certo numero di anni fa era addirittura sette volte l’età di Mara. Tra lo stesso numero di anni, divi­
 > dendo l’età della mamma per quella di Mara che numero si otterrà?
 > 
-> A
-> D
-> E
-> E
-> A
-> D
-> D
-> E
-> B
 > 0001
 > 0063
 > 0018

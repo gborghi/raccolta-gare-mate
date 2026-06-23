@@ -39,26 +39,12 @@ tags:
 > turno ognuno lancia la moneta del 
 > canguro: se la moneta mostra la fac­
 > cia “testa” chi l’ha lanciata avanza 
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
 > A
 > B
 > E
 > C
 > D
 > 
-> Kangourou 2024
-> pagina 7
-> ECOLIER
 > di 3 caselle; se la moneta mostra la faccia “coda” chi l’ha lanciata torna indietro di 
 > 1 casella oppure rimane fermo, se non ha caselle dietro di sé. Entrambi lanciano la 
 > moneta 4 volte: Antonia arriva sul numero 4, Lucio sul numero 8. Quante volte in tutto 

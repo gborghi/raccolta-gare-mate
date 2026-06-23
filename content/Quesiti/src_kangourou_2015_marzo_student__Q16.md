@@ -39,9 +39,6 @@ tags:
 > 	
 > E) “1 + 1 = 2”
 > 
-> Kangourou 2015
-> pagina 29
-> STUDENT
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -43,14 +43,6 @@ tags:
 > D) 9	
 > 	
 > E) 10
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
 > 9 10 11 12
 > 12
 > 22 23
@@ -68,9 +60,6 @@ tags:
 > 21 22
 > 31
 > 
-> Kangourou 2023
-> pagina 11
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

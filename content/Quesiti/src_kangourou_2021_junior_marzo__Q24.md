@@ -53,9 +53,6 @@ tags:
 > 60°
 > 75°
 > 
-> Kangourou 2021
-> pagina 25
-> JUNIOR
 > secutive ci sono esattamente una pallina rossa, una gialla e una blu. Dopo ogni pallina 
 > rossa, la successiva è gialla. Considera le seguenti ulteriori informazioni:
 

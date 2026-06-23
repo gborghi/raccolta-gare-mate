@@ -69,9 +69,6 @@ tags:
 > 4
 > 5
 > 
-> Kangourou 2021
-> pagina 8
-> ECOLIER
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

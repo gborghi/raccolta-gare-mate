@@ -71,9 +71,6 @@ tags:
 > E
 > Y
 > 
-> Kangourou 2021
-> pagina 14
-> BENJAMIN
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_algebra|Algebra]]

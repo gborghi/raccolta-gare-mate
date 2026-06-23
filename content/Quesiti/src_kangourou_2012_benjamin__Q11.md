@@ -35,14 +35,12 @@ tags:
 > Cecilia ha scritto tutti i numeri interi da 1 a 100 usando tre colori e
 > seguendo questa regola: 1 è rosso, 2 è blu, 3 è verde, 4 è di nuovo rosso, 5 è
 > di nuovo blu, 6 è di nuovo verde, 7 è di nuovo rosso, e così via fino a 100. Se
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:27  Pagina 11
 > 
 > Pag. 
 > Pag. 12
 > 12
 > Kang 2012
 > Kang 2012
-> Benjamin
 > si scelgono due numeri fra 1 e 50, uno rosso e uno blu, di che colore è il numero che è la loro somma?  
 > A) Può essere di uno qualunque dei tre colori     
 > B) Può essere sia rosso sia blu, ma non verde 

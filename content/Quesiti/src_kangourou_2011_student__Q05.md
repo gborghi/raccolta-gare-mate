@@ -51,7 +51,6 @@ tags:
 > 28
 > Kang 201
 > Kang 2011
-> Student
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

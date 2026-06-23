@@ -57,75 +57,8 @@ tags:
 >  pn-1
 >  pn
 > pn-1 pn
-> STUDENT
 >   
->   
->   
->   
->  
-> 
-> Quesito
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
 > Risposte
-> D
-> B
-> B
-> A
-> C
-> E
-> D
-> D
-> E
-> D
-> E
-> B
-> B
-> B
-> B
-> A
-> B
-> A
-> C
-> B
-> D
-> E
-> D
-> D
-> E
-> C
-> A
-> A
-> C
-> C
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

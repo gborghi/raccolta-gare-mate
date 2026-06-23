@@ -57,27 +57,6 @@ tags:
 > D D C
 > E
 > A B
-> A
-> B
-> E
-> D
-> D
-> C
-> A
-> C
-> C
-> E
-> C
-> A
-> B
-> E
-> B
-> C
-> C
-> B
-> E
-> C
-> C
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]

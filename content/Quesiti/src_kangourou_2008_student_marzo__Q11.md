@@ -64,7 +64,6 @@ tags:
 > 30
 > Kang 2008
 > Kang 2008
-> Student
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

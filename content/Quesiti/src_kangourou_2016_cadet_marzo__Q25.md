@@ -54,9 +54,6 @@ tags:
 > 	
 > E) 17
 > 
-> Kangourou 2016
-> pagina 20
-> CADET
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

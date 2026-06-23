@@ -44,7 +44,6 @@ tags:
 > 17
 > Kang 2009
 > Kang 2009
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -39,13 +39,11 @@ tags:
 > C) 1
 > D) 0
 > E) non è possibile stabilirlo
-> Gara_20Marzo_ec.qxd  29/03/2003  8.20  Pagina  8
 > 
 > Pag. 
 > Pag. 9
 > Kang 2003
 > Kang 2003
-> Ecolier
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

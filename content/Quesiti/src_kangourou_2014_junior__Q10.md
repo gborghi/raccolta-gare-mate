@@ -45,11 +45,7 @@ tags:
 > C) 12,6	 	
 > D) 25,2	 	
 > E) 37,8
-> JUNIOR
 > 
-> Kangourou 2014
-> pagina 23
-> JUNIOR
 > I quesiti dal n. 11 al n. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

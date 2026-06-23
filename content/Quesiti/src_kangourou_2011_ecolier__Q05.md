@@ -38,11 +38,6 @@ tags:
 > D) D
 > E) E
 >  
->  
->  
->  
->  
->  
 > A)
 > B)
 > C)
@@ -64,7 +59,6 @@ tags:
 > Pag. 6
 > Kang 201
 > Kang 2011
-> Ecolier
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

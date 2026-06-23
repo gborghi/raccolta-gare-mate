@@ -38,7 +38,6 @@ tags:
 > C) x = 2y           	 	
 > D) x + 2y = 180°	 	
 > E) x = y
-> JUNIOR
 > y
 > x
 > M
@@ -76,9 +75,6 @@ tags:
 > x
 > y
 > 
-> Kangourou 2013
-> pagina 23
-> JUNIOR
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

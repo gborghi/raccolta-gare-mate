@@ -55,9 +55,6 @@ tags:
 > 14 kg
 > 10 kg
 > 
-> Kangourou 2021
-> pagina 7
-> ECOLIER
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

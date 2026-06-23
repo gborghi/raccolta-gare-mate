@@ -44,13 +44,9 @@ tags:
 > D) 30 	
 > 	
 > E) 45
-> JUNIOR
 > A
 > B
 > 
-> Kangourou 2018
-> pagina 23
-> JUNIOR
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

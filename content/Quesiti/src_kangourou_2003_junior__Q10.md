@@ -44,15 +44,12 @@ tags:
 > ZYX
 > fig. 1
 > fig. 2
-> Junior.qxd  29/03/2003  8.23  Pagina  23
 > 
 > Pag. 
 > Pag. 24
 > 24
 > Kang 2003
 > Kang 2003
-> Junior
-> Junior
 > I quesiti dal N. 11 al N. 21 valgono 4 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]

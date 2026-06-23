@@ -35,11 +35,7 @@ tags:
 > C) 2015		
 > D) 2016		
 > E) 2496
-> STUDENT
 > 
-> Kangourou 2015
-> pagina 27
-> STUDENT
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

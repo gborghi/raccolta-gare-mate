@@ -52,9 +52,6 @@ tags:
 > 18 cm
 > ? cm
 > 
-> Kangourou 2020
-> pagina 24
-> JUNIOR
 > 70°
 > ?
 

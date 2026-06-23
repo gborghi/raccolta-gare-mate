@@ -44,9 +44,6 @@ tags:
 > 	
 > E) ABCD
 > 
-> Kangourou 2016
-> pagina 9
-> ECOLIER
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -45,9 +45,6 @@ tags:
 >       D) Tre triangolari, tre quadrate
 >       E) Tre triangolari, due quadrate
 > 
-> Kangourou 2017
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

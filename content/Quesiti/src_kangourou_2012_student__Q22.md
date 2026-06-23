@@ -53,16 +53,6 @@ tags:
 > E) Ex ≠Ey ma  Vol(Ex) = Vol(Ey)
 > 12 cm
 > x cm
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
 > 11 12
 > b
 > a
@@ -71,14 +61,12 @@ tags:
 > f(x) =
 > |x - 503| + |x + 503|
 > |x - 2012| + |x + 2012|
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:29  Pagina 30
 > 
 > Pag. 
 > Pag. 31
 > 31
 > Kang 2012
 > Kang 2012
-> Student
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

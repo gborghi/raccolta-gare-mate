@@ -39,7 +39,6 @@ tags:
 > D) –1 – b	
 > 	
 > E) b 2 + 1
-> STUDENT
 >  1---- 
 >  2
 >  1---- 
@@ -47,9 +46,6 @@ tags:
 >  1---- 
 >  6
 > 
-> Kangourou 2014
-> pagina 28
-> STUDENT
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -41,15 +41,12 @@ tags:
 > a
 > a
 > 15%
-> Junior.qxd  29/03/2003  8.22  Pagina  22
 > 
 > Pag. 
 > Pag. 23
 > 23
 > Kang 2003
 > Kang 2003
-> Junior
-> Junior
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

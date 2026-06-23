@@ -48,9 +48,6 @@ tags:
 > 	
 > E) 6
 > 
-> Kangourou 2020
-> pagina 7
-> ECOLIER
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

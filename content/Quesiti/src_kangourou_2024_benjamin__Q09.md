@@ -91,9 +91,6 @@ tags:
 > 20
 > 200
 > 
-> Kangourou 2024
-> pagina 12
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

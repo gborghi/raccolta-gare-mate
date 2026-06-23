@@ -56,14 +56,12 @@ tags:
 > Rana HOP
 > Rana HIP
 > partenza
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:27  Pagina 13
 > 
 > Pag. 
 > Pag. 14
 > 14
 > Kang 2012
 > Kang 2012
-> Benjamin
 > mentre quello inferiore è a 5 metri. Stando all’interno della casa, quante volte
 > la palla appare alla finestra?
 > A) 3

@@ -51,7 +51,6 @@ tags:
 > 24
 > Kang 201
 > Kang 2011
-> Junior
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

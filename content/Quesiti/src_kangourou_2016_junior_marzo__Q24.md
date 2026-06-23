@@ -44,9 +44,6 @@ tags:
 > 
 > 
 > 
-> Kangourou 2016
-> pagina 25
-> JUNIOR
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

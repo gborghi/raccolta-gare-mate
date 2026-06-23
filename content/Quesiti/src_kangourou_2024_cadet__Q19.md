@@ -50,9 +50,6 @@ tags:
 > 18
 > 24
 > 
-> Kangourou 2024
-> pagina 19
-> CADET
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

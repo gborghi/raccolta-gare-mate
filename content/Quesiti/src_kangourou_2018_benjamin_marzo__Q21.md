@@ -51,9 +51,6 @@ tags:
 >          C B A  =
 >      D D D D
 > 
-> Kangourou 2018
-> pagina 14
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

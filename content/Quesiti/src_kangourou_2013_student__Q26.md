@@ -44,9 +44,6 @@ tags:
 > D) 104	  
 > E) Un numero diverso dai precedenti.
 > 
-> Kangourou 2013
-> pagina 31
-> STUDENT
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

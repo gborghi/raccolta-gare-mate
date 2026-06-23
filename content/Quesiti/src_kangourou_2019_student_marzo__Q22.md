@@ -43,9 +43,6 @@ tags:
 > -------- 
 >    c
 > 
-> Kangourou 2019
-> pagina 30
-> STUDENT
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -50,13 +50,6 @@ tags:
 > 2
 > 7 ?
 > 5
-> C
-> E
-> A
-> B
-> D
-> A
-> D
 > Q
 > C
 > O
@@ -66,15 +59,12 @@ tags:
 > 10
 > 15
 > 9
-> Junior.qxd  29/03/2003  8.23  Pagina  25
 > 
 > Pag. 
 > Pag. 26
 > 26
 > Kang 2003
 > Kang 2003
-> Junior
-> Junior
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

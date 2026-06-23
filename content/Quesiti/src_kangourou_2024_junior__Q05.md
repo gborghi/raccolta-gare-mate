@@ -65,8 +65,6 @@ tags:
 > 1
 > 2
 > 
-> Kangourou 2024
-> pagina 22
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

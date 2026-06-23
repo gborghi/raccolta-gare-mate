@@ -40,21 +40,12 @@ tags:
 > B
 > 3
 > 2
-> C
-> B
-> D
-> A
-> A
-> B
-> 9-14-Benjamin.qxd  29/03/2003  8.15  Pagina  12
 > 
 > Pag. 
 > Pag. 13
 > 13
 > Kang 2003
 > Kang 2003
-> Benjamin
-> Benjamin
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

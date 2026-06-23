@@ -42,9 +42,6 @@ tags:
 > D) 30      	
 > E) 36
 > 
-> Kangourou 2013
-> pagina 13
-> BENJAMIN
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

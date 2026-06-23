@@ -37,14 +37,12 @@ tags:
 > C) 5 bicchieri   
 > D) 6 bicchieri
 > E) 7 bicchieri
-> 15-20-Cadet.qxd  29/03/2003  8.22  Pagina  16
 > 
 > Pag. 
 > Pag. 17
 > 17
 > Kang 2003
 > Kang 2003
-> Cadet
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

@@ -48,7 +48,6 @@ tags:
 > Pag. 8
 > Kang 2012
 > Kang 2012
-> Ecolier
 > nd
 > 2  step
 > st
@@ -61,13 +60,11 @@ tags:
 > 2° gradino
 > 3° gradino
 > ?
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:26  Pagina 8
 > 
 > Pag. 
 > Pag. 9
 > Kang 2012
 > Kang 2012
-> Ecolier
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

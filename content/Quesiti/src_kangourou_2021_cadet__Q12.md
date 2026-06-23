@@ -64,9 +64,6 @@ tags:
 > 8 4 3 6
 > 9 5 4 7
 > 
-> Kangourou 2021
-> pagina 18
-> CADET
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

@@ -53,7 +53,6 @@ tags:
 > 21
 > Kang 201
 > Kang 2011
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

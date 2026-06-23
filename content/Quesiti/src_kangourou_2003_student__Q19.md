@@ -75,15 +75,12 @@ tags:
 > 6
 > 6
 > 6
-> 27-32-Student.qxd  29/03/2003  8.24  Pagina  30
 > 
 > Pag. 
 > Pag. 31
 > 31
 > Kang 2003
 > Kang 2003
-> Student
-> Student
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

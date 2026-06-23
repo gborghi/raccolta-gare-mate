@@ -49,9 +49,6 @@ tags:
 > X
 > Y
 > 
-> Kangourou 2015
-> pagina 18
-> CADET
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -43,9 +43,6 @@ tags:
 > 	
 > E) 12  
 > 
-> Kangourou 2015
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

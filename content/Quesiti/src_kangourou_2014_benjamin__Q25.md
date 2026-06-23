@@ -49,9 +49,6 @@ tags:
 > F
 > 15
 > 
-> Kangourou 2014
-> pagina 14
-> BENJAMIN
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

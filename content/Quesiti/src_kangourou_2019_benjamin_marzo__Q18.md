@@ -50,9 +50,6 @@ tags:
 > E) 17
 > 1 m
 > 
-> Kangourou 2019
-> pagina 13
-> BENJAMIN
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]]

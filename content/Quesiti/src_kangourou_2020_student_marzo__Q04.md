@@ -60,9 +60,6 @@ tags:
 > 24 %
 > 6 %
 > 
-> Kangourou 2020
-> pagina 28
-> STUDENT
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

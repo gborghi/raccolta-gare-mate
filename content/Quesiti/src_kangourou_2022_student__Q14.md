@@ -41,10 +41,8 @@ tags:
 > A) 3  
 > B) 4  
 > 
->  
 > pagina 
 > 30 
-> Kangourou 2022
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

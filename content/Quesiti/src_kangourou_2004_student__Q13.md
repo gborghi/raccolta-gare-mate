@@ -51,14 +51,12 @@ tags:
 > D
 > B
 > C
-> Student.qxd  22/02/2004  16.46  Pagina  29
 > 
 > Pag. 
 > Pag. 30
 > 30
 > Kang 2004
 > Kang 2004
-> Student
 > tudent
 > te 2% ha un solo tentacolo. Quale percentuale di marziani ha più tentacoli
 > sulla propria testa della media della totalità della popolazione marziana? 

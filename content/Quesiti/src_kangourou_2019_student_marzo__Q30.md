@@ -54,36 +54,6 @@ tags:
 > 2
 > ?
 > 
-> E
-> E
-> D
-> C
-> E
-> B
-> B
-> C
-> D
-> D
-> D
-> B
-> E
-> D
-> D
-> C
-> A
-> B
-> A
-> E
-> B
-> B
-> C
-> E
-> A
-> D
-> E
-> C
-> B
-> C
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

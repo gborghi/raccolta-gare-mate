@@ -66,9 +66,6 @@ tags:
 > 340 m
 > 110 m
 > 
-> Kangourou 2017
-> pagina 9
-> ECOLIER
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

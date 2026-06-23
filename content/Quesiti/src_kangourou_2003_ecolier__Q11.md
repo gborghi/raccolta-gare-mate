@@ -40,13 +40,11 @@ tags:
 > iris
 > rose
 > gerbere
-> Gara_20Marzo_ec.qxd  29/03/2003  8.20  Pagina  6
 > 
 > Pag. 
 > Pag. 7
 > Kang 2003
 > Kang 2003
-> Ecolier
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -40,9 +40,6 @@ tags:
 > 	
 > E) 2104 + 1
 > 
-> Kangourou 2014
-> pagina 29
-> STUDENT
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

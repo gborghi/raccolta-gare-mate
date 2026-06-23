@@ -39,9 +39,6 @@ tags:
 > lungo una pista nella savana senza mai superarsi. 
 > Quando  
 > 
->  
-> pagina 12 
-> Kangourou 2022  
 > arrivano al bivio, ciascuno di loro svolta a destra o a sinistra, senza una regola. 
 > Quale delle seguenti non può essere la situazione dopo che tutti hanno passato il 
 > bivio? A)

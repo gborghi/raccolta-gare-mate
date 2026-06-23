@@ -44,9 +44,6 @@ tags:
 > 0
 > P
 > 
-> Kangourou 2020
-> pagina 31
-> STUDENT
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

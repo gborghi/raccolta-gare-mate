@@ -49,7 +49,6 @@ tags:
 > 21
 > Kang 2008
 > Kang 2008
-> Cadet
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

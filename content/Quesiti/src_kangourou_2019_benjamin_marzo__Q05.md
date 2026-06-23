@@ -37,11 +37,7 @@ tags:
 > In quanti modi diversi puoi farlo?
 > A) 5	
 >      B) 6	      C) 7	      D) 8	      E) 9
-> BENJAMIN
 > 
-> Kangourou 2019
-> pagina 11
-> BENJAMIN
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

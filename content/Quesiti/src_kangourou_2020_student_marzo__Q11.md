@@ -68,9 +68,6 @@ tags:
 > caso 3
 > caso 4
 > 
-> Kangourou 2020
-> pagina 29
-> STUDENT
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

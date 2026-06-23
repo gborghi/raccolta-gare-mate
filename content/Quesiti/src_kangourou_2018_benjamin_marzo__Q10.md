@@ -52,9 +52,6 @@ tags:
 > 16 punti
 > ???
 > 
-> Kangourou 2018
-> pagina 12
-> BENJAMIN
 > I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]

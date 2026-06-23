@@ -85,14 +85,12 @@ tags:
 > 93°
 > 58°
 > x°
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:27  Pagina 18
 > 
 > Pag. 
 > Pag. 19
 > 19
 > Kang 2012
 > Kang 2012
-> Cadet
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

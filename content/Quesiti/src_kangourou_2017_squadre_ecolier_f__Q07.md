@@ -51,38 +51,7 @@ tags:
 > le stesse modalità un rettangolo con base 40 unità e altezza 30 unità, 
 > quanti segmenti lunghi 1 unità interni al rettangolo troverei? 
 >  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
 > 1 2 3 4 5
-> 1 1 2 3 4 5
 > 2 2 4 6 8 10
 > 3 3 6 9 12 15
 > 4 4 8 12 16 20

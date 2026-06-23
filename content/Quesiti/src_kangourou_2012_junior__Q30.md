@@ -47,69 +47,8 @@ tags:
 > G
 > Biblio
 > Giochi
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:28  Pagina 26
 > 
 > RISPOSTE JUNIOR 2012
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
-> A
-> E
-> D
-> E
-> D
-> C
-> E
-> B
-> D
-> D
-> E
-> D
-> D
-> B
-> C
-> D
-> B
-> D
-> B
-> C
-> D
-> A
-> D
-> A
-> C
-> D
-> E
-> C
-> B
-> B
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

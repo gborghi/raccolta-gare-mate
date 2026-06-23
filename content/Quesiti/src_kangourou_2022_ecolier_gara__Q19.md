@@ -44,9 +44,6 @@ tags:
 >   
 > E) 90  
 > 
->  
-> Kangourou 2022 
-> pagina  9
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

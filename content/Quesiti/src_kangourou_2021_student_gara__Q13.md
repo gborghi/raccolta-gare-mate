@@ -58,8 +58,6 @@ tags:
 >  p---- 
 >  4
 > 
-> Kangourou 2021
-> pagina 28
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

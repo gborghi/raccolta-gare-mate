@@ -61,7 +61,6 @@ tags:
 > 15
 > Kang 2007
 > Kang 2007
-> Benjamin
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

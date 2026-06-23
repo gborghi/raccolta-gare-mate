@@ -47,7 +47,6 @@ tags:
 > 23
 > Kang 201
 > Kang 2011
-> Junior
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

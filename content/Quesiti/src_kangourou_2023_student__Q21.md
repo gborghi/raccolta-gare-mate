@@ -41,7 +41,6 @@ tags:
 > 	
 > D)  f(x) = x2 – 4x + 5 
 > E) Nessuna, una tale coppia di funzioni f e g non esiste.
-> STUDENT
 > A
 > B
 > C
@@ -61,9 +60,6 @@ tags:
 >  2  
 >  3
 > 
-> Kangourou 2023
-> pagina 29
-> STUDENT
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

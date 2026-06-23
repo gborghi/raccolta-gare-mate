@@ -34,7 +34,6 @@ tags:
 > domande a cui la risposta corretta sia “Sì” e i “negativi”, che pongono solo domande 
 > a cui la risposta corretta sia “No”. Ho incontrato Alberto e Bruna. Bruna mi ha chiesto:  
 > “Alberto e io siamo entrambi negativi?” Che cosa posso dedurne? 
-> pagina 24 
 >  
 > A) Alberto e Bruna sono entrambi positivi.  
 > B) Alberto e Bruna sono entrambi negativi. 

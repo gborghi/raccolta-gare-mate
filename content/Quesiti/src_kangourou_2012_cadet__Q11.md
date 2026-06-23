@@ -41,14 +41,12 @@ tags:
 > E) 6912
 > A
 > B
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:27  Pagina 17
 > 
 > Pag. 
 > Pag. 18
 > 18
 > Kang 2012
 > Kang 2012
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

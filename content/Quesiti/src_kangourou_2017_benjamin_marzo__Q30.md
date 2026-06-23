@@ -47,66 +47,6 @@ tags:
 > 	
 > E) 48
 > 
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
-> B
-> C
-> E
-> E
-> B
-> A
-> C
-> D
-> B
-> D
-> E
-> B
-> D
-> C
-> C
-> C
-> E
-> B
-> D
-> B
-> A
-> D
-> E
-> C
-> D
-> C
-> A
-> D
-> D
-> E
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

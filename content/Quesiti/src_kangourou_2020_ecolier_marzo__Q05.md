@@ -45,7 +45,6 @@ tags:
 > D) 19	
 > 	
 > E) 22
-> ECOLIER
 > 16 + 4
 > 2 × 10
 > 40 : 2
@@ -53,9 +52,6 @@ tags:
 > 28 −8
 > 7 × 3
 > 
-> Kangourou 2020
-> pagina 6
-> ECOLIER
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

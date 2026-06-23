@@ -42,7 +42,6 @@ tags:
 > Pag. 8
 > Kang 2006
 > Kang 2006
-> Ecolier
 > A
 > B
 > 80
@@ -64,7 +63,6 @@ tags:
 > Pag. 9
 > Kang 2006
 > Kang 2006
-> Ecolier
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

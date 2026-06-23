@@ -31,20 +31,11 @@ tags:
 > Alcuni pirati si sono spartiti un bottino di 200 monete d’oro e 600 monete 
 > d’argento. Ogni capetto ha avuto 5 monete d’oro e 10 d’argento, ogni marinaio 3 
 >  
->  
->  
->  
 > 1 
->  
->  
->  
 >  
 > P
 > R
 > 
->  
-> Kangourou 2022 
-> pagina  25 
 > monete d’oro e 8 d’argento, ogni mozzo 1 moneta d’oro e 6 d’argento. Quanti erano i 
 > pirati? 
 > A) 50  

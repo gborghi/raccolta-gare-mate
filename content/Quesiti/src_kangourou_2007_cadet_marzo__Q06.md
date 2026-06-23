@@ -37,14 +37,6 @@ tags:
 > C) C 
 > D) D 
 > E) nessuno dei quattro
-> D
-> C
-> B
-> A
-> A
-> B
-> C
-> D
 > Testi_07.qxp  16-04-2007  12:05  Pagina 16
 > 
 > Pag. 
@@ -52,7 +44,6 @@ tags:
 > 17
 > Kang 2007
 > Kang 2007
-> Cadet
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

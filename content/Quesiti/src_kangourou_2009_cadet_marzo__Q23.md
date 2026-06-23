@@ -55,7 +55,6 @@ tags:
 > 20
 > Kang 2009
 > Kang 2009
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

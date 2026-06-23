@@ -52,9 +52,6 @@ tags:
 > 36 m
 > 28 m
 > 
-> Kangourou 2019
-> pagina 9
-> ECOLIER
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

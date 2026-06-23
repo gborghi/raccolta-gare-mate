@@ -62,7 +62,6 @@ tags:
 > 29
 > Kang 201
 > Kang 2011
-> Student
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

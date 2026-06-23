@@ -35,11 +35,7 @@ tags:
 > C) 1917		
 > D) 2115		
 > E) 2118
-> ECOLIER
 > 
-> Kangourou 2016
-> pagina 7
-> ECOLIER
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

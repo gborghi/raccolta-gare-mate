@@ -48,9 +48,6 @@ tags:
 > 4
 > 3
 > 
-> Kangourou 2022
-> pagina 19
-> CADET
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

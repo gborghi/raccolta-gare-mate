@@ -54,9 +54,6 @@ tags:
 > -------- 
 >     5
 > 
-> Kangourou 2015
-> pagina 17
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

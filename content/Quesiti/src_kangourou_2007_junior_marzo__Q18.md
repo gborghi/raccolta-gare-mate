@@ -53,7 +53,6 @@ tags:
 > 26
 > Kang 2007
 > Kang 2007
-> Junior
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

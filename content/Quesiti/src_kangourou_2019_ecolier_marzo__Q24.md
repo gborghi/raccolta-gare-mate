@@ -62,30 +62,6 @@ tags:
 > Figura 1 
 > Figura 2
 > 
-> D
-> A
-> D
-> A
-> D
-> D
-> B
-> C
-> B
-> C
-> E
-> B
-> A
-> E
-> D
-> C
-> E
-> C
-> B
-> E
-> B
-> E
-> B
-> D
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

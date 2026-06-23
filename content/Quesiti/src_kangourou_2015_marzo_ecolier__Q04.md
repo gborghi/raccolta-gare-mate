@@ -36,7 +36,6 @@ tags:
 > solo foglietti tutti della stessa forma, qual è il più piccolo 
 > numero di foglietti che ti basta levare?
 > A) 4            B) 9             C) 6             D) 8             E) 10
-> ECOLIER
 > 2
 > 0
 > + 1
@@ -48,8 +47,6 @@ tags:
 > 7
 > 9
 > 
-> Kangourou 2015
-> pagina 6
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

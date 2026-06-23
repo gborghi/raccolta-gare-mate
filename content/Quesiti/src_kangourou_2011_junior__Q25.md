@@ -90,7 +90,6 @@ tags:
 > 26
 > Kang 201
 > Kang 2011
-> Junior
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

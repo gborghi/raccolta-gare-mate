@@ -41,9 +41,6 @@ tags:
 > 	
 > E) 11.
 > 
-> Kangourou 2017
-> pagina 25
-> JUNIOR
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

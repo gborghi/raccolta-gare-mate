@@ -64,9 +64,6 @@ tags:
 > 9
 > 9
 > 
-> Kangourou 2021
-> pagina 9
-> ECOLIER
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

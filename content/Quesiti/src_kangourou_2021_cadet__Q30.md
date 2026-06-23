@@ -67,27 +67,6 @@ tags:
 > 
 > Risposte CADET 
 >  
-> D E D B A C E E B D 
-> B 
-> E 
-> C 
-> B 
-> D 
-> C 
-> C 
-> C 
-> E 
-> D 
-> C 
-> B 
-> D 
-> B 
-> B 
-> B 
-> C 
-> D 
-> A 
-> C
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

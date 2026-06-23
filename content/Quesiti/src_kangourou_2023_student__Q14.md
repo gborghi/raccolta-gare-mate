@@ -47,8 +47,6 @@ tags:
 >  
 > (    )
 > 
-> Kangourou 2023
-> pagina 28
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

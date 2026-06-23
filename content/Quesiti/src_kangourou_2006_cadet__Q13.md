@@ -38,7 +38,6 @@ tags:
 > 19
 > Kang 2006
 > Kang 2006
-> Cadet
 > all'altro su una linea a doppio binario, il primo a 100 km/h e il secondo
 > a 120 km/h. Quando si incrociano, da un finestrino del secondo treno
 > un passeggero osserva che ci vogliono esattamente 6 secondi perché

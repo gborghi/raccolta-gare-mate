@@ -46,9 +46,6 @@ tags:
 > 	
 > E) 19
 > 
-> Kangourou 2017
-> pagina 12
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

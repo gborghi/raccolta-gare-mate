@@ -42,9 +42,6 @@ tags:
 > 	
 > E) 34
 > 
-> Kangourou 2019
-> pagina 28
-> STUDENT
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

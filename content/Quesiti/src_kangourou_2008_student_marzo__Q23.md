@@ -75,7 +75,6 @@ tags:
 > 32
 > Kang 2008
 > Kang 2008
-> Student
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

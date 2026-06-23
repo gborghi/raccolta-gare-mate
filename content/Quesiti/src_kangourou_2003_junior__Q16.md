@@ -65,15 +65,12 @@ tags:
 > 2
 > 1
 > 1
-> Junior.qxd  29/03/2003  8.23  Pagina  24
 > 
 > Pag. 
 > Pag. 25
 > 25
 > Kang 2003
 > Kang 2003
-> Junior
-> Junior
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]

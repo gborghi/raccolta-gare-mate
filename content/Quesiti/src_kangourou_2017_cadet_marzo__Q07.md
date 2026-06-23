@@ -41,9 +41,6 @@ tags:
 > 2m
 > 4m
 > 
-> Kangourou 2017
-> pagina 17
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

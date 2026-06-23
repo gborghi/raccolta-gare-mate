@@ -59,9 +59,6 @@ tags:
 > E
 > C
 > 
-> Kangourou 2020
-> pagina 17
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

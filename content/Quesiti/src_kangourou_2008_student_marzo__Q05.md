@@ -52,7 +52,6 @@ tags:
 > 29
 > Kang 2008
 > Kang 2008
-> Student
 > A) 
 > B) 
 > C) 

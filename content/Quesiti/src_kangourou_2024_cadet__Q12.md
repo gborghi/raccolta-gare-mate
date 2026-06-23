@@ -67,9 +67,6 @@ tags:
 > 2 2 2
 > 2 2 3
 > 
-> Kangourou 2024
-> pagina 18
-> CADET
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]

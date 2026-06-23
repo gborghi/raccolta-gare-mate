@@ -76,9 +76,6 @@ tags:
 > D) 9/32	 	
 > E) 1/5
 > 
-> Kangourou 2015
-> pagina 31
-> STUDENT
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -44,11 +44,7 @@ tags:
 > D) 6	
 > 	
 > E) 7
-> JUNIOR
 > 
-> Kangourou 2015
-> pagina 23
-> JUNIOR
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

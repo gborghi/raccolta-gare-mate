@@ -42,9 +42,6 @@ tags:
 > 	
 > E) 30
 > 
-> Kangourou 2023
-> pagina 24
-> JUNIOR
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

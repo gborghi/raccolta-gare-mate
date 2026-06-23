@@ -34,25 +34,14 @@ tags:
 > la ruota percorre la cresta montagnosa indicata?
 > A) 	
 > 	
-> 	
 > B) 	
-> 	
 > 	
 > C) 	
 > 	
 > D) 	
 > 	
-> 	
 > E)       
 > 	
-> 	
-> 	
-> 	
-> 	
-> 	
-> 
-> Kangourou 2017
-> pagina 22
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

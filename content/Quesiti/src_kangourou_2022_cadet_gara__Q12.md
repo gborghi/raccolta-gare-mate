@@ -51,9 +51,6 @@ tags:
 > D
 > E
 > 
-> Kangourou 2022
-> pagina 18
-> CADET
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

@@ -64,36 +64,6 @@ tags:
 > Partenza
 > Arrivo
 > 
-> C
-> D
-> D
-> B
-> B
-> D
-> B
-> C
-> C
-> E
-> C
-> D
-> E
-> D
-> B
-> D
-> A
-> B
-> E
-> D
-> B
-> D
-> C
-> C
-> E
-> B
-> C
-> C
-> C
-> B
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

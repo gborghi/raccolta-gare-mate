@@ -41,12 +41,8 @@ tags:
 > D) 489, 4, 99	
 > 	
 > E) 488, 4, 99
-> ECOLIER
 > E)
 > 
-> Kangourou 2024
-> pagina 6
-> ECOLIER
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -52,36 +52,6 @@ tags:
 > 7
 > 8
 > 
-> E
-> D
-> C
-> D
-> D
-> B
-> B
-> B
-> D
-> E
-> E
-> C
-> B
-> C
-> E
-> D
-> D
-> D
-> B
-> A
-> B
-> C
-> C
-> E
-> D
-> A
-> E
-> A
-> A
-> C
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

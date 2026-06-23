@@ -36,15 +36,12 @@ tags:
 > C) 5 cm
 > D) 6 cm
 > E) 7 cm
-> 9-14-Benjamin.qxd  29/03/2003  8.15  Pagina  13
 > 
 > Pag. 
 > Pag. 14
 > 14
 > Kang 2003
 > Kang 2003
-> Benjamin
-> Benjamin
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

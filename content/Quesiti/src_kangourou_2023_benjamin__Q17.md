@@ -52,9 +52,6 @@ tags:
 > 6
 > 8 11
 > 
-> Kangourou 2023
-> pagina 13
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

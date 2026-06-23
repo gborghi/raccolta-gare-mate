@@ -39,11 +39,8 @@ tags:
 > 	
 >          C) 	
 > 	
-> 	
-> 	
 > D)	
 >  	
-> 	
 > E) 
 > 7
 > 9
@@ -53,30 +50,6 @@ tags:
 > 9
 > 8
 > 
-> D
-> C
-> B
-> C
-> C
-> E
-> C
-> E
-> A
-> A
-> E
-> A
-> D
-> D
-> B
-> A
-> B
-> B
-> B
-> D
-> B
-> B
-> D
-> E
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

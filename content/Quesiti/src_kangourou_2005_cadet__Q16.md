@@ -55,7 +55,6 @@ tags:
 > 19
 > Kang 2005
 > Kang 2005
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

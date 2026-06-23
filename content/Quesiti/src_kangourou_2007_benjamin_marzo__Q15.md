@@ -62,7 +62,6 @@ tags:
 > 13
 > Kang 2007
 > Kang 2007
-> Benjamin
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

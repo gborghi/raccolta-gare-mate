@@ -41,66 +41,8 @@ tags:
 > piccola e alla grande. Il raggio della circonferenza 
 > piccola è √12. Se AM è lungo 3, quanto è lungo AB?  
 >  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
 > Risposte 
 >  
-> 1 
-> 2 
-> 3 
-> 4 
-> 5 
-> 6 
-> 7 
-> 8 
-> 9 
-> 10 
-> 11 
-> 12 
-> 13 
-> 14 
-> 15 
-> 16 
-> 17 
-> 18 
-> B 
-> C 
-> A 
-> B 
-> B 
-> D 
-> E 
-> D 
-> E 
 > 0005 0033 0040 9901 0038 1001 0001 9999 0027
 >  
 > M 

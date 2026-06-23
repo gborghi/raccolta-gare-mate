@@ -48,8 +48,6 @@ tags:
 > 23
 > Kang 2005
 > Kang 2005
-> Junior
-> Junior
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]

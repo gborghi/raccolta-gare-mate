@@ -50,36 +50,6 @@ tags:
 > D
 > B
 > 
-> D
-> E
-> C
-> A
-> B
-> C
-> E
-> A
-> B
-> E
-> C
-> C
-> E
-> D
-> B
-> C
-> C
-> A
-> D
-> A
-> E
-> E
-> B
-> D
-> C
-> C
-> D
-> B
-> A
-> C
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]

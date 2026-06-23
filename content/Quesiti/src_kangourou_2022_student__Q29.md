@@ -72,10 +72,8 @@ tags:
 >   
 > E) 5 
 > 
->  
 > pagina 
 > 34 
-> Kangourou 2022  
 >  
 > A) 1 / 12   
 >  B) 1 / 6       

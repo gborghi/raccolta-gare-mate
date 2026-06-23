@@ -60,8 +60,6 @@ tags:
 >           Q R S  =
 >             6  5  4
 > 
-> Kangourou 2018
-> pagina 22
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

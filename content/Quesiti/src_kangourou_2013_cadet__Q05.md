@@ -36,7 +36,6 @@ tags:
 > C) 193	 	
 > D) 200	 	
 > E) 350
-> CADET
 > 1111 
 > {{{{{{ = 11.	
 >  101
@@ -47,9 +46,6 @@ tags:
 > {{{{{{ 	
 >  303
 > 
-> Kangourou 2013
-> pagina 17
-> CADET
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

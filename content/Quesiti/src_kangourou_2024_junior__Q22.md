@@ -44,9 +44,6 @@ tags:
 > 	
 > E) Domani sarà sabato. 
 > 
-> Kangourou 2024
-> pagina 25
-> JUNIOR
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

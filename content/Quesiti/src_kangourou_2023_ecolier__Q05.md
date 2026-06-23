@@ -41,7 +41,6 @@ tags:
 > D) 9	
 > 	
 > E) 10
-> ECOLIER
 > 1
 > 2
 > 3
@@ -56,27 +55,11 @@ tags:
 > 12
 > 1
 > 5
-> 0
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
 > minuti
 > Verde
 >   Rosso
 >   Blu
 > 
-> Kangourou 2023
-> pagina 6
-> ECOLIER
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

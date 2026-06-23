@@ -45,7 +45,6 @@ tags:
 > 14
 > Kang 2008
 > Kang 2008
-> Benjamin
 > A) Giorgio, Marco, Nicola     
 > B) Nicola, Giorgio, Marco         
 > C) Marco, Giorgio, Nicola

@@ -45,8 +45,6 @@ tags:
 > 26
 > Kang 2005
 > Kang 2005
-> Junior
-> Junior
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]

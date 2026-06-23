@@ -47,9 +47,6 @@ tags:
 > 1
 > ?
 > 
-> Kangourou 2016
-> pagina 24
-> JUNIOR
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

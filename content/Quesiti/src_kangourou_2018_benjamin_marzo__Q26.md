@@ -55,9 +55,6 @@ tags:
 > Dopo terzo 
 > fischio
 > 
-> Kangourou 2018
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

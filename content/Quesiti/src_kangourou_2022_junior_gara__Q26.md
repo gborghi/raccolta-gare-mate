@@ -42,8 +42,6 @@ tags:
 > D) 8 hg   
 > E) 10 hg  
 > 
->  
-> Kangourou 2022
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

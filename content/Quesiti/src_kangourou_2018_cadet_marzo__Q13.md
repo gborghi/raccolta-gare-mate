@@ -43,9 +43,6 @@ tags:
 > 	
 >  E) 50
 > 
-> Kangourou 2018
-> pagina 18
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

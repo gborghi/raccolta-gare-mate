@@ -51,29 +51,6 @@ tags:
 > D
 > B
 > A D
-> B
-> C
-> E
-> C
-> A
-> E
-> B
-> B
-> D
-> E
-> E
-> C
-> C
-> A
-> B
-> B
-> E
-> D
-> A
-> E
-> E
-> C
-> C
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

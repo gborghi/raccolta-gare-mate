@@ -40,7 +40,6 @@ tags:
 > D) 24	
 > 	
 > E) 28
-> ECOLIER
 > 8–3
 > =2
 > =5 5–1
@@ -53,8 +52,6 @@ tags:
 > 8 3 4
 > aa
 > 
-> Kangourou 2017
-> pagina 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

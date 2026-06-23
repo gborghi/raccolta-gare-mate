@@ -38,7 +38,6 @@ tags:
 > C)	
 > D)	
 > E)
-> ECOLIER
 > R
 > A
 > G
@@ -48,9 +47,6 @@ tags:
 > O
 > O
 > 
-> Kangourou 2015
-> pagina 7
-> ECOLIER
 > I quesiti dal N. 9 al N. 16 valgono 4 punti ciascuno
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]

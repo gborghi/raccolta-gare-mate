@@ -41,8 +41,6 @@ tags:
 > D) 11 
 > E) I dati sono insufficienti per rispondere. 
 > 
->  
-> Kangourou 2022
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

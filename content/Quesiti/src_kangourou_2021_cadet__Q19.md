@@ -46,9 +46,6 @@ tags:
 > x
 > 45°
 > 
-> Kangourou 2021
-> pagina 19
-> CADET
 > A) Cristina ha preso almeno una pera.	
 > B) Cristina ha preso un numero di mele doppio del numero di pere.
 > C) Cristina ha preso un numero di mele doppio di quello preso da Liliana.

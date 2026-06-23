@@ -35,14 +35,11 @@ tags:
 > pezzi di fil di ferro?
 > A)	
 > 	
-> 	
 > B)	
-> 	
 > 	
 > C)	
 > 	
 > D)	
-> 	
 > 	
 > E)
 > X
@@ -56,9 +53,6 @@ tags:
 > X
 > Y
 > 
-> Kangourou 2020
-> pagina 13
-> BENJAMIN
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

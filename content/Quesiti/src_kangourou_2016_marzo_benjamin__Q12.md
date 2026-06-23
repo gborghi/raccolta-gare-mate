@@ -45,9 +45,6 @@ tags:
 > 	
 > E) 5
 > 
-> Kangourou 2016
-> pagina 12
-> BENJAMIN
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

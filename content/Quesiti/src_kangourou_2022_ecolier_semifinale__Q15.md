@@ -31,24 +31,7 @@ tags:
 > (8 punti) Il numero 111.222.333.444.555 (ognuna delle cifre da 1 a 5 compare esattamente 3 
 > volte) è divisibile per 111. Quante cifre ha il quoziente di tale divisione? 
 >  
-> quesito 
 > N. 
-> 1 
-> 2 
-> 3 
-> 4 
-> 5 
-> 6 
-> 7 
-> 8 
-> 9 
-> 10 
-> 11 
-> 12 
-> 13 
-> 14 
-> 15 
-> Ecolier 
 >   
 > C 
 > D D D D D 

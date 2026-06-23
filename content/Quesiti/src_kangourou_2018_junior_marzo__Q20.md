@@ -35,9 +35,6 @@ tags:
 > D) 4036	 	
 > E) 4037
 > 
-> Kangourou 2018
-> pagina 24
-> JUNIOR
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

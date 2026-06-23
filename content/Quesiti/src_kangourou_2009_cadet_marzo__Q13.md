@@ -55,7 +55,6 @@ tags:
 > 18
 > Kang 2009
 > Kang 2009
-> Cadet
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]

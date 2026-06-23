@@ -46,9 +46,6 @@ tags:
 >           E) 
 > ?
 > 
-> Kangourou 2016
-> pagina 17
-> CADET
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]

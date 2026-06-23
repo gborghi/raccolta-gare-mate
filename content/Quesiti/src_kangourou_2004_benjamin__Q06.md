@@ -40,15 +40,12 @@ tags:
 > Q
 > C
 > 5 cm
-> 9-14-Benjamin.qxd  22/02/2004  16.53  Pagina  10
 > 
 > Pag. 
 > Pag. 11
 > 11
 > Kang 2004
 > Kang 2004
-> Benjamin
-> Benjamin
 > e così pure fra Carlo e Dario. Qual è il numero?
 > A) 1
 > B) 2

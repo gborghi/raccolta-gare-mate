@@ -44,9 +44,6 @@ tags:
 > x
 > ?
 > 
-> Kangourou 2014
-> pagina 12
-> BENJAMIN
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

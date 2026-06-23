@@ -43,7 +43,6 @@ tags:
 > Pag. 7
 > Kang 2005
 > Kang 2005
-> Ecolier
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

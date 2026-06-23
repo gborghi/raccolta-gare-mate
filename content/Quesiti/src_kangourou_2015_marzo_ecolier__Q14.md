@@ -57,9 +57,6 @@ tags:
 > A
 > S
 > 
-> Kangourou 2015
-> pagina 8
-> ECOLIER
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

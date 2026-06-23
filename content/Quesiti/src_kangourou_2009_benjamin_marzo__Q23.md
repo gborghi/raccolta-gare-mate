@@ -47,7 +47,6 @@ tags:
 > 14
 > Kang 2009
 > Kang 2009
-> Benjamin
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

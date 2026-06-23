@@ -51,9 +51,6 @@ tags:
 > 6
 > x
 > 
-> Kangourou 2014
-> pagina 30
-> STUDENT
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

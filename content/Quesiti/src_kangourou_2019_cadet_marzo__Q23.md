@@ -55,9 +55,6 @@ tags:
 > 0
 > 3
 > 
-> Kangourou 2019
-> pagina 20
-> CADET
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

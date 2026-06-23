@@ -59,15 +59,12 @@ tags:
 > V
 > 8
 > 10
-> Junior.qxd  22/02/2004  22.41  Pagina  23
 > 
 > Pag. 
 > Pag. 24
 > 24
 > Kang 2004
 > Kang 2004
-> Junior
-> Junior
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

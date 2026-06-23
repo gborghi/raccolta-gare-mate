@@ -48,7 +48,6 @@ tags:
 > 25
 > Kang 2007
 > Kang 2007
-> Junior
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]

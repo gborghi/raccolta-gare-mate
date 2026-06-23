@@ -34,34 +34,6 @@ tags:
 > numero dei suoi divisori (interi positivi, 1 e n compresi): ad esempio 4, che ha tre divisori, non è 
 > perfettone. Quanti sono i numeri perfettoni?  
 >  
->  
-> 1 
-> 2 
-> 3 
-> 4 
-> 5 
-> 6 
-> 7 
-> 8 
-> 9 
-> 10 
-> 11 
-> 12 
-> 13 
-> 14 
-> 15 
-> 16 
-> 17 
-> 18 
-> C 
-> D 
-> B 
-> A 
-> D 
-> B 
-> D 
-> C 
-> C 
 > 15 
 > 9 
 > 2 

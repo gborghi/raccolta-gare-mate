@@ -44,9 +44,6 @@ tags:
 > 	
 > E) 9
 > 
-> Kangourou 2013
-> pagina 30
-> STUDENT
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]

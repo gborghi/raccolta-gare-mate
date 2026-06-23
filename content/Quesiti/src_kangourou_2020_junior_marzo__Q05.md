@@ -48,8 +48,6 @@ tags:
 > =
 > =
 > 
-> Kangourou 2020
-> pagina 22
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

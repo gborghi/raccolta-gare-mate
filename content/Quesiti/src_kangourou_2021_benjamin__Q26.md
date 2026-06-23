@@ -50,9 +50,6 @@ tags:
 > 	
 > E) 15
 > 
-> Kangourou 2021
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

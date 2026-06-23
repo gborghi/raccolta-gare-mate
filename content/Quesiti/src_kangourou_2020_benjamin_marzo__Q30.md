@@ -42,11 +42,9 @@ tags:
 > per poter completare il suo giro?
 > A) Verso Nord.	
 > 	
-> 	
 > B) Verso Est.	
 > 	
 > C) Verso Sud.	
-> 	
 > 	
 > D) Verso Ovest.	 	
 > E) Nessun percorso permette di realizzare il desiderio del postino.
@@ -61,68 +59,7 @@ tags:
 > N
 > P
 > 
-> Quesito
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
 > Risposte
-> B
-> E
-> D
-> E
-> E
-> C
-> A
-> B
-> C
-> E
-> A
-> E
-> A
-> B
-> C
-> B
-> E
-> B
-> B
-> A
-> B
-> E
-> C
-> C
-> D
-> D
-> B
-> A
-> E
-> B
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

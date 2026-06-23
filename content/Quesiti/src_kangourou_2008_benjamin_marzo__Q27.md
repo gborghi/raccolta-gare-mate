@@ -59,7 +59,6 @@ tags:
 > 15
 > Kang 2008
 > Kang 2008
-> Benjamin
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

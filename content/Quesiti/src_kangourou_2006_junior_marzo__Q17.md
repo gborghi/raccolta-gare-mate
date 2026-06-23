@@ -51,8 +51,6 @@ tags:
 > 25
 > Kang 2006
 > Kang 2006
-> Junior
-> Junior
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

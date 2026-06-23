@@ -47,9 +47,6 @@ tags:
 > 72
 > 102
 > 
-> Kangourou 2022
-> pagina 20
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

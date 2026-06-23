@@ -51,7 +51,6 @@ tags:
 > 20
 > Kang 2008
 > Kang 2008
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

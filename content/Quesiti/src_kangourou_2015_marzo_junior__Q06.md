@@ -46,8 +46,6 @@ tags:
 > D)
 > E)
 > 
-> Kangourou 2015
-> pagina 22
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

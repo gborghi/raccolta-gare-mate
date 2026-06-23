@@ -54,9 +54,6 @@ tags:
 > ---- 
 > 85
 > 
-> Kangourou 2018
-> pagina 29
-> STUDENT
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -47,7 +47,6 @@ tags:
 > 6 −5
 > 4 −1 1 + 3 8 −7
 > 9 −7 2 −1
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:26  Pagina 7
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

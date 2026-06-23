@@ -51,54 +51,6 @@ tags:
 > 2
 > 1
 > 
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> E
-> C
-> E
-> A
-> E
-> B
-> E
-> E
-> A
-> B
-> C
-> D
-> D
-> C
-> D
-> A
-> C
-> B
-> C
-> D
-> C
-> B
-> E
-> D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

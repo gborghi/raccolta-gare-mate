@@ -34,33 +34,6 @@ tags:
 > (8 punti) Per quante coppie ordinate (x, y) di interi positivi accade che entrambi gli interi x2 + y 
 > e x + y2 siano quadrati perfetti?   (Scrivete 9999 se ritenete che vi siano infinite coppie.) 
 >  
-> 1 
-> 2 
-> 3 
-> 4 
-> 5 
-> 6 
-> 7 
-> 8 
-> 9 
-> 10 
-> 11 
-> 12 
-> 13 
-> 14 
-> 15 
-> 16 
-> 17 
-> 18 
-> A 
-> E 
-> C 
-> D 
-> B 
-> C 
-> B 
-> D 
-> A 
 > 25 
 > 15 
 > 16 

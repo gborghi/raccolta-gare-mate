@@ -45,7 +45,6 @@ tags:
 >  D) 5  
 >   
 > E) 6 
-> pagina 22
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

@@ -75,7 +75,6 @@ tags:
 > 15
 > Kang 2009
 > Kang 2009
-> Benjamin
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

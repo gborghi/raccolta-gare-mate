@@ -46,21 +46,12 @@ tags:
 >   
 > E) E 
 >  
->  
->  
->  
->  
->  
->  
->  
 > A 
 > B 
 > C 
 > D 
 > E 
 > 
->  
-> Kangourou 2022
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

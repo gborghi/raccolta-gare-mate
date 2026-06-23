@@ -42,7 +42,6 @@ tags:
 > D)	
 >  	
 >   E) 
-> ECOLIER
 > ,
 > ,
 > ,
@@ -54,9 +53,6 @@ tags:
 > ,
 > ,
 > 
-> Kangourou 2019
-> pagina 6
-> ECOLIER
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

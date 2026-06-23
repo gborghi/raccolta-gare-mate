@@ -45,9 +45,6 @@ tags:
 > 28 cm
 > ?
 > 
-> Kangourou 2020
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

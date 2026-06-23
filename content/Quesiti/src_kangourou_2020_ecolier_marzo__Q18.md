@@ -70,9 +70,6 @@ tags:
 > 
 > 
 > 
-> Kangourou 2020
-> pagina 9
-> ECOLIER
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

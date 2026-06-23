@@ -44,15 +44,12 @@ tags:
 > 75°
 > 50°
 > ?
-> Junior.qxd  22/02/2004  22.41  Pagina  22
 > 
 > Pag. 
 > Pag. 23
 > 23
 > Kang 2004
 > Kang 2004
-> Junior
-> Junior
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

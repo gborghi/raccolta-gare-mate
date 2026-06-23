@@ -48,8 +48,6 @@ tags:
 > ----- 
 >  2
 > 
-> Kangourou 2020
-> pagina 32
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

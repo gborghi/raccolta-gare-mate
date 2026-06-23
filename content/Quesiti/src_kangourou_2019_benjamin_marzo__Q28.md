@@ -59,9 +59,6 @@ tags:
 > dopo l’intervento di Gianna
 > dopo l’intervento di Alberto
 > 
-> Kangourou 2019
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

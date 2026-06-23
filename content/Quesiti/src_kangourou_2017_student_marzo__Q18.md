@@ -43,9 +43,6 @@ tags:
 > 	
 > E) 7
 > 
-> Kangourou 2017
-> pagina 29
-> STUDENT
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

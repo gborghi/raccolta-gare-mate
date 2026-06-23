@@ -39,8 +39,6 @@ tags:
 > 11
 > Kang 2005
 > Kang 2005
-> Benjamin
-> Benjamin
 > E) Non si può calcolare il 2005% di un numero, si può calcolare al più  il 100%.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

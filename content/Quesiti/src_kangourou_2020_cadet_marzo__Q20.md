@@ -52,9 +52,6 @@ tags:
 > 4
 > 5
 > 
-> Kangourou 2020
-> pagina 19
-> CADET
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]

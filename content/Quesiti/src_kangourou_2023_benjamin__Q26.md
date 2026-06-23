@@ -75,9 +75,6 @@ tags:
 > Carta 2
 > Carta 3
 > 
-> Kangourou 2023
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

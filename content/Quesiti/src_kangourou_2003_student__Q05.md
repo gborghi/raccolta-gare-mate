@@ -37,15 +37,12 @@ tags:
 > E) Nessuna delle precedenti.
 > Fig. 1
 > Fig. 2
-> 27-32-Student.qxd  29/03/2003  8.24  Pagina  28
 > 
 > Pag. 
 > Pag. 29
 > 29
 > Kang 2003
 > Kang 2003
-> Student
-> Student
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

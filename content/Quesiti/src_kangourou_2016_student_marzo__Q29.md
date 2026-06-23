@@ -73,7 +73,6 @@ tags:
 > 	
 > C) Sì e il numero minimo è 12. 	
 > 	
-> 	
 > D) Sì e il numero minimo è maggiore di 12.  	
 > 	
 > E) Non è possibile.
@@ -92,9 +91,6 @@ tags:
 > B’
 > C’
 > 
-> Kangourou 2016
-> pagina 31
-> STUDENT
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]

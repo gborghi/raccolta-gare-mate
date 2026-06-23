@@ -58,28 +58,6 @@ tags:
 > B
 > B
 > A B
-> E
-> A
-> D
-> D
-> B
-> E
-> B
-> A
-> D
-> E
-> B
-> D
-> A
-> C
-> C
-> C
-> D
-> D
-> C
-> A
-> E
-> D
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

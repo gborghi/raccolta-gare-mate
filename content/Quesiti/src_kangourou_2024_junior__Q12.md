@@ -44,7 +44,6 @@ tags:
 > D) 96	
 > 	
 > E) 198
-> JUNIOR
 > 2
 > 3 × 1
 > 1
@@ -52,9 +51,6 @@ tags:
 > 3 = 2024
 > ×
 > 
-> Kangourou 2024
-> pagina 23
-> JUNIOR
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

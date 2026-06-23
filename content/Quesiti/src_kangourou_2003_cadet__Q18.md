@@ -34,14 +34,12 @@ tags:
 > nell'ordine in cui li abbiamo elencati. Se AD = CF e BD = DF, deve succedere
 > necessariamente che
 > A) AB = BC         B) BC = DE      C) BD = EF      D) AB = CD           E) CD = EF 
-> 15-20-Cadet.qxd  29/03/2003  8.22  Pagina  18
 > 
 > Pag. 
 > Pag. 19
 > 19
 > Kang 2003
 > Kang 2003
-> Cadet
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

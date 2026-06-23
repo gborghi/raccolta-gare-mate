@@ -54,9 +54,6 @@ tags:
 > ------ 
 >  19
 > 
-> Kangourou 2014
-> pagina 25
-> JUNIOR
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]

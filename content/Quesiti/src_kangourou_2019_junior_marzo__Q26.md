@@ -55,9 +55,6 @@ tags:
 > S
 > T
 > 
-> Kangourou 2019
-> pagina 25
-> JUNIOR
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

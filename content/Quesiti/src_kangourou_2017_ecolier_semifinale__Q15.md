@@ -52,23 +52,7 @@ tags:
 > vedi in figura? (Attenzione: un triangolo non può avere vertici in tre punti 
 > allineati e, dei punti in figura, i 4 sopra e i 5 sotto sono allineati.) 
 >  
-> 
 > Quesito N.
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
 > punteggio
 > 2
 > 3
@@ -86,13 +70,6 @@ tags:
 > 8
 > 8
 > risposta
-> A
-> B
-> C
-> E
-> D
-> B
-> C
 > 0228
 > 0627
 > 0022

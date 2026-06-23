@@ -38,33 +38,7 @@ tags:
 > qual è il minimo numero di operazioni che sono sufficienti per raggiungere 2022? (Ad esempio per 
 > raggiungere 6 ne occorrono e bastano 3: 1 × 3 + 4 − 1.) 
 >  
->  
->  
-> 1 
-> 2 
-> 3 
-> 4 
-> 5 
-> 6 
-> 7 
-> 8 
-> 9 
-> 10 
-> 11 
-> 12 
-> 13 
-> 14 
-> 15 
-> 16 
-> 17 
-> 18 
 > D D D 
-> B 
-> A 
-> E 
-> E 
-> D 
-> D 
 > 0002 0012 0250 0025 0048 0189 0015 0016 0009
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

@@ -50,9 +50,6 @@ tags:
 > 9
 > 1
 > 
-> Kangourou 2020
-> pagina 30
-> STUDENT
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

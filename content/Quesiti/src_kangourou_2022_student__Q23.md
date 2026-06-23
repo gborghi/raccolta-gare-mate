@@ -53,13 +53,8 @@ tags:
 > 5 
 > 5 
 >  
->  
->  
-> 
->  
 > pagina 
 > 32 
-> Kangourou 2022
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

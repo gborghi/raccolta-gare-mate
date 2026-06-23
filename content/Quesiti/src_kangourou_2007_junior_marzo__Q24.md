@@ -51,7 +51,6 @@ tags:
 > 27
 > Kang 2007
 > Kang 2007
-> Junior
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

@@ -54,9 +54,6 @@ tags:
 > 3
 > 4
 > 
-> Kangourou 2023
-> pagina 14
-> BENJAMIN
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

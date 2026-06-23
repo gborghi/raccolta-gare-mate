@@ -36,16 +36,12 @@ tags:
 > B) Martedì	
 > C) Venerdì	
 > D) Sabato            E) Domenica
-> JUNIOR
 > Atown 3 km
 > Betown 1 km
 > Atown 6 km
 > Betown 2 km
 > ?
 > 
-> Kangourou 2020
-> pagina 23
-> JUNIOR
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

@@ -42,69 +42,8 @@ tags:
 > C) Il terzo e il 2009-mo
 > D) Il quarto e l’ultimo                           
 > E) il secondo e il 2011-mo
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:29  Pagina 32
 > 
 > RISPOSTE STUDENT 2012
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
-> E
-> B
-> C
-> D
-> D
-> C
-> D
-> D
-> E
-> C
-> A
-> D
-> A
-> C
-> C
-> D
-> D
-> B
-> C
-> D
-> C
-> C
-> D
-> B
-> D
-> B
-> A
-> B
-> E
-> B
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -66,7 +66,6 @@ tags:
 > 20
 > Kang 201
 > Kang 2011
-> Cadet
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]

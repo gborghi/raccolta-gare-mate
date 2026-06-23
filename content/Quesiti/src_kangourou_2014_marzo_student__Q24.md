@@ -66,9 +66,6 @@ tags:
 > -----
 > √2
 > 
-> Kangourou 2014
-> pagina 31
-> STUDENT
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

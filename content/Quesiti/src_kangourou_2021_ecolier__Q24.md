@@ -61,21 +61,6 @@ tags:
 > 
 > Risposte ECOLIER 
 >  
-> C C B B E C D C E C 
-> D 
-> D 
-> C 
-> D 
-> D 
-> B 
-> A 
-> E 
-> D 
-> A 
-> D 
-> E 
-> D 
-> A
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

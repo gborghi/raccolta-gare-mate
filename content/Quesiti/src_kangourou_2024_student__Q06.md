@@ -57,9 +57,6 @@ tags:
 > 1
 > 1
 > 
-> Kangourou 2024
-> pagina 27
-> STUDENT
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

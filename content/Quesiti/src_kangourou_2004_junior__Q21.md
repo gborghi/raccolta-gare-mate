@@ -58,15 +58,12 @@ tags:
 > 1
 > Cˆ
 > Dˆ
-> Junior.qxd  22/02/2004  22.41  Pagina  25
 > 
 > Pag. 
 > Pag. 26
 > 26
 > Kang 2004
 > Kang 2004
-> Junior
-> Junior
 > ra della figura 1) e mostra, istante per istante, la quota a cui si trova
 > l'alpinista (all'istante 0 egli parte da A mentre all'istante 1 raggiunge
 > B). Quante volte l'alpinista è tornato indietro per cercare qualcosa?

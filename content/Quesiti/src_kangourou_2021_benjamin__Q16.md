@@ -69,9 +69,6 @@ tags:
 > 6 cm
 > ?
 > 
-> Kangourou 2021
-> pagina 13
-> BENJAMIN
 > A) A	
 > 	
 > B) B	

@@ -71,9 +71,6 @@ tags:
 > A B
 > D
 > 
-> Kangourou 2021
-> pagina 20
-> CADET
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

@@ -49,9 +49,6 @@ tags:
 > 100 g
 > ?
 > 
-> Kangourou 2019
-> pagina 8
-> ECOLIER
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

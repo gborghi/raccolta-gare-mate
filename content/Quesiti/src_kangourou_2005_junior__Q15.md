@@ -46,8 +46,6 @@ tags:
 > 25
 > Kang 2005
 > Kang 2005
-> Junior
-> Junior
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

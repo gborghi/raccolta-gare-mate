@@ -72,9 +72,6 @@ tags:
 > 6
 > 24
 > 
-> Kangourou 2024
-> pagina 24
-> JUNIOR
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

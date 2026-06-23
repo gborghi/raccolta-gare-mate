@@ -39,14 +39,12 @@ tags:
 > A) La parola è HELO          B) La parola è HELP             C) La parola è HERO
 > D) È una parola di 4 lettere diversa dalle tre precedenti
 > E) La parola non esiste, perché Alice ha commesso un errore
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:28  Pagina 22
 > 
 > Pag. 
 > Pag. 23
 > 23
 > Kang 2012
 > Kang 2012
-> Junior
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

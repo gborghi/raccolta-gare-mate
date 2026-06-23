@@ -43,7 +43,6 @@ tags:
 > 23
 > Kang 2007
 > Kang 2007
-> Junior
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

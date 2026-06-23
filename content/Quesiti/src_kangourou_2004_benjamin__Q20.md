@@ -49,15 +49,12 @@ tags:
 > Pin
 > Rin
 > Tin
-> 9-14-Benjamin.qxd  22/02/2004  16.53  Pagina  13
 > 
 > Pag. 
 > Pag. 14
 > 14
 > Kang 2004
 > Kang 2004
-> Benjamin
-> Benjamin
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

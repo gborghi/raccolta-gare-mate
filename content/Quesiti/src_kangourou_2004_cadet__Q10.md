@@ -42,14 +42,12 @@ tags:
 > 3
 > n
 > 1,7 m
-> 15-20-Cadet.qxd  22/02/2004  22.51  Pagina  17
 > 
 > Pag. 
 > Pag. 18
 > 18
 > Kang 2004
 > Kang 2004
-> Cadet
 > I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]

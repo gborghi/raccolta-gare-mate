@@ -40,8 +40,6 @@ tags:
 > E) 505  
 > Y
 > 
->  
-> Kangourou 2022
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

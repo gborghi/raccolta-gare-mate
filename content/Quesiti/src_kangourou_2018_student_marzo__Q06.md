@@ -41,7 +41,6 @@ tags:
 > D) 3	
 > 	
 > E) più di 3
-> STUDENT
 > portico 
 > 1
 > 3
@@ -52,9 +51,6 @@ tags:
 > ----------------------------------------------------------------------------------------------------------  =
 >                                2018 + 2018 + 2018 + 2018
 > 
-> Kangourou 2018
-> pagina 27
-> STUDENT
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

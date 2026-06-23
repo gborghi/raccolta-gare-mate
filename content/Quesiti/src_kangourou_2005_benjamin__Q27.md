@@ -51,8 +51,6 @@ tags:
 > 15
 > Kang 2005
 > Kang 2005
-> Benjamin
-> Benjamin
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

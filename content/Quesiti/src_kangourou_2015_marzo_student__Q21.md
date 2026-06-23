@@ -70,9 +70,6 @@ tags:
 > 4
 > 6
 > 
-> Kangourou 2015
-> pagina 30
-> STUDENT
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

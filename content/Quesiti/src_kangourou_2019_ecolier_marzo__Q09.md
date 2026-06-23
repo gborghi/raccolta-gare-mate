@@ -68,9 +68,6 @@ tags:
 >          
 > E) Non può riuscire ad evitare tutte le pozze.
 > 
-> Kangourou 2019
-> pagina 7
-> ECOLIER
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

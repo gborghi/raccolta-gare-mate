@@ -40,7 +40,6 @@ tags:
 > 30
 > Kang 2006
 > Kang 2006
-> Student
 > tudent
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

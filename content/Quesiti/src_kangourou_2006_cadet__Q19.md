@@ -51,7 +51,6 @@ tags:
 > 20
 > Kang 2006
 > Kang 2006
-> Cadet
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

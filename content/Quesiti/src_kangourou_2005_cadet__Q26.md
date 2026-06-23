@@ -45,7 +45,6 @@ tags:
 > 21
 > Kang 2005
 > Kang 2005
-> Cadet
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

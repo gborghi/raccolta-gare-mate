@@ -35,34 +35,6 @@ tags:
 > ottenuti: se il prodotto è un numero pari vince Anna, se è un numero dispari vince Ernesto. Denota la 
 > probabilità che vinca Anna con p/100: quanto vale p?  
 >  
->  
-> 1 
-> 2 
-> 3 
-> 4 
-> 5 
-> 6 
-> 7 
-> 8 
-> 9 
-> 10 
-> 11 
-> 12 
-> 13 
-> 14 
-> 15 
-> 16 
-> 17 
-> 18 
-> D 
-> B 
-> A 
-> E 
-> D 
-> B 
-> D 
-> B 
-> B 
 > 12 
 > 25 
 > 189 

@@ -46,15 +46,12 @@ tags:
 > Y
 > 14
 > 11
-> 9-14-Benjamin.qxd  29/03/2003  8.15  Pagina  10
 > 
 > Pag. 
 > Pag. 11
 > 11
 > Kang 2003
 > Kang 2003
-> Benjamin
-> Benjamin
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

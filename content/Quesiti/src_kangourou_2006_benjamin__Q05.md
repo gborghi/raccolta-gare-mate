@@ -49,8 +49,6 @@ tags:
 > 11
 > Kang 2006
 > Kang 2006
-> Benjamin
-> Benjamin
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

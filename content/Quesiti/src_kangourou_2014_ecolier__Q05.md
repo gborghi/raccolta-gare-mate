@@ -37,7 +37,6 @@ tags:
 > C) Susanna	
 > D) Diana		
 > E) Lucia
-> ECOLIER
 > A)
 > B)
 > C)
@@ -55,8 +54,6 @@ tags:
 > D)
 > E)
 > 
-> Kangourou 2014
-> pagina 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

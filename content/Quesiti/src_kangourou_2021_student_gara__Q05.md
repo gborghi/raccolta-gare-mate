@@ -68,11 +68,7 @@ tags:
 > 
 > 
 > 
-> STUDENT
 > 
-> Kangourou 2021
-> pagina 27
-> STUDENT
 > x
 > y
 > 0

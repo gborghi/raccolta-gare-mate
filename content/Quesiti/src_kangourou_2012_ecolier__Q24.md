@@ -41,63 +41,8 @@ tags:
 > C) 10
 > D) 9
 > E) 8
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:26  Pagina 9
 > 
 > RISPOSTE ECOLIER 2012
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
-> A
-> D
-> B
-> C
-> B
-> E
-> B
-> C
-> D
-> E
-> B
-> E
-> C
-> B
-> D
-> C
-> D
-> A
-> D
-> B
-> A
-> E
-> E
-> C
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

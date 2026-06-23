@@ -42,7 +42,6 @@ tags:
 > C) 9 p	 	
 > D)       p         
 > E) Le informazioni non sono sufficienti per rispondere.
-> STUDENT
 > x5 −11x4 + 34x3 −46x2 + 29x −7
 > 8
 > 6
@@ -53,9 +52,6 @@ tags:
 >  3  
 >  4
 > 
-> Kangourou 2023
-> pagina 31
-> STUDENT
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

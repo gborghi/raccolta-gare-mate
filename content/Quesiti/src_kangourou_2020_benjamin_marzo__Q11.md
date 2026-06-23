@@ -60,9 +60,6 @@ tags:
 > 5
 > 2
 > 
-> Kangourou 2020
-> pagina 12
-> BENJAMIN
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

@@ -38,58 +38,9 @@ tags:
 > consecutivi (rispetto a come appaiono sulla circonferenza). Qual è il più piccolo numero di domande 
 > che ti basta porre? 
 >  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
 > Risposte 
 >  
-> 1 
-> 2 
-> 3 
-> 4 
-> 5 
-> 6 
-> 7 
-> 8 
-> 9 
-> 10 
-> 11 
-> 12 
-> 13 
-> 14 
-> 15 
-> 16 
-> 17 
-> 18 
-> C 
-> B 
-> D 
-> E 
-> D 
-> E 
-> E 
-> C 
-> E 
 > 0040 0038 1001 0001 0000 9999 0045 0027 0098
->  
 >  
 > M 
 > N

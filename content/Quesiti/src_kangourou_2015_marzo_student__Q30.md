@@ -58,66 +58,6 @@ tags:
 > Prof. C. Zanco (Università degli Studi di Milano)
 > 
 > STRINGA STUDENT 2015
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
-> E
-> E
-> A
-> A
-> D
-> D
-> B
-> C
-> C
-> B
-> C
-> D
-> E
-> C
-> B
-> D
-> C
-> A
-> C
-> A
-> D
-> A
-> E
-> C
-> E
-> D
-> C
-> B
-> D
-> D
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

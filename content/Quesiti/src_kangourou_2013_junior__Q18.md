@@ -57,9 +57,6 @@ tags:
 > ^
 > ^
 > 
-> Kangourou 2013
-> pagina 24
-> JUNIOR
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

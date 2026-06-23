@@ -39,7 +39,6 @@ tags:
 > Pag. 6
 > Kang 2005
 > Kang 2005
-> Ecolier
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

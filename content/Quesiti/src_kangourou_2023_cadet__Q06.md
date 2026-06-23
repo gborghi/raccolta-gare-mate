@@ -66,9 +66,6 @@ tags:
 > 8
 > ?
 > 
-> Kangourou 2023
-> pagina 17
-> CADET
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

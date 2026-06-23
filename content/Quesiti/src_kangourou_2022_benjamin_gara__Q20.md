@@ -54,15 +54,9 @@ tags:
 > uguali le somme dei tre numeri su ciascun segmento. Qual è la 
 > massima somma che Giacomo può ottenere su ciascun segmento?  
 >   
->   
->   
->   
 > E)   
 > E) 6 
 > 
->  
-> pagina 14 
-> Kangourou 2022  
 > A) 102   
 > A)   
 >   

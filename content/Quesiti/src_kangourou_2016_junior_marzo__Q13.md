@@ -37,21 +37,14 @@ tags:
 > 	
 > A) Gina  batte  Bianca	
 > 	
-> 	
 > B) Carla  batte  Anna	
-> 	
 > 	
 > C) Emma  batte  Carla
 > 	
 > D) Bianca  batte  Hether	
 > 	
-> 	
 > E) Gina  batte  Emma
-> JUNIOR
 > 
-> Kangourou 2016
-> pagina 23
-> JUNIOR
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

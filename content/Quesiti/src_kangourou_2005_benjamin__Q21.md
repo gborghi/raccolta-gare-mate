@@ -44,8 +44,6 @@ tags:
 > 14
 > Kang 2005
 > Kang 2005
-> Benjamin
-> Benjamin
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

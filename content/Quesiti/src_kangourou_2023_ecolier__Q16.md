@@ -34,14 +34,11 @@ tags:
 > re sui suoi passi. In quale ordine vedrà i dipinti alle pareti?
 > A) 	
 > 	
-> 	
 > B) 	
-> 	
 > 	
 > C)	
 >  	
 > D) 	
-> 	
 > 	
 > E) 
 > Via A
@@ -61,9 +58,6 @@ tags:
 > Piano terra
 > Primo piano
 > 
-> Kangourou 2023
-> pagina 8
-> ECOLIER
 > I quesiti dal N. 17 al N. 24 valgono 5 punti ciascuno
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]

@@ -60,9 +60,6 @@ tags:
 > S
 > E
 > 
-> Kangourou 2014
-> pagina 9
-> ECOLIER
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

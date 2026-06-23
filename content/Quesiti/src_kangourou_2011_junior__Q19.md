@@ -67,7 +67,6 @@ tags:
 > 25
 > Kang 201
 > Kang 2011
-> Junior
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

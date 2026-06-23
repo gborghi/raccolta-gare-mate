@@ -40,13 +40,9 @@ tags:
 > D) 10	
 > 	
 > E) 11
-> JUNIOR
 > 
 > 
 > 
-> Kangourou 2017
-> pagina 23
-> JUNIOR
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -39,9 +39,6 @@ tags:
 >          D) 	
 >        E) 
 > 
-> Kangourou 2019
-> pagina 12
-> BENJAMIN
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

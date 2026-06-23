@@ -81,8 +81,6 @@ tags:
 > 27
 > Kang 2006
 > Kang 2006
-> Junior
-> Junior
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

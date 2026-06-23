@@ -63,9 +63,6 @@ tags:
 > V
 > I
 > 
-> Kangourou 2021
-> pagina 24
-> JUNIOR
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

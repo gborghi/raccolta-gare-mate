@@ -38,9 +38,6 @@ tags:
 >   E) 6
 > Partenza
 > 
-> Kangourou 2013
-> pagina 12
-> BENJAMIN
 > I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

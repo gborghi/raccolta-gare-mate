@@ -41,9 +41,6 @@ tags:
 > D) 299	 	
 > E) 325
 > 
-> Kangourou 2014
-> pagina 20
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalita]]

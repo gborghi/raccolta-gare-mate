@@ -39,7 +39,6 @@ tags:
 > Pag. 8
 > Kang 201
 > Kang 2011
-> Ecolier
 > A)
 > B)
 > C)
@@ -59,7 +58,6 @@ tags:
 > Pag. 9
 > Kang 201
 > Kang 2011
-> Ecolier
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

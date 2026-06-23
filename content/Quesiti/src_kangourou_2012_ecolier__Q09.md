@@ -85,13 +85,11 @@ tags:
 > Jake
 > Ada
 > Gino
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:26  Pagina 6
 > 
 > Pag. 
 > Pag. 7
 > Kang 2012
 > Kang 2012
-> Ecolier
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

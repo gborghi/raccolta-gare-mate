@@ -40,10 +40,6 @@ tags:
 >   
 > E)  
 > 
->  
-> Kangourou 2022 
-> pagina  15 
->  
 > B)  
 >  
 > C)

@@ -33,13 +33,11 @@ tags:
 > B) 7
 > C)8            D) 9
 > E) 10
-> 5-8-Ecolier.qxd  22/02/2004  14.55  Pagina  6
 > 
 > Pag. 
 > Pag. 7
 > Kang 2004
 > Kang 2004
-> Ecolier
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

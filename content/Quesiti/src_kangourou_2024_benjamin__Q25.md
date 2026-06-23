@@ -67,9 +67,6 @@ tags:
 > 7
 > 7
 > 
-> Kangourou 2024
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]

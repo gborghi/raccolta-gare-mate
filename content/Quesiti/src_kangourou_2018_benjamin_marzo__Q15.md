@@ -44,9 +44,6 @@ tags:
 > D) D 
 > E) E
 > 
-> Kangourou 2018
-> pagina 13
-> BENJAMIN
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

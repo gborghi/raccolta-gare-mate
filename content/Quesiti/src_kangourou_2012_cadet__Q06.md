@@ -35,14 +35,12 @@ tags:
 > C) 8 + 8 – 8 + 8 
 > D)  (8 + 8 – 8) ⋅8 
 > E) (8 + 8 – 8) : 8
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:27  Pagina 16
 > 
 > Pag. 
 > Pag. 17
 > 17
 > Kang 2012
 > Kang 2012
-> Cadet
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

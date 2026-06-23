@@ -34,15 +34,6 @@ tags:
 > somma dei numeri presenti sulle due parti è la stessa. Quanto deve valere al minimo la somma dei 
 > numeri che denotano le due tacche a cavallo delle quali si è rotto il righello?
 > 
-> E
-> D
-> E
-> E
-> E
-> C
-> A
-> E
-> A
 > 0001
 > 0019
 > 0048

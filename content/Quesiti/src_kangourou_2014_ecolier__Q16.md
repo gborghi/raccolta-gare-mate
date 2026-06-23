@@ -50,9 +50,6 @@ tags:
 > 50
 > 70
 > 
-> Kangourou 2014
-> pagina 8
-> ECOLIER
 > I quesiti dal n. 17 al n. 24 valgono 5 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

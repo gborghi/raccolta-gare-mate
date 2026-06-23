@@ -41,7 +41,6 @@ tags:
 > D) 4	
 > 	
 > E) 3
-> STUDENT
 > (33)
 > (33–1)
 > (23)
@@ -49,9 +48,6 @@ tags:
 > 3
 > √
 > 
-> Kangourou 2013
-> pagina 28
-> STUDENT
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

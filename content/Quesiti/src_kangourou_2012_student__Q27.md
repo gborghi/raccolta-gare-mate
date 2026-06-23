@@ -39,14 +39,12 @@ tags:
 > C) C ≡(3; 4; 7)
 > D) D ≡(3; 4; 5)
 > E) E ≡(2; 3; 5)
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:29  Pagina 31
 > 
 > Pag. 
 > Pag. 32
 > 32
 > Kang 2012
 > Kang 2012
-> Student
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

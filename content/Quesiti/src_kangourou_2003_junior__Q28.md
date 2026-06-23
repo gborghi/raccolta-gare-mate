@@ -39,15 +39,12 @@ tags:
 > C) 22
 > D) 30
 > E) 63
-> Junior.qxd  29/03/2003  8.23  Pagina  26
 > 
 > Pag. 
 > Pag. 27
 > 27
 > Kang 2003
 > Kang 2003
-> Junior
-> Junior
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

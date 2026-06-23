@@ -43,8 +43,6 @@ tags:
 > D) 20    
 > E) 25 
 >  
->  
-> 1 2 3 4 5 6 7 8 9 1
 > 0 
 > 1
 > 1 
@@ -86,7 +84,6 @@ tags:
 > 9 
 > 3
 > 0 
-> E E B C A C C C B E C B D E A E D B A E E C D C E D B D B D
 >  
 > dall'alto 
 > dal davanti 

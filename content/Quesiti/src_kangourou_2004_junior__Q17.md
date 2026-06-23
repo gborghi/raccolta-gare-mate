@@ -46,15 +46,12 @@ tags:
 > 7
 > 5
 > tanica I
-> Junior.qxd  22/02/2004  22.41  Pagina  24
 > 
 > Pag. 
 > Pag. 25
 > 25
 > Kang 2004
 > Kang 2004
-> Junior
-> Junior
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

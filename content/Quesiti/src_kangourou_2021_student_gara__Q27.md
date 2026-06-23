@@ -43,7 +43,6 @@ tags:
 > 	
 > D) 13,5	 	
 > E) 14
-> STUDENT
 > A
 > v
 > B
@@ -77,9 +76,6 @@ tags:
 > 3
 > 3
 > 
-> Kangourou 2021
-> pagina 31
-> STUDENT
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

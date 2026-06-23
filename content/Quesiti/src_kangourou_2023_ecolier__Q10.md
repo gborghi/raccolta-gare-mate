@@ -40,9 +40,6 @@ tags:
 > D) Quello da 4 kg.	
 > E) Non è possibile stabilirlo con certezza.
 > 
-> Kangourou 2023
-> pagina 7
-> ECOLIER
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -51,7 +51,6 @@ tags:
 > 26
 > Kang 2008
 > Kang 2008
-> Junior
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

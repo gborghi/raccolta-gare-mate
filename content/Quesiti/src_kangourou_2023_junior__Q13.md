@@ -42,7 +42,6 @@ tags:
 > C) 61/4	 	
 > D) 65/4	 	
 > E) 69/4
-> JUNIOR
 > A
 > B
 > C
@@ -54,9 +53,6 @@ tags:
 > 5 cm
 > 8 cm
 > 
-> Kangourou 2023
-> pagina 23
-> JUNIOR
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

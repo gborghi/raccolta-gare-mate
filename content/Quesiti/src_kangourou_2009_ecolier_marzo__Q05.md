@@ -46,7 +46,6 @@ tags:
 > Pag. 6
 > Kang 2009
 > Kang 2009
-> Ecolier
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

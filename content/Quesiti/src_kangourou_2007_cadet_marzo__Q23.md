@@ -38,15 +38,6 @@ tags:
 > C) Dina ed Franca insieme pesano più di Anna e Carla.
 > D) Anna ed Bice insieme pesano meno di Carla e Franca. 
 > E) Anna, Bice e Carla insieme pesano quanto Dina, Emma e Franca.
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
 > D
 > N
 > K
@@ -63,7 +54,6 @@ tags:
 > 20
 > Kang 2007
 > Kang 2007
-> Cadet
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

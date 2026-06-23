@@ -56,9 +56,6 @@ tags:
 > 2 0
 > ?
 > 
-> Kangourou 2024
-> pagina 14
-> BENJAMIN
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

@@ -52,9 +52,6 @@ tags:
 > D
 > E
 > 
-> Kangourou 2017
-> pagina 24
-> JUNIOR
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

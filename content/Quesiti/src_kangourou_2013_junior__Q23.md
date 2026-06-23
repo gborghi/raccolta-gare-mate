@@ -49,9 +49,6 @@ tags:
 > 	
 > E) 8
 > 
-> Kangourou 2013
-> pagina 25
-> JUNIOR
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

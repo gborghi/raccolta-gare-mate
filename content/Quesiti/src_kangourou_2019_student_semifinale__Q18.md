@@ -33,15 +33,6 @@ tags:
 > cliente che voglia acquistare 30 di quei pezzi, indipendentemente dalla tipologia, in quanti modi 
 > diversi rispetto alle tipologie può farlo?
 > 
-> D
-> E
-> E
-> C
-> E
-> A
-> A
-> E
-> E
 > 0019
 > 0902
 > 7200

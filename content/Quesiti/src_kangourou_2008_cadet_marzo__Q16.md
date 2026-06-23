@@ -66,7 +66,6 @@ tags:
 > 19
 > Kang 2008
 > Kang 2008
-> Cadet
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]

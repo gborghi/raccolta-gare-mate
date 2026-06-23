@@ -58,9 +58,6 @@ tags:
 > ieri
 > oggi
 > 
-> Kangourou 2023
-> pagina 20
-> CADET
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

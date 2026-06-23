@@ -59,9 +59,6 @@ tags:
 > 216
 > 2768
 > 
-> Kangourou 2016
-> pagina 29
-> STUDENT
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

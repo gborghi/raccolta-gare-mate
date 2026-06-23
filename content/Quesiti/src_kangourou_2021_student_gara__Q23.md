@@ -90,8 +90,6 @@ tags:
 >  1---- 
 >  2
 > 
-> Kangourou 2021
-> pagina 30
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

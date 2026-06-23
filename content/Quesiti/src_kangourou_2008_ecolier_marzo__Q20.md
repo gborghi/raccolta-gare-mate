@@ -37,7 +37,6 @@ tags:
 > Pag. 8
 > Kang 2008
 > Kang 2008
-> Ecolier
 > P
 > G
 > A
@@ -48,7 +47,6 @@ tags:
 > Pag. 9
 > Kang 2008
 > Kang 2008
-> Ecolier
 > A) Quadrato 
 > B) Trapezio 
 > C) Triangolo 

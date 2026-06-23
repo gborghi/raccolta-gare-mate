@@ -47,15 +47,12 @@ tags:
 > 4
 > 4
 > 2
-> 27-32-Student.qxd  29/03/2003  8.24  Pagina  31
 > 
 > Pag. 
 > Pag. 32
 > 32
 > Kang 2003
 > Kang 2003
-> Student
-> Student
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

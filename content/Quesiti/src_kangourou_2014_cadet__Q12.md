@@ -64,9 +64,6 @@ tags:
 >  1---- 
 >  8
 > 
-> Kangourou 2014
-> pagina 17
-> CADET
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]

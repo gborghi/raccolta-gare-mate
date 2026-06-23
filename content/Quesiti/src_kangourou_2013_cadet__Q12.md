@@ -39,9 +39,6 @@ tags:
 > γ
 > δ
 > 
-> Kangourou 2013
-> pagina 18
-> CADET
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

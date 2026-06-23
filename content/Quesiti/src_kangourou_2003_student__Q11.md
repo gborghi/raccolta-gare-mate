@@ -45,15 +45,12 @@ tags:
 > X
 > Y
 > X x Y
-> 27-32-Student.qxd  29/03/2003  8.24  Pagina  29
 > 
 > Pag. 
 > Pag. 30
 > 30
 > Kang 2003
 > Kang 2003
-> Student
-> Student
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

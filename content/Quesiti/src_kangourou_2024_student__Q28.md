@@ -41,16 +41,12 @@ tags:
 > 	
 > D) 22	
 > E) Nessuno dei numeri precedenti
-> STUDENT
 > 30
 > 42
 > 36
 > 14
 > ?
 > 
-> Kangourou 2024
-> pagina 31
-> STUDENT
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

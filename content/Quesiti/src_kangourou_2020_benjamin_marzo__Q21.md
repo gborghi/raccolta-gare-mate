@@ -48,9 +48,6 @@ tags:
 > 5
 > 6
 > 
-> Kangourou 2020
-> pagina 14
-> BENJAMIN
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

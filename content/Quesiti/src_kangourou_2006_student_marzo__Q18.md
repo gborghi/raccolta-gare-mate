@@ -84,7 +84,6 @@ tags:
 > 31
 > Kang 2006
 > Kang 2006
-> Student
 > tudent
 
 **Topic:** [[topic_combinatoria|Combinatoria]]

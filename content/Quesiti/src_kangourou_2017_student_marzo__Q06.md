@@ -40,7 +40,6 @@ tags:
 > C) 2/7	 	
 > D) 3/8	 	
 > E) 4/11
-> STUDENT
 >      20 × 17
 > --------------------- 
 >  2 + 0 + 1 + 7
@@ -62,9 +61,6 @@ tags:
 > 4
 > x
 > 
-> Kangourou 2017
-> pagina 27
-> STUDENT
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -55,9 +55,6 @@ tags:
 > -------------
 > Z   Z   Z
 > 
-> Kangourou 2015
-> pagina 14
-> BENJAMIN
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]

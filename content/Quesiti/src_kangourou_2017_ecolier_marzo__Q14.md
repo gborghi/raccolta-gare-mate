@@ -47,9 +47,6 @@ tags:
 > 	
 > E) 85 
 > 
-> Kangourou 2017
-> pagina 8
-> ECOLIER
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

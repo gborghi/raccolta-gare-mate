@@ -57,7 +57,6 @@ tags:
 > Pag. 7
 > Kang 2009
 > Kang 2009
-> Ecolier
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

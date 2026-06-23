@@ -37,15 +37,6 @@ tags:
 > distinti, fra di essi ve ne siano almeno due la cui somma o la cui differenza è divisibile per 100. Qual 
 > è il più piccolo valore di n che consente di avere questa certezza?
 > 
-> E
-> B
-> B
-> E
-> E
-> D
-> D
-> E
-> D
 > 0005
 > 9000
 > 2019

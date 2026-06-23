@@ -40,55 +40,7 @@ tags:
 > E) 948
 > 
 > numero
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
 > Risposte
-> E
-> E
-> A
-> A
-> D
-> E
-> E
-> C
-> B
-> C
-> D
-> E
-> D
-> A
-> D
-> B
-> B
-> C
-> A
-> D
-> C
-> D
-> B
-> D
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]

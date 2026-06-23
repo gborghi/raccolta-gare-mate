@@ -34,7 +34,6 @@ tags:
 > Osserva la figura a fianco. Quale delle seguenti piastrelle devi met­
 > tere al posto del punto di domanda, se vuoi che la parte dipinta di nero 
 > abbia la stessa area di quella rimasta bianca?
-> ECOLIER
 > A)
 > B)
 > C)
@@ -55,9 +54,6 @@ tags:
 > D)
 > E)
 > 
-> Kangourou 2014
-> pagina 7
-> ECOLIER
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

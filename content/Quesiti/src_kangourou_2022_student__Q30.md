@@ -41,7 +41,6 @@ tags:
 > D) 840   
 > E) 994 
 >  
-> 1 2 3 4 5 6 7 8 9 1
 > 0 
 > 1
 > 1 
@@ -83,7 +82,6 @@ tags:
 > 9 
 > 3
 > 0 
-> E B B D D B A D E A D C E B A C B B D C D A E C B C C D A B
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

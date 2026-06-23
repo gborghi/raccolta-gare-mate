@@ -55,14 +55,12 @@ tags:
 > π
 > 3
 > 48
-> Student.qxd  22/02/2004  16.46  Pagina  31
 > 
 > Pag. 
 > Pag. 32
 > 32
 > Kang 2004
 > Kang 2004
-> Student
 > tudent
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

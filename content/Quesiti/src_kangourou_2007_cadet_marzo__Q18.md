@@ -50,7 +50,6 @@ tags:
 > 19
 > Kang 2007
 > Kang 2007
-> Cadet
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

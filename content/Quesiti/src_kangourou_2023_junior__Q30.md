@@ -52,36 +52,6 @@ tags:
 > 10
 > 4
 > 
-> A
-> C
-> D
-> B
-> D
-> C
-> D
-> B
-> E
-> C
-> D
-> E
-> B
-> C
-> B
-> C
-> D
-> B
-> C
-> A
-> C
-> B
-> A
-> A
-> D
-> C
-> D
-> E
-> B
-> A
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]

@@ -46,13 +46,6 @@ tags:
 > D) 22	
 > 	
 > E) 23
-> A
-> B
-> C
-> A
-> B
-> C
-> D
 > M
 > N
 > Q
@@ -66,8 +59,6 @@ tags:
 > 9
 > 8
 > 
-> Kangourou 2024
-> pagina 28
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

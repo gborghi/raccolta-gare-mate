@@ -51,14 +51,12 @@ tags:
 > 3
 > 6
 > ?
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:28  Pagina 23
 > 
 > Pag. 
 > Pag. 24
 > 24
 > Kang 2012
 > Kang 2012
-> Junior
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

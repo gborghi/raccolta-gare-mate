@@ -55,8 +55,6 @@ tags:
 > 13
 > Kang 2006
 > Kang 2006
-> Benjamin
-> Benjamin
 > velocità costante di 60 km/h. In questo istante distano 140 km. Fra
 > quanto tempo, dopo essersi incrociati, la loro distanza tornerà ad
 > essere di 140 km, se continuano a viaggiare alla medesima velocità?

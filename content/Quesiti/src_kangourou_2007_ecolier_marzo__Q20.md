@@ -41,14 +41,12 @@ tags:
 > Pag. 8
 > Kang 2007
 > Kang 2007
-> Ecolier
 > Testi_07.qxp  16-04-2007  12:02  Pagina 8
 > 
 > Pag. 
 > Pag. 9
 > Kang 2007
 > Kang 2007
-> Ecolier
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

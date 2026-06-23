@@ -52,9 +52,6 @@ tags:
 > D) 4 / 3	 	
 > E) 2 / √3
 > 
-> Kangourou 2019
-> pagina 24
-> JUNIOR
 > I quesiti dal N. 20 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

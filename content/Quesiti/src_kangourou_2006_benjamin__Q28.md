@@ -48,8 +48,6 @@ tags:
 > 16
 > Kang 2006
 > Kang 2006
-> Benjamin
-> Benjamin
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

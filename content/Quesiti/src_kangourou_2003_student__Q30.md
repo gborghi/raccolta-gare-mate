@@ -52,7 +52,6 @@ tags:
 > B
 > C
 > F
-> 27-32-Student.qxd  29/03/2003  8.24  Pagina  32
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

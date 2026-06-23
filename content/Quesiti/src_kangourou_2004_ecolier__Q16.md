@@ -39,13 +39,11 @@ tags:
 > 3
 > 4
 > 5
-> 5-8-Ecolier.qxd  22/02/2004  14.55  Pagina  7
 > 
 > Pag. 
 > Pag. 8
 > Kang 2004
 > Kang 2004
-> Ecolier
 > I quesiti dal N. 17 al N. 24 valgono 5 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

@@ -54,8 +54,6 @@ tags:
 > Y
 > 45°
 > 
-> Kangourou 2024
-> pagina 30
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

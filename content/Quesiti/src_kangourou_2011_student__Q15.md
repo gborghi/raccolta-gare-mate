@@ -73,7 +73,6 @@ tags:
 > 30
 > Kang 201
 > Kang 2011
-> Student
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

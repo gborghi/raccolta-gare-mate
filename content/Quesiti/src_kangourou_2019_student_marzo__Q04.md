@@ -37,11 +37,7 @@ tags:
 > 	
 > D) 48 	 	
 > E) 69
-> STUDENT
 > 
-> Kangourou 2019
-> pagina 27
-> STUDENT
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

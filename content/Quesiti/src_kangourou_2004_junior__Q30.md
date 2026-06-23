@@ -38,7 +38,6 @@ tags:
 > delle cifre di posto pari.
 > A) 29         B) 126         C) 81          D) 32         E) 64
 > P
-> Junior.qxd  22/02/2004  22.41  Pagina  27
 > 
 >  SOLUZIONI JUNIOR 2004
 

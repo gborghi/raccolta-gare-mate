@@ -61,15 +61,6 @@ tags:
 > entrambi sulla piazzola 7: quando ciò accadrà per la prima volta, quale giro di 
 > pista starà facendo Bill?  
 > A) Il primo.         B) Il secondo.          C) Il terzo.            D) Il quarto.          E) Il quinto.
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
 > A
 > B
 > C
@@ -102,19 +93,6 @@ tags:
 > ...
 > ...
 > ...
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]

@@ -42,9 +42,6 @@ tags:
 > 	
 > E) 4
 > 
-> Kangourou 2015
-> pagina 24
-> JUNIOR
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

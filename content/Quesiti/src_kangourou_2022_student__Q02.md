@@ -32,9 +32,6 @@ tags:
 
 > Quanti interi positivi di tre cifre sono divisibili per 13? 
 > 
->  
-> Kangourou 2022 
-> pagina  27
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

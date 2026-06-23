@@ -48,7 +48,6 @@ tags:
 > 29
 > Kang 2007
 > Kang 2007
-> Student
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

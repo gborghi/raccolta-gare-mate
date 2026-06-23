@@ -39,32 +39,7 @@ tags:
 > passare tutti sull’altra riva se per l’attraversamento Anna impiega 10 minuti, Bob 5, Carla 2 e Doris 
 > 1 minuto e, ovviamente, se due amici attraversano insieme, lo fanno alla velocità del più lento? 
 >  
-> 
 > Risposte 
-> 1 
-> 2 
-> 3 
-> 4 
-> 5 
-> 6 
-> 7 
-> 8 
-> 9 
-> 10 
-> 11 
-> 12 
-> 13 
-> 14 
-> 15 
-> E 
-> D 
-> C 
-> B 
-> C 
-> B 
-> A 
-> D 
-> C 
 > 0003 0015 0003 0025 0101 0017
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]

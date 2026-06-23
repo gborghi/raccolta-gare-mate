@@ -53,7 +53,6 @@ tags:
 > Pag. 7
 > Kang 2006
 > Kang 2006
-> Ecolier
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

@@ -46,9 +46,6 @@ tags:
 > D) 12    
 > E) 14 
 >   
->  
->  
-> 1 2 3 4 5 6 7 8 9 1
 > 0 
 > 1
 > 1 
@@ -78,9 +75,7 @@ tags:
 > 3 
 > 2
 > 4 
-> E C D C E B A C B D C E D B E B B D E E C B E D 
 >  
->   
 > B)          
 > D)   
 >   

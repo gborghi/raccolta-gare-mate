@@ -49,9 +49,6 @@ tags:
 > B
 > C
 > 
-> Kangourou 2017
-> pagina 28
-> STUDENT
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]

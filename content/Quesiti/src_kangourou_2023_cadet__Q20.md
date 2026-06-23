@@ -52,9 +52,6 @@ tags:
 > Lidia
 > O
 > 
-> Kangourou 2023
-> pagina 19
-> CADET
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

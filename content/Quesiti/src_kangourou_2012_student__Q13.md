@@ -38,14 +38,12 @@ tags:
 > D) (-3, +∞) .
 > E) l’insieme di tutti i numeri reali.
 > α
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:29  Pagina 28
 > 
 > Pag. 
 > Pag. 29
 > 29
 > Kang 2012
 > Kang 2012
-> Student
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]

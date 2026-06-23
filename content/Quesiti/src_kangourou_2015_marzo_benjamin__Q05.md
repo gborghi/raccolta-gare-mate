@@ -34,7 +34,6 @@ tags:
 > C) 21/10	
 > D) 22/11	
 > E) 23/12
-> BENJAMIN
 > R
 > A
 > G
@@ -44,9 +43,6 @@ tags:
 > O
 > O
 > 
-> Kangourou 2015
-> pagina 11
-> BENJAMIN
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]

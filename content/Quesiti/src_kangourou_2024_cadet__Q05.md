@@ -46,9 +46,6 @@ tags:
 > 5
 > 11
 > 
-> Kangourou 2024
-> pagina 17
-> CADET
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

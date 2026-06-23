@@ -58,24 +58,17 @@ tags:
 > D) 30 
 > E) Nessuna delle precedenti risposte è corretta. 
 >    
->   
 > B)   
->   
 >   
 > C)   
 >   
->   
 > D)   
->   
 >   
 > E)  
 >  
 > : 
 > : 
 > 
->  
-> Kangourou 2022 
-> pagina  13
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

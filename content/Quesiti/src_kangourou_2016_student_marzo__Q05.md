@@ -41,7 +41,6 @@ tags:
 >         C)	 	
 >          D)		
 >            E)
-> STUDENT
 >  1---- 
 > 10
 >   1
@@ -66,9 +65,6 @@ tags:
 > -------- 
 > 1110
 > 
-> Kangourou 2016
-> pagina 27
-> STUDENT
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

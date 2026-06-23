@@ -72,7 +72,6 @@ tags:
 > 27
 > Kang 2008
 > Kang 2008
-> Junior
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

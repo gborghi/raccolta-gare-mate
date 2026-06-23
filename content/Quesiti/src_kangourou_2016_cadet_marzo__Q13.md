@@ -38,9 +38,6 @@ tags:
 > D) 52/79	
 > E) 57/92
 > 
-> Kangourou 2016
-> pagina 18
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_stima|Stima e approssimazione]]

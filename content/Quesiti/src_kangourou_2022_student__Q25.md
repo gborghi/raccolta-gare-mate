@@ -45,22 +45,16 @@ tags:
 > il quadrato?  
 > A)   
 >   
->        
 > C)   
 >   
->        
 >    1    1 
 >    y 
 > B)   
 >      
 > D)   
 >   
->       
 > E)  
 > 
->  
-> Kangourou 2022 
-> pagina  33
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]

@@ -51,14 +51,12 @@ tags:
 > 9
 > 7
 > 5
-> 15-20-Cadet.qxd  29/03/2003  8.22  Pagina  20
 > 
 > Pag. 
 > Pag. 21
 > 21
 > Kang 2003
 > Kang 2003
-> Cadet
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

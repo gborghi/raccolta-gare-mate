@@ -68,8 +68,6 @@ tags:
 > 26
 > Kang 2006
 > Kang 2006
-> Junior
-> Junior
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]

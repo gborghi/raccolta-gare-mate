@@ -36,14 +36,12 @@ tags:
 
 > Un'opera d'arte pop è costituita da un triangolo nei cui tre vertici ad ogni secondo si accendono dei numeri a, b, c, che variano in base
 > alla legge indicata nella figura a sinistra. Inizialmente i numeri associati ai vertici sono rispettivamente 1, 3, 5. Dopo 999 secondi, quanto
-> 15-20-Cadet.qxd  22/02/2004  22.51  Pagina  20
 > 
 > Pag. 
 > Pag. 21
 > 21
 > Kang 2004
 > Kang 2004
-> Cadet
 > vale la differenza x - y  (vedi figura a destra)?
 > A) −2          B) 2           C) 1998       D) 998        E)  (−2)1999
 

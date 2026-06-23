@@ -64,8 +64,6 @@ tags:
 > t
 > v
 > 
-> Kangourou 2023
-> pagina 22
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

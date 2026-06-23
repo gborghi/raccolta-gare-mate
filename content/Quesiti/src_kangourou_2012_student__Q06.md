@@ -50,7 +50,6 @@ tags:
 > -20
 > -30
 > -40
-> 1    2    3    4    5    6    7    8    9  10  11  12  13  14  15  16  17  18 19  20 21  22  23  24
 > Water level (cm)
 > Time 
 > (hours)
@@ -59,14 +58,12 @@ tags:
 > (ore)
 > 2
 > 12
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:29  Pagina 27
 > 
 > Pag. 
 > Pag. 28
 > 28
 > Kang 2012
 > Kang 2012
-> Student
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

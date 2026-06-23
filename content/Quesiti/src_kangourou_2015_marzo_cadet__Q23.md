@@ -49,9 +49,6 @@ tags:
 > 2
 > ?
 > 
-> Kangourou 2015
-> pagina 20
-> CADET
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

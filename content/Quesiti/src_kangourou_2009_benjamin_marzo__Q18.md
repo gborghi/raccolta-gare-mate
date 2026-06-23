@@ -51,7 +51,6 @@ tags:
 > 13
 > Kang 2009
 > Kang 2009
-> Benjamin
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]

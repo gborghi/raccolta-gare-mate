@@ -43,9 +43,6 @@ tags:
 > Carlo
 > Paolo
 > 
-> Kangourou 2013
-> pagina 15
-> BENJAMIN
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

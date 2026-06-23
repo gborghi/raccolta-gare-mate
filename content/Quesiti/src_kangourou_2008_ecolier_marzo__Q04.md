@@ -167,7 +167,6 @@ tags:
 > Pag. 6
 > Kang 2008
 > Kang 2008
-> Ecolier
 > in quadrati più piccoli, nella prima figura vi sono 4 quadrati, nella
 > seconda 7, nella terza 10. Proseguendo in questo modo, quanti quadrati vi saranno nella sesta figura (sempre escludendo i quadrati che ne
 > contengono altri)? 

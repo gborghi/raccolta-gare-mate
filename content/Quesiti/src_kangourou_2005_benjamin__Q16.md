@@ -66,8 +66,6 @@ tags:
 > 13
 > Kang 2005
 > Kang 2005
-> Benjamin
-> Benjamin
 > indica quali banconote mi fornirà il “Bancomat” se richiedo 585 euro?
 > A) [10, 4, 0, 1]
 > B) [10, 2, 4, 1]

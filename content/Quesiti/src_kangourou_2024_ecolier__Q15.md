@@ -67,9 +67,6 @@ tags:
 > ?
 > 6
 > 
-> Kangourou 2024
-> pagina 8
-> ECOLIER
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

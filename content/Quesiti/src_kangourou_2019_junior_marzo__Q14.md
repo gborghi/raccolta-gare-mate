@@ -41,15 +41,11 @@ tags:
 > D) 40	
 > 	
 > E) 60
-> JUNIOR
 >   
 >  
 >  
 >     
 > 
-> Kangourou 2019
-> pagina 23
-> JUNIOR
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

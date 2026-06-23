@@ -226,13 +226,11 @@ tags:
 > C
 > 4
 > D
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:26  Pagina 5
 > 
 > Pag. 
 > Pag. 6
 > Kang 2012
 > Kang 2012
-> Ecolier
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]

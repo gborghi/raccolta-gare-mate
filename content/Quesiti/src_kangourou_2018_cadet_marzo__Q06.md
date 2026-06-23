@@ -47,16 +47,7 @@ tags:
 > A
 > M
 > M
-> A
-> A
-> B
-> C
-> D
-> E
 > 
-> Kangourou 2018
-> pagina 17
-> CADET
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

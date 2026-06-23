@@ -64,9 +64,6 @@ tags:
 > n
 > 720
 > 
-> Kangourou 2024
-> pagina 20
-> CADET
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

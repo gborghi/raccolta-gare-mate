@@ -39,9 +39,6 @@ tags:
 >        D) 4          
 > E) Non potranno riuscire a fare quello che desiderano.
 > 
-> Kangourou 2013
-> pagina 9
-> ECOLIER
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

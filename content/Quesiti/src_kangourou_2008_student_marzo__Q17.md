@@ -61,7 +61,6 @@ tags:
 > 31
 > Kang 2008
 > Kang 2008
-> Student
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

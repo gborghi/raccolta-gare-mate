@@ -40,15 +40,11 @@ tags:
 > D) 	
 > 	
 > E) 
-> ECOLIER
 > 1
 > 3
 > +
 > 2
 > 
-> Kangourou 2021
-> pagina 6
-> ECOLIER
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

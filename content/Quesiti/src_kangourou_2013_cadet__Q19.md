@@ -53,11 +53,7 @@ tags:
 > RETRO
 > FRONTE
 > 
-> Kangourou 2013
-> pagina 19
-> CADET
 >         A)
-> 	
 > 	
 >          B) 		
 >         C) 		

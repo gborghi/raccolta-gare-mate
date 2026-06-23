@@ -45,9 +45,6 @@ tags:
 > {{{{{{{{{{{  
 > 1024000
 > 
-> Kangourou 2013
-> pagina 26
-> JUNIOR
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

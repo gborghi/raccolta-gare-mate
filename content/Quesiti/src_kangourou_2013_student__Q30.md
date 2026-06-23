@@ -46,8 +46,6 @@ tags:
 > 	
 > E) 120
 > 
-> Kangourou 2013
-> pagina 32
 > COMITATO SCIENTIFICO DI KANGOUROU DELLA MATEMATICA
 > Prof. A. Arosio (Università degli Studi di Parma)
 > Prof.ssa L. Capelli (Direzione Regionale della Liguria)
@@ -60,66 +58,6 @@ tags:
 > Prof. C. Zanco (Università degli Studi di Milano)
 > 
 > STRINGA STUDENT 2013
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
-> C
-> C
-> E
-> D
-> C
-> D
-> E
-> B
-> E
-> D
-> C
-> A
-> E
-> D
-> D
-> A
-> E
-> E
-> C
-> D
-> A
-> A
-> C
-> E
-> D
-> C
-> B
-> D
-> E
-> B
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

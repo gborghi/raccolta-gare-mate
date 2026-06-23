@@ -39,9 +39,6 @@ tags:
 > E) 
 > Partenza
 > 
-> Kangourou 2013
-> pagina 8
-> ECOLIER
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

@@ -55,13 +55,6 @@ tags:
 > A
 > N 
 > M 
-> C
-> B
-> A 
-> B 
-> C 
-> D 
-> E 
 > V 
 > V
 > V
@@ -71,9 +64,7 @@ tags:
 > D
 > E 
 > 
->  
 > 3 
->  
 >  
 > Quesiti e soluzioni
 

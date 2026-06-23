@@ -43,9 +43,6 @@ tags:
 > 6 g
 > 30 g
 > 
-> Kangourou 2019
-> pagina 14
-> BENJAMIN
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

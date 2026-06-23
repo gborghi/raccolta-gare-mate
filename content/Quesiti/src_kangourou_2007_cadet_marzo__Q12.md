@@ -60,7 +60,6 @@ tags:
 > 18
 > Kang 2007
 > Kang 2007
-> Cadet
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]

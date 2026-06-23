@@ -52,8 +52,6 @@ tags:
 > 24
 > Kang 2005
 > Kang 2005
-> Junior
-> Junior
 > I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

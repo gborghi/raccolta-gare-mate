@@ -48,9 +48,6 @@ tags:
 > 50 m
 > ?
 > 
-> Kangourou 2018
-> pagina 20
-> CADET
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

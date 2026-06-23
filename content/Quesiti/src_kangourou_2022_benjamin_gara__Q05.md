@@ -35,9 +35,6 @@ tags:
 > in modo che il numero di 12 cifre risultante sia il più piccolo possibile. Quali sono le 
 > ultime tre cifre di tale numero? 
 > 
->  
-> Kangourou 2022 
-> pagina  11 
 > A) 699   
 > B) 113   
 > C) 551   

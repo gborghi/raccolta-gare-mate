@@ -51,9 +51,6 @@ tags:
 >  3---- 
 >  2
 > 
-> Kangourou 2015
-> pagina 19
-> CADET
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

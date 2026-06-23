@@ -88,7 +88,6 @@ tags:
 > 12
 > Kang 2008
 > Kang 2008
-> Benjamin
 > I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

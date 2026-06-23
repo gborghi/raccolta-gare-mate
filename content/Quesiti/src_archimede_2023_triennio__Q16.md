@@ -33,15 +33,6 @@ tags:
 > Il quadrato ABCD ha lato pari a 1 dm. Quanti dm2 misura
 > l’area del quadrilatero curvilineo EFGH, delimitato dagli
 > archi di 4 circonferenze i cui centri sono i vertici di ABCD?
-> A
-> B
-> C
-> D
-> A
-> B
-> C
-> D
-> E
 > F
 > G
 > H

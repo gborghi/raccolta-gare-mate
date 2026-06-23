@@ -64,14 +64,12 @@ tags:
 > C
 > D
 > C
-> Testi_12Mat_5-8-Ecolier.qxd  24/06/12  17:28  Pagina 25
 > 
 > Pag. 
 > Pag. 26
 > 26
 > Kang 2012
 > Kang 2012
-> Junior
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

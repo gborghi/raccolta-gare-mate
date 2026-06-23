@@ -45,26 +45,11 @@ tags:
 > B’
 > A’
 > 3 km
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 5-8-Ecolier.qxd  22/02/2004  14.55  Pagina  5
 > 
 > Pag. 
 > Pag. 6
 > Kang 2004
 > Kang 2004
-> Ecolier
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

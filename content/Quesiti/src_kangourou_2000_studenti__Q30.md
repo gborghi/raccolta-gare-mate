@@ -41,46 +41,7 @@ tags:
 > E) 12
 > 
 > Risposte:
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
 > 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
-> C
-> D
-> E
-> E
-> D
-> B
-> A
-> B
-> D
-> D
-> B
-> E
-> D
-> C
-> D
-> D
-> E
-> A
-> D
-> C
-> B
-> D
-> C
-> E
-> A
-> A
-> A
-> C
-> D
-> D
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

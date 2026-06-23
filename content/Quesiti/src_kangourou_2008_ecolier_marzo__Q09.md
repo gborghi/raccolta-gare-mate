@@ -42,7 +42,6 @@ tags:
 > Pag. 7
 > Kang 2008
 > Kang 2008
-> Ecolier
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]

@@ -55,10 +55,8 @@ tags:
 > D 
 > E 
 > 
->  
 > pagina 
 > 28 
-> Kangourou 2022  
 > La distanza tra A e C è di 12 cm e quella tra B e D è di 18 cm. Di quanti centimetri è 
 > la distanza tra il punto medio di AB e il punto medio di CD ? 
 > A) 15     

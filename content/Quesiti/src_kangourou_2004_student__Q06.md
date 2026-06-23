@@ -42,14 +42,12 @@ tags:
 > E) è necessariamente 1 o 2
 > 2004
 > 2004
-> Student.qxd  22/02/2004  16.46  Pagina  28
 > 
 > Pag. 
 > Pag. 29
 > 29
 > Kang 2004
 > Kang 2004
-> Student
 > tudent
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]

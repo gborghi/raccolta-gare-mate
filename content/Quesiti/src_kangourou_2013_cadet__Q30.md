@@ -39,66 +39,6 @@ tags:
 > E) Non esistono numeri piccoli.
 > 
 > STRINGA CADET 2013
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 11
-> 12
-> 13
-> 14
-> 15
-> 16
-> 17
-> 18
-> 19
-> 20
-> 21
-> 22
-> 23
-> 24
-> 25
-> 26
-> 27
-> 28
-> 29
-> 30
-> D
-> D
-> C
-> C
-> A
-> C
-> E
-> E
-> A
-> C
-> E
-> B
-> B
-> C
-> B
-> A
-> A
-> E
-> C
-> B
-> E
-> C
-> C
-> B
-> A
-> B
-> B
-> E
-> A
-> C
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

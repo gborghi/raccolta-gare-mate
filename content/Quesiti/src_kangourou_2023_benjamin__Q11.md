@@ -63,9 +63,6 @@ tags:
 > ?
 > 9 cm
 > 
-> Kangourou 2023
-> pagina 12
-> BENJAMIN
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

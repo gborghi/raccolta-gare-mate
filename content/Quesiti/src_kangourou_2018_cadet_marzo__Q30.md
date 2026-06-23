@@ -76,27 +76,6 @@ tags:
 > C
 > E
 > D C
-> D
-> B
-> C
-> D
-> C
-> A
-> D
-> D
-> B
-> A
-> E
-> E
-> C
-> B
-> D
-> E
-> D
-> C
-> B
-> C
-> C
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]

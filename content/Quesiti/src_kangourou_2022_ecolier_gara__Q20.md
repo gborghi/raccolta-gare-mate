@@ -48,7 +48,6 @@ tags:
 > D) Sia 4 sia 5.  
 >   
 > E) Sia 1 sia 5. 
-> pagina 8
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

@@ -59,9 +59,6 @@ tags:
 > 2
 > 2
 > 
-> Kangourou 2015
-> pagina 25
-> JUNIOR
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]

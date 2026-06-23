@@ -49,9 +49,6 @@ tags:
 > B
 > O
 > 
-> Kangourou 2014
-> pagina 26
-> JUNIOR
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

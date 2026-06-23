@@ -41,7 +41,6 @@ tags:
 > E) 896
 > Fig. 1
 > Fig. 2
-> Junior.qxd  29/03/2003  8.23  Pagina  27
 > 
 > Risposte commentate livello JUNIOR
 > 2a e 3a superiore

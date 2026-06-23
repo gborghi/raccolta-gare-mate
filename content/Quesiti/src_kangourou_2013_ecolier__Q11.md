@@ -40,9 +40,6 @@ tags:
 >          	
 > E) 4
 > 
-> Kangourou 2013
-> pagina 7
-> ECOLIER
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]

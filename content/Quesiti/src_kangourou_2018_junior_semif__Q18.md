@@ -35,15 +35,6 @@ tags:
 > (Punti 8) Per quante terne ordinate (a, b, c) di numeri interi relativi accade che 
 > a × b × c = 45.000? 
 > 
-> B
-> E
-> A
-> B
-> B
-> D
-> E
-> D
-> D
 > 1296
 > 0500
 > 0005

@@ -63,9 +63,6 @@ tags:
 > RETRO
 > FRONTE
 > 
-> Kangourou 2013
-> pagina 14
-> BENJAMIN
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]

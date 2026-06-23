@@ -41,11 +41,7 @@ tags:
 > D) 8	
 > 	
 > E) 9
-> BENJAMIN
 > 
-> Kangourou 2017
-> pagina 11
-> BENJAMIN
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]

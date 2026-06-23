@@ -45,36 +45,6 @@ tags:
 > 	
 > E) 11
 > 
-> C
-> E
-> D
-> E
-> D
-> E
-> C
-> A
-> B
-> C
-> E
-> A
-> C
-> A
-> C
-> C
-> B
-> B
-> A
-> A
-> A
-> E
-> D
-> C
-> D
-> B
-> D
-> A
-> A
-> C
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]

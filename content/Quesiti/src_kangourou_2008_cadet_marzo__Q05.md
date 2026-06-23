@@ -58,7 +58,6 @@ tags:
 > 17
 > Kang 2008
 > Kang 2008
-> Cadet
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

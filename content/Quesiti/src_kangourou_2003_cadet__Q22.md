@@ -73,14 +73,12 @@ tags:
 > D) 1/6
 > E) 3/8
 > dell'area del rettangolo ABCD.
-> 15-20-Cadet.qxd  29/03/2003  8.22  Pagina  19
 > 
 > Pag. 
 > Pag. 20
 > 20
 > Kang 2003
 > Kang 2003
-> Cadet
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

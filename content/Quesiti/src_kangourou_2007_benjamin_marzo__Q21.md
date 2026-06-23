@@ -59,7 +59,6 @@ tags:
 > 14
 > Kang 2007
 > Kang 2007
-> Benjamin
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]

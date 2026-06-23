@@ -67,7 +67,6 @@ tags:
 > 23
 > Kang 2008
 > Kang 2008
-> Junior
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]

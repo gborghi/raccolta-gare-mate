@@ -56,7 +56,6 @@ tags:
 > Pag. 6
 > Kang 2006
 > Kang 2006
-> Ecolier
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]

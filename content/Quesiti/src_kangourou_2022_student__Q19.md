@@ -35,15 +35,9 @@ tags:
 > stessa del rettangolo iniziale. La lunghezza del lato orizzontale dei rettangoli più 
 > piccoli è 1. Qual è il perimetro del rettangolo iniziale?  
 >  
->  
->  
->  
 > B 
 > C 
 > 
->  
-> Kangourou 2022 
-> pagina  31 
 > A) 20  
 >   
 > B) 24  
