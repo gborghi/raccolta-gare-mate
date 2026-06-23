@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/GS_2008_testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 - [[src_gs_2008__Q01|Quesito 1]] — Costo del pasto piu caro con regali frazionari
 - [[src_gs_2008__Q02|Quesito 2]] — Membri del coro degli atlantidi con percentuali di sovrapposizione

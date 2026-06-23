@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 - [[src_bmo_2011-12_round2__Q01|Quesito 1]] — Cyclic quadrilateral midpoints give four triangles with equal circumradii
 - [[src_bmo_2011-12_round2__Q02|Quesito 2]] — Recursive function on positive integers: prove f(n)=n infinitely often

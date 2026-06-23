@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 - [[src_cgen_1991__Q01|Quesito 1]] — Real sequence with sum-of-squares identity; power sums as perfect squares
 - [[src_cgen_1991__Q02|Quesito 2]] — Sum of square roots minus arithmetic mean; monotonicity and limit

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 - [[src_jjmo12yq_yosen__Q01|Quesito 1]] — Two squares sharing a midpoint; find segment BF
 - [[src_jjmo12yq_yosen__Q02|Quesito 2]] — Find n where exactly 3 of 4 statements about n are true

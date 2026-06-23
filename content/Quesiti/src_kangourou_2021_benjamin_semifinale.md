@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Benjamin2021RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
 
 - [[src_kangourou_2021_benjamin_semifinale__Q01|Quesito 1]] — Max stanze visitabili nel triangolo di 16 stanze
 - [[src_kangourou_2021_benjamin_semifinale__Q02|Quesito 2]] — Numeri di 4 cifre da 337337 cancellandone due

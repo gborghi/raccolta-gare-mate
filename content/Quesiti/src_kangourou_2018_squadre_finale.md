@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2018/SQ-F-18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 - [[src_kangourou_2018_squadre_finale__Q01|Quesito 1]] — Cifre decine e unita di 9^2017+9^2018
 - [[src_kangourou_2018_squadre_finale__Q02|Quesito 2]] — Angolo ADC in quadrilatero con angoli noti

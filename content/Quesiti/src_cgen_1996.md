@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 - [[src_cgen_1996__Q01|Quesito 1]] — Cyclic points and triangle type from six special points
 - [[src_cgen_1996__Q02|Quesito 2]] — Periodic real sequence defined by piecewise recurrence

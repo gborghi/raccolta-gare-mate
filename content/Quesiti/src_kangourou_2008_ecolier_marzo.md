@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/EMarzo-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Y2PPk0y8EAPu9XdVwcxKDHQ2tA4fBFmN/view)
 
 - [[src_kangourou_2008_ecolier_marzo__Q01|Quesito 1]] — Quale simbolo rende vera 1+1*1-2=100
 - [[src_kangourou_2008_ecolier_marzo__Q02|Quesito 2]] — Quante stelline nella figura

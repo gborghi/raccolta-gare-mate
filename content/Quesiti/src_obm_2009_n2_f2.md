@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 - [[src_obm_2009_n2_f2__Q01|Quesito 1]] — Add water to dilute 9L alcohol mixture to 30% alcohol
 - [[src_obm_2009_n2_f2__Q02|Quesito 2]] — Max value of ab+bc+cd+da for a,b,c,d a permutation of 1,2,3,4

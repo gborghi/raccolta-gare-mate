@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2019/SQJ-A-19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
 
 - [[src_kangourou_2019_junior_semifinale_a__Q01|Quesito 1]] — Riduzione ai minimi termini di una frazione di somme
 - [[src_kangourou_2019_junior_semifinale_a__Q02|Quesito 2]] — Raggio in decimetri di tre circonferenze nel triangolo

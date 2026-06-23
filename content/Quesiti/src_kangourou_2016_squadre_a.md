@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2016/SQ-A-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 - [[src_kangourou_2016_squadre_a__Q01|Quesito 1]] — Quante coppie tra biglietti 1-200 con somma 100
 - [[src_kangourou_2016_squadre_a__Q02|Quesito 2]] — Alunni che sciano e nuotano (sport invernali/estivi)

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
 
 - [[src_bmo1_1992__Q01|Quesito 1]] — Two- and three-digit numbers whose squares have same count of nonzero digits
 - [[src_bmo1_1992__Q02|Quesito 2]] — Cyclic pentagon with diagonals parallel to opposite sides: must it be regular?

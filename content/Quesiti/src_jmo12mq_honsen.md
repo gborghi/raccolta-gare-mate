@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
 
 - [[src_jmo12mq_honsen__Q01|Quesito 1]] — Product MP*MQ constant for inscribed tangent circle
 - [[src_jmo12mq_honsen__Q02|Quesito 2]] — Flipping coins on a circle by parity operation

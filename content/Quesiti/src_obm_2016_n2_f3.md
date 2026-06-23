@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pFIjmivzjoZv5XiNmeuw7FxzBsl4gRIj/view)
 
 - [[src_obm_2016_n2_f3__Q01|Quesito 1]] — Football championship scoring with wins, draws and losses
 - [[src_obm_2016_n2_f3__Q02|Quesito 2]] — Sequence of squares, each new square built on the diagonal of the previous larger one

@@ -51,6 +51,6 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** eigenvalues 2k-n, k=0,...,n
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1lOJCEY5_AKOF2CG2hkgyD8fhqvhk5Tjs/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.

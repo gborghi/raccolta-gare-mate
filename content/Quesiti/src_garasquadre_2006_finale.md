@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2006/Finale_06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
 
 - [[src_garasquadre_2006_finale__Q01|Quesito 1]] — numero nella colonna grigia
 - [[src_garasquadre_2006_finale__Q02|Quesito 2]] — modi dei mutui rapporti

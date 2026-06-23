@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2013/GaraNazionaleClassiPrime2013.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 - [[src_archimede_2013_classiprime__Q01|Quesito 1]] — Cifra delle unita del mcm di 2^255 e 2^256
 - [[src_archimede_2013_classiprime__Q02|Quesito 2]] — Composizioni di un pasto con vincolo vino rosso/pesce

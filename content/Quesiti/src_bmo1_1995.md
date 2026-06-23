@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 - [[src_bmo1_1995__Q01|Quesito 1]] — Perfect squares ending in three or four 4s; none end in five
 - [[src_bmo1_1995__Q02|Quesito 2]] — Quadrilateral area and intersection area inside a cube of side 2

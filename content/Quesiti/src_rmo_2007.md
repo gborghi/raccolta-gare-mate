@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1B78tougpeUbgcu6j_GqfUAJfKlLytHfI/view)
 
 - [[src_rmo_2007__Q01|Quesito 1]] — Show angle CED > 45 in acute triangle with angle bisector and altitude
 - [[src_rmo_2007__Q02|Quesito 2]] — Prove c+d is sum of two squares given gcd condition on natural numbers

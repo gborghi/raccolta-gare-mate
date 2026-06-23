@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
 
 - [[src_jmo34hq_honsen__Q01|Quesito 1]] — Permutation of n consecutive integers mapped to itself by linear recurrence
 - [[src_jmo34hq_honsen__Q02|Quesito 2]] — Find all functions on positive integers satisfying an lcm functional equation

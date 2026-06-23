@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/CMarzo-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
 
 - [[src_kangourou_2008_cadet_marzo__Q01|Quesito 1]] — Quanti quadrati con vertici su punti dati
 - [[src_kangourou_2008_cadet_marzo__Q02|Quesito 2]] — Minimo numero di ragazze con l influenza

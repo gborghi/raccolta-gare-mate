@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/C-settembre20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
 
 - [[src_kangourou_2020_cadet_finale__QC1|Quesito C1]] — Area della regione delimitata da quattro archi uguali
 - [[src_kangourou_2020_cadet_finale__QC2|Quesito C2]] — Tragitto minimo tra due punti toccando l asse y

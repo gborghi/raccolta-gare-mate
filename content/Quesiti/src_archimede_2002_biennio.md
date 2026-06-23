@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2002/Archimede2002/testibiennio2002.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 - [[src_archimede_2002_biennio__Q01|Quesito 1]] — Km per ruota con rotazione di ruota di scorta
 - [[src_archimede_2002_biennio__Q02|Quesito 2]] — Quadrato del rapporto somma cifre invertite su somma

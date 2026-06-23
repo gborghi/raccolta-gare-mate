@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2017/SQJ-F-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 - [[src_kangourou_2017_squadre_junior_f__Q01|Quesito 1]] — Piu piccolo dispari di 3 cifre divisibile per 11 con vincolo
 - [[src_kangourou_2017_squadre_junior_f__Q02|Quesito 2]] — Quanti nipoti ha Nonna Anna (cugini)

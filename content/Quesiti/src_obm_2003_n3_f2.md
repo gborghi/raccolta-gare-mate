@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pVKqURzPw84tCEK8gfD_OWrWrg3t7l7s/view)
 
 - [[src_obm_2003_n3_f2__Q01|Quesito 1]] — Area of sub-triangle in triangle with angle bisector and median
 - [[src_obm_2003_n3_f2__Q02|Quesito 2]] — Count 4-digit biquadrate numbers

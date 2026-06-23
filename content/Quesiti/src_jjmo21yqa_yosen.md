@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
 
 - [[src_jjmo21yqa_yosen__Q01|Quesito 1]] — Smallest integer with 6 divisors and digit sum 7
 - [[src_jjmo21yqa_yosen__Q02|Quesito 2]] — Square inscribed in a right trapezoid

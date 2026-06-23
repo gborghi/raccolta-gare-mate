@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 - [[src_jmo35yqa_yosen__Q01|Quesito 1]] — Fill 7 honeycomb hexagons with 1-7 (each once), adjacent sums at most 10
 - [[src_jmo35yqa_yosen__Q02|Quesito 2]] — Count quadruples (a,b,c,d) of positive integers, abcd=2025, ab,bc,cd,da all squares

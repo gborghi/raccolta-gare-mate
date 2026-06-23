@@ -18,7 +18,7 @@ tags:
   - regione/mumbai
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 - [[src_rmo_2013_mumbai__Q01|Quesito 1]] — Isosceles triangle with circumcircle, prove BE parallel to AD
 - [[src_rmo_2013_mumbai__Q02|Quesito 2]] — Find all prime triples (p,q,r) with pq=r+1 and 2p^2+q^2=r^2+1

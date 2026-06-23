@@ -38,4 +38,4 @@ tags:
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Area:** [[Geometria]]
 **Risposta:** 1000
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)

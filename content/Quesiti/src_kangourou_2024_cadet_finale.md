@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Cadet2024RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
 - [[src_kangourou_2024_cadet_finale__QC1|Quesito C1]] — Si puo dedurre il significato di KAB dalla risposta
 - [[src_kangourou_2024_cadet_finale__QC2|Quesito C2]] — Sono di piu le frazioni riducibili o irriducibili (1..12)

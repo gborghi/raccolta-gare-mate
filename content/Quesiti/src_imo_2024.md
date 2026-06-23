@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2024_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
 
 - [[src_imo_2024__Q01|Quesito 1]] — Reali alpha con somma floor(k·alpha) multipla di n
 - [[src_imo_2024__Q02|Quesito 2]] — Coppie (a,b) con gcd(a^n+b,b^n+a) costante

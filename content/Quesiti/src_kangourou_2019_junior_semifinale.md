@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/Junior_Semif_19TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 - [[src_kangourou_2019_junior_semifinale__Q01|Quesito 1]] — Valore dell espressione con potenze di 7 (differenze di quadrati)
 - [[src_kangourou_2019_junior_semifinale__Q02|Quesito 2]] — Tragitto del vertice A in due rotazioni del rettangolo

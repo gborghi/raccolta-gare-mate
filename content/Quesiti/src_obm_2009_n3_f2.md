@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
 
 - [[src_obm_2009_n3_f2__Q01|Quesito 1]] — CRT table: sum of highlighted cells (mod 3 × mod 7)
 - [[src_obm_2009_n3_f2__Q02|Quesito 2]] — Incenter distance CI in right triangle ABC

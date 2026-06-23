@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 - [[src_bmo2_1977__Q01|Quesito 1]] — Quadratic satisfying mod condition on given points
 - [[src_bmo2_1977__Q02|Quesito 2]] — Inscribed circles of triangular faces of pyramid touch base

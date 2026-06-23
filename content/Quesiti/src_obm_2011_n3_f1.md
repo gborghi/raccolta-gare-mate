@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 - [[src_obm_2011_n3_f1__Q01|Quesito 1]] — Minimum total toll paid travelling on a one-way road map from A to B
 - [[src_obm_2011_n3_f1__Q02|Quesito 2]] — Ratio of red painted area to unpainted white area when a painted cube is cut into 27 cubes

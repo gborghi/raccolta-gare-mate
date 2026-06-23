@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tsXgbJ9Pl2aI5mNYIg-TXWZHgI4xJ55P/view)
 
 - [[src_imho_2022__Q01|Quesito 1]] — Coin chain sorting process, same-type final coins
 - [[src_imho_2022__Q02|Quesito 2]] — Find all functions f: R+ -> R+ with xf(y)+yf(x)≤2

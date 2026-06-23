@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/CMarzo-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
 
 - [[src_kangourou_2017_cadet_marzo__Q01|Quesito 1]] — 00
 - [[src_kangourou_2017_cadet_marzo__Q02|Quesito 2]] — Frazione bianca del triangolo isoscele a strisce

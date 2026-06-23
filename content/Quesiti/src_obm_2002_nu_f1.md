@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1HLUTInDZ42I9MmtTTIYbLXM9186py65T/view)
 
 - [[src_obm_2002_nu_f1__Q01|Quesito 1]] — Find f(13) for a continuous differentiable functional equation
 - [[src_obm_2002_nu_f1__Q02|Quesito 2]] — Find x,y making n×n matrix invertible and compute its inverse

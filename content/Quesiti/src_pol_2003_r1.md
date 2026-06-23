@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 - [[src_pol_2003_r1__Q01|Quesito 1]] — Find all positive integer pairs (x,y) with (x+y)^2-2(xy)^2=1.
 - [[src_pol_2003_r1__Q02|Quesito 2]] — Given a_1>1 and a_{n+1}=a_n^2-a_n+1, prove the sum of reciprocals is less than 1/(a_1-1).

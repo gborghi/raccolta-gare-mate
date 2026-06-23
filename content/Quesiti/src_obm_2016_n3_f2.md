@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 - [[src_obm_2016_n3_f2__Q01|Quesito 1]] — Position 10000 in sequence built by concatenating 1..2^k blocks
 - [[src_obm_2016_n3_f2__Q02|Quesito 2]] — Find a+b given a shared root of two polynomials

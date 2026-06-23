@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2024/SQEcolier2024F2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 - [[src_kangourou_2024_ecolier_squadre_f2__Q01|Quesito 1]] — Età di Adamo con cifre anno invertite
 - [[src_kangourou_2024_ecolier_squadre_f2__Q02|Quesito 2]] — Più grande numero settimino di 4 cifre

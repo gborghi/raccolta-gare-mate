@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JyHT55oZouRQ04YAx-a4_fyuMYOtPSWx/view)
 
 - [[src_imho_2019__Q01|Quesito 1]] — Find all functions f:Z->Z satisfying f(2a)+2f(b)=f(f(a+b))
 - [[src_imho_2019__Q02|Quesito 2]] — Concyclicity of two points defined via angle and parallel conditions in triangle

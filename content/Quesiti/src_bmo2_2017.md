@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 - [[src_bmo2_2017__Q01|Quesito 1]] — Count integers n<2017 for which a right-angled isosceles triangle with integer-coordinate vertices has exactly n lattice points on its perimeter.
 - [[src_bmo2_2017__Q02|Quesito 2]] — For the sequence a_n equal to the average over k=1..n of floor(n/k), prove a_{n+1}>a_n infinitely often and decide whether a_{n+1}<a_n infinitely often.

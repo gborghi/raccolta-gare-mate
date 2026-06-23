@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 - [[src_bmo_2001-02_round2__Q01|Quesito 1]] — Altitude foot perpendiculars form equal segment EF for any vertex
 - [[src_bmo_2001-02_round2__Q02|Quesito 2]] — Round table seating rule; find all n delegates that avoid collision

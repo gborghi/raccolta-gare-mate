@@ -60,4 +60,4 @@ tags:
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Area:** [[Geometria]]
 **Risposta:** 0336
-**Fonte:** apri PDF p.25
+**Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)

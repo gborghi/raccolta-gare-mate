@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 - [[src_bmo2_1975__Q01|Quesito 1]] — Characterise real functions satisfying Cauchy-type functional equations
 - [[src_bmo2_1975__Q02|Quesito 2]] — Prove every positive integer not in a given infinite set belongs to the sum of two or more members

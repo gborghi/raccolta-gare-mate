@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
 
 - [[src_obm_2008_n1_f1__Q01|Quesito 1]] — Segments of 1 cm to form equilateral triangles; which count is impossible
 - [[src_obm_2008_n1_f1__Q02|Quesito 2]] — Expression for change when buying olive oil and juice

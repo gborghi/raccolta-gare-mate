@@ -38,4 +38,4 @@ tags:
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0006
-**Fonte:** apri PDF p.9
+**Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

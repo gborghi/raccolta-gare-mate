@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 - [[src_obm_2006_n3_f1__Q01|Quesito 1]] — Age word problem: Neto was half his grandfather's age at end of 1994; sum of birth years is 3844; find Neto's age in 2006.
 - [[src_obm_2006_n3_f1__Q02|Quesito 2]] — Count distinct sums of pairs of distinct numbers from {1,2,...,2006}.

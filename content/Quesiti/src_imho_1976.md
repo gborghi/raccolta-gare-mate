@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
 
 - [[src_imho_1976__Q01|Quesito 1]] — Convex quadrilateral diagonals and sides sum conditions
 - [[src_imho_1976__Q02|Quesito 2]] — Iterated polynomial roots all real and distinct

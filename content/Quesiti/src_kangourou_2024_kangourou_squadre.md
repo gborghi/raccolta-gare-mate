@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2024/SQKangourou2024F1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1H4evp3ENM3JXuKHssVIkxKmXh6l0-t0_/view)
 
 - [[src_kangourou_2024_kangourou_squadre__Q01|Quesito 1]] — Quanti numeri rappresentati dalla stessa figura
 - [[src_kangourou_2024_kangourou_squadre__Q02|Quesito 2]] — Biglie totali iniziali nei due contenitori

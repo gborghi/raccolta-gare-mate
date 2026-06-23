@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zz_BBn8K4_LsZ6QfCiVpK3gqOIlQZ9ly/view)
 
 - [[src_obm_2022_n3_fx__Q01|Quesito 1]] — Stone-pile game: prove final pile count is invariant
 - [[src_obm_2022_n3_fx__Q02|Quesito 2]] — Reflection of circumcenter midpoint lies on circumcircle ABC

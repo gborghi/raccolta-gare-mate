@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2023/archimede_2023_triennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 - [[src_archimede_2023_triennio__Q01|Quesito 1]] — Valore di a2-a1 in progressione aritmetica
 - [[src_archimede_2023_triennio__Q02|Quesito 2]] — Quali affermazioni su potenze di 3 sono vere

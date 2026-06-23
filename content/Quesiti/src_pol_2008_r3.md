@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
 
 - [[src_pol_2008_r3__Q01|Quesito 1]] — Prove a lower bound for a weighted sum of inverses given a special arrangement of 1..n^2 on an n×n board with one chosen cell per row and column.
 - [[src_pol_2008_r3__Q02|Quesito 2]] — A symmetric three-variable functional equation summing cyclically over five variables to their sum; prove the analogous cyclic identity for any n>=5 reals.

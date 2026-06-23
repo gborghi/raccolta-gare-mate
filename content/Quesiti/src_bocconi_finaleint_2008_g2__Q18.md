@@ -56,4 +56,4 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4 soluzioni: 6 12 10 5 4 9 8 7 ; 7 6 9 4 5 10 12 8 ; 7 6 12 10 5 4 9 8 ; 6 9 4 5 10 12 8 7
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)

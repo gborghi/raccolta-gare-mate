@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Ecolier2024REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 - [[src_kangourou_2024_ecolier__Q01|Quesito 1]] — Quanto costa l'articolo piu caro (3 prezzi interi, totale 7)
 - [[src_kangourou_2024_ecolier__Q02|Quesito 2]] — Quanti quadrati scomposti in due forme non sovrapponibili

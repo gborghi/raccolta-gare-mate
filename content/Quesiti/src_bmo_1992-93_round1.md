@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 - [[src_bmo_1992-93_round1__Q01|Quesito 1]] — Find six-digit perfect square where last three digits exceed first three by exactly one.
 - [[src_bmo_1992-93_round1__Q02|Quesito 2]] — Square toast ABCD cut in half; find shortest straight cut dividing triangle ABC into equal areas.

@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 - [[src_obm_2005_n2_f2__Q01|Quesito 1]] — Skipping digits 1 and 3: last page number written
 - [[src_obm_2005_n2_f2__Q02|Quesito 2]] — Four equal triangular pieces form two squares; find side of third square

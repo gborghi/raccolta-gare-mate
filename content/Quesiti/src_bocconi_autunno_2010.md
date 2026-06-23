@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 - [[src_bocconi_autunno_2010__Q01|Quesito 1]] — Labirinto: numero di quadratini attraversati dal percorso minimo da A a B
 - [[src_bocconi_autunno_2010__Q02|Quesito 2]] — Età di Chiara dai tre fratelli con prodotto 35 e somma 13

@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 - [[src_bocconi_finaleint_2008_g1__Q01|Quesito 1]] — Conteggio di carte rosse nel pacchetto di destra di un mazzo diviso in due.
 - [[src_bocconi_finaleint_2008_g1__Q02|Quesito 2]] — Sul pianeta Sram, individuare il tipo di abitante con due domande.

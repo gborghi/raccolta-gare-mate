@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
 
 - [[src_obm_2022_n2_fx__Q01|Quesito 1]] — Stone-pile game: sequences, table, invariant of single-stone piles
 - [[src_obm_2022_n2_fx__Q02|Quesito 2]] — System of cyclic equations in a, b, c; determine abc

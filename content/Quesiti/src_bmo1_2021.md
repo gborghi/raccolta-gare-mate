@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xg514doHxMaADkn1oQBkdyq62hCSeCSk/view)
 
 - [[src_bmo1_2021__Q01|Quesito 1]] — Find integer written twice on blackboard after game
 - [[src_bmo1_2021__Q02|Quesito 2]] — Triangle with integer perimeter and area equal to P squared

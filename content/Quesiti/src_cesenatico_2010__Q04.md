@@ -40,4 +40,4 @@ tags:
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrato
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)

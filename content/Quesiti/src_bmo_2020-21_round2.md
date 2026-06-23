@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 - [[src_bmo_2020-21_round2__Q01|Quesito 1]] — Prove every positive integer has a 'good' multiple
 - [[src_bmo_2020-21_round2__Q02|Quesito 2]] — Tiling a square with two types of square tiles

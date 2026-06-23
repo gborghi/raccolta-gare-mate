@@ -40,4 +40,4 @@ tags:
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)

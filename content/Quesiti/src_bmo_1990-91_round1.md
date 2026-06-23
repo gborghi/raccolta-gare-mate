@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 - [[src_bmo_1990-91_round1__Q01|Quesito 1]] — Prove 3^n + 2×17^n is never a perfect square
 - [[src_bmo_1990-91_round1__Q02|Quesito 2]] — Find positive integers k such that x^(2k+1)+x+1 is divisible by x^k+x+1

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
 
 - [[src_pol_1972_r3__Q01|Quesito 1]] — Three degree-one polynomials whose n-th powers satisfy u1^n+u2^n=u3^n are all proportional to Ax+B.
 - [[src_pol_1972_r3__Q02|Quesito 2]] — Among all closed polygonal lines through n given points (no three collinear), a minimum-length one is non-self-intersecting.

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2019/archimede_triennio_2019.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 - [[src_archimede_2019_triennio__Q01|Quesito 1]] — Ordinare i lati dalle altezze di un triangolo
 - [[src_archimede_2019_triennio__Q02|Quesito 2]] — Prezzo del maglione se IVA passa dal 22% al 25%

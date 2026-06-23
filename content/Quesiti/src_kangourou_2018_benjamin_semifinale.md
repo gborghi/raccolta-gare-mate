@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/Benjamin_Semif_18TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mpGDkZU0ITLxgA_gblbwITgtcOOWYDSU/view)
 
 - [[src_kangourou_2018_benjamin_semifinale__Q01|Quesito 1]] — Area intersezione di due quadrati con vertice al centro
 - [[src_kangourou_2018_benjamin_semifinale__Q02|Quesito 2]] — Quale valore N non e possibile per i cioccolatini

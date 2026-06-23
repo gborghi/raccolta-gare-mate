@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 - [[src_jmo28yq_yosen__Q01|Quesito 1]] — Two-digit table number containing the digit 5
 - [[src_jmo28yq_yosen__Q02|Quesito 2]] — Distribute cards 1-9 into 3 boxes forming arithmetic progressions

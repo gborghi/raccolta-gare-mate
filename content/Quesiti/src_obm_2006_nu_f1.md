@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AA-zF5q38838Z7BnrHtVLRS1IJQQPHcA/view)
 
 - [[src_obm_2006_nu_f1__Q01|Quesito 1]] — Compute an improper integral involving exponential
 - [[src_obm_2006_nu_f1__Q02|Quesito 2]] — Volume of solid defined by floor sum condition

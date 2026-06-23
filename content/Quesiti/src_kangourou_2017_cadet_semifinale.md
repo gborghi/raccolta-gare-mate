@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/Cadet_Semif_17TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 - [[src_kangourou_2017_cadet_semifinale__Q01|Quesito 1]] — Numeri di 3 cifre con prodotto cifre minore di 2
 - [[src_kangourou_2017_cadet_semifinale__Q02|Quesito 2]] — Il piu grande e il piu piccolo tra A,B,C da implicazioni

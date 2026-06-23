@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 - [[src_bmo2_1979__Q01|Quesito 1]] — Prove inequality for four different positive reals or find counterexample
 - [[src_bmo2_1979__Q02|Quesito 2]] — Two equilateral triangles share vertex C; prove triangles O'M and OA'B' similar

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 - [[src_imho_1974__Q01|Quesito 1]] — Card game: who received r counters in last round?
 - [[src_imho_1974__Q02|Quesito 2]] — Geometric mean condition via sine inequality in triangle ABC

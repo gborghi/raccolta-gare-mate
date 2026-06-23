@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2022/archimede_triennio_2022.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 - [[src_archimede_2022_triennio__Q01|Quesito 1]] — Quale numero differisce meno da ((n+3)/2)^2
 - [[src_archimede_2022_triennio__Q02|Quesito 2]] — Angolo al vertice con quattro punti su lati del triangolo

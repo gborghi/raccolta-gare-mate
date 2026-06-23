@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2001/BMarzo-01.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 - [[src_kangourou_2001_benjamin__Q01|Quesito 1]] — Calcolo 2x0+0x1
 - [[src_kangourou_2001_benjamin__Q02|Quesito 2]] — Foglio piegato e tagliato a triangolo

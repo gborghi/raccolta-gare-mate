@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 - [[src_pol_2007_r1__Q01|Quesito 1]] — Find all real triples solving a symmetric quadratic system.
 - [[src_pol_2007_r1__Q02|Quesito 2]] — Find positive integer pairs making both k^2+4m and m^2+5k perfect squares.

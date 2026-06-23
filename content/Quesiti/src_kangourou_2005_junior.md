@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2005/JMarzo-05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 - [[src_kangourou_2005_junior__Q01|Quesito 1]] — Studenti totali con Elena 50ma da entrambi i lati
 - [[src_kangourou_2005_junior__Q02|Quesito 2]] — Numero di maschi con coppie pari miste

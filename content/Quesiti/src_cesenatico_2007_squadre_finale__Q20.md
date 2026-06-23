@@ -38,7 +38,7 @@ tags:
 > per cui a1 < a2 < ... < a2007 e N = 1
 > a1 + 2
 > a2 + 3
-> a3 +···+ 2007
+> a3 +··+ 2007
 > a2007. Trovare la somma di tutti i valori N di forza
 > vitale (indicare le ultime 4 cifre di tale somma se il risultato è maggiore di 9999).
 > 
@@ -48,4 +48,4 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)

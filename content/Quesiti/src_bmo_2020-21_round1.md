@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xg514doHxMaADkn1oQBkdyq62hCSeCSk/view)
 
 - [[src_bmo_2020-21_round1__Q01|Quesito 1]] — Find values of a written on blackboard second time
 - [[src_bmo_2020-21_round1__Q02|Quesito 2]] — Isosceles triangle: perimeter numerically equal to area squared

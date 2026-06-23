@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 - [[src_bmo_2016-17_round2__Q01|Quesito 1]] — Count n≤2017 for which a right-angled isosceles triangle has exactly n lattice points on its perimeter
 - [[src_bmo_2016-17_round2__Q02|Quesito 2]] — Prove the sequence a_n = sum_{i=1}^{n} floor(n/i) satisfies a_{n+1}>a_n and a_{n+1}=a_n both infinitely often

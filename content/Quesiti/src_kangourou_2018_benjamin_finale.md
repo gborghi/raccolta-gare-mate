@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/B-settembre18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WOGwM7hMulRZ-gZ3Bqwg0wTpNtCoA93i/view)
 
 - [[src_kangourou_2018_benjamin_finale__QB1|Quesito B1]] — Modo veloce per calcolare S diviso 2018
 - [[src_kangourou_2018_benjamin_finale__QB2|Quesito B2]] — Massimo cassette che Eugenio tiene con 4 furgoni

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/E-settembre20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 - [[src_kangourou_2020_ecolier_finale__Q01|Quesito 1]] — Tra quanti anni un anno con due cifre ripetute
 - [[src_kangourou_2020_ecolier_finale__Q02|Quesito 2]] — Lunghezza del tragitto della formica sulla scatola

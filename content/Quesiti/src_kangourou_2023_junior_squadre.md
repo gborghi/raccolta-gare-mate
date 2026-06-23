@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2023/SQJunior2023F1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 - [[src_kangourou_2023_junior_squadre__Q01|Quesito 1]] — Quanti n in -2023..2023 con 1+4n multiplo di 5
 - [[src_kangourou_2023_junior_squadre__Q02|Quesito 2]] — Somma perimetri due triangoli simili

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/SMarzo-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
 
 - [[src_kangourou_2004_student__Q01|Quesito 1]] — Costo medio di m+n penne acquistate incrociate
 - [[src_kangourou_2004_student__Q02|Quesito 2]] — Spigoli di una piramide con 17 facce

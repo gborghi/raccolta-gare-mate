@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
 
 - [[src_obm_2014_n1_f3__Q01|Quesito 1]] — Staircase figures of unit squares; count white squares in figure 13
 - [[src_obm_2014_n1_f3__Q02|Quesito 2]] — Area of square and trapezoidal plastic cards; minimum square to tile them

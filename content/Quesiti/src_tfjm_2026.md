@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 - [[src_tfjm_2026__Q01|Quesito 1]] — Chip-eating game on a layout of n piles of n chips: two players alternate, a chip may be eaten only if its neighbours are still covered; count states and analyse optimal strategies, then repeat on a pyramid layout.
 - [[src_tfjm_2026__Q02|Quesito 2]] — On the Nine Men's Morris board, define a 'mill figure': points and straight segments with each segment holding 3 points and each point on 2 segments; find minimal point count, connectedness, similarity classes and counting, with a generalized variant.

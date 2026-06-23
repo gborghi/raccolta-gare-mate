@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/JMaggio-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
 
 - [[src_kangourou_2007_junior_maggio__QJ1|Quesito J1]] — Max numeri scelti senza somma multipla di 3
 - [[src_kangourou_2007_junior_maggio__QJ2|Quesito J2]] — Percorso piu breve sulla superficie del cono

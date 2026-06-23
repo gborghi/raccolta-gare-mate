@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
 
 - [[src_bmo_1980-81_round1__Q01|Quesito 1]] — Circle centred at orthocentre cuts midpoint-triangle sides equally
 - [[src_bmo_1980-81_round1__Q02|Quesito 2]] — Alternating sum of products of consecutive integers divisible by m!

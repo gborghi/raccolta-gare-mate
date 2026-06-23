@@ -36,4 +36,4 @@ tags:
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0007
-**Fonte:** apri PDF p.29
+**Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

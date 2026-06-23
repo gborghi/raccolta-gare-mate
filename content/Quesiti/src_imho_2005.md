@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vgyI0AcVdml3o7K4kvIflQDG_gB6z_42/view)
 
 - [[src_imho_2005__Q01|Quesito 1]] — Points on equilateral triangle sides form convex hexagon with concurrent diagonals
 - [[src_imho_2005__Q02|Quesito 2]] — Integer sequence with n-divisibility; every integer occurs exactly once

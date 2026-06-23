@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2015/GiochiArchimede-2015/archimede_biennio_2015.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 
 - [[src_archimede_2015_biennio__Q01|Quesito 1]] — Valori possibili della somma di 200 dadi 2/5
 - [[src_archimede_2015_biennio__Q02|Quesito 2]] — Colorazioni di 5 pareti adiacenti con 3 colori

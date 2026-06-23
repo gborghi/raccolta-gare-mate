@@ -34,7 +34,7 @@ tags:
 
 > L’ultima risposta
 > Dopo lunghi anni, il computer costruito dai Mathrateani è riuscito a calcolare la risposta alla Domanda (qualunque essa
-> sia). Essa è pari alla quantità −13 −23 +33 +43 −···+153 +163, in cui i segni di fronte ai cubi sono alternativamente
+> sia). Essa è pari alla quantità −13 −23 +33 +43 −··+153 +163, in cui i segni di fronte ai cubi sono alternativamente
 > due meno e due più. Sfortunatamente, esso è stato distrutto prima di completare l’ultimo passo, cioè calcolare il
 > valore di questa somma. Sapreste completare questo calcolo?
 > 
@@ -51,4 +51,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4456
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)

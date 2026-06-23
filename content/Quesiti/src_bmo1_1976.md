@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 - [[src_bmo1_1976__Q01|Quesito 1]] — Shortest line bisecting area of a triangle
 - [[src_bmo1_1976__Q02|Quesito 2]] — Inequality for positive reals x, y, z

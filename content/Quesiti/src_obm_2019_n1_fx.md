@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
 
 - [[src_obm_2019_n1_fx__Q01|Quesito 1]] — Find integers O, B, M as exponents summing to 24
 - [[src_obm_2019_n1_fx__Q02|Quesito 2]] — Count ways to place colored tiles on a 2×5 grid

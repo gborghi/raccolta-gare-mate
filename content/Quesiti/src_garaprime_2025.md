@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2025/25 02 05 - gara prime - testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 - [[src_garaprime_2025__Q01|Quesito 1]] — Differenza aree tra mosaici romboidali riscalati
 - [[src_garaprime_2025__Q02|Quesito 2]] — Massimo monete nel forziere fermandosi su totale pari

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 - [[src_pol_1978_r3__Q01|Quesito 1]] — Ray reflecting in an angle is absorbed at the vertex; prove a natural number n exists so any ray reflects at most n times.
 - [[src_pol_1978_r3__Q02|Quesito 2]] — Partition lattice points with at least one coordinate not divisible by 4 into unit-distance pairs.

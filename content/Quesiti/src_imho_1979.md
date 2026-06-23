@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
 
 - [[src_imho_1979__Q01|Quesito 1]] — Divisibility of a sum involving unit fractions
 - [[src_imho_1979__Q02|Quesito 2]] — Two-colored pentagons on top and bottom faces of prism

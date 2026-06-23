@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
 
 - [[src_obm_2007_nu_f2__Q01|Quesito 1]] — Iterated composition f∘f∘…∘f=0 has real solution given ac<0
 - [[src_obm_2007_nu_f2__Q02|Quesito 2]] — Large subset of {1,…,N} contains a shifted arithmetic-density subinterval

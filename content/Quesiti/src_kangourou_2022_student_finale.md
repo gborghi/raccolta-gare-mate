@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Student2022RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xkM8usCvbEkYYISsMrLicq6kvtHNww5g/view)
 
 - [[src_kangourou_2022_student_finale__QS1|Quesito S1]] — Tessere 2×1 al massimo su regione di 36 quadratini
 - [[src_kangourou_2022_student_finale__QS2|Quesito S2]] — lati rossi=verdi

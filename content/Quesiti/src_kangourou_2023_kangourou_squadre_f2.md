@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2023/SQKangourou2023F2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 - [[src_kangourou_2023_kangourou_squadre_f2__Q01|Quesito 1]] — Differenza superfici dato differenza volumi cubi
 - [[src_kangourou_2023_kangourou_squadre_f2__Q02|Quesito 2]] — Quante ragazze dato voto medio esame

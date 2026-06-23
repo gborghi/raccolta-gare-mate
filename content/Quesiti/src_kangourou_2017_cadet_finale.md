@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/C-settembre17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
 
 - [[src_kangourou_2017_cadet_finale__QC1|Quesito C1]] — Soglia bagaglio dati due sovrapprezzi (11 e 33 euro)
 - [[src_kangourou_2017_cadet_finale__QC2|Quesito C2]] — Conviene scegliere 9 o 10 nel gioco dei dadi

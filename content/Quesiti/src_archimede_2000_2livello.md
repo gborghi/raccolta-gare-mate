@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2000/febbraio2000.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 - [[src_archimede_2000_2livello__Q01|Quesito 1]] — Quale spigolo aumentare per massimo incremento di volume
 - [[src_archimede_2000_2livello__Q02|Quesito 2]] — Area del sottoinsieme definito da cerchio e semipiano

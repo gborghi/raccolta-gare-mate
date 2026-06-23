@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2025/gas2025ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 - [[src_archimede_2025_squadre_semifinale1__Q01|Quesito 1]] — Conta interi a 3 cifre con scambio cifre differenza 18
 - [[src_archimede_2025_squadre_semifinale1__Q02|Quesito 2]] — Somma quadrati pari meno quadruplo somma quadrati

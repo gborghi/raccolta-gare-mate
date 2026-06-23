@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1c1KSYB2Si60KoloY7duhcwVwRnP2K6BN/view)
 
 - [[src_obm_2007_n1_f2__Q01|Quesito 1]] — Count the total number of digits of a number built from repeated blocks 10100.
 - [[src_obm_2007_n1_f2__Q02|Quesito 2]] — A square sheet is folded twice; find the area of the resulting convex pentagon.

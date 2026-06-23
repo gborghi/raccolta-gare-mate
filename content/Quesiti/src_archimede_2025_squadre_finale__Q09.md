@@ -44,4 +44,4 @@ tags:
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0009
-**Fonte:** apri PDF p.8
+**Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)

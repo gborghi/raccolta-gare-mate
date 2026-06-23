@@ -39,4 +39,4 @@ tags:
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Area:** [[Geometria]]
 **Risposta:** 8601
-**Fonte:** apri PDF p.10
+**Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)

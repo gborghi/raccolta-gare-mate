@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1e28_MsSTS9vi8erfj7ZsfuDBusJwGwNV/view)
 
 - [[src_jegmo12q__Q01|Quesito 1]] — Find all prime pairs (p,q) with p≤q making a fraction an integer
 - [[src_jegmo12q__Q02|Quesito 2]] — Midpoint of PQ lies on circumcircle of ABC; orthocenter collinearity

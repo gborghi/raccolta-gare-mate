@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2024/archimede_2024_triennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 - [[src_archimede_2024_triennio__Q01|Quesito 1]] — Somma 1..2024 con un numero saltato, multiplo di 5
 - [[src_archimede_2024_triennio__Q02|Quesito 2]] — Cavalieri e furfanti, voti di vantaggio minimo del vincitore

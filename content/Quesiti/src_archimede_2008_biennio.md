@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2008/testo-biennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 
 - [[src_archimede_2008_biennio__Q01|Quesito 1]] — Abitanti di Giove dati percentuali di partecipanti maratona
 - [[src_archimede_2008_biennio__Q02|Quesito 2]] — Velocita necessaria per record dopo ritardo iniziale

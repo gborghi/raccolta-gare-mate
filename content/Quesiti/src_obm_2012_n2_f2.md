@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
 
 - [[src_obm_2012_n2_f2__Q01|Quesito 1]] — Knight minimum moves to reach any square on 5x5 board
 - [[src_obm_2012_n2_f2__Q02|Quesito 2]] — Find a minus b given real non-zero a,b satisfying two joint equalities

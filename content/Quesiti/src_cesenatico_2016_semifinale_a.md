@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2016/Cesenatico2016_gsm.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 - [[src_cesenatico_2016_semifinale_a__Q01|Quesito 1]] — Valori di S con S^2 divisore somma pagine teoria
 - [[src_cesenatico_2016_semifinale_a__Q02|Quesito 2]] — Numeri base 2016 con cifre 0/1 multipli di 100

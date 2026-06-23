@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2024/gas2024ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 - [[src_squadre_2024_femminile__Q01|Quesito 1]] — Area unione tre rettangoli, AB=20 BC=40
 - [[src_squadre_2024_femminile__Q02|Quesito 2]] — p(12) con p(2R)=2p(R)+2R^2-1 e somma coefficienti 2

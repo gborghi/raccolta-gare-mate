@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2016/GaraNazionaleClassiPrime2016.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
 
 - [[src_archimede_2016_classiprime__Q01|Quesito 1]] — Massimo numero di divisori del quadrato di n con 6 divisori
 - [[src_archimede_2016_classiprime__Q02|Quesito 2]] — Quali dei numeri dati sono quadrati perfetti

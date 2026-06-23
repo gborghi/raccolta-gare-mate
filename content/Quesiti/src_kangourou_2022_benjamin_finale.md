@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Benjamin2022RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
 
 - [[src_kangourou_2022_benjamin_finale__QB1|Quesito B1]] — Tempo da A a B nuotando con stessa energia del controcorrente
 - [[src_kangourou_2022_benjamin_finale__QB2|Quesito B2]] — Misura dell'angolo evidenziato con tre quadrati accostati

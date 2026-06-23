@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2004/testo_biennio3.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 - [[src_archimede_2004_biennio__Q01|Quesito 1]] — Gioco con cavalli/scimmia e calcoli sui giri di pista
 - [[src_archimede_2004_biennio__Q02|Quesito 2]] — classificazione enunciati

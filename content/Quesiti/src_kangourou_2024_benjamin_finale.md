@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Benjamin2024RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
 - [[src_kangourou_2024_benjamin_finale__QB1|Quesito B1]] — Minimo numero di chiavi e disposizione fra quattro amici
 - [[src_kangourou_2024_benjamin_finale__QB2|Quesito B2]] — Si puo dedurre il significato di KAB dalla risposta

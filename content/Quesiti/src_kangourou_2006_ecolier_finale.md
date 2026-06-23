@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/EMaggio-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
 
 - [[src_kangourou_2006_ecolier_finale__QE1|Quesito E1]] — Multiplo di 11 piu vicino a 1000
 - [[src_kangourou_2006_ecolier_finale__QE2|Quesito E2]] — Numero MALE dato MELA minimo a cifre distinte

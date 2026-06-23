@@ -48,4 +48,4 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni: 1,2,3,4,8,7,10,13,15,14,11,12,9,6,5 oppure 1,2,3,4,8,13,15,14,11,12,9,10,7,6,5
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/EMaggio-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1K82beAyOpLONvc5G6hM8HqH2YHqU6t2R/view)
 
 - [[src_kangourou_2003_ecolier_finale__QE1|Quesito E1]] — Quante mele da confezioni con 9 arance totali
 - [[src_kangourou_2003_ecolier_finale__QE2|Quesito E2]] — Numero penne in classe con vincoli

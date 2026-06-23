@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/SMarzo-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 - [[src_kangourou_2007_student_marzo__Q01|Quesito 1]] — Area triangolo ABC (zona ombreggiata)
 - [[src_kangourou_2007_student_marzo__Q02|Quesito 2]] — Posizione del secondo nodo per angolo retto

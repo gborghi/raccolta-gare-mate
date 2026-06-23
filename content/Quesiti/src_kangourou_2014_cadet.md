@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/CMarzo-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 - [[src_kangourou_2014_cadet__Q01|Quesito 1]] — Ultima data di marzo per il terzo giovedì
 - [[src_kangourou_2014_cadet__Q02|Quesito 2]] — Parola che certamente non compare aggiungendo due lettere a VOLANO

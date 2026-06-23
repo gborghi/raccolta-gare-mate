@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
 
 - [[src_jmo32hq_honsen__Q01|Quesito 1]] — Game on 2022-square row; find max squares A can guarantee
 - [[src_jmo32hq_honsen__Q02|Quesito 2]] — Find all strictly increasing f with f^100(m)+mn=f(m)f(n)

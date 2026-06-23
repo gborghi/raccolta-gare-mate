@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
 
 - [[src_jjmo21hq_honsen__Q01|Quesito 1]] — Prove triangle ABC similar to triangle DEF formed by circle intersections
 - [[src_jjmo21hq_honsen__Q02|Quesito 2]] — Find maximum k distinct values of xy/(x+y)^2 from 2023 reals

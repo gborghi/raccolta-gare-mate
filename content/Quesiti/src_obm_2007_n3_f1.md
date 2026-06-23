@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
 
 - [[src_obm_2007_n3_f1__Q01|Quesito 1]] — Two overlapping squares; find x+y in degrees
 - [[src_obm_2007_n3_f1__Q02|Quesito 2]] — Count 4-digit 'peroba' numbers: at least two neighboring digits of same parity

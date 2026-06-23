@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
 
 - [[src_obm_2001_n2_f3__Q01|Quesito 1]] — Fold a rectangular sheet along its diagonal, then so C meets A; show the crease quadrilateral is a rhombus and find its area
 - [[src_obm_2001_n2_f3__Q02|Quesito 2]] — 42 children numbered in a line stand on a grid of square tiles, consecutive numbers on adjacent tiles; decide which inspector's drawing is wrong and complete the correct one

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 - [[src_bmo_1984-85_round2__Q01|Quesito 1]] — Tangent lines to circle from midpoints of chord AB
 - [[src_bmo_1984-85_round2__Q02|Quesito 2]] — Find the first 1985 positive evil integers with even binary digit sum

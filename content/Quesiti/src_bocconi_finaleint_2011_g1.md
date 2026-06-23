@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 - [[src_bocconi_finaleint_2011_g1__Q01|Quesito 1]] — Tagliare torta quadrata in parti uguali
 - [[src_bocconi_finaleint_2011_g1__Q02|Quesito 2]] — Biglie nere in scatole, massimo per scatola

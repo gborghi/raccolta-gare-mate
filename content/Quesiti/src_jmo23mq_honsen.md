@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
 
 - [[src_jmo23mq_honsen__Q01|Quesito 1]] — Distribute candies to grouped people under conditions
 - [[src_jmo23mq_honsen__Q02|Quesito 2]] — Find all integer functions satisfying a functional equation

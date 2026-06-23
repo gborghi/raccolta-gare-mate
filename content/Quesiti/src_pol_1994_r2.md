@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
 
 - [[src_pol_1994_r2__Q01|Quesito 1]] — Find all degree-5 real polynomials with divisibility conditions involving (x-1)^3 and (x+1)^3.
 - [[src_pol_1994_r2__Q02|Quesito 2]] — Given positive reals whose sum equals their product, and positive b_i with a_i <= b_i, prove the sum of b_i is at most their product.

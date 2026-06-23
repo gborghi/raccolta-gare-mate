@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
 
 - [[src_obm_2011_n3_f3__Q01|Quesito 1]] — Prove every positive integer n has a chapa with exactly n digits
 - [[src_obm_2011_n3_f3__Q02|Quesito 2]] — Find minimum m so every distribution of 2011 stickers among 33 friends is incomplete

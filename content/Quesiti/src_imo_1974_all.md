@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1974_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 - [[src_imo_1974_all__Q01|Quesito 1]] — who received q on first round
 - [[src_imo_1974_all__Q02|Quesito 2]] — Point D with CD geometric mean iff sinA sinB<=sin^2(C/2)

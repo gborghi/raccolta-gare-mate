@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1w-_EBjDoXaaXOhizK74B8btnGAV4E9MM/view)
 
 - [[src_pol_2001_r1__Q01|Quesito 1]] — Solve an exponential Diophantine equation in integers.
 - [[src_pol_2001_r1__Q02|Quesito 2]] — Cevian intersection and a parallelogram on the sides of a triangle yield a ratio equality.

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 - [[src_bmo_2025-26_round2__Q01|Quesito 1]] — Find smallest k for lcm+hcf=p^k equation in positive integers
 - [[src_bmo_2025-26_round2__Q02|Quesito 2]] — Convex quadrilateral ABCD: prove AC=BD iff XY bisects angle DXC

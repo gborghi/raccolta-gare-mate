@@ -32,7 +32,7 @@ tags:
 
 > Il telefono di DOC
 > Sull’elenco telefonico Matryx HOMFLY trova il numero di \
-> DOC: esso è pari a (1)+(1+2)+···+(1+2+···+1918).
+> DOC: esso è pari a (1)+(1+2)+··+(1+2+··+1918).
 > Quante cifre ha?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -40,4 +40,4 @@ tags:
 **Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0010
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)

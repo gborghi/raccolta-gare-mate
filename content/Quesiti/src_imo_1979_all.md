@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1979_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
 
 - [[src_imo_1979_all__Q01|Quesito 1]] — Prove numerator p of alternating harmonic sum divisible by 1979
 - [[src_imo_1979_all__Q02|Quesito 2]] — top and bottom edges all same color

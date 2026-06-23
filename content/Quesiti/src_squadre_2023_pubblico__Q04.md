@@ -40,4 +40,4 @@ tags:
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2022
-**Fonte:** apri PDF p.29
+**Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

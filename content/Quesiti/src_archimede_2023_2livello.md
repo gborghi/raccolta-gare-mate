@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2023/soluzioni2023.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 - [[src_archimede_2023_2livello__Q01|Quesito 1]] — Scacchiera 9x10 colorata, massimo caselle rosse
 - [[src_archimede_2023_2livello__Q02|Quesito 2]] — Biglie colorate, condizioni 'tranne', totale biglie

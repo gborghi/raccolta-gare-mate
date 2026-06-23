@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2022/Kangourou2022RFIN1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
 
 - [[src_kangourou_2022_kangourou_squadre__Q01|Quesito 1]] — Numero fisso processo differenza max-min cifre
 - [[src_kangourou_2022_kangourou_squadre__Q02|Quesito 2]] — Numero strisce quadrato dato perimetro nero

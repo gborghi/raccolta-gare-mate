@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 - [[src_canimath_2015_printemps__Q01|Quesito 1]] — Three integer operations; find x giving 1945, all x giving 2015
 - [[src_canimath_2015_printemps__Q02|Quesito 2]] — Right triangle ABC; find point(s) P on perimeter with PA+PB=PC

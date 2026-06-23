@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
 
 - [[src_obm_2006_n1_f3__Q01|Quesito 1]] — Two digit-shifting sequences: find terms, last term, period
 - [[src_obm_2006_n1_f3__Q02|Quesito 2]] — Cryptarithmetic addition: find value of each symbol

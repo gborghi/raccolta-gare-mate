@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
 
 - [[src_obm_2005_n2_f3__Q01|Quesito 1]] — Count right triangles with legs parallel to board edges on 5x5 grid
 - [[src_obm_2005_n2_f3__Q02|Quesito 2]] — Right triangle, midpoint of hypotenuse, perpendicularity and quadrilateral area

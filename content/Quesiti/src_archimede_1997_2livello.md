@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/1997/Febbraio97-Testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 - [[src_archimede_1997_2livello__Q01|Quesito 1]] — Quale delle cinque sagome mostra la faccia bianca
 - [[src_archimede_1997_2livello__Q02|Quesito 2]] — Guadagno o perdita dell'antiquario nella compravendita dei comodini

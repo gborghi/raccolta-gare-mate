@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rEB9uBD886_GOlWlnaWMbpsJf-6HZvT3/view)
 
 - [[src_cgen_2005__Q01|Quesito 1]] — Equilateral triangles, axial symmetries and complex affixes; conditions for collinearity and circumscribed circles, plus a study of functions describing extremal point sets.
 - [[src_cgen_2005__Q02|Quesito 2]] — A continuous function on [0;1] with f(0)=f(1)=0 satisfying a translation-displacement condition; prove f(x)=0 has at least seven solutions, then give an example.

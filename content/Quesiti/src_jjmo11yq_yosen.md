@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
 
 - [[src_jjmo11yq_yosen__Q01|Quesito 1]] — Area of parallelogram from rectangle line intersections
 - [[src_jjmo11yq_yosen__Q02|Quesito 2]] — Find ten distinct integers from 1-20 with given product

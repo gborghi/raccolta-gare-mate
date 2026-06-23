@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2016/Cesenatico2016_gsm.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 - [[src_cesenatico_2016_finale__Q01|Quesito 1]] — Volume del prisma droide (taglio per A,B,D')
 - [[src_cesenatico_2016_finale__Q02|Quesito 2]] — Max somma aree triangoli rettangoli interi non congrui

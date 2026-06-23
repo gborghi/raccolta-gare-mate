@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2015/GiochiArchimede-2015/archimede_triennio_2015.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 - [[src_archimede_2015_biennio__Q05|Quesito 1]] — minimo per due paia di colori diversi
 - [[src_archimede_2015_biennio__Q08|Quesito 2]] — 2015a cifra decimale di 4/7

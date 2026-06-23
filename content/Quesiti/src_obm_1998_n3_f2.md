@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nuYoFCi09PHCxKrrXgBXv2NK1rRfD75Z/view)
 
 - [[src_obm_1998_n3_f2__Q01|Quesito 1]] — Max times cards can be removed from a box under a rule
 - [[src_obm_1998_n3_f2__Q02|Quesito 2]] — Two children take turns eating balls; strategy for second player to win

@@ -29,10 +29,10 @@ tags:
 
 > Let n > 6 be an integer and a1, a2, . . . , ak be all the natural numbers
 > less than n and relatively prime to n. If
-> a2 −a1 = a3 −a2 = · · · = ak −ak−1 > 0,
+> a2 −a1 = a3 −a2 = · · = ak −ak−1 > 0,
 > prove that n must be either a prime number or a power of 2.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)

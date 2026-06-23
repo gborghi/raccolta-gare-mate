@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2010/Cesenatico2010_gara_a_squadre/ITA_Agas10.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
 
 - [[src_gas_2010_semifinale_a__Q01|Quesito 1]] — Risposta n auto-referenziale a (n-1)(n-2)+2
 - [[src_gas_2010_semifinale_a__Q02|Quesito 2]] — Conteggio bugiardi in cerchio con affermazioni sui vicini

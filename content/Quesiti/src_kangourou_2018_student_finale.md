@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/S-settembre18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
 
 - [[src_kangourou_2018_student_finale__Q01|Quesito 1]] — Area massima di un quadrilatero di lati 1,4,7,8
 - [[src_kangourou_2018_student_finale__Q02|Quesito 2]] — Quante carte scartate data probabilita 1/1001 dei 4 assi

@@ -44,11 +44,11 @@ tags:
 > 
 > 2/3
 > Gara a Squadre 2016 – Semifinale A – Testi dei problemi
-> calcolare 128(p1 +p2 +p3 +···+p35).
+> calcolare 128(p1 +p2 +p3 +··+p35).
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2144
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)

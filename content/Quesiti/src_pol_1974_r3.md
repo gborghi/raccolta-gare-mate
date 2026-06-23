@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
 
 - [[src_pol_1974_r3__Q01|Quesito 1]] — In tetrahedron ABCD with AB perpendicular to CD and angle ACB = angle ADB, prove the plane through AB and the midpoint of CD is perpendicular to CD.
 - [[src_pol_1974_r3__Q02|Quesito 2]] — A salmon passes two waterfalls each minute with independent probabilities p and q; compute the probability it did not pass the first in n minutes given it passed neither in that time.

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LZVQNRmXGjFMUK1nE7-wezK2nSuE5Pma/view)
 
 - [[src_pol_2007_r2__Q01|Quesito 1]] — Common zero of P(x) and P(P(x)) implies a common integer zero.
 - [[src_pol_2007_r2__Q02|Quesito 2]] — In a convex pentagon with given equalities and right angles, prove three segments form a triangle and find its angles given two angles.

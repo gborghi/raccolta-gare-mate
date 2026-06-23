@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
 
 - [[src_obm_2014_n3_f2__Q01|Quesito 1]] — Ratio EG/GD in equilateral triangle with trisection points
 - [[src_obm_2014_n3_f2__Q02|Quesito 2]] — Last two digits of odd-part of 2014

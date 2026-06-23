@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
 
 - [[src_pol_1980_r3__Q01|Quesito 1]] — Area of octagon inscribed in circle with alternating side lengths 1 and 2
 - [[src_pol_1980_r3__Q02|Quesito 2]] — Equation $a^2+b^2+c^2=3abc$ has natural number solutions greater than any $n$

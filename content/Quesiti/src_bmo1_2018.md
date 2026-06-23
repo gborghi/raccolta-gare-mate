@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 - [[src_bmo1_2018__Q01|Quesito 1]] — Compare remainder sums: Helen divides 365, Henry divides 366
 - [[src_bmo1_2018__Q02|Quesito 2]] — Days all six friends swim in 100-day period, max and min

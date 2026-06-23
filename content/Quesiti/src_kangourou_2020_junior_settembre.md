@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/J-settembre20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Y0Gi-Uy881pNn6RNQhqSGYn7AyhCKbJx/view)
 
 - [[src_kangourou_2020_junior_settembre__Q01|Quesito 1]] — Tragitto minimo tra due punti toccando l'asse y
 - [[src_kangourou_2020_junior_settembre__Q02|Quesito 2]] — Cifra delle unita del minimo n con 7n di 2021 cifre

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
 
 - [[src_bmo2_2014__Q01|Quesito 1]] — Minimum colours for diagonals of 2014-gon crossing rule
 - [[src_bmo2_2014__Q02|Quesito 2]] — No cuboid has equal volume, surface area and perimeter

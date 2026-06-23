@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Cadet2023REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
 
 - [[src_kangourou_2023_cadet__Q01|Quesito 1]] — Parte mancante di una collezione di segmenti
 - [[src_kangourou_2023_cadet__Q02|Quesito 2]] — Quale forma non si scompone in due trapezi con un segmento

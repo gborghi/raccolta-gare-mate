@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Junior2023RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
 
 - [[src_kangourou_2023_junior_finale__QJ1|Quesito J1]] — media
 - [[src_kangourou_2023_junior_finale__QJ2|Quesito J2]] — gioco equo o no

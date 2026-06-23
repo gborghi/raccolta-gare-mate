@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 - [[src_bmo2_2016__Q01|Quesito 1]] — Three mutually tangent circles and common tangent, prove perimeter inequality
 - [[src_bmo2_2016__Q02|Quesito 2]] — Alison and Benjamin token-ranking game, find largest N

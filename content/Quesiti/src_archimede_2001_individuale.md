@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2001/GaraIndividuale.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
 - [[src_archimede_2001_individuale__Q01|Quesito 1]] — trovare i due lati mancanti
 - [[src_archimede_2001_individuale__Q02|Quesito 2]] — quante squadre partecipano

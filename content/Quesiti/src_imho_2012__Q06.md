@@ -46,4 +46,4 @@ tags:
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WL83L88eQtGtGQEdDDGl27mN5bzY6PBu/view)

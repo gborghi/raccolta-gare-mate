@@ -30,11 +30,11 @@ tags:
 
 > La Massima Comun Combinazione [⋆]
 > Goemetrikon: «Ecco la cassaforte! Il codice che la apre è il massimo comun divisore di tutti i numeri della forma
-> 1n +2n +3n +···+999n dove n è un intero positivo. . . ».
+> 1n +2n +3n +··+999n dove n è un intero positivo. . . ».
 > Jig∈N: «Accidenti, non abbiamo tempo di calcolare infiniti numeri!». Lupin/3 sogghigna. Qual è il codice?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0029
-**Fonte:** apri PDF p.10
+**Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2019/SQE-A-19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 - [[src_kangourou_2019_ecolier_semifinale_a__Q01|Quesito 1]] — Prodotto cifre di numero <45 con somma cifre 12
 - [[src_kangourou_2019_ecolier_semifinale_a__Q02|Quesito 2]] — Massimo M-N tra sacchetti di caramelle

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 - [[src_bmo_1980-81_round2__Q01|Quesito 1]] — Triangle sides red; 3 blue lines cut into 4 congruent triangles and 3 pentagons; find area fraction
 - [[src_bmo_1980-81_round2__Q02|Quesito 2]] — Count and classify the 13 axes of a cube; state minimum rotation angles

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
 
 - [[src_inmo_2004__Q01|Quesito 1]] — Convex quadrilateral ABCD with midpoints; prove it is a square
 - [[src_inmo_2004__Q02|Quesito 2]] — Find all integer pairs (a,b) satisfying equation with prime p > 3

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/Cadet_Semif_18TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
 
 - [[src_kangourou_2018_cadet_semifinale__Q01|Quesito 1]] — Quale valore N non e possibile per i cioccolatini
 - [[src_kangourou_2018_cadet_semifinale__Q02|Quesito 2]] — Prima cifra del piu piccolo numero moderno

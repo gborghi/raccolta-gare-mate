@@ -18,7 +18,7 @@ tags:
   - regione/r4
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
 
 - [[src_rmo_2013_r4__Q01|Quesito 1]] — Circle through O intersects another circle; angle equality proof
 - [[src_rmo_2013_r4__Q02|Quesito 2]] — Smallest five-digit number with digits in strictly increasing order not divisible by 11

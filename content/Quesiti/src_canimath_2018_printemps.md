@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 - [[src_canimath_2018_printemps__Q01|Quesito 1]] — 12 numbered chairs, grasshopper jumps exactly 4 numbers
 - [[src_canimath_2018_printemps__Q02|Quesito 2]] — Compare two sums A and B involving reciprocals

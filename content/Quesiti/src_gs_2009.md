@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/GS_2009_testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 - [[src_gs_2009__Q01|Quesito 1]] — Distanza dalla cima di un'antenna con angolo di elevazione
 - [[src_gs_2009__Q02|Quesito 2]] — Tentativi max per 4 pulsanti consecutivi in una griglia

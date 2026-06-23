@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 - [[src_obm_2005_n2_f1__Q01|Quesito 1]] — Equivalent percentage discount of a buy-one-get-one-half-price offer
 - [[src_obm_2005_n2_f1__Q02|Quesito 2]] — Film of 70% transparency over glass of 90%: total reduction of radiation

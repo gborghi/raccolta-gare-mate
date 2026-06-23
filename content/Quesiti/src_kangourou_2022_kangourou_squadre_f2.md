@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2022/Kangourou2022RFIN2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 - [[src_kangourou_2022_kangourou_squadre_f2__Q01|Quesito 1]] — Somma cifre di espressione con 123456789
 - [[src_kangourou_2022_kangourou_squadre_f2__Q02|Quesito 2]] — Lato verticale rettangolo con 8 dischi

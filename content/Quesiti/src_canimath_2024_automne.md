@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 - [[src_canimath_2024_automne__Q01|Quesito 1]] — Compute (2039−2024)²/9
 - [[src_canimath_2024_automne__Q02|Quesito 2]] — Find angle QDP using two angle bisectors from point D on triangle side

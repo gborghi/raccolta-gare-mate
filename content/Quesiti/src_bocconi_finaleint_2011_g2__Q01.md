@@ -49,4 +49,4 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Le monete con la croce sono quelle indicate nella figura della soluzione (4 monete colorate in grigio).
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)

@@ -38,4 +38,4 @@ tags:
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0272
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)

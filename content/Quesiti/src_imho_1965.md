@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
 
 - [[src_imho_1965__Q01|Quesito 1]] — Find all x in [0,2π] satisfying a trigonometric inequality
 - [[src_imho_1965__Q02|Quesito 2]] — Prove a homogeneous linear system has only the trivial solution

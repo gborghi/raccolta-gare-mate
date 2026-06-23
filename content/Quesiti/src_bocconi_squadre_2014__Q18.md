@@ -47,4 +47,4 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Quadrato magico: prima riga $[13,3,2,16]$, seconda riga $[8,10,11,5]$, terza riga $[12,6,7,9]$, quarta riga $[1,15,14,4]$ (e varianti per simmetria)
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)

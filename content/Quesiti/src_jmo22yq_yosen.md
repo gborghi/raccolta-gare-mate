@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 - [[src_jmo22yq_yosen__Q01|Quesito 1]] — Square ABCD with two perpendicular transversals; find side length
 - [[src_jmo22yq_yosen__Q02|Quesito 2]] — Circle with tangent-chord angles 30° and 10°; find angle BDC

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 - [[src_jmo26yq_yosen__Q01|Quesito 1]] — Compute a radical of fourth powers
 - [[src_jmo26yq_yosen__Q02|Quesito 2]] — Count integers 1..2016 with small remainder mod 20

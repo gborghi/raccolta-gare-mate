@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1b__JDOphfOKJwjRdW1rKhY9YKOrtSicC/view)
 
 - [[src_obm_2020_n3_fx__Q01|Quesito 1]] — Existence of positive integers making a weighted reciprocal sum equal 1
 - [[src_obm_2020_n3_fx__Q02|Quesito 2]] — Fibonacci-like integer sequence: infinitely many integers are non-fibonacciano

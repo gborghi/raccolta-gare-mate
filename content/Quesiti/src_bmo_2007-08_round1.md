@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RB1RkGzKd2r9NM4xaNaiRaoP15anlQ-K/view)
 
 - [[src_bmo_2007-08_round1__Q01|Quesito 1]] — Evaluate a fraction of fourth and second powers
 - [[src_bmo_2007-08_round1__Q02|Quesito 2]] — Find positive integer solutions of two simultaneous equations

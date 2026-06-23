@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 - [[src_pol_2005_r1__Q01|Quesito 1]] — Solve a symmetric system of three real equations.
 - [[src_pol_2005_r1__Q02|Quesito 2]] — Find all n>1 for which a sum of squares is a power of a prime.

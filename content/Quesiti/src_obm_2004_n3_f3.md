@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1c6ODX7lMgcQas-StqoLeTzsGE8LAzVUM/view)
 
 - [[src_obm_2004_n3_f3__Q01|Quesito 1]] — Incircles of four triangles in convex quadrilateral share a point iff rhombus
 - [[src_obm_2004_n3_f3__Q02|Quesito 2]] — Find all n for which a triangle can be divided into n triangles with equal vertex degree

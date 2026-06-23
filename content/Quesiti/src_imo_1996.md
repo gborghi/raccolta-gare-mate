@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1996_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 - [[src_imo_1996__Q01|Quesito 1]] — Knight-like moves of distance sqrt(r) across board corners
 - [[src_imo_1996__Q02|Quesito 2]] — Show AP, BD, CE concurrent with incenter angle condition

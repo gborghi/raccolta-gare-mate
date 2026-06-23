@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/SMarzo-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 - [[src_kangourou_2014_marzo_student__Q01|Quesito 1]] — Cubetti eliminati da un cubo 5x5x5 con colonne
 - [[src_kangourou_2014_marzo_student__Q02|Quesito 2]] — Somma di tre eta = 44, prossima con due cifre uguali

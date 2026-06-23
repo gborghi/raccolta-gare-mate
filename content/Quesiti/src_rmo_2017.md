@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
 
 - [[src_rmo_2017__Q01|Quesito 1]] — Construct line segment CD using compass/ruler given angle and ratio
 - [[src_rmo_2017__Q02|Quesito 2]] — Show the polynomial sum has no integer solutions in a, b

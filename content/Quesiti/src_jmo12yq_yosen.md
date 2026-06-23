@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 - [[src_jmo12yq_yosen__Q01|Quesito 1]] — 3-digit numbers with equal hundreds and units digit
 - [[src_jmo12yq_yosen__Q02|Quesito 2]] — Pairs from 1..14 with absolute difference at most 3

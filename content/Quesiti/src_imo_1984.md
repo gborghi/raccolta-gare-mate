@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1984_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
 
 - [[src_imo_1984__Q01|Quesito 1]] — Bound xy+yz+zx-2xyz for nonnegative reals summing to 1
 - [[src_imo_1984__Q02|Quesito 2]] — Find positive integers with divisibility conditions modulo 7 powers

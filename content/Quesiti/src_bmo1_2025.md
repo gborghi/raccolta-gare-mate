@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 - [[src_bmo1_2025__Q01|Quesito 1]] — Classify happy integers n in range 3 to 12
 - [[src_bmo1_2025__Q02|Quesito 2]] — Find n for which magician trick with deck summing to 0 works

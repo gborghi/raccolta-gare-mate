@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 - [[src_bmo1_2010__Q01|Quesito 1]] — Find integers x,y,z satisfying two simultaneous equations
 - [[src_bmo1_2010__Q02|Quesito 2]] — Circle through four points with two parallel chords

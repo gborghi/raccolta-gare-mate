@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/Koala2019REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 - [[src_kangourou_2019_koala_preecolier__Q01|Quesito 1]] — Quale rettangolo contiene solo numeri minori di 7
 - [[src_kangourou_2019_koala_preecolier__Q02|Quesito 2]] — Quale e una parte della collana mostrata

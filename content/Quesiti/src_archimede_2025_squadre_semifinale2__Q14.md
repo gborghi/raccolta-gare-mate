@@ -44,4 +44,4 @@ tags:
 **Metodo:** [[method_telescoping|Somme telescopiche]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9900
-**Fonte:** apri PDF p.5
+**Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 - [[src_bmo2_2023__Q01|Quesito 1]] — Cyclic quadrilateral from triangle with obtuse angle and incircle tangencies
 - [[src_bmo2_2023__Q02|Quesito 2]] — Blackboard moves on 1 to n transform list to n,1,2,...,n-1

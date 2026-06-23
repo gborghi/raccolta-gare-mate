@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2008/testo-triennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 - [[src_archimede_2008_biennio__Q02|Quesito 1]] — Velocita necessaria per record dopo ritardo iniziale
 - [[src_archimede_2008_biennio__Q03|Quesito 2]] — Massimo birilli buttati con vincoli proporzionali

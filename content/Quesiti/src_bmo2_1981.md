@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 - [[src_bmo2_1981__Q01|Quesito 1]] — A triangle with red sides is cut by three blue lines into seven pieces (four triangles, three pentagons); given the four triangles are congruent, express the area of each as a fraction of the whole triangle.
 - [[src_bmo2_1981__Q02|Quesito 2]] — With an axis of a solid defined as a line about which the solid can be rotated by an angle between 0 and 360 degrees to coincide with itself, find how many axes a cube has and the minimum rotation angle for each of the three types.

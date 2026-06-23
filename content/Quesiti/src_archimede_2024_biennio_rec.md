@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2024/archimede_2024_biennio_rec.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 - [[src_archimede_2024_biennio_rec__Q01|Quesito 1]] — Numeri naturali sotto 1000 con somma delle cifre 3
 - [[src_archimede_2024_biennio_rec__Q02|Quesito 2]] — Minima perdita di buoni per pagare le scarpe

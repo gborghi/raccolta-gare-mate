@@ -37,4 +37,4 @@ tags:
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.12
+**Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)

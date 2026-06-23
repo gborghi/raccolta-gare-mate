@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
 
 - [[src_pol_1994_r3__Q01|Quesito 1]] — Triples of positive rationals with integral sum, reciprocal-sum, product
 - [[src_pol_1994_r3__Q02|Quesito 2]] — Tangents from point on line to circle, midpoint line has fixed point

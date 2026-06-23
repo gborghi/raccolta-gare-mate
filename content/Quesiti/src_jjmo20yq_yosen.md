@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 - [[src_jjmo20yq_yosen__Q01|Quesito 1]] — Count distinct 2x2 letter-grid fillings up to rotation/reflection
 - [[src_jjmo20yq_yosen__Q02|Quesito 2]] — Count prime pairs (p,q) with p<=q such that pq divides 15(p-1)(q-1)

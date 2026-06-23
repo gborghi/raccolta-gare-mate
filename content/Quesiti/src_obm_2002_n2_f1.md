@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 - [[src_obm_2002_n2_f1__Q01|Quesito 1]] — Merchant sells two cars; total purchase R\$27000, gain R\$750; find individual prices
 - [[src_obm_2002_n2_f1__Q02|Quesito 2]] — Billiard ball on 5×7 table shot at 45°; count side hits before corner pocket

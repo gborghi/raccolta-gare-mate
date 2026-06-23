@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
 
 - [[src_jegmo13q__Q01|Quesito 1]] — Find all positive integer pairs with prime average and integer factorial ratio
 - [[src_jegmo13q__Q02|Quesito 2]] — Count circle arrangements guaranteeing B wins grid game

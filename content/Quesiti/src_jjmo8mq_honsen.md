@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
 
 - [[src_jjmo8mq_honsen__Q01|Quesito 1]] — Equiangular n-gon with angles 120 or 240 and equal sides
 - [[src_jjmo8mq_honsen__Q02|Quesito 2]] — Largest k so truncating a perfect square keeps squares

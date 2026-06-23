@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2022/Junior2022RFIN1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 - [[src_kangourou_2022_junior_squadre__Q01|Quesito 1]] — Voti favorevoli totali in referendum 252 votanti
 - [[src_kangourou_2022_junior_squadre__Q02|Quesito 2]] — Ora in cui balena veloce inverte la rotta

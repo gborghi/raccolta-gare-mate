@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2012/febb_12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 - [[src_archimede_2012_febb_2livello__Q01|Quesito 1]] — Da 3a+b su a-b uguale 2, calcolare a^3/b^3
 - [[src_archimede_2012_febb_2livello__Q02|Quesito 2]] — Torneo calcio balilla, tempo che Marco gioca in difesa

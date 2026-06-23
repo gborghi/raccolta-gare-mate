@@ -105,4 +105,4 @@ tags:
 **Metodo:** [[method_grafi|Teoria dei grafi]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0082
-**Fonte:** apri PDF p.25
+**Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)

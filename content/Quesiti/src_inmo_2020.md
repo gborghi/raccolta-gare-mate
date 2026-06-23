@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 - [[src_inmo_2020__Q01|Quesito 1]] — Circumcentre of triangles ACD and XAY lies on perp bisector of O1O2
 - [[src_inmo_2020__Q02|Quesito 2]] — Polynomial satisfying symmetry condition expressed in powers of (1-x^2)

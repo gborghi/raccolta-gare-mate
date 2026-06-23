@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2013/JMarzo-13.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
 
 - [[src_kangourou_2013_junior__Q01|Quesito 1]] — Quale numero non e fattore di 200013-2013
 - [[src_kangourou_2013_junior__Q02|Quesito 2]] — Quante figure hanno lo stesso perimetro del foglio quadrato

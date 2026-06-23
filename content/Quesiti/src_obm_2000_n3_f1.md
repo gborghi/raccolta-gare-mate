@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 - [[src_obm_2000_n3_f1__Q01|Quesito 1]] — Largest expression for positive reals x,y
 - [[src_obm_2000_n3_f1__Q02|Quesito 2]] — Angle of square built outside a regular pentagon

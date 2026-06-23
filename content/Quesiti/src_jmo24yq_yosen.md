@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 - [[src_jmo24yq_yosen__Q01|Quesito 1]] — Two internally tangent circles; PQ=QR, radius 9; find PQ
 - [[src_jmo24yq_yosen__Q02|Quesito 2]] — Regular octagon vertices labelled 1–8; count arrangements avoiding consecutive-value neighbors

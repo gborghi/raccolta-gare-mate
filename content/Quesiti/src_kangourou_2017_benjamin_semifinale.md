@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/Benjamin_Semif_17TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uSb-8ZS0ZxgQE-rDkGuF4RrLMjBY_qKl/view)
 
 - [[src_kangourou_2017_benjamin_semifinale__Q01|Quesito 1]] — prezzo di 9 pezzi 3_72,98
 - [[src_kangourou_2017_benjamin_semifinale__Q02|Quesito 2]] — Frazione del triangolo occupata dalla M bianca

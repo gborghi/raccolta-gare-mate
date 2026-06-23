@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 - [[src_imho_1996__Q01|Quesito 1]] — Rectangle grid moves from A to B vertex
 - [[src_imho_1996__Q02|Quesito 2]] — Incenter concurrence in triangle with interior point

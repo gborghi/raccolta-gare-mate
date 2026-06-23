@@ -18,7 +18,7 @@ tags:
   - regione/r4
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
 
 - [[src_rmo_2012_r4__Q01|Quesito 1]] — Radius of a circle inscribed in a unit square tangent to two side-centred quadrant arcs and a side
 - [[src_rmo_2012_r4__Q02|Quesito 2]] — Show that abc divides (a+b+c)^7 given the divisibility conditions a|b^2, b|c^2, c|a^2

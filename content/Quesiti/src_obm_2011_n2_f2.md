@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rTFVytZ0r4ui2fCSYnm5ciGL2P0QyY5F/view)
 
 - [[src_obm_2011_n2_f2__Q01|Quesito 1]] — Real a,b are roots of x²+ax+b=0; find a−b
 - [[src_obm_2011_n2_f2__Q02|Quesito 2]] — Count two-digit composites formed from distinct digits among 2,3,4,5,6

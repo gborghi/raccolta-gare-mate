@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
 
 - [[src_jjmo16yq_yosen__Q01|Quesito 1]] — Area of equilateral triangle divided by three lines parallel to its sides
 - [[src_jjmo16yq_yosen__Q02|Quesito 2]] — Count positive integers n such that 109 mod n is between 0 and 30

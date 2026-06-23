@@ -41,4 +41,4 @@ tags:
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8760
-**Fonte:** apri PDF p.10
+**Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

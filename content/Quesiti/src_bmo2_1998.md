@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 - [[src_bmo2_1998__Q01|Quesito 1]] — Railway tickets to 200 destinations, pigeonhole for repeated arrivals
 - [[src_bmo2_1998__Q02|Quesito 2]] — Triangle circumcircles tangency with angle and parallel conditions

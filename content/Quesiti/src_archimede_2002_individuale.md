@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2002/GaraIndividuale2002.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
 
 - [[src_archimede_2002_individuale__Q01|Quesito 1]] — determinarle
 - [[src_archimede_2002_individuale__Q02|Quesito 2]] — determinare il volume

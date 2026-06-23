@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2009/ces2009.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RKPm3NkroFDeg9oRHAPmvCWj33-Ezm8e/view)
 
 - [[src_cesenatico_2009__Q01|Quesito 1]] — valori di e
 - [[src_cesenatico_2009__Q02|Quesito 2]] — OM perpendicolare a BK

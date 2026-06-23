@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1J8zHKpO1Q-BosuE3UiWvjA4Arny60DJ4/view)
 
 - [[src_tfjm_2020__Q01|Quesito 1]] — Domino puzzle tiling completion on k×n grids
 - [[src_tfjm_2020__Q02|Quesito 2]] — Minimum suitcase length to pack n square tiles perfectly or near-rotationally

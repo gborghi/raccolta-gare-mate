@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/kangaroo_squadre.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 - [[src_kangourou_squadre_2009_semifinale__Q01|Quesito 1]] — Conteggio esiti di 6 palline rosse e 5 verdi in scatola
 - [[src_kangourou_squadre_2009_semifinale__Q02|Quesito 2]] — Percentuale di quadrati perfetti tra 1 e 10000

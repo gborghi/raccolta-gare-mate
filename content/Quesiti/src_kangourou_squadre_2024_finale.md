@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2024/SQKangourou2024F2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
 
 - [[src_kangourou_squadre_2024_finale__Q01|Quesito 1]] — Perimetro pentagono ombreggiato da triangoli equilateri annidati
 - [[src_kangourou_squadre_2024_finale__Q02|Quesito 2]] — Minimo intero somma di 9 e di 10 interi consecutivi

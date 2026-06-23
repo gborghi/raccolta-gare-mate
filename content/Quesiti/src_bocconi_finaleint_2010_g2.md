@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 - [[src_bocconi_finaleint_2010_g2__Q01|Quesito 1]] — Conta i domino con esattamente 6 punti in un set 0-0 a 6-6.
 - [[src_bocconi_finaleint_2010_g2__Q02|Quesito 2]] — Riordina quattro carte per ottenere il numero piu grande possibile.

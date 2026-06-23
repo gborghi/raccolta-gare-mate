@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2022/Soluzioni-Cesenatico-2022.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1TXGU5iDuDzmKc7nZ8Xbc329kdRiV6EwX/view)
 
 - [[src_cesenatico_2022__Q01|Quesito 1]] — Per quali n esiste multiplo di 2022 con n cifre 7 e resto 0
 - [[src_cesenatico_2022__Q02|Quesito 2]] — circonferenza per EFG tangente ad AC

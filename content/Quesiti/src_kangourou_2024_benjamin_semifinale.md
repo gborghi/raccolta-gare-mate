@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Benjamin2024RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 - [[src_kangourou_2024_benjamin_semifinale__Q01|Quesito 1]] — Prodotto dei tre numeri pensati da Adele, Beatrice, Cecilia
 - [[src_kangourou_2024_benjamin_semifinale__Q02|Quesito 2]] — Massimo numero di punti comuni a 2024 circonferenze

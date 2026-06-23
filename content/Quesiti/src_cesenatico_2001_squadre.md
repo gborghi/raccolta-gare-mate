@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2001/gs cesenatico 2001.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 - [[src_cesenatico_2001_squadre__Q01|Quesito 1]] — Numero di cinture di stelle circoscritte fino a raggio 2001
 - [[src_cesenatico_2001_squadre__Q02|Quesito 2]] — Posizione del pianeta (24,25) nell'ordinamento dei pianeti

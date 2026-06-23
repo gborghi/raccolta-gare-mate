@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2015/SQ-F-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
 
 - [[src_kangourou_2015_squadre_f__Q01|Quesito 1]] — Percentuale di cui B supera A
 - [[src_kangourou_2015_squadre_f__Q02|Quesito 2]] — Multipli di 9 con cinque cifre dispari (>=4 diverse)

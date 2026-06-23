@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 - [[src_bmo_2005-06_round1__Q01|Quesito 1]] — Twin primes around n force divisibility by 720
 - [[src_bmo_2005-06_round1__Q02|Quesito 2]] — Split six pairs of twins into teams with no pair together

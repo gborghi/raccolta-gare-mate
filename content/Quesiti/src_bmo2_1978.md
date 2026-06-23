@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 - [[src_bmo2_1978__Q01|Quesito 1]] — Convex pentagons with unit triangle property, prove infinitely many non-congruent
 - [[src_bmo2_1978__Q02|Quesito 2]] — Sequence where each digit except last has opposite parity to successor

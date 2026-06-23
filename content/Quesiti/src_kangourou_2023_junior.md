@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Junior2023REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 - [[src_kangourou_2023_junior__Q01|Quesito 1]] — secondo numero
 - [[src_kangourou_2023_junior__Q02|Quesito 2]] — che giorno fra 2023 giorni

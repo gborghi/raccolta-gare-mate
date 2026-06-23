@@ -95,6 +95,6 @@ tags:
 **Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1EHAMpK1by8Xia4t4AWdCzG755ysDEYJL/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.

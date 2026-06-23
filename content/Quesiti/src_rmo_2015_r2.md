@@ -18,7 +18,7 @@ tags:
   - regione/r2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
 
 - [[src_rmo_2015_r2__Q01|Quesito 1]] — Reflections of B,C in angle bisector of A give same incentre
 - [[src_rmo_2015_r2__Q02|Quesito 2]] — Quadratic polynomial, P(s)=t, P(t)=s; prove b-st is a root

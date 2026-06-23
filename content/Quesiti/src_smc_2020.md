@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 - [[src_smc_2020__Q01|Quesito 1]] — Evaluate 2020 divided by (20 times 20)
 - [[src_smc_2020__Q02|Quesito 2]] — Find the remainder when 1234 times 5678 is divided by 5

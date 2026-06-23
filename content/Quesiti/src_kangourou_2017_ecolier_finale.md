@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/E-settembre17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1i4cWNz-yt2vvuJ4KAixPuyYTwNmyTbwX/view)
 
 - [[src_kangourou_2017_ecolier_finale__QE1|Quesito E1]] — Quante pagine ha il libro delle vacanze (4 tipologie)
 - [[src_kangourou_2017_ecolier_finale__QE2|Quesito E2]] — Quadretti racchiusi nel quadrato, 35 colorati

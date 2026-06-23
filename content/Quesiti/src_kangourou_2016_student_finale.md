@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/SMaggio-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
 
 - [[src_kangourou_2016_student_finale__QS1|Quesito S1]] — n con 2016 = radice della somma dei cubi dei primi n interi
 - [[src_kangourou_2016_student_finale__QS2|Quesito S2]] — Giorni festivi in piu aggiungendo i ponti, anno 3000 giorni

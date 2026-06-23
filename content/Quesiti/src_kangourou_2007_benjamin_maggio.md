@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/BMaggio-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1wbmAAkHVqbo7EOEVBYt8x1-cdr8_snEU/view)
 
 - [[src_kangourou_2007_benjamin_maggio__QB1|Quesito B1]] — Area del triangolo ADE (parallelogramma)
 - [[src_kangourou_2007_benjamin_maggio__QB2|Quesito B2]] — Minimo monete per triangolo e quadrato

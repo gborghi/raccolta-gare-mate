@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
 
 - [[src_obm_2004_n3_f2__Q01|Quesito 1]] — Count integer values of a sum expression given root constraints
 - [[src_obm_2004_n3_f2__Q02|Quesito 2]] — Find maximum ratio CD/AD in right-trapezoid with perpendicular diagonal

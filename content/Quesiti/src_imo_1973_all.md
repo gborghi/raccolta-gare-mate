@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1973_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
 
 - [[src_imo_1973_all__Q01|Quesito 1]] — sum length >=1
 - [[src_imo_1973_all__Q02|Quesito 2]] — Finite non-coplanar set with parallel-pairs property exists?

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/1999/Archimede1999/TestoTriennio1999.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
 
 - [[src_archimede_1999_triennio__Q01|Quesito 1]] — Perimetro di un frutteto rettangolare con 35 alberi
 - [[src_archimede_1999_biennio__Q11|Quesito 2]] — Per quanti minuti ore e minuti sono quadrati perfetti

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Junior2022RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
 
 - [[src_kangourou_2022_junior_finale__QJ1|Quesito J1]] — Ogni termine della sequenza 1007,10017,... divisibile per 53
 - [[src_kangourou_2022_junior_finale__QJ2|Quesito J2]] — Raggio del cerchio interno alle tre circonferenze

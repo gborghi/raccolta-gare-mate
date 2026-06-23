@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 - [[src_bmo_2000-01_round1__Q01|Quesito 1]] — Two-digit N where digit-sum of 10^N minus 1 is divisible by 170
 - [[src_bmo_2000-01_round1__Q02|Quesito 2]] — Two tangent chords from point on outer circle: angle relation

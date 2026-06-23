@@ -36,4 +36,4 @@ tags:
 **Metodo:** [[method_backward|Ragionamento all'indietro]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0024
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)

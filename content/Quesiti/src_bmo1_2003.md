@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
 
 - [[src_bmo1_2003__Q01|Quesito 1]] — Determine digits a,b,c from a power of 3
 - [[src_bmo1_2003__Q02|Quesito 2]] — Circumcircle, altitude foot, midpoint, and diameter condition

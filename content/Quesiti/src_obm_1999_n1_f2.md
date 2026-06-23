@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
 - [[src_obm_1999_n1_f2__Q01|Quesito 1]] — Remove 10 digits from a long number to maximize the remaining value
 - [[src_obm_1999_n1_f2__Q02|Quesito 2]] — Consecutive Sundays in four months of a non-leap year

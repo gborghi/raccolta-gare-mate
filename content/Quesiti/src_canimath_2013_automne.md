@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 - [[src_canimath_2013_automne__Q01|Quesito 1]] — Count integers between 1 and 10000 divisible by 7 but not 5
 - [[src_canimath_2013_automne__Q02|Quesito 2]] — Count afternoon naps given constraints over 15-day observation

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ihJu65X9h_5nFSLWEBnWr2rsJ1UTiKwI/view)
 
 - [[src_pol_1977_r3__Q01|Quesito 1]] — Quadrilateral ABCD with given angles; prove AB and CD perpendicular
 - [[src_pol_1977_r3__Q02|Quesito 2]] — Nested circles and polygons; prove radii converge to zero

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 - [[src_bmo1_2026__Q01|Quesito 1]] — Express p^n as sum of a ramp
 - [[src_bmo1_2026__Q02|Quesito 2]] — Find all real triples satisfying three symmetric equations

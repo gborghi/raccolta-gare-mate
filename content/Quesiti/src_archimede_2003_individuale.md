@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2003/GaraIndividuale2003.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
 
 - [[src_archimede_2003_individuale__Q01|Quesito 1]] — divisibilita dei numeri di cifre
 - [[src_archimede_2003_individuale__Q02|Quesito 2]] — minimo tempo

@@ -42,4 +42,4 @@ tags:
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9724
-**Fonte:** apri PDF p.9
+**Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)

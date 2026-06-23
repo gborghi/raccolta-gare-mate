@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 - [[src_cgen_1993__Q01|Quesito 1]] — Perfect weight box: characterize and count by factorization, total mass 1993g
 - [[src_cgen_1993__Q02|Quesito 2]] — Existence of 2n+1 consecutive integers satisfying sum / sum-of-squares / sum-of-cubes equality

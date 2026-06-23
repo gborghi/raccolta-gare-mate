@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
 
 - [[src_obm_2011_n1_f3__Q01|Quesito 1]] — Erase even numbers from 1 to 2011; count remaining and count those written only with digits 0 and 1.
 - [[src_obm_2011_n1_f3__Q02|Quesito 2]] — Minimum number of equal small cubes to add to a 2 cm red cube to obtain a cube of volume (12/5)^3.

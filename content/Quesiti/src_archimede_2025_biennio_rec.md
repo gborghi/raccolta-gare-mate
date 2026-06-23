@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2025/archimede_2025_biennio_rec.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 - [[src_archimede_2025_biennio_rec__Q01|Quesito 1]] — Naturali < 1000 con somma cifre 3
 - [[src_archimede_2025_biennio_rec__Q02|Quesito 2]] — Euro persi minimi pagando scarpe con buoni

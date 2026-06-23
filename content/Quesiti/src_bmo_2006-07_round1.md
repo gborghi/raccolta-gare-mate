@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 - [[src_bmo_2006-07_round1__Q01|Quesito 1]] — Find four primes less than 100 dividing 3^n - 2^n for some n
 - [[src_bmo_2006-07_round1__Q02|Quesito 2]] — Quadrilateral with trisection points on two sides; prove equal third-areas

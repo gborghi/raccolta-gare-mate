@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1obqFZcNocFah5P6ftcXj9ue3NMcS9ZQn/view)
 
 - [[src_cgen_2014__Q01|Quesito 1]] — Geometric stability: a sequence with bounded increments x_{n+1}-q x_n in [0,epsilon], expressed via telescoping, then approximated by geometric sequences for q<1 and q>1.
 - [[src_cgen_2014__Q02|Quesito 2]] — Dice/coin game 'Vite, pile': each of k players flips a fair coin until heads (score = number of flips). Find probability a given player wins, probability of a unique winner (and limit as n to infinity), and expected number of winners (and limit).

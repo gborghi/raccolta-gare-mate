@@ -53,4 +53,4 @@ tags:
 **Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)

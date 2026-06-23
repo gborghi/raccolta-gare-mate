@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 - [[src_pol_2003_r3__Q01|Quesito 1]] — Altitude and midpoint line in acute triangle; prove SD = SM where S is circumcenter of CKL.
 - [[src_pol_2003_r3__Q02|Quesito 2]] — Prove an inequality bounding a squared sum of powers of a for all strictly increasing nonnegative-integer sequences.

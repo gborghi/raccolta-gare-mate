@@ -37,4 +37,4 @@ tags:
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3040
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)

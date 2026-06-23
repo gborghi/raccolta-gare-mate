@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/CMaggio-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
 
 - [[src_kangourou_2008_cadet_maggio__QC1|Quesito C1]] — Affluenza finale alle urne (incremento percentuale)
 - [[src_kangourou_2008_cadet_maggio__QC2|Quesito C2]] — Sottoinsieme con somma/differenza divisibile per 10

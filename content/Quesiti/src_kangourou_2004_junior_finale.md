@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/JMaggio-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zhN_ZIEqgp2HEtGPhjwQn1kisd4lL2x7/view)
 
 - [[src_kangourou_2004_junior_finale__QJ1|Quesito J1]] — Esistono basi in cui 15x15=321
 - [[src_kangourou_2004_junior_finale__QJ2|Quesito J2]] — Coppie intere con x^2+y^2+xy=1

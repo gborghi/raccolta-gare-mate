@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
 
 - [[src_jmo15mq_honsen__Q01|Quesito 1]] — Flipping 5-in-a-row coins on 17x17 grid to all tails
 - [[src_jmo15mq_honsen__Q02|Quesito 2]] — Lattice points on segments of a periodic integer polynomial orbit are constant

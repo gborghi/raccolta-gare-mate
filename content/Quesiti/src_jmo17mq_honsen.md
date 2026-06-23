@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
 
 - [[src_jmo17mq_honsen__Q01|Quesito 1]] — Winning strategy in a number-calling game up to n
 - [[src_jmo17mq_honsen__Q02|Quesito 2]] — Characterize functions satisfying a double functional inequality

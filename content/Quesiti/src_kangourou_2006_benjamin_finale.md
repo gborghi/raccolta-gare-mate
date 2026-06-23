@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/BMaggio-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
 
 - [[src_kangourou_2006_benjamin_finale__QB1|Quesito B1]] — Numero MALE dato MELA minimo a cifre distinte
 - [[src_kangourou_2006_benjamin_finale__QB2|Quesito B2]] — Somma dei primi 40 numeri della sequenza ripetuta

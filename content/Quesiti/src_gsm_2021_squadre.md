@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/gsm_2021.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 - [[src_gsm_2021_squadre__Q01|Quesito 1]] — Numeri posti con esattamente 29 multipli, non primi
 - [[src_gsm_2021_squadre__Q02|Quesito 2]] — Lato obliquo di trapezio rettangolo da somme di quadrati

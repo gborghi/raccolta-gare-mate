@@ -37,4 +37,4 @@ tags:
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2060
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 - [[src_bocconi_squadre_2014__Q01|Quesito 1]] — Moltiplicazione ciclica ILANOM × 4 = MILANO
 - [[src_bocconi_squadre_2014__Q02|Quesito 2]] — Prodotto di numero a due cifre per 99 con terza cifra 5

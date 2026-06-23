@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 - [[src_canimath_2009_printemps__Q02|Quesito 2]] — Find width of ribbon wrapped diagonally around rectangular box
 - [[src_canimath_2009_printemps__Q03|Quesito 3]] — Two-digit numbers: always choose two with distinct units and tens digits

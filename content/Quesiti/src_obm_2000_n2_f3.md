@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qM5BxKaKRIxirRctyOuDYrS51LXljnyw/view)
 
 - [[src_obm_2000_n2_f3__Q01|Quesito 1]] — Three identical glued dice on a table; find the sum of the three faces in contact with the table.
 - [[src_obm_2000_n2_f3__Q02|Quesito 2]] — Two decks of 50 double-sided cards each showing 1-100; show all 100 cards can be placed so the up faces show every number from 1 to 100.

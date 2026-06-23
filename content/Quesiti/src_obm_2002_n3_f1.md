@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 - [[src_obm_2002_n3_f1__Q01|Quesito 1]] — Reading a bar chart of monthly billing of companies A and B in the second half of 2001
 - [[src_obm_2002_n3_f1__Q02|Quesito 2]] — Find p+q for the irreducible fraction equal to a repeating-decimal ratio plus 2

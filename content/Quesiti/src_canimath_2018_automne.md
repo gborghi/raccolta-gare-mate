@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 - [[src_canimath_2018_automne__Q01|Quesito 1]] — Distribute 2018 pieces in b boxes into n houses; box contains at least n pieces?
 - [[src_canimath_2018_automne__Q02|Quesito 2]] — Triangle ABC, interior point O, sum of three parallel-line ratios equals 1

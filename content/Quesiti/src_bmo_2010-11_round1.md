@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 - [[src_bmo_2010-11_round1__Q01|Quesito 1]] — Remove one integer from 1..n; average of remaining is 163/4
 - [[src_bmo_2010-11_round1__Q02|Quesito 2]] — Cube side a with square hole; volume equals surface area numerically

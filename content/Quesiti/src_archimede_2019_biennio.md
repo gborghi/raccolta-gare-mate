@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2019/archimede_biennio_2019.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 - [[src_archimede_2019_biennio__Q01|Quesito 1]] — Quanti reali x soddisfano 0<=x<=1, 1/x<=1
 - [[src_archimede_2019_biennio__Q02|Quesito 2]] — Ordinare i lati dalle altezze di un triangolo

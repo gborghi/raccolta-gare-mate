@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 - [[src_obm_2006_n1_f1__Q01|Quesito 1]] — Ping-pong balls tank: time to reach 2000 balls
 - [[src_obm_2006_n1_f1__Q02|Quesito 2]] — Bar chart: monoculture water/nutrient impact statements

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
 
 - [[src_jjmo17yq_yosen__Q01|Quesito 1]] — Distinct digits 1-9 with two products equal to a sum
 - [[src_jjmo17yq_yosen__Q02|Quesito 2]] — Smallest 'this-year number' divisible by 17

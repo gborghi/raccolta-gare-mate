@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mFSc82UPOl-hsqJK3SMN5XvfV4dcKK2I/view)
 
 - [[src_pol_1979_r3__Q01|Quesito 1]] — Distinct remainders set: divisibility by n
 - [[src_pol_1979_r3__Q02|Quesito 2]] — Four tetrahedron face lines concurrent iff products of opposite sides equal

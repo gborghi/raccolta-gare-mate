@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Benjamin2023RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1msHbRw-XEkFpi4wAZ4V6P2mT6S9d4Opb/view)
 
 - [[src_kangourou_2023_benjamin_finale__QB1|Quesito B1]] — Distribuire 16 bottiglie (piene/mezze/vuote) equamente a 4
 - [[src_kangourou_2023_benjamin_finale__QB2|Quesito B2]] — somma dei due numeri mancanti

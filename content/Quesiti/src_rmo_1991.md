@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RD8FU5BoTp9QOmMS9Bfvr_F9JpltmZcX/view)
 
 - [[src_rmo_1991__Q01|Quesito 1]] — Cevians through interior point, prove ratio sum equals one
 - [[src_rmo_1991__Q02|Quesito 2]] — Inequality for four positive reals summing condition

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 - [[src_bmo_2015-16_round2__Q01|Quesito 1]] — Three mutually tangent circles with common tangent: prove inequality
 - [[src_bmo_2015-16_round2__Q02|Quesito 2]] — Hockey teams: find largest chain Benjamin can always guarantee

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
 
 - [[src_bmo_1988-89_round1__Q01|Quesito 1]] — Find all integers a,b,c satisfying a polynomial identity
 - [[src_bmo_1988-89_round1__Q02|Quesito 2]] — Points P,Q on sides of triangle ABC; FP passes through centroid iff condition on b,c

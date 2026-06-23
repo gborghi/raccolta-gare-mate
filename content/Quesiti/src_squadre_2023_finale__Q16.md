@@ -41,4 +41,4 @@ tags:
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Area:** [[Geometria]]
 **Risposta:** 0066
-**Fonte:** apri PDF p.18
+**Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

@@ -39,4 +39,4 @@ tags:
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2220
-**Fonte:** apri PDF p.25
+**Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

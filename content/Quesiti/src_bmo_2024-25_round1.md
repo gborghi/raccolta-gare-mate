@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 - [[src_bmo_2024-25_round1__Q01|Quesito 1]] — Find which n in 3..12 admit a happy circle arrangement
 - [[src_bmo_2024-25_round1__Q02|Quesito 2]] — Cards in a circle, neighbour sums divisible by 3

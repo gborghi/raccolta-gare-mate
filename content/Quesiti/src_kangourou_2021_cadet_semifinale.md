@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Cadet2021RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 - [[src_kangourou_2021_cadet_semifinale__Q01|Quesito 1]] — Numeri di 4 cifre da 337337 cancellandone due
 - [[src_kangourou_2021_cadet_semifinale__Q02|Quesito 2]] — Minuti minimi per attraversare il ponte tibetano

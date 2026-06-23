@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1997_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
 
 - [[src_imo_1997__Q01|Quesito 1]] — Chessboard triangle black-white area difference function f(m,n)
 - [[src_imo_1997__Q02|Quesito 2]] — Prove AU=TB+TC with perpendicular-bisector construction

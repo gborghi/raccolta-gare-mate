@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 - [[src_imho_1970__Q01|Quesito 1]] — Ratio of inradii equals ratio of exradii in triangle
 - [[src_imho_1970__Q02|Quesito 2]] — Representation of numbers in two bases; compare sizes via digits

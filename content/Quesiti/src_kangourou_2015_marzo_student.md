@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/SMarzo-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 - [[src_kangourou_2015_marzo_student__Q01|Quesito 1]] — Eta di Angela in mesi quando nasce Carlotta
 - [[src_kangourou_2015_marzo_student__Q02|Quesito 2]] — Stima numero formiche in Italia

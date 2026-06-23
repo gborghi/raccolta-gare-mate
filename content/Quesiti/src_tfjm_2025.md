@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lHouVzMpsDZ0eOZtTQ2RMXik8VTIniH-/view)
 
 - [[src_tfjm_2025__Q01|Quesito 1]] — Propagation of good mood among leprechauns on a friendship graph; a number j is realizable if good mood can spread to all leprechauns starting from one.
 - [[src_tfjm_2025__Q02|Quesito 2]] — Water flows down a triangular network of toboggan pipes (types I, X, Z) splitting and merging; determine which inflow/outflow distributions are achievable.

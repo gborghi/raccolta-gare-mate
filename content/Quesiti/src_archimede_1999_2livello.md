@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/1999/febbraio1999-testi.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 - [[src_archimede_1999_2livello__Q01|Quesito 1]] — Quanti posti nei palchi di un teatro da 960
 - [[src_archimede_1999_2livello__Q02|Quesito 2]] — Quante soluzioni reali ha il sistema x²y=150, x³y²=4500

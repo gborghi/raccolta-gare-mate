@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2017/SQ-A-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 - [[src_kangourou_2017_squadre_a__Q01|Quesito 1]] — 5^6 come somma di N addendi uguali a 5
 - [[src_kangourou_2017_squadre_a__Q02|Quesito 2]] — Con quante monete Luisa e uscita di casa (tre spese)

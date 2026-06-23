@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Junior2023RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rq1gJ31P8DKnidln7hHYAxiIyAQN3F0c/view)
 
 - [[src_kangourou_2023_junior_semifinale__Q01|Quesito 1]] — Differenza tra numero di tre cifre e quello a cifre invertite
 - [[src_kangourou_2023_junior_semifinale__Q02|Quesito 2]] — Frazione colorata di una finestra con semicerchi e quarti di cerchio

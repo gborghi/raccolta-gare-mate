@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/SMarzo-18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 - [[src_kangourou_2018_student_marzo__Q01|Quesito 1]] — Quale espressione numerica ha il valore massimo
 - [[src_kangourou_2018_student_marzo__Q02|Quesito 2]] — In quale stanza si ritrova Renata attraversando le porte

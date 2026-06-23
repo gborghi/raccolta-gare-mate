@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2005/EMaggio-05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
 
 - [[src_kangourou_2005_ecolier_finale__QE1|Quesito E1]] — Numero totale di case sullo stesso lato
 - [[src_kangourou_2005_ecolier_finale__QE2|Quesito E2]] — Stima peso minimo e massimo attuale

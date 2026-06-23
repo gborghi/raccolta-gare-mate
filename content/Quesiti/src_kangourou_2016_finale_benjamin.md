@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/BMaggio-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
 
 - [[src_kangourou_2016_finale_benjamin__QB1|Quesito B1]] — prodotto e somma con stessa cifra unita; cifre possibili
 - [[src_kangourou_2016_finale_benjamin__QB2|Quesito B2]] — lato del triangolo piu grande

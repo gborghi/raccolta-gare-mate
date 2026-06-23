@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 - [[src_jjmo3q__Q01|Quesito 1]] — Sum of four four-digit numbers
 - [[src_jjmo3q__Q02|Quesito 2]] — Divisors leaving remainder 11 for both 197 and 290

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
 
 - [[src_jmo27mq_honsen__Q01|Quesito 1]] — lcm(a,b) never equals lcm(a+c,b+c)
 - [[src_jmo27mq_honsen__Q02|Quesito 2]] — greedy doubling sequence is eventually constant

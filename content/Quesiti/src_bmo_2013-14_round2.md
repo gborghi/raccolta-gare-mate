@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
 
 - [[src_bmo_2013-14_round2__Q01|Quesito 1]] — Minimum colours to colour diagonals of 2014-gon so crossing diagonals differ
 - [[src_bmo_2013-14_round2__Q02|Quesito 2]] — Prove no cuboid has volume, surface area and perimeter numerically equal

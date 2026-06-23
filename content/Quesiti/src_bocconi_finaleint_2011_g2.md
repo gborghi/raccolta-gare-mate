@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 - [[src_bocconi_finaleint_2011_g2__Q01|Quesito 1]] — Monete testa e croce: colorare quelle con la croce
 - [[src_bocconi_finaleint_2011_g2__Q02|Quesito 2]] — Addizione misteriosa con simboli ripetuti

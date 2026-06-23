@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2023/SQEcolier2023F2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 - [[src_kangourou_2023_ecolier_squadre_f2__Q01|Quesito 1]] — Minimo numero 4 cifre con prodotto cifre 40
 - [[src_kangourou_2023_ecolier_squadre_f2__Q02|Quesito 2]] — Ora di rientro a casa con orologio fermo

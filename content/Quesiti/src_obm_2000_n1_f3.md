@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
 
 - [[src_obm_2000_n1_f3__Q01|Quesito 1]] — Three touching dice on table: find sum of three hidden faces
 - [[src_obm_2000_n1_f3__Q02|Quesito 2]] — Show equilateral triangle can be cut into 20 smaller equilateral triangles

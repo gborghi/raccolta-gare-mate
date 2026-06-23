@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 - [[src_inmo_2007__Q01|Quesito 1]] — Right triangle, median bisects angle; prove ratio bound
 - [[src_inmo_2007__Q02|Quesito 2]] — Represent 9n as sum of three squares with nonzero-integer coefficients

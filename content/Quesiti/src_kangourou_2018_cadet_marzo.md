@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/CMarzo-18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 - [[src_kangourou_2018_cadet_marzo__Q01|Quesito 1]] — Quante tacche sull'asta della neve
 - [[src_kangourou_2018_cadet_marzo__Q02|Quesito 2]] — Quale parola ha la stessa simmetria di MAMMA

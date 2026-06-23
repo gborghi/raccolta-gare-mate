@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2018/SQE-F-18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 - [[src_kangourou_2018_ecolier_finale__Q01|Quesito 1]] — Quante ragazze aggiungere per doppio dei ragazzi
 - [[src_kangourou_2018_ecolier_finale__Q02|Quesito 2]] — Ora di uscita dell'ultima coppia dal castello

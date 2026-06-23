@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 - [[src_ioqm_2021__Q01|Quesito 1]] — Square with vertices on three parallel lines distance 3 apart; find area
 - [[src_ioqm_2021__Q02|Quesito 2]] — Numbers 1 to 101 written in red/blue; count red numbers given constraints

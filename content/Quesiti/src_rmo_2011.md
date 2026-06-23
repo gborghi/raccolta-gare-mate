@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 - [[src_rmo_2011__Q01|Quesito 1]] — Triangle with concurrent cevians; prove angle equality
 - [[src_rmo_2011__Q02|Quesito 2]] — Permutation of 1..2011; show two indices with equal absolute difference

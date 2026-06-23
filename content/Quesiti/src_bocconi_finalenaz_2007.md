@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 - [[src_bocconi_finalenaz_2007__Q01|Quesito 1]] — Differenza tra il maggiore e il minore dei numeri di 4 cifre formati con 2, 0, 0, 7
 - [[src_bocconi_finalenaz_2007__Q02|Quesito 2]] — Completare lo schema collegato in modo che ogni rettangolo sia somma dei due numeri collegati

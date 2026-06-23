@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 - [[src_canimath_2011_automne__Q01|Quesito 1]] — Isosceles triangle, point on minor arc, circumcircle of BDE gives parallel lines
 - [[src_canimath_2011_automne__Q02|Quesito 2]] — Quadratic f with f(t)=f(f(f(t)))=0, show f(0)*f(1)=0

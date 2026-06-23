@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
 
 - [[src_obm_2004_n2_f3__Q01|Quesito 1]] — Isosceles triangles with equal sides; find angle, length, segment
 - [[src_obm_2004_n2_f3__Q02|Quesito 2]] — Sequence defined by last digit of sum of previous four terms

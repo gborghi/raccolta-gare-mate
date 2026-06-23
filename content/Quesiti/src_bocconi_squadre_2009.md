@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 - [[src_bocconi_squadre_2009__Q01|Quesito 1]] — Minimo intero >20 non primo e non divisibile per primi <20
 - [[src_bocconi_squadre_2009__Q02|Quesito 2]] — Numeri naturali a 4 cifre distinte non zero con somma cifre 12

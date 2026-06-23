@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Benjamin2023REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
 
 - [[src_kangourou_2023_benjamin__Q01|Quesito 1]] — quale pezzo ritagliabile
 - [[src_kangourou_2023_benjamin__Q02|Quesito 2]] — ordine di avvolgimento

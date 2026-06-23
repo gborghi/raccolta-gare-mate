@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2011/Cgas11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
 
 - [[src_cesenatico_2011_semifinale_c__Q01|Quesito 1]] — Prime 4 cifre della radice positiva di x^2011-x-1
 - [[src_cesenatico_2011_semifinale_c__Q02|Quesito 2]] — Galli colpiti in media (cerchi tangenti in ottagono)

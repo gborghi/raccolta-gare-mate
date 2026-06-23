@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 - [[src_pol_2001_r3__Q01|Quesito 1]] — Prove an inequality involving sums of i*x_i and x_i^i for n nonnegative reals.
 - [[src_pol_2001_r3__Q02|Quesito 2]] — Show the sum of distances from an interior point of a regular tetrahedron with edge 1 to its vertices is at most 3.

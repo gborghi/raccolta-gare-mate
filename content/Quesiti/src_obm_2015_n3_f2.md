@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 - [[src_obm_2015_n3_f2__Q01|Quesito 1]] — Esmeralda solves bx=a instead of ax=b; her root is the correct root minus 60; find m+n from correct root m+sqrt(n)
 - [[src_obm_2015_n3_f2__Q02|Quesito 2]] — Two intersecting circles, tangent lines define P and Q; given PB*QB=640 and QB*AB=1000 find AB

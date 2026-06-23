@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2023/SQJunior2023F2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 - [[src_kangourou_2023_junior_squadre_f2__Q01|Quesito 1]] — Area trapezio date aree triangoli diagonali
 - [[src_kangourou_2023_junior_squadre_f2__Q02|Quesito 2]] — Intero il cui quadrato è palindromo 6 cifre

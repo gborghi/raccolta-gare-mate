@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 - [[src_bmo2_2020__Q01|Quesito 1]] — Odd integer terms in recursive sequence
 - [[src_bmo2_2020__Q02|Quesito 2]] — Collections of four coplanar points with equal circumradii

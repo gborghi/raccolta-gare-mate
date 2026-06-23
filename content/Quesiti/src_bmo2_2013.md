@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 - [[src_bmo2_2013__Q01|Quesito 1]] — Infinitely many pairs with mutual divisibility of m,n
 - [[src_bmo2_2013__Q02|Quesito 2]] — Angle equality in triangle with interior point and parallelogram

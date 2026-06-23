@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
 - [[src_imho_2015__Q01|Quesito 1]] — Balanced and centre-free finite point sets in the plane
 - [[src_imho_2015__Q02|Quesito 2]] — All triples where ab-c, bc-a, ca-b are powers of 2

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SFw0JBQC4rJhouU4rWc2OR9yO8fSPsSo/view)
 
 - [[src_jmo18mq_honsen__Q01|Quesito 1]] — Integer polynomial with root n^2 never equals 1 at a^2
 - [[src_jmo18mq_honsen__Q02|Quesito 2]] — Players in a circle pass red/white cards; max turns to balance

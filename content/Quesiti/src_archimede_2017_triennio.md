@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2017/archimede_triennio_2017.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
 
 - [[src_archimede_2017_triennio__Q01|Quesito 1]] — Coppie (m,n) con m^n = 2^24
 - [[src_archimede_2017_triennio__Q02|Quesito 2]] — tra quanti anni doppio

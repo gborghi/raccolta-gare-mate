@@ -18,7 +18,7 @@ tags:
   - regione/mumbai
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aKO7__cJlTFnDSJpRW04wWyB2aJzzbY3/view)
 
 - [[src_rmo_2015_mumbai__Q01|Quesito 1]] — Convex quadrilateral with equal sum of squares of sides; find diagonal
 - [[src_rmo_2015_mumbai__Q02|Quesito 2]] — Count 3-digit base-10 numbers with at least one 5 and at most one 3

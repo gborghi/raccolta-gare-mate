@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/CMaggio-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AnnZ-qUV6dWWweXJXKQibDtTu2LV1ZDz/view)
 
 - [[src_kangourou_2014_cadet_finale__Q01|Quesito 1]] — Perché numero coppie = somma primi n-1 interi
 - [[src_kangourou_2014_cadet_finale__Q02|Quesito 2]] — Quanti primi p con 4p+1 quadrato perfetto

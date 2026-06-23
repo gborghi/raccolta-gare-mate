@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 - [[src_ioqm_2020__Q01|Quesito 1]] — Trapezium ABCD, AB=3CD, E midpoint of BD; find n where [ABCD]=n[CDE]
 - [[src_ioqm_2020__Q02|Quesito 2]] — Number N is 503 in base b and 305 in base b+2; find product of digits of N

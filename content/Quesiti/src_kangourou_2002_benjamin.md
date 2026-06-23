@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2002/BMarzo-02.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 - [[src_kangourou_2002_benjamin__Q01|Quesito 1]] — Allineamento non palindromo
 - [[src_kangourou_2002_benjamin__Q02|Quesito 2]] — Linea che non puo far parte del profilo

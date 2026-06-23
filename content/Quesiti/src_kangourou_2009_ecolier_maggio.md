@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2009/EMaggio-09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
 
 - [[src_kangourou_2009_ecolier_maggio__QE1|Quesito E1]] — Massimo litri di sciroppo preparabili
 - [[src_kangourou_2009_ecolier_maggio__QE2|Quesito E2]] — Minimo numero di carte rimaste levandone due

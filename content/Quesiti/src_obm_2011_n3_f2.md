@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
 
 - [[src_obm_2011_n3_f2__Q01|Quesito 1]] — Smallest positive integer m so the quadratic has an integer solution
 - [[src_obm_2011_n3_f2__Q02|Quesito 2]] — Count anagrams of FELICIDADE that are alternated (consonant/vowel)

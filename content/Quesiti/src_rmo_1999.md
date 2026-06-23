@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aVueqGzgTBFm2YWPkdVpaNOhDYF_ZzH8/view)
 
 - [[src_rmo_1999__Q01|Quesito 1]] — Inradius of right-angled triangle with integer sides is integer
 - [[src_rmo_1999__Q02|Quesito 2]] — Count positive integers dividing $10^{999}$ but not $10^{998}$

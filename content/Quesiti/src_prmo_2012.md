@@ -18,7 +18,7 @@ tags:
   - regione/Mumbai
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 - [[src_prmo_2012__Q01|Quesito 1]] — Find original number after wrong subtraction sequence
 - [[src_prmo_2012__Q02|Quesito 2]] — Maximum area of triangle with integer sides and perimeter 7

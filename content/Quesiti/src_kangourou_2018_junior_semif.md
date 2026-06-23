@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/Junior_Semif_18TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
 
 - [[src_kangourou_2018_junior_semif__Q01|Quesito 1]] — Quante coppie (a,b) reali non nulli con a+b=ab=a/b
 - [[src_kangourou_2018_junior_semif__Q02|Quesito 2]] — Lunghezza circonferenza C inscritta nell occhio

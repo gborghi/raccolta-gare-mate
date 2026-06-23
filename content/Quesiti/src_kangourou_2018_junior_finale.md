@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/J-settembre18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
 
 - [[src_kangourou_2018_junior_finale__Q01|Quesito 1]] — Numeri 7 cifre divisibili per 4 con somma cifre 4
 - [[src_kangourou_2018_junior_finale__Q02|Quesito 2]] — Massimo prodotto ab con a^2+b^2+1007ab=2018

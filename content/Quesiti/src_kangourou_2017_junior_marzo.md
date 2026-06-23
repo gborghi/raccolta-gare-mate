@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/JMarzo-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
 
 - [[src_kangourou_2017_junior_marzo__Q01|Quesito 1]] — Numero mancante in piramide di somme
 - [[src_kangourou_2017_junior_marzo__Q02|Quesito 2]] — Aspetto della parola KANGAROO dopo ribaltamento e rotazione

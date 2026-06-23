@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 - [[src_bocconi_finaleint_2008_g2__Q01|Quesito 1]] — Ordine di 7 carte sovrapposte.
 - [[src_bocconi_finaleint_2008_g2__Q02|Quesito 2]] — Conteggio di cammelli e dromedari.

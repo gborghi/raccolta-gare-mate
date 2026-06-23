@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/J-settembre17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1r2LdWQerO2z3EUJjVaVOKVRtkiJBrV2g/view)
 
 - [[src_kangourou_2017_junior_finale__QJ1|Quesito J1]] — Conviene scegliere somma 9 o 10 ai dadi
 - [[src_kangourou_2017_junior_finale__QJ2|Quesito J2]] — Terne di dispari consecutivi tutti primi

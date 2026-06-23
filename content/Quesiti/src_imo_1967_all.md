@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1967_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1U5rz4wEepU-SfkFdqcEOsSXqBT-xtIsB/view)
 
 - [[src_imo_1967_all__Q01|Quesito 1]] — Four unit circles cover parallelogram iff a-condition holds
 - [[src_imo_1967_all__Q02|Quesito 2]] — Tetrahedron with one edge over 1 has volume at most 1/8

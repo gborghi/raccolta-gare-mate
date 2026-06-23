@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/soluzioni/GS_2008_soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 - [[src_gs_2008_squadre__Q01|Quesito 1]] — Rapporti dei prezzi dei pasti dei cavalieri
 - [[src_gs_2008_squadre__Q02|Quesito 2]] — Membri dei due cori con parte in comune

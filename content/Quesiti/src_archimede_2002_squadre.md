@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2002/GaraSquadre2002.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
 
 - [[src_archimede_2002_squadre__Q01|Quesito 1]] — raggio del quadrilatero
 - [[src_archimede_2002_squadre__Q02|Quesito 2]] — 45 punti

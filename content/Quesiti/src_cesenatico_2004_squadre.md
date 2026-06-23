@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2004/GASces04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 - [[src_cesenatico_2004_squadre__Q01|Quesito 1]] — Area del quadrilatero formato da sentinelle su triangoli equilateri
 - [[src_cesenatico_2004_squadre__Q02|Quesito 2]] — Minimo lato di triangolo equilatero per contenere tre monete circolari

@@ -45,4 +45,4 @@ tags:
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0071
-**Fonte:** apri PDF p.24
+**Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

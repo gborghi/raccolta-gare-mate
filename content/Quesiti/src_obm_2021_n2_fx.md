@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 - [[src_obm_2021_n2_fx__Q01|Quesito 1]] — Length (lonjura) defined by iterating the divisor-count operation until reaching 2; count numbers of length 2 and the maximal length in 3..1000
 - [[src_obm_2021_n2_fx__Q02|Quesito 2]] — Acute triangle; A_1 is the midpoint of the major arc BC, A_2,A_3 feet of perpendiculars onto AB,AC; prove A_2A_3 bisects BC and that the three analogous lines are concurrent

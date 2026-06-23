@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zCUBghOB28ZpdNrjC68r0u1mIzIpp_46/view)
 
 - [[src_oprem_2024__Q01|Quesito 1]] — Exercise 1 (all candidates): ten short, mostly independent problems on percentages, grading, weighings, glass shape, golden ratio, articulated quadrilateral, corner mirrors, tape roll, and sorting a table.
 - [[src_oprem_2024__Q02|Quesito 2]] — Exercise 2 (general track, maths speciality): STD sets (all subset sums distinct) — examples/counterexamples, a recursive sequence shown to be geometric, and lower bounds for STD sequences using a probabilistic (variance) argument.

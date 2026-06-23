@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
 
 - [[src_jmo19mq_honsen__Q01|Quesito 1]] — Find all positive integers n with 2^n+n dividing 8^n+n^n
 - [[src_jmo19mq_honsen__Q02|Quesito 2]] — Blackboard integers with even sum: prove circle-cross labeling equates partial sums

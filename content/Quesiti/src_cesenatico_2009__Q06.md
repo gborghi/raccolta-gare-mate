@@ -37,4 +37,4 @@ tags:
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** minimo k in funzione di n
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RKPm3NkroFDeg9oRHAPmvCWj33-Ezm8e/view)

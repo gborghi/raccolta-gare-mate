@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 - [[src_bmo_1979-80_round2__Q01|Quesito 1]] — Tetrahedra sharing a vertex; incentre equals centroid; compare volumes
 - [[src_bmo_1979-80_round2__Q02|Quesito 2]] — Find all primes in a defined integer sequence

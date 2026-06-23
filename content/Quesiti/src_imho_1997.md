@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
 
 - [[src_imho_1997__Q01|Quesito 1]] — Coloring unit-square vertices, chessboard-like function f(m,n)
 - [[src_imho_1997__Q02|Quesito 2]] — Triangle angle bisectors meet circumcircle; prove AU = TB + TC

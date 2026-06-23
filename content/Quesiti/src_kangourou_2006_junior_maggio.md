@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/JMaggio-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oKF7UHyuDs_rLmhESoSgAg7wkcXYDjTf/view)
 
 - [[src_kangourou_2006_junior_maggio__QJ1|Quesito J1]] — Traiettoria del punto medio della sbarra che scivola
 - [[src_kangourou_2006_junior_maggio__QJ2|Quesito J2]] — Somma minima dei valori assoluti su circonferenza numerata

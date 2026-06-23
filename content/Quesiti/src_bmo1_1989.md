@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
 
 - [[src_bmo1_1989__Q01|Quesito 1]] — Find all integers a,b,c satisfying a polynomial identity
 - [[src_bmo1_1989__Q02|Quesito 2]] — Show PQ passes through centroid iff 3xy = bx + cy

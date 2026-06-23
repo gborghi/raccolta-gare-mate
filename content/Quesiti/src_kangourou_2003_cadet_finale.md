@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/CMaggio-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
 
 - [[src_kangourou_2003_cadet_finale__QC1|Quesito C1]] — Disposizione 1-9 con somme ai vertici 20
 - [[src_kangourou_2003_cadet_finale__QC2|Quesito C2]] — Minimo palle per 15 dello stesso colore

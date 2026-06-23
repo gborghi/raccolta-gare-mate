@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2025/Ecolier2025RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
 
 - [[src_kangourou_2025_ecolier_finale__QE1|Quesito E1]] — Numero di mele/pere con cassette e 6 frutti in meno
 - [[src_kangourou_2025_ecolier_finale__QE2|Quesito E2]] — Assegnazione colori con 4 numeri rossi somma verde+blu

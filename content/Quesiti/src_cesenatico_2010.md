@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2010/ces10-sol.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
 
 - [[src_cesenatico_2010__Q01|Quesito 1]] — medie promossi/bocciati prima e dopo +5
 - [[src_cesenatico_2010__Q02|Quesito 2]] — prodotto e somma di due rossi

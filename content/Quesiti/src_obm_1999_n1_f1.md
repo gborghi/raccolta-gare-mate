@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 - [[src_obm_1999_n1_f1__Q01|Quesito 1]] — Small truck: 50 bags or 400 bricks; how many bricks when 32 bags are loaded?
 - [[src_obm_1999_n1_f1__Q02|Quesito 2]] — Calculator keys D (duplicate units digit) and T (erase units digit); find result for 1999.

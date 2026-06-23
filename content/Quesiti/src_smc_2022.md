@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 - [[src_smc_2022__Q01|Quesito 1]] — Simplify a product-of-differences expression involving fifth powers and factorial-style denominators.
 - [[src_smc_2022__Q02|Quesito 2]] — Find the smallest prime that is the sum of five different primes.

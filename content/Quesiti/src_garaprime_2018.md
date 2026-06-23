@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2018/GaraNazionaleClassiPrime2018.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
 
 - [[src_garaprime_2018__Q01|Quesito 1]] — Valore di radice di 4^201 - 2^401 - 2^400
 - [[src_garaprime_2018__Q02|Quesito 2]] — Numero massimo di parole marziane fino a 5 lettere

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/EMarzo-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 - [[src_kangourou_2003_ecolier__Q01|Quesito 1]] — Valore di 0+1+2+3+4-3-2-1-0
 - [[src_kangourou_2003_ecolier__Q02|Quesito 2]] — Numero che continua la sequenza (sottrazioni)

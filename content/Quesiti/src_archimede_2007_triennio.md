@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2007/Archimede2007/testo-triennio3.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 - [[src_archimede_2007_biennio__Q01|Quesito 1]] — Tempo per guadagnare 1000 Euro con stipendio annuale
 - [[src_archimede_2007_biennio__Q02|Quesito 2]] — Rapporto tra lati di quadrato e triangolo isoperimetrici

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 - [[src_selection_camp_2019__Q01|Quesito 1]] — Pairs (n,k) where some s gives sn, sk equal divisor counts
 - [[src_selection_camp_2019__Q02|Quesito 2]] — Max of a_2018 - a_2017 for an averaging recurrence

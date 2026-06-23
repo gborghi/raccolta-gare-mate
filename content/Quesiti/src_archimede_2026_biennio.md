@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2026/archimede_2026_biennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 - [[src_archimede_2026_biennio__Q01|Quesito 1]] — Valore frazione con potenze di 10
 - [[src_archimede_2026_biennio__Q02|Quesito 2]] — Valore di 1-6x da equazione lineare

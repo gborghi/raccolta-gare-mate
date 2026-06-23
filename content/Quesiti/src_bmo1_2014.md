@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
 
 - [[src_bmo1_2014__Q01|Quesito 1]] — Calculate expression involving powers of 2012, 2013, 2014
 - [[src_bmo1_2014__Q02|Quesito 2]] — Perpendicular from altitude foot to line is parallel to side

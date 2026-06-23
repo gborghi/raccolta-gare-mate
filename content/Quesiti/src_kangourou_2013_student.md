@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2013/SMarzo-13.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 - [[src_kangourou_2013_student__Q01|Quesito 1]] — Quale tra le espressioni con 2013 e la piu grande
 - [[src_kangourou_2013_student__Q02|Quesito 2]] — Raggio del cerchio inscritto nell’ottagono regolare

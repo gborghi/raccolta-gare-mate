@@ -18,7 +18,7 @@ tags:
   - regione/r1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
 
 - [[src_rmo_2014_r1__Q01|Quesito 1]] — Triangle with perpendicular foot and equal area regions implies BD=DC
 - [[src_rmo_2014_r1__Q02|Quesito 2]] — Arithmetic progression: express common difference d in terms of x, y, z

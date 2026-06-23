@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/1998/cesenatico98.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
 
 - [[src_cesenatico_1998__Q01|Quesito 1]] — Somma di floor(sqrt n) da 1 a 1000000
 - [[src_cesenatico_1998__Q02|Quesito 2]] — due facce con stesso numero di lati

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2006/SemifinaliA_06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 - [[src_garasquadre_2006_semifinale__Q01|Quesito 1]] — 2006-esimo termine
 - [[src_garasquadre_2006_semifinale__Q02|Quesito 2]] — Coppie (a,b) interi positivi con a<=222 e a/2<b<2a/3

@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
 
 - [[src_obm_2008_nu_f2__Q01|Quesito 1]] — Integral equation implying two equal-derivative points
 - [[src_obm_2008_nu_f2__Q02|Quesito 2]] — Finite-complement characterization via linear equation solution count

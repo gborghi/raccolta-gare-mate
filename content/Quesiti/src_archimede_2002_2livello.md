@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2002/Febbraio2002 Testo E Soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 - [[src_archimede_2002_2livello__Q01|Quesito 1]] — Numero di famiglie con almeno un televisore
 - [[src_archimede_2002_2livello__Q02|Quesito 2]] — Sottoinsieme di numeri naturali con somma divisibile per 6

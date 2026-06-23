@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2020/GaraNazionaleClassiPrime2020.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
 
 - [[src_garaprime_2020__Q01|Quesito 1]] — mcm di tre numeri 6^x*10^y*15^z
 - [[src_garaprime_2020__Q02|Quesito 2]] — Mosse minime per girare 11 monete a gruppi di 3

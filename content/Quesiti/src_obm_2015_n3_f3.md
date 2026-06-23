@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
 
 - [[src_obm_2015_n3_f3__Q01|Quesito 1]] — Collinearity of A, D, N iff angle BAC = 45 degrees
 - [[src_obm_2015_n3_f3__Q02|Quesito 2]] — Largest k so every 4n-element subset contains k pairs {a,b} with b multiple of a

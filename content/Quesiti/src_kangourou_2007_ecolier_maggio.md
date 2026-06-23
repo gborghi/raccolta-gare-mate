@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/EMaggio-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fZINTJ5guIb2ezsX6JthVc7FkvQfrpis/view)
 
 - [[src_kangourou_2007_ecolier_maggio__QE1|Quesito E1]] — Minimo tempo perche ricompaiano le 4 cifre
 - [[src_kangourou_2007_ecolier_maggio__QE2|Quesito E2]] — Area del tappeto quadrato di sbieco

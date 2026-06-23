@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Cadet2024RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YuKlYOQSjLPYC0cQWHZFjw49wPVl8dfH/view)
 
 - [[src_kangourou_2024_cadet_semifinale__Q01|Quesito 1]] — Massimo punti comuni a 2024 circonferenze
 - [[src_kangourou_2024_cadet_semifinale__Q02|Quesito 2]] — Area del triangolo ANC nel triangolo equilatero

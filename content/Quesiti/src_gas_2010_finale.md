@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2010/Cesenatico2010_gara_a_squadre/ITA_Fgas10.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 - [[src_gas_2010_finale__Q01|Quesito 1]] — Anni multipli auto-referenziale fino al 2010
 - [[src_gas_2010_finale__Q02|Quesito 2]] — Totale partecipanti da n,m radici di equazione quadratica

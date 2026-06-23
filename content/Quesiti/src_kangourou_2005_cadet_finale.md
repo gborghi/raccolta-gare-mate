@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2005/CMaggio-05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xu5y5JpzGNUIyhivHcF8Vczu7vpaLZFN/view)
 
 - [[src_kangourou_2005_cadet_finale__QC1|Quesito C1]] — Schede rimaste da esaminare alla una
 - [[src_kangourou_2005_cadet_finale__QC2|Quesito C2]] — Croce greca su scacchiera 7x7 somma totale negativa

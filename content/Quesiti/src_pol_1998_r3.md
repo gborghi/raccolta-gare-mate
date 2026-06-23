@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 - [[src_pol_1998_r3__Q01|Quesito 1]] — Find positive integers a,b,c,x,y,z satisfying two symmetric equations
 - [[src_pol_1998_r3__Q02|Quesito 2]] — Fibonacci-based sequence: find all n≥4 where term equals 1

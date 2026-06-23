@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
 
 - [[src_imho_2002__Q01|Quesito 1]] — Coloring pairs in a set, equal type-1 and type-2 subsets
 - [[src_imho_2002__Q02|Quesito 2]] — Geometry: incenter lies on chord of circumcircle

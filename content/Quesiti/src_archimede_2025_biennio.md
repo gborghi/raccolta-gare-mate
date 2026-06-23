@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2025/archimede_2025_biennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18_HJOvj5XdZGR_vwwSmhkGXfDLuHPlIX/view)
 
 - [[src_archimede_2025_biennio__Q01|Quesito 1]] — Interi da 1 a 1000 multipli di 5, 6 e 9
 - [[src_archimede_2025_biennio__Q02|Quesito 2]] — Numero di cifre di 100^200 + 738

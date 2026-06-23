@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2001/SMarzo-01.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 - [[src_kangourou_2001_student__Q01|Quesito 1]] — Massimo topolini grigi con vincolo gruppi
 - [[src_kangourou_2001_student__Q02|Quesito 2]] — Massime palline in scatola cubica

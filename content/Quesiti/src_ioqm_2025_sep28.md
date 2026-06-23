@@ -18,7 +18,7 @@ tags:
   - regione/sep28
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 - [[src_ioqm_2025_sep28__Q01|Quesito 1]] — Isosceles trapezoid ABCD in xy-plane; find a^b
 - [[src_ioqm_2025_sep28__Q02|Quesito 2]] — Functional equation on positive integers; find all n with f(f(n))=99

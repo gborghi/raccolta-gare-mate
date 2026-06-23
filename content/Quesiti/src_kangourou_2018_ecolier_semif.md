@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/Ecolier_Semif_18TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
 
 - [[src_kangourou_2018_ecolier_semif__Q01|Quesito 1]] — Animali vivi tra topi e gatti dopo che i gatti mangiano
 - [[src_kangourou_2018_ecolier_semif__Q02|Quesito 2]] — Eta di Roberta oggi data condizione su somma futura

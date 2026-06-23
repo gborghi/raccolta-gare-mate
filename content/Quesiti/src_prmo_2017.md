@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 - [[src_prmo_2017__Q01|Quesito 1]] — Count positive integers <1000 with digit sum divisible by 7 and divisible by 3
 - [[src_prmo_2017__Q02|Quesito 2]] — Find floor(a+b) given two radical equations in positive reals a,b

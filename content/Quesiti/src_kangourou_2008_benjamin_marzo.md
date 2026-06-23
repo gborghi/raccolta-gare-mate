@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/BMarzo-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 - [[src_kangourou_2008_benjamin_marzo__Q01|Quesito 1]] — Calcolo (2008-200-8)+2008
 - [[src_kangourou_2008_benjamin_marzo__Q02|Quesito 2]] — Sagome ottenibili accostando due triangoli equilateri

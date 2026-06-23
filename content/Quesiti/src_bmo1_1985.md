@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 - [[src_bmo1_1985__Q01|Quesito 1]] — Two circles touching a line at a point, angle bisector ratio
 - [[src_bmo1_1985__Q02|Quesito 2]] — Prove not all of a(1-b), b(1-c), c(1-a) exceed 1/4

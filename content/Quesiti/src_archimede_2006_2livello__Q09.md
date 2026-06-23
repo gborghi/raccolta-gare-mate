@@ -32,7 +32,7 @@ tags:
 
 > Quanti simboli di radice quadrata, come minimo, devono comparire nell’espressione
 > q
-> · ·
+> ·
 > p√
 > 123.456.789
 > affinch´e il risultato sia minore di 2?
@@ -48,4 +48,4 @@ tags:
 **Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)

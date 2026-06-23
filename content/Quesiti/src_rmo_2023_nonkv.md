@@ -18,7 +18,7 @@ tags:
   - regione/nonkv
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1o7iLlUQAhl19zj3fiRO4A18L1eOLmVoI/view)
 
 - [[src_rmo_2023_nonkv__Q01|Quesito 1]] — Find largest positive integer m so that abcd divides all (a,b,c,d) in S
 - [[src_rmo_2023_nonkv__Q02|Quesito 2]] — Semicircle with variable chord CD; show angle and circumcircle conditions

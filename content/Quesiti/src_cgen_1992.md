@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 - [[src_cgen_1992__Q01|Quesito 1]] — Convex subsets of plane and a symmetry map delta
 - [[src_cgen_1992__Q02|Quesito 2]] — Inscribed triangles and quadrilaterals maximising sum of squared sides

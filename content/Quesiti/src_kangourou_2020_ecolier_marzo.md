@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/EMarzo-20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 - [[src_kangourou_2020_ecolier_marzo__Q01|Quesito 1]] — Quale foto del fungo e stata scattata martedi
 - [[src_kangourou_2020_ecolier_marzo__Q02|Quesito 2]] — Quale tassello completa il mosaico

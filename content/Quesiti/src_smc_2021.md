@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 - [[src_smc_2021__Q01|Quesito 1]] — Cicely's 21st birthday was in 1939; find the year of her 100th birthday.
 - [[src_smc_2021__Q02|Quesito 2]] — Sequence rounded to nearest ten starts 0, 10, 10, 20, 30, …; count terms that equal 40.

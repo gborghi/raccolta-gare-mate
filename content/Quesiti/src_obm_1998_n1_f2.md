@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
 
 - [[src_obm_1998_n1_f2__Q01|Quesito 1]] — Book page sum parity: show total pages cannot equal 1998
 - [[src_obm_1998_n1_f2__Q02|Quesito 2]] — Remove fractions from sum so remaining sum equals 1

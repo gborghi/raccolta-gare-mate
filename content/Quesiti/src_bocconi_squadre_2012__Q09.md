@@ -55,4 +55,4 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Le due righe centrali possono essere diverse; una soluzione è: riga 21: 1,2,3,4,5,6; riga 25: 2,3,1,9,6,4; riga 28: 3,1,2,8,9,5; riga 39: 4,5,6,7,8,9
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)

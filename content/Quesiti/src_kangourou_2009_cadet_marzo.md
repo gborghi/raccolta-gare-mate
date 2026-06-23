@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2009/CMarzo-09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 - [[src_kangourou_2009_cadet_marzo__Q01|Quesito 1]] — Rapporto tra numero di gatti e di cani
 - [[src_kangourou_2009_cadet_marzo__Q02|Quesito 2]] — Con quanti compagni ha ballato la quarta ragazza

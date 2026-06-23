@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 - [[src_obm_2010_n1_f2__Q01|Quesito 1]] — Cups needed to finish filling a jar from 1/4 full to 1/3 full
 - [[src_obm_2010_n1_f2__Q02|Quesito 2]] — Sum of digits replaced by squares in a multiplication

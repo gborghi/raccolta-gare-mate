@@ -37,4 +37,4 @@ tags:
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0728
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)

@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 - [[src_canimath_2020_printemps__Q01|Quesito 1]] — Compute the alternating sum 0-1+2-3+...-49+50
 - [[src_canimath_2020_printemps__Q02|Quesito 2]] — Count 5-card hands containing four cards of the same value

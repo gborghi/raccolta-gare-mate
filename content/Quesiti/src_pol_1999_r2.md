@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
 
 - [[src_pol_1999_r2__Q01|Quesito 1]] — Show no increasing g,h give f=g-h for a function with f(1/n)=(-1)^n.
 - [[src_pol_1999_r2__Q02|Quesito 2]] — A piece is a 2-cube with a corner unit cube removed; show a 2^n cube minus one unit cube can be cut into pieces.

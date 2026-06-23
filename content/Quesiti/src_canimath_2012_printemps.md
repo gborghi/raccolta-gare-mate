@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IRG0jZR48d6q9a8ZHA4_SCuVSjBVAbwt/view)
 
 - [[src_canimath_2012_printemps__Q03|Quesito 3]] — Splitting seven cheeses so two people each get three whole and share the seventh equally
 - [[src_canimath_2012_printemps__Q04|Quesito 4]] — Who is right about the 'additivity of fractions' identity a/b+c/d=(a+c)/(b+d)

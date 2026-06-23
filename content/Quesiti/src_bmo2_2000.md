@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 - [[src_bmo2_2000__Q01|Quesito 1]] — Common tangent and equal areas of triangles from two intersecting circles
 - [[src_bmo2_2000__Q02|Quesito 2]] — Minimum value of expression given positive reals with xy=32

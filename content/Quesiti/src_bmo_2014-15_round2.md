@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 - [[src_bmo_2014-15_round2__Q01|Quesito 1]] — Find 2015th term of recursively defined sequence starting at 2014.
 - [[src_bmo_2014-15_round2__Q02|Quesito 2]] — Prove equivalence: more odd-boy councils iff odd classes have more boys.

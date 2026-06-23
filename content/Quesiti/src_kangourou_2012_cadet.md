@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/CMarzo-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 - [[src_kangourou_2012_cadet__Q01|Quesito 1]] — Quanto costa una tavoletta di cioccolata
 - [[src_kangourou_2012_cadet__Q02|Quesito 2]] — Tra quanti minuti la lancetta sara a Nord-Ovest

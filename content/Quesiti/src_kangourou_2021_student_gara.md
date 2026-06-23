@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Student2021REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 - [[src_kangourou_2021_student_gara__Q01|Quesito 1]] — Grafico delle temperature massime previste in 7 giorni
 - [[src_kangourou_2021_student_gara__Q02|Quesito 2]] — Quanti interi tra 20-radq21 e 20+radq21

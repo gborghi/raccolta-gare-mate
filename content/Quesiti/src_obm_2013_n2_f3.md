@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
 
 - [[src_obm_2013_n2_f3__Q01|Quesito 1]] — Pentagon and star graph; count curious 2-element subset associations
 - [[src_obm_2013_n2_f3__Q02|Quesito 2]] — Find positive integers n with floor(sqrt(n))=2013; prove perfect square condition

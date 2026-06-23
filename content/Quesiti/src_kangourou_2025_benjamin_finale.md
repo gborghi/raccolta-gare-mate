@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2025/Benjamin2025RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
 
 - [[src_kangourou_2025_benjamin_finale__QB1|Quesito B1]] — Piu piccolo intero con somma cifre 100
 - [[src_kangourou_2025_benjamin_finale__QB2|Quesito B2]] — Su quale dito cade il conteggio 999

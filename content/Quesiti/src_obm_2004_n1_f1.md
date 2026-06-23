@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 - [[src_obm_2004_n1_f1__Q01|Quesito 1]] — Compute the value of a sum of large numbers
 - [[src_obm_2004_n1_f1__Q02|Quesito 2]] — Which of the given products is odd?

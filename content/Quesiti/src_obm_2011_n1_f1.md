@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 - [[src_obm_2011_n1_f1__Q01|Quesito 1]] — Cell phone bill split among calls, internet, messaging
 - [[src_obm_2011_n1_f1__Q02|Quesito 2]] — Cheapest way to buy 1.2 kg of CHOCOBM

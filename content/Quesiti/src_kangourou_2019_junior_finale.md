@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/J-settembre19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 - [[src_kangourou_2019_junior_finale__Q01|Quesito 1]] — Punti interi nel cerchio raggio 10 centrato origine
 - [[src_kangourou_2019_junior_finale__Q02|Quesito 2]] — Area superficie totale del tetraedro

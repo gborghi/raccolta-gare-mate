@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
 
 - [[src_imho_1993__Q01|Quesito 1]] — Prove f(x) not product of two nonconstant integer polynomials
 - [[src_imho_1993__Q02|Quesito 2]] — Ratios and perpendicular circumcircles in acute triangle ABC

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
 
 - [[src_inmo_1990__Q01|Quesito 1]] — Quartic with four positive roots implies inequalities on coefficients
 - [[src_inmo_1990__Q02|Quesito 2]] — Find all nonneg integer pairs satisfying $(xy-7)^2 = x^2 + y^2$

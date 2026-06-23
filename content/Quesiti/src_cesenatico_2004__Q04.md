@@ -40,4 +40,4 @@ tags:
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Antonio se almeno uno tra m,n dispari; Bernardo se entrambi pari
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)

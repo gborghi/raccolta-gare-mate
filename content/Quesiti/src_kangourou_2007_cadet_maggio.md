@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/CMaggio-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
 
 - [[src_kangourou_2007_cadet_maggio__QC1|Quesito C1]] — Numero allievi (77 strette di mano)
 - [[src_kangourou_2007_cadet_maggio__QC2|Quesito C2]] — Area del quarto triangolo (diagonali del quadrilatero)

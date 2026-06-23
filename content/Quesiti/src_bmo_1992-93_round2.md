@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 - [[src_bmo_1992-93_round2__Q01|Quesito 1]] — Find smallest a+b+c for angle unit with distinct labelled angles in nested triangles
 - [[src_bmo_1992-93_round2__Q02|Quesito 2]] — Prove 2^(m-1) ≡ 1 mod m where m=(4^p−1)/3, p prime >3

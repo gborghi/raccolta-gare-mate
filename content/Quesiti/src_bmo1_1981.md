@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
 
 - [[src_bmo1_1981__Q01|Quesito 1]] — Orthocentre circle cuts medial triangle sides, prove equal sums
 - [[src_bmo1_1981__Q02|Quesito 2]] — Alternating sum of products of consecutive integers divisible by n!

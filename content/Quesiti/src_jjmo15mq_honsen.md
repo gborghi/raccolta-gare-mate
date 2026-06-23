@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
 
 - [[src_jjmo15mq_honsen__Q01|Quesito 1]] — People on circular chairs each move at most 1 step; maximize total steps
 - [[src_jjmo15mq_honsen__Q02|Quesito 2]] — Integers on blackboard closed under pairwise sums; find max value expressible as sum of two

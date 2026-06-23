@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
 
 - [[src_obm_2009_n2_f1__Q01|Quesito 1]] — Fraction of a number equals 1/5; find 4/5 of the number
 - [[src_obm_2009_n2_f1__Q02|Quesito 2]] — Regular hexagon from toothpicks; hexagon with 4x area needs how many toothpicks

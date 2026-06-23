@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2005/EMarzo-05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 - [[src_kangourou_2005_ecolier__Q01|Quesito 1]] — Quante buche restano dopo copertura a meta
 - [[src_kangourou_2005_ecolier__Q02|Quesito 2]] — Mesi che contengono il giorno 30

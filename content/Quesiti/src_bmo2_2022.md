@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 - [[src_bmo2_2022__Q01|Quesito 1]] — Find all k such that infinitely many k-numbers exist
 - [[src_bmo2_2022__Q02|Quesito 2]] — Find all f from positive integers to positive integers satisfying functional equation

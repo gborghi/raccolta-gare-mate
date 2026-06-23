@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
 
 - [[src_obm_2004_n1_f3__Q01|Quesito 1]] — Find all 3-digit odd perfect squares whose digit sum is a perfect square
 - [[src_obm_2004_n1_f3__Q02|Quesito 2]] — Count distinct tricolor equilateral-triangle pieces (side 2) up to rotation

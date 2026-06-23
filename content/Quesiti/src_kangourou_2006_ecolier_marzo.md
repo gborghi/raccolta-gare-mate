@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/EMarzo-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
 
 - [[src_kangourou_2006_ecolier_marzo__Q01|Quesito 1]] — Giorno della settimana del compleanno
 - [[src_kangourou_2006_ecolier_marzo__Q02|Quesito 2]] — Max persone attorno a 7 tavoli quadrati accostati

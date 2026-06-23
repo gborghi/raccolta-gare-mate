@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
 
 - [[src_jjmo17mq_honsen__Q01|Quesito 1]] — Angle bisectors of two angles meet on side AB
 - [[src_jjmo17mq_honsen__Q02|Quesito 2]] — Minimum n boxes with 10-color balls and equal color sums

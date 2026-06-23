@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2022/Ecolier2022RFIN2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 - [[src_kangourou_2022_ecolier_squadre__Q01|Quesito 1]] — Quanti numeri di 4 cifre ABAB con A≠B
 - [[src_kangourou_2022_ecolier_squadre__Q02|Quesito 2]] — Somma cifre di 2022 per numero di 1011 uni

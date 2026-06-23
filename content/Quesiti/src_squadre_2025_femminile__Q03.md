@@ -36,4 +36,4 @@ tags:
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Area:** [[Geometria]]
 **Risposta:** 1267
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)

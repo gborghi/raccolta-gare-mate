@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2026/semifinale_AB_2026_testi_soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 - [[src_archimede_2026_squadre_semifinale1__Q01|Quesito 1]] — Probabilità che ad+bcd+d^2 sia dispari con 4 lanci
 - [[src_archimede_2026_squadre_semifinale1__Q02|Quesito 2]] — Base B>6 in cui 61 è divisibile per 16

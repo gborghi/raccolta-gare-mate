@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1976_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
 
 - [[src_imo_1976_all__Q01|Quesito 1]] — find other diagonal lengths
 - [[src_imo_1976_all__Q02|Quesito 2]] — Iterated polynomial P_n(x)=x has real distinct roots

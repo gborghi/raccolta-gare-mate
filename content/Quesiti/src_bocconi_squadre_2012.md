@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
 
 - [[src_bocconi_squadre_2012__Q01|Quesito 1]] — Ordine di arrivo corsa campestre
 - [[src_bocconi_squadre_2012__Q02|Quesito 2]] — Posizionare 1-12 in grafo con somme uguali sui segmenti

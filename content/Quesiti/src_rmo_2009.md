@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1et9IO1xuP1ryseoogrNkDB_LaxO70ZCd/view)
 
 - [[src_rmo_2009__Q01|Quesito 1]] — Find angle BAC in isosceles triangle with incenter condition
 - [[src_rmo_2009__Q02|Quesito 2]] — No integer a makes a²−3a−19 divisible by 289

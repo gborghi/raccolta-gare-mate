@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2020_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
 
 - [[src_imo_2020__Q01|Quesito 1]] — Tre rette concorrenti in quadrilatero con rapporti angoli
 - [[src_imo_2020__Q02|Quesito 2]] — Disuguaglianza (a+2b+3c+4d)a^a b^b c^c d^d<1

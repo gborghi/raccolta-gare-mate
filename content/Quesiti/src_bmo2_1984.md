@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 - [[src_bmo2_1984__Q01|Quesito 1]] — Right triangle ABC: find points D with two distance conditions
 - [[src_bmo2_1984__Q02|Quesito 2]] — Tetrahedron ABCD with equal edges; plane through midpoints minimises quadrilateral area

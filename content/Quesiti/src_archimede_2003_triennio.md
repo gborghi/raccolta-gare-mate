@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2003/testitriennio2003.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 - [[src_archimede_2003_triennio__Q01|Quesito 1]] — tipo dell'abitante
 - [[src_archimede_2003_triennio__Q02|Quesito 2]] — lettere automobilistiche da 2 a 4 lettere, conteggio

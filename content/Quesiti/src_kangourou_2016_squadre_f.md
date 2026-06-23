@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2016/SQ-F-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Uih0VpIOW40GBf8mxXkEFst7nixVBxJu/view)
 
 - [[src_kangourou_2016_squadre_f__Q01|Quesito 1]] — Somma m+M numeri di due cifre con vincoli su somma cifre
 - [[src_kangourou_2016_squadre_f__Q02|Quesito 2]] — Probabilita su 100 che primo e ultimo siano quadrati

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 - [[src_bmo1_1973__Q01|Quesito 1]] — Variable circle touches two fixed circles; focal property of conics
 - [[src_bmo1_1973__Q02|Quesito 2]] — Nine interior points in unit square contain triangle of area 1/8

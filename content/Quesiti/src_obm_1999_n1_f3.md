@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IF5oIN7pSMmXLD_JUuT4LeOoSufQgncA/view)
 
 - [[src_obm_1999_n1_f3__Q01|Quesito 1]] — Divide a cube into 1999 small cubes
 - [[src_obm_1999_n1_f3__Q02|Quesito 2]] — Swimming contest points; find number of rounds and total scores

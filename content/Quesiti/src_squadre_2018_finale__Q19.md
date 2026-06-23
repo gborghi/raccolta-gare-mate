@@ -40,4 +40,4 @@ tags:
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Area:** [[Geometria]]
 **Risposta:** 2352
-**Fonte:** apri PDF p.17
+**Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)

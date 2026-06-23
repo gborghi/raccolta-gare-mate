@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 - [[src_obm_2016_n3_f1__Q01|Quesito 1]] — Which of the letters O, B, M can occupy a given (gray) cell of a 3x3 grid
 - [[src_obm_2016_n3_f1__Q02|Quesito 2]] — Josias's position in a line, with the number ahead one quarter of the number behind

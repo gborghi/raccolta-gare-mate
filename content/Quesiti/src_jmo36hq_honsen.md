@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
 
 - [[src_jmo36hq_honsen__Q01|Quesito 1]] — Acute triangle, circumcenter, points on ray DO; find angle BAC
 - [[src_jmo36hq_honsen__Q02|Quesito 2]] — Sequence of odd numbers defined by coprimality; bound |a_n - 2n|

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
 
 - [[src_bmo1_2005__Q01|Quesito 1]] — Find positive integer n for Paul-Jenny money exchange
 - [[src_bmo1_2005__Q02|Quesito 2]] — Prove CP = CQ using altitude-foot semicircles on triangle sides

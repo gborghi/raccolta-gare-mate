@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 - [[src_obm_2008_n2_f1__Q01|Quesito 1]] — Find ratio of two angles in a figure with equal segments
 - [[src_obm_2008_n2_f1__Q02|Quesito 2]] — How many of given radical numbers are greater than 10

@@ -34,4 +34,4 @@ tags:
 **Topic:** [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Somme telescopiche]]
 **Area:** [[Geometria]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)

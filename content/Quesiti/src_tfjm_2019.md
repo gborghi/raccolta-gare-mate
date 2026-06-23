@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 - [[src_tfjm_2019__Q01|Quesito 1]] — Constructible house floor plans on a grid with overlong walls (binmus) and external cells
 - [[src_tfjm_2019__Q02|Quesito 2]] — Three friends sharing two bicycles to minimize the time for all to reach the end of a path

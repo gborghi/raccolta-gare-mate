@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 - [[src_bmo_1974-75_round2__Q01|Quesito 1]] — Real function with f(x-y)=f(x)-f(y)+bxy; continuity and differentiability
 - [[src_bmo_1974-75_round2__Q02|Quesito 2]] — Positive integers not in a given infinite set are sums of consecutive positive integers

@@ -48,4 +48,4 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1:2 ; 1:5 ; 1:7 ; 1:9 ; 3:3 ; 3:5 ; 3:7 ; 5:5 ; 5:7 ; 7:7 (10 soluzioni)
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)

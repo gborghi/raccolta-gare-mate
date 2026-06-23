@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
 
 - [[src_pol_1982_r3__Q01|Quesito 1]] — Maximize d_n - c_n for n girls and n boys around a round table
 - [[src_pol_1982_r3__Q02|Quesito 2]] — Cyclic quadrilateral: line through midpoint of AB and diagonal intersection perpendicular to CD

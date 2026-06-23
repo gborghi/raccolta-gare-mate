@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2023/gas2023ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 - [[src_squadre_2023_pubblico__Q01|Quesito 1]] — Modi di consumare colazione con vincoli alimentari
 - [[src_squadre_2023_pubblico__Q02|Quesito 2]] — Distanza retta s dal centro di Gamma2, raggi 8 e 52

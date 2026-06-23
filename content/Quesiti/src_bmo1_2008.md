@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RB1RkGzKd2r9NM4xaNaiRaoP15anlQ-K/view)
 
 - [[src_bmo1_2008__Q01|Quesito 1]] — Find value of ratio of eighth powers to fourth powers
 - [[src_bmo1_2008__Q02|Quesito 2]] — Find all positive-integer solutions to a simultaneous system

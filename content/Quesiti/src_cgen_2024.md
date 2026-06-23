@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1c1cSoVwqMLgL0IF4BNA5JRS_DbCgZRxy/view)
 
 - [[src_cgen_2024__Q01|Quesito 1]] — Recursively defined sequence u_{n+1}=1/(n+1)+sqrt(u_n): positivity, monotonicity, convergence and asymptotics
 - [[src_cgen_2024__Q02|Quesito 2]] — Probability game with opaque boxes hiding candies; Monty-Hall-style choices, optimal strategies for Sophie and Germain over n-1 rounds

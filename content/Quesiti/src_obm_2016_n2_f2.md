@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pMNbGFlrYDlG-OKHRMZRxFDZCNFl1iD6/view)
 
 - [[src_obm_2016_n2_f2__Q01|Quesito 1]] — Angle AEG in regular pentagon with adjacent equilateral triangle
 - [[src_obm_2016_n2_f2__Q02|Quesito 2]] — Max students who voted on math exam postponement

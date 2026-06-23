@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 - [[src_obm_2015_n3_f1__Q01|Quesito 1]] — Number 1–9 in 3×3 grid: odd neighbor sums, maximize white-square sum
 - [[src_obm_2015_n3_f1__Q02|Quesito 2]] — Max tower height stacking 55 cubes of three colors, no two same-color adjacent

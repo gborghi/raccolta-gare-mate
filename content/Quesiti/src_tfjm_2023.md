@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Zgbgw16aZEai2bo8kAUFHAI-ffQz7IA5/view)
 
 - [[src_tfjm_2023__Q01|Quesito 1]] — Largest axis-aligned square stamp that fits inside a package of given shape, then total area with two disjoint stamps
 - [[src_tfjm_2023__Q02|Quesito 2]] — Counting orientations of rivers between villages with assigned altitudes so water flows downhill; functions n_k(P) on graph families

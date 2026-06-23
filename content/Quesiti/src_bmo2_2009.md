@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ferPQhLsagHhNDpl4Pc-5BSxvy9ubeYh/view)
 
 - [[src_bmo2_2009__Q01|Quesito 1]] — Find non-negative integer solutions to a radical sum equation
 - [[src_bmo2_2009__Q02|Quesito 2]] — Prove property of orthocentre on circumcircle of acute triangle

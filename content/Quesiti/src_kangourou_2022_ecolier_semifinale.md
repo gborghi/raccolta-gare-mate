@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Ecolier2022RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 - [[src_kangourou_2022_ecolier_semifinale__Q01|Quesito 1]] — Caselle del bordo con un solo lato verniciato di rosso
 - [[src_kangourou_2022_ecolier_semifinale__Q02|Quesito 2]] — Ora a Roma quando e stata servita la cena (fusi orari)

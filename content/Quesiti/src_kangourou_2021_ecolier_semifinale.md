@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Ecolier2021RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1d4KIlUoujYfd3Cc7JpT28ssbmAgsp2A5/view)
 
 - [[src_kangourou_2021_ecolier_semifinale__Q01|Quesito 1]] — Max stanze visitabili nel triangolo di 9 stanze
 - [[src_kangourou_2021_ecolier_semifinale__Q02|Quesito 2]] — Piastrelle gialle nel pavimento con diagonali rosse

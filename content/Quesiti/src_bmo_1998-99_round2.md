@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 - [[src_bmo_1998-99_round2__Q01|Quesito 1]] — Partition first n naturals into 2 or 3 equal-sum subsets
 - [[src_bmo_1998-99_round2__Q02|Quesito 2]] — Prove a product relation in a hexagon with parallel sides

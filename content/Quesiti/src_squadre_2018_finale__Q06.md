@@ -38,4 +38,4 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Geometria]]
 **Risposta:** 0056
-**Fonte:** apri PDF p.16
+**Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)

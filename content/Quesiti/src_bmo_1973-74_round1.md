@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 - [[src_bmo_1973-74_round1__Q01|Quesito 1]] — Three curves where B bisects area between A and C; find equation of C
 - [[src_bmo_1973-74_round1__Q02|Quesito 2]] — Partition set of 15 dominoes (integers 1–5) into three closed chains of 5

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1964_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)
 
 - [[src_imho_1964__Q01|Quesito 1]] — Quando 2^n-1 e 2^n+1 sono divisibili per 7
 - [[src_imho_1964__Q02|Quesito 2]] — Provare a^2(b+c-a)+...<=3abc per lati di triangolo

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 - [[src_pol_1984_r3__Q01|Quesito 1]] — Count functions on an n-element set whose (n-1)-th iterate is constant but (n-2)-th iterate is not.
 - [[src_pol_1984_r3__Q02|Quesito 2]] — Prove a lower bound of n/2 for a sum of absolute partial-sums under any permutation of a special matrix.

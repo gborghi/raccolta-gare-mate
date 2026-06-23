@@ -36,7 +36,7 @@ tags:
 > Sia x1, x2, x3, . . . la successione definita per ricorrenza come segue:
 > (
 > x1 = 4
-> xn+1 = x1x2x3 · · · xn + 5
+> xn+1 = x1x2x3 · · xn + 5
 > per n ≥1.
 > (I primi termini della successione sono quindi x1 = 4, x2 = 4 + 5 = 9, x3 = 4 · 9 + 5 = 41, . . . )
 > Trovare tutte le coppie di interi positivi {a, b} tali che xaxb è un quadrato perfetto.
@@ -46,4 +46,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** {1,2}
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)

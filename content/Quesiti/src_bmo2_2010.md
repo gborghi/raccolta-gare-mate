@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 - [[src_bmo2_2010__Q01|Quesito 1]] — Each of 2010^2010 camp children has at most three friends; decide whether the children can always be listed so that any pair of friends has at most 2010 children between them.
 - [[src_bmo2_2010__Q02|Quesito 2]] — In triangle ABC with centroid G and D the midpoint of CA, the line through G parallel to BC meets AB at E; prove angle AEC = angle DGC iff angle ACB = 90 degrees.

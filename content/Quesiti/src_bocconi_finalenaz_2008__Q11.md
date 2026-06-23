@@ -46,4 +46,4 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6, 7 o 8
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)

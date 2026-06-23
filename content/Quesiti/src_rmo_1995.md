@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18d_A9jRTrt0hHchaSE4JEb6g0MGjIeh6/view)
 
 - [[src_rmo_1995__Q01|Quesito 1]] — Triangle ABC with points K,L on BC; AL bisects angle KAC
 - [[src_rmo_1995__Q02|Quesito 2]] — Positive integer n is good if there exist n integers with equal product and sum

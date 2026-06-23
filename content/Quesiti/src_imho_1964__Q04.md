@@ -37,4 +37,4 @@ tags:
 **Metodo:** [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)

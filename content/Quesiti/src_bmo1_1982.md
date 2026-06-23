@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 - [[src_bmo1_1982__Q01|Quesito 1]] — Quadrilateral with interior point; sum of squared distances equals twice area implies square
 - [[src_bmo1_1982__Q02|Quesito 2]] — Number in base 2 with exactly three 1-digits; prove evenness conditions

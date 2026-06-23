@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2015/febbraio2015.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
 
 - [[src_archimede_2015_febb_2livello__Q01|Quesito 1]] — x e x+312 palindromi, x di 4 cifre, somma delle cifre di x
 - [[src_archimede_2015_febb_2livello__Q02|Quesito 2]] — Somma di 100 termini con media di consecutivi pari all'indice

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/EMaggio-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
 
 - [[src_kangourou_2012_ecolier_finale__QE1|Quesito E1]] — Quanti ragazzi nella classe in fila
 - [[src_kangourou_2012_ecolier_finale__QE2|Quesito E2]] — A che ora e stata scattata la foto con quattro orologi

@@ -126,4 +126,4 @@ tags:
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0124
-**Fonte:** apri PDF p.26
+**Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)

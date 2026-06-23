@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
 
 - [[src_imho_1973__Q01|Quesito 1]] — Unit vectors from O: sum of lengths condition with parity
 - [[src_imho_1973__Q02|Quesito 2]] — Finite set M with parallel midpoint lines property

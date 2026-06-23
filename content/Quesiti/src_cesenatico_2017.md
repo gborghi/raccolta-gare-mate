@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2017/Cesenatico2017.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
 
 - [[src_cesenatico_2017__Q01|Quesito 1]] — due circonferenze stesso raggio
 - [[src_cesenatico_2017__Q02|Quesito 2]] — soluzioni intere finite

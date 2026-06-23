@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2026/finale_femminile_2026_testi.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 - [[src_archimede_2026_squadre_finale_femminile__Q01|Quesito 1]] — Lati poligono regolare con angolo interno 719 volte esterno
 - [[src_archimede_2026_squadre_finale_femminile__Q02|Quesito 2]] — Minimo numeri a 4 cifre per avere 2026 cifre uguali

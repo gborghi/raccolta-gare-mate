@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
 
 - [[src_obm_2011_n2_f3__Q01|Quesito 1]] — Magic-sum 3x3 grid with multiples of 3
 - [[src_obm_2011_n2_f3__Q02|Quesito 2]] — Convex quadrilateral midpoints form isosceles triangle

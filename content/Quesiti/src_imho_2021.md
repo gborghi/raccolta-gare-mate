@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
 
 - [[src_imho_2021__Q01|Quesito 1]] — Two piles of cards always share a perfect square sum
 - [[src_imho_2021__Q02|Quesito 2]] — Double sum inequality with square roots of absolute values

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2009/febb09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 - [[src_archimede_2009_2livello__Q01|Quesito 1]] — Quanti interi n con √n a meno di 1 da √101
 - [[src_archimede_2009_2livello__Q02|Quesito 2]] — Volume del solido di rotazione del rombo attorno a un lato

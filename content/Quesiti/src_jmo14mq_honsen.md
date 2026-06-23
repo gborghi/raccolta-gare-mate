@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aESRi7OnarSwt4c_TIM_ZNlZDgdoPbhj/view)
 
 - [[src_jmo14mq_honsen__Q01|Quesito 1]] — No n makes 2n^2+1, 3n^2+1, 6n^2+1 all squares
 - [[src_jmo14mq_honsen__Q02|Quesito 2]] — Find all real functions with f(xf(x)+f(y))=f(x)^2+y

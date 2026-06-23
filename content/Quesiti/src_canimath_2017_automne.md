@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 - [[src_canimath_2017_automne__Q01|Quesito 1]] — Write 225 as a sum of 5 or 4 consecutive positive integers
 - [[src_canimath_2017_automne__Q02|Quesito 2]] — a_n = last digit of digit-sum of 2005 written n times in a row; find n with a_n=0 and compute a sum

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 - [[src_bmo1_1978__Q01|Quesito 1]] — Point inside triangle with equal perpendicular feet distances
 - [[src_bmo1_1978__Q02|Quesito 2]] — No proper fraction with denominator ≤100 has decimal block 167

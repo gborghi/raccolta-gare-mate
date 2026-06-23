@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
 
 - [[src_obm_2025_nu_fx__Q01|Quesito 1]] — No continuous function asymptotic to prime-counting function
 - [[src_obm_2025_nu_fx__Q02|Quesito 2]] — Integer sequences; infinitely many N and M with ratio conditions

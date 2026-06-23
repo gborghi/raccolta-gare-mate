@@ -40,4 +40,4 @@ tags:
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
 **Area:** [[Geometria]]
 **Risposta:** 0004
-**Fonte:** apri PDF p.17
+**Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

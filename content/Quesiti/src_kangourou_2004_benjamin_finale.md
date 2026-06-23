@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/BMaggio-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
 
 - [[src_kangourou_2004_benjamin_finale__QB1|Quesito B1]] — Concludere famiglia dei pirati Martedi/Mercoledi
 - [[src_kangourou_2004_benjamin_finale__QB2|Quesito B2]] — Chi vince il gioco di taglio delle corde

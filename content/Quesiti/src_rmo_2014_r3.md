@@ -18,7 +18,7 @@ tags:
   - regione/r3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
 
 - [[src_rmo_2014_r3__Q01|Quesito 1]] — Circumcircle of ARB cuts AC at X; prove RX perpendicular BC
 - [[src_rmo_2014_r3__Q02|Quesito 2]] — Find all real x, y such that x^2+2y^2+1/2 le x(2y+1)

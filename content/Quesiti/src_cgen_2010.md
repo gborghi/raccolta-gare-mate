@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1un5c72q0Dhvv-U-lXEfjcCDMxsLeoLaa/view)
 
 - [[src_cgen_2010__Q01|Quesito 1]] — Geometric configuration: circles of diameter [AC] and [BC] tangent at C, homotheties between three circles, collinearity and radius relation
 - [[src_cgen_2010__Q02|Quesito 2]] — Counting triangles on n points (no 3 collinear): maximal number t(n) under a shared-vertices condition, and minimal number s(n) under a chaining condition

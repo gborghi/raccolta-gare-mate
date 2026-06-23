@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
 
 - [[src_obm_2006_n3_f2__Q01|Quesito 1]] — Count ordered pairs (83;89) called 'century pairs'
 - [[src_obm_2006_n3_f2__Q02|Quesito 2]] — Pentagon and triangle inscribed in circle; find angle α for similarity

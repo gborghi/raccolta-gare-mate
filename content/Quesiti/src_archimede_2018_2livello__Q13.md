@@ -32,7 +32,7 @@ tags:
 *Polinomi prodotto, grado minimo del quoziente*
 
 > Angela ha a disposizione i polinomi x −1, (x −1)(x −2), (x −1)(x −2)(x −3), . . . fino a
-> (x −1)(x −2) · · · (x −2017)(x −2018), e li divide in due gruppi. Detto p(x) il prodotto dei
+> (x −1)(x −2) · · (x −2017)(x −2018), e li divide in due gruppi. Detto p(x) il prodotto dei
 > polinomi del primo gruppo e q(x) quello dei polinomi del secondo gruppo, Angela si accorge
 > che il polinomio p(x) divide il polinomio q(x), e che il grado del quoziente q(x)
 > p(x) è il più piccolo
@@ -43,4 +43,4 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1009
-**Fonte:** apri PDF p.4
+**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)

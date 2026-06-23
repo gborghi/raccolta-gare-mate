@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/soluzioni/GS_2012_soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 - [[src_gs_2012_squadre__Q01|Quesito 1]] — Rapporto fra aree per dimezzamenti successivi
 - [[src_gs_2012_squadre__Q02|Quesito 2]] — Ultime due cifre di 2^99 via periodicita

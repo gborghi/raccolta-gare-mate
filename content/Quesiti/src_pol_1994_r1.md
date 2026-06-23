@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 - [[src_pol_1994_r1__Q01|Quesito 1]] — No integers a,b,c,d (not all 0) with a^2-b=c^2 and b^2-a=d^2
 - [[src_pol_1994_r1__Q02|Quesito 2]] — Iterated absolute-value functions f_{n+1}=|f_n-2|, f_0=|x|; solve f_n(x)=1

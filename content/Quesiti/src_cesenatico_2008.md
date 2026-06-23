@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2008/ces2008-sol_new.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
 
 - [[src_cesenatico_2008__Q01|Quesito 1]] — Dodecagono regolare, intersezione diagonali e circonferenza S
 - [[src_cesenatico_2008__Q02|Quesito 2]] — numero colorazioni

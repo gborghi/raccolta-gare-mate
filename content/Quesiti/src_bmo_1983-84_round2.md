@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 - [[src_bmo_1983-84_round2__Q01|Quesito 1]] — Find points in plane satisfying distance conditions from right-angled triangle
 - [[src_bmo_1983-84_round2__Q02|Quesito 2]] — Tetrahedron with equal edges; minimise area of cross-section quadrilateral

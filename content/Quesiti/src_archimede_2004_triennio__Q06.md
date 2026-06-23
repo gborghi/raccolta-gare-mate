@@ -38,4 +38,4 @@ tags:
 **Metodo:** [[method_telescoping|Somme telescopiche]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** Ö/65
-**Fonte:** apri PDF p.6
+**Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)

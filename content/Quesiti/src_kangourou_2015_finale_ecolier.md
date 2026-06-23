@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/EMaggio-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1O-xFIX4zZ-qz0k9i1ez_-HZRIJcc3aP1/view)
 
 - [[src_kangourou_2015_finale_ecolier__QE1|Quesito E1]] — quante somme
 - [[src_kangourou_2015_finale_ecolier__QE2|Quesito E2]] — Dado non regolare con condizioni somma facce opposte

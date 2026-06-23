@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1szqn3o_1STn6AS-iMOaHZTa6rpdHG630/view)
 
 - [[src_imho_2004__Q01|Quesito 1]] — Circumcircles of BMR and CNR meet on BC
 - [[src_imho_2004__Q02|Quesito 2]] — Polynomial with real roots satisfying functional relations

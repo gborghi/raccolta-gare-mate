@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2000/Archimede2000/testibiennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 - [[src_archimede_2000_biennio__Q01|Quesito 1]] — Guadagno totale dopo doppia compravendita di scaffaletto
 - [[src_archimede_2000_biennio__Q02|Quesito 2]] — Rapporto aree con raggio esterno doppio dell'interno

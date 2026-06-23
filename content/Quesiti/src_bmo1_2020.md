@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 - [[src_bmo1_2020__Q01|Quesito 1]] — At least three primes p<200 with p,p+2,p+6,p+8,p+12 all prime
 - [[src_bmo1_2020__Q02|Quesito 2]] — Find all possible values of a1 in integer sequence satisfying recurrence

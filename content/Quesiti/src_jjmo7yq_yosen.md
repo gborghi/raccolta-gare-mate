@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JSUMowa9JI8Y3BaqBeZ4gyyU1TBF9Jpp/view)
 
 - [[src_jjmo7yq_yosen__Q01|Quesito 1]] — Area of triangle OAB given nested right isosceles triangles, area of OCD is 12
 - [[src_jjmo7yq_yosen__Q02|Quesito 2]] — Count minimum-length paths A to B along diagonals in a 3×5 grid

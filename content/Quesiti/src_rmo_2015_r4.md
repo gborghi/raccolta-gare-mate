@@ -18,7 +18,7 @@ tags:
   - regione/r4
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1x0axIPaHu87ZTGOGDG8_dBEUX9gWmh5k/view)
 
 - [[src_rmo_2015_r4__Q01|Quesito 1]] — Circumcentre of triangle CB'I lies on angle bisector
 - [[src_rmo_2015_r4__Q02|Quesito 2]] — Quadratic with integer values at 0,1,2 implies integer coefficients

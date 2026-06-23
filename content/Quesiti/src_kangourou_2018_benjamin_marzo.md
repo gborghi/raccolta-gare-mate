@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/BMarzo-18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 - [[src_kangourou_2018_benjamin_marzo__Q01|Quesito 1]] — Immagine vista da sopra dei tre oggetti
 - [[src_kangourou_2018_benjamin_marzo__Q02|Quesito 2]] — Perimetro della stella di triangoli e quadrato

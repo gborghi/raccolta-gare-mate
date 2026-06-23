@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 - [[src_canimath_2021_printemps__Q01|Quesito 1]] — Compute a factorial-based fraction
 - [[src_canimath_2021_printemps__Q02|Quesito 2]] — Card deck ratio: black twice red, then add 4 black to make triple (college)

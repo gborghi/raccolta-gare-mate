@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/soluzioni/GS_2013_soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 - [[src_gs_2013_squadre__Q01|Quesito 1]] — Coppie di affermazioni uguali false (logica)
 - [[src_gs_2013_squadre__Q02|Quesito 2]] — Massimo perimetro foglio piegato non quadrato

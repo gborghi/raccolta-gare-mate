@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VHuJXp0L8AAwmYvzBeWsGkyY-LQ1btx2/view)
 
 - [[src_jmo33hq_honsen__Q01|Quesito 1]] — Max cells covered by at least 1 L-tetromino on 5x5 grid
 - [[src_jmo33hq_honsen__Q02|Quesito 2]] — In acute triangle, line through F parallel to XY meets DY at P; prove AD perp EP

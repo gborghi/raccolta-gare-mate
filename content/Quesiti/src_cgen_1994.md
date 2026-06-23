@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 - [[src_cgen_1994__Q01|Quesito 1]] — Count integers p with 50^p < 7^n < 50^(p+1)
 - [[src_cgen_1994__Q02|Quesito 2]] — Maximize volume of cylinder between hemisphere circle and its projection

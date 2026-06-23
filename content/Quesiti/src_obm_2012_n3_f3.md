@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
 
 - [[src_obm_2012_n3_f3__Q01|Quesito 1]] — Amoeba colour dynamics; count possible states in test tube
 - [[src_obm_2012_n3_f3__Q02|Quesito 2]] — Excentres, midpoints of sides, and incircle concurrency in scalene triangle

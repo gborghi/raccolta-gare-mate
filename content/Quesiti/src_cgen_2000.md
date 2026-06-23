@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
 
 - [[src_cgen_2000__Q01|Quesito 1]] — Distribute b white and n black balls into two urns to maximize the probability of drawing a white ball
 - [[src_cgen_2000__Q02|Quesito 2]] — Triangles ABC (called Cartesian) with integer sides and angle A = 2pi/3: rational lengths, incircle/excircle, and number-theoretic characterization

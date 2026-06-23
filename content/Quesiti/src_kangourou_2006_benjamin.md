@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/BMarzo-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 - [[src_kangourou_2006_benjamin__Q01|Quesito 1]] — Numero da inserire in 3x2005=2004+2006+...
 - [[src_kangourou_2006_benjamin__Q02|Quesito 2]] — Piu grande numero di 10 cifre accostando foglietti

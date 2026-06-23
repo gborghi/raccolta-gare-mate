@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
 
 - [[src_imho_1986__Q01|Quesito 1]] — Show ab-1 not a perfect square for some pair in set
 - [[src_imho_1986__Q02|Quesito 2]] — Rotation sequence returning to start implies equilateral triangle

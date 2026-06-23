@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2007/SemifinaliB.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 - [[src_cesenatico_2007_squadre_semifinale_b__Q01|Quesito 1]] — Numero 4 cifre multiplo 25 con condizione cifre centrali
 - [[src_cesenatico_2007_squadre_semifinale_b__Q02|Quesito 2]] — Cartolerie (multipli 18) non di lusso (non multipli 24) in 2007

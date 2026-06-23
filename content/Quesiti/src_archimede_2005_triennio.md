@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2005/testo_triennio3.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 - [[src_archimede_2005_biennio__Q03|Quesito 1]] — Valore massimo di a(b+c)-b(a+c) con interi 1..10
 - [[src_archimede_2005_triennio__Q02|Quesito 2]] — Interi n con n^3+2n^2+n quadrato perfetto

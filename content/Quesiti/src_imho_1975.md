@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
 
 - [[src_imho_1975__Q01|Quesito 1]] — Permutation minimizes sum of squared differences
 - [[src_imho_1975__Q02|Quesito 2]] — Infinite sequence expressible as xp + yq infinitely often

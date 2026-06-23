@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 - [[src_bocconi_autunno_2007__Q01|Quesito 1]] — Giorno del compleanno di Jacob
 - [[src_bocconi_autunno_2007__Q02|Quesito 2]] — Cifra nascosta dalle macchie nella moltiplicazione

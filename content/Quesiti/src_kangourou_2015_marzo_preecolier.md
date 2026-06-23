@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/PMarzo-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 - [[src_kangourou_2015_marzo_preecolier__Q01|Quesito 1]] — Quale figura geometrica manca nei riquadri
 - [[src_kangourou_2015_marzo_preecolier__Q02|Quesito 2]] — Quanti triangoli nella figura

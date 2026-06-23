@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 - [[src_ioqm_2024__Q01|Quesito 1]] — Smallest positive integer not dividing 9 factorial
 - [[src_ioqm_2024__Q02|Quesito 2]] — Count four-digit odd numbers with digits 1,2,3,4 each once

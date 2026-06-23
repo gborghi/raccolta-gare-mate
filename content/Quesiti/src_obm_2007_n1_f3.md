@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CZ3_wEdYuEm-6txjoEjsnqhbbQsygS85/view)
 
 - [[src_obm_2007_n1_f3__Q01|Quesito 1]] — Count painted squares in grid pattern; find grid with 199 painted squares
 - [[src_obm_2007_n1_f3__Q02|Quesito 2]] — Two rugs cover 81 m² floor; rug B area double rug A; find uncovered floor area

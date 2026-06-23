@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 - [[src_bmo_1993-94_round2__Q01|Quesito 1]] — Find first integer n>1 whose sum-of-squares average is a perfect square
 - [[src_bmo_1993-94_round2__Q02|Quesito 2]] — Count non-congruent triangles with integer sides and perimeter 1994

@@ -18,7 +18,7 @@ tags:
   - regione/r1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pM_o_4zD3hAhAdQoohTDksCBpNlBtRQ7/view)
 
 - [[src_rmo_2015_r1__Q01|Quesito 1]] — Cyclic quadrilateral, diagonals meet, circumcircles, incenter angle
 - [[src_rmo_2015_r1__Q02|Quesito 2]] — Two quadratics equal at two integers, prove difference of leading linear coefficients is even

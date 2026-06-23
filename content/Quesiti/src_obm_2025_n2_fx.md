@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
 
 - [[src_obm_2025_n2_fx__Q01|Quesito 1]] — Minimum digit-sum of a power of 2 with at least two digits
 - [[src_obm_2025_n2_fx__Q02|Quesito 2]] — Winning strategy in 5x5 board game for which positive integers m

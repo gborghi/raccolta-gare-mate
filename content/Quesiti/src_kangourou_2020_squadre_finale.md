@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2020/SQ-F-20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
 
 - [[src_kangourou_2020_squadre_finale__Q01|Quesito 1]] — Frazione ombreggiata dell'esagono regolare
 - [[src_kangourou_2020_squadre_finale__Q02|Quesito 2]] — Numero al posto 2020 della sequenza dispari ripetuti

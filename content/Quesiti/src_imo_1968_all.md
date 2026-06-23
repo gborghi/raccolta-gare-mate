@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1968_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 - [[src_imo_1968_all__Q01|Quesito 1]] — Unique triangle with consecutive integer sides and angle double
 - [[src_imo_1968_all__Q02|Quesito 2]] — Find naturals where digit product equals x^2-10x-22

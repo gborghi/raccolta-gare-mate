@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2010/SQ-A-10.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 - [[src_kangourou_2010_squadre_semifinale__Q01|Quesito 1]] — Maggiore dei due numeri di 3 cifre con somma e prodotto max
 - [[src_kangourou_2010_squadre_semifinale__Q02|Quesito 2]] — Massimo passeggeri con file di occupazione distinta

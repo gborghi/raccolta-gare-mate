@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
 
 - [[src_inmo_2024__Q01|Quesito 1]] — Circumcircle point E gives parallel line intersecting circumcircle at F,G
 - [[src_inmo_2024__Q02|Quesito 2]] — 2024x2024 board colouring game; find maximum squares Mohit can colour red

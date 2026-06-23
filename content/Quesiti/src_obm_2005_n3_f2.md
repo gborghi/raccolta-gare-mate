@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
 
 - [[src_obm_2005_n3_f2__Q01|Quesito 1]] — Angle in regular pentagon with internal equilateral triangle point
 - [[src_obm_2005_n3_f2__Q02|Quesito 2]] — Smallest positive integer multiple conditions modulo 5,7,9,11

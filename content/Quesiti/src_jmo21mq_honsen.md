@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aLC2UOTU3J2U3mjuR_gj2bmQJMcqztuc/view)
 
 - [[src_jmo21mq_honsen__Q01|Quesito 1]] — Acute triangle: prove AM·PM = BM² with centroid and midpoint
 - [[src_jmo21mq_honsen__Q02|Quesito 2]] — Find all positive integer quadruples satisfying a^n-1 factored product

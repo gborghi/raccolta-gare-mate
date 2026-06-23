@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 - [[src_imho_1991__Q01|Quesito 1]] — Incenter ratio inequality with angle bisectors
 - [[src_imho_1991__Q02|Quesito 2]] — Arithmetic residues mod n implies n is 1, 2, 4, prime power, or double

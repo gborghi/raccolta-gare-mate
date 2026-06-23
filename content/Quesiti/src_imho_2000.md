@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SxIaq8osFL-pFpQf_5H4v7VWykrNDr0_/view)
 
 - [[src_imho_2000__Q01|Quesito 1]] — Tangent line meets chords and rays in equal segments
 - [[src_imho_2000__Q02|Quesito 2]] — Inequality for positive reals with product 1

@@ -38,7 +38,7 @@ tags:
 > Sia p(x) =
 > x4+x2+1
 > 3
-> 2007. Se p(x) = a0 + a1x + a2x2 + ··· + a8028x8028, l’unico modo per sottrarsi alla
+> 2007. Se p(x) = a0 + a1x + a2x2 + ·· + a8028x8028, l’unico modo per sottrarsi alla
 > trappola è calcolare a1 +a4 +a7 +...+a3k+1 +...+a8026. Dare come risposta la somma di numeratore e
 > denominatore del risultato ridotto ai minimi termini.
 
@@ -46,4 +46,4 @@ tags:
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF p.4
+**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)

@@ -39,4 +39,4 @@ tags:
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)

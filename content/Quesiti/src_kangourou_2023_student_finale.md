@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Student2023RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
 
 - [[src_kangourou_2023_student_finale__QS1|Quesito S1]] — equo o vantaggioso, per chi
 - [[src_kangourou_2023_student_finale__QS2|Quesito S2]] — Massimo numero di mentitori su isola a 15 regioni

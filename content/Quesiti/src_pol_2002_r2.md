@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 - [[src_pol_2002_r2__Q01|Quesito 1]] — Prove all functions f:R->R satisfying f(x)=f(2x)=f(1-x) for all x are periodic.
 - [[src_pol_2002_r2__Q02|Quesito 2]] — Convex quadrilateral ABCD with angle ADB=2 angle ACB and angle BDC=2 angle BAC; prove AD=CD.

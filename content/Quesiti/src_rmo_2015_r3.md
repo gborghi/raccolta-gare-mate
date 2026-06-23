@@ -18,7 +18,7 @@ tags:
   - regione/r3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1HpOXyY027T7yrJIPYwmXafLpB_7tE0uA/view)
 
 - [[src_rmo_2015_r3__Q01|Quesito 1]] — Two circles; midpoint of arc-chord lies on second circle
 - [[src_rmo_2015_r3__Q02|Quesito 2]] — Quadratic polynomial squares in AP implies a,b integers

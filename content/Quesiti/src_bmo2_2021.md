@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 - [[src_bmo2_2021__Q01|Quesito 1]] — Show every positive integer has a good multiple
 - [[src_bmo2_2021__Q02|Quesito 2]] — Tiling square of side n with a×a and b×b tiles

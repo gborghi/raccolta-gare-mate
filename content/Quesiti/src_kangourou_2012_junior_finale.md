@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/JMaggio-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
 
 - [[src_kangourou_2012_junior_finale__QJ1|Quesito J1]] — Cifra finale del prodotto dei dispari tra 1 e 2012
 - [[src_kangourou_2012_junior_finale__QJ2|Quesito J2]] — Quante sfere per tre punti non allineati e raggio minimo

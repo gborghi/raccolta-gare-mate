@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
 
 - [[src_bmo_2018-19_round1__Q01|Quesito 1]] — Count increasing lists of five two-digit multiples of 3 using each digit exactly once
 - [[src_bmo_2018-19_round1__Q02|Quesito 2]] — Determine how many n in [3,2018] allow an n-ring of positive integers with bounded neighbour products

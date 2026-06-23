@@ -41,4 +41,4 @@ tags:
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Area:** [[Geometria]]
 **Risposta:** 0648
-**Fonte:** apri PDF p.29
+**Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

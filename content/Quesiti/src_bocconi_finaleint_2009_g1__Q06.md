@@ -54,4 +54,4 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni (es. con 3 in alto: 5 e 6 in alto ai lati, 7 e 9 in basso); le cinque somme sono cinque numeri consecutivi
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)

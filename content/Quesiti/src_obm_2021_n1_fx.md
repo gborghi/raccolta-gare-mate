@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
 
 - [[src_obm_2021_n1_fx__Q01|Quesito 1]] — Squared numbers: digit sum is a perfect square
 - [[src_obm_2021_n1_fx__Q02|Quesito 2]] — Count triples of positive integers with divisibility conditions

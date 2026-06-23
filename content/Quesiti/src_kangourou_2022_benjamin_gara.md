@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Benjamin2022REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 - [[src_kangourou_2022_benjamin_gara__Q01|Quesito 1]] — Quesito 1 (testo non disponibile nel sidecar)
 - [[src_kangourou_2022_benjamin_gara__Q02|Quesito 2]] — Quesito 2 (testo non disponibile nel sidecar)

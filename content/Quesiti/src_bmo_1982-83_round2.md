@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
 
 - [[src_bmo_1982-83_round2__Q01|Quesito 1]] — Minimise sum of squared distances to two points and a line
 - [[src_bmo_1982-83_round2__Q02|Quesito 2]] — Escribed circles of triangle; tangents form a triangle T; prove orthocentre result

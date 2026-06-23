@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 - [[src_pol_1999_r3__Q01|Quesito 1]] — Point D on side BC with AD>BC; choose E on AC so AE/EC=BD/(AD-BC); prove AD>BE.
 - [[src_pol_1999_r3__Q02|Quesito 2]] — Among integers 0<a_1<...<a_100<5050 find four distinct with a_k+a_l-a_m-a_n divisible by 5050.

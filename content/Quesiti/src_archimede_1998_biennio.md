@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/1998/Archimede1998/gara-biennio1998.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kWwcoo-eeUmeGNwnlbaf7KaRcCi2NLyS/view)
 
 - [[src_archimede_1998_biennio__Q01|Quesito 1]] — Valore di 0,3 al cubo
 - [[src_archimede_1998_biennio__Q02|Quesito 2]] — Area del cerchio circoscritto a un rettangolo

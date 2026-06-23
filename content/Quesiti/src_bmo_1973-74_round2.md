@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 - [[src_bmo_1973-74_round2__Q01|Quesito 1]] — Right-angled triangle from trig identity; circumcentre–centroid distance formula
 - [[src_bmo_1973-74_round2__Q02|Quesito 2]] — Polygonal line in a 50×50 square must have length greater than 1248

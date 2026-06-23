@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 - [[src_bmo1_1974__Q01|Quesito 1]] — Curve B bisects area between two parabolic curves A and C
 - [[src_bmo1_1974__Q02|Quesito 2]] — Count partitions of 15 dominoes into three closed-chain subsets

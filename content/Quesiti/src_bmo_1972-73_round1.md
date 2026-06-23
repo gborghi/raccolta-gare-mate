@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 - [[src_bmo_1972-73_round1__Q01|Quesito 1]] — Variable circle touching two fixed circles; PQ through fixed point
 - [[src_bmo_1972-73_round1__Q02|Quesito 2]] — 9 points in unit square; triangle of area at most 1/8

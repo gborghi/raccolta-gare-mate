@@ -51,6 +51,6 @@ tags:
 **Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15lQ7pjQw33CmRKlTG9zAbRyQY3NZVoW3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.

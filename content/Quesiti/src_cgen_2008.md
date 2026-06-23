@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
 
 - [[src_cgen_2008__Q01|Quesito 1]] — Study of the parabola $y=x^2/3-3/2$ and circles tangent to it: nature of the curve, the squared-distance function and its derivatives, characterising tangency by $g'_U(a)=0$, counting tangent circles, and bitangent circles.
 - [[src_cgen_2008__Q02|Quesito 2]] — Minimising over lines: existence and uniqueness of the line minimising the sum of vertical segment lengths $AA'+BB'+CC'$, and the line minimising the sum of distances from the three vertices of a triangle.

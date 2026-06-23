@@ -37,11 +37,11 @@ tags:
 > - **(B)** n + n(n + 1)2 2
 > - **(C)** n3+n2+n+1
 > - **(D)** n(2n−1)(n+1)
-> - **(E)** n3. 1 2 3 · · · n 2 3 4 · · · n + 1 3 4 5 · · · n + 2 · · · · · · · · · · · · · · · n n + 1 n + 2 · · · 2n −1
+> - **(E)** n3. 1 2 3 · · n 2 3 4 · · n + 1 3 4 5 · · n + 2 · · · · · · · · n n + 1 n + 2 · · 2n −1
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)

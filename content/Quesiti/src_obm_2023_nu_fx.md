@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 - [[src_obm_2023_nu_fx__Q01|Quesito 1]] — Existence of N with p(n)>2 for all n>N, potency function
 - [[src_obm_2023_nu_fx__Q02|Quesito 2]] — Power series satisfying a differential equation; evaluate a series

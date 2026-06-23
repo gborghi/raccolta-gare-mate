@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2000/Marzo_00.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 - [[src_kangourou_2000_studenti__Q01|Quesito 1]] — Ragazze in classe di 29 con 3 in piu
 - [[src_kangourou_2000_studenti__Q02|Quesito 2]] — Topolini nelle tasche del gigante

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
 
 - [[src_inmo_2025__Q01|Quesito 1]] — Find all positive integers n such that u_n/n is an integer
 - [[src_inmo_2025__Q02|Quesito 2]] — Alice erases numbers on a board to leave one number remaining

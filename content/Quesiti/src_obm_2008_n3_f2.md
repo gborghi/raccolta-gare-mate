@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 - [[src_obm_2008_n3_f2__Q01|Quesito 1]] — Isosceles trapezoid, diagonal 100 m, angle 30°, find S/sqrt(3)
 - [[src_obm_2008_n3_f2__Q02|Quesito 2]] — Compute sum of floor(sqrt(k)) for k=1 to 2008

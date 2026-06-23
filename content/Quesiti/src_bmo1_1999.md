@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
 
 - [[src_bmo1_1999__Q01|Quesito 1]] — Four children's distinct ages satisfy two sum-of-squares conditions
 - [[src_bmo1_1999__Q02|Quesito 2]] — Ratio of tangents constant as P moves on circle with diameter AB

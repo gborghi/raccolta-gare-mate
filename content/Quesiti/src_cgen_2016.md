@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1b8k3BWxLPQrKuemqOCqKmgPkVkBfx4Ea/view)
 
 - [[src_cgen_2016__Q01|Quesito 1]] — Sums of cubes: study of the sets S, S_d, S_i of integers expressible as sums of cubes of (distinct, distinct odd) positive integers, building arbitrarily long arithmetic progressions inside S.
 - [[src_cgen_2016__Q02|Quesito 2]] — The row of trees that hides the forest: an observer at the origin among trees (discs of radius R centred at lattice points); determine for which R every direction is blocked, using slope rationality and parity arguments.

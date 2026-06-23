@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 - [[src_obm_2001_n3_f1__Q01|Quesito 1]] — Count two-digit numbers that are neither prime nor multiples of 2, 3, or 5
 - [[src_obm_2001_n3_f1__Q02|Quesito 2]] — Triangle CDE from 90 degree rotation of ABC around C; find angle alpha

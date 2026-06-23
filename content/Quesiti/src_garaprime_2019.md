@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2019/GaraNazionaleClassiPrime2019.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
 
 - [[src_garaprime_2019__Q01|Quesito 1]] — Cifre binarie del prodotto delle prime 10 potenze di 8
 - [[src_garaprime_2019__Q02|Quesito 2]] — Differenza bianche-nere in tabella 81x81 a cornici

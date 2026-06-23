@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 - [[src_bmo2_2003__Q01|Quesito 1]] — Triples in AP with largest prime factor of product at most 3
 - [[src_bmo2_2003__Q02|Quesito 2]] — Point D with 4AD=AB, half-line at angle ACB meets circumcircle at P, prove PB=2PD

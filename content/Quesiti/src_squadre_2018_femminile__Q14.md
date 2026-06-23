@@ -42,4 +42,4 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0650
-**Fonte:** apri PDF p.25
+**Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)

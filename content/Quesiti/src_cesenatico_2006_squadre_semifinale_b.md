@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2006/Bgas06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 - [[src_cesenatico_2006_squadre_semifinale_b__Q01|Quesito 1]] — AP intersezione altezza-mediana in triangolo rettangolo 21,20
 - [[src_cesenatico_2006_squadre_semifinale_b__Q02|Quesito 2]] — Angolo DAE in configurazione ciclica con DE=AE

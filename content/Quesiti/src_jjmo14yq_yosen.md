@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 - [[src_jjmo14yq_yosen__Q01|Quesito 1]] — Count integer triples with a*b and b*c both even
 - [[src_jjmo14yq_yosen__Q02|Quesito 2]] — Max length of segment PQ for points seeing AB at 60 and 120 degrees

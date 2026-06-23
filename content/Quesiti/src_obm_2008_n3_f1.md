@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 - [[src_obm_2008_n3_f1__Q01|Quesito 1]] — Find ratio alpha/beta in a figure with four equal segments
 - [[src_obm_2008_n3_f1__Q02|Quesito 2]] — For x = 10^(-2008), find the option with the largest value

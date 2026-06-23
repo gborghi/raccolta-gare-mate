@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2022/Junior2022RFIN2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 - [[src_kangourou_2022_junior_squadre_f2__Q01|Quesito 1]] — Probabilità pareggio gioco con dadi, num+den
 - [[src_kangourou_2022_junior_squadre_f2__Q02|Quesito 2]] — Quanti divisori pari di 20^22

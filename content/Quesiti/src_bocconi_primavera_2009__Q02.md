@@ -51,4 +51,4 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Pur con "l'aiuto", il quesito ammette diverse soluzioni; una di queste prevede una "V" nel livello intermedio e (nel livello inferiore, da sinistra a destra): B – V – R – V – B.
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)

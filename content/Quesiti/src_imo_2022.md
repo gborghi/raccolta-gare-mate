@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2022_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tsXgbJ9Pl2aI5mNYIg-TXWZHgI4xJ55P/view)
 
 - [[src_imo_2022__Q01|Quesito 1]] — Coppie (n,k) monete con n a sinistra dello stesso tipo
 - [[src_imo_2022__Q02|Quesito 2]] — R+->R+ con unica y soddisfacente

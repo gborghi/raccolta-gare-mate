@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Junior2024RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 - [[src_kangourou_2024_junior_semifinale__Q01|Quesito 1]] — Quale uguaglianza tra aree e certamente vera (parco)
 - [[src_kangourou_2024_junior_semifinale__Q02|Quesito 2]] — Area dell'ottagono regolare con quadrato inscritto di area 2

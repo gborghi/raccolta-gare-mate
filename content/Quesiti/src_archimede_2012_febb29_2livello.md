@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2012/soluzioni_feb12_bis4.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 - [[src_archimede_2012_febb29_2livello__Q01|Quesito 1]] — Da |3a-b+1|=|b|, quale relazione vale necessariamente
 - [[src_archimede_2012_febb29_2livello__Q02|Quesito 2]] — Torneo biliardino, scarto minimo di goal coi matematici vincitori

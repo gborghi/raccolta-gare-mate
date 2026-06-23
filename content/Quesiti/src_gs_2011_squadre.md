@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/soluzioni/GS_2011_soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 - [[src_gs_2011_squadre__Q01|Quesito 1]] — Affermazione del guardiano falsa
 - [[src_gs_2011_squadre__Q02|Quesito 2]] — Percorso piu breve su faccia laterale vs tetto

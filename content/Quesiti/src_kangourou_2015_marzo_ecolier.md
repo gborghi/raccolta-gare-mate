@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/EMarzo-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 - [[src_kangourou_2015_marzo_ecolier__Q01|Quesito 1]] — numero finale
 - [[src_kangourou_2015_marzo_ecolier__Q02|Quesito 2]] — la barra piu lunga

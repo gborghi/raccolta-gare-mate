@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jASM40MHMk6NMhN2bMvDto4r4rOWEBtP/view)
 
 - [[src_selection_camp_2018__Q01|Quesito 1]] — Convex pentagon with equal sides and angles, perpendicular from E to BC meets AC and BD at one point
 - [[src_selection_camp_2018__Q02|Quesito 2]] — Self-map on {1,...,n}: unique g satisfying f(g(f(m)))=g(f(g(m))) implies f and f∘f have same image

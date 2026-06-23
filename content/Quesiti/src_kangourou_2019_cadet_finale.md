@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/C-settembre19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1smvCpL_hdFhIZi16iX73KtjPyMEZu5zx/view)
 
 - [[src_kangourou_2019_cadet_finale__Q01|Quesito 1]] — Segno della differenza A-B tra i due prodotti
 - [[src_kangourou_2019_cadet_finale__Q02|Quesito 2]] — Misura dell angolo ITE nel pentagono e triangolo equilatero

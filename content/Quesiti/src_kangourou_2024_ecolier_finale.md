@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Ecolier2024RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1w21FKv9v3Gf8h_K0skpT381-6hGBkHto/view)
 
 - [[src_kangourou_2024_ecolier_finale__QE1|Quesito E1]] — Quale risultato ottiene Marco (sempre 1089)
 - [[src_kangourou_2024_ecolier_finale__QE2|Quesito E2]] — Minimo numero di chiavi e disposizione fra quattro amici

@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 - [[src_obm_2001_n2_f1__Q01|Quesito 1]] — How many two-digit numbers are neither prime nor multiples of 2, 3 or 5
 - [[src_obm_2001_n2_f1__Q02|Quesito 2]] — Angle alpha after rotating triangle ABC 90 degrees counterclockwise about C

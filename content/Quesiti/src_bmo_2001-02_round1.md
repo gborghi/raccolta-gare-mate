@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 - [[src_bmo_2001-02_round1__Q01|Quesito 1]] — Find positive integers m (even) and n (odd) with 1/m+1/n=4/2001
 - [[src_bmo_2001-02_round1__Q02|Quesito 2]] — Cyclic quadrilateral, equal lengths CD=CP=DQ; prove angle CAD=40°

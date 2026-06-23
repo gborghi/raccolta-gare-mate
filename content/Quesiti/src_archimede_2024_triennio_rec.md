@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2024/archimede_2024_triennio_rec.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 - [[src_archimede_2024_triennio_rec__Q01|Quesito 1]] — Numeri naturali sotto 1000 con somma delle cifre 4
 - [[src_archimede_2024_triennio_rec__Q02|Quesito 2]] — Somma di due numeri periodici come frazione, X+Y

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2005/febb05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 - [[src_febbraio_2005__Q01|Quesito 1]] — Quesito a risposta multipla febbraio 2005 n.1
 - [[src_febbraio_2005__Q02|Quesito 2]] — Quesito a risposta multipla febbraio 2005 n.2

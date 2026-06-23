@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/BMarzo-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 - [[src_kangourou_2004_benjamin__Q01|Quesito 1]] — Riscrivere (10*100)*(20*80) come prodotto
 - [[src_kangourou_2004_benjamin__Q02|Quesito 2]] — Carta da mettere nello schema (latin square)

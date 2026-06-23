@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/BMarzo-20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 - [[src_kangourou_2020_benjamin_marzo__Q01|Quesito 1]] — Minimo confezioni di uova per 24 muffin
 - [[src_kangourou_2020_benjamin_marzo__Q02|Quesito 2]] — Quale dei cinque segnali stradali e errato

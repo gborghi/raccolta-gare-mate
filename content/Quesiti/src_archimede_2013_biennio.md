@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2013/testo-biennio-def.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 - [[src_archimede_2013_biennio__Q01|Quesito 1]] — resto 1 per 7 e resto 2 per 10
 - [[src_archimede_2013_biennio__Q02|Quesito 2]] — Giorno della conversazione tra due matematici bugiardi

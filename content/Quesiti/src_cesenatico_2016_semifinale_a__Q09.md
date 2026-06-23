@@ -37,7 +37,7 @@ tags:
 > i +2016αi +2016 è multiplo di
 > 2243 per ogni i. E so anche dire quanto fa il resto di α4
 > 1 +α4
-> 2 +···+α4
+> 2 +··+α4
 > 5 nella divisione per 2243. Ma nessuno me lo
 > chiede mai!” Sapreste dire anche voi quanto vale questo resto?
 
@@ -46,4 +46,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0908
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 - [[src_pol_2008_r1__Q01|Quesito 1]] — Solve a symmetric system of three cubic equations in real numbers x,y,z.
 - [[src_pol_2008_r1__Q02|Quesito 2]] — Inside a convex angle with vertex P and a given point A, points X,Y on the rays with PX=PY minimize AX+AY; prove angle XAP = angle YAP.

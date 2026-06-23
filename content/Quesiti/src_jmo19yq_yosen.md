@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 - [[src_jmo19yq_yosen__Q01|Quesito 1]] — Value of n^2+4n closest to 10000
 - [[src_jmo19yq_yosen__Q02|Quesito 2]] — Externally tangent circles, collinear chord through tangency

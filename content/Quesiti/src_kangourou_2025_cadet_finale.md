@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2025/Cadet2025RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PQuJedCWTXWhrFhpDRxzkn1D0caSD99m/view)
 
 - [[src_kangourou_2025_cadet_finale__QC1|Quesito C1]] — Su quale dito cade il conteggio 999
 - [[src_kangourou_2025_cadet_finale__QC2|Quesito C2]] — Numero totale di lampioni su sentiero circolare

@@ -47,4 +47,4 @@ tags:
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** tutti gli interi positivi dispari
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)

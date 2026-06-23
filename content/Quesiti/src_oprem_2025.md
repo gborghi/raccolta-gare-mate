@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 - [[src_oprem_2025__Q01|Quesito 1]] — Atypical n-hour clock where 1+6=2; choose n so that 1+12=2
 - [[src_oprem_2025__Q02|Quesito 2]] — Translation: rewrite ambiguous media sentences in plain terms

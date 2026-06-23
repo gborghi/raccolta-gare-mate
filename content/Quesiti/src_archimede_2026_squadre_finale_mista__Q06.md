@@ -33,10 +33,10 @@ tags:
 > «Attenta, ci penso io!» esclama Moduloso rivolto a Nashtrid, mentre lancia un’accetta contro un drago e lo
 > manca completamente. «Avevo il sole negli occhi! Però almeno so determinare tutte le coppie di interi non
 > negativi (m,n) che soddisfano 4m!+1 = 2n +3n». Sia (a,b) la somma componente per componente di tutte
-> le coppie trovate; dare come risposta a·b. Si ricorda che m! = 1·2·3···m, mentre 0! = 1.
+> le coppie trovate; dare come risposta a·b. Si ricorda che m! = 1·2·3··m, mentre 0! = 1.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0030
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)

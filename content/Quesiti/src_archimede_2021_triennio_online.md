@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2021/giochi_archimede_2021/archimede_online_triennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mirXxT9-Hv1KYgVTqPSQsnkdU7SPLtJP/view)
 
 - [[src_archimede_2021_triennio_online__Q01|Quesito 1]] — Quale prodotto di potenze e un quadrato perfetto
 - [[src_archimede_2021_triennio_online__Q02|Quesito 2]] — Triangoli con due vertici dello stesso colore su circonferenza

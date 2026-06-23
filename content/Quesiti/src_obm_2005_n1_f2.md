@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 - [[src_obm_2005_n1_f2__Q01|Quesito 1]] — Alcohol-gasoline mixture equalized by adding pure alcohol
 - [[src_obm_2005_n1_f2__Q02|Quesito 2]] — Arithmetic sequence: find the 2005th term

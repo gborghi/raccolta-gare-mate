@@ -43,4 +43,4 @@ tags:
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1996
-**Fonte:** apri PDF p.4
+**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)

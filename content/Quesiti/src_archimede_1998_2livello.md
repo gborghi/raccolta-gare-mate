@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/1998/testoFebbraio1998.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 - [[src_archimede_1998_2livello__Q01|Quesito 1]] — Rapporto uomini/donne note le età medie a una festa
 - [[src_archimede_1998_2livello__Q02|Quesito 2]] — Forma del dominio definito da somma di valori assoluti

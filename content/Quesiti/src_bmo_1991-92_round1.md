@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
 
 - [[src_bmo_1991-92_round1__Q01|Quesito 1]] — Count non-zero digits of n vs n²; two-digit and three-digit cases
 - [[src_bmo_1991-92_round1__Q02|Quesito 2]] — Pentagon ABCDE inscribed in circle with parallel sides: must it be regular?

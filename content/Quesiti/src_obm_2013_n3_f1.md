@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 - [[src_obm_2013_n3_f1__Q01|Quesito 1]] — Next year after 2013 whose digits are again 0,1,2,3 in some order
 - [[src_obm_2013_n3_f1__Q02|Quesito 2]] — Buying a computer today vs after a 5% price rise and a 5% discount

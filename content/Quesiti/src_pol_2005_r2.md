@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
 
 - [[src_pol_2005_r2__Q01|Quesito 1]] — Find all positive integers n making n^n+1 and (2n)^{2n}+1 both prime.
 - [[src_pol_2005_r2__Q02|Quesito 2]] — In convex quadrilateral ABCD, M is the midpoint of diagonal AC; prove that if angle BAD = angle BMC = angle CMD then a circle can be inscribed in ABCD.

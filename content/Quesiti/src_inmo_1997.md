@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
 
 - [[src_inmo_1997__Q01|Quesito 1]] — Line through vertex C of parallelogram meets extensions of sides
 - [[src_inmo_1997__Q02|Quesito 2]] — No positive integers m,n satisfy the given equation

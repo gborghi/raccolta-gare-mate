@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 - [[src_bocconi_autunno_2011__Q01|Quesito 1]] — Minimo numero di parti quadrate e rettangolari del cartone
 - [[src_bocconi_autunno_2011__Q02|Quesito 2]] — Simbolo con cifra più grande nella sottrazione 2012

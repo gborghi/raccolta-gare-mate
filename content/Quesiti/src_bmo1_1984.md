@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 - [[src_bmo1_1984__Q01|Quesito 1]] — Triangle of circle-centres similar to original triangle
 - [[src_bmo1_1984__Q02|Quesito 2]] — Binomial coefficients mod 3: remainder-1 count exceeds remainder-2 count

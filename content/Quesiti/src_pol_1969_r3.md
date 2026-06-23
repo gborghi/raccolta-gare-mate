@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
 
 - [[src_pol_1969_r3__Q01|Quesito 1]] — Real numbers satisfy equality implying quadratic has root in (0,1)
 - [[src_pol_1969_r3__Q02|Quesito 2]] — Find minimum of sum of absolute deviations from distinct real numbers

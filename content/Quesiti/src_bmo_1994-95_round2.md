@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 - [[src_bmo_1994-95_round2__Q01|Quesito 1]] — Find all positive integer triples satisfying a product-equals-2 equation
 - [[src_bmo_1994-95_round2__Q02|Quesito 2]] — Prove angle equality iff another angle equality in triangle midpoint configuration

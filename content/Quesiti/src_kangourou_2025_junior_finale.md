@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2025/Junior2025RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yaW5s2uqbSzbhTrfez8BLdVGZTxAKedo/view)
 
 - [[src_kangourou_2025_junior_finale__QJ1|Quesito J1]] — Numero totale di lampioni su sentiero circolare
 - [[src_kangourou_2025_junior_finale__QJ2|Quesito J2]] — Numero appezzamenti quadrati con reticolato 1172m

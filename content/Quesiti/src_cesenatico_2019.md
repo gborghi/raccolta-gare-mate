@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2019/Cesenatico2019.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
 
 - [[src_cesenatico_2019__Q01|Quesito 1]] — AD,BE,CF concorrono
 - [[src_cesenatico_2019__Q02|Quesito 2]] — se p+q^2 quadrato allora p^2+q^n non lo e'

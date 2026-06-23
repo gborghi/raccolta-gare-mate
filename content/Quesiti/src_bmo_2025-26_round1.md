@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 - [[src_bmo_2025-26_round1__Q01|Quesito 1]] — Ramp sequence: prove p^n expressible as sum of a ramp
 - [[src_bmo_2025-26_round1__Q02|Quesito 2]] — Find all real triples satisfying two symmetric equations

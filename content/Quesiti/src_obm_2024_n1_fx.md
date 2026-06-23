@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
 
 - [[src_obm_2024_n1_fx__Q01|Quesito 1]] — Special numbers: digit-sum supera condition, find smallest exceeding 2024
 - [[src_obm_2024_n1_fx__Q02|Quesito 2]] — Chess pieces (knight and rook) on 3x3 board, complete configurations

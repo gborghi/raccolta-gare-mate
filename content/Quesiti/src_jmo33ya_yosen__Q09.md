@@ -35,4 +35,4 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $2021 \cdot 2^{2021} (個 / items)$
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)

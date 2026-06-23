@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 - [[src_obm_2006_n2_f1__Q01|Quesito 1]] — Expression with powers of 2, count digits
 - [[src_obm_2006_n2_f1__Q02|Quesito 2]] — Two rectangular strips of paper overlapping, find perimeter of figure

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 - [[src_inmo_1991__Q01|Quesito 1]] — Count positive integers n with n<=1991 and n^2+3n+2 divisible by 6
 - [[src_inmo_1991__Q02|Quesito 2]] — Acute triangle with semicircles on each side: prove area sum identity

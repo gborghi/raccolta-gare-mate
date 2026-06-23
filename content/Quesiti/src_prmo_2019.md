@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 - [[src_prmo_2019__Q01|Quesito 1]] — Area removed from square to form regular octagon
 - [[src_prmo_2019__Q02|Quesito 2]] — Functional equation roots condition

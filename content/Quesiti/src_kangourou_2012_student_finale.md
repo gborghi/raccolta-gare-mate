@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/SMaggio-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
 
 - [[src_kangourou_2012_student_finale__Q01|Quesito 1]] — Sfere passanti per tre punti non allineati nello spazio
 - [[src_kangourou_2012_student_finale__Q02|Quesito 2]] — Fila di dadi con somma facce esposte uguale a 2012

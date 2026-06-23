@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 - [[src_pol_2000_r1__Q01|Quesito 1]] — Prove n divides the sum of cubes of all naturals less than n and coprime to n.
 - [[src_pol_2000_r1__Q02|Quesito 2]] — Acute triangle with angle ACB = 2 angle ABC, D on BC with 2 angle BAD = angle ABC; prove 1/BD = 1/AB + 1/AC.

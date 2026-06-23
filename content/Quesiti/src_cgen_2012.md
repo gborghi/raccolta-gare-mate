@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
 
 - [[src_cgen_2012__Q01|Quesito 1]] — Study the function f that swaps primes and exponents in a prime factorization, and the iterated sequences f^i(n).
 - [[src_cgen_2012__Q02|Quesito 2]] — For a sequence of positive reals where at least half of any initial segment is at least twice the last term, show the sequence tends to 0.

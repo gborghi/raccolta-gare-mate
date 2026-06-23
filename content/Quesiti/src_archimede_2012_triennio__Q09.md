@@ -36,7 +36,7 @@ tags:
 > dispari. Ma pq + 1 = 2 implica pq = 1 il che è impossibile. Dunque dobbiamo avere che pq è
 > pari, e quindi p deve essere pari, ed essendo primo si deve avere p = 2. Se q è dispari pq + 1
 > ammette la scomposizione:
-> (pq + 1) = (p + 1)(pq−1 −pq−2 + · · · + p2 −p + 1)
+> (pq + 1) = (p + 1)(pq−1 −pq−2 + · · + p2 −p + 1)
 > e quindi in particolare è divisibile per p + 1 e pertanto non può essere primo. Allora anche q
 > deve essere pari e quindi q = 2. L’unica possibilità è allora p = q = 2.
 
@@ -44,4 +44,4 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)

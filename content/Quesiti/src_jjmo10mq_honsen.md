@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1p8xf5NbDh83EXoQV1B0aUTwIqZMewoWT/view)
 
 - [[src_jjmo10mq_honsen__Q01|Quesito 1]] — Pentagon with square base; prove triangle inscribed in circle
 - [[src_jjmo10mq_honsen__Q02|Quesito 2]] — 7-digit multiples of 7 stable under all digit rearrangements

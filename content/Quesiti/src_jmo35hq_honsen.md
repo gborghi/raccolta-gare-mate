@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
 
 - [[src_jmo35hq_honsen__Q01|Quesito 1]] — Minimum of cyclic sum of squared differences under gap constraints
 - [[src_jmo35hq_honsen__Q02|Quesito 2]] — Circumcenters of sub-triangles with circumcenter; collinearity proof

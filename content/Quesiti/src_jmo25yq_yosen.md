@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
 
 - [[src_jmo25yq_yosen__Q01|Quesito 1]] — Count divisors of 6000 that are not perfect squares
 - [[src_jmo25yq_yosen__Q02|Quesito 2]] — Find BC given two tangents meet at P and AB parallel to CP

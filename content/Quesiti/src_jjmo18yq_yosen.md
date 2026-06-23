@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 - [[src_jjmo18yq_yosen__Q01|Quesito 1]] — Ratio AB/AC in right triangle with inscribed square and three area labels
 - [[src_jjmo18yq_yosen__Q02|Quesito 2]] — Pairs (a,b) of positive integers whose consecutive sum equals 2020, minimizing a

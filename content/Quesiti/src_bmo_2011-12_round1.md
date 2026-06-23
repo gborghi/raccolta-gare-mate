@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 - [[src_bmo_2011-12_round1__Q01|Quesito 1]] — Find all integers n such that n^2+20n+11 is a perfect square
 - [[src_bmo_2011-12_round1__Q02|Quesito 2]] — Largest t so that 1,2,...,k can be arranged with adjacent divisibility

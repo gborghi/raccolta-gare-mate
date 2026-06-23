@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
 
 - [[src_bocconi_primavera_2008__Q01|Quesito 1]] — Punti non visibili su due dadi
 - [[src_bocconi_primavera_2008__Q02|Quesito 2]] — Data precedente formata solo da cifre dispari

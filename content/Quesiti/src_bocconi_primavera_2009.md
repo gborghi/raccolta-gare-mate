@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
 
 - [[src_bocconi_primavera_2009__Q01|Quesito 1]] — Minuti per tagliare un tronco in cinque parti
 - [[src_bocconi_primavera_2009__Q02|Quesito 2]] — Triangolo italiano: colorare i nove triangolini con regole

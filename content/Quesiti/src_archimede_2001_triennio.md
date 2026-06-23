@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2001/Archimede2001/testitriennio2001.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 - [[src_archimede_2001_triennio__Q01|Quesito 1]] — Quanti interi hanno media 6 e somma 18
 - [[src_archimede_2001_triennio__Q02|Quesito 2]] — Numero di frazioni ridotte a/b in dato intervallo

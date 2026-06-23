@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
 
 - [[src_pol_1997_r3__Q01|Quesito 1]] — Recurrence with x_6=144 and x_{n+3}=x_{n+2}(x_{n+1}+x_n); find x_7.
 - [[src_pol_1997_r3__Q02|Quesito 2]] — Find all real triples (x,y,z) satisfying two symmetric polynomial equations.

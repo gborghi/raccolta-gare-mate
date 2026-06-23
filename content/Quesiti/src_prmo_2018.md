@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 - [[src_prmo_2018__Q01|Quesito 1]] — Last page number of 3-volume book, find largest prime factor
 - [[src_prmo_2018__Q02|Quesito 2]] — Incircle radius in quadrilateral ABCD, find integer closest to r

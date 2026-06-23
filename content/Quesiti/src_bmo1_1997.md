@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 - [[src_bmo1_1997__Q01|Quesito 1]] — Four-digit integers N where reversing digits gives 4N+3
 - [[src_bmo1_1997__Q02|Quesito 2]] — Determine value of a1997 in a recursively defined sequence

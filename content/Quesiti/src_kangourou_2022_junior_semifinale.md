@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Junior2022RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1q4eeCpaS_1aSTIYHi1bK45-1x3orSnEw/view)
 
 - [[src_kangourou_2022_junior_semifinale__Q01|Quesito 1]] — Cifra delle unità del prodotto finale di 2021..2029
 - [[src_kangourou_2022_junior_semifinale__Q02|Quesito 2]] — Concime supplementare prato 30 vs 25 metri di lato

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Cadet2022RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1wbo9K2jytgSW3Apd8Ui4HwgiuetWkwYM/view)
 
 - [[src_kangourou_2022_cadet_finale__QC1|Quesito C1]] — Misura dell'angolo evidenziato con tre quadrati accostati
 - [[src_kangourou_2022_cadet_finale__QC2|Quesito C2]] — Quanti ciclisti almeno hanno mentito se somma e 36

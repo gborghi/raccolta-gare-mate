@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
 
 - [[src_inmo_2000__Q01|Quesito 1]] — Incircle touch points; line PQ bisects two sides
 - [[src_inmo_2000__Q02|Quesito 2]] — Solve integer system x+y=1-z, x^3+y^3=1-z^2

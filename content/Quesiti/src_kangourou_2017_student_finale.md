@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/S-settembre17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ec2T3A705_oySNvj02ppJ76veXlI5h2r/view)
 
 - [[src_kangourou_2017_student_finale__QS1|Quesito S1]] — Cifra finale invariante sottraendo numero invertito
 - [[src_kangourou_2017_student_finale__QS2|Quesito S2]] — Sequenze consecutive con somma cifre divisibile per 7

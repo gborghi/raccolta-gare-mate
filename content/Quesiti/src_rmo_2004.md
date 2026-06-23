@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 - [[src_rmo_2004__Q01|Quesito 1]] — Unique point on perpendicular from center where PQ equals tangent length
 - [[src_rmo_2004__Q02|Quesito 2]] — Positive integers on cube faces; find all possible values of face-sum T

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Benjamin2021REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
 
 - [[src_kangourou_2021_benjamin__Q01|Quesito 1]] — Parallelepipedo componibile con sei mattoni
 - [[src_kangourou_2021_benjamin__Q02|Quesito 2]] — Quante volte si stringono due mani sinistre

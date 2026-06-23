@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
 
 - [[src_pol_1989_r3__Q01|Quesito 1]] — Even number of people at a round table change seats after lunch; show two persons are separated by the same number of persons as before.
 - [[src_pol_1989_r3__Q02|Quesito 2]] — Three pairwise tangent circles; through a chain of secant constructions prove three points are collinear.

@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 - [[src_obm_2014_n2_f1__Q01|Quesito 1]] — Which difference of two consecutive primes is impossible?
 - [[src_obm_2014_n2_f1__Q02|Quesito 2]] — Carnival cards 1–2014 painted yellow/green/black in cycle; parity claims

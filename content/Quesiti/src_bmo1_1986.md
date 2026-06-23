@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lLrqivQ3O-Z7kbBj5SWrC104ePjmgMFw/view)
 
 - [[src_bmo1_1986__Q01|Quesito 1]] — Reduce a fraction to lowest terms
 - [[src_bmo1_1986__Q02|Quesito 2]] — Circle tangency conditions; find radius in terms of r1, r2

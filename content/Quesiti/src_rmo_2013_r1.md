@@ -18,7 +18,7 @@ tags:
   - regione/r1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
 
 - [[src_rmo_2013_r1__Q01|Quesito 1]] — Acute triangle with circumcircle, find angle BAC
 - [[src_rmo_2013_r1__Q02|Quesito 2]] — Find a^2013 + b^2013 + c^2013 given polynomial root conditions

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/EMarzo-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 - [[src_kangourou_2016_ecolier_marzo__Q01|Quesito 1]] — Tra quanti giorni il cangurino avra 8 settimane
 - [[src_kangourou_2016_ecolier_marzo__Q02|Quesito 2]] — Calcolo 17+3 e 20-16 nei tasselli

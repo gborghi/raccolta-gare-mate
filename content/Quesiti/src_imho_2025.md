@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pjXhaUlYZwLGrFG-3qMO2-K-raAkyAEG/view)
 
 - [[src_imho_2025__Q01|Quesito 1]] — Count sunny lines through lattice points in the plane
 - [[src_imho_2025__Q02|Quesito 2]] — Tangent line through orthocentre in two-circle configuration

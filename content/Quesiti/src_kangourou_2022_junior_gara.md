@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Junior2022REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 - [[src_kangourou_2022_junior_gara__Q01|Quesito 1]] — Area dei tetti visibili da verniciare sull'edificio
 - [[src_kangourou_2022_junior_gara__Q02|Quesito 2]] — Lato del quadrato con perimetro uguale al triangolo

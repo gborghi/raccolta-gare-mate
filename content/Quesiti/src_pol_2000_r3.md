@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
 
 - [[src_pol_2000_r3__Q01|Quesito 1]] — Number of nonnegative real solutions of a cyclic quadratic system
 - [[src_pol_2000_r3__Q02|Quesito 2]] — Angle sum is 180 degrees in an isosceles triangle with an interior point

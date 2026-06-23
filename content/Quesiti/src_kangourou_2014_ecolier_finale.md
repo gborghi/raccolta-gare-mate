@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/EMaggio-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
 
 - [[src_kangourou_2014_ecolier_finale__Q01|Quesito 1]] — Capre da comprare perché siano metà degli animali
 - [[src_kangourou_2014_ecolier_finale__Q02|Quesito 2]] — Numero sulle facce combacianti dei due dadi

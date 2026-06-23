@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/Junior_Semif_17TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
 
 - [[src_kangourou_2017_junior_semifinale__Q01|Quesito 1]] — Angolo medio in poligono convesso di 10 lati
 - [[src_kangourou_2017_junior_semifinale__Q02|Quesito 2]] — Strada minima con ponte corto attraverso fiume

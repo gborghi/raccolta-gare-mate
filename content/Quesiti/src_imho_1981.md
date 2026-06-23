@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
 
 - [[src_imho_1981__Q01|Quesito 1]] — Foot of perpendiculars from point to triangle sides ratio
 - [[src_imho_1981__Q02|Quesito 2]] — Smallest element subset mean function identity

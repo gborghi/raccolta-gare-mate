@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
 
 - [[src_obm_2013_n2_f2__Q01|Quesito 1]] — Min integers from {1..18} so 3 consecutive are chosen
 - [[src_obm_2013_n2_f2__Q02|Quesito 2]] — Find smallest safe combination satisfying three clues

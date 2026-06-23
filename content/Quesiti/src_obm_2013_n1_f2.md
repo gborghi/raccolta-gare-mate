@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 - [[src_obm_2013_n1_f2__Q01|Quesito 1]] — Six-number sequence with equal consecutive-triple sums; find product of two blanked numbers
 - [[src_obm_2013_n1_f2__Q02|Quesito 2]] — Minimum a+b so that 28a³b and 7a⁴b³ are both perfect squares

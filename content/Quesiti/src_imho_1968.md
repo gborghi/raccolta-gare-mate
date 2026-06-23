@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 - [[src_imho_1968__Q01|Quesito 1]] — Unique triangle with consecutive integer sides, one angle double another
 - [[src_imho_1968__Q02|Quesito 2]] — Find all real x where digit product equals x^2 - 10x - 22

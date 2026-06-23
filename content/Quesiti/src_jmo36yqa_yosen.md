@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 - [[src_jmo36yqa_yosen__Q01|Quesito 1]] — Find non-negative integer triples with a^20+b^2+c^6=2026
 - [[src_jmo36yqa_yosen__Q02|Quesito 2]] — Largest positive integer n where floor(sqrt(2026n)) is not divisible by n

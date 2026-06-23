@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
 
 - [[src_bmo2_2024__Q01|Quesito 1]] — Sequence terms have three or more prime factors
 - [[src_bmo2_2024__Q02|Quesito 2]] — Functional equation on integers with 2f(f(n))=5f(n)-2n

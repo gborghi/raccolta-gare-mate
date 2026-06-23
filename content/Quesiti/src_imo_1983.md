@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1983_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
 - [[src_imo_1983__Q01|Quesito 1]] — Find all positive functions with f(xf(y))=yf(x) tending to 0
 - [[src_imo_1983__Q02|Quesito 2]] — Prove angle O1AO2 equals angle M1AM2 for two circles

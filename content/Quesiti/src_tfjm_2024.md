@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 - [[src_tfjm_2024__Q01|Quesito 1]] — Triominoes: triangular tiles bearing numbers from 1 to n on each side (then on vertices); count the tiles and find which n admit a matching configuration, a straight-line arrangement, or a full rhombus.
 - [[src_tfjm_2024__Q02|Quesito 2]] — Mathematics gatherings: seating n=tp people at t tables of p>=2 places over r meals so that two people never share a table more than once (ideal plan); also study f-uniform plans.

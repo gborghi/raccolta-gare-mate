@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ltDj5iPNeS6_Ss9WI6dkLY05-Nizkd3Z/view)
 
 - [[src_obm_2012_n2_f3__Q01|Quesito 1]] — Amoeba transformations: tube with 201 blue and 112 red amoebas
 - [[src_obm_2012_n2_f3__Q02|Quesito 2]] — Count distinct Somos sequences containing 2012

@@ -18,7 +18,7 @@ tags:
   - regione/r5
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mRBKVIA0pCiNVttsOkp2tVNwtQ-X0vyv/view)
 
 - [[src_rmo_2014_mumbai__Q01|Quesito 1]] — Determine if three positive reals satisfying a quartic relation form triangle sides
 - [[src_rmo_2014_r5__Q02|Quesito 2]] — Find positive integer values a and b given AP and GP conditions on roots

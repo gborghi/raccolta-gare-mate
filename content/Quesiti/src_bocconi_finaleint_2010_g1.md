@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 - [[src_bocconi_finaleint_2010_g1__Q01|Quesito 1]] — Numero minimo di quadratini da spostare per formare un grande quadrato.
 - [[src_bocconi_finaleint_2010_g1__Q02|Quesito 2]] — Completare i domino dell'anno in modo che caselle adiacenti riportino la stessa cifra.

@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1x_zlsRvZxzDXZDJk6xG4Qu1b2n75NpOw/view)
 
 - [[src_obm_2009_n3_f3__Q01|Quesito 1]] — 2009×2009 table; can all 4018 row/column sums be distinct perfect squares?
 - [[src_obm_2009_n3_f3__Q02|Quesito 2]] — Safe prime q=2p+1; prove q has a multiple with digit sum ≤3

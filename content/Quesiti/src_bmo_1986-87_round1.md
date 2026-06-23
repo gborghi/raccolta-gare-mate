@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
 
 - [[src_bmo_1986-87_round1__Q01|Quesito 1]] — Integer solutions of two Diophantine equations
 - [[src_bmo_1986-87_round1__Q02|Quesito 2]] — Point on side of triangle, prove angle bisector property

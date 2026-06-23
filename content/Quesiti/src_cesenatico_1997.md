@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/1997/cese97.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
 
 - [[src_cesenatico_1997__Q01|Quesito 1]] — Area minima striscia piegata 3cm
 - [[src_cesenatico_1997__Q02|Quesito 2]] — f dispari e periodica da condizioni simmetria

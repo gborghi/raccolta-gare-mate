@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
 
 - [[src_jmo13mq_honsen__Q01|Quesito 1]] — Find angle BRC in triangle ABC with equal-length conditions
 - [[src_jmo13mq_honsen__Q02|Quesito 2]] — Find all pairs of positive integers with digit and divisibility conditions

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1P9d2XUiUwFj4g4vYgMP-cLSy51RUJj9w/view)
 
 - [[src_imho_2010__Q01|Quesito 1]] — Functional equation on reals with floor function
 - [[src_imho_2010__Q02|Quesito 2]] — Incenter, circumcircle, angle condition, midpoint collinearity

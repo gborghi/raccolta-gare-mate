@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 - [[src_bmo2_1985__Q01|Quesito 1]] — Tangent lengths at chord endpoints via inscribed angle
 - [[src_bmo2_1985__Q02|Quesito 2]] — Evil positive integers and binary representation

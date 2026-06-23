@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2006/testo-biennio3.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 - [[src_archimede_2006_biennio__Q01|Quesito 1]] — Trovare a sapendo a=c/2, b=-c/3, a+b=0
 - [[src_archimede_2006_biennio__Q02|Quesito 2]] — Perimetro di una C ottenuta da una corona circolare

@@ -29,11 +29,11 @@ tags:
 
 > Let x1, x2, . . . , xn be real numbers satisfying x2
 > 1 + x2
-> 2 + · · · + x2
+> 2 + · · + x2
 > n = 1. Prove that
 > for every integer k ≥2 there are integers a1, a2, . . . , an, not all 0, such that
 > |ai| ≤k −1 for all i and
-> |a1x1 + a1x2 + · · · + anxn| ≤(k −1)√n
+> |a1x1 + a1x2 + · · + anxn| ≤(k −1)√n
 > kn −1
 > .
 > 
@@ -45,4 +45,4 @@ tags:
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)

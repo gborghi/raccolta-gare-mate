@@ -34,4 +34,4 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** secondo (Paolo inizia)
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lJat_HJPa_if1S_8tiIXnJFfuMmekK2y/view)

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 - [[src_bmo1_2011__Q01|Quesito 1]] — Find which integer was removed from 1..n given the average of the rest.
 - [[src_bmo1_2011__Q02|Quesito 2]] — A square hole is drilled through a solid cube; find integer side lengths where remaining volume equals total surface area.

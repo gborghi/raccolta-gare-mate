@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 - [[src_pol_2006_r2__Q01|Quesito 1]] — Given positive integers a,b,c and reals x,y,z with |x-a|<=1, |y-b|<=1 and a^2+b^2=c^2, x^2+y^2=z^2, prove the sets {a,b} and {x,y} coincide.
 - [[src_pol_2006_r2__Q02|Quesito 2]] — In triangle ABC with AC+BC=3AB, the incircle (center I) touches BC at D and AC at E; K, L are reflections of D, E in I. Prove A, B, K, L are concyclic.

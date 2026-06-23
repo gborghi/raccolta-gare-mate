@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 - [[src_jjmo2q__Q01|Quesito 1]] — Evaluate 103*103 minus 97*97
 - [[src_jjmo2q__Q02|Quesito 2]] — Right triangle, angle B exceeds C by 48 degrees

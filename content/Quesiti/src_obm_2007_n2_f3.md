@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
 
 - [[src_obm_2007_n2_f3__Q01|Quesito 1]] — Fill n×n grid with 1–4 so each cell has exactly one neighbor with same number
 - [[src_obm_2007_n2_f3__Q02|Quesito 2]] — Equilateral convex pentagon: two angles summing to 180° implies it tiles the plane

@@ -38,4 +38,4 @@ tags:
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.13
+**Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)

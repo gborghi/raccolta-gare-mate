@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yWPSpe4JzF1XdoCtCDrzGR7th1ybnuJR/view)
 
 - [[src_imho_2009__Q01|Quesito 1]] — Divisibility condition on sequence elements
 - [[src_imho_2009__Q02|Quesito 2]] — Circle tangent to PQ in triangle with circumcircle

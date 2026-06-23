@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
 
 - [[src_bocconi_squadre_2011__Q01|Quesito 1]] — Somma distanze da punto interno di pentagono regolare
 - [[src_bocconi_squadre_2011__Q02|Quesito 2]] — Numeri 1-8 in griglia senza consecutivi adiacenti

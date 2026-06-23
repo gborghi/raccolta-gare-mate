@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
 
 - [[src_obm_2014_n3_f3__Q01|Quesito 1]] — Convex quadrilateral with equal incircle radii implies rhombus
 - [[src_obm_2014_n3_f3__Q02|Quesito 2]] — Find all integers n>1 such that digit sum divides remainder mod n

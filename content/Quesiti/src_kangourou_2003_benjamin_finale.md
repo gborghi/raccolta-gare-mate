@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/BMaggio-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
 
 - [[src_kangourou_2003_benjamin_finale__QB1|Quesito B1]] — Primo di quattro numeri con somma 54
 - [[src_kangourou_2003_benjamin_finale__QB2|Quesito B2]] — Tempo per il giro dell'aiuola

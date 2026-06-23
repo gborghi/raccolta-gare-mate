@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2018_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
 
 - [[src_imo_2018__Q01|Quesito 1]] — DE parallela a FG (assi BD e CE)
 - [[src_imo_2018__Q02|Quesito 2]] — Interi n con successione ciclica ai·ai+1+1=ai+2

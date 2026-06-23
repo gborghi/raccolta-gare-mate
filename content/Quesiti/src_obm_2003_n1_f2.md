@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 - [[src_obm_2003_n1_f2__Q01|Quesito 1]] — How many times does digit 9 appear in 10^100 minus 2003
 - [[src_obm_2003_n1_f2__Q02|Quesito 2]] — Count integers less than 2003^2 and 2004^2 that are multiples of 100

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 - [[src_bocconi_primavera_2007__Q01|Quesito 1]] — Figurine: quante ne ha vinto ogni ragazzo?
 - [[src_bocconi_primavera_2007__Q02|Quesito 2]] — Numeri maggiori di 1720 e minori di 2300 con cubi

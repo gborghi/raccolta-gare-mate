@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 - [[src_pol_2002_r1__Q01|Quesito 1]] — Solve an absolute-value equation in the reals with even-indexed terms on the left and odd-indexed terms on the right.
 - [[src_pol_2002_r1__Q02|Quesito 2]] — Triangle with squares built outward on two sides; find all values of MN:BC where M, N are midpoints of two segments.

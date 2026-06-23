@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 - [[src_jjmo10yq_yosen__Q01|Quesito 1]] — Two people climb stairs at different rates; find possible stair counts
 - [[src_jjmo10yq_yosen__Q02|Quesito 2]] — Count palindromes at most 2012 with reversed-order equal original

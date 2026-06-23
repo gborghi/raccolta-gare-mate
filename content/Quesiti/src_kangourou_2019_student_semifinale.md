@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/Student_Semif_19TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 - [[src_kangourou_2019_student_semifinale__Q01|Quesito 1]] — Tragitto del vertice A in due rotazioni del rettangolo
 - [[src_kangourou_2019_student_semifinale__Q02|Quesito 2]] — Probabilita che un palindromo di 4 cifre sia divisibile per 7

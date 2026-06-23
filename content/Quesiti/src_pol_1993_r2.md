@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
 
 - [[src_pol_1993_r2__Q01|Quesito 1]] — Prove an inequality for positive reals x,y,u,v.
 - [[src_pol_1993_r2__Q02|Quesito 2]] — A line through external point P meets a circle at A,B; C is symmetric to A wrt OP; prove all lines m=BC share a common point.

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2021/soluzioni2021.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 - [[src_archimede_2021_2livello__Q01|Quesito 1]] — Numeri di 6 cifre palindromi divisibili per 33
 - [[src_archimede_2021_2livello__Q02|Quesito 2]] — Triangolo con AC=AM mediana, lunghezza AC

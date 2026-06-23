@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 - [[src_bmo2_1995__Q01|Quesito 1]] — Find all positive integer triples satisfying a product equal to 2
 - [[src_bmo2_1995__Q02|Quesito 2]] — Prove angle equivalence in triangle using midpoints

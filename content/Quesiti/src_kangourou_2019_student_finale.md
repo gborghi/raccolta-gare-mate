@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/S-settembre19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1D8NG3hLaa9Vf5y84c4pkt9zX69fmrpor/view)
 
 - [[src_kangourou_2019_student_finale__QS1|Quesito S1]] — Possono Bruno e Carlo avere giorno di riposo comune (programmi sportivi)
 - [[src_kangourou_2019_student_finale__QS2|Quesito S2]] — Determinare lo spigolo VD della piramide a base rettangolare

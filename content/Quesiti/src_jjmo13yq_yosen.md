@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 - [[src_jjmo13yq_yosen__Q01|Quesito 1]] — Area of shaded region of six-unit-square figure inscribed in a circle
 - [[src_jjmo13yq_yosen__Q02|Quesito 2]] — Count labelings 1,2,3,4 of ten tangent circles with adjacent labels distinct

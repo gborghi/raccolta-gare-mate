@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1988_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ybq-uT2smNXXPn3zPVTn60m5ILt7Hzss/view)
 
 - [[src_imo_1988__Q01|Quesito 1]] — Find values of BC2+CA2+AB2 and locus of BC midpoint
 - [[src_imo_1988__Q02|Quesito 2]] — when can elements be labeled 0/1 evenly

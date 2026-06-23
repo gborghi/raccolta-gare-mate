@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2014/ces14-prel.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
 
 - [[src_cesenatico_2014__Q01|Quesito 1]] — Numeri di 3 cifre con n0 (senza zeri) divisore proprio di n
 - [[src_cesenatico_2014__Q02|Quesito 2]] — dimostrare angAPM=angPBA

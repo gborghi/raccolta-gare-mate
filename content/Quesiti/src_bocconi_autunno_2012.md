@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
 
 - [[src_bocconi_autunno_2012__Q01|Quesito 1]] — Più piccolo numero intero positivo di 4 cifre pari e diverse
 - [[src_bocconi_autunno_2012__Q02|Quesito 2]] — Chi tra quattro atleti non ha detto la verità

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
 
 - [[src_imho_1984__Q01|Quesito 1]] — Prove double inequality for symmetric expression with x+y+z=1
 - [[src_imho_1984__Q02|Quesito 2]] — Find positive integers a, b with ab(a+b) not divisible by 7 but (a+b)^7−a^7−b^7 divisible by 7^7

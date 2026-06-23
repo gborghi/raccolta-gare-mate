@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 - [[src_jjmo5q__Q01|Quesito 1]] — Compute a product/sum of nine fractions
 - [[src_jjmo5q__Q02|Quesito 2]] — Quadrilateral with perpendicular diagonals; find fourth side

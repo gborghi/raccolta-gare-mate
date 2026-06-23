@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2013/PMarzo-13.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
 
 - [[src_kangourou_2013_preecolier__Q01|Quesito 1]] — Quali cifre sono state dimenticate
 - [[src_kangourou_2013_preecolier__Q02|Quesito 2]] — Libri rimasti sullo scaffale

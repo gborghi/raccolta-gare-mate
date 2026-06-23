@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
 
 - [[src_obm_2015_n2_f3__Q01|Quesito 1]] — Count representations of integers as sums of squares of naturals
 - [[src_obm_2015_n2_f3__Q02|Quesito 2]] — Convex quadrilateral with perpendiculars; concyclic points and tangent circle

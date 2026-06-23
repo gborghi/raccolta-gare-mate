@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2010/Cesenatico2010_gara_a_squadre/ITA_Bgas10.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
 
 - [[src_gas_2010_semifinale_b__Q01|Quesito 1]] — Risposta n auto-referenziale a ((n-1)(n-3)+6)/2
 - [[src_gas_2010_semifinale_b__Q02|Quesito 2]] — Lunghezza segmento bisettrice in triangolo isoscele 120 gradi

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 - [[src_bmo_1989-90_round2__Q01|Quesito 1]] — Integer-coefficient polynomial taking value 1990 at four distinct integers cannot take 1991
 - [[src_bmo_1989-90_round2__Q02|Quesito 2]] — Find positive number s such that a fractional-part sum equals 1990; are there rational solutions?

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2014/Giochi_Archimede_2014/testi_2014/testo triennio 1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 - [[src_archimede_2014_biennio__Q01|Quesito 1]] — Valore in fufignezi pagato con monete di Gnallucci
 - [[src_archimede_2014_triennio__Q02|Quesito 2]] — Natura radici di x^2+bx+c=0 con c<0

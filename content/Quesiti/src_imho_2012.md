@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WL83L88eQtGtGQEdDDGl27mN5bzY6PBu/view)
 
 - [[src_imho_2012__Q01|Quesito 1]] — Incircle tangency and midpoint on triangle bisector
 - [[src_imho_2012__Q02|Quesito 2]] — Inequality with positive reals summing to n minus 1

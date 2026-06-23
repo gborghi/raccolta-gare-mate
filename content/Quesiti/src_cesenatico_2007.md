@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2007/ces07-sol.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
 
 - [[src_cesenatico_2007__Q01|Quesito 1]] — punti con somma distanze da rette/vertici minima
 - [[src_cesenatico_2007__Q02|Quesito 2]] — p(2007)-q(2007) multiplo di 2 e di k

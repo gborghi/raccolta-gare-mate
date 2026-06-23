@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 - [[src_bmo_2004-05_round2__Q01|Quesito 1]] — Show N is a perfect square given exactly 2005 ordered pairs (x,y)
 - [[src_bmo_2004-05_round2__Q02|Quesito 2]] — Angle bisectors in 120° triangle; circle on diameter EF passes through D

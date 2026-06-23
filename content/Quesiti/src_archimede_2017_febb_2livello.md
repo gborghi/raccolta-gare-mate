@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2017/Febbraio2017.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 - [[src_archimede_2017_febb_2livello__Q01|Quesito 1]] — Somma delle facce nascoste dei 27 dadi incollati a cubo
 - [[src_archimede_2017_febb_2livello__Q02|Quesito 2]] — Chi prepara piu ravioli tra Alberto, Barbara e Ciro

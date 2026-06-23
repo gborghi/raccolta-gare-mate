@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 - [[src_bmo1_1990__Q01|Quesito 1]] — Find positive integer with leading digit 1 tripled by moving it
 - [[src_bmo1_1990__Q02|Quesito 2]] — Find max and min of ratio PC/PD on segment AB of square

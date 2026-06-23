@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
 
 - [[src_canimath_2022_automne__Q01|Quesito 1]] — Compute an arithmetic fraction with triple products
 - [[src_canimath_2022_automne__Q02|Quesito 2]] — Isosceles triangle; angle PCQ in terms of x

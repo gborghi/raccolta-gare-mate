@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
 
 - [[src_pol_2002_r3__Q01|Quesito 1]] — Find positive integers a,b with a²+1, b²+1 prime satisfying equation
 - [[src_pol_2002_r3__Q02|Quesito 2]] — Midpoint of PL, point C, and circumcenter of triangle ABC are collinear

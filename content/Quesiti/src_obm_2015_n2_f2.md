@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 - [[src_obm_2015_n2_f2__Q01|Quesito 1]] — Smallest positive integer leaving five distinct remainders when divided by 2,3,4,5,6
 - [[src_obm_2015_n2_f2__Q02|Quesito 2]] — Area of equiangular octagon with given side lengths

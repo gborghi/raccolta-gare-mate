@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 - [[src_bocconi_rosi_2011__Q01|Quesito 1]] — Costo macchine di lusso vs risparmio
 - [[src_bocconi_rosi_2011__Q02|Quesito 2]] — Contare triangoli nella figura

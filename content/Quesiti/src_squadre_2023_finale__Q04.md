@@ -39,4 +39,4 @@ tags:
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1652
-**Fonte:** apri PDF p.16
+**Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

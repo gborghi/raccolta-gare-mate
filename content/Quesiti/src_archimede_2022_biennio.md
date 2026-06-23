@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2022/archimede_biennio_2022.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
 
 - [[src_archimede_2022_biennio__Q01|Quesito 1]] — Cifra delle unita di 2023^(2022^2021)
 - [[src_archimede_2022_biennio__Q02|Quesito 2]] — In quale scatolina va la 2022-esima perlina

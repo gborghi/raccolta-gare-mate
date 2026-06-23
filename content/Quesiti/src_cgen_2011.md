@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/163UddjoW74HzYM11ncOycs88qAZ5uQV4/view)
 
 - [[src_cgen_2011__Q01|Quesito 1]] — A rectangular bar of length 7 and width a is placed diagonally inside a 6 by 5 rectangular box; find which widths a are admissible.
 - [[src_cgen_2011__Q02|Quesito 2]] — Capacity of a coin purse: largest M such that every amount from 1 to M can be paid, first without change then with change; optimize the denominations.

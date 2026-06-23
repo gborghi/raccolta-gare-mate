@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 - [[src_canimath_2019_printemps__Q01|Quesito 1]] — Floor times fractional part equals 2019x; find all x
 - [[src_canimath_2019_printemps__Q02|Quesito 2]] — Count 8-digit numbers ab2019cd divisible by 360

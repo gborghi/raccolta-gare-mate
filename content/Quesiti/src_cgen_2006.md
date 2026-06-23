@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
 
 - [[src_cgen_2006__Q01|Quesito 1]] — Iterated digit-rearrangement map f_q on the decimal digits of an integer; periodicity, fixed points and divisibility criteria
 - [[src_cgen_2006__Q02|Quesito 2]] — Hyperbola-type curve (1-x)(1-y)=a inside the unit square: nature, range of x+y and x^2+y^2, incircle/exscribed-circle radii of a triangle and an inequality involving the natural logarithm

@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
 
 - [[src_obm_1998_n3_f3__Q01|Quesito 1]] — 15 pairwise-coprime integers in (1,1998); show one is prime
 - [[src_obm_1998_n3_f3__Q02|Quesito 2]] — Triangle with D midpoint of AB, E on BC with BE=2EC, equal angles; find angle BAC

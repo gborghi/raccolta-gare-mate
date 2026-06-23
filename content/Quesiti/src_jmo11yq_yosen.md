@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 - [[src_jmo11yq_yosen__Q01|Quesito 1]] — Smallest divisor giving remainder 114
 - [[src_jmo11yq_yosen__Q02|Quesito 2]] — Side of 5 congruent squares packed in 8 by 7 rectangle

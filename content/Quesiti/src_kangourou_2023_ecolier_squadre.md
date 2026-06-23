@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2023/SQEcolier2023F1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 - [[src_kangourou_2023_ecolier_squadre__Q01|Quesito 1]] — Massimo numero senza cifra 1, prodotto cifre 40
 - [[src_kangourou_2023_ecolier_squadre__Q02|Quesito 2]] — Quanti dei primi 2022 termini sono dispari

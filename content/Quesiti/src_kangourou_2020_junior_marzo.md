@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/JMarzo-20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 - [[src_kangourou_2020_junior_marzo__Q01|Quesito 1]] — mamma della figlia della mamma della mamma
 - [[src_kangourou_2020_junior_marzo__Q02|Quesito 2]] — affermazione certa

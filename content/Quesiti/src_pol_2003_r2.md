@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
 
 - [[src_pol_2003_r2__Q01|Quesito 1]] — Existence of an integer n>2003 so that binomial coefficients a_k=C(n,k) have a divisibility property.
 - [[src_pol_2003_r2__Q02|Quesito 2]] — Cyclic quadrilateral ABCD; angle bisectors meet at P and Q; prove line PQ is perpendicular to MN where M,N are arc midpoints.

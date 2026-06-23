@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/1996/Archimede1996/testo biennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
 
 - [[src_archimede_1996_biennio__Q01|Quesito 1]] — Distanza percorsa da un ciclista a velocita costante
 - [[src_archimede_1996_biennio__Q02|Quesito 2]] — Percentuale di matematici dato un rapporto su abitanti

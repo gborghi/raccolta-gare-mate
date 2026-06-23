@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1978_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
 - [[src_imo_1978_all__Q01|Quesito 1]] — Minimize m+n with equal last three digits of 1978^m,1978^n
 - [[src_imo_1978_all__Q02|Quesito 2]] — Locus of opposite vertex Q of perpendicular rays in sphere

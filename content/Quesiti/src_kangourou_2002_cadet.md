@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2002/CMarzo-02.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
 
 - [[src_kangourou_2002_cadet__Q01|Quesito 1]] — Frazione piu grande
 - [[src_kangourou_2002_cadet__Q02|Quesito 2]] — Giri della ruota piccola

@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 - [[src_obm_2014_n1_f2__Q01|Quesito 1]] — Positive integer sequence with even/odd rule; find 2014th term
 - [[src_obm_2014_n1_f2__Q02|Quesito 2]] — Ten children in line; minimum neighbor swaps to move tallest to position of shortest

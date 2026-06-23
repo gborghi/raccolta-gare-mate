@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Cadet2022RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 - [[src_kangourou_2022_cadet_semifinale__Q01|Quesito 1]] — Quali timbri forniscono la scritta corretta
 - [[src_kangourou_2022_cadet_semifinale__Q02|Quesito 2]] — Quante volte le lancette formano angolo retto 6-12

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 - [[src_bmo2_1999__Q01|Quesito 1]] — Subsets of first n naturals with equal-sum halves
 - [[src_bmo2_1999__Q02|Quesito 2]] — Hexagon circumscribed about circle; concurrent lines through opposite vertices

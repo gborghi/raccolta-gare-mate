@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
 
 - [[src_inmo_2014__Q01|Quesito 1]] — Triangle ABC, D on BC with AB·BD=AC·CD; four points on circle implies AB=AC
 - [[src_inmo_2014__Q02|Quesito 2]] — Sum of floor(n/k) plus floor(sqrt(n)) is always even

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
 
 - [[src_pol_1968_r3__Q01|Quesito 1]] — Polynomial with integer coefficients, value ±1 at three integer points implies no integer zeros
 - [[src_pol_1968_r3__Q02|Quesito 2]] — Rearrange five or more people at round table so all gain two new neighbors

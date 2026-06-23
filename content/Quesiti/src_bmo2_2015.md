@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 - [[src_bmo2_2015__Q01|Quesito 1]] — Find the 2015th term of a sequence defined by a square-root iterative formula starting at 2014.
 - [[src_bmo2_2015__Q02|Quesito 2]] — Prove the equivalence of two parity statements about forming a school council with one pupil per class.

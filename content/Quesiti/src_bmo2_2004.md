@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 - [[src_bmo2_2004__Q01|Quesito 1]] — Circle tangent to side of equilateral triangle cuts the other two sides; prove a length identity
 - [[src_bmo2_2004__Q02|Quesito 2]] — Show there is an integer with 2004 zeros and 2004 ones in binary, divisible by 2004

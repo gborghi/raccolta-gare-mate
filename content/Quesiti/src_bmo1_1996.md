@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 - [[src_bmo1_1996__Q01|Quesito 1]] — Find four-digit perfect square pairs with one-greater digit property
 - [[src_bmo1_1996__Q02|Quesito 2]] — Compute f(1996) from a telescoping functional equation

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2018/archimede_triennio_2018.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 - [[src_archimede_2018_triennio__Q01|Quesito 1]] — Indicare la piu grande tra cinque frazioni
 - [[src_archimede_2018_biennio__Q04|Quesito 2]] — Probabilita due rosse e due nere dopo scambi di carte

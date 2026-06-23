@@ -31,7 +31,7 @@ tags:
 
 > ESERCIZIO DIMOSTRATIVO
 > Un numero di tre cifre, diverse fra loro e non nulle (diciamo abc), si dice petaloso se esiste un
-> intero n ≥1 tale che il numero cba 00 · · · 0
+> intero n ≥1 tale che il numero cba 00 · · 0
 > | {z }
 > n zeri
 > sia multiplo di abc. Il più piccolo n che rende vera
@@ -47,4 +47,4 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/1999/Cesenatico 1999.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xiVBBYZkZtqAHB0eYNM1QTJV2D_9fS-1/view)
 
 - [[src_cesenatico_1999__Q01|Quesito 1]] — Area triangolo sovrapposizione piegando lungo diagonale
 - [[src_cesenatico_1999__Q02|Quesito 2]] — Esiste solo numero finito di numeri equilibrati

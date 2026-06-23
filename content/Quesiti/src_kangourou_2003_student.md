@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/SMarzo-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 - [[src_kangourou_2003_student__Q01|Quesito 1]] — Da quante carrozze e composto il treno
 - [[src_kangourou_2003_student__Q02|Quesito 2]] — Area figura delimitata dall'elastico (3 cerchi)

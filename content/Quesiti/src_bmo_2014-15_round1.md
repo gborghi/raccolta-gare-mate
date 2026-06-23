@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 - [[src_bmo_2014-15_round1__Q01|Quesito 1]] — Order five tower-exponential numbers by size
 - [[src_bmo_2014-15_round1__Q02|Quesito 2]] — Pythagorean triple with prime; prove divisibility and perfect square

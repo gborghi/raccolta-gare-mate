@@ -36,7 +36,7 @@ tags:
 > 2
 > + x + 3
 > 3
-> + · · · + x + 2001
+> + · · + x + 2001
 > 2001
 > = 2001
 > è
@@ -50,4 +50,4 @@ tags:
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)

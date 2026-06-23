@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2013/BMarzo-13.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
 
 - [[src_kangourou_2013_benjamin__Q01|Quesito 1]] — Numero che completa l'albero delle addizioni
 - [[src_kangourou_2013_benjamin__Q02|Quesito 2]] — Quanti cubetti mancano per costruire il cubo grande

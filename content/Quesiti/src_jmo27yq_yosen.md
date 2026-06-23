@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
 
 - [[src_jmo27yq_yosen__Q01|Quesito 1]] — Area of quadrilateral with three 30-degree angles
 - [[src_jmo27yq_yosen__Q02|Quesito 2]] — Count coprime ordered factorizations a<b of 29!

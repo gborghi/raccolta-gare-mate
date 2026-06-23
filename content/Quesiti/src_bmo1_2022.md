@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 - [[src_bmo1_2022__Q01|Quesito 1]] — Three even numbers under 400 as sums of consecutive odd numbers in 6 ways
 - [[src_bmo1_2022__Q02|Quesito 2]] — Minimum games played given four cumulative win percentages exactly 30,40,50,60,70

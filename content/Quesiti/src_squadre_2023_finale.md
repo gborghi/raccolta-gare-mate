@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2023/gas2023ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 - [[src_squadre_2023_finale__Q01|Quesito 1]] — Massima minima differenza tra minions consecutivi in fila
 - [[src_squadre_2023_finale__Q02|Quesito 2]] — Frazione area esagono accessibile al centro della moneta

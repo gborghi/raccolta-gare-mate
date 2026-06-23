@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1981_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
 
 - [[src_imo_1981_all__Q01|Quesito 1]] — Minimize BC/PD+CA/PE+AB/PF for interior point P
 - [[src_imo_1981_all__Q02|Quesito 2]] — Mean of smallest elements of r-subsets equals (n+1)/(r+1)

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2021_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
 
 - [[src_imo_2021__Q01|Quesito 1]] — Un mucchio contiene due carte con somma quadrato
 - [[src_imo_2021__Q02|Quesito 2]] — Disuguaglianza somme radici |xi-xj|<=|xi+xj|

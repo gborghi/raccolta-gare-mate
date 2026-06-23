@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 - [[src_bmo2_1989__Q01|Quesito 1]] — Find smallest positive integer a for quadratic with two roots in (0,1)
 - [[src_bmo2_1989__Q02|Quesito 2]] — Count arrangements of letters where each letter is adjacent to an identical letter

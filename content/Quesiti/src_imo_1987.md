@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1987_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 - [[src_imo_1987__Q01|Quesito 1]] — Sum of k times permutations with k fixed points equals n!
 - [[src_imo_1987__Q02|Quesito 2]] — Quadrilateral AKNM and triangle ABC have equal areas

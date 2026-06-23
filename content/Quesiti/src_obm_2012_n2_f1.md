@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 - [[src_obm_2012_n2_f1__Q01|Quesito 1]] — Number of gold medals given 1:2:3 ratio and 90% medalists
 - [[src_obm_2012_n2_f1__Q02|Quesito 2]] — Self-referential: how many vowels are the correct answer

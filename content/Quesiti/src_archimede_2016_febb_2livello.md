@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2016/febbraio2016.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)
 
 - [[src_archimede_2016_febb_2livello__Q01|Quesito 1]] — Minimo numero di transazioni perche tutti paghino uguale
 - [[src_archimede_2016_febb_2livello__Q02|Quesito 2]] — Cifra delle unita di 150X con esattamente un manoscritto falso

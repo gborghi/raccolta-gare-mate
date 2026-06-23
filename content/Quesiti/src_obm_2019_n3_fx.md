@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
 
 - [[src_obm_2019_n3_fx__Q01|Quesito 1]] — Q is incenter of triangle PAB via two intersecting circles
 - [[src_obm_2019_n3_fx__Q02|Quesito 2]] — Minimum operations to mark integer n on real line starting from 0 and 1

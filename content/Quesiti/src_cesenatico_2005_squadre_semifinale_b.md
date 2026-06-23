@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2005/GASces05b.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
 
 - [[src_cesenatico_2005_squadre_semifinale_b__Q01|Quesito 1]] — Somma aree di quattro triangoli in dodecagono regolare (lato 13)
 - [[src_cesenatico_2005_squadre_semifinale_b__Q02|Quesito 2]] — Modi per andare dal centro al bordo scacchiera in n mosse

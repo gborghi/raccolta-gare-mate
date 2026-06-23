@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2006/Fgas06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 - [[src_cesenatico_2006_squadre_finale__Q01|Quesito 1]] — numero nella colonna grigia
 - [[src_cesenatico_2006_squadre_finale__Q02|Quesito 2]] — Modi di relazioni alleate/nemiche tra cinque case

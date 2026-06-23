@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
 
 - [[src_obm_2005_n1_f3__Q01|Quesito 1]] — Number of small cubes needed to form a single face of a large hollow cube
 - [[src_obm_2005_n1_f3__Q02|Quesito 2]] — Count right triangles with legs parallel to grid edges on a 5x5 board

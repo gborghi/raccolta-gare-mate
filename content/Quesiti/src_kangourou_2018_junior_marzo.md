@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/JMarzo-18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 - [[src_kangourou_2018_junior_marzo__Q01|Quesito 1]] — Sesto risultato di somme righe/colonne griglia 3x3
 - [[src_kangourou_2018_junior_marzo__Q02|Quesito 2]] — Terzo lato intero dispari di triangolo di lati 5 e 2

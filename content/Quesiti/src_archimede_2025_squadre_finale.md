@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2025/gas2025ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 - [[src_archimede_2025_squadre_finale__Q01|Quesito 1]] — Numeri pari di 3 cifre con centinaia > somma altre cifre
 - [[src_archimede_2025_squadre_finale__Q02|Quesito 2]] — Massimo spigoli percorso euleriano su icosaedro

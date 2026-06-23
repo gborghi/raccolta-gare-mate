@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 - [[src_bocconi_finaleint_2007_g2__Q01|Quesito 1]] — Numero di ordini di arrivo possibili per quattro allievi in corsa
 - [[src_bocconi_finaleint_2007_g2__Q02|Quesito 2]] — Numero di tre cifre con somma 18 e relazioni tra le cifre

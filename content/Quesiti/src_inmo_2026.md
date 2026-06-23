@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 - [[src_inmo_2026__Q01|Quesito 1]] — Determine which positive integers m occur as a perfect-square term m^2 in a floor-of-square-root recurrence sequence.
 - [[src_inmo_2026__Q02|Quesito 2]] — For f:N->N where f(k) counts the maximum multiplicity in f(1),...,f(k-1) for k>2026, prove f(n)=f(n+1) for infinitely many n.

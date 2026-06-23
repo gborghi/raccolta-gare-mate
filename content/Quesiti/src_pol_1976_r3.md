@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
 
 - [[src_pol_1976_r3__Q01|Quesito 1]] — Decide whether a product of five sines of multiples of pi/18 is rational.
 - [[src_pol_1976_r3__Q02|Quesito 2]] — Four sequences satisfy coupled recurrences; given periodicity for some k, prove the second terms vanish.

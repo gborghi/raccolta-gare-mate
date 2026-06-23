@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
 
 - [[src_pol_2006_r3__Q01|Quesito 1]] — Solve a cyclic system of five real equations relating squares to sums of two cubes.
 - [[src_pol_2006_r3__Q02|Quesito 2]] — Find all positive integers k for which 3^k + 5^k is a perfect power with exponent greater than 1.

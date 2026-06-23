@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Student2022RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 - [[src_kangourou_2022_student_semifinale__Q01|Quesito 1]] — affermazioni vere
 - [[src_kangourou_2022_student_semifinale__Q02|Quesito 2]] — stima di chi conosceva la risposta corretta

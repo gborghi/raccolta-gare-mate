@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1woBuE2HYjU-e_MK1TenDn20fm5TAalE-/view)
 
 - [[src_inmo_2016__Q01|Quesito 1]] — Isosceles triangle orthocenter on incircle, find AB/BC
 - [[src_inmo_2016__Q02|Quesito 2]] — Which conditions on positive reals imply a=b=c

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 - [[src_bmo_1976-77_round1__Q01|Quesito 1]] — Additive function vanishing on digit-3 and at 10; prove f identically 0
 - [[src_bmo_1976-77_round1__Q02|Quesito 2]] — Incircle of triangle: centre lies on midline joining midpoints of BC and AX

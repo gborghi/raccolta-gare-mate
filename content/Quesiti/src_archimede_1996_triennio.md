@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/1996/Archimede1996/testo triennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
 
 - [[src_archimede_1996_triennio__Q01|Quesito 1]] — Cifra delle unita del prodotto di 5 interi consecutivi
 - [[src_archimede_1996_triennio__Q02|Quesito 2]] — Dove il cane raggiunge la lepre date le falcate

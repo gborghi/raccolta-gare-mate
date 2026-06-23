@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
 
 - [[src_pol_1998_r2__Q01|Quesito 1]] — Prove or disprove existence of functions f,g on A_n satisfying given composition conditions
 - [[src_pol_1998_r2__Q02|Quesito 2]] — Triangle with obtuse angle C and A=2B; line through B perpendicular to BC meets AC at D; M midpoint of AB; prove angle AMC = angle BMD

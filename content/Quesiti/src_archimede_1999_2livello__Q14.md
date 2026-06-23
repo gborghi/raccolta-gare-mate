@@ -34,4 +34,4 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 28
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)

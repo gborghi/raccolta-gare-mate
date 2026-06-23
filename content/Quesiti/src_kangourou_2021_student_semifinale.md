@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Student2021RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 - [[src_kangourou_2021_student_semifinale__Q01|Quesito 1]] — una sola affermazione vera su euro di Lisa
 - [[src_kangourou_2021_student_semifinale__Q02|Quesito 2]] — 2021 come somma di cinque interi con cifre 3 e 5

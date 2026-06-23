@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 - [[src_obm_2003_n3_f3__Q01|Quesito 1]] — Smallest prime dividing x^2+5x+23 for some integer x
 - [[src_obm_2003_n3_f3__Q02|Quesito 2]] — Smallest k so k subsets cover S via signed unions

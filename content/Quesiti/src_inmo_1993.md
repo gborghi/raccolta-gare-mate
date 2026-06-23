@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 - [[src_inmo_1993__Q01|Quesito 1]] — Diagonals of cyclic quadrilateral; circumcentre and orthocentre collinear
 - [[src_inmo_1993__Q02|Quesito 2]] — Quadratic polynomial with integer values at consecutive integers

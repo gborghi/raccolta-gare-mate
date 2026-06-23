@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 - [[src_obm_2001_nu_f2__Q01|Quesito 1]] — Perpendiculars from points on a line envelop a parabola
 - [[src_obm_2001_nu_f2__Q02|Quesito 2]] — Every line through origin meets infinitely many circles centered at integer points

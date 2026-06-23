@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NxvTqHB2h85LaOtFK6TUdaJR3QiuBzRI/view)
 
 - [[src_pol_1970_r3__Q01|Quesito 1]] — Choose semicircle point to maximize sum of triangle areas
 - [[src_pol_1970_r3__Q02|Quesito 2]] — Three sequences with pairwise distinct terms have a common monotone pair

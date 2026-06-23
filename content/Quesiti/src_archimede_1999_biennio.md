@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/1999/Archimede1999/TestoBiennio1999.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 - [[src_archimede_1999_biennio__Q01|Quesito 1]] — Frazione dei non promossi rispetto alla classe
 - [[src_archimede_1999_biennio__Q02|Quesito 2]] — Valore di un prodotto in notazione scientifica

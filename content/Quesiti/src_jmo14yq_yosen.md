@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 - [[src_jmo14yq_yosen__Q01|Quesito 1]] — Boxes of 10 and 6 apples totaling 38; count box combinations.
 - [[src_jmo14yq_yosen__Q02|Quesito 2]] — Find CD in triangle ABC with point D on BC, given sides and equal angles.

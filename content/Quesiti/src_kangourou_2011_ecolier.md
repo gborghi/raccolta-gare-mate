@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2011/EMarzo-11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 - [[src_kangourou_2011_ecolier__Q01|Quesito 1]] — In che giorno scolpisce l'ultima lettera di KANGOUROU
 - [[src_kangourou_2011_ecolier__Q02|Quesito 2]] — Da quale numero era partita Elisa

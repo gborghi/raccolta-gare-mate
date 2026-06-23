@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/EMaggio-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
 
 - [[src_kangourou_2016_ecolier_finale__QE1|Quesito E1]] — Piu piccolo numero pari con tutte le dieci cifre
 - [[src_kangourou_2016_ecolier_finale__QE2|Quesito E2]] — Nome del giocatore di basket tra tre sportivi

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 - [[src_bocconi_semifinale_2011__Q01|Quesito 1]] — Completare un quadrato 4x4 con uno 0, due 1 e un 2 per riga e colonna.
 - [[src_bocconi_semifinale_2011__Q02|Quesito 2]] — Inserire 1-8 nella griglia in modo che interi consecutivi non si tocchino.

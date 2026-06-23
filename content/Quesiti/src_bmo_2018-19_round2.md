@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
 
 - [[src_bmo_2018-19_round2__Q01|Quesito 1]] — Prove triangle BPE is isosceles given perpendicular bisector conditions
 - [[src_bmo_2018-19_round2__Q02|Quesito 2]] — Find all n for which magical chess pieces can win

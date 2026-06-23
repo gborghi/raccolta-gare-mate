@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Cadet2021REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 - [[src_kangourou_2021_cadet__Q01|Quesito 1]] — Segno zodiacale con un asse di simmetria
 - [[src_kangourou_2021_cadet__Q02|Quesito 2]] — Percentuale ombreggiata di circonferenze concentriche

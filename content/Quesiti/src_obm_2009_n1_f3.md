@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
 
 - [[src_obm_2009_n1_f3__Q01|Quesito 1]] — Right triangles assembled into shapes; area, perimeter, smallest square
 - [[src_obm_2009_n1_f3__Q02|Quesito 2]] — 3×3 grid filled 1–9; colour by row max/min; optimize difference A−B

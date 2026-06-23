@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2025/archimede_2025_triennio_rec.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 - [[src_archimede_2025_triennio_rec__Q01|Quesito 1]] — Naturali < 1000 con somma cifre 4
 - [[src_archimede_2025_triennio_rec__Q02|Quesito 2]] — X+Y per somma di due decimali periodici come frazione

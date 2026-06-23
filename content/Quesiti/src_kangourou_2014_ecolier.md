@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/EMarzo-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
 
 - [[src_kangourou_2014_ecolier__Q01|Quesito 1]] — Quale pezzo ritagliato dal centro della stella
 - [[src_kangourou_2014_ecolier__Q02|Quesito 2]] — Dove inserire il 3 per ottenere il numero piu piccolo

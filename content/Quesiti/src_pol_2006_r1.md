@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 - [[src_pol_2006_r1__Q01|Quesito 1]] — Find nonnegative integers n with 2^n+105 a perfect square.
 - [[src_pol_2006_r1__Q02|Quesito 2]] — Solve sqrt[5]{x} = ceil(sqrt[5]{3x}) in nonnegative reals.

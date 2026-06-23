@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Cadet2021RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
 - [[src_kangourou_2021_cadet_finale__Q01|Quesito 1]] — Correggere 25x2=211 con +1/-1 sulle cifre
 - [[src_kangourou_2021_cadet_finale__Q02|Quesito 2]] — Stima del numero di coriandoli col metodo cattura-ricattura

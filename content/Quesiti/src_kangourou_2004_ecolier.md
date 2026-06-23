@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/EMarzo-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 - [[src_kangourou_2004_ecolier__Q01|Quesito 1]] — Somma 2001+2002+2003+2004+2005
 - [[src_kangourou_2004_ecolier__Q02|Quesito 2]] — Allungamento percorso per la deviazione

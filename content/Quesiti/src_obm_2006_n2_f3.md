@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
 
 - [[src_obm_2006_n2_f3__Q01|Quesito 1]] — Min steps to rewrite sequence 1..n in order
 - [[src_obm_2006_n2_f3__Q02|Quesito 2]] — Max collinear vertices in a 12-sided polygon

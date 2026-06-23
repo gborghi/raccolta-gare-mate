@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 - [[src_bmo_1996-97_round1__Q01|Quesito 1]] — Reverse digits of N equals 4N+3; find all four-digit N
 - [[src_bmo_1996-97_round1__Q02|Quesito 2]] — Sequence with a_{n+1} defined by digit sum; find a_{1997}

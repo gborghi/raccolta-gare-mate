@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 - [[src_bmo_1991-92_round2__Q01|Quesito 1]] — Odd prime p: unique positive integers x,y with x^2=y(y+p)
 - [[src_bmo_1991-92_round2__Q02|Quesito 2]] — Positive reals a,b,c,d: prove double inequality for six pairwise-sum fractions

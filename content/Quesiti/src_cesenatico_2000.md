@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2000/Cesenatico2000.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1m2cu1BB_orH_NN83juhxGA750WDLvpjb/view)
 
 - [[src_cesenatico_2000__Q01|Quesito 1]] — Numeri speciali con cifre 0-9 e divisibilita
 - [[src_cesenatico_2000__Q02|Quesito 2]] — Punti di tangenza e griglia su piramide quadrata

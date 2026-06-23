@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 - [[src_bmo1_2024__Q01|Quesito 1]] — Count spellings of OLYMPIADS typable by unreliable typist
 - [[src_bmo1_2024__Q02|Quesito 2]] — Sequence with recurrence implies a_0, a_1 consecutive integers

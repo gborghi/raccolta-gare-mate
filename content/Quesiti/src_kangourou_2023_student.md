@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Student2023REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
 
 - [[src_kangourou_2023_student__Q01|Quesito 1]] — Valore di una espressione numerica
 - [[src_kangourou_2023_student__Q02|Quesito 2]] — Massimo numero di 6 con 5 dadi che totalizzano 19

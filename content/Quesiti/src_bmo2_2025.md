@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
 
 - [[src_bmo2_2025__Q01|Quesito 1]] — Express 1/n as finite sum of reciprocals of distinct triangular numbers
 - [[src_bmo2_2025__Q02|Quesito 2]] — Point D on incircle tangency perpendicular bisector lies on circumcircle of AQP

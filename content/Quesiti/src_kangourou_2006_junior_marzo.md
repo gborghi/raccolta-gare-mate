@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/JMarzo-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 - [[src_kangourou_2006_junior_marzo__Q01|Quesito 1]] — Numeri di 4 cifre distinte divisibili per 2006
 - [[src_kangourou_2006_junior_marzo__Q02|Quesito 2]] — Cubetti avanzati costruendo il cubo piu grande

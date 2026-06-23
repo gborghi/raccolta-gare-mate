@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
 
 - [[src_canimath_2014_printemps__Q01|Quesito 1]] — Side of large square with inscribed square and equilateral triangles
 - [[src_canimath_2014_printemps__Q02|Quesito 2]] — Digit pairs (a,b) making four-digit number ab32 divisible by 99

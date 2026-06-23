@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
 
 - [[src_inmo_1992__Q01|Quesito 1]] — Triangle with angle bisector condition implies a^2 = b(b+c)
 - [[src_inmo_1992__Q02|Quesito 2]] — Real numbers x,y,z with sum and sum of squares conditions; show x_i in [1/2,2]

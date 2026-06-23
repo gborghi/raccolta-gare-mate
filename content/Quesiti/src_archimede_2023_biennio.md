@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2023/archimede_2023_biennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1cdaCakhnUhZtz4LlgOmVvJJRpalObqKb/view)
 
 - [[src_archimede_2023_biennio__Q01|Quesito 1]] — Probabilita stesso numero con dado a 6 e dado a 20 facce
 - [[src_archimede_2023_biennio__Q02|Quesito 2]] — Numeri di 3 cifre multipli di 4 con cifre 1,2,5,8

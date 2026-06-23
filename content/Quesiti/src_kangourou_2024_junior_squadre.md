@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2024/SQJunior2024F1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19twDyCIYYYLPZm2ICyi_V91n9zEgBbys/view)
 
 - [[src_kangourou_2024_junior_squadre__Q01|Quesito 1]] — Lunghezza tagli quadrato max da semicerchio
 - [[src_kangourou_2024_junior_squadre__Q02|Quesito 2]] — Somma coefficienti polinomio dato funzionale

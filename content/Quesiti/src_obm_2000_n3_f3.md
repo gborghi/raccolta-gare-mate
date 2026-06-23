@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
 - [[src_obm_2000_n3_f3__Q01|Quesito 1]] — Trisect angle alpha using paper-folding in three steps
 - [[src_obm_2000_n3_f3__Q02|Quesito 2]] — Prove sigma(n)=2n-1 iff n is a quasi-perfect number

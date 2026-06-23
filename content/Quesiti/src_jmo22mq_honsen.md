@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SJ0WulkahJ1owyeufg6sr3eDO1pnnUeb/view)
 
 - [[src_jmo22mq_honsen__Q01|Quesito 1]] — Tangent at A meets BC at P; show QR perpendicular to BC
 - [[src_jmo22mq_honsen__Q02|Quesito 2]] — Find all real functions satisfying a functional equation

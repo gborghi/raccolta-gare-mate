@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2023/cesenatico2023.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1K2tSI9y0Z1EOzNjwEfT72n8wgtnVThOH/view)
 
 - [[src_cesenatico_2023__Q01|Quesito 1]] — a e' potenza di 54
 - [[src_cesenatico_2023__Q02|Quesito 2]] — stabilita e minimo k

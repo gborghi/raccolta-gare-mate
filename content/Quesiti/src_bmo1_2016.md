@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 - [[src_bmo1_2016__Q01|Quesito 1]] — Count days Anna can distribute her books equally across all her shelves.
 - [[src_bmo1_2016__Q02|Quesito 2]] — Cyclic quadrilateral; tangent to a circle meets a line; prove a triangle is isosceles.

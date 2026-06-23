@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 - [[src_obm_2003_n3_f1__Q01|Quesito 1]] — Find sqrt(AB) where 19AB is a perfect square, A,B digits
 - [[src_obm_2003_n3_f1__Q02|Quesito 2]] — Find 2003rd term of oscillating sequence 1,2,3,4,5,4,3,2,1,2,...

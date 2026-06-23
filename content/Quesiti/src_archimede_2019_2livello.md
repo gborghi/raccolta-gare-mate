@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2019/soluzioni2019.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 - [[src_archimede_2019_2livello__Q01|Quesito 1]] — Triangolo isoscele, bisettrice e cerchio per punto medio
 - [[src_archimede_2019_2livello__Q02|Quesito 2]] — Numeri con 4 divisori e somma divisori 42

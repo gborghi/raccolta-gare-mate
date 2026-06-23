@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
 
 - [[src_inmo_2002__Q01|Quesito 1]] — Convex hexagon with opposite sides conditions implies cyclic
 - [[src_inmo_2002__Q02|Quesito 2]] — Least positive value of $a^3+b^3+c^3-3abc$ over positive integers

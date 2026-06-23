@@ -18,7 +18,7 @@ tags:
   - regione/r2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 - [[src_rmo_2016_r2__Q01|Quesito 1]] — Incenter perpendicular line meets AC at E; prove IE=IF
 - [[src_rmo_2016_r2__Q02|Quesito 2]] — Prove abc ≤ 1/8 given cyclic sum equals 1 with positive reals

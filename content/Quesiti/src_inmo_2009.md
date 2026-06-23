@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
 
 - [[src_inmo_2009__Q01|Quesito 1]] — Collinearity of interior point and midpoints given BP=2PM
 - [[src_inmo_2009__Q02|Quesito 2]] — Sequence of 0/1 by parity of divisor count; rational or irrational?

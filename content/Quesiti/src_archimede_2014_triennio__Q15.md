@@ -29,7 +29,7 @@ tags:
 *Valore di n perche polinomio abbia soluzione intera*
 
 > Il numero intero positivo n è tale che il polinomio
-> 1 −2x + 3x2 −4x3 + 5x4 −· · · −2014x2013 + nx2014
+> 1 −2x + 3x2 −4x3 + 5x4 −· · −2014x2013 + nx2014
 > abbia almeno una soluzione intera. Quanto vale n?
 > (A) 1, (B) 2, (C) 2014, (D) 2015, (E) nessuna delle precedenti.
 
@@ -37,4 +37,4 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)

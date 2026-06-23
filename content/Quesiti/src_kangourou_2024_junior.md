@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Junior2024REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 - [[src_kangourou_2024_junior__Q01|Quesito 1]] — Valore di una frazione numerica
 - [[src_kangourou_2024_junior__Q02|Quesito 2]] — Chi vince la gara di salto (rapporto altezza saltata/propria)

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Ecolier2023REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
 
 - [[src_kangourou_2023_ecolier__Q01|Quesito 1]] — quale si è spenta per prima
 - [[src_kangourou_2023_ecolier__Q02|Quesito 2]] — fra quanti anni

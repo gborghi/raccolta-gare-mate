@@ -31,8 +31,8 @@ tags:
 *Stima di un prodotto di frazioni pari su dispari*
 
 > Sia
-> x = 2 · 4 · 6 · · · 2004 · 2006
-> 1 · 3 · 5 · · · 2003 · 2005 .
+> x = 2 · 4 · 6 · · 2004 · 2006
+> 1 · 3 · 5 · · 2003 · 2005 .
 > Allora:
 >
 > - **(A)** x < 4√ 2006,
@@ -46,4 +46,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)

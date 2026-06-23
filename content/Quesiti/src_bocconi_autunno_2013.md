@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 - [[src_bocconi_autunno_2013__Q01|Quesito 1]] — Torre di cubi: quanti cubi al quarto giorno?
 - [[src_bocconi_autunno_2013__Q02|Quesito 2]] — Sostituzione cifre: trovare BA dall'addizione.

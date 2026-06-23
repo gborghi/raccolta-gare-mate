@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2018/SQ-A-18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 - [[src_kangourou_2018_squadre_a__Q01|Quesito 1]] — Interi 1-2018 multipli sia di 20 sia di 14
 - [[src_kangourou_2018_squadre_a__Q02|Quesito 2]] — Lunghezza del treno da due gallerie e tempi

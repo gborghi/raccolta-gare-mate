@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Ecolier2021RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 - [[src_kangourou_2021_ecolier_finale__Q01|Quesito 1]] — Numeri di 2 cifre con una pari e una dispari
 - [[src_kangourou_2021_ecolier_finale__Q02|Quesito 2]] — Tra quanti giorni si allenano di nuovo insieme

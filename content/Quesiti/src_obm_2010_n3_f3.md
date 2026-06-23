@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
 
 - [[src_obm_2010_n3_f3__Q01|Quesito 1]] — Find all real functions satisfying f(a+b)=f(ab) for irrational a,b
 - [[src_obm_2010_n3_f3__Q02|Quesito 2]] — Polynomial with real coefficients: find n,k with k having n digits and more than P(n) divisors

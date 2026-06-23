@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2010/SQ-F-10.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 - [[src_kangourou_2010_squadre_finale__Q01|Quesito 1]] — Distanza casa-scuola da differenze di velocita
 - [[src_kangourou_2010_squadre_finale__Q02|Quesito 2]] — Septine intere con 2a^2+b^2+...+g^2=9

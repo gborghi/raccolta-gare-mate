@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19gUg0d7Qibr0kGJUI3KJ3ROO0zY1aY2P/view)
 
 - [[src_imho_2013__Q01|Quesito 1]] — Prove positive integer expansion product identity
 - [[src_imho_2013__Q02|Quesito 2]] — Colombian configuration of 4027 points; find least k lines

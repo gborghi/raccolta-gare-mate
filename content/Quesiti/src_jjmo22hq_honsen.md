@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
 
 - [[src_jjmo22hq_honsen__Q01|Quesito 1]] — Inequality for positive reals satisfying a ratio condition
 - [[src_jjmo22hq_honsen__Q02|Quesito 2]] — Reflection of midpoint over line DN lies inside triangle, AM' perp BC

@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nXOkuveTEgG-AREkbRruZntjlbpxTLWP/view)
 
 - [[src_obm_2002_n2_f3__Q01|Quesito 1]] — Area of triangle obtained by reflecting each vertex of a right triangle across the opposite side
 - [[src_obm_2002_n2_f3__Q02|Quesito 2]] — Among eighteen consecutive three-digit integers one is divisible by its digit sum

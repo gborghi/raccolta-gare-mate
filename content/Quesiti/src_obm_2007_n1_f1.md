@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 - [[src_obm_2007_n1_f1__Q01|Quesito 1]] — Pattern in products of 101 by repunits; digit sum for 2007 ones
 - [[src_obm_2007_n1_f1__Q02|Quesito 2]] — Count three-digit positive integers whose digit sum equals 4

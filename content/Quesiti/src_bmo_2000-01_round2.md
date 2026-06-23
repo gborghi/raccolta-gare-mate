@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 - [[src_bmo_2000-01_round2__Q01|Quesito 1]] — Marble-passing game; find ratio p/q in terms of n
 - [[src_bmo_2000-01_round2__Q02|Quesito 2]] — Find all integer pairs satisfying a Diophantine equation

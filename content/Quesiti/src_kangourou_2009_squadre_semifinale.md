@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2009/SQ-A-09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 - [[src_kangourou_2009_squadre_semifinale__Q01|Quesito 1]] — Esiti distinti lanciando 6 rosse e 5 verdi in scatola
 - [[src_kangourou_2009_squadre_semifinale__Q02|Quesito 2]] — Percentuale di quadrati perfetti da 1 a 10000

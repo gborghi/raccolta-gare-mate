@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2022/soluzioni2022-1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 - [[src_archimede_2022_2livello__Q01|Quesito 1]] — Parcheggio per minimizzare cammino, insieme punti
 - [[src_archimede_2022_2livello__Q02|Quesito 2]] — Somma prime 2022 cifre di 57/111

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2026/semifinale_CD_2026_testi_soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 - [[src_squadre_2026_semifinale_cd__Q01|Quesito 1]] — Base B in cui 41 e divisibile per 14
 - [[src_squadre_2026_semifinale_cd__Q02|Quesito 2]] — Probabilita che ab+bcd+d2 estratto sia dispari

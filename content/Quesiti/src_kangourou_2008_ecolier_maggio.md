@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/EMaggio-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
 
 - [[src_kangourou_2008_ecolier_maggio__QE1|Quesito E1]] — Quanto tempo fa le stesse 4 cifre sull'orologio
 - [[src_kangourou_2008_ecolier_maggio__QE2|Quesito E2]] — Eliminare due caselle per uguaglianza vera

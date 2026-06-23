@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2013/Febbraio 2013.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 - [[src_archimede_2013_febb_2livello__Q01|Quesito 1]] — Probabilita di almeno una risposta giusta su 11 domande
 - [[src_archimede_2013_febb_2livello__Q02|Quesito 2]] — Cavalieri e furfanti, quanti cavalieri dato totale di Si

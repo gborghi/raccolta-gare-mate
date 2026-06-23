@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 - [[src_bmo_2015-16_round1__Q01|Quesito 1]] — Anna buys books and shelves; count dates where books is multiple of shelves.
 - [[src_bmo_2015-16_round1__Q02|Quesito 2]] — Cyclic quadrilateral; tangent at D meets line CB; prove triangle DEF isosceles.

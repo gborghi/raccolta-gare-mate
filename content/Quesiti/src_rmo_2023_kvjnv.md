@@ -18,7 +18,7 @@ tags:
   - regione/kvjnv
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1O-mEwq-hxsjqhreSHfn8FWGxy_mcCOEX/view)
 
 - [[src_rmo_2023_kvjnv__Q01|Quesito 1]] — Triangle ABC with angle ACB=120°, bisector meets sides, prove KLN equilateral
 - [[src_rmo_2023_kvjnv__Q02|Quesito 2]] — Prime p with 2p equal to sum of squares of four consecutive positives, prove p-7 divisible by 36

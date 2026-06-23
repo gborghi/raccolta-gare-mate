@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 - [[src_bocconi_finalenaz_2008__Q01|Quesito 1]] — Contare le biglie che appartengono a due qualsiasi delle tre figure ma non a tutte e tre.
 - [[src_bocconi_finalenaz_2008__Q02|Quesito 2]] — Trovare dopo quanti secondi tre suoni periodici (ogni 2, 3, 4 s) ricapitano insieme.

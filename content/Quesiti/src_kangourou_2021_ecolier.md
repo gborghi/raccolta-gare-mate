@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Ecolier2021REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 - [[src_kangourou_2021_ecolier__Q01|Quesito 1]] — Cubo componibile con 4 mattoni identici
 - [[src_kangourou_2021_ecolier__Q02|Quesito 2]] — Pesci col muso verso l'anello tendendo la fune

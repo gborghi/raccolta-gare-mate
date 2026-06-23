@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
 
 - [[src_obm_2001_n3_f2__Q01|Quesito 1]] — Smallest positive integer that is double a cube and quintuple a square
 - [[src_obm_2001_n3_f2__Q02|Quesito 2]] — Rectangle divided into 9 squares; find side of square I given side of A is 1

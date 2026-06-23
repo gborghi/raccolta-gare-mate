@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 - [[src_bmo_2003-04_round2__Q01|Quesito 1]] — Circle tangent to side of equilateral triangle; prove length equality
 - [[src_bmo_2003-04_round2__Q02|Quesito 2]] — Find integer with 2004 zeros and 2004 ones in binary, divisible by 2004

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 - [[src_oprem_2026__Q01|Quesito 1]] — Exercise 1, Q1: love-graph logic on who loves whom
 - [[src_oprem_2026__Q02|Quesito 2]] — Exercise 1, Q2: age trick, person can make himself younger

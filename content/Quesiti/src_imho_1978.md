@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
 - [[src_imho_1978__Q01|Quesito 1]] — Find m,n with equal last three digits of 78^m and 78^n
 - [[src_imho_1978__Q02|Quesito 2]] — Three mutually perpendicular rays from point P on a sphere

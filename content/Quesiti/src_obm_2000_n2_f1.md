@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 - [[src_obm_2000_n2_f1__Q01|Quesito 1]] — Count positive integers less than 1,000,000 whose perfect cube ends in digit 1
 - [[src_obm_2000_n2_f1__Q02|Quesito 2]] — Number of palm-heart cans fitting in a wooden crate

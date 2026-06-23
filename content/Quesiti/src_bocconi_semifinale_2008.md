@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
 
 - [[src_bocconi_semifinale_2008__Q01|Quesito 1]] — Quadrati contabili in un disegno a griglia
 - [[src_bocconi_semifinale_2008__Q02|Quesito 2]] — Indovinare un numero da confronti disordinati

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 - [[src_bmo1_1993__Q01|Quesito 1]] — Find six-digit integer with properties on digits and squares
 - [[src_bmo1_1993__Q02|Quesito 2]] — Square paper cut into two pairs of congruent triangles, find shortest segment dividing triangle

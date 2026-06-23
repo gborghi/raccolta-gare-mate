@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
 - [[src_obm_2007_n3_f2__Q01|Quesito 1]] — Count the divisors less than 2007 of the largest divisor of 123456 below 2007
 - [[src_obm_2007_n3_f2__Q02|Quesito 2]] — Geometric probability that a random point on a segment lies within distance 5/3 of the origin

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2007/Pubblico.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 - [[src_cesenatico_2007_squadre_pubblico__Q01|Quesito 1]] — Valore di x che massimizza lunghezza successione a_n=a_(n-2)-a_(n-1)
 - [[src_cesenatico_2007_squadre_pubblico__Q02|Quesito 2]] — Massima somma raggi di due cerchi tangenti in rettangolo

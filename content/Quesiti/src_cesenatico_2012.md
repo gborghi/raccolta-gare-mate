@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2012/Cesenatico2012.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
 
 - [[src_cesenatico_2012__Q01|Quesito 1]] — 1/x=1/AB+1/AC
 - [[src_cesenatico_2012__Q02|Quesito 2]] — Interi uguali a 300 volte la somma delle proprie cifre

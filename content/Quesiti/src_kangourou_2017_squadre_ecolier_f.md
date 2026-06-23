@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2017/SQE-F-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 - [[src_kangourou_2017_squadre_ecolier_f__Q01|Quesito 1]] — Prodotto di due pagine consecutive con somma 37
 - [[src_kangourou_2017_squadre_ecolier_f__Q02|Quesito 2]] — Differenza tra il piu grande e piu piccolo numero dolce

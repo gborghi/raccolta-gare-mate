@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 - [[src_obm_2010_n3_f1__Q01|Quesito 1]] — Divide a power tower by 4 to a power.
 - [[src_obm_2010_n3_f1__Q02|Quesito 2]] — Which of the given numbers divides a product of powers.

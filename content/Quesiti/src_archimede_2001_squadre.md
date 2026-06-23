@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2001/GaraSquadre.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
 
 - [[src_archimede_2001_squadre__Q01|Quesito 1]] — cerchi e quadrati inscritti, raggio oltre 2001
 - [[src_archimede_2001_squadre__Q02|Quesito 2]] — Posizione del pianeta (24,25) nella numerazione a coppie

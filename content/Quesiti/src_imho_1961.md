@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1961_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19oKHAdph4sJuaxtpEyXIRuF3vBNV2I4p/view)
 
 - [[src_imho_1961__Q01|Quesito 1]] — Sistema x+y+z=a, x^2+y^2+z^2=b^2, xy=z^2 con condizioni
 - [[src_imho_1961__Q02|Quesito 2]] — Provare a^2+b^2+c^2 >= 4 sqrt3 T (disuguaglianza di Weitzenbock)

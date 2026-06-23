@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2005/JMaggio-05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DN9SkcNnbA6zI_cH2lP8x9OGdjtWTlV1/view)
 
 - [[src_kangourou_2005_junior_finale__QJ1|Quesito J1]] — Minimo lacci comprati da Silvia
 - [[src_kangourou_2005_junior_finale__QJ2|Quesito J2]] — B+I+N+O nella moltiplicazione UN x 6 = BIO

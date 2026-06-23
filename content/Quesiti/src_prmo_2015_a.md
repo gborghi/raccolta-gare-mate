@@ -18,7 +18,7 @@ tags:
   - regione/a
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 - [[src_prmo_2015_a__Q01|Quesito 1]] — Man walks and rides back; find hours to walk both ways
 - [[src_prmo_2015_a__Q02|Quesito 2]] — Find $a^2+b^2$ given $a+b=a/b+b/a$ for positive integers

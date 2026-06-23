@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/132UNd9VdEb-Dva1Pf5U1Z0Wc_DnRuIHu/view)
 
 - [[src_jmo26mq_honsen__Q01|Quesito 1]] — Sum of counts of divisors of kp+1 in [k,p) over k=1..p-1
 - [[src_jmo26mq_honsen__Q02|Quesito 2]] — Cyclic quadrilateral: angle bisectors, midpoints, parallel line

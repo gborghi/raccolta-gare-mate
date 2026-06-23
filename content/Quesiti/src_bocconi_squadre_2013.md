@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 - [[src_bocconi_squadre_2013__Q01|Quesito 1]] — Tempo minimo perché tre amiche si incontrino
 - [[src_bocconi_squadre_2013__Q02|Quesito 2]] — Media della velocità dell'aereo nei due terzi restanti

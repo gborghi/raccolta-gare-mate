@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
 
 - [[src_rmo_2003__Q01|Quesito 1]] — Triangle with AB=AC, right angle at A; prove angle MAN=45°
 - [[src_rmo_2003__Q02|Quesito 2]] — Prove C(n,7) minus floor(n/7) divisible by 7 for n>7

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1985_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
 
 - [[src_imo_1985__Q01|Quesito 1]] — AD+BC=AB
 - [[src_imo_1985__Q02|Quesito 2]] — Two-colored set with coprime conditions all same color

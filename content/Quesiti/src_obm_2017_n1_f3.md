@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
 
 - [[src_obm_2017_n1_f3__Q01|Quesito 1]] — Car race: positions table after lap 17, recover starting grid, and determine the podium from lap times
 - [[src_obm_2017_n1_f3__Q02|Quesito 2]] — Count the ways to build a 27 cm^3 and a 64 cm^3 cube from cubes of side 1, 2, 3 cm

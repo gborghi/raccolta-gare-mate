@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 - [[src_obm_1999_n3_f1__Q01|Quesito 1]] — Truck capacity: bricks given sand sacks count
 - [[src_obm_1999_n3_f1__Q02|Quesito 2]] — Hotel guests: maximum eating none of three meats

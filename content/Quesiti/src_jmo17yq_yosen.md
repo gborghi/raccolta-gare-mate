@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 - [[src_jmo17yq_yosen__Q01|Quesito 1]] — Area of convex quadrilateral with one right angle and given side lengths
 - [[src_jmo17yq_yosen__Q02|Quesito 2]] — Units digit of a power tower 11^(12^13)

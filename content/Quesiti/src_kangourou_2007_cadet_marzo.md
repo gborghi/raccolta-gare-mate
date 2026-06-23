@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/CMarzo-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 - [[src_kangourou_2007_cadet_marzo__Q01|Quesito 1]] — Valore espressione 4x4+4+4+4+4+4x4
 - [[src_kangourou_2007_cadet_marzo__Q02|Quesito 2]] — Fra quanti anni Billy avra 10 (eta)

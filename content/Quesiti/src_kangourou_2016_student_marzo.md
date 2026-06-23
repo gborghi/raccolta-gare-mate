@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/SMarzo-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 - [[src_kangourou_2016_student_marzo__Q01|Quesito 1]] — Eta della piu vecchia date tre somme a coppie
 - [[src_kangourou_2016_student_marzo__Q02|Quesito 2]] — Valore della somma 1/10+1/100+1/1000

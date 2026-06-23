@@ -52,7 +52,7 @@ tags:
 > 3
 > 9
 > 2!
-> −···+
+> −··+
 >  
 > 9
 > 9 −
@@ -74,4 +74,4 @@ tags:
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0091
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)

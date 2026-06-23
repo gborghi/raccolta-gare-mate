@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/JMarzo-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
 
 - [[src_kangourou_2015_marzo_junior__Q01|Quesito 1]] — quale risultato
 - [[src_kangourou_2015_marzo_junior__Q02|Quesito 2]] — quanti fazzoletti

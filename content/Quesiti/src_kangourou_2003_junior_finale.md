@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/JMaggio-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DYCQm1nF2PohR5Hfzk5zl6q-PHPzDsMy/view)
 
 - [[src_kangourou_2003_junior_finale__QJ1|Quesito J1]] — Quali parole denotano tre interi consecutivi
 - [[src_kangourou_2003_junior_finale__QJ2|Quesito J2]] — Minima differenza tra numeri detti contemporaneamente

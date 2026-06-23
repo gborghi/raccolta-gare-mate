@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2025/Student2025RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
 
 - [[src_kangourou_2025_student_finale__QS1|Quesito S1]] — Intervalli razionali inscatolati con intersezione vuota
 - [[src_kangourou_2025_student_finale__QS2|Quesito S2]] — In quanti modi 270 come somma interi consecutivi

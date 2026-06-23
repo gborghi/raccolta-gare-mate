@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
 
 - [[src_obm_1999_n2_f2__Q01|Quesito 1]] — Three consecutive months in a non-leap year each with exactly four Sundays; prove one of them is February.
 - [[src_obm_1999_n2_f2__Q02|Quesito 2]] — Three integers on a board; each move erases two and writes their sum minus one; can starting from 2,2,2 or 3,3,3 yield 17,75,91?

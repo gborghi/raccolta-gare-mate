@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 - [[src_obm_2015_n2_f1__Q01|Quesito 1]] — Order of cars arriving in a race from clues
 - [[src_obm_2015_n2_f1__Q02|Quesito 2]] — How many years this century have digit-mean equal to 2

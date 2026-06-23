@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2013/GaraASquadre_Cesenatico_2013.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 - [[src_cesenatico_2013_finale__Q01|Quesito 1]] — Somma 10 aree di intersezioni triangoli (p+q)
 - [[src_cesenatico_2013_finale__Q02|Quesito 2]] — Raggio cerchio nella serratura (area = r*perim/2)

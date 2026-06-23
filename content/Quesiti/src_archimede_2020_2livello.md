@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2020/soluzioni2020.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 - [[src_archimede_2020_2livello__Q01|Quesito 1]] — Foglio 'contemporaneo' tagliato in 2020 parti simili
 - [[src_archimede_2020_2livello__Q02|Quesito 2]] — Gioco alla lavagna, affermazione sempre vera

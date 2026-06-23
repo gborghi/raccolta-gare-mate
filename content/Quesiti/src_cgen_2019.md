@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1K8ucW3mLigvc0hWdO6997kun_qEZQEkB/view)
 
 - [[src_cgen_2019__Q01|Quesito 1]] — Remarkable families of functions on [0,+inf): show the set of polynomial functions is contained in / characterized by sets closed under sum, composition, difference and product (properties P1-P6).
 - [[src_cgen_2019__Q02|Quesito 2]] — Jovial numbers: integers p that admit a strictly increasing sequence of integers >=2 ending at p whose reciprocals sum to 1; examples, two integer sequences, and an optimal upper bound for jovial numbers of fixed order proved by induction.

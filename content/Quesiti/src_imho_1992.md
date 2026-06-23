@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 - [[src_imho_1992__Q01|Quesito 1]] — Find integers a,b,c with divisibility condition
 - [[src_imho_1992__Q02|Quesito 2]] — Find all functions satisfying a functional equation

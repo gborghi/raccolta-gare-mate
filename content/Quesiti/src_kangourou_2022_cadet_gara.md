@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Cadet2022REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
 
 - [[src_kangourou_2022_cadet_gara__Q01|Quesito 1]] — Massima somma delle cifre di un orologio digitale 24h
 - [[src_kangourou_2022_cadet_gara__Q02|Quesito 2]] — Su quale numero atterra il canguro che salta a schema

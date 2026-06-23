@@ -41,4 +41,4 @@ tags:
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1683
-**Fonte:** apri PDF p.24
+**Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)

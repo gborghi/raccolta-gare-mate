@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Student2023RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
 - [[src_kangourou_2023_student_semifinale__Q01|Quesito 1]] — Quanti interi <40 con somma dei quadrati delle cifre quadrato perfetto
 - [[src_kangourou_2023_student_semifinale__Q02|Quesito 2]] — tentativi massimi noti i vincoli

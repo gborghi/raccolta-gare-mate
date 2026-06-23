@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
 
 - [[src_pol_1981_r3__Q01|Quesito 1]] — Two intersecting lines lie in orthogonal planes; prove existence of a circle whose points all lie on the line of intersection of such plane pairs.
 - [[src_pol_1981_r3__Q02|Quesito 2]] — In triangle ABC the perpendicular bisectors of AB and AC meet BC at X and Y; prove BC=XY iff tan B tan C = 3 or = -1.

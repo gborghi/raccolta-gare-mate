@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2018/archimede_biennio_2018.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 - [[src_archimede_2018_biennio__Q01|Quesito 1]] — Indicare la piu piccola tra cinque frazioni n+1/n
 - [[src_archimede_2018_biennio__Q02|Quesito 2]] — Numero esprimibile come somma di quadrati di due multipli di 3

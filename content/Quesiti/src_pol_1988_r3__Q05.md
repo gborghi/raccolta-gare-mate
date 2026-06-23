@@ -44,4 +44,4 @@ tags:
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)

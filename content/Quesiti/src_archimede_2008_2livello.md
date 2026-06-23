@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2008/febb08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 - [[src_archimede_2008_2livello__Q01|Quesito 1]] — Combinazioni di cassaforte a 5 cifre con vincoli di parità
 - [[src_archimede_2008_2livello__Q02|Quesito 2]] — Differenza caselle nere e bianche nel So-poko di lato 203

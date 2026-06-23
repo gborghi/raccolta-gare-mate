@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2009/testo-biennio2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 - [[src_archimede_2009_biennio__Q01|Quesito 1]] — Divisore di 3^5*4^4*5^3 tra opzioni date
 - [[src_archimede_2009_biennio__Q02|Quesito 2]] — Giri ruota posteriore data ruota anteriore e raggi

@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 - [[src_obm_2010_n3_f2__Q01|Quesito 1]] — Smallest N whose product by 3 has all digits 7; find digit sum of N
 - [[src_obm_2010_n3_f2__Q02|Quesito 2]] — Integer quadratic with parameters r,s; count possible values of |r-s|

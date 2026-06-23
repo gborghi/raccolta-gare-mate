@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
 
 - [[src_bocconi_autunno_2015__Q01|Quesito 1]] — Quattro frecce: trovare i quattro punteggi
 - [[src_bocconi_autunno_2015__Q02|Quesito 2]] — Somma punti su facce opposte di due dadi

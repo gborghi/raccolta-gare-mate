@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
 
 - [[src_inmo_2023__Q01|Quesito 1]] — Finite set with 2023 square-product pairs; find 4 elements with no square pairwise product
 - [[src_inmo_2023__Q02|Quesito 2]] — 101 cyclic polynomials in positive reals; show not all can have all real roots

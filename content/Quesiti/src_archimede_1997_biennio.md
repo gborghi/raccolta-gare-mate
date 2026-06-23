@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/1997/Archimede1997/testo biennio1997.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
 
 - [[src_archimede_1997_biennio__Q01|Quesito 1]] — Numero massimo di alberi su due lati di un viale
 - [[src_archimede_1997_biennio__Q02|Quesito 2]] — Prossimo numero con tre cifre uguali sul contachilometri

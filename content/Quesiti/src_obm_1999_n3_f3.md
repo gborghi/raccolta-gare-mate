@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 - [[src_obm_1999_n3_f3__Q01|Quesito 1]] — Area of quadrilateral in regular pentagram with area 1
 - [[src_obm_1999_n3_f3__Q02|Quesito 2]] — Prove nonzero decimal digit of sqrt(2) in given range

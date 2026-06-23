@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
 - [[src_obm_2003_n2_f1__Q01|Quesito 1]] — Rectangle divided into 7 squares, smallest area 1, find rectangle area
 - [[src_obm_2003_n2_f1__Q02|Quesito 2]] — Minimum number of 6cm and 7cm sticks to make 2m total length

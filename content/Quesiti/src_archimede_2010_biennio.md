@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2010/GiochiArchimede2010.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 - [[src_archimede_2010_biennio__Q01|Quesito 1]] — Massimo lunedi in 45 giorni consecutivi
 - [[src_archimede_2010_biennio__Q02|Quesito 2]] — Minimo calzini per due dello stesso colore

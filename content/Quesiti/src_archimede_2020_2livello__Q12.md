@@ -31,9 +31,9 @@ tags:
 *Massima potenza di 5 che divide combinazione coefficienti*
 
 > Dato il polinomio
-> (x2 + 5x −19)50 = a0 + a1x + a2x2 + · · · + a100x100,
+> (x2 + 5x −19)50 = a0 + a1x + a2x2 + · · + a100x100,
 > si consideri la quantità
-> M = a0 −a1 + 4a2 −9a3 + 16a4 −81a5 + 64a6 −729a7 + · · · + 298a98 −398a99 + 2100a100,
+> M = a0 −a1 + 4a2 −9a3 + 16a4 −81a5 + 64a6 −729a7 + · · + 298a98 −398a99 + 2100a100,
 > in cui il coefficiente di a2k è 22k e il coefficiente di a2k+1 è −32k. Qual è la massima potenza di
 > 5 che divide M?
 >
@@ -48,4 +48,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
-**Fonte:** apri PDF p.4
+**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)

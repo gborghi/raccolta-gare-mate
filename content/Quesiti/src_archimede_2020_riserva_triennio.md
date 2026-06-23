@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2020/Archimede2020/archimede_riserva_triennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oJMUKhCeVFFbkLLL48V2VZrR6ye_9VCN/view)
 
 - [[src_archimede_2020_riserva_triennio__Q01|Quesito 1]] — Modi di comprare tre capi tutti di tipo diverso
 - [[src_archimede_2020_riserva_triennio__Q02|Quesito 2]] — Modi di pagare 141 euro con banconote da 5 e monete da 2

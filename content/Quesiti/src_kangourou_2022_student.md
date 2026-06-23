@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Student2022REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
 
 - [[src_kangourou_2022_student__Q01|Quesito 1]] — quale non rappresenta l'uso
 - [[src_kangourou_2022_student__Q02|Quesito 2]] — Quanti interi di tre cifre divisibili per 13

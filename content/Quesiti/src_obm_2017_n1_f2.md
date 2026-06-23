@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
 
 - [[src_obm_2017_n1_f2__Q01|Quesito 1]] — Prove a nonconstant polynomial with nonneg coefficients whose power is positive is itself positive
 - [[src_obm_2017_n1_f2__Q02|Quesito 2]] — Find common prime divisors of all terms of sequence a·2017^n + b·2016^n

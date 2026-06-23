@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2019/SQ-F-19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 - [[src_kangourou_2019_squadre_finale__Q01|Quesito 1]] — Risultato del prodotto telescopico di frazioni
 - [[src_kangourou_2019_squadre_finale__Q02|Quesito 2]] — Angolo alfa tra listelli equispaziati

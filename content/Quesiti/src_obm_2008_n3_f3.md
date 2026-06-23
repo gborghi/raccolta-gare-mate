@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
 
 - [[src_obm_2008_n3_f3__Q01|Quesito 1]] — Prove every positive integer is 'gaudy' (has multiple starting with 2008)
 - [[src_obm_2008_n3_f3__Q02|Quesito 2]] — Segment covering 3n of 6n coloured points on a line

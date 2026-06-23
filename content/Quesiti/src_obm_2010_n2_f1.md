@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 - [[src_obm_2010_n2_f1__Q01|Quesito 1]] — Which option is a divisor of 3^5*4^4*5^3
 - [[src_obm_2010_n2_f1__Q02|Quesito 2]] — 2% increase of smaller of two consecutive numbers gives the larger; find sum

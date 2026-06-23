@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2013/SQ-F-13.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 - [[src_kangourou_2013_squadre_f__Q01|Quesito 1]] — Quanti addendi nella somma 1-3+5-7+... = 2013
 - [[src_kangourou_2013_squadre_f__Q02|Quesito 2]] — Numero in cima al triangolo di somme (riga base 1-10)

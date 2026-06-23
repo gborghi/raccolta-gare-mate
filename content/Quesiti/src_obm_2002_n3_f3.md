@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
 
 - [[src_obm_2002_n3_f3__Q01|Quesito 1]] — Set of positive integers with 2002 elements, no element is a perfect power
 - [[src_obm_2002_n3_f3__Q02|Quesito 2]] — Convex cyclic quadrilateral ABCD with point M on CD; triangles ADM and ABCM have equal area and perimeter

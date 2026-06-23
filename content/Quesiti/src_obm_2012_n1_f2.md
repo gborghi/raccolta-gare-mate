@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GopwL_0fgb7iEbs-bG1HNdfWHmDyf8B2/view)
 
 - [[src_obm_2012_n1_f2__Q01|Quesito 1]] — Bus route distance from terminal to terminal
 - [[src_obm_2012_n1_f2__Q02|Quesito 2]] — Find ZYX from a cryptarithmetic column addition

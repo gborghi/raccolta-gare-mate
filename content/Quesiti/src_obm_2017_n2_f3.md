@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
 
 - [[src_obm_2017_n2_f3__Q01|Quesito 1]] — Trapezoids formed by midpoints and vertices of a triangle; area ratios
 - [[src_obm_2017_n2_f3__Q02|Quesito 2]] — Real equation in x,y,z; prove C=-1 and find solution

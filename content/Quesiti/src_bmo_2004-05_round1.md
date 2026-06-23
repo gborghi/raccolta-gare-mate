@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
 
 - [[src_bmo_2004-05_round1__Q01|Quesito 1]] — Find positive integer n from two money-sharing conditions
 - [[src_bmo_2004-05_round1__Q02|Quesito 2]] — Prove BP bisects angle EBC using perpendicular feet and semicircle

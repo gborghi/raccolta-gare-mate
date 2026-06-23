@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 - [[src_jjmo8yq_yosen__Q01|Quesito 1]] — Two-digit number stays 3 digits after multiplying by 7 twice
 - [[src_jjmo8yq_yosen__Q02|Quesito 2]] — Pick one card per suit so sum is multiple of 7

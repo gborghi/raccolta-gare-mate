@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 - [[src_bmo_1988-89_round2__Q01|Quesito 1]] — Find smallest positive integer a for quadratic with roots in (0,1)
 - [[src_bmo_1988-89_round2__Q02|Quesito 2]] — Count row arrangements of 5 A's, 5 B's, 5 C's with each letter adjacent to identical letter

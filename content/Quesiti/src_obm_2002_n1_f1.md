@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 - [[src_obm_2002_n1_f1__Q01|Quesito 1]] — Simplify a ratio of powers of 2
 - [[src_obm_2002_n1_f1__Q02|Quesito 2]] — Total weight of a stack of cubic boxes

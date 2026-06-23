@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/BMarzo-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 - [[src_kangourou_2017_benjamin_marzo__Q01|Quesito 1]] — Allineamento non ottenibile scambiando due carte
 - [[src_kangourou_2017_benjamin_marzo__Q02|Quesito 2]] — 3 mosche e 2 ragni come 9 canarini e gatti

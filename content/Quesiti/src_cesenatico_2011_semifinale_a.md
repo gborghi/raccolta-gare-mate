@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2011/Agas11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 - [[src_cesenatico_2011_semifinale_a__Q01|Quesito 1]] — decodificare numeri da messaggio cifrato
 - [[src_cesenatico_2011_semifinale_a__Q02|Quesito 2]] — chi dice la verita

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2018/GareASquadreDiMatematica_Cesenatico2018.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 - [[src_squadre_2018_femminile__Q01|Quesito 1]] — Anno di nascita con somma cifre uguale all'eta nel 2017
 - [[src_squadre_2018_femminile__Q02|Quesito 2]] — Numero divisori dell'mcm dei naturali da 1 a 30

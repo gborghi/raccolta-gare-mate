@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/JMaggio-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ylw9Axt3o-px4Hc7cLKCrBJqpxAwiuVv/view)
 
 - [[src_kangourou_2015_finale_junior__QJ1|Quesito J1]] — condizioni per incrocio treni
 - [[src_kangourou_2015_finale_junior__QJ2|Quesito J2]] — misura angolo ABC

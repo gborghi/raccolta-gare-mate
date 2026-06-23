@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/BMarzo-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
 
 - [[src_kangourou_2016_marzo_benjamin__Q01|Quesito 1]] — parte di ciascuna fettina
 - [[src_kangourou_2016_marzo_benjamin__Q02|Quesito 2]] — lunghezze dei tre pezzi

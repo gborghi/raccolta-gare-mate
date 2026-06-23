@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 - [[src_obm_2005_nu_f2__Q01|Quesito 1]] — Count possible determinant values of matrix satisfying cubic equation
 - [[src_obm_2005_nu_f2__Q02|Quesito 2]] — Prove a sequence of integrals is increasing and divergent

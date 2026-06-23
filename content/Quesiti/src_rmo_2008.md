@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
 
 - [[src_rmo_2008__Q01|Quesito 1]] — Perpendicular meets and circumradius in acute triangle
 - [[src_rmo_2008__Q02|Quesito 2]] — Two infinite sequences of positive integers satisfying four conditions

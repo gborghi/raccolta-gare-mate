@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/BMarzo-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
 
 - [[src_kangourou_2015_marzo_benjamin__Q01|Quesito 1]] — In quale figura l’area ombreggiata e meta del totale
 - [[src_kangourou_2015_marzo_benjamin__Q02|Quesito 2]] — quale non e il mio

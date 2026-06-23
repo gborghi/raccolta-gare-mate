@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_hAtW-_q2-uMzqzRMHgBP6hcqovxL3Oj/view)
 
 - [[src_selection_camp_2025__Q01|Quesito 1]] — Find c so every finite set has a,b,e with e dividing a+b+2c
 - [[src_selection_camp_2025__Q02|Quesito 2]] — Triangle, incircle tangency construction; prove two lines parallel

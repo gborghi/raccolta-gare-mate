@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2015/GaraNazionaleClassiPrime2015.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 - [[src_archimede_2015_classiprime__Q01|Quesito 1]] — Trovare alpha con 2^alpha=4^(4^4)
 - [[src_archimede_2015_classiprime__Q02|Quesito 2]] — Interpretazione di frazione a piani come divisioni annidate

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2024/gas2024ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 - [[src_squadre_2024_semifinale1__Q01|Quesito 1]] — Massime strette di mano tra 33 partecipanti in due fazioni
 - [[src_squadre_2024_semifinale1__Q02|Quesito 2]] — Area unione di tre rettangoli su diagonali, AB=48 BC=20

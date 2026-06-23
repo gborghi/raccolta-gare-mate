@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
 
 - [[src_imho_1985__Q01|Quesito 1]] — Circle tangent to sides of cyclic quadrilateral, prove AD+BC=AB
 - [[src_imho_1985__Q02|Quesito 2]] — Coloring integers in M with two colors preserving sum condition

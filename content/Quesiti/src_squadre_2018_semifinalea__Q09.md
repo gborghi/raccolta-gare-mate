@@ -31,7 +31,7 @@ tags:
 
 > Banditi matematici [⋆]
 > “Whisky per i miei n uomini!” tuona Bu4 Kampen nel saloon. “E quanti sono?” chiede il barista. “Ti dirò solo che
-> n è un intero positivo con esattamente 12 divisori positivi 1 = d1 < d2 < ··· < d12 = n, e che dd4−1 = d8(d1 +d2 +d4)”.
+> n è un intero positivo con esattamente 12 divisori positivi 1 = d1 < d2 < ·· < d12 = n, e che dd4−1 = d8(d1 +d2 +d4)”.
 > Non volendo fare altre domande, per ogni possibile n il barista prepara un vassoio con n bicchieri. Quanti bicchieri
 > riempie?
 
@@ -39,4 +39,4 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1989
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)

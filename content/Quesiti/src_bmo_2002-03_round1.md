@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
 
 - [[src_bmo_2002-03_round1__Q01|Quesito 1]] — Find digits contained in a specific large number
 - [[src_bmo_2002-03_round1__Q02|Quesito 2]] — Incircle tangent point and perpendicular; prove BX is a diameter

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
 
 - [[src_inmo_2010__Q01|Quesito 1]] — Circumcircle, angle bisector, intersection points, PQ parallel to BC
 - [[src_inmo_2010__Q02|Quesito 2]] — Find all n>1 such that n² does not divide (n-2)!

@@ -35,4 +35,4 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{100}{495001}$
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)

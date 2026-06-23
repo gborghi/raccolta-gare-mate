@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2024/archimede_2024_biennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 - [[src_archimede_2024_biennio__Q01|Quesito 1]] — Numeri da 1 a 1000 multipli di 5, 6 e 9
 - [[src_archimede_2024_biennio__Q02|Quesito 2]] — Cifre necessarie per scrivere 100^200+738

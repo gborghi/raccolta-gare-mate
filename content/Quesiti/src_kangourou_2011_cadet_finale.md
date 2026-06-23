@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2011/CMaggio-11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
 
 - [[src_kangourou_2011_cadet_finale__QC1|Quesito C1]] — Minimo numero di problemi per cinque categorie con vincoli di punteggio
 - [[src_kangourou_2011_cadet_finale__QC2|Quesito C2]] — Minima differenza tra numeri con somma cifre divisibile per 5

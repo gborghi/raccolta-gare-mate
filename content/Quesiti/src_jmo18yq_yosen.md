@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 - [[src_jmo18yq_yosen__Q01|Quesito 1]] — Largest LCM of four distinct one-digit positive integers
 - [[src_jmo18yq_yosen__Q02|Quesito 2]] — Area of triangle from a tangent to the circle on a square side

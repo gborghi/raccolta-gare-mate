@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2023_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 - [[src_imo_2023__Q01|Quesito 1]] — Composti n con di divide di+1+di+2
 - [[src_imo_2023__Q02|Quesito 2]] — Tangente a omega in P incontra BS sul bisettore

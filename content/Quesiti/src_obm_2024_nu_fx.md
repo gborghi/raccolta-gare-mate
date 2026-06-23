@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 - [[src_obm_2024_nu_fx__Q01|Quesito 1]] — Inequality on sums over primes for perfect numbers
 - [[src_obm_2024_nu_fx__Q02|Quesito 2]] — Fixed point and eigenvalue analysis for iterated function composition

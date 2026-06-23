@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/JMarzo-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 - [[src_kangourou_2003_junior__Q01|Quesito 1]] — Gradi dell'angolo della fetta (15%)
 - [[src_kangourou_2003_junior__Q02|Quesito 2]] — Diametro seconda aiuola con area quadrupla

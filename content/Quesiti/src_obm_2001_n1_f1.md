@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 - [[src_obm_2001_n1_f1__Q01|Quesito 1]] — Smallest possible difference between two 3-distinct-digit naturals: larger all-even digits, smaller all-odd digits
 - [[src_obm_2001_n1_f1__Q02|Quesito 2]] — Count non-crossing quadrilaterals formed by joining one point from each of four circles containing 1,2,3,4 interior points

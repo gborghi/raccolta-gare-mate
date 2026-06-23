@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 - [[src_bmo_2023-24_round1__Q01|Quesito 1]] — Count spellings of OLYMPIADS from unreliable typist
 - [[src_bmo_2023-24_round1__Q02|Quesito 2]] — Prove a0 and a1 consecutive given a2023 and a2024 consecutive

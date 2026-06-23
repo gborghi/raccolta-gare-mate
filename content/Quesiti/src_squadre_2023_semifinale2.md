@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2023/gas2023ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 - [[src_squadre_2023_semifinale2__Q01|Quesito 1]] — Colorazioni lati pentagono con 3 colori
 - [[src_squadre_2023_semifinale2__Q02|Quesito 2]] — Lato quadrato in circonferenza con quadrato lato 1200

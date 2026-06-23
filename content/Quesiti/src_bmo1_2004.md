@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 - [[src_bmo1_2004__Q01|Quesito 1]] — Solve simultaneous equations in four real variables
 - [[src_bmo1_2004__Q02|Quesito 2]] — Rectangle midpoint and perpendicular; prove triangle isosceles

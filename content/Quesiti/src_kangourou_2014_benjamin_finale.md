@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/BMaggio-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
 
 - [[src_kangourou_2014_benjamin_finale__Q01|Quesito 1]] — Turni minimi perché ogni ragazzo balli con ogni ragazza
 - [[src_kangourou_2014_benjamin_finale__Q02|Quesito 2]] — Perché numero coppie = somma primi n-1 interi

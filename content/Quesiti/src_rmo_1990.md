@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ogcf4pFWupc25G2ZRadOfWoHaUpTy0zm/view)
 
 - [[src_rmo_1990__Q01|Quesito 1]] — Pigeonhole on balls of same colour and size in two boxes
 - [[src_rmo_1990__Q02|Quesito 2]] — Inequality for positive reals: sum of fractions ge 3/2

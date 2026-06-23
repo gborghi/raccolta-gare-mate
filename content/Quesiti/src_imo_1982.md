@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1982_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
 
 - [[src_imo_1982__Q01|Quesito 1]] — Determine f(1982) for a subadditive integer function
 - [[src_imo_1982__Q02|Quesito 2]] — Prove three lines through midpoints and reflected touch-points concurrent

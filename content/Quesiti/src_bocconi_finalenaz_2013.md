@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
 
 - [[src_bocconi_finalenaz_2013__Q01|Quesito 1]] — Disporre numeri 2,3,4,6 in caselle consecutive
 - [[src_bocconi_finalenaz_2013__Q02|Quesito 2]] — Numero letto da Milena su quattro dadi identici

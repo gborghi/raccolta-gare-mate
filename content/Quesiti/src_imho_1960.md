@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1960_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
 
 - [[src_imho_1960__Q01|Quesito 1]] — Numeri di tre cifre divisibili per 11 con N/11 somma quadrati cifre
 - [[src_imho_1960__Q02|Quesito 2]] — Valori di x per cui vale la disuguaglianza con radice

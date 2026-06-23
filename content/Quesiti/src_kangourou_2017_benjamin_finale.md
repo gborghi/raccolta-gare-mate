@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/B-settembre17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10o3_Kq9VXpAG6jJgjn7UgIrlMfXVipvA/view)
 
 - [[src_kangourou_2017_benjamin_finale__QB1|Quesito B1]] — Anni fa la somma eta figli uguale a quella del padre
 - [[src_kangourou_2017_benjamin_finale__QB2|Quesito B2]] — Soglia bagaglio dati due sovrapprezzi (11 e 33 euro)

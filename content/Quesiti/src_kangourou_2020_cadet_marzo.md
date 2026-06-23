@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/CMarzo-20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 - [[src_kangourou_2020_cadet_marzo__Q01|Quesito 1]] — Quanti dei numeri 2,20,202,2020 sono primi
 - [[src_kangourou_2020_cadet_marzo__Q02|Quesito 2]] — Quale frazione ha valore maggiore

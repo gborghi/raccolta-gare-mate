@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 - [[src_bmo2_2005__Q01|Quesito 1]] — Prove N is a perfect square given ordered pairs condition
 - [[src_bmo2_2005__Q02|Quesito 2]] — Angle bisectors and opposite sides in triangle with circumscribed circle

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 - [[src_bmo_1989-90_round1__Q01|Quesito 1]] — Find positive integer whose first digit is 1, tripled when moved to end
 - [[src_bmo_1989-90_round1__Q02|Quesito 2]] — Square ABCD, P on AB; find max and min of ratio PC/PD

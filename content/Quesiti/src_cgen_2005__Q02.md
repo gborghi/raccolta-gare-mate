@@ -47,6 +47,6 @@ tags:
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rEB9uBD886_GOlWlnaWMbpsJf-6HZvT3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.

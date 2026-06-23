@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/EMarzo-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 - [[src_kangourou_2007_ecolier_marzo__Q01|Quesito 1]] — Quali terne di numeri annotabili da casa a scuola
 - [[src_kangourou_2007_ecolier_marzo__Q02|Quesito 2]] — Lettere comuni a KANGOUROU e PROBLEMA

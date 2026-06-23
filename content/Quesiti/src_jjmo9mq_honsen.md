@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
 
 - [[src_jjmo9mq_honsen__Q01|Quesito 1]] — Cyclic hexagon with three pairs of parallel sides; prove fourth pair also parallel
 - [[src_jjmo9mq_honsen__Q02|Quesito 2]] — n a perfect square; find the n smallest integers expressible as product of two factors each at most n

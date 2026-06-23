@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2012/soluzioni-triennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 - [[src_archimede_2012_biennio__Q07|Quesito 1]] — Massimo numero amici tra cui dividere 1260 figurine
 - [[src_archimede_2012_biennio__Q05|Quesito 2]] — 1

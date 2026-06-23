@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/BMaggio-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
 
 - [[src_kangourou_2008_benjamin_maggio__QB1|Quesito B1]] — Area triangolo equilatero inscritto vs meta cerchio
 - [[src_kangourou_2008_benjamin_maggio__QB2|Quesito B2]] — Eliminare due caselle per rendere vera l'uguaglianza

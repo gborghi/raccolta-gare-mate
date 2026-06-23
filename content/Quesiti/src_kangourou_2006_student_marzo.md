@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/SMarzo-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 - [[src_kangourou_2006_student_marzo__Q01|Quesito 1]] — Quale prodotto e il piu grande (isoperimetrico)
 - [[src_kangourou_2006_student_marzo__Q02|Quesito 2]] — Max quadratini aggiungibili senza variare perimetro

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 - [[src_selection_camp_2023__Q01|Quesito 1]] — Largest n with distinct-gcd arithmetic progression of divisors
 - [[src_selection_camp_2023__Q02|Quesito 2]] — Max number of L-shaped 2023-cell tiles on 2023x2023 board

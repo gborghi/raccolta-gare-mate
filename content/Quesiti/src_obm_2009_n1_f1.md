@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
 
 - [[src_obm_2009_n1_f1__Q01|Quesito 1]] — Minimum of e^{x/e}-x; compare e^pi and pi^e
 - [[src_obm_2009_n1_f1__Q02|Quesito 2]] — Monic degree-2 polynomial whose roots are Gauss periods of a primitive 7th root of unity; compute p(3)

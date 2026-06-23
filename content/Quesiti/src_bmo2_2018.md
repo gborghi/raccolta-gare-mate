@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 - [[src_bmo2_2018__Q01|Quesito 1]] — Circle tangent to BC through M meets AB; prove AB = BP = 2BM
 - [[src_bmo2_2018__Q02|Quesito 2]] — Circular table cakes; find n so Mad Hatter can force Alice to eat all

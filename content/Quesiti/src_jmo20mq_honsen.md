@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
 
 - [[src_jmo20mq_honsen__Q01|Quesito 1]] — H is circumcenter of triangle APQ
 - [[src_jmo20mq_honsen__Q02|Quesito 2]] — Existence of n with n^n - m divisible by 2^k

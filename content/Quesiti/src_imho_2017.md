@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
 
 - [[src_imho_2017__Q01|Quesito 1]] — Sequence with sqrt rule; find n where A exists for infinitely many a_0
 - [[src_imho_2017__Q02|Quesito 2]] — Functional equation f(f(x)f(y)) = f(x+y) over the reals

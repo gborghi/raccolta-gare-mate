@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 - [[src_bmo1_2015__Q01|Quesito 1]] — Order five power-tower numbers by size and justify.
 - [[src_bmo1_2015__Q02|Quesito 2]] — Given p^2+a^2=b^2 with p prime greater than 3, prove a is a multiple of 12 and 2(p+a+1) is a perfect square.

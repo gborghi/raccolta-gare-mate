@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
 
 - [[src_imho_1999__Q01|Quesito 1]] — Finite point sets symmetric under all perpendicular bisectors
 - [[src_imho_1999__Q02|Quesito 2]] — Least constant for symmetric sum inequality

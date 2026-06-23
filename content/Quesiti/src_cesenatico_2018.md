@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2018/ces18-2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
 
 - [[src_cesenatico_2018__Q01|Quesito 1]] — altezza della bottiglia
 - [[src_cesenatico_2018__Q02|Quesito 2]] — GS perpendicolare a BC

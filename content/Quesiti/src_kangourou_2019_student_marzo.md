@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/SMarzo-19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 - [[src_kangourou_2019_student_marzo__Q01|Quesito 1]] — Gli altri due valori delle somme righe/colonne tabella 2x2
 - [[src_kangourou_2019_student_marzo__Q02|Quesito 2]] — In quale disegno l area ombreggiata e massima

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/SMarzo-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 - [[src_kangourou_2008_student_marzo__Q01|Quesito 1]] — Maggiore dei due incogniti nella tabella 2x2
 - [[src_kangourou_2008_student_marzo__Q02|Quesito 2]] — Valore di x^2008/y^2008 con x+y=0

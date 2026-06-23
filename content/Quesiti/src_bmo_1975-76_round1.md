@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 - [[src_bmo_1975-76_round1__Q01|Quesito 1]] — Shortest straight line bisecting triangle area; show non-straight is shorter
 - [[src_bmo_1975-76_round1__Q02|Quesito 2]] — Prove inequality sum of x/(y+z) >= 3/2 for positive reals

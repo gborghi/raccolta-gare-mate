@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2012/testo-biennio-def.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
 
 - [[src_archimede_2012_biennio__Q01|Quesito 1]] — Tra quanti giorni rivedra Franco (mcm 13 e 7)
 - [[src_archimede_2012_biennio__Q02|Quesito 2]] — Lato piu lungo cortile triangolo rettangolo isoscele

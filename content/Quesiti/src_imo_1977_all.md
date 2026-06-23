@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1977_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
 - [[src_imo_1977_all__Q01|Quesito 1]] — Midpoints from equilateral triangles form regular dodecagon
 - [[src_imo_1977_all__Q02|Quesito 2]] — any 7 sum negative, any 11 sum positive

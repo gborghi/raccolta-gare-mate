@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 - [[src_bmo_1976-77_round2__Q01|Quesito 1]] — Bound quadratic on interval given values at n points
 - [[src_bmo_1976-77_round2__Q02|Quesito 2]] — Pyramid with inscribed circles of adjacent faces touching; prove contact points on circle

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/1998/Archimede1998/gara-triennio1998.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 - [[src_archimede_1998_biennio__Q08|Quesito 1]] — Terzo numero in ordine crescente di cinque espressioni
 - [[src_archimede_1998_biennio__Q07|Quesito 2]] — Minima distanza data la disuguaglianza triangolare

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IbxW-7wHAbocY02LPUXVJ2fiAgki09kb/view)
 
 - [[src_selection_camp_2022__Q01|Quesito 1]] — Colorful integers on a circular arrangement; find maximum non-colorful
 - [[src_selection_camp_2022__Q02|Quesito 2]] — Find all real functions satisfying a given functional equation

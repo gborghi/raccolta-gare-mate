@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
 
 - [[src_inmo_2013__Q01|Quesito 1]] — Two circles tangent externally; prove triangle PQR is equilateral
 - [[src_inmo_2013__Q02|Quesito 2]] — Find all positive integers m, n and primes p ≥ 5 satisfying equation

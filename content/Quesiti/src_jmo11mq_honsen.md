@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jmnrFXCqLJXdLP8NRlR4gkY5D-23RO84/view)
 
 - [[src_jmo11mq_honsen__Q01|Quesito 1]] — m×n grid coloring: each black cell has odd many black neighbours; show m,n odd
 - [[src_jmo11mq_honsen__Q02|Quesito 2]] — Digit-product map f(n); find all positive integers n with f(n)=n

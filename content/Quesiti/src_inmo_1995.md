@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
 
 - [[src_inmo_1995__Q01|Quesito 1]] — Orthocenter, midpoint, symmetric point in triangle with angle 30
 - [[src_inmo_1995__Q02|Quesito 2]] — Infinitely many coprime pairs with two quadratics having integer roots

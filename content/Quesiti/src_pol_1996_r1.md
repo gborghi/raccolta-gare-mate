@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 - [[src_pol_1996_r1__Q01|Quesito 1]] — Find positive integers n for which tan x + cot x = 2 sin nx has a real solution
 - [[src_pol_1996_r1__Q02|Quesito 2]] — Find all primes dividing at least one difference of consecutive palindromic numbers

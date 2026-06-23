@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Student2024REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 - [[src_kangourou_2024_student__Q01|Quesito 1]] — -2 da multiplo di 10, +2 da quadrato, doppio di un primo
 - [[src_kangourou_2024_student__Q02|Quesito 2]] — Quale pentagono sostituisce il bianco per curva autointersecante

@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 - [[src_bocconi_finaleint_2009_g2__Q01|Quesito 1]] — Massimo della somma delle cifre della data nel 2009
 - [[src_bocconi_finaleint_2009_g2__Q02|Quesito 2]] — Numero di spigoli del solido ottenuto tagliando i vertici di una piramide

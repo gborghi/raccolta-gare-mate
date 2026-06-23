@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
 
 - [[src_rmo_2001__Q01|Quesito 1]] — Altitudes, cyclic quads, parallelism of FM and EN
 - [[src_rmo_2001__Q02|Quesito 2]] — Find all prime pairs p,q making p²+7pq+q² a perfect square

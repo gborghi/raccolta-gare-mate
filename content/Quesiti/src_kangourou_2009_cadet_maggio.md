@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2009/CMaggio-09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
 
 - [[src_kangourou_2009_cadet_maggio__QC1|Quesito C1]] — Basta l'area di un triangolo per area del parallelogramma
 - [[src_kangourou_2009_cadet_maggio__QC2|Quesito C2]] — Da quale pizza scegliere la fetta piu grande

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
 
 - [[src_imho_1990__Q01|Quesito 1]] — Find EG/EF ratio given AM/AB = t
 - [[src_imho_1990__Q02|Quesito 2]] — Minimum k black points guaranteeing a good coloring

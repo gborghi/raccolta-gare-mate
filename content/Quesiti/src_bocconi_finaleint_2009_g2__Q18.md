@@ -60,6 +60,6 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4 soluzioni: $(18;25)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(18;25)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$; $(20;23)\,(11;13;19)\,(4;9;14;16)\,(2;5;7;12;17)$; $(20;23)\,(7;17;99)\,(4;10;13;16)\,(2;5;9;12;15)$
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.

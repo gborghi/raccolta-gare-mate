@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2018/GareASquadreDiMatematica_Cesenatico2018.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 - [[src_squadre_2018_finale__Q01|Quesito 1]] — Anno x prima di 9613 con 9613^2-x^2 quadrato perfetto
 - [[src_squadre_2018_finale__Q02|Quesito 2]] — Settori raggiungibili su scacchiera con costi 2 e 3, 60 palline

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/SMaggio-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17e9IDZmmMC0kmw9HyZkRsJZSaNWwywyl/view)
 
 - [[src_kangourou_2008_student_maggio__QS1|Quesito S1]] — Numero di sottoinsiemi con numero dispari di elementi
 - [[src_kangourou_2008_student_maggio__QS2|Quesito S2]] — Esistono insiemi IMPERFETTI

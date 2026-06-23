@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gqclWWaTQPwXGISec96nuFGo_EJgQbQL/view)
 
 - [[src_cgen_2020__Q01|Quesito 1]] — Pointed numbers: an integer n>=2 is pointed if there exist n consecutive integers each having a prime factor p>n; existence, large pointed numbers, counting via binomial coefficients and logarithmic estimates.
 - [[src_cgen_2020__Q02|Quesito 2]] — An explosive number: the sequence x_{n+1}=(1+1/x_n)^n with x_1=a; the function f_n(x)=(1+1/x)^n; an explosivity criterion; proving there is a unique explosive number via a contraction argument.

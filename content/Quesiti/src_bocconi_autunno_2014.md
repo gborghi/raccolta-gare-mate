@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
 
 - [[src_bocconi_autunno_2014__Q01|Quesito 1]] — Somma cifre data 31/12/2014, prima data con somma 20
 - [[src_bocconi_autunno_2014__Q02|Quesito 2]] — Modi di pagare esattamente 2,70 euro con monete

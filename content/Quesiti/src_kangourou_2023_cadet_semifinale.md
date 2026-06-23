@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Cadet2023RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1M9sXIkUDY4rP1rr4DHPF0VSPHt_-LbxS/view)
 
 - [[src_kangourou_2023_cadet_semifinale__Q01|Quesito 1]] — min carte da rovesciare
 - [[src_kangourou_2023_cadet_semifinale__Q02|Quesito 2]] — orario d'ingresso

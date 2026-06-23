@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/B-settembre19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1d9iyPk8LwfrswApL_jEIctgz8ZPhb9Sf/view)
 
 - [[src_kangourou_2019_benjamin_finale__Q01|Quesito 1]] — Quanti biscotti alla marmellata aveva Ada prima dello scambio
 - [[src_kangourou_2019_benjamin_finale__Q02|Quesito 2]] — Ottenere 2021 dalla calcolatrice con sole operazioni con 2019

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
 
 - [[src_imho_1966__Q01|Quesito 1]] — Count students who solved only problem B
 - [[src_imho_1966__Q02|Quesito 2]] — Prove triangle is isosceles given a trigonometric side condition

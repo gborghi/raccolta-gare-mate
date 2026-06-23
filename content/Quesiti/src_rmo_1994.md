@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
 
 - [[src_rmo_1994__Q01|Quesito 1]] — Sum of page numbers on torn leaf of a book
 - [[src_rmo_1994__Q02|Quesito 2]] — Incircle of triangle touches sides; find sides given concurrency

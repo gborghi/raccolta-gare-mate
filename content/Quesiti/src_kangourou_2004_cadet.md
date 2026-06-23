@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/CMarzo-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 - [[src_kangourou_2004_cadet__Q01|Quesito 1]] — Risultato di 2004-4*200
 - [[src_kangourou_2004_cadet__Q02|Quesito 2]] — Angolo di rotazione del triangolo equilatero

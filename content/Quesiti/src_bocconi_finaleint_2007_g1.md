@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 - [[src_bocconi_finaleint_2007_g1__Q01|Quesito 1]] — Indovinello logico: animale piu vecchio tra cane, criceto e gatto
 - [[src_bocconi_finaleint_2007_g1__Q02|Quesito 2]] — Tre interi consecutivi di somma 2007: trovare il maggiore

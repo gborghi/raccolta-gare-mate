@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1990_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
 
 - [[src_imo_1990__Q01|Quesito 1]] — Find EG/EF in terms of t for tangent-line circle config
 - [[src_imo_1990__Q02|Quesito 2]] — Smallest k making every coloring of 2n-1 points good

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2006/cesenatico06-testi e soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
 
 - [[src_cesenatico_2006__Q01|Quesito 1]] — valore della carta di Rosa
 - [[src_cesenatico_2006__Q02|Quesito 2]] — Determinare valori di (a,b,c) con c=ab e ab=a^2 e relazioni

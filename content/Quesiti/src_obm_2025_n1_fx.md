@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
 
 - [[src_obm_2025_n1_fx__Q01|Quesito 1]] — Years whose last two digits divide the year exactly: find the next three after 2025, and count them between 1900 and 1999.
 - [[src_obm_2025_n1_fx__Q02|Quesito 2]] — Square of side x with diagonal 2 cm decomposed into four triangles; then area of quadrilateral IJKL formed by squares built inside a regular octagon.

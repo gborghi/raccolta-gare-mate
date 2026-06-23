@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/1997/Archimede1997/ testo triennio1997.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
 
 - [[src_archimede_1997_triennio__Q01|Quesito 1]] — Perimetro di una figura composta da rettangoli uguali
 - [[src_archimede_1997_biennio__Q14|Quesito 2]] — In quale intervallo si trova x volte radice di y

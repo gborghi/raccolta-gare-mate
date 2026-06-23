@@ -41,4 +41,4 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]]
 **Area:** [[Geometria]]
 **Risposta:** C
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)

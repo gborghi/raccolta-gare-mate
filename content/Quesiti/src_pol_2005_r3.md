@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 - [[src_pol_2005_r3__Q01|Quesito 1]] — Find all positive integer triples (x,y,n) with (x-y)^n = xy.
 - [[src_pol_2005_r3__Q02|Quesito 2]] — Convex quadrilateral inscribed in circle o; point S with given angle equalities; bisector of angle ASB meets circle at P, Q; prove PS=QS.

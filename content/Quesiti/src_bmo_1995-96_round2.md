@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 - [[src_bmo_1995-96_round2__Q01|Quesito 1]] — Find all non-negative integer solutions to 2^x + 3^y = z^2
 - [[src_bmo_1995-96_round2__Q02|Quesito 2]] — Triangles ABC and UVW with sides related by equations; prove ABC acute, find UVW angles

@@ -18,7 +18,7 @@ tags:
   - regione/mumbai
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 - [[src_rmo_2012_mumbai__Q01|Quesito 1]] — Three quadratics share a common zero; find the polynomials
 - [[src_rmo_2012_mumbai__Q02|Quesito 2]] — Divisibility by 169 of a quadratic in n

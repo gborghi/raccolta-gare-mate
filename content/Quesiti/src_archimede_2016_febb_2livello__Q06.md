@@ -33,7 +33,7 @@ tags:
 
 *Minimo k con a_2016 multiplo di 3^4031 7^4027 nella ricorrenza*
 
-> Sia k un intero positivo. Poniamo a1 = 1 e, per ogni n ≥1, an+1 = k(a1 + · · · + an) + 1 (quindi
+> Sia k un intero positivo. Poniamo a1 = 1 e, per ogni n ≥1, an+1 = k(a1 + · · + an) + 1 (quindi
 > per esempio a2 = ka1 + 1 e a3 = k(a1 + a2) + 1). Qual è il più piccolo valore di k tale che a2016
 > sia multiplo di 34031 · 74027?
 >
@@ -48,4 +48,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)

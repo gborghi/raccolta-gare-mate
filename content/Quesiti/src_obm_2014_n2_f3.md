@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
 
 - [[src_obm_2014_n2_f3__Q01|Quesito 1]] — Superdado built from eight unit dice; opposite faces of each die sum to 7. Find the six-face sum of a given superdado and build one whose six-face sum is 106.
 - [[src_obm_2014_n2_f3__Q02|Quesito 2]] — AB diameter of circle, CD chord perpendicular to it meeting AB at E; for any P on CD, lines AP and BP meet the circle again at F and G; O is circumcenter of EFG. Show area of OCD is constant.

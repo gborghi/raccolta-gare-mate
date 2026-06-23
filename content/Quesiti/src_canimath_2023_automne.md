@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 - [[src_canimath_2023_automne__Q01|Quesito 1]] — Evaluate a numeric fraction of a product of even numbers over a product of small integers
 - [[src_canimath_2023_automne__Q02|Quesito 2]] — Unit square ABCD with E on diagonal AC and AE=1; find angle BEC in degrees

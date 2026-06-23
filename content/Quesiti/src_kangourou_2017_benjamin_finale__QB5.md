@@ -34,4 +34,4 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** un tempo maggiore
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10o3_Kq9VXpAG6jJgjn7UgIrlMfXVipvA/view)

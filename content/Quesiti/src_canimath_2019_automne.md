@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 - [[src_canimath_2019_automne__Q01|Quesito 1]] — Count odd integers between 1 and 2019 inclusive
 - [[src_canimath_2019_automne__Q02|Quesito 2]] — Chickens and cows; count cows given total animals and number of slippers

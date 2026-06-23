@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 - [[src_cgen_1990__Q01|Quesito 1]] — Integer sequence with recurrence; find zeros and a general term
 - [[src_cgen_1990__Q02|Quesito 2]] — Max pieces of painted regular tetrahedra with no two identical

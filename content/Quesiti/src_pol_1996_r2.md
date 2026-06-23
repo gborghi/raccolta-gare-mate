@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
 
 - [[src_pol_1996_r2__Q01|Quesito 1]] — Polynomial as sum of cubes of integer-coefficient polynomials
 - [[src_pol_1996_r2__Q02|Quesito 2]] — Circle tangent to quadrilateral sides; collinearity of KL and MN intersections

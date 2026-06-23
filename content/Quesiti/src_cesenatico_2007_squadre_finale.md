@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2007/Finale.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 - [[src_cesenatico_2007_squadre_finale__Q01|Quesito 1]] — Punti raggiungibili in quadrato con passi (1,1) o (-1,0)
 - [[src_cesenatico_2007_squadre_finale__Q02|Quesito 2]] — Volume solido al centro del cubo tagliato per terne colorate

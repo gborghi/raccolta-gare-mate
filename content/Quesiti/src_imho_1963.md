@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1963_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
 
 - [[src_imho_1963__Q01|Quesito 1]] — Radici reali di sqrt(x^2-p)+2 sqrt(x^2-1)=x
 - [[src_imho_1963__Q02|Quesito 2]] — Luogo di vertici di angoli retti con un lato per A

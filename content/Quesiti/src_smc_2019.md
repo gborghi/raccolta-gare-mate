@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 - [[src_smc_2019__Q01|Quesito 1]] — Compute 123^2 - 23^2
 - [[src_smc_2019__Q02|Quesito 2]] — Evaluate nested subtraction expression involving 2019 and 2000

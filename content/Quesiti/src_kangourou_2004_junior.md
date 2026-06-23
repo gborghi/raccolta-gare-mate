@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/JMarzo-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 - [[src_kangourou_2004_junior__Q01|Quesito 1]] — Valore di (1-2)-(3-4)-...-(99-100)
 - [[src_kangourou_2004_junior__Q02|Quesito 2]] — Coriandoli di altri colori

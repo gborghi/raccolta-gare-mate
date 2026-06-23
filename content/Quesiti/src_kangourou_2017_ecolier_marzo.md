@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/EMarzo-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 - [[src_kangourou_2017_ecolier_marzo__Q01|Quesito 1]] — Tassello da inserire per due uguaglianze soddisfatte
 - [[src_kangourou_2017_ecolier_marzo__Q02|Quesito 2]] — Quanti canguri nel parco, Gianni ne vede meta

@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 - [[src_canimath_2016_printemps__Q01|Quesito 1]] — Square ABCD of side 10 cm, X midpoint of AB, isosceles triangle ABY; overlap area with square is 99 cm2, find XY.
 - [[src_canimath_2016_printemps__Q02|Quesito 2]] — Whole hours at 55 km/h; odometer goes from abc to cba with a>=1 and a+b+c<=7; find all abc.

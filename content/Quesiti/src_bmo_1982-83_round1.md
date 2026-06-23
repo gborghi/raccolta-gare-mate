@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 - [[src_bmo_1982-83_round1__Q01|Quesito 1]] — Circumcentre, midpoint, centroid; prove OE perpendicular to CD
 - [[src_bmo_1982-83_round1__Q02|Quesito 2]] — Fibonacci sequence: show f_n - ab^n divisible by all positive integers

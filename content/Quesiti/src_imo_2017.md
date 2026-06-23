@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2017_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
 
 - [[src_imo_2017__Q01|Quesito 1]] — Valori a0 con successione radice/+3 periodica
 - [[src_imo_2017__Q02|Quesito 2]] — Equazione funzionale f(f(x)f(y))+f(x+y)=f(xy)

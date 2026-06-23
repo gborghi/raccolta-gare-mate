@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2011/JMarzo-11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
 
 - [[src_kangourou_2011_junior__Q01|Quesito 1]] — Minimo numero di interi consecutivi con somma data
 - [[src_kangourou_2011_junior__Q02|Quesito 2]] — Area del trapezio dato rettangolo ombreggiato 13

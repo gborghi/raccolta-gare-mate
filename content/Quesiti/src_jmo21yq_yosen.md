@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 - [[src_jmo21yq_yosen__Q01|Quesito 1]] — Count integer 4-tuples with strict inequalities and bounded differences
 - [[src_jmo21yq_yosen__Q02|Quesito 2]] — Sum of positive integers ≤2011 divisible by 3 with given remainders

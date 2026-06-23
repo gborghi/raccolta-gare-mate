@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
 
 - [[src_canimath_2010_printemps__Q03|Quesito 3]] — Find all integers 1<x<y<z whose symmetric sum equals 2009
 - [[src_canimath_2010_printemps__Q04|Quesito 4]] — Eight-team round-robin: prove a chain A>B,C,D; B>C,D; C>D exists; ask about seven teams

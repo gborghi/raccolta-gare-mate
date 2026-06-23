@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 - [[src_bmo_1981-82_round1__Q01|Quesito 1]] — Quadrilateral with given area relation is a square with O at centre
 - [[src_bmo_1981-82_round1__Q02|Quesito 2]] — Multiple of 3 in base 2 with three 1s: digit counts in base 4

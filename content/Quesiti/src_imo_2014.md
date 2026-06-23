@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2014_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
 
 - [[src_imo_2014__Q01|Quesito 1]] — Esiste unico n con an<media prefissi<=an+1
 - [[src_imo_2014__Q02|Quesito 2]] — Massimo k con quadrato k×k libero da torri pacifiche

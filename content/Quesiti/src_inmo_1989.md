@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
 
 - [[src_inmo_1989__Q01|Quesito 1]] — Prove polynomial f(x)=x^4+26x^3+52x^2+78x+1989 irreducible over Z[x]
 - [[src_inmo_1989__Q02|Quesito 2]] — Roots of x^3+ax^2+bx+c cannot all be rational given a,b,c real not all zero

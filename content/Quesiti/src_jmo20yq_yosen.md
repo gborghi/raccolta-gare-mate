@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 - [[src_jmo20yq_yosen__Q01|Quesito 1]] — Count positive integer 6-tuples with strict order and equal pairwise sums 22
 - [[src_jmo20yq_yosen__Q02|Quesito 2]] — Average of integers from 0 to 10000 whose decimal representation avoids digit 1

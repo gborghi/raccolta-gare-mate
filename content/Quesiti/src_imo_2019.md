@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2019_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JyHT55oZouRQ04YAx-a4_fyuMYOtPSWx/view)
 
 - [[src_imo_2019__Q01|Quesito 1]] — Z->Z con f(2a)+2f(b)=f(f(a+b))
 - [[src_imo_2019__Q02|Quesito 2]] — P,Q,P1,Q1 conciclici nel triangolo

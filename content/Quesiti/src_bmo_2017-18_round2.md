@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 - [[src_bmo_2017-18_round2__Q01|Quesito 1]] — Circle tangent to BC at B through midpoint M meets AB at P; prove AB×BP=2BM²
 - [[src_bmo_2017-18_round2__Q02|Quesito 2]] — Circular cake game: for which n can Mad Hatter force Alice to eat all cakes

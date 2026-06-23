@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2014/SQ-A-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 - [[src_kangourou_2014_squadre_a__Q01|Quesito 1]] — Percentuale di sconto totale sul prezzo iniziale
 - [[src_kangourou_2014_squadre_a__Q02|Quesito 2]] — Numero nella quarta cella griglia 100x100 progressioni

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
 
 - [[src_imho_1989__Q01|Quesito 1]] — Partition {1,...,1989} into 117 equal-sum 17-element subsets
 - [[src_imho_1989__Q02|Quesito 2]] — Triangle bisectors, circumcircle points, area relations

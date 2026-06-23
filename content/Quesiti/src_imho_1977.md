@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
 - [[src_imho_1977__Q01|Quesito 1]] — Midpoints of segments in square form dodecagon vertices
 - [[src_imho_1977__Q02|Quesito 2]] — Finite sequence: max terms negative with seven successive sum negative

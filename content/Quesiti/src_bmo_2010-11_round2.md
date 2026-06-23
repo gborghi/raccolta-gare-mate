@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 - [[src_bmo_2010-11_round2__Q01|Quesito 1]] — Show equal angles from interior point using cevian construction
 - [[src_bmo_2010-11_round2__Q02|Quesito 2]] — Count positive integers n < 2011 with f(n) = f(2011)

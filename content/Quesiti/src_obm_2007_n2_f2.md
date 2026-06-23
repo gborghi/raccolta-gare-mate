@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 - [[src_obm_2007_n2_f2__Q01|Quesito 1]] — Find Ludmilson's age x given (x-55)(x+55) is a prime cube.
 - [[src_obm_2007_n2_f2__Q02|Quesito 2]] — Numerical/arithmetic evaluation (statement not faithfully recoverable).

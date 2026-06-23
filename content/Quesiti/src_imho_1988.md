@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ybq-uT2smNXXPn3zPVTn60m5ILt7Hzss/view)
 
 - [[src_imho_1988__Q01|Quesito 1]] — Coplanar circles, perpendicular, locus of midpoint
 - [[src_imho_1988__Q02|Quesito 2]] — Subset family with intersection and element covering conditions

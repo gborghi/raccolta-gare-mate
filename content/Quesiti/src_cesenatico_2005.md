@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2005/c05_sol.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
 
 - [[src_cesenatico_2005__Q01|Quesito 1]] — Triangolo rettangolo, altezza, valori del rapporto AH/CH
 - [[src_cesenatico_2005__Q02|Quesito 2]] — uno divisibile per somma cifre

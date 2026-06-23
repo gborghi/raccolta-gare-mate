@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 - [[src_bmo_2007-08_round2__Q01|Quesito 1]] — Minimum sum of squares under cubic symmetric constraint
 - [[src_bmo_2007-08_round2__Q02|Quesito 2]] — Find side ratio of triangle from incentre-circumcentre angles

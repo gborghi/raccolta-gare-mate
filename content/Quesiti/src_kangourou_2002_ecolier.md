@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2002/EMarzo-02.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 - [[src_kangourou_2002_ecolier__Q01|Quesito 1]] — Tassello rimosso dalla figura Kangourou
 - [[src_kangourou_2002_ecolier__Q02|Quesito 2]] — Calcolo della somma alternata di 2

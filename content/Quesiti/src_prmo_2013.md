@@ -18,7 +18,7 @@ tags:
   - regione/Mumbai
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 - [[src_prmo_2013__Q01|Quesito 1]] — Smallest k so that k(3^3+4^3+5^3)=a^n, n>1
 - [[src_prmo_2013__Q02|Quesito 2]] — Value of sum of 1/(S_n+S_{n-1}) for n=1 to 99

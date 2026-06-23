@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2013/ces13-sol.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
 
 - [[src_cesenatico_2013__Q01|Quesito 1]] — velocita intere salita/piano/discesa
 - [[src_cesenatico_2013__Q02|Quesito 2]] — dimostrare A'B'=(a-b)/2

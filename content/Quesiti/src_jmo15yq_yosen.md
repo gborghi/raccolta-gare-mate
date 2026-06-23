@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 - [[src_jmo15yq_yosen__Q01|Quesito 1]] — Count two-digit integers with remainder 2 mod 3 and remainder 3 mod 5
 - [[src_jmo15yq_yosen__Q02|Quesito 2]] — Minimum distance from line 4x+3y=1 to a lattice point not on the line

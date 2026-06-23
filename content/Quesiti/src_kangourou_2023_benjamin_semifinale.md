@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Benjamin2023RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mF2rVbrNP5wIK8iQldHBHcyFNDzq0vZz/view)
 
 - [[src_kangourou_2023_benjamin_semifinale__Q01|Quesito 1]] — min cifre dispari
 - [[src_kangourou_2023_benjamin_semifinale__Q02|Quesito 2]] — somma Renata tripla di Gabriele, numero scartato

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1roje33Ik1bzgcqsL7yxrXsm0APZTffe7/view)
 
 - [[src_pol_1991_r3__Q01|Quesito 1]] — Compare volumes and face areas of two tetrahedra
 - [[src_pol_1991_r3__Q02|Quesito 2]] — Count lattice paths between two points on x-axis

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1EHAMpK1by8Xia4t4AWdCzG755ysDEYJL/view)
 
 - [[src_cgen_2017__Q01|Quesito 1]] — Finite subsets A of C of 'type S' (any two elements z1, z2 satisfy z1*z2 = z1^2 + z2^2); study of b(A), the smallest modulus strictly greater than 1 of an element of A (or infinity); examples, the lattices Z[j] and related sets, and determination of all possible values of b(A).
 - [[src_cgen_2017__Q02|Quesito 2]] — Probability problem. Franck must pass MCQ exams where each correct answer gives +1 point, each wrong answer -1 point, and no answer 0 points. First exam: 10 questions, pass needs at least 7 points; decide which questions to answer given success probability p. Second exam: 50 questions, pass needs at least 26 points; compare strategies and find optimal as function of p.

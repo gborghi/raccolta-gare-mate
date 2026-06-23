@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2015/ces15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
 
 - [[src_cesenatico_2015__Q01|Quesito 1]] — volume totale dai 4 volumi
 - [[src_cesenatico_2015__Q02|Quesito 2]] — da un certo punto un solo genere

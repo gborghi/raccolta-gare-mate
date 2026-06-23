@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2020/SQJ-F-20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
 
 - [[src_kangourou_2020_junior_finale__Q01|Quesito 1]] — Massimo N per sconto k% limitato a 4 ingressi
 - [[src_kangourou_2020_junior_finale__Q02|Quesito 2]] — Quadrato della misura di BD (triangoli simili)

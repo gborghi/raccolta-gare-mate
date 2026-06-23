@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 - [[src_rmo_2000__Q01|Quesito 1]] — Construct isosceles triangles with 120-degree apex, show PQR equilateral
 - [[src_rmo_2000__Q02|Quesito 2]] — Solve y^3 = x^3 + 8x^2 - 6x + 8 in positive integers

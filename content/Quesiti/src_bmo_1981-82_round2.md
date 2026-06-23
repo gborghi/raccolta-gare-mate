@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
 
 - [[src_bmo_1981-82_round2__Q01|Quesito 1]] — Angle bisectors meet circumcircle; prove sum inequality
 - [[src_bmo_1981-82_round2__Q02|Quesito 2]] — Sequence of primes; prove 5 never appears

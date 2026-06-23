@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/Ecolier_Semif_17TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 - [[src_kangourou_2017_ecolier_semifinale__Q01|Quesito 1]] — Ordine di arrivo di una gara da indizi
 - [[src_kangourou_2017_ecolier_semifinale__Q02|Quesito 2]] — Cifra diversa in numero a cinque cifre con somma 42

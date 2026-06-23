@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/BMarzo-19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
 
 - [[src_kangourou_2019_benjamin_marzo__Q01|Quesito 1]] — Come i Maya scrivevano il numero 17 (punto/barra)
 - [[src_kangourou_2019_benjamin_marzo__Q02|Quesito 2]] — Quale immagine puo essere un dado regolare (facce opposte 7)

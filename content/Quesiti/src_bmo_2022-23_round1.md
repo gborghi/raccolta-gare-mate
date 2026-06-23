@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 - [[src_bmo_2022-23_round1__Q01|Quesito 1]] — Find all three-digit n where exactly 1/k numbers start with digit 2
 - [[src_bmo_2022-23_round1__Q02|Quesito 2]] — Maximise count of square numbers in a recurrence sequence

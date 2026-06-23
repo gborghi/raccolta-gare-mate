@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 - [[src_obm_2009_n3_f1__Q01|Quesito 1]] — Count 3-digit numbers that 'detonate' 314 (every digit strictly greater).
 - [[src_obm_2009_n3_f1__Q02|Quesito 2]] — Positive integers m,n with 15m=20n; mn is necessarily a multiple of which value.

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 - [[src_jmo31yq_yosen__Q01|Quesito 1]] — Maximize product mn with m+n=90 and m,n coprime
 - [[src_jmo31yq_yosen__Q02|Quesito 2]] — Shaded area inside a regular decagon of area 1

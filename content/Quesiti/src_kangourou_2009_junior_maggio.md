@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2009/JMaggio-09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
 
 - [[src_kangourou_2009_junior_maggio__QJ1|Quesito J1]] — Minimo pezzi dell'asta da riporre nel quadrato 1x1
 - [[src_kangourou_2009_junior_maggio__QJ2|Quesito J2]] — Il numero 29^28+4 e primo

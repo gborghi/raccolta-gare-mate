@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
 
 - [[src_obm_2016_n1_f3__Q01|Quesito 1]] — Angle bisectors, parallel conditions; prove AB=AC from collinearity
 - [[src_obm_2016_n1_f3__Q02|Quesito 2]] — Smallest n: any n integer-coordinate points have two with squared distance divisible by 2016

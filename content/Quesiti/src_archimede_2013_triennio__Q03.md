@@ -38,4 +38,4 @@ tags:
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)

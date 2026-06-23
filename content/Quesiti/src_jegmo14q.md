@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 - [[src_jegmo14q__Q01|Quesito 1]] — Minimum number of distinct values among 14 subset sums
 - [[src_jegmo14q__Q02|Quesito 2]] — Four points concyclic from orthocenter angle bisector and circumcircle

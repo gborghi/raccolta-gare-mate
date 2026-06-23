@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 - [[src_bmo2_1990__Q01|Quesito 1]] — Prove a polynomial with integer coefficients taking value 1990 at four distinct integers cannot take value 1997.
 - [[src_bmo2_1990__Q02|Quesito 2]] — With fractional part f(x)=x-[x], find a positive x with f(x)+f(1/x)=1; ask whether rational solutions exist.

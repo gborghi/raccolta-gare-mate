@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 - [[src_bocconi_semifinale_2007__Q01|Quesito 1]] — Numero di 4 cifre visto riflesso sulla tuta astronauta
 - [[src_bocconi_semifinale_2007__Q02|Quesito 2]] — Somma delle cifre di $10^7 - 2007$

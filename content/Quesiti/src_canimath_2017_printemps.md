@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WRDBVKTu2eO-0ruMO9lo0GjGJQSpzivB/view)
 
 - [[src_canimath_2017_printemps__Q01|Quesito 1]] — Find three positive integers satisfying two linear conditions
 - [[src_canimath_2017_printemps__Q02|Quesito 2]] — Sum of 5-digit number and its digit-reversal has an even digit

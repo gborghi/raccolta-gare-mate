@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/JMaggio-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BU30qu2TCa9fts5FiD2Cc0ESbI7oLEr9/view)
 
 - [[src_kangourou_2016_junior_finale__QJ1|Quesito J1]] — Comprare gelato da 2 kang con 2 euro, minimo cambi
 - [[src_kangourou_2016_junior_finale__QJ2|Quesito J2]] — Busta A o B con al massimo un errore

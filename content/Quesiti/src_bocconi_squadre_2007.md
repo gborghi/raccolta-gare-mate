@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 - [[src_bocconi_squadre_2007__Q01|Quesito 1]] — Inserire operazioni tra sette 7 per ottenere 34
 - [[src_bocconi_squadre_2007__Q02|Quesito 2]] — Modi per formare 1 Euro con monete da 5, 10, 20 centesimi

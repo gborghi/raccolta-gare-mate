@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 - [[src_obm_2004_n3_f1__Q01|Quesito 1]] — Iterated function application 2004 times from a table.
 - [[src_obm_2004_n3_f1__Q02|Quesito 2]] — Length EF of two points on a semicircle whose feet on the diameter are at distances 1 and 8 from A.

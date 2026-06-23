@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/SMaggio-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
 
 - [[src_kangourou_2006_student_maggio__QS1|Quesito S1]] — Somma minima dei valori assoluti su circonferenza numerata
 - [[src_kangourou_2006_student_maggio__QS2|Quesito S2]] — p+q prodotto di almeno tre interi >1 (primi consecutivi)

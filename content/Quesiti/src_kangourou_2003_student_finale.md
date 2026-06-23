@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/SMaggio-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OBeXoq_PUWofvqyA2y-KxF9LlSDsE0IX/view)
 
 - [[src_kangourou_2003_student_finale__QS1|Quesito S1]] — Possibile 53 persone con 11 strette ciascuna
 - [[src_kangourou_2003_student_finale__QS2|Quesito S2]] — Quanti dispari consecutivi sommano a 1600

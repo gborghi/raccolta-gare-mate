@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 - [[src_canimath_2025_automne__Q01|Quesito 1]] — Find central angle AOC from two given angles OBA and OBC on a circle
 - [[src_canimath_2025_automne__Q02|Quesito 2]] — Maximum candies from 2-coloring 9 connected circles

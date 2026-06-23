@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/SMaggio-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
 
 - [[src_kangourou_2014_finale_student__QS1|Quesito S1]] — misura angolo NMB
 - [[src_kangourou_2014_finale_student__QS2|Quesito S2]] — Luogo dei punti entro distanza 3 con metrica modificata

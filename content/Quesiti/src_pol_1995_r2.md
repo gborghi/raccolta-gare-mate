@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
 
 - [[src_pol_1995_r2__Q01|Quesito 1]] — Polynomial with integer coefficients: P(5) divisible by 2 and P(2) divisible by 5 imply P(7) divisible by 10.
 - [[src_pol_1995_r2__Q02|Quesito 2]] — Convex hexagon ABCDEF with AB=BC, CD=DE, EF=FA: perpendiculars from C,E,A to BD,DF,FB are concurrent.

@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
 
 - [[src_obm_2017_n3_f3__Q01|Quesito 1]] — Decimal digits of two rationals combined into an irrational; index-counting bound
 - [[src_obm_2017_n3_f3__Q02|Quesito 2]] — Set of n positive integers whose pairwise GCDs form a set of exactly k elements

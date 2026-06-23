@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 - [[src_pol_1998_r1__Q01|Quesito 1]] — Solve a system of two equations involving absolute values
 - [[src_pol_1998_r1__Q02|Quesito 2]] — Orthocenter and circumcenter equidistant from a vertex; find angle CAB

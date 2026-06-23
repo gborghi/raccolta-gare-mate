@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VJG3lcmttXkoTtSX_ZbVy5feO9Uy-VFe/view)
 
 - [[src_obm_2012_nu_f1__Q01|Quesito 1]] — Max of |sin²x · sin 2x| and product inequality
 - [[src_obm_2012_nu_f1__Q02|Quesito 2]] — Properties of f(x)=(e^x−1)^(1/x) for x>0

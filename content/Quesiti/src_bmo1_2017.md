@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 - [[src_bmo1_2017__Q01|Quesito 1]] — Find all sets of digits appearing an odd number of times in 1 to 2016
 - [[src_bmo1_2017__Q02|Quesito 2]] — Find all positive reals y satisfying {y}{2y}=1 where {x}=max(x,1/x)

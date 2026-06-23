@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/CMarzo-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 - [[src_kangourou_2016_cadet_marzo__Q01|Quesito 1]] — Quanti interi tra -20,16 e 3,17
 - [[src_kangourou_2016_cadet_marzo__Q02|Quesito 2]] — Segnale stradale con piu assi di simmetria

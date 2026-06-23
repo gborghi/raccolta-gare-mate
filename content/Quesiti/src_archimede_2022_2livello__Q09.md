@@ -32,7 +32,7 @@ tags:
 *Successione ricorsiva, minimo n con a_n divisibile per 2022*
 
 > Poniamo a1 = 1 e, per ogni n ≥2,
-> an = n(a1 + a2 + · · · + an−1).
+> an = n(a1 + a2 + · · + an−1).
 > Qual è il più piccolo valore di n per cui an è divisibile per 2022?
 >
 > - **(A)** 47
@@ -46,4 +46,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)

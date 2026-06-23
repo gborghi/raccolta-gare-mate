@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
 
 - [[src_jjmo18hq_honsen__Q01|Quesito 1]] — Minimize L-trominoes tiling a grid with L and S tiles
 - [[src_jjmo18hq_honsen__Q02|Quesito 2]] — Isosceles triangle with altitude foot; find angle BCD

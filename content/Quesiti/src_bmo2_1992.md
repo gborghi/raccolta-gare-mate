@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 - [[src_bmo2_1992__Q01|Quesito 1]] — For an odd prime p, prove there are unique positive integers x,y with x^2=y(y+p) and find them.
 - [[src_bmo2_1992__Q02|Quesito 2]] — Inequality bounding a sum of reciprocals of three-term sums between two expressions.

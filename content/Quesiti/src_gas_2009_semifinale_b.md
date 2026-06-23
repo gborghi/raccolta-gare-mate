@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2009/Bgas09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 - [[src_gas_2009_semifinale_b__Q01|Quesito 1]] — Coincidenza cicli veglia-sonno, settimane e affitto
 - [[src_gas_2009_semifinale_b__Q02|Quesito 2]] — Area cortile triangolare in quadrato di lato 80

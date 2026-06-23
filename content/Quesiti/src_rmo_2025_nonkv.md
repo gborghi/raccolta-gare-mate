@@ -18,7 +18,7 @@ tags:
   - regione/nonkv
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
 
 - [[src_rmo_2025_nonkv__Q01|Quesito 1]] — Count configurations of n lines with prescribed intersection points
 - [[src_rmo_2025_nonkv__Q02|Quesito 2]] — Find value of expression given three nonzero reals satisfying a system

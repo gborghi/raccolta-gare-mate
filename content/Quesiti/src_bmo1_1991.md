@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 - [[src_bmo1_1991__Q01|Quesito 1]] — Show $3^n + 2 \cdot 17^n$ is never a perfect square
 - [[src_bmo1_1991__Q02|Quesito 2]] — Find $k$ so $x^{k+1}+x+1$ divisible by $x^2+x+1$, then by $x^4+x+1$

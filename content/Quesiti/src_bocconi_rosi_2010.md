@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
 
 - [[src_bocconi_rosi_2010__Q01|Quesito 1]] — Giorno del compleanno di Milena con ritardi
 - [[src_bocconi_rosi_2010__Q02|Quesito 2]] — Tre batteristi suonano insieme ogni periodo diverso

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2003/testibiennio2003.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 - [[src_archimede_2003_biennio__Q01|Quesito 1]] — Segno (cavaliere/furfante/normale) di un abitante che afferma di essere cavaliere
 - [[src_archimede_2003_biennio__Q02|Quesito 2]] — Posizione di un punto interno alle tre circonferenze

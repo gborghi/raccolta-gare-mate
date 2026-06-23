@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
 
 - [[src_canimath_2011_printemps__Q03|Quesito 3]] — Circumscribed circle intersections and hexagon area ratio
 - [[src_canimath_2011_printemps__Q04|Quesito 4]] — Fencing a square field with two perimeter constraints

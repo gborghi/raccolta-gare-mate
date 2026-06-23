@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 - [[src_bmo1_2002__Q01|Quesito 1]] — Find positive integers m,n with n odd satisfying unit fraction sum
 - [[src_bmo1_2002__Q02|Quesito 2]] — Cyclic quadrilateral with equal segment conditions, prove 60-degree angle

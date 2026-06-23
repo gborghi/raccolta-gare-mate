@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2026/Testo-gara-prime-2026.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
 
 - [[src_garaprime_2026__Q01|Quesito 1]] — Prodotto di tutti i divisori di 1024^3
 - [[src_garaprime_2026__Q02|Quesito 2]] — Somma di cinque consecutivi con prodotto 6720

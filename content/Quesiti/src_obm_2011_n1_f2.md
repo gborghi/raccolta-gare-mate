@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 - [[src_obm_2011_n1_f2__Q01|Quesito 1]] — Area of inner rectangle with vertices on sides of outer rectangle
 - [[src_obm_2011_n1_f2__Q02|Quesito 2]] — Find face-sum opposite to face-sum 8 on a labeled cube

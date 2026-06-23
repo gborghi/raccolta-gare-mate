@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/PMarzo-18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
 
 - [[src_kangourou_2018_koala_marzo__Q01|Quesito 1]] — Disegno coi colori scambiati (giallo/nero)
 - [[src_kangourou_2018_koala_marzo__Q02|Quesito 2]] — Linea che collega le coccinelle in ordine di puntini

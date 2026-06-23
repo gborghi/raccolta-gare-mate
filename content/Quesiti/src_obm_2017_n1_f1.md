@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1a3U1xwLG4Liq_aZSUCGfvqkTHMuELPzq/view)
 
 - [[src_obm_2017_n1_f1__Q01|Quesito 1]] — Smallest rectangle area fitting two squares summing to 2017
 - [[src_obm_2017_n1_f1__Q02|Quesito 2]] — Limits of a sequence defined by partial sums

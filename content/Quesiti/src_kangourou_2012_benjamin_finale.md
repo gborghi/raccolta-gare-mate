@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/BMaggio-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eLf47f3d8Db-7K_kEX8gK_re-YyqV8TZ/view)
 
 - [[src_kangourou_2012_benjamin_finale__QB1|Quesito B1]] — A che ora e stata scattata la foto con quattro orologi
 - [[src_kangourou_2012_benjamin_finale__QB2|Quesito B2]] — Quante biglie marroni tra le 20 di Elena

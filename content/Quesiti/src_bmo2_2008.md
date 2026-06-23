@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 - [[src_bmo2_2008__Q01|Quesito 1]] — Minimum of x^2+y^2+z^2 subject to x^3+y^3+z^3-3xyz=1.
 - [[src_bmo2_2008__Q02|Quesito 2]] — Triangle with incentre I and circumcentre O, angle AIO=90 and CIO=45; find AB:BC:CA.

@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 - [[src_canimath_2021_automne__Q01|Quesito 1]] — Compute sum of two arithmetic progressions
 - [[src_canimath_2021_automne__Q02|Quesito 2]] — Isosceles triangle, midpoint symmetric image, find angle MDC in terms of x

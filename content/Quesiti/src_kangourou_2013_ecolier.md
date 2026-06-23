@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2013/EMarzo-13.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 - [[src_kangourou_2013_ecolier__Q01|Quesito 1]] — Quanti mattoni in piu nella piramide di destra
 - [[src_kangourou_2013_ecolier__Q02|Quesito 2]] — In quale immagine ci sono piu canguri neri che bianchi

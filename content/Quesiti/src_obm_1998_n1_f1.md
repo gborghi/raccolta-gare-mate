@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 - [[src_obm_1998_n1_f1__Q01|Quesito 1]] — Largest among five exponential expressions in base 3
 - [[src_obm_1998_n1_f1__Q02|Quesito 2]] — Count distinct sums when three dice are thrown

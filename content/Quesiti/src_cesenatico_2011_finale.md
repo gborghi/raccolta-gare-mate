@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2011/Fgas11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 - [[src_cesenatico_2011_finale__Q01|Quesito 1]] — resti mod 25 e 15, divisibile per 25cl
 - [[src_cesenatico_2011_finale__Q02|Quesito 2]] — Resto k della somma 1!+...+2011! diviso 576

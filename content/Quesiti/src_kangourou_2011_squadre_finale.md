@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2011/SQ-F-11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
 
 - [[src_kangourou_2011_squadre_finale__Q01|Quesito 1]] — Somma cifre piu alta su orologio digitale
 - [[src_kangourou_2011_squadre_finale__Q02|Quesito 2]] — Coppie di rette sghembe tra spigoli di un cubo

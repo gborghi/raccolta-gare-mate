@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2001/febbraio2001testi.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 - [[src_archimede_2001_2livello__Q01|Quesito 1]] — Viaggi uguali per due autocarri a trasportare la sabbia
 - [[src_archimede_2001_2livello__Q02|Quesito 2]] — Minimo n di giri per misurare il circuito con errore <30 m

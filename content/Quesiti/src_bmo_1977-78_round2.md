@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 - [[src_bmo_1977-78_round2__Q01|Quesito 1]] — Convex pentagon unit-triangle property: equal area, infinitely many non-congruent
 - [[src_bmo_1977-78_round2__Q02|Quesito 2]] — Infinitely many n where last m decimal digits of 3^n alternate parity

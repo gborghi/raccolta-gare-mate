@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2014/SQ-F-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 - [[src_kangourou_2014_squadre_f__Q01|Quesito 1]] — Piu grande primo <30 somma di due primi
 - [[src_kangourou_2014_squadre_f__Q02|Quesito 2]] — Somma cifre tasti bianchi per ottenere 2014 con 6 tasti

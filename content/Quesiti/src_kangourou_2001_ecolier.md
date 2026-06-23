@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2001/EMarzo-01.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 - [[src_kangourou_2001_ecolier__Q01|Quesito 1]] — Prossimo disegno della serie riflessa
 - [[src_kangourou_2001_ecolier__Q02|Quesito 2]] — Bastoncini dopo aver spezzato uno

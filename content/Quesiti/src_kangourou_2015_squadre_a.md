@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2015/SQ-A-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 - [[src_kangourou_2015_squadre_a__Q01|Quesito 1]] — Lato del rombo data busta con lati 12 e 16
 - [[src_kangourou_2015_squadre_a__Q02|Quesito 2]] — Multipli di 9 con quattro cifre dispari distinte

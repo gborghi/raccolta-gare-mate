@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 - [[src_bmo1_2013__Q01|Quesito 1]] — Max counters on 8x8 board with no five in a row, column or long diagonal.
 - [[src_bmo1_2013__Q02|Quesito 2]] — Two tangent circles with a common tangent; prove three points are collinear.

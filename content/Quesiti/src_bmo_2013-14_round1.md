@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
 
 - [[src_bmo_2013-14_round1__Q01|Quesito 1]] — Calculate value of ratio of consecutive power sums
 - [[src_bmo_2013-14_round1__Q02|Quesito 2]] — Find angle CDE in triangle with two altitudes

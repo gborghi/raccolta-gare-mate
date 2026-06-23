@@ -33,7 +33,7 @@ tags:
 > Il sesterzio d’ottone
 > [30]
 > Il bardo Assuranceturing ha composto una nuova ballata per celebrare la partenza per la Britannia. Siccome ama strafare, al posto della
-> classica strofa “44 Galli in fila per 6 col resto di 2” ha deciso di cantare “1!+2!+3!+4!+···+2011! Britanni in fila per 4800 col resto di
+> classica strofa “44 Galli in fila per 6 col resto di 2” ha deciso di cantare “1!+2!+3!+4!+··+2011! Britanni in fila per 4800 col resto di
 > k”. Ovviamente viene legato e imbavagliato prima di poter finire, e Borelix si domanda: chissà quanto sarebbe stato il valore di k?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -41,4 +41,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1113
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)

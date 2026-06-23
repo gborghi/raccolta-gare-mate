@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
 
 - [[src_cgen_2018__Q01|Quesito 1]] — Bernstein polynomials (properties, recurrence, partition of unity, probabilistic sums) and the geometric study of degree 0/1/2 Bezier curves.
 - [[src_cgen_2018__Q02|Quesito 2]] — Discrete Dirichlet problem on a connected graph: assign reals to blue points so each equals the average of its neighbors, with given values at yellow points; existence (monotone iteration) and uniqueness of the solution.

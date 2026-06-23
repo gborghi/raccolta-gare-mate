@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2009/Fgas09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 - [[src_gas_2009_finale__Q01|Quesito 1]] — Area di quadrilatero da percorso piano e salita a 45 gradi
 - [[src_gas_2009_finale__Q02|Quesito 2]] — Modi di dividere 9 persone in gruppi con vincoli

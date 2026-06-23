@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
 
 - [[src_inmo_1999__Q01|Quesito 1]] — Acute triangle with angle bisector and midpoint perimeter condition
 - [[src_inmo_1999__Q02|Quesito 2]] — Village cleanup rectangular field with integer sides and 1998 equal parts

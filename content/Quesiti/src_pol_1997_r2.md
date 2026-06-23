@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
 
 - [[src_pol_1997_r2__Q01|Quesito 1]] — Count ordered triples satisfying a symmetric real system
 - [[src_pol_1997_r2__Q02|Quesito 2]] — Prove ratio identity for point P inside triangle with equal angles

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/JMarzo-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 - [[src_kangourou_2007_junior_marzo__Q01|Quesito 1]] — Probabilita prodotto facce visibili divisibile per 6
 - [[src_kangourou_2007_junior_marzo__Q02|Quesito 2]] — Quanti biglietti premiati (vincolo sulle cifre)

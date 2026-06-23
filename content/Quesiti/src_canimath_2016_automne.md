@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 - [[src_canimath_2016_automne__Q01|Quesito 1]] — Logic: who broke the window among four children
 - [[src_canimath_2016_automne__Q02|Quesito 2]] — Area of triangle AOF given isosceles right triangles with OA=8 cm

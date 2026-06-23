@@ -34,7 +34,7 @@ tags:
 > o uguali a 2n + 1 (per esempio f(4) = 1 · 3 · 5 · 7 · 9). Poniamo poi g(n) =
 > n
 > f(n). Cosa si può dire
-> della somma S = g(1) + g(2) + · · · + g(30)?
+> della somma S = g(1) + g(2) + · · + g(30)?
 >
 > - **(A)** S ≤0.35
 > - **(B)** 0.35 < S ≤0.49
@@ -47,4 +47,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
-**Fonte:** apri PDF p.4
+**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)

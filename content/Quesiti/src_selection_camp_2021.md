@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 - [[src_selection_camp_2021__Q01|Quesito 1]] — Disjoint quadrilaterals with 3-same-1-other colored vertices
 - [[src_selection_camp_2021__Q02|Quesito 2]] — Minimize a/b+b/c+c/d+d/a under (a+c)(b+d)=ac+bd

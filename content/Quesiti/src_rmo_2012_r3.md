@@ -18,7 +18,7 @@ tags:
   - regione/r3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 - [[src_rmo_2012_r3__Q01|Quesito 1]] — Inscribed circle touching two quadrant arcs and a side of unit square
 - [[src_rmo_2012_r3__Q02|Quesito 2]] — Divisibility: abc divides (a+b+c)^31 given chained divisibility

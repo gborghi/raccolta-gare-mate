@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)
 
 - [[src_obm_1999_n2_f3__Q01|Quesito 1]] — Area of inner quadrilateral in regular pentagon of area 1
 - [[src_obm_1999_n2_f3__Q02|Quesito 2]] — Can a banished citizen ever return to his original city?

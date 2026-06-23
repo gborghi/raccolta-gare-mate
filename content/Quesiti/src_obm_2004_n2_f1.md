@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 - [[src_obm_2004_n2_f1__Q01|Quesito 1]] — Value of 2^6+2^6+2^6+2^6-4^4
 - [[src_obm_2004_n2_f1__Q02|Quesito 2]] — Value of ratio of two consecutive-integer-sum expressions

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2017/SQ-F-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 - [[src_kangourou_2017_squadre_f__Q01|Quesito 1]] — Piu piccolo numero speciale (prodotto prime = somma ultime)
 - [[src_kangourou_2017_squadre_f__Q02|Quesito 2]] — Quanti nipoti ha Nonna Anna (cugini di Mario ecc)

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
 
 - [[src_bmo1_1998__Q01|Quesito 1]] — 5x5 Latin square with diagonals; show sub-diagonal score cannot be 20
 - [[src_bmo1_1998__Q02|Quesito 2]] — Recurrence mod 100; find remainder of sum of squares mod 8

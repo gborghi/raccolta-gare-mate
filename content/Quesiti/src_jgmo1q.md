@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1180ckG5q7aatjERi-5y5rzura8yZ7JXZ/view)
 
 - [[src_jgmo1q__Q01|Quesito 1]] — Count border black cells in 100x100 grid with 2500 non-adjacent painted cells
 - [[src_jgmo1q__Q02|Quesito 2]] — Sequences of positive integers whose cumulative averages permute all positive integers

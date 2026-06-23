@@ -18,7 +18,7 @@ tags:
   - regione/mumbai
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
 
 - [[src_rmo_2014_mumbai__Q01|Quesito 1]] — Determine if three positive reals satisfying a quartic relation form triangle sides
 - [[src_rmo_2014_mumbai__Q02|Quesito 2]] — Find all positive integer pairs (a,b) from roots in AP and GP

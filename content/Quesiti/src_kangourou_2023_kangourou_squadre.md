@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2023/SQKangourou2023F1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 - [[src_kangourou_2023_kangourou_squadre__Q01|Quesito 1]] — Persone con tre caramelle stesso gusto
 - [[src_kangourou_2023_kangourou_squadre__Q02|Quesito 2]] — Segmento AE in trapezio isoscele con triangolo

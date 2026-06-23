@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 - [[src_pol_1967_r3__Q01|Quesito 1]] — Sequence with recurrence: prove all terms positive
 - [[src_pol_1967_r3__Q02|Quesito 2]] — 100 people in a hall; prove 4 mutually acquainted exist

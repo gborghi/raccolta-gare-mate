@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zhcaRFthPAOn7E_8dttKk0jNO8fP8yfZ/view)
 
 - [[src_obm_2012_n1_f3__Q01|Quesito 1]] — Form two 4-digit numbers using digits 1 to 8 once each; maximize the difference (find their sum) and minimize the sum (find the smallest possible difference).
 - [[src_obm_2012_n1_f3__Q02|Quesito 2]] — Two different hexagons with all interior angles 120 degrees; find the perimeter of ABCDEF and the value of ST+PU from given side lengths.

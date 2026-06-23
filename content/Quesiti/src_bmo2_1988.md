@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
 
 - [[src_bmo2_1988__Q01|Quesito 1]] — Two circles tangent to equilateral triangle sides; find ratio AP/AC
 - [[src_bmo2_1988__Q02|Quesito 2]] — Count arrangements of 2n objects in pairs, order immaterial

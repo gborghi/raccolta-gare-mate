@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
 
 - [[src_jmo25mq_honsen__Q01|Quesito 1]] — Find all positive integers n making 10^n/(n^3+n^2+n+1) an integer
 - [[src_jmo25mq_honsen__Q02|Quesito 2]] — Checkers on triangulated hexagon: find minimum moves to reach any vertex

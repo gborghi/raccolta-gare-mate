@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1992_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 - [[src_imo_1992__Q01|Quesito 1]] — Find a,b,c with (a-1)(b-1)(c-1) dividing abc-1
 - [[src_imo_1992__Q02|Quesito 2]] — Find all f with f(x^2+f(y))=y+f(x)^2

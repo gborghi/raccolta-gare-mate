@@ -43,4 +43,4 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Il numero 2000 si può scrivere come $1 \times 4^2 \times 5^3$ oppure anche come $1 \times 2^4 \times 5^3$. L'ordine dei fattori non ha ovviamente importanza.
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)

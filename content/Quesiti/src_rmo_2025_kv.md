@@ -18,7 +18,7 @@ tags:
   - regione/kv
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
 
 - [[src_rmo_2025_kv__Q01|Quesito 1]] — System of cyclic product equations in nonneg integers, a_i≠1
 - [[src_rmo_2025_kv__Q02|Quesito 2]] — Prove inequality for positive reals with abc=1

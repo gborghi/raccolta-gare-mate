@@ -47,7 +47,7 @@ tags:
 > ACB?
 > 14. La Massima Comun Combinazione [⋆]
 > Goemetrikon: «Ecco la cassaforte! Il codice che la apre è il massimo comun divisore di tutti i numeri della forma
-> 1n +2n +3n +···+999n dove n è un intero positivo. . . ».
+> 1n +2n +3n +··+999n dove n è un intero positivo. . . ».
 > Jig∈N: «Accidenti, non abbiamo tempo di calcolare infiniti numeri!». Lupin/3 sogghigna. Qual è il codice?
 > 15. Salto dell’ispettore
 > L’ispettore Zenonigata è convinto di riuscire a catturare tutti e tre i ladri. Egli si trova nel baricentro del triangolo
@@ -76,4 +76,4 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4191
-**Fonte:** apri PDF p.30
+**Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)

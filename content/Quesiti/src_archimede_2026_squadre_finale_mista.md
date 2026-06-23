@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2026/finale_mista_2026_testi.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 - [[src_archimede_2026_squadre_finale_mista__Q01|Quesito 1]] — Minimo vichinghi leali a tavola rotonda con dichiarazioni
 - [[src_archimede_2026_squadre_finale_mista__Q02|Quesito 2]] — Minimo k intero con t che soddisfa disequazione

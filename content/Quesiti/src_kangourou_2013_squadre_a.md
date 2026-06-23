@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2013/SQ-A-13.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 - [[src_kangourou_2013_squadre_a__Q01|Quesito 1]] — Numero operai prima dell'aumento ore di lavoro
 - [[src_kangourou_2013_squadre_a__Q02|Quesito 2]] — Lato LM rettangolo da angoli uguali in similitudine

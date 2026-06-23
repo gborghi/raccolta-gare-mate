@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
 
 - [[src_bmo_2023-24_round2__Q01|Quesito 1]] — Prove 49 of first 60 terms of a decimal sequence have ≥3 prime factors
 - [[src_bmo_2023-24_round2__Q02|Quesito 2]] — Find all integer functions satisfying 2f(f(n))=5f(n)−2n

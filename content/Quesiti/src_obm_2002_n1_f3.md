@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15lQ7pjQw33CmRKlTG9zAbRyQY3NZVoW3/view)
 
 - [[src_obm_2002_n1_f3__Q01|Quesito 1]] — 5x5 grid of integers 1-25: choose five numbers, no two in the same line or column; find a set with largest element 23, and one whose largest element is smallest possible
 - [[src_obm_2002_n1_f3__Q02|Quesito 2]] — X is reflection of B across line r (perpendicular bisector setup); X' Y' Z' are reflections of vertices of triangle XYZ across the opposite sides; compute the area of triangle X'Y'Z'

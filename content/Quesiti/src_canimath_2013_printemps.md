@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 - [[src_canimath_2013_printemps__Q03|Quesito 3]] — Rhombus with special point K on CD, prove A, K, P collinear
 - [[src_canimath_2013_printemps__Q04|Quesito 4]] — Smallest denominator of sum of two irreducible fractions with denominators 600 and 700

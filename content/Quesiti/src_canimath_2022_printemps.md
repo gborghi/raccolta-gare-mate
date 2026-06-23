@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 - [[src_canimath_2022_printemps__Q01|Quesito 1]] — Compute a nested radical
 - [[src_canimath_2022_printemps__Q02|Quesito 2]] — Isosceles triangle, symmetric point and altitude foot, find the three angles

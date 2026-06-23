@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1986_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
 
 - [[src_imo_1986__Q01|Quesito 1]] — Find pair in {2,5,13,d} with ab-1 not perfect square
 - [[src_imo_1986__Q02|Quesito 2]] — Rotation sequence returning to P0 forces equilateral triangle

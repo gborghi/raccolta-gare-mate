@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/BMarzo-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
 
 - [[src_kangourou_2012_benjamin__Q01|Quesito 1]] — Quale figura ha l'area bianca maggiore della grigia
 - [[src_kangourou_2012_benjamin__Q02|Quesito 2]] — Colori diversi per lettere uguali in KAENGURUWETTBEWERB

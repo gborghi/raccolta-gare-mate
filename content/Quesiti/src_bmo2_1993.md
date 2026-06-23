@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 - [[src_bmo2_1993__Q01|Quesito 1]] — Smallest angle sum for inscribed triangle with distinct unit angles
 - [[src_bmo2_1993__Q02|Quesito 2]] — Prove $2^{m-1} \equiv 1 \pmod{m}$ for Mersenne-type $m$

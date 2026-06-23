@@ -30,7 +30,7 @@ tags:
 
 *Quanti segni cambiati per ottenere 1997 dalla somma*
 
-> Nella somma 1 + 2 + 3 + · · · + 100, quanti segni + devono essere cambiati in −al
+> Nella somma 1 + 2 + 3 + · · + 100, quanti segni + devono essere cambiati in −al
 > minimo per poter ottenere 1997?
 >
 > - **(A)** Meno di 10
@@ -44,4 +44,4 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)

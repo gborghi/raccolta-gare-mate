@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
 
 - [[src_rmo_1997__Q01|Quesito 1]] — Triangle area and quadrilateral area from cevians
 - [[src_rmo_1997__Q02|Quesito 2]] — Find all values taken by a sequence term given gcd recurrence

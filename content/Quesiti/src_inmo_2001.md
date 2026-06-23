@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
 
 - [[src_inmo_2001__Q01|Quesito 1]] — Reflections of point P in triangle sides; incentre, circumcentre, orthocentre
 - [[src_inmo_2001__Q02|Quesito 2]] — Equation x²+y²+z²=(x-y)(y-z)(z-x) has infinitely many integer solutions

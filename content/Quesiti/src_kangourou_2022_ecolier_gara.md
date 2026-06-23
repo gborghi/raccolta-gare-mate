@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Ecolier2022REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 - [[src_kangourou_2022_ecolier_gara__Q01|Quesito 1]] — Numeri da inserire per rendere corretta 2020+_=2022+_
 - [[src_kangourou_2022_ecolier_gara__Q02|Quesito 2]] — Minimo scatole da togliere per aprire la nera

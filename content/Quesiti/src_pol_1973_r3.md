@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
 
 - [[src_pol_1973_r3__Q01|Quesito 1]] — Every polynomial is a difference of two increasing polynomials
 - [[src_pol_1973_r3__Q02|Quesito 2]] — Probability of heads up in 100 tosses; sequence convergence

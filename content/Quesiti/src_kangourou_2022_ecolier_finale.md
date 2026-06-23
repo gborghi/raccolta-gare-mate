@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Ecolier2022RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 - [[src_kangourou_2022_ecolier_finale__Q01|Quesito 1]] — Quante pagine mancano (231 ... permutazione)
 - [[src_kangourou_2022_ecolier_finale__Q02|Quesito 2]] — Quanti valori distinti come somma di due da 1 a 2022

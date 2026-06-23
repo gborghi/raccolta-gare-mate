@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2012/GaraASquadre_Cesenatico_2012.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 - [[src_cesenatico_2012_semifinale_c__Q01|Quesito 1]] — Giorno d'inizio raccolta figurine (doppioni 1/13)
 - [[src_cesenatico_2012_semifinale_c__Q02|Quesito 2]] — Antenati Matemaya (rami con 7 maschi e 7 femmine)

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
 
 - [[src_pol_1992_r3__Q01|Quesito 1]] — Circumcenter of PAB, prove OP perpendicular to CD
 - [[src_pol_1992_r3__Q02|Quesito 2]] — Find all functions on rationals with two functional equations

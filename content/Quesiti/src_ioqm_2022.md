@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 - [[src_ioqm_2022__Q01|Quesito 1]] — Triangle inscribed in circle, tangent through B, area bound
 - [[src_ioqm_2022__Q02|Quesito 2]] — Parallelogram ABCD, point P on AB, Q on AD, find AC/AT

@@ -35,7 +35,7 @@ tags:
 > Dimostrare che
 > 1
 > x1
-> + · · · + 1
+> + · · + 1
 > xn
 > < 3.
 
@@ -43,4 +43,4 @@ tags:
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)

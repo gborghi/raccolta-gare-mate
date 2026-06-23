@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/EMaggio-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
 
 - [[src_kangourou_2004_ecolier_finale__QE1|Quesito E1]] — Mossa vincente nel TRIS
 - [[src_kangourou_2004_ecolier_finale__QE2|Quesito E2]] — Max cubetti visibili del cubo 11x11x11

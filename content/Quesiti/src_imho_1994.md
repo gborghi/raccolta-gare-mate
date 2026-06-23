@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
 
 - [[src_imho_1994__Q01|Quesito 1]] — Distinct elements of {1..n} with pairwise sum condition
 - [[src_imho_1994__Q02|Quesito 2]] — Isosceles triangle ABC with AB=AC; perpendicularity condition

@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lOJCEY5_AKOF2CG2hkgyD8fhqvhk5Tjs/view)
 
 - [[src_obm_2007_nu_f1__Q01|Quesito 1]] — Probability of ever reaching exactly n points in a coin game; closed form
 - [[src_obm_2007_nu_f1__Q02|Quesito 2]] — Minimal period of f equals 2pi/m, m = gcd of indices with nonzero coefficients

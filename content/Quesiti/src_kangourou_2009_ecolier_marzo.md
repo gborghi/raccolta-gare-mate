@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2009/EMarzo-09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 - [[src_kangourou_2009_ecolier_marzo__Q01|Quesito 1]] — Per quale importo serve il resto (monete)
 - [[src_kangourou_2009_ecolier_marzo__Q02|Quesito 2]] — Quanti cubetti ha portato via Anna

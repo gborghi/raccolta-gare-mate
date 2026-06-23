@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/SMarzo-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 - [[src_kangourou_2017_student_marzo__Q01|Quesito 1]] — Valore della frazione 20x17 su somma cifre
 - [[src_kangourou_2017_student_marzo__Q02|Quesito 2]] — 87

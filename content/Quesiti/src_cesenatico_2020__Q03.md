@@ -31,7 +31,7 @@ tags:
 
 > Siano a1, a2, . . . , a2020 e b1, b2, . . . , b2020 dei numeri reali, non necessariamente distinti.
 > Supponiamo che gli interi positivi n per cui l’equazione
-> a1|x −b1| + a2|x −b2| + · · · + a2020|x −b2020|
+> a1|x −b1| + a2|x −b2| + · · + a2020|x −b2020|
 >  = n
 > (1)
 > ha esattamente due soluzioni reali siano in numero finito.
@@ -42,4 +42,4 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gylN-2GSxpemPcbzJfcfMtzLwdIYnXYe/view)

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
 
 - [[src_pol_1988_r3__Q01|Quesito 1]] — Real numbers summing to integer with bounded partial sums
 - [[src_pol_1988_r3__Q02|Quesito 2]] — Expected number of equiprobable permutation indices

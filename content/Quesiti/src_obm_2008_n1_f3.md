@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
 
 - [[src_obm_2008_n1_f3__Q01|Quesito 1]] — Square of side 12 split into 7 rectangles; identify and find area of highlighted square
 - [[src_obm_2008_n1_f3__Q02|Quesito 2]] — Operation replacing each digit with its successor mod 9, eliminating leading zeros; sequence and fixed-point analysis

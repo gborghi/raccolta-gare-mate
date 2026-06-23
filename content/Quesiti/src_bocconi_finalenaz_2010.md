@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 - [[src_bocconi_finalenaz_2010__Q01|Quesito 1]] — Quattro orologi: che ora è adesso?
 - [[src_bocconi_finalenaz_2010__Q02|Quesito 2]] — Fiammiferi da togliere per eliminare tutti i quadrati

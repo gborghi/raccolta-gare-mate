@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 - [[src_cgen_2004__Q01|Quesito 1]] — A family of equal mutually tangent circles aligned along a half-line; tangent line cuts the circles, chord lengths and a collinearity
 - [[src_cgen_2004__Q02|Quesito 2]] — Study of the surface z^2 = x(x-1) - y(y-1): plane sections, axis of symmetry, nature of the surface, and rational/integer condition

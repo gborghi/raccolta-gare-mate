@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 - [[src_obm_2015_n1_f2__Q01|Quesito 1]] — Square cut into 3 pieces rearranged into rectangle; find new perimeter
 - [[src_obm_2015_n1_f2__Q02|Quesito 2]] — T-shirt discounts: 3 at 10% vs 2 at 5%, difference 12 reais; find discounted price

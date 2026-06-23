@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2011/JMaggio-11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1A8qimI9Qnb556w2mXg3Qay5AZ8S_1rqs/view)
 
 - [[src_kangourou_2011_junior_finale__QJ1|Quesito J1]] — Minima differenza tra numeri con somma cifre divisibile per 5
 - [[src_kangourou_2011_junior_finale__QJ2|Quesito J2]] — Max numero di cifre distinte divisibile per ognuna delle sue cifre

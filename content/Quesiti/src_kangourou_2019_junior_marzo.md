@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/JMarzo-19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 - [[src_kangourou_2019_junior_marzo__Q01|Quesito 1]] — Valore di 20x19+20+19
 - [[src_kangourou_2019_junior_marzo__Q02|Quesito 2]] — Scritta SHAVE vista allo specchio dopo rotazione 180 gradi

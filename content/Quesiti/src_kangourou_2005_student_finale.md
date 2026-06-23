@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2005/SMaggio-05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17jy_hcOypk4l2PIs-W5a2ozUpvF5XmFy/view)
 
 - [[src_kangourou_2005_student_finale__QS1|Quesito S1]] — Suddividere esagono regolare in 8 parti uguali
 - [[src_kangourou_2005_student_finale__QS2|Quesito S2]] — Somma coefficienti dello sviluppo di (2x-y+z)^8

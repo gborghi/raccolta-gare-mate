@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1971_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 - [[src_imo_1971_all__Q01|Quesito 1]] — Symmetric product inequality true only for n=3,5
 - [[src_imo_1971_all__Q02|Quesito 2]] — Two of nine translated polyhedra share interior point

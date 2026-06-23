@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/BMaggio-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1HlzNO2AuFJjjUewqK6pEVbHM3Q7hk560/view)
 
 - [[src_kangourou_2015_finale_benjamin__QB1|Quesito B1]] — Dado non regolare con condizioni di somma facce opposte
 - [[src_kangourou_2015_finale_benjamin__QB2|Quesito B2]] — primo o secondo?

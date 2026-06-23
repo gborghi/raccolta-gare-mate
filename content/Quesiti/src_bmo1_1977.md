@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 - [[src_bmo1_1977__Q01|Quesito 1]] — Multiplicative f with digit-3 and f(10)=0 conditions implies f=0
 - [[src_bmo1_1977__Q02|Quesito 2]] — Midpoint of BC collinear with midpoints of BX and CY for incircle contact

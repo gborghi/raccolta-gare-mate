@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/CMarzo-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 - [[src_kangourou_2006_cadet__Q01|Quesito 1]] — Valore di 20x(0+6)-(20x0)+6
 - [[src_kangourou_2006_cadet__Q02|Quesito 2]] — Evento piu probabile nel lancio di un dado

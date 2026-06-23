@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2021/giochi_archimede_2021/archimede_biennio_tradizionale.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 - [[src_archimede_2021_biennio_tradizionale__Q01|Quesito 1]] — Triangoli con due vertici dello stesso colore su circonferenza
 - [[src_archimede_2021_biennio_tradizionale__Q02|Quesito 2]] — Massimo valore di 3-2x dato (5-4x)(5x-4)=0

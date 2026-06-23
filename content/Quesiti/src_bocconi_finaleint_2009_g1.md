@@ -21,7 +21,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 - [[src_bocconi_finaleint_2009_g1__Q01|Quesito 1]] — Numero massimo di tetramini a L collocabili senza sovrapposizioni in una scacchiera 6x5.
 - [[src_bocconi_finaleint_2009_g1__Q02|Quesito 2]] — Numero iniziale di biglie, ricavato da una relazione fra triplo delle date e meta delle rimanenti.

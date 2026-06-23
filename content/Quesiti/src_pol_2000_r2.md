@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
 
 - [[src_pol_2000_r2__Q01|Quesito 1]] — Decide whether every positive rational can be written as (a^3+b^3)/(c^3+d^3) with positive integers a,b,c,d.
 - [[src_pol_2000_r2__Q02|Quesito 2]] — In triangle ABC the bisector of angle BAC meets the circumcircle at D; K and L are projections of B and C onto line AC; show AD >= BK+CL.

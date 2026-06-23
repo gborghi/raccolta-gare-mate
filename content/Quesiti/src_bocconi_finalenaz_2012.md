@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 - [[src_bocconi_finalenaz_2012__Q01|Quesito 1]] — Undici numeri in ordine alfabetico, terzultima posizione
 - [[src_bocconi_finalenaz_2012__Q02|Quesito 2]] — Distanza in metri tra casa di Renato e la scuola

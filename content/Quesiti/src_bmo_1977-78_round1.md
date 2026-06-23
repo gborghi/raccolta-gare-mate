@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 - [[src_bmo_1977-78_round1__Q01|Quesito 1]] — Find point P inside triangle maximising product of distances to sides
 - [[src_bmo_1977-78_round1__Q02|Quesito 2]] — Prove no rational with denominator ≤100 has decimal block 167 in ten consecutive digits

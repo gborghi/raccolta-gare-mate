@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/S-settembre20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1TNLTY-N5_R2aDojc_Feic8HuZ8gVY6JO/view)
 
 - [[src_kangourou_2020_student_settembre__Q01|Quesito 1]] — Cifra delle unita del minimo n con 7n di 2021 cifre
 - [[src_kangourou_2020_student_settembre__Q02|Quesito 2]] — Numeri in posizione speciale in griglia 2020x2020

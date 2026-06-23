@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
 
 - [[src_obm_2021_n3_fx__Q01|Quesito 1]] — Four circumcenters of subtriangles of convex quadrilateral are concyclic
 - [[src_obm_2021_n3_fx__Q02|Quesito 2]] — Max marked cells in 2×3n board with adjacency constraint; count configurations

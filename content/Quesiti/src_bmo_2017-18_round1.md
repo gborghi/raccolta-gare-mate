@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 - [[src_bmo_2017-18_round1__Q01|Quesito 1]] — Compare sums of remainders of 365 by 1..365 and 366 by 1..366
 - [[src_bmo_2017-18_round1__Q02|Quesito 2]] — Max and min number of days at least five of six friends swim

@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
 
 - [[src_obm_2024_n2_fx__Q01|Quesito 1]] — Sequence formed by repeated prime-factorization operation; three sub-parts
 - [[src_obm_2024_n2_fx__Q02|Quesito 2]] — Cyclic concyclicity result in triangle with circumscribed circles and midpoints

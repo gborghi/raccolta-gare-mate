@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
 
 - [[src_jmo29mq_honsen__Q01|Quesito 1]] — Diophantine equation in three positive integers
 - [[src_jmo29mq_honsen__Q02|Quesito 2]] — Grid-writing game maximizing row/column multiple-of-n score

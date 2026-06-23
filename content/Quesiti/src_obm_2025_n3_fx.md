@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
 
 - [[src_obm_2025_n3_fx__Q01|Quesito 1]] — Find positive integer n and 2n non-negative reals with three properties
 - [[src_obm_2025_n3_fx__Q02|Quesito 2]] — Acute triangle with circumcircle; concurrency/collinearity of specific intersection points

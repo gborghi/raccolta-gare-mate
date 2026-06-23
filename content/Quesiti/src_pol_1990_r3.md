@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
 
 - [[src_pol_1990_r3__Q01|Quesito 1]] — Find all functions f:R->R satisfying a given functional equation.
 - [[src_pol_1990_r3__Q02|Quesito 2]] — Prove a cyclic sum of fractions in positive numbers is at most n-1.

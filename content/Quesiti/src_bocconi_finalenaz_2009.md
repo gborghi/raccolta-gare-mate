@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 - [[src_bocconi_finalenaz_2009__Q01|Quesito 1]] — Massimo numero di bambini in ascensore con 10 adulti
 - [[src_bocconi_finalenaz_2009__Q02|Quesito 2]] — Chi ha rotto il vetro tra Angelo, Desiderio e Nando

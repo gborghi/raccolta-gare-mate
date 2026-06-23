@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 - [[src_bmo_2009-10_round2__Q01|Quesito 1]] — Line up children so each is beside at most two of their friends
 - [[src_bmo_2009-10_round2__Q02|Quesito 2]] — Prove angle condition in triangle iff right angle at C

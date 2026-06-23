@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
 
 - [[src_jjmo7mq_honsen__Q01|Quesito 1]] — Sum of integers coprime to n; find when sum is prime
 - [[src_jjmo7mq_honsen__Q02|Quesito 2]] — Angle in triangle with BP+CQ=PQ and circumcircle intersection

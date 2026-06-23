@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 - [[src_selection_camp_2016__Q01|Quesito 1]] — Angle bisector, circumcircle tangent, circumcircle intersection angle equality
 - [[src_selection_camp_2016__Q02|Quesito 2]] — Find minimum n for set with exactly 2015 good partitions

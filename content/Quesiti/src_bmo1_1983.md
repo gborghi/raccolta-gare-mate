@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 - [[src_bmo1_1983__Q01|Quesito 1]] — Circumcentre, midpoint, centroid collinearity in triangle
 - [[src_bmo1_1983__Q02|Quesito 2]] — Fibonacci sequence divisibility by m for all n

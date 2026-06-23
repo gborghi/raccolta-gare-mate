@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_SfCnSHm4hFbj_TGxa2GoahJiFYpdibk/view)
 
 - [[src_tfjm_2021__Q01|Quesito 1]] — Bomb with combination lock: shortest sequence of single-wheel clicks passing through all combinations
 - [[src_tfjm_2021__Q02|Quesito 2]] — Two-player token elimination game on a row using offset sets; analyze winning strategies and periodicity

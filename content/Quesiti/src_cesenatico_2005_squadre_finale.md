@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2005/GASces05f.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 - [[src_cesenatico_2005_squadre_finale__Q01|Quesito 1]] — piastrellature 2 rett bianchi e 2 neri
 - [[src_cesenatico_2005_squadre_finale__Q02|Quesito 2]] — Massimo numero collaboratori, ognuno 3 campi su 8

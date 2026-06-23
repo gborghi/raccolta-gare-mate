@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RJQcrE2LoxqUG0FX5qFL59QY5bS7h8dG/view)
 
 - [[src_cgen_2025__Q01|Quesito 1]] — Addition on a parabola: an operation defined geometrically via secants/tangents to y=x^2 meeting the line y=-1; associativity, then a sequence of points and its convergence via heights of rationals.
 - [[src_cgen_2025__Q02|Quesito 2]] — Positive and bounded sequences: for the recurrence u_{n+2}=u_{n+1}^2 - alpha u_n^4 with u_0=u_1=1, determine which real alpha make all terms positive (property P) and which make the sequence bounded (property B).

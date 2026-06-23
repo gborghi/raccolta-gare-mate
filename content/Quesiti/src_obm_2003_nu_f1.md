@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
 
 - [[src_obm_2003_nu_f1__Q01|Quesito 1]] — Volume of convex polyhedron with integer vertices on sphere radius sqrt(2)
 - [[src_obm_2003_nu_f1__Q02|Quesito 2]] — Count ways to schedule rest days with no three consecutive training days

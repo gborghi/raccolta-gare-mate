@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 - [[src_obm_2005_n1_f1__Q01|Quesito 1]] — Divisibility by 13 from a product identity
 - [[src_obm_2005_n1_f1__Q02|Quesito 2]] — Deducing color of removed marbles from a box

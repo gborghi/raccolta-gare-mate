@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 - [[src_bmo_2016-17_round1__Q01|Quesito 1]] — Count odd digits in integers 1 to 2016
 - [[src_bmo_2016-17_round1__Q02|Quesito 2]] — 3-smooth greatest divisor; find all pairs (m,n) with n·f(m)=m·f(n)

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 - [[src_jmo33ya_yosen__Q01|Quesito 1]] — Problem statement not present in source (answer sheet only)
 - [[src_jmo33ya_yosen__Q02|Quesito 2]] — Problem statement not present in source (answer sheet only)

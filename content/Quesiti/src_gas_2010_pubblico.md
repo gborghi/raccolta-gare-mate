@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2010/ITA_Pgas10.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 - [[src_gas_2010_pubblico__Q01|Quesito 1]] — Anni multipli auto-referenziale fino al 2726
 - [[src_gas_2010_pubblico__Q02|Quesito 2]] — Probabilita che almeno 2 punti fissi in rotazione del cubo

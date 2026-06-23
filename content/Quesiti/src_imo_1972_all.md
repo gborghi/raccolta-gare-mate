@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1972_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 - [[src_imo_1972_all__Q01|Quesito 1]] — Ten two-digit numbers have two disjoint equal-sum subsets
 - [[src_imo_1972_all__Q02|Quesito 2]] — Dissect cyclic quadrilateral into n cyclic quadrilaterals

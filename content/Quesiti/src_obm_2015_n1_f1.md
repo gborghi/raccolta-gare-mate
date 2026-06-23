@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 - [[src_obm_2015_n1_f1__Q01|Quesito 1]] — Order of toy cars arriving from clue constraints
 - [[src_obm_2015_n1_f1__Q02|Quesito 2]] — Time to cut a log into 9 pieces given cost of 5 cuts

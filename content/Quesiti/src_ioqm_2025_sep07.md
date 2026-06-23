@@ -18,7 +18,7 @@ tags:
   - regione/sep07
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 - [[src_ioqm_2025_sep07__Q01|Quesito 1]] — 60% of x is 40; find x% of 60
 - [[src_ioqm_2025_sep07__Q02|Quesito 2]] — Count positive integers ≤100 divisible by 3 but not 2

@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
 
 - [[src_obm_2008_nu_f1__Q01|Quesito 1]] — Find all integer n so a cubic has three integer roots
 - [[src_obm_2008_nu_f1__Q02|Quesito 2]] — Count lines meeting four given parametric lines simultaneously

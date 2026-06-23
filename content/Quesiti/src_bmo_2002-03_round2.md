@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 - [[src_bmo_2002-03_round2__Q01|Quesito 1]] — Largest prime factor triples in arithmetic progression
 - [[src_bmo_2002-03_round2__Q02|Quesito 2]] — Triangle angle bisector meets median, prove angle less than 90 degrees

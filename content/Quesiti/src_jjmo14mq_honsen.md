@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RNe77mqSS5KaVCDyNI-U80o5ArYTZuAL/view)
 
 - [[src_jjmo14mq_honsen__Q01|Quesito 1]] — Altitude feet, two circumcircles, midpoint of chord
 - [[src_jjmo14mq_honsen__Q02|Quesito 2]] — n×n Latin-row grid, maximize adjacent equal-number pairs

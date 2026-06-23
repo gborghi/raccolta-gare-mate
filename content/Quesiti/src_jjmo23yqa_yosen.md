@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 - [[src_jjmo23yqa_yosen__Q01|Quesito 1]] — Largest GCD of two positive integers summing to 2025
 - [[src_jjmo23yqa_yosen__Q02|Quesito 2]] — Assign distinct positive integers to 8 points on 6 lines so each line sums to 10

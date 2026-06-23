@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Student2021RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
 - [[src_kangourou_2021_student_finale__QS1|Quesito S1]] — Rapporto dei volumi di due sfere viste della stessa grandezza
 - [[src_kangourou_2021_student_finale__QS2|Quesito S2]] — Numero massimo di travasi per ripristinare i recipienti

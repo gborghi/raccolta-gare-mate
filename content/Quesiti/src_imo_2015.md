@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2015_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
 - [[src_imo_2015__Q01|Quesito 1]] — Insiemi bilanciati e centre-free di n punti
 - [[src_imo_2015__Q02|Quesito 2]] — Triple (a,b,c) con ab-c,bc-a,ca-b potenze di 2

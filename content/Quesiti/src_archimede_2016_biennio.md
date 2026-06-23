@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2016/GiochiArchimede2016/archimede_biennio_2016.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1w98Us2ogDSfVMh4NQofZesTOzitRRSQB/view)
 
 - [[src_archimede_2016_biennio__Q01|Quesito 1]] — Numero di cifre di 1000^1000
 - [[src_archimede_2016_biennio__Q02|Quesito 2]] — Numeri distinti dopo dimezzare i pari fino a 1000

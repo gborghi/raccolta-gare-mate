@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
 
 - [[src_inmo_2015__Q01|Quesito 1]] — Right-angled triangle, incenters, circumcenter on hypotenuse
 - [[src_inmo_2015__Q02|Quesito 2]] — Length of non-periodic part of decimal expansion of 1/n

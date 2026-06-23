@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
 
 - [[src_inmo_2017__Q01|Quesito 1]] — Square folded; inradius of GCA equals sum of inradii of GDF and A'BE
 - [[src_inmo_2017__Q02|Quesito 2]] — Find integer roots of cubic with parameter n

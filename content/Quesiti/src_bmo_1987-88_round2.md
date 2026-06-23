@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
 
 - [[src_bmo_1987-88_round2__Q01|Quesito 1]] — Equilateral triangle with inscribed circles; prove ratio AP/AC = 4/5 and find AQ/AC
 - [[src_bmo_1987-88_round2__Q02|Quesito 2]] — Count ways to pair 2n objects; count pair arrangements for married couples

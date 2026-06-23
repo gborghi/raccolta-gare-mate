@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
 
 - [[src_obm_2021_nu_fx__Q01|Quesito 1]] — Circulant 3x3 matrices with det=1: rational entries infinite, integer entries finite
 - [[src_obm_2021_nu_fx__Q02|Quesito 2]] — Find all C² functions satisfying f(t)²=f(t√2) for all real t

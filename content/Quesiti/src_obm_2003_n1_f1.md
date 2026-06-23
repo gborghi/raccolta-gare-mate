@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 - [[src_obm_2003_n1_f1__Q01|Quesito 1]] — Minimum cubes to complete a solid cube from 11 glued cubes
 - [[src_obm_2003_n1_f1__Q02|Quesito 2]] — Average monthly water consumption over 5 months

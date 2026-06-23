@@ -51,4 +51,4 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(36,64)$, $(130,158)$, $(96,144)$, $(50,90)$, $(112,152)$, $(42,82)$, $(84,136)$, $(58,110)$ (larghezza, lunghezza)
-**Fonte:** apri PDF
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)

@@ -32,4 +32,4 @@ tags:
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m2cu1BB_orH_NN83juhxGA750WDLvpjb/view)

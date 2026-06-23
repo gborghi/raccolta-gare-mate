@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Ecolier2024RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 - [[src_kangourou_2024_ecolier_semifinale__Q01|Quesito 1]] — Numero di cioccolatini regalati a tre figli
 - [[src_kangourou_2024_ecolier_semifinale__Q02|Quesito 2]] — Quanti treni incontra il treno delle 6.00

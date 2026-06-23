@@ -18,7 +18,7 @@ tags:
   - regione/r1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
 
 - [[src_rmo_2012_r1__Q01|Quesito 1]] — Find ratios BP/PE and AP/PD in triangle with midpoint
 - [[src_rmo_2012_r1__Q02|Quesito 2]] — Divisibility chain implies abc divides (a+b+c)^13

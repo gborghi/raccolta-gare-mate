@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
 
 - [[src_jmo16mq_honsen__Q01|Quesito 1]] — Circle geometry: prove two arc-midpoint chords are equal
 - [[src_jmo16mq_honsen__Q02|Quesito 2]] — Find all integers k with infinitely many integer solutions to the equation

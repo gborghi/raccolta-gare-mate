@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
 
 - [[src_pol_2007_r3__Q01|Quesito 1]] — Acute triangle with circumcenter and altitude; prove a ratio equality involving perpendicular foot intersections.
 - [[src_pol_2007_r3__Q02|Quesito 2]] — White/black positive integers defined by parity of prime factor count; existence of integer with equal sums of white and black divisors.

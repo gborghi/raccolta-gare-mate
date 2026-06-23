@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 - [[src_bmo_1979-80_round1__Q01|Quesito 1]] — Prove no integer solution to $x^n+y^n=z^n$ with $0<x\le n$, $0<y\le n$
 - [[src_bmo_1979-80_round1__Q02|Quesito 2]] — Find 7 consecutive integers with a degree-5 integer-coefficient polynomial vanishing on 5 of them

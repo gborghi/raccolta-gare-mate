@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 - [[src_bmo_1974-75_round1__Q01|Quesito 1]] — Solve floor-of-square-roots sum equal to 400
 - [[src_bmo_1974-75_round1__Q02|Quesito 2]] — Divisor of difference of prime-set products is 1 or at least p_n

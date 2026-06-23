@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/GS_2010_testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 - [[src_gs_2010__Q01|Quesito 1]] — Massima strada del cane in un gioco di lancio palla
 - [[src_gs_2010__Q02|Quesito 2]] — Persone allo sportello con biglietto Q3 e regola di chiamata

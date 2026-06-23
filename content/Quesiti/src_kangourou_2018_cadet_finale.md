@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/C-settembre18.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
 
 - [[src_kangourou_2018_cadet_finale__QC1|Quesito C1]] — Giri di B perche le tre tacche tornino allineate
 - [[src_kangourou_2018_cadet_finale__QC2|Quesito C2]] — Massimo cassette che Eugenio tiene con 7 furgoni

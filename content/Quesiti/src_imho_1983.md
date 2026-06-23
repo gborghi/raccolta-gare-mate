@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
 - [[src_imho_1983__Q01|Quesito 1]] — Find all functions satisfying two functional equations
 - [[src_imho_1983__Q02|Quesito 2]] — Midpoints and tangent lines to two coplanar circles

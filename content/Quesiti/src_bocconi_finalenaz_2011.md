@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 - [[src_bocconi_finalenaz_2011__Q01|Quesito 1]] — Quante carte rosse nel mazzetto di sotto
 - [[src_bocconi_finalenaz_2011__Q02|Quesito 2]] — Quattro regine che non si minacciano nella mini-scacchiera

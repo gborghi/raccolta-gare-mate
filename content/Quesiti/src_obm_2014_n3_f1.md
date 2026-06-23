@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 - [[src_obm_2014_n3_f1__Q01|Quesito 1]] — Smallest power-product integer with exactly 2014 positive divisors
 - [[src_obm_2014_n3_f1__Q02|Quesito 2]] — Logic puzzle: four doors, exactly one of four messages lies

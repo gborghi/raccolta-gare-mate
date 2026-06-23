@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2013/testo-triennio-def.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 - [[src_archimede_2013_biennio__Q05|Quesito 1]] — Diminuzione percentuale androidi dopo aumento popolazione
 - [[src_archimede_2013_biennio__Q03|Quesito 2]] — Probabilita di testa al lancio successivo di moneta

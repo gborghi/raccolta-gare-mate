@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2012/SQ-F-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 - [[src_kangourou_2012_squadre_finale__Q01|Quesito 1]] — Di quanto la somma dei pari supera quella dei dispari
 - [[src_kangourou_2012_squadre_finale__Q02|Quesito 2]] — Aumento percentuale area triangolo con lati +20%

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/143KgNKQ3Cj2BArKcUazU0jzaqTTOSK6-/view)
 
 - [[src_imho_2006__Q01|Quesito 1]] — Point in triangle interior with angle and equality condition
 - [[src_imho_2006__Q02|Quesito 2]] — Regular 2006-gon diagonals: max isosceles triangles in dissection

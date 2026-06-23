@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 - [[src_bmo_1993-94_round1__Q01|Quesito 1]] — Three-digit number ratio n/f(n) where f sums digits, pair products, full product
 - [[src_bmo_1993-94_round1__Q02|Quesito 2]] — Identify triangle ACX given angle and midpoint/trisection conditions

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 - [[src_bmo1_1979__Q01|Quesito 1]] — Find triangle with altitude meeting BC at right angles
 - [[src_bmo1_1979__Q02|Quesito 2]] — Find unique points on rays so three triangles share perimeter 2s

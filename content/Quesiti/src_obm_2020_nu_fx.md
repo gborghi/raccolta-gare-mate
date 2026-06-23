@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
 
 - [[src_obm_2020_nu_fx__Q01|Quesito 1]] — Limit of average of n(k) over R^{1/2} as R tends to infinity
 - [[src_obm_2020_nu_fx__Q02|Quesito 2]] — Infinitely many non-Fibonacci positive integers exist

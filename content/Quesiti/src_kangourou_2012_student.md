@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/SMarzo-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 - [[src_kangourou_2012_student__Q01|Quesito 1]] — Aspetto del quadrante dell'orologio con lancette diverse
 - [[src_kangourou_2012_student__Q02|Quesito 2]] — Ore con livello dell'acqua sopra 30 cm dal grafico

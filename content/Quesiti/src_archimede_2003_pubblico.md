@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2003/GaraPubblico2003.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 - [[src_archimede_2003_pubblico__Q01|Quesito 1]] — problema 1
 - [[src_archimede_2003_pubblico__Q02|Quesito 2]] — problema 2

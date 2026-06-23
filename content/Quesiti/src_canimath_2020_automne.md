@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 - [[src_canimath_2020_automne__Q01|Quesito 1]] — Compute a telescoping product of consecutive fractions
 - [[src_canimath_2020_automne__Q02|Quesito 2]] — Find the number of floors of two buildings given total bathrooms and bedrooms

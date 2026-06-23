@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
 
 - [[src_obm_2019_n2_fx__Q01|Quesito 1]] — Count and characterize 'robust' and 'super-robust' 8-digit numbers
 - [[src_obm_2019_n2_fx__Q02|Quesito 2]] — Prove inequality involving min and max of two positive integers

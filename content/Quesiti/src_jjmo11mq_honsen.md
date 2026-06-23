@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 - [[src_jjmo11mq_honsen__Q01|Quesito 1]] — Max number of the 12 sums/products equal to 1
 - [[src_jjmo11mq_honsen__Q02|Quesito 2]] — Game pouring milk and tea to make two good milk teas

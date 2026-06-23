@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 - [[src_obm_2024_n3_fx__Q01|Quesito 1]] — Infinite integer sequence with zero sums and nonzero terms
 - [[src_obm_2024_n3_fx__Q02|Quesito 2]] — Equilateral triangles on hypotenuse; intersection of cevians equals product of segments

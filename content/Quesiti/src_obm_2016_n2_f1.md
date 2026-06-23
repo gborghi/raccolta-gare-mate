@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 - [[src_obm_2016_n2_f1__Q01|Quesito 1]] — Sum of numbers at vertices of a tetrahedron given face sums with 2 and 7
 - [[src_obm_2016_n2_f1__Q02|Quesito 2]] — Position of Josias in a line given people before and after

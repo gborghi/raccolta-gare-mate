@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2024/SQJunior2024F2.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 - [[src_kangourou_2024_junior_squadre_f2__Q01|Quesito 1]] — Minimo ABC con media permutazioni divisibile 60
 - [[src_kangourou_2024_junior_squadre_f2__Q02|Quesito 2]] — Somma max e min lunghezza rete ripartizione

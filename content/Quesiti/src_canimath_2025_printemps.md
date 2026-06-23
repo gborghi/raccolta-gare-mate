@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 - [[src_canimath_2025_printemps__Q01|Quesito 1]] — Compute a simple arithmetic expression with fractions
 - [[src_canimath_2025_printemps__Q02|Quesito 2]] — Find angle PXQ in rectangle using two angle conditions

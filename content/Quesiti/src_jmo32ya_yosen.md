@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 - [[src_jmo32ya_yosen__Q01|Quesito 1]] — Smallest 4-digit multiple of 3 above 2022 with exactly 2 distinct digits
 - [[src_jmo32ya_yosen__Q02|Quesito 2]] — Area of trapezoid with inscribed circle, given two lateral sides

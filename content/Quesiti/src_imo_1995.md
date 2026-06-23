@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1995_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
 
 - [[src_imo_1995__Q01|Quesito 1]] — Prove AM, DN, XY concurrent in two-diameter-circles config
 - [[src_imo_1995__Q02|Quesito 2]] — Prove sum of 1/(a^3(b+c)) at least 3/2 for abc=1

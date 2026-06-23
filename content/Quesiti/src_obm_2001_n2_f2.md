@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
 
 - [[src_obm_2001_n2_f2__Q01|Quesito 1]] — Tangram parallelogram area given unit square
 - [[src_obm_2001_n2_f2__Q02|Quesito 2]] — Grid path numbering; find coordinates of point 2001

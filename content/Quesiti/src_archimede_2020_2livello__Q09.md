@@ -36,10 +36,10 @@ tags:
 > 
 > 
 > 
-> 203x1 + 213x2 + 223x3 + · · · + 493x30 = 13
-> 213x1 + 223x2 + 233x3 + · · · + 503x30 = 1
-> 223x1 + 233x2 + 243x3 + · · · + 513x30 = 19.
-> Quanto vale 21x1 + 22x2 + 23x3 + · · · + 50x30?
+> 203x1 + 213x2 + 223x3 + · · + 493x30 = 13
+> 213x1 + 223x2 + 233x3 + · · + 503x30 = 1
+> 223x1 + 233x2 + 243x3 + · · + 513x30 = 19.
+> Quanto vale 21x1 + 22x2 + 23x3 + · · + 50x30?
 >
 > - **(A)** Ci sono più valori accettabili
 > - **(B)** Il sistema non ha soluzione
@@ -52,4 +52,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
-**Fonte:** apri PDF p.4
+**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)

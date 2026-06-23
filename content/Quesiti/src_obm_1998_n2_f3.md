@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
 
 - [[src_obm_1998_n2_f3__Q01|Quesito 1]] — Consecutive interior angles in convex pentagon sum over 216°
 - [[src_obm_1998_n2_f3__Q02|Quesito 2]] — Find angle BAC given midpoints and equal-angle conditions in triangle

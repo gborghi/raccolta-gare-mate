@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2002/JMarzo-02.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
 
 - [[src_kangourou_2002_junior__Q01|Quesito 1]] — Rapporto perimetri nelle due regioni
 - [[src_kangourou_2002_junior__Q02|Quesito 2]] — Nome dal albero genealogico

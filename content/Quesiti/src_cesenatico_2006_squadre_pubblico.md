@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2006/Pgas06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 - [[src_cesenatico_2006_squadre_pubblico__Q01|Quesito 1]] — numero nella colonna grigia
 - [[src_cesenatico_2006_squadre_pubblico__Q02|Quesito 2]] — Piu grande x con cbrt(x+1184)-cbrt(x-1184)=4

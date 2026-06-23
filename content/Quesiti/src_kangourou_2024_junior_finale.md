@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Junior2024RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
 
 - [[src_kangourou_2024_junior_finale__QJ1|Quesito J1]] — Sono di piu le frazioni riducibili o irriducibili (1..12)
 - [[src_kangourou_2024_junior_finale__QJ2|Quesito J2]] — Due triangoli con due lati e un'altezza uguali sono congruenti

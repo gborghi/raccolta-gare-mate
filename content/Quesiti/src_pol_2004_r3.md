@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
 
 - [[src_pol_2004_r3__Q01|Quesito 1]] — Two circles through D tangent at A and B; collinearity of D, E, F
 - [[src_pol_2004_r3__Q02|Quesito 2]] — Polynomial with coprime values; infinite pairwise-coprime set

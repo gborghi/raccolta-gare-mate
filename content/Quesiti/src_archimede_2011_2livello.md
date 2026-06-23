@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2011/soluzionifebb11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 - [[src_archimede_2011_2livello__Q01|Quesito 1]] — Superficie totale del cubo di cioccolato ceduto
 - [[src_archimede_2011_2livello__Q02|Quesito 2]] — Massimo tartarughe tra volpi/serpenti/tartarughe

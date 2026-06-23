@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1D68pXdGvkXbm-KXlSsEwpd843491VqiZ/view)
 
 - [[src_cgen_2009__Q01|Quesito 1]] — Functional equation f(2x)=2f(x)^2-1 with f(0)=1; show f(x)=cos(x*sqrt(2a)) using trig substitution and limits.
 - [[src_cgen_2009__Q02|Quesito 2]] — Four 20-sided dice; score the face value if a face appears at least twice; compute probabilities, expected gain, and reroll strategies.

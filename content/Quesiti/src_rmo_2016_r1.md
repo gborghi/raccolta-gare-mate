@@ -18,7 +18,7 @@ tags:
   - regione/r1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
 
 - [[src_rmo_2016_r1__Q01|Quesito 1]] — Right-angled triangle, incenter, perpendicular foot, prove distance formula
 - [[src_rmo_2016_r1__Q02|Quesito 2]] — Prove inequality involving positive reals summing to 1

@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 - [[src_obm_2005_n3_f1__Q01|Quesito 1]] — Count integers between 10 and 13000 whose digits are consecutive and increasing
 - [[src_obm_2005_n3_f1__Q02|Quesito 2]] — Angle LMN where L, M, N are midpoints of edges of a cube

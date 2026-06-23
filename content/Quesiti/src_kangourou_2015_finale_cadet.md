@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/CMaggio-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lJat_HJPa_if1S_8tiIXnJFfuMmekK2y/view)
 
 - [[src_kangourou_2015_finale_cadet__QC1|Quesito C1]] — primo o secondo?
 - [[src_kangourou_2015_finale_cadet__QC2|Quesito C2]] — condizioni per incrocio treni

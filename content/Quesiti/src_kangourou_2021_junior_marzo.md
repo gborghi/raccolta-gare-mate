@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Junior2021REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 - [[src_kangourou_2021_junior_marzo__Q01|Quesito 1]] — Data errata del Giorno Kangourou (terzo giovedi marzo)
 - [[src_kangourou_2021_junior_marzo__Q02|Quesito 2]] — Grafico fedele dell'andamento delle temperature

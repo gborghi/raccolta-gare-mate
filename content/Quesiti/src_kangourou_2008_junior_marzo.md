@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/JMarzo-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 - [[src_kangourou_2008_junior_marzo__Q01|Quesito 1]] — Quale vocale resta nel riquadro 2
 - [[src_kangourou_2008_junior_marzo__Q02|Quesito 2]] — Primo anno con somma eta figli > eta padre

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/soluzioni/GS_2010_soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 - [[src_gs_2010_squadre__Q01|Quesito 1]] — Distanza percorsa dal cane in tre ore
 - [[src_gs_2010_squadre__Q02|Quesito 2]] — Successione ricorsiva di chiamata dei numeri

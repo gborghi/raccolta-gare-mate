@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/JMarzo-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 - [[src_kangourou_2016_junior_marzo__Q01|Quesito 1]] — Numero piu vicino a 17x0,3x20,16/999
 - [[src_kangourou_2016_junior_marzo__Q02|Quesito 2]] — Resto di 3x diviso 6 dato resto di x uguale 3

@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 - [[src_obm_1998_n2_f1__Q01|Quesito 1]] — Count integers satisfying a double inequality with square root
 - [[src_obm_1998_n2_f1__Q02|Quesito 2]] — Day of week 99 days after a Saturday

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
 
 - [[src_jmo30hq_honsen__Q01|Quesito 1]] — Find all positive integer pairs making two expressions integers
 - [[src_jmo30hq_honsen__Q02|Quesito 2]] — Circumcircles and perpendicularity condition in triangle ABC

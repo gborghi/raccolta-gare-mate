@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/JMarzo-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 - [[src_kangourou_2014_junior__Q01|Quesito 1]] — Data piu antica possibile del terzo giovedi di marzo
 - [[src_kangourou_2014_junior__Q02|Quesito 2]] — Lunghezza approssimativa di un container data la fila

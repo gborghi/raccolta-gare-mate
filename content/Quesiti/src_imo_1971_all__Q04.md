@@ -33,4 +33,4 @@ tags:
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)

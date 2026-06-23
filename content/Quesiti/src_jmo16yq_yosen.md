@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 - [[src_jmo16yq_yosen__Q01|Quesito 1]] — Max value of n-m for 3-digit number with digit sum condition
 - [[src_jmo16yq_yosen__Q02|Quesito 2]] — Side length of equilateral triangle with interior point and given foot distances

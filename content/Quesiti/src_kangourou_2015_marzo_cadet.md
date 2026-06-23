@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/CMarzo-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 - [[src_kangourou_2015_marzo_cadet__Q01|Quesito 1]] — quale rappresentazione
 - [[src_kangourou_2015_marzo_cadet__Q02|Quesito 2]] — lato maggiore

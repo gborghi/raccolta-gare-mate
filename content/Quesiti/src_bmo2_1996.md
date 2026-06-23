@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 - [[src_bmo2_1996__Q01|Quesito 1]] — Find non-negative integer solutions to exponential Diophantine equation
 - [[src_bmo2_1996__Q02|Quesito 2]] — Two triangles with related sides; prove right-angle and find angles

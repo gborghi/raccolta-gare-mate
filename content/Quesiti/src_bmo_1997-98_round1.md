@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
 
 - [[src_bmo_1997-98_round1__Q01|Quesito 1]] — 5x5 grid filled like Latin square; analyze score below diagonal
 - [[src_bmo_1997-98_round1__Q02|Quesito 2]] — Mod-100 Fibonacci-like sequence; sum of squares mod 8

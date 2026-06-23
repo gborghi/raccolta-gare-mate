@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2021/giochi_archimede_2021/archimede_triennio_tradizionale.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 - [[src_archimede_2021_triennio__Q01|Quesito 1]] — Triangoli con due vertici dello stesso colore su circonferenza
 - [[src_archimede_2021_triennio__Q02|Quesito 2]] — Massimo valore di 5-3/x con prodotto di fattori nullo

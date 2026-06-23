@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2016/SQE-F-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
 
 - [[src_kangourou_2016_squadre_ecolier_f__Q01|Quesito 1]] — Numero uguale al triplo del proprio doppio
 - [[src_kangourou_2016_squadre_ecolier_f__Q02|Quesito 2]] — Quanti multipli di 3 sommando 4 a partire da 7 fino a 200

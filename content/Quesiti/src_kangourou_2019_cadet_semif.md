@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/Cadet_Semif_19TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
 
 - [[src_kangourou_2019_cadet_semif__Q01|Quesito 1]] — In quanti angoli identici a epsilon si ripartisce il piano
 - [[src_kangourou_2019_cadet_semif__Q02|Quesito 2]] — Quale poligono non si puo staccare con un taglio

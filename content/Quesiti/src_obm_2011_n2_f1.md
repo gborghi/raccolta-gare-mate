@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
 
 - [[src_obm_2011_n2_f1__Q01|Quesito 1]] — Minimum toll on one-way road map from A to B
 - [[src_obm_2011_n2_f1__Q02|Quesito 2]] — Width of equal side strips covering 20% of a rectangular plot

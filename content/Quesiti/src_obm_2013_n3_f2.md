@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 - [[src_obm_2013_n3_f2__Q01|Quesito 1]] — Rectangle with integer sides whose perimeter equals area numerically; find n
 - [[src_obm_2013_n3_f2__Q02|Quesito 2]] — Maximum non-attacking bishops on 8x8 chessboard

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2011/Bgas11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 - [[src_cesenatico_2011_semifinale_b__Q01|Quesito 1]] — altezza
 - [[src_cesenatico_2011_semifinale_b__Q02|Quesito 2]] — Quaterne a,b,c,d con abcd=40! e ab=n!

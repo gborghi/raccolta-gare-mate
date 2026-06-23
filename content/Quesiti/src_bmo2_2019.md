@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
 
 - [[src_bmo2_2019__Q01|Quesito 1]] — Perpendicular bisector geometry, prove triangle BPE isosceles
 - [[src_bmo2_2019__Q02|Quesito 2]] — Chess pieces on n²×n² board, find winning values of n

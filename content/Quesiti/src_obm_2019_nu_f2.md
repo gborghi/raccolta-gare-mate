@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
 
 - [[src_obm_2019_nu_f2__Q01|Quesito 1]] — Existence of a rational 2019x2019 matrix satisfying a cubic / quartic polynomial equation
 - [[src_obm_2019_nu_f2__Q02|Quesito 2]] — Existence of a continuous increasing function squeezed between consecutive iterated-exponential growth scales

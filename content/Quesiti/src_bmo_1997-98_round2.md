@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 - [[src_bmo_1997-98_round2__Q01|Quesito 1]] — Pigeonhole on ticket sales to many destinations
 - [[src_bmo_1997-98_round2__Q02|Quesito 2]] — Two circumcircles of a configuration touch

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 - [[src_bmo2_2002__Q01|Quesito 1]] — Altitude from vertex of triangle bisects opposite side angle
 - [[src_bmo2_2002__Q02|Quesito 2]] — Conference seating delegates find set of values of n

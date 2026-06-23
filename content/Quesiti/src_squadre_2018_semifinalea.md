@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2018/GareASquadreDiMatematica_Cesenatico2018.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 - [[src_squadre_2018_semifinalea__Q01|Quesito 1]] — Numero di cifre della somma di numeri triangolari fino a 1918
 - [[src_squadre_2018_semifinalea__Q02|Quesito 2]] — Percorsi distinti dal centro al bordo di scacchiera 13x13

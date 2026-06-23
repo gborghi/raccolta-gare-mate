@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 - [[src_bmo_1995-96_round1__Q01|Quesito 1]] — Find all four-digit perfect-square pairs differing by one in two digits
 - [[src_bmo_1995-96_round1__Q02|Quesito 2]] — Compute f(1996) given f(1)=1996 and a recursive sum condition

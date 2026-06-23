@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1991_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 - [[src_imo_1991__Q01|Quesito 1]] — Bound product of incenter-vertex over bisector ratios
 - [[src_imo_1991__Q02|Quesito 2]] — Equally-spaced totatives imply n prime or power of 2

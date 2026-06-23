@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 - [[src_obm_2016_n1_f2__Q01|Quesito 1]] — Count integers less than 2016 whose cube has fewer than 10 digits
 - [[src_obm_2016_n1_f2__Q02|Quesito 2]] — Used-car dealer: 20% profit on one car, 20% loss on another at same price; total result

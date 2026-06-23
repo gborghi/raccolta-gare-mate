@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2012/SQ-A-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 - [[src_kangourou_2012_squadre_semifinale__Q01|Quesito 1]] — Quanti n con n-2012 e n+2012 entrambi a 4 cifre
 - [[src_kangourou_2012_squadre_semifinale__Q02|Quesito 2]] — Quadrato del cateto AC nel triangolo rettangolo

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12FvNr0jk5CMfk7r3Xncci7U9Z2FtRov9/view)
 
 - [[src_imho_1969__Q01|Quesito 1]] — Infinitely many natural numbers with non-prime property
 - [[src_imho_1969__Q02|Quesito 2]] — Prove x1 minus x2 equals pi over m

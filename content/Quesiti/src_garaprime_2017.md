@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2017/GaraPrime2017.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 - [[src_garaprime_2017__Q01|Quesito 1]] — Cifre 1 nella rappresentazione binaria di 255*257
 - [[src_garaprime_2017__Q02|Quesito 2]] — Resto di un repunit binario di 2017 cifre diviso 16

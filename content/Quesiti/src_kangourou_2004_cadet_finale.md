@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/CMaggio-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
 
 - [[src_kangourou_2004_cadet_finale__QC1|Quesito C1]] — Aumento superficie del solido scavato
 - [[src_kangourou_2004_cadet_finale__QC2|Quesito C2]] — Min a con somma a+...+9a a cifre uguali

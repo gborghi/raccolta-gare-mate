@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
 
 - [[src_inmo_1994__Q01|Quesito 1]] — Triangle with obtuse angle at C; medians, centroid, circle, parallelogram
 - [[src_inmo_1994__Q02|Quesito 2]] — Real root of degree-5 polynomial implies inequality

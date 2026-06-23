@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1965_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
 
 - [[src_imo_1965_all__Q01|Quesito 1]] — Solve trig inequality with abs value on [0,2pi]
 - [[src_imo_1965_all__Q02|Quesito 2]] — Prove diagonally-dominant 3x3 system has only zero solution

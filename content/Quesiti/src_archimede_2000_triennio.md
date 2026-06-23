@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2000/Archimede2000/testitriennio2000.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 - [[src_archimede_2000_biennio__Q11|Quesito 1]] — Distanza tra podista e ciclista dopo tre ore di spola
 - [[src_archimede_2000_triennio__Q02|Quesito 2]] — Quale tra le potenze date e maggiore dell'unita

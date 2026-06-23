@@ -18,7 +18,7 @@ tags:
   - regione/r2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1O1FDigJNhO9Zlam3ioTuOXoyYqoOZxhF/view)
 
 - [[src_rmo_2012_r2__Q01|Quesito 1]] — Quadrant circle inscribed in unit square, find radius
 - [[src_rmo_2012_r2__Q02|Quesito 2]] — Positive integers with divisibility, same set of prime divisors

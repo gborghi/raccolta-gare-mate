@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/GS_2007_testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 - [[src_gs_2007__Q01|Quesito 1]] — Ora indicata da orologio digitale con proprieta somma cifre
 - [[src_gs_2007__Q02|Quesito 2]] — ricostruire cifre di una sottrazione

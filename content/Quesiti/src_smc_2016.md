@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 - [[src_smc_2016__Q01|Quesito 1]] — How many times does the digit 9 appear in 987654321 × 9?
 - [[src_smc_2016__Q02|Quesito 2]] — On Monday prices at Isla's shop are 20% more than normal; on Friday 10% less than normal. James bought a book on Monday for £5.50. What is the price on Friday?

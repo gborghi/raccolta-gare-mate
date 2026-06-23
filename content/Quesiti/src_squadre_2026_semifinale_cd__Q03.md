@@ -54,7 +54,7 @@ tags:
 >  3
 > 11
 > 2!
-> −···+
+> −··+
 >  
 > 11
 > 11 −
@@ -77,4 +77,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0133
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)

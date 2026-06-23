@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
 
 - [[src_jjmo22yqa_yosen__Q01|Quesito 1]] — Smallest 5-digit number whose digit sum is 8 and that becomes a perfect square when 1 is added
 - [[src_jjmo22yqa_yosen__Q02|Quesito 2]] — Find length BC using two concentric circles, secant and tangent

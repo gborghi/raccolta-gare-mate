@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1970_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 - [[src_imo_1970_all__Q01|Quesito 1]] — Inradius/exradius product relation for split triangle
 - [[src_imo_1970_all__Q02|Quesito 2]] — Base-a vs base-b digit ratio inequality iff a>b

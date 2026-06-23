@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 - [[src_obm_2000_n1_f1__Q01|Quesito 1]] — Extend multiplication pattern to find missing multiplier
 - [[src_obm_2000_n1_f1__Q02|Quesito 2]] — Salary with overtime: find base pay

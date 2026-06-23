@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2025/finale_femminile_2025_testi.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 - [[src_squadre_2025_femminile__Q01|Quesito 1]] — Valore k per cui polinomio divisibile per 57x-1
 - [[src_squadre_2025_femminile__Q02|Quesito 2]] — Somma aree infinita di triangoli con punti medi

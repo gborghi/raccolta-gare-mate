@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1959_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ihObuxTMxHEVmwyJ8gW9FigcAcTqfGob/view)
 
 - [[src_imho_1959__Q01|Quesito 1]] — Provare che (21n+4)/(14n+3) e irriducibile
 - [[src_imho_1959__Q02|Quesito 2]] — Valori reali di x per una equazione con radici annidate

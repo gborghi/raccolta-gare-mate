@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 - [[src_jjmo4q__Q01|Quesito 1]] — Compute an arithmetic expression with products and sums
 - [[src_jjmo4q__Q02|Quesito 2]] — Area of square PQRS with vertices on sides of rectangle ABCD

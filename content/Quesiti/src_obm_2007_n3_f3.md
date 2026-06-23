@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
 
 - [[src_obm_2007_n3_f3__Q01|Quesito 1]] — Prove the n-fold iterate of a fixed quadratic equals zero has a real solution for every n
 - [[src_obm_2007_n3_f3__Q02|Quesito 2]] — Count integers c in [-2007,2007] for which x^2+c is a multiple of 2^2007 for some integer x

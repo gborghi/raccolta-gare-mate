@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
 
 - [[src_obm_2002_n3_f2__Q01|Quesito 1]] — Find 4-digit number from exactly one true clue
 - [[src_obm_2002_n3_f2__Q02|Quesito 2]] — Find reals a,b,c from three symmetric product equations

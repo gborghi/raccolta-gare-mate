@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AH0yViVdXFQ9Y_GJejaNbOzxPiHzQl9i/view)
 
 - [[src_imho_2003__Q01|Quesito 1]] — Disjoint translated subsets from a 101-element subset of S
 - [[src_imho_2003__Q02|Quesito 2]] — Find all pairs (m,n) making a fraction a positive integer

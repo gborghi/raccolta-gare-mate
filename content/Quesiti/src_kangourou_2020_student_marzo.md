@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/SMarzo-20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 - [[src_kangourou_2020_student_marzo__Q01|Quesito 1]] — Somma ultime due cifre del prodotto 1x2x..x1
 - [[src_kangourou_2020_student_marzo__Q02|Quesito 2]] — Lunghezza del cammino della formica sopra due ostacoli

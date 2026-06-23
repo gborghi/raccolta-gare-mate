@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 - [[src_jjmo15yq_yosen__Q01|Quesito 1]] — Largest integer of distinct nonzero digits, every adjacent pair a multiple of 7
 - [[src_jjmo15yq_yosen__Q02|Quesito 2]] — Largest integer not exceeding sqrt(123456789)

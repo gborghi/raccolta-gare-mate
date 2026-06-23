@@ -32,11 +32,11 @@ tags:
 
 > Sia x la più piccola delle due soluzioni dell’equazione x2 −4x + 2 = 0. Quali sono le prime tre cifre
 > dopo la virgola nella scrittura (in base 10) del numero
-> x + x2 + x3 + · · · + x2009?
+> x + x2 + x3 + · · + x2009?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 414
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)

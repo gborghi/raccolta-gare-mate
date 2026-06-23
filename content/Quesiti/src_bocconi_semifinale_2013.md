@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
 
 - [[src_bocconi_semifinale_2013__Q01|Quesito 1]] — Classifiche possibili al termine di una gara ciclistica
 - [[src_bocconi_semifinale_2013__Q02|Quesito 2]] — Modi di scegliere 5 dadi con somma pari

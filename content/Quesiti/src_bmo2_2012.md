@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 - [[src_bmo2_2012__Q01|Quesito 1]] — Cyclic quadrilateral with diagonals meeting at E; midpoints of the four sides; prove the circles EPS and EQR have equal radius.
 - [[src_bmo2_2012__Q02|Quesito 2]] — Recursively defined function on positive integers using floors of (2n-1)/3 and 2n/3; decide whether f(n)-f(n-1) <= n for all n>1.

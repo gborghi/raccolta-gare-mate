@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
 
 - [[src_jjmo12mq_honsen__Q01|Quesito 1]] — Find all integers n≥2 whose small divisors satisfy d² | n
 - [[src_jjmo12mq_honsen__Q02|Quesito 2]] — Prove A≤B for minimum consecutive ratios of 2n positive rationals

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1994_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
 
 - [[src_imo_1994__Q01|Quesito 1]] — Sum-closed subset average is at least (n+1)/2
 - [[src_imo_1994__Q02|Quesito 2]] — OQ perpendicular EF iff QE=QF

@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18lHsUkA6TjiVCKvRGHHFZ98nGkOcKHvM/view)
 
 - [[src_obm_2006_nu_f2__Q01|Quesito 1]] — Prove integral inequality for increasing integrable function
 - [[src_obm_2006_nu_f2__Q02|Quesito 2]] — Count 2x2 integer matrices with determinant kn+1 mod n

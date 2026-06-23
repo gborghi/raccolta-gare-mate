@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2016/GiochiArchimede2016/archimede_triennio_2016.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 - [[src_archimede_2016_triennio__Q01|Quesito 1]] — Minuti in campo per giocatore, 16 su 11
 - [[src_archimede_2016_triennio__Q02|Quesito 2]] — Dismutazioni di 4 portachiavi

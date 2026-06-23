@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1t1VifBoLdIYTQCp9KTilPVmufvuvo00a/view)
 
 - [[src_obm_2005_nu_f1__Q01|Quesito 1]] — Find area of triangle formed by tangent lines to cubic
 - [[src_obm_2005_nu_f1__Q02|Quesito 2]] — Evaluate a definite integral involving ln(1+tg x)

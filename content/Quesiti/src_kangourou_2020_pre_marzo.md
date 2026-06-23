@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/PMarzo-20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 - [[src_kangourou_2020_pre_marzo__Q01|Quesito 1]] — Gradino su cui canguro e coniglio si incontrano
 - [[src_kangourou_2020_pre_marzo__Q02|Quesito 2]] — Quale foto del palloncino davanti al castello

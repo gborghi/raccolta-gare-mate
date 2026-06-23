@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2005/GASces05a.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 - [[src_cesenatico_2005_squadre_semifinale_a__Q01|Quesito 1]] — Angolo in configurazione di triangoli isosceli annidati
 - [[src_cesenatico_2005_squadre_semifinale_a__Q02|Quesito 2]] — Area massima di due semicerchi da stoffa 100x50

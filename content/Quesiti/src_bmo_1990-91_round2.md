@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 - [[src_bmo_1990-91_round2__Q01|Quesito 1]] — Right triangle median angle bound: sin theta ≤ 1/√5
 - [[src_bmo_1990-91_round2__Q02|Quesito 2]] — Dwarfs with reversible cloaks: prove changes eventually stop

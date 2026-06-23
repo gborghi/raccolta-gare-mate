@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Cadet2024REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 - [[src_kangourou_2024_cadet__Q01|Quesito 1]] — Quale cordino chiuso non puo essere disposto a 8
 - [[src_kangourou_2024_cadet__Q02|Quesito 2]] — Di quale percentuale e maggiore l'area della seconda figura

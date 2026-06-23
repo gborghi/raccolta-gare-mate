@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/GS_2013_testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 - [[src_gs_2013__Q01|Quesito 1]] — Numero di lettere del vincitore da sette dei (uno dice il vero)
 - [[src_gs_2013__Q02|Quesito 2]] — Perimetro massimo dopo due piegature a meta di un foglio

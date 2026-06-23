@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 - [[src_bmo_2021-22_round2__Q01|Quesito 1]] — Find all k with infinitely many k-numbers
 - [[src_bmo_2021-22_round2__Q02|Quesito 2]] — Find all functions satisfying 2yf(f(y)+x)=f(x+1)f(2y)

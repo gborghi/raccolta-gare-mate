@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
 - [[src_cgen_1997__Q01|Quesito 1]] — Tokens at vertices of a regular 1997-gon carry integers with strictly positive total; can a start vertex let you collect all tokens keeping the running sum positive, and how many such vertices?
 - [[src_cgen_1997__Q02|Quesito 2]] — Maximize the volume of a right cylinder inscribed in a capsule formed by a sphere and a cone sharing the same axis

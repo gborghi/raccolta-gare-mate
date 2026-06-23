@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1I0LRY7GCUGrK3CaQym2-0VxiENqQdLFa/view)
 
 - [[src_jjmo24hq_honsen__Q01|Quesito 1]] — Grid integers with adjacency and per-row-pair conditions, find max n
 - [[src_jjmo24hq_honsen__Q02|Quesito 2]] — Angle bisector, perpendicular bisector of AD, four concyclic points

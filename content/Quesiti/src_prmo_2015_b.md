@@ -18,7 +18,7 @@ tags:
   - regione/b
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 - [[src_prmo_2015_b__Q01|Quesito 1]] — Walk and ride round trip; find hours to walk both ways
 - [[src_prmo_2015_b__Q02|Quesito 2]] — Two quadratics share one common root; find k

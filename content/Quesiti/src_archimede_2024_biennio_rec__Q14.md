@@ -29,7 +29,7 @@ tags:
 
 *Primi il cui quadrato divide il prodotto da 31 a 51*
 
-> Sia K = 31 · 32 · 33 · · · · · 50 · 51 il prodotto dei numeri interi da 31 a 51.
+> Sia K = 31 · 32 · 33 · · · 50 · 51 il prodotto dei numeri interi da 31 a 51.
 > Quanti sono i numeri primi il cui quadrato divide K?
 > ((tenere presente che il numero 1 non è primo))
 >
@@ -43,4 +43,4 @@ tags:
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)

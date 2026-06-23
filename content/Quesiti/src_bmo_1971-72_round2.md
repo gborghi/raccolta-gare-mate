@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 - [[src_bmo_1971-72_round2__Q01|Quesito 1]] — Label regular n²-gon vertices with digits 1,2 satisfying four conditions
 - [[src_bmo_1971-72_round2__Q02|Quesito 2]] — Prove S = ab/c + bc/d + cd/a + da/b ≥ 4 and find equality conditions

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
 
 - [[src_imho_1998__Q01|Quesito 1]] — Cyclic quadrilateral iff two triangles have equal areas
 - [[src_imho_1998__Q02|Quesito 2]] — Judges rating contestants: prove k/a >= (b-1)/(2b)

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Koala2022REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
 
 - [[src_kangourou_2022_koala__Q01|Quesito 1]] — Quale scatola contiene più triangoli
 - [[src_kangourou_2022_koala__Q02|Quesito 2]] — ultima casella

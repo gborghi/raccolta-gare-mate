@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 - [[src_jjmo24yqa_yosen__Q01|Quesito 1]] — Triangle ABC overlapping rectangle DFGE; find area of ABC
 - [[src_jjmo24yqa_yosen__Q02|Quesito 2]] — Maximize n(a+b)(a+b+c)(a+b+c+d) equal to a perfect square

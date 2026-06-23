@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 - [[src_obm_2010_n2_f2__Q01|Quesito 1]] — Smallest N so that 33N has all digits equal to 7; find digit sum of N
 - [[src_obm_2010_n2_f2__Q02|Quesito 2]] — Right triangles ABC and ABD share hypotenuse AB; find area of triangle ABE

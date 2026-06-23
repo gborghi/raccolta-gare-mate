@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
 
 - [[src_jjmo13mq_honsen__Q01|Quesito 1]] — Cyclic quadrilateral, perpendicular line passes through circumcenter
 - [[src_jjmo13mq_honsen__Q02|Quesito 2]] — Maximum of a two-variable rational expression

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
 
 - [[src_imho_2008__Q01|Quesito 1]] — Orthocenter circle configuration on acute triangle
 - [[src_imho_2008__Q02|Quesito 2]] — Inequality for real numbers with xyz=1, then prove sum ≥1

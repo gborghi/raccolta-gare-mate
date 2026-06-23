@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/EMarzo-19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 - [[src_kangourou_2019_ecolier_marzo__Q01|Quesito 1]] — Quale figura vale 17 (pallini e barre)
 - [[src_kangourou_2019_ecolier_marzo__Q02|Quesito 2]] — In che ordine sono passate le tre persone

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 - [[src_bmo_2012-13_round2__Q01|Quesito 1]] — Infinitely many pairs (m,n) with m|n²+1 and n|m²+1?
 - [[src_bmo_2012-13_round2__Q02|Quesito 2]] — Prove angle QAB = angle CAP given PBQC parallelogram and equal angles

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2011/Pgas11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 - [[src_cesenatico_2011_pubblico__Q01|Quesito 1]] — Probabilita somma 9 dadi <= 31
 - [[src_cesenatico_2011_pubblico__Q02|Quesito 2]] — pezzi di bronzo mancanti

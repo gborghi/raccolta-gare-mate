@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2019/SQ-A-19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 - [[src_kangourou_2019_squadre_semifinale_a__Q01|Quesito 1]] — Differenza tra termini 2019 e 2018 di N^2-2019N+2019
 - [[src_kangourou_2019_squadre_semifinale_a__Q02|Quesito 2]] — Litri minimi al minuto per non affondare la barca

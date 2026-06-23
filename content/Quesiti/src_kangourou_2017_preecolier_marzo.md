@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2017/PMarzo-17.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 - [[src_kangourou_2017_preecolier_marzo__Q01|Quesito 1]] — Chi ha preso il pesce seguendo i fili
 - [[src_kangourou_2017_preecolier_marzo__Q02|Quesito 2]] — Quante stelle a cinque punte nella figura

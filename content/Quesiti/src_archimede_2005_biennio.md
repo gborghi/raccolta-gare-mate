@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2005/testo_biennio3.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 - [[src_archimede_2005_biennio__Q01|Quesito 1]] — Quante cifre ha il numero 2^3*5^4*10^5
 - [[src_archimede_2005_biennio__Q02|Quesito 2]] — Semplificare la radice di 12 elevato 12

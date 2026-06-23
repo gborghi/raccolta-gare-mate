@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2022/Benjamin2022RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 - [[src_kangourou_2022_benjamin_semifinale__Q01|Quesito 1]] — Ora a Roma quando e stata servita la cena (fusi orari)
 - [[src_kangourou_2022_benjamin_semifinale__Q02|Quesito 2]] — Quanti cubi di lato 1cm nel cubo grande

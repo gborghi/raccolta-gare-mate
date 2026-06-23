@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
 
 - [[src_bmo1_2019__Q01|Quesito 1]] — Count ways to place five two-digit multiples of 3 on blackboard
 - [[src_bmo1_2019__Q02|Quesito 2]] — Determine n for which an n-ring of integers exists

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2009/BMarzo-09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 - [[src_kangourou_2009_benjamin_marzo__Q01|Quesito 1]] — Quanti interi tra 2,009 e 19,03
 - [[src_kangourou_2009_benjamin_marzo__Q02|Quesito 2]] — Massimo quadratini coperti dal quadrato ABCD

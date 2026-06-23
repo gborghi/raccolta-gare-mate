@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 - [[src_bocconi_autunno_2009__Q01|Quesito 1]] — Numero dispari di tre cifre con somma delle cifre 12
 - [[src_bocconi_autunno_2009__Q02|Quesito 2]] — Età di Luca dato sistema di relazioni familiari

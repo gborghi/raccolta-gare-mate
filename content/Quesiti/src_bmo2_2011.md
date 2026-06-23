@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 - [[src_bmo2_2011__Q01|Quesito 1]] — Lines through interior point give concyclic points on circle chords
 - [[src_bmo2_2011__Q02|Quesito 2]] — Find all positive integers x,y with two divisibility conditions

@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 - [[src_canimath_2023_printemps__Q01|Quesito 1]] — Compute the value of 4^8/8^4.
 - [[src_canimath_2023_printemps__Q02|Quesito 2]] — In triangle ABC with angle CAB = 20 degrees, D the midpoint of [AB], and angle CDB = 40 degrees; find angle ABC.

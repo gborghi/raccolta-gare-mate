@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/JMarzo-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 - [[src_kangourou_2012_junior__Q01|Quesito 1]] — Quale forma ha l'area maggiore
 - [[src_kangourou_2012_junior__Q02|Quesito 2]] — Calcolo di 11.111-1.1111

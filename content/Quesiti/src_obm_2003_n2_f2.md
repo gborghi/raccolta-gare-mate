@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
 
 - [[src_obm_2003_n2_f2__Q01|Quesito 1]] — Find the area of square BEFG given the areas of squares ABCD and FHIJ
 - [[src_obm_2003_n2_f2__Q02|Quesito 2]] — Choose 13 integers from 1 to 26 containing 4 such that no chosen number divides another

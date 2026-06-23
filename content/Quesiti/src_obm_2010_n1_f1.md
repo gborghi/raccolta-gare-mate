@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 - [[src_obm_2010_n1_f1__Q01|Quesito 1]] — Which number is NOT a multiple of 15?
 - [[src_obm_2010_n1_f1__Q02|Quesito 2]] — Find Lucia's reais given pairwise sums

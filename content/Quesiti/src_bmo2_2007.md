@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 - [[src_bmo2_2007__Q01|Quesito 1]] — Integer-sided triangle with AC=2007 and equal angles condition
 - [[src_bmo2_2007__Q02|Quesito 2]] — Infinitely many positive integer pairs making a sum of fractions an integer

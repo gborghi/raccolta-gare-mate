@@ -37,7 +37,7 @@ tags:
 > a1
 > + 1
 > a2
-> + · · · + 1
+> + · · + 1
 > ak
 > = 1.
 > (a) Determinare se il numero n = 72 è egiziano.
@@ -49,4 +49,4 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 72 si, 71 no, 72^71 si
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)

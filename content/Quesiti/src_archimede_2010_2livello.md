@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2010/febb10.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 - [[src_archimede_2010_2livello__Q01|Quesito 1]] — Litri di vernice per linea tra 16 coni a 10 m
 - [[src_archimede_2010_2livello__Q02|Quesito 2]] — Area comune ai triangoli ABC e DEF (simmetrici di O)

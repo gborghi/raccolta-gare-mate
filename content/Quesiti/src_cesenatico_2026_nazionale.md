@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2026/SoluzioniCesenatico2026.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_rvhIF7SAr6FvY1fH9Z0-jjjZzX_YdII/view)
 
 - [[src_cesenatico_2026_nazionale__Q01|Quesito 1]] — Minimo da spendere con monete 3,5,7 per merendina da 24
 - [[src_cesenatico_2026_nazionale__Q02|Quesito 2]] — Distanza VK vertice cono-sfera maggiore di 5 cm

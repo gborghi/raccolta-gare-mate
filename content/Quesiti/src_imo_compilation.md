@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/imho.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1k6cpNRHvI9fVtF3vHCIOPLmdeEf70-V4/view)
 
 - [[src_imo_compilation__Q01|Quesito 1]] — IMO 1997 problema 1
 - [[src_imo_compilation__Q02|Quesito 2]] — IMO 1997 problema 2

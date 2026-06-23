@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
 
 - [[src_obm_2000_n2_f2__Q01|Quesito 1]] — Smallest positive integer that is double a cube and quintuple a square
 - [[src_obm_2000_n2_f2__Q02|Quesito 2]] — Count distinct rectangular boxes built from 216 unit cubes

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 - [[src_imho_2007__Q01|Quesito 1]] — Inequality for real sequences with defined differences
 - [[src_imho_2007__Q02|Quesito 2]] — Line through vertex of parallelogram meets cyclic quadrilateral

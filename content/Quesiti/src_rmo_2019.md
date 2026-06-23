@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
 
 - [[src_rmo_2019__Q01|Quesito 1]] — Prove x is rational given x^5 and 20x+19/x are rational.
 - [[src_rmo_2019__Q02|Quesito 2]] — Centroid lines meet circumcircle; equal angle conditions force equilateral triangles.

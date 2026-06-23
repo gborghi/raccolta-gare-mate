@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/GS_2011_testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 - [[src_gs_2011__Q01|Quesito 1]] — Massimo di chi dice il vero su isola di sinceri/bugiardi
 - [[src_gs_2011__Q02|Quesito 2]] — Distanza minima sulla superficie di un grattacielo cilindrico

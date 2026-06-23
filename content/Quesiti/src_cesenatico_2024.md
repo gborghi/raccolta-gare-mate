@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2024/Cesenatico2024.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
 
 - [[src_cesenatico_2024__Q01|Quesito 1]] — esiste n con xn+2=xn
 - [[src_cesenatico_2024__Q02|Quesito 2]] — insieme dei punti mediani

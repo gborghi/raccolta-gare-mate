@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2024/Soluzioni_gara_prime_2024.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 - [[src_garaprime_2024__Q01|Quesito 1]] — Differenza massima tra due angoli di triangolo scaleno intero
 - [[src_garaprime_2024__Q02|Quesito 2]] — Numero massimo di cavalieri sull'isola di furfanti e cavalieri

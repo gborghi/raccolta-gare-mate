@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 - [[src_jmo13yq_yosen__Q01|Quesito 1]] — Pay 777 yen with fewest coins; change is allowed
 - [[src_jmo13yq_yosen__Q02|Quesito 2]] — Smallest positive integer n such that last three digits of 2003n equal 113

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 - [[src_bocconi_autunno_2008__Q01|Quesito 1]] — Numero di due cifre ritrovato dopo operazioni sulle cifre
 - [[src_bocconi_autunno_2008__Q02|Quesito 2]] — Puzzle di due pezzi identici: trovare il contorno di divisione

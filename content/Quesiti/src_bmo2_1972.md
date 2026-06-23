@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 - [[src_bmo2_1972__Q01|Quesito 1]] — Assign digits to vertices of regular polygon with adjacency constraints
 - [[src_bmo2_1972__Q02|Quesito 2]] — Prove lower bound 2 for cyclic sum S of four positive reals

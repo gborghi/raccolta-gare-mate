@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/CMarzo-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
 
 - [[src_kangourou_2003_cadet__Q01|Quesito 1]] — Riconoscere foglio piegato/tagliato
 - [[src_kangourou_2003_cadet__Q02|Quesito 2]] — Max caselle 4x4 intersecate da una retta

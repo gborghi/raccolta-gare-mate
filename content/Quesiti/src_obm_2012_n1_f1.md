@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 - [[src_obm_2012_n1_f1__Q01|Quesito 1]] — Fewest coins (10 centavos) to pay 23 reais using 10-real notes
 - [[src_obm_2012_n1_f1__Q02|Quesito 2]] — Compute $0.1^2 + 0.2^2$

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/2016_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
 
 - [[src_imo_2016__Q01|Quesito 1]] — BD, FX, ME concorrenti (parallelogramma AMXE)
 - [[src_imo_2016__Q02|Quesito 2]] — Tabella n×n riempita con I,M,O bilanciate

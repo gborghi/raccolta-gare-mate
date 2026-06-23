@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2015/SMaggio-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Z_cR8nCAXBpRsQKgwOr6WJi09KR66jxC/view)
 
 - [[src_kangourou_2015_finale_student__QS1|Quesito S1]] — misura angolo ABC
 - [[src_kangourou_2015_finale_student__QS2|Quesito S2]] — valori di n

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uAxelJ4GAxypZpM2ox-8kZZSTZuFphZT/view)
 
 - [[src_inmo_1998__Q01|Quesito 1]] — Chord, midpoint, tangent circle, and distance relation
 - [[src_inmo_1998__Q02|Quesito 2]] — Rationality condition for sum of two square roots

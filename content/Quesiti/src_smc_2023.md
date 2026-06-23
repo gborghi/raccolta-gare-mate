@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 - [[src_smc_2023__Q01|Quesito 1]] — Value of a square root with digit-sum denominator
 - [[src_smc_2023__Q02|Quesito 2]] — Difference between one-third and 0.333

@@ -38,7 +38,7 @@ tags:
 > a2
 > + a2
 > a3
-> + · · · + an−1
+> + · · + an−1
 > an
 > ≤Mn
 > per ogni n-upla (a1, a2, . . . , an) di numeri interi tali che 1 < a1 < a2 < . . . < an.
@@ -169,4 +169,4 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** M1=1/2, M2=7/6, Mn=n-1 per n>=3
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)

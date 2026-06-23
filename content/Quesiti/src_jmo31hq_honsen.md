@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1n6EYmyNhJAvI2lQHkYeCAEvVPhs24W4e/view)
 
 - [[src_jmo31hq_honsen__Q01|Quesito 1]] — Find all functions f making two divisibility/value conditions equivalent
 - [[src_jmo31hq_honsen__Q02|Quesito 2]] — Grid stone game: determine when Taro can guarantee reaching column 1

@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
 
 - [[src_obm_1999_n3_f2__Q01|Quesito 1]] — Sum of numbers written at arc midpoints and extremes of a circle
 - [[src_obm_1999_n3_f2__Q02|Quesito 2]] — Square ABCD with four circumscribed circles: angle and length conditions

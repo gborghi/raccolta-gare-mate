@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
 
 - [[src_obm_2012_n3_f1__Q01|Quesito 1]] — Count vowels in the correct answer to this problem
 - [[src_obm_2012_n3_f1__Q02|Quesito 2]] — Maximize value of cryptarithm fraction with distinct digits

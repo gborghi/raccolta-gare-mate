@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 - [[src_bmo2_1991__Q01|Quesito 1]] — Sine of angle between AC and median from C in right triangle
 - [[src_bmo2_1991__Q02|Quesito 2]] — Dwarves with cloaks: prove friendship changes eventually stabilise

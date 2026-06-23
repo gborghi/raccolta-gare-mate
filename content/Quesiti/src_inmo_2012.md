@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 - [[src_inmo_2012__Q01|Quesito 1]] — Max area of cyclic quadrilateral with given side and central angle
 - [[src_inmo_2012__Q02|Quesito 2]] — Two prime sets with equal span 8; prove 30 divides difference of smallest elements

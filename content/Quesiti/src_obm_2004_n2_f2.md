@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
 
 - [[src_obm_2004_n2_f2__Q01|Quesito 1]] — Find digit sum a+b+c from a long multiplication
 - [[src_obm_2004_n2_f2__Q02|Quesito 2]] — Count ways to shade one cell per row and column in 4x4 grid

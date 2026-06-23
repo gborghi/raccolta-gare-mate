@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2020/B-settembre20.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Vg2bLFoFVHv5KZ2qfdK3Oti296AV5sN-/view)
 
 - [[src_kangourou_2020_benjamin_finale__QB1|Quesito B1]] — Massimo sacchetti da 4 penne con max due dello stesso colore
 - [[src_kangourou_2020_benjamin_finale__QB2|Quesito B2]] — Area della regione delimitata da quattro archi uguali

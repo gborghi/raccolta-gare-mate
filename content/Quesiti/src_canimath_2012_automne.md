@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 - [[src_canimath_2012_automne__Q01|Quesito 1]] — Count children in a family from sibling-ratio constraints
 - [[src_canimath_2012_automne__Q02|Quesito 2]] — Cooking steaks optimally with one pan holding two

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2021/giochi_archimede_2021/archimede_online_biennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Zo7WSUv5KN16W_nTPuywBaG12u7UYl5I/view)
 
 - [[src_archimede_2021_biennio_online__Q01|Quesito 1]] — Ampiezza angolo Y con X=36 e Z triplo di Y
 - [[src_archimede_2021_biennio_online__Q02|Quesito 2]] — Triangoli con due vertici dello stesso colore su circonferenza

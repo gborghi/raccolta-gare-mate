@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2011/ces2011-sol.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
 
 - [[src_cesenatico_2011__Q01|Quesito 1]] — Suddividere trapezio in m+n trapezi di area uguale, minimo m+n
 - [[src_cesenatico_2011__Q02|Quesito 2]] — Esistenza di due scalette con MCD termini =1 e >1

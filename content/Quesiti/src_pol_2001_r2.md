@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dO7OqqHjPcVUusxRxcY7zUJe_pdXhL9d/view)
 
 - [[src_pol_2001_r2__Q01|Quesito 1]] — Divisibility of a difference of binomial coefficients by a prime p=2k-1, and then by its square.
 - [[src_pol_2001_r2__Q02|Quesito 2]] — Points A,B,C on a line with ABDE a square; circle on diameter AC meets line DE at P,Q; lines AQ and BD meet at R; prove DP=DR.

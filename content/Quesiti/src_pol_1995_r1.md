@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 - [[src_pol_1995_r1__Q01|Quesito 1]] — Natural number pairs where (x+1)/y and (y+1)/x are natural
 - [[src_pol_1995_r1__Q02|Quesito 2]] — Cyclic system of equations with absolute values, positive integer n≥2

@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
 
 - [[src_obm_2007_n2_f1__Q01|Quesito 1]] — Sum of digits of 101 times a repunit with 2007 ones
 - [[src_obm_2007_n2_f1__Q02|Quesito 2]] — Fraction a/b shown on a number line between 0 and 1, possible a+b

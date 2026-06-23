@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/Ecolier_Semif_19TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tNc5SZ7vm6wp3SYyibXhYqSBPWtNBocw/view)
 
 - [[src_kangourou_2019_ecolier_semifinale__Q01|Quesito 1]] — Minimo quadretti da annerire in quadrato 7x7 perche ogni 4x4 ne contenga uno
 - [[src_kangourou_2019_ecolier_semifinale__Q02|Quesito 2]] — Minimo auto bianche da spostare per far uscire l auto nera

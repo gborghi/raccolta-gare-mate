@@ -42,4 +42,4 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0071
-**Fonte:** apri PDF p.5
+**Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)

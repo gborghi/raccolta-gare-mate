@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2012/GaraASquadre_Cesenatico_2012.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 - [[src_cesenatico_2012_semifinale_b__Q01|Quesito 1]] — Lato minimo esagono per N cerchi (impacchettamento)
 - [[src_cesenatico_2012_semifinale_b__Q02|Quesito 2]] — Configurazioni distinte di 6 dischetti ad anello

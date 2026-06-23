@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
 
 - [[src_bmo_1998-99_round1__Q01|Quesito 1]] — Four children's distinct ages satisfying two squared-sum conditions
 - [[src_bmo_1998-99_round1__Q02|Quesito 2]] — Prove tan(APX)/tan(PAX) is constant as P moves on circle

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IoNn49qAJMt9lqRO6Y5I9UMFKZPua460/view)
 
 - [[src_inmo_2008__Q01|Quesito 1]] — Reflections of incenter concyclic with incenter of reflected triangle
 - [[src_inmo_2008__Q02|Quesito 2]] — Find all prime-natural triples satisfying p^x = y^4 + 4

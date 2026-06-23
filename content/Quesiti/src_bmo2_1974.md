@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 - [[src_bmo2_1974__Q01|Quesito 1]] — Prove triangle ABC right-angled; prove identity with circumcentre and centroid
 - [[src_bmo2_1974__Q02|Quesito 2]] — Polygonal line in 50×50 square with distance constraint; prove length > 1248

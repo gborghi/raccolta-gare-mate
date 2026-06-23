@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2011/GiochiArchimede2011.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 - [[src_archimede_2011_biennio__Q01|Quesito 1]] — Numeri sei cifre con 1-6 divisibili per 1-6
 - [[src_archimede_2011_biennio__Q02|Quesito 2]] — Carlini per un Baiocco da catene di cambio

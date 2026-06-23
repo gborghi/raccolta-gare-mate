@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2005/BMaggio-05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
 
 - [[src_kangourou_2005_benjamin_finale__QB1|Quesito B1]] — Tre numeri di Matteo piu grandi (prodotto=somma cifre)
 - [[src_kangourou_2005_benjamin_finale__QB2|Quesito B2]] — Eccedenza area del terreno mal delimitato

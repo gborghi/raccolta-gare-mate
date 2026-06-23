@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 - [[src_bmo_2006-07_round2__Q01|Quesito 1]] — Integer-sided triangle, angle bisector meets BC, AB=CD, find AB and BC
 - [[src_bmo_2006-07_round2__Q02|Quesito 2]] — Show infinitely many positive integer pairs making fraction sum a positive integer

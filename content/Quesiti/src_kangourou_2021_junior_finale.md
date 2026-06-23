@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Junior2021RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 - [[src_kangourou_2021_junior_finale__Q01|Quesito 1]] — Minimo prodotto cifre di numero 5 cifre somma 37
 - [[src_kangourou_2021_junior_finale__Q02|Quesito 2]] — Massimo n con 4^27+4^1025+4^n quadrato perfetto

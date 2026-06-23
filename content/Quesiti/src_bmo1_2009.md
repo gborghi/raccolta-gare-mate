@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 - [[src_bmo1_2009__Q01|Quesito 1]] — Count zig-zag paths on a standard 8x8 chessboard
 - [[src_bmo1_2009__Q02|Quesito 2]] — Find all real values of x, y, z satisfying a system

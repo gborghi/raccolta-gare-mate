@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
 
 - [[src_pol_1995_r3__Q01|Quesito 1]] — Count subsets of {1..2n} with no solution to x+y=2z+1
 - [[src_pol_1995_r3__Q02|Quesito 2]] — Convex polygon cut into pentagon and triangles, largest area

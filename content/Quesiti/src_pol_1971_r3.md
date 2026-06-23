@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 - [[src_pol_1971_r3__Q01|Quesito 1]] — Infinite sequence of distinct integers with no digit 0
 - [[src_pol_1971_r3__Q02|Quesito 2]] — Pool table triangle: ball reflects finite times without hitting vertex

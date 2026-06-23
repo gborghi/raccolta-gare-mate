@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 - [[src_bmo_2019-20_round2__Q01|Quesito 1]] — Sequence recurrence: find a1 so all terms are odd integers
 - [[src_bmo_2019-20_round2__Q02|Quesito 2]] — Characterise point sets where every triangle has equal circumradius

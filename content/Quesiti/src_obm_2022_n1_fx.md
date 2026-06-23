@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1MFIuQqmYfoyQM2SB3u2n2Xe18_dDyh5n/view)
 
 - [[src_obm_2022_n1_fx__Q01|Quesito 1]] — Pyramid of same-size cubes: count base, painted faces
 - [[src_obm_2022_n1_fx__Q02|Quesito 2]] — Copeiro numbers: sum of squares of digits equals a power of 4

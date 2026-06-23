@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2023/gas2023ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 - [[src_squadre_2023_semifinale1__Q01|Quesito 1]] — Colorazioni lati pentagono con 3 colori, lati consecutivi diversi
 - [[src_squadre_2023_semifinale1__Q02|Quesito 2]] — Area massima triangolo lato minore 40 e maggiore 101

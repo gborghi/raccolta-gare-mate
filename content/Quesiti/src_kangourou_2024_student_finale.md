@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Student2024RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
 
 - [[src_kangourou_2024_student_finale__QS1|Quesito S1]] — Due triangoli con due lati e un'altezza uguali sono congruenti?
 - [[src_kangourou_2024_student_finale__QS2|Quesito S2]] — Citta operativa aereo nel primo giorno secondo mese

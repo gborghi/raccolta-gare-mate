@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2011/CMarzo-11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 - [[src_kangourou_2011_cadet__Q01|Quesito 1]] — Quale tra cinque numeri e il piu grande
 - [[src_kangourou_2011_cadet__Q02|Quesito 2]] — risultato

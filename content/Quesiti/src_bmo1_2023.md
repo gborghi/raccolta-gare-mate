@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 - [[src_bmo1_2023__Q01|Quesito 1]] — Three-digit n: exactly 1/k numbers start with digit 2
 - [[src_bmo1_2023__Q02|Quesito 2]] — Sequence with two recurrences; maximise square count among terms

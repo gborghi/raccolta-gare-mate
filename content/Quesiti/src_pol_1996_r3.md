@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 - [[src_pol_1996_r3__Q01|Quesito 1]] — Find all positive integers n and reals r such that 2x^2+2x+1 divides (x+1)^n - r.
 - [[src_pol_1996_r3__Q02|Quesito 2]] — Interior point P of triangle ABC with angle PBC = angle PCA < angle PAB; line BP meets circumcircle again at E, circumcircle of APE meets CE again at F; prove APEF is a convex quadrilateral and the ratio of its area to area of triangle ABP is independent of P.

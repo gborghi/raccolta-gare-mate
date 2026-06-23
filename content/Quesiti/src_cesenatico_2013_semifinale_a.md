@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2013/GaraASquadre_Cesenatico_2013.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 - [[src_cesenatico_2013_semifinale_a__Q01|Quesito 1]] — dopo quante mosse
 - [[src_cesenatico_2013_semifinale_a__Q02|Quesito 2]] — Area intersezione delle due ombre (tetraedro+specchio)

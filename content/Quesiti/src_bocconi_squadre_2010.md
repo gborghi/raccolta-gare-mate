@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 - [[src_bocconi_squadre_2010__Q01|Quesito 1]] — Perimetro parte rettangolare di campo triangolare isoscele
 - [[src_bocconi_squadre_2010__Q02|Quesito 2]] — Sostituzione lettere con cifre 1–9 in schema esagonale

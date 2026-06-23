@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
 
 - [[src_jjmo9yq_yosen__Q01|Quesito 1]] — Max value of xy with z two-digit, y one-digit, all digits distinct
 - [[src_jjmo9yq_yosen__Q02|Quesito 2]] — Find BC in quadrilateral with two 60-degree angles and a right angle

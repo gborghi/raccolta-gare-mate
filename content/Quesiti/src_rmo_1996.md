@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
 
 - [[src_rmo_1996__Q01|Quesito 1]] — Triangle with consecutive integer sides and inradius 4; find circumradius
 - [[src_rmo_1996__Q02|Quesito 2]] — Find all positive integer triples (a,b,c) satisfying a product-of-fractions equation

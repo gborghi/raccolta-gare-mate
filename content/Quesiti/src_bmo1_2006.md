@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 - [[src_bmo1_2006__Q01|Quesito 1]] — Show n^2(n^2+16) divisible by 720 when n-1 and n+1 both prime
 - [[src_bmo1_2006__Q02|Quesito 2]] — Count ways to split six twin-pairs into two equal teams with no twins together

@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2021/SQ-F-21.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 - [[src_kangourou_2021_squadre_finale__Q01|Quesito 1]] — Primo tra 11^2 e 12^2 somma di due quadrati
 - [[src_kangourou_2021_squadre_finale__Q02|Quesito 2]] — Quante famiglie sull'autobus (somma km 2021)

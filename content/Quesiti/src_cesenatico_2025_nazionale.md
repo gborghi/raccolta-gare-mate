@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2025/SoluzioniCesenatico2025.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qB7eL3B9ur3wfVhNrlYiTjMkleeW6oDL/view)
 
 - [[src_cesenatico_2025_nazionale__Q01|Quesito 1]] — Minimo n con n=225 s(n) e n=225 s(n)^2
 - [[src_cesenatico_2025_nazionale__Q02|Quesito 2]] — Valori interi di a con unica soluzione intera della disequazione

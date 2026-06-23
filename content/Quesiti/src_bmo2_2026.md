@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 - [[src_bmo2_2026__Q01|Quesito 1]] — Smallest k for l(m,n)+h(m,n)=p^k over prime p>3
 - [[src_bmo2_2026__Q02|Quesito 2]] — Convex quadrilateral: AC=BD iff XY bisects angle DXC

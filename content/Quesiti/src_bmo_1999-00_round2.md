@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 - [[src_bmo_1999-00_round2__Q01|Quesito 1]] — Two circles with common tangent: prove equal-area triangles MNP and MNQ
 - [[src_bmo_1999-00_round2__Q02|Quesito 2]] — Find minimum of x^2+4xy+4y^2+2z^2 given xyz=32

@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
 
 - [[src_obm_2013_n1_f3__Q01|Quesito 1]] — Enrolled numbers: one digit equals sum of all other digits
 - [[src_obm_2013_n1_f3__Q02|Quesito 2]] — Three coin piles game; last player to split a pile wins all coins

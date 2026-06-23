@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2023/Cadet2023RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
 
 - [[src_kangourou_2023_cadet_finale__QC1|Quesito C1]] — posizione ultimo ragazzo
 - [[src_kangourou_2023_cadet_finale__QC2|Quesito C2]] — minimo gettoni

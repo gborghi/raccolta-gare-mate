@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 - [[src_bmo2_1976__Q01|Quesito 1]] — Through a point P inside triangle ABC, lines parallel to the medians meet the sides; prove a sum of three ratios is constant.
 - [[src_bmo2_1976__Q02|Quesito 2]] — A real root t of a monic polynomial whose coefficients are bounded in absolute value by 1 satisfies a stated interval bound.

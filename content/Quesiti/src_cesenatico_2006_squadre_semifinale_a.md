@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2006/Agas06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 - [[src_cesenatico_2006_squadre_semifinale_a__Q01|Quesito 1]] — 2006-esimo intero che non e ne quadrato ne cubo
 - [[src_cesenatico_2006_squadre_semifinale_a__Q02|Quesito 2]] — Coppie (a,b) con a<=222 e a/2<b<2a/3

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2002/Archimede2002/testitriennio2002.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 - [[src_archimede_2002_triennio__Q01|Quesito 1]] — Quanti numeri AB con 12xAB = 21xBA
 - [[src_archimede_2002_triennio__Q02|Quesito 2]] — Percentuale di aumento per recuperare prezzo originario

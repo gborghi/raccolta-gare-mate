@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1975_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
 
 - [[src_imo_1975_all__Q01|Quesito 1]] — sorted matching minimizes sum of squared diffs
 - [[src_imo_1975_all__Q02|Quesito 2]] — Infinitely many a_m of form x a_p + y a_q

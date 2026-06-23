@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2011/SMaggio-11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
 
 - [[src_kangourou_2011_student_finale__QS1|Quesito S1]] — Max numero di cifre distinte divisibile per ognuna delle sue cifre
 - [[src_kangourou_2011_student_finale__QS2|Quesito S2]] — Chi salta circuito con fossato senza cadere e perche

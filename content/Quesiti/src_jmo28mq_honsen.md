@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
 
 - [[src_jmo28mq_honsen__Q01|Quesito 1]] — gcd operation on blackboard, final number not a square
 - [[src_jmo28mq_honsen__Q02|Quesito 2]] — lines BX and CY meet on circumcircle of ADE

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 - [[src_jmo29yq_yosen__Q01|Quesito 1]] — Positive integer triples with x+xy+xyz=31, x<y<z
 - [[src_jmo29yq_yosen__Q02|Quesito 2]] — 3-digit number, all digits prime, whose square is also such

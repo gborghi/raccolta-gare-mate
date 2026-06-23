@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
 
 - [[src_obm_2009_n2_f3__Q01|Quesito 1]] — Count positive 4-digit integers that are 'abestado'
 - [[src_obm_2009_n2_f3__Q02|Quesito 2]] — Circumcenter of triangle CEF lies on circumcircle of triangle ABD

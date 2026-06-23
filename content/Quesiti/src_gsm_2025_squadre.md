@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/gsm_25.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
 
 - [[src_gsm_2025_squadre__Q01|Quesito 1]] — Probabilita di accendere la luce con otto interruttori
 - [[src_gsm_2025_squadre__Q02|Quesito 2]] — Numero all'inizio della 97-esima riga di dispari

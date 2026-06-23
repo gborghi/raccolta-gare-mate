@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mPFxeuedSzPeVHyGa5uTEm_ubRSK1ROx/view)
 
 - [[src_obm_2008_n2_f3__Q01|Quesito 1]] — Domino precious sets: prove, count doubles, count all
 - [[src_obm_2008_n2_f3__Q02|Quesito 2]] — Intersection point of two circles is circumcenter of ABC

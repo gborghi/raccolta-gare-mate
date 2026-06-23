@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/E-settembre19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
 
 - [[src_kangourou_2019_ecolier_finale__Q01|Quesito 1]] — Quanti interi con prodotto cifre 33
 - [[src_kangourou_2019_ecolier_finale__Q02|Quesito 2]] — Colorazioni distinte di un cubo (rotazioni)

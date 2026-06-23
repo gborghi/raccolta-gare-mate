@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 - [[src_canimath_2014_automne__Q01|Quesito 1]] — Smallest number of main dishes so every dinner in 2014 is distinct
 - [[src_canimath_2014_automne__Q02|Quesito 2]] — Square ABCD, E on AD and F on BC with BE=EF=FD=1; find the area

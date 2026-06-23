@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2004/SMaggio-04.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
 
 - [[src_kangourou_2004_student_finale__QS1|Quesito S1]] — Coppie intere con |x^2-3y^2+2xy|=1
 - [[src_kangourou_2004_student_finale__QS2|Quesito S2]] — Area regione interna a beta esterna a gamma

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 - [[src_bmo_1978-79_round2__Q01|Quesito 1]] — Prove inequality for four distinct positive reals with interleaving condition
 - [[src_bmo_1978-79_round2__Q02|Quesito 2]] — Two equilateral triangles with common vertex; prove two triangles similar

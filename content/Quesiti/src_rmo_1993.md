@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kadMp-CRN3MjuB-TEm5ptxaScgegf-GQ/view)
 
 - [[src_rmo_1993__Q01|Quesito 1]] — Altitude midpoints in acute triangle, find CD
 - [[src_rmo_1993__Q02|Quesito 2]] — Ten's digit of any power of 3 is even

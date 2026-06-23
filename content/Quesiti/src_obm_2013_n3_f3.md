@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
 
 - [[src_obm_2013_n3_f3__Q01|Quesito 1]] — Tangent lines from exterior point, find CE in terms of a,b
 - [[src_obm_2013_n3_f3__Q02|Quesito 2]] — Game: Arnaldo picks from A, Bernaldo picks any positive integer, minimize divisors of ab

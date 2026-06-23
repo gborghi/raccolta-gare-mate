@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 - [[src_bmo2_1994__Q01|Quesito 1]] — Find first n>1 where average of squares is a perfect square
 - [[src_bmo2_1994__Q02|Quesito 2]] — Count non-congruent integer-sided triangles with given perimeter

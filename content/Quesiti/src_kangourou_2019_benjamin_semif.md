@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/Benjamin_Semif_19TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 - [[src_kangourou_2019_benjamin_semif__Q01|Quesito 1]] — Quanti quadrati perfetti < 100 sono anche cubi perfetti
 - [[src_kangourou_2019_benjamin_semif__Q02|Quesito 2]] — In quanti angoli identici a epsilon si ripartisce il piano

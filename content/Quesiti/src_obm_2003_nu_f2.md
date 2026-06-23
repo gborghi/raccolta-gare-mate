@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 - [[src_obm_2003_nu_f2__Q01|Quesito 1]] — Parabola tangent and perpendicular lines trace a hyperbola
 - [[src_obm_2003_nu_f2__Q02|Quesito 2]] — Coprime complex-coefficient polynomials: dependence and functional identity

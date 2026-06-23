@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 - [[src_jjmo6q__Q01|Quesito 1]] — Compute an arithmetic expression with products
 - [[src_jjmo6q__Q02|Quesito 2]] — Max times 1004×1005×…×2008 is divisible by 2

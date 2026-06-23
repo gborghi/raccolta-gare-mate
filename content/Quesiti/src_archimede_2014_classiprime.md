@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/classi prime/2014/GaraNazionaleClassiPrime2014.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 - [[src_archimede_2014_classiprime__Q01|Quesito 1]] — Calcolo di espressione con potenze di 2 e 16
 - [[src_archimede_2014_classiprime__Q02|Quesito 2]] — Somma angoli interni di un quadrilatero concavo

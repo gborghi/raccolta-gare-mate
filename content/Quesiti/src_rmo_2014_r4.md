@@ -18,7 +18,7 @@ tags:
   - regione/r4
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
 
 - [[src_rmo_2014_r4__Q01|Quesito 1]] — Isosceles trapezium incircle: CE equals geometric mean of AB and CD
 - [[src_rmo_2014_r4__Q02|Quesito 2]] — Prove inequality $4x^4+4y^3+5x^2+y+1\ge 12xy$ for positive reals

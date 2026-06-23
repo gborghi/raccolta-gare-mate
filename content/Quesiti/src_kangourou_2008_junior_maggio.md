@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2008/JMaggio-08.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
 - [[src_kangourou_2008_junior_maggio__QJ1|Quesito J1]] — Quante cifre nella somma 9+99+...+999..9 (2008)
 - [[src_kangourou_2008_junior_maggio__QJ2|Quesito J2]] — Numero di sottoinsiemi con numero dispari di elementi

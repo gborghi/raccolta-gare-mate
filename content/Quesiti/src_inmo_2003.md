@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1z6Cf4_2hukBRTJtfy1Vyovz4VqhtYk3x/view)
 
 - [[src_inmo_2003__Q01|Quesito 1]] — Cevians in acute triangle; DK bisects angle EKF
 - [[src_inmo_2003__Q02|Quesito 2]] — Find all primes p,q and even n>2 satisfying a sum equation

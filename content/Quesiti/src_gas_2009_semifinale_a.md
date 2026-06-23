@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2009/Agas09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
 
 - [[src_gas_2009_semifinale_a__Q01|Quesito 1]] — Area cortile triangolare in quadrato di lato 100
 - [[src_gas_2009_semifinale_a__Q02|Quesito 2]] — Valore di prodotto/quoziente di differenze di quadrati

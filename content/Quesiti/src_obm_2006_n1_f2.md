@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1srmyb0DAUnIq9SKYuIOrk5cCPzS2K6he/view)
 
 - [[src_obm_2006_n1_f2__Q01|Quesito 1]] — Sum of digits of a 101-digit number with 0s and 1s
 - [[src_obm_2006_n1_f2__Q02|Quesito 2]] — Area of shaded region after folding a 20×15 cm sheet

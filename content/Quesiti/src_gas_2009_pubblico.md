@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2009/Pgas09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 - [[src_gas_2009_pubblico__Q01|Quesito 1]] — Massimo numero di elfi tra prigionieri sinceri/bugiardi
 - [[src_gas_2009_pubblico__Q02|Quesito 2]] — Media aritmetica dei numeri in rettangolo di tavola pitagorica

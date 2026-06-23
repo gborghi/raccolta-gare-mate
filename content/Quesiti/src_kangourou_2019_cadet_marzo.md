@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2019/CMarzo-19.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 - [[src_kangourou_2019_cadet_marzo__Q01|Quesito 1]] — Chi e arrivato ultimo nella gara di corsa
 - [[src_kangourou_2019_cadet_marzo__Q02|Quesito 2]] — Quante mele in totale (6 cassette vs 5 con +2)

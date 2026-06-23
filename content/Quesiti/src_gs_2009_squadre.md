@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/soluzioni/GS_2009_soluzioni.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 - [[src_gs_2009_squadre__Q01|Quesito 1]] — Calcolo combinazione lineare luce sulla cima
 - [[src_gs_2009_squadre__Q02|Quesito 2]] — Conteggio file di 4 pulsanti nella griglia

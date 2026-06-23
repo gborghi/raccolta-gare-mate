@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
 
 - [[src_imho_2016__Q01|Quesito 1]] — Concurrent lines in triangle with angle bisectors
 - [[src_imho_2016__Q02|Quesito 2]] — Fill n×n table with letters L, M, O under row/column/diagonal conditions

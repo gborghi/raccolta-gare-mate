@@ -3,11 +3,43 @@
 // - replaces dataview code blocks with <div class="qtable" ...> placeholders
 // - strips links to local PDFs (we don't publish the competition PDFs)
 // - emits ./quartz/static/quesiti.json consumed by the client table renderer
-import { promises as fs } from "node:fs"
+import { promises as fs, readFileSync } from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
 
 const NUL = String.fromCharCode(0)
+
+// The competition PDFs are NOT published with the site (too heavy). They live on
+// Google Drive (anyone-with-link). pdf_drive_map.json maps each vault-relative PDF
+// path -> Drive fileId; transform() rewrites every [..](<../../path.pdf#page=N>)
+// link into a Drive viewer URL. Keyed by forward-slash path from the vault root.
+const PDF_DRIVE = JSON.parse(
+  readFileSync(new URL("./pdf_drive_map.json", import.meta.url), "utf8").replace(/^﻿/, ""),
+)
+const missingPdf = new Set()
+
+// Normalize a link target to a vault-root-relative forward-slash path (drop ../,
+// ./, surrounding <>, a #fragment, and convert backslashes).
+function normPdfPath(p) {
+  return p
+    .replace(/\\/g, "/")
+    .replace(/#.*$/, "")
+    .replace(/^<\s*/, "")
+    .replace(/\s*>$/, "")
+    .replace(/^(?:\.\.\/)+/, "")
+    .replace(/^\.\//, "")
+    .trim()
+}
+function driveLink(alias, rawPath) {
+  const label = (alias && alias.trim()) || "📄 Testo (PDF)"
+  const rel = normPdfPath(rawPath)
+  const id = PDF_DRIVE[rel]
+  if (!id) {
+    missingPdf.add(rel)
+    return label // keep the text, never emit a broken local link
+  }
+  return `[${label}](https://drive.google.com/file/d/${id}/view)`
+}
 
 // Flat-frontmatter parser. The vault's frontmatter is non-nested key: value /
 // key: [a, b] pairs, but some values contain stray quotes/apostrophes/NUL bytes
@@ -79,8 +111,14 @@ function transform(content) {
     if (!spec) return ""
     return `<div class="qtable" data-field="${spec.field}" data-values="${spec.values.join(",")}"></div>`
   })
-  content = content.replace(/\[([^\]]*)\]\(<[^>]*\.pdf[^>]*>\)/gi, "$1")
-  content = content.replace(/\[([^\]]*)\]\([^)\s]*\.pdf[^)]*\)/gi, "$1")
+  // angle-bracket form: [alias](<../../some path/file.pdf#page=N>) — path may contain spaces
+  content = content.replace(/\[([^\]]*)\]\(<([^>]*?\.pdf)(?:#[^>]*)?>\)/gi, (_m, a, p) => driveLink(a, p))
+  // plain form: [alias](../../file.pdf#page=N) — no spaces
+  content = content.replace(/\[([^\]]*)\]\(\s*([^)\s]*?\.pdf)(?:#[^)\s]*)?\s*\)/gi, (_m, a, p) => driveLink(a, p))
+  // drop the now-redundant backticked source path in "Sorgente: `path.pdf` · …"
+  content = content.replace(/`[^`]*\.pdf`/gi, "")
+  content = content.replace(/Sorgente:\s*·\s*/g, "Sorgente: ")
+  content = content.replace(/·\s*·/g, "·")
   content = content.replace(/ ·\s*$/gm, "")
   return content
 }
@@ -166,5 +204,11 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti. Usa l'interru
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
   console.log(`copied ${written} notes, indexed ${quesiti.length} quesiti`)
+  if (missingPdf.size) {
+    console.log(`WARN: ${missingPdf.size} PDF links had no Drive mapping (kept as plain text):`)
+    for (const p of [...missingPdf].sort().slice(0, 40)) console.log("  -", p)
+  } else {
+    console.log("all PDF links resolved to Drive")
+  }
 }
 main()

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
 
 - [[src_pol_1975_r3__Q01|Quesito 1]] — Sequence whose first n terms sum to zero and which is periodic with period n; prove some starting index N makes all partial sums from N nonnegative
 - [[src_pol_1975_r3__Q02|Quesito 2]] — Finitely many segments on a regular tetrahedron of edge 1 joining every pair of vertices by a polygonal path; can total length be less than 1+sqrt(3)?

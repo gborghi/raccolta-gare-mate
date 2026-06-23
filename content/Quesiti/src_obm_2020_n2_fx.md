@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 - [[src_obm_2020_n2_fx__Q01|Quesito 1]] — Find angle BFC in right triangle with bisector and perpendicular conditions
 - [[src_obm_2020_n2_fx__Q02|Quesito 2]] — Find all equations on a blackboard where erased digits give two integer solutions

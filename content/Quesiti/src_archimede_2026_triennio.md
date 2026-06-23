@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2026/archimede_2026_triennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 - [[src_archimede_2026_triennio__Q01|Quesito 1]] — Modi di scegliere quantita di problemi per materia con vincoli
 - [[src_archimede_2026_triennio__Q02|Quesito 2]] — Disposizioni di cavalieri/furfanti a tavola rotonda, a meno di rotazione

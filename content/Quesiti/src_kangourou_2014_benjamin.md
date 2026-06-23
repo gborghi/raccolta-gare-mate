@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/BMarzo-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 - [[src_kangourou_2014_benjamin__Q01|Quesito 1]] — Quante rotazioni per leggere correttamente KANGAROO
 - [[src_kangourou_2014_benjamin__Q02|Quesito 2]] — Peso del pezzo piu grande di torta

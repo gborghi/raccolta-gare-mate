@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2020/Archimede2020/archimede_riserva_biennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1FHovVvjzoFx5DPSwVsD8IjrWzxEYNRZ6/view)
 
 - [[src_archimede_2020_riserva_biennio__Q01|Quesito 1]] — Grammi di bianco per stesso colore (proporzione)
 - [[src_archimede_2020_riserva_biennio__Q02|Quesito 2]] — Modi di comprare due capi di tipo diverso

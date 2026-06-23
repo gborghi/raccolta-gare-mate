@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2004/GaraIndividuale2004.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
 
 - [[src_cesenatico_2004__Q01|Quesito 1]] — trovare quella del 25 dicembre
 - [[src_cesenatico_2004__Q02|Quesito 2]] — Luogo dei punti di tangenza di coppie di circonferenze tra due rette

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
 
 - [[src_inmo_1996__Q01|Quesito 1]] — Existence and uniqueness of divisibility condition for s+j
 - [[src_inmo_1996__Q02|Quesito 2]] — Concentric circles C1, C2 with radii R and 3R; orthocenters

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 - [[src_bmo1_1994__Q01|Quesito 1]] — Properties of three-digit numbers with digit sum and product conditions
 - [[src_bmo1_1994__Q02|Quesito 2]] — Triangle midpoint and angle conditions with locus

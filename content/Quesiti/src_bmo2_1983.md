@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
 
 - [[src_bmo2_1983__Q01|Quesito 1]] — Minimise sum of squared distances from a point on a line
 - [[src_bmo2_1983__Q02|Quesito 2]] — Nine-point circle of triangle; circumcentre perpendicular to side

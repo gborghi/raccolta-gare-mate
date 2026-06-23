@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 - [[src_jmo30yq_yosen__Q01|Quesito 1]] — Count multiples of 7 that are 4 times a perfect square up to 10^9
 - [[src_jmo30yq_yosen__Q02|Quesito 2]] — Regular hexagon, equilateral triangle CGH inside, find area of triangle EFH

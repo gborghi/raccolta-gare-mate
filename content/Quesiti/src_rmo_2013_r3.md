@@ -18,7 +18,7 @@ tags:
   - regione/r3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LyJj9lZ6d9wJTkSmciSZe9Gn8yrb6GdD/view)
 
 - [[src_rmo_2013_r3__Q01|Quesito 1]] — Count eight-digit numbers with digit sum equal to 4
 - [[src_rmo_2013_r3__Q02|Quesito 2]] — Find all 4-tuples of naturals with a!+b!+c!=3^d

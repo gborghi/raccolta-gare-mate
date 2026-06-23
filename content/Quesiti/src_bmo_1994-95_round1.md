@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 - [[src_bmo_1994-95_round1__Q01|Quesito 1]] — Find positive integers whose square ends in four 4s
 - [[src_bmo_1994-95_round1__Q02|Quesito 2]] — Regular octagon with side 2; midpoints of two sides; find length XY

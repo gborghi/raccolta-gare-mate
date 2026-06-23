@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KCJHUo1nCGlEeSCXILo_64DHKdkW717s/view)
 
 - [[src_obm_2018_n1_fx__Q01|Quesito 1]] — Square from four congruent rectangles; find side lengths
 - [[src_obm_2018_n1_fx__Q02|Quesito 2]] — Integer sequences: each term is remainder mod 9 of product of two previous

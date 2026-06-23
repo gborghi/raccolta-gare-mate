@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2006/GaraDelPubblico_06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 - [[src_garasquadre_2006_pubblico__Q01|Quesito 1]] — numero nella colonna grigia
 - [[src_garasquadre_2006_pubblico__Q02|Quesito 2]] — Massimo x con cubica radice(x+1184)-radice(x-1184)=4

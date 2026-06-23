@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 - [[src_bmo_2022-23_round2__Q01|Quesito 1]] — Cyclic quadrilateral from incircle circle intersections
 - [[src_bmo_2022-23_round2__Q02|Quesito 2]] — Blackboard permutation by moves; find all valid n

@@ -18,7 +18,7 @@ tags:
   - regione/r4
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1nLwmoR34Kvy_obEKxxqlzF7zGjUJNCHa/view)
 
 - [[src_rmo_2016_r4__Q01|Quesito 1]] — Isosceles triangle, circumcircle, line through D parallel to AC, AE:EB=2:1
 - [[src_rmo_2016_r4__Q02|Quesito 2]] — Prove inequality for positive reals satisfying a cyclic sum condition

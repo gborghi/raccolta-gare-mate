@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/gsm_22.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 - [[src_gsm_2022_squadre__Q01|Quesito 1]] — Frazione 2022!/(2022!-2021!-2020!) ridotta
 - [[src_gsm_2022_squadre__Q02|Quesito 2]] — Massima somma di sequenza dispari con regola maxcifra

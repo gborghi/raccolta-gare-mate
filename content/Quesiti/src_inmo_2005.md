@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
 
 - [[src_inmo_2005__Q01|Quesito 1]] — Median meets incircle; prove sides in ratio 5:10:13
 - [[src_inmo_2005__Q02|Quesito 2]] — Find minimum beta for fraction strictly between two rationals

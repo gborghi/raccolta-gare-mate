@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
 
 - [[src_obm_2018_n3_fx__Q01|Quesito 1]] — Unit-cube coloring/numbering in n×n×n cube; count by day number
 - [[src_obm_2018_n3_fx__Q02|Quesito 2]] — Find all 'dobralho' quadruples (A,B,C,D) satisfying divisibility conditions

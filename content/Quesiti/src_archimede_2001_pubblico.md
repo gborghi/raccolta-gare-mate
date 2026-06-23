@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2001/GaraPubblico.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 - [[src_archimede_2001_pubblico__Q01|Quesito 1]] — cerchi e quadrati inscritti, raggio oltre 200
 - [[src_archimede_2001_pubblico__Q02|Quesito 2]] — Posizione del pianeta (15,30) nella numerazione a coppie

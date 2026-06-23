@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
 
 - [[src_imho_2024__Q01|Quesito 1]] — Real alpha such that floor sums are multiples of n
 - [[src_imho_2024__Q02|Quesito 2]] — Pairs (a,b) with eventually constant gcd of power expressions

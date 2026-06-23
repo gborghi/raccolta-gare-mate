@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 - [[src_bmo_2012-13_round1__Q01|Quesito 1]] — Max counters on chessboard avoiding five in any line
 - [[src_bmo_2012-13_round1__Q02|Quesito 2]] — Two touching circles, common tangent, diameter; prove collinearity

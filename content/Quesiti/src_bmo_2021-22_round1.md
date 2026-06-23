@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 - [[src_bmo_2021-22_round1__Q01|Quesito 1]] — Count sums of consecutive positive odd numbers below 400
 - [[src_bmo_2021-22_round1__Q02|Quesito 2]] — Find smallest possible number of table tennis games played

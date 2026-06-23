@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 - [[src_rmo_2006__Q01|Quesito 1]] — Feet of altitudes in acute triangle are collinear with intersection
 - [[src_rmo_2006__Q02|Quesito 2]] — Find least value of a+b with divisibility conditions on 11

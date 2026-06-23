@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/CMaggio-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
 
 - [[src_kangourou_2012_cadet_finale__QC1|Quesito C1]] — Quante biglie marroni tra le 20 di Elena
 - [[src_kangourou_2012_cadet_finale__QC2|Quesito C2]] — Cifra finale del prodotto dei dispari tra 1 e 2012

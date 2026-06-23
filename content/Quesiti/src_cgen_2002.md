@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 - [[src_cgen_2002__Q01|Quesito 1]] — Premiere partie: characterizations of a pseudo-rectangle triangle and complex-plane loci.
 - [[src_cgen_2002__Q02|Quesito 2]] — Deuxieme partie: equivalent conditions for a pseudo-rectangle triangle, rational/integer side triples, and related Diophantine equations.

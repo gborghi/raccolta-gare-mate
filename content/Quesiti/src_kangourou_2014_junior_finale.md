@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2014/JMaggio-14.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gsyU7EVfAmWfdKlyvCj0UIdYJSndEpVE/view)
 
 - [[src_kangourou_2014_junior_finale__Q01|Quesito 1]] — Minimo visite per svuotare i 15 piattini
 - [[src_kangourou_2014_junior_finale__Q02|Quesito 2]] — Angolo NMB con punti medi di tre corde

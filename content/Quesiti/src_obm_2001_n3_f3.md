@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1i9yemBLDI7hxIseefnK_GZclyK4JXHSC/view)
 
 - [[src_obm_2001_n3_f3__Q01|Quesito 1]] — Prove an inequality between a product and a geometric-mean term for three positive reals
 - [[src_obm_2001_n3_f3__Q02|Quesito 2]] — Greedy coprime sequence: find a_0 for which every term is a prime or a prime power

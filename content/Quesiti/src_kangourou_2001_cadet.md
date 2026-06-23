@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2001/CMarzo-01.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 - [[src_kangourou_2001_cadet__Q01|Quesito 1]] — Forma del foglio ripiegato due volte
 - [[src_kangourou_2001_cadet__Q02|Quesito 2]] — Scatole per impacchettare i kangourou

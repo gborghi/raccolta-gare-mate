@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 - [[src_bmo_1984-85_round1__Q01|Quesito 1]] — Two circles tangent to a line, prove bisection and area ratio
 - [[src_bmo_1984-85_round1__Q02|Quesito 2]] — For a,b,c in (0,1), not all of a(1-b),b(1-c),c(1-a) exceed 1/4

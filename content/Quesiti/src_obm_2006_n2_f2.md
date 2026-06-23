@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
 
 - [[src_obm_2006_n2_f2__Q01|Quesito 1]] — Position of 2006 in a pyramid arrangement of naturals
 - [[src_obm_2006_n2_f2__Q02|Quesito 2]] — Sum of squares of three consecutive integers equals 302

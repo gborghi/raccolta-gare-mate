@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
 
 - [[src_imho_2020__Q01|Quesito 1]] — Angle bisectors and perpendicular bisector meet at a point
 - [[src_imho_2020__Q02|Quesito 2]] — Inequality for reals summing to 1 with a≥b≥c≥d≥0

@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 - [[src_obm_2014_n1_f1__Q01|Quesito 1]] — Analog clock: count how many times the two hands point in a given configuration over a span
 - [[src_obm_2014_n1_f1__Q02|Quesito 2]] — Square cut in half and halves joined into a rectangle; ratio of perimeters

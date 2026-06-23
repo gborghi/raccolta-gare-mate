@@ -33,7 +33,7 @@ tags:
 > Dati due numeri reali positivi a, b definiamo
 > a ⋆b = ab + 1
 > a + b .
-> Quanto vale 1 ⋆(2 ⋆(3 ⋆(· · · (2017 ⋆2018))))?
+> Quanto vale 1 ⋆(2 ⋆(3 ⋆(· · (2017 ⋆2018))))?
 >
 > - **(A)** 1/2018
 > - **(B)** 1
@@ -46,4 +46,4 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)

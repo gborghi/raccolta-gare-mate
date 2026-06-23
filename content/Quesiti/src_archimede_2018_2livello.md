@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2018/soluzioni2018.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
 
 - [[src_archimede_2018_2livello__Q01|Quesito 1]] — Punteggio impossibile in gara a punteggio +5/-1
 - [[src_archimede_2018_2livello__Q02|Quesito 2]] — Sequenze binarie di lunghezza 8 contenenti 01

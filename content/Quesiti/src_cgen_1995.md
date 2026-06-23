@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 - [[src_cgen_1995__Q01|Quesito 1]] — Isobarycenter locus as line varies in plane triangle
 - [[src_cgen_1995__Q02|Quesito 2]] — Convergence of a sequence defined by a square-root recurrence

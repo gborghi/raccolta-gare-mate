@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/PMarzo-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 - [[src_kangourou_2016_preecolier_marzo__Q01|Quesito 1]] — Lettera non presente nella parola KOALA
 - [[src_kangourou_2016_preecolier_marzo__Q02|Quesito 2]] — Quante corde sono disegnate nella figura

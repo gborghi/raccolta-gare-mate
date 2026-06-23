@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
 
 - [[src_bmo1_1987__Q01|Quesito 1]] — Integer solutions of two Diophantine equations
 - [[src_bmo1_1987__Q02|Quesito 2]] — Triangle with angle bisector and point on side; prove AD = DB + BC

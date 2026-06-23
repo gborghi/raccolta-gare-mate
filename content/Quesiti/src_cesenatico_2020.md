@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2020/Cesenatico2020.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1gylN-2GSxpemPcbzJfcfMtzLwdIYnXYe/view)
 
 - [[src_cesenatico_2020__Q01|Quesito 1]] — AC||DE e AE=CD
 - [[src_cesenatico_2020__Q02|Quesito 2]] — b-a primo, cifra unita di a+b =3, ab quadrato

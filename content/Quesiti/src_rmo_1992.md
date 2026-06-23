@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 - [[src_rmo_1992__Q01|Quesito 1]] — Find all integers n such that n²+19n+92 is a perfect square.
 - [[src_rmo_1992__Q02|Quesito 2]] — Positive integers a,b,c with no common factor; (a+b) is a perfect square.

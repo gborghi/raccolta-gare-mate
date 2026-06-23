@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 - [[src_smc_2015__Q01|Quesito 1]] — Evaluate 2015^2 minus 2016 times 2014
 - [[src_smc_2015__Q02|Quesito 2]] — Sum of all solutions of 6x = 150/x

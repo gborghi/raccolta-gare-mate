@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18lLVvuAM_rCLtJyXJxWe8K1xxh4PWMHS/view)
 
 - [[src_jjmo16mq_honsen__Q01|Quesito 1]] — Game on regular k-gon with integers; find all k where B always wins
 - [[src_jjmo16mq_honsen__Q02|Quesito 2]] — 5 people, all pairwise age-sums distinct; find minimum age difference between oldest and youngest

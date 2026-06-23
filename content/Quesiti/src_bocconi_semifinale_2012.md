@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 - [[src_bocconi_semifinale_2012__Q01|Quesito 1]] — Numero di targa letto nello specchietto retrovisore.
 - [[src_bocconi_semifinale_2012__Q02|Quesito 2]] — Riempire i sei mattoncini liberi con i numeri da 2 a 7 in modo che ogni terna attorno a un disco nero sommi 11.

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 - [[src_cgen_1998__Q01|Quesito 1]] — Tetrahedron with two pairs of orthogonal edges; minimize a degree-6 expression
 - [[src_cgen_1998__Q02|Quesito 2]] — Real sequence with floor recurrence; prove periodicity

@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 - [[src_smc_2017__Q01|Quesito 1]] — Which of 2017-2, 2017-1, 2017, 2017+1, 2017+2 is prime?
 - [[src_smc_2017__Q02|Quesito 2]] — Earthworm Dave: 40 cm long, 26 g mass. Find mass per unit length in g/cm.

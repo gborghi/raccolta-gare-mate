@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2023/gas2023ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 - [[src_squadre_2023_femminile__Q01|Quesito 1]] — Somma cifre n di 9999...9 (2023 nove) al quadrato meno uno
 - [[src_squadre_2023_femminile__Q02|Quesito 2]] — Numero di k che dividono 2023 con resto 43

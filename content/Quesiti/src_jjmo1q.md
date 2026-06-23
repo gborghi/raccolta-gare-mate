@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 - [[src_jjmo1q__Q01|Quesito 1]] — Compute a decimal arithmetic expression
 - [[src_jjmo1q__Q02|Quesito 2]] — Solve a symmetric system of three linear equations in x, y, z

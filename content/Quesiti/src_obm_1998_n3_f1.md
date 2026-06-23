@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 - [[src_obm_1998_n3_f1__Q01|Quesito 1]] — Cross-reference to Problem 1 of Level 2 (statement not on these pages).
 - [[src_obm_1998_n3_f1__Q02|Quesito 2]] — Cross-reference to Problem 2 of Level 2 (statement not on these pages).

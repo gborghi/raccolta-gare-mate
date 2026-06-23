@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Student2024RSE.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 - [[src_kangourou_2024_student_semifinale__Q01|Quesito 1]] — Area dell'ottagono regolare con quadrato inscritto di area 2
 - [[src_kangourou_2024_student_semifinale__Q02|Quesito 2]] — Ripartizione eredita inversamente proporzionale alle eta

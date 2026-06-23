@@ -17,6 +17,6 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1QmXSsTHEh8iKBAnrvY3ihkUwt2H-HQyx/view)
 
 - [[src_cgen_2001__Q01|Quesito 1]] — Single problem (Exercice 1) in four parts on 'trios' (a,b,c) with ab+bc+ca=0: geometric loci, integer/primitive trios and counting, a star-product of trios via complex numbers, and the arithmetic of integers represented by u^2+3v^2.

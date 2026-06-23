@@ -21,7 +21,7 @@ tags:
   - fase/1
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
 
 - [[src_obm_2013_n1_f1__Q01|Quesito 1]] — Compute double of: 24 plus triple of 13 minus quadruple of 15
 - [[src_obm_2013_n1_f1__Q02|Quesito 2]] — Count the triangles in the figure

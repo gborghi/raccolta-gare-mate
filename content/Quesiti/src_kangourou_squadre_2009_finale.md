@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/kangaroo_squadre.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 - [[src_kangourou_squadre_2009_finale__Q01|Quesito 1]] — Esiti palline rosse/verdi in due scatole e fuori
 - [[src_kangourou_squadre_2009_finale__Q02|Quesito 2]] — Numero poligoni di un circuito chiuso pentagoni-quadrati

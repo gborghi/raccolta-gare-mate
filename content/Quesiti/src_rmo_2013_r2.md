@@ -18,7 +18,7 @@ tags:
   - regione/r2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uqSSojdtAvGG1PLqgEhOlUA-N31qYiRK/view)
 
 - [[src_rmo_2013_r2__Q01|Quesito 1]] — No integer solutions to (x^5-1)/(x-1)=y^2+1
 - [[src_rmo_2013_r2__Q02|Quesito 2]] — Triangle with altitude, circumcenter, and tangent collinearity

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2014/soluzioni2014.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 - [[src_archimede_2014_febb_2livello__Q01|Quesito 1]] — Probabilita che due tetraedri colorati siano indistinguibili
 - [[src_archimede_2014_febb_2livello__Q02|Quesito 2]] — frase necessariamente vera

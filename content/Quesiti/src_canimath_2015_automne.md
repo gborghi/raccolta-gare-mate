@@ -19,7 +19,7 @@ tags:
   - stagione/automne
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 - [[src_canimath_2015_automne__Q01|Quesito 1]] — Fifteen students eat ice cream in groups of three each evening; every pair eats together exactly once; find how many days the camp lasted.
 - [[src_canimath_2015_automne__Q02|Quesito 2]] — Three digits x>y>z>0; sum of the six three-digit permutations equals 4884; find the possible numbers xyz.

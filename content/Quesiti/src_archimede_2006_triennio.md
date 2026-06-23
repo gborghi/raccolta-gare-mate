@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2006/testo-triennio3.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 - [[src_archimede_2006_triennio__Q01|Quesito 1]] — Cifra unita della pagina successiva divisibile per 3,4,5
 - [[src_archimede_2006_biennio__Q02|Quesito 2]] — Perimetro di una C ottenuta da una corona circolare

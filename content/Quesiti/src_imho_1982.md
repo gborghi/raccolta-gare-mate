@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
 
 - [[src_imho_1982__Q01|Quesito 1]] — Functional equation for non-negative integers, find f(1982)
 - [[src_imho_1982__Q02|Quesito 2]] — Triangle reflections and concurrent lines via angle bisector

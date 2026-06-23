@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2024/Benjamin2024REL.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 - [[src_kangourou_2024_benjamin__Q01|Quesito 1]] — Quale quadrato si ribalta su uno identico piegando il foglio
 - [[src_kangourou_2024_benjamin__Q02|Quesito 2]] — In quale quadrato Mia atterra solo sul piede destro

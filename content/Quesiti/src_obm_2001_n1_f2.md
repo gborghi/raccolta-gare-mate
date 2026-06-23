@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
 
 - [[src_obm_2001_n1_f2__Q01|Quesito 1]] — Total number of dots on all 28 dominoes
 - [[src_obm_2001_n1_f2__Q02|Quesito 2]] — Area of parallelogram in Tangram square dissection

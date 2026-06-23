@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
 
 - [[src_bmo_1996-97_round2__Q01|Quesito 1]] — Divisibility by 7 preserved under digit swaps between two integers
 - [[src_bmo_1996-97_round2__Q02|Quesito 2]] — Triangle with equal median and altitude is equilateral

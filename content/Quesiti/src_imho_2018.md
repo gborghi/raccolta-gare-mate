@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
 
 - [[src_imho_2018__Q01|Quesito 1]] — Circumcircle, perpendicular bisectors, parallel lines in triangle
 - [[src_imho_2018__Q02|Quesito 2]] — Find all integers n≥3 with a specific recurrence on real sequences

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
 
 - [[src_inmo_2011__Q01|Quesito 1]] — Points on sides with equal lengths and equal angles imply equilateral triangle
 - [[src_inmo_2011__Q02|Quesito 2]] — Characterise natural numbers expressible as a+b+c with a|b|c

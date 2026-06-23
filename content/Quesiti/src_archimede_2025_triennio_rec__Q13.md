@@ -31,7 +31,7 @@ tags:
 
 *Interi 1-100 che non dividono il prodotto 50..80*
 
-> Sia K = 50 · 51 · 52 · · · · · 79 · 80 il prodotto dei numeri interi da 50 a 80.
+> Sia K = 50 · 51 · 52 · · · 79 · 80 il prodotto dei numeri interi da 50 a 80.
 > Quanti sono i numeri interi da 1 a 100 (estremi inclusi) che non dividono K?
 >
 > - **(A)** 6
@@ -45,4 +45,4 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)

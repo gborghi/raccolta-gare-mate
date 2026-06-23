@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/BMarzo-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 - [[src_kangourou_2007_benjamin_marzo__Q01|Quesito 1]] — Valore di (2+0+0+7)x2x0x0x7
 - [[src_kangourou_2007_benjamin_marzo__Q02|Quesito 2]] — Numero divisibile per la somma delle sue cifre

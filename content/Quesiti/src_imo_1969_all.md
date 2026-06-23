@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1969_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12FvNr0jk5CMfk7r3Xncci7U9Z2FtRov9/view)
 
 - [[src_imo_1969_all__Q01|Quesito 1]] — Infinitely many a making n^4+a never prime
 - [[src_imo_1969_all__Q02|Quesito 2]] — Common zeros of weighted cosine sum differ by multiple of pi

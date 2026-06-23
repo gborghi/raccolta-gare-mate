@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 - [[src_obm_2004_n1_f2__Q01|Quesito 1]] — Digit sum of a sum of fractions with powers of 2
 - [[src_obm_2004_n1_f2__Q02|Quesito 2]] — Weight before a diet: fat mass changes by 20% then 40%

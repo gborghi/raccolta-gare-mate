@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2015/SQE-F-15.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
 
 - [[src_kangourou_2015_squadre_ecolier_f__Q01|Quesito 1]] — Costo del quotidiano (con inserto totale 1.70)
 - [[src_kangourou_2015_squadre_ecolier_f__Q02|Quesito 2]] — Quante monete da 10 centesimi (20 monete, 5 euro)

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2014/Giochi_Archimede_2014/testi_2014/testo biennio 1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
 
 - [[src_archimede_2014_biennio__Q01|Quesito 1]] — Valore in fufignezi pagato con monete di Gnallucci
 - [[src_archimede_2014_biennio__Q02|Quesito 2]] — Prodotto di numeri periodici (1,3)·(0,3)

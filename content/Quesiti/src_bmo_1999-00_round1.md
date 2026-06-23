@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
 
 - [[src_bmo_1999-00_round1__Q01|Quesito 1]] — Two circles, common tangent; prove MQ bisects angle PMR
 - [[src_bmo_1999-00_round1__Q02|Quesito 2]] — Prove a certain expression in n is divisible by 2000

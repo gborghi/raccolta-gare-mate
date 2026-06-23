@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1U5rz4wEepU-SfkFdqcEOsSXqBT-xtIsB/view)
 
 - [[src_imho_1967__Q01|Quesito 1]] — Parallelogram with four unit circles covering it
 - [[src_imho_1967__Q02|Quesito 2]] — Tetrahedron edge greater than 1 implies volume at most 1/8

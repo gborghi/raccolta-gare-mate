@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
 
 - [[src_imho_2011__Q01|Quesito 1]] — Maximize value of s4 over four-element subsets of positive integers
 - [[src_imho_2011__Q02|Quesito 2]] — Windmill process uses each point as pivot infinitely often

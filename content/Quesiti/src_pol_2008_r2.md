@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
 
 - [[src_pol_2008_r2__Q01|Quesito 1]] — Largest length of a sequence of consecutive integers all of the form x^3+2y^2.
 - [[src_pol_2008_r2__Q02|Quesito 2]] — Convex pentagon with equal-angle conditions; prove AS perpendicular to CD where S is the intersection of diagonals BD and CE.

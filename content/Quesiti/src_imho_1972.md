@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 - [[src_imho_1972__Q01|Quesito 1]] — Two disjoint subsets of ten two-digit numbers with equal sums
 - [[src_imho_1972__Q02|Quesito 2]] — Quadrilateral inscribed in circle can be dissected into inscribable quadrilaterals

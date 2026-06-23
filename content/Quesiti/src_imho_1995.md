@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
 
 - [[src_imho_1995__Q01|Quesito 1]] — Four collinear points, circle intersections, concurrency proof
 - [[src_imho_1995__Q02|Quesito 2]] — Inequality for positive reals with abc=1

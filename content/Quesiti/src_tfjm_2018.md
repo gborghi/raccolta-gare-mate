@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
 - [[src_tfjm_2018__Q01|Quesito 1]] — Counting distinct jigsaw-puzzle pieces (unit squares with bumps/hollows on their sides) and characterizing singular puzzles that can be assembled in essentially one way.
 - [[src_tfjm_2018__Q02|Quesito 2]] — Comparing f(a,b), the number of Euclidean divisions in the standard Euclidean algorithm, with g(a,b), the minimal number using arbitrary earlier remainders, and finding lexicographically smallest pairs.

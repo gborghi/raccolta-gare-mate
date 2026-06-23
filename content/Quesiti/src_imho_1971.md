@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 - [[src_imho_1971__Q01|Quesito 1]] — Prove inequality for arbitrary real numbers, true for n=3,5 false otherwise
 - [[src_imho_1971__Q02|Quesito 2]] — Nine-vertex convex polyhedra sharing a common point

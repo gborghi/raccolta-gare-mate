@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
 
 - [[src_jmo24mq_honsen__Q01|Quesito 1]] — Find angle BAC from a perpendicular bisector condition
 - [[src_jmo24mq_honsen__Q02|Quesito 2]] — Find all positive integer solutions of an exponential equation

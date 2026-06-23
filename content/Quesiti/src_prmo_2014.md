@@ -18,7 +18,7 @@ tags:
   - regione/Mumbai
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 - [[src_prmo_2014__Q01|Quesito 1]] — Largest prime factor of k given k^2 < 2014 < (k+1)^2
 - [[src_prmo_2014__Q02|Quesito 2]] — 2014th term of sequence where each term is sum of cubes of digits of previous

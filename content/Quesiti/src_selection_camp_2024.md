@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 - [[src_selection_camp_2024__Q01|Quesito 1]] — Integer sequence with a recurrence for some fixed shift c
 - [[src_selection_camp_2024__Q02|Quesito 2]] — Isosceles triangle, bisector and reflection, circle; prove equal angles

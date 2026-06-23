@@ -35,7 +35,7 @@ tags:
 
 > Quante sono le coppie di interi positivi (m, n) tali che la frazione m
 > n sia ridotta ai minimi termini e
-> strettamente minore di 1, e che il prodotto mn sia uguale a 1 · 2 · 3 · · · · · 24 · 25 (ovvero al prodotto
+> strettamente minore di 1, e che il prodotto mn sia uguale a 1 · 2 · 3 · · · 24 · 25 (ovvero al prodotto
 > dei primi 25 interi positivi)?
 >
 > - **(A)** 27
@@ -49,4 +49,4 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
-**Fonte:** apri PDF p.3
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)

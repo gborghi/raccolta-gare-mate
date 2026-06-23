@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
 
 - [[src_bmo_2024-25_round2__Q01|Quesito 1]] — Express 1/n as finite sum of distinct triangular reciprocals
 - [[src_bmo_2024-25_round2__Q02|Quesito 2]] — Prove D lies on circle AQP in acute triangle configuration

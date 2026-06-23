@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2024/SQEcolier2024F1.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 - [[src_kangourou_2024_ecolier_squadre__Q01|Quesito 1]] — Più grande numero da rappresentazione codice cifre
 - [[src_kangourou_2024_ecolier_squadre__Q02|Quesito 2]] — Quanti numeri stella tra 2000 e 3000

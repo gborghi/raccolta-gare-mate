@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2012/EMarzo-12.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 - [[src_kangourou_2012_ecolier__Q01|Quesito 1]] — Quale figura ha l'area bianca maggiore della grigia
 - [[src_kangourou_2012_ecolier__Q02|Quesito 2]] — Colori usati per scrivere MATHEMATIC con lettere uguali

@@ -21,7 +21,7 @@ tags:
   - fase/x
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1iSdaRM6CErivk-PPJ0xdts0TClcOGdZN/view)
 
 - [[src_obm_2020_n1_fx__Q01|Quesito 1]] — Rectangle divided by its diagonal into white, grey and blue triangles; find areas and the area of a new rectangle built on the diagonal
 - [[src_obm_2020_n1_fx__Q02|Quesito 2]] — A standard die (opposite faces sum to 7) rolls across a 3x3 board from A to H; determine the top face and the two visible side faces

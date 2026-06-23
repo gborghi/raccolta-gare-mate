@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 - [[src_bmo_1978-79_round1__Q01|Quesito 1]] — Find triangles ABC with AB+AC=2 and altitude AD=sqrt(AB·AC)
 - [[src_bmo_1978-79_round1__Q02|Quesito 2]] — Three rays from O in 3-space; find points with equal-perimeter triangles and express OX

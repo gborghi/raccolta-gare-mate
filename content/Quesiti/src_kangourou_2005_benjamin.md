@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2005/BMarzo-05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 - [[src_kangourou_2005_benjamin__Q01|Quesito 1]] — Valore di 2005x100+2005
 - [[src_kangourou_2005_benjamin__Q02|Quesito 2]] — Quale numero non e multiplo di 3

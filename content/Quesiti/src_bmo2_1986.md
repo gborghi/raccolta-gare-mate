@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
 
 - [[src_bmo2_1986__Q01|Quesito 1]] — Rational centre of direct similarity between two rational triangles
 - [[src_bmo2_1986__Q02|Quesito 2]] — Greatest value of $x^2y + y^2z + z^2x$ subject to two constraints

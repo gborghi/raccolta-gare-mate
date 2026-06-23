@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
 
 - [[src_imho_2014__Q01|Quesito 1]] — Infinite sequence of positive integers with a ratio bound
 - [[src_imho_2014__Q02|Quesito 2]] — Peaceful rook configurations on n×n board with no k×k empty square

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 - [[src_bmo2_2001__Q01|Quesito 1]] — Marbles transferred between two players; find q/p in terms of n
 - [[src_bmo2_2001__Q02|Quesito 2]] — Find all integer pairs satisfying a Diophantine equation

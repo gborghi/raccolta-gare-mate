@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
 
 - [[src_bmo2_2006__Q01|Quesito 1]] — Minimum value of x²+y² with constraint xy(x²−y²)=x²+y²
 - [[src_bmo2_2006__Q02|Quesito 2]] — Find positive integers with prime factors ≤5 satisfying x²−y²=2^k

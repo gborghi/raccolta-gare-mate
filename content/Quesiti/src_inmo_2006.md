@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
 
 - [[src_inmo_2006__Q01|Quesito 1]] — Triangle with AP sides: IO perp BI, I circumcenter of DKE
 - [[src_inmo_2006__Q02|Quesito 2]] — Unique ordered pair (a,b) giving every positive integer n

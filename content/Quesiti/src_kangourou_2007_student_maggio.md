@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2007/SMaggio-07.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1HUfAMVLA7IpFMgDDc-PE2DVK0jJ_IXLH/view)
 
 - [[src_kangourou_2007_student_maggio__QS1|Quesito S1]] — Percorso piu breve sulla superficie del cono
 - [[src_kangourou_2007_student_maggio__QS2|Quesito S2]] — Strategia vincente nel gioco delle 52 carte

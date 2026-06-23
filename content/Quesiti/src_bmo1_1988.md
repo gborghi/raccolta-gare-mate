@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
 
 - [[src_bmo1_1988__Q01|Quesito 1]] — Find all real solutions of nested square root equation
 - [[src_bmo1_1988__Q02|Quesito 2]] — Find all real-valued functions on naturals satisfying f(x+y)=f(x)f(y)

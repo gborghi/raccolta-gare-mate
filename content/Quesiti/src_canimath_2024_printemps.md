@@ -19,7 +19,7 @@ tags:
   - stagione/printemps
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 - [[src_canimath_2024_printemps__Q01|Quesito 1]] — Three numbers sum to 96 with ratio and difference conditions
 - [[src_canimath_2024_printemps__Q02|Quesito 2]] — Parallelogram with equal segments, angle bisector perpendicular to KL

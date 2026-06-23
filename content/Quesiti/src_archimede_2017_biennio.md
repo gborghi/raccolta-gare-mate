@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2017/archimede_biennio_2017.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
 
 - [[src_archimede_2017_biennio__Q01|Quesito 1]] — Cifra delle centinaia di 5^2017
 - [[src_archimede_2017_biennio__Q02|Quesito 2]] — numero furfanti

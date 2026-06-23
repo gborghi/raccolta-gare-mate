@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1993_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
 
 - [[src_imo_1993__Q01|Quesito 1]] — Prove x^n+5x^(n-1)+3 is irreducible over integers
 - [[src_imo_1993__Q02|Quesito 2]] — Compute ratio and prove tangents perpendicular for interior D

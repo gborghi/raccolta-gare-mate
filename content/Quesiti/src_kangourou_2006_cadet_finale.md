@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2006/CMaggio-06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
 
 - [[src_kangourou_2006_cadet_finale__QC1|Quesito C1]] — Frazione grigia tra cerchi concentrici
 - [[src_kangourou_2006_cadet_finale__QC2|Quesito C2]] — Traiettoria del punto medio della sbarra che scivola

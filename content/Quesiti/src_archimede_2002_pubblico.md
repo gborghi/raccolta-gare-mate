@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/nazionale/2002/GaraPubblico2002.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 - [[src_archimede_2002_pubblico__Q01|Quesito 1]] — raggio del quadrilatero
 - [[src_archimede_2002_pubblico__Q02|Quesito 2]] — 40 punti

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1962_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
 
 - [[src_imho_1962__Q01|Quesito 1]] — Minimo n che termina con 6 e diventa quadruplo spostando il 6
 - [[src_imho_1962__Q02|Quesito 2]] — Reali x con sqrt(3-x)-sqrt(x+1) > 1/2

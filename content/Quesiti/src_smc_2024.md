@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 - [[src_smc_2024__Q01|Quesito 1]] — Two-fifths of the recurring decimal 0.25 (with 5 recurring)
 - [[src_smc_2024__Q02|Quesito 2]] — Number of twips (≈0.0000018 m) in a league (≈4800 m)

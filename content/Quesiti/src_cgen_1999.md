@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 - [[src_cgen_1999__Q01|Quesito 1]] — Maximize volume of cylinder and sphere inside a cone
 - [[src_cgen_1999__Q02|Quesito 2]] — Solve in N the equation involving sum of powers

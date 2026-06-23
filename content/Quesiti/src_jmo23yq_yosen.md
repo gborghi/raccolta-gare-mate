@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
 
 - [[src_jmo23yq_yosen__Q01|Quesito 1]] — Minimize x+y+z with lcm 2100
 - [[src_jmo23yq_yosen__Q02|Quesito 2]] — Two 20x13 grids filled in two orders; count matching cells

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 - [[src_bocconi_semifinale_2010__Q01|Quesito 1]] — Addizione con fiammiferi: trovare cifre da eliminare
 - [[src_bocconi_semifinale_2010__Q02|Quesito 2]] — Formica nel labirinto: distanza massima percorribile

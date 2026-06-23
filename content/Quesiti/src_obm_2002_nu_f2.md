@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
 
 - [[src_obm_2002_nu_f2__Q01|Quesito 1]] — Line cuts graph of degree-4 polynomial at 4 equally spaced points
 - [[src_obm_2002_nu_f2__Q02|Quesito 2]] — Symmetric real matrix with row sums 1 and bounded off-diagonal; prove 0 < det A ≤ 1

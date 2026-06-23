@@ -21,7 +21,7 @@ tags:
   - fase/3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1uhVXECvta8Ycz4kch8C6GF4_k1qhNTYm/view)
 
 - [[src_obm_2003_n2_f3__Q01|Quesito 1]] — Count 2x2 grids with integers 1–9 under ordering constraints
 - [[src_obm_2003_n2_f3__Q02|Quesito 2]] — Find smallest prime dividing $x^2+5x+23$ for some integer $x$

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/2livello/2006/febb06.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 - [[src_archimede_2006_2livello__Q01|Quesito 1]] — Cifre del più piccolo quadrato perfetto 'moderno' (concatenando 2006)
 - [[src_archimede_2006_2livello__Q02|Quesito 2]] — Quante affermazioni su cane/gatto possono essere false insieme

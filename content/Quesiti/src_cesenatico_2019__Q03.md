@@ -31,7 +31,7 @@ tags:
 
 *unico modo*
 
-> Sia n un intero maggiore di 2. Si vogliono colorare di rosso esattamente n+1 dei numeri 1, 2, · · · , 2n−1, 2n in
+> Sia n un intero maggiore di 2. Si vogliono colorare di rosso esattamente n+1 dei numeri 1, 2, · · , 2n−1, 2n in
 > modo tale che non ci siano tre numeri distinti x, y, z colorati di rosso che soddisfano l’uguaglianza x + y = z.
 > Dimostrare che esiste uno e un solo modo di scegliere i numeri da colorare di rosso che rispetti la condizione
 > data.
@@ -41,4 +41,4 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** {n+1,...,2n} (unico)
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)

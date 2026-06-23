@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/imho/all/1966_eng.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
 
 - [[src_imo_1966_all__Q01|Quesito 1]] — how many solved only problem B
 - [[src_imo_1966_all__Q02|Quesito 2]] — Prove triangle isosceles from given tangent relation

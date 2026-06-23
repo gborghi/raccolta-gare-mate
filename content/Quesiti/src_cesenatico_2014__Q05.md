@@ -30,10 +30,10 @@ tags:
 *Intero come somma di 2015 potenze 2014-esime in due modi*
 
 > Dimostrare che esiste un intero positivo che può essere scritto come somma di 2015 potenze 2014-esime
-> distinte di interi positivi x1 < x2 < · · · < x2015 in almeno due modi.
+> distinte di interi positivi x1 < x2 < · · < x2015 in almeno due modi.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF p.6
+**Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2005/CMarzo-05.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 - [[src_kangourou_2005_cadet__Q01|Quesito 1]] — Minuti in meta di un terzo di un quarto di giorno
 - [[src_kangourou_2005_cadet__Q02|Quesito 2]] — Lunghezza percorso formica su superficie cubo

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1ozjMAbDlKBC3LLKmoYwAq8Nm_A0MkSaK/view)
 
 - [[src_pol_1993_r3__Q01|Quesito 1]] — Find all rational solutions to a symmetric system in five unknowns.
 - [[src_pol_1993_r3__Q02|Quesito 2]] — Inscribed circle in a trapezoid; prove DE=FC iff AB=2CD.

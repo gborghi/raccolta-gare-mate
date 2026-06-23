@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2016/CMaggio-16.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
 
 - [[src_kangourou_2016_finale_cadet__QC1|Quesito C1]] — lato del triangolo piu grande
 - [[src_kangourou_2016_finale_cadet__QC2|Quesito C2]] — gelato 2 kang con 2 euro

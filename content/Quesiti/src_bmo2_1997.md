@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
 
 - [[src_bmo2_1997__Q01|Quesito 1]] — 9-digit integers M and N: digit replacements always divisible by 7
 - [[src_bmo2_1997__Q02|Quesito 2]] — Triangle with median equal altitude and equal angles implies equilateral

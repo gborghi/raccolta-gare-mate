@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 - [[src_pol_1966_r3__Q01|Quesito 1]] — Common irrational root of two cubic polynomials implies another
 - [[src_pol_1966_r3__Q02|Quesito 2]] — Solve in integers $x^4 + 4y^4 = 2(z^4 + 4u^4)$

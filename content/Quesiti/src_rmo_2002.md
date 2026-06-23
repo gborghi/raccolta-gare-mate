@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
 
 - [[src_rmo_2002__Q01|Quesito 1]] — Feet of cevians are altitudes iff given ratios hold
 - [[src_rmo_2002__Q02|Quesito 2]] — Solve the equation $(x^2+x-2)^4+(2x^2-x-1)^4=27(x^2-1)^4$

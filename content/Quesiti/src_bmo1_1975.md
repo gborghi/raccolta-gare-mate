@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 - [[src_bmo1_1975__Q01|Quesito 1]] — Floor function sum of square roots equals 400
 - [[src_bmo1_1975__Q02|Quesito 2]] — Primes partitioned into two sets, products divisibility

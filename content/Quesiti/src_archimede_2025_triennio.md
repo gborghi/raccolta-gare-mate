@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2025/archimede_2025_triennio.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 - [[src_archimede_2025_triennio__Q01|Quesito 1]] — Colorazioni griglia 3x3 con numero dispari di verdi per riga/colonna
 - [[src_archimede_2025_triennio__Q02|Quesito 2]] — Coordinate della formica dopo 2025 giorni di passi a spirale

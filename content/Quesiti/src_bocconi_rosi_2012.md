@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
 
 - [[src_bocconi_rosi_2012__Q01|Quesito 1]] — Ordine di arrivo corsa campestre
 - [[src_bocconi_rosi_2012__Q02|Quesito 2]] — Numero pari maggiore di 1000 con proprietà sulla metà

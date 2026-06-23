@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2001/JMarzo-01.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 - [[src_kangourou_2001_junior__Q01|Quesito 1]] — Valori possibili della somma di 3 dadi
 - [[src_kangourou_2001_junior__Q02|Quesito 2]] — Posizione di A nella fila

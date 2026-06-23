@@ -18,7 +18,7 @@ tags:
   - regione/r3
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
 
 - [[src_rmo_2016_r3__Q01|Quesito 1]] — Angle bisector tangent to circumcircle, prove angle A=90
 - [[src_rmo_2016_r3__Q02|Quesito 2]] — Prove inequality with three distinct positive reals abc

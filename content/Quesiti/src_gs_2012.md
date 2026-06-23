@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/locale/testi/GS_2012_testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 - [[src_gs_2012__Q01|Quesito 1]] — Rapporto aree tra triangolo e triangolo dei punti medi
 - [[src_gs_2012__Q02|Quesito 2]] — Ultime due cifre del prodotto di f(n)=(200-2n)/n

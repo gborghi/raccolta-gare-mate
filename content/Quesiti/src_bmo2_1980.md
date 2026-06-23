@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 - [[src_bmo2_1980__Q01|Quesito 1]] — Tetrahedra VLMN and VABC sharing vertex V: incentre-centroid coincidence, volume comparison
 - [[src_bmo2_1980__Q02|Quesito 2]] — Find all prime numbers in an integer sequence defined by recurrence

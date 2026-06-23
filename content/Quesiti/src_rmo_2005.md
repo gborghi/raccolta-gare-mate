@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/14uHfQGAx1Ql7Gxjfhz36KBTCxECJwRQt/view)
 
 - [[src_rmo_2005__Q01|Quesito 1]] — Convex quadrilateral with equilateral triangles from midpoints is a rhombus
 - [[src_rmo_2005__Q02|Quesito 2]] — Integers x,y: 17 divides two expressions implies 17 divides third

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
 
 - [[src_jmo34yqa_yosen__Q01|Quesito 1]] — Simplify a nested factorial square root as a reduced fraction
 - [[src_jmo34yqa_yosen__Q02|Quesito 2]] — Find all 3-digit n where n+2024 and n-34 are both prime-digit numbers

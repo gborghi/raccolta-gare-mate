@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2004/testo_triennio3.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 - [[src_archimede_2004_biennio__Q01|Quesito 1]] — Calcoli geometrici sui giri di pista (cavalli/scimmia)
 - [[src_archimede_2004_triennio__Q02|Quesito 2]] — numero di affermazioni vere

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 - [[src_bmo_2019-20_round1__Q01|Quesito 1]] — Find primes p<200 where p,p+2,p+6,p+8,p+12 all prime; unique prime q for q+2,q+6,q+8,q+12,q+14 all prime
 - [[src_bmo_2019-20_round1__Q02|Quesito 2]] — Find all possible values of a_1 in an integer sequence satisfying a recurrence

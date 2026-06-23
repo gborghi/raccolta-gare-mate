@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
 
 - [[src_obm_2000_n1_f2__Q01|Quesito 1]] — Count rectangular parallelepipeds from 24 unit cubes
 - [[src_obm_2000_n1_f2__Q02|Quesito 2]] — Find side length of square I in rectangle divided into 9 squares

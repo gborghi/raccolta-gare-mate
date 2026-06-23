@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2009/BMaggio-09.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19pm5aviRkJPcSDCnWu9e_2Wl9DVc4vb2/view)
 
 - [[src_kangourou_2009_benjamin_maggio__QB1|Quesito B1]] — Quanti modi di sistemare 4 monete su scacchiera 4x4
 - [[src_kangourou_2009_benjamin_maggio__QB2|Quesito B2]] — Pesi delle etichette ancora da preparare

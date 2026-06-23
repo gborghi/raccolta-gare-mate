@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 - [[src_selection_camp_2017__Q01|Quesito 1]] — Binary strings game: find minimum whiteboard count for B to win
 - [[src_selection_camp_2017__Q02|Quesito 2]] — Circumcircle, incenter, foot of perpendicular: lines XD and AM meet on Gamma

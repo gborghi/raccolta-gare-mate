@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2021/Benjamin2021RFIN.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1lcBpucjMyPn19QcdY4x_lBRtIl3fOAD2/view)
 
 - [[src_kangourou_2021_benjamin_finale__Q01|Quesito 1]] — Minuti per riempire il primo recipiente di amebe
 - [[src_kangourou_2021_benjamin_finale__Q02|Quesito 2]] — Correggere 25x2=211 con +1/-1 sulle cifre

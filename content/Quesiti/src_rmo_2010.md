@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1aVby8WZOV-C-DbSWzX_wHkbgcf5ZsISp/view)
 
 - [[src_rmo_2010__Q01|Quesito 1]] — Geometric mean areas in concurrent-diagonal hexagon
 - [[src_rmo_2010__Q02|Quesito 2]] — Three quadratics equal at a point implies coefficients equal

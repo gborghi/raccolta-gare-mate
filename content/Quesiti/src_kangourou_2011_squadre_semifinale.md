@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Kangaroo/kangourou_squadre/2011/SQ-A-11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 - [[src_kangourou_2011_squadre_semifinale__Q01|Quesito 1]] — Ora a S.Francisco all'arrivo del volo da Londra
 - [[src_kangourou_2011_squadre_semifinale__Q02|Quesito 2]] — Valore n con errore di scala mappa e prezzo +6%

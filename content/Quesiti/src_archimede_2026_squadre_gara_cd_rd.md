@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2026/gara_CD_RD_2026_testo.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 - [[src_archimede_2026_squadre_gara_cd_rd__Q01|Quesito 1]] — Probabilità 1000p con almeno un colpo su 3 tentativi
 - [[src_archimede_2026_squadre_gara_cd_rd__Q02|Quesito 2]] — Somma coefficienti grado pari di (3-2x-3x^2)^21

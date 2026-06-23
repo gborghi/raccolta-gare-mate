@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 - [[src_pol_1999_r1__Q01|Quesito 1]] — Prove infinitely many of the numbers 50^n+(50n+1)^50 are composite.
 - [[src_pol_1999_r1__Q02|Quesito 2]] — Prove the inequality (a+b+c+d)^2 <= 3(a^2+b^2+c^2+d^2)+6ab.

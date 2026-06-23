@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Archimede/individuale/1livello/2001/Archimede2001/testibiennio2001.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
 
 - [[src_archimede_2001_biennio__Q01|Quesito 1]] — Ordinamento di tre frazioni a,b,c
 - [[src_archimede_2001_biennio__Q02|Quesito 2]] — Minimo calzini da prendere per una coppia stesso colore

@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 - [[src_pol_2004_r1__Q01|Quesito 1]] — A light ray reflecting inside a rectilinear polygon, starting along an angle bisector, eventually reaches a vertex.
 - [[src_pol_2004_r1__Q02|Quesito 2]] — Existence of a prime $p$ and nonnegative integers $x,y,z$ with $(12x+5)(12y+7)=p^z$.

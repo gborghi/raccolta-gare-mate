@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
 
 - [[src_bocconi_semifinale_2009__Q01|Quesito 1]] — Cifre cancellate in un'addizione verticale
 - [[src_bocconi_semifinale_2009__Q02|Quesito 2]] — Percorso nel labirinto con stanze e corridoi

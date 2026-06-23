@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: `Archimede/squadre/nazionale/2024/gas2024ITA.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 - [[src_squadre_2024_finale__Q01|Quesito 1]] — Area unione tre rettangoli su diagonali, AB=60 BC=80
 - [[src_squadre_2024_finale__Q02|Quesito 2]] — Somma numeri 2 cifre uguali a quadrato decine piu cubo unita

@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 - [[src_obm_2002_n2_f2__Q01|Quesito 1]] — Two walkers leave simultaneously toward each other; find each travel time
 - [[src_obm_2002_n2_f2__Q02|Quesito 2]] — Quarter-circle panel in 4 colors; which color covers the largest area?

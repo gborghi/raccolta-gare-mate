@@ -17,7 +17,7 @@ tags:
   - gara/squadre
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
 
 - [[src_bocconi_squadre_2008__Q01|Quesito 1]] — Età di 5 figli con somma uguale al prodotto
 - [[src_bocconi_squadre_2008__Q02|Quesito 2]] — Contare triangoli in figura

@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2003/BMarzo-03.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 - [[src_kangourou_2003_benjamin__Q01|Quesito 1]] — Operazione col risultato maggiore
 - [[src_kangourou_2003_benjamin__Q02|Quesito 2]] — Euro a disposizione di Tommaso

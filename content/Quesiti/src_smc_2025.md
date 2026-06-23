@@ -18,7 +18,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 - [[src_smc_2025__Q01|Quesito 1]] — Largest perfect cube at most 100 built from 100 small cubes; how many are left over.
 - [[src_smc_2025__Q02|Quesito 2]] — Fraction of equilateral triangle shaded when divided into nine smaller triangles with two additional lines.

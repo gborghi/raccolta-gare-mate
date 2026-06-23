@@ -18,7 +18,7 @@ tags:
   - regione/r2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
 
 - [[src_rmo_2014_r2__Q01|Quesito 1]] — Perpendicular bisectors of sides meet at incentre of triangle BXY
 - [[src_rmo_2014_r2__Q02|Quesito 2]] — Prove inequality for positive reals x, y, z

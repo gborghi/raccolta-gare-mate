@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 - [[src_pol_1983_r3__Q01|Quesito 1]] — Convex n-gon with interior point Q not on any diagonal; prove the number of triangles P_iP_jP_k containing Q is even when n is even.
 - [[src_pol_1983_r3__Q02|Quesito 2]] — Given irrational a in (0,1) and positive integer N, find positive integers p,q,r,s with p/q < a < r/s, r/s - p/q < 1/N, and rq - ps = 1.

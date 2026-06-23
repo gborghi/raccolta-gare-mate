@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
 
 - [[src_obm_2004_nu_f2__Q01|Quesito 1]] — Find f(3) for differentiable function satisfying tangent midpoint condition
 - [[src_obm_2004_nu_f2__Q02|Quesito 2]] — Prove no subset of R^2 has finite columns and countable rows

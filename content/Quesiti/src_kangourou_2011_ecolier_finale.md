@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2011/EMaggio-11.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
 
 - [[src_kangourou_2011_ecolier_finale__QE1|Quesito E1]] — Tutte le ore possibili se orologio scambia 0 e 8 mostrando 20.08
 - [[src_kangourou_2011_ecolier_finale__QE2|Quesito E2]] — Cifra A se 4A=CB e 4B=A

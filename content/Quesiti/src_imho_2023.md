@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 - [[src_imho_2023__Q01|Quesito 1]] — Composite integers n>1 with divisibility condition on divisors
 - [[src_imho_2023__Q02|Quesito 2]] — Circumcircle tangent line meets angle bisector on internal bisector

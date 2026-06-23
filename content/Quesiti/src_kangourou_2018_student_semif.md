@@ -17,7 +17,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: `Kangaroo/kangourou_individuali/2018/Student_Semif_18TESTO.pdf` · apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 - [[src_kangourou_2018_student_semif__Q01|Quesito 1]] — Lunghezza circonferenza C inscritta nell occhio
 - [[src_kangourou_2018_student_semif__Q02|Quesito 2]] — Probabilita che il numero di Alice superi quello di Barbara

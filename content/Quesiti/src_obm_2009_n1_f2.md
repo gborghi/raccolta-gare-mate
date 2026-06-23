@@ -21,7 +21,7 @@ tags:
   - fase/2
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 - [[src_obm_2009_n1_f2__Q01|Quesito 1]] — Cards needed to build a 5-tier house of cards given tiers 1,2,3 use 2,7,15 cards
 - [[src_obm_2009_n1_f2__Q02|Quesito 2]] — 6th grade class: of every 11 students 4 are girls and there are 15 more boys than girls; total students

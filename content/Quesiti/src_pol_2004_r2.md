@@ -19,7 +19,7 @@ tags:
   - gara/individuale
 ---
 
-Sorgente: apri PDF
+Sorgente: [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
 
 - [[src_pol_2004_r2__Q01|Quesito 1]] — Positive reals with cyclic triple-sum power equalities imply all equal
 - [[src_pol_2004_r2__Q02|Quesito 2]] — Concurrent diagonals in convex hexagon with equal sides and angle sum
