@@ -353,7 +353,7 @@ async function init() {
         .map((r) => {
           const n = nation(r)
           const flagInner = n.iso
-            ? `<img class="qt-flag-img" src="https://flagcdn.com/${n.iso}.svg" alt="${esc(n.name)}" loading="lazy">`
+            ? `<img class="qt-flag-img" src="${prefix}static/flags/${n.iso}.svg" alt="${esc(n.name)}" loading="lazy">`
             : `<span class="qt-globe">🌐</span>`
           return (
             `<tr><td class="qt-flag" title="${esc(n.name)}">${flagInner}</td>` +

@@ -35,9 +35,9 @@ function nation(r: { country: string; family: string }): { iso: string | null; n
   const e = ISO[r.country]
   return e ? { iso: e[0], name: e[1] } : { iso: null, name: r.country || "International" }
 }
-function flagCell(n: { iso: string | null; name: string }): string {
+function flagCell(n: { iso: string | null; name: string }, prefix: string): string {
   const inner = n.iso
-    ? `<img class="qt-flag-img" src="https://flagcdn.com/${n.iso}.svg" alt="${esc(n.name)}" loading="lazy">`
+    ? `<img class="qt-flag-img" src="${prefix}static/flags/${n.iso}.svg" alt="${esc(n.name)}" loading="lazy">`
     : `<span class="qt-globe">🌐</span>`
   return `<td class="qt-flag" title="${esc(n.name)}">${inner}</td>`
 }
@@ -221,7 +221,7 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
             (() => {
               const n = nation(r)
               return (
-                `<tr>${flagCell(n)}` +
+                `<tr>${flagCell(n, prefix)}` +
                 `<td>${esc(r.competition)}</td>` +
                 `<td>${esc(r.level)}</td>` +
                 `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
