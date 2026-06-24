@@ -151,8 +151,8 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   pager.className = "qtable-pager"
   const cols: [keyof Quesito, string][] = [
     ["country", "Stato"],
-    ["summary", "Quesito"],
     ["competition", "Gara"],
+    ["summary", "Quesito"],
     ["quesito", "N."],
     ["country", "Nazione"],
     ["level", "Livello"],
@@ -215,8 +215,8 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
               const n = nation(r)
               return (
                 `<tr><td class="qt-flag" title="${esc(n.name)}">${n.flag}</td>` +
-                `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
                 `<td>${esc(r.competition)}</td>` +
+                `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
                 `<td>${esc(String(r.quesito))}</td>` +
                 `<td>${esc(n.name)}</td>` +
                 `<td>${esc(r.level)}</td></tr>`
