@@ -5,6 +5,8 @@ concept_id: method_coordinate
 tags:
   - graph/method
 ---
+<img class="section-decor" src="../static/decor/method_coordinate.webp" alt="" loading="lazy">
+
 
 *method* — **440** quesiti (italiani).
 

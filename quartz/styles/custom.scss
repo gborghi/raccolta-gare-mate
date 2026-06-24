@@ -46,3 +46,17 @@
 .search > .search-container { z-index: 1100 !important; }
 // Drop the search box clearly BELOW the masthead (replaces the fixed 12vh top margin).
 .search > .search-container > .search-space { margin-top: calc(var(--navbar-h) + 2.5rem) !important; }
+
+// --- Decorative section illustration (Clusters/Topics/Methods/Skills pages) ------
+// Injected by preprocess.mjs at the top of the note. Sober, floated, small.
+img.section-decor {
+  float: right;
+  width: clamp(96px, 22%, 168px);
+  height: auto;
+  margin: 0 0 0.8rem 1.2rem;
+  border-radius: 10px;
+  shape-outside: margin-box;
+}
+@media (max-width: 600px) {
+  img.section-decor { float: none; display: block; margin: 0 auto 1rem; width: 140px; }
+}

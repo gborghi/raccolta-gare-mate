@@ -5,6 +5,8 @@ cluster: 'Combinatoria, Logica e Probabilita'
 tags:
   - graph/cluster
 ---
+<img class="section-decor" src="../static/decor/Combinatoria-Logica-e-Probabilita.webp" alt="" loading="lazy">
+
 
 Macro-area. **3328** quesiti.
 

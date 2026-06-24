@@ -5,6 +5,8 @@ concept_id: topic_insiemi_funzioni
 tags:
   - graph/topic
 ---
+<img class="section-decor" src="../static/decor/topic_insiemi_funzioni.webp" alt="" loading="lazy">
+
 
 *topic* — **66** quesiti (italiani).
 

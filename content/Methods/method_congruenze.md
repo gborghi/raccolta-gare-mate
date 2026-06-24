@@ -5,6 +5,8 @@ concept_id: method_congruenze
 tags:
   - graph/method
 ---
+<img class="section-decor" src="../static/decor/method_congruenze.webp" alt="" loading="lazy">
+
 
 *method* — **976** quesiti (italiani).
 

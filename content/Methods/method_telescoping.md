@@ -5,6 +5,8 @@ concept_id: method_telescoping
 tags:
   - graph/method
 ---
+<img class="section-decor" src="../static/decor/method_telescoping.webp" alt="" loading="lazy">
+
 
 *method* — **74** quesiti (italiani).
 

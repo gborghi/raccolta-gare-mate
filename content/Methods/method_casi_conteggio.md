@@ -5,6 +5,8 @@ concept_id: method_casi_conteggio
 tags:
   - graph/method
 ---
+<img class="section-decor" src="../static/decor/method_casi_conteggio.webp" alt="" loading="lazy">
+
 
 *method* — **51** quesiti (italiani).
 

@@ -5,6 +5,8 @@ cluster: Geometria
 tags:
   - graph/cluster
 ---
+<img class="section-decor" src="../static/decor/Geometria.webp" alt="" loading="lazy">
+
 
 Macro-area. **2832** quesiti.
 

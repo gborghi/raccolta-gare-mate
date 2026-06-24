@@ -5,6 +5,8 @@ concept_id: method_colorazione
 tags:
   - graph/method
 ---
+<img class="section-decor" src="../static/decor/method_colorazione.webp" alt="" loading="lazy">
+
 
 *method* — **107** quesiti (italiani).
 

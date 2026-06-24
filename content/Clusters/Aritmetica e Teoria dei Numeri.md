@@ -5,6 +5,8 @@ cluster: Aritmetica e Teoria dei Numeri
 tags:
   - graph/cluster
 ---
+<img class="section-decor" src="../static/decor/Aritmetica-e-Teoria-dei-Numeri.webp" alt="" loading="lazy">
+
 
 Macro-area. **3259** quesiti.
 

@@ -5,6 +5,8 @@ concept_id: method_inclusione_esclusione
 tags:
   - graph/method
 ---
+<img class="section-decor" src="../static/decor/method_inclusione_esclusione.webp" alt="" loading="lazy">
+
 
 *method* — **115** quesiti (italiani).
 

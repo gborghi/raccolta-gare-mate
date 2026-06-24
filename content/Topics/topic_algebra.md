@@ -5,6 +5,8 @@ concept_id: topic_algebra
 tags:
   - graph/topic
 ---
+<img class="section-decor" src="../static/decor/topic_algebra.webp" alt="" loading="lazy">
+
 
 *topic* — **1504** quesiti (italiani).
 

@@ -5,6 +5,8 @@ concept_id: topic_disuguaglianze
 tags:
   - graph/topic
 ---
+<img class="section-decor" src="../static/decor/topic_disuguaglianze.webp" alt="" loading="lazy">
+
 
 *topic* — **130** quesiti (italiani).
 

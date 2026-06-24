@@ -5,6 +5,8 @@ concept_id: topic_funzionali
 tags:
   - graph/topic
 ---
+<img class="section-decor" src="../static/decor/topic_funzionali.webp" alt="" loading="lazy">
+
 
 *topic* — **245** quesiti (italiani).
 

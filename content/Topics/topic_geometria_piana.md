@@ -5,6 +5,8 @@ concept_id: topic_geometria_piana
 tags:
   - graph/topic
 ---
+<img class="section-decor" src="../static/decor/topic_geometria_piana.webp" alt="" loading="lazy">
+
 
 *topic* — **2179** quesiti (italiani).
 

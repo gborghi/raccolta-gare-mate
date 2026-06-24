@@ -5,6 +5,8 @@ concept_id: topic_geometria_analitica
 tags:
   - graph/topic
 ---
+<img class="section-decor" src="../static/decor/topic_geometria_analitica.webp" alt="" loading="lazy">
+
 
 *topic* — **104** quesiti (italiani).
 

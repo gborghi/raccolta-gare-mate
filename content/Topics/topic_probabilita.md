@@ -5,6 +5,8 @@ concept_id: topic_probabilita
 tags:
   - graph/topic
 ---
+<img class="section-decor" src="../static/decor/topic_probabilita.webp" alt="" loading="lazy">
+
 
 *topic* — **314** quesiti (italiani).
 

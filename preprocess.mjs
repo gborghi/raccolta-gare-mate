@@ -166,17 +166,40 @@ async function walk(dir, base = dir, out = []) {
   return out
 }
 
+// Decorative section illustrations (quartz/static/decor/<file>.png) are injected at
+// the top of each Cluster/Topic/Method/Skill note. The decor filename is the note
+// basename sanitized the same way as gen_decor.mjs.
+const DECOR_DIR = path.join(ROOT, "quartz", "static", "decor")
+const DECOR_FOLDERS = new Set(["Clusters", "Topics", "Methods", "Skills"])
+const decorSanitize = (s) => s.replace(/[^A-Za-z0-9_-]+/g, "-")
+let decorSet = new Set()
+
 async function main() {
   await fs.rm(CONTENT, { recursive: true, force: true })
   await fs.mkdir(CONTENT, { recursive: true })
+  try { decorSet = new Set(await fs.readdir(DECOR_DIR)) } catch { decorSet = new Set() }
   const files = await walk(VAULT)
   const quesiti = []
   const kwIndex = {}
   let written = 0
+  let decorated = 0
   for (const rel of files) {
     const raw = await fs.readFile(path.join(VAULT, rel), "utf8")
     const { data, content } = parseFrontmatter(raw)
-    const newContent = transform(content)
+    let newContent = transform(content)
+    // inject decor image for section notes
+    const top = rel.split(path.sep)[0]
+    if (DECOR_FOLDERS.has(top)) {
+      const fileName = decorSanitize(path.basename(rel, ".md")) + ".webp"
+      if (decorSet.has(fileName)) {
+        const slug = slugFromRel(rel)
+        const prefix = "../".repeat((slug.match(/\//g) || []).length)
+        newContent =
+          `<img class="section-decor" src="${prefix}static/decor/${fileName}" alt="" loading="lazy">\n\n` +
+          newContent
+        decorated++
+      }
+    }
     const dest = path.join(CONTENT, rel)
     await fs.mkdir(path.dirname(dest), { recursive: true })
     await fs.writeFile(dest, matter.stringify(newContent, data))

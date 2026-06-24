@@ -5,6 +5,8 @@ concept_id: method_doppio_conteggio
 tags:
   - graph/method
 ---
+<img class="section-decor" src="../static/decor/method_doppio_conteggio.webp" alt="" loading="lazy">
+
 
 *method* — **83** quesiti (italiani).
 

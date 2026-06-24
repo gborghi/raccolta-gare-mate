@@ -5,6 +5,8 @@ cluster: Algebra e Analisi
 tags:
   - graph/cluster
 ---
+<img class="section-decor" src="../static/decor/Algebra-e-Analisi.webp" alt="" loading="lazy">
+
 
 Macro-area. **1829** quesiti.
 

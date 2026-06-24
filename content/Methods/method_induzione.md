@@ -5,6 +5,8 @@ concept_id: method_induzione
 tags:
   - graph/method
 ---
+<img class="section-decor" src="../static/decor/method_induzione.webp" alt="" loading="lazy">
+
 
 *method* — **35** quesiti (italiani).
 

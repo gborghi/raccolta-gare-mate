@@ -5,6 +5,8 @@ concept_id: topic_logica
 tags:
   - graph/topic
 ---
+<img class="section-decor" src="../static/decor/topic_logica.webp" alt="" loading="lazy">
+
 
 *topic* — **1257** quesiti (italiani).
 

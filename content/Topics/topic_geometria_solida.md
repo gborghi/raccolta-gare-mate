@@ -5,6 +5,8 @@ concept_id: topic_geometria_solida
 tags:
   - graph/topic
 ---
+<img class="section-decor" src="../static/decor/topic_geometria_solida.webp" alt="" loading="lazy">
+
 
 *topic* — **603** quesiti (italiani).
 
