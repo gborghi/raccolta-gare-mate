@@ -13,6 +13,7 @@ interface Quesito {
   skills: string[]
   level: string
   country: string
+  family: string
 }
 
 // Country (Italian name) -> flag emoji. Unknown/empty -> globe.
@@ -26,8 +27,11 @@ const FLAGS: Record<string, string> = {
   Francia: "🇫🇷",
   Polonia: "🇵🇱",
 }
-function flag(country: string): string {
-  return FLAGS[country] || "🌐"
+// International competitions (e.g. IMO) are filed under a host country in the data
+// but should display a globe + "Internazionale".
+function nation(r: { country: string; family: string }): { flag: string; name: string } {
+  if (r.family === "imo") return { flag: "🌐", name: "Internazionale" }
+  return { flag: FLAGS[r.country] || "🌐", name: r.country }
 }
 
 let cache: Quesito[] | null = null
@@ -146,6 +150,7 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   const pager = document.createElement("div")
   pager.className = "qtable-pager"
   const cols: [keyof Quesito, string][] = [
+    ["country", "Stato"],
     ["summary", "Quesito"],
     ["competition", "Gara"],
     ["quesito", "N."],
@@ -206,11 +211,17 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
       pageRows
         .map(
           (r) =>
-            `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
-            `<td>${esc(r.competition)}</td>` +
-            `<td>${esc(String(r.quesito))}</td>` +
-            `<td class="qt-flag" title="${esc(r.country)}">${flag(r.country)} ${esc(r.country)}</td>` +
-            `<td>${esc(r.level)}</td></tr>`,
+            (() => {
+              const n = nation(r)
+              return (
+                `<tr><td class="qt-flag" title="${esc(n.name)}">${n.flag}</td>` +
+                `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
+                `<td>${esc(r.competition)}</td>` +
+                `<td>${esc(String(r.quesito))}</td>` +
+                `<td>${esc(n.name)}</td>` +
+                `<td>${esc(r.level)}</td></tr>`
+              )
+            })(),
         )
         .join("") +
       "</tbody>"

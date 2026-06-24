@@ -58,8 +58,10 @@ const FLAGS: Record<string, string> = {
   Francia: "🇫🇷",
   Polonia: "🇵🇱",
 }
-function flag(country: string): string {
-  return FLAGS[country] || "🌐"
+// International competitions (e.g. IMO) are filed under a host country but show a globe.
+function nation(r: { country: string; family: string }): { flag: string; name: string } {
+  if (r.family === "imo") return { flag: "🌐", name: "Internazionale" }
+  return { flag: FLAGS[r.country] || "🌐", name: r.country }
 }
 
 function esc(s: unknown): string {
@@ -329,6 +331,7 @@ async function init() {
         ? `<strong>${total}</strong> quesiti — ${start + 1}–${start + pageRows.length} (pag. ${page}/${pages})`
         : `<strong>${total}</strong> quesiti`
     const cols: [keyof Q, string][] = [
+      ["country", "Stato"],
       ["summary", "Quesito"],
       ["competition", "Gara"],
       ["quesito", "N."],
@@ -347,13 +350,16 @@ async function init() {
     const body =
       "<tbody>" +
       pageRows
-        .map(
-          (r) =>
-            `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
+        .map((r) => {
+          const n = nation(r)
+          return (
+            `<tr><td class="qt-flag" title="${esc(n.name)}">${n.flag}</td>` +
+            `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
             `<td>${esc(r.competition)}</td><td>${esc(r.quesito)}</td>` +
-            `<td class="qt-flag" title="${esc(r.country)}">${flag(r.country)} ${esc(r.country)}</td>` +
-            `<td>${esc(r.level)}</td></tr>`,
-        )
+            `<td>${esc(n.name)}</td>` +
+            `<td>${esc(r.level)}</td></tr>`
+          )
+        })
         .join("") +
       "</tbody>"
     table.innerHTML = head + body
