@@ -333,10 +333,9 @@ async function init() {
     const cols: [keyof Q, string][] = [
       ["country", "Stato"],
       ["competition", "Gara"],
+      ["level", "Livello"],
       ["summary", "Quesito"],
       ["quesito", "N."],
-      ["country", "Nazione"],
-      ["level", "Livello"],
     ]
     const head =
       "<thead><tr>" +
@@ -355,10 +354,9 @@ async function init() {
           return (
             `<tr><td class="qt-flag" title="${esc(n.name)}">${n.flag}</td>` +
             `<td>${esc(r.competition)}</td>` +
+            `<td>${esc(r.level)}</td>` +
             `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
-            `<td>${esc(r.quesito)}</td>` +
-            `<td>${esc(n.name)}</td>` +
-            `<td>${esc(r.level)}</td></tr>`
+            `<td>${esc(r.quesito)}</td></tr>`
           )
         })
         .join("") +

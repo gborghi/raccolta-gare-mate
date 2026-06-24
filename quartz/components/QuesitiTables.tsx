@@ -46,8 +46,8 @@ table.qtable-table th.qtable-th { cursor: pointer; user-select: none; white-spac
 table.qtable-table th.qtable-th:hover { color: var(--secondary); }
 table.qtable-table th.sorted-asc::after { content: " \\2191"; }
 table.qtable-table th.sorted-desc::after { content: " \\2193"; }
-/* col1 flag (Stato), col4 N. centered */
-table.qtable-table td:nth-child(4) { text-align: center; }
+/* col1 flag (Stato), col5 N. centered */
+table.qtable-table td:nth-child(5) { text-align: center; }
 table.qtable-table th:first-child, table.qtable-table td.qt-flag { text-align: center; }
 table.qtable-table td.qt-flag { white-space: nowrap; font-size: 1.15rem; width: 1%; }
 table.qtable-table tr:hover td { background: var(--highlight); }

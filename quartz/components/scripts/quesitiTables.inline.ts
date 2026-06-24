@@ -152,10 +152,9 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   const cols: [keyof Quesito, string][] = [
     ["country", "Stato"],
     ["competition", "Gara"],
+    ["level", "Livello"],
     ["summary", "Quesito"],
     ["quesito", "N."],
-    ["country", "Nazione"],
-    ["level", "Livello"],
   ]
 
   function cmp(a: Quesito, b: Quesito): number {
@@ -216,10 +215,9 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
               return (
                 `<tr><td class="qt-flag" title="${esc(n.name)}">${n.flag}</td>` +
                 `<td>${esc(r.competition)}</td>` +
+                `<td>${esc(r.level)}</td>` +
                 `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
-                `<td>${esc(String(r.quesito))}</td>` +
-                `<td>${esc(n.name)}</td>` +
-                `<td>${esc(r.level)}</td></tr>`
+                `<td>${esc(String(r.quesito))}</td></tr>`
               )
             })(),
         )
