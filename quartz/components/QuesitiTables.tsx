@@ -49,7 +49,12 @@ table.qtable-table th.sorted-desc::after { content: " \\2193"; }
 /* col1 flag (Stato), col5 N. centered */
 table.qtable-table td:nth-child(5) { text-align: center; }
 table.qtable-table th:first-child, table.qtable-table td.qt-flag { text-align: center; }
-table.qtable-table td.qt-flag { white-space: nowrap; font-size: 1.15rem; width: 1%; }
+table.qtable-table td.qt-flag { white-space: nowrap; width: 1%; }
+.qt-flag-img {
+  height: 1.05em; width: auto; vertical-align: -0.15em; border-radius: 2px;
+  box-shadow: 0 0 0 1px var(--lightgray); display: inline-block;
+}
+.qt-globe { font-size: 1.1em; }
 table.qtable-table tr:hover td { background: var(--highlight); }
 .qtable-pager {
   display: flex; gap: 0.3rem; align-items: center; justify-content: center;

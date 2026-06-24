@@ -74,7 +74,12 @@ details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.2r
 .cerca-results th.sorted-desc::after { content: " \\2193"; }
 .cerca-results td:nth-child(5) { text-align: center; }
 .cerca-results th:first-child, .cerca-results td.qt-flag { text-align: center; }
-.cerca-results td.qt-flag { white-space: nowrap; font-size: 1.15rem; width: 1%; }
+.cerca-results td.qt-flag { white-space: nowrap; width: 1%; }
+.cerca-results .qt-flag-img {
+  height: 1.05em; width: auto; vertical-align: -0.15em; border-radius: 2px;
+  box-shadow: 0 0 0 1px var(--lightgray); display: inline-block;
+}
+.cerca-results .qt-globe { font-size: 1.1em; }
 .cerca-results tr:hover td { background: var(--highlight); }
 `
 

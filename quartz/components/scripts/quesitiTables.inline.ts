@@ -16,22 +16,30 @@ interface Quesito {
   family: string
 }
 
-// Country (Italian name) -> flag emoji. Unknown/empty -> globe.
-const FLAGS: Record<string, string> = {
-  Italia: "🇮🇹",
-  Brasile: "🇧🇷",
-  "Regno Unito": "🇬🇧",
-  Giappone: "🇯🇵",
-  India: "🇮🇳",
-  Cina: "🇨🇳",
-  Francia: "🇫🇷",
-  Polonia: "🇵🇱",
+// Country (Italian name) -> [ISO 3166-1 alpha-2, English name]. Flag emoji don't
+// render on Windows (they show "IT"), so we use flagcdn SVG images instead.
+const ISO: Record<string, [string, string]> = {
+  Italia: ["it", "Italy"],
+  Brasile: ["br", "Brazil"],
+  "Regno Unito": ["gb", "United Kingdom"],
+  Giappone: ["jp", "Japan"],
+  India: ["in", "India"],
+  Cina: ["cn", "China"],
+  Francia: ["fr", "France"],
+  Polonia: ["pl", "Poland"],
 }
 // International competitions (e.g. IMO) are filed under a host country in the data
-// but should display a globe + "Internazionale".
-function nation(r: { country: string; family: string }): { flag: string; name: string } {
-  if (r.family === "imo") return { flag: "🌐", name: "Internazionale" }
-  return { flag: FLAGS[r.country] || "🌐", name: r.country }
+// but should show a globe (🌐 renders fine on Windows, unlike flag emoji).
+function nation(r: { country: string; family: string }): { iso: string | null; name: string } {
+  if (r.family === "imo") return { iso: null, name: "International" }
+  const e = ISO[r.country]
+  return e ? { iso: e[0], name: e[1] } : { iso: null, name: r.country || "International" }
+}
+function flagCell(n: { iso: string | null; name: string }): string {
+  const inner = n.iso
+    ? `<img class="qt-flag-img" src="https://flagcdn.com/${n.iso}.svg" alt="${esc(n.name)}" loading="lazy">`
+    : `<span class="qt-globe">🌐</span>`
+  return `<td class="qt-flag" title="${esc(n.name)}">${inner}</td>`
 }
 
 let cache: Quesito[] | null = null
@@ -213,7 +221,7 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
             (() => {
               const n = nation(r)
               return (
-                `<tr><td class="qt-flag" title="${esc(n.name)}">${n.flag}</td>` +
+                `<tr>${flagCell(n)}` +
                 `<td>${esc(r.competition)}</td>` +
                 `<td>${esc(r.level)}</td>` +
                 `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +

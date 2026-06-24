@@ -47,21 +47,22 @@ function getPerPage(): number {
   return PER_PAGE_OPTS.includes(v) ? v : 50
 }
 
-// Country (Italian name) -> flag emoji. Unknown/empty -> globe.
-const FLAGS: Record<string, string> = {
-  Italia: "🇮🇹",
-  Brasile: "🇧🇷",
-  "Regno Unito": "🇬🇧",
-  Giappone: "🇯🇵",
-  India: "🇮🇳",
-  Cina: "🇨🇳",
-  Francia: "🇫🇷",
-  Polonia: "🇵🇱",
+// Country (Italian name) -> [ISO 3166-1 alpha-2, English name]. Flag emoji don't
+// render on Windows, so we use flagcdn SVG images instead.
+const ISO: Record<string, [string, string]> = {
+  Italia: ["it", "Italy"],
+  Brasile: ["br", "Brazil"],
+  "Regno Unito": ["gb", "United Kingdom"],
+  Giappone: ["jp", "Japan"],
+  India: ["in", "India"],
+  Cina: ["cn", "China"],
+  Francia: ["fr", "France"],
+  Polonia: ["pl", "Poland"],
 }
-// International competitions (e.g. IMO) are filed under a host country but show a globe.
-function nation(r: { country: string; family: string }): { flag: string; name: string } {
-  if (r.family === "imo") return { flag: "🌐", name: "Internazionale" }
-  return { flag: FLAGS[r.country] || "🌐", name: r.country }
+function nation(r: { country: string; family: string }): { iso: string | null; name: string } {
+  if (r.family === "imo") return { iso: null, name: "International" }
+  const e = ISO[r.country]
+  return e ? { iso: e[0], name: e[1] } : { iso: null, name: r.country || "International" }
 }
 
 function esc(s: unknown): string {
@@ -351,8 +352,11 @@ async function init() {
       pageRows
         .map((r) => {
           const n = nation(r)
+          const flagInner = n.iso
+            ? `<img class="qt-flag-img" src="https://flagcdn.com/${n.iso}.svg" alt="${esc(n.name)}" loading="lazy">`
+            : `<span class="qt-globe">🌐</span>`
           return (
-            `<tr><td class="qt-flag" title="${esc(n.name)}">${n.flag}</td>` +
+            `<tr><td class="qt-flag" title="${esc(n.name)}">${flagInner}</td>` +
             `<td>${esc(r.competition)}</td>` +
             `<td>${esc(r.level)}</td>` +
             `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
