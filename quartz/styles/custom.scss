@@ -48,15 +48,21 @@
 .search > .search-container > .search-space { margin-top: calc(var(--navbar-h) + 2.5rem) !important; }
 
 // --- Decorative section illustration (Clusters/Topics/Methods/Skills pages) ------
-// Injected by preprocess.mjs at the top of the note. Sober, floated, small.
+// Injected by preprocess.mjs as the first body element. Positioned ABSOLUTELY in the
+// top-right of the centre column so it sits beside the title and takes NO layout space
+// (no vertical or horizontal flow). Anchored to .center (made relative below).
+#quartz-root .center { position: relative; }
 img.section-decor {
-  float: right;
-  width: clamp(96px, 22%, 168px);
-  height: auto;
-  margin: 0 0 0.8rem 1.2rem;
-  border-radius: 10px;
-  shape-outside: margin-box;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 3.25rem;
+  width: auto;
+  margin: 0;
+  opacity: 0.92;
+  pointer-events: none;
+  z-index: 1;
 }
-@media (max-width: 600px) {
-  img.section-decor { float: none; display: block; margin: 0 auto 1rem; width: 140px; }
+@media (max-width: 800px) {
+  img.section-decor { height: 2.5rem; }
 }
