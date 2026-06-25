@@ -6,7 +6,7 @@ parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
 family: archimede
 year: '2013'
-level: ''
+level: Classi Prime
 country: Italia
 modalita: individuale
 quesito: '18'

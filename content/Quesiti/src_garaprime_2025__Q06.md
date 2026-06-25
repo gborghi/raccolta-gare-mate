@@ -6,7 +6,7 @@ parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
 family: archimede
 year: '2025'
-level: ''
+level: Classi Prime
 country: Italia
 modalita: individuale
 quesito: '6'

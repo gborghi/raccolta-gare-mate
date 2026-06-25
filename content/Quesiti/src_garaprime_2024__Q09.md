@@ -6,7 +6,7 @@ parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
 family: archimede
 year: '2024'
-level: ''
+level: Classi Prime
 country: Italia
 modalita: individuale
 quesito: '9'

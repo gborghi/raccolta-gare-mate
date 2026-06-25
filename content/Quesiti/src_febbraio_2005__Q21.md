@@ -6,7 +6,7 @@ parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
 family: archimede
 year: '2005'
-level: ''
+level: 2 livello
 country: Italia
 modalita: individuale
 quesito: '21'

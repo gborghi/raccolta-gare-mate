@@ -6,7 +6,7 @@ parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
 family: archimede
 year: '2016'
-level: ''
+level: Classi Prime
 country: Italia
 modalita: individuale
 quesito: '11'

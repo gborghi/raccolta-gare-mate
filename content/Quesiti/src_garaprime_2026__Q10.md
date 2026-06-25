@@ -6,7 +6,7 @@ parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
 family: archimede
 year: '2026'
-level: ''
+level: Classi Prime
 country: Italia
 modalita: individuale
 quesito: '10'

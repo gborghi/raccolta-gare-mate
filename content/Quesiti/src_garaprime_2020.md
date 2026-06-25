@@ -5,7 +5,7 @@ src_id: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
 family: archimede
 year: '2020'
-level: ''
+level: Classi Prime
 country: Italia
 modalita: individuale
 n_quesiti: '18'

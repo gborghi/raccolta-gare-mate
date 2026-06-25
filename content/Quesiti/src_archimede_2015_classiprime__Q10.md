@@ -6,7 +6,7 @@ parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
 family: archimede
 year: '2015'
-level: ''
+level: Classi Prime
 country: Italia
 modalita: individuale
 quesito: '10'

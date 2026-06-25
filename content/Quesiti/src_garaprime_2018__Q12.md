@@ -6,7 +6,7 @@ parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
 family: archimede
 year: '2018'
-level: ''
+level: Classi Prime
 country: Italia
 modalita: individuale
 quesito: '12'

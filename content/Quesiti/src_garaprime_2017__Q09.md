@@ -6,7 +6,7 @@ parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
 family: archimede
 year: '2017'
-level: ''
+level: Classi Prime
 country: Italia
 modalita: individuale
 quesito: '9'
