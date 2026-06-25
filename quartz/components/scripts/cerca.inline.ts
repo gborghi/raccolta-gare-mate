@@ -334,6 +334,7 @@ async function init() {
     const cols: [keyof Q, string][] = [
       ["country", "Stato"],
       ["competition", "Gara"],
+      ["year", "Anno"],
       ["level", "Livello"],
       ["summary", "Quesito"],
       ["quesito", "N."],
@@ -358,6 +359,7 @@ async function init() {
           return (
             `<tr><td class="qt-flag" title="${esc(n.name)}">${flagInner}</td>` +
             `<td>${esc(r.competition)}</td>` +
+            `<td>${esc(String(r.year))}</td>` +
             `<td>${esc(r.level)}</td>` +
             `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
             `<td>${esc(r.quesito)}</td></tr>`

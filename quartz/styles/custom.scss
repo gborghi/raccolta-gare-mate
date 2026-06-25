@@ -54,9 +54,9 @@
 #quartz-root .center { position: relative; }
 img.section-decor {
   position: absolute;
-  top: 0;
+  top: 1.6rem;        // CSS fallback; JS (quesitiTables) centres it on the title
   right: 0;
-  height: 3.25rem;
+  height: 6.5rem;     // 2x larger
   width: auto;
   margin: 0;
   opacity: 0.92;
@@ -64,5 +64,5 @@ img.section-decor {
   z-index: 1;
 }
 @media (max-width: 800px) {
-  img.section-decor { height: 2.5rem; }
+  img.section-decor { height: 5rem; }
 }

@@ -46,8 +46,8 @@ table.qtable-table th.qtable-th { cursor: pointer; user-select: none; white-spac
 table.qtable-table th.qtable-th:hover { color: var(--secondary); }
 table.qtable-table th.sorted-asc::after { content: " \\2191"; }
 table.qtable-table th.sorted-desc::after { content: " \\2193"; }
-/* col1 flag (Stato), col5 N. centered */
-table.qtable-table td:nth-child(5) { text-align: center; }
+/* col1 flag (Stato), col3 Anno, col6 N. centered */
+table.qtable-table td:nth-child(3), table.qtable-table td:nth-child(6) { text-align: center; }
 table.qtable-table th:first-child, table.qtable-table td.qt-flag { text-align: center; }
 table.qtable-table td.qt-flag { white-space: nowrap; width: 1%; }
 .qt-flag-img {

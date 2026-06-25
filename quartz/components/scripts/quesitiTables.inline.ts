@@ -14,6 +14,7 @@ interface Quesito {
   level: string
   country: string
   family: string
+  year: number | string
 }
 
 // Country (Italian name) -> [ISO 3166-1 alpha-2, English name]. Flag emoji don't
@@ -160,6 +161,7 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   const cols: [keyof Quesito, string][] = [
     ["country", "Stato"],
     ["competition", "Gara"],
+    ["year", "Anno"],
     ["level", "Livello"],
     ["summary", "Quesito"],
     ["quesito", "N."],
@@ -168,7 +170,7 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   function cmp(a: Quesito, b: Quesito): number {
     let av: any = a[sortKey],
       bv: any = b[sortKey]
-    if (sortKey === "quesito") {
+    if (sortKey === "quesito" || sortKey === "year") {
       av = Number(av)
       bv = Number(bv)
     }
@@ -223,6 +225,7 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
               return (
                 `<tr>${flagCell(n, prefix)}` +
                 `<td>${esc(r.competition)}</td>` +
+                `<td>${esc(String(r.year))}</td>` +
                 `<td>${esc(r.level)}</td>` +
                 `<td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
                 `<td>${esc(String(r.quesito))}</td></tr>`
@@ -322,11 +325,32 @@ async function init() {
   }
 }
 
+// Vertically centre the decorative section image on the page title (avoids fragile
+// fixed CSS offsets — breadcrumb height varies). No-op on pages without a decor img.
+function positionDecor() {
+  const img = document.querySelector<HTMLImageElement>("img.section-decor")
+  const title = document.querySelector<HTMLElement>(".center .article-title")
+  const center = img?.closest<HTMLElement>(".center")
+  if (!img || !title || !center) return
+  const place = () => {
+    const c = center.getBoundingClientRect()
+    const t = title.getBoundingClientRect()
+    const top = t.top - c.top + t.height / 2 - img.offsetHeight / 2
+    img.style.top = Math.max(0, Math.round(top)) + "px"
+  }
+  if (img.complete && img.offsetHeight) place()
+  else img.addEventListener("load", place, { once: true })
+  place()
+}
+
 // Re-render on SPA navigation...
 document.addEventListener("nav", () => {
   init()
+  positionDecor()
 })
+window.addEventListener("resize", positionDecor)
 // ...and once on initial load, in case Quartz's spa router already fired its
 // first `nav` before this listener was registered (script ordering). init() is
 // idempotent: the per-placeholder `rendered` flag prevents double work.
 init()
+positionDecor()
