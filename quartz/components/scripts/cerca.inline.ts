@@ -133,7 +133,16 @@ async function init() {
       return String(q[facet.key]) === val
     }
     const tokens = [...selected]
-    return mode === "AND" ? tokens.every(test) : tokens.some(test)
+    if (mode === "AND") return tokens.every(test)
+    // OR mode: OR within the same facet group, AND across different groups.
+    const groups = new Map<string, string[]>()
+    for (const tok of tokens) {
+      const key = tok.split("::")[0]
+      const arr = groups.get(key)
+      if (arr) arr.push(tok)
+      else groups.set(key, [tok])
+    }
+    return [...groups.values()].every((toks) => toks.some(test))
   }
 
   // ---- DOM scaffold ----
