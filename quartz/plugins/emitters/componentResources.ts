@@ -5,10 +5,18 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+// custom (Raccolta Gare): client scripts shipped globally — each self-registers on "nav"
+// @ts-ignore
+import quesitiTablesScript from "../../components/scripts/quesitiTables.inline"
+// @ts-ignore
+import cercaScript from "../../components/scripts/cerca.inline"
+// @ts-ignore
+import navbarScript from "../../components/scripts/navbar.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzComponent } from "../../components/types"
+import { componentRegistry } from "../../components/registry"
 import {
   googleFontHref,
   googleFontSubsetHref,
@@ -27,11 +35,16 @@ type ComponentResources = {
 
 function getComponentResources(ctx: BuildCtx): ComponentResources {
   const allComponents: Set<QuartzComponent> = new Set()
+
   for (const emitter of ctx.cfg.plugins.emitters) {
     const components = emitter.getQuartzComponents?.(ctx) ?? []
     for (const component of components) {
       allComponents.add(component)
     }
+  }
+
+  for (const component of componentRegistry.getAllComponents()) {
+    allComponents.add(component)
   }
 
   const componentResources = {
@@ -241,7 +254,24 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       vercelInsightsScript.defer = true
       document.head.appendChild(vercelInsightsScript)
     `)
+  } else if (cfg.analytics?.provider === "rybbit") {
+    componentResources.afterDOMLoaded.push(`
+      const rybbitScript = document.createElement("script");
+      rybbitScript.src = "${cfg.analytics.host ?? "https://app.rybbit.io"}/api/script.js";
+      rybbitScript.setAttribute("data-site-id", "${cfg.analytics.siteId}");
+      rybbitScript.async = true;
+      rybbitScript.defer = true;
+
+      document.head.appendChild(rybbitScript);
+    `)
   }
+
+  // custom (Raccolta Gare): qtable rendering, /cerca faceted search, navbar height.
+  // Pushed before the SPA router so their "nav" listeners are registered before the
+  // first nav event is dispatched below.
+  componentResources.afterDOMLoaded.push(quesitiTablesScript)
+  componentResources.afterDOMLoaded.push(cercaScript)
+  componentResources.afterDOMLoaded.push(navbarScript)
 
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)
