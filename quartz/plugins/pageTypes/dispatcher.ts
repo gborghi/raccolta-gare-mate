@@ -134,7 +134,9 @@ function populateVirtualPageHtmlAst(
     try {
       const htmlString = render(BodyComponent(componentData))
       const htmlAst = fromHtml(htmlString, { fragment: true }) as HtmlRoot
-      ve.tree.children = htmlAst.children
+      // NOTE: do NOT mutate ve.tree here — it pollutes the emit so the page body
+      // (FolderContent/TagContent) renders the listing into its own content AND as
+      // pageBody, duplicating it. htmlAst (below) is enough for transclusion.
       ve.vfile.data.htmlAst = htmlAst
     } catch {
       // Body rendering failed — leave htmlAst empty so transclusion falls
