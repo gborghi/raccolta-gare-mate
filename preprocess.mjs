@@ -131,6 +131,12 @@ function slugFromRel(rel) {
   const noExt = rel.replace(/\.md$/, "").split(path.sep).join("/")
   return sluggify(noExt)
 }
+// Lowercase only the basename (keep folder case). Quartz v5 emits each page at its
+// FILE path (case-preserved) while OFM resolves wikilinks to lowercase hrefs, so the
+// content filenames must be lowercase for links/graph/backlinks to resolve.
+function loRel(rel) {
+  return path.join(path.dirname(rel), path.basename(rel).toLowerCase())
+}
 
 // Parse dataview body -> {field, values[]} from contains(FIELD, "VAL") pairs
 function parseDataview(body) {
@@ -200,12 +206,12 @@ async function main() {
         decorated++
       }
     }
-    const dest = path.join(CONTENT, rel)
+    const dest = path.join(CONTENT, loRel(rel))
     await fs.mkdir(path.dirname(dest), { recursive: true })
     await fs.writeFile(dest, matter.stringify(newContent, data))
     written++
     if (data.tipo === "quesito") {
-      const href = slugFromRel(rel)
+      const href = slugFromRel(loRel(rel))
       const kw = keywords(content)
       if (kw) kwIndex[href] = kw
       quesiti.push({
