@@ -34,6 +34,8 @@ jobs:
           # og-image (satori) + note-properties over ~19k pages exceeds Node's default
           # heap on the 16 GB GitHub runner; raise the old-space limit to avoid OOM.
           NODE_OPTIONS: --max-old-space-size=13312
+      - name: Connect concept graph (co-occurrence links)
+        run: node concept_cooccurrence.mjs
       - name: Shrink heavy assets for low-RAM mobile
         run: node shrink_build.mjs
       - name: Upload artifact

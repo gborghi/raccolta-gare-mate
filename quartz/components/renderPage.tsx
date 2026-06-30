@@ -270,10 +270,17 @@ export function renderPage(
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
+  // custom (Raccolta Gare): re-inject the build-time base path that upstream sets on
+  // <body>. Community plugins (graph, explorer, search) read body.dataset.basepath at
+  // runtime to strip the GitHub-Pages project prefix from window.location. Without it the
+  // graph keeps the "/raccolta-gare-mate" prefix on the current slug, never matches the
+  // content index, and shows a single isolated node. baseUrl has no protocol by Quartz
+  // convention, so prepend one to parse the path portion ("" when hosted at root).
+  const basePath = cfg.baseUrl ? new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "") : ""
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug}>
+      <body data-slug={slug} data-basepath={basePath}>
         <Navbar {...componentData} />
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
         <div id="quartz-root" class="page" data-frame={frame.name}>

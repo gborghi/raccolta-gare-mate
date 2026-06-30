@@ -121,8 +121,19 @@ plugins:
     layout:
       position: left
       priority: 50
-  - source: github:quartz-community/graph
+  # forked graph plugin (gborghi/graph): on-demand local graph + node cap + concept-only
+  # global map. See plugins/graph (separate repo) for the source.
+  - source: github:gborghi/graph
     enabled: true
+    options:
+      localGraph:
+        maxNodes: 220
+      globalGraph:
+        includeFolders:
+          - Topics
+          - Methods
+          - Skills
+          - Clusters
     layout:
       position: right
       priority: 10
