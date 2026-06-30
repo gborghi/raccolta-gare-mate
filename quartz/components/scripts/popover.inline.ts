@@ -121,7 +121,9 @@ function clearActivePopover() {
 }
 
 function setupPopovers() {
-  const links = [...document.querySelectorAll("a.internal")] as HTMLAnchorElement[]
+  // custom (Raccolta Gare): skip tag links. Tag pages list thousands of quesiti, so
+  // fetching + parsing one on hover is very expensive and pointless as a preview.
+  const links = [...document.querySelectorAll("a.internal:not(.tag-link)")] as HTMLAnchorElement[]
   for (const link of links) {
     link.addEventListener("mouseenter", mouseEnterHandler)
     link.addEventListener("mouseleave", clearActivePopover)

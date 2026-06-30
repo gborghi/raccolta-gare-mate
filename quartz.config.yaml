@@ -118,6 +118,12 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      # Exclude the Quesiti folder (~19,356 entries) from the file tree — it would build
+      # ~19k DOM nodes on every load (the heaviest client cost). Browse quesiti via /cerca.
+      # Keep the default `tags` exclusion. (filterFn is serialized to the client as a
+      # string and re-hydrated there, so a string body works from YAML.)
+      filterFn: "(node) => node.slugSegment !== 'tags' && node.slugSegment !== 'Quesiti'"
     layout:
       position: left
       priority: 50

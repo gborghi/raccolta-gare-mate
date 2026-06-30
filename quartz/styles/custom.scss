@@ -212,3 +212,22 @@ details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.2r
 }
 .cerca-results .qt-globe { font-size: 1.1em; }
 .cerca-results tr:hover td { background: var(--highlight); }
+
+// Properties table — tags. Upstream note-properties uses `display: inline-flex` with no
+// wrap; inside a `table-layout: fixed` value cell the chips can't fit on one line so flex
+// shrinks each one until its text wraps a character per line (vertical squish). Lay them
+// out as a wrapping row of non-shrinking chips so each tag's text stays horizontal.
+.note-properties .note-properties-tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0.4rem;
+
+  .tag-link {
+    flex: 0 0 auto;
+    white-space: nowrap;
+  }
+
+  // the literal ", " separators are redundant once chips wrap with a gap
+  .note-properties-separator { display: none; }
+}
