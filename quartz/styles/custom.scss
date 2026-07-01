@@ -59,6 +59,11 @@
   .navbar-brand { justify-self: center; }
   .navbar-logo { height: 2.5rem; }
   .navbar-links a { padding: 0.3rem 0.6rem; font-size: 0.85rem; }
+  // The mobile explorer drawer defaults to ~100vw but is absolutely positioned
+  // inside the left sidebar's padding (left ≈ 16px), so it spilled ~16px past the
+  // right edge → horizontal page scroll → the width:100% sticky navbar appeared to
+  // under-cover on the right. Constrain it to its (padded) container instead.
+  .explorer-content { width: 100% !important; right: 0 !important; }
 }
 
 // --- Navbar offset / search popout (mirrors maturità) -------------------------
